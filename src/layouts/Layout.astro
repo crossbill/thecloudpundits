@@ -1,0 +1,73 @@
+---
+const {
+  title = "The Cloud Pundits",
+  description = "Cloud, AI, DevOps, FinOps and Security Intelligence"
+} = Astro.props;
+---
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{title}</title>
+  <meta name="description" content={description} />
+
+  <link rel="stylesheet" href="/styles/global.css" />
+</head>
+
+<body>
+
+<!-- ================= HEADER ================= -->
+<header class="header">
+
+  <!-- BRAND -->
+  <div class="brand">
+    <div class="brand-title">The Cloud Pundits</div>
+    <div class="brand-subtitle">
+      Cloud • AI • DevOps • FinOps • SecOps
+    </div>
+  </div>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <a href="/">Home</a>
+    <a href="/cloud">Cloud</a>
+    <a href="/ai">AI</a>
+    <a href="/devops">DevOps</a>
+    <a href="/finops">FinOps</a>
+    <a href="/secops">SecOps</a>
+  </nav>
+
+</header>
+
+<!-- ================= MAIN ================= -->
+<main class="container">
+
+  <!-- optional page header slot -->
+  <div class="page-header">
+    <h1>{title}</h1>
+  </div>
+
+  <slot />
+</main>
+
+<!-- ================= FOOTER ================= -->
+<footer class="footer">
+
+  <div class="footer-title">
+    The Cloud Pundits
+  </div>
+
+  <div class="footer-text">
+    Cloud • AI • DevOps • FinOps • Security Intelligence Platform
+  </div>
+
+  <div class="footer-copy">
+    © Crossbill Ltd — All Rights Reserved
+  </div>
+
+</footer>
+
+</body>
+</html>

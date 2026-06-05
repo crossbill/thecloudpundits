@@ -1,0 +1,22 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getNews } from "../lib/news";
+
+const data = getNews("secops");
+---
+
+<Layout title="SecOps">
+
+<h2 class="section-title">🔐 SecOps News</h2>
+
+<div class="grid">
+  {data.map(i => (
+    <a class="card secops" href={i.link} target="_blank">
+      <span class="topic-pill">SecOps</span>
+      <h3>{i.title}</h3>
+      <p>{i.desc}</p>
+    </a>
+  ))}
+</div>
+
+</Layout>

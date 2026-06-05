@@ -1,0 +1,33 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getNews } from "../lib/news";
+
+const data = getNews("devops");
+---
+
+<Layout title="DevOps">
+
+<h2 class="section-title">⚙️ DevOps News</h2>
+
+<div class="grid">
+  {data.map(i => (
+    <a
+      class={`card ${i.topic || "general"}`}
+      href={i.link}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <span class="topic-pill">
+        {i.topic || "DevOps"}
+      </span>
+
+      <h3>{i.title}</h3>
+
+      <p>
+        {i.desc}
+      </p>
+    </a>
+  ))}
+</div>
+
+</Layout>
