@@ -1,0 +1,82 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # hourly feed update
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps
+        run: |
+          pip install feedparser
+
+      - name: Run feed updater
+        run: |
+          python scripts/update_feed.py
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add public/data/*.json
+
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update feeds"
+
+      - name: Push changes
+        run: |
+          git push
+
+  build:
+    needs: update-feeds
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Astro site
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  #deploy:
+  #  needs: build
+  #  runs-on: ubuntu-latest
+
+  #  steps:
+  #    - name: Deploy to GitHub Pages
+  #      uses: actions/deploy-pages@v4
