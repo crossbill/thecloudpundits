@@ -1,50 +1,50 @@
 [
   {
-    "title": "CI/CD Pipelines: How Your Code Goes from a Laptop to the Real World",
-    "desc": "<p><em>Pipeline & Prompts | Byte size guides on DevOps, Cloud and AI</em></p>\n\n\n\n\n<h2>\n  \n  \n  The First Time I Saw a Pipeline Run\n</h2>\n\n<p",
-    "link": "https://dev.to/agenticdevops/cicd-pipelines-how-your-code-goes-from-a-laptop-to-the-real-world-c76",
+    "title": "Build a UCP Watchdog: Catch the Production Breaks Your CI Never Will",
+    "desc": "<p>You wired UCP validation into CI. Every push runs the checks, every PR gets a score, and a bad profile fails the build before it merges. ",
+    "link": "https://dev.to/ucptools/build-a-ucp-watchdog-catch-the-production-breaks-your-ci-never-will-18jh",
     "topic": "general"
   },
   {
-    "title": "Generative AI and Agentic AI: From Answering Questions to Taking Action",
-    "desc": "<p><em>Pipeline & Prompts | Byte size guides on DevOps, Cloud and AI</em></p>\n\n\n\n\n<h2>\n  \n  \n  The Meeting That Changed How I Prepare\n</h2>\n",
-    "link": "https://dev.to/agenticdevops/generative-ai-and-agentic-ai-from-answering-questions-to-taking-action-2il9",
+    "title": "Docker for Beginners (2026): From Zero to Your First Dockerfile",
+    "desc": "<blockquote>\n<p>\ud83d\udccc <strong>This article was originally published on <a href=\"https://elearning.sherdil.org/pages/docker-tutorial-pakistan-beg",
+    "link": "https://dev.to/elearning_sherdil_783bbb/docker-for-beginners-2026-from-zero-to-your-first-dockerfile-4b8d",
+    "topic": "docker"
+  },
+  {
+    "title": "Which Cloud Provider Gives the Best Price-to-Performance in june 2026?",
+    "desc": "<p>Cloud hosting pricing is difficult to compare because providers use different billing models, different unit definitions, and different l",
+    "link": "https://dev.to/comparedge/which-cloud-provider-gives-the-best-price-to-performance-in-june-2026-g65",
     "topic": "general"
   },
   {
-    "title": "Need a cloud person for a hackathon team",
-    "desc": "<p>Any cloud people here? \ud83d\udc40</p>\n\n<p>I've got basically 0 cloud knowledge, but a hackathon I'm looking at seems to need someone who actually ",
-    "link": "https://dev.to/casperday11/need-a-cloud-person-for-a-hackathon-team-2fgb",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-8j0",
     "topic": "general"
   },
   {
-    "title": "Ship Git Projects Faster with gsd-core: The Ultimate Automation Tool",
-    "desc": "<p>Are you tired of repetitive Git commands and manual release processes? Every developer knows the pain: branching, committing, merging, ta",
-    "link": "https://dev.to/matengtian/ship-git-projects-faster-with-gsd-core-the-ultimate-automation-tool-4dl4",
+    "title": "Vs Focus Drills: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/vs-focus-drills-what-we-learned-building-random-tactical-timer-1h4c",
     "topic": "general"
   },
   {
-    "title": "Blocked for Days? How to Navigate Enterprise Support Black Holes and Save Your Software Project Plan",
-    "desc": "<p>Imagine your entire development team, a small business reliant on a critical SaaS platform like GitHub Enterprise, suddenly grinding to a",
-    "link": "https://dev.to/devactivity/blocked-for-days-how-to-navigate-enterprise-support-black-holes-and-save-your-software-project-plan-m99",
+    "title": "Mastering Autonomous Threat Hunting with Edge-First ML",
+    "desc": "<h2>\n  \n  \n  The Evolution of Modern Threat Hunting\n</h2>\n\n<p>In the contemporary cybersecurity landscape, the battle between defenders and ",
+    "link": "https://dev.to/hookprobe/mastering-autonomous-threat-hunting-with-edge-first-ml-95m",
     "topic": "general"
   },
   {
-    "title": "Top 10 Non-Human Identity Security Tools and Platforms for 2026",
-    "desc": "<p><strong>TL;DR:</strong> Non-human identities (service accounts, API keys, workload identities, certificates, OAuth apps, machine-to-machi",
-    "link": "https://dev.to/gitguardian/top-10-non-human-identity-security-tools-and-platforms-for-2026-1mcc",
-    "topic": "secops"
-  },
-  {
-    "title": "The Brain runs on a schedule now",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://mihaibuilds.com/blog/the-brain-runs-on-a-schedule-now.html\" rel=\"noopener noreferre",
-    "link": "https://dev.to/mihaibuildsdev/the-brain-runs-on-a-schedule-now-31ch",
+    "title": "I deleted a working server to save a recurring fee",
+    "desc": "<p>April 24, 2026. I logged into the Hetzner panel, clicked into the CPX31, typed the confirmation, and pulled the trigger. The little green",
+    "link": "https://dev.to/chiefmojo79/i-deleted-a-working-server-to-save-a-recurring-fee-3cn0",
     "topic": "general"
   },
   {
-    "title": "Deploy Secure-by-Default Domains: Google Registry TLDs with Mandatory",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Google Registry TLDs like .dev and .app come with mandatory HTTPS through HSTS preload, eliminating ",
-    "link": "https://dev.to/julianneagu/deploy-secure-by-default-domains-google-registry-tlds-with-mandatory-59pj",
+    "title": "Monitor a Shopify App You Built: Webhooks and OAuth",
+    "desc": "<p>** The quick version: To monitor a Shopify app you built, run a no-code API monitor on your webhook receiver and a second one on your app",
+    "link": "https://dev.to/velprove/monitor-a-shopify-app-you-built-webhooks-and-oauth-31hk",
     "topic": "general"
   }
 ]
