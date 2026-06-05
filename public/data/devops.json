@@ -1,50 +1,50 @@
 [
   {
-    "title": "20 Lessons I Learned in Server Management",
-    "desc": "<p>Server management, in my opinion, is more like people management than software development. After twenty years, I realized that my bigges",
-    "link": "https://dev.to/merbayerp/20-lessons-i-learned-in-server-management-38eo",
+    "title": "Your Application Was Secure. The Framework Wasn't: Understanding Apache Struts",
+    "desc": "<p>Imagine you're building a large web application.</p>\n\n<p>Your team spends months writing code.</p>\n\n<p>You review pull requests.</p>\n\n<p>",
+    "link": "https://dev.to/arashad_dodhiya_0e4bdba5a/your-application-was-secure-the-framework-wasnt-understanding-apache-struts-2b0l",
     "topic": "general"
   },
   {
-    "title": "AI API Cost Attribution in 2026: A Practical Guide to LLM Cost Per Request",
-    "desc": "<ul>\n<li>Aggregate AI bills hide which team, feature, and workflow actually created spend.</li>\n<li>Request-level attribution starts with a ",
-    "link": "https://dev.to/void_stitch/ai-api-cost-attribution-in-2026-a-practical-guide-to-llm-cost-per-request-5a9k",
+    "title": "The Website Was Supposed to Show Images. It Started Showing Server Files.",
+    "desc": "<p>Imagine you're building a simple website.</p>\n\n<p>The website stores images like:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<",
+    "link": "https://dev.to/arashad_dodhiya_0e4bdba5a/the-website-was-supposed-to-show-images-it-started-showing-server-files-58p3",
     "topic": "general"
   },
   {
-    "title": "Everything's Green Cap.",
-    "desc": "<p>My AI told me the job was done. My container said it was running. My firewall said it was up.</p>\n\n<p>All three were lying.</p>\n\n<p>I run",
-    "link": "https://dev.to/p4r4n0id/everythings-green-cap-3586",
+    "title": "GitHub Actions at Enterprise Scale: The Identity-First Platform That Took Us from 3 Teams to 1,000 Repos",
+    "desc": "<h2>\n  \n  \n  Copy-Paste Workflows Don't Scale\n</h2>\n\n<p>Every platform team hits the same wall. You start with a handful of repos, each with",
+    "link": "https://dev.to/htekdev/github-actions-at-enterprise-scale-the-identity-first-platform-that-took-us-from-3-teams-to-1000-4b88",
     "topic": "general"
   },
   {
-    "title": "Revisiting Web App Discovery",
-    "desc": "<p>Web applications continue to increase in number. But there\u2019s still nothing systematic about the process of discovering them.</p>\n\n<p>Most",
-    "link": "https://dev.to/saramagina/revisiting-web-app-discovery-3m6i",
+    "title": "You're Not Doing GitOps (You're Doing CI/CD With Extra Steps)",
+    "desc": "<h2>\n  \n  \n  The Uncomfortable Truth\n</h2>\n\n<p>Here's a test: when your deployment fails in production, what happens to your <code>main</cod",
+    "link": "https://dev.to/htekdev/youre-not-doing-gitops-youre-doing-cicd-with-extra-steps-1467",
     "topic": "general"
+  },
+  {
+    "title": "How I Made Deployment Reviews Remember Incidents With Hindsight",
+    "desc": "<p>Most deployment review agents have the same weakness: they can inspect the current change, but they forget what the organization already ",
+    "link": "https://dev.to/avnish_raj_c56f7819d95ad8/how-i-made-deployment-reviews-remember-incidents-with-hindsight-1ldn",
+    "topic": "secops"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2f2k",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-19i8",
     "topic": "general"
   },
   {
-    "title": "30/60 Days System Design Questions!",
-    "desc": "<p>You're building a file upload service. 10TB of user files today. 100TB in 12 months.</p>\n\n<p>Your team is having a fight.</p>\n\n<p>The bac",
-    "link": "https://dev.to/thejoud1997/3060-days-system-design-questions-13im",
+    "title": "Release on Demand",
+    "desc": "<p>There's a calendar invite on your team's shared calendar called something like <strong>\"Release Window.\"</strong> Maybe it's every other ",
+    "link": "https://dev.to/imacto/release-on-demand-4cpm",
     "topic": "general"
   },
   {
-    "title": "The Website Was Working Fine. The CMS Wasn't: Understanding Drupalgeddon2",
-    "desc": "<p>Imagine you're responsible for a company's website.</p>\n\n<p>Everything seems healthy.</p>\n\n<p>Pages load quickly.</p>\n\n<p>Users can log i",
-    "link": "https://dev.to/arashad_dodhiya_0e4bdba5a/the-website-was-working-fine-the-cms-wasnt-understanding-drupalgeddon2-215m",
-    "topic": "general"
-  },
-  {
-    "title": "DevPilot: I Built the IDP I Wish Existed as a DevOps Engineer",
-    "desc": "<h1>\n  \n  \n  DevPilot: How I Finally Finished My IDP After Abandoning It for a Year\n</h1>\n\n<h2>\n  \n  \n  What I Built\n</h2>\n\n<p><strong>DevPi",
-    "link": "https://dev.to/pavan_s_7438006da5249fe71/devpilot-i-built-the-idp-i-wish-existed-as-a-devops-engineer-mn5",
-    "topic": "general"
+    "title": "Applying Checkov to Terraform as Code: A TFSEC Alternative",
+    "desc": "<p>Infrastructure as Code (IaC) brings version control to infrastructure, but it also introduces the risk of deploying architecture-level mi",
+    "link": "https://dev.to/ikers/applying-checkov-to-terraform-as-code-a-tfsec-alternative-3nga",
+    "topic": "terraform"
   }
 ]
