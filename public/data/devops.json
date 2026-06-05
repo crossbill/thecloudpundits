@@ -1,50 +1,50 @@
 [
   {
-    "title": "Build a UCP Watchdog: Catch the Production Breaks Your CI Never Will",
-    "desc": "<p>You wired UCP validation into CI. Every push runs the checks, every PR gets a score, and a bad profile fails the build before it merges. ",
-    "link": "https://dev.to/ucptools/build-a-ucp-watchdog-catch-the-production-breaks-your-ci-never-will-18jh",
+    "title": "20 Lessons I Learned in Server Management",
+    "desc": "<p>Server management, in my opinion, is more like people management than software development. After twenty years, I realized that my bigges",
+    "link": "https://dev.to/merbayerp/20-lessons-i-learned-in-server-management-38eo",
     "topic": "general"
   },
   {
-    "title": "Docker for Beginners (2026): From Zero to Your First Dockerfile",
-    "desc": "<blockquote>\n<p>\ud83d\udccc <strong>This article was originally published on <a href=\"https://elearning.sherdil.org/pages/docker-tutorial-pakistan-beg",
-    "link": "https://dev.to/elearning_sherdil_783bbb/docker-for-beginners-2026-from-zero-to-your-first-dockerfile-4b8d",
-    "topic": "docker"
+    "title": "AI API Cost Attribution in 2026: A Practical Guide to LLM Cost Per Request",
+    "desc": "<ul>\n<li>Aggregate AI bills hide which team, feature, and workflow actually created spend.</li>\n<li>Request-level attribution starts with a ",
+    "link": "https://dev.to/void_stitch/ai-api-cost-attribution-in-2026-a-practical-guide-to-llm-cost-per-request-5a9k",
+    "topic": "general"
   },
   {
-    "title": "Which Cloud Provider Gives the Best Price-to-Performance in june 2026?",
-    "desc": "<p>Cloud hosting pricing is difficult to compare because providers use different billing models, different unit definitions, and different l",
-    "link": "https://dev.to/comparedge/which-cloud-provider-gives-the-best-price-to-performance-in-june-2026-g65",
+    "title": "Everything's Green Cap.",
+    "desc": "<p>My AI told me the job was done. My container said it was running. My firewall said it was up.</p>\n\n<p>All three were lying.</p>\n\n<p>I run",
+    "link": "https://dev.to/p4r4n0id/everythings-green-cap-3586",
+    "topic": "general"
+  },
+  {
+    "title": "Revisiting Web App Discovery",
+    "desc": "<p>Web applications continue to increase in number. But there\u2019s still nothing systematic about the process of discovering them.</p>\n\n<p>Most",
+    "link": "https://dev.to/saramagina/revisiting-web-app-discovery-3m6i",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-8j0",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2f2k",
     "topic": "general"
   },
   {
-    "title": "Vs Focus Drills: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/vs-focus-drills-what-we-learned-building-random-tactical-timer-1h4c",
+    "title": "30/60 Days System Design Questions!",
+    "desc": "<p>You're building a file upload service. 10TB of user files today. 100TB in 12 months.</p>\n\n<p>Your team is having a fight.</p>\n\n<p>The bac",
+    "link": "https://dev.to/thejoud1997/3060-days-system-design-questions-13im",
     "topic": "general"
   },
   {
-    "title": "Mastering Autonomous Threat Hunting with Edge-First ML",
-    "desc": "<h2>\n  \n  \n  The Evolution of Modern Threat Hunting\n</h2>\n\n<p>In the contemporary cybersecurity landscape, the battle between defenders and ",
-    "link": "https://dev.to/hookprobe/mastering-autonomous-threat-hunting-with-edge-first-ml-95m",
+    "title": "The Website Was Working Fine. The CMS Wasn't: Understanding Drupalgeddon2",
+    "desc": "<p>Imagine you're responsible for a company's website.</p>\n\n<p>Everything seems healthy.</p>\n\n<p>Pages load quickly.</p>\n\n<p>Users can log i",
+    "link": "https://dev.to/arashad_dodhiya_0e4bdba5a/the-website-was-working-fine-the-cms-wasnt-understanding-drupalgeddon2-215m",
     "topic": "general"
   },
   {
-    "title": "I deleted a working server to save a recurring fee",
-    "desc": "<p>April 24, 2026. I logged into the Hetzner panel, clicked into the CPX31, typed the confirmation, and pulled the trigger. The little green",
-    "link": "https://dev.to/chiefmojo79/i-deleted-a-working-server-to-save-a-recurring-fee-3cn0",
-    "topic": "general"
-  },
-  {
-    "title": "Monitor a Shopify App You Built: Webhooks and OAuth",
-    "desc": "<p>** The quick version: To monitor a Shopify app you built, run a no-code API monitor on your webhook receiver and a second one on your app",
-    "link": "https://dev.to/velprove/monitor-a-shopify-app-you-built-webhooks-and-oauth-31hk",
+    "title": "DevPilot: I Built the IDP I Wish Existed as a DevOps Engineer",
+    "desc": "<h1>\n  \n  \n  DevPilot: How I Finally Finished My IDP After Abandoning It for a Year\n</h1>\n\n<h2>\n  \n  \n  What I Built\n</h2>\n\n<p><strong>DevPi",
+    "link": "https://dev.to/pavan_s_7438006da5249fe71/devpilot-i-built-the-idp-i-wish-existed-as-a-devops-engineer-mn5",
     "topic": "general"
   }
 ]
