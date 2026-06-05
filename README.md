@@ -1,2 +1,1 @@
-# thecloudpundits
-Blog Website
+# The CLoud Pundits
