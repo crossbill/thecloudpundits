@@ -31,7 +31,7 @@ jobs:
 
       - name: Run feed updater
         run: |
-          python scripts/update_feed.py
+          python scripts/update_feeds.py
 
       - name: Commit updated JSON
         run: |
