@@ -1,50 +1,50 @@
 [
   {
-    "title": "Autonomous Server Debugging with Batuta AI\u2019s ReAct Loop",
-    "desc": "<blockquote>\n<p>Originally published at <a href=\"https://orquesta.live/blog/autonomous-server-debugging-batuta-ai-react-loop-2026-06-06\" rel",
-    "link": "https://dev.to/orquesta_live/autonomous-server-debugging-with-batuta-ais-react-loop-cpj",
+    "title": "How We Stopped Losing 45 Minutes Every Time Production Broke",
+    "desc": "<p>Every engineering team has a version of this story.</p>\n\n<p>It\u2019s 2 AM. Redis is down. The on-call engineer opens Slack, searches \u201cRedis E",
+    "link": "https://dev.to/akshara_sharma_0af28d91dc/how-we-stopped-losing-45-minutes-every-time-production-broke-2l53",
     "topic": "general"
   },
   {
-    "title": "The Engineering Hiring Screen That Predicts Actual Job Performance",
-    "desc": "<p>The standard engineering hiring screen, LeetCode-style algorithm problems, timed under pressure, on a platform with an unfamiliar IDE, me",
-    "link": "https://dev.to/crescevo/the-engineering-hiring-screen-that-predicts-actual-job-performance-1bla",
-    "topic": "general"
-  },
-  {
-    "title": "Frontend on Kubernetes? Yes, and here\u2019s why you\u2019d want it",
-    "desc": "<p>Let me guess.</p>\n\n<p>You\u2019re a frontend developer. You just finished a beautiful Next.js app. Smooth animations. Perfect Lighthouse score",
-    "link": "https://dev.to/sohanaakbar7/frontend-on-kubernetes-yes-and-heres-why-youd-want-it-5cnl",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "15-Package Monorepo Deep Dive: How We Architected WAIaaS for Scale",
-    "desc": "<p>Building a 15-package monorepo isn't just about organizing code\u2014it's about creating a foundation that can scale from a single AI agent to",
-    "link": "https://dev.to/walletguy/15-package-monorepo-deep-dive-how-we-architected-waiaas-for-scale-ki8",
+    "title": "The On-Call Rotation Design That Actually Reduces Burnout",
+    "desc": "<p>On-call burnout is an engineering retention problem disguised as a scheduling problem. Engineers who are chronically on-call, who lose sl",
+    "link": "https://dev.to/crescevo/the-on-call-rotation-design-that-actually-reduces-burnout-324h",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4cj3",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-37p7",
     "topic": "general"
   },
   {
-    "title": "We Built a Kubernetes Desktop App That Actually Replaces Your Entire Workflow \u2014 Podscape v4.0",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/imajeetyadav/we-built-a-kubernetes-desktop-app-that-actually-replaces-your-entire-workflow-podscape-v40-1od0",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "I Found 48 Phishing Domains in 5 Minutes \u2014 Here's How You Can Too",
-    "desc": "<h1>\n  \n  \n  I Found 48 Phishing Domains in 5 Minutes \u2014 Here's How You Can Too\n</h1>\n\n<p><strong>TL;DR</strong>: I ran an automated typosqua",
-    "link": "https://dev.to/lingqian/i-found-48-phishing-domains-in-5-minutes-heres-how-you-can-too-1b2g",
+    "title": "28 chaos engineering scenarios mapped to system design interview questions",
+    "desc": "<p>\"Your cache just died at 30,000 RPS. Walk me through what happens.\"</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.de",
+    "link": "https://dev.to/ronitdahiya/28-chaos-engineering-scenarios-mapped-to-system-design-interview-questions-4kkh",
     "topic": "general"
   },
   {
-    "title": "I Broke Production 3 Times This Week \u2014 How a CI/CD Pipeline Audit Fixed Everything",
-    "desc": "<p>Last week I broke production three times. Not because of bad code \u2014 because our CI/CD pipeline was quietly lying to us.</p>\n\n<p>Here's wh",
-    "link": "https://dev.to/kollittle/i-broke-production-3-times-this-week-how-a-cicd-pipeline-audit-fixed-everything-35ne",
+    "title": "Going Serverless - AWS Lambda Functions",
+    "desc": "<p>\ud83d\udc4b Hey there, tech enthusiasts! </p>\n\n<p>I'm Sarvar, a Cloud Architect with a passion for transforming complex technological challenges in",
+    "link": "https://dev.to/aws-builders/going-serverless-aws-lambda-functions-ii0",
+    "topic": "aws"
+  },
+  {
+    "title": "How I Caught 5 Attackers Hitting a Single Website in 4 Hours \u2014 And How to Automate It",
+    "desc": "<h1>\n  \n  \n  How I Caught 5 Attackers Hitting a Single Website in 4 Hours \u2014 And How to Automate It\n</h1>\n\n<p><strong>TL;DR</strong>: I analy",
+    "link": "https://dev.to/lingqian/how-i-caught-5-attackers-hitting-a-single-website-in-4-hours-and-how-to-automate-it-37pa",
+    "topic": "secops"
+  },
+  {
+    "title": "How to Write an Architecture Decision Record Engineers Actually Read",
+    "desc": "<p>Architecture Decision Records exist to solve a recurring and expensive problem: six months after a significant technical decision was mad",
+    "link": "https://dev.to/crescevo/how-to-write-an-architecture-decision-record-engineers-actually-read-5552",
+    "topic": "general"
+  },
+  {
+    "title": "Scarab Diagnostic Suite Field Test #012: Next.js Source Map Provenance Boundary",
+    "desc": "<p>This field test was against Next.js.</p>\n\n<p>The issue was Next.js #94450:</p>\n\n<p><a href=\"https://github.com/vercel/next.js/issues/9445",
+    "link": "https://dev.to/scarab-systems/-scarab-diagnostic-suite-field-test-012-nextjs-source-map-provenance-boundary-44mk",
     "topic": "general"
   }
 ]
