@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3jhg",
+    "title": "The easiest way to lose control of LLM spend",
+    "desc": "<p>Most teams can tell you their monthly OpenAI or Anthropic bill. Fewer can tell you which team, feature, prompt version, or fallback path ",
+    "link": "https://dev.to/void_stitch/the-easiest-way-to-lose-control-of-llm-spend-468c",
     "topic": "general"
   },
   {
-    "title": "From Terraform Spaghetti to a Production-Grade GitOps Platform",
-    "desc": "<h2>\n  \n  \n  Section 1: Why I Built This (And Why I Then Tore It Apart)\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2",
-    "link": "https://dev.to/kalpit_swami/from-terraform-spaghetti-to-a-production-grade-gitops-platform-14i2",
-    "topic": "terraform"
-  },
-  {
-    "title": "Best wife story",
-    "desc": "<p><a href=\"https://dev.tourl\"></a><a href=\"https://englishstoryg.blogspot.com/2025/11/wonderfull-story.html\" rel=\"noopener noreferrer\">http",
-    "link": "https://dev.to/vickyhexa/best-wife-story-3me7",
-    "topic": "general"
-  },
-  {
-    "title": "From Raw Logs to Reliability: An Engineering Playbook for Observability",
-    "desc": "<p>Turning raw logs into engineering best practices means shifting from reactive debugging to proactive observability. In practice that is f",
-    "link": "https://dev.to/crescevo/from-raw-logs-to-reliability-an-engineering-playbook-for-observability-npn",
-    "topic": "general"
-  },
-  {
-    "title": "Architecting the Foundation: A Deep Dive into AWS Landing Zones",
-    "desc": "<p>Every seasoned Cloud Architect has encountered the dreaded \"accidental cloud architecture\" at least once in their career. It usually star",
-    "link": "https://dev.to/louis_script39481/architecting-the-foundation-a-deep-dive-into-aws-landing-zones-3p3b",
-    "topic": "aws"
-  },
-  {
-    "title": "Secret Rotation Strategies: The Security Cost of Automation",
-    "desc": "<p>This morning, a warning I encountered while reviewing server logs made me reflect on how complex and sometimes unexpected the consequence",
-    "link": "https://dev.to/merbayerp/secret-rotation-strategies-the-security-cost-of-automation-2b55",
+    "title": "Building PteroProtect: A Multi-Layer Security Stack for Pterodactyl",
+    "desc": "<h2>\n  \n  \n  PteroProtect (Danex): A Defense-in-Depth Security Layer for Pterodactyl\n</h2>\n\n<p>PteroProtect is a security platform designed ",
+    "link": "https://dev.to/hexzonetwork/i-just-remastered-pterodactyl-pjp",
     "topic": "secops"
   },
   {
-    "title": "The Evolution of Web Development in 2024 By Minhaz",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/minhaz_uddinrifat_606452/the-evolution-of-web-development-in-2024-by-minhaz-18bl",
+    "title": "Show HN: Opstan, a decentralized social network on a PoW blockchain",
+    "desc": "<p>The emergence of Opstan, a decentralized social network on a Proof of Work (PoW) blockchain, is a significant indicator of this change. R",
+    "link": "https://dev.to/crescevo/show-hn-opstan-a-decentralized-social-network-on-a-pow-blockchain-3ibf",
     "topic": "general"
   },
   {
-    "title": "California moves to exempt Linux from its age-verification law after backlash",
-    "desc": "<p>California is moving to exempt Linux from its age-verification law after a backlash from the tech community, with the proposed amendment ",
-    "link": "https://dev.to/crescevo/california-moves-to-exempt-linux-from-its-age-verification-law-after-backlash-21hi",
+    "title": "From Code to Cloud: Deploying 11 Microservices to AWS EKS with Terraform and ArgoCD",
+    "desc": "<p>The CI pipeline was passing. Images were in ECR. Everything looked ready.</p>\n\n<p>Then I ran <code>kubectl get pods</code> and saw this:<",
+    "link": "https://dev.to/vivian_okose/from-code-to-cloud-deploying-11-microservices-to-aws-eks-with-terraform-and-argocd-21fh",
+    "topic": "aws"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3cgk",
+    "topic": "general"
+  },
+  {
+    "title": "AWS Developer Tools Every Python Developer Should Know in 2026",
+    "desc": "<p>The AWS developer tools page lists more than thirty products. At least four of them do something you could easily mistake for the same th",
+    "link": "https://dev.to/aws-builders/aws-developer-tools-every-python-developer-should-know-in-2026-1o7c",
+    "topic": "aws"
+  },
+  {
+    "title": "LLM Cost Attribution: How FinOps Teams Track API Spend by Team or Project",
+    "desc": "<ul>\n<li>The cleanest way to track LLM API costs by team is to separate traffic before it hits the provider, using project-level API keys, g",
+    "link": "https://dev.to/void_stitch/llm-cost-attribution-how-finops-teams-track-api-spend-by-team-or-project-l3g",
+    "topic": "finops"
+  },
+  {
+    "title": "Your Flask App Will Break on Railway Unless You Do This First",
+    "desc": "<p>Flask runs on Railway, but it does not run correctly out of the box. The Procfile module path has to match your exact file and Flask inst",
+    "link": "https://dev.to/kuberns_cloud/your-flask-app-will-break-on-railway-unless-you-do-this-first-5646",
     "topic": "general"
   }
 ]
