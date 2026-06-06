@@ -1,50 +1,50 @@
 [
   {
-    "title": "MCP 2026-07-28 RC: Stateless Transport",
-    "desc": "<p><strong>What:</strong> The <strong>MCP 2026-07-28 release candidate</strong> reworks transport so the <code>tools/call</code> request its",
-    "link": "https://dev.to/pueding/mcp-2026-07-28-rc-stateless-transport-4ma9",
+    "title": "LLM-Assisted Deploy: You Save Typing, Not Thinking",
+    "desc": "<h3>\n  \n  \n  TL;DR\n</h3>\n\n<p>An LLM helped me put together a deploy in about an hour, but only because I did not hand the deploy itself over",
+    "link": "https://dev.to/s_a_shkuratov/llm-assisted-deploy-you-save-typing-not-thinking-5h91",
     "topic": "general"
   },
   {
-    "title": "Diagnose with Ota, Then Run with Confidence",
-    "desc": "<p>Most repo blockers are discovered too late.</p>\n\n<p>A developer clones a repo, follows the README, runs the setup command, and only then ",
-    "link": "https://dev.to/otaready/diagnose-with-ota-then-run-with-confidence-4lbd",
+    "title": "Cron Syntax Explained: The 5 Fields and the Expressions You'll Actually Use (with a free generator)",
+    "desc": "<p>Every time I need a cron expression, I stare at five numbers and asterisks and second-guess myself. Is <code>0 0 * * 0</code> Sunday or S",
+    "link": "https://dev.to/forglydev/cron-syntax-explained-the-5-fields-and-the-expressions-youll-actually-use-with-a-free-generator-58k6",
     "topic": "general"
   },
   {
-    "title": "Revolutionizing Software Delivery: AI-Driven DevOps Workflows",
-    "desc": "<h1>\n  \n  \n  Revolutionizing Software Delivery: AI-Driven DevOps Workflows\n</h1>\n\n<p>The landscape of software development and operations ha",
-    "link": "https://dev.to/techblogs/revolutionizing-software-delivery-ai-driven-devops-workflows-4ipd",
+    "title": "Top Benefits of Enrolling in DevOps Training in BTM",
+    "desc": "<p>The speed of technological change is reshaping the landscape of software development and IT operations, driving organizations to embrace ",
+    "link": "https://dev.to/priya_de63b9bbdc89115d0cf/top-benefits-of-enrolling-in-devops-training-in-btm-2ji",
     "topic": "general"
   },
   {
-    "title": "Does Anybody Actually Like React?",
-    "desc": "<p>It's becoming increasingly apparent that not everyone is a fan of React. As a widely-used JavaScript library for building user interfaces",
-    "link": "https://dev.to/crescevo/does-anybody-actually-like-react-1nid",
+    "title": "Cron Expressions for CI/CD \u2014 Beyond Crontab Basics",
+    "desc": "<p>Most developers first encounter cron through <code>crontab -e</code> on a Linux server. But cron syntax now powers schedules far beyond s",
+    "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/cron-expressions-for-cicd-beyond-crontab-basics-3i1o",
     "topic": "general"
   },
   {
-    "title": "How to Find and Fix Hidden AWS Networking Costs Automatically",
-    "desc": "<p>AWS data transfer and networking costs can silently wreck your cloud budget. If you've ever looked at your AWS Cost Explorer and wondered",
-    "link": "https://dev.to/deepak_gunjetti_90e3f9103/how-to-find-and-fix-hidden-aws-networking-costs-automatically-23kh",
-    "topic": "aws"
-  },
-  {
-    "title": "Day 4/100: Understanding the Architecture That Makes ClickHouse\u00ae So Fast",
-    "desc": "<p>When people first hear about ClickHouse\u00ae, the conversation usually starts with performance.</p>\n\n<p>\"How can it query billions of rows in",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-3100-understanding-the-architecture-that-makes-clickhouser-so-fast-ajl",
+    "title": "The Technical Debt Inventory: A Framework for Prioritization",
+    "desc": "<p>Technical debt exists on a spectrum from slightly annoying to existential risk. Most engineering teams manage it with a combination of in",
+    "link": "https://dev.to/crescevo/the-technical-debt-inventory-a-framework-for-prioritization-5h28",
     "topic": "general"
   },
   {
-    "title": "Are Betting Apps Just Easier - or Actually Smarter?",
-    "desc": "<p>If you've ever placed a bet through your phone and thought, \"This feels way more intuitive than the old website,\" you're not imagining it",
-    "link": "https://dev.to/alan_james_35e491d20632c8/are-betting-apps-just-easier-or-actually-smarter-3c1a",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2gc3",
     "topic": "general"
   },
   {
-    "title": "Cloudflare Pages + Railway + Neon: deploying a self-hosted app for $0",
-    "desc": "<h1>\n  \n  \n  Cloudflare Pages + Railway + Neon: deploying a self-hosted app for $0\n</h1>\n\n<p>No software background. Built a license key man",
-    "link": "https://dev.to/ibrh96prog/cloudflare-pages-railway-neon-deploying-a-self-hosted-app-for-0-5ac2",
+    "title": "Zero Downtime Deployment: An Unnecessary Burden for Simple Projects?",
+    "desc": "<p>In the software world, the concept of \"Zero Downtime Deployment\" (ZDD) is almost treated like a holy grail. Everyone wants it, everyone a",
+    "link": "https://dev.to/merbayerp/zero-downtime-deployment-an-unnecessary-burden-for-simple-projects-1g9i",
+    "topic": "general"
+  },
+  {
+    "title": "Nobody Meant to Build an AI Control Plane",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ntctech/nobody-meant-to-build-an-ai-control-plane-772",
     "topic": "general"
   }
 ]
