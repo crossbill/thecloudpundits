@@ -1,50 +1,50 @@
 [
   {
-    "title": "The easiest way to lose control of LLM spend",
-    "desc": "<p>Most teams can tell you their monthly OpenAI or Anthropic bill. Fewer can tell you which team, feature, prompt version, or fallback path ",
-    "link": "https://dev.to/void_stitch/the-easiest-way-to-lose-control-of-llm-spend-468c",
+    "title": "MCP 2026-07-28 RC: Stateless Transport",
+    "desc": "<p><strong>What:</strong> The <strong>MCP 2026-07-28 release candidate</strong> reworks transport so the <code>tools/call</code> request its",
+    "link": "https://dev.to/pueding/mcp-2026-07-28-rc-stateless-transport-4ma9",
     "topic": "general"
   },
   {
-    "title": "Building PteroProtect: A Multi-Layer Security Stack for Pterodactyl",
-    "desc": "<h2>\n  \n  \n  PteroProtect (Danex): A Defense-in-Depth Security Layer for Pterodactyl\n</h2>\n\n<p>PteroProtect is a security platform designed ",
-    "link": "https://dev.to/hexzonetwork/i-just-remastered-pterodactyl-pjp",
-    "topic": "secops"
-  },
-  {
-    "title": "Show HN: Opstan, a decentralized social network on a PoW blockchain",
-    "desc": "<p>The emergence of Opstan, a decentralized social network on a Proof of Work (PoW) blockchain, is a significant indicator of this change. R",
-    "link": "https://dev.to/crescevo/show-hn-opstan-a-decentralized-social-network-on-a-pow-blockchain-3ibf",
+    "title": "Diagnose with Ota, Then Run with Confidence",
+    "desc": "<p>Most repo blockers are discovered too late.</p>\n\n<p>A developer clones a repo, follows the README, runs the setup command, and only then ",
+    "link": "https://dev.to/otaready/diagnose-with-ota-then-run-with-confidence-4lbd",
     "topic": "general"
   },
   {
-    "title": "From Code to Cloud: Deploying 11 Microservices to AWS EKS with Terraform and ArgoCD",
-    "desc": "<p>The CI pipeline was passing. Images were in ECR. Everything looked ready.</p>\n\n<p>Then I ran <code>kubectl get pods</code> and saw this:<",
-    "link": "https://dev.to/vivian_okose/from-code-to-cloud-deploying-11-microservices-to-aws-eks-with-terraform-and-argocd-21fh",
+    "title": "Revolutionizing Software Delivery: AI-Driven DevOps Workflows",
+    "desc": "<h1>\n  \n  \n  Revolutionizing Software Delivery: AI-Driven DevOps Workflows\n</h1>\n\n<p>The landscape of software development and operations ha",
+    "link": "https://dev.to/techblogs/revolutionizing-software-delivery-ai-driven-devops-workflows-4ipd",
+    "topic": "general"
+  },
+  {
+    "title": "Does Anybody Actually Like React?",
+    "desc": "<p>It's becoming increasingly apparent that not everyone is a fan of React. As a widely-used JavaScript library for building user interfaces",
+    "link": "https://dev.to/crescevo/does-anybody-actually-like-react-1nid",
+    "topic": "general"
+  },
+  {
+    "title": "How to Find and Fix Hidden AWS Networking Costs Automatically",
+    "desc": "<p>AWS data transfer and networking costs can silently wreck your cloud budget. If you've ever looked at your AWS Cost Explorer and wondered",
+    "link": "https://dev.to/deepak_gunjetti_90e3f9103/how-to-find-and-fix-hidden-aws-networking-costs-automatically-23kh",
     "topic": "aws"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3cgk",
+    "title": "Day 4/100: Understanding the Architecture That Makes ClickHouse\u00ae So Fast",
+    "desc": "<p>When people first hear about ClickHouse\u00ae, the conversation usually starts with performance.</p>\n\n<p>\"How can it query billions of rows in",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-3100-understanding-the-architecture-that-makes-clickhouser-so-fast-ajl",
     "topic": "general"
   },
   {
-    "title": "AWS Developer Tools Every Python Developer Should Know in 2026",
-    "desc": "<p>The AWS developer tools page lists more than thirty products. At least four of them do something you could easily mistake for the same th",
-    "link": "https://dev.to/aws-builders/aws-developer-tools-every-python-developer-should-know-in-2026-1o7c",
-    "topic": "aws"
+    "title": "Are Betting Apps Just Easier - or Actually Smarter?",
+    "desc": "<p>If you've ever placed a bet through your phone and thought, \"This feels way more intuitive than the old website,\" you're not imagining it",
+    "link": "https://dev.to/alan_james_35e491d20632c8/are-betting-apps-just-easier-or-actually-smarter-3c1a",
+    "topic": "general"
   },
   {
-    "title": "LLM Cost Attribution: How FinOps Teams Track API Spend by Team or Project",
-    "desc": "<ul>\n<li>The cleanest way to track LLM API costs by team is to separate traffic before it hits the provider, using project-level API keys, g",
-    "link": "https://dev.to/void_stitch/llm-cost-attribution-how-finops-teams-track-api-spend-by-team-or-project-l3g",
-    "topic": "finops"
-  },
-  {
-    "title": "Your Flask App Will Break on Railway Unless You Do This First",
-    "desc": "<p>Flask runs on Railway, but it does not run correctly out of the box. The Procfile module path has to match your exact file and Flask inst",
-    "link": "https://dev.to/kuberns_cloud/your-flask-app-will-break-on-railway-unless-you-do-this-first-5646",
+    "title": "Cloudflare Pages + Railway + Neon: deploying a self-hosted app for $0",
+    "desc": "<h1>\n  \n  \n  Cloudflare Pages + Railway + Neon: deploying a self-hosted app for $0\n</h1>\n\n<p>No software background. Built a license key man",
+    "link": "https://dev.to/ibrh96prog/cloudflare-pages-railway-neon-deploying-a-self-hosted-app-for-0-5ac2",
     "topic": "general"
   }
 ]
