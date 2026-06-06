@@ -1,50 +1,50 @@
 [
   {
-    "title": "LLM-Assisted Deploy: You Save Typing, Not Thinking",
-    "desc": "<h3>\n  \n  \n  TL;DR\n</h3>\n\n<p>An LLM helped me put together a deploy in about an hour, but only because I did not hand the deploy itself over",
-    "link": "https://dev.to/s_a_shkuratov/llm-assisted-deploy-you-save-typing-not-thinking-5h91",
+    "title": "Autonomous Server Debugging with Batuta AI\u2019s ReAct Loop",
+    "desc": "<blockquote>\n<p>Originally published at <a href=\"https://orquesta.live/blog/autonomous-server-debugging-batuta-ai-react-loop-2026-06-06\" rel",
+    "link": "https://dev.to/orquesta_live/autonomous-server-debugging-with-batuta-ais-react-loop-cpj",
     "topic": "general"
   },
   {
-    "title": "Cron Syntax Explained: The 5 Fields and the Expressions You'll Actually Use (with a free generator)",
-    "desc": "<p>Every time I need a cron expression, I stare at five numbers and asterisks and second-guess myself. Is <code>0 0 * * 0</code> Sunday or S",
-    "link": "https://dev.to/forglydev/cron-syntax-explained-the-5-fields-and-the-expressions-youll-actually-use-with-a-free-generator-58k6",
+    "title": "The Engineering Hiring Screen That Predicts Actual Job Performance",
+    "desc": "<p>The standard engineering hiring screen, LeetCode-style algorithm problems, timed under pressure, on a platform with an unfamiliar IDE, me",
+    "link": "https://dev.to/crescevo/the-engineering-hiring-screen-that-predicts-actual-job-performance-1bla",
     "topic": "general"
   },
   {
-    "title": "Top Benefits of Enrolling in DevOps Training in BTM",
-    "desc": "<p>The speed of technological change is reshaping the landscape of software development and IT operations, driving organizations to embrace ",
-    "link": "https://dev.to/priya_de63b9bbdc89115d0cf/top-benefits-of-enrolling-in-devops-training-in-btm-2ji",
-    "topic": "general"
+    "title": "Frontend on Kubernetes? Yes, and here\u2019s why you\u2019d want it",
+    "desc": "<p>Let me guess.</p>\n\n<p>You\u2019re a frontend developer. You just finished a beautiful Next.js app. Smooth animations. Perfect Lighthouse score",
+    "link": "https://dev.to/sohanaakbar7/frontend-on-kubernetes-yes-and-heres-why-youd-want-it-5cnl",
+    "topic": "kubernetes"
   },
   {
-    "title": "Cron Expressions for CI/CD \u2014 Beyond Crontab Basics",
-    "desc": "<p>Most developers first encounter cron through <code>crontab -e</code> on a Linux server. But cron syntax now powers schedules far beyond s",
-    "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/cron-expressions-for-cicd-beyond-crontab-basics-3i1o",
-    "topic": "general"
-  },
-  {
-    "title": "The Technical Debt Inventory: A Framework for Prioritization",
-    "desc": "<p>Technical debt exists on a spectrum from slightly annoying to existential risk. Most engineering teams manage it with a combination of in",
-    "link": "https://dev.to/crescevo/the-technical-debt-inventory-a-framework-for-prioritization-5h28",
+    "title": "15-Package Monorepo Deep Dive: How We Architected WAIaaS for Scale",
+    "desc": "<p>Building a 15-package monorepo isn't just about organizing code\u2014it's about creating a foundation that can scale from a single AI agent to",
+    "link": "https://dev.to/walletguy/15-package-monorepo-deep-dive-how-we-architected-waiaas-for-scale-ki8",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2gc3",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4cj3",
     "topic": "general"
   },
   {
-    "title": "Zero Downtime Deployment: An Unnecessary Burden for Simple Projects?",
-    "desc": "<p>In the software world, the concept of \"Zero Downtime Deployment\" (ZDD) is almost treated like a holy grail. Everyone wants it, everyone a",
-    "link": "https://dev.to/merbayerp/zero-downtime-deployment-an-unnecessary-burden-for-simple-projects-1g9i",
-    "topic": "general"
-  },
-  {
-    "title": "Nobody Meant to Build an AI Control Plane",
+    "title": "We Built a Kubernetes Desktop App That Actually Replaces Your Entire Workflow \u2014 Podscape v4.0",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ntctech/nobody-meant-to-build-an-ai-control-plane-772",
+    "link": "https://dev.to/imajeetyadav/we-built-a-kubernetes-desktop-app-that-actually-replaces-your-entire-workflow-podscape-v40-1od0",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "I Found 48 Phishing Domains in 5 Minutes \u2014 Here's How You Can Too",
+    "desc": "<h1>\n  \n  \n  I Found 48 Phishing Domains in 5 Minutes \u2014 Here's How You Can Too\n</h1>\n\n<p><strong>TL;DR</strong>: I ran an automated typosqua",
+    "link": "https://dev.to/lingqian/i-found-48-phishing-domains-in-5-minutes-heres-how-you-can-too-1b2g",
+    "topic": "general"
+  },
+  {
+    "title": "I Broke Production 3 Times This Week \u2014 How a CI/CD Pipeline Audit Fixed Everything",
+    "desc": "<p>Last week I broke production three times. Not because of bad code \u2014 because our CI/CD pipeline was quietly lying to us.</p>\n\n<p>Here's wh",
+    "link": "https://dev.to/kollittle/i-broke-production-3-times-this-week-how-a-cicd-pipeline-audit-fixed-everything-35ne",
     "topic": "general"
   }
 ]
