@@ -1,5 +1,29 @@
 [
   {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1a7o",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosting OpenClaw on a Linux VPS: Complete Setup Guide (2026)",
+    "desc": "<p>If you're looking for affordable and scalable infrastructure, check out <a href=\"https://aiccloud.in/vps\" rel=\"noopener noreferrer\">VPS H",
+    "link": "https://dev.to/vidhan_sharma_5afe002df04/self-hosting-openclaw-on-a-linux-vps-complete-setup-guide-2026-2bd1",
+    "topic": "general"
+  },
+  {
+    "title": "The Economics of Reliability: When to Invest, When to Accept Risk",
+    "desc": "<p>Reliability is not a virtue. It's an investment. Too little and you lose customers. Too much and you can't afford to ship. The question i",
+    "link": "https://dev.to/samson_tanimawo/the-economics-of-reliability-when-to-invest-when-to-accept-risk-1i22",
+    "topic": "general"
+  },
+  {
+    "title": "Why Enterprise IT Frameworks Fail Against Machine Learning Data Poisoning",
+    "desc": "<p>The deployment speed of enterprise machine learning setups has outpaced traditional infrastructure security validation boundaries. While ",
+    "link": "https://dev.to/biztechpulsehub/why-enterprise-it-frameworks-fail-against-machine-learning-data-poisoning-49jl",
+    "topic": "general"
+  },
+  {
     "title": "Deploying a Production-Grade Containerized System on AWS: ECS Fargate + ALB + RDS + ElastiCache + EventBridge",
     "desc": "<p><strong>Author:</strong> Arafat Olayiwola \u2014 5x AWS Community Builder<br /><br />\n<strong>Stack:</strong> Python 3.12 \u00b7 FastAPI \u00b7 Docker \u00b7",
     "link": "https://dev.to/haroffcode/deploying-a-production-grade-containerized-system-on-aws-ecs-fargate-alb-rds-elasticache--4fjb",
@@ -22,29 +46,5 @@
     "desc": "<p>Every AI coding tool can write Python \u2014 Cursor, Claude Code, Windsurf. None of them can run it safely in production.</p>\n\n<p>That gap bet",
     "link": "https://dev.to/thearun85/closing-the-execution-gap-a-series-3490",
     "topic": "general"
-  },
-  {
-    "title": "Why Traditional Vulnerability Scans Are Costing Multi-Cloud Enterprise Security",
-    "desc": "<p>The operational speed of dynamic multi-cloud deployments has officially broken legacy enterprise safety protocols. Traditional periodic o",
-    "link": "https://dev.to/biztechpulsehub/why-traditional-vulnerability-scans-are-costing-multi-cloud-enterprise-security-3319",
-    "topic": "secops"
-  },
-  {
-    "title": "I Left a Dead Feature Flag in Production for 6 Months \u2014 Here's What It Cost Me",
-    "desc": "<p>Six months. That's how long a disabled feature flag sat in my production codebase before a new team member asked: \"What does this <code>E",
-    "link": "https://dev.to/kollittle/i-left-a-dead-feature-flag-in-production-for-6-months-heres-what-it-cost-me-3dj5",
-    "topic": "general"
-  },
-  {
-    "title": "Building Internal Tools on Ghost: A CTO's Shortcut",
-    "desc": "<p>Ghost is known as a publishing platform. Most CTOs think of it as a blog engine. That framing misses what Ghost actually is at the infras",
-    "link": "https://dev.to/crescevo/building-internal-tools-on-ghost-a-ctos-shortcut-5g7l",
-    "topic": "general"
-  },
-  {
-    "title": "Setting Up Continuous Terraform Drift Monitoring With GitHub Actions and Slack",
-    "desc": "<p>Most teams discover Terraform drift the hard way \u2014 someone runs <code>terraform plan</code> before a deploy and gets a screen full of une",
-    "link": "https://dev.to/sudarshan_thakur_1e141b99/setting-up-continuous-terraform-drift-monitoring-with-github-actions-and-slack-5af3",
-    "topic": "terraform"
   }
 ]
