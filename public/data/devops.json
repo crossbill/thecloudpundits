@@ -1,50 +1,50 @@
 [
   {
-    "title": "How We Stopped Losing 45 Minutes Every Time Production Broke",
-    "desc": "<p>Every engineering team has a version of this story.</p>\n\n<p>It\u2019s 2 AM. Redis is down. The on-call engineer opens Slack, searches \u201cRedis E",
-    "link": "https://dev.to/akshara_sharma_0af28d91dc/how-we-stopped-losing-45-minutes-every-time-production-broke-2l53",
-    "topic": "general"
+    "title": "Deploying a Production-Grade Containerized System on AWS: ECS Fargate + ALB + RDS + ElastiCache + EventBridge",
+    "desc": "<p><strong>Author:</strong> Arafat Olayiwola \u2014 5x AWS Community Builder<br /><br />\n<strong>Stack:</strong> Python 3.12 \u00b7 FastAPI \u00b7 Docker \u00b7",
+    "link": "https://dev.to/haroffcode/deploying-a-production-grade-containerized-system-on-aws-ecs-fargate-alb-rds-elasticache--4fjb",
+    "topic": "aws"
   },
   {
-    "title": "The On-Call Rotation Design That Actually Reduces Burnout",
-    "desc": "<p>On-call burnout is an engineering retention problem disguised as a scheduling problem. Engineers who are chronically on-call, who lose sl",
-    "link": "https://dev.to/crescevo/the-on-call-rotation-design-that-actually-reduces-burnout-324h",
+    "title": "Buy Verified Payoneer Accounts for Freelancers & Online Businesses from smmgetusa.com",
+    "desc": "<p>Buy Verified Payoneer Accounts for Freelancers & Online Businesses from smmgetusa.com</p>\n\n<p><a class=\"article-body-image-wrapper\" href=",
+    "link": "https://dev.to/leonorehutcherson771md/buy-verified-payoneer-accounts-for-freelancers-online-businesses-from-smmgetusacom-49pf",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-37p7",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3781",
     "topic": "general"
   },
   {
-    "title": "28 chaos engineering scenarios mapped to system design interview questions",
-    "desc": "<p>\"Your cache just died at 30,000 RPS. Walk me through what happens.\"</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.de",
-    "link": "https://dev.to/ronitdahiya/28-chaos-engineering-scenarios-mapped-to-system-design-interview-questions-4kkh",
+    "title": "Closing the execution gap: a series",
+    "desc": "<p>Every AI coding tool can write Python \u2014 Cursor, Claude Code, Windsurf. None of them can run it safely in production.</p>\n\n<p>That gap bet",
+    "link": "https://dev.to/thearun85/closing-the-execution-gap-a-series-3490",
     "topic": "general"
   },
   {
-    "title": "Going Serverless - AWS Lambda Functions",
-    "desc": "<p>\ud83d\udc4b Hey there, tech enthusiasts! </p>\n\n<p>I'm Sarvar, a Cloud Architect with a passion for transforming complex technological challenges in",
-    "link": "https://dev.to/aws-builders/going-serverless-aws-lambda-functions-ii0",
-    "topic": "aws"
-  },
-  {
-    "title": "How I Caught 5 Attackers Hitting a Single Website in 4 Hours \u2014 And How to Automate It",
-    "desc": "<h1>\n  \n  \n  How I Caught 5 Attackers Hitting a Single Website in 4 Hours \u2014 And How to Automate It\n</h1>\n\n<p><strong>TL;DR</strong>: I analy",
-    "link": "https://dev.to/lingqian/how-i-caught-5-attackers-hitting-a-single-website-in-4-hours-and-how-to-automate-it-37pa",
+    "title": "Why Traditional Vulnerability Scans Are Costing Multi-Cloud Enterprise Security",
+    "desc": "<p>The operational speed of dynamic multi-cloud deployments has officially broken legacy enterprise safety protocols. Traditional periodic o",
+    "link": "https://dev.to/biztechpulsehub/why-traditional-vulnerability-scans-are-costing-multi-cloud-enterprise-security-3319",
     "topic": "secops"
   },
   {
-    "title": "How to Write an Architecture Decision Record Engineers Actually Read",
-    "desc": "<p>Architecture Decision Records exist to solve a recurring and expensive problem: six months after a significant technical decision was mad",
-    "link": "https://dev.to/crescevo/how-to-write-an-architecture-decision-record-engineers-actually-read-5552",
+    "title": "I Left a Dead Feature Flag in Production for 6 Months \u2014 Here's What It Cost Me",
+    "desc": "<p>Six months. That's how long a disabled feature flag sat in my production codebase before a new team member asked: \"What does this <code>E",
+    "link": "https://dev.to/kollittle/i-left-a-dead-feature-flag-in-production-for-6-months-heres-what-it-cost-me-3dj5",
     "topic": "general"
   },
   {
-    "title": "Scarab Diagnostic Suite Field Test #012: Next.js Source Map Provenance Boundary",
-    "desc": "<p>This field test was against Next.js.</p>\n\n<p>The issue was Next.js #94450:</p>\n\n<p><a href=\"https://github.com/vercel/next.js/issues/9445",
-    "link": "https://dev.to/scarab-systems/-scarab-diagnostic-suite-field-test-012-nextjs-source-map-provenance-boundary-44mk",
+    "title": "Building Internal Tools on Ghost: A CTO's Shortcut",
+    "desc": "<p>Ghost is known as a publishing platform. Most CTOs think of it as a blog engine. That framing misses what Ghost actually is at the infras",
+    "link": "https://dev.to/crescevo/building-internal-tools-on-ghost-a-ctos-shortcut-5g7l",
     "topic": "general"
+  },
+  {
+    "title": "Setting Up Continuous Terraform Drift Monitoring With GitHub Actions and Slack",
+    "desc": "<p>Most teams discover Terraform drift the hard way \u2014 someone runs <code>terraform plan</code> before a deploy and gets a screen full of une",
+    "link": "https://dev.to/sudarshan_thakur_1e141b99/setting-up-continuous-terraform-drift-monitoring-with-github-actions-and-slack-5af3",
+    "topic": "terraform"
   }
 ]
