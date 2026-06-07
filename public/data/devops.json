@@ -1,50 +1,50 @@
 [
   {
-    "title": "AI Agent Safety Need Stop Signs, Not Just Instructions",
-    "desc": "<p>AI agents do not only need better instructions.</p>\n\n<p>They need stop signs.</p>\n\n<p>That is one of the clearest reasons Ota exists as <",
-    "link": "https://dev.to/otaready/ai-agent-safety-need-stop-signs-not-just-instructions-1nb9",
-    "topic": "general"
-  },
-  {
-    "title": "Migrating from Go to Rust",
-    "desc": "<p>It's becoming increasingly evident that developers are migrating from Go to Rust. This trend is not entirely unexpected, given the unique",
-    "link": "https://dev.to/crescevo/migrating-from-go-to-rust-5ahl",
-    "topic": "general"
-  },
-  {
-    "title": "I Ran Kubernetes and Traditional Hosting Side-by-Side \u2014 Here's When Kubernetes Actually Won",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> The thing that actually pushed me to take Kubernetes seriously wasn't hype \u2014 it was a 2am deploy tha",
-    "link": "https://dev.to/ericwoooo_kr/i-ran-kubernetes-and-traditional-hosting-side-by-side-heres-when-kubernetes-actually-won-4e46",
+    "title": "Kubernetes Security Fundamentals: Building a Robust Foundation",
+    "desc": "<h1>\n  \n  \n  Kubernetes Security Fundamentals: Building a Robust Foundation\n</h1>\n\n<p>Kubernetes has become the de facto standard for contai",
+    "link": "https://dev.to/techblogs/kubernetes-security-fundamentals-building-a-robust-foundation-k15",
     "topic": "kubernetes"
   },
   {
-    "title": "How the Internet Actually Works - Networking, DNS, Architecture & My DMI DevOps Journey",
-    "desc": "<h2>\n  \n  \n  Week 0: How the Internet Actually Works - Networking, DNS, Architecture & My DevOps Journey Begins\n</h2>\n\n<p>I recently joined ",
-    "link": "https://dev.to/gbadedata/how-the-internet-actually-works-networking-dns-architecture-my-dmi-devops-journey-47dp",
+    "title": "Learning DevOps from First Principles: Why Linux and Networking Might Be the Best Place to Start",
+    "desc": "<p>One question has been occupying my mind recently:</p>\n\n<blockquote>\n<p>If someone wants to learn DevOps, where should they actually begin",
+    "link": "https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-why-linux-and-networking-might-be-the-best-place-to-start-1bnj",
     "topic": "general"
   },
   {
-    "title": "WinkTerm: AI That Shares Your Terminal Session, Not Just Suggests Commands",
-    "desc": "<p>I have a problem with \"AI in the terminal\" tools.</p>\n\n<p>They're almost all the same: a chat sidebar. You ask a question, the AI replies",
-    "link": "https://dev.to/winkterm_dev/winkterm-ai-that-shares-your-terminal-session-not-just-suggests-commands-2kog",
+    "title": "Kiro Explained: From Vibe Coding to Production Engineering",
+    "desc": "<blockquote>\n<p>A 100\u2013400 level guide to Kiro IDE, Kiro CLI, Kiro Agent, Specs, Steering, Hooks, and why this workflow matters for DevOps bu",
+    "link": "https://dev.to/sanjid_salam/kiro-explained-from-vibe-coding-to-production-engineering-2n46",
     "topic": "general"
   },
   {
-    "title": "Setting Up a Powerful Monitoring Stack with Prometheus and Grafana",
-    "desc": "<h1>\n  \n  \n  Setting Up a Powerful Monitoring Stack with Prometheus and Grafana\n</h1>\n\n<p>As a Full Stack Engineer specializing in DevOps, A",
-    "link": "https://dev.to/naveenmalothu/setting-up-a-powerful-monitoring-stack-with-prometheus-and-grafana-44g2",
+    "title": "Celery vs RQ vs Dramatiq: Python Task Queues Compared",
+    "desc": "<p>When your API handler starts timing out because it's doing too much at once \u2014 sending emails, generating reports, hitting third-party API",
+    "link": "https://dev.to/ayinedjimi-consultants/celery-vs-rq-vs-dramatiq-python-task-queues-compared-426m",
     "topic": "general"
   },
   {
-    "title": "What Is browser-use? And How to save 50% of tokens while using it.",
-    "desc": "<p>If you are building AI agents that can actually <em>do things on websites</em>, <code>browser-use</code> is one of the most important ope",
-    "link": "https://dev.to/lynkr/what-is-browser-use-and-how-to-run-it-through-lynkr-9fn",
+    "title": "How to Schedule a Python Script with cron, Step by Step",
+    "desc": "<p>Most \"automate this with cron\" walkthroughs leave out the parts where things actually break. The PATH is wrong, the virtual environment i",
+    "link": "https://dev.to/evvytools/how-to-schedule-a-python-script-with-cron-step-by-step-1log",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3eog",
+    "title": "7 Free Scheduling Tools Developers Reach For in 2026",
+    "desc": "<p>Every developer ends up needing to schedule something eventually. A nightly backup, an hourly metric snapshot, a weekly cleanup job, a on",
+    "link": "https://dev.to/evvytools/7-free-scheduling-tools-developers-reach-for-in-2026-3o21",
+    "topic": "general"
+  },
+  {
+    "title": "Feature flag management: the complete playbook",
+    "desc": "<p>How to manage feature flags at scale: naming conventions, the flag lifecycle, cleanup discipline, audit trails, access control, and avoid",
+    "link": "https://dev.to/flaggy/feature-flag-management-the-complete-playbook-7e3",
+    "topic": "general"
+  },
+  {
+    "title": "My OpenClaw agent started writing nonsense and the real fix was a kill switch, not a better prompt",
+    "desc": "<p>I hit a thread on r/openclaw with the perfect title: <strong>\u201cHow to stop an insane model from openclaw.\u201d</strong></p>\n\n<p>That\u2019s the who",
+    "link": "https://dev.to/lars_winstand/my-openclaw-agent-started-writing-nonsense-and-the-real-fix-was-a-kill-switch-not-a-better-prompt-4092",
     "topic": "general"
   }
 ]
