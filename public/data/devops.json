@@ -1,50 +1,50 @@
 [
   {
-    "title": "Day 27 \u2014 Container & Runtime Security",
-    "desc": "<p>Containers have transformed modern software delivery.</p>\n\n<p>Today almost every cloud-native platform uses:</p>\n\n<ul>\n<li>Docker</li>\n<l",
-    "link": "https://dev.to/17j/day-27-container-runtime-security-51hh",
-    "topic": "docker"
-  },
-  {
-    "title": "We Built a Single MCP Endpoint for 36 Business APIs - Here's What We Learned",
-    "desc": "<h2>\n  \n  \n  The Problem: API Sprawl Is Killing Operator Productivity\n</h2>\n\n<p>Every business operator we talked to had the same complaint:",
-    "link": "https://dev.to/corpusiq/we-built-a-single-mcp-endpoint-for-36-business-apis-heres-what-we-learned-5g58",
+    "title": "AI Agent Safety Need Stop Signs, Not Just Instructions",
+    "desc": "<p>AI agents do not only need better instructions.</p>\n\n<p>They need stop signs.</p>\n\n<p>That is one of the clearest reasons Ota exists as <",
+    "link": "https://dev.to/otaready/ai-agent-safety-need-stop-signs-not-just-instructions-1nb9",
     "topic": "general"
   },
   {
-    "title": "I added custom cron scheduling to my Hetzner backup SaaS (and why no competitor has it)",
-    "desc": "<p>I've been building HetGuard, a backup scheduling tool for Hetzner Cloud, and last week I shipped a feature I'm genuinely proud of: custom",
-    "link": "https://dev.to/danrovito/i-added-custom-cron-scheduling-to-my-hetzner-backup-saas-and-why-no-competitor-has-it-4j3c",
+    "title": "Migrating from Go to Rust",
+    "desc": "<p>It's becoming increasingly evident that developers are migrating from Go to Rust. This trend is not entirely unexpected, given the unique",
+    "link": "https://dev.to/crescevo/migrating-from-go-to-rust-5ahl",
     "topic": "general"
   },
   {
-    "title": "I Broke a Chatbot With a Prompt Change. Then I Built the Tool That Would've Caught It.",
-    "desc": "<p>I updated a system prompt on a Friday. By Monday, a user filed a bug: the chatbot was giving wrong answers.</p>\n\n<p>The output looked tot",
-    "link": "https://dev.to/decimozs/i-broke-a-chatbot-with-a-prompt-change-then-i-built-the-tool-that-wouldve-caught-it-m1g",
+    "title": "I Ran Kubernetes and Traditional Hosting Side-by-Side \u2014 Here's When Kubernetes Actually Won",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> The thing that actually pushed me to take Kubernetes seriously wasn't hype \u2014 it was a 2am deploy tha",
+    "link": "https://dev.to/ericwoooo_kr/i-ran-kubernetes-and-traditional-hosting-side-by-side-heres-when-kubernetes-actually-won-4e46",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "How the Internet Actually Works - Networking, DNS, Architecture & My DMI DevOps Journey",
+    "desc": "<h2>\n  \n  \n  Week 0: How the Internet Actually Works - Networking, DNS, Architecture & My DevOps Journey Begins\n</h2>\n\n<p>I recently joined ",
+    "link": "https://dev.to/gbadedata/how-the-internet-actually-works-networking-dns-architecture-my-dmi-devops-journey-47dp",
     "topic": "general"
   },
   {
-    "title": "AI Cost Attribution: A Request-Level FinOps Playbook for Platform Engineers",
-    "desc": "<ul>\n<li>Request-level attribution works only when every LLM call carries the same ownership fields from app code to the gateway trace: <cod",
-    "link": "https://dev.to/void_stitch/ai-cost-attribution-a-request-level-finops-playbook-for-platform-engineers-958",
-    "topic": "finops"
+    "title": "WinkTerm: AI That Shares Your Terminal Session, Not Just Suggests Commands",
+    "desc": "<p>I have a problem with \"AI in the terminal\" tools.</p>\n\n<p>They're almost all the same: a chat sidebar. You ask a question, the AI replies",
+    "link": "https://dev.to/winkterm_dev/winkterm-ai-that-shares-your-terminal-session-not-just-suggests-commands-2kog",
+    "topic": "general"
+  },
+  {
+    "title": "Setting Up a Powerful Monitoring Stack with Prometheus and Grafana",
+    "desc": "<h1>\n  \n  \n  Setting Up a Powerful Monitoring Stack with Prometheus and Grafana\n</h1>\n\n<p>As a Full Stack Engineer specializing in DevOps, A",
+    "link": "https://dev.to/naveenmalothu/setting-up-a-powerful-monitoring-stack-with-prometheus-and-grafana-44g2",
+    "topic": "general"
+  },
+  {
+    "title": "What Is browser-use? And How to save 50% of tokens while using it.",
+    "desc": "<p>If you are building AI agents that can actually <em>do things on websites</em>, <code>browser-use</code> is one of the most important ope",
+    "link": "https://dev.to/lynkr/what-is-browser-use-and-how-to-run-it-through-lynkr-9fn",
+    "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4c8i",
-    "topic": "general"
-  },
-  {
-    "title": "The Debugging Should Start Before The Bug.",
-    "desc": "<p>Most of my recent Scarab Diagnostic Suite posts have been field-test reports.</p>\n\n<p>Open WebUI.<br /><br />\nVite.<br /><br />\nTerraform",
-    "link": "https://dev.to/scarab-systems/scarab-was-not-built-just-to-clean-up-drift-2pl3",
-    "topic": "general"
-  },
-  {
-    "title": "I'm rotating three of my own secrets this week. Three keys ended up where they didn't belong, I caught it fast, and I have a ...",
-    "desc": "<p>What finally made me stop procrastinating on it was reading about the CISA leak.</p>\n\n<p>A contractor for the Cybersecurity and Infrastru",
-    "link": "https://dev.to/connectengine/im-rotating-three-of-my-own-secrets-this-week-three-keys-ended-up-where-they-didnt-belong-i-2797",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3eog",
     "topic": "general"
   }
 ]
