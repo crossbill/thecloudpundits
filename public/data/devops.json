@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-45n",
+    "title": "I open-sourced an AI agent that runs ops from chat apps",
+    "desc": "<h2>\n  \n  \n  The 2:47 AM problem\n</h2>\n\n<p>A Prometheus alert fired at 02:47 last quarter. Something something CPU,<br />\nsomething somethin",
+    "link": "https://dev.to/austinzhai/i-open-sourced-an-ai-agent-that-runs-ops-from-chat-apps-348j",
     "topic": "general"
   },
   {
-    "title": "The Maintainer Trap: What the jqwik Incident Reveals About Trusting Your Dependencies",
-    "desc": "<p><em>This article was originally published on <a href=\"https://lucidshark.com/blog/jqwik-maintainer-sabotage-ai-agent-vibe-coder-trap-2026",
-    "link": "https://dev.to/toniantunovic/the-maintainer-trap-what-the-jqwik-incident-reveals-about-trusting-your-dependencies-41kd",
-    "topic": "secops"
-  },
-  {
-    "title": "SAFEDEPLOY: Building a Memory-Driven DevOps Intelligence Platform for Secure and Scalable Software Delivery",
-    "desc": "<p><strong>Problem Statement:</strong> <br />\nDevOps Pipeline Agent:<br />\nModern software delivery pipelines generate large amounts of oper",
-    "link": "https://dev.to/mayank_solanki_8e7b5aa550/safedeploy-building-a-memory-driven-devops-intelligence-platform-for-secure-and-scalable-software-12l1",
+    "title": "Stop Receiving Webhooks, Start Polling: Rebuilding the Grid Review Runner",
+    "desc": "<p>Every pull request I open gets an automated code review from an AI agent before I merge it. It reads the diff, checks it against my proje",
+    "link": "https://dev.to/tatted_dev/stop-receiving-webhooks-start-polling-rebuilding-the-grid-review-runner-3ofp",
     "topic": "general"
   },
   {
-    "title": "I Built a 5-Agent AI System That Fixes Kubernetes Clusters Before Your Pager Goes Off",
-    "desc": "<p>There's a moment every on-call engineer knows.</p>\n\n<p>It's 2 AM. Slack explodes. Pods are crashing in production. You SSH in half-awake,",
-    "link": "https://dev.to/sodiqjimoh/i-built-a-5-agent-ai-system-that-fixes-kubernetes-clusters-before-your-pager-goes-off-3h10",
-    "topic": "kubernetes"
+    "title": "Treating Azure Infrastructure Like a Pull Request: Bicep and what-if",
+    "desc": "<p>For a long time, the complete and authoritative definition of my production infrastructure was a scratch file of <code>az</code> commands",
+    "link": "https://dev.to/tatted_dev/treating-azure-infrastructure-like-a-pull-request-bicep-and-what-if-1nme",
+    "topic": "azure"
   },
   {
-    "title": "How I Self-Host 20+ Services on a Single \u20ac15/month Hetzner Server",
-    "desc": "<p>Most people think you need AWS or a Kubernetes cluster to run production services. I run 20+ services \u2014 including client projects \u2014 on a ",
-    "link": "https://dev.to/nevik_schmidt_3635afa2b85/how-i-self-host-20-services-on-a-single-eu15month-hetzner-server-58p1",
+    "title": "A Field Guide to Hand-Provisioning Azure Functions and Container Apps",
+    "desc": "<p>I asked the Azure CLI for my function app's hostname and it handed me back <code>null</code>. The app was running. The hostname existed. ",
+    "link": "https://dev.to/tatted_dev/a-field-guide-to-hand-provisioning-azure-functions-and-container-apps-3n4",
+    "topic": "azure"
+  },
+  {
+    "title": "Four Reviewers and a Gauntlet: Verifying AI-Authored Code",
+    "desc": "<p>Almost none of the code I ship was typed by me. I describe what I want, an AI coding agent writes the implementation, and I read what com",
+    "link": "https://dev.to/tatted_dev/four-reviewers-and-a-gauntlet-verifying-ai-authored-code-2eob",
     "topic": "general"
   },
   {
-    "title": "AI-Native IDS: Beyond Signature-Based Detection at the Edge",
-    "desc": "<h2>\n  \n  \n  The Obsolescence of Signature-Based Detection\n</h2>\n\n<p>For decades, the bedrock of network security has been the Intrusion Det",
-    "link": "https://dev.to/hookprobe/ai-native-ids-beyond-signature-based-detection-at-the-edge-4491",
+    "title": "Discord as My Operator Pager: One Timeline for a Whole Studio",
+    "desc": "<p>A deploy of mine broke, and I found out about it the way you never want to: days later, by stumbling onto it myself. The failure had been",
+    "link": "https://dev.to/tatted_dev/discord-as-my-operator-pager-one-timeline-for-a-whole-studio-2aga",
     "topic": "general"
   },
   {
-    "title": "logdive v0.3.0 \u2014 the one where I finally added parens (and four more things my heart wanted)",
-    "desc": "<p>v0.2.0 was a good release. I was happy with it. I used it.</p>\n\n<p>Then I kept trying to write <code>(level=error OR level=warn) AND serv",
-    "link": "https://dev.to/arysmart/logdive-v030-the-one-where-i-finally-added-parens-and-four-more-things-my-heart-wanted-1gbe",
-    "topic": "general"
+    "title": "AI Cost Attribution: A Request-Level FinOps Playbook for Platform Engineers",
+    "desc": "<ul>\n<li>Request-level attribution works only when every LLM call carries the same ownership fields from app code to the gateway trace: <cod",
+    "link": "https://dev.to/void_stitch/ai-cost-attribution-a-request-level-finops-playbook-for-platform-engineers-3ag8",
+    "topic": "finops"
   },
   {
-    "title": "Vs Random Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/vs-random-timer-what-we-learned-building-random-tactical-timer-245h",
+    "title": "\ud83d\ude80 GitLab CI vs Jenkins for scaling startups \u2014 which one should you use?",
+    "desc": "<h2>\n  \n  \n  \u2699\ufe0f Architecture \u2014 Why They <em>Differ</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/",
+    "link": "https://dev.to/ptp2308/gitlab-ci-vs-jenkins-for-scaling-startups-which-one-should-you-use-24aa",
     "topic": "general"
   }
 ]
