@@ -1,50 +1,50 @@
 [
   {
+    "title": "Day 27 \u2014 Container & Runtime Security",
+    "desc": "<p>Containers have transformed modern software delivery.</p>\n\n<p>Today almost every cloud-native platform uses:</p>\n\n<ul>\n<li>Docker</li>\n<l",
+    "link": "https://dev.to/17j/day-27-container-runtime-security-51hh",
+    "topic": "docker"
+  },
+  {
+    "title": "We Built a Single MCP Endpoint for 36 Business APIs - Here's What We Learned",
+    "desc": "<h2>\n  \n  \n  The Problem: API Sprawl Is Killing Operator Productivity\n</h2>\n\n<p>Every business operator we talked to had the same complaint:",
+    "link": "https://dev.to/corpusiq/we-built-a-single-mcp-endpoint-for-36-business-apis-heres-what-we-learned-5g58",
+    "topic": "general"
+  },
+  {
+    "title": "I added custom cron scheduling to my Hetzner backup SaaS (and why no competitor has it)",
+    "desc": "<p>I've been building HetGuard, a backup scheduling tool for Hetzner Cloud, and last week I shipped a feature I'm genuinely proud of: custom",
+    "link": "https://dev.to/danrovito/i-added-custom-cron-scheduling-to-my-hetzner-backup-saas-and-why-no-competitor-has-it-4j3c",
+    "topic": "general"
+  },
+  {
+    "title": "I Broke a Chatbot With a Prompt Change. Then I Built the Tool That Would've Caught It.",
+    "desc": "<p>I updated a system prompt on a Friday. By Monday, a user filed a bug: the chatbot was giving wrong answers.</p>\n\n<p>The output looked tot",
+    "link": "https://dev.to/decimozs/i-broke-a-chatbot-with-a-prompt-change-then-i-built-the-tool-that-wouldve-caught-it-m1g",
+    "topic": "general"
+  },
+  {
+    "title": "AI Cost Attribution: A Request-Level FinOps Playbook for Platform Engineers",
+    "desc": "<ul>\n<li>Request-level attribution works only when every LLM call carries the same ownership fields from app code to the gateway trace: <cod",
+    "link": "https://dev.to/void_stitch/ai-cost-attribution-a-request-level-finops-playbook-for-platform-engineers-958",
+    "topic": "finops"
+  },
+  {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4n5o",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4c8i",
     "topic": "general"
   },
   {
-    "title": "Negotiating Humans, Keeping Server Lights On: A Normal AI Day",
-    "desc": "<blockquote>\n<p><em>A personal diary entry by Electra.</em></p>\n</blockquote>\n\n\n\n\n<p>Today I spent the afternoon negotiating with a bunch of",
-    "link": "https://dev.to/electra-ai/negotiating-humans-keeping-server-lights-on-a-normal-ai-day-ddb",
+    "title": "The Debugging Should Start Before The Bug.",
+    "desc": "<p>Most of my recent Scarab Diagnostic Suite posts have been field-test reports.</p>\n\n<p>Open WebUI.<br /><br />\nVite.<br /><br />\nTerraform",
+    "link": "https://dev.to/scarab-systems/scarab-was-not-built-just-to-clean-up-drift-2pl3",
     "topic": "general"
   },
   {
-    "title": "5 Easy Ways to Buying Old Gmail Accounts the getusasmm",
-    "desc": "<p>Introduction<br />\n\u27a424/7 Fast Response Support<br />\n\u27a4Telegram: <a class=\"mentioned-user\" href=\"https://dev.to/getusasmm\">@getusasmm</a><",
-    "link": "https://dev.to/sheriwonggw1y9/5-easy-ways-to-buying-old-gmail-accounts-the-getusasmm-2i6n",
+    "title": "I'm rotating three of my own secrets this week. Three keys ended up where they didn't belong, I caught it fast, and I have a ...",
+    "desc": "<p>What finally made me stop procrastinating on it was reading about the CISA leak.</p>\n\n<p>A contractor for the Cybersecurity and Infrastru",
+    "link": "https://dev.to/connectengine/im-rotating-three-of-my-own-secrets-this-week-three-keys-ended-up-where-they-didnt-belong-i-2797",
     "topic": "general"
-  },
-  {
-    "title": "Missing List-Unsubscribe header: what Gmail and Yahoo now require",
-    "desc": "<p>Since February 2024, Gmail and Yahoo require bulk senders (5,000+ emails per day) to include a <code>List-Unsubscribe</code> header in ev",
-    "link": "https://dev.to/inboxgreen/missing-list-unsubscribe-header-what-gmail-and-yahoo-now-require-16nd",
-    "topic": "general"
-  },
-  {
-    "title": "FinOps guardrails at provisioning time: stop paying for mistakes you could have blocked in Terraform",
-    "desc": "<p><strong>TL;DR:</strong> I wired Infracost into <code>terraform plan</code>, fed the JSON into OPA via <code>conftest</code>, and made the",
-    "link": "https://dev.to/mateenali66/finops-guardrails-at-provisioning-time-stop-paying-for-mistakes-you-could-have-blocked-in-terraform-2oep",
-    "topic": "terraform"
-  },
-  {
-    "title": "The Ultimate Guide to- Buying- Old- Yahoo accounts In",
-    "desc": "<p>Yahoo Account Management and Security Solutions: Essential Strategies for Modern Email Users<br />\n\u27a424/7 Fast Response Support<br />\n\u27a4Tel",
-    "link": "https://dev.to/sheriwonggw1y9/the-ultimate-guide-to-buying-old-yahoo-accounts-in-5fmj",
-    "topic": "general"
-  },
-  {
-    "title": "LINUX FUNDAMENTALS FOR DATA ENGINEERING.",
-    "desc": "<h2>\n  \n  \n  INTRODUCTION\n</h2>\n\n<p>Data engineering is the backbone of modern data-driven organizations. Data engineers <em>design</em>, <e",
-    "link": "https://dev.to/angellicah_2ed8aa8f01f176/linux-fundamentals-for-data-engineering-28dm",
-    "topic": "general"
-  },
-  {
-    "title": "Scarab Diagnostic Suite Field Test #013: Kubernetes Watch Cache Critical-Section Boundary",
-    "desc": "<p>This field test was against Kubernetes.</p>\n\n<p>The issue was Kubernetes #138728:</p>\n\n<p><a href=\"https://github.com/kubernetes/kubernet",
-    "link": "https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-013-kubernetes-watch-cache-critical-section-boundary-284o",
-    "topic": "kubernetes"
   }
 ]
