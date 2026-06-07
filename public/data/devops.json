@@ -1,50 +1,50 @@
 [
   {
-    "title": "Fixing the Tauri v2 white screen in production (and the 6 release bugs right behind it)",
-    "desc": "<p>Your Tauri app runs perfectly with <code>tauri dev</code>. You build it, double-click the bundle, and... a blank white window. Welcome to",
-    "link": "https://dev.to/leo_zhang_0141218398e1788/fixing-the-tauri-v2-white-screen-in-production-and-the-6-release-bugs-right-behind-it-16jk",
-    "topic": "general"
-  },
-  {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4plc",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-45n",
     "topic": "general"
   },
   {
-    "title": "Security Audit of 6 Python Projects: 25 Issues Found & Fixed",
-    "desc": "<h1>\n  \n  \n  Security Audit of 6 Python Projects: 25 Issues Found & Fixed\n</h1>\n\n<p><strong>Published on</strong>: 2026-06-06<br /><br />\n<s",
-    "link": "https://dev.to/justjinoit/security-audit-of-6-python-projects-25-issues-found-fixed-187b",
+    "title": "The Maintainer Trap: What the jqwik Incident Reveals About Trusting Your Dependencies",
+    "desc": "<p><em>This article was originally published on <a href=\"https://lucidshark.com/blog/jqwik-maintainer-sabotage-ai-agent-vibe-coder-trap-2026",
+    "link": "https://dev.to/toniantunovic/the-maintainer-trap-what-the-jqwik-incident-reveals-about-trusting-your-dependencies-41kd",
     "topic": "secops"
   },
   {
-    "title": "6\uac1c \ud504\ub85c\uc81d\ud2b8 \ubcf4\uc548 \uac10\uc0ac: 25\uac1c \uc774\uc288 \ubc1c\uacac \uc218\uc815 \uae30\ub85d",
-    "desc": "<h1>\n  \n  \n  6\uac1c \ud504\ub85c\uc81d\ud2b8 \ubcf4\uc548 \uac10\uc0ac: 25\uac1c \uc774\uc288 \ubc1c\uacac\u2192\uc218\uc815 \uae30\ub85d\n</h1>\n\n<p><strong>Published on</strong>: 2026-06-06<br /><br />\n<strong>Reading time</strong>: 8",
-    "link": "https://dev.to/justjinoit/6gae-peurojegteu-boan-gamsa-25gae-isyu-balgyeon-sujeong-girog-40p5",
+    "title": "SAFEDEPLOY: Building a Memory-Driven DevOps Intelligence Platform for Secure and Scalable Software Delivery",
+    "desc": "<p><strong>Problem Statement:</strong> <br />\nDevOps Pipeline Agent:<br />\nModern software delivery pipelines generate large amounts of oper",
+    "link": "https://dev.to/mayank_solanki_8e7b5aa550/safedeploy-building-a-memory-driven-devops-intelligence-platform-for-secure-and-scalable-software-12l1",
     "topic": "general"
   },
   {
-    "title": "Hearth: scale-to-zero LLM serving on Kubernetes \u2014 and you can hack on it without a GPU",
-    "desc": "<p><em>Repo:<a href=\"https://github.com/hearth-project/hearth\" rel=\"noopener noreferrer\">github.com/hearth-project/hearth</a> \u00b7 Apache-2.0 \u00b7",
-    "link": "https://dev.to/kubegopher/hearth-scale-to-zero-llm-serving-on-kubernetes-and-you-can-hack-on-it-without-a-gpu-bn2",
+    "title": "I Built a 5-Agent AI System That Fixes Kubernetes Clusters Before Your Pager Goes Off",
+    "desc": "<p>There's a moment every on-call engineer knows.</p>\n\n<p>It's 2 AM. Slack explodes. Pods are crashing in production. You SSH in half-awake,",
+    "link": "https://dev.to/sodiqjimoh/i-built-a-5-agent-ai-system-that-fixes-kubernetes-clusters-before-your-pager-goes-off-3h10",
     "topic": "kubernetes"
   },
   {
-    "title": "AI Agents Don\u2019t Need More Prompts. They Need Execution Boundaries.",
-    "desc": "<p>AI agents are moving from chat into action.</p>\n\n<p>They can call tools, send emails, update records, delete data, trigger workflows, dep",
-    "link": "https://dev.to/rbuckley_/ai-agents-dont-need-more-prompts-they-need-execution-boundaries-5acg",
+    "title": "How I Self-Host 20+ Services on a Single \u20ac15/month Hetzner Server",
+    "desc": "<p>Most people think you need AWS or a Kubernetes cluster to run production services. I run 20+ services \u2014 including client projects \u2014 on a ",
+    "link": "https://dev.to/nevik_schmidt_3635afa2b85/how-i-self-host-20-services-on-a-single-eu15month-hetzner-server-58p1",
     "topic": "general"
   },
   {
-    "title": "The Hypervisor Is Becoming a Policy Enforcement Point",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ntctech/the-hypervisor-is-becoming-a-policy-enforcement-point-21pl",
+    "title": "AI-Native IDS: Beyond Signature-Based Detection at the Edge",
+    "desc": "<h2>\n  \n  \n  The Obsolescence of Signature-Based Detection\n</h2>\n\n<p>For decades, the bedrock of network security has been the Intrusion Det",
+    "link": "https://dev.to/hookprobe/ai-native-ids-beyond-signature-based-detection-at-the-edge-4491",
     "topic": "general"
   },
   {
-    "title": "SafeDeploy \u2013 Smart Deployment Intelligence Assistant",
-    "desc": "<p>Introduction</p>\n\n<p>Software projects go through many updates, deployments, and changes over time. As projects grow, it becomes difficul",
-    "link": "https://dev.to/mayank_solanki_8e7b5aa550/safedeploy-smart-deployment-intelligence-assistant-1cml",
+    "title": "logdive v0.3.0 \u2014 the one where I finally added parens (and four more things my heart wanted)",
+    "desc": "<p>v0.2.0 was a good release. I was happy with it. I used it.</p>\n\n<p>Then I kept trying to write <code>(level=error OR level=warn) AND serv",
+    "link": "https://dev.to/arysmart/logdive-v030-the-one-where-i-finally-added-parens-and-four-more-things-my-heart-wanted-1gbe",
+    "topic": "general"
+  },
+  {
+    "title": "Vs Random Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/vs-random-timer-what-we-learned-building-random-tactical-timer-245h",
     "topic": "general"
   }
 ]
