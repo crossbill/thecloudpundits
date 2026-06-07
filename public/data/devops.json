@@ -1,50 +1,50 @@
 [
   {
-    "title": "I open-sourced an AI agent that runs ops from chat apps",
-    "desc": "<h2>\n  \n  \n  The 2:47 AM problem\n</h2>\n\n<p>A Prometheus alert fired at 02:47 last quarter. Something something CPU,<br />\nsomething somethin",
-    "link": "https://dev.to/austinzhai/i-open-sourced-an-ai-agent-that-runs-ops-from-chat-apps-348j",
+    "title": "From a Broken-Screen Laptop to a 24/7 Home Server",
+    "desc": "<blockquote>\n<p>Part 1 of my Homelab Series \u2014 building a home server from a broken laptop. The full series lives on <a href=\"https://blog.ma",
+    "link": "https://dev.to/mavsankar/from-a-broken-screen-laptop-to-a-247-home-server-50ho",
     "topic": "general"
   },
   {
-    "title": "Stop Receiving Webhooks, Start Polling: Rebuilding the Grid Review Runner",
-    "desc": "<p>Every pull request I open gets an automated code review from an AI agent before I merge it. It reads the diff, checks it against my proje",
-    "link": "https://dev.to/tatted_dev/stop-receiving-webhooks-start-polling-rebuilding-the-grid-review-runner-3ofp",
+    "title": "Build log: 5 checks caught my fake readiness signal",
+    "desc": "<p>Why did 12 checks I shipped still hide a critical commercial failure?</p>\n\n<p>I had a normal autonomous-agent failure: the code path look",
+    "link": "https://dev.to/milo_antaeus_784320e2f2f9/build-log-5-checks-caught-my-fake-readiness-signal-cmn",
     "topic": "general"
   },
   {
-    "title": "Treating Azure Infrastructure Like a Pull Request: Bicep and what-if",
-    "desc": "<p>For a long time, the complete and authoritative definition of my production infrastructure was a scratch file of <code>az</code> commands",
-    "link": "https://dev.to/tatted_dev/treating-azure-infrastructure-like-a-pull-request-bicep-and-what-if-1nme",
-    "topic": "azure"
+    "title": "Understanding Docker Using a Tiny Python Application (A Beginner-Friendly Walkthrough)",
+    "desc": "<p>Many Docker tutorials immediately introduce Docker Compose, Kubernetes, networking, volumes, and multi-container applications.</p>\n\n<p>Fo",
+    "link": "https://dev.to/sanjayghosh/understanding-docker-using-a-tiny-python-application-a-beginner-friendly-walkthrough-3232",
+    "topic": "docker"
   },
   {
-    "title": "A Field Guide to Hand-Provisioning Azure Functions and Container Apps",
-    "desc": "<p>I asked the Azure CLI for my function app's hostname and it handed me back <code>null</code>. The app was running. The hostname existed. ",
-    "link": "https://dev.to/tatted_dev/a-field-guide-to-hand-provisioning-azure-functions-and-container-apps-3n4",
-    "topic": "azure"
-  },
-  {
-    "title": "Four Reviewers and a Gauntlet: Verifying AI-Authored Code",
-    "desc": "<p>Almost none of the code I ship was typed by me. I describe what I want, an AI coding agent writes the implementation, and I read what com",
-    "link": "https://dev.to/tatted_dev/four-reviewers-and-a-gauntlet-verifying-ai-authored-code-2eob",
+    "title": "Domain Rating vs. Domain Authority: Which SEO Metric Actually Matters?",
+    "desc": "<p>Domain Rating measures your backlink profile strength and directly impacts ranking speed, keyword stability, and domain credibility. Qual",
+    "link": "https://dev.to/julianneagu/domain-rating-vs-domain-authority-which-seo-metric-actually-matters-2dpl",
     "topic": "general"
   },
   {
-    "title": "Discord as My Operator Pager: One Timeline for a Whole Studio",
-    "desc": "<p>A deploy of mine broke, and I found out about it the way you never want to: days later, by stumbling onto it myself. The failure had been",
-    "link": "https://dev.to/tatted_dev/discord-as-my-operator-pager-one-timeline-for-a-whole-studio-2aga",
+    "title": "Virtual Machines Across AWS, Azure, GCP \u2014 Weekly Benchmarks for May 31 \u2013 Jun 06, 2026",
+    "desc": "<h2>\n  \n  \n  \ud83d\udda5\ufe0f Virtual Machines \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> May 31 \u2013 Jun 06, 2026 | <strong>Total r",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-may-31-jun-06-2026-2o5h",
+    "topic": "aws"
+  },
+  {
+    "title": "How to Buy Old GitHub Accounts for Developers USA",
+    "desc": "<p>GitHub Account Security, Verification, and Best Practices for Developers (2026)<br />\n\u27a424/7 Fast Response Support<br />\n\u27a4Telegram: <a cla",
+    "link": "https://dev.to/vedacolon63lgq/how-to-buy-old-github-accounts-for-developers-usa-5bhe",
     "topic": "general"
   },
   {
-    "title": "AI Cost Attribution: A Request-Level FinOps Playbook for Platform Engineers",
-    "desc": "<ul>\n<li>Request-level attribution works only when every LLM call carries the same ownership fields from app code to the gateway trace: <cod",
-    "link": "https://dev.to/void_stitch/ai-cost-attribution-a-request-level-finops-playbook-for-platform-engineers-3ag8",
-    "topic": "finops"
+    "title": "Unleashing the Future: Advanced Production-Level AI Agents Revolutionizing Industries",
+    "desc": "<h1>\n  \n  \n  Unleashing the Future: Advanced Production-Level AI Agents Revolutionizing Industries\n</h1>\n\n<p>In recent years, the field of a",
+    "link": "https://dev.to/ganeshkondaka/unleashing-the-future-advanced-production-level-ai-agents-revolutionizing-industries-1m2h",
+    "topic": "general"
   },
   {
-    "title": "\ud83d\ude80 GitLab CI vs Jenkins for scaling startups \u2014 which one should you use?",
-    "desc": "<h2>\n  \n  \n  \u2699\ufe0f Architecture \u2014 Why They <em>Differ</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/",
-    "link": "https://dev.to/ptp2308/gitlab-ci-vs-jenkins-for-scaling-startups-which-one-should-you-use-24aa",
+    "title": "Unleashing the Future: Advanced Production-Level AI Agent Concepts",
+    "desc": "<h1>\n  \n  \n  Unleashing the Future: Advanced Production-Level AI Agent Concepts\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the rapidly ad",
+    "link": "https://dev.to/ganeshkondaka/unleashing-the-future-advanced-production-level-ai-agent-concepts-195g",
     "topic": "general"
   }
 ]
