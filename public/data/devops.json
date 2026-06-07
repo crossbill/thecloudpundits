@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes Security Fundamentals: Building a Robust Foundation",
-    "desc": "<h1>\n  \n  \n  Kubernetes Security Fundamentals: Building a Robust Foundation\n</h1>\n\n<p>Kubernetes has become the de facto standard for contai",
-    "link": "https://dev.to/techblogs/kubernetes-security-fundamentals-building-a-robust-foundation-k15",
+    "title": "Fixing the Tauri v2 white screen in production (and the 6 release bugs right behind it)",
+    "desc": "<p>Your Tauri app runs perfectly with <code>tauri dev</code>. You build it, double-click the bundle, and... a blank white window. Welcome to",
+    "link": "https://dev.to/leo_zhang_0141218398e1788/fixing-the-tauri-v2-white-screen-in-production-and-the-6-release-bugs-right-behind-it-16jk",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4plc",
+    "topic": "general"
+  },
+  {
+    "title": "Security Audit of 6 Python Projects: 25 Issues Found & Fixed",
+    "desc": "<h1>\n  \n  \n  Security Audit of 6 Python Projects: 25 Issues Found & Fixed\n</h1>\n\n<p><strong>Published on</strong>: 2026-06-06<br /><br />\n<s",
+    "link": "https://dev.to/justjinoit/security-audit-of-6-python-projects-25-issues-found-fixed-187b",
+    "topic": "secops"
+  },
+  {
+    "title": "6\uac1c \ud504\ub85c\uc81d\ud2b8 \ubcf4\uc548 \uac10\uc0ac: 25\uac1c \uc774\uc288 \ubc1c\uacac \uc218\uc815 \uae30\ub85d",
+    "desc": "<h1>\n  \n  \n  6\uac1c \ud504\ub85c\uc81d\ud2b8 \ubcf4\uc548 \uac10\uc0ac: 25\uac1c \uc774\uc288 \ubc1c\uacac\u2192\uc218\uc815 \uae30\ub85d\n</h1>\n\n<p><strong>Published on</strong>: 2026-06-06<br /><br />\n<strong>Reading time</strong>: 8",
+    "link": "https://dev.to/justjinoit/6gae-peurojegteu-boan-gamsa-25gae-isyu-balgyeon-sujeong-girog-40p5",
+    "topic": "general"
+  },
+  {
+    "title": "Hearth: scale-to-zero LLM serving on Kubernetes \u2014 and you can hack on it without a GPU",
+    "desc": "<p><em>Repo:<a href=\"https://github.com/hearth-project/hearth\" rel=\"noopener noreferrer\">github.com/hearth-project/hearth</a> \u00b7 Apache-2.0 \u00b7",
+    "link": "https://dev.to/kubegopher/hearth-scale-to-zero-llm-serving-on-kubernetes-and-you-can-hack-on-it-without-a-gpu-bn2",
     "topic": "kubernetes"
   },
   {
-    "title": "Learning DevOps from First Principles: Why Linux and Networking Might Be the Best Place to Start",
-    "desc": "<p>One question has been occupying my mind recently:</p>\n\n<blockquote>\n<p>If someone wants to learn DevOps, where should they actually begin",
-    "link": "https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-why-linux-and-networking-might-be-the-best-place-to-start-1bnj",
+    "title": "AI Agents Don\u2019t Need More Prompts. They Need Execution Boundaries.",
+    "desc": "<p>AI agents are moving from chat into action.</p>\n\n<p>They can call tools, send emails, update records, delete data, trigger workflows, dep",
+    "link": "https://dev.to/rbuckley_/ai-agents-dont-need-more-prompts-they-need-execution-boundaries-5acg",
     "topic": "general"
   },
   {
-    "title": "Kiro Explained: From Vibe Coding to Production Engineering",
-    "desc": "<blockquote>\n<p>A 100\u2013400 level guide to Kiro IDE, Kiro CLI, Kiro Agent, Specs, Steering, Hooks, and why this workflow matters for DevOps bu",
-    "link": "https://dev.to/sanjid_salam/kiro-explained-from-vibe-coding-to-production-engineering-2n46",
+    "title": "The Hypervisor Is Becoming a Policy Enforcement Point",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ntctech/the-hypervisor-is-becoming-a-policy-enforcement-point-21pl",
     "topic": "general"
   },
   {
-    "title": "Celery vs RQ vs Dramatiq: Python Task Queues Compared",
-    "desc": "<p>When your API handler starts timing out because it's doing too much at once \u2014 sending emails, generating reports, hitting third-party API",
-    "link": "https://dev.to/ayinedjimi-consultants/celery-vs-rq-vs-dramatiq-python-task-queues-compared-426m",
-    "topic": "general"
-  },
-  {
-    "title": "How to Schedule a Python Script with cron, Step by Step",
-    "desc": "<p>Most \"automate this with cron\" walkthroughs leave out the parts where things actually break. The PATH is wrong, the virtual environment i",
-    "link": "https://dev.to/evvytools/how-to-schedule-a-python-script-with-cron-step-by-step-1log",
-    "topic": "general"
-  },
-  {
-    "title": "7 Free Scheduling Tools Developers Reach For in 2026",
-    "desc": "<p>Every developer ends up needing to schedule something eventually. A nightly backup, an hourly metric snapshot, a weekly cleanup job, a on",
-    "link": "https://dev.to/evvytools/7-free-scheduling-tools-developers-reach-for-in-2026-3o21",
-    "topic": "general"
-  },
-  {
-    "title": "Feature flag management: the complete playbook",
-    "desc": "<p>How to manage feature flags at scale: naming conventions, the flag lifecycle, cleanup discipline, audit trails, access control, and avoid",
-    "link": "https://dev.to/flaggy/feature-flag-management-the-complete-playbook-7e3",
-    "topic": "general"
-  },
-  {
-    "title": "My OpenClaw agent started writing nonsense and the real fix was a kill switch, not a better prompt",
-    "desc": "<p>I hit a thread on r/openclaw with the perfect title: <strong>\u201cHow to stop an insane model from openclaw.\u201d</strong></p>\n\n<p>That\u2019s the who",
-    "link": "https://dev.to/lars_winstand/my-openclaw-agent-started-writing-nonsense-and-the-real-fix-was-a-kill-switch-not-a-better-prompt-4092",
+    "title": "SafeDeploy \u2013 Smart Deployment Intelligence Assistant",
+    "desc": "<p>Introduction</p>\n\n<p>Software projects go through many updates, deployments, and changes over time. As projects grow, it becomes difficul",
+    "link": "https://dev.to/mayank_solanki_8e7b5aa550/safedeploy-smart-deployment-intelligence-assistant-1cml",
     "topic": "general"
   }
 ]
