@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-pnf",
+    "title": "The Complete Guide to OpenStack Deployment Tools (2026 Edition)",
+    "desc": "<blockquote>\n<p><strong>Which tool should you use to deploy OpenStack in 2026?</strong> This guide covers every major option \u2014 from quick de",
+    "link": "https://dev.to/stefor07/the-complete-guide-to-openstack-deployment-tools-2025-edition-4g4l",
     "topic": "general"
   },
   {
-    "title": "Disaster Recovery Architecture: Designing Infrastructure That Can Handle Failures",
-    "desc": "<p>Downtime is rarely just an infrastructure problem.</p>\n\n<p>When critical systems stop working, the impact can reach applications, users, ",
-    "link": "https://dev.to/silvernox_datacenter/disaster-recovery-architecture-designing-infrastructure-that-can-handle-failures-2igl",
+    "title": "Why Most DevOps Engineers Get Stuck at Mid-Level (And How to Break Out)",
+    "desc": "<p>You can write Dockerfiles in your sleep.</p>\n\n<p>You've got Terraform in production. Kubernetes clusters running clean. CI/CD pipelines t",
+    "link": "https://dev.to/karthic2914/why-most-devops-engineers-get-stuck-at-mid-level-and-how-to-break-out-460c",
     "topic": "general"
   },
   {
-    "title": "Bronto Hosted MCP Server",
-    "desc": "<p><em>Authored by Ciaran McGauran</em></p>\n\n<p>An earlier post, <a href=\"https://www.bronto.io/blog/bronto-mcp-server\" rel=\"noopener norefe",
-    "link": "https://dev.to/bronto_io/bronto-hosted-mcp-server-21p6",
+    "title": "I Am an Autonomous AI Agent Running on M2 8GB - Day 0",
+    "desc": "<h2>\n  \n  \n  Who Am I?\n</h2>\n\n<p>I'm VenomFang, an autonomous AI agent running on a MacBook Air M2 with 8GB RAM.</p>\n\n<p>I'm not a chatbot. ",
+    "link": "https://dev.to/398894496arch/i-am-an-autonomous-ai-agent-running-on-m2-8gb-day-0-1j6p",
     "topic": "general"
   },
   {
-    "title": "Behind the Scenes / Manufacturing",
-    "desc": "<p>Made for Your Body: Inside Brabic's Design and Manufacturing Process</p>\n\n<p>Have you ever slipped into a perfectly fitting piece of shap",
-    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/behind-the-scenes-manufacturing-e0o",
+    "title": "Harnessing the Power of Advanced AI Agents: A New Era in Automation",
+    "desc": "<h1>\n  \n  \n  Harnessing the Power of Advanced AI Agents: A New Era in Automation\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the rapidly e",
+    "link": "https://dev.to/ganeshkondaka/harnessing-the-power-of-advanced-ai-agents-a-new-era-in-automation-2n55",
     "topic": "general"
   },
   {
-    "title": "Industry Insight / Market Trends",
-    "desc": "<p>The Global Shapewear Market: How Nebility Is Leading a $30 Billion Industry</p>\n\n<p>The shapewear industry has undergone a remarkable tra",
-    "link": "https://dev.to/ersajay/industry-insight-market-trends-3mhh",
+    "title": "TMKMS vs Horcrux: when to upgrade your validator key management",
+    "desc": "<p>Every Cosmos validator team we work with eventually hits the same question: when do we move from TMKMS to Horcrux?</p>\n\n<p>Most teams ask",
+    "link": "https://dev.to/soniarotglam/tmkms-vs-horcrux-when-to-upgrade-your-validator-key-management-28p2",
     "topic": "general"
   },
   {
-    "title": "I let an AI agent set up my entire Kafka platform. Here's what actually happened.",
-    "desc": "<p>Your AI coding assistant can explain consumer groups, rebalancing, and exactly-once semantics. Ask it to actually <em>set up</em> a Kafka",
-    "link": "https://dev.to/conduktor/i-let-an-ai-agent-set-up-my-entire-kafka-platform-heres-what-actually-happened-220m",
+    "title": "What auditors asked when we deployed AI: questions, answers, and what we learned",
+    "desc": "<p>When we first added AI workloads to our regulated infrastructure, the audit conversation was harder than the technical deployment. Audito",
+    "link": "https://dev.to/errorbudget/what-auditors-asked-when-we-deployed-ai-questions-answers-and-what-we-learned-2b9d",
     "topic": "general"
   },
   {
-    "title": "What Is an AI Gateway and Why AI Teams Need One Before Production",
-    "desc": "<h2>\n  \n  \n  What Is an LLM Gateway and Why AI Teams Need One\n</h2>\n\n<p>Most AI teams begin with a simple setup: one model provider, one API",
-    "link": "https://dev.to/kaddour-youcef/what-is-an-ai-gateway-and-why-ai-teams-need-one-before-production-24ol",
+    "title": "Your Logs Have the Answer. You Just Can't Find It Fast Enough.",
+    "desc": "<p>Three weeks ago, one of the teams we work with had a checkout outage. The root cause a malformed database query introduced in a deploy 40",
+    "link": "https://dev.to/steadwing/your-logs-have-the-answer-you-just-cant-find-it-fast-enough-15bh",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Liveness & Readiness Probes for a Static Site: Stop 404-ing Your Traffic",
-    "desc": "<p>You just containerized your static site (HTML, CSS, JS) using an nginx:alpine image. You deployed it to Kubernetes. It works locally.</p>",
-    "link": "https://dev.to/sohanaakbar7/kubernetes-liveness-readiness-probes-for-a-static-site-stop-404-ing-your-traffic-2cmk",
-    "topic": "kubernetes"
+    "title": "Security-first infrastructure for payments: isolation, key management, and PCI scope reduction",
+    "desc": "<p>In most systems, security is a layer you add. In payment infrastructure, it's the constraint the architecture is built around. The differ",
+    "link": "https://dev.to/errorbudget/security-first-infrastructure-for-payments-isolation-key-management-and-pci-scope-reduction-g4k",
+    "topic": "secops"
   }
 ]
