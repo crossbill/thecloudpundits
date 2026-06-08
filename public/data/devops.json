@@ -1,5 +1,17 @@
 [
   {
+    "title": "Stop Measuring AI Features By Hours Saved (Measure This Instead)",
+    "desc": "<h2>\n  \n  \n  The \"Time Saved\" Trap We Keep Falling Into\n</h2>\n\n<p>You've just shipped an AI feature. Your manager asks: \"How much time does ",
+    "link": "https://dev.to/icentric/stop-measuring-ai-features-by-hours-saved-measure-this-instead-n4b",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Using One LLM for Everything: A Dev's Guide to Model Routing",
+    "desc": "<h2>\n  \n  \n  The Problem With Your Current LLM Stack\n</h2>\n\n<p>If you're sending every prompt through GPT-4 or Claude Opus because \"it's the",
+    "link": "https://dev.to/icentric/stop-using-one-llm-for-everything-a-devs-guide-to-model-routing-4fl1",
+    "topic": "general"
+  },
+  {
     "title": "K8s cost allocation without manual tagging in 2026",
     "desc": "<h2>\n  \n  \n  Quick take\n</h2>\n\n<blockquote>\n<p>Manual tagging breaks at scale. Devs forget labels, tags drift across rebuilds, and 30 to 40%",
     "link": "https://dev.to/muskan_8abedcc7e12/k8s-cost-allocation-without-manual-tagging-in-2026-2poo",
@@ -33,18 +45,6 @@
     "title": "Agentic Support Agent for a Platform Teams",
     "desc": "<p>One of the most tiring tasks for R&D teams is supporting their own services. For platform teams it's worse \u2014 there's no customer success,",
     "link": "https://dev.to/omer_k/agentic-support-agent-for-a-platform-teams-25hl",
-    "topic": "general"
-  },
-  {
-    "title": "Debugging Postiz & Temporal: A Production Runbook for Self-Hosted Social Media Orchestration",
-    "desc": "<p>It's an incredibly powerful move to self-host your social media scheduling infrastructure. Not only does it offer unparalleled data sover",
-    "link": "https://dev.to/klytron/debugging-postiz-temporal-a-production-runbook-for-self-hosted-social-media-orchestration-560f",
-    "topic": "general"
-  },
-  {
-    "title": "What we shipped on 2026-06-07",
-    "desc": "<p>We spent today consolidating a messy database state instead of adding new columns; <code>chore(main): release 0.74.0</code> focuses on Ph",
-    "link": "https://dev.to/glad_labs/what-we-shipped-on-2026-06-07-29cb",
     "topic": "general"
   }
 ]
