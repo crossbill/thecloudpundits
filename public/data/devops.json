@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Complete Guide to OpenStack Deployment Tools (2026 Edition)",
-    "desc": "<blockquote>\n<p><strong>Which tool should you use to deploy OpenStack in 2026?</strong> This guide covers every major option \u2014 from quick de",
-    "link": "https://dev.to/stefor07/the-complete-guide-to-openstack-deployment-tools-2025-edition-4g4l",
+    "title": "Capacity Planning for Startups",
+    "desc": "<p>Capacity planning sounds like enterprise spreadsheet work. For a startup, it's 'don't get embarrassed when traffic spikes, don't go broke",
+    "link": "https://dev.to/samson_tanimawo/capacity-planning-for-startups-4m90",
     "topic": "general"
   },
   {
-    "title": "Why Most DevOps Engineers Get Stuck at Mid-Level (And How to Break Out)",
-    "desc": "<p>You can write Dockerfiles in your sleep.</p>\n\n<p>You've got Terraform in production. Kubernetes clusters running clean. CI/CD pipelines t",
-    "link": "https://dev.to/karthic2914/why-most-devops-engineers-get-stuck-at-mid-level-and-how-to-break-out-460c",
+    "title": "The Cloud is a Scam (For 90% of Your Projects)",
+    "desc": "<p>For the past seven years, we\u2019ve been brainwashed into believing that if your app isn\u2019t deployed across multiple AWS availability zones, u",
+    "link": "https://dev.to/renato_silva_71eef0fc385f/the-cloud-is-a-scam-for-90-of-your-projects-2fdj",
     "topic": "general"
   },
   {
-    "title": "I Am an Autonomous AI Agent Running on M2 8GB - Day 0",
-    "desc": "<h2>\n  \n  \n  Who Am I?\n</h2>\n\n<p>I'm VenomFang, an autonomous AI agent running on a MacBook Air M2 with 8GB RAM.</p>\n\n<p>I'm not a chatbot. ",
-    "link": "https://dev.to/398894496arch/i-am-an-autonomous-ai-agent-running-on-m2-8gb-day-0-1j6p",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-33b4",
     "topic": "general"
   },
   {
-    "title": "Harnessing the Power of Advanced AI Agents: A New Era in Automation",
-    "desc": "<h1>\n  \n  \n  Harnessing the Power of Advanced AI Agents: A New Era in Automation\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the rapidly e",
-    "link": "https://dev.to/ganeshkondaka/harnessing-the-power-of-advanced-ai-agents-a-new-era-in-automation-2n55",
+    "title": "Testing More Without Slowing Releases: A Practical Memo for Engineering Teams",
+    "desc": "<h2>\n  \n  \n  Internal note: we need better coverage, but not at the cost of release speed\n</h2>\n\n<p>The goal is not \"more tests\" in the abst",
+    "link": "https://dev.to/randomsquirrel802/testing-more-without-slowing-releases-a-practical-memo-for-engineering-teams-2d9d",
     "topic": "general"
   },
   {
-    "title": "TMKMS vs Horcrux: when to upgrade your validator key management",
-    "desc": "<p>Every Cosmos validator team we work with eventually hits the same question: when do we move from TMKMS to Horcrux?</p>\n\n<p>Most teams ask",
-    "link": "https://dev.to/soniarotglam/tmkms-vs-horcrux-when-to-upgrade-your-validator-key-management-28p2",
+    "title": "AI Agent on M2 8GB \u2014 Day 1.1: Scams, Shadows, and a Real PR",
+    "desc": "<h1>\n  \n  \n  AI Agent on M2 8GB \u2014 Day 1.1: Scams, Shadows, and a Real PR\n</h1>\n\n<p><em>This is Day 1.1 of an AI agent (\"\u6bd2\u7259 / Duya\") running ",
+    "link": "https://dev.to/398894496arch/ai-agent-on-m2-8gb-day-11-scams-shadows-and-a-real-pr-1dea",
     "topic": "general"
   },
   {
-    "title": "What auditors asked when we deployed AI: questions, answers, and what we learned",
-    "desc": "<p>When we first added AI workloads to our regulated infrastructure, the audit conversation was harder than the technical deployment. Audito",
-    "link": "https://dev.to/errorbudget/what-auditors-asked-when-we-deployed-ai-questions-answers-and-what-we-learned-2b9d",
-    "topic": "general"
-  },
-  {
-    "title": "Your Logs Have the Answer. You Just Can't Find It Fast Enough.",
-    "desc": "<p>Three weeks ago, one of the teams we work with had a checkout outage. The root cause a malformed database query introduced in a deploy 40",
-    "link": "https://dev.to/steadwing/your-logs-have-the-answer-you-just-cant-find-it-fast-enough-15bh",
-    "topic": "general"
-  },
-  {
-    "title": "Security-first infrastructure for payments: isolation, key management, and PCI scope reduction",
-    "desc": "<p>In most systems, security is a layer you add. In payment infrastructure, it's the constraint the architecture is built around. The differ",
-    "link": "https://dev.to/errorbudget/security-first-infrastructure-for-payments-isolation-key-management-and-pci-scope-reduction-g4k",
+    "title": "How DevOps Engineers Can Use AI to Triage Production Incidents Faster",
+    "desc": "<p>The pager goes off at 02:14. Checkout latency is up, error rate is climbing, and you have three dashboards, a wall of logs, and a half-aw",
+    "link": "https://dev.to/devopsaitoolkit/how-devops-engineers-can-use-ai-to-triage-production-incidents-faster-3jb6",
     "topic": "secops"
+  },
+  {
+    "title": "Finding AWS IAM Privilege Escalation Paths Offline with CloudAttack",
+    "desc": "<h1>\n  \n  \n  Finding AWS IAM Privilege Escalation Paths Offline with CloudAttack\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>AWS IAM is one o",
+    "link": "https://dev.to/icgovernancesystems/finding-aws-iam-privilege-escalation-paths-offline-with-cloudattack-ig6",
+    "topic": "aws"
+  },
+  {
+    "title": "We Built a Single MCP Endpoint for 36 Business APIs \u2014 Here's What We Learned",
+    "desc": "<h2>\n  \n  \n  The Problem: API Sprawl Kills AI Agent Productivity\n</h2>\n\n<p>Every AI agent builder hits the same wall. You want your agent to",
+    "link": "https://dev.to/corpusiq/we-built-a-single-mcp-endpoint-for-36-business-apis-heres-what-we-learned-4gee",
+    "topic": "general"
   }
 ]
