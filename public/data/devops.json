@@ -1,50 +1,50 @@
 [
   {
-    "title": "Struggling to Gain Posting Privileges on r/LocalLLaMA: Seeking Help",
-    "desc": "<p>There is a community on Reddit called r/LocalLLaMA. I am eager to post about my Storm Engine Technology website there.<br />\nHowever, the",
-    "link": "https://dev.to/yiqinumber1/struggling-to-gain-posting-privileges-on-rlocalllama-seeking-help-28ed",
-    "topic": "general"
-  },
-  {
-    "title": "Day 28 \u2014 \ud83d\udd2d Monitoring & Observability Part One",
-    "desc": "<p>In Modern Time applications are no longer simple monolithic systems.</p>\n\n<p>Today organizations run:</p>\n\n<ul>\n<li>Microservices</li>\n<l",
-    "link": "https://dev.to/17j/day-28-monitoring-observability-part-one-1f13",
-    "topic": "general"
-  },
-  {
-    "title": "Two Layers Your AI-SDLC Metrics Are Missing",
-    "desc": "<p><em>Originally published at <a href=\"https://devopsdiary.blog/posts/two-layers-your-ai-sdlc-metrics-are-missing/\" rel=\"noopener noreferre",
-    "link": "https://dev.to/todd_linnertz_871a076f68e/two-layers-your-ai-sdlc-metrics-are-missing-4mje",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Kubernetes Operator from Scratch with operator-sdk",
-    "desc": "<blockquote>\n<p><strong>GitHub Repo</strong>: <a href=\"https://github.com/SandeshOjha06/k8-operator\" rel=\"noopener noreferrer\">SandeshOjha06",
-    "link": "https://dev.to/sandeshojha/building-a-kubernetes-operator-from-scratch-with-operator-sdk-576k",
+    "title": "K8s cost allocation without manual tagging in 2026",
+    "desc": "<h2>\n  \n  \n  Quick take\n</h2>\n\n<blockquote>\n<p>Manual tagging breaks at scale. Devs forget labels, tags drift across rebuilds, and 30 to 40%",
+    "link": "https://dev.to/muskan_8abedcc7e12/k8s-cost-allocation-without-manual-tagging-in-2026-2poo",
     "topic": "kubernetes"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-10g4",
+    "title": "The AI Adoption Playbook for Engineering Leaders",
+    "desc": "<p>The AI Adoption Playbook for Engineering Leaders</p>\n\n<p>How to scale AI in your SDLC without sacrificing quality, control, or delivery p",
+    "link": "https://dev.to/cponsonby/the-ai-adoption-playbook-for-engineering-leaders-2n6e",
     "topic": "general"
   },
   {
-    "title": "Backstage vs Port vs Cortex: When to Stop Self-Hosting",
-    "desc": "<p>Backstage won the developer portal war and most teams running it still failed. Spotify's open-source framework, now a CNCF project, holds",
-    "link": "https://dev.to/indra_gustiprasetya_a80a/backstage-vs-port-vs-cortex-when-to-stop-self-hosting-4pgn",
+    "title": "10 Prompts I Reach for Every Week to Stay Unblocked as an Engineer",
+    "desc": "<h1>\n  \n  \n  10 Prompts I Reach for Every Week to Stay Unblocked as an Engineer\n</h1>\n\n<p>After five weeks of deliberately logging how I use",
+    "link": "https://dev.to/leveragenotes/10-prompts-i-reach-for-every-week-to-stay-unblocked-as-an-engineer-1fa5",
     "topic": "general"
   },
   {
-    "title": "Learning DevOps from First Principles: What an EC2 Instance Actually Is",
-    "desc": "<p>One of the first cloud concepts many people encounter while learning AWS is <strong>EC2</strong>.</p>\n\n<p>The name sounds technical.</p>\n",
-    "link": "https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-what-an-ec2-instance-actually-is-55dp",
+    "title": "We built test mode. Then discovered it was broken.",
+    "desc": "<p><em>Part of building jhansi.io in public.</em></p>\n\n<p>Test mode sounded simple. Upload code, pass a command, jhansi runs it + your test ",
+    "link": "https://dev.to/thearun85/we-built-test-mode-then-discovered-it-was-broken-5a5k",
     "topic": "general"
   },
   {
-    "title": "Learning DevOps from First Principles: I Ran ping github.com and Opened Wireshark \u2014 Here's What I Learned",
-    "desc": "<p>One of the most interesting things about learning networking is that many concepts seem abstract until you see them happening in real tim",
-    "link": "https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-i-ran-ping-githubcom-and-opened-wireshark-heres-what-i-27fi",
+    "title": "2026's breach list is out and the pattern is depressingly familiar",
+    "desc": "<p>TechCrunch just published their midyear roundup of the worst hacks and breaches of 2026, and if you read through it, the thing that stand",
+    "link": "https://dev.to/dimitrisk_cyclopt/2026s-breach-list-is-out-and-the-pattern-is-depressingly-familiar-3537",
+    "topic": "secops"
+  },
+  {
+    "title": "Agentic Support Agent for a Platform Teams",
+    "desc": "<p>One of the most tiring tasks for R&D teams is supporting their own services. For platform teams it's worse \u2014 there's no customer success,",
+    "link": "https://dev.to/omer_k/agentic-support-agent-for-a-platform-teams-25hl",
+    "topic": "general"
+  },
+  {
+    "title": "Debugging Postiz & Temporal: A Production Runbook for Self-Hosted Social Media Orchestration",
+    "desc": "<p>It's an incredibly powerful move to self-host your social media scheduling infrastructure. Not only does it offer unparalleled data sover",
+    "link": "https://dev.to/klytron/debugging-postiz-temporal-a-production-runbook-for-self-hosted-social-media-orchestration-560f",
+    "topic": "general"
+  },
+  {
+    "title": "What we shipped on 2026-06-07",
+    "desc": "<p>We spent today consolidating a messy database state instead of adding new columns; <code>chore(main): release 0.74.0</code> focuses on Ph",
+    "link": "https://dev.to/glad_labs/what-we-shipped-on-2026-06-07-29cb",
     "topic": "general"
   }
 ]
