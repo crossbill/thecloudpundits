@@ -1,1 +1,1 @@
-# The CLoud Pundits
+# The Cloud Pundits
