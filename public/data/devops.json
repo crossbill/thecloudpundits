@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your branch protection is quietly turning away first-time contributors",
-    "desc": "<p>Ten weeks ago I did the thing every \"grow your open source project\" guide tells you to do. I carved a few small, self-contained tasks out",
-    "link": "https://dev.to/achiya-automation/your-branch-protection-is-quietly-turning-away-first-time-contributors-48if",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-pnf",
     "topic": "general"
   },
   {
-    "title": "Stop Measuring AI Features By Hours Saved (Measure This Instead)",
-    "desc": "<h2>\n  \n  \n  The \"Time Saved\" Trap We Keep Falling Into\n</h2>\n\n<p>You've just shipped an AI feature. Your manager asks: \"How much time does ",
-    "link": "https://dev.to/icentric/stop-measuring-ai-features-by-hours-saved-measure-this-instead-n4b",
+    "title": "Disaster Recovery Architecture: Designing Infrastructure That Can Handle Failures",
+    "desc": "<p>Downtime is rarely just an infrastructure problem.</p>\n\n<p>When critical systems stop working, the impact can reach applications, users, ",
+    "link": "https://dev.to/silvernox_datacenter/disaster-recovery-architecture-designing-infrastructure-that-can-handle-failures-2igl",
     "topic": "general"
   },
   {
-    "title": "Stop Using One LLM for Everything: A Dev's Guide to Model Routing",
-    "desc": "<h2>\n  \n  \n  The Problem With Your Current LLM Stack\n</h2>\n\n<p>If you're sending every prompt through GPT-4 or Claude Opus because \"it's the",
-    "link": "https://dev.to/icentric/stop-using-one-llm-for-everything-a-devs-guide-to-model-routing-4fl1",
+    "title": "Bronto Hosted MCP Server",
+    "desc": "<p><em>Authored by Ciaran McGauran</em></p>\n\n<p>An earlier post, <a href=\"https://www.bronto.io/blog/bronto-mcp-server\" rel=\"noopener norefe",
+    "link": "https://dev.to/bronto_io/bronto-hosted-mcp-server-21p6",
     "topic": "general"
   },
   {
-    "title": "K8s cost allocation without manual tagging in 2026",
-    "desc": "<h2>\n  \n  \n  Quick take\n</h2>\n\n<blockquote>\n<p>Manual tagging breaks at scale. Devs forget labels, tags drift across rebuilds, and 30 to 40%",
-    "link": "https://dev.to/muskan_8abedcc7e12/k8s-cost-allocation-without-manual-tagging-in-2026-2poo",
+    "title": "Behind the Scenes / Manufacturing",
+    "desc": "<p>Made for Your Body: Inside Brabic's Design and Manufacturing Process</p>\n\n<p>Have you ever slipped into a perfectly fitting piece of shap",
+    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/behind-the-scenes-manufacturing-e0o",
+    "topic": "general"
+  },
+  {
+    "title": "Industry Insight / Market Trends",
+    "desc": "<p>The Global Shapewear Market: How Nebility Is Leading a $30 Billion Industry</p>\n\n<p>The shapewear industry has undergone a remarkable tra",
+    "link": "https://dev.to/ersajay/industry-insight-market-trends-3mhh",
+    "topic": "general"
+  },
+  {
+    "title": "I let an AI agent set up my entire Kafka platform. Here's what actually happened.",
+    "desc": "<p>Your AI coding assistant can explain consumer groups, rebalancing, and exactly-once semantics. Ask it to actually <em>set up</em> a Kafka",
+    "link": "https://dev.to/conduktor/i-let-an-ai-agent-set-up-my-entire-kafka-platform-heres-what-actually-happened-220m",
+    "topic": "general"
+  },
+  {
+    "title": "What Is an AI Gateway and Why AI Teams Need One Before Production",
+    "desc": "<h2>\n  \n  \n  What Is an LLM Gateway and Why AI Teams Need One\n</h2>\n\n<p>Most AI teams begin with a simple setup: one model provider, one API",
+    "link": "https://dev.to/kaddour-youcef/what-is-an-ai-gateway-and-why-ai-teams-need-one-before-production-24ol",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes Liveness & Readiness Probes for a Static Site: Stop 404-ing Your Traffic",
+    "desc": "<p>You just containerized your static site (HTML, CSS, JS) using an nginx:alpine image. You deployed it to Kubernetes. It works locally.</p>",
+    "link": "https://dev.to/sohanaakbar7/kubernetes-liveness-readiness-probes-for-a-static-site-stop-404-ing-your-traffic-2cmk",
     "topic": "kubernetes"
-  },
-  {
-    "title": "The AI Adoption Playbook for Engineering Leaders",
-    "desc": "<p>The AI Adoption Playbook for Engineering Leaders</p>\n\n<p>How to scale AI in your SDLC without sacrificing quality, control, or delivery p",
-    "link": "https://dev.to/cponsonby/the-ai-adoption-playbook-for-engineering-leaders-2n6e",
-    "topic": "general"
-  },
-  {
-    "title": "10 Prompts I Reach for Every Week to Stay Unblocked as an Engineer",
-    "desc": "<h1>\n  \n  \n  10 Prompts I Reach for Every Week to Stay Unblocked as an Engineer\n</h1>\n\n<p>After five weeks of deliberately logging how I use",
-    "link": "https://dev.to/leveragenotes/10-prompts-i-reach-for-every-week-to-stay-unblocked-as-an-engineer-1fa5",
-    "topic": "general"
-  },
-  {
-    "title": "We built test mode. Then discovered it was broken.",
-    "desc": "<p><em>Part of building jhansi.io in public.</em></p>\n\n<p>Test mode sounded simple. Upload code, pass a command, jhansi runs it + your test ",
-    "link": "https://dev.to/thearun85/we-built-test-mode-then-discovered-it-was-broken-5a5k",
-    "topic": "general"
-  },
-  {
-    "title": "2026's breach list is out and the pattern is depressingly familiar",
-    "desc": "<p>TechCrunch just published their midyear roundup of the worst hacks and breaches of 2026, and if you read through it, the thing that stand",
-    "link": "https://dev.to/dimitrisk_cyclopt/2026s-breach-list-is-out-and-the-pattern-is-depressingly-familiar-3537",
-    "topic": "secops"
   }
 ]
