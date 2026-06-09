@@ -1,50 +1,50 @@
 [
   {
-    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 02 \u2013 Jun 08, 2026",
-    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 02 \u2013 Jun 08, 2026 | <strong>Tot",
-    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-jun-02-jun-08-2026-4lfj",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4iea",
+    "topic": "general"
+  },
+  {
+    "title": "Load Balancer Tuning: Lessons from Production",
+    "desc": "<p>Load balancers are the silent infrastructure. You don't think about them until they start dropping connections at 2 AM. Here are the sett",
+    "link": "https://dev.to/samson_tanimawo/load-balancer-tuning-lessons-from-production-5cg3",
+    "topic": "general"
+  },
+  {
+    "title": "Mastering Netstat: The Linux Command That Separates Beginners from Real Infrastructure Engineers",
+    "desc": "<p>In the era of Kubernetes, cloud-native architectures, and microservices, many engineers focus on high-level abstractions. But when a prod",
+    "link": "https://dev.to/sovrab/mastering-netstat-the-linux-command-that-separates-beginners-from-real-infrastructure-engineers-2kn7",
+    "topic": "general"
+  },
+  {
+    "title": "Your server has open doors you don't know about.",
+    "desc": "<p>Open your terminal right now.<br />\nType this:<br />\nsudo netstat -tulpn<br />\nEvery line = an open port on your server.<br />\nA door tha",
+    "link": "https://dev.to/sovrab/your-server-has-open-doors-you-dont-know-about-535f",
+    "topic": "general"
+  },
+  {
+    "title": "Order to running server in minutes: how automated provisioning works",
+    "desc": "<p><em>Click buy, and a few minutes later your login is in your inbox \u2014 no human in the loop. Here's what happens between those two moments.",
+    "link": "https://dev.to/overnighthost/order-to-running-server-in-minutes-how-automated-provisioning-works-1k4p",
+    "topic": "general"
+  },
+  {
+    "title": "NAT IPv4 vs a dedicated IP \u2014 what budget VPS buyers should know",
+    "desc": "<p><em>IPv4 addresses are scarce and expensive, so many budget VPS ship with a **shared (NAT) IPv4</em>* rather than a dedicated one. Here's",
+    "link": "https://dev.to/overnighthost/nat-ipv4-vs-a-dedicated-ip-what-budget-vps-buyers-should-know-3one",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Cloud-Native Multimedia Archive with Angular, Bun, AWS Fargate and Amazon Transcribe",
+    "desc": "<p>Many software projects work perfectly on localhost.<br />\nThe challenge begins when they need to handle real users, large files, asynchro",
+    "link": "https://dev.to/jesusrodrigo/building-a-cloud-native-multimedia-archive-with-angular-bun-aws-fargate-and-amazon-transcribe-15pk",
     "topic": "aws"
   },
   {
-    "title": "I looked into OpenAI OAuth for OpenClaw, and the scary part isn\u2019t what most people think",
-    "desc": "<p>A lot of people hit the OpenAI OAuth screen in OpenClaw and immediately assume the worst.</p>\n\n<p>Reasonable reaction, honestly.</p>\n\n<p>",
-    "link": "https://dev.to/lars_winstand/i-looked-into-openai-oauth-for-openclaw-and-the-scary-part-isnt-what-most-people-think-39d",
-    "topic": "openai"
-  },
-  {
-    "title": "Snyk vs Kolega: why pattern matching has a ceiling, and what sits above it",
-    "desc": "<p>Snyk is the tool you get compared to when you build anything in this space, because it is the incumbent everyone already knows. So it is ",
-    "link": "https://dev.to/muhammad_hasan/snyk-vs-kolega-why-pattern-matching-has-a-ceiling-and-what-sits-above-it-566a",
-    "topic": "general"
-  },
-  {
-    "title": "DinkToPdf in 2026: Archived Dependency in Your .NET App",
-    "desc": "<p>If you've shipped a .NET service that generates PDFs in the last seven or eight years, there's a reasonable chance you reached for <a hre",
-    "link": "https://dev.to/ironsoftware/dinktopdf-in-2026-archived-dependency-in-your-net-app-2c97",
-    "topic": "general"
-  },
-  {
-    "title": "Oracle Database End-of-Life Dates \u2014 Premier & Extended Support for Every Version",
-    "desc": "<p>If you've ever tried to answer the simple question <em>\"when does my Oracle Database version go end of life?\"</em> you've probably discov",
-    "link": "https://dev.to/endoflifeai/oracle-database-end-of-life-dates-premier-extended-support-for-every-version-59la",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-126n",
-    "topic": "general"
-  },
-  {
-    "title": "SPF ~all softfail: what it means and when to switch to -all",
-    "desc": "<p>When a checker flags <code>~all</code> with a warning, a lot of people assume something is broken. It is not. SPF softfail is a valid and",
-    "link": "https://dev.to/inboxgreen/spf-all-softfail-what-it-means-and-when-to-switch-to-all-4d7f",
-    "topic": "general"
-  },
-  {
-    "title": "I built a local dead-man's-switch for cron jobs (no server, no signup)",
-    "desc": "<p>Cron has a cruel design flaw: it tells you nothing when a job <em>stops</em> running.</p>\n\n<p>A job that exits non-zero? Silent. A job th",
-    "link": "https://dev.to/_06a3df6b50aec966668fb/i-built-a-local-dead-mans-switch-for-cron-jobs-no-server-no-signup-3j1m",
+    "title": "DevOps Pipeline: Stages, Tools, and CI/CD Explained",
+    "desc": "<p>Most teams don't fail at writing code. They fail at getting it to production reliably, quickly, and without someone staying late to babys",
+    "link": "https://dev.to/ilyas_elaissi/devops-pipeline-stages-tools-and-cicd-explained-3fpm",
     "topic": "general"
   }
 ]

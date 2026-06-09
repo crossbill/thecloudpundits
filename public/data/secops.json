@@ -1,5 +1,17 @@
 [
   {
+    "title": "Microsoft Patches 200 Vulnerabilities",
+    "desc": "<p>Three of the vulnerabilities fixed with the latest Patch Tuesday updates were publicly disclosed before Microsoft addressed them.</p>\n<p>",
+    "link": "https://www.securityweek.com/microsoft-patches-200-vulnerabilities/",
+    "topic": "azure"
+  },
+  {
+    "title": "Adobe Patches 123 Vulnerabilities",
+    "desc": "<p>Nearly half of the security holes, most allowing arbitrary code execution, have been fixed in Adobe\u2019s Experience Manager product.</p>\n<p>",
+    "link": "https://www.securityweek.com/adobe-patches-123-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails",
     "desc": "<p>The AI giant also announced that Project Glasswing partners are being given access to the upgraded Mythos 5.</p>\n<p>The post <a href=\"htt",
     "link": "https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/",
@@ -33,18 +45,6 @@
     "title": "Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks",
     "desc": "<p>The most recent variants of the self-propagating attacks are named Miasma and Hades.</p>\n<p>The post <a href=\"https://www.securityweek.co",
     "link": "https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "Will AI Kill the Bug Bounty Industry?",
-    "desc": "<p>Anthropic's Mythos is accelerating vulnerability discovery to machine speed, forcing the bug bounty industry and offensive security teams",
-    "link": "https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/",
-    "topic": "general"
-  },
-  {
-    "title": "Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks",
-    "desc": "<p>The authentication bypass vulnerability allows attackers to establish VPN connections without a valid password.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/",
     "topic": "secops"
   }
 ]
