@@ -1,5 +1,35 @@
 [
   {
+    "title": "Field Test #020b \u2014 Next.js Root Ownership Refinement",
+    "desc": "<p>The first version of the patch treated the issue as a nearest-root problem.</p>\n\n<p>That was too broad.</p>\n\n<p>The failure in #92978 inv",
+    "link": "https://dev.to/scarab-systems/field-test-020b-nextjs-root-ownership-refinement-2pfo",
+    "topic": "general"
+  },
+  {
+    "title": "What Changes When Testing Has to Scale With the Team",
+    "desc": "<p>When a project moves from a few people shipping features in a shared branch to a real team workflow, testing stops being about confidence",
+    "link": "https://dev.to/randomsquirrel802/what-changes-when-testing-has-to-scale-with-the-team-350g",
+    "topic": "general"
+  },
+  {
+    "title": "How to Compare Testing Tools Without Getting Fooled by Feature Checklists",
+    "desc": "<p>The biggest mistake teams make when comparing testing tools is treating the feature list like the decision. A tool can support API tests,",
+    "link": "https://dev.to/sleepyfalcon247/how-to-compare-testing-tools-without-getting-fooled-by-feature-checklists-1b8l",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying a Dockerized Node.js Application on Kubernetes \ud83d\ude80",
+    "desc": "<p>After containerizing an application with Docker, the next logical step is deploying it on Kubernetes.</p>\n\n<p>Kubernetes helps automate a",
+    "link": "https://dev.to/madhavnakra/deploying-a-dockerized-nodejs-application-on-kubernetes-34e4",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "How to Deploy 10 Times a Day Safely with Feature Flags",
+    "desc": "<p>If you\u2019ve been following my previous posts, you know I\u2019m a big advocate for Trunk-Based Development and shrinking your pull requests unti",
+    "link": "https://dev.to/codecraft_diary_3d13677fb/how-to-deploy-10-times-a-day-safely-with-feature-flags-3m92",
+    "topic": "general"
+  },
+  {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
     "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4iea",
@@ -15,36 +45,6 @@
     "title": "Mastering Netstat: The Linux Command That Separates Beginners from Real Infrastructure Engineers",
     "desc": "<p>In the era of Kubernetes, cloud-native architectures, and microservices, many engineers focus on high-level abstractions. But when a prod",
     "link": "https://dev.to/sovrab/mastering-netstat-the-linux-command-that-separates-beginners-from-real-infrastructure-engineers-2kn7",
-    "topic": "general"
-  },
-  {
-    "title": "Your server has open doors you don't know about.",
-    "desc": "<p>Open your terminal right now.<br />\nType this:<br />\nsudo netstat -tulpn<br />\nEvery line = an open port on your server.<br />\nA door tha",
-    "link": "https://dev.to/sovrab/your-server-has-open-doors-you-dont-know-about-535f",
-    "topic": "general"
-  },
-  {
-    "title": "Order to running server in minutes: how automated provisioning works",
-    "desc": "<p><em>Click buy, and a few minutes later your login is in your inbox \u2014 no human in the loop. Here's what happens between those two moments.",
-    "link": "https://dev.to/overnighthost/order-to-running-server-in-minutes-how-automated-provisioning-works-1k4p",
-    "topic": "general"
-  },
-  {
-    "title": "NAT IPv4 vs a dedicated IP \u2014 what budget VPS buyers should know",
-    "desc": "<p><em>IPv4 addresses are scarce and expensive, so many budget VPS ship with a **shared (NAT) IPv4</em>* rather than a dedicated one. Here's",
-    "link": "https://dev.to/overnighthost/nat-ipv4-vs-a-dedicated-ip-what-budget-vps-buyers-should-know-3one",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Cloud-Native Multimedia Archive with Angular, Bun, AWS Fargate and Amazon Transcribe",
-    "desc": "<p>Many software projects work perfectly on localhost.<br />\nThe challenge begins when they need to handle real users, large files, asynchro",
-    "link": "https://dev.to/jesusrodrigo/building-a-cloud-native-multimedia-archive-with-angular-bun-aws-fargate-and-amazon-transcribe-15pk",
-    "topic": "aws"
-  },
-  {
-    "title": "DevOps Pipeline: Stages, Tools, and CI/CD Explained",
-    "desc": "<p>Most teams don't fail at writing code. They fail at getting it to production reliably, quickly, and without someone staying late to babys",
-    "link": "https://dev.to/ilyas_elaissi/devops-pipeline-stages-tools-and-cicd-explained-3fpm",
     "topic": "general"
   }
 ]
