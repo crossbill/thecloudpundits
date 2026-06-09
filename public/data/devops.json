@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Got Tired of Searching for Datasets, So I Built My Own Dataset Discovery Platform",
-    "desc": "<p>Every AI or machine learning project starts with the same question:</p>\n\n<blockquote>\n<p>Where do I get the data?</p>\n</blockquote>\n\n<p>W",
-    "link": "https://dev.to/brovk2008/i-got-tired-of-searching-for-datasets-so-i-built-my-own-dataset-discovery-platform-1k4e",
-    "topic": "general"
-  },
-  {
-    "title": "Why Your Fast Shipping Means Nothing If Your Users Think the Product is Dead",
-    "desc": "<p>There is a frustrating paradox in modern product development: your engineering team is shipping upgrades at terminal velocity, monitors l",
-    "link": "https://dev.to/ty_y_1d5410f6fd32364ad8c2/why-your-fast-shipping-means-nothing-if-your-users-think-the-product-is-dead-2k85",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Spring Boot to AWS EC2 with Docker and GitHub Actions \u2014 The Repeatable Way",
-    "desc": "<p>Deploying a Spring Boot application to AWS EC2 is straightforward once you've done it.</p>\n\n<p>Getting there the first time \u2014 and repeati",
-    "link": "https://dev.to/yadrs/deploying-spring-boot-to-aws-ec2-with-docker-and-github-actions-the-repeatable-way-55bi",
+    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 02 \u2013 Jun 08, 2026",
+    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 02 \u2013 Jun 08, 2026 | <strong>Tot",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-jun-02-jun-08-2026-4lfj",
     "topic": "aws"
   },
   {
-    "title": "How to Compress Images From the Command Line (and in CI) \u2014 No Upload, No Account",
-    "desc": "<p>Most \"compress your images\" advice ends with <em>\"...now drag your files into this website.\"</em> That's fine for a one-off. It's useless",
-    "link": "https://dev.to/orthogonalinfo/how-to-compress-images-from-the-command-line-and-in-ci-no-upload-no-account-481m",
+    "title": "I looked into OpenAI OAuth for OpenClaw, and the scary part isn\u2019t what most people think",
+    "desc": "<p>A lot of people hit the OpenAI OAuth screen in OpenClaw and immediately assume the worst.</p>\n\n<p>Reasonable reaction, honestly.</p>\n\n<p>",
+    "link": "https://dev.to/lars_winstand/i-looked-into-openai-oauth-for-openclaw-and-the-scary-part-isnt-what-most-people-think-39d",
+    "topic": "openai"
+  },
+  {
+    "title": "Snyk vs Kolega: why pattern matching has a ceiling, and what sits above it",
+    "desc": "<p>Snyk is the tool you get compared to when you build anything in this space, because it is the incumbent everyone already knows. So it is ",
+    "link": "https://dev.to/muhammad_hasan/snyk-vs-kolega-why-pattern-matching-has-a-ceiling-and-what-sits-above-it-566a",
     "topic": "general"
   },
   {
-    "title": "Creating a VNet and Subnet on Microsoft Azure",
-    "desc": "<h2>\n  \n  \n  First Step:\n</h2>\n\n<p><strong>Log in to your Azure Account, and in the search bar, search for Resource Groups and click on it.<",
-    "link": "https://dev.to/egbe_fredrick_f196b536d7d/creating-a-vnet-and-subnet-on-microsoft-azure-p52",
-    "topic": "azure"
-  },
-  {
-    "title": "\"The AI did it\" is not an audit answer",
-    "desc": "<p>Only 1 in 3 enterprises say they're governance-ready for autonomous agents (McKinsey's 2026 AI Trust Report). In Grant Thornton's 2026 AI",
-    "link": "https://dev.to/igorganapolsky/the-ai-did-it-is-not-an-audit-answer-3c33",
+    "title": "DinkToPdf in 2026: Archived Dependency in Your .NET App",
+    "desc": "<p>If you've shipped a .NET service that generates PDFs in the last seven or eight years, there's a reasonable chance you reached for <a hre",
+    "link": "https://dev.to/ironsoftware/dinktopdf-in-2026-archived-dependency-in-your-net-app-2c97",
     "topic": "general"
   },
   {
-    "title": "Da Observabilidade ao FinOps: Como Tornar Custos uma M\u00e9trica de Engenharia",
-    "desc": "<p>Se voc\u00ea atua com engenharia de software ou infraestrutura h\u00e1 algum tempo, provavelmente se lembra de quando provisionar capacidade comput",
-    "link": "https://dev.to/victorlima142/da-observabilidade-ao-finops-como-tornar-custos-uma-metrica-de-engenharia-41m3",
-    "topic": "finops"
+    "title": "Oracle Database End-of-Life Dates \u2014 Premier & Extended Support for Every Version",
+    "desc": "<p>If you've ever tried to answer the simple question <em>\"when does my Oracle Database version go end of life?\"</em> you've probably discov",
+    "link": "https://dev.to/endoflifeai/oracle-database-end-of-life-dates-premier-extended-support-for-every-version-59la",
+    "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2ofc",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-126n",
+    "topic": "general"
+  },
+  {
+    "title": "SPF ~all softfail: what it means and when to switch to -all",
+    "desc": "<p>When a checker flags <code>~all</code> with a warning, a lot of people assume something is broken. It is not. SPF softfail is a valid and",
+    "link": "https://dev.to/inboxgreen/spf-all-softfail-what-it-means-and-when-to-switch-to-all-4d7f",
+    "topic": "general"
+  },
+  {
+    "title": "I built a local dead-man's-switch for cron jobs (no server, no signup)",
+    "desc": "<p>Cron has a cruel design flaw: it tells you nothing when a job <em>stops</em> running.</p>\n\n<p>A job that exits non-zero? Silent. A job th",
+    "link": "https://dev.to/_06a3df6b50aec966668fb/i-built-a-local-dead-mans-switch-for-cron-jobs-no-server-no-signup-3j1m",
     "topic": "general"
   }
 ]
