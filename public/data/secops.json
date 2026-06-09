@@ -1,5 +1,29 @@
 [
   {
+    "title": "SAP Patches Critical NetWeaver, Commerce Vulnerabilities",
+    "desc": "<p>The flaws could lead to the disclosure of sensitive information, memory corruption, and disruption of normal system usage.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks",
+    "desc": "<p>The most recent variants of the self-propagating attacks are named Miasma and Hades.</p>\n<p>The post <a href=\"https://www.securityweek.co",
+    "link": "https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Will AI Kill the Bug Bounty Industry?",
+    "desc": "<p>Anthropic's Mythos is accelerating vulnerability discovery to machine speed, forcing the bug bounty industry and offensive security teams",
+    "link": "https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/",
+    "topic": "general"
+  },
+  {
+    "title": "Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks",
+    "desc": "<p>The authentication bypass vulnerability allows attackers to establish VPN connections without a valid password.</p>\n<p>The post <a href=\"",
+    "link": "https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/",
+    "topic": "secops"
+  },
+  {
     "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
     "desc": "<p>The vulnerability is tracked as CVE-2026-11645 and it was reported in late April by an anonymous researcher.</p>\n<p>The post <a href=\"htt",
     "link": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/",
@@ -22,29 +46,5 @@
     "desc": "<p>The Meta-owned communications app is filing a federal court contempt order against NSO.</p>\n<p>The post <a href=\"https://www.securityweek",
     "link": "https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/",
     "topic": "general"
-  },
-  {
-    "title": "Cybersecurity M&A Roundup: 26 Deals Announced in May 2026",
-    "desc": "<p>Significant cybersecurity M&A deals announced by Akamai, Check Point, Cisco, Cyera, Dragos, WatchGuard and Zscaler.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/",
-    "topic": "secops"
-  },
-  {
-    "title": "Everest Forms Vulnerability Exploited to Hack WordPress Sites",
-    "desc": "<p>The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/",
-    "topic": "secops"
-  },
-  {
-    "title": "174,000 Impacted by Lansing Community College Data Breach",
-    "desc": "<p>Hackers accessed personal information stored on certain Lansing Community College systems in February 2025.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/",
-    "topic": "secops"
-  },
-  {
-    "title": "Silent Ransom Group Uses DNS Fast Flux in Attacks",
-    "desc": "<p>Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&C infrastructure.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/",
-    "topic": "secops"
   }
 ]
