@@ -1,50 +1,50 @@
 [
   {
-    "title": "Advanced Kubernetes Patterns for Data Engineers",
-    "desc": "<p>Master production-ready Kubernetes deployment patterns specifically designed for data engineering workloads including operators, Stateful",
-    "link": "https://dev.to/victor_kipruto_0f44ad2a3b/advanced-kubernetes-patterns-for-data-engineers-1dn1",
+    "title": "Config Files That Run Code: The Agent Skill Supply Chain",
+    "desc": "<p>The skills land-grab is the story of 2026. GitHub Trending is wall-to-wall agent skills. ClawHub crossed 50,000 published skills in May. ",
+    "link": "https://dev.to/max_quimby/config-files-that-run-code-the-agent-skill-supply-chain-1jah",
+    "topic": "general"
+  },
+  {
+    "title": "Beyond Ingress: Why the Kubernetes Gateway API is the Future of Cloud Native Networking",
+    "desc": "<p>Kubernetes has firmly established itself as the undisputed operating system of the modern cloud. It has revolutionized how we deploy, sca",
+    "link": "https://dev.to/mason_coder10394/beyond-ingress-why-the-kubernetes-gateway-api-is-the-future-of-cloud-native-networking-41pg",
     "topic": "kubernetes"
-  },
-  {
-    "title": "The Author Doesn't Have to Be an Engineer: How the Harness Holds Quality (Series Part 5)",
-    "desc": "<p>Hi, I'm <a href=\"https://x.com/ryantsuji\" rel=\"noopener noreferrer\">Ryan</a>, CTO at airCloset.</p>\n\n<blockquote>\n<p><strong>Disclaimer</",
-    "link": "https://dev.to/ryantsuji/the-author-doesnt-have-to-be-an-engineer-how-the-harness-holds-quality-series-part-5-12e4",
-    "topic": "general"
-  },
-  {
-    "title": "Advanced Kubernetes Patterns for Data Engineers",
-    "desc": "<h2>\n  \n  \n  Mastering Kubernetes for Data Workloads\n</h2>\n\n<p>Production-ready Kubernetes deployment patterns for data engineering.</p>\n\n<h",
-    "link": "https://dev.to/victor_kipruto_0f44ad2a3b/advanced-kubernetes-patterns-for-data-engineers-1pk9",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How I run LocalStack without committing LOCALSTACK_AUTH_TOKEN",
-    "desc": "<p><em>Using <a href=\"https://envilder.com/\" rel=\"noopener noreferrer\">Envilder</a> to keep the LocalStack auth token out of Git while prese",
-    "link": "https://dev.to/macalbert/how-i-run-localstack-without-committing-localstackauthtoken-34gk",
-    "topic": "general"
-  },
-  {
-    "title": "Railway: Platform Deploy Modern yang Membuat Kamu Bisa Fokus ke Kode, Bukan Infrastruktur",
-    "desc": "<h2>\n  \n  \n  Railway: Platform Deploy Modern yang Membuat Kamu Bisa Fokus ke Kode, Bukan Infrastruktur\n</h2>\n\n<p>Ada momen yang familiar bag",
-    "link": "https://dev.to/ai_code_5c8f03cd630c072b1/railway-platform-deploy-modern-yang-membuat-kamu-bisa-fokus-ke-kode-bukan-infrastruktur-1b6k",
-    "topic": "general"
-  },
-  {
-    "title": "What is AI? You Are Already Using It - You Just Did Not Know",
-    "desc": "<p><em>Pipeline & Prompts | Byte size guides on DevOps, Cloud and AI</em></p>\n\n\n\n\n<h2>\n  \n  \n  I Was Selling AI Before Most People Knew What",
-    "link": "https://dev.to/agenticdevops/what-is-ai-you-are-already-using-it-you-just-did-not-know-2bhh",
-    "topic": "general"
-  },
-  {
-    "title": "Setting Honest SLA Targets for Automation Workflows with OpsVeritas",
-    "desc": "<h2>\n  \n  \n  Introduction to SLA Targets\n</h2>\n\n<p>Setting meaningful Service Level Agreement (SLA) targets for automation workflows is cruc",
-    "link": "https://dev.to/opsveritas/setting-honest-sla-targets-for-automation-workflows-with-opsveritas-3gp7",
-    "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-287m",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-11ab",
     "topic": "general"
+  },
+  {
+    "title": "Day 29 \u2014 \ud83d\udd2d Monitoring & Observability Part Two",
+    "desc": "<p>In Part 1, we covered:</p>\n\n<ul>\n<li>Observability Fundamentals</li>\n<li>Monitoring</li>\n<li>Metrics</li>\n<li>Prometheus</li>\n<li>Grafana",
+    "link": "https://dev.to/17j/day-29-monitoring-observability-part-two-3b70",
+    "topic": "general"
+  },
+  {
+    "title": "6 small things we shipped across the BashSnippets tools this week",
+    "desc": "<p>Nobody announces small features. You ship them, they're in there, and the people who find them either notice or they don't. I want to sta",
+    "link": "https://dev.to/bashsnippets/6-small-things-we-shipped-across-the-bashsnippets-tools-this-week-287d",
+    "topic": "general"
+  },
+  {
+    "title": "\u2699\ufe0f Terraform create AWS EC2 instance with Python environment",
+    "desc": "<p>Terraform can provision an AWS EC2 instance and set up a Python virtual environment in a single, reproducible run \u2014 the whole workflow is",
+    "link": "https://dev.to/ptp2308/terraform-create-aws-ec2-instance-with-python-environment-4c1a",
+    "topic": "aws"
+  },
+  {
+    "title": "Walkthroughs from getfoxchat.com plays your instavideos inline, narrated steps, great for demos",
+    "desc": "<p>Use the bookmarklet or Chrome extension to record yourself doing a real task on your product. Foxy stores the walkthrough, then plays it ",
+    "link": "https://dev.to/osakasaul/walkthroughs-from-getfoxchatcom-plays-your-instavideos-inline-narrated-steps-great-for-demos-kb2",
+    "topic": "general"
+  },
+  {
+    "title": "K3s vs Kubernetes: A Deep Dive into Control Plane Architecture",
+    "desc": "<blockquote>\n<p><em>Not just \"what's different\" \u2014 but WHY it's different, HOW each component works under the hood, and WHEN to choose which.",
+    "link": "https://dev.to/pendelabhargavasai/k3s-vs-kubernetes-a-deep-dive-into-control-plane-architecture-489k",
+    "topic": "kubernetes"
   }
 ]
