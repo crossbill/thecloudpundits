@@ -1,50 +1,50 @@
 [
   {
-    "title": "Conway's Law Is Already in Your Commit History",
-    "desc": "<p>Conway's Law was formulated in 1967. It says: any organization that designs a system will produce a design whose structure mirrors the or",
-    "link": "https://dev.to/karlheinz_reichel_7ee08d/conways-law-is-already-in-your-commit-history-38a5",
+    "title": "The Real AI Coding Breakthrough Is Not More Context. It Is Better Diagnostics.",
+    "desc": "<p>When I started building what became Scarab Diagnostic Suite, I was not trying to create a theory of AI-assisted software development.</p>",
+    "link": "https://dev.to/scarab-systems/the-real-ai-coding-breakthrough-is-not-more-context-it-is-better-diagnostics-1b3d",
     "topic": "general"
   },
   {
-    "title": "Engineering Design Document: Reusable Observability Platform V2",
-    "desc": "<h3>\n  \n  \n  A production-focused redesign of a Stage 6 LGTM observability platform, moving from a single-service Anvila monitoring setup to",
-    "link": "https://dev.to/adeolu102/engineering-design-document-reusable-observability-platform-v2-54gb",
+    "title": "Everyone is building smarter Agents. Nobody is fixing what they run on.",
+    "desc": "<p>'ve been watching the AI agent space for a while now and something keeps bothering me that nobody really talks about.</p>\n\n<p>Every week ",
+    "link": "https://dev.to/artem_a/everyone-is-building-smarter-agents-nobody-is-fixing-what-they-run-on-296d",
     "topic": "general"
   },
   {
-    "title": "Build a DevOps Slack Agent with Cosmic: From \"What Broke?\" to PR in One Conversation",
-    "desc": "<p>If you've ever been paged at 2am, opened Slack, typed 'what broke?' and then spent 20 minutes switching between terminals, dashboards, an",
-    "link": "https://dev.to/tonyspiro/build-a-devops-slack-agent-with-cosmic-from-what-broke-to-pr-in-one-conversation-3jcp",
+    "title": "Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04",
+    "desc": "<p>Vector is a high-performance observability data pipeline from Datadog that collects, transforms, and routes logs, metrics, and traces acr",
+    "link": "https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4",
     "topic": "general"
   },
   {
-    "title": "Who's watching private repos turn public? We leaked 75 AWS keys to find out",
-    "desc": "<p>Make a private repo public and it stays undiscovered for 6 minutes. Past that, the internet is reading it. We put a live AWS key in 75 th",
-    "link": "https://dev.to/peternovakdev/whos-watching-private-repos-turn-public-we-leaked-75-aws-keys-to-find-out-cn5",
-    "topic": "aws"
-  },
-  {
-    "title": "My AI agent answered 488 times a session. It shipped nothing.",
-    "desc": "<p>When you first leave an AI coding agent running on its own, the fear is obvious: <em>what if it just stops?</em></p>\n\n<p>What if it sits ",
-    "link": "https://dev.to/yurukusa/my-ai-agent-answered-488-times-a-session-it-shipped-nothing-3a9j",
+    "title": "Deploying Dokku Lightweight Open-Source PaaS on Ubuntu 24.04",
+    "desc": "<p>Dokku is an open-source, Heroku-like Platform-as-a-Service that lets you <code>git push</code> apps and have them built and deployed auto",
+    "link": "https://dev.to/vultr/deploying-dokku-lightweight-open-source-paas-on-ubuntu-2404-17eg",
     "topic": "general"
   },
   {
-    "title": "Introduction to DevOps for Beginners.",
-    "desc": "<p>DevOps is a modern software engineering approach that combines software development (Dev) and IT operations (Ops) into a unified practice",
-    "link": "https://dev.to/lotanna_obianefo/introduction-to-devops-for-beginners-513l",
+    "title": "Installing WGDashboard, an Open-Source Web UI for WireGuard VPN, on Ubuntu 24.04",
+    "desc": "<p>WGDashboard is an open-source web UI for managing WireGuard VPN configurations, peers, and traffic statistics. This guide installs WGDash",
+    "link": "https://dev.to/vultr/installing-wgdashboard-an-open-source-web-ui-for-wireguard-vpn-on-ubuntu-2404-45dc",
     "topic": "general"
   },
   {
-    "title": "I Replaced Our Commercial Artifact Registry With a Free One After a 5x Renewal Price Hike. Here's Everything That Broke.",
-    "desc": "<blockquote>\n<p>How I migrated our entire artifact management stack (Maven, npm, PyPI, Helm) from our commercial artifact registry to an ope",
-    "link": "https://dev.to/thasami/i-replaced-our-commercial-artifact-registry-with-a-free-one-after-a-5x-renewal-price-heres-1e9e",
+    "title": "Deploying Pi-hole DNS Sinkhole Service on Ubuntu 24.04",
+    "desc": "<p>Pi-hole is a network-level ad and tracker blocking application that acts as a DNS sinkhole, returning a null address for known ad and tra",
+    "link": "https://dev.to/vultr/deploying-pi-hole-dns-sinkhole-service-on-ubuntu-2404-1na8",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2flo",
+    "title": "Deploying AdGuard Home Network Traffic Filtering on Ubuntu 24.04",
+    "desc": "<p>AdGuard Home is an open-source, network-wide ad and tracker blocking DNS server with a web dashboard, parental controls, and DNS-over-HTT",
+    "link": "https://dev.to/vultr/deploying-adguard-home-network-traffic-filtering-on-ubuntu-2404-5elo",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying Ant Media Server Live Video Streaming on Ubuntu 24.04",
+    "desc": "<p>Ant Media Server is an open-source live video streaming engine that handles WebRTC, RTMP, HLS, and DASH for ultra-low-latency broadcasts.",
+    "link": "https://dev.to/vultr/deploying-ant-media-server-live-video-streaming-on-ubuntu-2404-2e7o",
     "topic": "general"
   }
 ]
