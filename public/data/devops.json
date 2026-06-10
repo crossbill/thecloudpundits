@@ -1,50 +1,50 @@
 [
   {
-    "title": "I wrote a read-only scanner for MCP / agent-gateway production-readiness",
-    "desc": "<p>I build and maintain an MCP server that works in Claude Code, Cursor, and Gemini CLI. Doing that for a while taught me something uncomfor",
-    "link": "https://dev.to/willianpinho/i-wrote-a-read-only-scanner-for-mcp-agent-gateway-production-readiness-4jbh",
+    "title": "I Automated My Entire Side Hustle With Python \u2014 Here's the Architecture",
+    "desc": "<h1>\n  \n  \n  I Automated My Entire Side Hustle With Python \u2014 Here's the Architecture\n</h1>\n\n<p><strong>The story:</strong> I built 60 digita",
+    "link": "https://dev.to/kaithorne/i-automated-my-entire-side-hustle-with-python-heres-the-architecture-528a",
     "topic": "general"
   },
   {
-    "title": "I built an autonomous SRE that lets an LLM diagnose incidents \u2014 but never touch a shell unsupervised",
-    "desc": "<p>I built an autonomous SRE system where a local LLM diagnoses production incidents, proposes a fix, and a deterministic engine decides whe",
-    "link": "https://dev.to/blazi2002/i-built-an-autonomous-sre-that-lets-an-llm-diagnose-incidents-but-never-touch-a-shell-unsupervised-2mgh",
-    "topic": "secops"
-  },
-  {
-    "title": "The Future SRE Will Debug Timelines, Not Dashboards.",
-    "desc": "<p>For nearly a decade, the primary workflow for incident investigation looked like this:<br />\n</p>\n\n<div class=\"highlight js-code-highligh",
-    "link": "https://dev.to/kubeha_18/the-future-sre-will-debug-timelines-not-dashboards-1n8o",
+    "title": "VirtualBox Networking and Multi-VM Labs for DevOps Beginners",
+    "desc": "<h2>\n  \n  \n  VirtualBox Networking\n</h2>\n\n<p>In this section we will discuss:</p>\n\n<ul>\n<li>Various types of networking \u2014 NAT, Bridged, Host",
+    "link": "https://dev.to/ubayedbinsufian/virtualbox-networking-and-multi-vm-labs-for-devops-beginners-6km",
     "topic": "general"
   },
   {
-    "title": "Parallel Alerting Architecture for Critical Workflow Failures",
-    "desc": "<h2>\n  \n  \n  Introduction to Parallel Alerting\n</h2>\n\n<p>The importance of prompt alerting in case of critical workflow failures cannot be o",
-    "link": "https://dev.to/opsveritas/parallel-alerting-architecture-for-critical-workflow-failures-1a51",
+    "title": "Beyond Lines of Code: Developers Explain How AI Is Changing Productivity Measurement",
+    "desc": "<p>The rise of AI coding assistants such as <strong>GitHub</strong>, <strong>Copilot</strong>, <strong>Cursor</strong>, <strong>Claude Code<",
+    "link": "https://dev.to/aaronw9ae3913eb/beyond-lines-of-code-developers-explain-how-ai-is-changing-productivity-measurement-jaj",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3a0p",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-57gk",
     "topic": "general"
   },
   {
-    "title": "Field Test #020b \u2014 Next.js Root Ownership Refinement",
-    "desc": "<p>The first version of the patch treated the issue as a nearest-root problem.</p>\n\n<p>That was too broad.</p>\n\n<p>The failure in #92978 inv",
-    "link": "https://dev.to/scarab-systems/field-test-020b-nextjs-root-ownership-refinement-2pfo",
+    "title": "47 Cloud Cost Checks Before You Hire a FinOps Consultant",
+    "desc": "<p>Most cloud cost problems do <strong>not</strong> start with one bad resource.</p>\n\n<p>They start with a simple operating gap:</p>\n\n<block",
+    "link": "https://dev.to/aicloudstrategist/47-cloud-cost-checks-before-you-hire-a-finops-consultant-2p8o",
+    "topic": "finops"
+  },
+  {
+    "title": "PII-Shield: Cleaning PII From Logs Before It Reaches ELK",
+    "desc": "<p>The first idea was simple.</p>\n\n<p>Take a log line. Look at suspicious parts. Count entropy. Hide anything that looks like a random secre",
+    "link": "https://dev.to/aragossa/pii-shield-cleaning-pii-from-logs-before-it-reaches-elk-534j",
     "topic": "general"
   },
   {
-    "title": "What Changes When Testing Has to Scale With the Team",
-    "desc": "<p>When a project moves from a few people shipping features in a shared branch to a real team workflow, testing stops being about confidence",
-    "link": "https://dev.to/randomsquirrel802/what-changes-when-testing-has-to-scale-with-the-team-350g",
+    "title": "DevOps Best Practices From the Trenches: What Actually Moves the Needle",
+    "desc": "<p><strong>TL;DR:</strong> I've run production infrastructure for 14 years, founded DietGhar and NyayX, and cut a client's cloud bill 40% in",
+    "link": "https://dev.to/shubhamkansal/devops-best-practices-from-the-trenches-what-actually-moves-the-needle-2hc7",
     "topic": "general"
   },
   {
-    "title": "How to Compare Testing Tools Without Getting Fooled by Feature Checklists",
-    "desc": "<p>The biggest mistake teams make when comparing testing tools is treating the feature list like the decision. A tool can support API tests,",
-    "link": "https://dev.to/sleepyfalcon247/how-to-compare-testing-tools-without-getting-fooled-by-feature-checklists-1b8l",
+    "title": "7 AI Chatbots That Actually Work for SaaS Customer Support",
+    "desc": "<p>SaaS support does not usually break because teams are too slow.</p>\n\n<p>It breaks because most teams try to solve a <strong>context probl",
+    "link": "https://dev.to/ruixiao/7-ai-chatbots-that-actually-work-for-saas-customer-support-4lm0",
     "topic": "general"
   }
 ]
