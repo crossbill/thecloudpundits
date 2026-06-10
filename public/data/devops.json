@@ -1,50 +1,50 @@
 [
   {
-    "title": "800,000 requests hit a dead endpoint before I noticed",
-    "desc": "<p>April 30, 2026. 14:32 UTC. That's when DeepSeek killed one of my keys.</p>\n\n<p>I didn't find out until almost two hours later. By then my",
-    "link": "https://dev.to/chiefmojo79/800000-requests-hit-a-dead-endpoint-before-i-noticed-4254",
+    "title": "Spring Boot + Prometheus: A Practical Introduction to Application Metrics",
+    "desc": "<p>A developer spends a lot of time building features, but very little time asking an important question:</p>\n\n<p>How healthy is our applica",
+    "link": "https://dev.to/ashish_nair_d9b10ba4f8126/spring-boot-prometheus-a-practical-introduction-to-application-metrics-50d0",
     "topic": "general"
   },
   {
-    "title": "Monitor a Mobile App Backend: The API Your iOS and Android App Calls",
-    "desc": "<p><strong>TL;DR:</strong> To monitor a mobile app backend, point monitors at the exact endpoints your iOS or Android app calls (login and t",
-    "link": "https://dev.to/velprove/monitor-a-mobile-app-backend-the-api-your-ios-and-android-app-calls-5g5f",
+    "title": "I thought creative AI needed better prompts, but it actually needed 4-step LLM routing",
+    "desc": "<p>I keep seeing developers try to build a \u201ccreative AI agent\u201d by writing one giant prompt and hoping GPT-5 or Claude Opus can do everything",
+    "link": "https://dev.to/lars_winstand/i-thought-creative-ai-needed-better-prompts-but-it-actually-needed-4-step-llm-routing-5ehc",
     "topic": "general"
   },
   {
-    "title": "The Wrong Product, Built Perfectly",
-    "desc": "<p>A clean pipeline faithfully amplifies a requirements-level error all the way to production. Nothing in a good build process catches a mis",
-    "link": "https://dev.to/jeremy_longshore/the-wrong-product-built-perfectly-2ipm",
-    "topic": "general"
+    "title": "Docker for Beginners: A Practical Guide",
+    "desc": "<p>You've just finished building a Node.js app. It runs perfectly on your laptop. You push it to your teammate's machine, and suddenly nothi",
+    "link": "https://dev.to/digitalunicon/docker-for-beginners-a-practical-guide-46le",
+    "topic": "docker"
   },
   {
-    "title": "Monitor OpenClaw Cost, Operations, Sessions, and Security with Tencent Cloud CLS",
-    "desc": "<p>Running an AI Agent platform is not only about whether the model answers. Teams also need to know where token cost is going, whether queu",
-    "link": "https://dev.to/tencentcloud-cls/monitor-openclaw-cost-operations-sessions-and-security-with-tencent-cloud-cls-5gif",
+    "title": "Multi-Channel Alerting \u2014 Why Email Isn't Enough for Incident Response",
+    "desc": "<h1>\n  \n  \n  Multi-Channel Alerting: Why Email Isn't Enough\n</h1>\n\n<p>Your monitoring tool detects an outage. It sends an email. Nobody sees",
+    "link": "https://dev.to/uptime_saas_bf10d490eb6f1/multi-channel-alerting-why-email-isnt-enough-for-incident-response-375e",
     "topic": "secops"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4d13",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4473",
     "topic": "general"
   },
   {
-    "title": "Menjalankan LLM Secara Lokal dengan Ollama: Privasi Penuh Tanpa Biaya Cloud",
-    "desc": "<h2>\n  \n  \n  Menjalankan LLM Secara Lokal dengan Ollama: Privasi Penuh Tanpa Biaya Cloud\n</h2>\n\n<p>Sejak kemunculan ChatGPT, kita terbiasa b",
-    "link": "https://dev.to/ai_code_5c8f03cd630c072b1/menjalankan-llm-secara-lokal-dengan-ollama-privasi-penuh-tanpa-biaya-cloud-5eie",
+    "title": "Proxy, Gateway, or Poll the Usage API? Picking an Architecture for AI Cost Visibility",
+    "desc": "<p>At some point your AI bill stops being a rounding error and someone asks the obvious question: who spent what, on which model, doing what",
+    "link": "https://dev.to/brianmello/proxy-gateway-or-poll-the-usage-api-picking-an-architecture-for-ai-cost-visibility-2em6",
     "topic": "general"
   },
   {
-    "title": "TLS Configuration in 2026: What \"Secure\" Actually Means Now",
-    "desc": "<h1>\n  \n  \n  TLS Configuration in 2026: What \"Secure\" Actually Means Now\n</h1>\n\n<blockquote>\n<p>Meta: Having SSL/TLS is not a security postu",
-    "link": "https://dev.to/nilseriksson92/tls-configuration-in-2026-what-secure-actually-means-now-192d",
+    "title": "The Best 3 Place To Buying PayPal Accounts in This Time",
+    "desc": "<p>The Growing Demand for Buying PayPal Accounts<br />\nIn today's digital economy, PayPal remains one of the most recognized online payment ",
+    "link": "https://dev.to/pelavu_jonmi_646348783bbc/the-best-3-place-to-buying-paypal-accounts-in-this-time-13bi",
     "topic": "general"
   },
   {
-    "title": "git bisect: find the commit that broke production in minutes, not days",
-    "desc": "<p>Your CI was green last Friday. Today, the payments test is failing. Somewhere between Friday's merge and now, 47 commits landed on <code>",
-    "link": "https://dev.to/mdenda/git-bisect-find-the-commit-that-broke-production-in-minutes-not-days-32em",
+    "title": "Aikido vs Kolega: the all-in-one platform is wide, but wide is not deep",
+    "desc": "<p>Aikido comes up a lot because it is the consolidation play. One dashboard, every scanner, fair price. So it is worth being straight about",
+    "link": "https://dev.to/muhammad_hasan/aikido-vs-kolega-the-all-in-one-platform-is-wide-but-wide-is-not-deep-jf8",
     "topic": "general"
   }
 ]

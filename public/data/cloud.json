@@ -1,5 +1,11 @@
 [
   {
+    "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
+    "desc": "AWS launches Amazon EC2 M9g and M9gd instances, powered by AWS Graviton5 processors. AWS Graviton5 is most powerful, and most energy e\ufb03cient",
+    "link": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+    "topic": "aws"
+  },
+  {
     "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
     "desc": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 makes Mythos-level capabilitie",
     "link": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
@@ -40,11 +46,5 @@
     "desc": "AWS launches the next generation of AWS Resilience Hub with a significantly expanded experience that brings together a new application model",
     "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/",
     "topic": "aws"
-  },
-  {
-    "title": "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications",
-    "desc": "AWS rebuilt Amazon OpenSearch Serverless from the ground up for agentic AI and dynamic workloads. Get instant autoscaling and up to 60% cost",
-    "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/",
-    "topic": "general"
   }
 ]
