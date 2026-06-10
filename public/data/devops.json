@@ -1,5 +1,35 @@
 [
   {
+    "title": "I wrote a read-only scanner for MCP / agent-gateway production-readiness",
+    "desc": "<p>I build and maintain an MCP server that works in Claude Code, Cursor, and Gemini CLI. Doing that for a while taught me something uncomfor",
+    "link": "https://dev.to/willianpinho/i-wrote-a-read-only-scanner-for-mcp-agent-gateway-production-readiness-4jbh",
+    "topic": "general"
+  },
+  {
+    "title": "I built an autonomous SRE that lets an LLM diagnose incidents \u2014 but never touch a shell unsupervised",
+    "desc": "<p>I built an autonomous SRE system where a local LLM diagnoses production incidents, proposes a fix, and a deterministic engine decides whe",
+    "link": "https://dev.to/blazi2002/i-built-an-autonomous-sre-that-lets-an-llm-diagnose-incidents-but-never-touch-a-shell-unsupervised-2mgh",
+    "topic": "secops"
+  },
+  {
+    "title": "The Future SRE Will Debug Timelines, Not Dashboards.",
+    "desc": "<p>For nearly a decade, the primary workflow for incident investigation looked like this:<br />\n</p>\n\n<div class=\"highlight js-code-highligh",
+    "link": "https://dev.to/kubeha_18/the-future-sre-will-debug-timelines-not-dashboards-1n8o",
+    "topic": "general"
+  },
+  {
+    "title": "Parallel Alerting Architecture for Critical Workflow Failures",
+    "desc": "<h2>\n  \n  \n  Introduction to Parallel Alerting\n</h2>\n\n<p>The importance of prompt alerting in case of critical workflow failures cannot be o",
+    "link": "https://dev.to/opsveritas/parallel-alerting-architecture-for-critical-workflow-failures-1a51",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3a0p",
+    "topic": "general"
+  },
+  {
     "title": "Field Test #020b \u2014 Next.js Root Ownership Refinement",
     "desc": "<p>The first version of the patch treated the issue as a nearest-root problem.</p>\n\n<p>That was too broad.</p>\n\n<p>The failure in #92978 inv",
     "link": "https://dev.to/scarab-systems/field-test-020b-nextjs-root-ownership-refinement-2pfo",
@@ -15,36 +45,6 @@
     "title": "How to Compare Testing Tools Without Getting Fooled by Feature Checklists",
     "desc": "<p>The biggest mistake teams make when comparing testing tools is treating the feature list like the decision. A tool can support API tests,",
     "link": "https://dev.to/sleepyfalcon247/how-to-compare-testing-tools-without-getting-fooled-by-feature-checklists-1b8l",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying a Dockerized Node.js Application on Kubernetes \ud83d\ude80",
-    "desc": "<p>After containerizing an application with Docker, the next logical step is deploying it on Kubernetes.</p>\n\n<p>Kubernetes helps automate a",
-    "link": "https://dev.to/madhavnakra/deploying-a-dockerized-nodejs-application-on-kubernetes-34e4",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How to Deploy 10 Times a Day Safely with Feature Flags",
-    "desc": "<p>If you\u2019ve been following my previous posts, you know I\u2019m a big advocate for Trunk-Based Development and shrinking your pull requests unti",
-    "link": "https://dev.to/codecraft_diary_3d13677fb/how-to-deploy-10-times-a-day-safely-with-feature-flags-3m92",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4iea",
-    "topic": "general"
-  },
-  {
-    "title": "Load Balancer Tuning: Lessons from Production",
-    "desc": "<p>Load balancers are the silent infrastructure. You don't think about them until they start dropping connections at 2 AM. Here are the sett",
-    "link": "https://dev.to/samson_tanimawo/load-balancer-tuning-lessons-from-production-5cg3",
-    "topic": "general"
-  },
-  {
-    "title": "Mastering Netstat: The Linux Command That Separates Beginners from Real Infrastructure Engineers",
-    "desc": "<p>In the era of Kubernetes, cloud-native architectures, and microservices, many engineers focus on high-level abstractions. But when a prod",
-    "link": "https://dev.to/sovrab/mastering-netstat-the-linux-command-that-separates-beginners-from-real-infrastructure-engineers-2kn7",
     "topic": "general"
   }
 ]
