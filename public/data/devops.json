@@ -1,50 +1,50 @@
 [
   {
-    "title": "Spring Boot + Prometheus: A Practical Introduction to Application Metrics",
-    "desc": "<p>A developer spends a lot of time building features, but very little time asking an important question:</p>\n\n<p>How healthy is our applica",
-    "link": "https://dev.to/ashish_nair_d9b10ba4f8126/spring-boot-prometheus-a-practical-introduction-to-application-metrics-50d0",
+    "title": "Conway's Law Is Already in Your Commit History",
+    "desc": "<p>Conway's Law was formulated in 1967. It says: any organization that designs a system will produce a design whose structure mirrors the or",
+    "link": "https://dev.to/karlheinz_reichel_7ee08d/conways-law-is-already-in-your-commit-history-38a5",
     "topic": "general"
   },
   {
-    "title": "I thought creative AI needed better prompts, but it actually needed 4-step LLM routing",
-    "desc": "<p>I keep seeing developers try to build a \u201ccreative AI agent\u201d by writing one giant prompt and hoping GPT-5 or Claude Opus can do everything",
-    "link": "https://dev.to/lars_winstand/i-thought-creative-ai-needed-better-prompts-but-it-actually-needed-4-step-llm-routing-5ehc",
+    "title": "Engineering Design Document: Reusable Observability Platform V2",
+    "desc": "<h3>\n  \n  \n  A production-focused redesign of a Stage 6 LGTM observability platform, moving from a single-service Anvila monitoring setup to",
+    "link": "https://dev.to/adeolu102/engineering-design-document-reusable-observability-platform-v2-54gb",
     "topic": "general"
   },
   {
-    "title": "Docker for Beginners: A Practical Guide",
-    "desc": "<p>You've just finished building a Node.js app. It runs perfectly on your laptop. You push it to your teammate's machine, and suddenly nothi",
-    "link": "https://dev.to/digitalunicon/docker-for-beginners-a-practical-guide-46le",
-    "topic": "docker"
+    "title": "Build a DevOps Slack Agent with Cosmic: From \"What Broke?\" to PR in One Conversation",
+    "desc": "<p>If you've ever been paged at 2am, opened Slack, typed 'what broke?' and then spent 20 minutes switching between terminals, dashboards, an",
+    "link": "https://dev.to/tonyspiro/build-a-devops-slack-agent-with-cosmic-from-what-broke-to-pr-in-one-conversation-3jcp",
+    "topic": "general"
   },
   {
-    "title": "Multi-Channel Alerting \u2014 Why Email Isn't Enough for Incident Response",
-    "desc": "<h1>\n  \n  \n  Multi-Channel Alerting: Why Email Isn't Enough\n</h1>\n\n<p>Your monitoring tool detects an outage. It sends an email. Nobody sees",
-    "link": "https://dev.to/uptime_saas_bf10d490eb6f1/multi-channel-alerting-why-email-isnt-enough-for-incident-response-375e",
-    "topic": "secops"
+    "title": "Who's watching private repos turn public? We leaked 75 AWS keys to find out",
+    "desc": "<p>Make a private repo public and it stays undiscovered for 6 minutes. Past that, the internet is reading it. We put a live AWS key in 75 th",
+    "link": "https://dev.to/peternovakdev/whos-watching-private-repos-turn-public-we-leaked-75-aws-keys-to-find-out-cn5",
+    "topic": "aws"
+  },
+  {
+    "title": "My AI agent answered 488 times a session. It shipped nothing.",
+    "desc": "<p>When you first leave an AI coding agent running on its own, the fear is obvious: <em>what if it just stops?</em></p>\n\n<p>What if it sits ",
+    "link": "https://dev.to/yurukusa/my-ai-agent-answered-488-times-a-session-it-shipped-nothing-3a9j",
+    "topic": "general"
+  },
+  {
+    "title": "Introduction to DevOps for Beginners.",
+    "desc": "<p>DevOps is a modern software engineering approach that combines software development (Dev) and IT operations (Ops) into a unified practice",
+    "link": "https://dev.to/lotanna_obianefo/introduction-to-devops-for-beginners-513l",
+    "topic": "general"
+  },
+  {
+    "title": "I Replaced Our Commercial Artifact Registry With a Free One After a 5x Renewal Price Hike. Here's Everything That Broke.",
+    "desc": "<blockquote>\n<p>How I migrated our entire artifact management stack (Maven, npm, PyPI, Helm) from our commercial artifact registry to an ope",
+    "link": "https://dev.to/thasami/i-replaced-our-commercial-artifact-registry-with-a-free-one-after-a-5x-renewal-price-heres-1e9e",
+    "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4473",
-    "topic": "general"
-  },
-  {
-    "title": "Proxy, Gateway, or Poll the Usage API? Picking an Architecture for AI Cost Visibility",
-    "desc": "<p>At some point your AI bill stops being a rounding error and someone asks the obvious question: who spent what, on which model, doing what",
-    "link": "https://dev.to/brianmello/proxy-gateway-or-poll-the-usage-api-picking-an-architecture-for-ai-cost-visibility-2em6",
-    "topic": "general"
-  },
-  {
-    "title": "The Best 3 Place To Buying PayPal Accounts in This Time",
-    "desc": "<p>The Growing Demand for Buying PayPal Accounts<br />\nIn today's digital economy, PayPal remains one of the most recognized online payment ",
-    "link": "https://dev.to/pelavu_jonmi_646348783bbc/the-best-3-place-to-buying-paypal-accounts-in-this-time-13bi",
-    "topic": "general"
-  },
-  {
-    "title": "Aikido vs Kolega: the all-in-one platform is wide, but wide is not deep",
-    "desc": "<p>Aikido comes up a lot because it is the consolidation play. One dashboard, every scanner, fair price. So it is worth being straight about",
-    "link": "https://dev.to/muhammad_hasan/aikido-vs-kolega-the-all-in-one-platform-is-wide-but-wide-is-not-deep-jf8",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2flo",
     "topic": "general"
   }
 ]
