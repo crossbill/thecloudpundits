@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Brain reacts now",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://mihaibuilds.com/blog/the-brain-reacts-now.html\" rel=\"noopener noreferrer\">mihaibuil",
-    "link": "https://dev.to/mihaibuildsdev/the-brain-reacts-now-13a8",
+    "title": "800,000 requests hit a dead endpoint before I noticed",
+    "desc": "<p>April 30, 2026. 14:32 UTC. That's when DeepSeek killed one of my keys.</p>\n\n<p>I didn't find out until almost two hours later. By then my",
+    "link": "https://dev.to/chiefmojo79/800000-requests-hit-a-dead-endpoint-before-i-noticed-4254",
     "topic": "general"
   },
   {
-    "title": "Trang S\u1ee9c Cao C\u1ea5p \u2013 Xu H\u01b0\u1edbng L\u00e0m \u0110\u1eb9p Tinh T\u1ebf Gi\u00fap T\u00f4n Vinh Phong C\u00e1ch V\u00e0 \u0110\u1eb3ng C\u1ea5p",
-    "desc": "<p><a href=\"https://trangnhoaccessories.com\" rel=\"noopener noreferrer\">Trang s\u1ee9c</a> l\u00e0 ph\u1ee5 ki\u1ec7n th\u1eddi trang quan tr\u1ecdng gi\u00fap t\u00f4n l\u00ean v\u1ebb \u0111\u1eb9p, ",
-    "link": "https://dev.to/trangnhoaccessories_trang/trang-suc-cao-cap-xu-huong-lam-dep-tinh-te-giup-ton-vinh-phong-cach-va-dang-cap-20li",
+    "title": "Monitor a Mobile App Backend: The API Your iOS and Android App Calls",
+    "desc": "<p><strong>TL;DR:</strong> To monitor a mobile app backend, point monitors at the exact endpoints your iOS or Android app calls (login and t",
+    "link": "https://dev.to/velprove/monitor-a-mobile-app-backend-the-api-your-ios-and-android-app-calls-5g5f",
     "topic": "general"
+  },
+  {
+    "title": "The Wrong Product, Built Perfectly",
+    "desc": "<p>A clean pipeline faithfully amplifies a requirements-level error all the way to production. Nothing in a good build process catches a mis",
+    "link": "https://dev.to/jeremy_longshore/the-wrong-product-built-perfectly-2ipm",
+    "topic": "general"
+  },
+  {
+    "title": "Monitor OpenClaw Cost, Operations, Sessions, and Security with Tencent Cloud CLS",
+    "desc": "<p>Running an AI Agent platform is not only about whether the model answers. Teams also need to know where token cost is going, whether queu",
+    "link": "https://dev.to/tencentcloud-cls/monitor-openclaw-cost-operations-sessions-and-security-with-tencent-cloud-cls-5gif",
+    "topic": "secops"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1h1",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4d13",
     "topic": "general"
   },
   {
-    "title": "Great Stack to Doesn't Work #7 \u2014 Observability: \"400 Dashboards, Zero Insight\"",
-    "desc": "<h1>\n  \n  \n  Great Stack to Doesn't Work #7\n</h1>\n\n<h1>\n  \n  \n  Observability: \"400 Dashboards, Zero Insight\"\n</h1>\n\n<p><em>A survival guide",
-    "link": "https://dev.to/turacthethinker/great-stack-to-doesnt-work-7-observability-400-dashboards-zero-insight-2knl",
+    "title": "Menjalankan LLM Secara Lokal dengan Ollama: Privasi Penuh Tanpa Biaya Cloud",
+    "desc": "<h2>\n  \n  \n  Menjalankan LLM Secara Lokal dengan Ollama: Privasi Penuh Tanpa Biaya Cloud\n</h2>\n\n<p>Sejak kemunculan ChatGPT, kita terbiasa b",
+    "link": "https://dev.to/ai_code_5c8f03cd630c072b1/menjalankan-llm-secara-lokal-dengan-ollama-privasi-penuh-tanpa-biaya-cloud-5eie",
     "topic": "general"
   },
   {
-    "title": "I Learned Ansible From Scratch for My Open-Source Project \u2014 Here's the Full Breakdown",
-    "desc": "<p>This is <strong>Part 2</strong> of my pre-implementation journey \u2014 a feature I am contributing to the open-source <a href=\"https://github",
-    "link": "https://dev.to/d1vyanshukumar/i-learned-ansible-from-scratch-for-my-open-source-project-heres-the-full-breakdown-3eh6",
+    "title": "TLS Configuration in 2026: What \"Secure\" Actually Means Now",
+    "desc": "<h1>\n  \n  \n  TLS Configuration in 2026: What \"Secure\" Actually Means Now\n</h1>\n\n<blockquote>\n<p>Meta: Having SSL/TLS is not a security postu",
+    "link": "https://dev.to/nilseriksson92/tls-configuration-in-2026-what-secure-actually-means-now-192d",
     "topic": "general"
   },
   {
-    "title": "Website Security Checks Every Developer Should Run Before Going Live in 2026",
-    "desc": "<p>Launching a website without a security audit is like opening a shop and leaving the back door unlocked. In 2026, with automated bots scan",
-    "link": "https://dev.to/julien786534/website-security-checks-every-developer-should-run-before-going-live-in-2026-4o2e",
-    "topic": "secops"
-  },
-  {
-    "title": "Stop shipping a .env.example that's already out of date",
-    "desc": "<p>You add a new feature, it reads a new environment variable, you ship it. Three weeks later a teammate clones the repo, copies <code>.env.",
-    "link": "https://dev.to/ghazanfaruruj/stop-shipping-a-envexample-thats-already-out-of-date-4l2c",
+    "title": "git bisect: find the commit that broke production in minutes, not days",
+    "desc": "<p>Your CI was green last Friday. Today, the payments test is failing. Somewhere between Friday's merge and now, 47 commits landed on <code>",
+    "link": "https://dev.to/mdenda/git-bisect-find-the-commit-that-broke-production-in-minutes-not-days-32em",
     "topic": "general"
-  },
-  {
-    "title": "Collect Logs from a Self-Managed Kubernetes Cluster into Tencent Cloud CLS",
-    "desc": "<p>Self-managed Kubernetes clusters do not automatically inherit the console-driven log collection experience of managed TKE clusters. The s",
-    "link": "https://dev.to/tencentcloud-cls/collect-logs-from-a-self-managed-kubernetes-cluster-into-tencent-cloud-cls-4m3k",
-    "topic": "kubernetes"
   }
 ]

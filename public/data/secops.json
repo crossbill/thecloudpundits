@@ -1,50 +1,50 @@
 [
   {
+    "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
+    "desc": "<p>As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and ",
+    "link": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
+    "topic": "general"
+  },
+  {
+    "title": "Cyera Raises $600 Million at $12 Billion Valuation",
+    "desc": "<p>Cyera is positioned as one of the most valuable privately held cybersecurity firms in the world with total funding topping $2 billion.</p",
+    "link": "https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/",
+    "topic": "general"
+  },
+  {
+    "title": "Aryon Security Raises $29 Million in Series A Funding",
+    "desc": "<p>In the post-Mythos era, the company\u2019s platform helps organizations enforce security controls across environments.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/",
+    "topic": "secops"
+  },
+  {
+    "title": "Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers",
+    "desc": "<p>Claroty researchers have analyzed the security of Vertiv UPS network cards and the Trane Tracer SC+ HVAC controller.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/",
+    "topic": "general"
+  },
+  {
+    "title": "CISO Forum Webinar Today: 2026 Mid-Year Review",
+    "desc": "<p>Learn more about protecting against unmonitored use of generative AI (Shadow AI) in business units and building and enforcing AI governan",
+    "link": "https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/",
+    "topic": "general"
+  },
+  {
+    "title": "New Windows Zero-Day Exploit \u2018RoguePlanet\u2019 Released",
+    "desc": "<p>Exploiting a race condition in Microsoft Defender, the exploit leads to local privilege escalation to SYSTEM.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
+    "topic": "general"
+  },
+  {
+    "title": "After AI Reaches Production: 12 Ways Security Teams Can Take Control",
+    "desc": "<p>Security teams need more than visibility into AI applications, they need a repeatable framework for monitoring, investigating, and defend",
+    "link": "https://www.securityweek.com/after-ai-reaches-production-12-ways-security-teams-can-take-control/",
+    "topic": "secops"
+  },
+  {
     "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
     "desc": "<p>The company updated hosted customer instances to patch a security issue it reportedly had known about since April 7.</p>\n<p>The post <a h",
     "link": "https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/",
-    "topic": "secops"
-  },
-  {
-    "title": "Critical Vulnerabilities Patched in Fortinet, Ivanti Products",
-    "desc": "<p>Two OS command injection flaws can be exploited remotely, without authentication, for arbitrary code execution.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/",
-    "topic": "general"
-  },
-  {
-    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
-    "desc": "<p>In addition, Rockwell Automation announced some enhancements to its SecureOT cybersecurity solution for OT.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact/",
-    "topic": "general"
-  },
-  {
-    "title": "No Patch Planned for Exploited Arista EOS Vulnerability",
-    "desc": "<p>Organizations are advised to apply vendor-supplied mitigations or discontinue the vulnerable devices.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/no-patch-planned-for-exploited-arista-eos-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "Microsoft Patches 200 Vulnerabilities",
-    "desc": "<p>Three of the vulnerabilities fixed with the latest Patch Tuesday updates were publicly disclosed before Microsoft addressed them.</p>\n<p>",
-    "link": "https://www.securityweek.com/microsoft-patches-200-vulnerabilities/",
-    "topic": "azure"
-  },
-  {
-    "title": "Adobe Patches 123 Vulnerabilities",
-    "desc": "<p>Nearly half of the security holes, most allowing arbitrary code execution, have been fixed in Adobe\u2019s Experience Manager product.</p>\n<p>",
-    "link": "https://www.securityweek.com/adobe-patches-123-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails",
-    "desc": "<p>The AI giant also announced that Project Glasswing partners are being given access to the upgraded Mythos 5.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "OpenSSL Patches High-Severity Vulnerability Found With AI",
-    "desc": "<p>A total of 18 vulnerabilities have been patched in the latest OpenSSL releases, including many that were potentially discovered by AI.</p",
-    "link": "https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/",
     "topic": "secops"
   }
 ]
