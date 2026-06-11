@@ -1,5 +1,41 @@
 [
   {
+    "title": "Linux File Permissions Explained: chmod, chown, and umask",
+    "desc": "<p>The most common Linux question I see from developers coming from a Windows or macOS background is some variation of \"why does everything ",
+    "link": "https://dev.to/sysemperor/linux-file-permissions-explained-chmod-chown-and-umask-g7b",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-45eh",
+    "topic": "general"
+  },
+  {
+    "title": "Every Coding Agent Needs a Sandbox. sandboxd Shows Why.",
+    "desc": "<p>AI coding agents are getting better fast. But the uncomfortable question is not only <strong>\"can the model write code?\"</strong></p>\n\n<p",
+    "link": "https://dev.to/tenglongai2026/every-coding-agent-needs-a-sandbox-sandboxd-shows-why-15pg",
+    "topic": "general"
+  },
+  {
+    "title": "Automation Chaos to Operational Control: Observability Framework",
+    "desc": "<h2>\n  \n  \n  Introduction to Observability\n</h2>\n\n<p>As we navigate the complexities of modern software systems, the need for operational co",
+    "link": "https://dev.to/opsveritas/automation-chaos-to-operational-control-observability-framework-bjj",
+    "topic": "general"
+  },
+  {
+    "title": "We Tracked 1M LLM API Calls \u2014 60% Were Wasting Money on the Wrong Model",
+    "desc": "<blockquote>\n<p><strong>Key Takeaways</strong></p>\n\n<ul>\n<li>82% of developers default to OpenAI GPT models (Stack Overflow Developer Survey",
+    "link": "https://dev.to/tokonomics/we-tracked-1m-llm-api-calls-60-were-wasting-money-on-the-wrong-model-h7p",
+    "topic": "general"
+  },
+  {
+    "title": "I parsed my own firewall logs and found which AI tools my org was really talking to \u2014 including one routing data to China",
+    "desc": "<p>I pointed a scanner I wrote at my own network traffic for one afternoon. It came back with eight AI services I'd never sanctioned, runnin",
+    "link": "https://dev.to/dezotech/i-parsed-my-own-firewall-logs-and-found-which-ai-tools-my-org-was-really-talking-to-including-one-3bnl",
+    "topic": "general"
+  },
+  {
     "title": "The Real AI Coding Breakthrough Is Not More Context. It Is Better Diagnostics.",
     "desc": "<p>When I started building what became Scarab Diagnostic Suite, I was not trying to create a theory of AI-assisted software development.</p>",
     "link": "https://dev.to/scarab-systems/the-real-ai-coding-breakthrough-is-not-more-context-it-is-better-diagnostics-1b3d",
@@ -9,42 +45,6 @@
     "title": "Everyone is building smarter Agents. Nobody is fixing what they run on.",
     "desc": "<p>'ve been watching the AI agent space for a while now and something keeps bothering me that nobody really talks about.</p>\n\n<p>Every week ",
     "link": "https://dev.to/artem_a/everyone-is-building-smarter-agents-nobody-is-fixing-what-they-run-on-296d",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04",
-    "desc": "<p>Vector is a high-performance observability data pipeline from Datadog that collects, transforms, and routes logs, metrics, and traces acr",
-    "link": "https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Dokku Lightweight Open-Source PaaS on Ubuntu 24.04",
-    "desc": "<p>Dokku is an open-source, Heroku-like Platform-as-a-Service that lets you <code>git push</code> apps and have them built and deployed auto",
-    "link": "https://dev.to/vultr/deploying-dokku-lightweight-open-source-paas-on-ubuntu-2404-17eg",
-    "topic": "general"
-  },
-  {
-    "title": "Installing WGDashboard, an Open-Source Web UI for WireGuard VPN, on Ubuntu 24.04",
-    "desc": "<p>WGDashboard is an open-source web UI for managing WireGuard VPN configurations, peers, and traffic statistics. This guide installs WGDash",
-    "link": "https://dev.to/vultr/installing-wgdashboard-an-open-source-web-ui-for-wireguard-vpn-on-ubuntu-2404-45dc",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Pi-hole DNS Sinkhole Service on Ubuntu 24.04",
-    "desc": "<p>Pi-hole is a network-level ad and tracker blocking application that acts as a DNS sinkhole, returning a null address for known ad and tra",
-    "link": "https://dev.to/vultr/deploying-pi-hole-dns-sinkhole-service-on-ubuntu-2404-1na8",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying AdGuard Home Network Traffic Filtering on Ubuntu 24.04",
-    "desc": "<p>AdGuard Home is an open-source, network-wide ad and tracker blocking DNS server with a web dashboard, parental controls, and DNS-over-HTT",
-    "link": "https://dev.to/vultr/deploying-adguard-home-network-traffic-filtering-on-ubuntu-2404-5elo",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Ant Media Server Live Video Streaming on Ubuntu 24.04",
-    "desc": "<p>Ant Media Server is an open-source live video streaming engine that handles WebRTC, RTMP, HLS, and DASH for ultra-low-latency broadcasts.",
-    "link": "https://dev.to/vultr/deploying-ant-media-server-live-video-streaming-on-ubuntu-2404-2e7o",
     "topic": "general"
   }
 ]
