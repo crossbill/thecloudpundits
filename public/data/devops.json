@@ -1,50 +1,50 @@
 [
   {
+    "title": "Building Multi-Agent Orchestration with Flowork Agent Groups",
+    "desc": "<p>Every group orchestration challenge falls into two buckets: <strong>assembling specialized workers</strong> and <strong>combining their a",
+    "link": "https://dev.to/alya_mahalini_f05d9953cfa/building-multi-agent-orchestration-with-flowork-agent-groups-5eaa",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Security Scanner for AI Agents \u2014 Flowork's Threat Radar Architecture",
+    "desc": "<h2>\n  \n  \n  Why a Security Scanner Matters for AI Agents\n</h2>\n\n<p>An AI agent is a program that decides what to run, where to run it, and ",
+    "link": "https://dev.to/alya_mahalini_f05d9953cfa/building-a-security-scanner-for-ai-agents-floworks-threat-radar-architecture-16ah",
+    "topic": "secops"
+  },
+  {
+    "title": "How to Run Stateful ML Pipelines for Free using GitHub Actions",
+    "desc": "<p>Today is the start of the 2026 FIFA World Cup, the largest sporting competition every four years. As a fun project, I decided to build a ",
+    "link": "https://dev.to/aasteriskz/how-to-run-stateful-ml-pipelines-for-free-using-github-actions-1a93",
+    "topic": "general"
+  },
+  {
+    "title": "I Built a CIDR Calculator for Cloud Networking (AWS, Azure, Kubernetes)",
+    "desc": "<p>Subnetting and CIDR calculations are essential skills for anyone working in cloud and networking.</p>\n\n<p>But in real-world scenarios\u2014esp",
+    "link": "https://dev.to/mahammad_rafi/i-built-a-cidr-calculator-for-cloud-networking-aws-azure-kubernetes-36oj",
+    "topic": "aws"
+  },
+  {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-5hhm",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3jm9",
     "topic": "general"
   },
   {
-    "title": "Python Basics \u2014 `print()`, Variables, Identifiers, Data Types",
-    "desc": "<h2>\n  \n  \n  \ud83d\udccc Key Concepts\n</h2>\n\n<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n<th>Concept</th>\n<th>One-Line Definition</th>\n<",
-    "link": "https://dev.to/tejas_shinkar/-topic-python-basics-print-variables-identifiers-data-types-1gd5",
+    "title": "How to Find Every Consumer of Your GitLab CI Template",
+    "desc": "<p><em>You maintain a shared GitLab CI template. You need to rename a job, change an input, or restructure the file. Which projects across y",
+    "link": "https://dev.to/danielwe/how-to-find-every-consumer-of-your-gitlab-ci-template-2nl7",
     "topic": "general"
   },
   {
-    "title": "A Release Is Not Complete Until the Outcome Is Reviewed",
-    "desc": "<p>A Release Is Not Complete Until the Outcome Is Reviewed is a practical operating principle, not a slogan.</p>\n\n<p>The useful version of a",
-    "link": "https://dev.to/webmasterid/a-release-is-not-complete-until-the-outcome-is-reviewed-2l8f",
+    "title": "MailHog Alternatives for CI Pipelines in 2026",
+    "desc": "<p>MailHog was the go-to fake SMTP server for years. It's simple, free, and gets the job done locally. But if you've tried to use it in a mo",
+    "link": "https://dev.to/zerodrop/mailhog-alternatives-for-ci-pipelines-in-2025-5d0c",
     "topic": "general"
   },
   {
-    "title": "Semgrep vs Kolega: a great floor, but a floor is not a finish line",
-    "desc": "<p>Semgrep is the one we get compared to most, and honestly the one we have the most time for, so let me be fair before I get to the but.</p",
-    "link": "https://dev.to/muhammad_hasan/semgrep-vs-kolega-a-great-floor-but-a-floor-is-not-a-finish-line-1ndp",
-    "topic": "general"
-  },
-  {
-    "title": "You Fixed the Rate Limits. Now Your Agent Fails Quietly.",
-    "desc": "<p>Last week I wrote that <a href=\"https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits",
-    "link": "https://dev.to/p0rt/you-fixed-the-rate-limits-now-your-agent-fails-quietly-3keo",
-    "topic": "general"
-  },
-  {
-    "title": "My Script Crashed and Left a Lock File Behind. Every Run After That Refused to Start.",
-    "desc": "<p>A backup script of mine created a lock file on startup so two copies couldn't run at once \u2014 sensible. Then one night it hit an error part",
-    "link": "https://dev.to/bashsnippets/my-script-crashed-and-left-a-lock-file-behind-every-run-after-that-refused-to-start-1ik4",
-    "topic": "general"
-  },
-  {
-    "title": "Is Open Source Sustainable?",
-    "desc": "<p>Since the beginning of my career, for a full 20 years, open-source solutions have been an indispensable part of my system architectures a",
-    "link": "https://dev.to/merbayerp/is-open-source-sustainable-3n2a",
-    "topic": "general"
-  },
-  {
-    "title": "Why We're Building an Ecosystem, Not Just Products",
-    "desc": "<p>Many technology companies begin with a single product.<br />\nA storage platform.<br />\nA developer tool.<br />\nA communication service.<b",
-    "link": "https://dev.to/najumitech/why-were-building-an-ecosystem-not-just-products-1j5",
+    "title": "Lighthouse Gave My Site 100/100. The Site Was Down.",
+    "desc": "<p>Yesterday I ran PageSpeed Insights on a site I manage. Performance: <strong>100/100</strong>. Green circle, confetti, the works.</p>\n\n<p>",
+    "link": "https://dev.to/lamas51/lighthouse-gave-my-site-100100-the-site-was-down-3gin",
     "topic": "general"
   }
 ]
