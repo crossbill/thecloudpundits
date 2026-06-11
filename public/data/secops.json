@@ -1,50 +1,50 @@
 [
   {
-    "title": "\u2018GreatXML\u2019 Zero-Day Exploit Bypasses BitLocker",
-    "desc": "<p>The PoC exploits Microsoft Defender\u2019s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
-    "topic": "general"
-  },
-  {
-    "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
-    "desc": "<p>The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
+    "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
+    "desc": "<p>Oracle has released mitigations for CVE-2026-35273, but it has not said whether it\u2019s a zero-day exploited in ShinyHunters attacks.</p>\n<p",
+    "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
     "topic": "secops"
   },
   {
-    "title": "Microsoft Patches Exploited Exchange Server Vulnerability",
-    "desc": "<p>The company warned about zero-day attacks exploiting the Exchange Server vulnerability CVE-2026-42897 on May 14.\u00a0</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/",
-    "topic": "azure"
-  },
-  {
-    "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
-    "desc": "<p>As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and ",
-    "link": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
-    "topic": "general"
-  },
-  {
-    "title": "Cyera Raises $600 Million at $12 Billion Valuation",
-    "desc": "<p>Cyera is positioned as one of the most valuable privately held cybersecurity firms in the world with total funding topping $2 billion.</p",
-    "link": "https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/",
-    "topic": "general"
-  },
-  {
-    "title": "Aryon Security Raises $29 Million in Series A Funding",
-    "desc": "<p>In the post-Mythos era, the company\u2019s platform helps organizations enforce security controls across environments.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/",
+    "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
+    "desc": "<p>As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from th",
+    "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
     "topic": "secops"
   },
   {
-    "title": "Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers",
-    "desc": "<p>Claroty researchers have analyzed the security of Vertiv UPS network cards and the Trane Tracer SC+ HVAC controller.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/",
+    "title": "CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk",
+    "desc": "<p>The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/",
+    "topic": "secops"
+  },
+  {
+    "title": "OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month",
+    "desc": "<p>Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, ",
+    "link": "https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/",
+    "topic": "secops"
+  },
+  {
+    "title": "Hackers Exploit Langflow Vulnerability for Remote Code Execution",
+    "desc": "<p>Disclosed in March, the security defect enables unauthenticated attackers to write files to arbitrary locations on the system.</p>\n<p>The",
+    "link": "https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/",
+    "topic": "secops"
+  },
+  {
+    "title": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
+    "desc": "<p>A PowerShell script included in patch files appears to be triggering false positives by multiple security engines.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
+    "topic": "secops"
+  },
+  {
+    "title": "FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers",
+    "desc": "<p>The 13 websites purported to be affiliated with consulting companies that advertised job openings for current and former holders of secur",
+    "link": "https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/",
     "topic": "general"
   },
   {
-    "title": "CISO Forum Webinar Today: 2026 Mid-Year Review",
-    "desc": "<p>Learn more about protecting against unmonitored use of generative AI (Shadow AI) in business units and building and enforcing AI governan",
-    "link": "https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/",
+    "title": "Splunk, Palo Alto Networks Patch Severe Vulnerabilities",
+    "desc": "<p>The security defects could allow attackers to create or modify arbitrary files and access and modify protected resources.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/",
     "topic": "general"
   }
 ]

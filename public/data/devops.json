@@ -1,50 +1,50 @@
 [
   {
-    "title": "Is Your IPv4 Block Blacklisted? Checking a /24 the DNSBL Way",
-    "desc": "<p>If you own or lease IPv4 space, the reputation of your addresses is part of the asset. A block that's quietly listed on a major DNSBL doe",
-    "link": "https://dev.to/kohanevich/is-your-ipv4-block-blacklisted-checking-a-24-the-dnsbl-way-3043",
+    "title": "My fisrt invention.I need some helps",
+    "desc": "<p>14, from Vietnam. I wrote a kernel driver to accelerate games/AI via spatial caching. My PC is 10 years old so I can't test properly. Sou",
+    "link": "https://dev.to/phohanoithomgion/my-fisrt-inventioni-need-some-helps-567m",
     "topic": "general"
   },
   {
-    "title": "Vault vs AWS Secrets Manager vs Doppler: Secrets Management Compared",
-    "desc": "<p>Hardcoded credentials in source code remain one of the leading causes of cloud breaches. The fix sounds simple \u2014 use a secrets manager \u2014 ",
-    "link": "https://dev.to/ayinedjimi-consultants/vault-vs-aws-secrets-manager-vs-doppler-secrets-management-compared-563n",
+    "title": "What You Need to Know About the New puppetlabs-stdlib 10 in June 2026",
+    "desc": "<h2>\n  \n  \n  The\u00a0TL;DR\u00a0\n</h2>\n\n<ul>\n<li>  We are releasing\u00a0puppetlabs-stdlib\u00a010.0.1\u00a0with a target date of\u00a0June 30, 2026.</li>\n<li>  This is ",
+    "link": "https://dev.to/puppet/what-you-need-to-know-about-the-new-puppetlabs-stdlib-10-in-june-2026-1jah",
+    "topic": "general"
+  },
+  {
+    "title": "Under 20 Boxing Drills: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/under-20-boxing-drills-what-we-learned-building-random-tactical-timer-58gc",
+    "topic": "general"
+  },
+  {
+    "title": "Review MetaTrader MCP Server: Menghubungkan AI dengan Platform Trading MT5",
+    "desc": "<p>Review MetaTrader MCP Server: Menghubungkan AI dengan Platform Trading MT5<br />\nBerdasarkan analisis dari repositori <strong>MetaTrader ",
+    "link": "https://dev.to/ai_code_5c8f03cd630c072b1/review-metatrader-mcp-server-menghubungkan-ai-dengan-platform-trading-mt5-10a0",
+    "topic": "general"
+  },
+  {
+    "title": "How to Build a CI/CD Pipeline from Scratch",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Teams with mature CI/CD pipelines deploy <strong>208\u00d7 more frequently</strong>, experience <strong>6",
+    "link": "https://dev.to/sherdilcloud/how-to-build-a-cicd-pipeline-from-scratch-5234",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\udcc8 Horizontal Pod Autoscaling Based on Frontend Traffic: Beyond CPU Metrics",
+    "desc": "<p>Stop scaling by CPU. Start scaling by what actually matters \u2014 your users.</p>\n\n<p>Let\u2019s be honest: Scaling because your pod is at 80% CPU",
+    "link": "https://dev.to/sohanaakbar7/horizontal-pod-autoscaling-based-on-frontend-traffic-beyond-cpu-metrics-3am2",
+    "topic": "general"
+  },
+  {
+    "title": "VPC Endpoint vs NAT Gateway: Which AWS Networking Choice Reduces Kubernetes Costs in 2026?",
+    "desc": "<p>** VPC Endpoint vs NAT Gateway: Which AWS Networking Choice Reduces Kubernetes Costs in 2026? **</p>\n\n<p>\ud83d\udc49 <a href=\"https://www.kubeblogs",
+    "link": "https://dev.to/divyansh_singh_9d308cd60f/vpc-endpoint-vs-nat-gateway-which-aws-networking-choice-reduces-kubernetes-costs-in-2026-2hkk",
     "topic": "aws"
   },
   {
-    "title": "A safer pattern for authenticated automation: vault-backed sessions",
-    "desc": "<p>Authenticated automation usually fails at the same boring place: login. Scraping a public page is easy compared with running a workflow i",
-    "link": "https://dev.to/anakin_writers/a-safer-pattern-for-authenticated-automation-vault-backed-sessions-1mn5",
-    "topic": "general"
-  },
-  {
-    "title": "What Makes VPN Infrastructure Production-Ready?",
-    "desc": "<p>A VPN server can be online without being ready for production.<br />\nIt may accept a test connection, route traffic successfully, and per",
-    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/what-makes-vpn-infrastructure-production-ready-32b",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes vs Docker, PaaS, and Traditional Deployment Tools for AI Apps",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/ha",
-    "link": "https://dev.to/hadil/kubernetes-vs-docker-paas-and-traditional-deployment-tools-for-ai-apps-2911",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Best DevOps Course in Mumbai 2026 | The Honest Selection Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/nixace_tech_62afe633b44ad203/best-devops-course-in-mumbai-2026-the-honest-selection-guide-53ph",
-    "topic": "general"
-  },
-  {
-    "title": "AI Workflow Automation for Operations Teams: It's Not a Platform, It's Plumbing",
-    "desc": "<p>Most vendor material on this topic opens with transformation narratives. I'll start somewhere else: the ticket queue, the approval chain,",
-    "link": "https://dev.to/open_craft_300f0b6a99ee20/ai-workflow-automation-for-operations-teams-its-not-a-platform-its-plumbing-1hm5",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2nj1",
+    "title": "Del repo a producci\u00f3n con un solo comando: c\u00f3mo Fitz hace del deployment una feature del lenguaje",
+    "desc": "<blockquote>\n<p>Un recorrido por la historia de deployment de Fitz \u2014 healthchecks, secrets como tipos opacos, observability con OpenTelemetr",
+    "link": "https://dev.to/martin_palopoli/del-repo-a-produccion-con-un-solo-comando-como-fitz-hace-del-deployment-una-feature-del-lenguaje-264c",
     "topic": "general"
   }
 ]
