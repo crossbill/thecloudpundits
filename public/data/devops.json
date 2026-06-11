@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building Multi-Agent Orchestration with Flowork Agent Groups",
-    "desc": "<p>Every group orchestration challenge falls into two buckets: <strong>assembling specialized workers</strong> and <strong>combining their a",
-    "link": "https://dev.to/alya_mahalini_f05d9953cfa/building-multi-agent-orchestration-with-flowork-agent-groups-5eaa",
+    "title": "Unlock Alerting Efficiency: The Power of Deduplication in Automation",
+    "desc": "<h2>\n  \n  \n  Introduction to Alerting Efficiency\n</h2>\n\n<p>Deduplication is often overlooked in automation alerting systems, but it's a game",
+    "link": "https://dev.to/opsveritas/unlock-alerting-efficiency-the-power-of-deduplication-in-automation-1i22",
     "topic": "general"
   },
   {
-    "title": "Building a Security Scanner for AI Agents \u2014 Flowork's Threat Radar Architecture",
-    "desc": "<h2>\n  \n  \n  Why a Security Scanner Matters for AI Agents\n</h2>\n\n<p>An AI agent is a program that decides what to run, where to run it, and ",
-    "link": "https://dev.to/alya_mahalini_f05d9953cfa/building-a-security-scanner-for-ai-agents-floworks-threat-radar-architecture-16ah",
-    "topic": "secops"
+    "title": "Fixing GHCR \u201cUnauthorized\u201d + Docker \u201cCannot perform interactive login from non-TTY\u201d in GitHub Actions + SSH Deployments",
+    "desc": "<p>When deploying applications using <strong>GitHub Actions + SSH (appleboy/ssh-action)</strong> and pulling images from <strong>GitHub Cont",
+    "link": "https://dev.to/saint_vandora/fixing-ghcr-unauthorized-docker-cannot-perform-interactive-login-from-non-tty-in-github-24f9",
+    "topic": "docker"
   },
   {
-    "title": "How to Run Stateful ML Pipelines for Free using GitHub Actions",
-    "desc": "<p>Today is the start of the 2026 FIFA World Cup, the largest sporting competition every four years. As a fun project, I decided to build a ",
-    "link": "https://dev.to/aasteriskz/how-to-run-stateful-ml-pipelines-for-free-using-github-actions-1a93",
+    "title": "EOL, EOS, LTS, CVE \u2014 Every Software Lifecycle Term, Explained Like You're New Here",
+    "desc": "<p><strong>The short version:</strong> every piece of software has a date after which its maker stops fixing it \u2014 including security holes. ",
+    "link": "https://dev.to/endoflifeai/eol-eos-lts-cve-every-software-lifecycle-term-explained-like-youre-new-here-29fo",
     "topic": "general"
-  },
-  {
-    "title": "I Built a CIDR Calculator for Cloud Networking (AWS, Azure, Kubernetes)",
-    "desc": "<p>Subnetting and CIDR calculations are essential skills for anyone working in cloud and networking.</p>\n\n<p>But in real-world scenarios\u2014esp",
-    "link": "https://dev.to/mahammad_rafi/i-built-a-cidr-calculator-for-cloud-networking-aws-azure-kubernetes-36oj",
-    "topic": "aws"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3jm9",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-33ki",
     "topic": "general"
   },
   {
-    "title": "How to Find Every Consumer of Your GitLab CI Template",
-    "desc": "<p><em>You maintain a shared GitLab CI template. You need to rename a job, change an input, or restructure the file. Which projects across y",
-    "link": "https://dev.to/danielwe/how-to-find-every-consumer-of-your-gitlab-ci-template-2nl7",
+    "title": "Kubernetes kills your pod? Here's why",
+    "desc": "<p>Your pods keep getting killed. Not crashing \u2014 killed. One moment they're running fine, the next they're gone and Kubernetes is spinning u",
+    "link": "https://dev.to/dsplce-co/kubernetes-kills-your-pod-heres-why-25a7",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Error Budget Policies That Hold Leadership Accountable",
+    "desc": "<p>Error budgets are useless without a policy. 'We're out of error budget' should trigger consequences. If it doesn't, you don't have an err",
+    "link": "https://dev.to/samson_tanimawo/error-budget-policies-that-hold-leadership-accountable-18f4",
     "topic": "general"
   },
   {
-    "title": "MailHog Alternatives for CI Pipelines in 2026",
-    "desc": "<p>MailHog was the go-to fake SMTP server for years. It's simple, free, and gets the job done locally. But if you've tried to use it in a mo",
-    "link": "https://dev.to/zerodrop/mailhog-alternatives-for-ci-pipelines-in-2025-5d0c",
+    "title": "Rethinking Observability in the Agentic Era",
+    "desc": "<p>AI has fundamentally changed how software gets built. Tools like Cursor, Copilot, and Claude Code have made it possible for smaller teams",
+    "link": "https://dev.to/parthiv_mathur/rethinking-observability-in-the-agentic-era-401i",
     "topic": "general"
   },
   {
-    "title": "Lighthouse Gave My Site 100/100. The Site Was Down.",
-    "desc": "<p>Yesterday I ran PageSpeed Insights on a site I manage. Performance: <strong>100/100</strong>. Green circle, confetti, the works.</p>\n\n<p>",
-    "link": "https://dev.to/lamas51/lighthouse-gave-my-site-100100-the-site-was-down-3gin",
+    "title": "Building Multi-Agent Orchestration with Flowork Agent Groups",
+    "desc": "<p>Every group orchestration challenge falls into two buckets: <strong>assembling specialized workers</strong> and <strong>combining their a",
+    "link": "https://dev.to/alya_mahalini_f05d9953cfa/building-multi-agent-orchestration-with-flowork-agent-groups-5eaa",
     "topic": "general"
   }
 ]
