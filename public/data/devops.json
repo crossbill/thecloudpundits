@@ -1,50 +1,50 @@
 [
   {
+    "title": "Is Your IPv4 Block Blacklisted? Checking a /24 the DNSBL Way",
+    "desc": "<p>If you own or lease IPv4 space, the reputation of your addresses is part of the asset. A block that's quietly listed on a major DNSBL doe",
+    "link": "https://dev.to/kohanevich/is-your-ipv4-block-blacklisted-checking-a-24-the-dnsbl-way-3043",
+    "topic": "general"
+  },
+  {
+    "title": "Vault vs AWS Secrets Manager vs Doppler: Secrets Management Compared",
+    "desc": "<p>Hardcoded credentials in source code remain one of the leading causes of cloud breaches. The fix sounds simple \u2014 use a secrets manager \u2014 ",
+    "link": "https://dev.to/ayinedjimi-consultants/vault-vs-aws-secrets-manager-vs-doppler-secrets-management-compared-563n",
+    "topic": "aws"
+  },
+  {
+    "title": "A safer pattern for authenticated automation: vault-backed sessions",
+    "desc": "<p>Authenticated automation usually fails at the same boring place: login. Scraping a public page is easy compared with running a workflow i",
+    "link": "https://dev.to/anakin_writers/a-safer-pattern-for-authenticated-automation-vault-backed-sessions-1mn5",
+    "topic": "general"
+  },
+  {
+    "title": "What Makes VPN Infrastructure Production-Ready?",
+    "desc": "<p>A VPN server can be online without being ready for production.<br />\nIt may accept a test connection, route traffic successfully, and per",
+    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/what-makes-vpn-infrastructure-production-ready-32b",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes vs Docker, PaaS, and Traditional Deployment Tools for AI Apps",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/ha",
+    "link": "https://dev.to/hadil/kubernetes-vs-docker-paas-and-traditional-deployment-tools-for-ai-apps-2911",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Best DevOps Course in Mumbai 2026 | The Honest Selection Guide",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/nixace_tech_62afe633b44ad203/best-devops-course-in-mumbai-2026-the-honest-selection-guide-53ph",
+    "topic": "general"
+  },
+  {
+    "title": "AI Workflow Automation for Operations Teams: It's Not a Platform, It's Plumbing",
+    "desc": "<p>Most vendor material on this topic opens with transformation narratives. I'll start somewhere else: the ticket queue, the approval chain,",
+    "link": "https://dev.to/open_craft_300f0b6a99ee20/ai-workflow-automation-for-operations-teams-its-not-a-platform-its-plumbing-1hm5",
+    "topic": "general"
+  },
+  {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1pph",
-    "topic": "general"
-  },
-  {
-    "title": "Krova: a security-first \u201cVPS\u201d where your server has no public IP by default",
-    "desc": "<p>Most \u201cI got hacked\u201d (or \u201cwhy is this box getting hammered?\u201d) stories I\u2019ve seen start with the same default: <em>every server gets a publi",
-    "link": "https://dev.to/dhruv_malaviya_cdcc71e595/krova-a-security-first-vps-where-your-server-has-no-public-ip-by-default-55m1",
-    "topic": "secops"
-  },
-  {
-    "title": "The SysAdmin Way to Install Prometheus & Node Exporter on CentOS 9 (Without Messy RPMs)",
-    "desc": "<p>If you manage enterprise hardware or dedicated servers, you already know that real-time visibility into your infrastructure is non-negoti",
-    "link": "https://dev.to/ethan_vance/the-sysadmin-way-to-install-prometheus-node-exporter-on-centos-9-without-messy-rpms-4ln4",
-    "topic": "general"
-  },
-  {
-    "title": "The Silent SSL Killer in Your Java Trust Store: Why AI Verification Might Be Your Only Hope",
-    "desc": "<p><strong>Sunday, 2:47 AM.</strong> Your phone buzzes. PagerDuty. The mobile banking API is returning <code>SSLHandshakeException: PKIX pat",
-    "link": "https://dev.to/xu_xu_b2179aa8fc958d531d1/the-silent-ssl-killer-in-your-java-trust-store-why-ai-verification-might-be-your-only-hope-2ped",
-    "topic": "general"
-  },
-  {
-    "title": "NFS Server Ubuntu 24.04",
-    "desc": "<p>Pada tutorial kali ini saya akan membahas NFS server pada server linux Ubuntu 24.04 LTS. Di postingan sebelumnya saya pernah membahas jug",
-    "link": "https://dev.to/seno21/nfs-server-ubuntu-2404-44n8",
-    "topic": "general"
-  },
-  {
-    "title": "Scarab Field Lab Is Public: A Case File Repo for Diagnostic Field Tests",
-    "desc": "<p>I opened the public Scarab Field Lab this week:</p>\n\n<p><a href=\"https://github.com/scarab-systems/scarab-field-lab\" rel=\"noopener norefe",
-    "link": "https://dev.to/scarab-systems/scarab-field-lab-is-public-a-case-file-repo-for-diagnostic-field-tests-2f23",
-    "topic": "general"
-  },
-  {
-    "title": "\ud83d\udd12 Securely connecting MinIO with Python client using TLS and IAM policies",
-    "desc": "<h2>\n  \n  \n  \u2753 Frequently Asked Questions\n</h2>\n\n<h3>\n  \n  \n  How do I verify that the Python client is actually using the TLS certificate?\n",
-    "link": "https://dev.to/ptp2308/securely-connecting-minio-with-python-client-using-tls-and-iam-policies-13mo",
-    "topic": "secops"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3d20",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2nj1",
     "topic": "general"
   }
 ]
