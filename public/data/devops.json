@@ -1,50 +1,50 @@
 [
   {
-    "title": "Linux File Permissions Explained: chmod, chown, and umask",
-    "desc": "<p>The most common Linux question I see from developers coming from a Windows or macOS background is some variation of \"why does everything ",
-    "link": "https://dev.to/sysemperor/linux-file-permissions-explained-chmod-chown-and-umask-g7b",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1pph",
     "topic": "general"
+  },
+  {
+    "title": "Krova: a security-first \u201cVPS\u201d where your server has no public IP by default",
+    "desc": "<p>Most \u201cI got hacked\u201d (or \u201cwhy is this box getting hammered?\u201d) stories I\u2019ve seen start with the same default: <em>every server gets a publi",
+    "link": "https://dev.to/dhruv_malaviya_cdcc71e595/krova-a-security-first-vps-where-your-server-has-no-public-ip-by-default-55m1",
+    "topic": "secops"
+  },
+  {
+    "title": "The SysAdmin Way to Install Prometheus & Node Exporter on CentOS 9 (Without Messy RPMs)",
+    "desc": "<p>If you manage enterprise hardware or dedicated servers, you already know that real-time visibility into your infrastructure is non-negoti",
+    "link": "https://dev.to/ethan_vance/the-sysadmin-way-to-install-prometheus-node-exporter-on-centos-9-without-messy-rpms-4ln4",
+    "topic": "general"
+  },
+  {
+    "title": "The Silent SSL Killer in Your Java Trust Store: Why AI Verification Might Be Your Only Hope",
+    "desc": "<p><strong>Sunday, 2:47 AM.</strong> Your phone buzzes. PagerDuty. The mobile banking API is returning <code>SSLHandshakeException: PKIX pat",
+    "link": "https://dev.to/xu_xu_b2179aa8fc958d531d1/the-silent-ssl-killer-in-your-java-trust-store-why-ai-verification-might-be-your-only-hope-2ped",
+    "topic": "general"
+  },
+  {
+    "title": "NFS Server Ubuntu 24.04",
+    "desc": "<p>Pada tutorial kali ini saya akan membahas NFS server pada server linux Ubuntu 24.04 LTS. Di postingan sebelumnya saya pernah membahas jug",
+    "link": "https://dev.to/seno21/nfs-server-ubuntu-2404-44n8",
+    "topic": "general"
+  },
+  {
+    "title": "Scarab Field Lab Is Public: A Case File Repo for Diagnostic Field Tests",
+    "desc": "<p>I opened the public Scarab Field Lab this week:</p>\n\n<p><a href=\"https://github.com/scarab-systems/scarab-field-lab\" rel=\"noopener norefe",
+    "link": "https://dev.to/scarab-systems/scarab-field-lab-is-public-a-case-file-repo-for-diagnostic-field-tests-2f23",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\udd12 Securely connecting MinIO with Python client using TLS and IAM policies",
+    "desc": "<h2>\n  \n  \n  \u2753 Frequently Asked Questions\n</h2>\n\n<h3>\n  \n  \n  How do I verify that the Python client is actually using the TLS certificate?\n",
+    "link": "https://dev.to/ptp2308/securely-connecting-minio-with-python-client-using-tls-and-iam-policies-13mo",
+    "topic": "secops"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-45eh",
-    "topic": "general"
-  },
-  {
-    "title": "Every Coding Agent Needs a Sandbox. sandboxd Shows Why.",
-    "desc": "<p>AI coding agents are getting better fast. But the uncomfortable question is not only <strong>\"can the model write code?\"</strong></p>\n\n<p",
-    "link": "https://dev.to/tenglongai2026/every-coding-agent-needs-a-sandbox-sandboxd-shows-why-15pg",
-    "topic": "general"
-  },
-  {
-    "title": "Automation Chaos to Operational Control: Observability Framework",
-    "desc": "<h2>\n  \n  \n  Introduction to Observability\n</h2>\n\n<p>As we navigate the complexities of modern software systems, the need for operational co",
-    "link": "https://dev.to/opsveritas/automation-chaos-to-operational-control-observability-framework-bjj",
-    "topic": "general"
-  },
-  {
-    "title": "We Tracked 1M LLM API Calls \u2014 60% Were Wasting Money on the Wrong Model",
-    "desc": "<blockquote>\n<p><strong>Key Takeaways</strong></p>\n\n<ul>\n<li>82% of developers default to OpenAI GPT models (Stack Overflow Developer Survey",
-    "link": "https://dev.to/tokonomics/we-tracked-1m-llm-api-calls-60-were-wasting-money-on-the-wrong-model-h7p",
-    "topic": "general"
-  },
-  {
-    "title": "I parsed my own firewall logs and found which AI tools my org was really talking to \u2014 including one routing data to China",
-    "desc": "<p>I pointed a scanner I wrote at my own network traffic for one afternoon. It came back with eight AI services I'd never sanctioned, runnin",
-    "link": "https://dev.to/dezotech/i-parsed-my-own-firewall-logs-and-found-which-ai-tools-my-org-was-really-talking-to-including-one-3bnl",
-    "topic": "general"
-  },
-  {
-    "title": "The Real AI Coding Breakthrough Is Not More Context. It Is Better Diagnostics.",
-    "desc": "<p>When I started building what became Scarab Diagnostic Suite, I was not trying to create a theory of AI-assisted software development.</p>",
-    "link": "https://dev.to/scarab-systems/the-real-ai-coding-breakthrough-is-not-more-context-it-is-better-diagnostics-1b3d",
-    "topic": "general"
-  },
-  {
-    "title": "Everyone is building smarter Agents. Nobody is fixing what they run on.",
-    "desc": "<p>'ve been watching the AI agent space for a while now and something keeps bothering me that nobody really talks about.</p>\n\n<p>Every week ",
-    "link": "https://dev.to/artem_a/everyone-is-building-smarter-agents-nobody-is-fixing-what-they-run-on-296d",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3d20",
     "topic": "general"
   }
 ]
