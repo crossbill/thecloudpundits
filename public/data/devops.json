@@ -1,50 +1,50 @@
 [
   {
-    "title": "Audit Trails Make Systems Easier to Trust",
-    "desc": "<p>Audit Trails Make Systems Easier to Trust is a practical operating principle, not a slogan.</p>\n\n<p>The useful version of analytics, auto",
-    "link": "https://dev.to/webmasterid/audit-trails-make-systems-easier-to-trust-32f7",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-pf",
     "topic": "general"
   },
   {
-    "title": "Debuggix Analyzed AI-Generated Code From Cursor, Lovable, And Bolt. Here Are The 5 Security Patterns We Found In Every Project.",
-    "desc": "<p><strong>Hardcoded API keys. Exposed Firebase configs. Missing input validation. Wildcard CORS. Unpinned dependencies. The data from 100 r",
-    "link": "https://dev.to/lucky3mc/debuggix-analyzed-ai-generated-code-from-cursor-lovable-and-bolt-here-are-the-5-security-4h2",
+    "title": "Top 12 Playit.gg Alternatives for Low-Latency Game Server Hosting in 2026",
+    "desc": "<p>Multiplayer gaming has come a long way, and so have the tools that keep your servers accessible. Playit.gg has served gamers well as a no",
+    "link": "https://dev.to/moksh/top-12-playitgg-alternatives-for-low-latency-game-server-hosting-in-2026-2jla",
+    "topic": "general"
+  },
+  {
+    "title": "Still Looking for Hackathon Teammates",
+    "desc": "<p>Reposting because I still haven't found enough people and I'd really love to build a strong team for upcoming hackathons.<br />\nSeems lik",
+    "link": "https://dev.to/casperday11/still-looking-for-hackathon-teammates-2emp",
+    "topic": "general"
+  },
+  {
+    "title": "How to Give Your AI Agent a Budget (Before It Gives Itself One)",
+    "desc": "<p>An AI agent running on behalf of a developer named JertLinc recently joined a hobbyist networking community called DN42 with one goal: sc",
+    "link": "https://dev.to/tonyspiro/how-to-give-your-ai-agent-a-budget-before-it-gives-itself-one-52ia",
+    "topic": "general"
+  },
+  {
+    "title": "Why Exact-Match Search Fails at Config Audits (and What Supernet Overlap Found)",
+    "desc": "<p>Here is a problem that looks like string matching and is not: you have a carrier circuit inventory -- a spreadsheet full of IPs and ident",
+    "link": "https://dev.to/kkierii/why-exact-match-search-fails-at-config-audits-and-what-supernet-overlap-found-hij",
+    "topic": "general"
+  },
+  {
+    "title": "Dead Agents Tell No Tales: Solving the AI Continuity Problem",
+    "desc": "<h1>\n  \n  \n  Dead Agents Tell No Tales: Solving the AI Continuity Problem\n</h1>\n\n<p>What happens when your autonomous AI agent crashes?</p>\n",
+    "link": "https://dev.to/the_bookmaster/dead-agents-tell-no-tales-solving-the-ai-continuity-problem-lp9",
+    "topic": "general"
+  },
+  {
+    "title": "A pris\u00e3o de ouro: A cela invis\u00edvel",
+    "desc": "<p>Por:Samella noemy oliveira dos Santos</p>\n\n<h2>\n  \n  \n  1. A G\u00eanese da Depend\u00eancia e a Ascens\u00e3o da Superintelig\u00eancia\n</h2>\n\n<p>O processo",
+    "link": "https://dev.to/noemy_36ba09c0a144f625083/a-5f6i",
+    "topic": "general"
+  },
+  {
+    "title": "Cybersecurity Weekly Series: Email Security Beyond Spam Filters (2026)",
+    "desc": "<p>Email remains the #1 entry point for cyberattacks targeting small businesses.</p>\n\n<p>Most teams believe a simple spam filter is enough t",
+    "link": "https://dev.to/cyber8080/cybersecurity-weekly-series-email-security-beyond-spam-filters-2026-6ng",
     "topic": "secops"
-  },
-  {
-    "title": "MongoDB DR Drill Automation with Terraform, Python & Jenkins \u2014 How We Made Restores Boring",
-    "desc": "<h2>\n  \n  \n  Backups Don't Save You. Restores Do.\n</h2>\n\n<p>We ran a MongoDB restore drill last quarter. It failed \u2014 not the restore itself,",
-    "link": "https://dev.to/mrinal_narang_13a3d00eb37/mongodb-dr-drill-automation-with-terraform-python-jenkins-how-we-made-restores-boring-loj",
-    "topic": "terraform"
-  },
-  {
-    "title": "How Kong's Control Plane / Data Plane Split Cut Our Gateway Costs by 34% (And Made It a Security Layer)",
-    "desc": "<h2>\n  \n  \n  The Problem With How Most Teams Run Kong\n</h2>\n\n<p>If you set up Kong the default way, everything lives together \u2014 routing, pol",
-    "link": "https://dev.to/mrinal_narang_13a3d00eb37/how-kongs-control-plane-data-plane-split-cut-our-gateway-costs-by-34-and-made-it-a-security-1754",
-    "topic": "secops"
-  },
-  {
-    "title": "Your package.json diffs are noisy for no reason. I built a zero-dep fixer.",
-    "desc": "<p>Open a PR, and half the <code>package.json</code> diff is keys that didn't actually<br />\nchange \u2014 they just <em>moved</em>. One teammate",
-    "link": "https://dev.to/_06a3df6b50aec966668fb/your-packagejson-diffs-are-noisy-for-no-reason-i-built-a-zero-dep-fixer-5fjf",
-    "topic": "general"
-  },
-  {
-    "title": "Platform Engineering Talent Is Shifting From Mexico City to Medell\u00edn",
-    "desc": "<p>Look, Mexico City had a stranglehold on nearshore platform engineering work. That advantage is evaporating fast.</p>\n\n<p>Medell\u00edn's quiet",
-    "link": "https://dev.to/offshoredev/platform-engineering-talent-is-shifting-from-mexico-city-to-medellin-2ld",
-    "topic": "general"
-  },
-  {
-    "title": "I built an open-source authorization layer for AI agents \u2014 here's what the audit trail looks like",
-    "desc": "<h1>\n  \n  \n  I built an open-source authorization layer for AI agents \u2014 here's what the audit trail looks like\n</h1>\n\n<p>When an AI agent ta",
-    "link": "https://dev.to/kmori_f732750cda96b27efe7/i-built-an-open-source-authorization-layer-for-ai-agents-heres-what-the-audit-trail-looks-like-n5g",
-    "topic": "general"
-  },
-  {
-    "title": "Your AI Agent's Mistakes Are a Free Preference Dataset. Stop Deleting Them.",
-    "desc": "<p>You correct your AI coding agent dozens of times a day. \"No, not that file.\" \"Don't force-push to main.\" \"That function doesn't exist \u2014 y",
-    "link": "https://dev.to/igorganapolsky/your-ai-agents-mistakes-are-a-free-preference-dataset-stop-deleting-them-457o",
-    "topic": "general"
   }
 ]
