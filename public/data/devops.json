@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-573b",
+    "title": "Audit Trails Make Systems Easier to Trust",
+    "desc": "<p>Audit Trails Make Systems Easier to Trust is a practical operating principle, not a slogan.</p>\n\n<p>The useful version of analytics, auto",
+    "link": "https://dev.to/webmasterid/audit-trails-make-systems-easier-to-trust-32f7",
     "topic": "general"
   },
   {
-    "title": "System Design: How Do We Host an App That Runs a Job Every 5 Minutes?",
-    "desc": "<p>Imagine you're building an app that needs to perform a task every 5 minutes.</p>\n\n<p>Examples:</p>\n\n<ul>\n<li>Send reminder notifications<",
-    "link": "https://dev.to/khushindpatel/system-design-how-do-we-host-an-app-that-runs-a-job-every-5-minutes-1i50",
+    "title": "Debuggix Analyzed AI-Generated Code From Cursor, Lovable, And Bolt. Here Are The 5 Security Patterns We Found In Every Project.",
+    "desc": "<p><strong>Hardcoded API keys. Exposed Firebase configs. Missing input validation. Wildcard CORS. Unpinned dependencies. The data from 100 r",
+    "link": "https://dev.to/lucky3mc/debuggix-analyzed-ai-generated-code-from-cursor-lovable-and-bolt-here-are-the-5-security-4h2",
+    "topic": "secops"
+  },
+  {
+    "title": "MongoDB DR Drill Automation with Terraform, Python & Jenkins \u2014 How We Made Restores Boring",
+    "desc": "<h2>\n  \n  \n  Backups Don't Save You. Restores Do.\n</h2>\n\n<p>We ran a MongoDB restore drill last quarter. It failed \u2014 not the restore itself,",
+    "link": "https://dev.to/mrinal_narang_13a3d00eb37/mongodb-dr-drill-automation-with-terraform-python-jenkins-how-we-made-restores-boring-loj",
+    "topic": "terraform"
+  },
+  {
+    "title": "How Kong's Control Plane / Data Plane Split Cut Our Gateway Costs by 34% (And Made It a Security Layer)",
+    "desc": "<h2>\n  \n  \n  The Problem With How Most Teams Run Kong\n</h2>\n\n<p>If you set up Kong the default way, everything lives together \u2014 routing, pol",
+    "link": "https://dev.to/mrinal_narang_13a3d00eb37/how-kongs-control-plane-data-plane-split-cut-our-gateway-costs-by-34-and-made-it-a-security-1754",
+    "topic": "secops"
+  },
+  {
+    "title": "Your package.json diffs are noisy for no reason. I built a zero-dep fixer.",
+    "desc": "<p>Open a PR, and half the <code>package.json</code> diff is keys that didn't actually<br />\nchange \u2014 they just <em>moved</em>. One teammate",
+    "link": "https://dev.to/_06a3df6b50aec966668fb/your-packagejson-diffs-are-noisy-for-no-reason-i-built-a-zero-dep-fixer-5fjf",
     "topic": "general"
   },
   {
-    "title": "\u30102026\u3011Auth0 \u4ee3\u66ff (Clerk/Supabase Auth/WorkOS)\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
-    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p>\u8ff7\u3063\u305f\u3089 <strong>Clerk</strong> \u306b\u4e57\u308a\u63db\u3048\u308b\u306e\u304c\u7b2c\u4e00\u5019\u88dc\u3067\u3059\u3002\u7406\u7531\u306f3\u884c\u3067\u3002</p>\n\n<ul>\n<li>\n<a href=\"https://www.amazon.co.jp/s?k=Re",
-    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-3jk5",
+    "title": "Platform Engineering Talent Is Shifting From Mexico City to Medell\u00edn",
+    "desc": "<p>Look, Mexico City had a stranglehold on nearshore platform engineering work. That advantage is evaporating fast.</p>\n\n<p>Medell\u00edn's quiet",
+    "link": "https://dev.to/offshoredev/platform-engineering-talent-is-shifting-from-mexico-city-to-medellin-2ld",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux VPS: The First 10 Essential Steps",
-    "desc": "<p><em>Follow this practical checklist to harden a fresh Linux VPS and protect it from attacks right out of the box</em></p>\n\n<h2>\n  \n  \n  B",
-    "link": "https://dev.to/-abdullah-sheikh/how-to-secure-your-linux-vps-the-first-10-essential-steps-43nj",
+    "title": "I built an open-source authorization layer for AI agents \u2014 here's what the audit trail looks like",
+    "desc": "<h1>\n  \n  \n  I built an open-source authorization layer for AI agents \u2014 here's what the audit trail looks like\n</h1>\n\n<p>When an AI agent ta",
+    "link": "https://dev.to/kmori_f732750cda96b27efe7/i-built-an-open-source-authorization-layer-for-ai-agents-heres-what-the-audit-trail-looks-like-n5g",
     "topic": "general"
   },
   {
-    "title": "AI in DevOps: The Future",
-    "desc": "<p>AI isn't just a buzzword in DevOps; it can be a game-changer. From predictive analytics to automated deployments, embrace AI to enhance e",
-    "link": "https://dev.to/fabiosarmento/ai-in-devops-the-future-3e35",
-    "topic": "general"
-  },
-  {
-    "title": "A Friday systems thinking thread \u2014 worth sitting with:",
-    "desc": "<h1>\n  \n  \n  LinkedIn Draft \u2014 Insight (2026-06-12)\n</h1>\n\n<p>A Friday systems thinking thread \u2014 worth sitting with:</p>\n\n<p><strong>Observab",
-    "link": "https://dev.to/neeraja_khanapure_4a33a5f/a-friday-systems-thinking-thread-worth-sitting-with-28k5",
-    "topic": "general"
-  },
-  {
-    "title": "I Audited a Production WHM/cPanel Server. Here's What I Found (and How to Check Yours)",
-    "desc": "<p>Last month I ran a security audit on a production WHM/cPanel server. It belonged to a web agency hosting a couple dozen client sites \u2014 Wo",
-    "link": "https://dev.to/sysbalance/i-audited-a-production-whmcpanel-server-heres-what-i-found-and-how-to-check-yours-3h5m",
-    "topic": "general"
-  },
-  {
-    "title": "What's the most painful part of Jenkins that you've just accepted as \"how it is\"?",
-    "desc": "<p>Been using Jenkins for 3 years. There are things I complain <br />\nabout but have never actually tried to fix because it felt <br />\nlike",
-    "link": "https://dev.to/devvops/whats-the-most-painful-part-of-jenkins-that-youve-just-accepted-as-how-it-is-1bb9",
+    "title": "Your AI Agent's Mistakes Are a Free Preference Dataset. Stop Deleting Them.",
+    "desc": "<p>You correct your AI coding agent dozens of times a day. \"No, not that file.\" \"Don't force-push to main.\" \"That function doesn't exist \u2014 y",
+    "link": "https://dev.to/igorganapolsky/your-ai-agents-mistakes-are-a-free-preference-dataset-stop-deleting-them-457o",
     "topic": "general"
   }
 ]

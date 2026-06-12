@@ -1,5 +1,11 @@
 [
   {
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/olmo-eval",
+    "topic": "general"
+  },
+  {
     "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
     "desc": "",
     "link": "https://huggingface.co/blog/torch-mlp-fusion",
@@ -39,12 +45,6 @@
     "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
     "desc": "",
     "link": "https://huggingface.co/blog/hf-cli-for-agents",
-    "topic": "general"
-  },
-  {
-    "title": "Direct Preference Optimization Beyond\u00a0Chatbots",
-    "desc": "",
-    "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
     "topic": "general"
   }
 ]
