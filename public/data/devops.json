@@ -1,50 +1,50 @@
 [
   {
-    "title": "Unlock Alerting Efficiency: The Power of Deduplication in Automation",
-    "desc": "<h2>\n  \n  \n  Introduction to Alerting Efficiency\n</h2>\n\n<p>Deduplication is often overlooked in automation alerting systems, but it's a game",
-    "link": "https://dev.to/opsveritas/unlock-alerting-efficiency-the-power-of-deduplication-in-automation-1i22",
+    "title": "How to Add Schema Markup to Your Website",
+    "desc": "<p>Schema markup is one of the most powerful yet underused SEO techniques available. This guide walks you through exactly how to add it to y",
+    "link": "https://dev.to/schemify/how-to-add-schema-markup-to-your-website-1p3j",
     "topic": "general"
   },
   {
-    "title": "Fixing GHCR \u201cUnauthorized\u201d + Docker \u201cCannot perform interactive login from non-TTY\u201d in GitHub Actions + SSH Deployments",
-    "desc": "<p>When deploying applications using <strong>GitHub Actions + SSH (appleboy/ssh-action)</strong> and pulling images from <strong>GitHub Cont",
-    "link": "https://dev.to/saint_vandora/fixing-ghcr-unauthorized-docker-cannot-perform-interactive-login-from-non-tty-in-github-24f9",
-    "topic": "docker"
-  },
-  {
-    "title": "EOL, EOS, LTS, CVE \u2014 Every Software Lifecycle Term, Explained Like You're New Here",
-    "desc": "<p><strong>The short version:</strong> every piece of software has a date after which its maker stops fixing it \u2014 including security holes. ",
-    "link": "https://dev.to/endoflifeai/eol-eos-lts-cve-every-software-lifecycle-term-explained-like-youre-new-here-29fo",
+    "title": "Agent-Native Infrastructure: What Actually Breaks When AI Agents Use Your Stack",
+    "desc": "<p>The claim circulating in AI infrastructure circles is blunt: the stack you run today\u2014identity, auth, storage, APIs\u2014was designed around a ",
+    "link": "https://dev.to/pickuma/agent-native-infrastructure-what-actually-breaks-when-ai-agents-use-your-stack-1ho4",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-33ki",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1fem",
     "topic": "general"
   },
   {
-    "title": "Kubernetes kills your pod? Here's why",
-    "desc": "<p>Your pods keep getting killed. Not crashing \u2014 killed. One moment they're running fine, the next they're gone and Kubernetes is spinning u",
-    "link": "https://dev.to/dsplce-co/kubernetes-kills-your-pod-heres-why-25a7",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Error Budget Policies That Hold Leadership Accountable",
-    "desc": "<p>Error budgets are useless without a policy. 'We're out of error budget' should trigger consequences. If it doesn't, you don't have an err",
-    "link": "https://dev.to/samson_tanimawo/error-budget-policies-that-hold-leadership-accountable-18f4",
+    "title": "I read the r/openclaw thread on the best $20 plan and realized everyone is solving the wrong problem",
+    "desc": "<p>A thread on r/openclaw asked a simple question: what\u2019s the best $20/month subscription for OpenClaw?</p>\n\n<p>After reading all 29 comment",
+    "link": "https://dev.to/lars_winstand/i-read-the-ropenclaw-thread-on-the-best-20-plan-and-realized-everyone-is-solving-the-wrong-problem-8ki",
     "topic": "general"
   },
   {
-    "title": "Rethinking Observability in the Agentic Era",
-    "desc": "<p>AI has fundamentally changed how software gets built. Tools like Cursor, Copilot, and Claude Code have made it possible for smaller teams",
-    "link": "https://dev.to/parthiv_mathur/rethinking-observability-in-the-agentic-era-401i",
+    "title": "Scarab Diagnostic Field Test #026 \u2014 Next.js Turbopack Denied-Path Watcher Boundary",
+    "desc": "<p>Target: vercel/next.js<br /><br />\nIssue: vercel/next.js#81161<br /><br />\nPR: vercel/next.js#94735<br /><br />\nField Lab: <a href=\"https",
+    "link": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-026-nextjs-turbopack-denied-path-watcher-boundary-4pkp",
     "topic": "general"
   },
   {
-    "title": "Building Multi-Agent Orchestration with Flowork Agent Groups",
-    "desc": "<p>Every group orchestration challenge falls into two buckets: <strong>assembling specialized workers</strong> and <strong>combining their a",
-    "link": "https://dev.to/alya_mahalini_f05d9953cfa/building-multi-agent-orchestration-with-flowork-agent-groups-5eaa",
+    "title": "OpenVPN on AWS: Secure Access to Private Infrastructure",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Many DevOps engineers and Site Reliability Engineers (SREs) have likely worked on projects where the hig",
+    "link": "https://dev.to/posibble/openvpn-on-aws-secure-access-to-private-infrastructure-534n",
+    "topic": "aws"
+  },
+  {
+    "title": "Ephemeral Inboxes: Spin Up a Mailbox Per Test Run",
+    "desc": "<p>Two CI workers kick off at the same moment. Both sign up a test user, both poll the shared QA Gmail account for \"the\" verification email,",
+    "link": "https://dev.to/qasim157/ephemeral-inboxes-spin-up-a-mailbox-per-test-run-48cc",
     "topic": "general"
+  },
+  {
+    "title": "Datadog and AWS Shipped Ops Agents on the Same Day. What Are They Fighting Over?",
+    "desc": "<p>On June 9, 2026 (US time), two big announcements landed on the same day.</p>\n\n<p>At the keynote of Datadog's annual event DASH 2026 in Ne",
+    "link": "https://dev.to/aws-builders/datadog-and-aws-shipped-ops-agents-on-the-same-day-what-are-they-fighting-over-29p6",
+    "topic": "aws"
   }
 ]
