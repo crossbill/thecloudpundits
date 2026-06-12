@@ -1,5 +1,23 @@
 [
   {
+    "title": "Iranian Cyber Group Handala Claims Cal Water Hack",
+    "desc": "<p>The hackers published 5GB of data, including customer personal information and credentials for the RTKBase platform.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/",
+    "topic": "secops"
+  },
+  {
+    "title": "Ivanti Sentry Exploitation Attempts Hitting Honeypots",
+    "desc": "<p>The critical-severity OS command injection vulnerability allows attackers to execute arbitrary code with root privileges.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/",
+    "topic": "general"
+  },
+  {
+    "title": "Chrome 149 Update Patches 28 Vulnerabilities",
+    "desc": "<p>The browser refresh resolved critical and high-severity security defects, including a dozen use-after-free bugs.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "Anthropic Disputes Fable 5 AI Jailbreak",
     "desc": "<p>An AI hacker claims to have achieved a prompt-based jailbreak shortly after Fable 5\u2019s launch, but Anthropic says it\u2019s not a real jailbrea",
     "link": "https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/",
@@ -27,24 +45,6 @@
     "title": "CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk",
     "desc": "<p>The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries.</p>\n<p>Th",
     "link": "https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/",
-    "topic": "secops"
-  },
-  {
-    "title": "OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month",
-    "desc": "<p>Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, ",
-    "link": "https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/",
-    "topic": "secops"
-  },
-  {
-    "title": "Hackers Exploit Langflow Vulnerability for Remote Code Execution",
-    "desc": "<p>Disclosed in March, the security defect enables unauthenticated attackers to write files to arbitrary locations on the system.</p>\n<p>The",
-    "link": "https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/",
-    "topic": "secops"
-  },
-  {
-    "title": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
-    "desc": "<p>A PowerShell script included in patch files appears to be triggering false positives by multiple security engines.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
     "topic": "secops"
   }
 ]
