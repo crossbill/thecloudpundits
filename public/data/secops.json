@@ -1,5 +1,17 @@
 [
   {
+    "title": "Anthropic Disputes Fable 5 AI Jailbreak",
+    "desc": "<p>An AI hacker claims to have achieved a prompt-based jailbreak shortly after Fable 5\u2019s launch, but Anthropic says it\u2019s not a real jailbrea",
+    "link": "https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters",
+    "desc": "<p>Oracle has mitigated CVE-2026-35273, but it has not publicly confirmed the vulnerability\u2019s in-the-wild exploitation.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/",
+    "topic": "general"
+  },
+  {
     "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
     "desc": "<p>Oracle has released mitigations for CVE-2026-35273, but it has not said whether it\u2019s a zero-day exploited in ShinyHunters attacks.</p>\n<p",
     "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
@@ -34,17 +46,5 @@
     "desc": "<p>A PowerShell script included in patch files appears to be triggering false positives by multiple security engines.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
     "topic": "secops"
-  },
-  {
-    "title": "FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers",
-    "desc": "<p>The 13 websites purported to be affiliated with consulting companies that advertised job openings for current and former holders of secur",
-    "link": "https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/",
-    "topic": "general"
-  },
-  {
-    "title": "Splunk, Palo Alto Networks Patch Severe Vulnerabilities",
-    "desc": "<p>The security defects could allow attackers to create or modify arbitrary files and access and modify protected resources.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/",
-    "topic": "general"
   }
 ]

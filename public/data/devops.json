@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Add Schema Markup to Your Website",
-    "desc": "<p>Schema markup is one of the most powerful yet underused SEO techniques available. This guide walks you through exactly how to add it to y",
-    "link": "https://dev.to/schemify/how-to-add-schema-markup-to-your-website-1p3j",
+    "title": "Why KCL Matters for Platform Engineers",
+    "desc": "<blockquote>\n<p><strong>Author\u2019s Note</strong>: I have contributed to the <a href=\"https://www.kcl-lang.io/\" rel=\"noopener noreferrer\">KCL</",
+    "link": "https://dev.to/ipt/why-kcl-matters-for-platform-engineers-pop",
     "topic": "general"
   },
   {
-    "title": "Agent-Native Infrastructure: What Actually Breaks When AI Agents Use Your Stack",
-    "desc": "<p>The claim circulating in AI infrastructure circles is blunt: the stack you run today\u2014identity, auth, storage, APIs\u2014was designed around a ",
-    "link": "https://dev.to/pickuma/agent-native-infrastructure-what-actually-breaks-when-ai-agents-use-your-stack-1ho4",
+    "title": "I committed a 200 MB file once. Never again \u2014 so I built a zero-dep pre-commit guard.",
+    "desc": "<p>Everyone has a version of this story. Mine: I <code>git add -A</code>'d in a hurry, a<br />\nstray build artifact came along for the ride,",
+    "link": "https://dev.to/_06a3df6b50aec966668fb/i-committed-a-200-mb-file-once-never-again-so-i-built-a-zero-dep-pre-commit-guard-idn",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1fem",
+    "title": "Top 10 Linux Distros for Dedicated Servers in 2026 \ud83d\udc27",
+    "desc": "<p>When you rent a dedicated server, the hardware spec sheet is only half the story. The Linux distribution you flash onto that bare metal d",
+    "link": "https://dev.to/shannon_dias_927e8f0d0d18/top-10-linux-distros-for-dedicated-servers-in-2026-4377",
     "topic": "general"
   },
   {
-    "title": "I read the r/openclaw thread on the best $20 plan and realized everyone is solving the wrong problem",
-    "desc": "<p>A thread on r/openclaw asked a simple question: what\u2019s the best $20/month subscription for OpenClaw?</p>\n\n<p>After reading all 29 comment",
-    "link": "https://dev.to/lars_winstand/i-read-the-ropenclaw-thread-on-the-best-20-plan-and-realized-everyone-is-solving-the-wrong-problem-8ki",
+    "title": "\u30102026\u3011Algolia \u4ee3\u66ff\u306e\u5168\u6587\u691c\u7d22SaaS\u6bd4\u8f03\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p>Algolia \u304b\u3089\u4e57\u308a\u63db\u3048\u308b\u306a\u3089\u3001\u307e\u305a <strong>Meilisearch</strong> \u3092\u691c\u8a0e\u3059\u3079\u304d\u3067\u3059\u3002\u7406\u7531\u306f3\u3064\u3002\u30bb\u30eb\u30d5\u30db\u30b9\u30c8\u3067\u304d\u308b\u305f\u3081\u30c7\u30fc\u30bf\u91cf\u306e\u5897\u52a0\u3067\u6599\u91d1\u304c\u8df3\u306d\u306b\u304f\u3044\u3053\u3068\u3001Algolia \u306b\u8fd1\u3044",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-algolia-dai-ti-noquan-wen-jian-suo-saasbi-jiao-liao-jin-yi-xing-kosutodexuan-bu-phj",
     "topic": "general"
   },
   {
-    "title": "Scarab Diagnostic Field Test #026 \u2014 Next.js Turbopack Denied-Path Watcher Boundary",
-    "desc": "<p>Target: vercel/next.js<br /><br />\nIssue: vercel/next.js#81161<br /><br />\nPR: vercel/next.js#94735<br /><br />\nField Lab: <a href=\"https",
-    "link": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-026-nextjs-turbopack-denied-path-watcher-boundary-4pkp",
+    "title": "\u4ece Cython \u7f16\u8bd1\u5230 PyPI \u53d1\u5e03 \u2014 \u4e00\u4e2a Python SDK \u7684 CI \u8fde\u73af\u5751",
+    "desc": "<h2>\n  \n  \n  \u80cc\u666f\n</h2>\n\n<p>NeuralBridge SDK \u662f\u4e00\u4e2a\u5e26 Cython \u6269\u5c55\u7684 Python \u5305\uff0c\u652f\u6301 Python 3.11-3.13\uff0c\u76ee\u6807\u5e73\u53f0\u662f Linux/macOS/Windows\u3002v4.5.2 \u7248\u672c\u53d1\u5e03\u65f6\uff0c10 \u4e2a\u6784\u5efa Job \u5168\u90e8",
+    "link": "https://dev.to/hhhfs9s7y9code/cong-cython-bian-yi-dao-pypi-fa-bu-ge-python-sdk-de-ci-lian-huan-keng-2d48",
     "topic": "general"
   },
   {
-    "title": "OpenVPN on AWS: Secure Access to Private Infrastructure",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Many DevOps engineers and Site Reliability Engineers (SREs) have likely worked on projects where the hig",
-    "link": "https://dev.to/posibble/openvpn-on-aws-secure-access-to-private-infrastructure-534n",
+    "title": "How to Control CloudWatch Logs Costs on ECS",
+    "desc": "<p>Your AWS bill shows CloudWatch at $400 this month. You have 15 ECS services logging INFO-level with retention set to Never Expire. You di",
+    "link": "https://dev.to/dspv/how-to-control-cloudwatch-logs-costs-on-ecs-5592",
+    "topic": "general"
+  },
+  {
+    "title": "How to Debug AWS Fargate Containers with ECS Exec",
+    "desc": "<p>You moved to Fargate. No more SSH. No more <code>docker exec</code>. Your container is failing and you can't get inside.</p>\n\n<p>ECS Exec",
+    "link": "https://dev.to/dspv/how-to-debug-aws-fargate-containers-with-ecs-exec-j37",
     "topic": "aws"
   },
   {
-    "title": "Ephemeral Inboxes: Spin Up a Mailbox Per Test Run",
-    "desc": "<p>Two CI workers kick off at the same moment. Both sign up a test user, both poll the shared QA Gmail account for \"the\" verification email,",
-    "link": "https://dev.to/qasim157/ephemeral-inboxes-spin-up-a-mailbox-per-test-run-48cc",
+    "title": "\u30102026\u3011Notion \u4ee3\u66ff\u306e\u958b\u767a\u8005\u5411\u3051\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u30c4\u30fc\u30eb\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p>Notion \u304b\u3089\u958b\u767a\u8005\u5411\u3051\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3078\u4e57\u308a\u63db\u3048\u308b\u306a\u3089 <strong>GitBook</strong> \u3092\u7b2c\u4e00\u5019\u88dc\u306b\u63a8\u3059\u3002\u7406\u7531\u306f3\u3064\uff1a\u2460\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3092 Git \u30ea\u30dd\u30b8\u30c8\u30ea\u3068\u53cc\u65b9\u5411\u540c\u671f\u3067\u304d\u3001\u672c\u6587\u3092 Markdo",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-notion-dai-ti-nokai-fa-zhe-xiang-kedokiyumentoturuliao-jin-yi-xing-kosutodexuan-bu-2jpm",
     "topic": "general"
-  },
-  {
-    "title": "Datadog and AWS Shipped Ops Agents on the Same Day. What Are They Fighting Over?",
-    "desc": "<p>On June 9, 2026 (US time), two big announcements landed on the same day.</p>\n\n<p>At the keynote of Datadog's annual event DASH 2026 in Ne",
-    "link": "https://dev.to/aws-builders/datadog-and-aws-shipped-ops-agents-on-the-same-day-what-are-they-fighting-over-29p6",
-    "topic": "aws"
   }
 ]
