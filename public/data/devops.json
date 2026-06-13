@@ -1,50 +1,50 @@
 [
   {
-    "title": "Our Azure Bill Spiked Overnight \u2014 Here's Exactly How We Cut It 60% (7 Real Fixes)",
-    "desc": "<h2>\n  \n  \n  Originally published on <a href=\"https://prepstack.co.in/blog/azure-bill-spiked-how-we-cut-it-60-percent\" rel=\"noopener norefer",
-    "link": "https://dev.to/kirandeepjassalcrypto/our-azure-bill-spiked-overnight-heres-exactly-how-we-cut-it-60-7-real-fixes-22nl",
-    "topic": "azure"
-  },
-  {
-    "title": "Configuration Drift Is the Symptom. Ownership Is the Problem.",
-    "desc": "<p>Configuration drift is treated as a visibility problem solved by tooling. It isn't. It's a breakdown in ownership of declared infrastruct",
-    "link": "https://dev.to/ntctech/configuration-drift-is-the-symptom-ownership-is-the-problem-8h3",
+    "title": "SyncFTP - sync fast local to prod or dev environment.",
+    "desc": "<p><a href=\"https://dev.tourl\"></a>\ud83d\ude80 Introducing syncFTP \u2014 a blazing-fast, SHA256-based FTP deployment tool built in Go.</p>\n\n<p>No git. No ",
+    "link": "https://dev.to/database0001/syncftp-sync-fast-local-to-prod-or-dev-environment-i1d",
     "topic": "general"
   },
   {
-    "title": "# Kubernetes for Absolute Beginners: Build Your First Local Cluster with kind",
-    "desc": "<h3>\n  \n  \n  A hands-on, copy-paste guide to going from a bare Linux machine to running, scaling, and exposing real workloads on Kubernetes ",
-    "link": "https://dev.to/ranjit_sahoo_480/-kubernetes-for-absolute-beginners-build-your-first-local-cluster-with-kind-445",
-    "topic": "kubernetes"
+    "title": "Encrypt your .env with AWS KMS: Secrets that never touch process.env",
+    "desc": "<p>A year ago I'd have told you a .env file was fine.</p>\n\n<p>Then we patched a <strong>CVSS 10.0 RCE</strong> in Next.js (<a href=\"https://",
+    "link": "https://dev.to/faizahmedfarooqui/encrypt-your-env-with-aws-kms-secrets-that-never-touch-processenv-180m",
+    "topic": "aws"
   },
   {
-    "title": "DevOps: Collaboration is Key",
-    "desc": "<p>DevOps isn't just about tools; it's a mindset. Foster a culture of collaboration between devs and ops. When everyone communicates, system",
-    "link": "https://dev.to/fabiosarmento/devops-collaboration-is-key-pgh",
+    "title": "We scanned 10 well-known sites with our security tool. Here's what we found.",
+    "desc": "<p>A few weeks ago I shipped <a href=\"https://securl.online\" rel=\"noopener noreferrer\">SecURL</a> \u2014 a passive external security posture tool",
+    "link": "https://dev.to/thisissecurl/we-scanned-10-well-known-sites-with-our-security-tool-heres-what-we-found-562o",
+    "topic": "secops"
+  },
+  {
+    "title": "Day 16: ClickHouse Dictionaries \u2013 Eliminating Expensive JOINs with High-Speed In-Memory Lookups",
+    "desc": "<p>When working with analytical databases, enriching fact tables with customer information, product metadata, geographical mappings, or busi",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-16-clickhouse-dictionaries-eliminating-expensive-joins-with-high-speed-in-memory-lookups-d5b",
     "topic": "general"
   },
   {
-    "title": "Website Development company in India | PrideSphere Solutions",
-    "desc": "<p>India has become a global hub for <a href=\"https://pridesphere.in/\" rel=\"noopener noreferrer\">web development services</a>, offering inno",
-    "link": "https://dev.to/pridesphere/website-development-company-in-india-pridesphere-solutions-2pdk",
+    "title": "Vs Tactical Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/vs-tactical-timer-what-we-learned-building-random-tactical-timer-49np",
     "topic": "general"
   },
   {
-    "title": "Production Mastery \u2014 \u0434\u0435\u043f\u043b\u043e\u0439 \u0431\u043e\u0442\u043e\u0432 \u0432 \u043f\u0440\u043e\u0434\u0430\u043a\u0448\u043d \u043f\u043e\u0434 \u043a\u043b\u044e\u0447 \u2014 listicle pitfalls",
-    "desc": "<p>\u0417\u0430\u043f\u0443\u0441\u043a\u0430\u0435\u0442\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u0431\u043e\u0442\u0430 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e, \u0430 \u043c\u044b\u0441\u043b\u044c \u043e \u0432\u044b\u0445\u043e\u0434\u0435 \u0432 \"\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043c\u0438\u0440\" VPS \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0440\u043e\u0436\u044c \u0432 \u043a\u043e\u043b\u0435\u043d\u043a\u0430\u0445? \u0417\u043d\u0430\u043a\u043e\u043c\u043e! \u041c\u043d\u043e\u0433\u0438\u0435 \u043d\u043e\u0432\u0438\u0447\u043a\u0438 \u0441\u0442\u0430\u043b\u043a\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u0441 \u043e",
-    "link": "https://dev.to/guardlabs_team/production-mastery-dieploi-botov-v-prodakshn-pod-kliuch-listicle-pitfalls-3l57",
+    "title": "The networking problem behind every \"random\" backend outage.",
+    "desc": "<p>You get paged at 2am. The service is down. You check the app \u2014 no deploys, no config changes, nothing. You restart the container and it c",
+    "link": "https://dev.to/gmoustakas/the-networking-problem-behind-every-random-backend-outage-ei3",
     "topic": "general"
   },
   {
-    "title": "Trace Sampling for LLM Apps: Keep the Spans That Matter, Drop the Rest",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.de/-/en/dp/B0GXNNMKVF\" rel=\"noopener noreferrer\">Observability for LLM Applicat",
-    "link": "https://dev.to/gabrielanhaia/trace-sampling-for-llm-apps-keep-the-spans-that-matter-drop-the-rest-3ejj",
+    "title": "The awkward middle ground between full-stack and cloud infrastructure",
+    "desc": "<p>Hey guys,</p>\n\n<p>Lately, I\u2019ve been trying to bridge the gap between my day-to-day work as a full-stack MERN dev and the infrastructure s",
+    "link": "https://dev.to/jay_patel/the-awkward-middle-ground-between-full-stack-and-cloud-infrastructure-23d7",
     "topic": "general"
   },
   {
-    "title": "The Cost-Quality-Latency Triangle: Instrumenting the LLM Trade-Off",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.de/-/en/dp/B0GXNNMKVF\" rel=\"noopener noreferrer\">Observability for LLM Applicat",
-    "link": "https://dev.to/gabrielanhaia/the-cost-quality-latency-triangle-instrumenting-the-llm-trade-off-2dl5",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4a3d",
     "topic": "general"
   }
 ]
