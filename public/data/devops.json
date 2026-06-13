@@ -1,50 +1,50 @@
 [
   {
-    "title": "Docker vs Podman vs nerdctl: Container Runtimes for Go Developers",
-    "desc": "<p>When you containerize a Go service, the runtime choice is usually an afterthought \u2014 until something breaks in CI or a security audit flag",
-    "link": "https://dev.to/ayinedjimi-consultants/docker-vs-podman-vs-nerdctl-container-runtimes-for-go-developers-3c0e",
-    "topic": "docker"
+    "title": "Our Azure Bill Spiked Overnight \u2014 Here's Exactly How We Cut It 60% (7 Real Fixes)",
+    "desc": "<h2>\n  \n  \n  Originally published on <a href=\"https://prepstack.co.in/blog/azure-bill-spiked-how-we-cut-it-60-percent\" rel=\"noopener norefer",
+    "link": "https://dev.to/kirandeepjassalcrypto/our-azure-bill-spiked-overnight-heres-exactly-how-we-cut-it-60-7-real-fixes-22nl",
+    "topic": "azure"
   },
   {
-    "title": "AI Agent Architecture: Why Process-Level Resilience Beats Proxy Gateways",
-    "desc": "<h2>\n  \n  \n  The Great AI Architecture Debate\n</h2>\n\n<p>When building reliable AI agents, there are two dominant approaches.</p>\n\n<p><strong",
-    "link": "https://dev.to/hhhfs9s7y9code/ai-agent-architecture-why-process-level-resilience-beats-proxy-gateways-1io6",
+    "title": "Configuration Drift Is the Symptom. Ownership Is the Problem.",
+    "desc": "<p>Configuration drift is treated as a visibility problem solved by tooling. It isn't. It's a breakdown in ownership of declared infrastruct",
+    "link": "https://dev.to/ntctech/configuration-drift-is-the-symptom-ownership-is-the-problem-8h3",
     "topic": "general"
   },
   {
-    "title": "LLM API Reliability in Production: What 10,000 Calls Taught Us About Failure Patterns",
-    "desc": "<h2>\n  \n  \n  LLM API Reliability: The Reality Nobody Talks About\n</h2>\n\n<p>If you have run more than a few thousand LLM calls in production,",
-    "link": "https://dev.to/hhhfs9s7y9code/llm-api-reliability-in-production-what-10000-calls-taught-us-about-failure-patterns-1pg8",
+    "title": "# Kubernetes for Absolute Beginners: Build Your First Local Cluster with kind",
+    "desc": "<h3>\n  \n  \n  A hands-on, copy-paste guide to going from a bare Linux machine to running, scaling, and exposing real workloads on Kubernetes ",
+    "link": "https://dev.to/ranjit_sahoo_480/-kubernetes-for-absolute-beginners-build-your-first-local-cluster-with-kind-445",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "DevOps: Collaboration is Key",
+    "desc": "<p>DevOps isn't just about tools; it's a mindset. Foster a culture of collaboration between devs and ops. When everyone communicates, system",
+    "link": "https://dev.to/fabiosarmento/devops-collaboration-is-key-pgh",
     "topic": "general"
   },
   {
-    "title": "Stop Reinventing the Wheel! \ud83d\ude80 How PluginStream is Revolutionizing Developer Workflows",
-    "desc": "<h1>\n  \n  \n  \ud83c\udfac PluginStream Max - Ultimate Multi-Source Entertainment Hub\n</h1>\n\n<p>In a world where every network has its own streaming app",
-    "link": "https://dev.to/pluginstream/stop-reinventing-the-wheel-how-pluginstream-is-revolutionizing-developer-workflows-4kcn",
+    "title": "Website Development company in India | PrideSphere Solutions",
+    "desc": "<p>India has become a global hub for <a href=\"https://pridesphere.in/\" rel=\"noopener noreferrer\">web development services</a>, offering inno",
+    "link": "https://dev.to/pridesphere/website-development-company-in-india-pridesphere-solutions-2pdk",
     "topic": "general"
   },
   {
-    "title": "Great Stack to Doesn't Work Bonus: 10 Bash Scripting Golden Rules",
-    "desc": "<h1>\n  \n  \n  Great Stack to Doesn't Work \u2014 Bonus\n</h1>\n\n<h1>\n  \n  \n  10 Bash Scripting Golden Rules\n</h1>\n\n<p><em>Because your deployment sc",
-    "link": "https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-10-bash-scripting-golden-rules-1n65",
+    "title": "Production Mastery \u2014 \u0434\u0435\u043f\u043b\u043e\u0439 \u0431\u043e\u0442\u043e\u0432 \u0432 \u043f\u0440\u043e\u0434\u0430\u043a\u0448\u043d \u043f\u043e\u0434 \u043a\u043b\u044e\u0447 \u2014 listicle pitfalls",
+    "desc": "<p>\u0417\u0430\u043f\u0443\u0441\u043a\u0430\u0435\u0442\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u0431\u043e\u0442\u0430 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e, \u0430 \u043c\u044b\u0441\u043b\u044c \u043e \u0432\u044b\u0445\u043e\u0434\u0435 \u0432 \"\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043c\u0438\u0440\" VPS \u0432\u044b\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0440\u043e\u0436\u044c \u0432 \u043a\u043e\u043b\u0435\u043d\u043a\u0430\u0445? \u0417\u043d\u0430\u043a\u043e\u043c\u043e! \u041c\u043d\u043e\u0433\u0438\u0435 \u043d\u043e\u0432\u0438\u0447\u043a\u0438 \u0441\u0442\u0430\u043b\u043a\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u0441 \u043e",
+    "link": "https://dev.to/guardlabs_team/production-mastery-dieploi-botov-v-prodakshn-pod-kliuch-listicle-pitfalls-3l57",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-14mf",
+    "title": "Trace Sampling for LLM Apps: Keep the Spans That Matter, Drop the Rest",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.de/-/en/dp/B0GXNNMKVF\" rel=\"noopener noreferrer\">Observability for LLM Applicat",
+    "link": "https://dev.to/gabrielanhaia/trace-sampling-for-llm-apps-keep-the-spans-that-matter-drop-the-rest-3ejj",
     "topic": "general"
   },
   {
-    "title": "Git Branch Naming That Won't Make Your Team Hate You",
-    "desc": "<p>Every team I've worked with has that one person whose branch names look like a cat walked across the keyboard:<br />\n</p>\n\n<div class=\"hi",
-    "link": "https://dev.to/kaithorne/git-branch-naming-that-wont-make-your-team-hate-you-3bon",
-    "topic": "general"
-  },
-  {
-    "title": "One CVE, four ignore files: unifying Trivy, Grype, Snyk and osv-scanner",
-    "desc": "<p>You triaged the CVE. A scanner flagged <code>CVE-2023-45853</code> in zlib, you read the advisory, confirmed the vulnerable code path isn",
-    "link": "https://dev.to/opscanopy/one-cve-four-ignore-files-unifying-trivy-grype-snyk-and-osv-scanner-4i0m",
+    "title": "The Cost-Quality-Latency Triangle: Instrumenting the LLM Trade-Off",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.de/-/en/dp/B0GXNNMKVF\" rel=\"noopener noreferrer\">Observability for LLM Applicat",
+    "link": "https://dev.to/gabrielanhaia/the-cost-quality-latency-triangle-instrumenting-the-llm-trade-off-2dl5",
     "topic": "general"
   }
 ]
