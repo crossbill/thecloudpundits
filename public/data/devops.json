@@ -1,50 +1,50 @@
 [
   {
-    "title": "SyncFTP - sync fast local to prod or dev environment.",
-    "desc": "<p><a href=\"https://dev.tourl\"></a>\ud83d\ude80 Introducing syncFTP \u2014 a blazing-fast, SHA256-based FTP deployment tool built in Go.</p>\n\n<p>No git. No ",
-    "link": "https://dev.to/database0001/syncftp-sync-fast-local-to-prod-or-dev-environment-i1d",
-    "topic": "general"
-  },
-  {
-    "title": "Encrypt your .env with AWS KMS: Secrets that never touch process.env",
-    "desc": "<p>A year ago I'd have told you a .env file was fine.</p>\n\n<p>Then we patched a <strong>CVSS 10.0 RCE</strong> in Next.js (<a href=\"https://",
-    "link": "https://dev.to/faizahmedfarooqui/encrypt-your-env-with-aws-kms-secrets-that-never-touch-processenv-180m",
-    "topic": "aws"
-  },
-  {
-    "title": "We scanned 10 well-known sites with our security tool. Here's what we found.",
-    "desc": "<p>A few weeks ago I shipped <a href=\"https://securl.online\" rel=\"noopener noreferrer\">SecURL</a> \u2014 a passive external security posture tool",
-    "link": "https://dev.to/thisissecurl/we-scanned-10-well-known-sites-with-our-security-tool-heres-what-we-found-562o",
-    "topic": "secops"
-  },
-  {
-    "title": "Day 16: ClickHouse Dictionaries \u2013 Eliminating Expensive JOINs with High-Speed In-Memory Lookups",
-    "desc": "<p>When working with analytical databases, enriching fact tables with customer information, product metadata, geographical mappings, or busi",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-16-clickhouse-dictionaries-eliminating-expensive-joins-with-high-speed-in-memory-lookups-d5b",
-    "topic": "general"
-  },
-  {
-    "title": "Vs Tactical Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/vs-tactical-timer-what-we-learned-building-random-tactical-timer-49np",
-    "topic": "general"
-  },
-  {
-    "title": "The networking problem behind every \"random\" backend outage.",
-    "desc": "<p>You get paged at 2am. The service is down. You check the app \u2014 no deploys, no config changes, nothing. You restart the container and it c",
-    "link": "https://dev.to/gmoustakas/the-networking-problem-behind-every-random-backend-outage-ei3",
-    "topic": "general"
-  },
-  {
-    "title": "The awkward middle ground between full-stack and cloud infrastructure",
-    "desc": "<p>Hey guys,</p>\n\n<p>Lately, I\u2019ve been trying to bridge the gap between my day-to-day work as a full-stack MERN dev and the infrastructure s",
-    "link": "https://dev.to/jay_patel/the-awkward-middle-ground-between-full-stack-and-cloud-infrastructure-23d7",
+    "title": "Validate JSON Like a Pro: Catch Syntax Errors Before They Break Your App",
+    "desc": "<h1>\n  \n  \n  Validate JSON Like a Pro: Catch Syntax Errors Before They Break Your App\n</h1>\n\n<p>A single missing comma in a JSON config file",
+    "link": "https://dev.to/lb1192176991lab/validate-json-like-a-pro-catch-syntax-errors-before-they-break-your-app-562a",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4a3d",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-9n9",
+    "topic": "general"
+  },
+  {
+    "title": "Python __init__ Method Explained: A Beginner's Guide to OOP",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The <code>__init__</code> method helps us initialize objects automatically whenever they are created.</p",
+    "link": "https://dev.to/shameel/python-init-method-explained-a-beginners-guide-to-oop-5bc6",
+    "topic": "general"
+  },
+  {
+    "title": "Kaupang: deploy the same config to Docker Compose, Swarm, or Kubernetes",
+    "desc": "<p>I just released <strong>kaupang</strong> \u2014 Old Norse for a Viking trading hub, where goods from every craft were gathered, packed, and sh",
+    "link": "https://dev.to/clownay/kaupang-deploy-the-same-config-to-docker-compose-swarm-or-kubernetes-1a08",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "What Happened When I Told Codex to Calm Down",
+    "desc": "<p>I have been doing a lot of work lately tightening up my diagnostic suite: the mechanics, the workflow, the way it runs against target rep",
+    "link": "https://dev.to/scarab-systems/what-happened-when-i-told-my-codex-to-calm-down-37b9",
+    "topic": "general"
+  },
+  {
+    "title": "Real-Time Agent Spend Dashboards \u2014 You Can't Audit What You Can't See",
+    "desc": "<p>Last week I covered agent audit trails \u2014 the three-layer architecture for tracking every cent an autonomous agent spends. The feedback wa",
+    "link": "https://dev.to/rumblingb/real-time-agent-spend-dashboards-you-cant-audit-what-you-cant-see-1bad",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-13i0",
+    "topic": "general"
+  },
+  {
+    "title": "Debugging OOMKilled errors and fixing memory leaks in serverless-like environments.",
+    "desc": "<p>You\u2019ve just containerized your shiny Next.js application. You\u2019ve set resource limits in Kubernetes (say, memory: 512Mi). Everything works",
+    "link": "https://dev.to/sohanaakbar7/debugging-oomkilled-errors-and-fixing-memory-leaks-in-serverless-like-environments-24d",
     "topic": "general"
   }
 ]
