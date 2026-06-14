@@ -1,50 +1,50 @@
 [
   {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-25g8",
+    "topic": "general"
+  },
+  {
+    "title": "How to Use Claude to Troubleshoot Linux Servers",
+    "desc": "<p>Claude is genuinely useful for production Linux troubleshooting \u2014 when you use it right. Here's the workflow that works, after a year of ",
+    "link": "https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe",
+    "topic": "anthropic"
+  },
+  {
+    "title": "11 Best AI Observability & LLM Monitoring Platforms 2026 (Ranked)",
+    "desc": "<p>The best AI observability platform is LangSmith for its deep integration with the LangChain ecosystem, followed by Arize AI and Datadog f",
+    "link": "https://dev.to/horror5how/11-best-ai-observability-llm-monitoring-platforms-2026-ranked-538p",
+    "topic": "general"
+  },
+  {
+    "title": "CKA Overview & Exam Pattern: The Kubernetes Certification That Actually Tests Your Skills",
+    "desc": "<p>\ud83d\ude80 CKA Exam Overview: What Every Kubernetes Engineer Should Know Before Starting</p>\n\n<p>If you're working in DevOps, Cloud Engineering, P",
+    "link": "https://dev.to/arnabadhikar/cka-overview-exam-pattern-the-kubernetes-certification-that-actually-tests-your-skills-503m",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "I Got GitLab and Airbyte Running Locally, and Realised READMEs Aren\u2019t Enough",
+    "desc": "<p>I Got GitLab and Airbyte Running Locally in Under 30 Minutes, then Built BootProof to Prove It</p>\n\n<p>Every developer knows the weird op",
+    "link": "https://dev.to/rbuckley_/i-got-gitlab-and-airbyte-running-locally-and-realised-readmes-arent-enough-ip7",
+    "topic": "general"
+  },
+  {
+    "title": "Incident Automation: What to Automate, What to Leave to Humans",
+    "desc": "<p>Incident response automation is a trap. Some things should be automated. Some things absolutely should not be. Getting the line wrong is ",
+    "link": "https://dev.to/samson_tanimawo/incident-automation-what-to-automate-what-to-leave-to-humans-5f91",
+    "topic": "secops"
+  },
+  {
+    "title": "@hazeljs/agent 1.0.1: Production Hardening for Real Deployments",
+    "desc": "<p>We are shipping <strong>@hazeljs/agent 1.0.1</strong> \u2014 a patch release focused on <strong>operational durability</strong>, <strong>resil",
+    "link": "https://dev.to/arslan_mecom/hazeljsagent-101-production-hardening-for-real-deployments-1j18",
+    "topic": "general"
+  },
+  {
     "title": "We burned 136 million tokens running an autonomous agent studio. Here's how we cut the bill ~90%.",
     "desc": "<p>We run a studio where AI agents work mostly unattended \u2014 they write code, ship sites, produce content, and keep going without a human in ",
     "link": "https://dev.to/wartzarbee/we-burned-136-million-tokens-running-an-autonomous-agent-studio-heres-how-we-cut-the-bill-90-17gf",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1k2b",
-    "topic": "general"
-  },
-  {
-    "title": "Why I Built a New Memory Plugin for Hermes Agent",
-    "desc": "<p><a href=\"https://github.com/NousResearch/hermes-agent\" rel=\"noopener noreferrer\">Hermes Agent</a> already has memory, and that matters.</",
-    "link": "https://dev.to/abdallah/why-i-built-a-new-memory-plugin-for-hermes-agent-467n",
-    "topic": "general"
-  },
-  {
-    "title": "Virtual Machines Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 07 \u2013 Jun 13, 2026",
-    "desc": "<h2>\n  \n  \n  \ud83d\udda5\ufe0f Virtual Machines \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 07 \u2013 Jun 13, 2026 | <strong>Total r",
-    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-07-jun-13-2026-3np9",
-    "topic": "aws"
-  },
-  {
-    "title": "Ingress with CloudFlare + cert-manager: A Frontend-Friendly Tutorial",
-    "desc": "<p>TL;DR: You\u2019ve built an awesome frontend app. You have a Kubernetes cluster. But setting up HTTPS with Cloudflare proxy and automatic SSL ",
-    "link": "https://dev.to/sohanaakbar7/ingress-with-cloudflare-cert-manager-a-frontend-friendly-tutorial-1g0m",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4h55",
-    "topic": "general"
-  },
-  {
-    "title": "A for Loop Skipped 23 Files and Called It a Successful Backup",
-    "desc": "<p>The backup ran every night at 2am and emailed me a green \"847 files archived\" summary. I'd built it, tested it against my own home direct",
-    "link": "https://dev.to/bashsnippets/a-for-loop-skipped-23-files-and-called-it-a-successful-backup-2j3f",
-    "topic": "general"
-  },
-  {
-    "title": "AI Agent Platforms Compared: What to Look for in 2026",
-    "desc": "<p>Most \"AI agent platform\" pitches in 2026 collapse into the same demo: a model, a loop, and a browser clicking around. That tells you almo",
-    "link": "https://dev.to/douzatan/ai-agent-platforms-compared-what-to-look-for-in-2026-57cp",
     "topic": "general"
   }
 ]
