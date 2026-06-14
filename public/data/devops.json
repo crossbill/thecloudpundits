@@ -1,50 +1,50 @@
 [
   {
-    "title": "AI Coding at Scale: What Actually Works",
-    "desc": "<h1>\n  \n  \n  AI Coding at Scale: What Actually Works\n</h1>\n\n<p>I've been building <a href=\"https://github.com/ethosagent/ethos\" rel=\"noopene",
-    "link": "https://dev.to/miteshethos/ai-coding-at-scale-what-actually-works-2dod",
+    "title": "Email Testing Guide for Developers (2026 Edition)",
+    "desc": "<p>Email is the test surface nobody wants to own. It's asynchronous, depends on external providers, has its own version of \"flaky\" (sometime",
+    "link": "https://dev.to/yobox/email-testing-guide-for-developers-2026-edition-2p7n",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Pod Autoscaling: A Game Changer for DevOps and AI Engineering",
-    "desc": "<h1>\n  \n  \n  Kubernetes Pod Autoscaling: A Game Changer for DevOps and AI Engineering\n</h1>\n\n<p>As a Full Stack Engineer specializing in Dev",
-    "link": "https://dev.to/naveenmalothu/kubernetes-pod-autoscaling-a-game-changer-for-devops-and-ai-engineering-4d6a",
-    "topic": "kubernetes"
+    "title": "Eliminating Flaky E2E Tests with Playwright and Containerized CI/CD",
+    "desc": "<p>Modern applications need reliable end-to-end testing, but many teams still struggle with flaky tests and environment inconsistencies acro",
+    "link": "https://dev.to/pramod_pr_d9eda13502236e8/eliminating-flaky-e2e-tests-with-playwright-and-containerized-cicd-2ace",
+    "topic": "docker"
   },
   {
-    "title": "Airbyte vs n8n vs Temporal for API data pipelines",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
-    "link": "https://dev.to/chasebot/airbyte-vs-n8n-vs-temporal-for-api-data-pipelines-k7o",
+    "title": "Why I Built pipeline-compose: Ordered GitHub Actions Without YAML Hell",
+    "desc": "<p>You push <code>v1.2.3</code> and expect a predictable sequence: tests pass, version resolves, GitHub Release publishes. In practice, most",
+    "link": "https://dev.to/abhiudayg/why-i-built-pipeline-compose-ordered-github-actions-without-yaml-hell-14ef",
     "topic": "general"
   },
   {
-    "title": "RabbitHoles while learning AI",
-    "desc": "<p>I was supposed to stop at LangGraph.</p>\n\n<p>That was the plan.</p>\n\n<p>Instead, the rabbit hole decided otherwise.</p>\n\n<p>Some of the t",
-    "link": "https://dev.to/casperday11/rabbitholes-while-learning-ai-4o69",
+    "title": "Migrating Off OpenClaw Without Downtime \u2014 and the Offset That Made Hermes Look Dead",
+    "desc": "<p>A while back I wrote a <a href=\"https://tedagentic.com/posts/openclaw-vs-hermes-agent\" rel=\"noopener noreferrer\">comparison of OpenClaw a",
+    "link": "https://dev.to/henry_dan_81513dd35a2f540/migrating-off-openclaw-without-downtime-and-the-offset-that-made-hermes-look-dead-2gic",
     "topic": "general"
   },
   {
-    "title": "DevOps Training Training At Kalyan Nagar - Complete Guide 2026",
-    "desc": "<p>Best DevOps Training Training At Kalyan Nagar Training - Complete Guide 2026<br />\nWant to build a career in DevOps Training Training at ",
-    "link": "https://dev.to/lm_pg_ae695f1a4c717f/devops-training-training-at-kalyan-nagar-complete-guide-2026-58b6",
+    "title": "Azure Virtual Machine Scale Sets (VMSS): A Complete Guide",
+    "desc": "<blockquote>\n<p>Learn how to deploy, configure, and auto-scale fleets of identical VMs on Azure from zero to production-ready.</p>\n</blockqu",
+    "link": "https://dev.to/emmsddev/azure-virtual-machine-scale-sets-vmss-a-complete-guide-5gln",
+    "topic": "azure"
+  },
+  {
+    "title": "What is NGINX #90DaysOfDevOps Challenge",
+    "desc": "<h1>\n  \n  \n  Understanding Nginx: The Backbone of Modern Web Infrastructure | Day 8 of #90DaysOfDevOps\n</h1>\n\n<p>As part of my <strong>#90Da",
+    "link": "https://dev.to/bharat_bf818f131f82a72ecd/what-is-nginx-90daysofdevops-challenge-1dli",
     "topic": "general"
   },
   {
-    "title": "DevOps Training Training At Kalyan Nagar - Complete Guide 2026",
-    "desc": "<p>Best DevOps Training Training At Kalyan Nagar Training - Complete Guide 2026<br />\nDiscover why DevOps Training Training at Kalyan Nagar ",
-    "link": "https://dev.to/h2_lmt_318f611464212f9336/devops-training-training-at-kalyan-nagar-complete-guide-2026-1n0f",
+    "title": "Log Analysis Should Not Be grep: LogAnalysis Pro Five-Engine Approach",
+    "desc": "<p>The standard log debugging flow: open a huge log file, grep for keywords, get too many results, add filters, lose context. 1-2 hours late",
+    "link": "https://dev.to/wdsega/log-analysis-should-not-be-grep-loganalysis-pro-five-engine-approach-2104",
     "topic": "general"
   },
   {
-    "title": "DevOps Training Training At Kalyan Nagar - Complete Guide 2026",
-    "desc": "<p>Best DevOps Training Training At Kalyan Nagar Training - Complete Guide 2026<br />\nThe demand for DevOps Training Training at Kalyan Naga",
-    "link": "https://dev.to/lmt_new_5ff6b33c7/devops-training-training-at-kalyan-nagar-complete-guide-2026-1372",
-    "topic": "general"
-  },
-  {
-    "title": "DevOps Training Training At Kalyan Nagar - Complete Guide 2026",
-    "desc": "<p>Best DevOps Training Training At Kalyan Nagar Training - Complete Guide 2026<br />\nThe demand for DevOps Training Training at Kalyan Naga",
-    "link": "https://dev.to/h1_lmt_582a030968e32867be/devops-training-training-at-kalyan-nagar-complete-guide-2026-1c26",
+    "title": "Package Drift Weekly \u2014 2026-06-14",
+    "desc": "<p><em>Automated weekly digest from <a href=\"https://rapidapi.com/pkgdrift-pkgdrift-default/api/package-drift-vulnerability-intelligence\" re",
+    "link": "https://dev.to/pkgdrift/package-drift-weekly-2026-06-14-54j2",
     "topic": "general"
   }
 ]
