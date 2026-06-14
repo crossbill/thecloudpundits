@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your Startup's First Observability Stack: Logs, Metrics, Traces on a Budget",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GW2NTCR5\" rel=\"noopener noreferrer\">Ship It \u2014 The Pragmatic Startup Te",
-    "link": "https://dev.to/gabrielanhaia/your-startups-first-observability-stack-logs-metrics-traces-on-a-budget-1j4e",
+    "title": "AI For Debugging Production Issues",
+    "desc": "<p>It's 2:47am. The pager has just gone off for the third time in twenty minutes. Checkout latency is spiking. The error rate on <code>/api/",
+    "link": "https://dev.to/nazar_boyko/ai-for-debugging-production-issues-3m23",
     "topic": "general"
   },
   {
-    "title": "From a Simple Web App to a Production-Style Platform: My DevOps Learning Journey",
-    "desc": "<p><strong>Github:</strong> <a href=\"https://github.com/Shashank0701-byte/System-Craft\" rel=\"noopener noreferrer\">https://github.com/Shashan",
-    "link": "https://dev.to/shashank0701byte/from-a-simple-web-app-to-a-production-style-platform-my-devops-learning-journey-29km",
-    "topic": "general"
+    "title": "\u2601\ufe0f Deploy FastAPI on Azure App Service vs AKS \u2014 which one should you actually use?",
+    "desc": "<h1>\n  \n  \n  Install system dependencies\n</h1>\n\n<p>RUN apt-get update && apt-get install -y -no-install-recommends \\ build-essential && \\ rm",
+    "link": "https://dev.to/ptp2308/deploy-fastapi-on-azure-app-service-vs-aks-which-one-should-you-actually-use-1cek",
+    "topic": "azure"
   },
   {
-    "title": "AI Isn't Eliminating Software Engineering. It's Moving the Bottleneck.",
-    "desc": "<p>AI increased code generation by 180%. Production releases grew 36%. That gap is not a rounding error \u2014 it's the entire story of where sof",
-    "link": "https://dev.to/sanjvij/ai-isnt-eliminating-software-engineering-its-moving-the-bottleneck-423a",
-    "topic": "general"
-  },
-  {
-    "title": "An LLM Error Taxonomy: Classifying Failures in Your Traces",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GYLHMLMT\" rel=\"noopener noreferrer\">LLM Observability Pocket Guide: Pi",
-    "link": "https://dev.to/gabrielanhaia/an-llm-error-taxonomy-classifying-failures-in-your-traces-1gl7",
-    "topic": "general"
-  },
-  {
-    "title": "TTFT vs Total Latency: Instrumenting What Users Actually Feel",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GYLHMLMT\" rel=\"noopener noreferrer\">LLM Observability Pocket Guide: Pi",
-    "link": "https://dev.to/gabrielanhaia/ttft-vs-total-latency-instrumenting-what-users-actually-feel-5h0f",
+    "title": "DevOps Salaries & Hiring in India 2026: What 800+ Live Job Listings Reveal",
+    "desc": "<p>If you're a DevOps, SRE, or Cloud engineer in India \u2014 or hiring one \u2014 the market in 2026 looks very different from a few years ago. Inste",
+    "link": "https://dev.to/irfan1117/devops-salaries-hiring-in-india-2026-what-800-live-job-listings-reveal-4klj",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-542d",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-52d",
     "topic": "general"
   },
   {
-    "title": "Infrastructure Drift: Detecting and Preventing It",
-    "desc": "<p>Your Terraform says the firewall rule is A. The cloud console says it's B. Someone changed it manually and didn't tell anyone. This is in",
-    "link": "https://dev.to/samson_tanimawo/infrastructure-drift-detecting-and-preventing-it-29en",
+    "title": "I built a marketplace where Ai agents have 100 services available + 1,000 free credits.",
+    "desc": "<p>AMilliPay.com is the first active marketplace your Ai agents can transact with 100 different services for pennies on the dollar. <br />\nN",
+    "link": "https://dev.to/amilliai/i-built-a-marketplace-where-ai-agents-have-100-services-available-1000-free-credits-p62",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions Tutorial: CI/CD from Push to Deploy (2026)",
-    "desc": "<p>Most teams set up CI/CD once, copy-paste it forever, and never really understand what's happening inside that YAML file.</p>\n\n<p>This tut",
-    "link": "https://dev.to/dev_encyclopedia/github-actions-tutorial-cicd-from-push-to-deploy-2026-1a9l",
+    "title": "A remote shutdown button that got completely out of hand...",
+    "desc": "<p><strong>Hola dev.to</strong>! :-)</p>\n\n<p>RemotePower started as a web page with one button that turned a machine off. Scope creep did th",
+    "link": "https://dev.to/stenit/a-remote-shutdown-button-that-got-completely-out-of-hand-3l29",
+    "topic": "general"
+  },
+  {
+    "title": "Creating your own Remote Cache Server for Nx and Lerna with Cacheiro",
+    "desc": "<blockquote>\n<p>\ud83c\udf10 <em>Este artigo tamb\u00e9m est\u00e1 dispon\u00edvel em <a href=\"https://dev.to/rerodrigues/criando-seu-proprio-servidor-de-cache-remoto",
+    "link": "https://dev.to/rerodrigues/creating-your-own-remote-cache-server-for-nx-and-lerna-with-cacheiro-2dcg",
+    "topic": "general"
+  },
+  {
+    "title": "Criando seu pr\u00f3prio Servidor de Cache Remoto para Nx e Lerna com o Cacheiro",
+    "desc": "<blockquote>\n<p>\ud83c\udf10 <em>This article is also available in <a href=\"https://dev.to/rerodrigues/creating-your-own-remote-cache-server-for-nx-and",
+    "link": "https://dev.to/rerodrigues/criando-seu-proprio-servidor-de-cache-remoto-para-nx-e-lerna-com-o-cacheiro-48a8",
     "topic": "general"
   }
 ]
