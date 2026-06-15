@@ -1,50 +1,50 @@
 [
   {
-    "title": "The real reason PRDs and ADRs don't survive contact with your team",
-    "desc": "<p><em>It's not a culture problem. It's a timing problem.</em></p>\n\n\n\n\n<p>I've led engineering teams at four of Brazil's largest financial i",
-    "link": "https://dev.to/joaos-moura/the-real-reason-prds-and-adrs-dont-survive-contact-with-your-team-2m6d",
+    "title": "Detecting API anomalies behind a 200 OK \u2014 with statistics, not AI",
+    "desc": "<p>Most uptime monitors answer one question: is it up or down? But some of the worst incidents I've dealt with returned a perfectly happy 20",
+    "link": "https://dev.to/dario_le/detecting-api-anomalies-behind-a-200-ok-with-statistics-not-ai-39lf",
     "topic": "general"
   },
   {
-    "title": "The Hidden Salesforce Bottleneck Slowing Down Your Team",
-    "desc": "<p>Every Salesforce admin and developer I've talked to knows the feeling: it's Tuesday afternoon, you're three hours deep into manually trac",
-    "link": "https://dev.to/kamal_thakur/the-hidden-salesforce-bottleneck-slowing-down-your-team-5a3e",
-    "topic": "general"
-  },
-  {
-    "title": "Twenty four years, ten DB migrations, zero downtime",
-    "desc": "<p>Twenty four years. Ten DB migrations. Zero downtime.</p>\n\n<p>Except the first one, where I lost seven minutes I couldn't accept.</p>\n\n<p>",
-    "link": "https://dev.to/hidekimori/twenty-four-years-ten-db-migrations-zero-downtime-633",
-    "topic": "general"
-  },
-  {
-    "title": "10 Application Security Testing Tools for Secure CI/CD Pipelines",
-    "desc": "<p>Pipelines fail for a lot of reasons, but security scans shouldn't be one of the recurring ones. If your CI/CD process is constantly inter",
-    "link": "https://dev.to/sambishop/10-application-security-testing-tools-for-secure-cicd-pipelines-lb1",
+    "title": "IT-Berufsbilder 2025: Skills f\u00fcr Admins, Entwickler & Security-Profis",
+    "desc": "<h1>\n  \n  \n  IT-Berufsbilder 2025 \u2013 Was Admins, Entwickler und Security\u2011Profis jetzt k\u00f6nnen m\u00fcssen\n</h1>\n\n<p><strong>Hook:</strong> Stellen ",
+    "link": "https://dev.to/uhltak/it-berufsbilder-2025-skills-fur-admins-entwickler-security-profis-4bl0",
     "topic": "secops"
   },
   {
-    "title": "How Do You Integrate Penetration Testing into CI/CD?",
-    "desc": "<p>Modern software delivery pipelines can deploy code dozens or even hundreds of times per day. Traditional penetration testing models, wher",
-    "link": "https://dev.to/varunvarde/how-do-you-integrate-penetration-testing-into-cicd-1795",
+    "title": "PaddleOCR on Phala Cloud: Extract Documents Without Exposing What\u2019s Inside",
+    "desc": "<p><strong>Note: This article is Adapted from the official Phala announcement. Original post published on the Phala X handle. Find it here: ",
+    "link": "https://dev.to/soulman_250/paddleocr-on-phala-cloud-extract-documents-without-exposing-whats-inside-24ei",
     "topic": "general"
   },
   {
-    "title": "From Automation to Intelligence: The Next Stage of DevOps",
-    "desc": "<p>DevOps has always evolved with technology. </p>\n\n<p>Cloud changed how teams manage infrastructure. Containers changed how applications ar",
-    "link": "https://dev.to/brillius/from-automation-to-intelligence-the-next-stage-of-devops-2643",
+    "title": "Governance-first AI gateway for teams that aren't ready for enterprise tooling",
+    "desc": "<p>If you work in a regulated organisation, you have probably seen this play out: leadership wants AI in production, security wants an audit",
+    "link": "https://dev.to/zakaulhaque/governance-first-ai-gateway-for-teams-that-arent-ready-for-enterprise-tooling-2hdl",
     "topic": "general"
   },
   {
-    "title": "Quick Win Card #03 \u2014 Ton sub-agent n'a jamais lu ton MEMORY.md (l'en-t\u00eate de brief en 5 lignes qui r\u00e9pare \u00e7a)",
+    "title": "Claude Fable 5 Went Offline in 72 Hours: What Developers Need to Know About the US Export Control Shutdown",
+    "desc": "<p>Anthropic launched Claude Fable 5 on June 9, 2026. Three days later, on June 12, a US government export control directive arrived at 5:21",
+    "link": "https://dev.to/moksh/claude-fable-5-went-offline-in-72-hours-what-developers-need-to-know-about-the-us-export-control-4pcn",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Building Production-Grade Systems with Enterprise AI Development Services",
+    "desc": "<p>While fine-tuning alters a model's intrinsic weights for stylistic or behavioral customization, <strong>Retrieval-Augmented Generation (R",
+    "link": "https://dev.to/james_sanderson_ea48a89da/building-production-grade-systems-with-enterprise-ai-development-services-12da",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-24l8",
+    "topic": "general"
+  },
+  {
+    "title": "Smart Mobility: Wie digitale Plattformen den Autoankauf von Gebrauchtwagen und Unfallwagen in Deutschland revolutionieren",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/michelfaure/quick-win-card-03-ton-sub-agent-na-jamais-lu-ton-memorymd-len-tete-de-brief-en-5-lignes-qui-215j",
-    "topic": "general"
-  },
-  {
-    "title": "Quick Win Card #03 \u2014 Your sub-agent never read your MEMORY.md (the 5-line brief header that fixes it)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/michelfaure/quick-win-card-03-your-sub-agent-never-read-your-memorymd-the-5-line-brief-header-that-fixes-5ff2",
+    "link": "https://dev.to/greman_autoguide_ec374e8/smart-mobility-wie-digitale-plattformen-den-autoankauf-von-gebrauchtwagen-und-unfallwagen-in-mg1",
     "topic": "general"
   }
 ]
