@@ -2,6 +2,42 @@
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-13a",
+    "topic": "general"
+  },
+  {
+    "title": "I measured what my AI coding agent did to production. It SSH'd in as root 1,508 times.",
+    "desc": "<p>I have been running Claude Code on auto mode for about a month. It is genuinely great. It also made me uneasy in a way I could not name, ",
+    "link": "https://dev.to/dryricenoodle/i-measured-what-my-ai-coding-agent-did-to-production-it-sshd-in-as-root-1508-times-bd3",
+    "topic": "general"
+  },
+  {
+    "title": "Optimize Automation Monitoring with OpsVeritas for Your Team",
+    "desc": "<h2>\n  \n  \n  Introduction to Automation Monitoring\n</h2>\n\n<p>Choosing the right automation monitoring tier is crucial for the success and ef",
+    "link": "https://dev.to/opsveritas/optimize-automation-monitoring-with-opsveritas-for-your-team-2pp6",
+    "topic": "general"
+  },
+  {
+    "title": "Your Claude automation starts metering today (June 15). A quick checklist to avoid surprise charges",
+    "desc": "<p>A change to Claude's paid plans takes effect today, June 15, 2026. Your monthly fee is not going up. What changes is that usage which use",
+    "link": "https://dev.to/aws-builders/your-claude-automation-starts-metering-today-june-15-a-quick-checklist-to-avoid-surprise-charges-3c3k",
+    "topic": "anthropic"
+  },
+  {
+    "title": "We Got Blacklisted Because of a Banking Trojan We Didn't Even Have",
+    "desc": "<p>One morning, email on our primary domain just... stopped working.</p>\n\n<p>No bounce messages. No error a normal user would ever see. Outg",
+    "link": "https://dev.to/zehlm/our-domain-mail-was-blacklisted-because-of-a-banking-trojan-we-didnt-even-have-5be",
+    "topic": "general"
+  },
+  {
+    "title": "5 Regular Expressions Every Developer Should Know",
+    "desc": "<p>Regular expressions can feel intimidating, but a few patterns solve most real-world problems.</p>\n\n<p><strong>Email Validation</strong></",
+    "link": "https://dev.to/eeyyaadd/5-regular-expressions-every-developer-should-know-5h1m",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
     "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-25g8",
     "topic": "general"
   },
@@ -10,41 +46,5 @@
     "desc": "<p>Claude is genuinely useful for production Linux troubleshooting \u2014 when you use it right. Here's the workflow that works, after a year of ",
     "link": "https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe",
     "topic": "anthropic"
-  },
-  {
-    "title": "11 Best AI Observability & LLM Monitoring Platforms 2026 (Ranked)",
-    "desc": "<p>The best AI observability platform is LangSmith for its deep integration with the LangChain ecosystem, followed by Arize AI and Datadog f",
-    "link": "https://dev.to/horror5how/11-best-ai-observability-llm-monitoring-platforms-2026-ranked-538p",
-    "topic": "general"
-  },
-  {
-    "title": "CKA Overview & Exam Pattern: The Kubernetes Certification That Actually Tests Your Skills",
-    "desc": "<p>\ud83d\ude80 CKA Exam Overview: What Every Kubernetes Engineer Should Know Before Starting</p>\n\n<p>If you're working in DevOps, Cloud Engineering, P",
-    "link": "https://dev.to/arnabadhikar/cka-overview-exam-pattern-the-kubernetes-certification-that-actually-tests-your-skills-503m",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "I Got GitLab and Airbyte Running Locally, and Realised READMEs Aren\u2019t Enough",
-    "desc": "<p>I Got GitLab and Airbyte Running Locally in Under 30 Minutes, then Built BootProof to Prove It</p>\n\n<p>Every developer knows the weird op",
-    "link": "https://dev.to/rbuckley_/i-got-gitlab-and-airbyte-running-locally-and-realised-readmes-arent-enough-ip7",
-    "topic": "general"
-  },
-  {
-    "title": "Incident Automation: What to Automate, What to Leave to Humans",
-    "desc": "<p>Incident response automation is a trap. Some things should be automated. Some things absolutely should not be. Getting the line wrong is ",
-    "link": "https://dev.to/samson_tanimawo/incident-automation-what-to-automate-what-to-leave-to-humans-5f91",
-    "topic": "secops"
-  },
-  {
-    "title": "@hazeljs/agent 1.0.1: Production Hardening for Real Deployments",
-    "desc": "<p>We are shipping <strong>@hazeljs/agent 1.0.1</strong> \u2014 a patch release focused on <strong>operational durability</strong>, <strong>resil",
-    "link": "https://dev.to/arslan_mecom/hazeljsagent-101-production-hardening-for-real-deployments-1j18",
-    "topic": "general"
-  },
-  {
-    "title": "We burned 136 million tokens running an autonomous agent studio. Here's how we cut the bill ~90%.",
-    "desc": "<p>We run a studio where AI agents work mostly unattended \u2014 they write code, ship sites, produce content, and keep going without a human in ",
-    "link": "https://dev.to/wartzarbee/we-burned-136-million-tokens-running-an-autonomous-agent-studio-heres-how-we-cut-the-bill-90-17gf",
-    "topic": "general"
   }
 ]
