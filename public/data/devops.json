@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-13a",
+    "title": "Agentic AI Vendor Lock-In: Strategies for Multi-Agent Portability",
+    "desc": "<h1>\n  \n  \n  Beyond the Orchestrator: A Strategic Blueprint for Agentic AI Portability\n</h1>\n\n<p>You've probably already solved for model lo",
+    "link": "https://dev.to/omnithium/agentic-ai-vendor-lock-in-strategies-for-multi-agent-portability-3k9n",
     "topic": "general"
   },
   {
-    "title": "I measured what my AI coding agent did to production. It SSH'd in as root 1,508 times.",
-    "desc": "<p>I have been running Claude Code on auto mode for about a month. It is genuinely great. It also made me uneasy in a way I could not name, ",
-    "link": "https://dev.to/dryricenoodle/i-measured-what-my-ai-coding-agent-did-to-production-it-sshd-in-as-root-1508-times-bd3",
+    "title": "Vendor Questionnaire Redaction Refresh",
+    "desc": "<p><em>Originally published on <a href=\"https://www.techsaas.cloud/blog/vendor-questionnaire-redaction-refresh\" rel=\"noopener noreferrer\">Te",
+    "link": "https://dev.to/yash_pritwani_07a77613fd6/vendor-questionnaire-redaction-refresh-39mc",
     "topic": "general"
   },
   {
-    "title": "Optimize Automation Monitoring with OpsVeritas for Your Team",
-    "desc": "<h2>\n  \n  \n  Introduction to Automation Monitoring\n</h2>\n\n<p>Choosing the right automation monitoring tier is crucial for the success and ef",
-    "link": "https://dev.to/opsveritas/optimize-automation-monitoring-with-opsveritas-for-your-team-2pp6",
-    "topic": "general"
-  },
-  {
-    "title": "Your Claude automation starts metering today (June 15). A quick checklist to avoid surprise charges",
-    "desc": "<p>A change to Claude's paid plans takes effect today, June 15, 2026. Your monthly fee is not going up. What changes is that usage which use",
-    "link": "https://dev.to/aws-builders/your-claude-automation-starts-metering-today-june-15-a-quick-checklist-to-avoid-surprise-charges-3c3k",
-    "topic": "anthropic"
-  },
-  {
-    "title": "We Got Blacklisted Because of a Banking Trojan We Didn't Even Have",
-    "desc": "<p>One morning, email on our primary domain just... stopped working.</p>\n\n<p>No bounce messages. No error a normal user would ever see. Outg",
-    "link": "https://dev.to/zehlm/our-domain-mail-was-blacklisted-because-of-a-banking-trojan-we-didnt-even-have-5be",
-    "topic": "general"
-  },
-  {
-    "title": "5 Regular Expressions Every Developer Should Know",
-    "desc": "<p>Regular expressions can feel intimidating, but a few patterns solve most real-world problems.</p>\n\n<p><strong>Email Validation</strong></",
-    "link": "https://dev.to/eeyyaadd/5-regular-expressions-every-developer-should-know-5h1m",
+    "title": "AI Action Risk Recovery Receipt",
+    "desc": "<p><em>Originally published on <a href=\"https://www.techsaas.cloud/blog/ai-action-control-receipt\" rel=\"noopener noreferrer\">TechSaaS Cloud<",
+    "link": "https://dev.to/yash_pritwani_07a77613fd6/ai-action-risk-recovery-receipt-1dle",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-25g8",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-39ka",
     "topic": "general"
   },
   {
-    "title": "How to Use Claude to Troubleshoot Linux Servers",
-    "desc": "<p>Claude is genuinely useful for production Linux troubleshooting \u2014 when you use it right. Here's the workflow that works, after a year of ",
-    "link": "https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe",
-    "topic": "anthropic"
+    "title": "ChromaDB Helm values.yaml: the 2026 production setup",
+    "desc": "<h2>\n  \n  \n  Quick take\n</h2>\n\n<blockquote>\n<p>ChromaDB 1.0.0 rewrote the server in Rust and quietly broke most of the values.yaml configs y",
+    "link": "https://dev.to/muskan_8abedcc7e12/chromadb-helm-valuesyaml-the-2026-production-setup-45hh",
+    "topic": "general"
+  },
+  {
+    "title": "Your Database Just Died. Why Is Everything Still Running?",
+    "desc": "<p>It's 3 AM. Your PostgreSQL pod crashes. On-call fires. The engineer wakes up, checks the dashboard, and spends 20 minutes figuring out <e",
+    "link": "https://dev.to/n0rm4l/your-database-just-died-why-is-everything-still-running-227p",
+    "topic": "general"
+  },
+  {
+    "title": "We logged every rejected tool call for a month. A third were our validation being wrong, not the model.",
+    "desc": "<p>TL;DR: Everyone logs tool calls that error or return junk. We started logging the calls our own validation REJECTED before they ever ran.",
+    "link": "https://dev.to/james_oconnor_dev/we-logged-every-rejected-tool-call-for-a-month-a-third-were-our-validation-being-wrong-not-the-3nm1",
+    "topic": "general"
+  },
+  {
+    "title": "Free SVG Icons: Why Most Developers Are Using Them Wrong (And How to Fix It)",
+    "desc": "<p>Here is the plain text article \u2014 just copy and paste it into Dev.to editor:</p>\n\n<p>Title: Free SVG Icons: Why Most Developers Are Using ",
+    "link": "https://dev.to/pooja_verma_1e3855946e114/free-svg-icons-why-most-developers-are-using-them-wrong-and-how-to-fix-it-jhe",
+    "topic": "general"
   }
 ]
