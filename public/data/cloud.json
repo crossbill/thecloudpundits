@@ -1,5 +1,11 @@
 [
   {
+    "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
+    "desc": "AWS WAF launches AI traffic monetization, a new Bot Control capability that enables content providers and publishers price, meter, and colle",
+    "link": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+    "topic": "aws"
+  },
+  {
     "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
     "desc": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos,",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
@@ -40,11 +46,5 @@
     "desc": "OpenAI frontier models GPT-5.5 and GPT-5.4, and Codex, the OpenAI coding agent, are available on Amazon Bedrock. Deploy frontier models on B",
     "link": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
     "topic": "openai"
-  },
-  {
-    "title": "AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)",
-    "desc": "In my last Week in Review post, I shared what I\u2019d been hearing from customers in the AI-Driven Development Lifecycle (AI-DLC) workshops I\u2019ve",
-    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
-    "topic": "aws"
   }
 ]
