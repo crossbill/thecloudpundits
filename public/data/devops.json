@@ -1,50 +1,50 @@
 [
   {
-    "title": "Agentic AI Vendor Lock-In: Strategies for Multi-Agent Portability",
-    "desc": "<h1>\n  \n  \n  Beyond the Orchestrator: A Strategic Blueprint for Agentic AI Portability\n</h1>\n\n<p>You've probably already solved for model lo",
-    "link": "https://dev.to/omnithium/agentic-ai-vendor-lock-in-strategies-for-multi-agent-portability-3k9n",
+    "title": "The real reason PRDs and ADRs don't survive contact with your team",
+    "desc": "<p><em>It's not a culture problem. It's a timing problem.</em></p>\n\n\n\n\n<p>I've led engineering teams at four of Brazil's largest financial i",
+    "link": "https://dev.to/joaos-moura/the-real-reason-prds-and-adrs-dont-survive-contact-with-your-team-2m6d",
     "topic": "general"
   },
   {
-    "title": "Vendor Questionnaire Redaction Refresh",
-    "desc": "<p><em>Originally published on <a href=\"https://www.techsaas.cloud/blog/vendor-questionnaire-redaction-refresh\" rel=\"noopener noreferrer\">Te",
-    "link": "https://dev.to/yash_pritwani_07a77613fd6/vendor-questionnaire-redaction-refresh-39mc",
+    "title": "The Hidden Salesforce Bottleneck Slowing Down Your Team",
+    "desc": "<p>Every Salesforce admin and developer I've talked to knows the feeling: it's Tuesday afternoon, you're three hours deep into manually trac",
+    "link": "https://dev.to/kamal_thakur/the-hidden-salesforce-bottleneck-slowing-down-your-team-5a3e",
     "topic": "general"
   },
   {
-    "title": "AI Action Risk Recovery Receipt",
-    "desc": "<p><em>Originally published on <a href=\"https://www.techsaas.cloud/blog/ai-action-control-receipt\" rel=\"noopener noreferrer\">TechSaaS Cloud<",
-    "link": "https://dev.to/yash_pritwani_07a77613fd6/ai-action-risk-recovery-receipt-1dle",
+    "title": "Twenty four years, ten DB migrations, zero downtime",
+    "desc": "<p>Twenty four years. Ten DB migrations. Zero downtime.</p>\n\n<p>Except the first one, where I lost seven minutes I couldn't accept.</p>\n\n<p>",
+    "link": "https://dev.to/hidekimori/twenty-four-years-ten-db-migrations-zero-downtime-633",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-39ka",
+    "title": "10 Application Security Testing Tools for Secure CI/CD Pipelines",
+    "desc": "<p>Pipelines fail for a lot of reasons, but security scans shouldn't be one of the recurring ones. If your CI/CD process is constantly inter",
+    "link": "https://dev.to/sambishop/10-application-security-testing-tools-for-secure-cicd-pipelines-lb1",
+    "topic": "secops"
+  },
+  {
+    "title": "How Do You Integrate Penetration Testing into CI/CD?",
+    "desc": "<p>Modern software delivery pipelines can deploy code dozens or even hundreds of times per day. Traditional penetration testing models, wher",
+    "link": "https://dev.to/varunvarde/how-do-you-integrate-penetration-testing-into-cicd-1795",
     "topic": "general"
   },
   {
-    "title": "ChromaDB Helm values.yaml: the 2026 production setup",
-    "desc": "<h2>\n  \n  \n  Quick take\n</h2>\n\n<blockquote>\n<p>ChromaDB 1.0.0 rewrote the server in Rust and quietly broke most of the values.yaml configs y",
-    "link": "https://dev.to/muskan_8abedcc7e12/chromadb-helm-valuesyaml-the-2026-production-setup-45hh",
+    "title": "From Automation to Intelligence: The Next Stage of DevOps",
+    "desc": "<p>DevOps has always evolved with technology. </p>\n\n<p>Cloud changed how teams manage infrastructure. Containers changed how applications ar",
+    "link": "https://dev.to/brillius/from-automation-to-intelligence-the-next-stage-of-devops-2643",
     "topic": "general"
   },
   {
-    "title": "Your Database Just Died. Why Is Everything Still Running?",
-    "desc": "<p>It's 3 AM. Your PostgreSQL pod crashes. On-call fires. The engineer wakes up, checks the dashboard, and spends 20 minutes figuring out <e",
-    "link": "https://dev.to/n0rm4l/your-database-just-died-why-is-everything-still-running-227p",
+    "title": "Quick Win Card #03 \u2014 Ton sub-agent n'a jamais lu ton MEMORY.md (l'en-t\u00eate de brief en 5 lignes qui r\u00e9pare \u00e7a)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/michelfaure/quick-win-card-03-ton-sub-agent-na-jamais-lu-ton-memorymd-len-tete-de-brief-en-5-lignes-qui-215j",
     "topic": "general"
   },
   {
-    "title": "We logged every rejected tool call for a month. A third were our validation being wrong, not the model.",
-    "desc": "<p>TL;DR: Everyone logs tool calls that error or return junk. We started logging the calls our own validation REJECTED before they ever ran.",
-    "link": "https://dev.to/james_oconnor_dev/we-logged-every-rejected-tool-call-for-a-month-a-third-were-our-validation-being-wrong-not-the-3nm1",
-    "topic": "general"
-  },
-  {
-    "title": "Free SVG Icons: Why Most Developers Are Using Them Wrong (And How to Fix It)",
-    "desc": "<p>Here is the plain text article \u2014 just copy and paste it into Dev.to editor:</p>\n\n<p>Title: Free SVG Icons: Why Most Developers Are Using ",
-    "link": "https://dev.to/pooja_verma_1e3855946e114/free-svg-icons-why-most-developers-are-using-them-wrong-and-how-to-fix-it-jhe",
+    "title": "Quick Win Card #03 \u2014 Your sub-agent never read your MEMORY.md (the 5-line brief header that fixes it)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/michelfaure/quick-win-card-03-your-sub-agent-never-read-your-memorymd-the-5-line-brief-header-that-fixes-5ff2",
     "topic": "general"
   }
 ]
