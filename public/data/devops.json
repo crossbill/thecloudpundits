@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Ship a Daily Dev.to Article When the Brief Folder Is Empty",
-    "desc": "<h1>\n  \n  \n  How to Ship a Daily Dev.to Article When the Brief Folder Is Empty\n</h1>\n\n<p>The easiest way to break a daily publishing system ",
-    "link": "https://dev.to/anicca_301094325e/how-to-ship-a-daily-devto-article-when-the-brief-folder-is-empty-4bgo",
+    "title": "Stop Paying for Idle: How to Right-Size Your Kubernetes Workloads",
+    "desc": "<p>\ud83d\ude80 New Blog Published!</p>\n\n<p>I recently wrote a blog on \"Stop Paying for Idle: How to Right-Size Your Kubernetes Workloads\".</p>\n\n<p>In ",
+    "link": "https://dev.to/zaved_akthar_7227/stop-paying-for-idle-how-to-right-size-your-kubernetes-workloads-2338",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "DevOps Course in Telugu: Step-by-Step Roadmap to Become a DevOps Engineer",
+    "desc": "<p>Introduction<br />\nThe IT industry is rapidly evolving, and organizations are continuously looking for ways to deliver software faster, m",
+    "link": "https://dev.to/aegu_mouli_3b10b834b6c4d3/devops-course-in-telugu-step-by-step-roadmap-to-become-a-devops-engineer-4285",
     "topic": "general"
   },
   {
-    "title": "Your AI agent is inventing behavior \u2014 and you have no way to prove otherwise",
-    "desc": "<p>You reviewed the PR. The code looks right. The tests pass.</p>\n\n<p>But that new field in the API response \u2014 who asked for that?</p>\n\n<p>Y",
-    "link": "https://dev.to/rudsoncarvalho/your-ai-agent-is-inventing-behavior-and-you-have-no-way-to-prove-otherwise-2c5e",
+    "title": "Why Most AI Startups Waste Money on GPUs",
+    "desc": "<p>Every day, startups rent expensive GPUs to power AI applications.</p>\n\n<p>The problem is that most of those GPUs spend a surprising amoun",
+    "link": "https://dev.to/chirantan_bose_6fe3f61344/why-most-ai-startups-waste-money-on-gpus-1o8c",
     "topic": "general"
   },
   {
-    "title": "50 Cloud & DevOps Interview Questions and Answers (2026)",
-    "desc": "<p>Cloud and DevOps knowledge is no longer optional for backend engineers. AWS Lambda, Docker, and microservices show up in job requirements",
-    "link": "https://dev.to/dev_encyclopedia/50-cloud-devops-interview-questions-and-answers-2026-312d",
+    "title": "5 tests I run on any softphone before deploying it on NetSapiens",
+    "desc": "<p>Sharing the actual test sequence I go through before signing off on a softphone for a NetSapiens deployment. These are the tests that cat",
+    "link": "https://dev.to/johnw007/5-tests-i-run-on-any-softphone-before-deploying-it-on-netsapiens-5017",
     "topic": "general"
   },
   {
-    "title": "\ud83d\ude80 Terraform deploy for Python Flask and Docker made easy",
-    "desc": "<h2>\n  \n  \n  \ud83d\udc0d Dockerizing Flask \u2014 Why It <em>Matters</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynam",
-    "link": "https://dev.to/ptp2308/terraform-deploy-for-python-flask-and-docker-made-easy-351l",
+    "title": "Certified MLOps Engineer: Building, Automating, Deploying, and Scaling Production-Ready Machine Learning Systems",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/zainab_1201/certified-mlops-engineer-building-automating-deploying-and-scaling-production-ready-machine-4omh",
+    "topic": "general"
+  },
+  {
+    "title": "OpenAPI\u4ed5\u69d8\u306e\u5dee\u5206\u3092\u6bd4\u8f03\u3057\u3001CI\u3067\u7834\u58ca\u7684\u5909\u66f4\u3092\u30d6\u30ed\u30c3\u30af\u3059\u308b\u65b9\u6cd5",
+    "desc": "<p>\u30d7\u30eb\u30ea\u30af\u30a8\u30b9\u30c8\u3067 <code>openapi.yaml</code> \u304c\u7de8\u96c6\u3055\u308c\u3001CI\u30c1\u30a7\u30c3\u30af\u306f\u30b0\u30ea\u30fc\u30f3\u3002\u4ed5\u69d8\u306f\u6709\u52b9\u3001\u30ea\u30f3\u30bf\u30fc\u3082\u30af\u30ea\u30fc\u30f3\u3001\u30ec\u30d3\u30e5\u30fc\u62c5\u5f53\u80052\u4eba\u304c\u627f\u8a8d\u6e08\u307f\u3002\u3068\u3053\u308d\u304c3\u65e5\u5f8c\u3001\u30e2\u30d0\u30a4\u30eb\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u304c\u3001\u4ee5\u524d\u306f\u5b58\u5728\u3057\u3066\u3044\u305f\u30ec\u30b9\u30dd\u30f3\u30b9\u30d5\u30a3\u30fc\u30eb\u30c9\u3092\u8aad\u3081\u305a\u306b\u30cc\u30eb\u30dd\u30a4\u30f3\u30bf\u3067\u30af\u30e9",
+    "link": "https://dev.to/aakira/openapishi-yang-nochai-fen-wobi-jiao-si-cidepo-huai-de-bian-geng-woburotukusurufang-fa-12m5",
+    "topic": "general"
+  },
+  {
+    "title": "Streamlining Production with Docker Multi-Stage Builds",
+    "desc": "<h1>\n  \n  \n  Streamlining Production with Docker Multi-Stage Builds\n</h1>\n\n<p>As a Full Stack Engineer specializing in DevOps, AI Infrastruc",
+    "link": "https://dev.to/naveenmalothu/streamlining-production-with-docker-multi-stage-builds-pkn",
     "topic": "docker"
   },
   {
-    "title": "Stop Re-Explaining Yourself to AI. Use This Instead.",
-    "desc": "<p>Most AI responses are generic because the AI doesn't know who you are, how deep to go, or what you actually care about. You end up re-exp",
-    "link": "https://dev.to/roshan_jaiswal_b3fb04eb75/stop-re-explaining-yourself-to-ai-use-this-instead-46ml",
-    "topic": "general"
-  },
-  {
-    "title": "How I Built AI-Powered Log Triage in Go (and Made It 100x Cheaper with Fingerprinting)",
-    "desc": "<h2>\n  \n  \n  I built LogSense to do AI root-cause analysis on production errors without dashboard fatigue or runaway token costs.\n</h2>\n\n<p>",
-    "link": "https://dev.to/gg_0080/how-i-built-ai-powered-log-triage-in-go-and-made-it-100x-cheaper-with-fingerprinting-2eeb",
-    "topic": "general"
-  },
-  {
-    "title": "Observability Practices in Modern Applications: A Practical Guide with Node.js and Grafana Cloud",
-    "desc": "<h2>\n  \n  \n  1. Introduction\n</h2>\n\n<p>In the early days of software engineering, understanding whether an application was functioning prope",
-    "link": "https://dev.to/r3d_cr0wn/observability-practices-in-modern-applications-a-practical-guide-with-nodejs-and-grafana-cloud-16af",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Fighting the CLI: Introducing anySCP",
-    "desc": "<p>Hey dev.to community!</p>\n\n<p>As developers and sysadmins, we spend a massive chunk of our day interacting with remote servers. Whether i",
-    "link": "https://dev.to/bungeetm/stop-fighting-the-cli-introducing-anyscp-58e1",
+    "title": "Affordable Alternative to Hetzner for US Companies",
+    "desc": "<p>On June 15, 2026, Hetzner published a price adjustment for their cloud instances. The CCX13, their entry dedicated CPU instance in US reg",
+    "link": "https://dev.to/m_maksimovic_/affordable-alternative-to-hetzner-for-us-companies-3ad9",
     "topic": "general"
   }
 ]
