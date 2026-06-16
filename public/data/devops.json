@@ -1,50 +1,50 @@
 [
   {
-    "title": "Docker Networking: How Containers Actually Find Each Other",
-    "desc": "<p>Quick scenario.</p>\n\n<p>You've got a Spring Boot backend talking to a Postgres database, both in Docker containers. You wrote the connect",
-    "link": "https://dev.to/yasasbanuka/docker-networking-how-containers-actually-find-each-other-1im5",
-    "topic": "docker"
-  },
-  {
-    "title": "Building an MVNO Platform That Can Launch in Days Instead of Months",
-    "desc": "<p>Launching an MVNO has traditionally been viewed as a long and complex process.</p>\n\n<p>For years, operators expected launch timelines mea",
-    "link": "https://dev.to/telcoedgeinc/building-an-mvno-platform-that-can-launch-in-days-instead-of-months-16c5",
+    "title": "Comment orchestrer un double d\u00e9ploiement automatique sur Vercel & GitHub Pages avec GitHub Actions",
+    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Dans le cadre de mon apprentissage des pratiques DevOps modernes, j\u2019ai con\u00e7u et impl\u00e9ment\u00e9 un pipeline C",
+    "link": "https://dev.to/beautero_kenne_2b7e9bfb01/comment-orchestrer-un-double-deploiement-automatique-sur-vercel-github-pages-avec-github-actions-1pni",
     "topic": "general"
   },
   {
-    "title": "Images, Layers, and Why Your Builds Are Slow",
-    "desc": "<p>You make a small change. One line in your app code.</p>\n\n<p>You run <code>docker build</code>.</p>\n\n<p>And then you wait. Two minutes. Th",
-    "link": "https://dev.to/yasasbanuka/images-layers-and-why-your-builds-are-slow-2c74",
+    "title": "Mailboxes as Cattle: Ephemeral Email Infrastructure",
+    "desc": "<p>When was the last time you deleted an email account on purpose?</p>\n\n<p>For most teams the answer is never, and that tells you something.",
+    "link": "https://dev.to/qasim157/mailboxes-as-cattle-ephemeral-email-infrastructure-4f3k",
     "topic": "general"
   },
   {
-    "title": "The $0 Bug That Cost Us $1,800 in API Calls",
-    "desc": "<p>Last quarter our OpenAI bill went from $620 to $2,480 in 23 days.</p>\n\n<p>No new features shipped. No traffic spike. Zero error alerts. D",
-    "link": "https://dev.to/arpitstack/the-0-bug-that-cost-us-1800-in-api-calls-3add",
+    "title": "Arquitectura y Seguridad en la Nube: El pr\u00f3ximo nivel del desarrollador",
+    "desc": "<h1>\n  \n  \n  Arquitectura y Seguridad en la Nube: el pr\u00f3ximo nivel del desarrollador\n</h1>\n\n<p>Cuando una aplicaci\u00f3n web funciona en local, ",
+    "link": "https://dev.to/xinlin25/arquitectura-y-seguridad-en-la-nube-el-proximo-nivel-del-desarrollador-1bnd",
     "topic": "general"
   },
   {
-    "title": "What's Actually Happening When You Run a Container",
-    "desc": "<p>You type <code>docker run nginx</code>.</p>\n\n<p>Half a second later, a fully isolated web server is running on your machine.</p>\n\n<p>No i",
-    "link": "https://dev.to/yasasbanuka/whats-actually-happening-when-you-run-a-container-3ja8",
-    "topic": "docker"
-  },
-  {
-    "title": "5 Small Things in C That Confused Me at First",
-    "desc": "<p>When I started learning C, I thought the basics would be easy.</p>\n\n<p>But honestly, some small things confused me more than big concepts",
-    "link": "https://dev.to/tahami_akservices_cb075e/5-small-things-in-c-that-confused-me-at-first-3m3o",
+    "title": "#New40k \u2013 Points, apps, and updates incoming - Warhammer Community",
+    "desc": "<h2>\n  \n  \n  #New40k: How Games Workshop Is Quietly Revolutionizing Tabletop Wargaming With Software Engineering\n</h2>\n\n<p>Warhammer 40k's l",
+    "link": "https://dev.to/thomas_woodfin_3a4efcd491/new40k-points-apps-and-updates-incoming-warhammer-community-10i3",
     "topic": "general"
   },
   {
-    "title": "Your AI agent has a shell, a token, and no manager. Here\u2019s why that breaks DevSecOps.",
-    "desc": "<p>If you\u2019ve wired up an autonomous coding agent in the last six months, you\u2019ve probably given it more than you\u2019d give a new hire on day one",
-    "link": "https://dev.to/oyugirachel/your-ai-agent-has-a-shell-a-token-and-no-manager-heres-why-that-breaks-devsecops-438n",
+    "title": "Deploying Label Studio Open-Source Data Labeling Platform on Ubuntu 24.04",
+    "desc": "<p>Label Studio is an open-source data labeling platform that supports annotation across text, images, audio, video, and time series, with c",
+    "link": "https://dev.to/vultr/deploying-label-studio-open-source-data-labeling-platform-on-ubuntu-2404-5bd0",
     "topic": "general"
   },
   {
-    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 09 \u2013 Jun 15, 2026",
-    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 09 \u2013 Jun 15, 2026 | <strong>Tot",
-    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-jun-09-jun-15-2026-4fg2",
-    "topic": "aws"
+    "title": "Deploying Kestra Open-Source Workflow Orchestration Platform on Ubuntu 24.04",
+    "desc": "<p>Kestra is an open-source workflow orchestration platform that runs YAML-defined pipelines on schedules, triggers, or events, with a web U",
+    "link": "https://dev.to/vultr/deploying-kestra-open-source-workflow-orchestration-platform-on-ubuntu-2404-4nei",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying Jina Serve Open-Source Neural Search and AI Serving Framework on Ubuntu 24.04",
+    "desc": "<p>Jina Serve is an open-source framework for building neural search and multimodal AI applications, with a cloud-native runtime that handle",
+    "link": "https://dev.to/vultr/deploying-jina-serve-open-source-neural-search-and-ai-serving-framework-on-ubuntu-2404-1m8g",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying Instant Open-Source Firebase Alternative on Ubuntu 24.04",
+    "desc": "<p>Instant (InstantDB) is an open-source, real-time backend platform (a self-hosted alternative to Firebase) built around a PostgreSQL store",
+    "link": "https://dev.to/vultr/deploying-instant-open-source-firebase-alternative-on-ubuntu-2404-2kfj",
+    "topic": "general"
   }
 ]
