@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-389g",
+    "title": "How to Ship a Daily Dev.to Article When the Brief Folder Is Empty",
+    "desc": "<h1>\n  \n  \n  How to Ship a Daily Dev.to Article When the Brief Folder Is Empty\n</h1>\n\n<p>The easiest way to break a daily publishing system ",
+    "link": "https://dev.to/anicca_301094325e/how-to-ship-a-daily-devto-article-when-the-brief-folder-is-empty-4bgo",
     "topic": "general"
   },
   {
-    "title": "Measuring Automation Uptime: Expected vs Actual Runs",
-    "desc": "<h2>\n  \n  \n  Introduction to Automation Uptime\n</h2>\n\n<p>Measuring the uptime of automation workflows is crucial for ensuring the reliabilit",
-    "link": "https://dev.to/opsveritas/measuring-automation-uptime-expected-vs-actual-runs-45i4",
+    "title": "Your AI agent is inventing behavior \u2014 and you have no way to prove otherwise",
+    "desc": "<p>You reviewed the PR. The code looks right. The tests pass.</p>\n\n<p>But that new field in the API response \u2014 who asked for that?</p>\n\n<p>Y",
+    "link": "https://dev.to/rudsoncarvalho/your-ai-agent-is-inventing-behavior-and-you-have-no-way-to-prove-otherwise-2c5e",
     "topic": "general"
   },
   {
-    "title": "Computer's, UFO's, & Earth Science.",
-    "desc": "<p>Computers, UFOs, and Earth Science have each driven major technological shifts: computers enabled the information age, renewed scientific",
-    "link": "https://dev.to/dan52242644dan/computers-ufos-earth-science-41eo",
+    "title": "50 Cloud & DevOps Interview Questions and Answers (2026)",
+    "desc": "<p>Cloud and DevOps knowledge is no longer optional for backend engineers. AWS Lambda, Docker, and microservices show up in job requirements",
+    "link": "https://dev.to/dev_encyclopedia/50-cloud-devops-interview-questions-and-answers-2026-312d",
     "topic": "general"
   },
   {
-    "title": "I built a free tool that turns plain English into cloud architecture diagrams",
-    "desc": "<p>I have a confession: I've spent more of my career arranging rectangles in Lucidchart<br />\nthan I'd like to admit. Not designing systems ",
-    "link": "https://dev.to/noahkash/i-built-a-free-tool-that-turns-plain-english-into-cloud-architecture-diagrams-2jii",
-    "topic": "general"
-  },
-  {
-    "title": "Running Local LLMs With Ollama For Private Development",
-    "desc": "<p>Here's a thing that catches almost everyone the first week they run a model locally. You paste a 600-line file into your shiny new local ",
-    "link": "https://dev.to/nazar_boyko/running-local-llms-with-ollama-for-private-development-4924",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1bf7",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Career in SRE: From Junior to Staff",
-    "desc": "<p>I've been in SRE for about 10 years. Started as a junior, made my way through mid, senior, and now staff levels. Here's what I learned ab",
-    "link": "https://dev.to/samson_tanimawo/building-a-career-in-sre-from-junior-to-staff-39bk",
-    "topic": "general"
-  },
-  {
-    "title": "How I Built an AI-Governed SDLC for Teams Using Claude Code and Cursor, All Running Locally on Docker",
-    "desc": "<h2>\n  \n  \n  The Problem I Was Trying to Solve\n</h2>\n\n<p>AI coding assistants have fundamentally changed how developers work. Claude Code, C",
-    "link": "https://dev.to/sauvast/how-i-built-an-ai-governed-sdlc-for-teams-using-claude-code-and-cursor-all-running-locally-on-6p9",
+    "title": "\ud83d\ude80 Terraform deploy for Python Flask and Docker made easy",
+    "desc": "<h2>\n  \n  \n  \ud83d\udc0d Dockerizing Flask \u2014 Why It <em>Matters</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynam",
+    "link": "https://dev.to/ptp2308/terraform-deploy-for-python-flask-and-docker-made-easy-351l",
     "topic": "docker"
+  },
+  {
+    "title": "Stop Re-Explaining Yourself to AI. Use This Instead.",
+    "desc": "<p>Most AI responses are generic because the AI doesn't know who you are, how deep to go, or what you actually care about. You end up re-exp",
+    "link": "https://dev.to/roshan_jaiswal_b3fb04eb75/stop-re-explaining-yourself-to-ai-use-this-instead-46ml",
+    "topic": "general"
+  },
+  {
+    "title": "How I Built AI-Powered Log Triage in Go (and Made It 100x Cheaper with Fingerprinting)",
+    "desc": "<h2>\n  \n  \n  I built LogSense to do AI root-cause analysis on production errors without dashboard fatigue or runaway token costs.\n</h2>\n\n<p>",
+    "link": "https://dev.to/gg_0080/how-i-built-ai-powered-log-triage-in-go-and-made-it-100x-cheaper-with-fingerprinting-2eeb",
+    "topic": "general"
+  },
+  {
+    "title": "Observability Practices in Modern Applications: A Practical Guide with Node.js and Grafana Cloud",
+    "desc": "<h2>\n  \n  \n  1. Introduction\n</h2>\n\n<p>In the early days of software engineering, understanding whether an application was functioning prope",
+    "link": "https://dev.to/r3d_cr0wn/observability-practices-in-modern-applications-a-practical-guide-with-nodejs-and-grafana-cloud-16af",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Fighting the CLI: Introducing anySCP",
+    "desc": "<p>Hey dev.to community!</p>\n\n<p>As developers and sysadmins, we spend a massive chunk of our day interacting with remote servers. Whether i",
+    "link": "https://dev.to/bungeetm/stop-fighting-the-cli-introducing-anyscp-58e1",
+    "topic": "general"
   }
 ]
