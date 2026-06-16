@@ -1,50 +1,50 @@
 [
   {
-    "title": "Unattended Daily Health Checks That Catch the Silent Failures",
-    "desc": "<blockquote>\n<p>We don't just talk about automation -- we run on it. This is the system that probes our own<br />\nlive products three times ",
-    "link": "https://dev.to/kunstudio/unattended-daily-health-checks-that-catch-the-silent-failures-m0d",
+    "title": "Docker Networking: How Containers Actually Find Each Other",
+    "desc": "<p>Quick scenario.</p>\n\n<p>You've got a Spring Boot backend talking to a Postgres database, both in Docker containers. You wrote the connect",
+    "link": "https://dev.to/yasasbanuka/docker-networking-how-containers-actually-find-each-other-1im5",
+    "topic": "docker"
+  },
+  {
+    "title": "Building an MVNO Platform That Can Launch in Days Instead of Months",
+    "desc": "<p>Launching an MVNO has traditionally been viewed as a long and complex process.</p>\n\n<p>For years, operators expected launch timelines mea",
+    "link": "https://dev.to/telcoedgeinc/building-an-mvno-platform-that-can-launch-in-days-instead-of-months-16c5",
     "topic": "general"
   },
   {
-    "title": "A Safe Bridge From a Chat Message to an Executed Task",
-    "desc": "<blockquote>\n<p>We don't just talk about automation -- we run on it. This is the bridge that turns a message we<br />\nsend from a phone into",
-    "link": "https://dev.to/kunstudio/a-safe-bridge-from-a-chat-message-to-an-executed-task-22k9",
+    "title": "Images, Layers, and Why Your Builds Are Slow",
+    "desc": "<p>You make a small change. One line in your app code.</p>\n\n<p>You run <code>docker build</code>.</p>\n\n<p>And then you wait. Two minutes. Th",
+    "link": "https://dev.to/yasasbanuka/images-layers-and-why-your-builds-are-slow-2c74",
     "topic": "general"
   },
   {
-    "title": "DevOps Days Geneva 2026",
-    "desc": "<p>Feedback about DevOps Days Geneva in 2026: <a href=\"https://devopsdays.org/events/2026-geneva/program\" rel=\"noopener noreferrer\">https://",
-    "link": "https://dev.to/camptocamp-geo/devops-days-geneva-2026-261o",
+    "title": "The $0 Bug That Cost Us $1,800 in API Calls",
+    "desc": "<p>Last quarter our OpenAI bill went from $620 to $2,480 in 23 days.</p>\n\n<p>No new features shipped. No traffic spike. Zero error alerts. D",
+    "link": "https://dev.to/arpitstack/the-0-bug-that-cost-us-1800-in-api-calls-3add",
     "topic": "general"
   },
   {
-    "title": "Top 10 Microservices Monitoring Tools in 2026",
-    "desc": "<p>Running microservices without solid monitoring is like flying without instruments. You might be fine for a while \u2014 but the first time som",
-    "link": "https://dev.to/simran_kumari_464546e0a3c/top-10-microservices-monitoring-tools-in-2026-50jk",
+    "title": "What's Actually Happening When You Run a Container",
+    "desc": "<p>You type <code>docker run nginx</code>.</p>\n\n<p>Half a second later, a fully isolated web server is running on your machine.</p>\n\n<p>No i",
+    "link": "https://dev.to/yasasbanuka/whats-actually-happening-when-you-run-a-container-3ja8",
+    "topic": "docker"
+  },
+  {
+    "title": "5 Small Things in C That Confused Me at First",
+    "desc": "<p>When I started learning C, I thought the basics would be easy.</p>\n\n<p>But honestly, some small things confused me more than big concepts",
+    "link": "https://dev.to/tahami_akservices_cb075e/5-small-things-in-c-that-confused-me-at-first-3m3o",
     "topic": "general"
   },
   {
-    "title": "Why Setting Up Observability Takes Forever (And What To Do About It)",
-    "desc": "<p>Everyone talks about observability like it is a solved problem. Pick a stack, wire it up, done. In practice, every team I have seen attem",
-    "link": "https://dev.to/itzdaninja/why-setting-up-observability-takes-forever-and-what-to-do-about-it-2o0i",
+    "title": "Your AI agent has a shell, a token, and no manager. Here\u2019s why that breaks DevSecOps.",
+    "desc": "<p>If you\u2019ve wired up an autonomous coding agent in the last six months, you\u2019ve probably given it more than you\u2019d give a new hire on day one",
+    "link": "https://dev.to/oyugirachel/your-ai-agent-has-a-shell-a-token-and-no-manager-heres-why-that-breaks-devsecops-438n",
     "topic": "general"
   },
   {
-    "title": "Agentic AI failure modes: silent green exits and other gotchas",
-    "desc": "<h1>\n  \n  \n  Agentic AI failure modes: silent green exits and other gotchas\n</h1>\n\n<p>The agent said it sent the emails. You checked the inb",
-    "link": "https://dev.to/ventureio/agentic-ai-failure-modes-silent-green-exits-and-other-gotchas-2fia",
-    "topic": "general"
-  },
-  {
-    "title": "The new metrics: agent throughput, verification rate, recovery rate",
-    "desc": "<h1>\n  \n  \n  The new metrics: agent throughput, verification rate, recovery rate\n</h1>\n\n<p>How do you know the agents are actually working?<",
-    "link": "https://dev.to/ventureio/the-new-metrics-agent-throughput-verification-rate-recovery-rate-227o",
-    "topic": "general"
-  },
-  {
-    "title": "Your Codebase Deserves Better Code Reviews \u2014 Here's How AI Changes That",
-    "desc": "<h1>\n  \n  \n  Your Codebase Deserves Better Code Reviews \u2014 Here's How AI Changes That\n</h1>\n\n<p>Real talk: manual code reviews are slow. Your",
-    "link": "https://dev.to/learnairesource/your-codebase-deserves-better-code-reviews-heres-how-ai-changes-that-49",
-    "topic": "general"
+    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 09 \u2013 Jun 15, 2026",
+    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 09 \u2013 Jun 15, 2026 | <strong>Tot",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-jun-09-jun-15-2026-4fg2",
+    "topic": "aws"
   }
 ]
