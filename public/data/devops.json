@@ -1,5 +1,23 @@
 [
   {
+    "title": "Go Context Package",
+    "desc": "<h1>\n  \n  \n  What is context\n</h1>\n\n<p>Every Go developer encounters <code>context.Context</code> early. It shows up in function signatures ",
+    "link": "https://dev.to/ferztyle/go-context-package-37nk",
+    "topic": "general"
+  },
+  {
+    "title": "30 Days of Beta Testing: Automation Monitoring Insights",
+    "desc": "<h2>\n  \n  \n  Introduction to OpsVeritas Beta Testing\n</h2>\n\n<p>As we conclude the 30-day beta testing period for OpsVeritas at app.opsverita",
+    "link": "https://dev.to/opsveritas/30-days-of-beta-testing-automation-monitoring-insights-3o6b",
+    "topic": "general"
+  },
+  {
+    "title": "How I Delivered a Static Website Globally with Amazon S3 and CloudFront (And the Security Mistake I Almost Made)",
+    "desc": "<p>There is a very common shortcut that thousands of developers take when they want to host a static website on AWS. They create an S3 bucke",
+    "link": "https://dev.to/kehindeabiuwadotcom/how-i-delivered-a-static-website-globally-with-amazon-s3-and-cloudfront-and-the-security-mistake-i-2n38",
+    "topic": "secops"
+  },
+  {
     "title": "Comment orchestrer un double d\u00e9ploiement automatique sur Vercel & GitHub Pages avec GitHub Actions",
     "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Dans le cadre de mon apprentissage des pratiques DevOps modernes, j\u2019ai con\u00e7u et impl\u00e9ment\u00e9 un pipeline C",
     "link": "https://dev.to/beautero_kenne_2b7e9bfb01/comment-orchestrer-un-double-deploiement-automatique-sur-vercel-github-pages-avec-github-actions-1pni",
@@ -27,24 +45,6 @@
     "title": "Deploying Label Studio Open-Source Data Labeling Platform on Ubuntu 24.04",
     "desc": "<p>Label Studio is an open-source data labeling platform that supports annotation across text, images, audio, video, and time series, with c",
     "link": "https://dev.to/vultr/deploying-label-studio-open-source-data-labeling-platform-on-ubuntu-2404-5bd0",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Kestra Open-Source Workflow Orchestration Platform on Ubuntu 24.04",
-    "desc": "<p>Kestra is an open-source workflow orchestration platform that runs YAML-defined pipelines on schedules, triggers, or events, with a web U",
-    "link": "https://dev.to/vultr/deploying-kestra-open-source-workflow-orchestration-platform-on-ubuntu-2404-4nei",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Jina Serve Open-Source Neural Search and AI Serving Framework on Ubuntu 24.04",
-    "desc": "<p>Jina Serve is an open-source framework for building neural search and multimodal AI applications, with a cloud-native runtime that handle",
-    "link": "https://dev.to/vultr/deploying-jina-serve-open-source-neural-search-and-ai-serving-framework-on-ubuntu-2404-1m8g",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Instant Open-Source Firebase Alternative on Ubuntu 24.04",
-    "desc": "<p>Instant (InstantDB) is an open-source, real-time backend platform (a self-hosted alternative to Firebase) built around a PostgreSQL store",
-    "link": "https://dev.to/vultr/deploying-instant-open-source-firebase-alternative-on-ubuntu-2404-2kfj",
     "topic": "general"
   }
 ]
