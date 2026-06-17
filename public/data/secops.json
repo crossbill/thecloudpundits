@@ -1,50 +1,50 @@
 [
   {
+    "title": "Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software",
+    "desc": "<p>The industrial automation giant has fixed security holes in Logix, CompactLogix, Flex, RSLinx, and FactoryTalk products.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/rockwell-automation-patches-vulnerabilities-in-ics-controllers-and-software/",
+    "topic": "general"
+  },
+  {
+    "title": "Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack",
+    "desc": "<p>The attackers deployed a new Go-based backdoor that uses Microsoft Teams servers for command-and-control.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/",
+    "topic": "azure"
+  },
+  {
+    "title": "Microsoft Working on Patch for \u2018RoguePlanet\u2019 Zero-Day",
+    "desc": "<p>The public PoC code exploits a race condition in Microsoft Defender to spawn a command prompt with System privileges.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/",
+    "topic": "azure"
+  },
+  {
+    "title": "Oracle\u2019s Second Monthly Security Updates Deliver 245 Patches",
+    "desc": "<p>Oracle has released its June 2026 Critical Security Patch Update to fix vulnerabilities in Communications, EBS, Enterprise Manager and ot",
+    "link": "https://www.securityweek.com/oracles-second-monthly-security-updates-deliver-245-patches/",
+    "topic": "secops"
+  },
+  {
+    "title": "Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities",
+    "desc": "<p>The browser updates address multiple memory safety bugs that could potentially lead to remote code execution.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Joomla, LiteSpeed Vulnerabilities Exploited in Attacks",
+    "desc": "<p>The flaws allow attackers to execute arbitrary PHP code and gain root privileges on shared hosting servers.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/joomla-litespeed-vulnerabilities-exploited-in-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs",
+    "desc": "<p>SOCRadar has detected 30,000 compromised Fortinet firewalls that expose networks to hacking.\u00a0</p>\n<p>The post <a href=\"https://www.securi",
+    "link": "https://www.securityweek.com/3-recently-patched-fortinet-fortisandbox-vulnerabilities-in-hacker-crosshairs/",
+    "topic": "general"
+  },
+  {
     "title": "iRhythm Confirms Data Stolen in Hack",
     "desc": "<p>The digital health company said it learned of the breach on June 8 and the attackers demanded a ransom.</p>\n<p>The post <a href=\"https://",
     "link": "https://www.securityweek.com/irhythm-confirms-data-stolen-in-hack/",
-    "topic": "general"
-  },
-  {
-    "title": "Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker",
-    "desc": "<p>From building LED bulbs to graduating college and buying a house with money earned from bug bounties.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/hacker-conversations-isira-adithya-the-evolution-of-an-ethical-hacker/",
-    "topic": "general"
-  },
-  {
-    "title": "Magnitude Emerges From Stealth Mode With $10 Million in Funding",
-    "desc": "<p>The company is enhancing third-party risk management (TPRM) through autonomous AI agents.</p>\n<p>The post <a href=\"https://www.securitywe",
-    "link": "https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/",
-    "topic": "general"
-  },
-  {
-    "title": "AI and Cybersecurity \u2013 Everything You Wanted to Know, But Were Afraid to Ask",
-    "desc": "<p>From defending networks to enabling attacks, artificial intelligence is changing every aspect of cybersecurity. Here's what dozens of exp",
-    "link": "https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-    "topic": "secops"
-  },
-  {
-    "title": "Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round",
-    "desc": "<p>Ent has developed an intent-aware platform designed to interpret user and agent behavior before risky actions are carried out.</p>\n<p>The",
-    "link": "https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/",
-    "topic": "secops"
-  },
-  {
-    "title": "Cybercrime Group Claims Novo Nordisk Hack",
-    "desc": "<p>The hack-and-leak group FulcrumSec claims to have stolen 1.3TB of data from the pharmaceutical giant.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire",
-    "desc": "<p>By continuously analyzing security, infrastructure, and governance data, TrustCloud aims to give CISOs a real-time view of application ri",
-    "link": "https://www.securityweek.com/can-cisos-trust-their-applications-trustcloud-wants-to-replace-the-questionnaire/",
-    "topic": "general"
-  },
-  {
-    "title": "Cal Water Investigating Iranian Hackers\u2019 Claims",
-    "desc": "<p>California Water Service says there is no indication of operational disruptions to its water and wastewater systems.\u00a0</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
     "topic": "general"
   }
 ]
