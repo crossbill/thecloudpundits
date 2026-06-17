@@ -1,5 +1,41 @@
 [
   {
+    "title": "The Best AI Tools for DevOps Engineers in 2026",
+    "desc": "<p>If you spend your day in a terminal, a YAML editor, or a Grafana tab \u2014 AI assistants in 2026 are no longer a curiosity. They're a real pr",
+    "link": "https://dev.to/devopsaitoolkit/the-best-ai-tools-for-devops-engineers-in-2026-15a9",
+    "topic": "general"
+  },
+  {
+    "title": "Visual Regression Testing: A Practical Guide for 2026",
+    "desc": "<p>A functional test confirms the checkout button submits the form. It will not tell you the button is now white on white, overlapping the p",
+    "link": "https://dev.to/grabbit/visual-regression-testing-a-practical-guide-for-2026-48nk",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying POS Lite with AWS EC2, Docker, Vercel and Cloudflare",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the previous posts, I shared an overview of <strong>POS Lite</strong>, explained how I designed the b",
+    "link": "https://dev.to/guadalupe182/deploying-pos-lite-with-aws-ec2-docker-vercel-and-cloudflare-3bbo",
+    "topic": "aws"
+  },
+  {
+    "title": "What Is Multi-Agent SRE? A Practical Introduction",
+    "desc": "<p>Every SRE team I've talked to this year is running the same experiment in different corners: \"Can we have AI do some of this?\" The honest",
+    "link": "https://dev.to/samson_tanimawo/what-is-multi-agent-sre-a-practical-introduction-5ccj",
+    "topic": "general"
+  },
+  {
+    "title": "The Browser Test Failed. Can You Actually Prove Why?",
+    "desc": "<p>A red test in CI looks precise.</p>\n\n<p>Something failed. The pipeline stopped. There is a screenshot, a stack trace, and perhaps a video",
+    "link": "https://dev.to/randomsquirrel802/the-browser-test-failed-can-you-actually-prove-why-16fd",
+    "topic": "general"
+  },
+  {
+    "title": "AWS SAA: 10 Core Concepts (Explained for Infrastructure Engineers)",
+    "desc": "<p>This post covers what I learned while preparing for AWS_SAA \u2014 IAM, EC2, Load Balancing, Auto Scaling, RDS, Route 53, S3, CloudFront, and ",
+    "link": "https://dev.to/shivam_singh_8a9ada1e8b88/aws-saa-10-core-concepts-explained-for-infrastructure-engineers-4p7",
+    "topic": "aws"
+  },
+  {
     "title": "Secrets at Rest, Schemas at Scale \u2014 What's New in CtroEnv v1.1.0",
     "desc": "<p>I accidentally logged a JWT secret to the console while debugging a test. Twice. The first time I thought \"eh, it's just dev.\" The second",
     "link": "https://dev.to/ctrotech/secrets-at-rest-schemas-at-scale-whats-new-in-ctroenv-v110-3gjf",
@@ -9,42 +45,6 @@
     "title": "5-Minute Post-Deploy Postmortem with SignalPilot",
     "desc": "<blockquote>\n<p><strong>Field Notes #5 \u00b7 TL;DR</strong> \u2014 <a href=\"https://github.com/perfsage/signalpilot/releases/tag/v1.0.0\" rel=\"noopene",
     "link": "https://dev.to/aashu320/5-minute-post-deploy-postmortem-with-signalpilot-32je",
-    "topic": "general"
-  },
-  {
-    "title": "Monorepo Environment Management at Scale",
-    "desc": "<p>We run a monorepo with three packages \u2014 <code>shared</code>, <code>api</code>, and <code>worker</code>. The API needs <code>PORT</code> a",
-    "link": "https://dev.to/ctrotech/monorepo-environment-management-at-scale-459o",
-    "topic": "general"
-  },
-  {
-    "title": "Why Every Kubernetes Team Needs Incident Automation",
-    "desc": "<p>Manual incident workflows consume time and increase operational costs.</p>\n\n<p>As infrastructure scales, automation becomes essential.</p",
-    "link": "https://dev.to/kubegraf/why-every-kubernetes-team-needs-incident-automation-7l4",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "CI/CD, YAML, Azure DevOps and Merge Conflicts: Everything I Learned Deploying to Azure",
-    "desc": "<p>My first production deployment at Blue Yonder was entirely manual. Copy files to the server. Update the config by hand. Restart the servi",
-    "link": "https://dev.to/manoharij/cicd-yaml-azure-devops-and-merge-conflictseverything-i-learned-deploying-to-azure-5cek",
-    "topic": "azure"
-  },
-  {
-    "title": "A spend baseline and a 3\u03c3 alarm: catching a runaway AI agent the same day",
-    "desc": "<p>Every team that hands an AI agent a budget eventually meets the same surprise: a quiet bill that wasn't quiet at all, it just wasn't bein",
-    "link": "https://dev.to/brianmello/a-spend-baseline-and-a-3s-alarm-catching-a-runaway-ai-agent-the-same-day-577g",
-    "topic": "general"
-  },
-  {
-    "title": "Railway vs Render: The Practical PaaS Alternative I'd Choose Before Staying on Railway",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li><p>I no longer recommend Railway as the default for serious production workloads.  </p></li>\n<li><p>Rende",
-    "link": "https://dev.to/thedevopsguy/railway-vs-render-b2b",
-    "topic": "general"
-  },
-  {
-    "title": "Systemd timer units: two things cron still cant do",
-    "desc": "<p>Every time I see a cron tab I wonder why nobody reached for systemd timers. Cron works fine until it doesnt, and by then youre already in",
-    "link": "https://dev.to/schiff_heimlich/systemd-timer-units-two-things-cron-still-cant-do-1ip3",
     "topic": "general"
   }
 ]
