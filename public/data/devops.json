@@ -1,50 +1,50 @@
 [
   {
-    "title": "5 Automation Mistakes That Cost Me Weeks (And How to Avoid Them)",
-    "desc": "<h1>\n  \n  \n  5 Automation Mistakes That Cost Me Weeks (And How to Avoid Them)\n</h1>\n\n<p>I've been running autonomous AI workers for months n",
-    "link": "https://dev.to/koihubagent/5-automation-mistakes-that-cost-me-weeks-and-how-to-avoid-them-c8o",
+    "title": "Secrets at Rest, Schemas at Scale \u2014 What's New in CtroEnv v1.1.0",
+    "desc": "<p>I accidentally logged a JWT secret to the console while debugging a test. Twice. The first time I thought \"eh, it's just dev.\" The second",
+    "link": "https://dev.to/ctrotech/secrets-at-rest-schemas-at-scale-whats-new-in-ctroenv-v110-3gjf",
     "topic": "general"
   },
   {
-    "title": "Intellibooks Guide: AI Agents vs Agentic AI \u2013 What Every Business Leader Should Know",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/intellibooks_ai/intellibooks-guide-ai-agents-vs-agentic-ai-what-every-business-leader-should-know-30o4",
+    "title": "5-Minute Post-Deploy Postmortem with SignalPilot",
+    "desc": "<blockquote>\n<p><strong>Field Notes #5 \u00b7 TL;DR</strong> \u2014 <a href=\"https://github.com/perfsage/signalpilot/releases/tag/v1.0.0\" rel=\"noopene",
+    "link": "https://dev.to/aashu320/5-minute-post-deploy-postmortem-with-signalpilot-32je",
     "topic": "general"
   },
   {
-    "title": "Spring Boot Actuator: What to Expose, What to Hide, and What to Check Before Adding Endpoints",
-    "desc": "<h1>\n  \n  \n  Spring Boot Actuator: What to Expose, What to Hide, and What to Check Before Adding Endpoints\n</h1>\n\n<p>Actuator in Spring Boot",
-    "link": "https://dev.to/jtorchia/spring-boot-actuator-what-to-expose-what-to-hide-and-what-to-check-before-adding-endpoints-272h",
+    "title": "Monorepo Environment Management at Scale",
+    "desc": "<p>We run a monorepo with three packages \u2014 <code>shared</code>, <code>api</code>, and <code>worker</code>. The API needs <code>PORT</code> a",
+    "link": "https://dev.to/ctrotech/monorepo-environment-management-at-scale-459o",
     "topic": "general"
   },
   {
-    "title": "Spring Boot Actuator: qu\u00e9 exponer, qu\u00e9 ocultar y qu\u00e9 mirar antes de agregar endpoints",
-    "desc": "<h1>\n  \n  \n  Spring Boot Actuator: qu\u00e9 exponer, qu\u00e9 ocultar y qu\u00e9 mirar antes de agregar endpoints\n</h1>\n\n<p>Actuator en Spring Boot es b\u00e1si",
-    "link": "https://dev.to/jtorchia/spring-boot-actuator-que-exponer-que-ocultar-y-que-mirar-antes-de-agregar-endpoints-ib6",
+    "title": "Why Every Kubernetes Team Needs Incident Automation",
+    "desc": "<p>Manual incident workflows consume time and increase operational costs.</p>\n\n<p>As infrastructure scales, automation becomes essential.</p",
+    "link": "https://dev.to/kubegraf/why-every-kubernetes-team-needs-incident-automation-7l4",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "CI/CD, YAML, Azure DevOps and Merge Conflicts: Everything I Learned Deploying to Azure",
+    "desc": "<p>My first production deployment at Blue Yonder was entirely manual. Copy files to the server. Update the config by hand. Restart the servi",
+    "link": "https://dev.to/manoharij/cicd-yaml-azure-devops-and-merge-conflictseverything-i-learned-deploying-to-azure-5cek",
+    "topic": "azure"
+  },
+  {
+    "title": "A spend baseline and a 3\u03c3 alarm: catching a runaway AI agent the same day",
+    "desc": "<p>Every team that hands an AI agent a budget eventually meets the same surprise: a quiet bill that wasn't quiet at all, it just wasn't bein",
+    "link": "https://dev.to/brianmello/a-spend-baseline-and-a-3s-alarm-catching-a-runaway-ai-agent-the-same-day-577g",
     "topic": "general"
   },
   {
-    "title": "GitHub's AI Agent Crisis: What Happens When Coding Agents Have No Compute Limits",
-    "desc": "<p>Business Insider reported on June 16, 2026 \u2014 citing two people with direct knowledge of the arrangement \u2014 that Microsoft has provisioned ",
-    "link": "https://dev.to/waxell/githubs-ai-agent-crisis-what-happens-when-coding-agents-have-no-compute-limits-91f",
+    "title": "Railway vs Render: The Practical PaaS Alternative I'd Choose Before Staying on Railway",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li><p>I no longer recommend Railway as the default for serious production workloads.  </p></li>\n<li><p>Rende",
+    "link": "https://dev.to/thedevopsguy/railway-vs-render-b2b",
     "topic": "general"
   },
   {
-    "title": "Best Focus Drills: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/best-focus-drills-what-we-learned-building-random-tactical-timer-4lh6",
-    "topic": "general"
-  },
-  {
-    "title": "I Gave Claude Code the Keys. So Did a Worm.",
-    "desc": "<p>Three vulnerabilities from the last few months, three different layers of the AI-coding-agent stack, one root cause. None of them is the ",
-    "link": "https://dev.to/kkierii/i-gave-claude-code-the-keys-so-did-a-worm-34a4",
-    "topic": "anthropic"
-  },
-  {
-    "title": "AI Teammate in Slack for SRE and DevOps Teams",
-    "desc": "<h2>\n  \n  \n  Let AI Handle Investigation and Reporting, So You Can Focus on Judgment and Creation\n</h2>\n\n<p>When you work as an SRE or DevOp",
-    "link": "https://dev.to/clover0/ai-teammate-in-slack-for-sre-and-devops-teams-gbb",
+    "title": "Systemd timer units: two things cron still cant do",
+    "desc": "<p>Every time I see a cron tab I wonder why nobody reached for systemd timers. Cron works fine until it doesnt, and by then youre already in",
+    "link": "https://dev.to/schiff_heimlich/systemd-timer-units-two-things-cron-still-cant-do-1ip3",
     "topic": "general"
   }
 ]
