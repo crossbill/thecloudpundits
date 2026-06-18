@@ -1,50 +1,50 @@
 [
   {
-    "title": "RHEL 10 support now available in Puppet SCE for Linux",
-    "desc": "<p>Version 2.7.0 of Security Compliance Enforcement (SCE) for Linux is now <a href=\"https://forge.puppet.com/modules/puppetlabs/sce_linux/re",
-    "link": "https://dev.to/puppet/rhel-10-support-now-available-in-puppet-sce-for-linux-4opi",
+    "title": "Why I Stopped Just Watching Tutorials (And Started Learning C Properly)",
+    "desc": "<p>When I first started learning C, I was doing what most beginners do.</p>\n\n<p>Watching tutorials.</p>\n\n<p>One video... <a href=\"https://sh",
+    "link": "https://dev.to/tahami_akservices_cb075e/why-i-stopped-just-watching-tutorials-and-started-learning-c-properly-3lka",
     "topic": "general"
   },
   {
-    "title": "How Quantova's Cross-Chain Bridge Handles Verification Without Trusting the Other Chain",
-    "desc": "<p>Most cross-chain bridges have the same structural problem: they extend trust assumptions from one chain to another without clearly docume",
-    "link": "https://dev.to/quant_ova_60748d40cb7f54d/how-quantovas-cross-chain-bridge-handles-verification-without-trusting-the-other-chain-40in",
+    "title": "What It Took to Actually Govern Claude Code Across Our Engineering Team",
+    "desc": "<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>Claude Code's attack surface is bigger than most teams realize - two CVEs in early 2026 showed that ",
+    "link": "https://dev.to/sahajmeet_kaur_/what-it-took-to-actually-govern-claude-code-across-our-engineering-team-4jp6",
+    "topic": "anthropic"
+  },
+  {
+    "title": "My AI Agent Burned $200 While I Slept - Here's What No One Tells You About Token Loops",
+    "desc": "<p>It started with a Stripe notification.</p>\n\n<p>$200 charged. Overnight. While I slept.</p>\n\n<p>I opened my OpenAI dashboard expecting an ",
+    "link": "https://dev.to/opsveritas/my-ai-agent-burned-200-while-i-slept-heres-what-no-one-tells-you-about-token-loops-bll",
     "topic": "general"
   },
   {
-    "title": "Junior Engineers Are Learning AI Faster Than They Are Learning Systems",
-    "desc": "<h2>\n  \n  \n  <strong>The most important engineering gap nobody seems interested in talking about</strong>\n</h2>\n\n<p>A few months ago, I noti",
-    "link": "https://dev.to/edwindevops/junior-engineers-are-learning-ai-faster-than-they-are-learning-systems-jg7",
+    "title": "Why Every Developer Will Eventually Manage AI Agents",
+    "desc": "<p>For decades, software development followed a familiar pattern. Developers wrote code, applications executed instructions and users intera",
+    "link": "https://dev.to/reetain_raina/why-every-developer-will-eventually-manage-ai-agents-7mo",
     "topic": "general"
   },
   {
-    "title": "AI Can Build the Prototype. Production Is Still the Hard Part.",
-    "desc": "<p>AI coding tools make it very easy to get an app running.</p>\n\n<p>But getting from \u201cit works locally\u201d to \u201creal users can depend on this\u201d i",
-    "link": "https://dev.to/ohadkr/ai-can-build-the-prototype-production-is-still-the-hard-part-2adk",
+    "title": "Celebrating 12 years of Project Galileo",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/celebrating-12-years-of-project-galileo\" rel=\"noopener noreferre",
+    "link": "https://dev.to/rasne/celebrating-12-years-of-project-galileo-eha",
     "topic": "general"
   },
   {
-    "title": "Securing AI-Generated Bash Scripts Before You Run Them",
-    "desc": "<p>Bash is the easiest language for AI to write and the easiest language to get devastating output from. A 20-line script that \"just cleans ",
-    "link": "https://dev.to/devopsaitoolkit/securing-ai-generated-bash-scripts-before-you-run-them-401m",
+    "title": "CI/CD Profissional com GitLab e Laravel em VPS: Do Push ao Deploy Autom\u00e1tico",
+    "desc": "<p>Se voc\u00ea ainda faz deploy da sua API Laravel conectando no servidor via SSH, rodando <code>git pull</code> e rezando para que nada quebre,",
+    "link": "https://dev.to/matheussesso/cicd-profissional-com-gitlab-e-laravel-em-vps-do-push-ao-deploy-automatico-1igh",
     "topic": "general"
   },
   {
-    "title": "I built a CLI that generates .env files so I never read docs again",
-    "desc": "<p><strong># EnvForge BETA v1.1</strong></p>\n\n<p>\u26a1 <strong>Structured <code>.env</code> scaffolding for modern applications.</strong></p>\n\n<",
-    "link": "https://dev.to/joseph_kariuki_0b7037c6d3/i-built-a-cli-that-generates-env-files-so-i-never-read-docs-again-3np5",
+    "title": "Git Fluid Flow: A Branching Strategy for Decoupled Task Promotion",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Consider the following scenario:</p>\n\n<ul>\n<li>Feature A is ready for production.</li>\n<li>Feature B sti",
+    "link": "https://dev.to/viniciusvts/git-fluid-flow-a-branching-strategy-for-decoupled-task-promotion-2h2l",
     "topic": "general"
   },
   {
-    "title": "AWS vs Azure on a Budget: Building a Production-Like Cloud Platform on an 8GB Dell PC",
-    "desc": "<p><strong>From Docker Desktop to Cloud Architect: Building a Production-Grade Platform on an 8GB Dell</strong></p>\n\n<p>You've felt it. That",
-    "link": "https://dev.to/buildmintz_media_5238c1d7/aws-vs-azure-on-a-budget-building-a-production-like-cloud-platform-on-an-8gb-dell-pc-1d07",
-    "topic": "aws"
-  },
-  {
-    "title": "Heat Pump vs Furnace: Which Is Cheaper Long-Term?",
-    "desc": "<p>If you're shopping for a new heating system in the US or Canada, the two names you'll hear most often are the furnace and the heat pump. ",
-    "link": "https://dev.to/minihomehub_74471977c649a/heat-pump-vs-furnace-which-is-cheaper-long-term-4c5m",
+    "title": "Hidden Cloud Bill: A Practical Checklist Before Cutting Cloud Costs",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/aicloudstrategist/hidden-cloud-bill-a-practical-checklist-before-cutting-cloud-costs-279b",
     "topic": "general"
   }
 ]

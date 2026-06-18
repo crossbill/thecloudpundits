@@ -1,5 +1,11 @@
 [
   {
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "topic": "general"
+  },
+  {
     "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
     "desc": "",
     "link": "https://huggingface.co/blog/peft-beyond-lora",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/torch-mlp-fusion",
     "topic": "general"
-  },
-  {
-    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-    "desc": "",
-    "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "topic": "huggingface"
   }
 ]
