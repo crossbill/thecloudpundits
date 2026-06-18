@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building Scalable AI Applications for Modern SaaS Platforms",
-    "desc": "<h1>\n  \n  \n  Why Scalability Matters in AI Powered SaaS\n</h1>\n\n<p>Software as a Service platforms are changing fast as businesses expect sma",
-    "link": "https://dev.to/alex_sebastian/building-scalable-ai-applications-for-modern-saas-platforms-1b22",
+    "title": "I finally figured out the 1 question that decides whether OpenClaw is still worth it or Codex already wins",
+    "desc": "<p>I kept seeing the same bad comparison over and over:</p>\n\n<blockquote>\n<p>OpenClaw vs Codex vs Computer Use vs Chrome Bridge</p>\n</blockq",
+    "link": "https://dev.to/lars_winstand/i-finally-figured-out-the-1-question-that-decides-whether-openclaw-is-still-worth-it-or-codex-528m",
     "topic": "general"
   },
   {
-    "title": "I Gave My AI Agent a Conscience and a Council",
-    "desc": "<p>For the last while I've been building something I only half-jokingly call an <em>organism</em>: an autonomous AI that operates real produ",
-    "link": "https://dev.to/artemmatviychuk/i-gave-my-ai-agent-a-conscience-and-a-council-lm0",
+    "title": "Why Data Collection Systems Work for 10 Minutes and Fail After 10,000 Requests",
+    "desc": "<p>Most data collection systems do not fail immediately.<br />\nThey fail slowly as request volume exposes patterns that were invisible durin",
+    "link": "https://dev.to/ellebanna/why-data-collection-systems-work-for-10-minutes-and-fail-after-10000-requests-fmf",
     "topic": "general"
   },
   {
-    "title": "Global Infrastructure + IAM Practical + CloudFront & CDN",
-    "desc": "<h2>\n  \n  \n  \ud83d\udccc Session Overview\n</h2>\n\n<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n<th>#</th>\n<th>Topic</th>\n</tr>\n</thead>\n<t",
-    "link": "https://dev.to/tejas_shinkar/global-infrastructure-iam-practical-cloudfront-cdn-e6l",
+    "title": "Agentjacking Explained: When AI Coding Assistants Can Be Tricked Into Running Malicious Commands",
+    "desc": "<h2>\n  \n  \n  AI Tools Are Becoming More Powerful, But Also More Trusting\n</h2>\n\n<p>AI coding assistants have rapidly become part of many dev",
+    "link": "https://dev.to/lightningdev123/agentjacking-explained-when-ai-coding-assistants-can-be-tricked-into-running-malicious-commands-2271",
+    "topic": "general"
+  },
+  {
+    "title": "MCP, Tool Use, and the New Attack Surface Nobody Is Mapping",
+    "desc": "<p>The agent wasn't compromised.</p>\n\n<p>The model wasn't compromised.</p>\n\n<p>The tool wasn't compromised.</p>\n\n<p>Every component did exac",
+    "link": "https://dev.to/ntctech/mcp-tool-use-and-the-new-attack-surface-nobody-is-mapping-3gbl",
     "topic": "secops"
   },
   {
-    "title": "Day 23 of 100 Days of ClickHouse: Backups Explained \u2013 A Complete Guide to BACKUP and RESTORE",
-    "desc": "<h1>\n  \n  \n  ClickHouse Backups Explained: How to Protect Your Data with BACKUP and RESTORE\n</h1>\n\n<p>Data is one of the most valuable asset",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-23-of-100-days-of-clickhouse-backups-explained-a-complete-guide-to-backup-and-restore-1en4",
+    "title": "Visual Regression Testing with Screenshot APIs: Catch UI Bugs Before Users Do",
+    "desc": "<p>Unit tests check logic. Integration tests check API contracts. But neither catches the CSS regression that moves your checkout button off",
+    "link": "https://dev.to/toolkitonline/visual-regression-testing-with-screenshot-apis-catch-ui-bugs-before-users-do-40p6",
     "topic": "general"
   },
   {
-    "title": "Top 10 Best Aksara To WordPress Migration Companies in 2026 | Aksara To WordPress Migration Experts Ranked",
-    "desc": "<p>Website migrations can either unlock growth or create months of technical headaches.</p>\n\n<p>For businesses running on Aksara, moving to ",
-    "link": "https://dev.to/oliverpitts/top-10-best-aksara-to-wordpress-migration-companies-in-2026-aksara-to-wordpress-migration-experts-19ac",
+    "title": "Add a CI Gate for MCP Contract Coverage in 10 Minutes",
+    "desc": "<p>Your PR is green. <code>tools/call</code> still breaks on Tuesday.</p>\n\n<p>That gap is familiar: <strong>CI validates what you ship</stro",
+    "link": "https://dev.to/kioiek/add-a-ci-gate-for-mcp-contract-coverage-in-10-minutes-2ga0",
     "topic": "general"
   },
   {
-    "title": "Self-Hosted Workflow Automation vs Temporal Enterprise Costs",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
-    "link": "https://dev.to/chasebot/self-hosted-workflow-automation-vs-temporal-enterprise-costs-358a",
-    "topic": "general"
-  },
-  {
-    "title": "Learn a real production Kubernetes platform by running one \u2014 offline, on your laptop, in 5 minutes",
-    "desc": "<p>TL;DR: lab-in-a-box is a single-command, fully offline Kubernetes stack with GitOps, observability, security policies, and a full CI/CD p",
-    "link": "https://dev.to/chitranjan_jegadeesan/learn-a-real-production-kubernetes-platform-by-running-one-offline-on-your-laptop-in-5-minutes-89o",
+    "title": "k8s: svc",
+    "desc": "<h2>\n  \n  \n  2. ClusterIP: The Internal Phone Extension\n</h2>\n\n<h3>\n  \n  \n  From Scratch (The Analogy)\n</h3>\n\n<p>Imagine a team of accountin",
+    "link": "https://dev.to/jumptotech/k8s-svc-1loj",
     "topic": "kubernetes"
   },
   {
-    "title": "Why a Clean CI/CD Scan Isn't Enough: The Kubernetes Runtime Blind Spot",
-    "desc": "<p>If your container passes a CI/CD vulnerability scan, is it safe to run in production? Many engineering teams assume the answer is yes. Bu",
-    "link": "https://dev.to/nyra-amsi/why-a-clean-cicd-scan-isnt-enough-the-kubernetes-runtime-blind-spot-3mmd",
-    "topic": "kubernetes"
+    "title": "\"I Run 10+ AI Workers on Bash Scripts \u2014 Here's Why I Don't Use Python\"",
+    "desc": "<h1>\n  \n  \n  I Run 10+ AI Workers on Bash Scripts \u2014 Here's Why I Don't Use Python\n</h1>\n\n<p>Everyone told me I was crazy.</p>\n\n<p>\"You're bu",
+    "link": "https://dev.to/koihubagent/i-run-10-ai-workers-on-bash-scripts-heres-why-i-dont-use-python-3ol6",
+    "topic": "general"
   }
 ]

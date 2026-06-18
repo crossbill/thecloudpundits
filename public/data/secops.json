@@ -1,5 +1,41 @@
 [
   {
+    "title": "No Exploits Required",
+    "desc": "<p>Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today\u2019s cybersecurity fa",
+    "link": "https://www.securityweek.com/no-exploits-required/",
+    "topic": "general"
+  },
+  {
+    "title": "Dream Raises $260 Million at $3 Billion Valuation",
+    "desc": "<p>The Israeli startup provides sovereign AI and cyber defenses for governments and critical infrastructure.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/",
+    "topic": "general"
+  },
+  {
+    "title": "Atlassian, Splunk Patch Critical Vulnerabilities",
+    "desc": "<p>Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Rokarolla Banking Trojan Targets 200 Applications",
+    "desc": "<p>The Android malware allows its operators to take control of infected devices and harvest sensitive information.</p>\n<p>The post <a href=\"",
+    "link": "https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/",
+    "topic": "general"
+  },
+  {
+    "title": "Critical Command Execution Vulnerability Patched in Cisco ISE",
+    "desc": "<p>Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root.</p>\n<p",
+    "link": "https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/",
+    "topic": "secops"
+  },
+  {
+    "title": "F5 Patches Critical, High-Severity NGINX Vulnerabilities",
+    "desc": "<p>Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code.</p>\n<p>T",
+    "link": "https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "SailPoint to Acquire Entro in Reported $200 Million Deal",
     "desc": "<p>Israel-based Entro specializes in non-human identity and credential security solutions, and it will enable SailPoint to enhance its produ",
     "link": "https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/",
@@ -10,41 +46,5 @@
     "desc": "<p>Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident.</p>\n<p>The",
     "link": "https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/",
     "topic": "secops"
-  },
-  {
-    "title": "Webinar Today: How Modern Breaches Bypass MFA and Evade Detection",
-    "desc": "<p>Attendees will learn how attackers evade conventional detection methods, why legacy MFA alone is no longer sufficient, and how organizati",
-    "link": "https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/",
-    "topic": "secops"
-  },
-  {
-    "title": "1Password Acquires Apono in Reported $250M-$300M Deal",
-    "desc": "<p>Apono specializes in just-in-time access governance technology for humans, machines, and AI agents.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/1password-acquires-apono-in-reported-250m-300m-deal/",
-    "topic": "general"
-  },
-  {
-    "title": "Tenet Security Emerges From Stealth With $6 Million Seed Funding",
-    "desc": "<p>Tenet aims to detect and stop dangerous AI agentic behavior in real time.</p>\n<p>The post <a href=\"https://www.securityweek.com/tenet-sec",
-    "link": "https://www.securityweek.com/tenet-security-emerges-from-stealth-with-6-million-seed-funding/",
-    "topic": "secops"
-  },
-  {
-    "title": "Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software",
-    "desc": "<p>The industrial automation giant has fixed security holes in Logix, CompactLogix, Flex, RSLinx, and FactoryTalk products.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/rockwell-automation-patches-vulnerabilities-in-ics-controllers-and-software/",
-    "topic": "general"
-  },
-  {
-    "title": "Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack",
-    "desc": "<p>The attackers deployed a new Go-based backdoor that uses Microsoft Teams servers for command-and-control.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/",
-    "topic": "azure"
-  },
-  {
-    "title": "Microsoft Working on Patch for \u2018RoguePlanet\u2019 Zero-Day",
-    "desc": "<p>The public PoC code exploits a race condition in Microsoft Defender to spawn a command prompt with System privileges.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/",
-    "topic": "azure"
   }
 ]
