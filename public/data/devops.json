@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why I Stopped Just Watching Tutorials (And Started Learning C Properly)",
-    "desc": "<p>When I first started learning C, I was doing what most beginners do.</p>\n\n<p>Watching tutorials.</p>\n\n<p>One video... <a href=\"https://sh",
-    "link": "https://dev.to/tahami_akservices_cb075e/why-i-stopped-just-watching-tutorials-and-started-learning-c-properly-3lka",
+    "title": "Tired of maintaining a compose file for local and a whole other toolchain for prod? I wrote about composing your environment from a catalog of services and deploying it with one tool, from docker compose up to production.",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/cl",
+    "link": "https://dev.to/clownay/tired-of-maintaining-a-compose-file-for-local-and-a-whole-other-toolchain-for-prod-i-wrote-about-9l5",
+    "topic": "docker"
+  },
+  {
+    "title": "One config from `docker compose up` to production",
+    "desc": "<p>Here's a workflow most of us just accept: you spin up your local stack with a <code>docker-compose.yml</code>, and then, to actually ship",
+    "link": "https://dev.to/clownay/one-config-from-docker-compose-up-to-production-2lp",
+    "topic": "docker"
+  },
+  {
+    "title": "Why your n8n workflow dies every quarter at 3am",
+    "desc": "<p>Everything ran green for ninety days.</p>\n\n<p>Then one Tuesday the lead dashboard was empty, and the first person to notice was the sales",
+    "link": "https://dev.to/mjmirza/why-your-n8n-workflow-dies-every-quarter-at-3am-hbc",
     "topic": "general"
   },
   {
-    "title": "What It Took to Actually Govern Claude Code Across Our Engineering Team",
-    "desc": "<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>Claude Code's attack surface is bigger than most teams realize - two CVEs in early 2026 showed that ",
-    "link": "https://dev.to/sahajmeet_kaur_/what-it-took-to-actually-govern-claude-code-across-our-engineering-team-4jp6",
-    "topic": "anthropic"
-  },
-  {
-    "title": "My AI Agent Burned $200 While I Slept - Here's What No One Tells You About Token Loops",
-    "desc": "<p>It started with a Stripe notification.</p>\n\n<p>$200 charged. Overnight. While I slept.</p>\n\n<p>I opened my OpenAI dashboard expecting an ",
-    "link": "https://dev.to/opsveritas/my-ai-agent-burned-200-while-i-slept-heres-what-no-one-tells-you-about-token-loops-bll",
+    "title": "Agent Handoff Contracts: The Missing Piece in Production Agent Systems",
+    "desc": "<p>Most of the \"we're adding AI to our ops platform\" stories you'll read this year will skip the one part that actually determines whether t",
+    "link": "https://dev.to/samson_tanimawo/agent-handoff-contracts-the-missing-piece-in-production-agent-systems-1bb8",
     "topic": "general"
   },
   {
-    "title": "Why Every Developer Will Eventually Manage AI Agents",
-    "desc": "<p>For decades, software development followed a familiar pattern. Developers wrote code, applications executed instructions and users intera",
-    "link": "https://dev.to/reetain_raina/why-every-developer-will-eventually-manage-ai-agents-7mo",
+    "title": "Twiringiyimana Obed is a software developer from Rwanda specializing in web and mobile application development.",
+    "desc": "<p>I am Twiringiyimana Obed, a Full Stack Web Developer and Information Technology student at the University of Rwanda. I specialize in Reac",
+    "link": "https://dev.to/twiringiyimana_obed/twiringiyimana-obed-is-a-software-developer-from-rwanda-specializing-in-web-and-mobile-application-2403",
     "topic": "general"
   },
   {
-    "title": "Celebrating 12 years of Project Galileo",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/celebrating-12-years-of-project-galileo\" rel=\"noopener noreferre",
-    "link": "https://dev.to/rasne/celebrating-12-years-of-project-galileo-eha",
+    "title": "What Is an MCP Proxy - And When Do You Actually Need a Gateway Instead?",
+    "desc": "<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>An MCP proxy forwards requests between AI agents and MCP servers \u2014 it handles transport, not governa",
+    "link": "https://dev.to/sahajmeet_kaur_/what-is-an-mcp-proxy-and-when-do-you-actually-need-a-gateway-instead-kpg",
     "topic": "general"
   },
   {
-    "title": "CI/CD Profissional com GitLab e Laravel em VPS: Do Push ao Deploy Autom\u00e1tico",
-    "desc": "<p>Se voc\u00ea ainda faz deploy da sua API Laravel conectando no servidor via SSH, rodando <code>git pull</code> e rezando para que nada quebre,",
-    "link": "https://dev.to/matheussesso/cicd-profissional-com-gitlab-e-laravel-em-vps-do-push-ao-deploy-automatico-1igh",
+    "title": "MySQL 8.0 is now end-of-life \u2014 here's the version map you actually need",
+    "desc": "<p><strong>MySQL 8.0 reached end of life on April 30, 2026.</strong> That's the one that matters: 8.0 has been the default MySQL since 2018,",
+    "link": "https://dev.to/endoflifeai/mysql-80-is-now-end-of-life-heres-the-version-map-you-actually-need-43p8",
     "topic": "general"
   },
   {
-    "title": "Git Fluid Flow: A Branching Strategy for Decoupled Task Promotion",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Consider the following scenario:</p>\n\n<ul>\n<li>Feature A is ready for production.</li>\n<li>Feature B sti",
-    "link": "https://dev.to/viniciusvts/git-fluid-flow-a-branching-strategy-for-decoupled-task-promotion-2h2l",
-    "topic": "general"
-  },
-  {
-    "title": "Hidden Cloud Bill: A Practical Checklist Before Cutting Cloud Costs",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/aicloudstrategist/hidden-cloud-bill-a-practical-checklist-before-cutting-cloud-costs-279b",
+    "title": "A For Loop Skipped Every File With a Space and Called the Backup a Success",
+    "desc": "<p>The nightly backup looped over <code>for f in $(ls /data/exports)</code> and copied each file to a backup volume. It exited clean every n",
+    "link": "https://dev.to/bashsnippets/a-for-loop-skipped-every-file-with-a-space-and-called-the-backup-a-success-392e",
     "topic": "general"
   }
 ]
