@@ -1,50 +1,50 @@
 [
   {
-    "title": "I finally figured out the 1 question that decides whether OpenClaw is still worth it or Codex already wins",
-    "desc": "<p>I kept seeing the same bad comparison over and over:</p>\n\n<blockquote>\n<p>OpenClaw vs Codex vs Computer Use vs Chrome Bridge</p>\n</blockq",
-    "link": "https://dev.to/lars_winstand/i-finally-figured-out-the-1-question-that-decides-whether-openclaw-is-still-worth-it-or-codex-528m",
+    "title": "RHEL 10 support now available in Puppet SCE for Linux",
+    "desc": "<p>Version 2.7.0 of Security Compliance Enforcement (SCE) for Linux is now <a href=\"https://forge.puppet.com/modules/puppetlabs/sce_linux/re",
+    "link": "https://dev.to/puppet/rhel-10-support-now-available-in-puppet-sce-for-linux-4opi",
     "topic": "general"
   },
   {
-    "title": "Why Data Collection Systems Work for 10 Minutes and Fail After 10,000 Requests",
-    "desc": "<p>Most data collection systems do not fail immediately.<br />\nThey fail slowly as request volume exposes patterns that were invisible durin",
-    "link": "https://dev.to/ellebanna/why-data-collection-systems-work-for-10-minutes-and-fail-after-10000-requests-fmf",
+    "title": "How Quantova's Cross-Chain Bridge Handles Verification Without Trusting the Other Chain",
+    "desc": "<p>Most cross-chain bridges have the same structural problem: they extend trust assumptions from one chain to another without clearly docume",
+    "link": "https://dev.to/quant_ova_60748d40cb7f54d/how-quantovas-cross-chain-bridge-handles-verification-without-trusting-the-other-chain-40in",
     "topic": "general"
   },
   {
-    "title": "Agentjacking Explained: When AI Coding Assistants Can Be Tricked Into Running Malicious Commands",
-    "desc": "<h2>\n  \n  \n  AI Tools Are Becoming More Powerful, But Also More Trusting\n</h2>\n\n<p>AI coding assistants have rapidly become part of many dev",
-    "link": "https://dev.to/lightningdev123/agentjacking-explained-when-ai-coding-assistants-can-be-tricked-into-running-malicious-commands-2271",
+    "title": "Junior Engineers Are Learning AI Faster Than They Are Learning Systems",
+    "desc": "<h2>\n  \n  \n  <strong>The most important engineering gap nobody seems interested in talking about</strong>\n</h2>\n\n<p>A few months ago, I noti",
+    "link": "https://dev.to/edwindevops/junior-engineers-are-learning-ai-faster-than-they-are-learning-systems-jg7",
     "topic": "general"
   },
   {
-    "title": "MCP, Tool Use, and the New Attack Surface Nobody Is Mapping",
-    "desc": "<p>The agent wasn't compromised.</p>\n\n<p>The model wasn't compromised.</p>\n\n<p>The tool wasn't compromised.</p>\n\n<p>Every component did exac",
-    "link": "https://dev.to/ntctech/mcp-tool-use-and-the-new-attack-surface-nobody-is-mapping-3gbl",
-    "topic": "secops"
-  },
-  {
-    "title": "Visual Regression Testing with Screenshot APIs: Catch UI Bugs Before Users Do",
-    "desc": "<p>Unit tests check logic. Integration tests check API contracts. But neither catches the CSS regression that moves your checkout button off",
-    "link": "https://dev.to/toolkitonline/visual-regression-testing-with-screenshot-apis-catch-ui-bugs-before-users-do-40p6",
+    "title": "AI Can Build the Prototype. Production Is Still the Hard Part.",
+    "desc": "<p>AI coding tools make it very easy to get an app running.</p>\n\n<p>But getting from \u201cit works locally\u201d to \u201creal users can depend on this\u201d i",
+    "link": "https://dev.to/ohadkr/ai-can-build-the-prototype-production-is-still-the-hard-part-2adk",
     "topic": "general"
   },
   {
-    "title": "Add a CI Gate for MCP Contract Coverage in 10 Minutes",
-    "desc": "<p>Your PR is green. <code>tools/call</code> still breaks on Tuesday.</p>\n\n<p>That gap is familiar: <strong>CI validates what you ship</stro",
-    "link": "https://dev.to/kioiek/add-a-ci-gate-for-mcp-contract-coverage-in-10-minutes-2ga0",
+    "title": "Securing AI-Generated Bash Scripts Before You Run Them",
+    "desc": "<p>Bash is the easiest language for AI to write and the easiest language to get devastating output from. A 20-line script that \"just cleans ",
+    "link": "https://dev.to/devopsaitoolkit/securing-ai-generated-bash-scripts-before-you-run-them-401m",
     "topic": "general"
   },
   {
-    "title": "k8s: svc",
-    "desc": "<h2>\n  \n  \n  2. ClusterIP: The Internal Phone Extension\n</h2>\n\n<h3>\n  \n  \n  From Scratch (The Analogy)\n</h3>\n\n<p>Imagine a team of accountin",
-    "link": "https://dev.to/jumptotech/k8s-svc-1loj",
-    "topic": "kubernetes"
+    "title": "I built a CLI that generates .env files so I never read docs again",
+    "desc": "<p><strong># EnvForge BETA v1.1</strong></p>\n\n<p>\u26a1 <strong>Structured <code>.env</code> scaffolding for modern applications.</strong></p>\n\n<",
+    "link": "https://dev.to/joseph_kariuki_0b7037c6d3/i-built-a-cli-that-generates-env-files-so-i-never-read-docs-again-3np5",
+    "topic": "general"
   },
   {
-    "title": "\"I Run 10+ AI Workers on Bash Scripts \u2014 Here's Why I Don't Use Python\"",
-    "desc": "<h1>\n  \n  \n  I Run 10+ AI Workers on Bash Scripts \u2014 Here's Why I Don't Use Python\n</h1>\n\n<p>Everyone told me I was crazy.</p>\n\n<p>\"You're bu",
-    "link": "https://dev.to/koihubagent/i-run-10-ai-workers-on-bash-scripts-heres-why-i-dont-use-python-3ol6",
+    "title": "AWS vs Azure on a Budget: Building a Production-Like Cloud Platform on an 8GB Dell PC",
+    "desc": "<p><strong>From Docker Desktop to Cloud Architect: Building a Production-Grade Platform on an 8GB Dell</strong></p>\n\n<p>You've felt it. That",
+    "link": "https://dev.to/buildmintz_media_5238c1d7/aws-vs-azure-on-a-budget-building-a-production-like-cloud-platform-on-an-8gb-dell-pc-1d07",
+    "topic": "aws"
+  },
+  {
+    "title": "Heat Pump vs Furnace: Which Is Cheaper Long-Term?",
+    "desc": "<p>If you're shopping for a new heating system in the US or Canada, the two names you'll hear most often are the furnace and the heat pump. ",
+    "link": "https://dev.to/minihomehub_74471977c649a/heat-pump-vs-furnace-which-is-cheaper-long-term-4c5m",
     "topic": "general"
   }
 ]

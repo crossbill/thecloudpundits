@@ -1,5 +1,11 @@
 [
   {
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "desc": "",
+    "link": "https://huggingface.co/blog/peft-beyond-lora",
+    "topic": "general"
+  },
+  {
     "title": "Is it agentic enough? Benchmarking open models on your own tooling",
     "desc": "",
     "link": "https://huggingface.co/blog/is-it-agentic-enough",
@@ -39,12 +45,6 @@
     "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
     "desc": "",
     "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "topic": "huggingface"
-  },
-  {
-    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-    "desc": "",
-    "link": "https://huggingface.co/blog/github-ci-hf-jobs",
     "topic": "huggingface"
   }
 ]
