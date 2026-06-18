@@ -1,50 +1,50 @@
 [
   {
-    "title": "Automation Governance: The Future of Workflow Reliability",
-    "desc": "<h2>\n  \n  \n  Introduction to Automation Governance\n</h2>\n\n<p>The world of automation is rapidly evolving, and with it, the need for reliable",
-    "link": "https://dev.to/opsveritas/automation-governance-the-future-of-workflow-reliability-1a94",
+    "title": "\u2699\ufe0f Kubernetes RBAC vs ServiceAccount permissions \u2014 which provides tighter security?",
+    "desc": "<p><strong>Kubernetes RBAC provides tighter security than ServiceAccount permissions for microservices.</strong> Roughly 30 % of clusters ex",
+    "link": "https://dev.to/ptp2308/kubernetes-rbac-vs-serviceaccount-permissions-which-provides-tighter-security-207k",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "A passing security audit is a timestamp, not a verdict",
+    "desc": "<p>A continuous integration job is supposed to be a function of your code. You change something, the job re-runs, and its color tells you wh",
+    "link": "https://dev.to/earthbound_misfit/a-passing-security-audit-is-a-timestamp-not-a-verdict-11h2",
+    "topic": "secops"
+  },
+  {
+    "title": "Deploy FastAPI to Cloud Run in Under 30 Minutes \u2014 With Terraform, WIF, and Secret Manager",
+    "desc": "<p>Every Python API project on GCP starts the same way. Not with your business logic. With Terraform.</p>\n\n<p>Two or three days of infrastru",
+    "link": "https://dev.to/kdra-dev/deploy-fastapi-to-cloud-run-in-under-30-minutes-with-terraform-wif-and-secret-manager-5h6i",
+    "topic": "terraform"
+  },
+  {
+    "title": "AI in the SDLC: What Engineering Leaders Get Wrong",
+    "desc": "<p>AI is already in your software development lifecycle (SDLC), increasing throughput, and you can probably already see it in the data \u2013 mor",
+    "link": "https://dev.to/cponsonby/ai-in-the-sdlc-what-engineering-leaders-get-wrong-1822",
     "topic": "general"
   },
   {
-    "title": "AI Multi-Agent Systems Face DevOps Challenges: Predictability, Reproducibility, and Debugging Issues Reemerge",
-    "desc": "<h2>\n  \n  \n  Introduction: The DevOps-AI Disconnect\n</h2>\n\n<p>In the rapidly evolving AI ecosystem, particularly within multi-agent systems,",
-    "link": "https://dev.to/maricode/ai-multi-agent-systems-face-devops-challenges-predictability-reproducibility-and-debugging-2gc",
+    "title": "David Stark: Top High-Paying Roles",
+    "desc": "<h3>\n  \n  \n  \ud83d\udc4b Hello Architects & Elite Engineers,\n</h3>\n\n<p>The market is shifting. We are seeing a surge in <strong>DEVOPS</strong> roles ",
+    "link": "https://dev.to/devpulse/david-stark-top-high-paying-roles-3318",
     "topic": "general"
   },
   {
-    "title": "WIP - Gloss\u00e1rio DevOps #1",
-    "desc": "<blockquote>\n<p>Texto com base no livro \"Manual de DevOps\"</p>\n</blockquote>\n\n<p>WIP significa \"Work In Progress\". \u00c9 uma m\u00e9trica essencial q",
-    "link": "https://dev.to/joaovictor6/wip-glossario-devops-1-171e",
-    "topic": "general"
+    "title": "From Competitive Analysis to 3,042 Downloads: Building a Docker MCP Server",
+    "desc": "<h1>\n  \n  \n  From Competitive Analysis to 3,042+ Downloads: Building a Docker MCP Server\n</h1>\n\n<p>You want to build an MCP server. You sear",
+    "link": "https://dev.to/friendlygeorge/from-competitive-analysis-to-3042-downloads-building-a-docker-mcp-server-49dk",
+    "topic": "docker"
   },
   {
-    "title": "The Best AI Tools for DevOps Engineers in 2026",
-    "desc": "<p>If you spend your day in a terminal, a YAML editor, or a Grafana tab \u2014 AI assistants in 2026 are no longer a curiosity. They're a real pr",
-    "link": "https://dev.to/devopsaitoolkit/the-best-ai-tools-for-devops-engineers-in-2026-15a9",
-    "topic": "general"
+    "title": "Your Repo Context Is an Attack Surface Now",
+    "desc": "<p>The lazy version of AI coding security is \"make sure the model does not write insecure code.\"</p>\n\n<p>That is not wrong. It is just too s",
+    "link": "https://dev.to/hefty_69a4c2d631c9dd70724/your-repo-context-is-an-attack-surface-now-5dhj",
+    "topic": "secops"
   },
   {
-    "title": "Visual Regression Testing: A Practical Guide for 2026",
-    "desc": "<p>A functional test confirms the checkout button submits the form. It will not tell you the button is now white on white, overlapping the p",
-    "link": "https://dev.to/grabbit/visual-regression-testing-a-practical-guide-for-2026-48nk",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying POS Lite with AWS EC2, Docker, Vercel and Cloudflare",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the previous posts, I shared an overview of <strong>POS Lite</strong>, explained how I designed the b",
-    "link": "https://dev.to/guadalupe182/deploying-pos-lite-with-aws-ec2-docker-vercel-and-cloudflare-3bbo",
-    "topic": "aws"
-  },
-  {
-    "title": "What Is Multi-Agent SRE? A Practical Introduction",
-    "desc": "<p>Every SRE team I've talked to this year is running the same experiment in different corners: \"Can we have AI do some of this?\" The honest",
-    "link": "https://dev.to/samson_tanimawo/what-is-multi-agent-sre-a-practical-introduction-5ccj",
-    "topic": "general"
-  },
-  {
-    "title": "The Browser Test Failed. Can You Actually Prove Why?",
-    "desc": "<p>A red test in CI looks precise.</p>\n\n<p>Something failed. The pipeline stopped. There is a screenshot, a stack trace, and perhaps a video",
-    "link": "https://dev.to/randomsquirrel802/the-browser-test-failed-can-you-actually-prove-why-16fd",
+    "title": "\u30102026\u3011Mailchimp \u4ee3\u66ff\u306e\u30c8\u30e9\u30f3\u30b6\u30af\u30b7\u30e7\u30f3\u30e1\u30fc\u30ebAPI\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>Resend</strong> \u306b\u4e57\u308a\u63db\u3048\u308b\u3053\u3068\u3092\u63a8\u5968\u3059\u308b\u3002</p>\n\n<p>\u7406\u7531\u306f3\u70b9\u3002\u2460REST API\u306e\u8a2d\u8a08\u304c\u6975\u3081\u3066\u30b7\u30f3\u30d7\u30eb\u3067\u3001curl1\u884c\u304b\u3089\u52d5\u4f5c\u78ba\u8a8d\u3067\u304d\u308b\u305f\u3081\u3001\u65e2\u5b58\u30b3\u30fc\u30c9\u3078\u306e\u7d71\u5408\u30b3\u30b9\u30c8\u304c",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-mailchimp-dai-ti-notoranzakusiyonmeruapiliao-jin-yi-xing-kosutodexuan-bu-1l96",
     "topic": "general"
   }
 ]
