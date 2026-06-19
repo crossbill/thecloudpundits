@@ -1,5 +1,23 @@
 [
   {
+    "title": "We're building an open-source agentic workflow platform for faith-based ministry \u2014 and nothing is built yet",
+    "desc": "<p>Churches and benevolence ministries have a quiet crisis.</p>\n\n<p>Someone walks through the door in crisis \u2014 rent, food, grief, addiction.",
+    "link": "https://dev.to/sjones2177/were-building-an-open-source-agentic-workflow-platform-for-faith-based-ministry-and-nothing-is-4im5",
+    "topic": "general"
+  },
+  {
+    "title": "Git Engineering Workflow 1",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>This article walks through a complete Git-based development workflow: from creating a repository to bran",
+    "link": "https://dev.to/rahimah_dev/git-engineering-workflow-1-2l0k",
+    "topic": "general"
+  },
+  {
+    "title": "The Alert Never Fired Because the Loop Skipped the Last Line of the File",
+    "desc": "<p>We kept a plaintext file of hostnames, one per line, and a monitoring script read the file and pinged each host every five minutes. When ",
+    "link": "https://dev.to/bashsnippets/the-alert-never-fired-because-the-loop-skipped-the-last-line-of-the-file-3il8",
+    "topic": "general"
+  },
+  {
     "title": "\"Kubernetes Sidecar Pattern Explained: The Secret Helper Container Running Beside Your App\"",
     "desc": "<p>When developers start learning <a href=\"https://kubernetes.io/\" rel=\"noopener noreferrer\">Kubernetes</a>, they usually focus on <em><stro",
     "link": "https://dev.to/jatin09/kubernetes-sidecar-pattern-explained-the-secret-helper-container-running-beside-your-app-3l2b",
@@ -28,23 +46,5 @@
     "desc": "<h2>\n  \n  \n  Quick Summary: \ud83d\udcdd\n</h2>\n\n<p>MCP SSH Manager is a Node.js server that allows AI models like Claude Code and OpenAI Codex to manag",
     "link": "https://dev.to/githubopensource/unleash-your-ai-control-remote-servers-with-mcp-ssh-manager-nao",
     "topic": "general"
-  },
-  {
-    "title": "Building an Enterprise Hybrid AI Shield: Adding Remote OTA Updates and Kernel-Level Process Isolation (Rust + C++)",
-    "desc": "<h1>\n  \n  \n  Moving Beyond Static Firewalls: Elevating Cyber Aura to an Enterprise-Grade Endpoint Protection Suite\n</h1>\n\n<p>A few days ago,",
-    "link": "https://dev.to/nikhilsharma987880bot/building-an-enterprise-hybrid-ai-shield-adding-remote-ota-updates-and-kernel-level-process-2b7i",
-    "topic": "general"
-  },
-  {
-    "title": "Free SSL Certificate Checker \u2014 verify expiry, issuer, and chain for any domain",
-    "desc": "<p>Dealing with a browser security warning on a site you manage? Not sure when a Let's Encrypt cert auto-renews? Need to verify the certific",
-    "link": "https://dev.to/at_use_com/free-ssl-certificate-checker-verify-expiry-issuer-and-chain-for-any-domain-6d6",
-    "topic": "general"
-  },
-  {
-    "title": "Ship an AI agent without a kill switch and you are the incident",
-    "desc": "<p>A finance bot kept issuing refunds in a loop because nobody built a way to stop it.</p>\n\n<p>Clean code. Sound logic. No off switch. A sma",
-    "link": "https://dev.to/mjmirza/ship-an-ai-agent-without-a-kill-switch-and-you-are-the-incident-34k4",
-    "topic": "secops"
   }
 ]
