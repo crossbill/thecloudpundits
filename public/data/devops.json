@@ -1,50 +1,50 @@
 [
   {
-    "title": "Write your error states for a stranger three months from now, not for yourself today",
-    "desc": "<p>Most error messages are written for the wrong reader.</p>\n\n<p>They're written for the person who's watching when the thing breaks. You're",
-    "link": "https://dev.to/rapls/write-your-error-states-for-a-stranger-three-months-from-now-not-for-yourself-today-54jm",
+    "title": "How to Implement Tokenized HLS Streaming Using the Nginx Secure Link Module",
+    "desc": "<p>Video hotlinking is a silent budget killer. Every unauthorized embed pulls bandwidth directly from your origin server, bypasses your payw",
+    "link": "https://dev.to/bytesrack/how-to-implement-tokenized-hls-streaming-using-the-nginx-secure-link-module-5ajd",
     "topic": "general"
   },
   {
-    "title": "Automation Governance: The Missing Layer in Modern DevOps",
-    "desc": "<h2>\n  \n  \n  Introduction to Automation Governance\n</h2>\n\n<p>Automation governance is the process of managing and regulating automated syste",
-    "link": "https://dev.to/opsveritas/automation-governance-the-missing-layer-in-modern-devops-7bd",
+    "title": "Generative AI in .NET Development",
+    "desc": "<p>When you have been programming in .NET for some time, you must be aware of the change already. The use of AI technology is gradually beco",
+    "link": "https://dev.to/sahil_khurana_486f374ecf2/generative-ai-in-net-development-5a0a",
     "topic": "general"
   },
   {
-    "title": "Celebrating 12 years of Project Galileo",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/celebrating-12-years-of-project-galileo\" rel=\"noopener noreferre",
-    "link": "https://dev.to/rasne/celebrating-12-years-of-project-galileo-5ee3",
+    "title": "Day 24 of 100 Days of ClickHouse: Working with the ClickHouse HTTP API",
+    "desc": "<p>When most people think about interacting with a database, they imagine using a client library, a graphical interface, or a command-line t",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-24-of-100-days-of-clickhouse-working-with-the-clickhouse-http-api-45bi",
     "topic": "general"
   },
   {
-    "title": "Tired of maintaining a compose file for local and a whole other toolchain for prod? I wrote about composing your environment from a catalog of services and deploying it with one tool, from docker compose up to production.",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/cl",
-    "link": "https://dev.to/clownay/tired-of-maintaining-a-compose-file-for-local-and-a-whole-other-toolchain-for-prod-i-wrote-about-9l5",
+    "title": "Self-Hosting a Production Cloud IDE: Lessons from Building Neural Inverse Cloud",
+    "desc": "<p><em>How we designed a self-hosted cloud development platform for AI-assisted engineering teams</em></p>\n\n<p>A few years ago, the idea of ",
+    "link": "https://dev.to/vakeesh_moorthy_08edcca64/self-hosting-a-production-cloud-ide-lessons-from-building-neural-inverse-cloud-1p1c",
+    "topic": "general"
+  },
+  {
+    "title": "Podman vs Docker - A comparison",
+    "desc": "<p>Containerization has transformed the way modern software is built and deployed \u2014 and Docker has long been the tool that made it mainstrea",
+    "link": "https://dev.to/gorthib_cf926d5f8de5ec905/podman-vs-docker-a-comparison-62d",
     "topic": "docker"
   },
   {
-    "title": "One config from `docker compose up` to production",
-    "desc": "<p>Here's a workflow most of us just accept: you spin up your local stack with a <code>docker-compose.yml</code>, and then, to actually ship",
-    "link": "https://dev.to/clownay/one-config-from-docker-compose-up-to-production-2lp",
-    "topic": "docker"
+    "title": "Azure SQL Database 2014-04-01 APIs retire June 30 \u2014 your tools auto-upgrade, the response shapes change",
+    "desc": "<p>If you manage Azure SQL Database resources through ARM templates, the Azure SQL REST API, the Az.Sql PowerShell module on an old version,",
+    "link": "https://dev.to/flarecanary/azure-sql-database-2014-04-01-apis-retire-june-30-your-tools-auto-upgrade-the-response-shapes-lj2",
+    "topic": "azure"
   },
   {
-    "title": "Why your n8n workflow dies every quarter at 3am",
-    "desc": "<p>Everything ran green for ninety days.</p>\n\n<p>Then one Tuesday the lead dashboard was empty, and the first person to notice was the sales",
-    "link": "https://dev.to/mjmirza/why-your-n8n-workflow-dies-every-quarter-at-3am-hbc",
+    "title": "Putting a file in .gitignore does nothing if git already tracks it. I built a CLI to find the leftovers.",
+    "desc": "<p>You added <code>.env</code> to <code>.gitignore</code>. You felt responsible. But three weeks later it's still in the repo, still pushed ",
+    "link": "https://dev.to/_06a3df6b50aec966668fb/putting-a-file-in-gitignore-does-nothing-if-git-already-tracks-it-i-built-a-cli-to-find-the-31cl",
     "topic": "general"
   },
   {
-    "title": "Agent Handoff Contracts: The Missing Piece in Production Agent Systems",
-    "desc": "<p>Most of the \"we're adding AI to our ops platform\" stories you'll read this year will skip the one part that actually determines whether t",
-    "link": "https://dev.to/samson_tanimawo/agent-handoff-contracts-the-missing-piece-in-production-agent-systems-1bb8",
-    "topic": "general"
-  },
-  {
-    "title": "Twiringiyimana Obed is a software developer from Rwanda specializing in web and mobile application development.",
-    "desc": "<p>I am Twiringiyimana Obed, a Full Stack Web Developer and Information Technology student at the University of Rwanda. I specialize in Reac",
-    "link": "https://dev.to/twiringiyimana_obed/twiringiyimana-obed-is-a-software-developer-from-rwanda-specializing-in-web-and-mobile-application-2403",
-    "topic": "general"
+    "title": "\u2601\ufe0f Deploy MinIO on Kubernetes with Helm made easy",
+    "desc": "<h2>\n  \n  \n  \ud83d\ude80 Helm Chart Basics \u2014 Why They <em>Matter</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dyna",
+    "link": "https://dev.to/ptp2308/deploy-minio-on-kubernetes-with-helm-made-easy-5clg",
+    "topic": "kubernetes"
   }
 ]

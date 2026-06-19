@@ -1,5 +1,11 @@
 [
   {
+    "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
+    "desc": "<p>CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution",
+    "link": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/",
+    "topic": "secops"
+  },
+  {
     "title": "Majority of Internet-Accessible REDCap Servers Outdated",
     "desc": "<p>These servers are regularly targeted by China-linked UNC6508 for initial access and backdoor deployment.</p>\n<p>The post <a href=\"https:/",
     "link": "https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/",
@@ -40,11 +46,5 @@
     "desc": "<p>Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root.</p>\n<p",
     "link": "https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/",
     "topic": "secops"
-  },
-  {
-    "title": "F5 Patches Critical, High-Severity NGINX Vulnerabilities",
-    "desc": "<p>Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code.</p>\n<p>T",
-    "link": "https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/",
-    "topic": "general"
   }
 ]
