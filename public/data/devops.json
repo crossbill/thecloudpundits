@@ -1,5 +1,23 @@
 [
   {
+    "title": "Write your error states for a stranger three months from now, not for yourself today",
+    "desc": "<p>Most error messages are written for the wrong reader.</p>\n\n<p>They're written for the person who's watching when the thing breaks. You're",
+    "link": "https://dev.to/rapls/write-your-error-states-for-a-stranger-three-months-from-now-not-for-yourself-today-54jm",
+    "topic": "general"
+  },
+  {
+    "title": "Automation Governance: The Missing Layer in Modern DevOps",
+    "desc": "<h2>\n  \n  \n  Introduction to Automation Governance\n</h2>\n\n<p>Automation governance is the process of managing and regulating automated syste",
+    "link": "https://dev.to/opsveritas/automation-governance-the-missing-layer-in-modern-devops-7bd",
+    "topic": "general"
+  },
+  {
+    "title": "Celebrating 12 years of Project Galileo",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/celebrating-12-years-of-project-galileo\" rel=\"noopener noreferre",
+    "link": "https://dev.to/rasne/celebrating-12-years-of-project-galileo-5ee3",
+    "topic": "general"
+  },
+  {
     "title": "Tired of maintaining a compose file for local and a whole other toolchain for prod? I wrote about composing your environment from a catalog of services and deploying it with one tool, from docker compose up to production.",
     "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/cl",
     "link": "https://dev.to/clownay/tired-of-maintaining-a-compose-file-for-local-and-a-whole-other-toolchain-for-prod-i-wrote-about-9l5",
@@ -27,24 +45,6 @@
     "title": "Twiringiyimana Obed is a software developer from Rwanda specializing in web and mobile application development.",
     "desc": "<p>I am Twiringiyimana Obed, a Full Stack Web Developer and Information Technology student at the University of Rwanda. I specialize in Reac",
     "link": "https://dev.to/twiringiyimana_obed/twiringiyimana-obed-is-a-software-developer-from-rwanda-specializing-in-web-and-mobile-application-2403",
-    "topic": "general"
-  },
-  {
-    "title": "What Is an MCP Proxy - And When Do You Actually Need a Gateway Instead?",
-    "desc": "<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>An MCP proxy forwards requests between AI agents and MCP servers \u2014 it handles transport, not governa",
-    "link": "https://dev.to/sahajmeet_kaur_/what-is-an-mcp-proxy-and-when-do-you-actually-need-a-gateway-instead-kpg",
-    "topic": "general"
-  },
-  {
-    "title": "MySQL 8.0 is now end-of-life \u2014 here's the version map you actually need",
-    "desc": "<p><strong>MySQL 8.0 reached end of life on April 30, 2026.</strong> That's the one that matters: 8.0 has been the default MySQL since 2018,",
-    "link": "https://dev.to/endoflifeai/mysql-80-is-now-end-of-life-heres-the-version-map-you-actually-need-43p8",
-    "topic": "general"
-  },
-  {
-    "title": "A For Loop Skipped Every File With a Space and Called the Backup a Success",
-    "desc": "<p>The nightly backup looped over <code>for f in $(ls /data/exports)</code> and copied each file to a backup volume. It exited clean every n",
-    "link": "https://dev.to/bashsnippets/a-for-loop-skipped-every-file-with-a-space-and-called-the-backup-a-success-392e",
     "topic": "general"
   }
 ]
