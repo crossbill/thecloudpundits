@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Implement Tokenized HLS Streaming Using the Nginx Secure Link Module",
-    "desc": "<p>Video hotlinking is a silent budget killer. Every unauthorized embed pulls bandwidth directly from your origin server, bypasses your payw",
-    "link": "https://dev.to/bytesrack/how-to-implement-tokenized-hls-streaming-using-the-nginx-secure-link-module-5ajd",
+    "title": "I Replaced My Old AI Agent Stack with Hermes \u2014 and It Finally Feels Like Infrastructure",
+    "desc": "<p>I recently moved my personal AI automation setup over to Hermes.</p>\n\n<p>Not because I wanted another chatbot. I already had one of those",
+    "link": "https://dev.to/toddsullivan/i-replaced-my-old-ai-agent-stack-with-hermes-and-it-finally-feels-like-infrastructure-240g",
     "topic": "general"
   },
   {
-    "title": "Generative AI in .NET Development",
-    "desc": "<p>When you have been programming in .NET for some time, you must be aware of the change already. The use of AI technology is gradually beco",
-    "link": "https://dev.to/sahil_khurana_486f374ecf2/generative-ai-in-net-development-5a0a",
+    "title": "Your runtimes have an expiry date. I baked the EOL calendar into the app so it works offline.",
+    "desc": "<p>Every runtime and piece of middleware you run has a quiet expiry date. PHP 8.0<br />\nwent EOL in late 2023. Node 16 in 2023. Postgres 12 ",
+    "link": "https://dev.to/hitoshi1964/your-runtimes-have-an-expiry-date-i-baked-the-eol-calendar-into-the-app-so-it-works-offline-1jj3",
     "topic": "general"
   },
   {
-    "title": "Day 24 of 100 Days of ClickHouse: Working with the ClickHouse HTTP API",
-    "desc": "<p>When most people think about interacting with a database, they imagine using a client library, a graphical interface, or a command-line t",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-24-of-100-days-of-clickhouse-working-with-the-clickhouse-http-api-45bi",
+    "title": "Railway vs Render: Pricing, Reliability & the 2026 Verdict",
+    "desc": "<blockquote>\n<p>\"Railway for quick projects, Render for serious ones. Also heard Railway pricing can get unpredictable at scale.\"</p>\n\n<p>, ",
+    "link": "https://dev.to/selfhost/railway-vs-render-pricing-reliability-the-2026-verdict-2fpp",
     "topic": "general"
   },
   {
-    "title": "Self-Hosting a Production Cloud IDE: Lessons from Building Neural Inverse Cloud",
-    "desc": "<p><em>How we designed a self-hosted cloud development platform for AI-assisted engineering teams</em></p>\n\n<p>A few years ago, the idea of ",
-    "link": "https://dev.to/vakeesh_moorthy_08edcca64/self-hosting-a-production-cloud-ide-lessons-from-building-neural-inverse-cloud-1p1c",
-    "topic": "general"
-  },
-  {
-    "title": "Podman vs Docker - A comparison",
-    "desc": "<p>Containerization has transformed the way modern software is built and deployed \u2014 and Docker has long been the tool that made it mainstrea",
-    "link": "https://dev.to/gorthib_cf926d5f8de5ec905/podman-vs-docker-a-comparison-62d",
+    "title": "How to Build a Zero-Trust Docker Sandbox for Local AI & Python Applications",
+    "desc": "<p>Building local AI agents, LLM pipelines, or custom web scrapers often requires executing untrusted Python packages or third-party depende",
+    "link": "https://dev.to/sivaadityacoder/how-to-build-a-zero-trust-docker-sandbox-for-local-ai-python-applications-3h4f",
     "topic": "docker"
   },
   {
-    "title": "Azure SQL Database 2014-04-01 APIs retire June 30 \u2014 your tools auto-upgrade, the response shapes change",
-    "desc": "<p>If you manage Azure SQL Database resources through ARM templates, the Azure SQL REST API, the Az.Sql PowerShell module on an old version,",
-    "link": "https://dev.to/flarecanary/azure-sql-database-2014-04-01-apis-retire-june-30-your-tools-auto-upgrade-the-response-shapes-lj2",
-    "topic": "azure"
-  },
-  {
-    "title": "Putting a file in .gitignore does nothing if git already tracks it. I built a CLI to find the leftovers.",
-    "desc": "<p>You added <code>.env</code> to <code>.gitignore</code>. You felt responsible. But three weeks later it's still in the repo, still pushed ",
-    "link": "https://dev.to/_06a3df6b50aec966668fb/putting-a-file-in-gitignore-does-nothing-if-git-already-tracks-it-i-built-a-cli-to-find-the-31cl",
+    "title": "Day 26 of 100 Days of ClickHouse: Understanding Distributed Tables",
+    "desc": "<p>As your data grows, a single ClickHouse server may eventually reach its limits. Whether it's storage, ingestion speed, or query performan",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-26-of-100-days-of-clickhouse-understanding-distributed-tables-4628",
     "topic": "general"
   },
   {
-    "title": "\u2601\ufe0f Deploy MinIO on Kubernetes with Helm made easy",
-    "desc": "<h2>\n  \n  \n  \ud83d\ude80 Helm Chart Basics \u2014 Why They <em>Matter</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dyna",
-    "link": "https://dev.to/ptp2308/deploy-minio-on-kubernetes-with-helm-made-easy-5clg",
-    "topic": "kubernetes"
+    "title": "AWS DevOps Certification in 2026: Everything You Need to Know Before You Start",
+    "desc": "<p>Let's be honest \u2014 there are a lot of certifications out there. And if you've spent any time in the cloud world, you've probably wondered:",
+    "link": "https://dev.to/olivia_49ea689da1a2bc7f87/aws-devops-certification-in-2026-everything-you-need-to-know-before-you-start-2bgd",
+    "topic": "aws"
+  },
+  {
+    "title": "Getting started with Git remotes",
+    "desc": "<p>Like we already explained in our first article for this course <a href=\"https://dev.to/en/tutorials/what-is-git/\">What is Git?</a>: Git i",
+    "link": "https://dev.to/fj_palacios/getting-started-with-git-remotes-3agg",
+    "topic": "general"
+  },
+  {
+    "title": "Why I Built a Self-Healing Server Agent (And Why It's Not Magic)",
+    "desc": "<h1>\n  \n  \n  Why I Built a Self-Healing Server Agent (And Why It's Not Magic)\n</h1>\n\n<p>Sentinel can detect and contain suspicious activity ",
+    "link": "https://dev.to/slawekluzny/why-i-built-a-self-healing-server-agent-and-why-its-not-magic-oe4",
+    "topic": "general"
   }
 ]
