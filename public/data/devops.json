@@ -1,5 +1,23 @@
 [
   {
+    "title": "Runbook Hygiene: Why Yours Are Lying to You",
+    "desc": "<p>Your runbooks are out of date. I don't know your team, but I'd bet money on it. Most teams write runbooks once, in a panic after an outag",
+    "link": "https://dev.to/samson_tanimawo/runbook-hygiene-why-yours-are-lying-to-you-2h46",
+    "topic": "general"
+  },
+  {
+    "title": "When Does Fixing AI Code Cost More Than Writing It?",
+    "desc": "<p>AI makes code feel cheap. Repair does not.</p>\n\n<p>That is the part a lot of eng teams miss when they start adding agents into the workfl",
+    "link": "https://dev.to/lonnie_mcrorey/when-does-fixing-ai-code-cost-more-than-writing-it-54k9",
+    "topic": "general"
+  },
+  {
+    "title": "Testing Email Flows in Cypress Without a Mail Server",
+    "desc": "<p>Cypress is one of the most popular E2E testing frameworks for web applications. But testing email flows in Cypress has always required ei",
+    "link": "https://dev.to/zerodrop/testing-email-flows-in-cypress-without-a-mail-server-1bik",
+    "topic": "general"
+  },
+  {
     "title": "We're building an open-source agentic workflow platform for faith-based ministry \u2014 and nothing is built yet",
     "desc": "<p>Churches and benevolence ministries have a quiet crisis.</p>\n\n<p>Someone walks through the door in crisis \u2014 rent, food, grief, addiction.",
     "link": "https://dev.to/sjones2177/were-building-an-open-source-agentic-workflow-platform-for-faith-based-ministry-and-nothing-is-4im5",
@@ -27,24 +45,6 @@
     "title": "Homebrew 6.0 sandbox: what the systemd confinement actually does",
     "desc": "<p>Homebrew 6.0 shipped a Linux sandbox. Here's what that actually means in practice.</p>\n\n<h2>\n  \n  \n  The short version\n</h2>\n\n<p>The sand",
     "link": "https://dev.to/schiff_heimlich/homebrew-60-sandbox-what-the-systemd-confinement-actually-does-2b0h",
-    "topic": "general"
-  },
-  {
-    "title": "Le differenze tra Claude Code Cowork e Chat",
-    "desc": "<p><strong>Le differenze tra Claude Code Cowork e Chat Testo: il futuro dell'automazione</strong>  </p>\n\n\n\n\n<h3>\n  \n  \n  Perch\u00e8 l'infrastrut",
-    "link": "https://dev.to/mokik81/le-differenze-tra-claude-code-cowork-e-chat-4a1h",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Temporary Cloudflare Accounts for AI agents",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/temporary-cloudflare-accounts-for-ai-agents\" rel=\"noopener noref",
-    "link": "https://dev.to/rasne/temporary-cloudflare-accounts-for-ai-agents-2hdn",
-    "topic": "general"
-  },
-  {
-    "title": "Unleash Your AI: Control Remote Servers with MCP SSH Manager!",
-    "desc": "<h2>\n  \n  \n  Quick Summary: \ud83d\udcdd\n</h2>\n\n<p>MCP SSH Manager is a Node.js server that allows AI models like Claude Code and OpenAI Codex to manag",
-    "link": "https://dev.to/githubopensource/unleash-your-ai-control-remote-servers-with-mcp-ssh-manager-nao",
     "topic": "general"
   }
 ]
