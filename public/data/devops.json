@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Tests Are Green",
-    "desc": "<p>The merge train was green. Canary baked six hours. Dashboards: healthy.<br />\nFriday morning, customers can't get through checkout.<br />",
-    "link": "https://dev.to/imacto/the-tests-are-green-3h9k",
+    "title": "\"Kubernetes Sidecar Pattern Explained: The Secret Helper Container Running Beside Your App\"",
+    "desc": "<p>When developers start learning <a href=\"https://kubernetes.io/\" rel=\"noopener noreferrer\">Kubernetes</a>, they usually focus on <em><stro",
+    "link": "https://dev.to/jatin09/kubernetes-sidecar-pattern-explained-the-secret-helper-container-running-beside-your-app-3l2b",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Homebrew 6.0 sandbox: what the systemd confinement actually does",
+    "desc": "<p>Homebrew 6.0 shipped a Linux sandbox. Here's what that actually means in practice.</p>\n\n<h2>\n  \n  \n  The short version\n</h2>\n\n<p>The sand",
+    "link": "https://dev.to/schiff_heimlich/homebrew-60-sandbox-what-the-systemd-confinement-actually-does-2b0h",
     "topic": "general"
   },
   {
-    "title": "I set up a Node.js production server on Hetzner CX22 for \u20ac4.35/mo \u2014 here's exactly what I ran",
-    "desc": "<p>Most Node.js hosting guides assume you're using DigitalOcean or AWS. I switched to Hetzner CX22 (\u20ac4.35/mo, 2 vCPU, 4GB RAM) and it's been",
-    "link": "https://dev.to/vpsfordev/i-set-up-a-nodejs-production-server-on-hetzner-cx22-for-eu435mo-heres-exactly-what-i-ran-2gp8",
+    "title": "Le differenze tra Claude Code Cowork e Chat",
+    "desc": "<p><strong>Le differenze tra Claude Code Cowork e Chat Testo: il futuro dell'automazione</strong>  </p>\n\n\n\n\n<h3>\n  \n  \n  Perch\u00e8 l'infrastrut",
+    "link": "https://dev.to/mokik81/le-differenze-tra-claude-code-cowork-e-chat-4a1h",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Temporary Cloudflare Accounts for AI agents",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/temporary-cloudflare-accounts-for-ai-agents\" rel=\"noopener noref",
+    "link": "https://dev.to/rasne/temporary-cloudflare-accounts-for-ai-agents-2hdn",
     "topic": "general"
   },
   {
-    "title": "I built an open-source AI that security-reviews every pull request \u2014 and maps each bug to PCI-DSS, SOC 2 & GDPR",
-    "desc": "<p>Code review is where most security bugs are <em>supposed</em> to get caught. In practice it's slow, inconsistent, and depends entirely on",
-    "link": "https://dev.to/noobbatman/i-built-an-open-source-ai-that-security-reviews-every-pull-request-and-maps-each-bug-to-pci-dss-49ob",
+    "title": "Unleash Your AI: Control Remote Servers with MCP SSH Manager!",
+    "desc": "<h2>\n  \n  \n  Quick Summary: \ud83d\udcdd\n</h2>\n\n<p>MCP SSH Manager is a Node.js server that allows AI models like Claude Code and OpenAI Codex to manag",
+    "link": "https://dev.to/githubopensource/unleash-your-ai-control-remote-servers-with-mcp-ssh-manager-nao",
+    "topic": "general"
+  },
+  {
+    "title": "Building an Enterprise Hybrid AI Shield: Adding Remote OTA Updates and Kernel-Level Process Isolation (Rust + C++)",
+    "desc": "<h1>\n  \n  \n  Moving Beyond Static Firewalls: Elevating Cyber Aura to an Enterprise-Grade Endpoint Protection Suite\n</h1>\n\n<p>A few days ago,",
+    "link": "https://dev.to/nikhilsharma987880bot/building-an-enterprise-hybrid-ai-shield-adding-remote-ota-updates-and-kernel-level-process-2b7i",
+    "topic": "general"
+  },
+  {
+    "title": "Free SSL Certificate Checker \u2014 verify expiry, issuer, and chain for any domain",
+    "desc": "<p>Dealing with a browser security warning on a site you manage? Not sure when a Let's Encrypt cert auto-renews? Need to verify the certific",
+    "link": "https://dev.to/at_use_com/free-ssl-certificate-checker-verify-expiry-issuer-and-chain-for-any-domain-6d6",
+    "topic": "general"
+  },
+  {
+    "title": "Ship an AI agent without a kill switch and you are the incident",
+    "desc": "<p>A finance bot kept issuing refunds in a loop because nobody built a way to stop it.</p>\n\n<p>Clean code. Sound logic. No off switch. A sma",
+    "link": "https://dev.to/mjmirza/ship-an-ai-agent-without-a-kill-switch-and-you-are-the-incident-34k4",
     "topic": "secops"
-  },
-  {
-    "title": "The #3 Production Killer in Your LiteLLM Setup: Key Cache Invalidation (and How to Fix It)",
-    "desc": "<blockquote>\n<p>This is the pitfall that cost me 3 hours at 2 AM. If you're running LiteLLM Proxy in production, it will hit you too \u2014 usual",
-    "link": "https://dev.to/ai-gateway-veteran/the-3-production-killer-in-your-litellm-setup-key-cache-invalidation-and-how-to-fix-it-5af5",
-    "topic": "general"
-  },
-  {
-    "title": "Under 20 Sparring Prep: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/under-20-sparring-prep-what-we-learned-building-random-tactical-timer-399d",
-    "topic": "general"
-  },
-  {
-    "title": "Gartner Says 40% of AI Agents Will Be Decommissioned by 2027. The Kill Switch Is Why.",
-    "desc": "<p>Gartner predicts that by 2027, 40% of enterprises will demote or decommission autonomous AI agents due to governance gaps identified only",
-    "link": "https://dev.to/kavinkimcreator/gartner-says-40-of-ai-agents-will-be-decommissioned-by-2027-the-kill-switch-is-why-2do9",
-    "topic": "general"
-  },
-  {
-    "title": "Usage.ai Now Automates AWS Database Savings Plans Across All 10 Eligible Services",
-    "desc": "<p>New York, USA \u2014 June 16, 2026 \u2014 Usage.ai, a cloud cost optimization platform specializing in automated AWS commitment management, has ann",
-    "link": "https://dev.to/aman_singh_414811a9e4168b/usageai-now-automates-aws-database-savings-plans-across-all-10-eligible-services-4hcn",
-    "topic": "aws"
-  },
-  {
-    "title": "Going Serverless with Terraform - Deploying AWS Lambda Functions",
-    "desc": "<p>\ud83d\udc4b Hey there, tech enthusiasts! </p>\n\n<p>I'm Sarvar, a Cloud Architect with a passion for transforming complex technological challenges in",
-    "link": "https://dev.to/aws-builders/going-serverless-with-terraform-deploying-aws-lambda-functions-3klp",
-    "topic": "aws"
   }
 ]
