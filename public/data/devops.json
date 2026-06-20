@@ -1,5 +1,41 @@
 [
   {
+    "title": "Building the Future of Automation: The Al's-Ops LLC Story",
+    "desc": "<p>Hey Dev.to community! \ud83d\udc4b<br />\nI wanted to take a moment to introduce myself and share the journey behind the company I founded. My name i",
+    "link": "https://dev.to/alsops/building-the-future-of-automation-the-als-ops-llc-story-47ih",
+    "topic": "general"
+  },
+  {
+    "title": "Self-hosting a password manager with Vaultwarden: a clean, hardened Docker setup",
+    "desc": "<p>A hosted password manager means trusting a company's servers with the keys to your entire digital life. <a href=\"https://github.com/dani-",
+    "link": "https://dev.to/ricco020/self-hosting-a-password-manager-with-vaultwarden-a-clean-hardened-docker-setup-8em",
+    "topic": "docker"
+  },
+  {
+    "title": "We Cut Our LLM API Bill 30% With Four Lines of YAML",
+    "desc": "<p>Our gateway handles a few thousand LLM calls per hour. Mostly internal tools, some customer-facing agents. We noticed something in the lo",
+    "link": "https://dev.to/paultwist/we-cut-our-llm-api-bill-30-with-four-lines-of-yaml-2p79",
+    "topic": "general"
+  },
+  {
+    "title": "Shieldly Launch Offer: AI-Powered AWS IAM Security from $1.90/Month",
+    "desc": "<p>We launched Shieldly last week \u2014 AI-Powered security analysis for AWS IAM policies, CloudFormation templates, and costs.</p>\n\n<p>The reac",
+    "link": "https://dev.to/jeff_shieldly/shieldly-launch-offer-ai-powered-aws-iam-security-from-190month-29ml",
+    "topic": "aws"
+  },
+  {
+    "title": "quarkus-http-idempotency: APIs seguras de reintentar con el header Idempotency-Key",
+    "desc": "<p>Imagin\u00e1 que pag\u00e1s en l\u00ednea, la p\u00e1gina se traba, hac\u00e9s clic otra vez\u2026 y aparece el miedo de siempre: \u00ab\u00bfme habr\u00e1n cobrado dos veces?\u00bb. Ese ",
+    "link": "https://dev.to/lu1tr0n/quarkus-http-idempotency-apis-seguras-de-reintentar-con-el-header-idempotency-key-23n9",
+    "topic": "general"
+  },
+  {
+    "title": "Buy Verified PayPal Accounts with Quick Delivery",
+    "desc": "<p>Buy Verified PayPal Accounts with Quick Delivery</p>\n\n<p>Verified PayPal Accounts Guide 2026 | Secure Setup & Business Use | Tophireusa</",
+    "link": "https://dev.to/frank_heidy_6dcb5004fb936/buy-verified-paypal-accounts-with-quick-delivery-c31",
+    "topic": "general"
+  },
+  {
     "title": "Migrating a website to a new host with near-zero downtime",
     "desc": "<p>The scary part of moving hosts is the gap where the site is half here and half there. Sequence it right and visitors never notice.</p>\n\n<",
     "link": "https://dev.to/overnighthost/migrating-a-website-to-a-new-host-with-near-zero-downtime-3mh5",
@@ -9,42 +45,6 @@
     "title": "Feature Flags at Scale: Designing a Distributed Control System for Production Behavior",
     "desc": "<h2>\n  \n  \n  The Counterintuitive Truth: Feature Flags Are Not Config Files\n</h2>\n\n<p>Most engineers first encounter feature flags as a simp",
     "link": "https://dev.to/sai_ram_0000/feature-flags-at-scale-designing-a-distributed-control-system-for-production-behavior-2p30",
-    "topic": "general"
-  },
-  {
-    "title": "Self-hosting n8n or Activepieces vs letting someone manage it",
-    "desc": "<p>Open-source workflow automation (n8n, Activepieces) is the privacy-friendly answer to Zapier and Make. The engine is free. The question i",
-    "link": "https://dev.to/overnighthost/self-hosting-n8n-or-activepieces-vs-letting-someone-manage-it-2go1",
-    "topic": "general"
-  },
-  {
-    "title": "How to point a domain at your VPS \u2014 DNS, A records and TLS",
-    "desc": "<p>You have a VPS with a public IP and a domain sitting at a registrar. Connecting the two trips up more people than it should. Here is the ",
-    "link": "https://dev.to/overnighthost/how-to-point-a-domain-at-your-vps-dns-a-records-and-tls-26hl",
-    "topic": "general"
-  },
-  {
-    "title": "When a Secrets Manager Becomes a Costly Bottleneck",
-    "desc": "<p>On March 14th, 2023, our CI pipeline stalled for 187\u202fms per job after we added Vault to a static\u2011config microservice that never fetched n",
-    "link": "https://dev.to/isabelle_dubuis_d858453d7/when-a-secrets-manager-becomes-a-costly-bottleneck-3alo",
-    "topic": "general"
-  },
-  {
-    "title": "10,000 Malicious GitHub Repos: Why AI Dependency Suggestions Are Now a Security Risk",
-    "desc": "<p><em>This article was originally published on <a href=\"https://lucidshark.com/blog/ai-dependency-suggestions-supply-chain-malware-risk\" re",
-    "link": "https://dev.to/toniantunovic/10000-malicious-github-repos-why-ai-dependency-suggestions-are-now-a-security-risk-1pja",
-    "topic": "secops"
-  },
-  {
-    "title": "Brewing in the Cloud: A Coffee Shop's Journey Through AWS by Laura Diaz",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>I'm taking a cloud architecture course delivered by <a href=\"https://www.linkedin.com/company/aws-wic-bu",
-    "link": "https://dev.to/aws-builders/brewing-in-the-cloud-a-coffee-shops-journey-through-aws-by-laura-diaz-2a7p",
-    "topic": "aws"
-  },
-  {
-    "title": "How a Cached React Bundle Sent Production Data to the Wrong Database",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sugan_dev/how-a-cached-react-bundle-sent-production-data-to-the-wrong-database-55n9",
     "topic": "general"
   }
 ]
