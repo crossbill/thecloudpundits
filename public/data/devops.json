@@ -1,5 +1,41 @@
 [
   {
+    "title": "Who Restarted Prod? How to Find It in CloudTrail",
+    "desc": "<h1>\n  \n  \n  Who Restarted Prod? ECS Audit in CloudTrail\n</h1>\n\n<blockquote>\n<p>Originally published at <a href=\"https://fortem.dev/blog/ecs",
+    "link": "https://dev.to/dspv/who-restarted-prod-how-to-find-it-in-cloudtrail-2fda",
+    "topic": "general"
+  },
+  {
+    "title": "What Is ECS Service Connect and Should You Use It?",
+    "desc": "<h1>\n  \n  \n  ECS Service Connect: Is It Worth the Envoy Tax?\n</h1>\n\n<blockquote>\n<p>Originally published at <a href=\"https://fortem.dev/blog",
+    "link": "https://dev.to/dspv/what-is-ecs-service-connect-and-should-you-use-it-362",
+    "topic": "general"
+  },
+  {
+    "title": "AI Agents For Release Notes And Changelog Automation",
+    "desc": "<p>Here's a changelog entry nobody asked for:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>#",
+    "link": "https://dev.to/nazar_boyko/ai-agents-for-release-notes-and-changelog-automation-kia",
+    "topic": "general"
+  },
+  {
+    "title": "Scarab Diagnostic Field Test #034 - Prometheus Docker Swarm Label Source Boundary",
+    "desc": "<p>Target: <a href=\"https://github.com/prometheus/prometheus\" rel=\"noopener noreferrer\">prometheus/prometheus</a></p>\n\n<p>Issue: <a href=\"ht",
+    "link": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-034-prometheus-docker-swarm-label-source-boundary-48ke",
+    "topic": "docker"
+  },
+  {
+    "title": "Ground AI Agents with Workspace Intelligence: A Practical RapidKit Workflow",
+    "desc": "<p>AI agents are useful when they can act.</p>\n\n<p>They are dangerous when they act from incomplete context.</p>\n\n<p>This post is a practica",
+    "link": "https://dev.to/rapidkit/ground-ai-agents-with-workspace-intelligence-a-practical-rapidkit-workflow-oc6",
+    "topic": "general"
+  },
+  {
+    "title": "Uncovering Silent Workflow Failures: Beyond Uptime Dashboards",
+    "desc": "<h2>\n  \n  \n  Introduction to Silent Workflow Failures\n</h2>\n\n<p>The pursuit of operational excellence is a cornerstone of modern software de",
+    "link": "https://dev.to/opsveritas/uncovering-silent-workflow-failures-beyond-uptime-dashboards-1d53",
+    "topic": "general"
+  },
+  {
     "title": "Docker Compose overview",
     "desc": "<p>Docker Compose runs multi-container applications from a single YAML file. One command can start an API, a database, a message broker, and",
     "link": "https://dev.to/zsevic/docker-compose-overview-32h9",
@@ -9,42 +45,6 @@
     "title": "CI/CD Pipelines That Actually Work: From \u201cWhy Is This Broken?\u201d to \u201cI Feel Like Neo\u201d",
     "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Picture this: I\u2019m hunched over my laptop at 2\u202fa.m., coffee cold, staring at a red GitHub",
     "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-from-why-is-this-broken-to-i-feel-like-neo-l2k",
-    "topic": "general"
-  },
-  {
-    "title": "Humanizing Artificial Intelligence in DevOps Documentation: Making Runbooks Easier to Create and Use",
-    "desc": "<h2>\n  \n  \n  The Runbook That Lied to Me at 3am\n</h2>\n\n<p>The pager went off at 3:14am for a wedged OpenStack Neutron agent. I did what any ",
-    "link": "https://dev.to/jjoyneriv/humanizing-artificial-intelligence-in-devops-documentation-making-runbooks-easier-to-create-and-use-4fl7",
-    "topic": "general"
-  },
-  {
-    "title": "Automatisierte Prozesse im Gebrauchtwagen- und Unfallwagenankauf: Eine technische Analyse der Markteffizienz",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/greman_autoguide_ec374e8/automatisierte-prozesse-im-gebrauchtwagen-und-unfallwagenankauf-eine-technische-analyse-der-58i4",
-    "topic": "general"
-  },
-  {
-    "title": "Runbook Hygiene: Why Yours Are Lying to You",
-    "desc": "<p>Your runbooks are out of date. I don't know your team, but I'd bet money on it. Most teams write runbooks once, in a panic after an outag",
-    "link": "https://dev.to/samson_tanimawo/runbook-hygiene-why-yours-are-lying-to-you-2h46",
-    "topic": "general"
-  },
-  {
-    "title": "When Does Fixing AI Code Cost More Than Writing It?",
-    "desc": "<p>AI makes code feel cheap. Repair does not.</p>\n\n<p>That is the part a lot of eng teams miss when they start adding agents into the workfl",
-    "link": "https://dev.to/lonnie_mcrorey/when-does-fixing-ai-code-cost-more-than-writing-it-54k9",
-    "topic": "general"
-  },
-  {
-    "title": "Testing Email Flows in Cypress Without a Mail Server",
-    "desc": "<p>Cypress is one of the most popular E2E testing frameworks for web applications. But testing email flows in Cypress has always required ei",
-    "link": "https://dev.to/zerodrop/testing-email-flows-in-cypress-without-a-mail-server-1bik",
-    "topic": "general"
-  },
-  {
-    "title": "We're building an open-source agentic workflow platform for faith-based ministry \u2014 and nothing is built yet",
-    "desc": "<p>Churches and benevolence ministries have a quiet crisis.</p>\n\n<p>Someone walks through the door in crisis \u2014 rent, food, grief, addiction.",
-    "link": "https://dev.to/sjones2177/were-building-an-open-source-agentic-workflow-platform-for-faith-based-ministry-and-nothing-is-4im5",
     "topic": "general"
   }
 ]
