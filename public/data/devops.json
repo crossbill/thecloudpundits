@@ -1,50 +1,50 @@
 [
   {
-    "title": "NVIDIA Blackwell Sweeps MLPerf Training 6.0: Strong Scaling",
-    "desc": "<p>  \n  \n</p>\n\n<p><strong>What:</strong> On <strong>June 16, 2026</strong>, NVIDIA's <strong>Blackwell</strong> platform posted the fastest ",
-    "link": "https://dev.to/pueding/nvidia-blackwell-sweeps-mlperf-training-60-strong-scaling-2epd",
+    "title": "Vs Combat Conditioning: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/vs-combat-conditioning-what-we-learned-building-random-tactical-timer-fcp",
     "topic": "general"
   },
   {
-    "title": "Stop Paying the Cloud Tax: How to Self-Host GitHub Actions on Bare Metal",
-    "desc": "<p>Cloud CI/CD costs can get out of hand quickly. If your team is running heavy workflows on managed platforms, you have probably noticed th",
-    "link": "https://dev.to/jaksontate/stop-paying-the-cloud-tax-how-to-self-host-github-actions-on-bare-metal-4n3h",
+    "title": "Auto-Healing Server Monitoring: What It Is and Why You Need It",
+    "desc": "<h1>\n  \n  \n  Auto-Healing Server Monitoring: What It Is and Why You Need It\n</h1>\n\n<p>Most monitoring tools do one thing: tell you when some",
+    "link": "https://dev.to/yanlong_wang/auto-healing-server-monitoring-what-it-is-and-why-you-need-it-381o",
     "topic": "general"
   },
   {
-    "title": "NIS2 Directive 2025: What Software Companies Need to Do Now",
-    "desc": "<p>NIS2 (Network and Information Security Directive 2) came into EU law in October 2024. Unlike GDPR, which targets data protection, NIS2 ta",
-    "link": "https://dev.to/toolkitonline/nis2-directive-2025-what-software-companies-need-to-do-now-29m7",
+    "title": "How I Monitor 8 Websites and 3 Payment Flows on a Single $6 VPS",
+    "desc": "<h1>\n  \n  \n  How I Monitor 8 Websites and 3 Payment Flows on a Single $6 VPS\n</h1>\n\n<p>One server. Zero monitoring costs. Catches payment fa",
+    "link": "https://dev.to/yanlong_wang/how-i-monitor-8-websites-and-3-payment-flows-on-a-single-6-vps-4537",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Resource Management: Requests, Limits, and QoS Classes",
-    "desc": "<p>Liquid syntax error: Unknown tag 'endraw'</p>",
-    "link": "https://dev.to/pandey-raghvendra/kubernetes-resource-management-requests-limits-and-qos-classes-5a6h",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "GitOps Explained: How It Works, ArgoCD vs Flux, and When to Use It",
-    "desc": "<p>GitOps is a way of operating infrastructure and applications where Git is the single source of truth for what should be running, and an a",
-    "link": "https://dev.to/pandey-raghvendra/gitops-explained-how-it-works-argocd-vs-flux-and-when-to-use-it-12ke",
+    "title": "Stripe Webhook Monitoring: Catch Payment Failures Before Your Customers Do",
+    "desc": "<h1>\n  \n  \n  Stripe Webhook Monitoring: How to Catch Payment Failures Before Your Customers Do\n</h1>\n\n<p>If you accept payments via Stripe, ",
+    "link": "https://dev.to/yanlong_wang/stripe-webhook-monitoring-catch-payment-failures-before-your-customers-do-453e",
     "topic": "general"
   },
   {
-    "title": "Your auth library's maintainer is an agent who never sleeps",
-    "desc": "<p><strong>The short version:</strong> When the agent that publishes your dependency and the agent that consumes it both run continuously an",
-    "link": "https://dev.to/colonistone_34/your-auth-librarys-maintainer-is-an-agent-who-never-sleeps-208k",
+    "title": "Your Server Is Up But Your Payments Are Down: Why Payment Path Monitoring Matters",
+    "desc": "<h1>\n  \n  \n  Your Server Is Up But Your Payments Are Down\n</h1>\n\n<p>Last month, a SaaS founder posted on Reddit: \"My server was up all weeke",
+    "link": "https://dev.to/yanlong_wang/your-server-is-up-but-your-payments-are-down-why-payment-path-monitoring-matters-5ace",
     "topic": "general"
   },
   {
-    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
-    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
-    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-16mj",
+    "title": "OpsMate vs UptimeRobot vs BetterStack: Which Catches What Actually Matters?",
+    "desc": "<h1>\n  \n  \n  OpsMate vs UptimeRobot vs BetterStack: Which Catches What Actually Matters?\n</h1>\n\n<p>You set up monitoring. Your server stays ",
+    "link": "https://dev.to/yanlong_wang/opsmate-vs-uptimerobot-vs-betterstack-which-catches-what-actually-matters-3ipl",
     "topic": "general"
   },
   {
-    "title": "How the U.S. Government's Intervention is Reshaping AI: The Case of Fable 5 and Mythos 5",
-    "desc": "<h2>\n  \n  \n  How the U.S. Government's Intervention is Reshaping AI: The Case of Fable 5 and Mythos 5\n</h2>\n\n<p>As artificial intelligence (",
-    "link": "https://dev.to/fabiosarmento/how-the-us-governments-intervention-is-reshaping-ai-the-case-of-fable-5-and-mythos-5-3h06",
+    "title": "Show DEV: Stop Tab-Hopping at 2am \u2014 Open-Source APM With an AI Agent Squad",
+    "desc": "<p><strong>2:14am.</strong> Checkout P99 is on fire. Slack wants a root cause in 10 minutes.</p>\n\n<p>You open Grafana. Jaeger. Logs. Topolog",
+    "link": "https://dev.to/databufflabs/open-source-ai-native-apm-on-opentelemetry-5-minute-docker-demo-21g8",
     "topic": "general"
+  },
+  {
+    "title": "The Hidden Complexity of Multi-Backend Container Platforms",
+    "desc": "<p>Container platforms often promise portability.</p>\n\n<p>\"Run anywhere.\"</p>\n\n<p>\"Switch backends anytime.\"</p>\n\n<p>\"Avoid vendor lock-in.\"",
+    "link": "https://dev.to/gravox/the-hidden-complexity-of-multi-backend-container-platforms-3a8k",
+    "topic": "docker"
   }
 ]
