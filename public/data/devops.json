@@ -1,50 +1,50 @@
 [
   {
-    "title": "How Overprovisioning Is Draining Your Cloud Budget",
-    "desc": "<p>\ud83d\ude80 <strong>New Blog Published: How Overprovisioning Is Draining Your Cloud Budget</strong></p>\n\n<p>Many Kubernetes teams focus on scaling ",
-    "link": "https://dev.to/zaved_akthar_7227/how-overprovisioning-is-draining-your-cloud-budget-27p7",
+    "title": "How to Install and Configure Prometheus: A Quick Guide",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ctcservers/how-to-install-and-configure-prometheus-a-quick-guide-2jdo",
     "topic": "general"
   },
   {
-    "title": "Automating Kubernetes Cost Optimization with AI: The Next Frontier in DevOps",
-    "desc": "<p>Kubernetes has revolutionized cloud infrastructure by enabling scalable and resilient applications. However, with growing clusters comes ",
-    "link": "https://dev.to/keerthana_mokila_b10a0bd6/automating-kubernetes-cost-optimization-with-ai-the-next-frontier-in-devops-111e",
-    "topic": "kubernetes"
+    "title": "From AWS Foundations to Microsoft Azure: My First Hands-on Azure Project (Part 1)",
+    "desc": "<p><strong>Introduction</strong></p>\n\n<p>After earning multiple AWS certifications, I decided to expand my cloud engineering experience by e",
+    "link": "https://dev.to/smarty_joy/from-aws-foundations-to-microsoft-azure-my-first-hands-on-azure-project-part-1-5b38",
+    "topic": "aws"
   },
   {
-    "title": "The Real Cost of Idle Pods in Kubernetes",
-    "desc": "<p>\ud83d\udcb8 Are Idle Pods Quietly Increasing Your Kubernetes Bill?</p>\n\n<p>Many Kubernetes teams focus on scaling applications but overlook a major",
-    "link": "https://dev.to/zaved_akthar_7227/the-real-cost-of-idle-pods-in-kubernetes-2549",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Logging-and-Monitoring",
-    "desc": "<h1>\n  \n  \n  Logging and Monitoring\n</h1>\n\n<blockquote>\n<p>Project Code\uff1a<a href=\"https://github.com/hyperlane-dev/hyperlane\" rel=\"noopener n",
-    "link": "https://dev.to/tengxgfyrz67s/logging-and-monitoring-44pi",
+    "title": "SSH Sessions Dropping Frequently? Here's Exactly How I Troubleshoot It",
+    "desc": "<p>Ever had your SSH session disconnect right in the middle of a production deployment?</p>\n\n<p>I have.</p>\n\n<p>After getting burned by it a",
+    "link": "https://dev.to/sreekanth_kuruba_91721e5d/ssh-sessions-dropping-frequently-heres-exactly-how-i-troubleshoot-it-562p",
     "topic": "general"
   },
   {
-    "title": "I Built a Local-First Kafka GUI From Scratch to Handle Massive Clusters",
-    "desc": "<p>Every data engineer or backend developer who has worked with Apache Kafka eventually runs into the same wall: <strong>tooling</strong>. <",
-    "link": "https://dev.to/kezlo/i-built-a-local-first-kafka-gui-from-scratch-to-handle-massive-clusters-cnp",
+    "title": "The Authority Gate, Made Runnable: Fail-Closed Merge Admission for Agent-Written Code",
+    "desc": "<p>Part I \u2014 The Gate, Made Runnable</p>\n\n<p>Every argument for runtime governance eventually meets the same objection: show me. The pre-exec",
+    "link": "https://dev.to/danmercede/the-authority-gate-made-runnable-fail-closed-merge-admission-for-agent-written-code-2199",
     "topic": "general"
   },
   {
-    "title": "IAM Essentials, Identity & Access Management: Roles, Policies, Groups, EC2 & Service Principals",
-    "desc": "<h2>\n  \n  \n  \ud83e\udded What This Session Covers\n</h2>\n\n<blockquote>\n<p>Think of this session as answering one big question:<br /><br />\n<strong>\"Who",
-    "link": "https://dev.to/tejas_shinkar/iam-essentials-identity-access-management-roles-policies-groups-ec2-service-principals-m00",
-    "topic": "secops"
-  },
-  {
-    "title": "AI Tools in 2026: Building Smarter Workflows Instead of Collecting More Apps",
-    "desc": "<p>Artificial intelligence in 2026 looks very different from what many people expected a few years ago.</p>\n\n<p>The conversation has moved f",
-    "link": "https://dev.to/productwatch/ai-tools-in-2026-building-smarter-workflows-instead-of-collecting-more-apps-5549",
+    "title": "GitHub Repositories Distributing Trojan Malware: A Wake-Up Call for Developers",
+    "desc": "<h1>\n  \n  \n  GitHub Repositories Distributing Trojan Malware: A Wake-Up Call for Developers\n</h1>\n\n<h2>\n  \n  \n  What was released / announce",
+    "link": "https://dev.to/naveenmalothu/github-repositories-distributing-trojan-malware-a-wake-up-call-for-developers-4d10",
     "topic": "general"
   },
   {
-    "title": "What's the Most Annoying Part of Incident Response? I Built 5 AI Tools Trying to Solve It",
-    "desc": "<p>Three months ago, I noticed something frustrating.</p>\n\n<p>When incidents happen, engineers often spend more time gathering context than ",
-    "link": "https://dev.to/praveenballari/whats-the-most-annoying-part-of-incident-response-i-built-5-ai-tools-trying-to-solve-it-27gi",
-    "topic": "secops"
+    "title": "Why Does Your Network Proxy Keep Disconnecting at 8 PM? The Engineering Behind IPLC Lines and Node \"Cleanliness\"",
+    "desc": "<p>For remote developers, digital nomads, and cross-border DevOps engineers, network stability is as critical as power supply. We\u2019ve all bee",
+    "link": "https://dev.to/wenrugou/why-does-your-network-proxy-keep-disconnecting-at-8-pm-the-engineering-behind-iplc-lines-and-node-643",
+    "topic": "general"
+  },
+  {
+    "title": "XPayLabs Deployment Guide: Run Your Own Multi-Chain Crypto Payment Gateway",
+    "desc": "<h1>\n  \n  \n  XPayLabs Deployment Guide: Run Your Own Multi-Chain Crypto Payment Gateway\n</h1>\n\n<p><a href=\"https://www.xpaylabs.com\" rel=\"no",
+    "link": "https://dev.to/neilyan/xpaylabs-deployment-guide-run-your-own-multi-chain-crypto-payment-gateway-3afc",
+    "topic": "general"
+  },
+  {
+    "title": "From Home Networking to Enterprise Networking: What Changes Behind the Scenes?",
+    "desc": "<h1>\n  \n  \n  From Home Networking to Enterprise Networking: What Changes Behind the Scenes?\n</h1>\n\n<p>For a long time, networking felt relat",
+    "link": "https://dev.to/micheal_angelo_41cea4e81a/from-home-networking-to-enterprise-networking-what-changes-behind-the-scenes-1h6l",
+    "topic": "general"
   }
 ]
