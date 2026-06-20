@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building the Future of Automation: The Al's-Ops LLC Story",
-    "desc": "<p>Hey Dev.to community! \ud83d\udc4b<br />\nI wanted to take a moment to introduce myself and share the journey behind the company I founded. My name i",
-    "link": "https://dev.to/alsops/building-the-future-of-automation-the-als-ops-llc-story-47ih",
-    "topic": "general"
+    "title": "Not Everyone Needs Kubernetes",
+    "desc": "<p>A few months ago, while discussing the architecture for a new client project, a junior engineer on the team asked, \"Of course we'll use K",
+    "link": "https://dev.to/merbayerp/not-everyone-needs-kubernetes-3m32",
+    "topic": "kubernetes"
   },
   {
-    "title": "Self-hosting a password manager with Vaultwarden: a clean, hardened Docker setup",
-    "desc": "<p>A hosted password manager means trusting a company's servers with the keys to your entire digital life. <a href=\"https://github.com/dani-",
-    "link": "https://dev.to/ricco020/self-hosting-a-password-manager-with-vaultwarden-a-clean-hardened-docker-setup-8em",
-    "topic": "docker"
-  },
-  {
-    "title": "We Cut Our LLM API Bill 30% With Four Lines of YAML",
-    "desc": "<p>Our gateway handles a few thousand LLM calls per hour. Mostly internal tools, some customer-facing agents. We noticed something in the lo",
-    "link": "https://dev.to/paultwist/we-cut-our-llm-api-bill-30-with-four-lines-of-yaml-2p79",
-    "topic": "general"
-  },
-  {
-    "title": "Shieldly Launch Offer: AI-Powered AWS IAM Security from $1.90/Month",
-    "desc": "<p>We launched Shieldly last week \u2014 AI-Powered security analysis for AWS IAM policies, CloudFormation templates, and costs.</p>\n\n<p>The reac",
-    "link": "https://dev.to/jeff_shieldly/shieldly-launch-offer-ai-powered-aws-iam-security-from-190month-29ml",
+    "title": "100 Days of DevOps, Day 1: Linux User Management and AWS Key Pairs",
+    "desc": "<p>Doing the work and being able to explain the work are two different skills. <br />\nI've had the first one for 8 years. I'm building the s",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-day-1-linux-user-management-and-aws-key-pairs-3bci",
     "topic": "aws"
   },
   {
-    "title": "quarkus-http-idempotency: APIs seguras de reintentar con el header Idempotency-Key",
-    "desc": "<p>Imagin\u00e1 que pag\u00e1s en l\u00ednea, la p\u00e1gina se traba, hac\u00e9s clic otra vez\u2026 y aparece el miedo de siempre: \u00ab\u00bfme habr\u00e1n cobrado dos veces?\u00bb. Ese ",
-    "link": "https://dev.to/lu1tr0n/quarkus-http-idempotency-apis-seguras-de-reintentar-con-el-header-idempotency-key-23n9",
+    "title": "Nginx local setup",
+    "desc": "<p>Nginx is a reverse proxy and web server. On a local machine it can sit on port 80 and route traffic to apps running on other ports - a fr",
+    "link": "https://dev.to/zsevic/nginx-local-setup-4idd",
     "topic": "general"
   },
   {
-    "title": "Buy Verified PayPal Accounts with Quick Delivery",
-    "desc": "<p>Buy Verified PayPal Accounts with Quick Delivery</p>\n\n<p>Verified PayPal Accounts Guide 2026 | Secure Setup & Business Use | Tophireusa</",
-    "link": "https://dev.to/frank_heidy_6dcb5004fb936/buy-verified-paypal-accounts-with-quick-delivery-c31",
+    "title": "No Silver Bullets: Engineering a Multi-Tenant CI Platform a Small Team Can Run",
+    "desc": "<p><em>A deep, teaching walkthrough of how Cisco's internal Forge deployment runs ~40 teams and ~10,000 GitHub Actions jobs a day on AWS \u2014 a",
+    "link": "https://dev.to/edersonbrilhante/no-silver-bullets-engineering-a-multi-tenant-ci-platform-a-small-team-can-run-if",
     "topic": "general"
   },
   {
-    "title": "Migrating a website to a new host with near-zero downtime",
-    "desc": "<p>The scary part of moving hosts is the gap where the site is half here and half there. Sequence it right and visitors never notice.</p>\n\n<",
-    "link": "https://dev.to/overnighthost/migrating-a-website-to-a-new-host-with-near-zero-downtime-3mh5",
+    "title": "Choosing Your First SLI: A Decision Framework for New SRE Teams",
+    "desc": "<p>New SRE teams ask the same question: what should we measure first? The temptation is to track everything CPU, memory, latency, error rate",
+    "link": "https://dev.to/samson_tanimawo/choosing-your-first-sli-a-decision-framework-for-new-sre-teams-47jk",
     "topic": "general"
   },
   {
-    "title": "Feature Flags at Scale: Designing a Distributed Control System for Production Behavior",
-    "desc": "<h2>\n  \n  \n  The Counterintuitive Truth: Feature Flags Are Not Config Files\n</h2>\n\n<p>Most engineers first encounter feature flags as a simp",
-    "link": "https://dev.to/sai_ram_0000/feature-flags-at-scale-designing-a-distributed-control-system-for-production-behavior-2p30",
+    "title": "I Built a CLI to Stop Missing Env Vars from Breaking Deployments",
+    "desc": "<p>Environment variables look boring until they break a deployment.</p>\n\n<p>I kept running into the same kind of problem while building Type",
+    "link": "https://dev.to/jordachmakaya/i-built-a-cli-to-stop-missing-env-vars-from-breaking-deployments-59ke",
+    "topic": "general"
+  },
+  {
+    "title": "Everything Was Green. Production Was Failing.",
+    "desc": "<p><em>Originally published on my Hashnode blog. This version has been adapted for the DEV community.</em></p>\n\n<blockquote>\n<p><strong>Conf",
+    "link": "https://dev.to/pavanbhatia/everything-was-green-production-was-failing-ddh",
+    "topic": "general"
+  },
+  {
+    "title": "Recover a deleted Deployment from a Retain-policy volume (CKA Storage)",
+    "desc": "<h2>\n  \n  \n  The Retained Volume\n</h2>\n\n<p>Someone deleted a database deployment by accident. The good news: the data is still on disk. In t",
+    "link": "https://dev.to/thecybersidekick/recover-a-deleted-deployment-from-a-retain-policy-volume-cka-storage-5cjc",
     "topic": "general"
   }
 ]
