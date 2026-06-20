@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Install and Configure Prometheus: A Quick Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ctcservers/how-to-install-and-configure-prometheus-a-quick-guide-2jdo",
+    "title": "NVIDIA Blackwell Sweeps MLPerf Training 6.0: Strong Scaling",
+    "desc": "<p>  \n  \n</p>\n\n<p><strong>What:</strong> On <strong>June 16, 2026</strong>, NVIDIA's <strong>Blackwell</strong> platform posted the fastest ",
+    "link": "https://dev.to/pueding/nvidia-blackwell-sweeps-mlperf-training-60-strong-scaling-2epd",
     "topic": "general"
   },
   {
-    "title": "From AWS Foundations to Microsoft Azure: My First Hands-on Azure Project (Part 1)",
-    "desc": "<p><strong>Introduction</strong></p>\n\n<p>After earning multiple AWS certifications, I decided to expand my cloud engineering experience by e",
-    "link": "https://dev.to/smarty_joy/from-aws-foundations-to-microsoft-azure-my-first-hands-on-azure-project-part-1-5b38",
-    "topic": "aws"
-  },
-  {
-    "title": "SSH Sessions Dropping Frequently? Here's Exactly How I Troubleshoot It",
-    "desc": "<p>Ever had your SSH session disconnect right in the middle of a production deployment?</p>\n\n<p>I have.</p>\n\n<p>After getting burned by it a",
-    "link": "https://dev.to/sreekanth_kuruba_91721e5d/ssh-sessions-dropping-frequently-heres-exactly-how-i-troubleshoot-it-562p",
+    "title": "Stop Paying the Cloud Tax: How to Self-Host GitHub Actions on Bare Metal",
+    "desc": "<p>Cloud CI/CD costs can get out of hand quickly. If your team is running heavy workflows on managed platforms, you have probably noticed th",
+    "link": "https://dev.to/jaksontate/stop-paying-the-cloud-tax-how-to-self-host-github-actions-on-bare-metal-4n3h",
     "topic": "general"
   },
   {
-    "title": "The Authority Gate, Made Runnable: Fail-Closed Merge Admission for Agent-Written Code",
-    "desc": "<p>Part I \u2014 The Gate, Made Runnable</p>\n\n<p>Every argument for runtime governance eventually meets the same objection: show me. The pre-exec",
-    "link": "https://dev.to/danmercede/the-authority-gate-made-runnable-fail-closed-merge-admission-for-agent-written-code-2199",
+    "title": "NIS2 Directive 2025: What Software Companies Need to Do Now",
+    "desc": "<p>NIS2 (Network and Information Security Directive 2) came into EU law in October 2024. Unlike GDPR, which targets data protection, NIS2 ta",
+    "link": "https://dev.to/toolkitonline/nis2-directive-2025-what-software-companies-need-to-do-now-29m7",
     "topic": "general"
   },
   {
-    "title": "GitHub Repositories Distributing Trojan Malware: A Wake-Up Call for Developers",
-    "desc": "<h1>\n  \n  \n  GitHub Repositories Distributing Trojan Malware: A Wake-Up Call for Developers\n</h1>\n\n<h2>\n  \n  \n  What was released / announce",
-    "link": "https://dev.to/naveenmalothu/github-repositories-distributing-trojan-malware-a-wake-up-call-for-developers-4d10",
+    "title": "Kubernetes Resource Management: Requests, Limits, and QoS Classes",
+    "desc": "<p>Liquid syntax error: Unknown tag 'endraw'</p>",
+    "link": "https://dev.to/pandey-raghvendra/kubernetes-resource-management-requests-limits-and-qos-classes-5a6h",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "GitOps Explained: How It Works, ArgoCD vs Flux, and When to Use It",
+    "desc": "<p>GitOps is a way of operating infrastructure and applications where Git is the single source of truth for what should be running, and an a",
+    "link": "https://dev.to/pandey-raghvendra/gitops-explained-how-it-works-argocd-vs-flux-and-when-to-use-it-12ke",
     "topic": "general"
   },
   {
-    "title": "Why Does Your Network Proxy Keep Disconnecting at 8 PM? The Engineering Behind IPLC Lines and Node \"Cleanliness\"",
-    "desc": "<p>For remote developers, digital nomads, and cross-border DevOps engineers, network stability is as critical as power supply. We\u2019ve all bee",
-    "link": "https://dev.to/wenrugou/why-does-your-network-proxy-keep-disconnecting-at-8-pm-the-engineering-behind-iplc-lines-and-node-643",
+    "title": "Your auth library's maintainer is an agent who never sleeps",
+    "desc": "<p><strong>The short version:</strong> When the agent that publishes your dependency and the agent that consumes it both run continuously an",
+    "link": "https://dev.to/colonistone_34/your-auth-librarys-maintainer-is-an-agent-who-never-sleeps-208k",
     "topic": "general"
   },
   {
-    "title": "XPayLabs Deployment Guide: Run Your Own Multi-Chain Crypto Payment Gateway",
-    "desc": "<h1>\n  \n  \n  XPayLabs Deployment Guide: Run Your Own Multi-Chain Crypto Payment Gateway\n</h1>\n\n<p><a href=\"https://www.xpaylabs.com\" rel=\"no",
-    "link": "https://dev.to/neilyan/xpaylabs-deployment-guide-run-your-own-multi-chain-crypto-payment-gateway-3afc",
+    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
+    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
+    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-16mj",
     "topic": "general"
   },
   {
-    "title": "From Home Networking to Enterprise Networking: What Changes Behind the Scenes?",
-    "desc": "<h1>\n  \n  \n  From Home Networking to Enterprise Networking: What Changes Behind the Scenes?\n</h1>\n\n<p>For a long time, networking felt relat",
-    "link": "https://dev.to/micheal_angelo_41cea4e81a/from-home-networking-to-enterprise-networking-what-changes-behind-the-scenes-1h6l",
+    "title": "How the U.S. Government's Intervention is Reshaping AI: The Case of Fable 5 and Mythos 5",
+    "desc": "<h2>\n  \n  \n  How the U.S. Government's Intervention is Reshaping AI: The Case of Fable 5 and Mythos 5\n</h2>\n\n<p>As artificial intelligence (",
+    "link": "https://dev.to/fabiosarmento/how-the-us-governments-intervention-is-reshaping-ai-the-case-of-fable-5-and-mythos-5-3h06",
     "topic": "general"
   }
 ]
