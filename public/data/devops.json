@@ -1,50 +1,50 @@
 [
   {
-    "title": "Vs Combat Conditioning: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/vs-combat-conditioning-what-we-learned-building-random-tactical-timer-fcp",
+    "title": "I Thought I Was Building a Diagnostic Tool. I Found an Operating Layer for AI Agents.",
+    "desc": "<p>When Scarab Diagnostic Suite started taking shape, I thought I was building diagnostics.</p>\n\n<p>That was the obvious word for it.</p>\n\n<",
+    "link": "https://dev.to/scarab-systems/i-thought-i-was-building-a-diagnostic-tool-i-found-an-operating-layer-for-ai-agents-5b3e",
     "topic": "general"
   },
   {
-    "title": "Auto-Healing Server Monitoring: What It Is and Why You Need It",
-    "desc": "<h1>\n  \n  \n  Auto-Healing Server Monitoring: What It Is and Why You Need It\n</h1>\n\n<p>Most monitoring tools do one thing: tell you when some",
-    "link": "https://dev.to/yanlong_wang/auto-healing-server-monitoring-what-it-is-and-why-you-need-it-381o",
-    "topic": "general"
+    "title": "I Built My First Azure Virtual Machine From Scratch and Hosted a Website Using Apache2 \ud83c\udf10",
+    "desc": "<h1>\n  \n  \n  Building My First Azure Virtual Machine From the Ground Up \ud83d\ude80\n</h1>\n\n<p>In this post, I'll walk you through <strong>exactly</str",
+    "link": "https://dev.to/4thman/i-built-my-first-azure-vm-from-scratch-and-hosted-a-live-website-1ob0",
+    "topic": "azure"
   },
   {
-    "title": "How I Monitor 8 Websites and 3 Payment Flows on a Single $6 VPS",
-    "desc": "<h1>\n  \n  \n  How I Monitor 8 Websites and 3 Payment Flows on a Single $6 VPS\n</h1>\n\n<p>One server. Zero monitoring costs. Catches payment fa",
-    "link": "https://dev.to/yanlong_wang/how-i-monitor-8-websites-and-3-payment-flows-on-a-single-6-vps-4537",
-    "topic": "general"
-  },
-  {
-    "title": "Stripe Webhook Monitoring: Catch Payment Failures Before Your Customers Do",
-    "desc": "<h1>\n  \n  \n  Stripe Webhook Monitoring: How to Catch Payment Failures Before Your Customers Do\n</h1>\n\n<p>If you accept payments via Stripe, ",
-    "link": "https://dev.to/yanlong_wang/stripe-webhook-monitoring-catch-payment-failures-before-your-customers-do-453e",
-    "topic": "general"
-  },
-  {
-    "title": "Your Server Is Up But Your Payments Are Down: Why Payment Path Monitoring Matters",
-    "desc": "<h1>\n  \n  \n  Your Server Is Up But Your Payments Are Down\n</h1>\n\n<p>Last month, a SaaS founder posted on Reddit: \"My server was up all weeke",
-    "link": "https://dev.to/yanlong_wang/your-server-is-up-but-your-payments-are-down-why-payment-path-monitoring-matters-5ace",
-    "topic": "general"
-  },
-  {
-    "title": "OpsMate vs UptimeRobot vs BetterStack: Which Catches What Actually Matters?",
-    "desc": "<h1>\n  \n  \n  OpsMate vs UptimeRobot vs BetterStack: Which Catches What Actually Matters?\n</h1>\n\n<p>You set up monitoring. Your server stays ",
-    "link": "https://dev.to/yanlong_wang/opsmate-vs-uptimerobot-vs-betterstack-which-catches-what-actually-matters-3ipl",
-    "topic": "general"
-  },
-  {
-    "title": "Show DEV: Stop Tab-Hopping at 2am \u2014 Open-Source APM With an AI Agent Squad",
-    "desc": "<p><strong>2:14am.</strong> Checkout P99 is on fire. Slack wants a root cause in 10 minutes.</p>\n\n<p>You open Grafana. Jaeger. Logs. Topolog",
-    "link": "https://dev.to/databufflabs/open-source-ai-native-apm-on-opentelemetry-5-minute-docker-demo-21g8",
-    "topic": "general"
-  },
-  {
-    "title": "The Hidden Complexity of Multi-Backend Container Platforms",
-    "desc": "<p>Container platforms often promise portability.</p>\n\n<p>\"Run anywhere.\"</p>\n\n<p>\"Switch backends anytime.\"</p>\n\n<p>\"Avoid vendor lock-in.\"",
-    "link": "https://dev.to/gravox/the-hidden-complexity-of-multi-backend-container-platforms-3a8k",
+    "title": "Zero-Config Docker Deployment: Auto-Provisioning Your Self-Hosted Crypto Wallet",
+    "desc": "<h1>\n  \n  \n  Zero-Config Docker Deployment: Auto-Provisioning Your Self-Hosted Crypto Wallet\n</h1>\n\n<p>Docker makes running your own self-ho",
+    "link": "https://dev.to/walletguy/zero-config-docker-deployment-auto-provisioning-your-self-hosted-crypto-wallet-293n",
     "topic": "docker"
+  },
+  {
+    "title": "I built a service that turns GitHub PRs to customer readable changelogs",
+    "desc": "<p>Nobody reads your PR titles. Especially not your users.</p>\n\n<p>You merge \"fix: offset bug in pagination endpoint\" and your PM asks, \"so ",
+    "link": "https://dev.to/20sid02/i-built-a-service-that-turns-github-prs-to-customer-readable-changelogs-5611",
+    "topic": "general"
+  },
+  {
+    "title": "AWS IAM Least Privilege: A Practical Guide to Scoping Down Policies",
+    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://www.shieldly.io/blog/\" rel=\"noopener noreferrer\">shieldly.io/blog</a>.</em></p>",
+    "link": "https://dev.to/jeff_shieldly/aws-iam-least-privilege-a-practical-guide-to-scoping-down-policies-249a",
+    "topic": "aws"
+  },
+  {
+    "title": "AWS IAM Privilege Escalation: Common Paths and How to Catch Them",
+    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://www.shieldly.io/blog/\" rel=\"noopener noreferrer\">shieldly.io/blog</a>.</em></p>",
+    "link": "https://dev.to/jeff_shieldly/aws-iam-privilege-escalation-common-paths-and-how-to-catch-them-15an",
+    "topic": "aws"
+  },
+  {
+    "title": "Why Wildcards in AWS IAM Policies Are Dangerous (and How to Fix Them)",
+    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://www.shieldly.io/blog/\" rel=\"noopener noreferrer\">shieldly.io/blog</a>.</em></p>",
+    "link": "https://dev.to/jeff_shieldly/why-wildcards-in-aws-iam-policies-are-dangerous-and-how-to-fix-them-15e5",
+    "topic": "aws"
+  },
+  {
+    "title": "Securing Remote SMB Branches: Edge-First SOC vs. Cloud-Native SIEM",
+    "desc": "<h2>\n  \n  \n  The Crisis of Distributed SMB Security\n</h2>\n\n<p>In the modern cybersecurity landscape, the traditional concept of a 'hardened ",
+    "link": "https://dev.to/hookprobe/securing-remote-smb-branches-edge-first-soc-vs-cloud-native-siem-196c",
+    "topic": "general"
   }
 ]
