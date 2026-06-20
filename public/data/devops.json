@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Thought I Was Building a Diagnostic Tool. I Found an Operating Layer for AI Agents.",
-    "desc": "<p>When Scarab Diagnostic Suite started taking shape, I thought I was building diagnostics.</p>\n\n<p>That was the obvious word for it.</p>\n\n<",
-    "link": "https://dev.to/scarab-systems/i-thought-i-was-building-a-diagnostic-tool-i-found-an-operating-layer-for-ai-agents-5b3e",
+    "title": "Migrating a website to a new host with near-zero downtime",
+    "desc": "<p>The scary part of moving hosts is the gap where the site is half here and half there. Sequence it right and visitors never notice.</p>\n\n<",
+    "link": "https://dev.to/overnighthost/migrating-a-website-to-a-new-host-with-near-zero-downtime-3mh5",
     "topic": "general"
   },
   {
-    "title": "I Built My First Azure Virtual Machine From Scratch and Hosted a Website Using Apache2 \ud83c\udf10",
-    "desc": "<h1>\n  \n  \n  Building My First Azure Virtual Machine From the Ground Up \ud83d\ude80\n</h1>\n\n<p>In this post, I'll walk you through <strong>exactly</str",
-    "link": "https://dev.to/4thman/i-built-my-first-azure-vm-from-scratch-and-hosted-a-live-website-1ob0",
-    "topic": "azure"
-  },
-  {
-    "title": "Zero-Config Docker Deployment: Auto-Provisioning Your Self-Hosted Crypto Wallet",
-    "desc": "<h1>\n  \n  \n  Zero-Config Docker Deployment: Auto-Provisioning Your Self-Hosted Crypto Wallet\n</h1>\n\n<p>Docker makes running your own self-ho",
-    "link": "https://dev.to/walletguy/zero-config-docker-deployment-auto-provisioning-your-self-hosted-crypto-wallet-293n",
-    "topic": "docker"
-  },
-  {
-    "title": "I built a service that turns GitHub PRs to customer readable changelogs",
-    "desc": "<p>Nobody reads your PR titles. Especially not your users.</p>\n\n<p>You merge \"fix: offset bug in pagination endpoint\" and your PM asks, \"so ",
-    "link": "https://dev.to/20sid02/i-built-a-service-that-turns-github-prs-to-customer-readable-changelogs-5611",
+    "title": "Feature Flags at Scale: Designing a Distributed Control System for Production Behavior",
+    "desc": "<h2>\n  \n  \n  The Counterintuitive Truth: Feature Flags Are Not Config Files\n</h2>\n\n<p>Most engineers first encounter feature flags as a simp",
+    "link": "https://dev.to/sai_ram_0000/feature-flags-at-scale-designing-a-distributed-control-system-for-production-behavior-2p30",
     "topic": "general"
   },
   {
-    "title": "AWS IAM Least Privilege: A Practical Guide to Scoping Down Policies",
-    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://www.shieldly.io/blog/\" rel=\"noopener noreferrer\">shieldly.io/blog</a>.</em></p>",
-    "link": "https://dev.to/jeff_shieldly/aws-iam-least-privilege-a-practical-guide-to-scoping-down-policies-249a",
+    "title": "Self-hosting n8n or Activepieces vs letting someone manage it",
+    "desc": "<p>Open-source workflow automation (n8n, Activepieces) is the privacy-friendly answer to Zapier and Make. The engine is free. The question i",
+    "link": "https://dev.to/overnighthost/self-hosting-n8n-or-activepieces-vs-letting-someone-manage-it-2go1",
+    "topic": "general"
+  },
+  {
+    "title": "How to point a domain at your VPS \u2014 DNS, A records and TLS",
+    "desc": "<p>You have a VPS with a public IP and a domain sitting at a registrar. Connecting the two trips up more people than it should. Here is the ",
+    "link": "https://dev.to/overnighthost/how-to-point-a-domain-at-your-vps-dns-a-records-and-tls-26hl",
+    "topic": "general"
+  },
+  {
+    "title": "When a Secrets Manager Becomes a Costly Bottleneck",
+    "desc": "<p>On March 14th, 2023, our CI pipeline stalled for 187\u202fms per job after we added Vault to a static\u2011config microservice that never fetched n",
+    "link": "https://dev.to/isabelle_dubuis_d858453d7/when-a-secrets-manager-becomes-a-costly-bottleneck-3alo",
+    "topic": "general"
+  },
+  {
+    "title": "10,000 Malicious GitHub Repos: Why AI Dependency Suggestions Are Now a Security Risk",
+    "desc": "<p><em>This article was originally published on <a href=\"https://lucidshark.com/blog/ai-dependency-suggestions-supply-chain-malware-risk\" re",
+    "link": "https://dev.to/toniantunovic/10000-malicious-github-repos-why-ai-dependency-suggestions-are-now-a-security-risk-1pja",
+    "topic": "secops"
+  },
+  {
+    "title": "Brewing in the Cloud: A Coffee Shop's Journey Through AWS by Laura Diaz",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>I'm taking a cloud architecture course delivered by <a href=\"https://www.linkedin.com/company/aws-wic-bu",
+    "link": "https://dev.to/aws-builders/brewing-in-the-cloud-a-coffee-shops-journey-through-aws-by-laura-diaz-2a7p",
     "topic": "aws"
   },
   {
-    "title": "AWS IAM Privilege Escalation: Common Paths and How to Catch Them",
-    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://www.shieldly.io/blog/\" rel=\"noopener noreferrer\">shieldly.io/blog</a>.</em></p>",
-    "link": "https://dev.to/jeff_shieldly/aws-iam-privilege-escalation-common-paths-and-how-to-catch-them-15an",
-    "topic": "aws"
-  },
-  {
-    "title": "Why Wildcards in AWS IAM Policies Are Dangerous (and How to Fix Them)",
-    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://www.shieldly.io/blog/\" rel=\"noopener noreferrer\">shieldly.io/blog</a>.</em></p>",
-    "link": "https://dev.to/jeff_shieldly/why-wildcards-in-aws-iam-policies-are-dangerous-and-how-to-fix-them-15e5",
-    "topic": "aws"
-  },
-  {
-    "title": "Securing Remote SMB Branches: Edge-First SOC vs. Cloud-Native SIEM",
-    "desc": "<h2>\n  \n  \n  The Crisis of Distributed SMB Security\n</h2>\n\n<p>In the modern cybersecurity landscape, the traditional concept of a 'hardened ",
-    "link": "https://dev.to/hookprobe/securing-remote-smb-branches-edge-first-soc-vs-cloud-native-siem-196c",
+    "title": "How a Cached React Bundle Sent Production Data to the Wrong Database",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/sugan_dev/how-a-cached-react-bundle-sent-production-data-to-the-wrong-database-55n9",
     "topic": "general"
   }
 ]
