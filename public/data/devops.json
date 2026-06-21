@@ -1,50 +1,50 @@
 [
   {
+    "title": "New Shiny AWS FinOps Toys?",
+    "desc": "<blockquote>\n<p>Originally published at <a href=\"https://www.vaines.org/posts/2026-06-21-new-shiny-aws-finops-toys/\" rel=\"noopener noreferre",
+    "link": "https://dev.to/avaines/new-shiny-aws-finops-toys-1do6",
+    "topic": "aws"
+  },
+  {
+    "title": "Agent demos are easy. Agent operations need receipts.",
+    "desc": "<p>I keep seeing the same pattern with AI agents: the demo works, the first workflow is exciting, and then the boring operational questions ",
+    "link": "https://dev.to/armorer_labs/agent-demos-are-easy-agent-operations-need-receipts-2315",
+    "topic": "general"
+  },
+  {
+    "title": "The Budget-Friendly Monolith: Rails File Uploads with Cloudflare R2",
+    "desc": "<p>If you have been using AWS S3 for your Rails file uploads, you know the pain of the monthly bill. It\u2019s not just the storage cost; it\u2019s th",
+    "link": "https://dev.to/zilton7/the-budget-friendly-monolith-rails-file-uploads-with-cloudflare-r2-29ml",
+    "topic": "general"
+  },
+  {
+    "title": "Virtual Machines Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 14 \u2013 Jun 20, 2026",
+    "desc": "<h2>\n  \n  \n  \ud83d\udda5\ufe0f Virtual Machines \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 14 \u2013 Jun 20, 2026 | <strong>Total r",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-14-jun-20-2026-5bj3",
+    "topic": "aws"
+  },
+  {
+    "title": "APIs with `requests`, HTTP Methods & Status Codes, API Authentication, Boto3 (AWS SDK) Intro",
+    "desc": "<h2>\n  \n  \n  \ud83d\udccc Key Concepts Overview\n</h2>\n\n<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n<th>Concept</th>\n<th>One-Line Definiti",
+    "link": "https://dev.to/tejas_shinkar/apis-with-requests-http-methods-status-codes-api-authentication-boto3-aws-sdk-intro-4gd3",
+    "topic": "aws"
+  },
+  {
+    "title": "Exception Handling (`else`/`finally`, `raise`, Debugging Tools) + Regular Expressions (`re` module)",
+    "desc": "<h2>\n  \n  \n  \ud83d\udccc Key Concepts Overview\n</h2>\n\n<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n<th>Concept</th>\n<th>One-Line Definiti",
+    "link": "https://dev.to/tejas_shinkar/exception-handling-elsefinally-raise-debugging-tools-regular-expressions-re-module-4f7i",
+    "topic": "general"
+  },
+  {
+    "title": "Some friends wanted to see how I use DigitalOcean. So I built them the smallest real app I could.",
+    "desc": "<p>A couple of friends know I host most of my side projects on DigitalOcean, and lately they've been asking the same thing: <em>\"Okay, but h",
+    "link": "https://dev.to/dimitrovk/some-friends-wanted-to-see-how-i-use-digitalocean-so-i-built-them-the-smallest-real-app-i-could-238l",
+    "topic": "general"
+  },
+  {
     "title": "Your Terraform State Is Lying to You. I Built the Tool That Proves It.",
     "desc": "<h2>\n  \n  \n  The Quiet Failure Mode Every AWS Team Pretends Doesn't Exist I Found the Gap Every DevOps Tool Stopped Short Of Closing Nobody ",
     "link": "https://dev.to/edwindevops/your-terraform-state-is-lying-to-you-i-built-the-tool-that-proves-it-ck9",
     "topic": "terraform"
-  },
-  {
-    "title": "vSAN for Mixed Workloads: Policy Design and the OSA-to-ESA Transition",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>What is vSAN OSA & ESA?</strong><br />\nVMware vSAN Original Storage Architecture (OSA) is the legacy disk-group-ba",
-    "link": "https://dev.to/errorbudget/vsan-for-mixed-workloads-policy-design-and-the-osa-to-esa-transition-24jp",
-    "topic": "general"
-  },
-  {
-    "title": "Linux Command Line Tricks Every Developer Must Know",
-    "desc": "<h1>\n  \n  \n  Linux Command Line Tricks Every Developer Must Know\n</h1>\n\n<p>As a developer, you're likely no stranger to the Linux command li",
-    "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-3n59",
-    "topic": "general"
-  },
-  {
-    "title": "Your Documentation Isn't the Problem. Your Governance Is.",
-    "desc": "<p>Most teams think repository failures come from weak documentation.</p>\n\n<p>Usually, they do not.</p>\n\n<p>The README exists.</p>\n\n<p>There",
-    "link": "https://dev.to/otaready/your-documentation-isnt-the-problem-your-governance-is-31ba",
-    "topic": "general"
-  },
-  {
-    "title": "The Spirit of Curiosity: Randy Bias on the Future of AI Operations | The Root Cause",
-    "desc": "<p>In this episode of <strong>The Root Cause</strong>, Priyank Upadhyay sits down with <strong>Randy Bias</strong> to talk about the part of",
-    "link": "https://dev.to/rubixkube/the-spirit-of-curiosity-randy-bias-on-the-future-of-ai-operations-the-root-cause-49d2",
-    "topic": "general"
-  },
-  {
-    "title": "How I accidentally learned email infrastructure while trying to avoid a SendGrid bill",
-    "desc": "<ul>\n<li><strong><em>Why am I paying for this when I can host it myself?</em></strong></li>\n<li><strong><em>The hidden subscription fee: you",
-    "link": "https://dev.to/tymoteuszgluch/how-i-accidentally-learned-email-infrastructure-while-trying-to-avoid-a-sendgrid-bill-5e6a",
-    "topic": "general"
-  },
-  {
-    "title": "I Pulled My Data From the Cloud: Do I Regret It?",
-    "desc": "<p>A year ago, when we migrated the critical ERP data and the entire application of a mid-sized manufacturing company from the cloud to our ",
-    "link": "https://dev.to/merbayerp/i-pulled-my-data-from-the-cloud-do-i-regret-it-1dbh",
-    "topic": "general"
-  },
-  {
-    "title": "Agent Session Memory Isn't a Feature. It's Your Control Plane.",
-    "desc": "<h1>\n  \n  \n  Agent Session Memory Isn't a Feature. It's Your Control Plane.\n</h1>\n\n<p>When I say \"agent memory problem,\" most teams think I'",
-    "link": "https://dev.to/paultwist/agent-session-memory-isnt-a-feature-its-your-control-plane-1c2p",
-    "topic": "general"
   }
 ]
