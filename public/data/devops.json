@@ -1,5 +1,23 @@
 [
   {
+    "title": "Trunk-Based Development Working for Salesforce Without a Single Org",
+    "desc": "<p>I've wanted easy trunk-based development for Salesforce for years.</p>\n\n<p>Short-lived branches, frequent merges, small pull requests, an",
+    "link": "https://dev.to/oblitus/trunk-based-development-working-for-salesforce-without-a-single-org-531f",
+    "topic": "general"
+  },
+  {
+    "title": "Building Resilient Automation Stacks for Incident Survival",
+    "desc": "<h2>\n  \n  \n  Introduction to Resilient Automation\n</h2>\n\n<p>Automating workflows and processes is crucial for modern organizations, but it's",
+    "link": "https://dev.to/opsveritas/building-resilient-automation-stacks-for-incident-survival-6fp",
+    "topic": "secops"
+  },
+  {
+    "title": "Supervising 13 always-on processes without Kubernetes: the log-freshness health check that ended my 3 a.m. babysitting",
+    "desc": "<p>I'm a solo builder. At any given moment I have a handful of always-on processes earning, scraping, or thinking on my behalf: a Polymarket",
+    "link": "https://dev.to/manja316/supervising-13-always-on-processes-without-kubernetes-the-log-freshness-health-check-that-ended-my-4g4l",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Not Everyone Needs Kubernetes",
     "desc": "<p>A few months ago, while discussing the architecture for a new client project, a junior engineer on the team asked, \"Of course we'll use K",
     "link": "https://dev.to/merbayerp/not-everyone-needs-kubernetes-3m32",
@@ -27,24 +45,6 @@
     "title": "Choosing Your First SLI: A Decision Framework for New SRE Teams",
     "desc": "<p>New SRE teams ask the same question: what should we measure first? The temptation is to track everything CPU, memory, latency, error rate",
     "link": "https://dev.to/samson_tanimawo/choosing-your-first-sli-a-decision-framework-for-new-sre-teams-47jk",
-    "topic": "general"
-  },
-  {
-    "title": "I Built a CLI to Stop Missing Env Vars from Breaking Deployments",
-    "desc": "<p>Environment variables look boring until they break a deployment.</p>\n\n<p>I kept running into the same kind of problem while building Type",
-    "link": "https://dev.to/jordachmakaya/i-built-a-cli-to-stop-missing-env-vars-from-breaking-deployments-59ke",
-    "topic": "general"
-  },
-  {
-    "title": "Everything Was Green. Production Was Failing.",
-    "desc": "<p><em>Originally published on my Hashnode blog. This version has been adapted for the DEV community.</em></p>\n\n<blockquote>\n<p><strong>Conf",
-    "link": "https://dev.to/pavanbhatia/everything-was-green-production-was-failing-ddh",
-    "topic": "general"
-  },
-  {
-    "title": "Recover a deleted Deployment from a Retain-policy volume (CKA Storage)",
-    "desc": "<h2>\n  \n  \n  The Retained Volume\n</h2>\n\n<p>Someone deleted a database deployment by accident. The good news: the data is still on disk. In t",
-    "link": "https://dev.to/thecybersidekick/recover-a-deleted-deployment-from-a-retain-policy-volume-cka-storage-5cjc",
     "topic": "general"
   }
 ]
