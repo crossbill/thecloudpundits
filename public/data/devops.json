@@ -1,50 +1,50 @@
 [
   {
-    "title": "Engineering security operations for Toronto's venue density: 5 system-level failure modes operators need to map",
-    "desc": "<h1>\n  \n  \n  Engineering security operations for Toronto's venue density: 5 system-level failure modes operators need to map\n</h1>\n\n<p>Here'",
-    "link": "https://dev.to/xguardsecurity/engineering-security-operations-for-torontos-venue-density-5-system-level-failure-modes-operators-cf6",
-    "topic": "secops"
-  },
-  {
-    "title": "OpenMed Is Now Deployable on Phala Cloud",
-    "desc": "<p><strong>Note: This article is Adapted from the official Phala announcement.</strong></p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"",
-    "link": "https://dev.to/soulman_250/openmed-is-now-deployable-on-phala-cloud-646",
+    "title": "Building AI Tools for Humans, Not Just Productivity Metrics.",
+    "desc": "<p>Most AI tools today are built with one primary obsession: productivity metrics. Faster output, more automation, higher efficiency, lower ",
+    "link": "https://dev.to/jacobfoster21/building-ai-tools-for-humans-not-just-productivity-metrics-47ff",
     "topic": "general"
   },
   {
-    "title": "I built an AI agent that found a critical bug a human reviewer would've missed published: true",
-    "desc": "<h2>\n  \n  \n  The diff looked harmless\n</h2>\n\n<p>A teammate changes a function's return type. <code>bool</code> becomes <code>dict</code>. <b",
-    "link": "https://dev.to/yarra_vivek/i-built-an-ai-agent-that-found-a-critical-bug-a-human-reviewer-wouldve-missedpublished-true-180f",
+    "title": "Modules (Deep Dive), File Handling, Exception Handling",
+    "desc": "<h2>\n  \n  \n  \ud83d\udccc Key Concepts Overview\n</h2>\n\n<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n<th>Concept</th>\n<th>One-Line Definiti",
+    "link": "https://dev.to/tejas_shinkar/modules-deep-dive-file-handling-exception-handling-65l",
     "topic": "general"
   },
   {
-    "title": "How to Automatically Replicate AWS SSM Parameters Across Regions Using EventBridge and Lambda",
-    "desc": "<p>AWS Systems Manager Parameter Store is regional by design.</p>\n\n<p>If you create a parameter in <code>ap-south-1</code>, it doesn't autom",
-    "link": "https://dev.to/vachhanirishi/how-to-automatically-replicate-aws-ssm-parameters-across-regions-using-eventbridge-and-lambda-3o7c",
-    "topic": "aws"
-  },
-  {
-    "title": "The CI/CD Mindset Shift",
-    "desc": "<p>CI/CD isn\u2019t just about tools; it\u2019s a mindset. Think of it as a culture of continuous improvement. Embrace feedback and iterate faster to ",
-    "link": "https://dev.to/fabiosarmento/the-cicd-mindset-shift-513g",
+    "title": "What Predictability Actually Measures (and Why Velocity Is the Wrong Question)",
+    "desc": "<p><em>Why I invented a metric I'd never heard of, and why the industry eventually caught up.</em></p>\n\n\n\n\n<p>I started using the term \"pred",
+    "link": "https://dev.to/raleighschickel/what-predictability-actually-measures-and-why-velocity-is-the-wrong-question-3kck",
     "topic": "general"
   },
   {
-    "title": "AMD ATOM + ATOMesh: Prefill/decode Disaggregation on ROCm",
-    "desc": "<p>  \n  \n</p>\n\n<p><strong>What:</strong> AMD shipped <strong>ATOM + ATOMesh</strong>, a ROCm-native LLM serving stack whose headline trick i",
-    "link": "https://dev.to/pueding/amd-atom-atomesh-prefilldecode-disaggregation-on-rocm-2p0a",
+    "title": "My success story",
+    "desc": "<p>Hello,<br />\nI already introduced myself on here, but let me just get a nice intro lol. I am 17 y.o and have been self-teaching myself Py",
+    "link": "https://dev.to/launchallyceo/my-success-story-5d3l",
     "topic": "general"
   },
   {
-    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
-    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
-    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-3ef4",
+    "title": "I shipped 30 articles to dev.to. Here is what the engagement actually looks like.",
+    "desc": "<h1>\n  \n  \n  I shipped 30 articles to dev.to. Here is what the engagement actually looks like.\n</h1>\n\n<p>When I set up an autonomous publish",
+    "link": "https://dev.to/milo_antaeus_784320e2f2f9/i-shipped-30-articles-to-devto-here-is-what-the-engagement-actually-looks-like-58md",
     "topic": "general"
   },
   {
-    "title": "How China is Leading the AI Revolution: Lessons for CTOs and Tech Managers",
-    "desc": "<h1>\n  \n  \n  How China is Leading the AI Revolution: Lessons for CTOs and Tech Managers\n</h1>\n\n<p>In a rapidly evolving technological landsc",
-    "link": "https://dev.to/fabiosarmento/how-china-is-leading-the-ai-revolution-lessons-for-ctos-and-tech-managers-odd",
+    "title": "Functions, Scope (Local/Global), Arguments, return, Lambda, filter()/map()/reduce(), Modules",
+    "desc": "<h2>\n  \n  \n  \ud83d\udccc Key Concepts Overview\n</h2>\n\n<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n<th>Concept</th>\n<th>One-Line Definiti",
+    "link": "https://dev.to/tejas_shinkar/functions-scope-localglobal-arguments-return-lambda-filtermapreduce-modules-2m0",
     "topic": "general"
+  },
+  {
+    "title": "Smart Development: Building with Autonomous Agentic AI",
+    "desc": "<p>Software development is entering a new phase. For years, the goal was simple: help engineers write code faster.</p>\n\n<p>Now, the conversa",
+    "link": "https://dev.to/cpathirage/smart-development-building-with-autonomous-agentic-ai-2ff3",
+    "topic": "general"
+  },
+  {
+    "title": "5 Expensive Kubernetes Cost Traps and How to Deal With Them",
+    "desc": "<h2>\n  \n  \n  <strong>Kubernetes Was Built for Scale\u2014Not for Cost Efficiency</strong>\n</h2>\n\n<p>Kubernetes has transformed the way modern app",
+    "link": "https://dev.to/keerthana_mokila_b10a0bd6/5-expensive-kubernetes-cost-traps-and-how-to-deal-with-them-1mk3",
+    "topic": "kubernetes"
   }
 ]
