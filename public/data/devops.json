@@ -1,50 +1,50 @@
 [
   {
-    "title": "Trunk-Based Development Working for Salesforce Without a Single Org",
-    "desc": "<p>I've wanted easy trunk-based development for Salesforce for years.</p>\n\n<p>Short-lived branches, frequent merges, small pull requests, an",
-    "link": "https://dev.to/oblitus/trunk-based-development-working-for-salesforce-without-a-single-org-531f",
-    "topic": "general"
-  },
-  {
-    "title": "Building Resilient Automation Stacks for Incident Survival",
-    "desc": "<h2>\n  \n  \n  Introduction to Resilient Automation\n</h2>\n\n<p>Automating workflows and processes is crucial for modern organizations, but it's",
-    "link": "https://dev.to/opsveritas/building-resilient-automation-stacks-for-incident-survival-6fp",
-    "topic": "secops"
-  },
-  {
-    "title": "Supervising 13 always-on processes without Kubernetes: the log-freshness health check that ended my 3 a.m. babysitting",
-    "desc": "<p>I'm a solo builder. At any given moment I have a handful of always-on processes earning, scraping, or thinking on my behalf: a Polymarket",
-    "link": "https://dev.to/manja316/supervising-13-always-on-processes-without-kubernetes-the-log-freshness-health-check-that-ended-my-4g4l",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Not Everyone Needs Kubernetes",
-    "desc": "<p>A few months ago, while discussing the architecture for a new client project, a junior engineer on the team asked, \"Of course we'll use K",
-    "link": "https://dev.to/merbayerp/not-everyone-needs-kubernetes-3m32",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "100 Days of DevOps, Day 1: Linux User Management and AWS Key Pairs",
-    "desc": "<p>Doing the work and being able to explain the work are two different skills. <br />\nI've had the first one for 8 years. I'm building the s",
-    "link": "https://dev.to/ndcodes/100-days-of-devops-day-1-linux-user-management-and-aws-key-pairs-3bci",
+    "title": "Top AWS Consulting Partner in India 2026",
+    "desc": "<p>Organizations across various sectors are rapidly adopting cloud technology to enhance their agility, scalability, and operational capabil",
+    "link": "https://dev.to/anshul_kichara/top-aws-consulting-partner-in-india-2026-4a90",
     "topic": "aws"
   },
   {
-    "title": "Nginx local setup",
-    "desc": "<p>Nginx is a reverse proxy and web server. On a local machine it can sit on port 80 and route traffic to apps running on other ports - a fr",
-    "link": "https://dev.to/zsevic/nginx-local-setup-4idd",
+    "title": "DNS is weird inside k8s on AWS",
+    "desc": "<p><em>A ~6 minute read \u2014 just three concepts that, once you know them, change how you reason about DNS inside a cluster.</em></p>\n\n<p>While",
+    "link": "https://dev.to/harishteens/dns-is-weird-inside-k8s-on-aws-570c",
+    "topic": "aws"
+  },
+  {
+    "title": "Docker Cache Isn't Broken. You're Invalidating It.",
+    "desc": "<h2>\n  \n  \n  The Day We Accidentally Added Eight Minutes To Every Build\n</h2>\n\n<p>A platform team I worked with once spent weeks trying to o",
+    "link": "https://dev.to/saishanmukkha/docker-cache-isnt-broken-youre-invalidating-it-mof",
+    "topic": "docker"
+  },
+  {
+    "title": "\u2601\ufe0f aws cloudformation vs terraform for python deployments \u2014 which one should you use?",
+    "desc": "<h2>\n  \n  \n  \ud83d\ude80 Opening Fact \u2014 Why It <em>Matters</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/im",
+    "link": "https://dev.to/ptp2308/aws-cloudformation-vs-terraform-for-python-deployments-which-one-should-you-use-5ej5",
+    "topic": "aws"
+  },
+  {
+    "title": "\"\uc774\uc81c \uc644\uc804\ud788 \uace0\uccd0\uc84c\ub098?\"\uc5d0 \uc815\uc9c1\ud55c \ub2f5\uc740 \uc5c6\ub2e4 \u2014 \uc791\uc740 \uc11c\ubc84 \uc774\uc57c\uae30",
+    "desc": "<p>1GB \ud504\ub9ac\ud2f0\uc5b4 VPS \ud558\ub098\ub85c \uc0ac\uc774\ub4dc \ud504\ub85c\uc81d\ud2b8\ub97c \ub3cc\ub9b0\ub2e4. \uc791\uc740 \uc11c\ubc84, \uc11c\ube44\uc2a4 \uba87 \uac1c.</p>\n\n<p>\uc9c0\ub09c\uc8fc\uc5d0 \uc778\ud504\ub77c\ub97c \uc190\ubd24\ub2e4. \uace0\uce60 \ub54c\ub9c8\ub2e4 \uac19\uc740 \uac78 \ubb3c\uc5c8\ub2e4. \uc774\uc81c \uc644\uc804\ud788 \uace0\uccd0\uc84c\ub098? \ub2e4\uc2dc \uc548 \ud130\uc9c0\ub098? \uc815\uc9c1\ud55c \ub2f5\uc740 \uacc4\uc18d \"\uc544\ub2c8\"\uc600\ub2e4. \uc2ec\uc9c0\uc5b4 \uace0\uce5c \uac83",
+    "link": "https://dev.to/justjinoit/ije-wanjeonhi-gocyeojyeossnae-jeongjighan-dabeun-eobsda-jageun-seobeo-iyagi-4lih",
     "topic": "general"
   },
   {
-    "title": "No Silver Bullets: Engineering a Multi-Tenant CI Platform a Small Team Can Run",
-    "desc": "<p><em>A deep, teaching walkthrough of how Cisco's internal Forge deployment runs ~40 teams and ~10,000 GitHub Actions jobs a day on AWS \u2014 a",
-    "link": "https://dev.to/edersonbrilhante/no-silver-bullets-engineering-a-multi-tenant-ci-platform-a-small-team-can-run-if",
+    "title": "Why \"is it fully fixed?\" has no honest answer \u2014 a small-server story",
+    "desc": "<p>I run a side project on a 1GB free-tier VPS. Small box, a few services, nothing fancy.</p>\n\n<p>Last week I spent a session hardening its ",
+    "link": "https://dev.to/justjinoit/why-is-it-fully-fixed-has-no-honest-answer-a-small-server-story-5g2",
     "topic": "general"
   },
   {
-    "title": "Choosing Your First SLI: A Decision Framework for New SRE Teams",
-    "desc": "<p>New SRE teams ask the same question: what should we measure first? The temptation is to track everything CPU, memory, latency, error rate",
-    "link": "https://dev.to/samson_tanimawo/choosing-your-first-sli-a-decision-framework-for-new-sre-teams-47jk",
+    "title": "Resolving Endpoint Infrastructure Crashes: Fixing CrowdStrike Sync Error States",
+    "desc": "<p>Maintaining continuous endpoint security across modern corporate computer networks is vital for protecting sensitive enterprise data asse",
+    "link": "https://dev.to/biztechpulsehub/resolving-endpoint-infrastructure-crashes-fixing-crowdstrike-sync-error-states-3mkn",
+    "topic": "general"
+  },
+  {
+    "title": "How to Monitor Server Resources (CPU, RAM, Disk) in 2026",
+    "desc": "<h1>\n  \n  \n  How to Monitor Server Resources (CPU, RAM, Disk) in 2026\n</h1>\n\n<p>If you're running a website or SaaS on a VPS, here's the unc",
+    "link": "https://dev.to/yanlong_wang/how-to-monitor-server-resources-cpu-ram-disk-in-2026-3gfp",
     "topic": "general"
   }
 ]
