@@ -1,5 +1,11 @@
 [
   {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "desc": "",
+    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "topic": "huggingface"
+  },
+  {
     "title": "MosaicLeaks: Can your research agent keep a secret?",
     "desc": "",
     "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
@@ -39,12 +45,6 @@
     "title": "Agentic Resource Discovery: Let agents search",
     "desc": "",
     "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "topic": "general"
-  },
-  {
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "desc": "",
-    "link": "https://huggingface.co/blog/torch-mlp-fusion",
     "topic": "general"
   }
 ]

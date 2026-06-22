@@ -1,5 +1,23 @@
 [
   {
+    "title": "Decades-Old Squid Proxy Flaw \u2018Squidbleed\u2019 Can Expose User Data",
+    "desc": "<p>Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability.\u00a0</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
+    "topic": "general"
+  },
+  {
+    "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
+    "desc": "<p>Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
+    "topic": "secops"
+  },
+  {
+    "title": "North Korean Hackers Blamed for Mastra NPM Supply Chain Attack",
+    "desc": "<p>A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/",
+    "topic": "secops"
+  },
+  {
     "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
     "desc": "<p>Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage.</",
     "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
@@ -28,23 +46,5 @@
     "desc": "<p>Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.</p>\n<p>The post <a href=\"htt",
     "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
     "topic": "secops"
-  },
-  {
-    "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
-    "desc": "<p>French President Emmanuel Macron urged the world\u2019s wealthy democracies to work together on regulating advanced AI systems.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
-    "topic": "general"
-  },
-  {
-    "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
-    "desc": "<p>Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained de",
-    "link": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
-    "topic": "aws"
-  },
-  {
-    "title": "CryptoBandits Malware Doubles as a Backdoor, Abuses Tor",
-    "desc": "<p>CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/",
-    "topic": "general"
   }
 ]
