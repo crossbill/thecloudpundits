@@ -1,50 +1,50 @@
 [
   {
-    "title": "From Feature Delivery to Platform Engineering.",
-    "desc": "<h2>\n  \n  \n  The Problem: Feature Velocity Was Creating Structural Debt\n</h2>\n\n<p>The system originally started as a simple feature delivery",
-    "link": "https://dev.to/rahim8050/from-feature-delivery-to-platform-engineering-3m09",
+    "title": "Vibe-Coded Infrastructure: How to Ship Fast Without Torching Production",
+    "desc": "<p>You described what you wanted in plain English, the model wrote the Terraform, you ran <code>apply</code>, and it worked. No docs, no Sta",
+    "link": "https://dev.to/jjoyneriv/vibe-coded-infrastructure-how-to-ship-fast-without-torching-production-3l83",
     "topic": "general"
   },
   {
-    "title": "Reverse-Engineering an Old Node.js Crossword App into a Modern Next.js Stack",
-    "desc": "<p>As an IT undergrad at the University of Moratuwa, I\u2019ve built my fair share of projects. Recently, I looked back at an old project of mine",
-    "link": "https://dev.to/inushathathsara/reverse-engineering-an-old-nodejs-crossword-app-into-a-modern-nextjs-stack-2oe0",
+    "title": "How we found a bug in the hyper HTTP library",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/how-we-found-a-bug-in-the-hyper-http-library\" rel=\"noopener nore",
+    "link": "https://dev.to/rasne/how-we-found-a-bug-in-the-hyper-http-library-58jb",
     "topic": "general"
   },
   {
-    "title": "\ud83d\ude80 Building an Intelligent Polling & Service Monitoring System on AWS",
-    "desc": "<p>During my summer vacation, I worked on an Intelligent Polling & Service Monitoring System designed to automate URL monitoring using an ev",
-    "link": "https://dev.to/naina_verma_528a9a4c76ef9/building-an-intelligent-polling-service-monitoring-system-on-aws-mmn",
-    "topic": "aws"
-  },
-  {
-    "title": "Package Drift Weekly \u2014 2026-06-22",
-    "desc": "<p><em>Automated weekly digest from <a href=\"https://rapidapi.com/pkgdrift-pkgdrift-default/api/package-drift-vulnerability-intelligence\" re",
-    "link": "https://dev.to/pkgdrift/package-drift-weekly-2026-06-22-2j51",
+    "title": "AgentSpace Trends",
+    "desc": "<h1>\n  \n  \n  AgentSpace Trends\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The concept of collaborative workspaces has been around for a whil",
+    "link": "https://dev.to/qingluan/agentspace-trends-34oi",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions: Automate Your Workflow Like a Pro",
-    "desc": "<h1>\n  \n  \n  GitHub Actions: Automate Your Workflow Like a Pro\n</h1>\n\n<p>Imagine waking up every morning to find that your code has been aut",
-    "link": "https://dev.to/qingluan/github-actions-automate-your-workflow-like-a-pro-4cam",
+    "title": "MCP Tool Metering Readiness Audit \u2014 $99",
+    "desc": "<p>I'm offering a one-hour audit for MCP server developers: payment integration, metering, auth wiring on your server. You get a report plus",
+    "link": "https://dev.to/roblambert9/mcp-tool-metering-readiness-audit-99-1oe1",
     "topic": "general"
   },
   {
-    "title": "Best Interval Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/best-interval-timer-what-we-learned-building-random-tactical-timer-348o",
+    "title": "How to Eliminate False Alert Fatigue in Your Uptime Monitoring Setup",
+    "desc": "<p>It's 3:47 AM. Your phone screams. Your site is down.</p>\n\n<p>You stumble to your laptop, open your monitoring dashboard... and everything",
+    "link": "https://dev.to/vigilmon/how-to-eliminate-false-alert-fatigue-in-your-uptime-monitoring-setup-2pad",
     "topic": "general"
   },
   {
-    "title": "Inside .git \u2014 Objects & Hashing",
-    "desc": "<p>Understanding what happens inside the hidden <strong><em>.git</em></strong> directory is one of the most important steps toward mastering",
-    "link": "https://dev.to/lotanna_obianefo/inside-git-objects-hashing-44gc",
+    "title": "Best Resources for CISSP Exam Preparation and Success.",
+    "desc": "<p>CISSP Certification Exam Preparation Guide with Exam4Lead<br />\nIntroduction to the CISSP Certification</p>\n\n<p>The <a href=\"https://www.",
+    "link": "https://dev.to/fiwhao/best-resources-for-cissp-exam-preparation-and-success-24ee",
     "topic": "general"
   },
   {
-    "title": "Top Remote Tech Jobs This Week \u2014 June 22, 2026",
-    "desc": "<p>The best remote Tech jobs this week. All roles are fully remote. Updated June 22, 2026.</p>\n\n<h3>\n  \n  \n  <strong>Steward \u2014 Members Don't",
-    "link": "https://dev.to/crescevo/top-remote-tech-jobs-this-week-june-22-2026-2458",
+    "title": "CI/CD ohne YAML-H\u00f6lle: Dagger.io erkl\u00e4rt Pipelines als Code f\u00fcr DevOps",
+    "desc": "<h2>\n  \n  \n  Hook \u2013 Warum ich mir die H\u00e4nde verbrenne, wenn ich wieder YAML schreibe\n</h2>\n\n<p>Ich erinnere mich noch an den Moment, als ich",
+    "link": "https://dev.to/uhltak/cicd-ohne-yaml-holle-daggerio-erklart-pipelines-als-code-fur-devops-4mac",
     "topic": "general"
+  },
+  {
+    "title": "Kubernetes Architecture: The Complete Beginner-to-Intermediate Guide",
+    "desc": "<p>Most engineers learn Kubernetes by memorizing commands.</p>\n\n<p>The best engineers understand <strong>how the architecture works behind t",
+    "link": "https://dev.to/arnabadhikar/kubernetes-architecture-the-complete-beginner-to-intermediate-guide-3e4l",
+    "topic": "kubernetes"
   }
 ]
