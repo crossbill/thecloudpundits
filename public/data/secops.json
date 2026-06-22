@@ -1,5 +1,35 @@
 [
   {
+    "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
+    "desc": "<p>Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage.</",
+    "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "New Exploit Bypasses Apple\u2019s Boot Defenses, Affects Millions of iPhones",
+    "desc": "<p>The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
+    "topic": "general"
+  },
+  {
+    "title": "Fortinet Responds to FortiBleed Campaign",
+    "desc": "<p>A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
+    "topic": "general"
+  },
+  {
+    "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
+    "desc": "<p>HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
+    "topic": "secops"
+  },
+  {
+    "title": "Texas Parks & Wildlife Data Breach Affects 3 Million Individuals",
+    "desc": "<p>Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
+    "topic": "secops"
+  },
+  {
     "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
     "desc": "<p>French President Emmanuel Macron urged the world\u2019s wealthy democracies to work together on regulating advanced AI systems.</p>\n<p>The pos",
     "link": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
@@ -16,35 +46,5 @@
     "desc": "<p>CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution.</p>\n<p>The post <a href=\"htt",
     "link": "https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/",
     "topic": "general"
-  },
-  {
-    "title": "FortiBleed: 86,000 Fortinet Device Credentials Compromised",
-    "desc": "<p>The large-scale credential theft campaign hit roughly half of the internet-accessible Fortinet firewalls and VPNs.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/",
-    "topic": "general"
-  },
-  {
-    "title": "Cybersecurity Firms Impacted by Klue Supply Chain Attack",
-    "desc": "<p>The hackers exfiltrated data from Salesforce instances of Klue customers, such as Huntress and Recorded Future.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Cisco to Acquire WideField Security to Boost Splunk\u2019s Agentic SOC",
-    "desc": "<p>WideField will accelerate Agentic SOC capabilities by expanding the lens on threat investigation to include identity, credentials, sessio",
-    "link": "https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/",
-    "topic": "secops"
-  },
-  {
-    "title": "15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown",
-    "desc": "<p>Law enforcement and private partners took down 106 SocGholish C&C servers and domains as part of Operation Endgame.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/",
-    "topic": "general"
-  },
-  {
-    "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
-    "desc": "<p>CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution",
-    "link": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/",
-    "topic": "secops"
   }
 ]
