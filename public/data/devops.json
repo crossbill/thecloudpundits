@@ -1,50 +1,50 @@
 [
   {
+    "title": "Monitoring and Logging: The Quest for the Holy Grail",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night our checkout service started throwing 500 errors at",
+    "link": "https://dev.to/timevolt/monitoring-and-logging-the-quest-for-the-holy-grail-8l",
+    "topic": "general"
+  },
+  {
+    "title": "Dead Code Finder: GitLab Orbit-based static analysis that turned out to be harder than expected",
+    "desc": "<p>I built a GitLab Duo Agent Platform flow for a hackathon. The goal was simple: find code that nothing actually calls.</p>\n\n<p>Not \"what b",
+    "link": "https://dev.to/hereforlolz/dead-code-finder-gitlab-orbit-based-static-analysis-that-turned-out-to-be-harder-than-expected-4jgk",
+    "topic": "general"
+  },
+  {
+    "title": "Create a Public Status Page in 5 Minutes with Vigilmon",
+    "desc": "<p>Your app goes down at 2am. Support tickets flood in. Users tweet angry things. But the worst part? Every single person had to check for t",
+    "link": "https://dev.to/vigilmon/create-a-public-status-page-in-5-minutes-with-vigilmon-1p1h",
+    "topic": "general"
+  },
+  {
+    "title": "Amazon Linux 2 is EOL on June 30, 2026 \u2014 here's everything that breaks",
+    "desc": "<p>Amazon Linux 2 reaches <strong>end of life on June 30, 2026</strong>. After that: no security patches, no new AMIs, no extras updates. An",
+    "link": "https://dev.to/ntoledo319/amazon-linux-2-is-eol-on-june-30-2026-heres-everything-that-breaks-3end",
+    "topic": "general"
+  },
+  {
+    "title": "The On-Call Schedule Math Nobody Does",
+    "desc": "<p>Most on-call schedules are designed in a slack thread, in 20 minutes, by whoever drew the short straw. Then the team lives with it for ye",
+    "link": "https://dev.to/samson_tanimawo/the-on-call-schedule-math-nobody-does-1o82",
+    "topic": "general"
+  },
+  {
+    "title": "How I Built the Cloud Resume Challenge (And What Actually Tripped Me Up)",
+    "desc": "<p><strong>From Static HTML to Cloud Infrastructure: My Cloud Resume Challenge Journey</strong><br />\nWhen I first read about the <a href=\"h",
+    "link": "https://dev.to/clos1180/how-i-built-the-cloud-resume-challenge-and-what-actually-tripped-me-up-eo",
+    "topic": "general"
+  },
+  {
+    "title": "Building VS \u2014 2026-06-21",
+    "desc": "<p>When I think about the recent updates to our real estate platform, I'm reminded of the old adage \"the whole is more than the sum of its p",
+    "link": "https://dev.to/zaerohell/building-vs-2026-06-21-nm1",
+    "topic": "general"
+  },
+  {
     "title": "Vibe-Coded Infrastructure: How to Ship Fast Without Torching Production",
     "desc": "<p>You described what you wanted in plain English, the model wrote the Terraform, you ran <code>apply</code>, and it worked. No docs, no Sta",
     "link": "https://dev.to/jjoyneriv/vibe-coded-infrastructure-how-to-ship-fast-without-torching-production-3l83",
     "topic": "general"
-  },
-  {
-    "title": "How we found a bug in the hyper HTTP library",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/how-we-found-a-bug-in-the-hyper-http-library\" rel=\"noopener nore",
-    "link": "https://dev.to/rasne/how-we-found-a-bug-in-the-hyper-http-library-58jb",
-    "topic": "general"
-  },
-  {
-    "title": "AgentSpace Trends",
-    "desc": "<h1>\n  \n  \n  AgentSpace Trends\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The concept of collaborative workspaces has been around for a whil",
-    "link": "https://dev.to/qingluan/agentspace-trends-34oi",
-    "topic": "general"
-  },
-  {
-    "title": "MCP Tool Metering Readiness Audit \u2014 $99",
-    "desc": "<p>I'm offering a one-hour audit for MCP server developers: payment integration, metering, auth wiring on your server. You get a report plus",
-    "link": "https://dev.to/roblambert9/mcp-tool-metering-readiness-audit-99-1oe1",
-    "topic": "general"
-  },
-  {
-    "title": "How to Eliminate False Alert Fatigue in Your Uptime Monitoring Setup",
-    "desc": "<p>It's 3:47 AM. Your phone screams. Your site is down.</p>\n\n<p>You stumble to your laptop, open your monitoring dashboard... and everything",
-    "link": "https://dev.to/vigilmon/how-to-eliminate-false-alert-fatigue-in-your-uptime-monitoring-setup-2pad",
-    "topic": "general"
-  },
-  {
-    "title": "Best Resources for CISSP Exam Preparation and Success.",
-    "desc": "<p>CISSP Certification Exam Preparation Guide with Exam4Lead<br />\nIntroduction to the CISSP Certification</p>\n\n<p>The <a href=\"https://www.",
-    "link": "https://dev.to/fiwhao/best-resources-for-cissp-exam-preparation-and-success-24ee",
-    "topic": "general"
-  },
-  {
-    "title": "CI/CD ohne YAML-H\u00f6lle: Dagger.io erkl\u00e4rt Pipelines als Code f\u00fcr DevOps",
-    "desc": "<h2>\n  \n  \n  Hook \u2013 Warum ich mir die H\u00e4nde verbrenne, wenn ich wieder YAML schreibe\n</h2>\n\n<p>Ich erinnere mich noch an den Moment, als ich",
-    "link": "https://dev.to/uhltak/cicd-ohne-yaml-holle-daggerio-erklart-pipelines-als-code-fur-devops-4mac",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes Architecture: The Complete Beginner-to-Intermediate Guide",
-    "desc": "<p>Most engineers learn Kubernetes by memorizing commands.</p>\n\n<p>The best engineers understand <strong>how the architecture works behind t",
-    "link": "https://dev.to/arnabadhikar/kubernetes-architecture-the-complete-beginner-to-intermediate-guide-3e4l",
-    "topic": "kubernetes"
   }
 ]
