@@ -1,5 +1,41 @@
 [
   {
+    "title": "Mermaid Diagrams Quickstart and Cheatsheet for Developers",
+    "desc": "<p>Mermaid is a text-based diagramming tool for people who would rather write diagrams than drag boxes around a canvas. It uses a Markdown-l",
+    "link": "https://dev.to/rosgluk/mermaid-diagrams-quickstart-and-cheatsheet-for-developers-54p9",
+    "topic": "general"
+  },
+  {
+    "title": "Forward-Deployed Engineering for Operational IT Change",
+    "desc": "<p>KMayer works with technology leaders who need practical operational change, not just advisory documents. Forward-deployed engineering is ",
+    "link": "https://dev.to/kmayer/forward-deployed-engineering-for-operational-it-change-24a5",
+    "topic": "general"
+  },
+  {
+    "title": "7 Developer Tools That Save Me Hours Every Week",
+    "desc": "<p>As developers, we often spend more time on small repetitive tasks than on actual coding.</p>\n\n<p>Formatting SQL queries, validating JSON,",
+    "link": "https://dev.to/eeyyaadd/7-developer-tools-that-save-me-hours-every-week-4454",
+    "topic": "general"
+  },
+  {
+    "title": "Architectural War Games: Scaling Multi-Tenant Trading Competitions",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/mountek/architectural-war-games-scaling-multi-tenant-trading-competitions-lpm",
+    "topic": "general"
+  },
+  {
+    "title": "Four 2026 Trust Failures You Can't Out-Patch (AUR, PAN-OS, Cisco SD-WAN, PeopleSoft)",
+    "desc": "<p>Every keynote this spring told us the same thing: AI compressed the gap between disclosure and weaponization, so the answer is to patch f",
+    "link": "https://dev.to/kkierii/four-2026-trust-failures-you-cant-out-patch-aur-pan-os-cisco-sd-wan-peoplesoft-45bh",
+    "topic": "general"
+  },
+  {
+    "title": "Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams",
+    "desc": "<h2>\n  \n  \n  Hey, I'm Samson \u2014 and I built Nova AI Ops because I was tired of being paged at 3 AM.\n</h2>\n\n<p>For years, I watched SRE teams ",
+    "link": "https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-3442",
+    "topic": "general"
+  },
+  {
     "title": "Fixing \u201cGit Divergent Branches\u201d on a Production Server (Real DevOps Debugging Walkthrough)",
     "desc": "<p>One of the most confusing errors you can face while deploying a Node.js or Docker-based application is:<br />\n</p>\n\n<div class=\"highlight",
     "link": "https://dev.to/saint_vandora/fixing-git-divergent-branches-on-a-production-server-real-devops-debugging-walkthrough-48np",
@@ -10,41 +46,5 @@
     "desc": "<p>When AWS announces frontier agents for security testing and cloud operations, the right question isn't 'does it work?' \u2014 it's 'at what co",
     "link": "https://dev.to/fernando_azevedo_6844e930/ai-agents-for-security-and-devops-productivity-or-risk-49jc",
     "topic": "secops"
-  },
-  {
-    "title": "Five Features I Shipped in tfdrift That Changed How We Handle Terraform Drift",
-    "desc": "<h1>\n  \n  \n  Five Features I Shipped in tfdrift That Changed How We Handle Terraform Drift\n</h1>\n\n<p>When I first released tfdrift, it did o",
-    "link": "https://dev.to/sudarshan_thakur_1e141b99/five-features-i-shipped-in-tfdrift-that-changed-how-we-handle-terraform-drift-3af5",
-    "topic": "terraform"
-  },
-  {
-    "title": "Deploy Your App to DigitalOcean in 5 Minutes (Node.js, Python, Go)",
-    "desc": "<h1>\n  \n  \n  Deploy Your App to DigitalOcean in 5 Minutes (Node.js, Python, Go)\n</h1>\n\n<p>You've built your app. Now you need it live. Here'",
-    "link": "https://dev.to/already_herellc_c954583f/deploy-your-app-to-digitalocean-in-5-minutes-nodejs-python-go-1635",
-    "topic": "general"
-  },
-  {
-    "title": "Too cheap to be good? Think again.",
-    "desc": "<p>For years, I ran my WordPress sites on OpenLiteSpeed. Fast server, LSCache is genuinely impressive, and the OLS/WordPress combo is hard t",
-    "link": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
-    "topic": "general"
-  },
-  {
-    "title": "Exploring Microsoft Excel's Capabilities in Data Analysis",
-    "desc": "<p><u></u></p>\n<u>\n</u><h2>\n<u>\n  \n  \n  Microsoft Excel in Data Analysis </u>\n</h2>\n\n<p><em>By: Silvester Ochieng Opondo</em><br />\n<em>Cour",
-    "link": "https://dev.to/the_chosen_one/exploring-microsoft-excels-capabilities-in-data-analysis-5ec3",
-    "topic": "azure"
-  },
-  {
-    "title": "How Botnets Impact Ticketing (And How Hardware Security Can Help)",
-    "desc": "<p>Managing high-demand ticket sales is a tough job. When a popular<br />\n<a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/",
-    "link": "https://dev.to/maria__kinyanta/how-botnets-impact-ticketing-and-how-hardware-security-can-help-4fjo",
-    "topic": "secops"
-  },
-  {
-    "title": "Dependency Gap in AI Code: Declared 1, Imported 4",
-    "desc": "<p><strong>The dependency gap in AI-generated code is what the source imports minus what the manifest declares.</strong> A green CI run only",
-    "link": "https://dev.to/alex_spinov/dependency-gap-in-ai-code-declared-1-imported-4-2gdb",
-    "topic": "general"
   }
 ]
