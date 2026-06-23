@@ -1,50 +1,50 @@
 [
   {
-    "title": "I built a CI budget check for MCP context bloat",
-    "desc": "<p>I built a small open source tool for a problem I kept running into with coding agents using MCP:</p>\n\n<p>tool surface area quietly become",
-    "link": "https://dev.to/danmercede/i-built-a-ci-budget-check-for-mcp-context-bloat-2n5b",
+    "title": "Everyone Is Building AI Agents. Nobody Is Talking About the Technical Debt",
+    "desc": "<p>Most developers are familiar with technical debt. It's the shortcut that helps you move faster today but creates problems tomorrow. We se",
+    "link": "https://dev.to/reetain_raina/everyone-is-building-ai-agents-nobody-is-talking-about-the-technical-debt-3ljm",
     "topic": "general"
   },
   {
-    "title": "A Developer Roadmap for Building Production-Ready AI Agents",
-    "desc": "<p>Most AI agent projects start with a simple idea:</p>\n\n<p>Connect an LLM to a few tools and let it complete tasks.</p>\n\n<p>That works well",
-    "link": "https://dev.to/agntable/a-developer-roadmap-for-building-production-ready-ai-agents-4250",
+    "title": "AI Automation Tools in 2026: How Businesses Are Saving Time by Automating Repetitive Work",
+    "desc": "<p>Every company has talented people. Yet many employees still spend hours doing tasks that repeat every single day.</p>\n\n<p>A support team ",
+    "link": "https://dev.to/productwatch/ai-automation-tools-in-2026-how-businesses-are-saving-time-by-automating-repetitive-work-5cg2",
     "topic": "general"
   },
   {
-    "title": "Enforcing Zero-Trust Egress in Kubernetes with NetworkPolicies",
-    "desc": "<p>Most teams invest heavily in locking down <em>inbound</em> traffic \u2014 ingress rules, service meshes, mutual TLS \u2014 while leaving outbound t",
-    "link": "https://dev.to/jorelfuji/enforcing-zero-trust-egress-in-kubernetes-with-networkpolicies-3hlc",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "What is an SBOM (and Why Can\u2019t You Ship Without One)?",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/what-is-an-sbom-and-why-cant-you-ship-without-one\" rel=\"noopener",
-    "link": "https://dev.to/rasne/what-is-an-sbom-and-why-cant-you-ship-without-one-jni",
+    "title": "The post-quantum EO is an important milestone. Now it\u2019s time to get to work",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/the-post-quantum-eo-is-an-important-milestone-now-its-time-to-ge",
+    "link": "https://dev.to/rasne/the-post-quantum-eo-is-an-important-milestone-now-its-time-to-get-to-work-3f7f",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udccc We don't need 10 AI agents. We need one DevOps agent\u00a0\ud83d\udccc",
-    "desc": "<p>There are hundreds of AI agents right now.</p>\n\n<p>\u2714\ufe0f Coding agents<br />\n\u2714\ufe0f Research agents<br />\n\u2714\ufe0f Sales agents<br />\n\u2714\ufe0f Writing agent",
-    "link": "https://dev.to/lakhera2015/we-dont-need-10-ai-agents-we-need-one-devops-agent-nmc",
+    "title": "Claude Code kept going down. So I built a router.",
+    "desc": "<h2>\n  \n  \n  The Hook\n</h2>\n\n<p>Last month, mid-sprint, my Claude subscription decided to take a vacation. Three days of \"Service Unavailabl",
+    "link": "https://dev.to/eroslifestyle/claude-code-kept-going-down-so-i-built-a-router-1an7",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Deploying Zabbix Open-Source Monitoring Platform on Ubuntu 24.04",
+    "desc": "<p>Zabbix is an open-source monitoring platform that tracks the health and performance of servers, networks, applications, and services, wit",
+    "link": "https://dev.to/vultr/deploying-zabbix-open-source-monitoring-platform-on-ubuntu-2404-3coh",
     "topic": "general"
   },
   {
-    "title": "What Happens When Your AI Agent Gets Stuck in Production?",
-    "desc": "<p>The most expensive AI agent failures I've seen weren't model failures.</p>\n\n<p>They were silent failures.</p>\n\n<p>The agent looked health",
-    "link": "https://dev.to/milancharan/what-happens-when-your-ai-agent-gets-stuck-in-production-3327",
+    "title": "Deploying SeaweedFS, an Open-Source S3 Storage Alternative to MinIO, on Ubuntu 24.04",
+    "desc": "<p>SeaweedFS is an open-source, distributed object storage system with an S3-compatible API, a filer for POSIX-style hierarchical access, an",
+    "link": "https://dev.to/vultr/deploying-seaweedfs-an-open-source-s3-storage-alternative-to-minio-on-ubuntu-2404-jpn",
     "topic": "general"
   },
   {
-    "title": "Optimizing Network Routing for Real-Time Applications: Why Your UDP Traffic and Gaming Latency Sucks",
-    "desc": "<p>When engineering backends, deploying real-time applications, or tuning network parameters for low-latency systems like online multiplayer",
-    "link": "https://dev.to/appcyberyozh/optimizing-network-routing-for-real-time-applications-why-your-udp-traffic-and-gaming-latency-sucks-55nn",
+    "title": "Deploying Qdrant Open-Source Vector Database for AI Applications on Ubuntu 24.04",
+    "desc": "<p>Qdrant is an open-source vector database for AI applications, optimised for similarity search over high-dimensional embeddings, with a RE",
+    "link": "https://dev.to/vultr/deploying-qdrant-open-source-vector-database-for-ai-applications-on-ubuntu-2404-5235",
     "topic": "general"
   },
   {
-    "title": "Benchmarking 5 LLM providers on one eval set, no SDK per vendor",
-    "desc": "<p><strong>TL;DR: We run a 1,200-case eval suite for enterprise agent automation at Nexus Labs. Comparing models across OpenAI, Anthropic, B",
-    "link": "https://dev.to/marcuswwchen/benchmarking-5-llm-providers-on-one-eval-set-no-sdk-per-vendor-2j6g",
+    "title": "Deploying Paperless-ngx Open-Source Document Management System on Ubuntu 24.04",
+    "desc": "<p>Paperless-ngx is an open-source document management system that converts scans and PDFs into a fully searchable archive using Tesseract O",
+    "link": "https://dev.to/vultr/deploying-paperless-ngx-open-source-document-management-system-on-ubuntu-2404-1og5",
     "topic": "general"
   }
 ]
