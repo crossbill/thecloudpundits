@@ -1,50 +1,50 @@
 [
   {
-    "title": "How-do-I-get-flash-USDT-in-europe",
-    "desc": "<p>Hey there! If you're diving into the world of cryptocurrency and wondering how to get your hands on flash USDT (Tether) in Europe, you've",
-    "link": "https://dev.to/carlos_stones_1d0109fbd3f/how-do-i-get-flash-usdt-in-europe-341g",
+    "title": "EBS gp2 burst credits ran dry and our builds slowed to a crawl",
+    "desc": "<p><strong>TL;DR: A chunk of our EC2 build agents got slow at the same time every afternoon. No CPU pressure, no memory pressure, no network",
+    "link": "https://dev.to/claire_nguyen/ebs-gp2-burst-credits-ran-dry-and-our-builds-slowed-to-a-crawl-5402",
     "topic": "general"
   },
   {
-    "title": "Batch Worker \u2014 100 AI Agents in Parallel, Zero-Token Cleanup",
-    "desc": "<h1>\n  \n  \n  Batch Worker: 100 AI Agents Running in Parallel\n</h1>\n\n<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>Auditing a codebase takes hours when ",
-    "link": "https://dev.to/_eeadf44d0c3d077db8f1/batch-worker-100-ai-agents-in-parallel-zero-token-cleanup-1gh7",
+    "title": "Mastering Kubernetes Autoscaling: The Key to Dynamic Cost Optimization",
+    "desc": "<p>Modern applications rarely experience constant traffic. User demand fluctuates throughout the day, seasonal events create unexpected spik",
+    "link": "https://dev.to/keerthana_mokila_b10a0bd6/mastering-kubernetes-autoscaling-the-key-to-dynamic-cost-optimization-31af",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "dream&drapes",
+    "desc": "<p>Dream & Drapes: Where Style Meets Comfort<br />\nWelcome to Dream & Drapes</p>\n\n<p>Fashion is more than just clothing\u2014it's a way to expres",
+    "link": "https://dev.to/rashmeet_kaurgolden_e0cb/dreamdrapes-8ao",
     "topic": "general"
   },
   {
-    "title": "Nvidia wants enterprises to run agents safely. NemoClaw is how.",
-    "desc": "<p>Getting enterprises to adopt autonomous agents isn't a model problem \u2014 it's a governance problem. That's the gap NemoClaw is built to clo",
-    "link": "https://dev.to/thegatewayguy/nvidia-wants-enterprises-to-run-agents-safely-nemoclaw-is-how-4ad6",
+    "title": "\u2601\ufe0f Configure AWS VPC subnet routing with Terraform made easy",
+    "desc": "<p>Approximately 30 % of newly created AWS VPCs lack a default route to an Internet Gateway, according to the AWS Well\u2011Architected Review of",
+    "link": "https://dev.to/ptp2308/configure-aws-vpc-subnet-routing-with-terraform-made-easy-bmb",
+    "topic": "aws"
+  },
+  {
+    "title": "I Just Deployed 8 Microservices with One Command \ud83d\ude80",
+    "desc": "<p>One of the biggest shifts in my DevOps journey has been moving from simple container deployments to full microservices environments.</p>\n",
+    "link": "https://dev.to/chioma_nwosu_99d57862fb18/i-just-deployed-8-microservices-with-one-command-1d17",
     "topic": "general"
   },
   {
-    "title": "Monitoring and Logging: The Quest for the Holy Grail",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night our checkout service started throwing 500 errors at",
-    "link": "https://dev.to/timevolt/monitoring-and-logging-the-quest-for-the-holy-grail-8l",
+    "title": "The Silent Ledger Leak: Measuring Causality Violations in Async Payment Pipelines",
+    "desc": "<p>I spent the last few months trying to understand why reconciliation errors keep appearing in high-throughput pipelines. Here is what I fo",
+    "link": "https://dev.to/yakuburoseline1gif/the-silent-ledger-leak-measuring-causality-violations-in-async-payment-pipelines-4dnk",
     "topic": "general"
   },
   {
-    "title": "Dead Code Finder: GitLab Orbit-based static analysis that turned out to be harder than expected",
-    "desc": "<p>I built a GitLab Duo Agent Platform flow for a hackathon. The goal was simple: find code that nothing actually calls.</p>\n\n<p>Not \"what b",
-    "link": "https://dev.to/hereforlolz/dead-code-finder-gitlab-orbit-based-static-analysis-that-turned-out-to-be-harder-than-expected-4jgk",
-    "topic": "general"
+    "title": "7 Security Practices That Lock Down Automated API Workflows",
+    "desc": "<p>Automated API workflows speed up operations but widen attack surfaces. These 7 security practices protect your pipelines from evolving cy",
+    "link": "https://dev.to/mlxio_ai/7-security-practices-that-lock-down-automated-api-workflows-2i5d",
+    "topic": "secops"
   },
   {
-    "title": "Create a Public Status Page in 5 Minutes with Vigilmon",
-    "desc": "<p>Your app goes down at 2am. Support tickets flood in. Users tweet angry things. But the worst part? Every single person had to check for t",
-    "link": "https://dev.to/vigilmon/create-a-public-status-page-in-5-minutes-with-vigilmon-1p1h",
-    "topic": "general"
-  },
-  {
-    "title": "Amazon Linux 2 is EOL on June 30, 2026 \u2014 here's everything that breaks",
-    "desc": "<p>Amazon Linux 2 reaches <strong>end of life on June 30, 2026</strong>. After that: no security patches, no new AMIs, no extras updates. An",
-    "link": "https://dev.to/ntoledo319/amazon-linux-2-is-eol-on-june-30-2026-heres-everything-that-breaks-3end",
-    "topic": "general"
-  },
-  {
-    "title": "The On-Call Schedule Math Nobody Does",
-    "desc": "<p>Most on-call schedules are designed in a slack thread, in 20 minutes, by whoever drew the short straw. Then the team lives with it for ye",
-    "link": "https://dev.to/samson_tanimawo/the-on-call-schedule-math-nobody-does-1o82",
-    "topic": "general"
+    "title": "7 Cybersecurity Practices DevOps Teams Must Adopt in 2026",
+    "desc": "<p>DevOps teams must adopt 7 key cybersecurity practices in 2026 to reduce vulnerabilities and integrate security seamlessly into developmen",
+    "link": "https://dev.to/mlxio_ai/7-cybersecurity-practices-devops-teams-must-adopt-in-2026-3nnc",
+    "topic": "secops"
   }
 ]
