@@ -1,50 +1,50 @@
 [
   {
-    "title": "Ch\u1ea1y GitHub Actions Self-Hosted Runner tr\u00ean Dell 16 Premium DA16250",
-    "desc": "<p>Vi\u1ec7c t\u1ef1 v\u1eadn h\u00e0nh m\u1ed9t <strong>GitHub Actions self-hosted runner</strong> tr\u00ean m\u00e1y c\u00e1 nh\u00e2n l\u00e0 gi\u1ea3i ph\u00e1p tuy\u1ec7t v\u1eddi \u0111\u1ec3 ti\u1ebft ki\u1ec7m chi ph\u00ed v\u00e0 k",
-    "link": "https://dev.to/hungphatlaptop/chay-github-actions-self-hosted-runner-tren-dell-16-premium-da16250-333h",
-    "topic": "general"
+    "title": "AWS Container Security: Best Practices & Solutions in 2026",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/aws-container-security-best-practices-solutions-in-2026\" rel=\"no",
+    "link": "https://dev.to/rasne/aws-container-security-best-practices-solutions-in-2026-59h8",
+    "topic": "aws"
   },
   {
-    "title": "Building a Self-Hosted MLOps Platform from Scratch with FastAPI, PostgreSQL, GCS, and Docker",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Over the past few months, I set out to answer a simple question:</p>\n\n<p><strong>What does it take to bu",
-    "link": "https://dev.to/upshivam786/building-a-self-hosted-mlops-platform-from-scratch-with-fastapi-postgresql-gcs-and-docker-46i0",
+    "title": "How to Dockerize a Node.js App in 5 Easy Steps",
+    "desc": "<p>\"But it works on my machine!\" If you are a developer, you have likely said this exact phrase. Your code runs perfectly on your laptop, bu",
+    "link": "https://dev.to/vatul16/how-to-dockerize-a-nodejs-app-in-5-easy-steps-44d4",
     "topic": "docker"
   },
   {
-    "title": "How to Build a VPN App Without a DevOps Team",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Building a VPN app looks simple from the outside. You design an interface, add a connect button, show se",
-    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/how-to-build-a-vpn-app-without-a-devops-team-184m",
+    "title": "Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why",
+    "desc": "<p>If you run anything on Hetzner, you have probably already seen the notice. As of 08:00 CEST on June 15, 2026, <a href=\"https://docs.hetzn",
+    "link": "https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b",
     "topic": "general"
   },
   {
-    "title": "How do you know if your AI agent is working or just burning money?",
-    "desc": "<p>The moment you connect an MCP server, your coding agent stops being a thing that reads and writes in your repo\u2014it becomes something that ",
-    "link": "https://dev.to/renato_marinho/how-do-you-know-if-your-ai-agent-is-working-or-just-burning-money-9fi",
+    "title": "DevOps for Startups: Accelerating Growth and Innovation",
+    "desc": "<p>Startups operate in highly competitive environments where speed, innovation, and adaptability are essential for success. Bringing product",
+    "link": "https://dev.to/moontechbnolabs/devops-for-startups-accelerating-growth-and-innovation-3df0",
     "topic": "general"
   },
   {
-    "title": "The World Cup Stress Test: Managing Agentic AI Infrastructure During Global Traffic Spikes",
-    "desc": "<h1>\n  \n  \n  The World Cup Stress Test: Managing Agentic AI Infrastructure for Global Traffic Spikes\n</h1>\n\n<p>Traditional auto-scaling is a",
-    "link": "https://dev.to/omnithium/the-world-cup-stress-test-managing-agentic-ai-infrastructure-during-global-traffic-spikes-1h5n",
+    "title": "Direct-to-Chip Liquid Cooling Reliability: A Monitoring Playbook for AI Data Centers",
+    "desc": "<p>AI data centers are becoming thermal plants with GPUs inside them.</p>\n\n<p>Direct-to-chip liquid cooling can carry far more heat than air",
+    "link": "https://dev.to/reliabilityengine/liquid-cooling-reliability-for-ai-data-centers-what-to-monitor-before-uptime-slips-3h67",
     "topic": "general"
   },
   {
-    "title": "AI Scanned My Infra \u2014 67% Were Dead Weight on My Bill",
-    "desc": "<p>Last weekend I used AI to scan my AWS account for idle resources. Here's what I found:</p>\n\n<p><strong>Scanned 3 EC2 instances, flagged 2",
-    "link": "https://dev.to/paul_knoxops/ai-scanned-my-infra-67-were-dead-weight-on-my-bill-4e42",
+    "title": "The Beginner\u2019s Guide to NAT: Private vs Public IPs Made Simple",
+    "desc": "<p>When I first started studying private and public IPs, I honestly didn\u2019t realize how the internet actually worked behind the scenes. I tho",
+    "link": "https://dev.to/nagesh_k_2003/the-beginners-guide-to-nat-private-vs-public-ips-made-simple-3bbh",
     "topic": "general"
   },
   {
-    "title": "Karpenter consolidation: 6 settings worth tuning in 2026",
-    "desc": "<h2>\n  \n  \n  Quick take\n</h2>\n\n<blockquote>\n<p>Karpenter's defaults are tuned for compute cost, not for your workload's tolerance for disrup",
-    "link": "https://dev.to/muskan_8abedcc7e12/karpenter-consolidation-6-settings-worth-tuning-in-2026-4bo6",
+    "title": "Tech Debt? Embrace It!",
+    "desc": "<p>Tech debt isn\u2019t a dirty word. Acknowledge it, prioritize it, and share its impact with your team. Sometimes, a strategic decision to incu",
+    "link": "https://dev.to/fabiosarmento/tech-debt-embrace-it-1m09",
     "topic": "general"
   },
   {
-    "title": "AgentGuard \u2014 The Python SAST That Actually Fixes Your Code",
-    "desc": "<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>Every Python SAST tool does the same thing: scan, dump 500 findings, walk away.</p>\n\n<p>Bandit warns you ",
-    "link": "https://dev.to/agentguardp/agentguard-the-python-sast-that-actually-fixes-your-code-fah",
-    "topic": "general"
+    "title": "How CoreDNS Powers Service Discovery in Kubernetes",
+    "desc": "<p>CoreDNS is the DNS server that powers service discovery in Kubernetes. This post explains how Pods translate service names into IP addres",
+    "link": "https://dev.to/sreekanth_kuruba_91721e5d/how-coredns-powers-service-discovery-in-kubernetes-5fp1",
+    "topic": "kubernetes"
   }
 ]

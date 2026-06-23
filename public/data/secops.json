@@ -1,5 +1,29 @@
 [
   {
+    "title": "Algerian Man Extradited to US for Running Cybercrime Marketplaces",
+    "desc": "<p>26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/",
+    "topic": "secops"
+  },
+  {
+    "title": "FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances",
+    "desc": "<p>Attackers can send crafted media files to execute code in any application that uses FFmpeg\u2019s libavcodec library.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/",
+    "topic": "general"
+  },
+  {
+    "title": "OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery",
+    "desc": "<p>OpenAI has expanded its Daybreak cybersecurity initiative with a new suite of tools and partnerships.</p>\n<p>The post <a href=\"https://ww",
+    "link": "https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/",
+    "topic": "openai"
+  },
+  {
+    "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
+    "desc": "<p>Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
+    "topic": "general"
+  },
+  {
     "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
     "desc": "<p>Hackers stole customers\u2019 names, addresses, email addresses, phone numbers, and account information.</p>\n<p>The post <a href=\"https://www.",
     "link": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
@@ -21,30 +45,6 @@
     "title": "Decades-Old Squid Proxy Flaw \u2018Squidbleed\u2019 Can Expose User Data",
     "desc": "<p>Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability.\u00a0</p>\n<p>The post <a",
     "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
-    "topic": "general"
-  },
-  {
-    "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
-    "desc": "<p>Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
-    "topic": "secops"
-  },
-  {
-    "title": "North Korean Hackers Blamed for Mastra NPM Supply Chain Attack",
-    "desc": "<p>A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
-    "desc": "<p>Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage.</",
-    "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "New Exploit Bypasses Apple\u2019s Boot Defenses, Affects Millions of iPhones",
-    "desc": "<p>The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
     "topic": "general"
   }
 ]
