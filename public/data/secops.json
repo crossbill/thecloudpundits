@@ -1,5 +1,23 @@
 [
   {
+    "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
+    "desc": "<p>Attackers could abuse Dify's multi-tenant cloud service to read private chats, preview other tenants' documents, and reach internal APIs.",
+    "link": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
+    "topic": "aws"
+  },
+  {
+    "title": "Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks",
+    "desc": "<p>The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 t",
+    "link": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "CISO Conversations: Carl Froggett \u2013 Combining CISO and CIO at Deep Instinct",
+    "desc": "<p>Carl Froggett combines CISO and CIO. He currently occupies both positions at Deep Instinct. Before then, he was CISO at Citi for almost 1",
+    "link": "https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/",
+    "topic": "general"
+  },
+  {
     "title": "Algerian Man Extradited to US for Running Cybercrime Marketplaces",
     "desc": "<p>26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy.</p>\n<p>The pos",
     "link": "https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/",
@@ -28,23 +46,5 @@
     "desc": "<p>Hackers stole customers\u2019 names, addresses, email addresses, phone numbers, and account information.</p>\n<p>The post <a href=\"https://www.",
     "link": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
     "topic": "secops"
-  },
-  {
-    "title": "Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration",
-    "desc": "<p>Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/",
-    "topic": "general"
-  },
-  {
-    "title": "Xsolis Data Breach Affects 1.4 Million Individuals",
-    "desc": "<p>Threat actors gained access to personal and protected health information that Xsolis received from its clients.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/",
-    "topic": "secops"
-  },
-  {
-    "title": "Decades-Old Squid Proxy Flaw \u2018Squidbleed\u2019 Can Expose User Data",
-    "desc": "<p>Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability.\u00a0</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
-    "topic": "general"
   }
 ]

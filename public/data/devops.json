@@ -1,50 +1,50 @@
 [
   {
-    "title": "AWS Container Security: Best Practices & Solutions in 2026",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/aws-container-security-best-practices-solutions-in-2026\" rel=\"no",
-    "link": "https://dev.to/rasne/aws-container-security-best-practices-solutions-in-2026-59h8",
-    "topic": "aws"
-  },
-  {
-    "title": "How to Dockerize a Node.js App in 5 Easy Steps",
-    "desc": "<p>\"But it works on my machine!\" If you are a developer, you have likely said this exact phrase. Your code runs perfectly on your laptop, bu",
-    "link": "https://dev.to/vatul16/how-to-dockerize-a-nodejs-app-in-5-easy-steps-44d4",
-    "topic": "docker"
-  },
-  {
-    "title": "Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why",
-    "desc": "<p>If you run anything on Hetzner, you have probably already seen the notice. As of 08:00 CEST on June 15, 2026, <a href=\"https://docs.hetzn",
-    "link": "https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b",
+    "title": "73% of AI-agent credential leaks trace back to one mundane thing: debug logging",
+    "desc": "<p>A paper accepted to ASE 2026 \u2014 <em><a href=\"https://arxiv.org/abs/2604.03070\" rel=\"noopener noreferrer\">\"How Your Credentials Are Leaked ",
+    "link": "https://dev.to/brennhill/73-of-ai-agent-credential-leaks-trace-back-to-one-mundane-thing-debug-logging-59hc",
     "topic": "general"
   },
   {
-    "title": "DevOps for Startups: Accelerating Growth and Innovation",
-    "desc": "<p>Startups operate in highly competitive environments where speed, innovation, and adaptability are essential for success. Bringing product",
-    "link": "https://dev.to/moontechbnolabs/devops-for-startups-accelerating-growth-and-innovation-3df0",
+    "title": "Dev Log: 2026-06-22 \u2014 Configurable Schedulers, Load-Test Toolkits, and an MCP Server",
+    "desc": "<p>Some days the work spreads across a few projects instead of landing as one big feature. Today was that \u2014 three distinct threads, each wit",
+    "link": "https://dev.to/nasrulhazim/dev-log-2026-06-22-configurable-schedulers-load-test-toolkits-and-an-mcp-server-11op",
     "topic": "general"
   },
   {
-    "title": "Direct-to-Chip Liquid Cooling Reliability: A Monitoring Playbook for AI Data Centers",
-    "desc": "<p>AI data centers are becoming thermal plants with GPUs inside them.</p>\n\n<p>Direct-to-chip liquid cooling can carry far more heat than air",
-    "link": "https://dev.to/reliabilityengine/liquid-cooling-reliability-for-ai-data-centers-what-to-monitor-before-uptime-slips-3h67",
-    "topic": "general"
-  },
-  {
-    "title": "The Beginner\u2019s Guide to NAT: Private vs Public IPs Made Simple",
-    "desc": "<p>When I first started studying private and public IPs, I honestly didn\u2019t realize how the internet actually worked behind the scenes. I tho",
-    "link": "https://dev.to/nagesh_k_2003/the-beginners-guide-to-nat-private-vs-public-ips-made-simple-3bbh",
-    "topic": "general"
-  },
-  {
-    "title": "Tech Debt? Embrace It!",
-    "desc": "<p>Tech debt isn\u2019t a dirty word. Acknowledge it, prioritize it, and share its impact with your team. Sometimes, a strategic decision to incu",
-    "link": "https://dev.to/fabiosarmento/tech-debt-embrace-it-1m09",
-    "topic": "general"
-  },
-  {
-    "title": "How CoreDNS Powers Service Discovery in Kubernetes",
-    "desc": "<p>CoreDNS is the DNS server that powers service discovery in Kubernetes. This post explains how Pods translate service names into IP addres",
-    "link": "https://dev.to/sreekanth_kuruba_91721e5d/how-coredns-powers-service-discovery-in-kubernetes-5fp1",
+    "title": "Kubernetes for Beginners: From Local to Production \u2013 A Quest Inspired by *The Lord of the Rings*",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I was tired of watching my Docker compose file turn into a tangled web of <cod",
+    "link": "https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-quest-inspired-by-the-lord-of-the-rings-46m0",
     "topic": "kubernetes"
+  },
+  {
+    "title": "Monitoring Frontend Errors with Sentry + Alerting on PagerDuty",
+    "desc": "<p>Your guide to setting up a robust alerting pipeline for your frontend applications</p>\n\n<p>Have you ever been woken up at 3 AM by a frant",
+    "link": "https://dev.to/sohanaakbar7/monitoring-frontend-errors-with-sentry-alerting-on-pagerduty-59mc",
+    "topic": "general"
+  },
+  {
+    "title": "How to stop an AI agent from burning $47,000 in a loop nobody noticed.",
+    "desc": "<p>A multi-agent research system sat in production for eleven days doing exactly what it was built to do. Four agents, LangChain-style, coor",
+    "link": "https://dev.to/brianrhall/how-to-stop-an-ai-agent-from-burning-47000-in-a-loop-nobody-noticed-3pc9",
+    "topic": "general"
+  },
+  {
+    "title": "Humanizing Artificial Intelligence for Platform Engineering: Helping Internal Developer Platforms Become Easier to Use",
+    "desc": "<h2>\n  \n  \n  The Developer Who Just Wanted to Ship a Service\n</h2>\n\n<p>A backend developer on my team pinged me last week. She'd built a sma",
+    "link": "https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-platform-engineering-helping-internal-developer-platforms-6bc",
+    "topic": "general"
+  },
+  {
+    "title": "How to Structure Production-Ready CI/CD Pipelines at Scale",
+    "desc": "<p>In modern software development, scaling a CI/CD pipeline requires moving away from manual configurations to absolute automation. When man",
+    "link": "https://dev.to/thevwathrey/how-to-structure-production-ready-cicd-pipelines-at-scale-4l0g",
+    "topic": "general"
+  },
+  {
+    "title": "When your agent does something bad, can you tell which agent did it?",
+    "desc": "<p>An agent does something it shouldn't: deletes a record it had no business touching, sends a message to the wrong tenant, calls an API in ",
+    "link": "https://dev.to/brennhill/when-your-agent-does-something-bad-can-you-tell-which-agent-did-it-37a2",
+    "topic": "general"
   }
 ]
