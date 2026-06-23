@@ -1,50 +1,50 @@
 [
   {
-    "title": "73% of AI-agent credential leaks trace back to one mundane thing: debug logging",
-    "desc": "<p>A paper accepted to ASE 2026 \u2014 <em><a href=\"https://arxiv.org/abs/2604.03070\" rel=\"noopener noreferrer\">\"How Your Credentials Are Leaked ",
-    "link": "https://dev.to/brennhill/73-of-ai-agent-credential-leaks-trace-back-to-one-mundane-thing-debug-logging-59hc",
+    "title": "I built a CI budget check for MCP context bloat",
+    "desc": "<p>I built a small open source tool for a problem I kept running into with coding agents using MCP:</p>\n\n<p>tool surface area quietly become",
+    "link": "https://dev.to/danmercede/i-built-a-ci-budget-check-for-mcp-context-bloat-2n5b",
     "topic": "general"
   },
   {
-    "title": "Dev Log: 2026-06-22 \u2014 Configurable Schedulers, Load-Test Toolkits, and an MCP Server",
-    "desc": "<p>Some days the work spreads across a few projects instead of landing as one big feature. Today was that \u2014 three distinct threads, each wit",
-    "link": "https://dev.to/nasrulhazim/dev-log-2026-06-22-configurable-schedulers-load-test-toolkits-and-an-mcp-server-11op",
+    "title": "A Developer Roadmap for Building Production-Ready AI Agents",
+    "desc": "<p>Most AI agent projects start with a simple idea:</p>\n\n<p>Connect an LLM to a few tools and let it complete tasks.</p>\n\n<p>That works well",
+    "link": "https://dev.to/agntable/a-developer-roadmap-for-building-production-ready-ai-agents-4250",
     "topic": "general"
   },
   {
-    "title": "Kubernetes for Beginners: From Local to Production \u2013 A Quest Inspired by *The Lord of the Rings*",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I was tired of watching my Docker compose file turn into a tangled web of <cod",
-    "link": "https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-quest-inspired-by-the-lord-of-the-rings-46m0",
+    "title": "Enforcing Zero-Trust Egress in Kubernetes with NetworkPolicies",
+    "desc": "<p>Most teams invest heavily in locking down <em>inbound</em> traffic \u2014 ingress rules, service meshes, mutual TLS \u2014 while leaving outbound t",
+    "link": "https://dev.to/jorelfuji/enforcing-zero-trust-egress-in-kubernetes-with-networkpolicies-3hlc",
     "topic": "kubernetes"
   },
   {
-    "title": "Monitoring Frontend Errors with Sentry + Alerting on PagerDuty",
-    "desc": "<p>Your guide to setting up a robust alerting pipeline for your frontend applications</p>\n\n<p>Have you ever been woken up at 3 AM by a frant",
-    "link": "https://dev.to/sohanaakbar7/monitoring-frontend-errors-with-sentry-alerting-on-pagerduty-59mc",
+    "title": "What is an SBOM (and Why Can\u2019t You Ship Without One)?",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/what-is-an-sbom-and-why-cant-you-ship-without-one\" rel=\"noopener",
+    "link": "https://dev.to/rasne/what-is-an-sbom-and-why-cant-you-ship-without-one-jni",
     "topic": "general"
   },
   {
-    "title": "How to stop an AI agent from burning $47,000 in a loop nobody noticed.",
-    "desc": "<p>A multi-agent research system sat in production for eleven days doing exactly what it was built to do. Four agents, LangChain-style, coor",
-    "link": "https://dev.to/brianrhall/how-to-stop-an-ai-agent-from-burning-47000-in-a-loop-nobody-noticed-3pc9",
+    "title": "\ud83d\udccc We don't need 10 AI agents. We need one DevOps agent\u00a0\ud83d\udccc",
+    "desc": "<p>There are hundreds of AI agents right now.</p>\n\n<p>\u2714\ufe0f Coding agents<br />\n\u2714\ufe0f Research agents<br />\n\u2714\ufe0f Sales agents<br />\n\u2714\ufe0f Writing agent",
+    "link": "https://dev.to/lakhera2015/we-dont-need-10-ai-agents-we-need-one-devops-agent-nmc",
     "topic": "general"
   },
   {
-    "title": "Humanizing Artificial Intelligence for Platform Engineering: Helping Internal Developer Platforms Become Easier to Use",
-    "desc": "<h2>\n  \n  \n  The Developer Who Just Wanted to Ship a Service\n</h2>\n\n<p>A backend developer on my team pinged me last week. She'd built a sma",
-    "link": "https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-platform-engineering-helping-internal-developer-platforms-6bc",
+    "title": "What Happens When Your AI Agent Gets Stuck in Production?",
+    "desc": "<p>The most expensive AI agent failures I've seen weren't model failures.</p>\n\n<p>They were silent failures.</p>\n\n<p>The agent looked health",
+    "link": "https://dev.to/milancharan/what-happens-when-your-ai-agent-gets-stuck-in-production-3327",
     "topic": "general"
   },
   {
-    "title": "How to Structure Production-Ready CI/CD Pipelines at Scale",
-    "desc": "<p>In modern software development, scaling a CI/CD pipeline requires moving away from manual configurations to absolute automation. When man",
-    "link": "https://dev.to/thevwathrey/how-to-structure-production-ready-cicd-pipelines-at-scale-4l0g",
+    "title": "Optimizing Network Routing for Real-Time Applications: Why Your UDP Traffic and Gaming Latency Sucks",
+    "desc": "<p>When engineering backends, deploying real-time applications, or tuning network parameters for low-latency systems like online multiplayer",
+    "link": "https://dev.to/appcyberyozh/optimizing-network-routing-for-real-time-applications-why-your-udp-traffic-and-gaming-latency-sucks-55nn",
     "topic": "general"
   },
   {
-    "title": "When your agent does something bad, can you tell which agent did it?",
-    "desc": "<p>An agent does something it shouldn't: deletes a record it had no business touching, sends a message to the wrong tenant, calls an API in ",
-    "link": "https://dev.to/brennhill/when-your-agent-does-something-bad-can-you-tell-which-agent-did-it-37a2",
+    "title": "Benchmarking 5 LLM providers on one eval set, no SDK per vendor",
+    "desc": "<p><strong>TL;DR: We run a 1,200-case eval suite for enterprise agent automation at Nexus Labs. Comparing models across OpenAI, Anthropic, B",
+    "link": "https://dev.to/marcuswwchen/benchmarking-5-llm-providers-on-one-eval-set-no-sdk-per-vendor-2j6g",
     "topic": "general"
   }
 ]
