@@ -1,50 +1,50 @@
 [
   {
-    "title": "Everyone Is Building AI Agents. Nobody Is Talking About the Technical Debt",
-    "desc": "<p>Most developers are familiar with technical debt. It's the shortcut that helps you move faster today but creates problems tomorrow. We se",
-    "link": "https://dev.to/reetain_raina/everyone-is-building-ai-agents-nobody-is-talking-about-the-technical-debt-3ljm",
+    "title": "Fixing \u201cGit Divergent Branches\u201d on a Production Server (Real DevOps Debugging Walkthrough)",
+    "desc": "<p>One of the most confusing errors you can face while deploying a Node.js or Docker-based application is:<br />\n</p>\n\n<div class=\"highlight",
+    "link": "https://dev.to/saint_vandora/fixing-git-divergent-branches-on-a-production-server-real-devops-debugging-walkthrough-48np",
     "topic": "general"
   },
   {
-    "title": "AI Automation Tools in 2026: How Businesses Are Saving Time by Automating Repetitive Work",
-    "desc": "<p>Every company has talented people. Yet many employees still spend hours doing tasks that repeat every single day.</p>\n\n<p>A support team ",
-    "link": "https://dev.to/productwatch/ai-automation-tools-in-2026-how-businesses-are-saving-time-by-automating-repetitive-work-5cg2",
+    "title": "AI Agents for Security and DevOps: Productivity or Risk?",
+    "desc": "<p>When AWS announces frontier agents for security testing and cloud operations, the right question isn't 'does it work?' \u2014 it's 'at what co",
+    "link": "https://dev.to/fernando_azevedo_6844e930/ai-agents-for-security-and-devops-productivity-or-risk-49jc",
+    "topic": "secops"
+  },
+  {
+    "title": "Five Features I Shipped in tfdrift That Changed How We Handle Terraform Drift",
+    "desc": "<h1>\n  \n  \n  Five Features I Shipped in tfdrift That Changed How We Handle Terraform Drift\n</h1>\n\n<p>When I first released tfdrift, it did o",
+    "link": "https://dev.to/sudarshan_thakur_1e141b99/five-features-i-shipped-in-tfdrift-that-changed-how-we-handle-terraform-drift-3af5",
+    "topic": "terraform"
+  },
+  {
+    "title": "Deploy Your App to DigitalOcean in 5 Minutes (Node.js, Python, Go)",
+    "desc": "<h1>\n  \n  \n  Deploy Your App to DigitalOcean in 5 Minutes (Node.js, Python, Go)\n</h1>\n\n<p>You've built your app. Now you need it live. Here'",
+    "link": "https://dev.to/already_herellc_c954583f/deploy-your-app-to-digitalocean-in-5-minutes-nodejs-python-go-1635",
     "topic": "general"
   },
   {
-    "title": "The post-quantum EO is an important milestone. Now it\u2019s time to get to work",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/the-post-quantum-eo-is-an-important-milestone-now-its-time-to-ge",
-    "link": "https://dev.to/rasne/the-post-quantum-eo-is-an-important-milestone-now-its-time-to-get-to-work-3f7f",
+    "title": "Too cheap to be good? Think again.",
+    "desc": "<p>For years, I ran my WordPress sites on OpenLiteSpeed. Fast server, LSCache is genuinely impressive, and the OLS/WordPress combo is hard t",
+    "link": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
     "topic": "general"
   },
   {
-    "title": "Claude Code kept going down. So I built a router.",
-    "desc": "<h2>\n  \n  \n  The Hook\n</h2>\n\n<p>Last month, mid-sprint, my Claude subscription decided to take a vacation. Three days of \"Service Unavailabl",
-    "link": "https://dev.to/eroslifestyle/claude-code-kept-going-down-so-i-built-a-router-1an7",
-    "topic": "anthropic"
+    "title": "Exploring Microsoft Excel's Capabilities in Data Analysis",
+    "desc": "<p><u></u></p>\n<u>\n</u><h2>\n<u>\n  \n  \n  Microsoft Excel in Data Analysis </u>\n</h2>\n\n<p><em>By: Silvester Ochieng Opondo</em><br />\n<em>Cour",
+    "link": "https://dev.to/the_chosen_one/exploring-microsoft-excels-capabilities-in-data-analysis-5ec3",
+    "topic": "azure"
   },
   {
-    "title": "Deploying Zabbix Open-Source Monitoring Platform on Ubuntu 24.04",
-    "desc": "<p>Zabbix is an open-source monitoring platform that tracks the health and performance of servers, networks, applications, and services, wit",
-    "link": "https://dev.to/vultr/deploying-zabbix-open-source-monitoring-platform-on-ubuntu-2404-3coh",
-    "topic": "general"
+    "title": "How Botnets Impact Ticketing (And How Hardware Security Can Help)",
+    "desc": "<p>Managing high-demand ticket sales is a tough job. When a popular<br />\n<a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/",
+    "link": "https://dev.to/maria__kinyanta/how-botnets-impact-ticketing-and-how-hardware-security-can-help-4fjo",
+    "topic": "secops"
   },
   {
-    "title": "Deploying SeaweedFS, an Open-Source S3 Storage Alternative to MinIO, on Ubuntu 24.04",
-    "desc": "<p>SeaweedFS is an open-source, distributed object storage system with an S3-compatible API, a filer for POSIX-style hierarchical access, an",
-    "link": "https://dev.to/vultr/deploying-seaweedfs-an-open-source-s3-storage-alternative-to-minio-on-ubuntu-2404-jpn",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Qdrant Open-Source Vector Database for AI Applications on Ubuntu 24.04",
-    "desc": "<p>Qdrant is an open-source vector database for AI applications, optimised for similarity search over high-dimensional embeddings, with a RE",
-    "link": "https://dev.to/vultr/deploying-qdrant-open-source-vector-database-for-ai-applications-on-ubuntu-2404-5235",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Paperless-ngx Open-Source Document Management System on Ubuntu 24.04",
-    "desc": "<p>Paperless-ngx is an open-source document management system that converts scans and PDFs into a fully searchable archive using Tesseract O",
-    "link": "https://dev.to/vultr/deploying-paperless-ngx-open-source-document-management-system-on-ubuntu-2404-1og5",
+    "title": "Dependency Gap in AI Code: Declared 1, Imported 4",
+    "desc": "<p><strong>The dependency gap in AI-generated code is what the source imports minus what the manifest declares.</strong> A green CI run only",
+    "link": "https://dev.to/alex_spinov/dependency-gap-in-ai-code-declared-1-imported-4-2gdb",
     "topic": "general"
   }
 ]
