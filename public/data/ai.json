@@ -1,9 +1,21 @@
 [
   {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "desc": "",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "topic": "huggingface"
+  },
+  {
     "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
     "desc": "",
     "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
     "topic": "huggingface"
+  },
+  {
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "desc": "",
+    "link": "https://huggingface.co/blog/local-models-pr-triage",
+    "topic": "general"
   },
   {
     "title": "MosaicLeaks: Can your research agent keep a secret?",
@@ -34,17 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
     "topic": "huggingface"
-  },
-  {
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "desc": "",
-    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "topic": "general"
-  },
-  {
-    "title": "Agentic Resource Discovery: Let agents search",
-    "desc": "",
-    "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "topic": "general"
   }
 ]

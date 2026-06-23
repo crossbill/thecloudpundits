@@ -1,50 +1,50 @@
 [
   {
-    "title": "EBS gp2 burst credits ran dry and our builds slowed to a crawl",
-    "desc": "<p><strong>TL;DR: A chunk of our EC2 build agents got slow at the same time every afternoon. No CPU pressure, no memory pressure, no network",
-    "link": "https://dev.to/claire_nguyen/ebs-gp2-burst-credits-ran-dry-and-our-builds-slowed-to-a-crawl-5402",
+    "title": "Ch\u1ea1y GitHub Actions Self-Hosted Runner tr\u00ean Dell 16 Premium DA16250",
+    "desc": "<p>Vi\u1ec7c t\u1ef1 v\u1eadn h\u00e0nh m\u1ed9t <strong>GitHub Actions self-hosted runner</strong> tr\u00ean m\u00e1y c\u00e1 nh\u00e2n l\u00e0 gi\u1ea3i ph\u00e1p tuy\u1ec7t v\u1eddi \u0111\u1ec3 ti\u1ebft ki\u1ec7m chi ph\u00ed v\u00e0 k",
+    "link": "https://dev.to/hungphatlaptop/chay-github-actions-self-hosted-runner-tren-dell-16-premium-da16250-333h",
     "topic": "general"
   },
   {
-    "title": "Mastering Kubernetes Autoscaling: The Key to Dynamic Cost Optimization",
-    "desc": "<p>Modern applications rarely experience constant traffic. User demand fluctuates throughout the day, seasonal events create unexpected spik",
-    "link": "https://dev.to/keerthana_mokila_b10a0bd6/mastering-kubernetes-autoscaling-the-key-to-dynamic-cost-optimization-31af",
-    "topic": "kubernetes"
+    "title": "Building a Self-Hosted MLOps Platform from Scratch with FastAPI, PostgreSQL, GCS, and Docker",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Over the past few months, I set out to answer a simple question:</p>\n\n<p><strong>What does it take to bu",
+    "link": "https://dev.to/upshivam786/building-a-self-hosted-mlops-platform-from-scratch-with-fastapi-postgresql-gcs-and-docker-46i0",
+    "topic": "docker"
   },
   {
-    "title": "dream&drapes",
-    "desc": "<p>Dream & Drapes: Where Style Meets Comfort<br />\nWelcome to Dream & Drapes</p>\n\n<p>Fashion is more than just clothing\u2014it's a way to expres",
-    "link": "https://dev.to/rashmeet_kaurgolden_e0cb/dreamdrapes-8ao",
+    "title": "How to Build a VPN App Without a DevOps Team",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Building a VPN app looks simple from the outside. You design an interface, add a connect button, show se",
+    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/how-to-build-a-vpn-app-without-a-devops-team-184m",
     "topic": "general"
   },
   {
-    "title": "\u2601\ufe0f Configure AWS VPC subnet routing with Terraform made easy",
-    "desc": "<p>Approximately 30 % of newly created AWS VPCs lack a default route to an Internet Gateway, according to the AWS Well\u2011Architected Review of",
-    "link": "https://dev.to/ptp2308/configure-aws-vpc-subnet-routing-with-terraform-made-easy-bmb",
-    "topic": "aws"
-  },
-  {
-    "title": "I Just Deployed 8 Microservices with One Command \ud83d\ude80",
-    "desc": "<p>One of the biggest shifts in my DevOps journey has been moving from simple container deployments to full microservices environments.</p>\n",
-    "link": "https://dev.to/chioma_nwosu_99d57862fb18/i-just-deployed-8-microservices-with-one-command-1d17",
+    "title": "How do you know if your AI agent is working or just burning money?",
+    "desc": "<p>The moment you connect an MCP server, your coding agent stops being a thing that reads and writes in your repo\u2014it becomes something that ",
+    "link": "https://dev.to/renato_marinho/how-do-you-know-if-your-ai-agent-is-working-or-just-burning-money-9fi",
     "topic": "general"
   },
   {
-    "title": "The Silent Ledger Leak: Measuring Causality Violations in Async Payment Pipelines",
-    "desc": "<p>I spent the last few months trying to understand why reconciliation errors keep appearing in high-throughput pipelines. Here is what I fo",
-    "link": "https://dev.to/yakuburoseline1gif/the-silent-ledger-leak-measuring-causality-violations-in-async-payment-pipelines-4dnk",
+    "title": "The World Cup Stress Test: Managing Agentic AI Infrastructure During Global Traffic Spikes",
+    "desc": "<h1>\n  \n  \n  The World Cup Stress Test: Managing Agentic AI Infrastructure for Global Traffic Spikes\n</h1>\n\n<p>Traditional auto-scaling is a",
+    "link": "https://dev.to/omnithium/the-world-cup-stress-test-managing-agentic-ai-infrastructure-during-global-traffic-spikes-1h5n",
     "topic": "general"
   },
   {
-    "title": "7 Security Practices That Lock Down Automated API Workflows",
-    "desc": "<p>Automated API workflows speed up operations but widen attack surfaces. These 7 security practices protect your pipelines from evolving cy",
-    "link": "https://dev.to/mlxio_ai/7-security-practices-that-lock-down-automated-api-workflows-2i5d",
-    "topic": "secops"
+    "title": "AI Scanned My Infra \u2014 67% Were Dead Weight on My Bill",
+    "desc": "<p>Last weekend I used AI to scan my AWS account for idle resources. Here's what I found:</p>\n\n<p><strong>Scanned 3 EC2 instances, flagged 2",
+    "link": "https://dev.to/paul_knoxops/ai-scanned-my-infra-67-were-dead-weight-on-my-bill-4e42",
+    "topic": "general"
   },
   {
-    "title": "7 Cybersecurity Practices DevOps Teams Must Adopt in 2026",
-    "desc": "<p>DevOps teams must adopt 7 key cybersecurity practices in 2026 to reduce vulnerabilities and integrate security seamlessly into developmen",
-    "link": "https://dev.to/mlxio_ai/7-cybersecurity-practices-devops-teams-must-adopt-in-2026-3nnc",
-    "topic": "secops"
+    "title": "Karpenter consolidation: 6 settings worth tuning in 2026",
+    "desc": "<h2>\n  \n  \n  Quick take\n</h2>\n\n<blockquote>\n<p>Karpenter's defaults are tuned for compute cost, not for your workload's tolerance for disrup",
+    "link": "https://dev.to/muskan_8abedcc7e12/karpenter-consolidation-6-settings-worth-tuning-in-2026-4bo6",
+    "topic": "general"
+  },
+  {
+    "title": "AgentGuard \u2014 The Python SAST That Actually Fixes Your Code",
+    "desc": "<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>Every Python SAST tool does the same thing: scan, dump 500 findings, walk away.</p>\n\n<p>Bandit warns you ",
+    "link": "https://dev.to/agentguardp/agentguard-the-python-sast-that-actually-fixes-your-code-fah",
+    "topic": "general"
   }
 ]
