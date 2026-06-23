@@ -1,5 +1,11 @@
 [
   {
+    "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
+    "desc": "AWS launches a new serverless compute primitive, AWS Lambda MicroVMs. VM-level, isolated sandboxes with no shared kernel or resources betwee",
+    "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+    "topic": "aws"
+  },
+  {
     "title": "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)",
     "desc": "Last week AWS Summit New York City brought together thousands of customers, partners, and builders for a free, one-day event showcasing the ",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/",
@@ -39,12 +45,6 @@
     "title": "Proactively reduce tech debt autonomously with AWS Transform \u2013 continuous modernization (preview)",
     "desc": "AWS Transform \u2013 continuous modernization (preview) automatically scans code repositories to detect, prioritize, and remediate technical debt",
     "link": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/",
-    "topic": "aws"
-  },
-  {
-    "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
-    "desc": "AWS DevOps Agent now offers release management capability in preview, reviewing code changes for release readiness and running autonomous re",
-    "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview/",
     "topic": "aws"
   }
 ]
