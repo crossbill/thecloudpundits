@@ -1,5 +1,17 @@
 [
   {
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "desc": "",
+    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "topic": "general"
+  },
+  {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ffasr-leaderboard",
+    "topic": "general"
+  },
+  {
     "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
@@ -33,18 +45,6 @@
     "title": "MosaicLeaks: Can your research agent keep a secret?",
     "desc": "",
     "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "topic": "general"
-  },
-  {
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "desc": "",
-    "link": "https://huggingface.co/blog/peft-beyond-lora",
-    "topic": "general"
-  },
-  {
-    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "desc": "",
-    "link": "https://huggingface.co/blog/is-it-agentic-enough",
     "topic": "general"
   }
 ]
