@@ -1,50 +1,50 @@
 [
   {
+    "title": "Spotlight on WG Device Management",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/spotlight-on-wg-device-management\" rel=\"noopener noreferrer\">Spo",
+    "link": "https://dev.to/rasne/spotlight-on-wg-device-management-5b9b",
+    "topic": "general"
+  },
+  {
+    "title": "CI/CD Pipelines That Actually Work: Lessons from *The Matrix*",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to stare at my repo\u2019s README and think, \u201cIf only deploying felt less li",
+    "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-lessons-from-the-matrix-441",
+    "topic": "general"
+  },
+  {
+    "title": "I stopped trusting OpenClaw skills the day I realized some of them are basically npm packages with my credit card",
+    "desc": "<p>The safest way to use a third-party OpenClaw skill is to treat it like automation code with money and data access, not like a harmless pl",
+    "link": "https://dev.to/lars_winstand/i-stopped-trusting-openclaw-skills-the-day-i-realized-some-of-them-are-basically-npm-packages-with-42ne",
+    "topic": "general"
+  },
+  {
+    "title": "Autoscaling Is an Authority System, Not a Capacity System",
+    "desc": "<p>Autoscaling authority is the condition most cloud operations teams have never formally defined. Every organization running Kubernetes has",
+    "link": "https://dev.to/ntctech/autoscaling-is-an-authority-system-not-a-capacity-system-35j2",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Self-Hosting Headless Chrome Just to Take a Screenshot",
+    "desc": "<p>Every few months a teammate opens a pull request titled something like \"add OG image generation,\" and every few months it turns into a sa",
+    "link": "https://dev.to/toolkitonline/stop-self-hosting-headless-chrome-just-to-take-a-screenshot-5b6k",
+    "topic": "general"
+  },
+  {
+    "title": "Launched my free PDF tools website 9 days ago. Here's my traffic chart \u2014 is this normal?",
+    "desc": "<p>9 days ago I published trysaasbox.com \u2014 a free online PDF toolkit with 25+ tools (merge, compress, convert, edit, sign PDFs \u2014 no signup, ",
+    "link": "https://dev.to/saasbox_8/launched-my-free-pdf-tools-website-9-days-ago-heres-my-traffic-chart-is-this-normal-2kdd",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Deployment Platform on Self-Managed Infrastructure with k3s",
+    "desc": "<p>At the beginning of this year, our production workloads were spread across AWS, Contabo and GoDaddy.</p>\n\n<p>Most of the applications had",
+    "link": "https://dev.to/udep/building-a-deployment-platform-on-self-managed-infrastructure-with-k3s-1hk4",
+    "topic": "general"
+  },
+  {
     "title": "Share Skills Stay connected",
     "desc": "<p><a href=\"https://neolink.ge/\" rel=\"noopener noreferrer\">https://neolink.ge/</a></p>\n\n<p><strong>For professionals</strong><br />\nGetting ",
     "link": "https://dev.to/misha_berelidze_c88dd461a/share-skillsstay-connected-2ong",
-    "topic": "general"
-  },
-  {
-    "title": "You Set Up HTTPS. You Still Forgot These 5 HTTP Security Headers.",
-    "desc": "<p>Getting a green padlock feels like the security box is checked. It isn't. HTTPS encrypts the connection, but it says nothing about clickj",
-    "link": "https://dev.to/toolkitonline/you-set-up-https-you-still-forgot-these-5-http-security-headers-51ej",
-    "topic": "secops"
-  },
-  {
-    "title": "The Hardest Part of Building AIoT: Bridging the Chasm Between Cloud and the Physical Edge",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/the-hardest-part-of-building-aiot-bridging-the-chasm-between-cloud-and-the-physical-edge-391j",
-    "topic": "general"
-  },
-  {
-    "title": "How to Stop PII and Secrets From Being Sent to AI Tools",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/marco_rinaldi_179438a5611/how-to-stop-pii-and-secrets-from-being-sent-to-ai-tools-4kf",
-    "topic": "general"
-  },
-  {
-    "title": "Keeping Company Data Safe When Employees Use ChatGPT",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/claire_dubois/keeping-company-data-safe-when-employees-use-chatgpt-a06",
-    "topic": "openai"
-  },
-  {
-    "title": "How to Stop Employees From Pasting Sensitive Data Into AI Chatbots",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/claire_dubois/how-to-stop-employees-from-pasting-sensitive-data-into-ai-chatbots-1066",
-    "topic": "general"
-  },
-  {
-    "title": "How Teams Can See What AI Tools Are Used Day to Day",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/claire_dubois/how-teams-can-see-what-ai-tools-are-used-day-to-day-40fb",
-    "topic": "general"
-  },
-  {
-    "title": "Tracking Which AI Models and Apps Staff Are Sending Data To",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/claire_dubois/tracking-which-ai-models-and-apps-staff-are-sending-data-to-4p3a",
     "topic": "general"
   }
 ]
