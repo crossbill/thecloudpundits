@@ -1,5 +1,23 @@
 [
   {
+    "title": "New \u2018Mistic\u2019 RAT Opens Door to Several Ransomware Families",
+    "desc": "<p>Mistic is used by Woodgnat, an initial access broker working with Qilin, Interlock, Rhysida, Akira, 8Base, and Black Basta.</p>\n<p>The po",
+    "link": "https://www.securityweek.com/new-mistic-rat-opens-door-to-several-ransomware-families/",
+    "topic": "secops"
+  },
+  {
+    "title": "Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking",
+    "desc": "<p>The security defects allow unauthenticated users to take control of the open source software supply chain.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/exploitable-ci-cd-vulnerabilities-expose-millions-of-repositories-to-hijacking/",
+    "topic": "general"
+  },
+  {
+    "title": "BeyondTrust, LastPass Impacted by Klue-Salesforce Incident",
+    "desc": "<p>Over a dozen Klue customers have confirmed that hackers stole data from their Salesforce instances.</p>\n<p>The post <a href=\"https://www.",
+    "link": "https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/",
+    "topic": "secops"
+  },
+  {
     "title": "Webinar Today: Modern Exposure Validation in the AI Era",
     "desc": "<p>The exploit timeline collapsed. Make sure your validation didn't.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-mod",
     "link": "https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/",
@@ -28,23 +46,5 @@
     "desc": "<p>Attackers could abuse Dify's multi-tenant cloud service to read private chats, preview other tenants' documents, and reach internal APIs.",
     "link": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
     "topic": "aws"
-  },
-  {
-    "title": "Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks",
-    "desc": "<p>The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 t",
-    "link": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "CISO Conversations: Carl Froggett \u2013 Combining CISO and CIO at Deep Instinct",
-    "desc": "<p>Carl Froggett combines CISO and CIO. He currently occupies both positions at Deep Instinct. Before then, he was CISO at Citi for almost 1",
-    "link": "https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/",
-    "topic": "general"
-  },
-  {
-    "title": "Algerian Man Extradited to US for Running Cybercrime Marketplaces",
-    "desc": "<p>26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/",
-    "topic": "secops"
   }
 ]

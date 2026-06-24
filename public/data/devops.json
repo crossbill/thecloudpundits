@@ -1,50 +1,50 @@
 [
   {
-    "title": "Finding the Root Cause of Production Incidents in Seconds with GitLab Orbit & AI",
-    "desc": "<p>It\u2019s 2:00 AM. Your phone buzzes. Production is down, the checkout service is throwing 500 errors, and your team is scrambling. </p>\n\n<p>Y",
-    "link": "https://dev.to/arek_h/finding-the-root-cause-of-production-incidents-in-seconds-with-gitlab-orbit-ai-244i",
+    "title": "Finops savings decay vs drift rate, which number to watch",
+    "desc": "<p>Most FinOps teams track one number when they need two, and that gap is why savings evaporate quietly while costs accelerate visibly.</p>\n",
+    "link": "https://dev.to/muskan_8abedcc7e12/finops-savings-decay-vs-drift-rate-which-number-to-watch-39pc",
+    "topic": "finops"
+  },
+  {
+    "title": "Security Education and Awareness: Because Not Everyone Is Technical",
+    "desc": "<h1>\n  \n  \n  Security Education and Awareness: Because Not Everyone Is Technical\n</h1>\n\n<p>In most companies, you won't find a workforce mad",
+    "link": "https://dev.to/max-b-grc/security-education-and-awareness-because-not-everyone-is-technical-iji",
     "topic": "secops"
   },
   {
-    "title": "Airflow vs n8n vs Make for API orchestration",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<p>To follow this guide and test these platforms yourself, you'll need:</p>\n\n<ul>\n<li>\n<a href=\"https:/",
-    "link": "https://dev.to/chasebot/airflow-vs-n8n-vs-make-for-api-orchestration-1lb8",
+    "title": "Securing CI/CD with Shift Left Tactics",
+    "desc": "<h3>\n  \n  \n  Shift Left Security: Integrating Security into CI/CD Pipelines\n</h3>\n\n<h4>\n  \n  \n  The Problem\n</h4>\n\n<p>Security vulnerabiliti",
+    "link": "https://dev.to/vprachi360/securing-cicd-with-shift-left-tactics-5ejl",
     "topic": "general"
   },
   {
-    "title": "The Agentic Protocol Stack: How MCP, A2A, A2UI, and AG-UI Fit Together",
-    "desc": "<p>Four new protocol acronyms in eighteen months, and most engineers still can't explain how they relate to each other. That's not a knowled",
-    "link": "https://dev.to/sanjvij/the-agentic-protocol-stack-how-mcp-a2a-a2ui-and-ag-ui-fit-together-3po",
+    "title": "CDOA \u2013 Certified DataOps Architect: Building the Future of Scalable Data Platforms",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/zainab_1201/cdoa-certified-dataops-architect-building-the-future-of-scalable-data-platforms-40jb",
     "topic": "general"
   },
   {
-    "title": "10 Proven Revenue Streams for Bet365 Clone Script Owners in 2026",
-    "desc": "<p>The online sports betting industry continues to evolve rapidly, creating lucrative opportunities for entrepreneurs worldwide. As user dem",
-    "link": "https://dev.to/alan_james_35e491d20632c8/10-proven-revenue-streams-for-bet365-clone-script-owners-in-2026-5888",
+    "title": "Dashboard Design for Incident Response",
+    "desc": "<p>Most dashboards answer one question: <em>Is everything okay?</em></p>\n\n<p>During an incident, nobody's asking that.</p>\n\n<p>The real ques",
+    "link": "https://dev.to/mrinal_narang_13a3d00eb37/dashboard-design-for-incident-response-24i7",
+    "topic": "secops"
+  },
+  {
+    "title": "Streaming a pg_restore through Python without deadlocking",
+    "desc": "<p>You want to restore a database dump that arrived as an upload \u2014 a file object, maybe gigabytes \u2014 and you don't want to spool the whole th",
+    "link": "https://dev.to/hitoshi1964/streaming-a-pgrestore-through-python-without-deadlocking-2lje",
     "topic": "general"
   },
   {
-    "title": "Setting up a realistic, multi-machine environment on your own laptop used to mean juggling VirtualBox windows, clicking through installers, and hoping you could reproduce the same setup tomorrow. Vagrant replaces all of that with a single text file.",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/sa",
-    "link": "https://dev.to/saint_vandora/setting-up-a-realistic-multi-machine-environment-on-your-own-laptop-used-to-mean-juggling-1lb2",
+    "title": "From Code to Outcome: How AI-Augmented Teams Are Redefining Software Delivery in 2026",
+    "desc": "<p>For over a decade, we've helped <a href=\"https://kilowott.com/services/kilowott-for-brands/\" rel=\"noopener noreferrer\">brands</a> and <a ",
+    "link": "https://dev.to/kilowott/from-code-to-outcome-how-ai-augmented-teams-are-redefining-software-delivery-in-2026-4k0c",
     "topic": "general"
   },
   {
-    "title": "The Invisible Shield: Safeguarding Data Privacy Online",
-    "desc": "<p>Reclaiming Autonomy in a Hyper-Connected Era<br />\nIn today's hyper-connected society, our online behaviors are constantly tracked, aggre",
-    "link": "https://dev.to/darasem_9351c04dfc03d625e/the-invisible-shield-safeguarding-data-privacy-online-30f2",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Multi-VM Lab with Vagrant: Two Web Servers and a Database",
-    "desc": "<p>Setting up a realistic, multi-machine environment on your own laptop used to mean juggling VirtualBox windows, clicking through installer",
-    "link": "https://dev.to/saint_vandora/building-a-multi-vm-lab-with-vagrant-two-web-servers-and-a-database-2880",
-    "topic": "general"
-  },
-  {
-    "title": "Embracing Minimalism in the Modern Digital Workspace",
-    "desc": "<p>The Hidden Cost of Digital Hoarding<br />\nTake a close look at your browser's bookmark bar. For many of us, it is cluttered with old, bro",
-    "link": "https://dev.to/darasem_9351c04dfc03d625e/embracing-minimalism-in-the-modern-digital-workspace-34p1",
-    "topic": "general"
+    "title": "How I replaced three Azure emulators with one binary, added Key Vault and ACR, and cut my CI setup to a single step",
+    "desc": "<p>For a while, local Azure development in my projects looked like this: Azurite for Blob and Queue Storage, the Microsoft Service Bus Emula",
+    "link": "https://dev.to/kamil-mrzyglod/how-i-replaced-three-azure-emulators-with-one-binary-added-key-vault-and-acr-and-cut-my-ci-setup-18o6",
+    "topic": "azure"
   }
 ]
