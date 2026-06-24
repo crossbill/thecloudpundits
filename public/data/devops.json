@@ -1,50 +1,50 @@
 [
   {
-    "title": "Finops savings decay vs drift rate, which number to watch",
-    "desc": "<p>Most FinOps teams track one number when they need two, and that gap is why savings evaporate quietly while costs accelerate visibly.</p>\n",
-    "link": "https://dev.to/muskan_8abedcc7e12/finops-savings-decay-vs-drift-rate-which-number-to-watch-39pc",
-    "topic": "finops"
-  },
-  {
-    "title": "Security Education and Awareness: Because Not Everyone Is Technical",
-    "desc": "<h1>\n  \n  \n  Security Education and Awareness: Because Not Everyone Is Technical\n</h1>\n\n<p>In most companies, you won't find a workforce mad",
-    "link": "https://dev.to/max-b-grc/security-education-and-awareness-because-not-everyone-is-technical-iji",
-    "topic": "secops"
-  },
-  {
-    "title": "Securing CI/CD with Shift Left Tactics",
-    "desc": "<h3>\n  \n  \n  Shift Left Security: Integrating Security into CI/CD Pipelines\n</h3>\n\n<h4>\n  \n  \n  The Problem\n</h4>\n\n<p>Security vulnerabiliti",
-    "link": "https://dev.to/vprachi360/securing-cicd-with-shift-left-tactics-5ejl",
+    "title": "Minimus publica im\u00e1genes de contenedor con hasta 100% menos CVEs",
+    "desc": "<p>El cat\u00e1logo de <strong>im\u00e1genes endurecidas</strong> de Minimus lleg\u00f3 para disputar un mercado que Google y Chainguard ya hab\u00edan empezado",
+    "link": "https://dev.to/lu1tr0n/minimus-publica-imagenes-de-contenedor-con-hasta-100-menos-cves-5c1g",
     "topic": "general"
   },
   {
-    "title": "CDOA \u2013 Certified DataOps Architect: Building the Future of Scalable Data Platforms",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/zainab_1201/cdoa-certified-dataops-architect-building-the-future-of-scalable-data-platforms-40jb",
+    "title": "Life-Changing Shapewear Hacks: 15 Tips Every Brabic User Should Know",
+    "desc": "<p>You have bought your Brabic shapewear. You love how it feels and how it makes you look. But did you know there are dozens of ways to get ",
+    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/life-changing-shapewear-hacks-15-tips-every-brabic-user-should-know-28m9",
     "topic": "general"
   },
   {
-    "title": "Dashboard Design for Incident Response",
-    "desc": "<p>Most dashboards answer one question: <em>Is everything okay?</em></p>\n\n<p>During an incident, nobody's asking that.</p>\n\n<p>The real ques",
-    "link": "https://dev.to/mrinal_narang_13a3d00eb37/dashboard-design-for-incident-response-24i7",
-    "topic": "secops"
-  },
-  {
-    "title": "Streaming a pg_restore through Python without deadlocking",
-    "desc": "<p>You want to restore a database dump that arrived as an upload \u2014 a file object, maybe gigabytes \u2014 and you don't want to spool the whole th",
-    "link": "https://dev.to/hitoshi1964/streaming-a-pgrestore-through-python-without-deadlocking-2lje",
+    "title": "Understanding the Role of a Reverse Proxy in Software Engineering",
+    "desc": "<p>A reverse proxy is a server that sits between client devices and a backend server, forwarding client requests to the appropriate backend ",
+    "link": "https://dev.to/jefersoneiji/understanding-the-role-of-a-reverse-proxy-in-software-engineering-5cmf",
     "topic": "general"
   },
   {
-    "title": "From Code to Outcome: How AI-Augmented Teams Are Redefining Software Delivery in 2026",
-    "desc": "<p>For over a decade, we've helped <a href=\"https://kilowott.com/services/kilowott-for-brands/\" rel=\"noopener noreferrer\">brands</a> and <a ",
-    "link": "https://dev.to/kilowott/from-code-to-outcome-how-ai-augmented-teams-are-redefining-software-delivery-in-2026-4k0c",
+    "title": "How to build a DDNS updater with no API key",
+    "desc": "<h2>\n  \n  \n  How to build a DDNS updater with no API key\n</h2>\n\n<p>Dynamic DNS (DDNS) is one of those problems that sounds simple \u2014 keep a D",
+    "link": "https://dev.to/vix_2f14d2f56c1/how-to-build-a-ddns-updater-with-no-api-key-k4h",
     "topic": "general"
   },
   {
-    "title": "How I replaced three Azure emulators with one binary, added Key Vault and ACR, and cut my CI setup to a single step",
-    "desc": "<p>For a while, local Azure development in my projects looked like this: Azurite for Blob and Queue Storage, the Microsoft Service Bus Emula",
-    "link": "https://dev.to/kamil-mrzyglod/how-i-replaced-three-azure-emulators-with-one-binary-added-key-vault-and-acr-and-cut-my-ci-setup-18o6",
-    "topic": "azure"
+    "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/unlocking-the-cloudflare-app-ecosystem-with-oauth-for-all\" rel=\"",
+    "link": "https://dev.to/rasne/unlocking-the-cloudflare-app-ecosystem-with-oauth-for-all-3khn",
+    "topic": "general"
+  },
+  {
+    "title": "AI IT Ops Agent ROI for Retail: A Cost Framework",
+    "desc": "<p>Picture this: it's the Saturday before Black Friday. A point-of-sale terminal at your busiest store goes dark at 11:40 a.m. The line back",
+    "link": "https://dev.to/afzaal_a/ai-it-ops-agent-roi-for-retail-a-cost-framework-co4",
+    "topic": "general"
+  },
+  {
+    "title": "Review Focus Drills: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/review-focus-drills-what-we-learned-building-random-tactical-timer-7mk",
+    "topic": "general"
+  },
+  {
+    "title": "Day 34: Advanced ClickHouse\u00ae Aggregating Functions",
+    "desc": "<h1>\n  \n  \n  Advanced ClickHouse\u00ae Aggregating Functions\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Aggregation is one of the key capabilitie",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-34-advanced-clickhouser-aggregating-functions-3i53",
+    "topic": "general"
   }
 ]

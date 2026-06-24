@@ -1,5 +1,35 @@
 [
   {
+    "title": "Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk",
+    "desc": "<p>The new framework seeks to help security teams identify which software supply chain vulnerabilities pose the greatest operational, safety",
+    "link": "https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/",
+    "topic": "general"
+  },
+  {
+    "title": "macOS Weaknesses Chained to Silently Disable Endpoint Security Agents",
+    "desc": "<p>A standard non-admin account is sufficient to conduct an attack that exploits legitimate OS behavior rather than software vulnerabilities",
+    "link": "https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/",
+    "topic": "secops"
+  },
+  {
+    "title": "Third DraftKings Hacker Sentenced to 18 Months in Prison",
+    "desc": "<p>Nathan Austad has been ordered to pay roughly $1.8 million in forfeiture and restitution, and the sentence also includes 3 years of super",
+    "link": "https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/",
+    "topic": "general"
+  },
+  {
+    "title": "Critical Ubiquiti Vulnerabilities in Attackers\u2019 Crosshairs",
+    "desc": "<p>The flaws allow remote, unauthenticated attackers to make system changes, access underlying accounts, and inject commands.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/",
+    "topic": "secops"
+  },
+  {
+    "title": "Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed",
+    "desc": "<p>Context is the central plank of AI in general, and agentic AI in particular. If an AI system doesn\u2019t have the correct context, it cannot ",
+    "link": "https://www.securityweek.com/agentic-ai-security-wrong-context-wrong-decisions-at-machine-speed/",
+    "topic": "secops"
+  },
+  {
     "title": "New \u2018Mistic\u2019 RAT Opens Door to Several Ransomware Families",
     "desc": "<p>Mistic is used by Woodgnat, an initial access broker working with Qilin, Interlock, Rhysida, Akira, 8Base, and Black Basta.</p>\n<p>The po",
     "link": "https://www.securityweek.com/new-mistic-rat-opens-door-to-several-ransomware-families/",
@@ -16,35 +46,5 @@
     "desc": "<p>Over a dozen Klue customers have confirmed that hackers stole data from their Salesforce instances.</p>\n<p>The post <a href=\"https://www.",
     "link": "https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/",
     "topic": "secops"
-  },
-  {
-    "title": "Webinar Today: Modern Exposure Validation in the AI Era",
-    "desc": "<p>The exploit timeline collapsed. Make sure your validation didn't.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-mod",
-    "link": "https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/",
-    "topic": "general"
-  },
-  {
-    "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
-    "desc": "<p>Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "Anthropic\u2019s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says",
-    "desc": "<p>Come vulnerabilities were found within hours, but that does not mean the model was able to exploit them within that time, the official sa",
-    "link": "https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Dragos Unveils AI for OT Security",
-    "desc": "<p>Named EmberAI, the new capability is built on Dragos\u2019 massive operational technology cybersecurity dataset.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/dragos-unveils-ai-for-ot-security/",
-    "topic": "secops"
-  },
-  {
-    "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
-    "desc": "<p>Attackers could abuse Dify's multi-tenant cloud service to read private chats, preview other tenants' documents, and reach internal APIs.",
-    "link": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
-    "topic": "aws"
   }
 ]
