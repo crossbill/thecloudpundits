@@ -1,5 +1,17 @@
 [
   {
+    "title": "Webinar Today: Modern Exposure Validation in the AI Era",
+    "desc": "<p>The exploit timeline collapsed. Make sure your validation didn't.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-mod",
+    "link": "https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/",
+    "topic": "general"
+  },
+  {
+    "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
+    "desc": "<p>Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June.</p>\n<p>The post <a href=\"https://ww",
+    "link": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "Anthropic\u2019s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says",
     "desc": "<p>Come vulnerabilities were found within hours, but that does not mean the model was able to exploit them within that time, the official sa",
     "link": "https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
@@ -34,17 +46,5 @@
     "desc": "<p>26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy.</p>\n<p>The pos",
     "link": "https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/",
     "topic": "secops"
-  },
-  {
-    "title": "FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances",
-    "desc": "<p>Attackers can send crafted media files to execute code in any application that uses FFmpeg\u2019s libavcodec library.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/",
-    "topic": "general"
-  },
-  {
-    "title": "OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery",
-    "desc": "<p>OpenAI has expanded its Daybreak cybersecurity initiative with a new suite of tools and partnerships.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/",
-    "topic": "openai"
   }
 ]
