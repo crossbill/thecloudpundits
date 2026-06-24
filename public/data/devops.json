@@ -1,5 +1,35 @@
 [
   {
+    "title": "Why Role-Based Access Control Isn't Enough for OT Security",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/why-role-based-access-control-isnt-enough-for-ot-security\" rel=\"",
+    "link": "https://dev.to/rasne/why-role-based-access-control-isnt-enough-for-ot-security-jp3",
+    "topic": "secops"
+  },
+  {
+    "title": "When your bash scripts outgrow bash (but you don't want a platform)",
+    "desc": "<p>Every team has <em>the script</em>. It started as five lines that built and deployed a service. Two years later it's 300 lines of bash wi",
+    "link": "https://dev.to/mind_buger_e485cb34a93d41/when-your-bash-scripts-outgrow-bash-but-you-dont-want-a-platform-k51",
+    "topic": "general"
+  },
+  {
+    "title": "My Cron Jobs Were Firing 10 Hours Off Their Own Comments",
+    "desc": "<p>I scheduled a heavy maintenance job to run Saturday at 6am, while I was asleep and nothing else was using the machine. Weeks later I chec",
+    "link": "https://dev.to/diven_rastdus_c5af27d68f3/my-cron-jobs-were-firing-10-hours-off-their-own-comments-150b",
+    "topic": "general"
+  },
+  {
+    "title": "Uber Burned Through Its Entire AI Coding Budget in 4 Months. Here's What Smart Teams Do Instead.",
+    "desc": "<p>The AI coding bill just became everyone's problem. In the last two weeks alone:</p>\n\n<ul>\n<li>\n<strong>Uber</strong> blew through its ent",
+    "link": "https://dev.to/aplomb2/uber-burned-through-its-entire-ai-coding-budget-in-4-months-heres-what-smart-teams-do-instead-2792",
+    "topic": "general"
+  },
+  {
+    "title": "My Journey as a Full Stack and AI Developer",
+    "desc": "<p>Hello everyone! \ud83d\udc4b</p>\n\n<p>I am a Full Stack and AI Developer with a passion for building intelligent applications that solve real-world p",
+    "link": "https://dev.to/daiki951015/my-journey-as-a-full-stack-and-ai-developer-1akk",
+    "topic": "general"
+  },
+  {
     "title": "Spotlight on WG Device Management",
     "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/spotlight-on-wg-device-management\" rel=\"noopener noreferrer\">Spo",
     "link": "https://dev.to/rasne/spotlight-on-wg-device-management-5b9b",
@@ -15,36 +45,6 @@
     "title": "I stopped trusting OpenClaw skills the day I realized some of them are basically npm packages with my credit card",
     "desc": "<p>The safest way to use a third-party OpenClaw skill is to treat it like automation code with money and data access, not like a harmless pl",
     "link": "https://dev.to/lars_winstand/i-stopped-trusting-openclaw-skills-the-day-i-realized-some-of-them-are-basically-npm-packages-with-42ne",
-    "topic": "general"
-  },
-  {
-    "title": "Autoscaling Is an Authority System, Not a Capacity System",
-    "desc": "<p>Autoscaling authority is the condition most cloud operations teams have never formally defined. Every organization running Kubernetes has",
-    "link": "https://dev.to/ntctech/autoscaling-is-an-authority-system-not-a-capacity-system-35j2",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Self-Hosting Headless Chrome Just to Take a Screenshot",
-    "desc": "<p>Every few months a teammate opens a pull request titled something like \"add OG image generation,\" and every few months it turns into a sa",
-    "link": "https://dev.to/toolkitonline/stop-self-hosting-headless-chrome-just-to-take-a-screenshot-5b6k",
-    "topic": "general"
-  },
-  {
-    "title": "Launched my free PDF tools website 9 days ago. Here's my traffic chart \u2014 is this normal?",
-    "desc": "<p>9 days ago I published trysaasbox.com \u2014 a free online PDF toolkit with 25+ tools (merge, compress, convert, edit, sign PDFs \u2014 no signup, ",
-    "link": "https://dev.to/saasbox_8/launched-my-free-pdf-tools-website-9-days-ago-heres-my-traffic-chart-is-this-normal-2kdd",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Deployment Platform on Self-Managed Infrastructure with k3s",
-    "desc": "<p>At the beginning of this year, our production workloads were spread across AWS, Contabo and GoDaddy.</p>\n\n<p>Most of the applications had",
-    "link": "https://dev.to/udep/building-a-deployment-platform-on-self-managed-infrastructure-with-k3s-1hk4",
-    "topic": "general"
-  },
-  {
-    "title": "Share Skills Stay connected",
-    "desc": "<p><a href=\"https://neolink.ge/\" rel=\"noopener noreferrer\">https://neolink.ge/</a></p>\n\n<p><strong>For professionals</strong><br />\nGetting ",
-    "link": "https://dev.to/misha_berelidze_c88dd461a/share-skillsstay-connected-2ong",
     "topic": "general"
   }
 ]
