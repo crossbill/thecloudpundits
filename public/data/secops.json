@@ -1,5 +1,29 @@
 [
   {
+    "title": "Runlayer Raises $30 Million in Series A Funding",
+    "desc": "<p>The startup\u2019s platform functions as a secure control layer, aiming to secure AI tools across enterprises.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
+    "topic": "general"
+  },
+  {
+    "title": "Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply",
+    "desc": "<p>Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
+    "topic": "general"
+  },
+  {
+    "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
+    "desc": "<p>The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project.</p>\n<p",
+    "link": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
+    "topic": "secops"
+  },
+  {
+    "title": "GitLab Patches Code Execution, Information Disclosure Vulnerabilities",
+    "desc": "<p>The latest GitLab CE/EE updates address 13 vulnerabilities, including three high-severity defects.</p>\n<p>The post <a href=\"https://www.s",
+    "link": "https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "25-Year-Old Vulnerability Patched in Curl",
     "desc": "<p>The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
@@ -22,29 +46,5 @@
     "desc": "<p>CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching.</p>\n<p>Th",
     "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
     "topic": "general"
-  },
-  {
-    "title": "When Information Becomes the Attack Surface \u2013 Understanding AI Agent Traps",
-    "desc": "<p>From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI.</p>",
-    "link": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
-    "topic": "secops"
-  },
-  {
-    "title": "Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware",
-    "desc": "<p>Hundreds of C&C servers were disrupted in an operation involving law enforcement and several cybersecurity companies.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/",
-    "topic": "azure"
-  },
-  {
-    "title": "Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk",
-    "desc": "<p>The new framework seeks to help security teams identify which software supply chain vulnerabilities pose the greatest operational, safety",
-    "link": "https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/",
-    "topic": "general"
-  },
-  {
-    "title": "macOS Weaknesses Chained to Silently Disable Endpoint Security Agents",
-    "desc": "<p>A standard non-admin account is sufficient to conduct an attack that exploits legitimate OS behavior rather than software vulnerabilities",
-    "link": "https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/",
-    "topic": "secops"
   }
 ]

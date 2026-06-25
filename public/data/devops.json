@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why We Built Live Call Routing the Lean Way",
-    "desc": "<p>When email is not enough, you need a human on the phone. Live Call Routing should not require a sales cycle or telephony markup. Here is ",
-    "link": "https://dev.to/mads_quist/why-we-built-live-call-routing-the-lean-way-4e9m",
+    "title": "Agent runs need their own session identity, not the human's",
+    "desc": "<p>One of the quiet assumptions that breaks first when agents move from demos to production is that the agent should run as the human user.<",
+    "link": "https://dev.to/armorer_labs/agent-runs-need-their-own-session-identity-not-the-humans-4inc",
     "topic": "general"
   },
   {
-    "title": "From One Source to Everywhere \u2014 Building an Automated Content Repurposing Pipeline with AI",
-    "desc": "<p>Every developer who owns a product knows the pain: you write one great piece of content \u2014 a blog post, a tutorial, a deep-dive \u2014 and then",
-    "link": "https://dev.to/claudia-ve/from-one-source-to-everywhere-building-an-automated-content-repurposing-pipeline-with-ai-jon",
+    "title": "r/openclaw apologized for moderating too hard and honestly that tells you everything",
+    "desc": "<p>A 41-upvote, 19-comment post on r/openclaw called <a href=\"https://reddit.com/r/openclaw/comments/1uezqx6/were_sorry/\" rel=\"noopener nore",
+    "link": "https://dev.to/lars_winstand/ropenclaw-apologized-for-moderating-too-hard-and-honestly-that-tells-you-everything-2579",
     "topic": "general"
   },
   {
-    "title": "How to Implement AI Procure-to-Pay: A Step-by-Step Guide",
-    "desc": "<h1>\n  \n  \n  Practical Implementation Guide for Intelligent Procurement\n</h1>\n\n<p>Transforming your procurement operations with artificial i",
-    "link": "https://dev.to/jasperstewart/how-to-implement-ai-procure-to-pay-a-step-by-step-guide-onf",
+    "title": "Catching run-only connection misconfigurations in Power Automate Child Flows",
+    "desc": "<p>This post was written alongside Claude Opus 4.8 using a custom \"My Voice\" skill. Every word is checked and verified by me \u2014 but without C",
+    "link": "https://dev.to/mcombp/catching-run-only-connection-misconfigurations-in-power-automate-child-flows-3nj3",
     "topic": "general"
   },
   {
-    "title": "How to Add Idempotency Keys to Your Data Pipeline Without Rewriting the Whole Codebase",
-    "desc": "<p>Retries are only safe if the operation being retried is idempotent. Insert a row twice, get two rows. Send an email twice, send two email",
-    "link": "https://dev.to/137foundry/how-to-add-idempotency-keys-to-your-data-pipeline-without-rewriting-the-whole-codebase-552",
+    "title": "Automate Your Docker Builds with GitHub Actions",
+    "desc": "<p>Over the last two weeks, we solved two massive DevOps problems. First, we stopped deploying manually by <a href=\"https://dev.to/vatul16/s",
+    "link": "https://dev.to/vatul16/automate-your-docker-builds-with-github-actions-4nbp",
+    "topic": "docker"
+  },
+  {
+    "title": "I Built a Log Monitoring Script with DeepSeek \u2014 Here is What Went Wrong",
+    "desc": "<p>The short answer is: I built a log monitoring Python script using DeepSeek, but the generated code hallucinated and needed a lot of manua",
+    "link": "https://dev.to/youngones/i-built-a-log-monitoring-script-with-deepseek-here-is-what-went-wrong-3h5e",
     "topic": "general"
   },
   {
-    "title": "Why Circuit Breakers and Retry Loops Belong Together (and What Each Does On Its Own)",
-    "desc": "<p>A retry loop without a circuit breaker keeps hammering a dead upstream until the retry budget is exhausted. A circuit breaker without a r",
-    "link": "https://dev.to/137foundry/why-circuit-breakers-and-retry-loops-belong-together-and-what-each-does-on-its-own-2a3m",
+    "title": "Why Telecom Order Fulfillment Becomes a Workflow Problem",
+    "desc": "<p>The telecom industry has some of the most complex and distributed systems out there. Over time, business logic gets stitched together in ",
+    "link": "https://dev.to/unmeshed/why-telecom-order-fulfillment-becomes-a-workflow-problem-doo",
     "topic": "general"
   },
   {
-    "title": "Autoankauf Stolberg: Ihr zuverl\u00e4ssiger Partner f\u00fcr Gebrauchtwagen und Unfallwagen in Deutschland",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/greman_autoguide_ec374e8/autoankauf-stolberg-ihr-zuverlassiger-partner-fur-gebrauchtwagen-und-unfallwagen-in-deutschland-1iaf",
+    "title": "From Code to Outcome: How AI-Augmented Teams Are Redefining Software Delivery in 2026",
+    "desc": "<blockquote>\n<p>\"The future of software belongs to teams that combine human expertise with AI-powered execution.\"</p>\n</blockquote>\n\n<p>For ",
+    "link": "https://dev.to/kilowott_dx/from-code-to-outcome-how-ai-augmented-teams-are-redefining-software-delivery-in-2026-3dcl",
     "topic": "general"
   },
   {
-    "title": "Before you touch DNS: the going-live checklist for client web projects",
-    "desc": "<p><em>Disclosure: I'm Claude, running as <a class=\"mentioned-user\" href=\"https://dev.to/projectnomad\">@projectnomad</a> \u2014 an autonomous-AI-",
-    "link": "https://dev.to/projectnomad/before-you-touch-dns-the-going-live-checklist-for-client-web-projects-4nij",
-    "topic": "general"
-  },
-  {
-    "title": "How to Fail a CI Build When a Downloaded Artifact's SHA-256 Does Not Match the Expected Hash",
-    "desc": "<p>CI pipelines routinely download things. A Terraform binary pinned to a specific version. A custom container image base. A vendored model ",
-    "link": "https://dev.to/evvytools/how-to-fail-a-ci-build-when-a-downloaded-artifacts-sha-256-does-not-match-the-expected-hash-25ob",
+    "title": "How DevOps Engineers Can Prepare for AIOps Interviews",
+    "desc": "<p>DevOps interviews are changing. Companies still look for skills in Linux, CI/CD, cloud, containers, Kubernetes, and monitoring \u2014 but now ",
+    "link": "https://dev.to/brillius/how-devops-engineers-can-prepare-for-aiops-interviews-534d",
     "topic": "general"
   }
 ]
