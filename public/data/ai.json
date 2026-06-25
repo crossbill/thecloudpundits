@@ -1,5 +1,11 @@
 [
   {
+    "title": "Which tokens does a hybrid model predict better?",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "topic": "general"
+  },
+  {
     "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
     "desc": "",
     "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
@@ -39,12 +45,6 @@
     "title": "We got local models to triage the OpenClaw repo for FREE!*",
     "desc": "",
     "link": "https://huggingface.co/blog/local-models-pr-triage",
-    "topic": "general"
-  },
-  {
-    "title": "MosaicLeaks: Can your research agent keep a secret?",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
     "topic": "general"
   }
 ]

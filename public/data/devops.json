@@ -1,50 +1,50 @@
 [
   {
-    "title": "Agent runs need their own session identity, not the human's",
-    "desc": "<p>One of the quiet assumptions that breaks first when agents move from demos to production is that the agent should run as the human user.<",
-    "link": "https://dev.to/armorer_labs/agent-runs-need-their-own-session-identity-not-the-humans-4inc",
+    "title": "Migrate from Unleash to Rollgate: Drop the Ops Bill",
+    "desc": "<p><em>Originally published on <a href=\"https://rollgate.io/blog/migrate-from-unleash\" rel=\"noopener noreferrer\">rollgate.io</a>.</em></p>\n\n",
+    "link": "https://dev.to/domenico_giordano_e441224/migrate-from-unleash-to-rollgate-drop-the-ops-bill-1mfd",
     "topic": "general"
   },
   {
-    "title": "r/openclaw apologized for moderating too hard and honestly that tells you everything",
-    "desc": "<p>A 41-upvote, 19-comment post on r/openclaw called <a href=\"https://reddit.com/r/openclaw/comments/1uezqx6/were_sorry/\" rel=\"noopener nore",
-    "link": "https://dev.to/lars_winstand/ropenclaw-apologized-for-moderating-too-hard-and-honestly-that-tells-you-everything-2579",
-    "topic": "general"
+    "title": "Why Kubernetes Optimization Never Stops",
+    "desc": "<p>You deploy your app on Kubernetes. The pods are running, traffic is flowing, and the dashboard looks green. Job done, right?</p>\n\n<p>Not ",
+    "link": "https://dev.to/puneetha_jalagam/why-kubernetes-optimization-never-stops-577k",
+    "topic": "kubernetes"
   },
   {
-    "title": "Catching run-only connection misconfigurations in Power Automate Child Flows",
-    "desc": "<p>This post was written alongside Claude Opus 4.8 using a custom \"My Voice\" skill. Every word is checked and verified by me \u2014 but without C",
-    "link": "https://dev.to/mcombp/catching-run-only-connection-misconfigurations-in-power-automate-child-flows-3nj3",
-    "topic": "general"
-  },
-  {
-    "title": "Automate Your Docker Builds with GitHub Actions",
-    "desc": "<p>Over the last two weeks, we solved two massive DevOps problems. First, we stopped deploying manually by <a href=\"https://dev.to/vatul16/s",
-    "link": "https://dev.to/vatul16/automate-your-docker-builds-with-github-actions-4nbp",
+    "title": "Docker Multi-Stage Builds: Slash Your Image Size by 90%",
+    "desc": "<p>A typical Node.js Docker image weighs 1.2 GB. A Go binary image can be 800 MB. Most of that weight comes from build tooling, dev dependen",
+    "link": "https://dev.to/devtocash/docker-multi-stage-builds-slash-your-image-size-by-90-3k34",
     "topic": "docker"
   },
   {
-    "title": "I Built a Log Monitoring Script with DeepSeek \u2014 Here is What Went Wrong",
-    "desc": "<p>The short answer is: I built a log monitoring Python script using DeepSeek, but the generated code hallucinated and needed a lot of manua",
-    "link": "https://dev.to/youngones/i-built-a-log-monitoring-script-with-deepseek-here-is-what-went-wrong-3h5e",
+    "title": "EU Cyber Resilience Act: Overview, Requirements, and Timelines",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/eu-cyber-resilience-act-overview-requirements-and-timelines\" rel",
+    "link": "https://dev.to/rasne/eu-cyber-resilience-act-overview-requirements-and-timelines-2l0p",
+    "topic": "secops"
+  },
+  {
+    "title": "\u00bfQu\u00e9 resuelve Kong Gateway en tu arquitectura?",
+    "desc": "<p>\u00a1Hola Chiquis!\ud83d\udc4b\ud83c\udffb En el ecosistema del desarrollo moderno, exponer microservicios sin un <strong>API Gateway</strong> robusto es como abri",
+    "link": "https://dev.to/orli/que-resuelve-kong-gateway-en-tu-arquitectura-1gpj",
     "topic": "general"
   },
   {
-    "title": "Why Telecom Order Fulfillment Becomes a Workflow Problem",
-    "desc": "<p>The telecom industry has some of the most complex and distributed systems out there. Over time, business logic gets stitched together in ",
-    "link": "https://dev.to/unmeshed/why-telecom-order-fulfillment-becomes-a-workflow-problem-doo",
+    "title": "Error Budgets: Stop Wasting Your SRE Team's Time",
+    "desc": "<p>You have a 99.9 percent SLO target. Your team is on-call, paged for every 500 error, and deployments freeze because error rates are sligh",
+    "link": "https://dev.to/devtocash/error-budgets-stop-wasting-your-sre-teams-time-4c08",
     "topic": "general"
   },
   {
-    "title": "From Code to Outcome: How AI-Augmented Teams Are Redefining Software Delivery in 2026",
-    "desc": "<blockquote>\n<p>\"The future of software belongs to teams that combine human expertise with AI-powered execution.\"</p>\n</blockquote>\n\n<p>For ",
-    "link": "https://dev.to/kilowott_dx/from-code-to-outcome-how-ai-augmented-teams-are-redefining-software-delivery-in-2026-3dcl",
+    "title": "Test Post - Error Budgets Guide",
+    "desc": "<p>This is a test article about error budgets in SRE.</p>\n\n<p>Error budgets are a critical concept in Site Reliability Engineering that help",
+    "link": "https://dev.to/devtocash/test-post-error-budgets-guide-1lh1",
     "topic": "general"
   },
   {
-    "title": "How DevOps Engineers Can Prepare for AIOps Interviews",
-    "desc": "<p>DevOps interviews are changing. Companies still look for skills in Linux, CI/CD, cloud, containers, Kubernetes, and monitoring \u2014 but now ",
-    "link": "https://dev.to/brillius/how-devops-engineers-can-prepare-for-aiops-interviews-534d",
+    "title": "From Root CA to User Authorization in nginx+apache. Part 2: Certificate Revocation, CRL and OCSP",
+    "desc": "<blockquote>\n<p>A follow-up to Part 1 (<a href=\"https://www.linkedin.com/pulse/from-root-ca-user-authorization-nginxapache-part-1-creating-d",
+    "link": "https://dev.to/keyk/from-root-ca-to-user-authorization-in-nginxapache-part-2-certificate-revocation-crl-and-ocsp-20a1",
     "topic": "general"
   }
 ]
