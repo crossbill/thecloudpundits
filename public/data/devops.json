@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Role-Based Access Control Isn't Enough for OT Security",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/why-role-based-access-control-isnt-enough-for-ot-security\" rel=\"",
-    "link": "https://dev.to/rasne/why-role-based-access-control-isnt-enough-for-ot-security-jp3",
-    "topic": "secops"
-  },
-  {
-    "title": "When your bash scripts outgrow bash (but you don't want a platform)",
-    "desc": "<p>Every team has <em>the script</em>. It started as five lines that built and deployed a service. Two years later it's 300 lines of bash wi",
-    "link": "https://dev.to/mind_buger_e485cb34a93d41/when-your-bash-scripts-outgrow-bash-but-you-dont-want-a-platform-k51",
+    "title": "Residential Proxy vs Datacenter Proxy: Debugging Why Your Scraper Fails in Production",
+    "desc": "<p>When your scraper works perfectly in testing but collapses at scale, the first instinct is often to blame the proxy type. Should you swit",
+    "link": "https://dev.to/9proxy/residential-proxy-vs-datacenter-proxy-debugging-why-your-scraper-fails-in-production-2170",
     "topic": "general"
   },
   {
-    "title": "My Cron Jobs Were Firing 10 Hours Off Their Own Comments",
-    "desc": "<p>I scheduled a heavy maintenance job to run Saturday at 6am, while I was asleep and nothing else was using the machine. Weeks later I chec",
-    "link": "https://dev.to/diven_rastdus_c5af27d68f3/my-cron-jobs-were-firing-10-hours-off-their-own-comments-150b",
+    "title": "Building a Self-Healing LLM API Layer: Architecture Decisions That Matter",
+    "desc": "<h1>\n  \n  \n  Building a Self-Healing LLM API Layer: Architecture Decisions That Matter\n</h1>\n\n<p>Everyone wants self-healing APIs. Not every",
+    "link": "https://dev.to/hhhfs9s7y9code/building-a-self-healing-llm-api-layer-architecture-decisions-that-matter-23ge",
     "topic": "general"
   },
   {
-    "title": "Uber Burned Through Its Entire AI Coding Budget in 4 Months. Here's What Smart Teams Do Instead.",
-    "desc": "<p>The AI coding bill just became everyone's problem. In the last two weeks alone:</p>\n\n<ul>\n<li>\n<strong>Uber</strong> blew through its ent",
-    "link": "https://dev.to/aplomb2/uber-burned-through-its-entire-ai-coding-budget-in-4-months-heres-what-smart-teams-do-instead-2792",
+    "title": "David Stark: Top High-Paying Roles",
+    "desc": "<h3>\n  \n  \n  \ud83d\udc4b Hello Architects & Elite Engineers,\n</h3>\n\n<p>The market is shifting. We are seeing a surge in <strong>DEVOPS</strong> roles ",
+    "link": "https://dev.to/devpulse/david-stark-top-high-paying-roles-14jf",
     "topic": "general"
   },
   {
-    "title": "My Journey as a Full Stack and AI Developer",
-    "desc": "<p>Hello everyone! \ud83d\udc4b</p>\n\n<p>I am a Full Stack and AI Developer with a passion for building intelligent applications that solve real-world p",
-    "link": "https://dev.to/daiki951015/my-journey-as-a-full-stack-and-ai-developer-1akk",
+    "title": "LLM Failover vs Verified Failover: Why Switching APIs Is Not Enough",
+    "desc": "<p>When an LLM API provider goes down, most tools switch to a backup. That's failover. But the backup might return a broken response \u2014 and y",
+    "link": "https://dev.to/hhhfs9s7y9code/llm-failover-vs-verified-failover-why-switching-apis-is-not-enough-4573",
     "topic": "general"
   },
   {
-    "title": "Spotlight on WG Device Management",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/spotlight-on-wg-device-management\" rel=\"noopener noreferrer\">Spo",
-    "link": "https://dev.to/rasne/spotlight-on-wg-device-management-5b9b",
+    "title": "\u30102026\u3011Mailchimp \u4ee3\u66ff\u306e\u30c8\u30e9\u30f3\u30b6\u30af\u30b7\u30e7\u30f3\u30e1\u30fc\u30ebAPI\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>Postmark</strong> \u306b\u4e57\u308a\u63db\u3048\u308b\u3053\u3068\u3092\u63a8\u5968\u3059\u308b\u3002</p>\n\n<p>\u7406\u7531\u306f3\u70b9\u3002\u7b2c\u4e00\u306b\u3001\u30c8\u30e9\u30f3\u30b6\u30af\u30b7\u30e7\u30f3\u30e1\u30fc\u30eb\u5c02\u7528\u8a2d\u8a08\u306e\u305f\u3081\u5230\u9054\u7387\u304c\u9ad8\u304f\u3001\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u30e1\u30fc\u30eb\u3068\u914d\u4fe1\u30a4\u30f3\u30d5\u30e9\u3092\u5171\u6709\u3057\u306a",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-mailchimp-dai-ti-notoranzakusiyonmeruapiliao-jin-yi-xing-kosutodexuan-bu-e96",
     "topic": "general"
   },
   {
-    "title": "CI/CD Pipelines That Actually Work: Lessons from *The Matrix*",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to stare at my repo\u2019s README and think, \u201cIf only deploying felt less li",
-    "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-lessons-from-the-matrix-441",
+    "title": "\u30102026\u3011Auth0 \u4ee3\u66ff (Clerk/Supabase Auth/WorkOS)\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>\u307b\u3068\u3093\u3069\u306eSPA\u304a\u3088\u3073Next.js\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u306f Clerk \u3078\u306e\u79fb\u884c\u3092\u52e7\u3081\u308b\u3002</strong></p>\n\n<p><a href=\"https://www.amazon.co.jp/s?k=",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-1onm",
     "topic": "general"
   },
   {
-    "title": "I stopped trusting OpenClaw skills the day I realized some of them are basically npm packages with my credit card",
-    "desc": "<p>The safest way to use a third-party OpenClaw skill is to treat it like automation code with money and data access, not like a harmless pl",
-    "link": "https://dev.to/lars_winstand/i-stopped-trusting-openclaw-skills-the-day-i-realized-some-of-them-are-basically-npm-packages-with-42ne",
+    "title": "Your AI Code Has 6 Secret Hits. Only 3 Ship in the npm Package.",
+    "desc": "<p>Secrets in a published npm package are a different set from secrets in your repo. A secret scanner reads the whole git tree; <code>npm pa",
+    "link": "https://dev.to/alex_spinov/your-ai-code-has-6-secret-hits-only-3-ship-in-the-npm-package-39jf",
+    "topic": "general"
+  },
+  {
+    "title": "Your CI is green. Your billing logic is broken.",
+    "desc": "<p>User paid. Stripe looked fine. The app still gated them.</p>\n\n<p>They had an active subscription. The checkout page worked. Tests passed.",
+    "link": "https://dev.to/mattbaconz/your-ci-is-green-your-billing-logic-is-broken-4j6j",
     "topic": "general"
   }
 ]
