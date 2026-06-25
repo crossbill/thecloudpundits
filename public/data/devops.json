@@ -1,50 +1,50 @@
 [
   {
-    "title": "Migrate from Unleash to Rollgate: Drop the Ops Bill",
-    "desc": "<p><em>Originally published on <a href=\"https://rollgate.io/blog/migrate-from-unleash\" rel=\"noopener noreferrer\">rollgate.io</a>.</em></p>\n\n",
-    "link": "https://dev.to/domenico_giordano_e441224/migrate-from-unleash-to-rollgate-drop-the-ops-bill-1mfd",
-    "topic": "general"
-  },
-  {
-    "title": "Why Kubernetes Optimization Never Stops",
-    "desc": "<p>You deploy your app on Kubernetes. The pods are running, traffic is flowing, and the dashboard looks green. Job done, right?</p>\n\n<p>Not ",
-    "link": "https://dev.to/puneetha_jalagam/why-kubernetes-optimization-never-stops-577k",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Docker Multi-Stage Builds: Slash Your Image Size by 90%",
-    "desc": "<p>A typical Node.js Docker image weighs 1.2 GB. A Go binary image can be 800 MB. Most of that weight comes from build tooling, dev dependen",
-    "link": "https://dev.to/devtocash/docker-multi-stage-builds-slash-your-image-size-by-90-3k34",
+    "title": "Deploying a Containerized Backend to a VPS with Docker Compose + GitHub Actions (A Beginner's Runbook)",
+    "desc": "<p>This is a complete, copy\u2011pasteable guide for shipping a backend app to a single Linux server using <strong>Docker Compose</strong>, with ",
+    "link": "https://dev.to/saint_vandora/deploying-a-containerized-backend-to-a-vps-with-docker-compose-github-actions-a-beginners-39m5",
     "topic": "docker"
   },
   {
-    "title": "EU Cyber Resilience Act: Overview, Requirements, and Timelines",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/eu-cyber-resilience-act-overview-requirements-and-timelines\" rel",
-    "link": "https://dev.to/rasne/eu-cyber-resilience-act-overview-requirements-and-timelines-2l0p",
-    "topic": "secops"
-  },
-  {
-    "title": "\u00bfQu\u00e9 resuelve Kong Gateway en tu arquitectura?",
-    "desc": "<p>\u00a1Hola Chiquis!\ud83d\udc4b\ud83c\udffb En el ecosistema del desarrollo moderno, exponer microservicios sin un <strong>API Gateway</strong> robusto es como abri",
-    "link": "https://dev.to/orli/que-resuelve-kong-gateway-en-tu-arquitectura-1gpj",
+    "title": "Ever refreshed a website only to be randomly logged out? Here's the DevOps mistake around it",
+    "desc": "<p>Have you ever been using a web app, refreshed the page, and suddenly found yourself kicked back to the log in screen?</p>\n\n<p>As a user, ",
+    "link": "https://dev.to/jibbsjunior/ever-refreshed-a-website-only-to-be-randomly-logged-out-heres-the-devops-mistake-around-it-4pei",
     "topic": "general"
   },
   {
-    "title": "Error Budgets: Stop Wasting Your SRE Team's Time",
-    "desc": "<p>You have a 99.9 percent SLO target. Your team is on-call, paged for every 500 error, and deployments freeze because error rates are sligh",
-    "link": "https://dev.to/devtocash/error-budgets-stop-wasting-your-sre-teams-time-4c08",
+    "title": "The Finding Nobody Implemented",
+    "desc": "<p><em>The DORA research said culture predicts engineering performance. Nicole Forsgren's most important finding never made it into a single",
+    "link": "https://dev.to/raleighschickel/the-finding-nobody-implemented-539a",
     "topic": "general"
   },
   {
-    "title": "Test Post - Error Budgets Guide",
-    "desc": "<p>This is a test article about error budgets in SRE.</p>\n\n<p>Error budgets are a critical concept in Site Reliability Engineering that help",
-    "link": "https://dev.to/devtocash/test-post-error-budgets-guide-1lh1",
+    "title": "Deploy your own OpenVPN Server on AWS with one prompt",
+    "desc": "<h1>\n  \n  \n  Overview\n</h1>\n\n<p>Most of your AWS resources should be in private subnets for security reasons, but that also means they\u2019re no",
+    "link": "https://dev.to/aws-builders/deploy-your-own-openvpn-server-on-aws-with-one-prompt-cjf",
+    "topic": "aws"
+  },
+  {
+    "title": "Protecting Developers Means Protecting Their Secrets",
+    "desc": "<p>When most people think of \"Enterprise Security,\" they immediately think of hardened data centers, locked-down cloud environments, and SOC",
+    "link": "https://dev.to/gitguardian/protecting-developers-means-protecting-their-secrets-1kgi",
     "topic": "general"
   },
   {
-    "title": "From Root CA to User Authorization in nginx+apache. Part 2: Certificate Revocation, CRL and OCSP",
-    "desc": "<blockquote>\n<p>A follow-up to Part 1 (<a href=\"https://www.linkedin.com/pulse/from-root-ca-user-authorization-nginxapache-part-1-creating-d",
-    "link": "https://dev.to/keyk/from-root-ca-to-user-authorization-in-nginxapache-part-2-certificate-revocation-crl-and-ocsp-20a1",
+    "title": "Our partners kept breaking on staging. So we gave them production access. (Don't do this.)",
+    "desc": "<p>We whitelisted partners on production with read-only test accounts. That was attempt four \u2014 after docs-only onboarding, shared UAT, and I",
+    "link": "https://dev.to/fetchsandbox/our-partners-kept-breaking-on-staging-so-we-gave-them-production-access-dont-do-this-1ng6",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\udd25 Big update for DevOps Open Agent, Slack integration is live \ud83d\udd25",
+    "desc": "<p>I'm excited to share that DevOps Open Agent now supports Slack integration \ud83c\udf89</p>\n\n<p>When an investigation or PR review finishes, the AI ",
+    "link": "https://dev.to/lakhera2015/big-update-for-devops-open-agent-slack-integration-is-live-4i5",
+    "topic": "general"
+  },
+  {
+    "title": "The Website Testing Checklist Every Development Team Should Follow Before Launch",
+    "desc": "<h1>\n  \n  \n  The Website Testing Checklist Every Development Team Should Follow Before Launch\n</h1>\n\n<p>Most website launches don't fail bec",
+    "link": "https://dev.to/testers_hub_c12fc7ee590d1/the-website-testing-checklist-every-development-team-should-follow-before-launch-44b3",
     "topic": "general"
   }
 ]
