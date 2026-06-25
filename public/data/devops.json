@@ -1,50 +1,50 @@
 [
   {
-    "title": "Residential Proxy vs Datacenter Proxy: Debugging Why Your Scraper Fails in Production",
-    "desc": "<p>When your scraper works perfectly in testing but collapses at scale, the first instinct is often to blame the proxy type. Should you swit",
-    "link": "https://dev.to/9proxy/residential-proxy-vs-datacenter-proxy-debugging-why-your-scraper-fails-in-production-2170",
+    "title": "Business Logic Buried in .cfm Files: How to Document It Before Your Developers Leave",
+    "desc": "<p>Decades of ColdFusion applications have business rules \u2014 pricing formulas, eligibility checks, approval workflows, tax calculations \u2014 emb",
+    "link": "https://dev.to/deepak_sir__/business-logic-buried-in-cfm-files-how-to-document-it-before-your-developers-leave-5979",
     "topic": "general"
   },
   {
-    "title": "Building a Self-Healing LLM API Layer: Architecture Decisions That Matter",
-    "desc": "<h1>\n  \n  \n  Building a Self-Healing LLM API Layer: Architecture Decisions That Matter\n</h1>\n\n<p>Everyone wants self-healing APIs. Not every",
-    "link": "https://dev.to/hhhfs9s7y9code/building-a-self-healing-llm-api-layer-architecture-decisions-that-matter-23ge",
+    "title": "How We Actually Build Scalable Applications in 2026: Cloud-Native, AI, and the Decisions That Matter",
+    "desc": "<p>Most engineering teams know they <em>should</em> modernise their stack. Fewer know exactly which decisions move the needle \u2014 and which on",
+    "link": "https://dev.to/halkwinds_technology/how-we-actually-build-scalable-applications-in-2026-cloud-native-ai-and-the-decisions-that-matter-4l7c",
     "topic": "general"
   },
   {
-    "title": "David Stark: Top High-Paying Roles",
-    "desc": "<h3>\n  \n  \n  \ud83d\udc4b Hello Architects & Elite Engineers,\n</h3>\n\n<p>The market is shifting. We are seeing a surge in <strong>DEVOPS</strong> roles ",
-    "link": "https://dev.to/devpulse/david-stark-top-high-paying-roles-14jf",
+    "title": "Stop Feeding the Data Kraken: Why Browser-Only Utilities Win the Corporate DevOps War",
+    "desc": "<h2>\n  \n  \n  Your Corporate IT Policy is a Minefield, and You Are Currently Stepping on Every Single One\n</h2>\n\n<p>Let\u2019s talk about that mom",
+    "link": "https://dev.to/will_indie/stop-feeding-the-data-kraken-why-browser-only-utilities-win-the-corporate-devops-war-5cl1",
     "topic": "general"
   },
   {
-    "title": "LLM Failover vs Verified Failover: Why Switching APIs Is Not Enough",
-    "desc": "<p>When an LLM API provider goes down, most tools switch to a backup. That's failover. But the backup might return a broken response \u2014 and y",
-    "link": "https://dev.to/hhhfs9s7y9code/llm-failover-vs-verified-failover-why-switching-apis-is-not-enough-4573",
+    "title": "Stop Using Sketchy Sites: Streamlining Team DevOps Standards with Secure Tools",
+    "desc": "<h2>\n  \n  \n  Your Corporate IT Policy Probably Hates Your Browser History\n</h2>\n\n<p>If you have ever spent your lunch break hunting for a <a",
+    "link": "https://dev.to/will_indie/stop-using-sketchy-sites-streamlining-team-devops-standards-with-secure-tools-3oh1",
     "topic": "general"
   },
   {
-    "title": "\u30102026\u3011Mailchimp \u4ee3\u66ff\u306e\u30c8\u30e9\u30f3\u30b6\u30af\u30b7\u30e7\u30f3\u30e1\u30fc\u30ebAPI\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
-    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>Postmark</strong> \u306b\u4e57\u308a\u63db\u3048\u308b\u3053\u3068\u3092\u63a8\u5968\u3059\u308b\u3002</p>\n\n<p>\u7406\u7531\u306f3\u70b9\u3002\u7b2c\u4e00\u306b\u3001\u30c8\u30e9\u30f3\u30b6\u30af\u30b7\u30e7\u30f3\u30e1\u30fc\u30eb\u5c02\u7528\u8a2d\u8a08\u306e\u305f\u3081\u5230\u9054\u7387\u304c\u9ad8\u304f\u3001\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u30e1\u30fc\u30eb\u3068\u914d\u4fe1\u30a4\u30f3\u30d5\u30e9\u3092\u5171\u6709\u3057\u306a",
-    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-mailchimp-dai-ti-notoranzakusiyonmeruapiliao-jin-yi-xing-kosutodexuan-bu-e96",
+    "title": "Automate Kubernetes RBAC Audits with Python and a Custom Controller",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/06/25/automate-kubernetes-rbac-audits-with-python-and-a-custom-controlle",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/automate-kubernetes-rbac-audits-with-python-and-a-custom-controller-2inb",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Writing Code Was Never the Bottleneck. Governing It Is.",
+    "desc": "<p>Here is a paradox worth sitting with. In a 2026 survey of software leaders by CloudBees, <strong>92% said they trust the code AI produces",
+    "link": "https://dev.to/sonaljain_si/writing-code-was-never-the-bottleneck-governing-it-is-2ml0",
     "topic": "general"
   },
   {
-    "title": "\u30102026\u3011Auth0 \u4ee3\u66ff (Clerk/Supabase Auth/WorkOS)\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
-    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>\u307b\u3068\u3093\u3069\u306eSPA\u304a\u3088\u3073Next.js\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u306f Clerk \u3078\u306e\u79fb\u884c\u3092\u52e7\u3081\u308b\u3002</strong></p>\n\n<p><a href=\"https://www.amazon.co.jp/s?k=",
-    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-1onm",
-    "topic": "general"
+    "title": "Monorepo Dependency Security \u2014 Vulnerability Scanning Across Packages",
+    "desc": "<p>A monorepo can look like one repository, but security teams should treat it as many applications living under one roof. One repo may cont",
+    "link": "https://dev.to/vulert_official/monorepo-dependency-security-vulnerability-scanning-across-packages-1eom",
+    "topic": "secops"
   },
   {
-    "title": "Your AI Code Has 6 Secret Hits. Only 3 Ship in the npm Package.",
-    "desc": "<p>Secrets in a published npm package are a different set from secrets in your repo. A secret scanner reads the whole git tree; <code>npm pa",
-    "link": "https://dev.to/alex_spinov/your-ai-code-has-6-secret-hits-only-3-ship-in-the-npm-package-39jf",
-    "topic": "general"
-  },
-  {
-    "title": "Your CI is green. Your billing logic is broken.",
-    "desc": "<p>User paid. Stripe looked fine. The app still gated them.</p>\n\n<p>They had an active subscription. The checkout page worked. Tests passed.",
-    "link": "https://dev.to/mattbaconz/your-ci-is-green-your-billing-logic-is-broken-4j6j",
+    "title": "A crude workaround for fixing stale static asset caching",
+    "desc": "<p>A while back, I used Nginx reverse proxy caching for static files, and found that after deployment, clients were still pulling old files.",
+    "link": "https://dev.to/bmpddnbk/a-crude-workaround-for-fixing-stale-static-asset-caching-378i",
     "topic": "general"
   }
 ]
