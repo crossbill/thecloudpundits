@@ -1,50 +1,50 @@
 [
   {
-    "title": "Business Logic Buried in .cfm Files: How to Document It Before Your Developers Leave",
-    "desc": "<p>Decades of ColdFusion applications have business rules \u2014 pricing formulas, eligibility checks, approval workflows, tax calculations \u2014 emb",
-    "link": "https://dev.to/deepak_sir__/business-logic-buried-in-cfm-files-how-to-document-it-before-your-developers-leave-5979",
+    "title": "Why We Built Live Call Routing the Lean Way",
+    "desc": "<p>When email is not enough, you need a human on the phone. Live Call Routing should not require a sales cycle or telephony markup. Here is ",
+    "link": "https://dev.to/mads_quist/why-we-built-live-call-routing-the-lean-way-4e9m",
     "topic": "general"
   },
   {
-    "title": "How We Actually Build Scalable Applications in 2026: Cloud-Native, AI, and the Decisions That Matter",
-    "desc": "<p>Most engineering teams know they <em>should</em> modernise their stack. Fewer know exactly which decisions move the needle \u2014 and which on",
-    "link": "https://dev.to/halkwinds_technology/how-we-actually-build-scalable-applications-in-2026-cloud-native-ai-and-the-decisions-that-matter-4l7c",
+    "title": "From One Source to Everywhere \u2014 Building an Automated Content Repurposing Pipeline with AI",
+    "desc": "<p>Every developer who owns a product knows the pain: you write one great piece of content \u2014 a blog post, a tutorial, a deep-dive \u2014 and then",
+    "link": "https://dev.to/claudia-ve/from-one-source-to-everywhere-building-an-automated-content-repurposing-pipeline-with-ai-jon",
     "topic": "general"
   },
   {
-    "title": "Stop Feeding the Data Kraken: Why Browser-Only Utilities Win the Corporate DevOps War",
-    "desc": "<h2>\n  \n  \n  Your Corporate IT Policy is a Minefield, and You Are Currently Stepping on Every Single One\n</h2>\n\n<p>Let\u2019s talk about that mom",
-    "link": "https://dev.to/will_indie/stop-feeding-the-data-kraken-why-browser-only-utilities-win-the-corporate-devops-war-5cl1",
+    "title": "How to Implement AI Procure-to-Pay: A Step-by-Step Guide",
+    "desc": "<h1>\n  \n  \n  Practical Implementation Guide for Intelligent Procurement\n</h1>\n\n<p>Transforming your procurement operations with artificial i",
+    "link": "https://dev.to/jasperstewart/how-to-implement-ai-procure-to-pay-a-step-by-step-guide-onf",
     "topic": "general"
   },
   {
-    "title": "Stop Using Sketchy Sites: Streamlining Team DevOps Standards with Secure Tools",
-    "desc": "<h2>\n  \n  \n  Your Corporate IT Policy Probably Hates Your Browser History\n</h2>\n\n<p>If you have ever spent your lunch break hunting for a <a",
-    "link": "https://dev.to/will_indie/stop-using-sketchy-sites-streamlining-team-devops-standards-with-secure-tools-3oh1",
+    "title": "How to Add Idempotency Keys to Your Data Pipeline Without Rewriting the Whole Codebase",
+    "desc": "<p>Retries are only safe if the operation being retried is idempotent. Insert a row twice, get two rows. Send an email twice, send two email",
+    "link": "https://dev.to/137foundry/how-to-add-idempotency-keys-to-your-data-pipeline-without-rewriting-the-whole-codebase-552",
     "topic": "general"
   },
   {
-    "title": "Automate Kubernetes RBAC Audits with Python and a Custom Controller",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/06/25/automate-kubernetes-rbac-audits-with-python-and-a-custom-controlle",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/automate-kubernetes-rbac-audits-with-python-and-a-custom-controller-2inb",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Writing Code Was Never the Bottleneck. Governing It Is.",
-    "desc": "<p>Here is a paradox worth sitting with. In a 2026 survey of software leaders by CloudBees, <strong>92% said they trust the code AI produces",
-    "link": "https://dev.to/sonaljain_si/writing-code-was-never-the-bottleneck-governing-it-is-2ml0",
+    "title": "Why Circuit Breakers and Retry Loops Belong Together (and What Each Does On Its Own)",
+    "desc": "<p>A retry loop without a circuit breaker keeps hammering a dead upstream until the retry budget is exhausted. A circuit breaker without a r",
+    "link": "https://dev.to/137foundry/why-circuit-breakers-and-retry-loops-belong-together-and-what-each-does-on-its-own-2a3m",
     "topic": "general"
   },
   {
-    "title": "Monorepo Dependency Security \u2014 Vulnerability Scanning Across Packages",
-    "desc": "<p>A monorepo can look like one repository, but security teams should treat it as many applications living under one roof. One repo may cont",
-    "link": "https://dev.to/vulert_official/monorepo-dependency-security-vulnerability-scanning-across-packages-1eom",
-    "topic": "secops"
+    "title": "Autoankauf Stolberg: Ihr zuverl\u00e4ssiger Partner f\u00fcr Gebrauchtwagen und Unfallwagen in Deutschland",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/greman_autoguide_ec374e8/autoankauf-stolberg-ihr-zuverlassiger-partner-fur-gebrauchtwagen-und-unfallwagen-in-deutschland-1iaf",
+    "topic": "general"
   },
   {
-    "title": "A crude workaround for fixing stale static asset caching",
-    "desc": "<p>A while back, I used Nginx reverse proxy caching for static files, and found that after deployment, clients were still pulling old files.",
-    "link": "https://dev.to/bmpddnbk/a-crude-workaround-for-fixing-stale-static-asset-caching-378i",
+    "title": "Before you touch DNS: the going-live checklist for client web projects",
+    "desc": "<p><em>Disclosure: I'm Claude, running as <a class=\"mentioned-user\" href=\"https://dev.to/projectnomad\">@projectnomad</a> \u2014 an autonomous-AI-",
+    "link": "https://dev.to/projectnomad/before-you-touch-dns-the-going-live-checklist-for-client-web-projects-4nij",
+    "topic": "general"
+  },
+  {
+    "title": "How to Fail a CI Build When a Downloaded Artifact's SHA-256 Does Not Match the Expected Hash",
+    "desc": "<p>CI pipelines routinely download things. A Terraform binary pinned to a specific version. A custom container image base. A vendored model ",
+    "link": "https://dev.to/evvytools/how-to-fail-a-ci-build-when-a-downloaded-artifacts-sha-256-does-not-match-the-expected-hash-25ob",
     "topic": "general"
   }
 ]

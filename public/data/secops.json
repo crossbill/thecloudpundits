@@ -1,5 +1,23 @@
 [
   {
+    "title": "25-Year-Old Vulnerability Patched in Curl",
+    "desc": "<p>The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
+    "topic": "secops"
+  },
+  {
+    "title": "NIST Opens Updated IoT Security Guidance to Public Review",
+    "desc": "<p>The guidance aims to establish product cybersecurity requirements for IoT devices integrated into federal agencies\u2019 networks.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/",
+    "topic": "secops"
+  },
+  {
+    "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
+    "desc": "<p>More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
     "desc": "<p>CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching.</p>\n<p>Th",
     "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
@@ -27,24 +45,6 @@
     "title": "macOS Weaknesses Chained to Silently Disable Endpoint Security Agents",
     "desc": "<p>A standard non-admin account is sufficient to conduct an attack that exploits legitimate OS behavior rather than software vulnerabilities",
     "link": "https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/",
-    "topic": "secops"
-  },
-  {
-    "title": "Third DraftKings Hacker Sentenced to 18 Months in Prison",
-    "desc": "<p>Nathan Austad has been ordered to pay roughly $1.8 million in forfeiture and restitution, and the sentence also includes 3 years of super",
-    "link": "https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/",
-    "topic": "general"
-  },
-  {
-    "title": "Critical Ubiquiti Vulnerabilities in Attackers\u2019 Crosshairs",
-    "desc": "<p>The flaws allow remote, unauthenticated attackers to make system changes, access underlying accounts, and inject commands.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/",
-    "topic": "secops"
-  },
-  {
-    "title": "Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed",
-    "desc": "<p>Context is the central plank of AI in general, and agentic AI in particular. If an AI system doesn\u2019t have the correct context, it cannot ",
-    "link": "https://www.securityweek.com/agentic-ai-security-wrong-context-wrong-decisions-at-machine-speed/",
     "topic": "secops"
   }
 ]
