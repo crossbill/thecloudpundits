@@ -1,5 +1,11 @@
 [
   {
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "desc": "",
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "topic": "general"
+  },
+  {
     "title": "Which tokens does a hybrid model predict better?",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
     "topic": "huggingface"
-  },
-  {
-    "title": "We got local models to triage the OpenClaw repo for FREE!*",
-    "desc": "",
-    "link": "https://huggingface.co/blog/local-models-pr-triage",
-    "topic": "general"
   }
 ]

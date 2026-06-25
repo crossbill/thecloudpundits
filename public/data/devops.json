@@ -1,5 +1,35 @@
 [
   {
+    "title": "How to Generate an SBOM for Container Workflows",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/how-to-generate-an-sbom-for-container-workflows\" rel=\"noopener n",
+    "link": "https://dev.to/rasne/how-to-generate-an-sbom-for-container-workflows-4bc5",
+    "topic": "docker"
+  },
+  {
+    "title": "This OpenClaw 6.10 thread got 50 comments and the weird part is everyone is arguing about boring fixes",
+    "desc": "<p>A post on <a href=\"https://reddit.com/r/openclaw/comments/1ueyfzq/openclaw_610/\" rel=\"noopener noreferrer\">r/openclaw about OpenClaw 6.10",
+    "link": "https://dev.to/lars_winstand/this-openclaw-610-thread-got-50-comments-and-the-weird-part-is-everyone-is-arguing-about-boring-3p09",
+    "topic": "general"
+  },
+  {
+    "title": "Setting up LiteLLM (SDK + Proxy Gateway)",
+    "desc": "<p>I recently spent time setting up LiteLLM, trying to unify multiple LLM providers (OpenAI, Anthropic, Vertex, etc.) under a single interfa",
+    "link": "https://dev.to/jeancarlosn/setting-up-litellm-sdk-proxy-gateway-29em",
+    "topic": "general"
+  },
+  {
+    "title": "Five fixes from a stranger, and the release that finally got a community",
+    "desc": "<p>RemotePower started as a web page with a single button that turned a machine off. I wrote it in Python one afternoon, and then scope cree",
+    "link": "https://dev.to/tyxak/five-fixes-from-a-stranger-and-the-release-that-finally-got-a-community-1nhi",
+    "topic": "general"
+  },
+  {
+    "title": "Generating and publishing Go gRPC stubs as separate modules via GitLab CI/CD",
+    "desc": "<h1>\n  \n  \n  Setting up gRPC stub generation for Go and connecting them as a module\n</h1>\n\n<p>Keeping proto contracts in a single repository",
+    "link": "https://dev.to/m1s1ma/generating-and-publishing-go-grpc-stubs-as-separate-modules-via-gitlab-cicd-48b2",
+    "topic": "general"
+  },
+  {
     "title": "Deploying a Containerized Backend to a VPS with Docker Compose + GitHub Actions (A Beginner's Runbook)",
     "desc": "<p>This is a complete, copy\u2011pasteable guide for shipping a backend app to a single Linux server using <strong>Docker Compose</strong>, with ",
     "link": "https://dev.to/saint_vandora/deploying-a-containerized-backend-to-a-vps-with-docker-compose-github-actions-a-beginners-39m5",
@@ -15,36 +45,6 @@
     "title": "The Finding Nobody Implemented",
     "desc": "<p><em>The DORA research said culture predicts engineering performance. Nicole Forsgren's most important finding never made it into a single",
     "link": "https://dev.to/raleighschickel/the-finding-nobody-implemented-539a",
-    "topic": "general"
-  },
-  {
-    "title": "Deploy your own OpenVPN Server on AWS with one prompt",
-    "desc": "<h1>\n  \n  \n  Overview\n</h1>\n\n<p>Most of your AWS resources should be in private subnets for security reasons, but that also means they\u2019re no",
-    "link": "https://dev.to/aws-builders/deploy-your-own-openvpn-server-on-aws-with-one-prompt-cjf",
-    "topic": "aws"
-  },
-  {
-    "title": "Protecting Developers Means Protecting Their Secrets",
-    "desc": "<p>When most people think of \"Enterprise Security,\" they immediately think of hardened data centers, locked-down cloud environments, and SOC",
-    "link": "https://dev.to/gitguardian/protecting-developers-means-protecting-their-secrets-1kgi",
-    "topic": "general"
-  },
-  {
-    "title": "Our partners kept breaking on staging. So we gave them production access. (Don't do this.)",
-    "desc": "<p>We whitelisted partners on production with read-only test accounts. That was attempt four \u2014 after docs-only onboarding, shared UAT, and I",
-    "link": "https://dev.to/fetchsandbox/our-partners-kept-breaking-on-staging-so-we-gave-them-production-access-dont-do-this-1ng6",
-    "topic": "general"
-  },
-  {
-    "title": "\ud83d\udd25 Big update for DevOps Open Agent, Slack integration is live \ud83d\udd25",
-    "desc": "<p>I'm excited to share that DevOps Open Agent now supports Slack integration \ud83c\udf89</p>\n\n<p>When an investigation or PR review finishes, the AI ",
-    "link": "https://dev.to/lakhera2015/big-update-for-devops-open-agent-slack-integration-is-live-4i5",
-    "topic": "general"
-  },
-  {
-    "title": "The Website Testing Checklist Every Development Team Should Follow Before Launch",
-    "desc": "<h1>\n  \n  \n  The Website Testing Checklist Every Development Team Should Follow Before Launch\n</h1>\n\n<p>Most website launches don't fail bec",
-    "link": "https://dev.to/testers_hub_c12fc7ee590d1/the-website-testing-checklist-every-development-team-should-follow-before-launch-44b3",
     "topic": "general"
   }
 ]
