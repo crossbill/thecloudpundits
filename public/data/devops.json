@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Monitor a Node.js API with Multi-Region Health Checks",
-    "desc": "<p>If you're building a Node.js API, you already know the basics: write endpoints, add error handling, deploy. But how do you know your API ",
-    "link": "https://dev.to/vigilmon/how-to-monitor-a-nodejs-api-with-multi-region-health-checks-3joo",
+    "title": "Building Observability Skills Across Distributed Teams: The OpenTelemetry Playbook",
+    "desc": "<p>Look, OpenTelemetry has become serious business. It's the second-largest CNCF project by contributor count, trailing only Kubernetes. Tha",
+    "link": "https://dev.to/offshoredev/building-observability-skills-across-distributed-teams-the-opentelemetry-playbook-3mo3",
     "topic": "general"
   },
   {
-    "title": "UptimeRobot vs Pingdom vs Vigilmon: Which Uptime Monitor Avoids False Alerts?",
-    "desc": "<p>If you've run a web service for more than a few months, you've probably experienced it: the 3am alert that yanks you out of bed, sends yo",
-    "link": "https://dev.to/vigilmon/uptimerobot-vs-pingdom-vs-vigilmon-which-uptime-monitor-avoids-false-alerts-36g6",
-    "topic": "general"
+    "title": "47 Cloud Cost Checks Before You Hire a FinOps Consultant",
+    "desc": "<p>Most cloud cost problems do <strong>not</strong> start with one bad resource.</p>\n\n<p>They start with a simple operating gap:</p>\n\n<block",
+    "link": "https://dev.to/aicloudstrategist/47-cloud-cost-checks-before-you-hire-a-finops-consultant-2gma",
+    "topic": "finops"
   },
   {
-    "title": "Multi-agent runs need a handoff receipt, not just a shared trace",
-    "desc": "<p>When a single agent does something dangerous, the audit problem is small. You have one run, one set of tool calls, one receipt stream, an",
-    "link": "https://dev.to/armorer_labs/multi-agent-runs-need-a-handoff-receipt-not-just-a-shared-trace-4i8d",
-    "topic": "general"
-  },
-  {
-    "title": "From Narrow Patches to Long-Horizon AI Implementation",
-    "desc": "<p>I\u2019m starting to see the larger thread in the Scarab field work.</p>\n\n<p>At first, the question was narrow:</p>\n\n<p>Can repo truth help an",
-    "link": "https://dev.to/scarab-systems/from-narrow-patches-to-long-horizon-ai-implementation-55il",
-    "topic": "general"
-  },
-  {
-    "title": "How Applications Stay Available During Deployment",
-    "desc": "<p>You just built your application and you're preparing to deploy it. Then you ask the question:</p>\n\n<blockquote>\n<p>What happens to my app",
-    "link": "https://dev.to/rahmannugar/how-applications-stay-available-during-deployment-44he",
-    "topic": "general"
-  },
-  {
-    "title": "Ideas",
-    "desc": "<p>I've a lot of various ideas and usually save them off in a text file. As you never know when something might occur to you.</p>\n\n<p>We've ",
-    "link": "https://dev.to/craig_oliver_84f6950d28bf/ideas-57ld",
-    "topic": "general"
-  },
-  {
-    "title": "Infrastructure Needs Auditability, Not Just Idempotency",
-    "desc": "<p>Infrastructure auditability is not a property your pipeline inherits from idempotency \u2014 it's a separate architectural requirement that mo",
-    "link": "https://dev.to/ntctech/infrastructure-needs-auditability-not-just-idempotency-503p",
-    "topic": "general"
-  },
-  {
-    "title": "Common Kubernetes Security Gaps and How Platform Engineering Teams Address Them",
-    "desc": "<p>Kubernetes powers everything from customer-facing applications to mission-critical business systems. But as adoption grows, so does the c",
-    "link": "https://dev.to/brianedward/common-kubernetes-security-gaps-and-how-platform-engineering-teams-address-them-261b",
+    "title": "Kubernetes Cost Nightmares: Why Most Startups Overpay on Amazon EKS",
+    "desc": "<p>\"Our AWS bill doubled overnight... but our traffic didn't.\"</p>\n\n<p>If that sentence sounds familiar, you're not alone.</p>\n\n<p>Many star",
+    "link": "https://dev.to/keerthana_mokila_b10a0bd6/kubernetes-cost-nightmares-why-most-startups-overpay-on-amazon-eks-30a7",
     "topic": "kubernetes"
+  },
+  {
+    "title": "I built a local risk gate for AI-agent code changes",
+    "desc": "<p>AI coding agents are now good enough to create a lot of code quickly. That also means they are good enough to create a lot of risky chang",
+    "link": "https://dev.to/marcin_brzozka_ff45b1ccb6/i-built-a-local-risk-gate-for-ai-agent-code-changes-1o7f",
+    "topic": "general"
+  },
+  {
+    "title": "Per-PR preview environments for self-hosted apps aren't actually magic",
+    "desc": "<p>Anyone who's used Vercel or Netlify has been spoiled by one feature: open a PR, get a unique preview link automatically. Click it and you",
+    "link": "https://dev.to/huangchengsir/per-pr-preview-environments-for-self-hosted-apps-arent-actually-magic-4i8c",
+    "topic": "general"
+  },
+  {
+    "title": "Cron Job Email Alerts: Catch Silent Failures Before Users Do",
+    "desc": "<p><em>Cron job email alerts are useful only when they are tied to the right signal: a successful heartbeat from the job itself. Here is how",
+    "link": "https://dev.to/quietpulse-social/cron-job-email-alerts-catch-silent-failures-before-users-do-19d5",
+    "topic": "general"
+  },
+  {
+    "title": "Day 41: Monitoring ClickHouse\u00ae Performance Metrics",
+    "desc": "<h1>\n  \n  \n  Monitoring ClickHouse\u00ae Performance Metrics\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Monitoring is a fundamental part of opera",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-38-monitoring-clickhouser-performance-metrics-36ob",
+    "topic": "general"
+  },
+  {
+    "title": "Self-host your own uptime monitor: Vigilmon vs Uptime Kuma - which to choose?",
+    "desc": "<p>You need uptime monitoring. You've heard of Uptime Kuma. Maybe you've seen Vigilmon mentioned. Both are popular in the self-hosting commu",
+    "link": "https://dev.to/vigilmon/self-host-your-own-uptime-monitor-vigilmon-vs-uptime-kuma-which-to-choose-1a24",
+    "topic": "general"
   }
 ]
