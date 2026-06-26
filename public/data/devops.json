@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Your Developer Productivity Metrics Are Measuring the Wrong Thing",
-    "desc": "<p>Your DORA metrics are elite. Your velocity is up. Releases still slip.</p>\n\n<p>You're measuring the pipeline, not what's blocking it.</p>",
-    "link": "https://dev.to/akthoha/why-your-developer-productivity-metrics-are-measuring-the-wrong-thing-3npl",
-    "topic": "general"
-  },
-  {
-    "title": "The Enterprise Guide to Installing NVIDIA Drivers and CUDA on Ubuntu Server",
-    "desc": "<p>If you are hosting deep learning models, rendering complex graphics, or running high-performance computing (HPC) workloads, getting your ",
-    "link": "https://dev.to/shannon_dias_927e8f0d0d18/the-enterprise-guide-to-installing-nvidia-drivers-and-cuda-on-ubuntu-server-b6d",
-    "topic": "general"
-  },
-  {
-    "title": "ETHENEA\uff08ETHENEA Americas LLC\uff09 Advances Multi-Asset Risk Management in Changing Market Conditions",
-    "desc": "<p>In an increasingly complex global financial environment, market volatility has become a defining feature rather than a temporary disrupti",
-    "link": "https://dev.to/etheneaamericasinsights/etheneaethenea-americas-llc-advances-multi-asset-risk-management-in-changing-market-conditions-2peg",
-    "topic": "general"
-  },
-  {
-    "title": "Exploring Hacker News Trends with 18 Years of Comment Data",
-    "desc": "<h1>\n  \n  \n  What was released / announced\n</h1>\n\n<p>A developer has created a Google Trends-like platform for Hacker News by indexing 18 ye",
-    "link": "https://dev.to/naveenmalothu/exploring-hacker-news-trends-with-18-years-of-comment-data-819",
-    "topic": "general"
-  },
-  {
-    "title": "Beyond `ollama run`: Production-Ready DeepSeek R1 Deployment with vLLM and Nginx",
-    "desc": "<p>Tired of simplified tutorials that show you how to run DeepSeek R1 on a personal laptop but leave your dedicated server completely expose",
-    "link": "https://dev.to/shannon_dias_927e8f0d0d18/beyond-ollama-run-production-ready-deepseek-r1-deployment-with-vllm-and-nginx-11ep",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted Ollama Homelab: 3 Mistakes Running Local LLMs",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/06/26/self-hosted-ollama-homelab-3-mistakes-running-local-llms\" rel=\"noo",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/self-hosted-ollama-homelab-3-mistakes-running-local-llms-11l1",
-    "topic": "general"
-  },
-  {
-    "title": "How We Built a Sub-5ms Event Check-In System Using Edge Compute and Redis",
+    "title": "Most AI projects fail in production. It's rarely the model.",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/stampiq/how-we-built-a-sub-5ms-event-check-in-system-using-edge-compute-and-redis-3fce",
+    "link": "https://dev.to/darwinprayoga/most-ai-projects-fail-in-production-its-rarely-the-model-db8",
     "topic": "general"
   },
   {
-    "title": "How to Manage Secrets in GitOps Without Exposing Them in Git",
-    "desc": "<p>One of the first questions beginners ask when learning GitOps is:</p>\n\n<p>\"If everything goes in Git, where do I put passwords and API ke",
-    "link": "https://dev.to/ashish_1dfa9598b1ed1eb541/how-to-manage-secrets-in-gitops-without-exposing-them-in-git-jp8",
+    "title": "Why I Stopped Maintaining Dotfiles and Built a Cross-Platform Shell Bootstrap",
+    "desc": "<p>Every new workstation started the same way.</p>\n\n<p>Install Git.</p>\n\n<p>Install PowerShell.</p>\n\n<p>Install fzf.</p>\n\n<p>Install bat.</p",
+    "link": "https://dev.to/adrienclaire/why-i-stopped-maintaining-dotfiles-and-built-a-cross-platform-shell-bootstrap-400b",
     "topic": "general"
+  },
+  {
+    "title": "Autoankauf Wilhelmshaven: Die smarte Pipeline f\u00fcr Ihren Autoverkauf ohne Legacy-Bugs",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/greman_autoguide_ec374e8/autoankauf-wilhelmshaven-die-smarte-pipeline-fur-ihren-autoverkauf-ohne-legacy-bugs-13hi",
+    "topic": "general"
+  },
+  {
+    "title": "My dashboard showed every number and helped you decide nothing",
+    "desc": "<p>My dashboard looked great. Total assets, systems, environments. Counts broken<br />\ndown by resource type, by category, by provider. Litt",
+    "link": "https://dev.to/hitoshi1964/my-dashboard-showed-every-number-and-helped-you-decide-nothing-46hb",
+    "topic": "general"
+  },
+  {
+    "title": "Platform Engineering 2.0 in 2026: How Internal Developer Platforms Are Eating DevOps",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In 2023, platform engineering was a buzzword. In 2026, it's eating DevOps.</p>\n\n<p>The data tells the st",
+    "link": "https://dev.to/devtocash/platform-engineering-20-in-2026-how-internal-developer-platforms-are-eating-devops-k6k",
+    "topic": "general"
+  },
+  {
+    "title": "Why your p99 latency spike resolves before the alert fires",
+    "desc": "<h2>\n  \n  \n  The Alert That Arrives Too Late\n</h2>\n\n<p>Transient P99 latency spikes self-resolve before alerting systems surface them, and t",
+    "link": "https://dev.to/muskan_8abedcc7e12/why-your-p99-latency-spike-resolves-before-the-alert-fires-4e83",
+    "topic": "general"
+  },
+  {
+    "title": "From DevOps to DevSecOps: Making Security a Priority",
+    "desc": "<p>Modern Software Development is changing rapidly over the last decade. Agile Methodologies, DevOps, Cloud Platforms, Containers, and CI/CD",
+    "link": "https://dev.to/techcloudhub/from-devops-to-devsecops-making-security-a-priority-1n92",
+    "topic": "secops"
+  },
+  {
+    "title": "Web Security Best Practices Every Developer Must Know in 2026",
+    "desc": "<p>Here's an uncomfortable truth: most web applications that get hacked aren't brought down by sophisticated, nation-state-level attacks. Th",
+    "link": "https://dev.to/ks_softech_/web-security-best-practices-every-developer-must-know-in-2026-12c0",
+    "topic": "secops"
   }
 ]
