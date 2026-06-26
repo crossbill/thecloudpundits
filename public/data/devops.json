@@ -1,5 +1,29 @@
 [
   {
+    "title": "Your cloud keys should not exist",
+    "desc": "<p>Most cloud platforms that need access to your infrastructure start with the same onboarding step: paste in a service account key. Or an a",
+    "link": "https://dev.to/b0gy/your-cloud-keys-should-not-exist-4phk",
+    "topic": "general"
+  },
+  {
+    "title": "There are MCP servers for building on Solana. I built one for operating the validators underneath.",
+    "desc": "<p>There are plenty of MCP servers for building on Solana: querying chain data, sending transactions, talking to programs. They all assume t",
+    "link": "https://dev.to/sanjeevkkansal/there-are-mcp-servers-for-building-on-solana-i-built-one-for-operating-the-validators-underneath-2bc9",
+    "topic": "general"
+  },
+  {
+    "title": "Apple Just Raised Prices Mid-Cycle. The AI Boom Finally Reached Your Laptop.",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Apple raised prices on <strong>all Macs, iPads, home devices, and Vision Pro</strong> globally (June 25, ",
+    "link": "https://dev.to/crescevo/apple-just-raised-prices-mid-cycle-the-ai-boom-finally-reached-your-laptop-2d2n",
+    "topic": "general"
+  },
+  {
+    "title": "My bot kept double-posting and the real bug wasn\u2019t GPT-5",
+    "desc": "<p>If your agent heartbeat looks healthy but your Telegram or Discord bot still double-posts, the usual culprit is not GPT-5 or Claude faili",
+    "link": "https://dev.to/lars_winstand/my-bot-kept-double-posting-and-the-real-bug-wasnt-gpt-5-2apf",
+    "topic": "general"
+  },
+  {
     "title": "Full Observer Deck Console Landed: Testing Long-Horizon AI Implementation Against Repo Truth",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/scarab-systems/full-observer-deck-console-landed-testing-long-horizon-ai-implementation-against-repo-truth-39n9",
@@ -22,29 +46,5 @@
     "desc": "<p>Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the underlying AWS infrastructure, including",
     "link": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
     "topic": "general"
-  },
-  {
-    "title": "Prepare a node for kubeadm with cri-dockerd (CKA Installation)",
-    "desc": "<h2>\n  \n  \n  Prepare a Node for kubeadm with cri-dockerd\n</h2>\n\n<p>This is one of those CKA tasks with no manifest to copy from the docs. Yo",
-    "link": "https://dev.to/thecybersidekick/prepare-a-node-for-kubeadm-with-cri-dockerd-cka-installation-3936",
-    "topic": "docker"
-  },
-  {
-    "title": "OSS India 2026: Notes from a Full Day at the Linux Foundation's Open Source Summit Mumbai",
-    "desc": "<p>I spent June 17 at the Linux Foundation's Open Source Summit India 2026 in Mumbai, notebooks and phone camera at the ready. This is a wri",
-    "link": "https://dev.to/ultrabot05/oss-india-2026-notes-from-a-full-day-at-the-linux-foundations-open-source-summit-mumbai-40bl",
-    "topic": "general"
-  },
-  {
-    "title": "BannerGrapV2 \u2014 The Open-Source Network Recon Tool Built in Go That Security Professionals Actually Need",
-    "desc": "<h2>\n  \n  \n  BannerGrapV2 \u2014 The Open-Source Network Recon Tool Built in Go That Security Professionals Actually Need\n</h2>\n\n<blockquote>\n<p>",
-    "link": "https://dev.to/tanjib_isham_f10d7c4a7eb4/bannergrapv2-the-open-source-network-recon-tool-built-in-go-that-security-professionals-actually-3j55",
-    "topic": "secops"
-  },
-  {
-    "title": "Production-Ready CodeIgniter 4 + Docker Stack with CI/CD in Less than 10 Minutes",
-    "desc": "<h2>\n  \n  \n  The Problem Every PHP Developer Knows\n</h2>\n\n<p>You start a new CodeIgniter 4 project. Before writing a single line of business",
-    "link": "https://dev.to/viavi_dev/production-ready-codeigniter-4-docker-stack-with-cicd-in-less-than-10-minutes-221j",
-    "topic": "docker"
   }
 ]
