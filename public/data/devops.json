@@ -1,50 +1,50 @@
 [
   {
-    "title": "Prompting Is Dead. Long Live Looping.",
-    "desc": "<p>For the last two years, everyone has been obsessed with one thing:</p>\n\n<p><strong>Prompt engineering.</strong></p>\n\n<p>People wrote 2,00",
-    "link": "https://dev.to/yash_sonawane25/prompting-is-dead-long-live-looping-2gmd",
-    "topic": "general"
-  },
-  {
-    "title": "What Does EU AI Act Compliance Require?",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/what-does-eu-ai-act-compliance-require\" rel=\"noopener noreferrer",
-    "link": "https://dev.to/rasne/what-does-eu-ai-act-compliance-require-415j",
-    "topic": "general"
-  },
-  {
-    "title": "Terraform for Beginners: Your First Infrastructure as Code Project",
-    "desc": "<p>When I first joined Patterson UTI as a cloud architect, the infrastructure team was managing hundreds of EC2 instances through a mix of h",
-    "link": "https://dev.to/citadel_cloudmanagement_/terraform-for-beginners-your-first-infrastructure-as-code-project-54gd",
+    "title": "Fix GitHub Copilot Terraform Security Risks Before They Hit Prod",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/06/27/fix-github-copilot-terraform-security-risks-before-they-hit-prod\" ",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-github-copilot-terraform-security-risks-before-they-hit-prod-1f6j",
     "topic": "terraform"
   },
   {
-    "title": "I Built a Claude Code Skill That Finds Broken Callers Before You Deploy",
-    "desc": "<h1>\n  \n  \n  I Built a Claude Code Skill That Finds Broken Callers Before You Deploy\n</h1>\n\n<blockquote>\n<p>You fix a bug. You deploy. Three",
-    "link": "https://dev.to/dominic_harmon_18363706c7/i-built-a-claude-code-skill-that-finds-broken-callers-before-you-deploy-52a2",
-    "topic": "anthropic"
-  },
-  {
-    "title": "DevOps vs SRE: Key Differences Explained [2026 Guide]",
-    "desc": "<p>After managing infrastructure teams at Lockheed Martin, Cigna Healthcare, and BP Refinery, I have seen the DevOps-versus-SRE question pla",
-    "link": "https://dev.to/citadel_cloudmanagement_/devops-vs-sre-key-differences-explained-2026-guide-4i6",
+    "title": "Confused about unmetered vs. unlimited bandwidth? One quick tip: unmetered usually means no fixed",
+    "desc": "<p>Confused about unmetered vs. unlimited bandwidth? One quick tip: unmetered usually means no fixed data cap, while speed is still limited ",
+    "link": "https://dev.to/onegbits/confused-about-unmetered-vs-unlimited-bandwidth-one-quick-tip-unmetered-usually-means-no-fixed-739",
     "topic": "general"
   },
   {
-    "title": "Replace SaaS Subscriptions with Your Own Server: 8 Open Source Options",
-    "desc": "<p>Last month, on a client project, we saw the monthly bill for their marketing automation SaaS solution suddenly increase by 40%. This wasn",
-    "link": "https://dev.to/merbayerp/replace-saas-subscriptions-with-your-own-server-8-open-source-options-265a",
+    "title": "What Is an Agent Registry? (And What We Broke Before We Had One)",
+    "desc": "<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>An AI agent registry is a centralized catalog of every agent in your organization \u2014 what each agent ",
+    "link": "https://dev.to/sahajmeet_kaur_/what-is-an-agent-registry-and-what-we-broke-before-we-had-one-37jn",
     "topic": "general"
   },
   {
-    "title": "What Is DevOps? Everything You Need to Know in 2026",
-    "desc": "<p>DevOps is not a tool. It is not a job title. It is not \"developers doing ops work.\" DevOps is an engineering culture and set of practices",
-    "link": "https://dev.to/citadel_cloudmanagement_/what-is-devops-everything-you-need-to-know-in-2026-1j7n",
+    "title": "The All-in-One SEO Platform for Agencies, Brands, and Influencers",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/zainab_1201/the-all-in-one-seo-platform-for-agencies-brands-and-influencers-2pe6",
     "topic": "general"
   },
   {
-    "title": "Your LLM Prompts Are Running Ungoverned in Production. Here's the Architecture Fix.",
-    "desc": "<p>I want to show you something embarrassing.</p>\n\n<p>This is an actual git commit from my codebase, January 2025:<br />\n</p>\n\n<div class=\"h",
-    "link": "https://dev.to/jachinsaikiasonowal/your-llm-prompts-are-running-ungoverned-in-production-heres-the-architecture-fix-3512",
+    "title": "Day 42: Exploring ClickHouse\u00ae Table Engines Beyond MergeTree",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>When people first start using ClickHouse\u00ae, most of the attention naturally goes to the <strong>MergeTree",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-42-exploring-clickhouser-table-engines-beyond-mergetree-1cni",
+    "topic": "general"
+  },
+  {
+    "title": "Engineering Debug Diaries #1: The ImagePullBackOff That Wasn't Kubernetes",
+    "desc": "<blockquote>\n<p><em>How a missing GitHub Actions output caused an ImagePullBackOff and the engineering lessons it taught me about building r",
+    "link": "https://dev.to/damola12345/engineering-debug-diaries-1-the-imagepullbackoff-that-wasnt-kubernetes-gel",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "The Smarter Way to Run Kubernetes",
+    "desc": "<p>Most teams get Kubernetes running and then spend the next few months firefighting. Costs go up. Things break in unexpected ways. Nobody i",
+    "link": "https://dev.to/puneetha_jalagam/the-smarter-way-to-run-kubernetes-181k",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Debloating MIUI / HyperOS Without Root: A Practical ADB Guide.",
+    "desc": "<p>Remove Xiaomi ads, telemetry, and bloatware via ADB - no root, no bootloader unlock, SafetyNet stays intact.</p>\n\n<p>Every Xiaomi, Redmi,",
+    "link": "https://dev.to/digital-abetka/debloating-miui-hyperos-without-root-a-practical-adb-guide-2o2b",
     "topic": "general"
   }
 ]
