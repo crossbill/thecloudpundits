@@ -1,5 +1,17 @@
 [
   {
+    "title": "Approval-driven server ops: how I let contractors restart nginx without ever giving them SSH",
+    "desc": "<p>I run a small WordPress + Cloudflare agency. Two recurring pains finally pushed me to build something instead of complaining:</p>\n\n<p><st",
+    "link": "https://dev.to/lamas51/approval-driven-server-ops-how-i-let-contractors-restart-nginx-without-ever-giving-them-ssh-2fdm",
+    "topic": "general"
+  },
+  {
+    "title": "Recovering Lost Cryptocurrency and Securing Your Digital Assets with Ghost Mystery Recovery Hacker.",
+    "desc": "<p>After falling victim to an online cryptocurrency investment scam, I felt devastated and uncertain about what to do next. I contacted Ghos",
+    "link": "https://dev.to/jerzy_james_8abb0c9a5fa83/recovering-lost-cryptocurrency-and-securing-your-digital-assets-with-ghost-mystery-recovery-hacker-3a4h",
+    "topic": "general"
+  },
+  {
     "title": "Your cloud keys should not exist",
     "desc": "<p>Most cloud platforms that need access to your infrastructure start with the same onboarding step: paste in a service account key. Or an a",
     "link": "https://dev.to/b0gy/your-cloud-keys-should-not-exist-4phk",
@@ -33,18 +45,6 @@
     "title": "Wie wir den Autoankauf in Gronau digitalisieren: Ein Blick hinter die Kulissen von Gebrauchtwagen- und Unfallwagen-Plattformen",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/greman_autoguide_ec374e8/wie-wir-den-autoankauf-in-gronau-digitalisieren-ein-blick-hinter-die-kulissen-von-gebrauchtwagen--3956",
-    "topic": "general"
-  },
-  {
-    "title": "IBM Sub-1nm Chip: Ignore the Number, the Real Story Is Going Vertical (and It Is 5 Years Out)",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>IBM unveiled the world's first <strong>sub-1 nanometer</strong> chip technology (June 25, 2026) at a 0.7n",
-    "link": "https://dev.to/crescevo/ibm-sub-1nm-chip-ignore-the-number-the-real-story-is-going-vertical-and-it-is-5-years-out-2ghj",
-    "topic": "general"
-  },
-  {
-    "title": "Minimalist EKS: The Easy Way",
-    "desc": "<p>Amazon EKS manages the Kubernetes control plane, but you remain responsible for provisioning the underlying AWS infrastructure, including",
-    "link": "https://dev.to/joachim8675309/minimalist-eks-the-easy-way-hph",
     "topic": "general"
   }
 ]
