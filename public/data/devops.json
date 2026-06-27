@@ -1,5 +1,41 @@
 [
   {
+    "title": "Coding with AI Agents: Between High Throughput and Code Quality",
+    "desc": "<p>Recently, I had to present the results of my work in a formal way, so I decided to share the material with a broader group of readers.</p",
+    "link": "https://dev.to/m_pieniak/coding-with-ai-agents-between-high-throughput-and-code-quality-136g",
+    "topic": "general"
+  },
+  {
+    "title": "Claude Proxy: Turn Claude Code CLI into an OpenAI-Compatible API Server",
+    "desc": "<h2>\n  \n  \n  The Problem: Claude Max Has No API Key\n</h2>\n\n<p>You subscribe to Claude Max. You use Claude Code daily. But the moment you try",
+    "link": "https://dev.to/devtocash/claude-proxy-turn-claude-code-cli-into-an-openai-compatible-api-server-3dkd",
+    "topic": "openai"
+  },
+  {
+    "title": "How Linux Actually Runs Your Programs: Processes, Signals & systemd in Plain English",
+    "desc": "<h2>\n  \n  \n  Signals\n</h2>\n\n<h3>\n  \n  \n  What is signlas\n</h3>\n\n<p>Signals are mechanism to communicate between kernel and processes, and be",
+    "link": "https://dev.to/dharam_in/how-linux-actually-runs-your-programs-processes-signals-systemd-in-plain-english-3i90",
+    "topic": "general"
+  },
+  {
+    "title": "Send Scarab Your Messy Repo",
+    "desc": "<p>Send Scarab Your Messy Repo</p>\n\n<p>The proofs are in, and the theory has held well enough that I want harder terrain.</p>\n\n<p>At this po",
+    "link": "https://dev.to/scarab-systems/send-scarab-your-messy-repo-d2n",
+    "topic": "general"
+  },
+  {
+    "title": "Your Terraform Can Be Insecure: A Practical Look at Checkov",
+    "desc": "<blockquote>\n<p>Infrastructure as Code makes cloud deployment faster and more consistent, but it also makes mistakes repeatable. A single in",
+    "link": "https://dev.to/kiarazmurillo/your-terraform-can-be-insecure-a-practical-look-at-checkov-4pel",
+    "topic": "terraform"
+  },
+  {
+    "title": "Why I still use NGINX over everything else",
+    "desc": "<p>People keep recommending Caddy. The config is cleaner, automatic HTTPS, three lines and you're done. They're not wrong. For a side projec",
+    "link": "https://dev.to/mishansavy/why-i-still-use-nginx-over-everything-else-24hj",
+    "topic": "general"
+  },
+  {
     "title": "Share Your Local Laravel App on a Public URL Without Mixed-Content Hell",
     "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Exposing a local Laravel app over a public HTTPS tunnel breaks two ways: assets load from your <code>loca",
     "link": "https://dev.to/nasrulhazim/share-your-local-laravel-app-on-a-public-url-without-mixed-content-hell-2996",
@@ -9,42 +45,6 @@
     "title": "Testing Management Tools in Practice: GitHub Actions vs. GitLab CI/CD, Jenkins, and CircleCI",
     "desc": "<h2>\n  \n  \n  Abstract\n</h2>\n\n<p>Automated tests only protect a product when they run consistently and their<br />\nresults reach the team qui",
     "link": "https://dev.to/sofxx7/testing-management-tools-in-practice-github-actions-vs-gitlab-cicd-jenkins-and-circleci-1emn",
-    "topic": "general"
-  },
-  {
-    "title": "Vercel Workflow Failures, June 2026: Runs Stuck Pending and Queued Messages Stalled",
-    "desc": "<p><strong>The wedge:</strong> on June 25 2026, a major-impact incident on Vercel's status page left some recently deployed Workflow project",
-    "link": "https://dev.to/velprove/vercel-workflow-failures-june-2026-runs-stuck-pending-and-queued-messages-stalled-27gc",
-    "topic": "general"
-  },
-  {
-    "title": "Access Is Not Agency",
-    "desc": "<p>Your agent can read Slack. It can search email. It can query the CRM, open GitHub issues, check billing, browse docs, edit a spreadsheet,",
-    "link": "https://dev.to/harryfloyd/access-is-not-agency-3hni",
-    "topic": "general"
-  },
-  {
-    "title": "Best Sparring Prep: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/best-sparring-prep-what-we-learned-building-random-tactical-timer-18md",
-    "topic": "general"
-  },
-  {
-    "title": "How I Built Tombstone: A Self-Hosted Feature Flag Intelligence Platform to Prevent the Next Knight Capital",
-    "desc": "<h2>\n  \n  \n  The 2am Dashboard That Started Everything\n</h2>\n\n<p>It was 2:47am when I opened our feature flag dashboard and realized I had n",
-    "link": "https://dev.to/sai_ram_0000/how-i-built-tombstone-a-self-hosted-feature-flag-intelligence-platform-to-prevent-the-next-knight-10lp",
-    "topic": "general"
-  },
-  {
-    "title": "How to monitor your Django app with uptime checks and heartbeat monitoring (free)",
-    "desc": "<p>Your Django app just crashed at 2 AM and you found out when a customer emailed you the next morning. Sound familiar?</p>\n\n<p>Most Django ",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-django-app-with-uptime-checks-and-heartbeat-monitoring-free-n22",
-    "topic": "general"
-  },
-  {
-    "title": "Getting Started with DevOps Training At Marathahalli: A 2026 Roadmap \u2014 #6",
-    "desc": "<p>Best DevOps Training at Marathahalli \u2014 Complete Guide 2026</p>\n\n<p>Are you looking for the best DevOps Training at Marathahalli in 2026? ",
-    "link": "https://dev.to/lm_pg_ae695f1a4c717f/getting-started-with-devops-training-at-marathahalli-a-2026-roadmap-6-2egp",
     "topic": "general"
   }
 ]
