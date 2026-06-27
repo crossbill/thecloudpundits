@@ -1,50 +1,50 @@
 [
   {
-    "title": "Humanizing Artificial Intelligence for Log Analysis: Turning Raw Server Logs Into Clear DevOps Answers",
-    "desc": "<p>It's 2:14 a.m. and my phone is buzzing because a customer's instance won't get a floating IP. The alert is one line. The truth is somewhe",
-    "link": "https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-log-analysis-turning-raw-server-logs-into-clear-devops-2dnm",
+    "title": "Hong Kong security ops: 5 precinct-level failure modes and how to engineer around them",
+    "desc": "<h1>\n  \n  \n  Hong Kong security ops: 5 precinct-level failure modes and how to engineer around them\n</h1>\n\n<p>If you're building or running ",
+    "link": "https://dev.to/xguardsecurity/hong-kong-security-ops-5-precinct-level-failure-modes-and-how-to-engineer-around-them-237l",
+    "topic": "secops"
+  },
+  {
+    "title": "I stopped trusting app dashboards and used a browser automation AI agent to rebuild the numbers from scratch",
+    "desc": "<p>Dashboards are great right up until they quietly lie to you.</p>\n\n<p>I like a clean admin screen as much as anyone. Green checks. Nice to",
+    "link": "https://dev.to/lars_winstand/i-stopped-trusting-app-dashboards-and-used-a-browser-automation-ai-agent-to-rebuild-the-numbers-a0a",
     "topic": "general"
   },
   {
-    "title": "Download Animal Puzzles NSP Full Game Latest 2026",
-    "desc": "<h1>\n  \n  \n  Download Animal Puzzles NSP Full Game Latest 2026\n</h1>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/d",
-    "link": "https://dev.to/maho_mudasir_2edb9c259337/download-animal-puzzles-nsp-full-game-latest-2026-2o97",
+    "title": "Creating a Kubernetes scoped kubeconfig by hand is 15 steps of pain. It shouldn't be.",
+    "desc": "<p>Handing someone least-privilege access to a Kubernetes cluster means assembling a scoped kubeconfig by hand \u2014 ServiceAccount, Role, RoleB",
+    "link": "https://dev.to/sameraburabie/creating-a-kubernetes-scoped-kubeconfig-by-hand-is-15-steps-of-pain-it-shouldnt-be-27ig",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Top 11 Site To Buy Google Voice Accounts In This Time",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/topsmmonline6043/top-11-site-to-buy-google-voice-accounts-in-this-time-29eh",
     "topic": "general"
   },
   {
-    "title": "A practical GitHub Actions baseline for Python projects",
-    "desc": "<p>Most Python projects do not need a complicated CI/CD setup on day one.</p>\n\n<p>They need a workflow that answers a few basic questions ev",
-    "link": "https://dev.to/thomas_reid_ebd566e4d12ce/a-practical-github-actions-baseline-for-python-projects-276a",
-    "topic": "general"
+    "title": "AI Coding Agents Are the New Attack Surface Nobody's Ready For",
+    "desc": "<h2>\n  \n  \n  The Trust Problem Hiding in Your Automated Pipeline\n</h2>\n\n<p>The moment you give an AI agent the ability to act \u2014 clone, confi",
+    "link": "https://dev.to/coridev/ai-coding-agents-are-the-new-attack-surface-nobodys-ready-for-1jf1",
+    "topic": "secops"
   },
   {
-    "title": "6 years of frontend, then I jumped to DevOps. The roadmap I'd actually follow in 2026",
-    "desc": "<p>It was a Friday around 11pm and I was three hours into a build that wouldn't go green on a colleague's machine. Not a bug in my code. A v",
-    "link": "https://dev.to/opscanopy/6-years-of-frontend-then-i-jumped-to-devops-the-roadmap-id-actually-follow-in-2026-1ljg",
-    "topic": "general"
+    "title": "Kubernetes LLM Inference: Deploy and Scale Open-Source LLMs in 2026",
+    "desc": "<p>Running your own LLMs on Kubernetes isn't just a cost play \u2014 it's about latency, data sovereignty, and fine-tuning control. But GPU sched",
+    "link": "https://dev.to/devtocash/kubernetes-llm-inference-deploy-and-scale-open-source-llms-in-2026-n27",
+    "topic": "kubernetes"
   },
   {
-    "title": "\ud83d\ude80 Introducing CloudOps Blog \u2013 Practical AWS, Kubernetes & DevOps Guides",
-    "desc": "<p>Hi everyone! \ud83d\udc4b</p>\n\n<p>Over the past few years, I've spent a lot of time working with AWS, Kubernetes, Terraform, CI/CD, observability, a",
-    "link": "https://dev.to/manojkumar_gogineni_6631c/introducing-cloudops-blog-practical-aws-kubernetes-devops-guides-20jc",
-    "topic": "aws"
+    "title": "AI Agents for SRE: Autonomous Incident Response in 2026",
+    "desc": "<p>When your pager goes off at 3 AM, what if an AI agent could handle the entire incident before you even wake up?</p>\n\n<p>That future is al",
+    "link": "https://dev.to/devtocash/ai-agents-for-sre-autonomous-incident-response-in-2026-35na",
+    "topic": "secops"
   },
   {
-    "title": "Coding with AI Agents: Between High Throughput and Code Quality",
-    "desc": "<p>Recently, I had to present the results of my work in a formal way, so I decided to share the material with a broader group of readers.</p",
-    "link": "https://dev.to/m_pieniak/coding-with-ai-agents-between-high-throughput-and-code-quality-136g",
-    "topic": "general"
-  },
-  {
-    "title": "Claude Proxy: Turn Claude Code CLI into an OpenAI-Compatible API Server",
-    "desc": "<h2>\n  \n  \n  The Problem: Claude Max Has No API Key\n</h2>\n\n<p>You subscribe to Claude Max. You use Claude Code daily. But the moment you try",
-    "link": "https://dev.to/devtocash/claude-proxy-turn-claude-code-cli-into-an-openai-compatible-api-server-3dkd",
-    "topic": "openai"
-  },
-  {
-    "title": "How Linux Actually Runs Your Programs: Processes, Signals & systemd in Plain English",
-    "desc": "<h2>\n  \n  \n  Signals\n</h2>\n\n<h3>\n  \n  \n  What is signlas\n</h3>\n\n<p>Signals are mechanism to communicate between kernel and processes, and be",
-    "link": "https://dev.to/dharam_in/how-linux-actually-runs-your-programs-processes-signals-systemd-in-plain-english-3i90",
+    "title": "I Built a Self-Hosted Feature Flag Platform That Auto-Rolls Back Bad Flags \u2014 Here's Why",
+    "desc": "<p>After reading about the Knight Capital incident one too many times, I got frustrated with every feature flag tool I'd used. They all answ",
+    "link": "https://dev.to/sai_ram_0000/i-built-a-self-hosted-feature-flag-platform-that-auto-rolls-back-bad-flags-heres-why-2m0k",
     "topic": "general"
   }
 ]
