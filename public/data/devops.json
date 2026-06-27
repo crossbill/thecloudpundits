@@ -1,50 +1,50 @@
 [
   {
-    "title": "Fix GitHub Copilot Terraform Security Risks Before They Hit Prod",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/06/27/fix-github-copilot-terraform-security-risks-before-they-hit-prod\" ",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-github-copilot-terraform-security-risks-before-they-hit-prod-1f6j",
-    "topic": "terraform"
-  },
-  {
-    "title": "Confused about unmetered vs. unlimited bandwidth? One quick tip: unmetered usually means no fixed",
-    "desc": "<p>Confused about unmetered vs. unlimited bandwidth? One quick tip: unmetered usually means no fixed data cap, while speed is still limited ",
-    "link": "https://dev.to/onegbits/confused-about-unmetered-vs-unlimited-bandwidth-one-quick-tip-unmetered-usually-means-no-fixed-739",
+    "title": "Meta Almost Solved Config Safety at Machine Speed",
+    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n<p><a href=\"https://engineering.fb.co",
+    "link": "https://dev.to/bala_paranj_059d338e44e7e/meta-almost-solved-config-safety-at-machine-speed-43dn",
     "topic": "general"
   },
   {
-    "title": "What Is an Agent Registry? (And What We Broke Before We Had One)",
-    "desc": "<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>An AI agent registry is a centralized catalog of every agent in your organization \u2014 what each agent ",
-    "link": "https://dev.to/sahajmeet_kaur_/what-is-an-agent-registry-and-what-we-broke-before-we-had-one-37jn",
+    "title": "What 10,000 domains actually publish for email authentication in 2026",
+    "desc": "<p>Email authentication has been \"solved\" on paper for years. SPF, DKIM, and DMARC are old standards, every deliverability guide repeats the",
+    "link": "https://dev.to/vadimivanov/what-10000-domains-actually-publish-for-email-authentication-in-2026-2c12",
     "topic": "general"
   },
   {
-    "title": "The All-in-One SEO Platform for Agencies, Brands, and Influencers",
+    "title": "Docker Tutorial 2026: Dockerfile, Compose + Production Setup",
+    "desc": "<p>Three things break in every first Docker setup: builds that run 10+ minutes even when you changed one line, containers that log <code>ECO",
+    "link": "https://dev.to/mahdi_benrhouma_fe1c6005/docker-tutorial-2026-dockerfile-compose-production-setup-2802",
+    "topic": "docker"
+  },
+  {
+    "title": "Warum die Digitalisierung den Autoverkauf revolutioniert: Gebrauchtwagen und Unfallwagen stressfrei online abwickeln",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/zainab_1201/the-all-in-one-seo-platform-for-agencies-brands-and-influencers-2pe6",
+    "link": "https://dev.to/greman_autoguide_ec374e8/warum-die-digitalisierung-den-autoverkauf-revolutioniert-gebrauchtwagen-und-unfallwagen-stressfrei-1i0",
     "topic": "general"
   },
   {
-    "title": "Day 42: Exploring ClickHouse\u00ae Table Engines Beyond MergeTree",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>When people first start using ClickHouse\u00ae, most of the attention naturally goes to the <strong>MergeTree",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-42-exploring-clickhouser-table-engines-beyond-mergetree-1cni",
+    "title": "AWS vs Azure Multi-Region Cost Analysis (Part\u00a03)",
+    "desc": "<p><strong>Introduction</strong></p>\n\n<p>Cloud pricing behaves differently depending on provider, region, and workload design. In this proje",
+    "link": "https://dev.to/smarty_joy/aws-vs-azure-multi-region-cost-analysis-part-3-42ec",
+    "topic": "aws"
+  },
+  {
+    "title": "Day 43 \u2013 ClickHouse\u00ae Join Types and Performance Implications",
+    "desc": "<h1>\n  \n  \n  ClickHouse\u00ae Join Types and Performance Implications\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>JOIN operations are among the mo",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-43-clickhouser-join-types-and-performance-implications-1dlm",
     "topic": "general"
   },
   {
-    "title": "Engineering Debug Diaries #1: The ImagePullBackOff That Wasn't Kubernetes",
-    "desc": "<blockquote>\n<p><em>How a missing GitHub Actions output caused an ImagePullBackOff and the engineering lessons it taught me about building r",
-    "link": "https://dev.to/damola12345/engineering-debug-diaries-1-the-imagepullbackoff-that-wasnt-kubernetes-gel",
-    "topic": "kubernetes"
+    "title": "What Happens When Your AI Agent Actually Remembers Past Incidents",
+    "desc": "<h1>\n  \n  \n  What Happens When Your AI Agent Actually Remembers Past Incidents\n</h1>\n\n<p>Most AI agents forget everything the moment a conve",
+    "link": "https://dev.to/renesh_goud/what-happens-when-your-ai-agent-actually-remembers-past-incidents-5cd0",
+    "topic": "secops"
   },
   {
-    "title": "The Smarter Way to Run Kubernetes",
-    "desc": "<p>Most teams get Kubernetes running and then spend the next few months firefighting. Costs go up. Things break in unexpected ways. Nobody i",
-    "link": "https://dev.to/puneetha_jalagam/the-smarter-way-to-run-kubernetes-181k",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Debloating MIUI / HyperOS Without Root: A Practical ADB Guide.",
-    "desc": "<p>Remove Xiaomi ads, telemetry, and bloatware via ADB - no root, no bootloader unlock, SafetyNet stays intact.</p>\n\n<p>Every Xiaomi, Redmi,",
-    "link": "https://dev.to/digital-abetka/debloating-miui-hyperos-without-root-a-practical-adb-guide-2o2b",
+    "title": "What I got wrong about Git for years",
+    "desc": "<p>I used Git for years before I actually understood it.</p>\n\n<p>I could commit, push, pull, and make a branch. I could copy-paste my way ou",
+    "link": "https://dev.to/saboorajat/what-i-got-wrong-about-git-for-years-2me1",
     "topic": "general"
   }
 ]
