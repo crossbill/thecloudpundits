@@ -1,50 +1,50 @@
 [
   {
-    "title": "Approval-driven server ops: how I let contractors restart nginx without ever giving them SSH",
-    "desc": "<p>I run a small WordPress + Cloudflare agency. Two recurring pains finally pushed me to build something instead of complaining:</p>\n\n<p><st",
-    "link": "https://dev.to/lamas51/approval-driven-server-ops-how-i-let-contractors-restart-nginx-without-ever-giving-them-ssh-2fdm",
+    "title": "Prompting Is Dead. Long Live Looping.",
+    "desc": "<p>For the last two years, everyone has been obsessed with one thing:</p>\n\n<p><strong>Prompt engineering.</strong></p>\n\n<p>People wrote 2,00",
+    "link": "https://dev.to/yash_sonawane25/prompting-is-dead-long-live-looping-2gmd",
     "topic": "general"
   },
   {
-    "title": "Recovering Lost Cryptocurrency and Securing Your Digital Assets with Ghost Mystery Recovery Hacker.",
-    "desc": "<p>After falling victim to an online cryptocurrency investment scam, I felt devastated and uncertain about what to do next. I contacted Ghos",
-    "link": "https://dev.to/jerzy_james_8abb0c9a5fa83/recovering-lost-cryptocurrency-and-securing-your-digital-assets-with-ghost-mystery-recovery-hacker-3a4h",
+    "title": "What Does EU AI Act Compliance Require?",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/what-does-eu-ai-act-compliance-require\" rel=\"noopener noreferrer",
+    "link": "https://dev.to/rasne/what-does-eu-ai-act-compliance-require-415j",
     "topic": "general"
   },
   {
-    "title": "Your cloud keys should not exist",
-    "desc": "<p>Most cloud platforms that need access to your infrastructure start with the same onboarding step: paste in a service account key. Or an a",
-    "link": "https://dev.to/b0gy/your-cloud-keys-should-not-exist-4phk",
+    "title": "Terraform for Beginners: Your First Infrastructure as Code Project",
+    "desc": "<p>When I first joined Patterson UTI as a cloud architect, the infrastructure team was managing hundreds of EC2 instances through a mix of h",
+    "link": "https://dev.to/citadel_cloudmanagement_/terraform-for-beginners-your-first-infrastructure-as-code-project-54gd",
+    "topic": "terraform"
+  },
+  {
+    "title": "I Built a Claude Code Skill That Finds Broken Callers Before You Deploy",
+    "desc": "<h1>\n  \n  \n  I Built a Claude Code Skill That Finds Broken Callers Before You Deploy\n</h1>\n\n<blockquote>\n<p>You fix a bug. You deploy. Three",
+    "link": "https://dev.to/dominic_harmon_18363706c7/i-built-a-claude-code-skill-that-finds-broken-callers-before-you-deploy-52a2",
+    "topic": "anthropic"
+  },
+  {
+    "title": "DevOps vs SRE: Key Differences Explained [2026 Guide]",
+    "desc": "<p>After managing infrastructure teams at Lockheed Martin, Cigna Healthcare, and BP Refinery, I have seen the DevOps-versus-SRE question pla",
+    "link": "https://dev.to/citadel_cloudmanagement_/devops-vs-sre-key-differences-explained-2026-guide-4i6",
     "topic": "general"
   },
   {
-    "title": "There are MCP servers for building on Solana. I built one for operating the validators underneath.",
-    "desc": "<p>There are plenty of MCP servers for building on Solana: querying chain data, sending transactions, talking to programs. They all assume t",
-    "link": "https://dev.to/sanjeevkkansal/there-are-mcp-servers-for-building-on-solana-i-built-one-for-operating-the-validators-underneath-2bc9",
+    "title": "Replace SaaS Subscriptions with Your Own Server: 8 Open Source Options",
+    "desc": "<p>Last month, on a client project, we saw the monthly bill for their marketing automation SaaS solution suddenly increase by 40%. This wasn",
+    "link": "https://dev.to/merbayerp/replace-saas-subscriptions-with-your-own-server-8-open-source-options-265a",
     "topic": "general"
   },
   {
-    "title": "Apple Just Raised Prices Mid-Cycle. The AI Boom Finally Reached Your Laptop.",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Apple raised prices on <strong>all Macs, iPads, home devices, and Vision Pro</strong> globally (June 25, ",
-    "link": "https://dev.to/crescevo/apple-just-raised-prices-mid-cycle-the-ai-boom-finally-reached-your-laptop-2d2n",
+    "title": "What Is DevOps? Everything You Need to Know in 2026",
+    "desc": "<p>DevOps is not a tool. It is not a job title. It is not \"developers doing ops work.\" DevOps is an engineering culture and set of practices",
+    "link": "https://dev.to/citadel_cloudmanagement_/what-is-devops-everything-you-need-to-know-in-2026-1j7n",
     "topic": "general"
   },
   {
-    "title": "My bot kept double-posting and the real bug wasn\u2019t GPT-5",
-    "desc": "<p>If your agent heartbeat looks healthy but your Telegram or Discord bot still double-posts, the usual culprit is not GPT-5 or Claude faili",
-    "link": "https://dev.to/lars_winstand/my-bot-kept-double-posting-and-the-real-bug-wasnt-gpt-5-2apf",
-    "topic": "general"
-  },
-  {
-    "title": "Full Observer Deck Console Landed: Testing Long-Horizon AI Implementation Against Repo Truth",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/scarab-systems/full-observer-deck-console-landed-testing-long-horizon-ai-implementation-against-repo-truth-39n9",
-    "topic": "general"
-  },
-  {
-    "title": "Wie wir den Autoankauf in Gronau digitalisieren: Ein Blick hinter die Kulissen von Gebrauchtwagen- und Unfallwagen-Plattformen",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/greman_autoguide_ec374e8/wie-wir-den-autoankauf-in-gronau-digitalisieren-ein-blick-hinter-die-kulissen-von-gebrauchtwagen--3956",
+    "title": "Your LLM Prompts Are Running Ungoverned in Production. Here's the Architecture Fix.",
+    "desc": "<p>I want to show you something embarrassing.</p>\n\n<p>This is an actual git commit from my codebase, January 2025:<br />\n</p>\n\n<div class=\"h",
+    "link": "https://dev.to/jachinsaikiasonowal/your-llm-prompts-are-running-ungoverned-in-production-heres-the-architecture-fix-3512",
     "topic": "general"
   }
 ]
