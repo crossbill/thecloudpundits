@@ -1,5 +1,17 @@
 [
   {
+    "title": "Slack or Telegram for solo founder alerts? I was asking the wrong question.",
+    "desc": "<p>When I started thinking about real-time alerts for my SaaS, my first instinct was Slack. Familiar, used it in previous jobs, wanted every",
+    "link": "https://dev.to/manolito99/slack-or-telegram-for-solo-founder-alerts-i-was-asking-the-wrong-question-1bp8",
+    "topic": "general"
+  },
+  {
+    "title": "Why am I building a DevOps Infrastructure Lab?",
+    "desc": "<p>I am committed to understand how systems actually work.</p>\n\n<p>I'm working on a multi-node lab to follow the complete path of a request ",
+    "link": "https://dev.to/daniloprandi/why-am-i-building-a-devops-infrastructure-lab-p1d",
+    "topic": "general"
+  },
+  {
     "title": "Why LaunchDarkly OpenFeature Migrations Break in Production",
     "desc": "<p>LaunchDarkly and OpenFeature both evaluate flags with three arguments, but the<br />\nfallback and context positions are reversed. A naive",
     "link": "https://dev.to/krishan_sharma_561a52817e/why-launchdarkly-openfeature-migrations-break-in-production-52mk",
@@ -34,17 +46,5 @@
     "desc": "<p>I came back to my laptop after dinner expecting a finished job.</p>\n\n<p>What I got was a dead script and one number burned into the termi",
     "link": "https://dev.to/mjmirza/83-percent-done-then-it-died-with-nothing-to-resume-from-2m63",
     "topic": "general"
-  },
-  {
-    "title": "Why Small Developer Tools Matter More Than You Think",
-    "desc": "<p>When developers talk about productivity, the conversation usually revolves around programming languages, frameworks, AI assistants, or po",
-    "link": "https://dev.to/eeyyaadd/why-small-developer-tools-matter-more-than-you-think-3njg",
-    "topic": "general"
-  },
-  {
-    "title": "Terraform Plan Shows What You\u2019re Changing. Blast Radius Shows What You\u2019re Breaking.",
-    "desc": "<p><em>Series: Introducing Blast Radius \u2014 See What Breaks Before You Deploy</em></p>\n\n<h2>\n  \n  \n  \u201cIt Was Just a Security Group Change\u201d\n</h",
-    "link": "https://dev.to/aws-builders/terraform-plan-shows-what-youre-changing-blast-radius-shows-what-youre-breaking-3324",
-    "topic": "terraform"
   }
 ]
