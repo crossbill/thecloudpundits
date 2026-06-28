@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes Explained: The Airport Control Tower Mental Model",
-    "desc": "<h2>\n  \n  \n  The Problem with Learning Kubernetes\n</h2>\n\n<p>Kubernetes documentation is thorough. It's also overwhelming. Terms like \"contro",
-    "link": "https://dev.to/stackstoryboard/kubernetes-explained-the-airport-control-tower-mental-model-11lb",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Hong Kong security ops: 5 precinct-level failure modes and how to engineer around them",
-    "desc": "<h1>\n  \n  \n  Hong Kong security ops: 5 precinct-level failure modes and how to engineer around them\n</h1>\n\n<p>If you're building or running ",
-    "link": "https://dev.to/xguardsecurity/hong-kong-security-ops-5-precinct-level-failure-modes-and-how-to-engineer-around-them-237l",
+    "title": "Best DevSecOps Security Tools for CI/CD Pipeline Protection",
+    "desc": "<p>I've spent twenty-five years building and securing deployment pipelines, and the single biggest shift in that time isn't a tool \u2014 it's <e",
+    "link": "https://dev.to/devopsaitoolkit/best-devsecops-security-tools-for-cicd-pipeline-protection-25ff",
     "topic": "secops"
   },
   {
-    "title": "I stopped trusting app dashboards and used a browser automation AI agent to rebuild the numbers from scratch",
-    "desc": "<p>Dashboards are great right up until they quietly lie to you.</p>\n\n<p>I like a clean admin screen as much as anyone. Green checks. Nice to",
-    "link": "https://dev.to/lars_winstand/i-stopped-trusting-app-dashboards-and-used-a-browser-automation-ai-agent-to-rebuild-the-numbers-a0a",
+    "title": "I watched someone burn 50 hours on OpenClaw and the fix was embarrassingly simple",
+    "desc": "<p>I knew this was worth writing the second I saw a post on r/openclaw from someone who said they spent <strong>50 hours</strong> trying to ",
+    "link": "https://dev.to/lars_winstand/i-watched-someone-burn-50-hours-on-openclaw-and-the-fix-was-embarrassingly-simple-5emk",
     "topic": "general"
   },
   {
-    "title": "Creating a Kubernetes scoped kubeconfig by hand is 15 steps of pain. It shouldn't be.",
-    "desc": "<p>Handing someone least-privilege access to a Kubernetes cluster means assembling a scoped kubeconfig by hand \u2014 ServiceAccount, Role, RoleB",
-    "link": "https://dev.to/sameraburabie/creating-a-kubernetes-scoped-kubeconfig-by-hand-is-15-steps-of-pain-it-shouldnt-be-27ig",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Top 11 Site To Buy Google Voice Accounts In This Time",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/topsmmonline6043/top-11-site-to-buy-google-voice-accounts-in-this-time-29eh",
+    "title": "Build Your First Home Lab: The Developer's Budget Hardware Guide",
+    "desc": "<p>Cloud compute costs are climbing and local environments are making a powerful comeback. Every staging instance and every CI pipeline you ",
+    "link": "https://dev.to/informertech/build-your-first-home-lab-the-developers-budget-hardware-guide-2djf",
     "topic": "general"
   },
   {
-    "title": "AI Coding Agents Are the New Attack Surface Nobody's Ready For",
-    "desc": "<h2>\n  \n  \n  The Trust Problem Hiding in Your Automated Pipeline\n</h2>\n\n<p>The moment you give an AI agent the ability to act \u2014 clone, confi",
-    "link": "https://dev.to/coridev/ai-coding-agents-are-the-new-attack-surface-nobodys-ready-for-1jf1",
-    "topic": "secops"
+    "title": "AI Agent \u5d29\u6e83\u7684\u6839\u6e90\u4e0e\u89e3\u6cd5\u2014\u2014\u4ece250\u4e2a\u6d4b\u8bd5\u7528\u4f8b\u770bAgent\u53ef\u9760\u6027",
+    "desc": "<h2>\n  \n  \n  \u6839\u56e0\u4e00\uff1a\u5de5\u5177\u8c03\u7528\u7684\u975e\u786e\u5b9a\u6027\n</h2>\n\n<p>Agent \u7684\u6838\u5fc3\u8303\u5f0f\u662f\"LLM \u63a8\u7406 \u2192 \u9009\u62e9\u5de5\u5177 \u2192 \u6267\u884c \u2192 \u89c2\u5bdf\u7ed3\u679c \u2192 \u518d\u63a8\u7406\"\u3002\u8fd9\u4e2a\u94fe\u8def\u91cc\u6700\u8106\u5f31\u7684\u4e00\u73af\uff0c\u662f LLM \u9009\u62e9\u5de5\u5177\u8fd9\u4e00\u6b65\u3002</p>\n\n<p>\u540c\u6837\u7684 prompt\uff0c\u540c\u6837\u7684\u4e0a\u4e0b\u6587\uff0c\u4f60\u8dd1 1",
+    "link": "https://dev.to/wzg0911/ai-agent-beng-kui-de-gen-yuan-yu-jie-fa-cong-250ge-ce-shi-yong-li-kan-agentke-kao-xing-2j5e",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes LLM Inference: Deploy and Scale Open-Source LLMs in 2026",
-    "desc": "<p>Running your own LLMs on Kubernetes isn't just a cost play \u2014 it's about latency, data sovereignty, and fine-tuning control. But GPU sched",
-    "link": "https://dev.to/devtocash/kubernetes-llm-inference-deploy-and-scale-open-source-llms-in-2026-n27",
+    "title": "\u2699\ufe0f Building a CI/CD pipeline with Git, Jenkins, and Docker made easy",
+    "desc": "<p><strong>To automate code integration, testing, and containerized deployment, a CI/CD pipeline with Git, Jenkins, and Docker pulls source ",
+    "link": "https://dev.to/ptp2308/building-a-cicd-pipeline-with-git-jenkins-and-docker-made-easy-gie",
+    "topic": "docker"
+  },
+  {
+    "title": "40 Kubernetes Interview Questions and Answers (2026)",
+    "desc": "<p>Kubernetes shows up on nearly every backend, DevOps, and platform engineering job posting in 2026. Knowing the definitions is the easy pa",
+    "link": "https://dev.to/dev_encyclopedia/40-kubernetes-interview-questions-and-answers-2026-5hk7",
     "topic": "kubernetes"
   },
   {
-    "title": "AI Agents for SRE: Autonomous Incident Response in 2026",
-    "desc": "<p>When your pager goes off at 3 AM, what if an AI agent could handle the entire incident before you even wake up?</p>\n\n<p>That future is al",
-    "link": "https://dev.to/devtocash/ai-agents-for-sre-autonomous-incident-response-in-2026-35na",
-    "topic": "secops"
+    "title": "I let Claude Code run autonomously for a month. \"Productive\" was a story my own logs didn't support",
+    "desc": "<p>I ran Claude Code in a near-autonomous loop for weeks \u2014 wake it, let it work, check in once a day. Every session <em>looked</em> producti",
+    "link": "https://dev.to/yurukusa/i-let-claude-code-run-autonomously-for-a-month-productive-was-a-story-my-own-logs-didnt-support-24i6",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Enter Pro: Instant AI Vibe Coding Online \u2013 Free, Fast & No Sign-Up",
+    "desc": "<p>Enter Pro is a leading AI Vibe Coding platform that allows users to quickly transform ideas into working software products simply by desc",
+    "link": "https://dev.to/voltrea_ec62d0dd6af3b84be/enter-pro-instant-ai-vibe-coding-online-free-fast-no-sign-up-1lei",
+    "topic": "general"
   }
 ]
