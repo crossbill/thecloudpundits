@@ -1,5 +1,11 @@
 [
   {
+    "title": "Kubernetes Explained: The Airport Control Tower Mental Model",
+    "desc": "<h2>\n  \n  \n  The Problem with Learning Kubernetes\n</h2>\n\n<p>Kubernetes documentation is thorough. It's also overwhelming. Terms like \"contro",
+    "link": "https://dev.to/stackstoryboard/kubernetes-explained-the-airport-control-tower-mental-model-11lb",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Hong Kong security ops: 5 precinct-level failure modes and how to engineer around them",
     "desc": "<h1>\n  \n  \n  Hong Kong security ops: 5 precinct-level failure modes and how to engineer around them\n</h1>\n\n<p>If you're building or running ",
     "link": "https://dev.to/xguardsecurity/hong-kong-security-ops-5-precinct-level-failure-modes-and-how-to-engineer-around-them-237l",
@@ -40,11 +46,5 @@
     "desc": "<p>When your pager goes off at 3 AM, what if an AI agent could handle the entire incident before you even wake up?</p>\n\n<p>That future is al",
     "link": "https://dev.to/devtocash/ai-agents-for-sre-autonomous-incident-response-in-2026-35na",
     "topic": "secops"
-  },
-  {
-    "title": "I Built a Self-Hosted Feature Flag Platform That Auto-Rolls Back Bad Flags \u2014 Here's Why",
-    "desc": "<p>After reading about the Knight Capital incident one too many times, I got frustrated with every feature flag tool I'd used. They all answ",
-    "link": "https://dev.to/sai_ram_0000/i-built-a-self-hosted-feature-flag-platform-that-auto-rolls-back-bad-flags-heres-why-2m0k",
-    "topic": "general"
   }
 ]
