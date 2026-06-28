@@ -1,50 +1,50 @@
 [
   {
-    "title": "Best DevSecOps Security Tools for CI/CD Pipeline Protection",
-    "desc": "<p>I've spent twenty-five years building and securing deployment pipelines, and the single biggest shift in that time isn't a tool \u2014 it's <e",
-    "link": "https://dev.to/devopsaitoolkit/best-devsecops-security-tools-for-cicd-pipeline-protection-25ff",
-    "topic": "secops"
-  },
-  {
-    "title": "I watched someone burn 50 hours on OpenClaw and the fix was embarrassingly simple",
-    "desc": "<p>I knew this was worth writing the second I saw a post on r/openclaw from someone who said they spent <strong>50 hours</strong> trying to ",
-    "link": "https://dev.to/lars_winstand/i-watched-someone-burn-50-hours-on-openclaw-and-the-fix-was-embarrassingly-simple-5emk",
+    "title": "I Automated My Freelance Ops with n8n \u2014 12 hrs/week to 2 hrs (Templates Included)",
+    "desc": "<h1>\n  \n  \n  I Built an Automation Empire with n8n (and Packaged It So You Don't Have To)\n</h1>\n\n<p><em>8 min read | Tags: #automation #n8n ",
+    "link": "https://dev.to/fyruz12/i-automated-my-freelance-ops-with-n8n-12-hrsweek-to-2-hrs-templates-included-235o",
     "topic": "general"
   },
   {
-    "title": "Build Your First Home Lab: The Developer's Budget Hardware Guide",
-    "desc": "<p>Cloud compute costs are climbing and local environments are making a powerful comeback. Every staging instance and every CI pipeline you ",
-    "link": "https://dev.to/informertech/build-your-first-home-lab-the-developers-budget-hardware-guide-2djf",
+    "title": "Day 2 \u2014 I Stopped Being a Student and Started Acting Like a DevOps Engineer",
+    "desc": "<p>This is Day 2 of my 90-day cloud engineering challenge. Day 1 was about installing tools and getting familiar with the Azure CLI. Day 2 w",
+    "link": "https://dev.to/highpee1991/day-2-i-stopped-being-a-student-and-started-acting-like-a-devops-engineer-4kid",
     "topic": "general"
   },
   {
-    "title": "AI Agent \u5d29\u6e83\u7684\u6839\u6e90\u4e0e\u89e3\u6cd5\u2014\u2014\u4ece250\u4e2a\u6d4b\u8bd5\u7528\u4f8b\u770bAgent\u53ef\u9760\u6027",
-    "desc": "<h2>\n  \n  \n  \u6839\u56e0\u4e00\uff1a\u5de5\u5177\u8c03\u7528\u7684\u975e\u786e\u5b9a\u6027\n</h2>\n\n<p>Agent \u7684\u6838\u5fc3\u8303\u5f0f\u662f\"LLM \u63a8\u7406 \u2192 \u9009\u62e9\u5de5\u5177 \u2192 \u6267\u884c \u2192 \u89c2\u5bdf\u7ed3\u679c \u2192 \u518d\u63a8\u7406\"\u3002\u8fd9\u4e2a\u94fe\u8def\u91cc\u6700\u8106\u5f31\u7684\u4e00\u73af\uff0c\u662f LLM \u9009\u62e9\u5de5\u5177\u8fd9\u4e00\u6b65\u3002</p>\n\n<p>\u540c\u6837\u7684 prompt\uff0c\u540c\u6837\u7684\u4e0a\u4e0b\u6587\uff0c\u4f60\u8dd1 1",
-    "link": "https://dev.to/wzg0911/ai-agent-beng-kui-de-gen-yuan-yu-jie-fa-cong-250ge-ce-shi-yong-li-kan-agentke-kao-xing-2j5e",
+    "title": "Terraform vs CloudFormation: The Infrastructure Awakens",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>I still remember the first time I tried to spin up a small web app on AWS by clicking th",
+    "link": "https://dev.to/timevolt/terraform-vs-cloudformation-the-infrastructure-awakens-4pek",
+    "topic": "terraform"
+  },
+  {
+    "title": "Navigating the Anonymous GitHub Account Mass-Dropping 0-Days",
+    "desc": "<h1>\n  \n  \n  What was released / announced\n</h1>\n\n<p>An anonymous GitHub account has been mass-dropping undisclosed 0-days, making available",
+    "link": "https://dev.to/naveenmalothu/navigating-the-anonymous-github-account-mass-dropping-0-days-56n0",
     "topic": "general"
   },
   {
-    "title": "\u2699\ufe0f Building a CI/CD pipeline with Git, Jenkins, and Docker made easy",
-    "desc": "<p><strong>To automate code integration, testing, and containerized deployment, a CI/CD pipeline with Git, Jenkins, and Docker pulls source ",
-    "link": "https://dev.to/ptp2308/building-a-cicd-pipeline-with-git-jenkins-and-docker-made-easy-gie",
-    "topic": "docker"
+    "title": "Query AWS Runbooks in Plain English with Bedrock Knowledge Bases",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/06/28/query-aws-runbooks-in-plain-english-with-bedrock-knowledge-bases\" ",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/query-aws-runbooks-in-plain-english-with-bedrock-knowledge-bases-516b",
+    "topic": "aws"
   },
   {
-    "title": "40 Kubernetes Interview Questions and Answers (2026)",
-    "desc": "<p>Kubernetes shows up on nearly every backend, DevOps, and platform engineering job posting in 2026. Knowing the definitions is the easy pa",
-    "link": "https://dev.to/dev_encyclopedia/40-kubernetes-interview-questions-and-answers-2026-5hk7",
-    "topic": "kubernetes"
+    "title": "Network Optimization for Remote Developers: DNS, TCP, and Smart Routing",
+    "desc": "<p>Remote work is the default for most developers now. But working across time zones with distributed APIs, region-locked services, and vari",
+    "link": "https://dev.to/gladis_jenkins_109be90fec/network-optimization-for-remote-developers-dns-tcp-and-smart-routing-1c8l",
+    "topic": "general"
   },
   {
-    "title": "I let Claude Code run autonomously for a month. \"Productive\" was a story my own logs didn't support",
-    "desc": "<p>I ran Claude Code in a near-autonomous loop for weeks \u2014 wake it, let it work, check in once a day. Every session <em>looked</em> producti",
-    "link": "https://dev.to/yurukusa/i-let-claude-code-run-autonomously-for-a-month-productive-was-a-story-my-own-logs-didnt-support-24i6",
-    "topic": "anthropic"
+    "title": "Tombstone vs Unleash vs Flagsmith vs Flipt vs GrowthBook: Feature Flag Platforms Compared (2026)",
+    "desc": "<p>I've been building with feature flags for a long time, and I've used most of the major tools. This comparison is written from the perspec",
+    "link": "https://dev.to/sai_ram_0000/tombstone-vs-unleash-vs-flagsmith-vs-flipt-vs-growthbook-feature-flag-platforms-compared-2026-5cb3",
+    "topic": "general"
   },
   {
-    "title": "Enter Pro: Instant AI Vibe Coding Online \u2013 Free, Fast & No Sign-Up",
-    "desc": "<p>Enter Pro is a leading AI Vibe Coding platform that allows users to quickly transform ideas into working software products simply by desc",
-    "link": "https://dev.to/voltrea_ec62d0dd6af3b84be/enter-pro-instant-ai-vibe-coding-online-free-fast-no-sign-up-1lei",
+    "title": "10x Python Automation Script",
+    "desc": "<p>As a developer, you're likely no stranger to repetitive tasks that consume a significant amount of your time and energy. Whether it's dat",
+    "link": "https://dev.to/qingluan/10x-python-automation-script-b52",
     "topic": "general"
   }
 ]
