@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "desc": "",
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "topic": "general"
+  },
+  {
+    "title": "Which tokens does a hybrid model predict better?",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "topic": "general"
+  },
+  {
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "desc": "",
+    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "topic": "general"
+  },
+  {
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ffasr-leaderboard",
+    "topic": "general"
+  },
+  {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "topic": "general"
+  },
+  {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "desc": "",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "topic": "huggingface"
+  },
+  {
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "desc": "",
+    "link": "https://huggingface.co/blog/cross-origin-storage",
+    "topic": "general"
+  },
+  {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "desc": "",
+    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "topic": "huggingface"
+  }
+]
