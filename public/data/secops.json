@@ -1,5 +1,23 @@
 [
   {
+    "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
+    "desc": "<p>An optional \u2018username key\u2019 adds another layer by requiring a secondary credential before someone can message users.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
+    "topic": "general"
+  },
+  {
+    "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
+    "desc": "<p>Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer\u2019s machine.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Straiker Raises $64 Million for AI Security Platform",
+    "desc": "<p>The startup\u2019s platform can identify AI agents and provide visibility into their access, behavior, and risks.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
+    "topic": "secops"
+  },
+  {
     "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
     "desc": "<p>The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization.</p>\n<p>The post <a href=\"https://www.securit",
     "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
@@ -28,23 +46,5 @@
     "desc": "<p>The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens.</p>\n<p>The post <a href",
     "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
     "topic": "openai"
-  },
-  {
-    "title": "Chinese Framework Powers 200,000 Scam Sites",
-    "desc": "<p>Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit.</p>\n<p>The post <a href=\"https:/",
-    "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
-    "topic": "general"
-  },
-  {
-    "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
-    "desc": "<p>AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact.\u00a0</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
-    "topic": "general"
-  },
-  {
-    "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
-    "desc": "<p>Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact.</p>\n<p>The post <a href=\"https://www.se",
-    "link": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
-    "topic": "secops"
   }
 ]
