@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your Chatbot's Deflection Rate Went Up. Customers Just Gave Up.",
-    "desc": "<p>Last month, I had a problem with a popular mobile banking app in Southeast Asia. Nothing exotic. A transaction didn't go through, and my ",
-    "link": "https://dev.to/tomtokita/your-chatbots-deflection-rate-went-up-customers-just-gave-up-3ldd",
+    "title": "Deployment Strategies Every Developer Should Know",
+    "desc": "<p>The first time I watched a deployment take down a production app, I was a junior engineer with no idea what a deployment strategy actuall",
+    "link": "https://dev.to/keploy/deployment-strategies-every-developer-should-know-3d9o",
     "topic": "general"
   },
   {
-    "title": "5 MCP Servers That Changed How I Build AI Workflows",
-    "desc": "<p>Over the past year, one concept has fundamentally changed how I think about AI applications.</p>\n\n<p>Not larger language models.</p>\n\n<p>",
-    "link": "https://dev.to/jaideepparashar/5-mcp-servers-that-changed-how-i-build-ai-workflows-16j6",
+    "title": "Vigilmon vs Datadog for uptime monitoring: Do you really need an APM?",
+    "desc": "<h1>\n  \n  \n  Vigilmon vs Datadog for Uptime Monitoring: Do You Really Need an APM?\n</h1>\n\n<p>Here's a scenario that plays out constantly in ",
+    "link": "https://dev.to/vigilmon/vigilmon-vs-datadog-for-uptime-monitoring-do-you-really-need-an-apm-52jk",
     "topic": "general"
   },
   {
-    "title": "Aurelian Heritage Intelligent Alliance Office: In-depth guide to the 403(b) plan 2",
-    "desc": "<p>Pros and cons of the 403(b) plan</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheig",
-    "link": "https://dev.to/aurelianheritageoffice/aurelian-heritage-intelligent-alliance-office-in-depth-guide-to-the-403b-plan-2-46b7",
+    "title": "VPN IP Quality Affects Streaming, Speed, and Trust",
+    "desc": "<p>Most VPN app builders spend months improving the visible parts of their product. They refine the mobile interface, add connection buttons",
+    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/vpn-ip-quality-affects-streaming-speed-and-trust-ol1",
     "topic": "general"
   },
   {
-    "title": "n8n Execute Command Node: Run Shell Scripts and CLI Tools in Your Workflows (Free JSON)",
-    "desc": "<p>The n8n Execute Command node lets you run any shell command directly inside your workflow. Use it to call CLI tools, run scripts, invoke ",
-    "link": "https://dev.to/pirateprentice/n8n-execute-command-node-run-shell-scripts-and-cli-tools-in-your-workflows-free-json-p81",
+    "title": "Vigilmon vs StatusCake: Which uptime monitor is right for your team?",
+    "desc": "<h1>\n  \n  \n  Vigilmon vs StatusCake: Which Uptime Monitor Is Right for Your Team?\n</h1>\n\n<p>When your site goes down at 2 AM, the tool watch",
+    "link": "https://dev.to/vigilmon/vigilmon-vs-statuscake-which-uptime-monitor-is-right-for-your-team-4cm2",
     "topic": "general"
   },
   {
-    "title": "Adding server monitoring to my SSH manager without opening a second connection",
-    "desc": "<p>I use my SSH manager every day. I also use a separate monitoring tool every day. For a long time I just accepted that these were two diff",
-    "link": "https://dev.to/masitings/adding-server-monitoring-to-my-ssh-manager-without-opening-a-second-connection-3gp2",
-    "topic": "general"
+    "title": "Kubernetes ConfigMaps and Secrets: Managing Application Configuration Securely",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Modern applications rely on configuration values such as database URLs, API endpoints, feature flags, an",
+    "link": "https://dev.to/nalluri_gowtham_c21a3b06a/kubernetes-configmaps-and-secrets-managing-application-configuration-securely-428g",
+    "topic": "kubernetes"
   },
   {
-    "title": "Go-Live Isn't the Finish Line... Here's What Actually Happens Next",
-    "desc": "<p>You hit go-live, and the project tracker turns green. Everyone sighs in relief...and then, within hours, the real problems start.</p>\n\n<p",
-    "link": "https://dev.to/acuver_consulting/go-live-isnt-the-finish-line-heres-what-actually-happens-next-3jm3",
-    "topic": "general"
+    "title": "Security automation is a lie unless you can talk to it.",
+    "desc": "<p>I spent most of my morning staring at the Lacework dashboard, trying to correlate an anomalous Kubernetes execution alert with a specific",
+    "link": "https://dev.to/renato_marinho/security-automation-is-a-lie-unless-you-can-talk-to-it-2iea",
+    "topic": "secops"
   },
   {
-    "title": "Blameless Postmortems in Practice",
-    "desc": "<p>Most teams claim they do blameless postmortems.</p>\n\n<p>Then the incident happens.</p>\n\n<p>\"Jane didn't validate the input.\"</p>\n\n<p>\"The",
-    "link": "https://dev.to/mrinal_narang_13a3d00eb37/blameless-postmortems-in-practice-3ie5",
-    "topic": "general"
+    "title": "Benchmarking the Latest in AI: GLM 5.2 vs Claude",
+    "desc": "<h1>\n  \n  \n  What was released / announced\n</h1>\n\n<p>GLM 5.2, a large language model, has been benchmarked against Claude, with the former o",
+    "link": "https://dev.to/naveenmalothu/benchmarking-the-latest-in-ai-glm-52-vs-claude-3294",
+    "topic": "anthropic"
   },
   {
-    "title": "Getting the public IP in Go \u2014 no dependencies, no API key",
-    "desc": "<h2>\n  \n  \n  Getting the public IP in Go \u2014 no dependencies, no API key\n</h2>\n\n<p>Go's standard library is famously self-contained, and IP de",
-    "link": "https://dev.to/vix_2f14d2f56c1/getting-the-public-ip-in-go-no-dependencies-no-api-key-2ng5",
+    "title": "diskreap: reclaim disk from build artifacts & dep caches, across every language",
+    "desc": "<p>My disk filled up last week. Not from anything I was actively working on \u2014 from the <strong>graveyard</strong> of projects in <code>~/cod",
+    "link": "https://dev.to/_06a3df6b50aec966668fb/diskreap-reclaim-disk-from-build-artifacts-dep-caches-across-every-language-1hac",
     "topic": "general"
   }
 ]
