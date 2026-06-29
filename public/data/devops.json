@@ -1,50 +1,50 @@
 [
   {
-    "title": "Load Test to Optimize Cloud Costs",
-    "desc": "<h1>\n  \n  \n  Overview\n</h1>\n\n<p>Most load testing tools focus on performance metrics like response times and throughput. They don't show you",
-    "link": "https://dev.to/aws-builders/load-test-to-optimize-cloud-costs-3n0a",
-    "topic": "general"
-  },
-  {
-    "title": "Job titles no longer work - that\u2019s how Boris Cherny, Head of Claude Code sees it",
-    "desc": "<p>Job titles no longer work - that\u2019s how Boris Cherny, Head of Claude Code sees it</p>\n\n<p>His point is that the old split between\u00a0engineer",
-    "link": "https://dev.to/alexgetmancom/job-titles-no-longer-work-thats-how-boris-cherny-head-of-claude-code-sees-it-2pid",
+    "title": "The $500M Claude Code Problem: Why Most Teams Pay 3x What They Should for AI Coding",
+    "desc": "<p>Enterprise AI coding bills are hitting absurd numbers. One source told Axios that a client spent $500 million in a <em>month</em> on Clau",
+    "link": "https://dev.to/aplomb2/the-500m-claude-code-problem-why-most-teams-pay-3x-what-they-should-for-ai-coding-59cj",
     "topic": "anthropic"
   },
   {
-    "title": "Setting Up Uptime Monitoring for Remix Apps with Vigilmon",
-    "desc": "<h1>\n  \n  \n  Setting Up Uptime Monitoring for Remix Apps with Vigilmon\n</h1>\n\n<p>Remix is a full-stack React framework built around web stan",
-    "link": "https://dev.to/vigilmon/setting-up-uptime-monitoring-for-remix-apps-with-vigilmon-4624",
+    "title": "Building an Async Job Platform with BullMQ, Socket.io, and Webhooks",
+    "desc": "<p><strong>NodeFlow</strong> is an asynchronous job orchestration and webhook delivery API built with Node.js, TypeScript, BullMQ, Socket.io",
+    "link": "https://dev.to/cypher682/building-an-async-job-platform-with-bullmq-socketio-and-webhooks-2m55",
     "topic": "general"
   },
   {
-    "title": "Uptime Monitoring for Bun Applications with Vigilmon",
-    "desc": "<h1>\n  \n  \n  Uptime Monitoring for Bun Applications with Vigilmon\n</h1>\n\n<p>Bun's blazing startup speed and drop-in Node.js compatibility ma",
-    "link": "https://dev.to/vigilmon/uptime-monitoring-for-bun-applications-with-vigilmon-25kp",
+    "title": "Resolving Zitadel Instance Conflicts: Separating Dev and Prod Environments with Unique Identifiers",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the world of microservices and cloud-native architectures, identity and access management (IAM) syste",
+    "link": "https://dev.to/maricode/resolving-zitadel-instance-conflicts-separating-dev-and-prod-environments-with-unique-identifiers-3ibh",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Your Deno App with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor Your Deno App with Vigilmon\n</h1>\n\n<p>Deno is a secure, modern JavaScript and TypeScript runtime that's gaining ",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-deno-app-with-vigilmon-4cp6",
+    "title": "How to Install Docker Desktop on Windows in 99 Seconds! (2026 Guide)",
+    "desc": "<p>Setting up your development environment shouldn't take all day. If you are looking for a fast, no-fluff guide to get <strong>Docker Deskt",
+    "link": "https://dev.to/codesetuplab/how-to-install-docker-desktop-on-windows-in-99-seconds-2026-guide-3b9i",
+    "topic": "docker"
+  },
+  {
+    "title": "The Day I Realized I Was Copying Code, Not Learning It",
+    "desc": "<p>When I started learning programming, I thought I was making good progress.</p>\n\n<p>I was watching tutorials, following along, and everyth",
+    "link": "https://dev.to/tahami_akservices_cb075e/the-day-i-realized-i-was-copying-code-not-learning-it-1mk",
     "topic": "general"
   },
   {
-    "title": "Upptime vs Vigilmon: Open-Source Uptime Monitoring Compared",
-    "desc": "<h1>\n  \n  \n  Upptime vs Vigilmon: Open-Source Uptime Monitoring Compared\n</h1>\n\n<p>The appeal of <strong>Upptime</strong> is obvious: free, ",
-    "link": "https://dev.to/vigilmon/upptime-vs-vigilmon-open-source-uptime-monitoring-compared-2256",
+    "title": "Your GitHub Repository Isn't Ready for New Contributors: A Practical Onboarding Checklist",
+    "desc": "<p>Most teams think onboarding starts with the README.</p>\n\n<p>It does not.</p>\n\n<p>It starts with the first command a new contributor runs.",
+    "link": "https://dev.to/otaready/your-github-repository-isnt-ready-for-new-contributors-a-practical-onboarding-checklist-o5k",
     "topic": "general"
   },
   {
-    "title": "Better Stack vs Vigilmon: Which Uptime Monitor Wins for Developers?",
-    "desc": "<h1>\n  \n  \n  Better Stack vs Vigilmon: Which Uptime Monitor Wins for Developers?\n</h1>\n\n<p>If you're comparing uptime monitoring tools, <str",
-    "link": "https://dev.to/vigilmon/better-stack-vs-vigilmon-which-uptime-monitor-wins-for-developers-15l9",
+    "title": "A Pre-Push Code Review Agent Built With Python and Git Hooks",
+    "desc": "<p>Every developer I know has the same evening ritual: push code before bed, wake up to a CI failure, spend the morning debugging something ",
+    "link": "https://dev.to/amrree/a-pre-push-code-review-agent-built-with-python-and-git-hooks-2a5n",
     "topic": "general"
   },
   {
-    "title": "How to Pick a Monorepo Tool in 2026",
-    "desc": "<p>The landscape: Turborepo (caching focus), Nx (plugin ecosystem), pnpm workspaces (minimal, native), Bun workspaces (fast, batteries-inclu",
-    "link": "https://dev.to/yobox/how-to-pick-a-monorepo-tool-in-2026-kko",
+    "title": "5 Automation Patterns That Actually Work for AI Agents (With Code)",
+    "desc": "<p>The real power of an agent is not what it does on demand. It is what it does when you are not watching.</p>\n\n<p>Most people set up cron j",
+    "link": "https://dev.to/amrree/5-automation-patterns-that-actually-work-for-ai-agents-with-code-23ef",
     "topic": "general"
   }
 ]
