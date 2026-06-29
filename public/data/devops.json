@@ -1,50 +1,50 @@
 [
   {
-    "title": "Roll Out DMARC p=reject in 8 Weeks",
-    "desc": "<blockquote>\n<p><strong>Teaser only.</strong> This is not the full article. Complete week-by-week rollout with pct= staging: <a href=\"https:",
-    "link": "https://dev.to/rronyecz/roll-out-dmarc-preject-in-8-weeks-37d2",
+    "title": "A Billion Tokens a Day, and My Lack of Choice",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/yuta_tu_df870be227e99357a/a-billion-tokens-a-day-and-my-lack-of-choice-374a",
     "topic": "general"
   },
   {
-    "title": "Beyond Automation: Conducting a Production Readiness Assessment for a CI/CD Pipeline",
-    "desc": "<p>\u00abA CI/CD pipeline that deploys successfully isn't necessarily a production-ready pipeline. This article walks through how I assessed an e",
-    "link": "https://dev.to/gravox/beyond-automation-conducting-a-production-readiness-assessment-for-a-cicd-pipeline-4amk",
+    "title": "\u5341\u5104 Token \u7684\u4e00\u5929\uff0c\u548c\u6211\u7684\u7121\u5f9e\u9078\u64c7",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/yuta_tu_df870be227e99357a/shi-yi-token-de-tian-he-wo-de-wu-cong-xuan-ze-2174",
     "topic": "general"
   },
   {
-    "title": "The $500M Claude Code Problem: Why Most Teams Pay 3x What They Should for AI Coding",
-    "desc": "<p>Enterprise AI coding bills are hitting absurd numbers. One source told Axios that a client spent $500 million in a <em>month</em> on Clau",
-    "link": "https://dev.to/aplomb2/the-500m-claude-code-problem-why-most-teams-pay-3x-what-they-should-for-ai-coding-59cj",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Building an Async Job Platform with BullMQ, Socket.io, and Webhooks",
-    "desc": "<p><strong>NodeFlow</strong> is an asynchronous job orchestration and webhook delivery API built with Node.js, TypeScript, BullMQ, Socket.io",
-    "link": "https://dev.to/cypher682/building-an-async-job-platform-with-bullmq-socketio-and-webhooks-2m55",
+    "title": "Vigilmon vs Uptime Kuma: Self-Hosted vs Managed Monitoring",
+    "desc": "<p>Uptime Kuma is the darling of the homelab and self-hosted community \u2014 and for good reason. It is free, open-source, and genuinely well-de",
+    "link": "https://dev.to/vigilmon/vigilmon-vs-uptime-kuma-self-hosted-vs-managed-monitoring-4e89",
     "topic": "general"
   },
   {
-    "title": "Resolving Zitadel Instance Conflicts: Separating Dev and Prod Environments with Unique Identifiers",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the world of microservices and cloud-native architectures, identity and access management (IAM) syste",
-    "link": "https://dev.to/maricode/resolving-zitadel-instance-conflicts-separating-dev-and-prod-environments-with-unique-identifiers-3ibh",
+    "title": "Two launchd plists, two lifecycle models: KeepAlive and StartInterval",
+    "desc": "<p>The server gets <code>KeepAlive</code>. The generator gets <code>StartInterval=14400</code>. Same tool, same plist format, different life",
+    "link": "https://dev.to/arihantdeva/two-launchd-plists-two-lifecycle-models-keepalive-and-startinterval-5e1m",
     "topic": "general"
   },
   {
-    "title": "How to Install Docker Desktop on Windows in 99 Seconds! (2026 Guide)",
-    "desc": "<p>Setting up your development environment shouldn't take all day. If you are looking for a fast, no-fluff guide to get <strong>Docker Deskt",
-    "link": "https://dev.to/codesetuplab/how-to-install-docker-desktop-on-windows-in-99-seconds-2026-guide-3b9i",
-    "topic": "docker"
-  },
-  {
-    "title": "The Day I Realized I Was Copying Code, Not Learning It",
-    "desc": "<p>When I started learning programming, I thought I was making good progress.</p>\n\n<p>I was watching tutorials, following along, and everyth",
-    "link": "https://dev.to/tahami_akservices_cb075e/the-day-i-realized-i-was-copying-code-not-learning-it-1mk",
+    "title": "100 Days of DevOps, Day 4: Permissions That Actually Matter and Why S3 Versioning Shouldn't Be Optional",
+    "desc": "<p>Not every mistake breaks a system immediately.</p>\n\n<p>Some mistakes just sit there quietly until the wrong person gets access, or someon",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-day-4-permissions-that-actually-matter-and-why-s3-versioning-shouldnt-be-2b7k",
     "topic": "general"
   },
   {
-    "title": "Your GitHub Repository Isn't Ready for New Contributors: A Practical Onboarding Checklist",
-    "desc": "<p>Most teams think onboarding starts with the README.</p>\n\n<p>It does not.</p>\n\n<p>It starts with the first command a new contributor runs.",
-    "link": "https://dev.to/otaready/your-github-repository-isnt-ready-for-new-contributors-a-practical-onboarding-checklist-o5k",
+    "title": "DevOps as a Service Pricing: What Should Businesses Expect to Pay?",
+    "desc": "<p>After 25 years of keeping production systems alive \u2014 building the automation, owning the pager, and helping companies stop bleeding money",
+    "link": "https://dev.to/devopsaitoolkit/devops-as-a-service-pricing-what-should-businesses-expect-to-pay-2481",
+    "topic": "general"
+  },
+  {
+    "title": "The GitHub Actions workflow that's been failing for weeks (and how to find yours)",
+    "desc": "<p>trpc has a scheduled workflow called \"Lock Issues & PRs.\" Its own <a href=\"https://gitspider.com/scan/trpc/trpc?ref=devto\" rel=\"noopener ",
+    "link": "https://dev.to/ace2932/the-github-actions-workflow-thats-been-failing-for-weeks-and-how-to-find-yours-2oj",
+    "topic": "general"
+  },
+  {
+    "title": "Why your GitHub Actions CI is slow (and how to speed it up)",
+    "desc": "<p>Two days ago GitHub emailed me to say one of my workflows had failed. The next day it emailed me again. I saw it, told myself I would fix",
+    "link": "https://dev.to/ace2932/why-your-github-actions-ci-is-slow-and-how-to-speed-it-up-19la",
     "topic": "general"
   }
 ]
