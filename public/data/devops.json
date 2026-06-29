@@ -1,50 +1,50 @@
 [
   {
-    "title": "Slack or Telegram for solo founder alerts? I was asking the wrong question.",
-    "desc": "<p>When I started thinking about real-time alerts for my SaaS, my first instinct was Slack. Familiar, used it in previous jobs, wanted every",
-    "link": "https://dev.to/manolito99/slack-or-telegram-for-solo-founder-alerts-i-was-asking-the-wrong-question-1bp8",
+    "title": "Your Chatbot's Deflection Rate Went Up. Customers Just Gave Up.",
+    "desc": "<p>Last month, I had a problem with a popular mobile banking app in Southeast Asia. Nothing exotic. A transaction didn't go through, and my ",
+    "link": "https://dev.to/tomtokita/your-chatbots-deflection-rate-went-up-customers-just-gave-up-3ldd",
     "topic": "general"
   },
   {
-    "title": "Why am I building a DevOps Infrastructure Lab?",
-    "desc": "<p>I am committed to understand how systems actually work.</p>\n\n<p>I'm working on a multi-node lab to follow the complete path of a request ",
-    "link": "https://dev.to/daniloprandi/why-am-i-building-a-devops-infrastructure-lab-p1d",
+    "title": "5 MCP Servers That Changed How I Build AI Workflows",
+    "desc": "<p>Over the past year, one concept has fundamentally changed how I think about AI applications.</p>\n\n<p>Not larger language models.</p>\n\n<p>",
+    "link": "https://dev.to/jaideepparashar/5-mcp-servers-that-changed-how-i-build-ai-workflows-16j6",
     "topic": "general"
   },
   {
-    "title": "Why LaunchDarkly OpenFeature Migrations Break in Production",
-    "desc": "<p>LaunchDarkly and OpenFeature both evaluate flags with three arguments, but the<br />\nfallback and context positions are reversed. A naive",
-    "link": "https://dev.to/krishan_sharma_561a52817e/why-launchdarkly-openfeature-migrations-break-in-production-52mk",
+    "title": "Aurelian Heritage Intelligent Alliance Office: In-depth guide to the 403(b) plan 2",
+    "desc": "<p>Pros and cons of the 403(b) plan</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheig",
+    "link": "https://dev.to/aurelianheritageoffice/aurelian-heritage-intelligent-alliance-office-in-depth-guide-to-the-403b-plan-2-46b7",
     "topic": "general"
   },
   {
-    "title": "Five LaunchDarkly SDK Patterns That Block Automatic Migration to OpenFeature",
-    "desc": "<p>Run <code>flaglint migrate ./src --dry-run</code> and you will see two kinds of results: call<br />\nsites with a generated diff and call ",
-    "link": "https://dev.to/krishan_sharma_561a52817e/five-launchdarkly-sdk-patterns-that-block-automatic-migration-to-openfeature-5aho",
+    "title": "n8n Execute Command Node: Run Shell Scripts and CLI Tools in Your Workflows (Free JSON)",
+    "desc": "<p>The n8n Execute Command node lets you run any shell command directly inside your workflow. Use it to call CLI tools, run scripts, invoke ",
+    "link": "https://dev.to/pirateprentice/n8n-execute-command-node-run-shell-scripts-and-cli-tools-in-your-workflows-free-json-p81",
     "topic": "general"
   },
   {
-    "title": "Feature Flag Technical Debt in TypeScript: Find, Measure, and Clear It",
-    "desc": "<p>TypeScript's type system enforces interface contracts and catches argument-type mismatches at compile time \u2014 but it cannot see which of y",
-    "link": "https://dev.to/krishan_sharma_561a52817e/feature-flag-technical-debt-in-typescript-find-measure-and-clear-it-35cf",
+    "title": "Adding server monitoring to my SSH manager without opening a second connection",
+    "desc": "<p>I use my SSH manager every day. I also use a separate monitoring tool every day. For a long time I just accepted that these were two diff",
+    "link": "https://dev.to/masitings/adding-server-monitoring-to-my-ssh-manager-without-opening-a-second-connection-3gp2",
     "topic": "general"
   },
   {
-    "title": "Enforcing Your LaunchDarkly to OpenFeature Migration in GitHub Actions",
-    "desc": "<p>You started your LaunchDarkly to OpenFeature migration three weeks ago. The first sprint went well\u2014five files converted, OpenFeature prov",
-    "link": "https://dev.to/krishan_sharma_561a52817e/enforcing-your-launchdarkly-to-openfeature-migration-in-github-actions-1o3p",
+    "title": "Go-Live Isn't the Finish Line... Here's What Actually Happens Next",
+    "desc": "<p>You hit go-live, and the project tracker turns green. Everyone sighs in relief...and then, within hours, the real problems start.</p>\n\n<p",
+    "link": "https://dev.to/acuver_consulting/go-live-isnt-the-finish-line-heres-what-actually-happens-next-3jm3",
     "topic": "general"
   },
   {
-    "title": "A provider outage can expose how deeply application code depends on a single feature-flag SDK.",
-    "desc": "<p>A provider outage can expose how deeply application code depends on a single<br />\nfeature-flag SDK. OpenFeature creates a neutral applic",
-    "link": "https://dev.to/krishan_sharma_561a52817e/founder-and-maintainer-of-flaglint-5adb",
+    "title": "Blameless Postmortems in Practice",
+    "desc": "<p>Most teams claim they do blameless postmortems.</p>\n\n<p>Then the incident happens.</p>\n\n<p>\"Jane didn't validate the input.\"</p>\n\n<p>\"The",
+    "link": "https://dev.to/mrinal_narang_13a3d00eb37/blameless-postmortems-in-practice-3ie5",
     "topic": "general"
   },
   {
-    "title": "83 percent done, then it died with nothing to resume from",
-    "desc": "<p>I came back to my laptop after dinner expecting a finished job.</p>\n\n<p>What I got was a dead script and one number burned into the termi",
-    "link": "https://dev.to/mjmirza/83-percent-done-then-it-died-with-nothing-to-resume-from-2m63",
+    "title": "Getting the public IP in Go \u2014 no dependencies, no API key",
+    "desc": "<h2>\n  \n  \n  Getting the public IP in Go \u2014 no dependencies, no API key\n</h2>\n\n<p>Go's standard library is famously self-contained, and IP de",
+    "link": "https://dev.to/vix_2f14d2f56c1/getting-the-public-ip-in-go-no-dependencies-no-api-key-2ng5",
     "topic": "general"
   }
 ]
