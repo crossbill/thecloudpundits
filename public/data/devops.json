@@ -1,5 +1,17 @@
 [
   {
+    "title": "Roll Out DMARC p=reject in 8 Weeks",
+    "desc": "<blockquote>\n<p><strong>Teaser only.</strong> This is not the full article. Complete week-by-week rollout with pct= staging: <a href=\"https:",
+    "link": "https://dev.to/rronyecz/roll-out-dmarc-preject-in-8-weeks-37d2",
+    "topic": "general"
+  },
+  {
+    "title": "Beyond Automation: Conducting a Production Readiness Assessment for a CI/CD Pipeline",
+    "desc": "<p>\u00abA CI/CD pipeline that deploys successfully isn't necessarily a production-ready pipeline. This article walks through how I assessed an e",
+    "link": "https://dev.to/gravox/beyond-automation-conducting-a-production-readiness-assessment-for-a-cicd-pipeline-4amk",
+    "topic": "general"
+  },
+  {
     "title": "The $500M Claude Code Problem: Why Most Teams Pay 3x What They Should for AI Coding",
     "desc": "<p>Enterprise AI coding bills are hitting absurd numbers. One source told Axios that a client spent $500 million in a <em>month</em> on Clau",
     "link": "https://dev.to/aplomb2/the-500m-claude-code-problem-why-most-teams-pay-3x-what-they-should-for-ai-coding-59cj",
@@ -33,18 +45,6 @@
     "title": "Your GitHub Repository Isn't Ready for New Contributors: A Practical Onboarding Checklist",
     "desc": "<p>Most teams think onboarding starts with the README.</p>\n\n<p>It does not.</p>\n\n<p>It starts with the first command a new contributor runs.",
     "link": "https://dev.to/otaready/your-github-repository-isnt-ready-for-new-contributors-a-practical-onboarding-checklist-o5k",
-    "topic": "general"
-  },
-  {
-    "title": "A Pre-Push Code Review Agent Built With Python and Git Hooks",
-    "desc": "<p>Every developer I know has the same evening ritual: push code before bed, wake up to a CI failure, spend the morning debugging something ",
-    "link": "https://dev.to/amrree/a-pre-push-code-review-agent-built-with-python-and-git-hooks-2a5n",
-    "topic": "general"
-  },
-  {
-    "title": "5 Automation Patterns That Actually Work for AI Agents (With Code)",
-    "desc": "<p>The real power of an agent is not what it does on demand. It is what it does when you are not watching.</p>\n\n<p>Most people set up cron j",
-    "link": "https://dev.to/amrree/5-automation-patterns-that-actually-work-for-ai-agents-with-code-23ef",
     "topic": "general"
   }
 ]
