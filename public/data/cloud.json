@@ -1,5 +1,23 @@
 [
   {
+    "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
+    "desc": "AWS CloudFormation speeds up infrastructure deployment with Express mode, enabling AI agents and developers to receive deployment confirmati",
+    "link": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
+    "topic": "aws"
+  },
+  {
+    "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
+    "desc": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance ",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+    "topic": "aws"
+  },
+  {
+    "title": "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager",
+    "desc": "AWS Certificate Manager now supports the ACME protocol for public TLS certificates, enabling automated issuance and renewal through any ACME",
+    "link": "https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/",
+    "topic": "aws"
+  },
+  {
     "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
     "desc": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures w",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
@@ -27,24 +45,6 @@
     "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
     "desc": "Amazon Elastic Container Service (Amazon ECS) service auto scaling automatically adjusts task counts to meet workload demand with comprehens",
     "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/",
-    "topic": "general"
-  },
-  {
-    "title": "Top announcements of the AWS Summit in New York, 2026",
-    "desc": "A recap of the top announcements from AWS's New York Summit 2026",
-    "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/",
-    "topic": "aws"
-  },
-  {
-    "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
-    "desc": "Amazon Bedrock's new Fully Managed Knowledge Bases simplifies building enterprise RAG pipelines by providing native data connectors Smart Pa",
-    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
-    "topic": "general"
-  },
-  {
-    "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
-    "desc": "AWS introduces Web Search on Amazon Bedrock AgentCore, a fully managed tool that enables agents to ground responses in current, cited web kn",
-    "link": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
     "topic": "general"
   }
 ]

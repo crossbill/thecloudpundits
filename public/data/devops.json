@@ -1,50 +1,50 @@
 [
   {
-    "title": "FinOps Cloud Cost Optimization: How Smart Engineering Teams Cut Cloud Bills",
-    "desc": "<p>Cloud costs are one of the fastest-growing expenses for modern development teams. As applications become more complex with AI workloads, ",
-    "link": "https://dev.to/triotechsystems/finops-cloud-cost-optimization-how-smart-engineering-teams-cut-cloud-bills-32h8",
-    "topic": "finops"
-  },
-  {
-    "title": "The Terraform Awakens: Infrastructure as Code Quest",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I was tired of playing \u201cguess the state\u201d every time I spun up a new environmen",
-    "link": "https://dev.to/timevolt/the-terraform-awakens-infrastructure-as-code-quest-1mgb",
-    "topic": "terraform"
-  },
-  {
-    "title": "Choosing a Testing Orchestration Tool: A Loyalty-Discount Module Tested Across GitHub Actions, GitLab CI/CD, Jenkins, and CircleCI",
-    "desc": "<h2>\n  \n  \n  Abstract\n</h2>\n\n<p>Picking a CI tool is often treated as a branding decision, when it should be an engineering one. This articl",
-    "link": "https://dev.to/diego_fabrizioandianava/cicd-tools-comparison-github-actions-vs-jenkins-vs-gitlab-ci-3928",
+    "title": "How to Change a Public Repository to Private Using GitHub CLI",
+    "desc": "<p>When working on personal, academic, or professional projects, we often start a repository as <strong>public</strong> to share progress, t",
+    "link": "https://dev.to/cristian-jonhson/how-to-change-a-public-repository-to-private-using-github-cli-20fc",
     "topic": "general"
   },
   {
-    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 23 \u2013 Jun 29, 2026",
-    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 23 \u2013 Jun 29, 2026 | <strong>Tot",
-    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-jun-23-jun-29-2026-41j8",
-    "topic": "aws"
+    "title": "Docker for Beginners: A Complete Practical Guide",
+    "desc": "<h1>\n  \n  \n  Docker for Beginners: A Complete Practical Guide\n</h1>\n\n<p>Imagine being able to develop, test, and deploy applications in a co",
+    "link": "https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-162m",
+    "topic": "docker"
   },
   {
-    "title": "POV: Why it is so hard for startups",
-    "desc": "<p>Hello ladies and gentleman,<br />\nHope you are having an amazing Tuesday today!</p>\n\n<p>When I scroll and interact with platforms like X,",
-    "link": "https://dev.to/launchallyceo/pov-why-it-is-so-hard-for-startups-4jg2",
+    "title": "The Unraid Summer Sale Is Here \u2014 Up to 50% Off",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/the-unraid-summer-sale-is-here-up-to-50-off\" rel=\"noopener noref",
+    "link": "https://dev.to/rasne/the-unraid-summer-sale-is-here-up-to-50-off-4kim",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent's Best Work Produces Zero Output \u2014 And That's the Point",
-    "desc": "<p><strong>My Stop hook produces nothing. No \"all good.\" No \"checks passed.\" Complete silence. And that's exactly how I designed it.</strong",
-    "link": "https://dev.to/yuhaolin2005/your-ai-agents-best-work-produces-zero-output-and-thats-the-point-5b3a",
+    "title": "How to Choose the Right Web Development Australia Has to Offer (2026 Guide)",
+    "desc": "<p>Your website is often the first impression a customer has of your business \u2014 and in a market as competitive as Australia's, that first im",
+    "link": "https://dev.to/socialitoptimize/how-to-choose-the-right-web-development-australia-has-to-offer-2026-guide-3fbc",
     "topic": "general"
   },
   {
-    "title": "Green Tests Don't Mean Better Software",
-    "desc": "<p>You spent the week on a refactor because it was supposed to make the next change cheaper. The tests go green, the PR merges, and that's t",
-    "link": "https://dev.to/reporails/green-tests-dont-mean-better-software-59of",
+    "title": "What 12 failure classes and 30 Billion tokens spent taught us about trusting AI coding agents",
+    "desc": "<p>We've been watching AI coding agents fail in production for long enough that we started keeping a taxonomy.</p>\n\n<p>Not \"the agent halluc",
+    "link": "https://dev.to/cryptokeesan/what-12-failure-classes-and-30-billion-tokens-spent-taught-us-about-trusting-ai-coding-agents-pi7",
     "topic": "general"
   },
   {
-    "title": "The Microsoft UEFI CA from 2011 expired last week. Here's what to check.",
-    "desc": "<p>The Microsoft UEFI CA 2011 quietly expired on June 27, 2026. If you're running anything with Secure Boot enabled, this is worth five minu",
-    "link": "https://dev.to/schiff_heimlich/the-microsoft-uefi-ca-from-2011-expired-last-week-heres-what-to-check-124d",
-    "topic": "azure"
+    "title": "Coinbase Cut Its AI Spend in Half Without Throttling Engineers - Here's the Playbook",
+    "desc": "<p>Coinbase halved its AI spend while token usage kept growing exponentially. CEO Brian Armstrong posted the breakdown on X this week \u2014 five",
+    "link": "https://dev.to/thegatewayguy/coinbase-cut-its-ai-spend-in-half-without-throttling-engineers-heres-the-playbook-1el4",
+    "topic": "general"
+  },
+  {
+    "title": "I Built an AI Pipeline to Write About Building My Products. Then I Had to Debug the Debugger.",
+    "desc": "<h1>\n  \n  \n  I Built an AI Pipeline to Write About Building My Products. Then I Had to Debug the Debugger.\n</h1>\n\n<p>There's a particular ki",
+    "link": "https://dev.to/zaerohell/i-built-an-ai-pipeline-to-write-about-building-my-products-then-i-had-to-debug-the-debugger-1hbd",
+    "topic": "general"
+  },
+  {
+    "title": "How to Review AI-Generated Code Before Merging: A Practical Checklist",
+    "desc": "<p>AI coding tools like Cursor, Claude Code, GitHub Copilot, and Codex write code fast \u2014 but they also introduce risk patterns that are easy",
+    "link": "https://dev.to/marcin_brzozka_ff45b1ccb6/how-to-review-ai-generated-code-before-merging-a-practical-checklist-4o65",
+    "topic": "general"
   }
 ]
