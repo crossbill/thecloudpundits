@@ -1,5 +1,29 @@
 [
   {
+    "title": "Your incident-response AI agent gets more expensive the longer the incident runs",
+    "desc": "<p><em>The point in an incident where an AI assistant should be cheapest and fastest \u2014 deep into a long, messy timeline \u2014 is exactly where m",
+    "link": "https://dev.to/saihmadmin/your-incident-response-ai-agent-gets-more-expensive-the-longer-the-incident-runs-16jl",
+    "topic": "secops"
+  },
+  {
+    "title": "Vigilmon vs Datadog Synthetics: Lightweight Uptime Monitoring vs Full Observability Platform",
+    "desc": "<p>Datadog Synthetics is a powerful testing and monitoring product embedded inside one of the most capable observability platforms in the wo",
+    "link": "https://dev.to/vigilmon/vigilmon-vs-datadog-synthetics-lightweight-uptime-monitoring-vs-full-observability-platform-56b7",
+    "topic": "general"
+  },
+  {
+    "title": "AI Code Review in 2026: CodeRabbit vs Mesrai AI Compared",
+    "desc": "<p>Choosing the right automated code reviewer can save your team hours of engineering time. Today, we're stacking up two highly capable plat",
+    "link": "https://dev.to/devtech0023/ai-code-review-in-2026-coderabbit-vs-mesrai-ai-compared-1n86",
+    "topic": "general"
+  },
+  {
+    "title": "LLM Integration in CI/CD: Real Use Cases Beyond Code Completion",
+    "desc": "<p>A GitLab API token appeared in a README.md file. It was committed, pushed, and reviewed by two engineers before merging. Nobody caught it",
+    "link": "https://dev.to/manikanta_suru_92/llm-integration-in-cicd-real-use-cases-beyond-code-completion-e8f",
+    "topic": "general"
+  },
+  {
     "title": "A Billion Tokens a Day, and My Lack of Choice",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/yuta_tu_df870be227e99357a/a-billion-tokens-a-day-and-my-lack-of-choice-374a",
@@ -21,30 +45,6 @@
     "title": "Two launchd plists, two lifecycle models: KeepAlive and StartInterval",
     "desc": "<p>The server gets <code>KeepAlive</code>. The generator gets <code>StartInterval=14400</code>. Same tool, same plist format, different life",
     "link": "https://dev.to/arihantdeva/two-launchd-plists-two-lifecycle-models-keepalive-and-startinterval-5e1m",
-    "topic": "general"
-  },
-  {
-    "title": "100 Days of DevOps, Day 4: Permissions That Actually Matter and Why S3 Versioning Shouldn't Be Optional",
-    "desc": "<p>Not every mistake breaks a system immediately.</p>\n\n<p>Some mistakes just sit there quietly until the wrong person gets access, or someon",
-    "link": "https://dev.to/ndcodes/100-days-of-devops-day-4-permissions-that-actually-matter-and-why-s3-versioning-shouldnt-be-2b7k",
-    "topic": "general"
-  },
-  {
-    "title": "DevOps as a Service Pricing: What Should Businesses Expect to Pay?",
-    "desc": "<p>After 25 years of keeping production systems alive \u2014 building the automation, owning the pager, and helping companies stop bleeding money",
-    "link": "https://dev.to/devopsaitoolkit/devops-as-a-service-pricing-what-should-businesses-expect-to-pay-2481",
-    "topic": "general"
-  },
-  {
-    "title": "The GitHub Actions workflow that's been failing for weeks (and how to find yours)",
-    "desc": "<p>trpc has a scheduled workflow called \"Lock Issues & PRs.\" Its own <a href=\"https://gitspider.com/scan/trpc/trpc?ref=devto\" rel=\"noopener ",
-    "link": "https://dev.to/ace2932/the-github-actions-workflow-thats-been-failing-for-weeks-and-how-to-find-yours-2oj",
-    "topic": "general"
-  },
-  {
-    "title": "Why your GitHub Actions CI is slow (and how to speed it up)",
-    "desc": "<p>Two days ago GitHub emailed me to say one of my workflows had failed. The next day it emailed me again. I saw it, told myself I would fix",
-    "link": "https://dev.to/ace2932/why-your-github-actions-ci-is-slow-and-how-to-speed-it-up-19la",
     "topic": "general"
   }
 ]
