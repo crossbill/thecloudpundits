@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Docker Containers Changed Software Deployment ? \ud83e\udd14",
-    "desc": "<p>Imagine building an application that works perfectly on your computer but crashes immediately when someone else tries to run it.</p>\n\n<p>",
-    "link": "https://dev.to/techie_sprinter/why-docker-containers-changed-software-deployment--5bdp",
-    "topic": "docker"
-  },
-  {
-    "title": "How to undo commits in Git",
-    "desc": "<p>In <a href=\"https://dev.to/fj_palacios/how-to-recover-files-after-modifying-them-thanks-to-git-2em\">How to recover files after modifying ",
-    "link": "https://dev.to/fj_palacios/how-to-undo-commits-in-git-1m38",
+    "title": "Your AI Agent's Best Work Produces Zero Output \u2014 And That's the Point",
+    "desc": "<p><strong>My Stop hook produces nothing. No \"all good.\" No \"checks passed.\" Complete silence. And that's exactly how I designed it.</strong",
+    "link": "https://dev.to/yuhaolin2005/your-ai-agents-best-work-produces-zero-output-and-thats-the-point-5b3a",
     "topic": "general"
   },
   {
-    "title": "I'm an AI, and I audited every \"free\" Postgres tier. Several aren't free anymore.",
-    "desc": "<p>I'm an autonomous AI agent. One thing I can do that a human writer won't is the boring part: re-check a reference on a schedule so it nev",
-    "link": "https://dev.to/alice_31281c3fed5d0305db5/im-an-ai-and-i-audited-every-free-postgres-tier-several-arent-free-anymore-nb8",
+    "title": "Green Tests Don't Mean Better Software",
+    "desc": "<p>You spent the week on a refactor because it was supposed to make the next change cheaper. The tests go green, the PR merges, and that's t",
+    "link": "https://dev.to/reporails/green-tests-dont-mean-better-software-59of",
     "topic": "general"
   },
   {
-    "title": "Understanding the Azure Resource Groups and Azure Resources",
-    "desc": "<h4>\n  \n  \n  AZURE\u00a0&\u00a0CLOUD\n</h4>\n\n<h3>\n  \n  \n  Understanding\u00a0the\u00a0Azure\u00a0Resource\u00a0Groups\u00a0and\u00a0Azure\u00a0Resources\n</h3>\n\n<h4>\n  \n  \n  Introduction\u00a0",
-    "link": "https://dev.to/danielrusnok/understanding-the-azure-resource-groups-and-azure-resources-1poc",
+    "title": "The Microsoft UEFI CA from 2011 expired last week. Here's what to check.",
+    "desc": "<p>The Microsoft UEFI CA 2011 quietly expired on June 27, 2026. If you're running anything with Secure Boot enabled, this is worth five minu",
+    "link": "https://dev.to/schiff_heimlich/the-microsoft-uefi-ca-from-2011-expired-last-week-heres-what-to-check-124d",
     "topic": "azure"
   },
   {
-    "title": "13 PRs. One Day. No Manual Merges.",
-    "desc": "<p>Iteration 1 looked like this: my agent opened a PR, immediately called <code>gh pr merge --squash --delete-branch</code> in PowerShell, a",
-    "link": "https://dev.to/htekdev/13-prs-one-day-no-manual-merges-251c",
-    "topic": "general"
-  },
-  {
-    "title": "Your Backtest Isn't Broken\u2014It's Probably Looking Into the Future",
+    "title": "IDPs Don't Solve the Ownership Problem. They Defer It.",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/benjamin_cup/your-backtest-isnt-broken-its-probably-looking-into-the-future-2jlb",
+    "link": "https://dev.to/ntctech/idps-dont-solve-the-ownership-problem-they-defer-it-1lmo",
     "topic": "general"
   },
   {
-    "title": "Automated Testing Strategies for Trunk-Based Development: How to Build a 10-Minute Pipeline Home Development Workflow & Best Practices",
-    "desc": "<p>If you\u2019ve been following my recent posts, you already know I am a big fan of Trunk-Based Development (TBD), tiny pull requests, and deplo",
-    "link": "https://dev.to/codecraft_diary_3d13677fb/automated-testing-strategies-for-trunk-based-development-how-to-build-a-10-minute-pipeline-home-1520",
+    "title": "Set Up a Local AWS Environment with MiniStack",
+    "desc": "<h1>\n  \n  \n  Overview\n</h1>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=sc",
+    "link": "https://dev.to/aws-builders/set-up-a-local-aws-environment-with-ministack-2k2a",
+    "topic": "aws"
+  },
+  {
+    "title": "TL;DR",
+    "desc": "<h1>\n  \n  \n  TL;DR\n</h1>\n\n<p>This article details the technical implementation of staggering cron jobs in GitHub Actions to avoid simultaneo",
+    "link": "https://dev.to/zaerohell/tldr-4c3c",
     "topic": "general"
   },
   {
-    "title": "Junior DevOps Engineer Seeks Clarity on Role and Responsibilities for Greater Job Security",
-    "desc": "<h2>\n  \n  \n  Introduction: The DevOps Dilemma\n</h2>\n\n<p>Junior DevOps engineers often find themselves in a paradoxical situation: they\u2019re hi",
-    "link": "https://dev.to/maricode/junior-devops-engineer-seeks-clarity-on-role-and-responsibilities-for-greater-job-security-2486",
-    "topic": "secops"
+    "title": "Best Polymarket Trading Tools in 2026 (Analytics, Copy Trading, Execution & Arbitrage Bots)",
+    "desc": "<p>Polymarket has become one of the most active prediction markets in crypto, where traders speculate on real-world outcomes ranging from ma",
+    "link": "https://dev.to/itsragnar/best-polymarket-trading-tools-in-2026-analytics-copy-trading-execution-arbitrage-bots-e43",
+    "topic": "general"
+  },
+  {
+    "title": "I Run a Full PaaS on One $11/Month ARM Server. Here's What the Resource Usage Actually Looks Like.",
+    "desc": "<p>A managed Kubernetes cluster on AWS starts at ~$73/month, just the control plane, before you run anything on it. Add a load balancer, a m",
+    "link": "https://dev.to/jonny2k26/i-run-a-full-paas-on-one-11month-arm-server-heres-what-the-resource-usage-actually-looks-like-4lnp",
+    "topic": "general"
   }
 ]
