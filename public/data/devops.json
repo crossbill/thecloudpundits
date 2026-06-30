@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your incident-response AI agent gets more expensive the longer the incident runs",
-    "desc": "<p><em>The point in an incident where an AI assistant should be cheapest and fastest \u2014 deep into a long, messy timeline \u2014 is exactly where m",
-    "link": "https://dev.to/saihmadmin/your-incident-response-ai-agent-gets-more-expensive-the-longer-the-incident-runs-16jl",
-    "topic": "secops"
-  },
-  {
-    "title": "Vigilmon vs Datadog Synthetics: Lightweight Uptime Monitoring vs Full Observability Platform",
-    "desc": "<p>Datadog Synthetics is a powerful testing and monitoring product embedded inside one of the most capable observability platforms in the wo",
-    "link": "https://dev.to/vigilmon/vigilmon-vs-datadog-synthetics-lightweight-uptime-monitoring-vs-full-observability-platform-56b7",
+    "title": "Automating the RevOps Data Layer: How to Make CRM Actually Reflect Reality",
+    "desc": "<p><em>45% of contacts never get logged. 17% of rep time goes to data entry. Here's the architecture that fixes both.</em></p>\n\n<p>Every Rev",
+    "link": "https://dev.to/spuriqai/automating-the-revops-data-layer-how-to-make-crm-actually-reflect-reality-1ggj",
     "topic": "general"
   },
   {
-    "title": "AI Code Review in 2026: CodeRabbit vs Mesrai AI Compared",
-    "desc": "<p>Choosing the right automated code reviewer can save your team hours of engineering time. Today, we're stacking up two highly capable plat",
-    "link": "https://dev.to/devtech0023/ai-code-review-in-2026-coderabbit-vs-mesrai-ai-compared-1n86",
+    "title": "What Topics Are Covered in a Digital Asset Certification Course?",
+    "desc": "<p>Digital assets are changing the way we do finance creating opportunities for people who work in banking, FinTech and Web3. If you are thi",
+    "link": "https://dev.to/georgiaweston/what-topics-are-covered-in-a-digital-asset-certification-course-2b09",
     "topic": "general"
   },
   {
-    "title": "LLM Integration in CI/CD: Real Use Cases Beyond Code Completion",
-    "desc": "<p>A GitLab API token appeared in a README.md file. It was committed, pushed, and reviewed by two engineers before merging. Nobody caught it",
-    "link": "https://dev.to/manikanta_suru_92/llm-integration-in-cicd-real-use-cases-beyond-code-completion-e8f",
+    "title": "Active Directory to Linux: Mapping Your Helpdesk Skills to the CLI",
+    "desc": "<p>Coming from an IT support and MSP background, managing user access and file structures in Windows Active Directory is a daily routine. Bu",
+    "link": "https://dev.to/nikitops/active-directory-to-linux-mapping-your-helpdesk-skills-to-the-cli-45a7",
     "topic": "general"
   },
   {
-    "title": "A Billion Tokens a Day, and My Lack of Choice",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/yuta_tu_df870be227e99357a/a-billion-tokens-a-day-and-my-lack-of-choice-374a",
+    "title": "Attacking AWS DevOps Agent: Designing Prompt Injection Attacks on the Ops Layer",
+    "desc": "<blockquote>\n<p>This is a <strong>design article</strong> about attack scenarios targeting AWS DevOps Agent. The empirical run on a real AWS",
+    "link": "https://dev.to/_76130e67067eab4c8510/attacking-aws-devops-agent-designing-prompt-injection-attacks-on-the-ops-layer-51pg",
+    "topic": "aws"
+  },
+  {
+    "title": "How IoT and Environmental Monitoring Are Transforming Construction",
+    "desc": "<p>The construction sector is increasingly utilizing IoT-based environmental monitoring systems that provide a variety of benefits.</p>\n\n<p>",
+    "link": "https://dev.to/fathimath_fida_ffbda72c61/how-iot-and-environmental-monitoring-are-transforming-construction-1emk",
     "topic": "general"
   },
   {
-    "title": "\u5341\u5104 Token \u7684\u4e00\u5929\uff0c\u548c\u6211\u7684\u7121\u5f9e\u9078\u64c7",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/yuta_tu_df870be227e99357a/shi-yi-token-de-tian-he-wo-de-wu-cong-xuan-ze-2174",
+    "title": "Postman + Newman: How to Build a Practical API Testing Workflow with Real Code",
+    "desc": "<h2>\n  \n  \n  Abstract\n</h2>\n\n<p>API testing is one of the fastest ways to verify that a system works the way it should. A well-designed API ",
+    "link": "https://dev.to/kiarazmurillo/postman-newman-how-to-build-a-practical-api-testing-workflow-with-real-code-10f8",
     "topic": "general"
   },
   {
-    "title": "Vigilmon vs Uptime Kuma: Self-Hosted vs Managed Monitoring",
-    "desc": "<p>Uptime Kuma is the darling of the homelab and self-hosted community \u2014 and for good reason. It is free, open-source, and genuinely well-de",
-    "link": "https://dev.to/vigilmon/vigilmon-vs-uptime-kuma-self-hosted-vs-managed-monitoring-4e89",
-    "topic": "general"
+    "title": "TIL: How to Fix the \"Port Already in Use\" Error in Docker",
+    "desc": "<p>We have all been there. You just built a fresh Docker image, you confidently type your d<code>ocker run</code> command into the terminal,",
+    "link": "https://dev.to/vatul16/til-how-to-fix-the-port-already-in-use-error-in-docker-1b65",
+    "topic": "docker"
   },
   {
-    "title": "Two launchd plists, two lifecycle models: KeepAlive and StartInterval",
-    "desc": "<p>The server gets <code>KeepAlive</code>. The generator gets <code>StartInterval=14400</code>. Same tool, same plist format, different life",
-    "link": "https://dev.to/arihantdeva/two-launchd-plists-two-lifecycle-models-keepalive-and-startinterval-5e1m",
+    "title": "Linux Logs Explained Simply",
+    "desc": "<p>When something breaks in Linux, experienced engineers don\u2019t guess.</p>\n\n<p>They check the logs.</p>\n\n<p>\ud83d\udc49 Logs are the \u201cblack box recorde",
+    "link": "https://dev.to/sreekanth_kuruba_91721e5d/linux-logs-explained-simply-3pjn",
     "topic": "general"
   }
 ]
