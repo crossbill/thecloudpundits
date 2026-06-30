@@ -1,5 +1,35 @@
 [
   {
+    "title": "FinOps Cloud Cost Optimization: How Smart Engineering Teams Cut Cloud Bills",
+    "desc": "<p>Cloud costs are one of the fastest-growing expenses for modern development teams. As applications become more complex with AI workloads, ",
+    "link": "https://dev.to/triotechsystems/finops-cloud-cost-optimization-how-smart-engineering-teams-cut-cloud-bills-32h8",
+    "topic": "finops"
+  },
+  {
+    "title": "The Terraform Awakens: Infrastructure as Code Quest",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I was tired of playing \u201cguess the state\u201d every time I spun up a new environmen",
+    "link": "https://dev.to/timevolt/the-terraform-awakens-infrastructure-as-code-quest-1mgb",
+    "topic": "terraform"
+  },
+  {
+    "title": "Choosing a Testing Orchestration Tool: A Loyalty-Discount Module Tested Across GitHub Actions, GitLab CI/CD, Jenkins, and CircleCI",
+    "desc": "<h2>\n  \n  \n  Abstract\n</h2>\n\n<p>Picking a CI tool is often treated as a branding decision, when it should be an engineering one. This articl",
+    "link": "https://dev.to/diego_fabrizioandianava/cicd-tools-comparison-github-actions-vs-jenkins-vs-gitlab-ci-3928",
+    "topic": "general"
+  },
+  {
+    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 23 \u2013 Jun 29, 2026",
+    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 23 \u2013 Jun 29, 2026 | <strong>Tot",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-jun-23-jun-29-2026-41j8",
+    "topic": "aws"
+  },
+  {
+    "title": "POV: Why it is so hard for startups",
+    "desc": "<p>Hello ladies and gentleman,<br />\nHope you are having an amazing Tuesday today!</p>\n\n<p>When I scroll and interact with platforms like X,",
+    "link": "https://dev.to/launchallyceo/pov-why-it-is-so-hard-for-startups-4jg2",
+    "topic": "general"
+  },
+  {
     "title": "Your AI Agent's Best Work Produces Zero Output \u2014 And That's the Point",
     "desc": "<p><strong>My Stop hook produces nothing. No \"all good.\" No \"checks passed.\" Complete silence. And that's exactly how I designed it.</strong",
     "link": "https://dev.to/yuhaolin2005/your-ai-agents-best-work-produces-zero-output-and-thats-the-point-5b3a",
@@ -16,35 +46,5 @@
     "desc": "<p>The Microsoft UEFI CA 2011 quietly expired on June 27, 2026. If you're running anything with Secure Boot enabled, this is worth five minu",
     "link": "https://dev.to/schiff_heimlich/the-microsoft-uefi-ca-from-2011-expired-last-week-heres-what-to-check-124d",
     "topic": "azure"
-  },
-  {
-    "title": "IDPs Don't Solve the Ownership Problem. They Defer It.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ntctech/idps-dont-solve-the-ownership-problem-they-defer-it-1lmo",
-    "topic": "general"
-  },
-  {
-    "title": "Set Up a Local AWS Environment with MiniStack",
-    "desc": "<h1>\n  \n  \n  Overview\n</h1>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=sc",
-    "link": "https://dev.to/aws-builders/set-up-a-local-aws-environment-with-ministack-2k2a",
-    "topic": "aws"
-  },
-  {
-    "title": "TL;DR",
-    "desc": "<h1>\n  \n  \n  TL;DR\n</h1>\n\n<p>This article details the technical implementation of staggering cron jobs in GitHub Actions to avoid simultaneo",
-    "link": "https://dev.to/zaerohell/tldr-4c3c",
-    "topic": "general"
-  },
-  {
-    "title": "Best Polymarket Trading Tools in 2026 (Analytics, Copy Trading, Execution & Arbitrage Bots)",
-    "desc": "<p>Polymarket has become one of the most active prediction markets in crypto, where traders speculate on real-world outcomes ranging from ma",
-    "link": "https://dev.to/itsragnar/best-polymarket-trading-tools-in-2026-analytics-copy-trading-execution-arbitrage-bots-e43",
-    "topic": "general"
-  },
-  {
-    "title": "I Run a Full PaaS on One $11/Month ARM Server. Here's What the Resource Usage Actually Looks Like.",
-    "desc": "<p>A managed Kubernetes cluster on AWS starts at ~$73/month, just the control plane, before you run anything on it. Add a load balancer, a m",
-    "link": "https://dev.to/jonny2k26/i-run-a-full-paas-on-one-11month-arm-server-heres-what-the-resource-usage-actually-looks-like-4lnp",
-    "topic": "general"
   }
 ]
