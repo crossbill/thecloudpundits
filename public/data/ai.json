@@ -1,5 +1,17 @@
 [
   {
+    "title": "Why Specialization Is Inevitable",
+    "desc": "",
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "topic": "general"
+  },
+  {
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "desc": "",
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "topic": "huggingface"
+  },
+  {
     "title": "DiScoFormer: One transformer for density and score, across distributions",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/discoformer",
@@ -33,18 +45,6 @@
     "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
     "desc": "",
     "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "topic": "huggingface"
-  },
-  {
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "desc": "",
-    "link": "https://huggingface.co/blog/cross-origin-storage",
-    "topic": "general"
-  },
-  {
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "desc": "",
-    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
     "topic": "huggingface"
   }
 ]
