@@ -1,5 +1,29 @@
 [
   {
+    "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
+    "desc": "<p>Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM\u2019s X-Force Red team.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
+    "topic": "general"
+  },
+  {
+    "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users\u2019 Location History",
+    "desc": "<p>The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
+    "topic": "general"
+  },
+  {
+    "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
+    "desc": "<p>The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite\u2019s Payments product.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
+    "topic": "secops"
+  },
+  {
+    "title": "The AI Token Costs That Can Break Cybersecurity",
+    "desc": "<p>As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token con",
+    "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
+    "topic": "secops"
+  },
+  {
     "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
     "desc": "<p>Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed.</p>\n<p>The post <a href=\"https://www.sec",
     "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
@@ -22,29 +46,5 @@
     "desc": "<p>CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers.</p>\n<",
     "link": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
     "topic": "aws"
-  },
-  {
-    "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
-    "desc": "<p>An optional \u2018username key\u2019 adds another layer by requiring a secondary credential before someone can message users.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
-    "topic": "general"
-  },
-  {
-    "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
-    "desc": "<p>Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer\u2019s machine.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Straiker Raises $64 Million for AI Security Platform",
-    "desc": "<p>The startup\u2019s platform can identify AI agents and provide visibility into their access, behavior, and risks.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
-    "topic": "secops"
-  },
-  {
-    "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
-    "desc": "<p>The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization.</p>\n<p>The post <a href=\"https://www.securit",
-    "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
-    "topic": "general"
   }
 ]
