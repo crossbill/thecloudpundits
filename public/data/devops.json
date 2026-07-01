@@ -1,50 +1,50 @@
 [
   {
-    "title": "How I Lost $2000 in One Night Because My LLM App Had No Observability",
-    "desc": "<p>Last month, I spent a sleepless night watching my startup's OpenAI bill spike by $2,000 in a single evening. The worst part? I had no ide",
-    "link": "https://dev.to/__c1b9e06dc90a7e0a676b/how-i-lost-2000-in-one-night-because-my-llm-app-had-no-observability-533b",
+    "title": "Alibaba Cloud RDS: A Developer's Guide to Managed Databases",
+    "desc": "<h1>\n  \n  \n  Alibaba Cloud RDS: A Developer's Guide to Managed Databases\n</h1>\n\n<p>Managing databases is hard. <strong>Alibaba Cloud Relatio",
+    "link": "https://dev.to/fan_li_ee7d84c6203253d041/alibaba-cloud-rds-a-developers-guide-to-managed-databases-1c0h",
     "topic": "general"
   },
   {
-    "title": "Cloudflare Workers Rate Limiting: 3 KV Mistakes We Made",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/01/cloudflare-workers-rate-limiting-3-kv-mistakes-we-made\" rel=\"noope",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-workers-rate-limiting-3-kv-mistakes-we-made-4m9n",
+    "title": "Automation: The Silent Developer",
+    "desc": "<p>If you\u2019re not automating your repetitive tasks, you\u2019re wasting time. Identify bottlenecks, automate, and watch your productivity soar. Yo",
+    "link": "https://dev.to/fabiosarmento/automation-the-silent-developer-5dog",
     "topic": "general"
   },
   {
-    "title": "Best Salesforce DevOps Training In Hyderabad | Online Course",
-    "desc": "<p>Why Salesforce DevOps Is One of the Highest-Paying IT Skills<br />\nIntroduction<br />\nAs more businesses use Salesforce, they need faster",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/best-salesforce-devops-training-in-hyderabad-online-course-2hh7",
+    "title": "The day my software collapsed in front of everyone",
+    "desc": "<p>That afternoon, the screen started to slow down.</p>\n\n<p>At first I shrugged it off. Then it got worse. You'd tap a button and the page j",
+    "link": "https://dev.to/fromzerotoship/the-day-my-software-collapsed-in-front-of-everyone-43pg",
     "topic": "general"
   },
   {
-    "title": "From SAM to Terraform Rebuilding My Nigeria Power Outage Tracker with Modules",
-    "desc": "<h2>\n  \n  \n  INTRODUCTION\n</h2>\n\n<p>A few months ago I built a serverless power outage reporting system for Nigeria using AWS SAM. Citizens ",
-    "link": "https://dev.to/lumanex_007/from-sam-to-terraform-rebuilding-my-nigeria-power-outage-tracker-with-modules-1ajn",
-    "topic": "terraform"
-  },
-  {
-    "title": "From SAM to Terraform Rebuilding My Nigeria Power Outage Tracker with Modules",
-    "desc": "<h2>\n  \n  \n  INTRODUCTION\n</h2>\n\n<p>A few months ago I built a serverless power outage reporting system for Nigeria using AWS SAM. Citizens ",
-    "link": "https://dev.to/lumanex_007/from-sam-to-terraform-rebuilding-my-nigeria-power-outage-tracker-with-modules-3mlh",
-    "topic": "terraform"
-  },
-  {
-    "title": "MCP Authentication: How We Secured 12 MCP Servers Without Losing Our Minds",
-    "desc": "<p><strong>TL;DR:</strong> MCP authentication is genuinely more complex than regular API auth because you're managing credentials across man",
-    "link": "https://dev.to/sahajmeet_kaur_/mcp-authentication-how-we-secured-12-mcp-servers-without-losing-our-minds-1di9",
+    "title": "Your Provenance Vector Dies at the Storage Boundary",
+    "desc": "<p>Last post I argued that agent trust should be a <a href=\"https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p\">",
+    "link": "https://dev.to/p0rt/your-provenance-vector-dies-at-the-storage-boundary-4cc",
     "topic": "general"
   },
   {
-    "title": "MCP Governance: What It Actually Means in Production (And the Four Walls We Had to Build)",
-    "desc": "<p><strong>TL;DR:</strong> MCP governance is the set of controls that determine which agents can access which tools, under which identities,",
-    "link": "https://dev.to/sahajmeet_kaur_/mcp-governance-what-it-actually-means-in-production-and-the-four-walls-we-had-to-build-2671",
+    "title": "Token Costs That Compound While You Sleep",
+    "desc": "<p>An AI agent ran inside a customer's pipeline for 30 seconds. By the time anyone looked at the logs, it had made 47 API calls, bloated its",
+    "link": "https://dev.to/opsveritas/token-costs-that-compound-while-you-sleep-d5c",
     "topic": "general"
   },
   {
-    "title": "What Is an MCP Registry? (And the NxM Problem It Solves)",
-    "desc": "<p><strong>TL;DR:</strong> An MCP registry is a centralized catalog of MCP servers - what they do, how to connect, what tools they expose, a",
-    "link": "https://dev.to/sahajmeet_kaur_/what-is-an-mcp-registry-and-the-nxm-problem-it-solves-4ogm",
+    "title": "Attackers are hijacking exposed AI endpoints to run offensive operations. No exploit needed.",
+    "desc": "<h2>\n  \n  \n  The attack doesn't require a compromise\n</h2>\n\n<p>There's a new attack pattern getting documented that every team running self-",
+    "link": "https://dev.to/cyclopt_dimitrisk/attackers-are-hijacking-exposed-ai-endpoints-to-run-offensive-operations-no-exploit-needed-123d",
+    "topic": "secops"
+  },
+  {
+    "title": "Working with Helm Charts: Deploying, Upgrading, and Managing Kubernetes Applications",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the previous article, we explored what Helm is, why it is widely used in Kubernetes, and how Helm Cha",
+    "link": "https://dev.to/nalluri_gowtham_c21a3b06a/working-with-helm-charts-deploying-upgrading-and-managing-kubernetes-applications-4k4o",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "FuseGuard: Trip Agent Loops Locally, See Blocks in Your Fleet Console",
+    "desc": "<p>Agents retry forever when a tool schema drifts or a loop never terminates.</p>\n\n<p>Your service dashboards look fine. Stripe still charge",
+    "link": "https://dev.to/kioiek/fuseguard-trip-agent-loops-locally-see-blocks-in-your-fleet-console-14e4",
     "topic": "general"
   }
 ]
