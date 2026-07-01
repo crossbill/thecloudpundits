@@ -1,50 +1,50 @@
 [
   {
-    "title": "Enterprise Workflow Automation: 5 Powerful Steps to Scale in 2026",
-    "desc": "<p>Looking ahead to 2026, <strong>enterprise workflow automation</strong> is a core technical requirement. Moving away from manual departmen",
-    "link": "https://dev.to/solosolveai/enterprise-workflow-automation-5-powerful-steps-to-scale-in-2026-39hi",
+    "title": "\ud83d\udc0d kubectl exec hangs when running Python scripts \u2014 what's going on",
+    "desc": "<h2>\n  \n  \n  \u23f1 Minute 0-2 \u2014 Stop the <em>Bleed</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/imag",
+    "link": "https://dev.to/ptp2308/kubectl-exec-hangs-when-running-python-scripts-whats-going-on-44b4",
     "topic": "general"
   },
   {
-    "title": "Deploying Spring Petclinic Microservices with Docker Compose: An End-to-End DevOps Deployment Experience",
-    "desc": "<p>As part of my DevOps Micro Internship (DMI), I completed the deployment of the Spring Petclinic Microservices application using Docker Co",
-    "link": "https://dev.to/nice_nwogu_c463979fcbaaa8/deploying-spring-petclinic-microservices-with-docker-compose-an-end-to-end-devops-deployment-1b5b",
-    "topic": "docker"
-  },
-  {
-    "title": "Why your monitoring is missing the dumbest outages",
-    "desc": "<p>An expired cert took down a subdomain on a Saturday with zero alerts. Here is the bash sweep that catches the failures hiding in plain si",
-    "link": "https://dev.to/selllami/why-your-monitoring-is-missing-the-dumbest-outages-41hi",
+    "title": "Cancel duplicate GitHub Actions runs with one block (and the one place you shouldn't)",
+    "desc": "<p>You push a fix, spot a typo a second later, and push again. GitHub cheerfully runs both. The first run, building a commit you've already ",
+    "link": "https://dev.to/ace2932/cancel-duplicate-github-actions-runs-with-one-block-and-the-one-place-you-shouldnt-2m3k",
     "topic": "general"
   },
   {
-    "title": "How to Change a Public Repository to Private Using GitHub CLI",
-    "desc": "<p>When working on personal, academic, or professional projects, we often start a repository as <strong>public</strong> to share progress, t",
-    "link": "https://dev.to/cristian-jonhson/how-to-change-a-public-repository-to-private-using-github-cli-20fc",
+    "title": "The 7 IAM Misconfigurations We See in Almost Every AWS Account",
+    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://www.shieldly.io/blog/\" rel=\"noopener noreferrer\">shieldly.io/blog</a>.</em></p>",
+    "link": "https://dev.to/shieldlyio/the-7-iam-misconfigurations-we-see-in-almost-every-aws-account-35fm",
+    "topic": "aws"
+  },
+  {
+    "title": "\u30102026\u3011Auth0 \u4ee3\u66ff (Clerk/Supabase Auth/WorkOS)\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>\u79fb\u884c\u5148\u306f Clerk \u3092\u63a8\u5968\u3059\u308b\u3002</strong><br />\n\u7406\u7531\u306f3\u70b9\uff1aSDK \u306e\u5b8c\u6210\u5ea6\u304c\u9ad8\u304f\u30d5\u30ed\u30f3\u30c8\u30a8\u30f3\u30c9\u7d71\u5408\u304c\u6700\u901f\u3001<a href=\"https://www.amazon.co.jp/s",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-45em",
     "topic": "general"
   },
   {
-    "title": "Docker for Beginners: A Complete Practical Guide",
-    "desc": "<h1>\n  \n  \n  Docker for Beginners: A Complete Practical Guide\n</h1>\n\n<p>Imagine being able to develop, test, and deploy applications in a co",
-    "link": "https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-162m",
-    "topic": "docker"
-  },
-  {
-    "title": "The Unraid Summer Sale Is Here \u2014 Up to 50% Off",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/the-unraid-summer-sale-is-here-up-to-50-off\" rel=\"noopener noref",
-    "link": "https://dev.to/rasne/the-unraid-summer-sale-is-here-up-to-50-off-4kim",
+    "title": "\u30102026\u3011Algolia \u4ee3\u66ff\u306e\u5168\u6587\u691c\u7d22SaaS\u6bd4\u8f03\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>Typesense \u306b\u4e57\u308a\u63db\u3048\u308b\u3079\u304d</strong>\u3002\u7406\u7531\u306f3\u70b9\u3042\u308b\u3002\u307e\u305a Algolia \u4e92\u63db\u306e API \u30ec\u30a4\u30e4\u30fc\u304c\u516c\u5f0f\u306b\u7528\u610f\u3055\u308c\u3066\u304a\u308a\u3001\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u30b3\u30fc\u30c9\u3092\u307b\u307c\u5909\u3048\u305a\u306b\u79fb\u884c\u3067\u304d\u308b\u3002\u6b21\u306b\u30aa\u30fc\u30d7",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-algolia-dai-ti-noquan-wen-jian-suo-saasbi-jiao-liao-jin-yi-xing-kosutodexuan-bu-332",
     "topic": "general"
   },
   {
-    "title": "How to Choose the Right Web Development Australia Has to Offer (2026 Guide)",
-    "desc": "<p>Your website is often the first impression a customer has of your business \u2014 and in a market as competitive as Australia's, that first im",
-    "link": "https://dev.to/socialitoptimize/how-to-choose-the-right-web-development-australia-has-to-offer-2026-guide-3fbc",
+    "title": "\u30102026\u3011Notion \u4ee3\u66ff\u306e\u958b\u767a\u8005\u5411\u3051\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u30c4\u30fc\u30eb\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>Outline</strong> \u306b\u4e57\u308a\u63db\u3048\u308b\u3053\u3068\u3092\u52e7\u3081\u308b\u3002</p>\n\n<p>\u7406\u7531\u306f\u4e09\u3064\u3002\u307e\u305a\u3001OSS \u304b\u3064 Docker \u3067\u30bb\u30eb\u30d5\u30db\u30b9\u30c8\u53ef\u80fd\u306a\u305f\u3081\u3001Notion \u3078\u306e\u30d9\u30f3\u30c0\u30fc\u30ed\u30c3\u30af\u30a4\u30f3\u3092\u65ad\u3061\u5207\u308c",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-notion-dai-ti-nokai-fa-zhe-xiang-kedokiyumentoturuliao-jin-yi-xing-kosutodexuan-bu-501p",
     "topic": "general"
   },
   {
-    "title": "What 12 failure classes and 30 Billion tokens spent taught us about trusting AI coding agents",
-    "desc": "<p>We've been watching AI coding agents fail in production for long enough that we started keeping a taxonomy.</p>\n\n<p>Not \"the agent halluc",
-    "link": "https://dev.to/cryptokeesan/what-12-failure-classes-and-30-billion-tokens-spent-taught-us-about-trusting-ai-coding-agents-pi7",
+    "title": "Log Management at Scale: How We Cut Costs 70% Without Losing Signal",
+    "desc": "<h2>\n  \n  \n  $12,000/Month for Logs Nobody Reads\n</h2>\n\n<p>Our logging bill was $12,000/month. We were ingesting 2TB/day. When I asked the t",
+    "link": "https://dev.to/samson_tanimawo/log-management-at-scale-how-we-cut-costs-70-without-losing-signal-1k1j",
+    "topic": "general"
+  },
+  {
+    "title": "The Production Tax: What SRE Taught Me That Code Reviews Never Could",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ajaydevineni/the-production-tax-what-sre-taught-me-that-code-reviews-never-could-5748",
     "topic": "general"
   }
 ]
