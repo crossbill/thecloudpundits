@@ -1,50 +1,50 @@
 [
   {
-    "title": "Alibaba Cloud RDS: A Developer's Guide to Managed Databases",
-    "desc": "<h1>\n  \n  \n  Alibaba Cloud RDS: A Developer's Guide to Managed Databases\n</h1>\n\n<p>Managing databases is hard. <strong>Alibaba Cloud Relatio",
-    "link": "https://dev.to/fan_li_ee7d84c6203253d041/alibaba-cloud-rds-a-developers-guide-to-managed-databases-1c0h",
+    "title": "Neon Is Becoming a Backend Platform, Not Just Postgres",
+    "desc": "<p>For most of its life, Neon had a one-sentence pitch: serverless Postgres that branches like Git. You got a database that scaled to zero, ",
+    "link": "https://dev.to/devopsdaily/neon-is-becoming-a-backend-platform-not-just-postgres-2c26",
     "topic": "general"
   },
   {
-    "title": "Automation: The Silent Developer",
-    "desc": "<p>If you\u2019re not automating your repetitive tasks, you\u2019re wasting time. Identify bottlenecks, automate, and watch your productivity soar. Yo",
-    "link": "https://dev.to/fabiosarmento/automation-the-silent-developer-5dog",
+    "title": "Patch Management for Teams With No Sysadmin",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ryan_bell/patch-management-for-teams-with-no-sysadmin-26n0",
     "topic": "general"
   },
   {
-    "title": "The day my software collapsed in front of everyone",
-    "desc": "<p>That afternoon, the screen started to slow down.</p>\n\n<p>At first I shrugged it off. Then it got worse. You'd tap a button and the page j",
-    "link": "https://dev.to/fromzerotoship/the-day-my-software-collapsed-in-front-of-everyone-43pg",
+    "title": "Google released Nano Banana 2 Lite",
+    "desc": "<p>Google released Nano Banana 2 Lite</p>\n\n<p>The new model generates an image in about\u00a04 seconds\u00a0and costs\u00a0$0.034 per 1K image.</p>\n\n<p>In ",
+    "link": "https://dev.to/alexgetmancom/google-released-nano-banana-2-lite-43l0",
     "topic": "general"
   },
   {
-    "title": "Your Provenance Vector Dies at the Storage Boundary",
-    "desc": "<p>Last post I argued that agent trust should be a <a href=\"https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p\">",
-    "link": "https://dev.to/p0rt/your-provenance-vector-dies-at-the-storage-boundary-4cc",
-    "topic": "general"
-  },
-  {
-    "title": "Token Costs That Compound While You Sleep",
-    "desc": "<p>An AI agent ran inside a customer's pipeline for 30 seconds. By the time anyone looked at the logs, it had made 47 API calls, bloated its",
-    "link": "https://dev.to/opsveritas/token-costs-that-compound-while-you-sleep-d5c",
-    "topic": "general"
-  },
-  {
-    "title": "Attackers are hijacking exposed AI endpoints to run offensive operations. No exploit needed.",
-    "desc": "<h2>\n  \n  \n  The attack doesn't require a compromise\n</h2>\n\n<p>There's a new attack pattern getting documented that every team running self-",
-    "link": "https://dev.to/cyclopt_dimitrisk/attackers-are-hijacking-exposed-ai-endpoints-to-run-offensive-operations-no-exploit-needed-123d",
-    "topic": "secops"
-  },
-  {
-    "title": "Working with Helm Charts: Deploying, Upgrading, and Managing Kubernetes Applications",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the previous article, we explored what Helm is, why it is widely used in Kubernetes, and how Helm Cha",
-    "link": "https://dev.to/nalluri_gowtham_c21a3b06a/working-with-helm-charts-deploying-upgrading-and-managing-kubernetes-applications-4k4o",
+    "title": "Zero-downtime deploys and one-click rollback for self-hosted apps \u2014 no Kubernetes",
+    "desc": "<p>The most awkward moment in self-hosted deployment is the couple of seconds after you run <code>docker stop old && docker run new</code> \u2014",
+    "link": "https://dev.to/huangchengsir/zero-downtime-deploys-and-one-click-rollback-for-self-hosted-apps-no-kubernetes-1em0",
     "topic": "kubernetes"
   },
   {
-    "title": "FuseGuard: Trip Agent Loops Locally, See Blocks in Your Fleet Console",
-    "desc": "<p>Agents retry forever when a tool schema drifts or a loop never terminates.</p>\n\n<p>Your service dashboards look fine. Stripe still charge",
-    "link": "https://dev.to/kioiek/fuseguard-trip-agent-loops-locally-see-blocks-in-your-fleet-console-14e4",
+    "title": "Docker Build Cloud Cut My CI Build Times by 75%, Here's How I Wired It to OCIR",
+    "desc": "<p>My GPU inference image was 8GB. Building it in GitHub Actions took 14 minutes on the free runner. Pushing to OCIR took another 6 minutes.",
+    "link": "https://dev.to/pavan_madduri/docker-build-cloud-cut-my-ci-build-times-by-75-heres-how-i-wired-it-to-ocir-2n03",
+    "topic": "docker"
+  },
+  {
+    "title": "The Deploy Shipped. The Route Got Worse. Now What?",
+    "desc": "<p>A route regression after deploy is not an alert by itself. It is a question the team has to answer before the release fades into memory.<",
+    "link": "https://dev.to/jakexkim/the-deploy-shipped-the-route-got-worse-now-what-1189",
+    "topic": "general"
+  },
+  {
+    "title": "Your site, your rules: new AI traffic options for all customers",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/your-site-your-rules-new-ai-traffic-options-for-all-customers\" r",
+    "link": "https://dev.to/rasne/your-site-your-rules-new-ai-traffic-options-for-all-customers-2cfn",
+    "topic": "general"
+  },
+  {
+    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/announcing-the-monetization-gateway-charge-for-any-resource-behi",
+    "link": "https://dev.to/rasne/announcing-the-monetization-gateway-charge-for-any-resource-behind-cloudflare-via-x402-90f",
     "topic": "general"
   }
 ]
