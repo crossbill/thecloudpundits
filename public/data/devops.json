@@ -1,7 +1,25 @@
 [
   {
+    "title": "The 6 production AI API failures engineers keep debugging the hard way",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Most LLM billing dashboards show model-level aggregates only; they cannot tell you which team, service, o",
+    "link": "https://dev.to/void_stitch/the-6-production-ai-api-failures-engineers-keep-debugging-the-hard-way-1l2h",
+    "topic": "general"
+  },
+  {
+    "title": "I Gave an AI Agent kubectl Access to My Cluster. Here's What Nobody Tells You About AI SRE",
+    "desc": "<p><strong>TL;DR:</strong> An AI agent can genuinely help during an incident, but the demos skip the three hard parts: it only reasons as we",
+    "link": "https://dev.to/mateenali66/i-gave-an-ai-agent-kubectl-access-to-my-cluster-heres-what-nobody-tells-you-about-ai-sre-4cp2",
+    "topic": "general"
+  },
+  {
+    "title": "Keeping Your Mac Dev Environment From Rotting",
+    "desc": "<p>Developer workstations rot. Packages drift out of date, nobody checks for CVEs until something breaks.</p>\n\n<h2>\n  \n  \n  Step 1: Audit Yo",
+    "link": "https://dev.to/sonupreetam/keeping-your-mac-dev-environment-from-rotting-43ah",
+    "topic": "general"
+  },
+  {
     "title": "Keeping Log Analytics Costs at Bay: Budgets, Alerts and a Kill Switch You Actually Test",
-    "desc": "<p>Log Analytics ingestion is one of those Azure costs that behaves well for months, then doesn't. A noisy diagnostic setting, a new service",
+    "desc": "<blockquote>\n<p>A big shout to <a href=\"https://dev.to/giomustcode\">Giovanna</a> who brought this challenge!</p>\n</blockquote>\n\n<p>Log Analy",
     "link": "https://dev.to/anderson_leite/keeping-log-analytics-costs-at-bay-budgets-alerts-and-a-kill-switch-you-actually-test-4hd0",
     "topic": "general"
   },
@@ -27,24 +45,6 @@
     "title": "AI already automates 16% of freelance tasks",
     "desc": "<p>AI already automates 16% of freelance tasks</p>\n\n<p>CAIS updated the Remote Labor Index \u2014 a benchmark where AI agents complete real clien",
     "link": "https://dev.to/alexgetmancom/ai-already-automates-16-of-freelance-tasks-5h28",
-    "topic": "general"
-  },
-  {
-    "title": "AKS vs VMs: what I learned scaling a multi-region AI platform on Azure",
-    "desc": "<p>When I started designing the infrastructure for Clynto AI an AI-first Customer Success platform launching in both the US and India at the",
-    "link": "https://dev.to/adityanile/aks-vs-vms-what-i-learned-scaling-a-multi-region-ai-platform-on-azure-33jb",
-    "topic": "azure"
-  },
-  {
-    "title": "Nobody Got Rich Digging the Wrong Ground",
-    "desc": "<p>Growth by outreach has always been a kind of prospecting \u2014 and every prospector lives or dies by the map. Stalex launches today.</p>\n\n<p>",
-    "link": "https://dev.to/stalex_ai/nobody-got-rich-digging-the-wrong-ground-mjl",
-    "topic": "general"
-  },
-  {
-    "title": "Buy Old Gmail Accounts- PVA & Bulk",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/topsmmonline5145/buy-old-gmail-accounts-pva-bulk-1d7e",
     "topic": "general"
   }
 ]
