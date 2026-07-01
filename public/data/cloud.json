@@ -1,5 +1,11 @@
 [
   {
+    "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+    "desc": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety",
+    "link": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
     "desc": "AWS CloudFormation speeds up infrastructure deployment with Express mode, enabling AI agents and developers to receive deployment confirmati",
     "link": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
@@ -39,12 +45,6 @@
     "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
     "desc": "Announcing the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, delivering high performance GPU acceleration ",
     "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
-    "topic": "general"
-  },
-  {
-    "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
-    "desc": "Amazon Elastic Container Service (Amazon ECS) service auto scaling automatically adjusts task counts to meet workload demand with comprehens",
-    "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/",
     "topic": "general"
   }
 ]

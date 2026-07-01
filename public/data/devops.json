@@ -1,50 +1,50 @@
 [
   {
-    "title": "Neon Is Becoming a Backend Platform, Not Just Postgres",
-    "desc": "<p>For most of its life, Neon had a one-sentence pitch: serverless Postgres that branches like Git. You got a database that scaled to zero, ",
-    "link": "https://dev.to/devopsdaily/neon-is-becoming-a-backend-platform-not-just-postgres-2c26",
-    "topic": "general"
+    "title": "Claude Desktop is now on Linux",
+    "desc": "<p>Claude Desktop is now on Linux</p>\n\n<p>Anthropic has released Claude Desktop for Linux in beta.</p>\n\n<p>Ubuntu and Debian are supported f",
+    "link": "https://dev.to/alexgetmancom/claude-desktop-is-now-on-linux-4kl5",
+    "topic": "anthropic"
   },
   {
-    "title": "Patch Management for Teams With No Sysadmin",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ryan_bell/patch-management-for-teams-with-no-sysadmin-26n0",
-    "topic": "general"
-  },
-  {
-    "title": "Google released Nano Banana 2 Lite",
-    "desc": "<p>Google released Nano Banana 2 Lite</p>\n\n<p>The new model generates an image in about\u00a04 seconds\u00a0and costs\u00a0$0.034 per 1K image.</p>\n\n<p>In ",
-    "link": "https://dev.to/alexgetmancom/google-released-nano-banana-2-lite-43l0",
-    "topic": "general"
-  },
-  {
-    "title": "Zero-downtime deploys and one-click rollback for self-hosted apps \u2014 no Kubernetes",
-    "desc": "<p>The most awkward moment in self-hosted deployment is the couple of seconds after you run <code>docker stop old && docker run new</code> \u2014",
-    "link": "https://dev.to/huangchengsir/zero-downtime-deploys-and-one-click-rollback-for-self-hosted-apps-no-kubernetes-1em0",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Docker Build Cloud Cut My CI Build Times by 75%, Here's How I Wired It to OCIR",
-    "desc": "<p>My GPU inference image was 8GB. Building it in GitHub Actions took 14 minutes on the free runner. Pushing to OCIR took another 6 minutes.",
-    "link": "https://dev.to/pavan_madduri/docker-build-cloud-cut-my-ci-build-times-by-75-heres-how-i-wired-it-to-ocir-2n03",
+    "title": "Why I built a lightweight remote Docker dashboard with a 4MB outbound agent",
+    "desc": "<p>As developers and self-hosters, managing containers across multiple remote servers usually requires one of two compromises:</p>\n\n<ol>\n<li",
+    "link": "https://dev.to/mndl/why-i-built-a-lightweight-remote-docker-dashboard-with-a-4mb-outbound-agent-3ofn",
     "topic": "docker"
   },
   {
-    "title": "The Deploy Shipped. The Route Got Worse. Now What?",
-    "desc": "<p>A route regression after deploy is not an alert by itself. It is a question the team has to answer before the release fades into memory.<",
-    "link": "https://dev.to/jakexkim/the-deploy-shipped-the-route-got-worse-now-what-1189",
+    "title": "The one-line GitHub Actions cache most repos forget",
+    "desc": "<p>The first thing I check on a slow CI run is the cache, and the cache is usually missing. It is the cheapest speedup there is: one line on",
+    "link": "https://dev.to/ace2932/the-one-line-github-actions-cache-most-repos-forget-1ke7",
     "topic": "general"
   },
   {
-    "title": "Your site, your rules: new AI traffic options for all customers",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/your-site-your-rules-new-ai-traffic-options-for-all-customers\" r",
-    "link": "https://dev.to/rasne/your-site-your-rules-new-ai-traffic-options-for-all-customers-2cfn",
+    "title": "What Happens When Nobody Watches Resource Usage?",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>A developer spins up a test server on Friday afternoon. The task gets done, and everyone heads into the ",
+    "link": "https://dev.to/puneetha_jalagam/what-happens-when-nobody-watches-resource-usage-17hc",
     "topic": "general"
   },
   {
-    "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/announcing-the-monetization-gateway-charge-for-any-resource-behi",
-    "link": "https://dev.to/rasne/announcing-the-monetization-gateway-charge-for-any-resource-behind-cloudflare-via-x402-90f",
+    "title": "Sonnet 5 looks absurdly priced",
+    "desc": "<p>Sonnet 5 looks absurdly priced</p>\n\n<p>\u2022 Opus 4.8 Max - $1.80<br />\n\u2022 Sonnet 5 Max - $2.29<br />\n\u2022 Fable 5 - $2.75</p>\n\n<p>Sonnet 5 is ab",
+    "link": "https://dev.to/alexgetmancom/sonnet-5-looks-absurdly-priced-475j",
+    "topic": "general"
+  },
+  {
+    "title": "Git Diff Security: How to Spot Hidden Risks in Code Changes Before They Ship",
+    "desc": "<h1>\n  \n  \n  Git Diff Security: How to Spot Hidden Risks in Code Changes Before They Ship\n</h1>\n\n<p>Every <code>git diff</code> is a window ",
+    "link": "https://dev.to/marcin_brzozka_ff45b1ccb6/git-diff-security-how-to-spot-hidden-risks-in-code-changes-before-they-ship-34eo",
+    "topic": "secops"
+  },
+  {
+    "title": "I finally understood cron expressions by building an explainer for them",
+    "desc": "<p>For years I copied cron expressions off Stack Overflow, pasted them into a config file, crossed my fingers, and moved on. <code>0 9 * * 1",
+    "link": "https://dev.to/dev48v/i-finally-understood-cron-expressions-by-building-an-explainer-for-them-12dk",
+    "topic": "general"
+  },
+  {
+    "title": "The Page Object Model, And When To Skip It",
+    "desc": "<p>A flaky UI suite usually does not fail because the browser is hard. It fails because the test code slowly turns into a second product wit",
+    "link": "https://dev.to/daniel_reade123/the-page-object-model-and-when-to-skip-it-2k7m",
     "topic": "general"
   }
 ]
