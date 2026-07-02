@@ -1,50 +1,50 @@
 [
   {
-    "title": "The LLM Gateway & Router Index (2026)",
-    "desc": "<p>A gateway sits between your app and the model providers: one API, key management, caching, failover, cost control \u2014 and for routers, auto",
-    "link": "https://dev.to/srijan_paudel_d9837a5d8fd/the-llm-gateway-router-index-2026-16fm",
+    "title": "Your AI coding agent gets expensive one reasonable decision at a time",
+    "desc": "<h2>\n  \n  \n  The setup\n</h2>\n\n<p>Agentic coding tools are astonishingly capable, and astonishingly easy to run expensively. I learned this b",
+    "link": "https://dev.to/nazarii-ahapevych/your-ai-coding-agent-gets-expensive-one-reasonable-decision-at-a-time-735",
     "topic": "general"
   },
   {
-    "title": "Make vs n8n vs Zapier Webhook Automation Comparison",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
-    "link": "https://dev.to/chasebot/make-vs-n8n-vs-zapier-webhook-automation-comparison-13n",
+    "title": "Architecting for APAC: Why You Should Deploy Bare Metal in Malaysia \ud83c\uddf2\ud83c\uddfe",
+    "desc": "<p>When designing network topologies for Southeast Asian users, latency, throughput, and data sovereignty are paramount. For years, deployin",
+    "link": "https://dev.to/epyhost/architecting-for-apac-why-you-should-deploy-bare-metal-in-malaysia-40ib",
     "topic": "general"
   },
   {
-    "title": "The Cost of Guesswork in Kubernetes",
-    "desc": "<p>If you've ever set a CPU or memory value in Kubernetes and thought \"eh, this feels about right,\" you're not alone. Almost every team does",
-    "link": "https://dev.to/puneetha_jalagam/the-cost-of-guesswork-in-kubernetes-2d27",
+    "title": "Day 19/40 - Kubernetes ConfigMaps and Secrets",
+    "desc": "<p>Today's mission: stop hardcoding values into pod manifests and learn how to inject them properly using <strong>ConfigMaps</strong> and <s",
+    "link": "https://dev.to/oyebobs/day-1940-kubernetes-configmaps-and-secrets-59ef",
     "topic": "kubernetes"
   },
   {
-    "title": "I built devcx to stop typing --config for Dev Containers",
-    "desc": "<p>I often work in repositories with multiple Dev Container configurations.</p>\n\n<p>The usual command gets repetitive pretty quickly:</p>\n\n<",
-    "link": "https://dev.to/shutx-net/i-built-devcx-to-stop-typing-config-for-dev-containers-2538",
+    "title": "I Deleted My No-Code Automation Platform and Rewrote 34 Workflows in TypeScript",
+    "desc": "<p>A few weeks ago I deleted two years of work.</p>\n\n<p>Thirty-four automations that run every day \u2014 for me and for my clients. WhatsApp AI ",
+    "link": "https://dev.to/achiya-automation/i-deleted-my-no-code-automation-platform-and-rewrote-34-workflows-in-typescript-emh",
+    "topic": "general"
+  },
+  {
+    "title": "Cluster-Route-Escalate Cascade Serves LLMs at 97-99% Accuracy for Less Cost: Cost-Aware LLM Cascade",
+    "desc": "<p>  \n  \n</p>\n\n<p><strong>What:</strong> A new paper, <strong>Cluster, Route, Escalate</strong> (arXiv 2606.27457), is a <strong>cost-aware ",
+    "link": "https://dev.to/pueding/cluster-route-escalate-cascade-serves-llms-at-97-99-accuracy-for-less-cost-cost-aware-llm-cascade-4g89",
+    "topic": "general"
+  },
+  {
+    "title": "AWS Certified Solutions Architect Professional Course and Career Path",
+    "desc": "<p><strong>Introduction</strong></p>\n\n<p>The <strong>AWS Certified Solutions Architect \u2013 Professional (SAP-C02)</strong> is an advanced, ind",
+    "link": "https://dev.to/manshi2026/aws-certified-solutions-architect-professional-course-and-career-path-37f4",
+    "topic": "aws"
+  },
+  {
+    "title": "Building Docker Containers with Persistent Storage",
+    "desc": "<p>One of the first surprises new Docker users encounter is that <strong>data disappears when a container is removed</strong>.</p>\n\n<p>Imagi",
+    "link": "https://dev.to/highbee/building-docker-containers-with-persistent-storage-p1d",
     "topic": "docker"
   },
   {
-    "title": "Scaling AI-Driven Development: How to Measure Quality to Avoid Technical Debt Traps in 2026",
-    "desc": "<p><strong>Introduction: The AI Avalanche and the Unseen Costs</strong></p>\n\n<p>It's July 2026, and the \"AI revolution\" has transcended mere",
-    "link": "https://dev.to/barecheck/scaling-ai-driven-development-how-to-measure-quality-to-avoid-technical-debt-traps-in-2026-49o2",
-    "topic": "general"
-  },
-  {
-    "title": "Your Git History Already Knows Which Code Is AI-Written. Your CI Should Too.",
-    "desc": "<p>Somewhere between a quarter and half of the code your team merged this year was probably written by an AI assistant. Ask which PRs, which",
-    "link": "https://dev.to/shenxianpeng/your-git-history-already-knows-which-code-is-ai-written-your-ci-should-too-37m6",
-    "topic": "general"
-  },
-  {
-    "title": "Online Learning Apps vs. Traditional Learning: Which Is More Effective?",
-    "desc": "<p>Education has evolved significantly over the past decade. With the rapid growth of digital technology, smartphones, and internet accessib",
-    "link": "https://dev.to/upwork_floatinginfotech_/online-learning-apps-vs-traditional-learning-which-is-more-effective-2mal",
-    "topic": "general"
-  },
-  {
-    "title": "Google SRE Review - Cheat Sheet",
-    "desc": "<p>If you're a software engineer, architect, engineering manager, or platform engineer, I consider the Google SRE Book to be one of the hand",
-    "link": "https://dev.to/limacon23/google-sre-review-cheat-sheet-2hih",
+    "title": "Testing and Debugging Your Env Config",
+    "desc": "<p>Environment variables are global state. Testing them usually means mutating <code>process.env</code> and hoping you clean up after. CtroE",
+    "link": "https://dev.to/ctrotech/testing-and-debugging-your-env-config-2ke8",
     "topic": "general"
   }
 ]

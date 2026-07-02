@@ -1,5 +1,29 @@
 [
   {
+    "title": "Trump Administration Lifts Restrictions on Anthropic\u2019s Claude Models After Cybersecurity Alarm",
+    "desc": "<p>Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available.</p>\n<p>The post <a href=\"https://www.securi",
+    "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability",
+    "desc": "<p>A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "\u2018BioShocking\u2019 Attack Tricks AI Browsers Into Stealing Credentials",
+    "desc": "<p>Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials.</",
+    "link": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
+    "topic": "secops"
+  },
+  {
+    "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
+    "desc": "<p>CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). </p>\n<p>The po",
+    "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
+    "topic": "azure"
+  },
+  {
     "title": "Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings",
     "desc": "<p>Microsoft's new Teams admin policy requires organizer approval for external AI bots, giving organizations greater visibility and control ",
     "link": "https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/",
@@ -22,29 +46,5 @@
     "desc": "<p>From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI ca",
     "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
     "topic": "secops"
-  },
-  {
-    "title": "Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari",
-    "desc": "<p>The updates fix vulnerabilities in WebKit, the kernel, WebRTC, Web Extensions, and other components affecting iPhone, iPad, Mac, and Safa",
-    "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/",
-    "topic": "general"
-  },
-  {
-    "title": "Dawnguard Raises $6.3 Million for Security Architecture Automation Platform",
-    "desc": "<p>The company has publicly launched its solution to help organizations design, build, and operate secure cloud systems.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/",
-    "topic": "secops"
-  },
-  {
-    "title": "Massive Password Spray Campaign Targeting Azure CLI",
-    "desc": "<p>Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
-    "topic": "azure"
-  },
-  {
-    "title": "Google Patches 382 Chrome Vulnerabilities",
-    "desc": "<p>Fifteen of the newly patched flaws have been rated \u2018critical\u2019 and 67 have been rated \u2018high severity\u2019.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/",
-    "topic": "general"
   }
 ]
