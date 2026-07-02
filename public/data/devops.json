@@ -1,5 +1,41 @@
 [
   {
+    "title": "5 Terraform Architecture Decisions That Matter More Than Most Engineers Think",
+    "desc": "<p>Terraform helps teams deploy infrastructure faster.</p>\n\n<p>But some architecture decisions have long-term consequences that are easy to ",
+    "link": "https://dev.to/guilhermemarochio/5-terraform-architecture-decisions-that-matter-more-than-most-engineers-think-28bc",
+    "topic": "terraform"
+  },
+  {
+    "title": "Our AI autopilot merged nothing for 3 days \u2014 the culprit was a review 'freshness' check",
+    "desc": "<p>At Codens, we run our development on AI agents around the clock: a PRD becomes tasks, agents implement them and open PRs, an AI reviewer ",
+    "link": "https://dev.to/zoetaka38/our-ai-autopilot-merged-nothing-for-3-days-the-culprit-was-a-review-freshness-check-1240",
+    "topic": "general"
+  },
+  {
+    "title": "Claude reset limits for Fable\u2019s return",
+    "desc": "<p>Claude reset limits for Fable\u2019s return</p>",
+    "link": "https://dev.to/alexgetmancom/claude-reset-limits-for-fables-return-200g",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Observability Practices in Action: Instrumenting a Node.js API with Metrics, Logs, and Traces",
+    "desc": "<h1>\n  \n  \n  Observability Practices in Action: Instrumenting a Node.js API with Metrics, Logs, and Traces\n</h1>\n\n<p>It's 3 AM. An alert fir",
+    "link": "https://dev.to/jefferson_rosas/observability-practices-in-action-instrumenting-a-nodejs-api-with-metrics-logs-and-traces-34ch",
+    "topic": "general"
+  },
+  {
+    "title": "How a Single Unauthenticated POST Turns Langflow Into a Public Python Shell",
+    "desc": "<p>One unauthenticated POST to a Langflow endpoint gets you arbitrary Python execution on the host. No credentials, no proof-of-concept requ",
+    "link": "https://dev.to/kkierii/how-a-single-unauthenticated-post-turns-langflow-into-a-public-python-shell-bld",
+    "topic": "general"
+  },
+  {
+    "title": "What actually breaks when OpenAI and Anthropic APIs fail in production (and what to check first)",
+    "desc": "<p>I've spent the last few months collecting patterns from production incidents involving the OpenAI and Anthropic APIs. These are the failu",
+    "link": "https://dev.to/void_stitch/what-actually-breaks-when-openai-and-anthropic-apis-fail-in-production-and-what-to-check-first-2k8m",
+    "topic": "openai"
+  },
+  {
     "title": "The 6 production AI API failures engineers keep debugging the hard way",
     "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Most LLM billing dashboards show model-level aggregates only; they cannot tell you which team, service, o",
     "link": "https://dev.to/void_stitch/the-6-production-ai-api-failures-engineers-keep-debugging-the-hard-way-1l2h",
@@ -9,42 +45,6 @@
     "title": "I Gave an AI Agent kubectl Access to My Cluster. Here's What Nobody Tells You About AI SRE",
     "desc": "<p><strong>TL;DR:</strong> An AI agent can genuinely help during an incident, but the demos skip the three hard parts: it only reasons as we",
     "link": "https://dev.to/mateenali66/i-gave-an-ai-agent-kubectl-access-to-my-cluster-heres-what-nobody-tells-you-about-ai-sre-4cp2",
-    "topic": "general"
-  },
-  {
-    "title": "Keeping Your Mac Dev Environment From Rotting",
-    "desc": "<p>Developer workstations rot. Packages drift out of date, nobody checks for CVEs until something breaks.</p>\n\n<h2>\n  \n  \n  Step 1: Audit Yo",
-    "link": "https://dev.to/sonupreetam/keeping-your-mac-dev-environment-from-rotting-43ah",
-    "topic": "general"
-  },
-  {
-    "title": "Keeping Log Analytics Costs at Bay: Budgets, Alerts and a Kill Switch You Actually Test",
-    "desc": "<blockquote>\n<p>A big shout to <a href=\"https://dev.to/giomustcode\">Giovanna</a> who brought this challenge!</p>\n</blockquote>\n\n<p>Log Analy",
-    "link": "https://dev.to/anderson_leite/keeping-log-analytics-costs-at-bay-budgets-alerts-and-a-kill-switch-you-actually-test-4hd0",
-    "topic": "general"
-  },
-  {
-    "title": "Fable 5 is back.",
-    "desc": "<p>Fable 5 is back.</p>",
-    "link": "https://dev.to/alexgetmancom/fable-5-is-back-2n6f",
-    "topic": "general"
-  },
-  {
-    "title": "Ideas for your startups",
-    "desc": "<p>The new people learning how to code/troubleshoot/program are in a more difficult situation then before. As I already mentioned in my post",
-    "link": "https://dev.to/launchallyceo/ideas-for-your-startups-17fk",
-    "topic": "general"
-  },
-  {
-    "title": "How to Watch Free NHL Live Stream 2026 \u2013 Fast, Free & Easy",
-    "desc": "<p>How to Watch Free NHL Live Stream 2026 made easy. Follow every regular season and playoff game online.<br />\n<a href=\"https://allsportstr",
-    "link": "https://dev.to/nextplaylive/how-to-watch-free-nhl-live-stream-2026-fast-free-easy-43lf",
-    "topic": "general"
-  },
-  {
-    "title": "AI already automates 16% of freelance tasks",
-    "desc": "<p>AI already automates 16% of freelance tasks</p>\n\n<p>CAIS updated the Remote Labor Index \u2014 a benchmark where AI agents complete real clien",
-    "link": "https://dev.to/alexgetmancom/ai-already-automates-16-of-freelance-tasks-5h28",
     "topic": "general"
   }
 ]
