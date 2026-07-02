@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your AI coding agent gets expensive one reasonable decision at a time",
-    "desc": "<h2>\n  \n  \n  The setup\n</h2>\n\n<p>Agentic coding tools are astonishingly capable, and astonishingly easy to run expensively. I learned this b",
-    "link": "https://dev.to/nazarii-ahapevych/your-ai-coding-agent-gets-expensive-one-reasonable-decision-at-a-time-735",
+    "title": "Review Boxing Drills: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/review-boxing-drills-what-we-learned-building-random-tactical-timer-2gha",
     "topic": "general"
   },
   {
-    "title": "Architecting for APAC: Why You Should Deploy Bare Metal in Malaysia \ud83c\uddf2\ud83c\uddfe",
-    "desc": "<p>When designing network topologies for Southeast Asian users, latency, throughput, and data sovereignty are paramount. For years, deployin",
-    "link": "https://dev.to/epyhost/architecting-for-apac-why-you-should-deploy-bare-metal-in-malaysia-40ib",
+    "title": "The failure that looks like success: how an unattended agent loop dies",
+    "desc": "<p><em>Originally posted on the <a href=\"https://springhead.io/log/12-the-failure-that-looks-like-success\" rel=\"noopener noreferrer\">Springh",
+    "link": "https://dev.to/springheadio/the-failure-that-looks-like-success-how-an-unattended-agent-loop-dies-10ba",
     "topic": "general"
   },
   {
-    "title": "Day 19/40 - Kubernetes ConfigMaps and Secrets",
-    "desc": "<p>Today's mission: stop hardcoding values into pod manifests and learn how to inject them properly using <strong>ConfigMaps</strong> and <s",
-    "link": "https://dev.to/oyebobs/day-1940-kubernetes-configmaps-and-secrets-59ef",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "I Deleted My No-Code Automation Platform and Rewrote 34 Workflows in TypeScript",
-    "desc": "<p>A few weeks ago I deleted two years of work.</p>\n\n<p>Thirty-four automations that run every day \u2014 for me and for my clients. WhatsApp AI ",
-    "link": "https://dev.to/achiya-automation/i-deleted-my-no-code-automation-platform-and-rewrote-34-workflows-in-typescript-emh",
-    "topic": "general"
-  },
-  {
-    "title": "Cluster-Route-Escalate Cascade Serves LLMs at 97-99% Accuracy for Less Cost: Cost-Aware LLM Cascade",
-    "desc": "<p>  \n  \n</p>\n\n<p><strong>What:</strong> A new paper, <strong>Cluster, Route, Escalate</strong> (arXiv 2606.27457), is a <strong>cost-aware ",
-    "link": "https://dev.to/pueding/cluster-route-escalate-cascade-serves-llms-at-97-99-accuracy-for-less-cost-cost-aware-llm-cascade-4g89",
-    "topic": "general"
-  },
-  {
-    "title": "AWS Certified Solutions Architect Professional Course and Career Path",
-    "desc": "<p><strong>Introduction</strong></p>\n\n<p>The <strong>AWS Certified Solutions Architect \u2013 Professional (SAP-C02)</strong> is an advanced, ind",
-    "link": "https://dev.to/manshi2026/aws-certified-solutions-architect-professional-course-and-career-path-37f4",
-    "topic": "aws"
-  },
-  {
-    "title": "Building Docker Containers with Persistent Storage",
-    "desc": "<p>One of the first surprises new Docker users encounter is that <strong>data disappears when a container is removed</strong>.</p>\n\n<p>Imagi",
-    "link": "https://dev.to/highbee/building-docker-containers-with-persistent-storage-p1d",
+    "title": "Community Docker Images: keeping the operator open without a vendor registry lock-in",
+    "desc": "<p><strong>PostgreSQL community images</strong> address a real gap in how a Kubernetes database operator earns your trust. Running a databas",
+    "link": "https://dev.to/vyacheslav_sarzhan_3c1767/community-docker-images-keeping-the-operator-open-without-a-vendor-registry-lock-in-532g",
     "topic": "docker"
   },
   {
-    "title": "Testing and Debugging Your Env Config",
-    "desc": "<p>Environment variables are global state. Testing them usually means mutating <code>process.env</code> and hoping you clean up after. CtroE",
-    "link": "https://dev.to/ctrotech/testing-and-debugging-your-env-config-2ke8",
+    "title": "[AI] Optimizing vLLM Serving: AWQ, GPTQ, & GGUF | SLM Playbook",
+    "desc": "<p>Successfully training and aligning a Small Language Model (SLM) is only half the battle. In enterprise environments, deploying a model to",
+    "link": "https://dev.to/vesviet/ai-optimizing-vllm-serving-awq-gptq-gguf-slm-playbook-5756",
+    "topic": "general"
+  },
+  {
+    "title": "Why Your SAST Scanner Misses 86% of Real Vulnerabilities",
+    "desc": "<h1>\n  \n  \n  Why Your SAST Scanner Misses 86% of Real Vulnerabilities\n</h1>\n\n<p><strong>A data-driven comparison of modern static analysis t",
+    "link": "https://dev.to/mattybellx/why-your-sast-scanner-misses-86-of-real-vulnerabilities-2ab7",
+    "topic": "general"
+  },
+  {
+    "title": "AI in Incident Response: Hype vs. Reality in 2024",
+    "desc": "<h2>\n  \n  \n  Every Vendor Claims AI Magic\n</h2>\n\n<p>Open any monitoring vendor's website and you'll see: \"AI-powered incident detection!\" \"M",
+    "link": "https://dev.to/samson_tanimawo/ai-in-incident-response-hype-vs-reality-in-2024-2ibg",
+    "topic": "secops"
+  },
+  {
+    "title": "From 25 Skills to DevOps Pipeline: How I Automated My AI Agent Deployment",
+    "desc": "<h2>\n  \n  \n  The Missing Piece\n</h2>\n\n<p>Last week I shared 25 executable skills for AI agents. The response was incredible \u2014 developers lov",
+    "link": "https://dev.to/chrislamdev/from-25-skills-to-devops-pipeline-how-i-automated-my-ai-agent-deployment-16la",
+    "topic": "general"
+  },
+  {
+    "title": "How to Monitor Certificate Transparency Logs for Lookalike Domains",
+    "desc": "<p><em>The firehose problem, typo/homoglyph matching, and where it breaks in production</em></p>\n\n<p>A lookalike domain usually sits around ",
+    "link": "https://dev.to/truong_bui_eaec3f963bbe21/how-to-monitor-certificate-transparency-logs-for-lookalike-domains-jd2",
     "topic": "general"
   }
 ]

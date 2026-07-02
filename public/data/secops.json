@@ -1,5 +1,17 @@
 [
   {
+    "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
+    "desc": "<p>As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and ident",
+    "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
+    "topic": "general"
+  },
+  {
+    "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
+    "desc": "<p>Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks b",
+    "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
+    "topic": "secops"
+  },
+  {
     "title": "Trump Administration Lifts Restrictions on Anthropic\u2019s Claude Models After Cybersecurity Alarm",
     "desc": "<p>Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available.</p>\n<p>The post <a href=\"https://www.securi",
     "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
@@ -34,17 +46,5 @@
     "desc": "<p>Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution.</p>\n<p>The post <a href",
     "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
     "topic": "general"
-  },
-  {
-    "title": "Citrix Patches NetScaler Vulnerabilities, Including New \u2018HTTP/2 Bomb\u2019 Attack",
-    "desc": "<p>Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBlee",
-    "link": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors",
-    "desc": "<p>From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI ca",
-    "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
-    "topic": "secops"
   }
 ]
