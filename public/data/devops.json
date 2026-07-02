@@ -1,50 +1,50 @@
 [
   {
-    "title": "The real cost of flaky CI: a quick community survey",
-    "desc": "<p>Flaky tests quietly drain engineering teams. You hit re-run, the test passes, and move on \u2014 but that pattern compounds across the team.</",
-    "link": "https://dev.to/void_stitch/the-real-cost-of-flaky-ci-a-quick-community-survey-e7n",
+    "title": "Testing Webhook Emails Without Polluting Real Inboxes",
+    "desc": "<p>Email notifications are one of those features that look small until they break. A password reset link points to staging, a billing alert ",
+    "link": "https://dev.to/mrdapperx/testing-webhook-emails-without-polluting-real-inboxes-3hjj",
     "topic": "general"
   },
   {
-    "title": "From Solo Bot to Agent Fleet: A Practical Guide",
-    "desc": "<p>So you\u2019ve built a bot that does something useful. Maybe it scrapes product prices, generates social media captions, or monitors a DeFi po",
-    "link": "https://dev.to/robo_rent_cc/from-solo-bot-to-agent-fleet-a-practical-guide-2f4b",
+    "title": "Why Snap CD: Modular Deployments",
+    "desc": "<p>Terraform manages dependencies between resources within a single state. The moment your infrastructure outgrows one state file \u2014 <a href=",
+    "link": "https://dev.to/karlschriek/why-snap-cd-modular-deployments-4k4j",
     "topic": "general"
   },
   {
-    "title": "Fable was swapped",
-    "desc": "<p>Fable was swapped</p>\n\n<p>Claude Fable 5 was tested again in BridgeBench after its return. The results dropped sharply.</p>\n\n<p>Debugging",
-    "link": "https://dev.to/alexgetmancom/fable-was-swapped-1jl3",
+    "title": "Why Snap CD: Self-Hosted Terraform Runners with Credential Isolation",
+    "desc": "<p>Most infrastructure teams run Terraform from a CI pipeline. That pipeline has credentials \u2014 cloud provider keys, state backend tokens, ma",
+    "link": "https://dev.to/karlschriek/why-snap-cd-self-hosted-terraform-runners-with-credential-isolation-407e",
+    "topic": "terraform"
+  },
+  {
+    "title": "Buy GitHub Consulting Services from Experienced Developers",
+    "desc": "<p>Buy, GitHub Account with Contribution What BuySMMService Offers<br />\n\ud83d\udcac Need Help Fast?</p>\n\n<p>\u27a4 WhatsApp: +1 (818) 278-3320<br />\n\u27a4 Tel",
+    "link": "https://dev.to/charleschristian/buy-github-consulting-services-from-experienced-developers-4o26",
     "topic": "general"
   },
   {
-    "title": "Why Your Emails Land in Spam - A Developer's Guide to SPF, DKIM, and DMARC",
-    "desc": "<p>You deployed your SaaS. Wired up SendGrid. Sent your first welcome email.</p>\n\n<p>It landed in spam.</p>\n\n<p>Not because your content was",
-    "link": "https://dev.to/podcastwala_80ecee7262a43/why-your-emails-land-in-spam-a-developers-guide-to-spf-dkim-and-dmarc-8ji",
+    "title": "Why Deploying Your First App Is So Hard (And How I\u2019m Fixing It at 17)",
+    "desc": "<p>Deploying your first app is supposed to be exciting\u2026 but for most beginners, it\u2019s a <strong>nightmare</strong>.</p>\n\n<p>You jump between ",
+    "link": "https://dev.to/launchallyceo/why-deploying-your-first-app-is-so-hard-and-how-im-fixing-it-at-17-20ba",
     "topic": "general"
   },
   {
-    "title": "Launch HN: Manufact (YC S25) \u2013 MCP Cloud [17:36:05]",
-    "desc": "<h1>\n  \n  \n  Launch HN: Manufact (YC S25) \u2013 MCP Cloud\n</h1>\n\n<blockquote>\n<p><strong>TL;DR</strong> \u2014 Manufact\u2019s <strong>MCP Cloud</strong> ",
-    "link": "https://dev.to/aikitt/launch-hn-manufact-yc-s25-mcp-cloud-173605-5cbg",
+    "title": "I Almost Built a Grafana Stack\u2014Then AgentGateway Shipped Everything I Needed",
+    "desc": "<p><em>Part 4 of the Homelab AI Series \u2014 <a href=\"https://dev.to/anup_sharma_86fa94612fe3c/i-built-an-ai-that-decides-which-ai-to-talk-to-ru",
+    "link": "https://dev.to/anup_sharma_86fa94612fe3c/i-almost-built-a-grafana-stack-then-agentgateway-shipped-everything-i-needed-2fae",
     "topic": "general"
   },
   {
-    "title": "Building Dashboards for LLM Usage and Performance",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/moussa62/building-dashboards-for-llm-usage-and-performance-2hkh",
+    "title": "The Moment I Understood What a Loop Really Does (Not Just Syntax)",
+    "desc": "<p>When I first learned loops, I thought I understood them.</p>\n\n<p>for, while\u2026 simple.</p>\n\n<p>Run something again and again. Done.</p>\n\n<p",
+    "link": "https://dev.to/tahami_akservices_cb075e/the-moment-i-understood-what-a-loop-really-does-not-just-syntax-4750",
     "topic": "general"
   },
   {
-    "title": "Observability for LLM Applications: Metrics That Matter",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/babatundefashola/observability-for-llm-applications-metrics-that-matter-575m",
-    "topic": "general"
-  },
-  {
-    "title": "Governing Shadow AI Across Your Organization",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/soren42/governing-shadow-ai-across-your-organization-2okh",
-    "topic": "general"
+    "title": "Migrating 500+ AWS Resources from ClickOps to Terraform: A Status Report",
+    "desc": "<p><strong>TL;DR:</strong> I led the migration of a fintech platform's entire AWS infrastructure \u2014 IAM roles, ECS services, networking, data",
+    "link": "https://dev.to/tony_uketui_6cca68c7eba02/migrating-500-aws-resources-from-clickops-to-terraform-a-status-report-3c9n",
+    "topic": "aws"
   }
 ]
