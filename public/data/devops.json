@@ -1,50 +1,50 @@
 [
   {
-    "title": "5 Terraform Architecture Decisions That Matter More Than Most Engineers Think",
-    "desc": "<p>Terraform helps teams deploy infrastructure faster.</p>\n\n<p>But some architecture decisions have long-term consequences that are easy to ",
-    "link": "https://dev.to/guilhermemarochio/5-terraform-architecture-decisions-that-matter-more-than-most-engineers-think-28bc",
-    "topic": "terraform"
-  },
-  {
-    "title": "Our AI autopilot merged nothing for 3 days \u2014 the culprit was a review 'freshness' check",
-    "desc": "<p>At Codens, we run our development on AI agents around the clock: a PRD becomes tasks, agents implement them and open PRs, an AI reviewer ",
-    "link": "https://dev.to/zoetaka38/our-ai-autopilot-merged-nothing-for-3-days-the-culprit-was-a-review-freshness-check-1240",
+    "title": "Webhook Idempotency: Handling Duplicate Events",
+    "desc": "<h2>\n  \n  \n  The Silent Killer: Why Webhook Idempotency Matters\n</h2>\n\n<p>You deploy a webhook handler that charges a customer $50 on every ",
+    "link": "https://dev.to/anonymilyhq/webhook-idempotency-handling-duplicate-events-5ep8",
     "topic": "general"
   },
   {
-    "title": "Claude reset limits for Fable\u2019s return",
-    "desc": "<p>Claude reset limits for Fable\u2019s return</p>",
-    "link": "https://dev.to/alexgetmancom/claude-reset-limits-for-fables-return-200g",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Observability Practices in Action: Instrumenting a Node.js API with Metrics, Logs, and Traces",
-    "desc": "<h1>\n  \n  \n  Observability Practices in Action: Instrumenting a Node.js API with Metrics, Logs, and Traces\n</h1>\n\n<p>It's 3 AM. An alert fir",
-    "link": "https://dev.to/jefferson_rosas/observability-practices-in-action-instrumenting-a-nodejs-api-with-metrics-logs-and-traces-34ch",
+    "title": "How I Pushed a Critical Update to Every Company Branch Without Touching a Single Machine (Electron Auto-Update Deep Dive)",
+    "desc": "<p>A few months ago I built an internal desktop tool for my company using Electron. It runs on machines across <strong>every branch office</",
+    "link": "https://dev.to/vinniharu/how-i-pushed-a-critical-update-to-every-company-branch-without-touching-a-single-machine-electron-4pk1",
     "topic": "general"
   },
   {
-    "title": "How a Single Unauthenticated POST Turns Langflow Into a Public Python Shell",
-    "desc": "<p>One unauthenticated POST to a Langflow endpoint gets you arbitrary Python execution on the host. No credentials, no proof-of-concept requ",
-    "link": "https://dev.to/kkierii/how-a-single-unauthenticated-post-turns-langflow-into-a-public-python-shell-bld",
+    "title": "Planning network checks before running them: a local-first workflow pattern",
+    "desc": "<p>Many operations tasks do not begin as tickets, dashboards, or scripts.</p>\n\n<p>They begin as intent.</p>\n\n<p>Someone says:</p>\n\n<p>Check ",
+    "link": "https://dev.to/jackythompsonde/planning-network-checks-before-running-them-a-local-first-workflow-pattern-4epn",
     "topic": "general"
   },
   {
-    "title": "What actually breaks when OpenAI and Anthropic APIs fail in production (and what to check first)",
-    "desc": "<p>I've spent the last few months collecting patterns from production incidents involving the OpenAI and Anthropic APIs. These are the failu",
-    "link": "https://dev.to/void_stitch/what-actually-breaks-when-openai-and-anthropic-apis-fail-in-production-and-what-to-check-first-2k8m",
-    "topic": "openai"
-  },
-  {
-    "title": "The 6 production AI API failures engineers keep debugging the hard way",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Most LLM billing dashboards show model-level aggregates only; they cannot tell you which team, service, o",
-    "link": "https://dev.to/void_stitch/the-6-production-ai-api-failures-engineers-keep-debugging-the-hard-way-1l2h",
+    "title": "TCP/UDP Port Reference \u2014 Searchable Well-Known Port Numbers",
+    "desc": "<h2>\n  \n  \n  Overview\n</h2>\n\n<p><strong>TCP/UDP Port Reference</strong> is a searchable table of 100+ well-known and registered port numbers",
+    "link": "https://dev.to/dev_nestio_229945f10652e4/tcpudp-port-reference-searchable-well-known-port-numbers-5c25",
     "topic": "general"
   },
   {
-    "title": "I Gave an AI Agent kubectl Access to My Cluster. Here's What Nobody Tells You About AI SRE",
-    "desc": "<p><strong>TL;DR:</strong> An AI agent can genuinely help during an incident, but the demos skip the three hard parts: it only reasons as we",
-    "link": "https://dev.to/mateenali66/i-gave-an-ai-agent-kubectl-access-to-my-cluster-heres-what-nobody-tells-you-about-ai-sre-4cp2",
+    "title": "\u8aaa\u7a7f\u4e86\uff0cAI \u9577\u5927\u7684\u74f6\u9838\u4e0d\u662f\u53c3\u6578\u4e0d\u5920\uff0c\u662f\u5bb6\u88e1\u592a\u4e82",
+    "desc": "<p>12 \u5c0f\u6642\u524d\uff0c\u6211\u7684\u6280\u80fd\u9ad4\u7cfb\u662f\u9019\u6a23\u7684\uff1a</p>\n\n<ul>\n<li>34 \u500b skill \u5206\u6563\u5728 3 \u500b\u4e0d\u540c\u76ee\u9304</li>\n<li>\u5176\u4e2d 28 \u500b\u300c\u8072\u7a31\u300d\u642c\u904e\u5bb6\uff0c\u5be6\u969b\u4e0a\u53ea\u642c\u4e86 2 \u500b</li>\n<li>2 \u500b\u7368\u7acb\u7ba1\u7406\u6a5f\u5236\u4e92\u4e0d\u6e9d\u901a\uff0cscope \u8a2d\u5b9a\u5f62\u540c\u865b\u8a2d</li>\n<li>\u4e00",
+    "link": "https://dev.to/yuta_tu_df870be227e99357a/shuo-chuan-liao-ai-chang-da-de-ping-jing-bu-shi-can-shu-bu-gou-shi-jia-li-tai-luan-4816",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent's Bottleneck Isn't Parameters\u2014It's a Messy House",
+    "desc": "<p>Twelve hours ago, my skill system looked like this:</p>\n\n<ul>\n<li>34 skills scattered across 3 different directories</li>\n<li>28 of them ",
+    "link": "https://dev.to/yuta_tu_df870be227e99357a/your-ai-agents-bottleneck-isnt-parameters-its-a-messy-house-1e9n",
+    "topic": "general"
+  },
+  {
+    "title": "\u2699\ufe0f Deploying a dockerized Django Rest Framework with Postgres for production",
+    "desc": "<p><strong>Dockerizing Django REST Framework with PostgreSQL for production</strong> can be done with either a single\u2011stage Dockerfile that ",
+    "link": "https://dev.to/ptp2308/deploying-a-dockerized-django-rest-framework-with-postgres-for-production-g17",
+    "topic": "docker"
+  },
+  {
+    "title": "I Spent 40 Minutes at 11pm Debugging a Deploy That Wasn't Broken",
+    "desc": "<p>I once spent forty minutes at eleven at night debugging a deploy that wasn't broken. The release script ran the database migration, the m",
+    "link": "https://dev.to/bashsnippets/i-spent-40-minutes-at-11pm-debugging-a-deploy-that-wasnt-broken-1p2",
     "topic": "general"
   }
 ]
