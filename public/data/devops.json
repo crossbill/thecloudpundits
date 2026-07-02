@@ -1,50 +1,50 @@
 [
   {
-    "title": "Review Boxing Drills: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/review-boxing-drills-what-we-learned-building-random-tactical-timer-2gha",
+    "title": "Backing Up and Restoring PostgreSQL Databases to S3-Compatible Storage in Coolify",
+    "desc": "<p>Coolify is an open-source, self-hosted PaaS for deploying applications and databases. Its backup engine ships with first-class support fo",
+    "link": "https://dev.to/vultr/backing-up-and-restoring-postgresql-databases-to-s3-compatible-storage-in-coolify-1c7e",
     "topic": "general"
   },
   {
-    "title": "The failure that looks like success: how an unattended agent loop dies",
-    "desc": "<p><em>Originally posted on the <a href=\"https://springhead.io/log/12-the-failure-that-looks-like-success\" rel=\"noopener noreferrer\">Springh",
-    "link": "https://dev.to/springheadio/the-failure-that-looks-like-success-how-an-unattended-agent-loop-dies-10ba",
+    "title": "Reliable Marketplaces to Buy Old Gmail Accounts with PVA Aged Features",
+    "desc": "<p>Buy Old Gmail Accounts</p>\n\n<p>\u27a5 <strong>For more information, feel free to contact us anytime \u2014 we\u2019re available 24/7.</strong><br />\n\u27a5 <",
+    "link": "https://dev.to/yashsahota4/reliable-marketplaces-to-buy-old-gmail-accounts-with-pva-aged-features-56pj",
     "topic": "general"
   },
   {
-    "title": "Community Docker Images: keeping the operator open without a vendor registry lock-in",
-    "desc": "<p><strong>PostgreSQL community images</strong> address a real gap in how a Kubernetes database operator earns your trust. Running a databas",
-    "link": "https://dev.to/vyacheslav_sarzhan_3c1767/community-docker-images-keeping-the-operator-open-without-a-vendor-registry-lock-in-532g",
-    "topic": "docker"
-  },
-  {
-    "title": "[AI] Optimizing vLLM Serving: AWQ, GPTQ, & GGUF | SLM Playbook",
-    "desc": "<p>Successfully training and aligning a Small Language Model (SLM) is only half the battle. In enterprise environments, deploying a model to",
-    "link": "https://dev.to/vesviet/ai-optimizing-vllm-serving-awq-gptq-gguf-slm-playbook-5756",
+    "title": "The Ultimate Guide to Choosing the Right Shapewear for Your Body Type",
+    "desc": "<p>Shopping for shapewear can feel overwhelming. With so many styles \u2014 bodysuits, waist trainers, corsets, shaping camis, high-waisted panti",
+    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/the-ultimate-guide-to-choosing-the-right-shapewear-for-your-body-type-4jfb",
     "topic": "general"
   },
   {
-    "title": "Why Your SAST Scanner Misses 86% of Real Vulnerabilities",
-    "desc": "<h1>\n  \n  \n  Why Your SAST Scanner Misses 86% of Real Vulnerabilities\n</h1>\n\n<p><strong>A data-driven comparison of modern static analysis t",
-    "link": "https://dev.to/mattybellx/why-your-sast-scanner-misses-86-of-real-vulnerabilities-2ab7",
+    "title": "Deploying ClearML as an AWS SageMaker Alternative on Ubuntu",
+    "desc": "<p><strong>ClearML</strong> is an open-source MLOps platform that pairs experiment tracking, pipelines, hyperparameter optimisation, and mod",
+    "link": "https://dev.to/vultr/deploying-clearml-as-an-aws-sagemaker-alternative-on-ubuntu-44io",
+    "topic": "aws"
+  },
+  {
+    "title": "Deploying Kubeflow as an AWS SageMaker Alternative",
+    "desc": "<p><strong>Kubeflow</strong> is the open-source MLOps platform for Kubernetes, a self-hosted alternative to AWS SageMaker that bundles Jupyt",
+    "link": "https://dev.to/vultr/deploying-kubeflow-as-an-aws-sagemaker-alternative-4im7",
+    "topic": "aws"
+  },
+  {
+    "title": "Deploying Navidrome - Self-Hosted Music Streaming Server on Ubuntu 24.04",
+    "desc": "<p>Navidrome is an open-source, Subsonic/Airsonic-compatible music streaming server you host yourself. It indexes your library, serves it ov",
+    "link": "https://dev.to/vultr/deploying-navidrome-self-hosted-music-streaming-server-on-ubuntu-2404-l29",
     "topic": "general"
   },
   {
-    "title": "AI in Incident Response: Hype vs. Reality in 2024",
-    "desc": "<h2>\n  \n  \n  Every Vendor Claims AI Magic\n</h2>\n\n<p>Open any monitoring vendor's website and you'll see: \"AI-powered incident detection!\" \"M",
-    "link": "https://dev.to/samson_tanimawo/ai-in-incident-response-hype-vs-reality-in-2024-2ibg",
-    "topic": "secops"
+    "title": "Deploying cert-manager and Managing SSL Certificates in Kubernetes",
+    "desc": "<p><strong>cert-manager</strong> is the standard Kubernetes add-on for automated TLS certificate issuance and renewal. It integrates with AC",
+    "link": "https://dev.to/vultr/deploying-cert-manager-and-managing-ssl-certificates-in-kubernetes-15f7",
+    "topic": "kubernetes"
   },
   {
-    "title": "From 25 Skills to DevOps Pipeline: How I Automated My AI Agent Deployment",
-    "desc": "<h2>\n  \n  \n  The Missing Piece\n</h2>\n\n<p>Last week I shared 25 executable skills for AI agents. The response was incredible \u2014 developers lov",
-    "link": "https://dev.to/chrislamdev/from-25-skills-to-devops-pipeline-how-i-automated-my-ai-agent-deployment-16la",
-    "topic": "general"
-  },
-  {
-    "title": "How to Monitor Certificate Transparency Logs for Lookalike Domains",
-    "desc": "<p><em>The firehose problem, typo/homoglyph matching, and where it breaks in production</em></p>\n\n<p>A lookalike domain usually sits around ",
-    "link": "https://dev.to/truong_bui_eaec3f963bbe21/how-to-monitor-certificate-transparency-logs-for-lookalike-domains-jd2",
+    "title": "Deploying Plane - An Open-Source Jira Alternative on Ubuntu",
+    "desc": "<p>Plane is an open-source project management platform that supports Agile, Kanban, waterfall, and timeline workflows \u2014 a self-hosted altern",
+    "link": "https://dev.to/vultr/deploying-plane-an-open-source-jira-alternative-on-ubuntu-1k85",
     "topic": "general"
   }
 ]
