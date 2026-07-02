@@ -1,50 +1,50 @@
 [
   {
-    "title": "Testing Webhook Emails Without Polluting Real Inboxes",
-    "desc": "<p>Email notifications are one of those features that look small until they break. A password reset link points to staging, a billing alert ",
-    "link": "https://dev.to/mrdapperx/testing-webhook-emails-without-polluting-real-inboxes-3hjj",
+    "title": "There's no \"cheapest model.\" There's a cheapest token shape.",
+    "desc": "<p>Every time someone asks how to cut their LLM bill, the first question is \"which model is cheapest?\"<br />\nIt's the wrong question. I buil",
+    "link": "https://dev.to/modelin_409b9ef89fbc/theres-no-cheapest-model-theres-a-cheapest-token-shape-3c88",
     "topic": "general"
   },
   {
-    "title": "Why Snap CD: Modular Deployments",
-    "desc": "<p>Terraform manages dependencies between resources within a single state. The moment your infrastructure outgrows one state file \u2014 <a href=",
-    "link": "https://dev.to/karlschriek/why-snap-cd-modular-deployments-4k4j",
+    "title": "Subagent Teams Need Handoff Receipts",
+    "desc": "<p>The first time agent teams work well, it feels like cheating.</p>\n\n<p>You give one agent the main task. You spin up another to inspect th",
+    "link": "https://dev.to/keesan/subagent-teams-need-handoff-receipts-3558",
     "topic": "general"
   },
   {
-    "title": "Why Snap CD: Self-Hosted Terraform Runners with Credential Isolation",
-    "desc": "<p>Most infrastructure teams run Terraform from a CI pipeline. That pipeline has credentials \u2014 cloud provider keys, state backend tokens, ma",
-    "link": "https://dev.to/karlschriek/why-snap-cd-self-hosted-terraform-runners-with-credential-isolation-407e",
-    "topic": "terraform"
-  },
-  {
-    "title": "Buy GitHub Consulting Services from Experienced Developers",
-    "desc": "<p>Buy, GitHub Account with Contribution What BuySMMService Offers<br />\n\ud83d\udcac Need Help Fast?</p>\n\n<p>\u27a4 WhatsApp: +1 (818) 278-3320<br />\n\u27a4 Tel",
-    "link": "https://dev.to/charleschristian/buy-github-consulting-services-from-experienced-developers-4o26",
+    "title": "DevOps Success Mindset",
+    "desc": "<p>The DevOps Mindset: Build Yourself Before You Build Systems</p>\n\n<p>We often measure growth in DevOps by the tools we know namely Docker,",
+    "link": "https://dev.to/rubi_cloud/devops-success-mindset-hpo",
     "topic": "general"
   },
   {
-    "title": "Why Deploying Your First App Is So Hard (And How I\u2019m Fixing It at 17)",
-    "desc": "<p>Deploying your first app is supposed to be exciting\u2026 but for most beginners, it\u2019s a <strong>nightmare</strong>.</p>\n\n<p>You jump between ",
-    "link": "https://dev.to/launchallyceo/why-deploying-your-first-app-is-so-hard-and-how-im-fixing-it-at-17-20ba",
+    "title": "Fable 5 got jailbroken again",
+    "desc": "<p>Fable 5 got jailbroken again</p>\n\n<p>Researcher Vitto Rivabella tested Fable 5\u2019s defenses and managed to find a bypass.</p>\n\n<p>According",
+    "link": "https://dev.to/alexgetmancom/fable-5-got-jailbroken-again-2k97",
     "topic": "general"
   },
   {
-    "title": "I Almost Built a Grafana Stack\u2014Then AgentGateway Shipped Everything I Needed",
-    "desc": "<p><em>Part 4 of the Homelab AI Series \u2014 <a href=\"https://dev.to/anup_sharma_86fa94612fe3c/i-built-an-ai-that-decides-which-ai-to-talk-to-ru",
-    "link": "https://dev.to/anup_sharma_86fa94612fe3c/i-almost-built-a-grafana-stack-then-agentgateway-shipped-everything-i-needed-2fae",
+    "title": "Building an LLM Cost-Governance Dashboard with LiteLLM + BigQuery",
+    "desc": "<p>I gave my team Claude Code, Codex, and Kimi. A month later I opened four separate billing pages and still couldn't answer three basic que",
+    "link": "https://dev.to/kaz123/building-an-llm-cost-governance-dashboard-with-litellm-bigquery-115f",
     "topic": "general"
   },
   {
-    "title": "The Moment I Understood What a Loop Really Does (Not Just Syntax)",
-    "desc": "<p>When I first learned loops, I thought I understood them.</p>\n\n<p>for, while\u2026 simple.</p>\n\n<p>Run something again and again. Done.</p>\n\n<p",
-    "link": "https://dev.to/tahami_akservices_cb075e/the-moment-i-understood-what-a-loop-really-does-not-just-syntax-4750",
+    "title": "Ota vs Dagger: Portable Workflows Are Not Repo Execution Governance",
+    "desc": "<p><code>Ota vs Dagger</code> sounds like a workflow-tool comparison.</p>\n\n<p>It is not.</p>\n\n<p>They sit at different layers of the executi",
+    "link": "https://dev.to/otaready/ota-vs-dagger-portable-workflows-are-not-repo-execution-governance-hng",
     "topic": "general"
   },
   {
-    "title": "Migrating 500+ AWS Resources from ClickOps to Terraform: A Status Report",
-    "desc": "<p><strong>TL;DR:</strong> I led the migration of a fintech platform's entire AWS infrastructure \u2014 IAM roles, ECS services, networking, data",
-    "link": "https://dev.to/tony_uketui_6cca68c7eba02/migrating-500-aws-resources-from-clickops-to-terraform-a-status-report-3c9n",
-    "topic": "aws"
+    "title": "Secret rotation trong Kubernetes: \u0111\u1ed5i credentials m\u00e0 kh\u00f4ng l\u00e0m \u1ee9ng d\u1ee5ng ng\u00e3 d\u00e2y chuy\u1ec1n",
+    "desc": "<p>M\u1ed9t l\u1ea7n xoay secret sai nh\u1ecbp c\u00f3 th\u1ec3 l\u00e0m pod restart h\u00e0ng lo\u1ea1t, queue ngh\u1ebdn v\u00e0 c\u1ea3 \u0111\u1ed9i m\u1ea5t c\u1ea3 bu\u1ed5i t\u1ed1i. B\u00e0i n\u00e0y l\u00e0 checklist \u0111\u1ec3 tr\u00e1nh c\u1ea3nh ",
+    "link": "https://dev.to/alexcarteruk/secret-rotation-trong-kubernetes-doi-credentials-ma-khong-lam-ung-dung-nga-day-chuyen-245i",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Brazilian Web Developer Seeks Guidance on Transitioning to DevOps: Essential Topics, Resources, and Steps",
+    "desc": "<h2>\n  \n  \n  Introduction: The DevOps Landscape and Career Transition\n</h2>\n\n<p>The DevOps field is a <strong>convergence of software develo",
+    "link": "https://dev.to/maricode/brazilian-web-developer-seeks-guidance-on-transitioning-to-devops-essential-topics-resources-and-2b5j",
+    "topic": "general"
   }
 ]
