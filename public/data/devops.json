@@ -1,50 +1,50 @@
 [
   {
-    "title": "Webhook Idempotency: Handling Duplicate Events",
-    "desc": "<h2>\n  \n  \n  The Silent Killer: Why Webhook Idempotency Matters\n</h2>\n\n<p>You deploy a webhook handler that charges a customer $50 on every ",
-    "link": "https://dev.to/anonymilyhq/webhook-idempotency-handling-duplicate-events-5ep8",
+    "title": "The LLM Gateway & Router Index (2026)",
+    "desc": "<p>A gateway sits between your app and the model providers: one API, key management, caching, failover, cost control \u2014 and for routers, auto",
+    "link": "https://dev.to/srijan_paudel_d9837a5d8fd/the-llm-gateway-router-index-2026-16fm",
     "topic": "general"
   },
   {
-    "title": "How I Pushed a Critical Update to Every Company Branch Without Touching a Single Machine (Electron Auto-Update Deep Dive)",
-    "desc": "<p>A few months ago I built an internal desktop tool for my company using Electron. It runs on machines across <strong>every branch office</",
-    "link": "https://dev.to/vinniharu/how-i-pushed-a-critical-update-to-every-company-branch-without-touching-a-single-machine-electron-4pk1",
+    "title": "Make vs n8n vs Zapier Webhook Automation Comparison",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
+    "link": "https://dev.to/chasebot/make-vs-n8n-vs-zapier-webhook-automation-comparison-13n",
     "topic": "general"
   },
   {
-    "title": "Planning network checks before running them: a local-first workflow pattern",
-    "desc": "<p>Many operations tasks do not begin as tickets, dashboards, or scripts.</p>\n\n<p>They begin as intent.</p>\n\n<p>Someone says:</p>\n\n<p>Check ",
-    "link": "https://dev.to/jackythompsonde/planning-network-checks-before-running-them-a-local-first-workflow-pattern-4epn",
-    "topic": "general"
+    "title": "The Cost of Guesswork in Kubernetes",
+    "desc": "<p>If you've ever set a CPU or memory value in Kubernetes and thought \"eh, this feels about right,\" you're not alone. Almost every team does",
+    "link": "https://dev.to/puneetha_jalagam/the-cost-of-guesswork-in-kubernetes-2d27",
+    "topic": "kubernetes"
   },
   {
-    "title": "TCP/UDP Port Reference \u2014 Searchable Well-Known Port Numbers",
-    "desc": "<h2>\n  \n  \n  Overview\n</h2>\n\n<p><strong>TCP/UDP Port Reference</strong> is a searchable table of 100+ well-known and registered port numbers",
-    "link": "https://dev.to/dev_nestio_229945f10652e4/tcpudp-port-reference-searchable-well-known-port-numbers-5c25",
-    "topic": "general"
-  },
-  {
-    "title": "\u8aaa\u7a7f\u4e86\uff0cAI \u9577\u5927\u7684\u74f6\u9838\u4e0d\u662f\u53c3\u6578\u4e0d\u5920\uff0c\u662f\u5bb6\u88e1\u592a\u4e82",
-    "desc": "<p>12 \u5c0f\u6642\u524d\uff0c\u6211\u7684\u6280\u80fd\u9ad4\u7cfb\u662f\u9019\u6a23\u7684\uff1a</p>\n\n<ul>\n<li>34 \u500b skill \u5206\u6563\u5728 3 \u500b\u4e0d\u540c\u76ee\u9304</li>\n<li>\u5176\u4e2d 28 \u500b\u300c\u8072\u7a31\u300d\u642c\u904e\u5bb6\uff0c\u5be6\u969b\u4e0a\u53ea\u642c\u4e86 2 \u500b</li>\n<li>2 \u500b\u7368\u7acb\u7ba1\u7406\u6a5f\u5236\u4e92\u4e0d\u6e9d\u901a\uff0cscope \u8a2d\u5b9a\u5f62\u540c\u865b\u8a2d</li>\n<li>\u4e00",
-    "link": "https://dev.to/yuta_tu_df870be227e99357a/shuo-chuan-liao-ai-chang-da-de-ping-jing-bu-shi-can-shu-bu-gou-shi-jia-li-tai-luan-4816",
-    "topic": "general"
-  },
-  {
-    "title": "Your AI Agent's Bottleneck Isn't Parameters\u2014It's a Messy House",
-    "desc": "<p>Twelve hours ago, my skill system looked like this:</p>\n\n<ul>\n<li>34 skills scattered across 3 different directories</li>\n<li>28 of them ",
-    "link": "https://dev.to/yuta_tu_df870be227e99357a/your-ai-agents-bottleneck-isnt-parameters-its-a-messy-house-1e9n",
-    "topic": "general"
-  },
-  {
-    "title": "\u2699\ufe0f Deploying a dockerized Django Rest Framework with Postgres for production",
-    "desc": "<p><strong>Dockerizing Django REST Framework with PostgreSQL for production</strong> can be done with either a single\u2011stage Dockerfile that ",
-    "link": "https://dev.to/ptp2308/deploying-a-dockerized-django-rest-framework-with-postgres-for-production-g17",
+    "title": "I built devcx to stop typing --config for Dev Containers",
+    "desc": "<p>I often work in repositories with multiple Dev Container configurations.</p>\n\n<p>The usual command gets repetitive pretty quickly:</p>\n\n<",
+    "link": "https://dev.to/shutx-net/i-built-devcx-to-stop-typing-config-for-dev-containers-2538",
     "topic": "docker"
   },
   {
-    "title": "I Spent 40 Minutes at 11pm Debugging a Deploy That Wasn't Broken",
-    "desc": "<p>I once spent forty minutes at eleven at night debugging a deploy that wasn't broken. The release script ran the database migration, the m",
-    "link": "https://dev.to/bashsnippets/i-spent-40-minutes-at-11pm-debugging-a-deploy-that-wasnt-broken-1p2",
+    "title": "Scaling AI-Driven Development: How to Measure Quality to Avoid Technical Debt Traps in 2026",
+    "desc": "<p><strong>Introduction: The AI Avalanche and the Unseen Costs</strong></p>\n\n<p>It's July 2026, and the \"AI revolution\" has transcended mere",
+    "link": "https://dev.to/barecheck/scaling-ai-driven-development-how-to-measure-quality-to-avoid-technical-debt-traps-in-2026-49o2",
+    "topic": "general"
+  },
+  {
+    "title": "Your Git History Already Knows Which Code Is AI-Written. Your CI Should Too.",
+    "desc": "<p>Somewhere between a quarter and half of the code your team merged this year was probably written by an AI assistant. Ask which PRs, which",
+    "link": "https://dev.to/shenxianpeng/your-git-history-already-knows-which-code-is-ai-written-your-ci-should-too-37m6",
+    "topic": "general"
+  },
+  {
+    "title": "Online Learning Apps vs. Traditional Learning: Which Is More Effective?",
+    "desc": "<p>Education has evolved significantly over the past decade. With the rapid growth of digital technology, smartphones, and internet accessib",
+    "link": "https://dev.to/upwork_floatinginfotech_/online-learning-apps-vs-traditional-learning-which-is-more-effective-2mal",
+    "topic": "general"
+  },
+  {
+    "title": "Google SRE Review - Cheat Sheet",
+    "desc": "<p>If you're a software engineer, architect, engineering manager, or platform engineer, I consider the Google SRE Book to be one of the hand",
+    "link": "https://dev.to/limacon23/google-sre-review-cheat-sheet-2hih",
     "topic": "general"
   }
 ]
