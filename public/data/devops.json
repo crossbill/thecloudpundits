@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Terraform MCP server has 35+ tools and none of them can see the resource I made in the console",
-    "desc": "<p>Everything is getting an MCP server, and Terraform is no exception \u2014 HashiCorp<br />\nships an official one now. Point your AI at it and y",
-    "link": "https://dev.to/hitoshi1964/the-terraform-mcp-server-has-35-tools-and-none-of-them-can-see-the-resource-i-made-in-the-console-4c73",
-    "topic": "terraform"
-  },
-  {
-    "title": "Your database GUI is a text editor. Where's the console?",
-    "desc": "<p>I spent an evening going through a big directory of database GUIs \u2014 the Macs-and-menu-bars kind, forty-something of them. DBeaver, TableP",
-    "link": "https://dev.to/hitoshi1964/your-database-gui-is-a-text-editor-wheres-the-console-50p7",
+    "title": "Your E2E tests live in a separate repo. That's why nobody sees the breakage coming.",
+    "desc": "<p>Many QA teams keep end-to-end automation in a dedicated repo \u2014 separate from the app it tests. It's good hygiene: different owners, diffe",
+    "link": "https://dev.to/gabrielholmesqa/your-e2e-tests-live-in-a-separate-repo-thats-why-nobody-sees-the-breakage-coming-ehd",
     "topic": "general"
   },
   {
-    "title": "Four post-quantum deadlines on the calendar. Most developers know about zero of them.",
-    "desc": "<p>On June 22, 2026, President Trump signed Executive Order 14412, \"Securing the Nation Against Advanced Cryptographic Attacks.\" It's the mo",
-    "link": "https://dev.to/pqbuilder/four-post-quantum-deadlines-on-the-calendar-most-developers-know-about-zero-of-them-4e2e",
+    "title": "Under 20 Home Workout Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/under-20-home-workout-timer-what-we-learned-building-random-tactical-timer-3np6",
     "topic": "general"
   },
   {
-    "title": "Something I wish someone had told me five years earlier:",
-    "desc": "<h1>\n  \n  \n  LinkedIn Draft \u2014 Insight (2026-07-03)\n</h1>\n\n<p>Something I wish someone had told me five years earlier:</p>\n\n<p><strong>Distri",
-    "link": "https://dev.to/neeraja_khanapure_4a33a5f/something-i-wish-someone-had-told-me-five-years-earlier-3c2b",
+    "title": "Protect Yourself, Mesh Yourself",
+    "desc": "<p>In my last post, my SSH keys moved off disk and into 1Password. This one is about the network those keys travel over, and the foundation:",
+    "link": "https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn",
     "topic": "general"
   },
   {
-    "title": "Dockerless Verifies Coding-Agent Patches Without Containers: Execution-Free Patch Verification",
-    "desc": "<p>  \n  \n</p>\n\n<p><strong>What:</strong> The paper <strong>Dockerless</strong> (arXiv 2606.28436) is a way to decide whether a <strong>codin",
-    "link": "https://dev.to/pueding/dockerless-verifies-coding-agent-patches-without-containers-execution-free-patch-verification-25o1",
-    "topic": "docker"
-  },
-  {
-    "title": "How data sovereignty is changing cloud native infrastructure design",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/how-data-sovereignty-is-changing-cloud-native-infrastructure-des",
-    "link": "https://dev.to/rasne/how-data-sovereignty-is-changing-cloud-native-infrastructure-design-35po",
+    "title": "MTTR Optimization: The 7 Levers That Actually Move the Needle",
+    "desc": "<h2>\n  \n  \n  MTTR Is a Lagging Indicator\n</h2>\n\n<p>Everyone tracks Mean Time to Resolve. Few understand what actually drives it.</p>\n\n<p>MTT",
+    "link": "https://dev.to/samson_tanimawo/mttr-optimization-the-7-levers-that-actually-move-the-needle-1me6",
     "topic": "general"
   },
   {
-    "title": "How to Install Coolify on an Ubuntu 24.04 Dedicated Server",
-    "desc": "<p>Running Coolify on a dedicated server running Ubuntu 24.04 LTS gives you complete control over your infrastructure, maximum performance, ",
-    "link": "https://dev.to/shannon_dias_927e8f0d0d18/how-to-install-coolify-on-an-ubuntu-2404-dedicated-server-2870",
+    "title": "Toolchain friction in development",
+    "desc": "<p>As developers, we use different types of tools constantly to produce working software. Tools go beyond what we use at our own machines as",
+    "link": "https://dev.to/monolisafont/toolchain-friction-in-development-1njf",
     "topic": "general"
   },
   {
-    "title": "Cloudflare's Flexible SSL looks secure. It isn't.",
-    "desc": "<p>A client called: \"the site has the padlock, we're done with SSL, right?\" Pulled up the Cloudflare panel \u2014 Flexible mode. The padlock was ",
-    "link": "https://dev.to/lamas51/cloudflares-flexible-ssl-looks-secure-it-isnt-3kl6",
+    "title": "Website Down? Don't Blame Your Code Yet (How to Prove Your Host is at Fault)",
+    "desc": "<p>Every developer knows the sudden panic \ud83d\ude31 when a production website goes down. You immediately open your terminal, check your Git logs, an",
+    "link": "https://dev.to/sayista_yazdani_3c0e9f4f9/website-down-dont-blame-your-code-yet-how-to-prove-your-host-is-at-fault-1mfp",
     "topic": "general"
+  },
+  {
+    "title": "How I Recovered My Linux GUI After a Full Disk Killed LightDM",
+    "desc": "<p>I booted my Linux system and instead of the usual login screen \u2014 nothing. Just a blinking cursor on <code>tty1</code>. No graphical deskt",
+    "link": "https://dev.to/khadirullah/how-i-recovered-my-linux-gui-after-a-full-disk-killed-lightdm-oin",
+    "topic": "general"
+  },
+  {
+    "title": "Azure Resource Cleanup: A Hands-On Guide to Managing and Deleting Resources Efficiently",
+    "desc": "<h2>\n  \n  \n  Introduction.\n</h2>\n\n<p>Cleaning up Azure resources is a critical part of responsible cloud administration. While creating and ",
+    "link": "https://dev.to/zainab_oladimeji/azure-resource-cleanup-a-hands-on-guide-to-managing-and-deleting-resources-efficiently-5boc",
+    "topic": "azure"
   }
 ]
