@@ -1,5 +1,35 @@
 [
   {
+    "title": "What Changed? How We Turned Production Change Blindness into a less than 10-Minute Answer",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/omarreda/what-changed-how-we-turned-production-change-blindness-into-a-less-than-10-minute-answer-4k7l",
+    "topic": "general"
+  },
+  {
+    "title": "Scarab Diagnostic Field Test #037 - xdg-desktop-portal Startup Inventory Boundary",
+    "desc": "<p>Target: flatpak/xdg-desktop-portal<br />\nIssue: flatpak/xdg-desktop-portal#1947<br />\nPull request: flatpak/xdg-desktop-portal#2054<br />",
+    "link": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-037-xdg-desktop-portal-startup-inventory-boundary-5ecl",
+    "topic": "general"
+  },
+  {
+    "title": "What Is an LLM Gateway? Routing, Fallback, and Rate Limits Explained",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>An <a href=\"https://www.truefoundry.com/ai-gateway\" rel=\"noopener noreferrer\">LLM gateway</a> is a proxy ",
+    "link": "https://dev.to/sahajmeet_kaur_/what-is-an-llm-gateway-routing-fallback-and-rate-limits-explained-g72",
+    "topic": "general"
+  },
+  {
+    "title": "Why Framework Callbacks Fail to Stop AI Agent Financial Runaways",
+    "desc": "<p>If you are deploying autonomous multi-agent systems to production using frameworks like CrewAI, LangChain, or pure OpenAI tool-calling lo",
+    "link": "https://dev.to/billionaire664/why-framework-callbacks-fail-to-stop-ai-agent-financial-runaways-39hd",
+    "topic": "general"
+  },
+  {
+    "title": "What I Actually Look at When Debugging a Slow or Expensive LLM Call",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Standard APM metrics (latency, status code, error rate) don't capture the things that actually drive LLM ",
+    "link": "https://dev.to/sahajmeet_kaur_/what-i-actually-look-at-when-debugging-a-slow-or-expensive-llm-call-3jpb",
+    "topic": "general"
+  },
+  {
     "title": "Why AWS CodePipeline + ECS falls short for production-grade microservices (and how EKS fixes it)",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/arnabadhikar/why-aws-codepipeline-ecs-falls-short-for-production-grade-microservices-and-how-eks-fixes-it-5bb9",
@@ -15,36 +45,6 @@
     "title": "Pushing Algorithm of the Soul to Production",
     "desc": "",
     "link": "https://dev.to/kumar_dahal_da159557687b1/pushing-algorithm-of-the-soul-to-production-3p1c",
-    "topic": "general"
-  },
-  {
-    "title": "eBPF Might Change Observability More Than OpenTelemetry.",
-    "desc": "<h1>\n  \n  \n  eBPF Might Change Observability More Than OpenTelemetry.\n</h1>\n\n<p>For the last few years, if you asked an SRE what the biggest",
-    "link": "https://dev.to/kubeha_18/ebpf-might-change-observability-more-than-opentelemetry-1f6f",
-    "topic": "general"
-  },
-  {
-    "title": "The Right Way to Pair AI With Terraform Plans",
-    "desc": "<p><code>terraform plan</code> is honest about what it's going to do. The problem is it's also verbose, repetitive, and full of cosmetic cha",
-    "link": "https://dev.to/devopsaitoolkit/the-right-way-to-pair-ai-with-terraform-plans-3i1c",
-    "topic": "terraform"
-  },
-  {
-    "title": "AI Code Review That Engineers Actually Trust: The Pipeline We Run on Every Pull Request",
-    "desc": "<p>Bolting an LLM onto your pull requests is a weekend project. Building AI code review that your engineers don't disable within two weeks i",
-    "link": "https://dev.to/kirandeepjassalcrypto/ai-code-review-that-engineers-actually-trust-the-pipeline-we-run-on-every-pull-request-21fp",
-    "topic": "general"
-  },
-  {
-    "title": "Top Sites to Watch Boxing Fight Online Free Legally in 2026",
-    "desc": "<p>Discover where to watch boxing fight online Free legally with HD quality, live updates, and official broadcasts.<br />\n<a href=\"https://a",
-    "link": "https://dev.to/goalzonelive/top-sites-to-watch-boxing-fight-online-free-legally-in-2026-750",
-    "topic": "general"
-  },
-  {
-    "title": "Linux Command Line Tricks Every Developer Must Know",
-    "desc": "<h1>\n  \n  \n  Linux Command Line Tricks Every Developer Must Know\n</h1>\n\n<p>As a developer, you're likely no stranger to the Linux command li",
-    "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-4a66",
     "topic": "general"
   }
 ]
