@@ -1,50 +1,50 @@
 [
   {
-    "title": "Fleet Management for 100+ AI Bots: Lessons Learned",
-    "desc": "<h1>\n  \n  \n  Fleet Management for 100+ AI Bots: Lessons Learned\n</h1>\n\n<p>When I started scaling my AI bot fleet past 50 agents, everything ",
-    "link": "https://dev.to/robo_rent_cc/fleet-management-for-100-ai-bots-lessons-learned-1nh2",
+    "title": "From Spikes to Savings: Practical K8s Cost Optimization for 2026",
+    "desc": "<h2>\n  \n  \n  From Spikes to Savings: Practical K8s Cost Optimization for 2026\n</h2>\n\n<p>It started with a Slack message that every platform ",
+    "link": "https://dev.to/samarth_05/from-spikes-to-savings-practical-k8s-cost-optimization-for-2026-75k",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "An agent can't approve its own change: binding PR approval to the exact diff",
+    "desc": "<p>An agent opened a PR against our repo last month. It touched the file that holds our payment rates. The diff was small and read fine. Wha",
+    "link": "https://dev.to/withusin/an-agent-cant-approve-its-own-change-binding-pr-approval-to-the-exact-diff-28f1",
     "topic": "general"
   },
   {
-    "title": "AgentGuard Catches 8 Vulnerabilities in GitHub Code Scanning",
-    "desc": "<h1>\n  \n  \n  AgentGuard Catches 8 Vulnerabilities in GitHub Code Scanning\n</h1>\n\n<p>We set up a demo repo with vulnerable AI agent code. Age",
-    "link": "https://dev.to/dockfixlabs/agentguard-catches-8-vulnerabilities-in-github-code-scanning-18fi",
+    "title": "Cricbet99 Official Website Guide: Features, Navigation & User Experience (2026)",
+    "desc": "<p>Cricbet99 Official Website Guide: Features, Navigation & User Experience<br />\nIntroduction<br />\nThe modern user expects websites to be ",
+    "link": "https://dev.to/soniya_martin_c6840f1b88f/cricbet99-official-website-guide-features-navigation-user-experience-2026-ho6",
     "topic": "general"
   },
   {
-    "title": "Secure Your AI Agents in CI/CD: AgentGuard GitHub Action is Live",
-    "desc": "<h1>\n  \n  \n  Secure Your AI Agents in CI/CD: AgentGuard GitHub Action is Live\n</h1>\n\n<p>You can now scan your AI agent code for security vul",
-    "link": "https://dev.to/dockfixlabs/secure-your-ai-agents-in-cicd-agentguard-github-action-is-live-3047",
+    "title": "\ud83d\udc0d How to package Python Lambda with virtualenv layers",
+    "desc": "<h2>\n  \n  \n  \ud83d\ude80 Counterintuitive start \u2014 Adding a virtualenv layer can increase cold\u2011start latency, even though the layer shrinks the uploade",
+    "link": "https://dev.to/ptp2308/how-to-package-python-lambda-with-virtualenv-layers-32i6",
     "topic": "general"
   },
   {
-    "title": "Castor: A PHP-Native Task Runner That Replaces Your Makefile",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0H1WVFBYY\" rel=\"noopener noreferrer\">Decoupled PHP \u2014 Clean and Hexagona",
-    "link": "https://dev.to/gabrielanhaia/castor-a-php-native-task-runner-that-replaces-your-makefile-31gc",
+    "title": "The same root cause keeps coming back because nobody tracks it. I built a zero-dep CLI that does.",
+    "desc": "<p>You write the postmortem. You file the action items. Everyone nods, the doc gets archived, and life moves on.</p>\n\n<p>Six months later, t",
+    "link": "https://dev.to/_06a3df6b50aec966668fb/the-same-root-cause-keeps-coming-back-because-nobody-tracks-it-i-built-a-zero-dep-cli-that-does-3i34",
     "topic": "general"
   },
   {
-    "title": "Two routes in an evening: from a debug worker to an enterprise runtime with redb.Route + Tsak",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/rinat_kozin/two-routes-in-an-evening-from-a-debug-worker-to-an-enterprise-runtime-with-redbroute-tsak-m8k",
+    "title": "Scarab Diagnostic Field Test #035 - Electron Linux Message Box UI Theme Boundary",
+    "desc": "<p>Target: electron/electron</p>\n\n<p>Issue: electron/electron#51988</p>\n\n<p>Pull request: electron/electron#52238</p>\n\n<p>Field Lab record: ",
+    "link": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-035-electron-linux-message-box-ui-theme-boundary-2mm8",
     "topic": "general"
   },
   {
-    "title": "Your Vibe-Coded App Works in the Demo. Here Are the 12 Things That Break in Production.",
-    "desc": "<p>Your AI tool built the app in a weekend. Lovable, Bolt, Cursor, v0, Replit \u2014 they are genuinely good at getting from an idea to something",
-    "link": "https://dev.to/erik_anderson_c41dbafd423/your-vibe-coded-app-works-in-the-demo-here-are-the-12-things-that-break-in-production-2db5",
+    "title": "Aurelian Heritage Intelligent Alliance Office: The critical tax-exempt status of 501(c)(3) organizations",
+    "desc": "<p>A 501(c)(3) organization refers to corporations, trusts, unincorporated associations, or other types of organizations that are exempt fro",
+    "link": "https://dev.to/aurelianheritageoffice/aurelian-heritage-intelligent-alliance-office-the-critical-tax-exempt-status-of-501c3-3hb6",
     "topic": "general"
   },
   {
-    "title": "Surviving CoreWeave: the GPU failures that burn your hours",
-    "desc": "<p>Your 64-GPU job just threw <strong>Xid 94</strong>. Reschedule, or is the node dead?</p>\n\n<p>It comes down to one bit, and most people ge",
-    "link": "https://dev.to/jeremy_longshore/surviving-coreweave-the-gpu-failures-that-burn-your-hours-1233",
-    "topic": "general"
-  },
-  {
-    "title": "PamStealer: the macOS stealer that checks your password through PAM before stealing it",
-    "desc": "<p>Someone double-clicks what they think is Maccy, a clipboard manager, and gets a macOS password prompt: \"Maccy wants to make changes.\" The",
-    "link": "https://dev.to/kkierii/pamstealer-the-macos-stealer-that-checks-your-password-through-pam-before-stealing-it-4abj",
+    "title": "Jujutsu (jj) \u2014 \u0e17\u0e32\u0e07\u0e40\u0e25\u0e37\u0e2d\u0e01 Git \u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e21\u0e32\u0e41\u0e17\u0e19\u0e17\u0e35\u0e48 \u0e41\u0e15\u0e48\u0e21\u0e32\u0e40\u0e15\u0e34\u0e21\u0e40\u0e15\u0e47\u0e21",
+    "desc": "<h2>\n  \n  \n  Jujutsu (jj) \u2014 \u0e17\u0e32\u0e07\u0e40\u0e25\u0e37\u0e2d\u0e01 Git \u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e21\u0e32\u0e41\u0e17\u0e19\u0e17\u0e35\u0e48 \u0e41\u0e15\u0e48\u0e21\u0e32\u0e40\u0e15\u0e34\u0e21\u0e40\u0e15\u0e47\u0e21\n</h2>\n\n<p>\u0e01\u0e48\u0e2d\u0e19\u0e08\u0e30\u0e40\u0e25\u0e48\u0e32\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07 jj \u2014 \u0e02\u0e2d\u0e2a\u0e32\u0e23\u0e20\u0e32\u0e1e\u0e27\u0e48\u0e32: <strong>\u0e1c\u0e21\u0e40\u0e04\u0e22\u0e2a\u0e2d\u0e19 Git \u0e43",
+    "link": "https://dev.to/gophernment/jujutsu-jj-thaangeluuek-git-thiiaimaidmaaaethnthii-aetmaaetimetm-2i29",
     "topic": "general"
   }
 ]
