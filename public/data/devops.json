@@ -1,50 +1,50 @@
 [
   {
-    "title": "There's no \"cheapest model.\" There's a cheapest token shape.",
-    "desc": "<p>Every time someone asks how to cut their LLM bill, the first question is \"which model is cheapest?\"<br />\nIt's the wrong question. I buil",
-    "link": "https://dev.to/modelin_409b9ef89fbc/theres-no-cheapest-model-theres-a-cheapest-token-shape-3c88",
+    "title": "Fleet Management for 100+ AI Bots: Lessons Learned",
+    "desc": "<h1>\n  \n  \n  Fleet Management for 100+ AI Bots: Lessons Learned\n</h1>\n\n<p>When I started scaling my AI bot fleet past 50 agents, everything ",
+    "link": "https://dev.to/robo_rent_cc/fleet-management-for-100-ai-bots-lessons-learned-1nh2",
     "topic": "general"
   },
   {
-    "title": "Subagent Teams Need Handoff Receipts",
-    "desc": "<p>The first time agent teams work well, it feels like cheating.</p>\n\n<p>You give one agent the main task. You spin up another to inspect th",
-    "link": "https://dev.to/keesan/subagent-teams-need-handoff-receipts-3558",
+    "title": "AgentGuard Catches 8 Vulnerabilities in GitHub Code Scanning",
+    "desc": "<h1>\n  \n  \n  AgentGuard Catches 8 Vulnerabilities in GitHub Code Scanning\n</h1>\n\n<p>We set up a demo repo with vulnerable AI agent code. Age",
+    "link": "https://dev.to/dockfixlabs/agentguard-catches-8-vulnerabilities-in-github-code-scanning-18fi",
     "topic": "general"
   },
   {
-    "title": "DevOps Success Mindset",
-    "desc": "<p>The DevOps Mindset: Build Yourself Before You Build Systems</p>\n\n<p>We often measure growth in DevOps by the tools we know namely Docker,",
-    "link": "https://dev.to/rubi_cloud/devops-success-mindset-hpo",
+    "title": "Secure Your AI Agents in CI/CD: AgentGuard GitHub Action is Live",
+    "desc": "<h1>\n  \n  \n  Secure Your AI Agents in CI/CD: AgentGuard GitHub Action is Live\n</h1>\n\n<p>You can now scan your AI agent code for security vul",
+    "link": "https://dev.to/dockfixlabs/secure-your-ai-agents-in-cicd-agentguard-github-action-is-live-3047",
     "topic": "general"
   },
   {
-    "title": "Fable 5 got jailbroken again",
-    "desc": "<p>Fable 5 got jailbroken again</p>\n\n<p>Researcher Vitto Rivabella tested Fable 5\u2019s defenses and managed to find a bypass.</p>\n\n<p>According",
-    "link": "https://dev.to/alexgetmancom/fable-5-got-jailbroken-again-2k97",
+    "title": "Castor: A PHP-Native Task Runner That Replaces Your Makefile",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0H1WVFBYY\" rel=\"noopener noreferrer\">Decoupled PHP \u2014 Clean and Hexagona",
+    "link": "https://dev.to/gabrielanhaia/castor-a-php-native-task-runner-that-replaces-your-makefile-31gc",
     "topic": "general"
   },
   {
-    "title": "Building an LLM Cost-Governance Dashboard with LiteLLM + BigQuery",
-    "desc": "<p>I gave my team Claude Code, Codex, and Kimi. A month later I opened four separate billing pages and still couldn't answer three basic que",
-    "link": "https://dev.to/kaz123/building-an-llm-cost-governance-dashboard-with-litellm-bigquery-115f",
+    "title": "Two routes in an evening: from a debug worker to an enterprise runtime with redb.Route + Tsak",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/rinat_kozin/two-routes-in-an-evening-from-a-debug-worker-to-an-enterprise-runtime-with-redbroute-tsak-m8k",
     "topic": "general"
   },
   {
-    "title": "Ota vs Dagger: Portable Workflows Are Not Repo Execution Governance",
-    "desc": "<p><code>Ota vs Dagger</code> sounds like a workflow-tool comparison.</p>\n\n<p>It is not.</p>\n\n<p>They sit at different layers of the executi",
-    "link": "https://dev.to/otaready/ota-vs-dagger-portable-workflows-are-not-repo-execution-governance-hng",
+    "title": "Your Vibe-Coded App Works in the Demo. Here Are the 12 Things That Break in Production.",
+    "desc": "<p>Your AI tool built the app in a weekend. Lovable, Bolt, Cursor, v0, Replit \u2014 they are genuinely good at getting from an idea to something",
+    "link": "https://dev.to/erik_anderson_c41dbafd423/your-vibe-coded-app-works-in-the-demo-here-are-the-12-things-that-break-in-production-2db5",
     "topic": "general"
   },
   {
-    "title": "Secret rotation trong Kubernetes: \u0111\u1ed5i credentials m\u00e0 kh\u00f4ng l\u00e0m \u1ee9ng d\u1ee5ng ng\u00e3 d\u00e2y chuy\u1ec1n",
-    "desc": "<p>M\u1ed9t l\u1ea7n xoay secret sai nh\u1ecbp c\u00f3 th\u1ec3 l\u00e0m pod restart h\u00e0ng lo\u1ea1t, queue ngh\u1ebdn v\u00e0 c\u1ea3 \u0111\u1ed9i m\u1ea5t c\u1ea3 bu\u1ed5i t\u1ed1i. B\u00e0i n\u00e0y l\u00e0 checklist \u0111\u1ec3 tr\u00e1nh c\u1ea3nh ",
-    "link": "https://dev.to/alexcarteruk/secret-rotation-trong-kubernetes-doi-credentials-ma-khong-lam-ung-dung-nga-day-chuyen-245i",
-    "topic": "kubernetes"
+    "title": "Surviving CoreWeave: the GPU failures that burn your hours",
+    "desc": "<p>Your 64-GPU job just threw <strong>Xid 94</strong>. Reschedule, or is the node dead?</p>\n\n<p>It comes down to one bit, and most people ge",
+    "link": "https://dev.to/jeremy_longshore/surviving-coreweave-the-gpu-failures-that-burn-your-hours-1233",
+    "topic": "general"
   },
   {
-    "title": "Brazilian Web Developer Seeks Guidance on Transitioning to DevOps: Essential Topics, Resources, and Steps",
-    "desc": "<h2>\n  \n  \n  Introduction: The DevOps Landscape and Career Transition\n</h2>\n\n<p>The DevOps field is a <strong>convergence of software develo",
-    "link": "https://dev.to/maricode/brazilian-web-developer-seeks-guidance-on-transitioning-to-devops-essential-topics-resources-and-2b5j",
+    "title": "PamStealer: the macOS stealer that checks your password through PAM before stealing it",
+    "desc": "<p>Someone double-clicks what they think is Maccy, a clipboard manager, and gets a macOS password prompt: \"Maccy wants to make changes.\" The",
+    "link": "https://dev.to/kkierii/pamstealer-the-macos-stealer-that-checks-your-password-through-pam-before-stealing-it-4abj",
     "topic": "general"
   }
 ]
