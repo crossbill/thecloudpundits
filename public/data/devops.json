@@ -1,50 +1,50 @@
 [
   {
+    "title": "Why AWS CodePipeline + ECS falls short for production-grade microservices (and how EKS fixes it)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/arnabadhikar/why-aws-codepipeline-ecs-falls-short-for-production-grade-microservices-and-how-eks-fixes-it-5bb9",
+    "topic": "aws"
+  },
+  {
+    "title": "Pushing \"Algorithm of the Soul\" to Production",
+    "desc": "<p>A few months ago, I published an article here discussing how we can map core multi-cloud engineering bottlenecks and agentic AI pipelines",
+    "link": "https://dev.to/kumar_dahal_da159557687b1/pushing-algorithm-of-the-soul-to-production-3e5h",
+    "topic": "general"
+  },
+  {
+    "title": "Pushing Algorithm of the Soul to Production",
+    "desc": "",
+    "link": "https://dev.to/kumar_dahal_da159557687b1/pushing-algorithm-of-the-soul-to-production-3p1c",
+    "topic": "general"
+  },
+  {
+    "title": "eBPF Might Change Observability More Than OpenTelemetry.",
+    "desc": "<h1>\n  \n  \n  eBPF Might Change Observability More Than OpenTelemetry.\n</h1>\n\n<p>For the last few years, if you asked an SRE what the biggest",
+    "link": "https://dev.to/kubeha_18/ebpf-might-change-observability-more-than-opentelemetry-1f6f",
+    "topic": "general"
+  },
+  {
+    "title": "The Right Way to Pair AI With Terraform Plans",
+    "desc": "<p><code>terraform plan</code> is honest about what it's going to do. The problem is it's also verbose, repetitive, and full of cosmetic cha",
+    "link": "https://dev.to/devopsaitoolkit/the-right-way-to-pair-ai-with-terraform-plans-3i1c",
+    "topic": "terraform"
+  },
+  {
+    "title": "AI Code Review That Engineers Actually Trust: The Pipeline We Run on Every Pull Request",
+    "desc": "<p>Bolting an LLM onto your pull requests is a weekend project. Building AI code review that your engineers don't disable within two weeks i",
+    "link": "https://dev.to/kirandeepjassalcrypto/ai-code-review-that-engineers-actually-trust-the-pipeline-we-run-on-every-pull-request-21fp",
+    "topic": "general"
+  },
+  {
+    "title": "Top Sites to Watch Boxing Fight Online Free Legally in 2026",
+    "desc": "<p>Discover where to watch boxing fight online Free legally with HD quality, live updates, and official broadcasts.<br />\n<a href=\"https://a",
+    "link": "https://dev.to/goalzonelive/top-sites-to-watch-boxing-fight-online-free-legally-in-2026-750",
+    "topic": "general"
+  },
+  {
     "title": "Linux Command Line Tricks Every Developer Must Know",
     "desc": "<h1>\n  \n  \n  Linux Command Line Tricks Every Developer Must Know\n</h1>\n\n<p>As a developer, you're likely no stranger to the Linux command li",
     "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-4a66",
-    "topic": "general"
-  },
-  {
-    "title": "How to Fix Stuck Workspace Index Trees and Code Parsing Halts",
-    "desc": "<p>Building a complete system index graph is the absolute foundation for enabling smart auto-complete features within advanced engineering e",
-    "link": "https://dev.to/biztechpulsehub/how-to-fix-stuck-workspace-index-trees-and-code-parsing-halts-47fe",
-    "topic": "general"
-  },
-  {
-    "title": "Payment Platform Stability: Why Most Outages Are Preventable",
-    "desc": "<p>Let me tell you about a pattern I've seen play out at more companies than I can count.</p>\n\n<p>Everything's fine. Checkout works. Payment",
-    "link": "https://dev.to/techstrategy/payment-platform-stability-why-most-outages-are-preventable-4d47",
-    "topic": "general"
-  },
-  {
-    "title": "Unlocking AI: Transform Your Development Process",
-    "desc": "<p>The race to integrate AI into software development isn\u2019t just a trend; it\u2019s a necessity for teams aiming to stay competitive! \ud83d\ude80  </p>\n\n<h",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/unlocking-ai-transform-your-development-process-76h",
-    "topic": "general"
-  },
-  {
-    "title": "NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2",
-    "desc": "<p>Deploying a NestJS backend to production with true zero downtime is more involved than most guides suggest. This is a complete, battle-te",
-    "link": "https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7",
-    "topic": "general"
-  },
-  {
-    "title": "Scarab Systems Field Lab: Same Patch, 96% Less Final Decision Context",
-    "desc": "<p>Scarab Systems has started formally evaluating the efficiency of using Scarab Diagnostic Suite during AI-assisted software repair.</p>\n\n<",
-    "link": "https://dev.to/scarab-systems/scarab-systems-field-lab-same-patch-96-less-final-decision-context-16ee",
-    "topic": "general"
-  },
-  {
-    "title": "I built a tool that alerts me when Stripe, GitHub, and Cloudflare go down",
-    "desc": "<p>You find out your SaaS is down the same time your customers do. That's a problem.</p>\n\n<p>Real-time SaaS status monitoring for developers",
-    "link": "https://dev.to/snipercat/i-built-a-tool-that-alerts-me-when-stripe-github-and-cloudflare-go-down-4dfb",
-    "topic": "general"
-  },
-  {
-    "title": "Dev Log: 2026-07-03 \u2014 idempotent syncs, mail you can trace, and drain-not-delete",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>\n<strong>Sync must be idempotent.</strong> Re-running a gateway sync should converge, not explode on the ",
-    "link": "https://dev.to/nasrulhazim/dev-log-2026-07-03-idempotent-syncs-mail-you-can-trace-and-drain-not-delete-5a6f",
     "topic": "general"
   }
 ]
