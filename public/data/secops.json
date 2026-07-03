@@ -1,5 +1,29 @@
 [
   {
+    "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
+    "desc": "<p>Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage in",
+    "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
+    "topic": "secops"
+  },
+  {
+    "title": "Medtronic Data Breach Impacts 3.8 Million People",
+    "desc": "<p>In April, ShinyHunters accessed the company\u2019s corporate IT systems and stole patients\u2019 personal and medical information.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
+    "topic": "secops"
+  },
+  {
+    "title": "Alleged Scattered Spider Hacker Extradited to US",
+    "desc": "<p>Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions a",
+    "link": "https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/",
+    "topic": "general"
+  },
+  {
+    "title": "Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices",
+    "desc": "<p>NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during ",
+    "link": "https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/",
+    "topic": "general"
+  },
+  {
     "title": "Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution",
     "desc": "<p>The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the u",
     "link": "https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/",
@@ -22,29 +46,5 @@
     "desc": "<p>Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks b",
     "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
     "topic": "secops"
-  },
-  {
-    "title": "Trump Administration Lifts Restrictions on Anthropic\u2019s Claude Models After Cybersecurity Alarm",
-    "desc": "<p>Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available.</p>\n<p>The post <a href=\"https://www.securi",
-    "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability",
-    "desc": "<p>A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "\u2018BioShocking\u2019 Attack Tricks AI Browsers Into Stealing Credentials",
-    "desc": "<p>Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials.</",
-    "link": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
-    "topic": "secops"
-  },
-  {
-    "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
-    "desc": "<p>CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). </p>\n<p>The po",
-    "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
-    "topic": "azure"
   }
 ]
