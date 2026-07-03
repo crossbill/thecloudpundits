@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Fix Lovable.dev Build Failed Errors Cleanly",
-    "desc": "<p>AI-powered full-stack development platforms make building complex web applications incredibly fast for modern engineering teams. However,",
-    "link": "https://dev.to/biztechpulsehub/how-to-fix-lovabledev-build-failed-errors-cleanly-1ne5",
+    "title": "Linux Command Line Tricks Every Developer Must Know",
+    "desc": "<h1>\n  \n  \n  Linux Command Line Tricks Every Developer Must Know\n</h1>\n\n<p>As a developer, you're likely no stranger to the Linux command li",
+    "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-4a66",
     "topic": "general"
   },
   {
-    "title": "A 2-minute pre-commit hook that stops you from committing API keys",
-    "desc": "<p>Leaked credentials almost never happen because someone <em>decided</em> to commit a key. They happen because a <code>.env</code>, a confi",
-    "link": "https://dev.to/cu_thinvreview_b2/a-2-minute-pre-commit-hook-that-stops-you-from-committing-api-keys-5ca1",
+    "title": "How to Fix Stuck Workspace Index Trees and Code Parsing Halts",
+    "desc": "<p>Building a complete system index graph is the absolute foundation for enabling smart auto-complete features within advanced engineering e",
+    "link": "https://dev.to/biztechpulsehub/how-to-fix-stuck-workspace-index-trees-and-code-parsing-halts-47fe",
     "topic": "general"
   },
   {
-    "title": "Test Management Compliance: Cloud SaaS vs Local-First",
-    "desc": "<p>Security sends a forty-question vendor questionnaire. Legal asks whether your test cases contain customer PII or staging screenshots. Pro",
-    "link": "https://dev.to/weiwen-weng/test-management-compliance-cloud-saas-vs-local-first-57p8",
+    "title": "Payment Platform Stability: Why Most Outages Are Preventable",
+    "desc": "<p>Let me tell you about a pattern I've seen play out at more companies than I can count.</p>\n\n<p>Everything's fine. Checkout works. Payment",
+    "link": "https://dev.to/techstrategy/payment-platform-stability-why-most-outages-are-preventable-4d47",
     "topic": "general"
   },
   {
-    "title": "Building a 7-Service Docker Compose Incident Response Platform",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In this project, I built a mini production-style <strong>Incident Response Platform</strong> using Docke",
-    "link": "https://dev.to/donhadley22/building-a-7-service-docker-compose-incident-response-platform-2k26",
-    "topic": "docker"
-  },
-  {
-    "title": "A Docker-Based AWS SES Smoke Test With Disposable Inboxes",
-    "desc": "<p>Use Docker and a disposable mailbox to verify AWS SES delivery in CI before release without touching shared inboxes or leaking test mail.",
-    "link": "https://dev.to/jasonmills94/a-docker-based-aws-ses-smoke-test-with-disposable-inboxes-19m9",
-    "topic": "aws"
-  },
-  {
-    "title": "Your Agent Didn't Break Prod. Your Pipeline Did.",
-    "desc": "<p>Picture a pipeline that looks pretty reasonable on paper. An agent opens pull requests. CI gates the merge to main: lint, tests, build, a",
-    "link": "https://dev.to/mattstratton/your-agent-didnt-break-prod-your-pipeline-did-4g9o",
+    "title": "Unlocking AI: Transform Your Development Process",
+    "desc": "<p>The race to integrate AI into software development isn\u2019t just a trend; it\u2019s a necessity for teams aiming to stay competitive! \ud83d\ude80  </p>\n\n<h",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/unlocking-ai-transform-your-development-process-76h",
     "topic": "general"
   },
   {
-    "title": "10 Highest-Paying Cloud Computing Jobs in 2026 (Remote-Friendly Salary Guide)",
-    "desc": "<blockquote>\n<p>\ud83d\udccc <strong>This article was originally published on <a href=\"https://elearning.sherdil.org/pages/cloud-computing-jobs-pakista",
-    "link": "https://dev.to/elearning_sherdil_783bbb/10-highest-paying-cloud-computing-jobs-in-2026-remote-friendly-salary-guide-md7",
+    "title": "NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2",
+    "desc": "<p>Deploying a NestJS backend to production with true zero downtime is more involved than most guides suggest. This is a complete, battle-te",
+    "link": "https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7",
     "topic": "general"
   },
   {
-    "title": "Migrations que n\u00e3o quebram em produ\u00e7\u00e3o \u2014 o guia que ningu\u00e9m te deu",
-    "desc": "<h2>\n  \n  \n  A migration rodou liso. A\u00ed voc\u00ea deu deploy.\n</h2>\n\n<p>Voc\u00ea criou a migration, rodou <code>php artisan migrate</code> no seu PC,",
-    "link": "https://dev.to/denisgusto1/migrations-que-nao-quebram-em-producao-o-guia-que-ninguem-te-deu-363o",
+    "title": "Scarab Systems Field Lab: Same Patch, 96% Less Final Decision Context",
+    "desc": "<p>Scarab Systems has started formally evaluating the efficiency of using Scarab Diagnostic Suite during AI-assisted software repair.</p>\n\n<",
+    "link": "https://dev.to/scarab-systems/scarab-systems-field-lab-same-patch-96-less-final-decision-context-16ee",
+    "topic": "general"
+  },
+  {
+    "title": "I built a tool that alerts me when Stripe, GitHub, and Cloudflare go down",
+    "desc": "<p>You find out your SaaS is down the same time your customers do. That's a problem.</p>\n\n<p>Real-time SaaS status monitoring for developers",
+    "link": "https://dev.to/snipercat/i-built-a-tool-that-alerts-me-when-stripe-github-and-cloudflare-go-down-4dfb",
+    "topic": "general"
+  },
+  {
+    "title": "Dev Log: 2026-07-03 \u2014 idempotent syncs, mail you can trace, and drain-not-delete",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>\n<strong>Sync must be idempotent.</strong> Re-running a gateway sync should converge, not explode on the ",
+    "link": "https://dev.to/nasrulhazim/dev-log-2026-07-03-idempotent-syncs-mail-you-can-trace-and-drain-not-delete-5a6f",
     "topic": "general"
   }
 ]
