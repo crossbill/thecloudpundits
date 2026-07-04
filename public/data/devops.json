@@ -1,5 +1,23 @@
 [
   {
+    "title": "Building an Offline Document Search Engine for My University",
+    "desc": "<p>Hi everyone,</p>\n\n<p>I'm Yi\u011fit, a third-year software engineering student. If you have ever tried to find a specific rule about grading, ",
+    "link": "https://dev.to/yigtwx/building-an-offline-document-search-engine-for-my-university-56bi",
+    "topic": "general"
+  },
+  {
+    "title": "How I Hosted a Static Website on Azure Blob Storage with Custom DNS, Zero Servers, Under $2/Month",
+    "desc": "<p><strong>Introduction</strong></p>\n\n<p>I challenged myself with a real-world Azure scenario something beyond just spinning up a VM and cal",
+    "link": "https://dev.to/danielops/how-i-hosted-a-static-website-on-azure-blob-storage-with-custom-dns-zero-servers-under-2month-74g",
+    "topic": "azure"
+  },
+  {
+    "title": "How Do MVP Development Services Contribute to User Feedback and Iterative Improvement?",
+    "desc": "<p>Building a product without validating your idea can lead to wasted time, money, and effort. That\u2019s why many startups and businesses choos",
+    "link": "https://dev.to/allenrichard12/how-do-mvp-development-services-contribute-to-user-feedback-and-iterative-improvement-15p",
+    "topic": "general"
+  },
+  {
     "title": "The Incident Postmortem Template That Actually Prevents the Next Outage",
     "desc": "<p>It's 2 AM.</p>\n\n<p>Production is down. Slack is on fire. Your CEO is awake and asking questions you can't answer yet.</p>\n\n<p>You fix the",
     "link": "https://dev.to/syms_mation/the-incident-postmortem-template-that-actually-prevents-the-next-outage-4god",
@@ -27,24 +45,6 @@
     "title": "Migration Photopea vers PDF serveur : retour d'exp\u00e9rience sur un pipeline de rendu avec Playwright (Cas concret)",
     "desc": "<p><em>\ud83d\udcd6 Article original : <a href=\"https://gist.github.com/mohamed-amine-ben-mallessa/df35e6bb0c7c81770c45b751bd40409e\" rel=\"noopener nore",
     "link": "https://dev.to/benmallessamohamedamine/migration-photopea-vers-pdf-serveur-retour-dexperience-sur-un-pipeline-de-rendu-avec-playwright-2hoh",
-    "topic": "general"
-  },
-  {
-    "title": "Tell your AI to set up billing drift detection",
-    "desc": "<p>User paid. Stripe looked fine. The app still gated them.</p>\n\n<p>They had an active subscription. Checkout worked. Tests passed \u2014 because",
-    "link": "https://dev.to/mattbaconz/tell-your-ai-to-set-up-billing-drift-detection-ag6",
-    "topic": "general"
-  },
-  {
-    "title": "Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD (2026)",
-    "desc": "<p><strong>Cloud-native security practices</strong> in 2026 cover a substantially different attack surface than the web/cloud security disci",
-    "link": "https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "From fragile iframes to server-side PDFs: a rendering pipeline migration story with Playwright",
-    "desc": "<p><em>\ud83d\udcd6 Original article: <a href=\"https://gist.github.com/mohamed-amine-ben-mallessa/163ea0daec7bf8c95f12cf8b8cb6f12f\" rel=\"noopener noref",
-    "link": "https://dev.to/benmallessamohamedamine/from-fragile-iframes-to-server-side-pdfs-a-rendering-pipeline-migration-story-with-playwright-4n0",
     "topic": "general"
   }
 ]
