@@ -1,5 +1,41 @@
 [
   {
+    "title": "Soul in Motion \u2014 5:13 PM | 2026-07-04",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Tweaked the YouTube pipeline for the kids' section with a fail-fast mechanism and a fresh rotation system",
+    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-513-pm-2026-07-04-1llk",
+    "topic": "general"
+  },
+  {
+    "title": "Playwright Visual Regression Testing: Catch UI Bugs in CI",
+    "desc": "<p>Playwright has visual regression testing built in. One assertion, <code>toHaveScreenshot</code>, captures the page, diffs it against a st",
+    "link": "https://dev.to/grabbit/playwright-visual-regression-testing-catch-ui-bugs-in-ci-31eh",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\ude80 New Blog Published: Why Companies Are Moving to Kubernetes",
+    "desc": "<p>Modern businesses need applications that are scalable, reliable, and cost-efficient. That's exactly why Kubernetes has become the backbon",
+    "link": "https://dev.to/zaved_akthar_7227/new-blog-published-why-companies-are-moving-to-kubernetes-27b0",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality",
+    "desc": "<blockquote>\n<p>Most uptime tools answer the same question. They tell you \"is service X up?\" from <strong>one</strong> vantage point \u2014 the m",
+    "link": "https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54",
+    "topic": "general"
+  },
+  {
+    "title": "I built a localhost proxy that stops LangChain from hallucinating on dead RAG data (and cuts token burn by 50%)",
+    "desc": "<h2>\n  \n  \n  The problem nobody's proxy was solving\n</h2>\n\n<p>Every RAG pipeline I'd worked with had the same blind spot: once a document ma",
+    "link": "https://dev.to/vlsiddarth/i-built-a-localhost-proxy-that-stops-langchain-from-hallucinating-on-dead-rag-data-and-cuts-token-371n",
+    "topic": "general"
+  },
+  {
+    "title": "Day 58 - Optimizing ClickHouse\u00ae for High-Throughput Inserts",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>One of the defining strengths of <strong>ClickHouse\u00ae</strong> is its ability to ingest massive volumes o",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-58-optimizing-clickhouser-for-high-throughput-inserts-4h7d",
+    "topic": "general"
+  },
+  {
     "title": "What Is a DevOps Engineer Master Diploma Program? A Complete Guide",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/cybersecurity-12/what-is-a-devops-engineer-master-diploma-program-a-complete-guide-4f",
@@ -9,42 +45,6 @@
     "title": "Running a mail server on a VPS: what actually keeps you out of spam",
     "desc": "<p>Your mail server works. Postfix starts, the logs look clean, you send a test message to your Gmail \u2014 and it lands in spam. Or it just dis",
     "link": "https://dev.to/eqvps/running-a-mail-server-on-a-vps-what-actually-keeps-you-out-of-spam-2hop",
-    "topic": "general"
-  },
-  {
-    "title": "Day 57: Internals of ClickHouse\u00ae Data Parts and Merges \u2013 A Complete Guide",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>One of the reasons ClickHouse\u00ae can handle massive analytical workloads with exceptional speed is its sto",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-57-internals-of-clickhouser-data-parts-and-merges-a-complete-guide-3oa6",
-    "topic": "general"
-  },
-  {
-    "title": "C\u00f3mo probar correos de aprobaci\u00f3n en Terraform sin tocar bandejas reales",
-    "desc": "<p>Cuando un pipeline de infraestructura depende de un correo de aprobaci\u00f3n, el fallo rara vez est\u00e1 en el bot\u00f3n final. Normalmente aparece a",
-    "link": "https://dev.to/alexcarteruk/como-probar-correos-de-aprobacion-en-terraform-sin-tocar-bandejas-reales-3kf8",
-    "topic": "terraform"
-  },
-  {
-    "title": "Webhook Retry Logic: Exponential Backoff Best Practices",
-    "desc": "<h2>\n  \n  \n  Why Webhook Retry Logic Matters\n</h2>\n\n<p>Your webhook handler crashes. The provider sends a request. You miss it. Now what? Wi",
-    "link": "https://dev.to/anonymilyhq/webhook-retry-logic-exponential-backoff-best-practices-1de6",
-    "topic": "general"
-  },
-  {
-    "title": "Why I\u2019m Thinking of Switching My Portfolio to Astro.js ..",
-    "desc": "<h1>\n  \n  \n  Why I'm Thinking of Switching My Portfolio to Astro.js\n</h1>\n\n<p>Lately I have been spending most of my time building auditing ",
-    "link": "https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj",
-    "topic": "general"
-  },
-  {
-    "title": "Role of statistics in data science.",
-    "desc": "<h2>\n  \n  \n  What is statistics?\n</h2>\n\n<p>Data science is based on statistics. It is a mathematical framework that collects, analyzes and p",
-    "link": "https://dev.to/gigomkenya/role-of-statistics-in-data-science-17gp",
-    "topic": "general"
-  },
-  {
-    "title": "Windmill vs n8n vs Temporal for API automation",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
-    "link": "https://dev.to/chasebot/windmill-vs-n8n-vs-temporal-for-api-automation-3lmi",
     "topic": "general"
   }
 ]
