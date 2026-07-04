@@ -1,50 +1,50 @@
 [
   {
+    "title": "Is anyone using AWS CodePipeline for the complete CI/CD pipeline?",
+    "desc": "",
+    "link": "https://dev.to/arnabadhikar/is-anyone-using-aws-codepipeline-for-the-complete-cicd-pipelineaws-cicd-cloudcomputing-3nfk",
+    "topic": "aws"
+  },
+  {
+    "title": "97.8% of the top 10,000 domains have no MTA-STS. Here's how to be in the other 2%",
+    "desc": "<p>Of the 10,000 most-visited domains on the web, 97.8% have no MTA-STS policy at all. Not misconfigured. Not weak. Just absent. I scanned t",
+    "link": "https://dev.to/vadimivanov/978-of-the-top-10000-domains-have-no-mta-sts-heres-how-to-be-in-the-other-2-1bfn",
+    "topic": "general"
+  },
+  {
+    "title": "What's All Am I Hosting? Full Infrastructure Breakdown",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/shubham399/whats-all-am-i-hosting-full-infrastructure-breakdown-53b8",
+    "topic": "general"
+  },
+  {
+    "title": "Monolith vs. Microservices: Simplicity vs. Scalability \u2694\ufe0f",
+    "desc": "<p>When I started out, I fell for the hype: I thought microservices were the only modern way to build apps. </p>\n\n<p>After building a modula",
+    "link": "https://dev.to/ganeshak11/monolith-vs-microservices-simplicity-vs-scalability-4mi8",
+    "topic": "general"
+  },
+  {
+    "title": "Python Docker Containerization: From Dev to Production",
+    "desc": "<h1>\n  \n  \n  Python Docker Containerization: From Dev to Production\n</h1>\n\n<p><strong>Tags:</strong> python, docker, devops, deployment</p>\n",
+    "link": "https://dev.to/annalilith/python-docker-containerization-from-dev-to-production-4l0g",
+    "topic": "docker"
+  },
+  {
+    "title": "Both Delivery Paths Went Silent. Neither Was Broken.",
+    "desc": "<p>My home server sends me a stream of scheduled reports over Telegram every morning \u2014 system health, data pulls, monitoring summaries, a wa",
+    "link": "https://dev.to/henry_dan_81513dd35a2f540/both-delivery-paths-went-silent-neither-was-broken-7cd",
+    "topic": "general"
+  },
+  {
+    "title": "V2: Build a Dynamic Online Ordering System for a Local Caf\u00e9",
+    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>We already have the static website online, thanks to Amazon S3's static web hosting capabilities. Now it",
+    "link": "https://dev.to/aws-builders/v2-build-a-dynamic-online-ordering-system-for-a-local-cafe-42n0",
+    "topic": "general"
+  },
+  {
     "title": "Building an Offline Document Search Engine for My University",
     "desc": "<p>Hi everyone,</p>\n\n<p>I'm Yi\u011fit, a third-year software engineering student. If you have ever tried to find a specific rule about grading, ",
     "link": "https://dev.to/yigtwx/building-an-offline-document-search-engine-for-my-university-56bi",
-    "topic": "general"
-  },
-  {
-    "title": "How I Hosted a Static Website on Azure Blob Storage with Custom DNS, Zero Servers, Under $2/Month",
-    "desc": "<p><strong>Introduction</strong></p>\n\n<p>I challenged myself with a real-world Azure scenario something beyond just spinning up a VM and cal",
-    "link": "https://dev.to/danielops/how-i-hosted-a-static-website-on-azure-blob-storage-with-custom-dns-zero-servers-under-2month-74g",
-    "topic": "azure"
-  },
-  {
-    "title": "How Do MVP Development Services Contribute to User Feedback and Iterative Improvement?",
-    "desc": "<p>Building a product without validating your idea can lead to wasted time, money, and effort. That\u2019s why many startups and businesses choos",
-    "link": "https://dev.to/allenrichard12/how-do-mvp-development-services-contribute-to-user-feedback-and-iterative-improvement-15p",
-    "topic": "general"
-  },
-  {
-    "title": "The Incident Postmortem Template That Actually Prevents the Next Outage",
-    "desc": "<p>It's 2 AM.</p>\n\n<p>Production is down. Slack is on fire. Your CEO is awake and asking questions you can't answer yet.</p>\n\n<p>You fix the",
-    "link": "https://dev.to/syms_mation/the-incident-postmortem-template-that-actually-prevents-the-next-outage-4god",
-    "topic": "secops"
-  },
-  {
-    "title": "Production-Grade Docker Images for Python",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The typical first-draft Python <code>Dockerfile</code> \u2014 <code>FROM python</code>, <code>COPY . .</code>",
-    "link": "https://dev.to/gpuneet/production-grade-docker-images-for-python-4ghj",
-    "topic": "docker"
-  },
-  {
-    "title": "Production-Grade Docker Images for Java",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>A Java <code>Dockerfile</code> can be three lines and technically work \u2014 or it can be a 700 MB image tha",
-    "link": "https://dev.to/gpuneet/production-grade-docker-images-for-java-3k0n",
-    "topic": "docker"
-  },
-  {
-    "title": "Scarab Field Lab: 27x Smaller Final Decision Context, Merged Upstream",
-    "desc": "<p>The Patch Was Small. The Proof Was Not.</p>\n\n<p>Scarab Systems has been running public Field Lab comparisons to test a simple question:</",
-    "link": "https://dev.to/scarab-systems/scarab-field-lab-27x-smaller-final-decision-context-merged-upstream-1lj2",
-    "topic": "general"
-  },
-  {
-    "title": "Migration Photopea vers PDF serveur : retour d'exp\u00e9rience sur un pipeline de rendu avec Playwright (Cas concret)",
-    "desc": "<p><em>\ud83d\udcd6 Article original : <a href=\"https://gist.github.com/mohamed-amine-ben-mallessa/df35e6bb0c7c81770c45b751bd40409e\" rel=\"noopener nore",
-    "link": "https://dev.to/benmallessamohamedamine/migration-photopea-vers-pdf-serveur-retour-dexperience-sur-un-pipeline-de-rendu-avec-playwright-2hoh",
     "topic": "general"
   }
 ]
