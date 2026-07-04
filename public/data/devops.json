@@ -1,50 +1,50 @@
 [
   {
-    "title": "Soul in Motion \u2014 5:13 PM | 2026-07-04",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Tweaked the YouTube pipeline for the kids' section with a fail-fast mechanism and a fresh rotation system",
-    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-513-pm-2026-07-04-1llk",
-    "topic": "general"
-  },
-  {
-    "title": "Playwright Visual Regression Testing: Catch UI Bugs in CI",
-    "desc": "<p>Playwright has visual regression testing built in. One assertion, <code>toHaveScreenshot</code>, captures the page, diffs it against a st",
-    "link": "https://dev.to/grabbit/playwright-visual-regression-testing-catch-ui-bugs-in-ci-31eh",
-    "topic": "general"
-  },
-  {
-    "title": "\ud83d\ude80 New Blog Published: Why Companies Are Moving to Kubernetes",
-    "desc": "<p>Modern businesses need applications that are scalable, reliable, and cost-efficient. That's exactly why Kubernetes has become the backbon",
-    "link": "https://dev.to/zaved_akthar_7227/new-blog-published-why-companies-are-moving-to-kubernetes-27b0",
+    "title": "Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD (2026)",
+    "desc": "<p><strong>Cloud-native security practices</strong> in 2026 cover a substantially different attack surface than the web/cloud security disci",
+    "link": "https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm",
     "topic": "kubernetes"
   },
   {
-    "title": "Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality",
-    "desc": "<blockquote>\n<p>Most uptime tools answer the same question. They tell you \"is service X up?\" from <strong>one</strong> vantage point \u2014 the m",
-    "link": "https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54",
+    "title": "From fragile iframes to server-side PDFs: a rendering pipeline migration story with Playwright",
+    "desc": "<p><em>\ud83d\udcd6 Original article: <a href=\"https://gist.github.com/mohamed-amine-ben-mallessa/163ea0daec7bf8c95f12cf8b8cb6f12f\" rel=\"noopener noref",
+    "link": "https://dev.to/benmallessamohamedamine/from-fragile-iframes-to-server-side-pdfs-a-rendering-pipeline-migration-story-with-playwright-4n0",
     "topic": "general"
   },
   {
-    "title": "I built a localhost proxy that stops LangChain from hallucinating on dead RAG data (and cuts token burn by 50%)",
-    "desc": "<h2>\n  \n  \n  The problem nobody's proxy was solving\n</h2>\n\n<p>Every RAG pipeline I'd worked with had the same blind spot: once a document ma",
-    "link": "https://dev.to/vlsiddarth/i-built-a-localhost-proxy-that-stops-langchain-from-hallucinating-on-dead-rag-data-and-cuts-token-371n",
+    "title": "From Fork to Pull Request: A Practical GitHub Collaboration Workflow",
+    "desc": "<p>Modern software development is built on <strong>collaboration</strong>, and <code>GitHub</code> is at the center of that workflow.<br />\n",
+    "link": "https://dev.to/rahimah_dev/from-fork-to-pull-request-a-practical-github-collaboration-workflow-f9l",
     "topic": "general"
   },
   {
-    "title": "Day 58 - Optimizing ClickHouse\u00ae for High-Throughput Inserts",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>One of the defining strengths of <strong>ClickHouse\u00ae</strong> is its ability to ingest massive volumes o",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-58-optimizing-clickhouser-for-high-throughput-inserts-4h7d",
+    "title": "Under 20 Hiit Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/under-20-hiit-timer-what-we-learned-building-random-tactical-timer-2hc9",
     "topic": "general"
   },
   {
-    "title": "What Is a DevOps Engineer Master Diploma Program? A Complete Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/cybersecurity-12/what-is-a-devops-engineer-master-diploma-program-a-complete-guide-4f",
+    "title": "The On-Call Handoff That Prevents Dropped Incidents",
+    "desc": "<h2>\n  \n  \n  The Monday Morning Disaster\n</h2>\n\n<p>Every Monday, the same story: the incoming on-call engineer has no idea what happened ove",
+    "link": "https://dev.to/samson_tanimawo/the-on-call-handoff-that-prevents-dropped-incidents-non",
+    "topic": "secops"
+  },
+  {
+    "title": "Download CRYSTORLD NSP Full Game Latest 2026",
+    "desc": "<h1>\n  \n  \n  Download CRYSTORLD NSP Full Game Latest 2026\n</h1>\n\n<p>CRYSTORLD NSP is a charming pixel-art action RPG that blends exploration",
+    "link": "https://dev.to/suppleair_data_5e300edce4/download-crystorld-nsp-full-game-latest-2026-25cl",
     "topic": "general"
   },
   {
-    "title": "Running a mail server on a VPS: what actually keeps you out of spam",
-    "desc": "<p>Your mail server works. Postfix starts, the logs look clean, you send a test message to your Gmail \u2014 and it lands in spam. Or it just dis",
-    "link": "https://dev.to/eqvps/running-a-mail-server-on-a-vps-what-actually-keeps-you-out-of-spam-2hop",
+    "title": "Why your email goes to spam, and how to actually fix it",
+    "desc": "<p>You hit send, and the email never arrives. Or it arrives in the spam folder, and the person on the other end swears they checked. The mad",
+    "link": "https://dev.to/lukethomas_tw/why-your-email-goes-to-spam-and-how-to-actually-fix-it-4oa0",
+    "topic": "general"
+  },
+  {
+    "title": "Run the Readiness Audit Before You Flip DNS",
+    "desc": "<h2>\n  \n  \n  The cutover that would have taken the money and then broken\n</h2>\n\n<p>The DiagnosticPro migration moved a live product off Fire",
+    "link": "https://dev.to/jeremy_longshore/run-the-readiness-audit-before-you-flip-dns-2g07",
     "topic": "general"
   }
 ]
