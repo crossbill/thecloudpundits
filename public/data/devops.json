@@ -1,5 +1,29 @@
 [
   {
+    "title": "I Thought I Understood Containers. Then I Tried Building One.",
+    "desc": "<p>I had just aced my mentor\u2019s Docker exam, so of course I thought I understood containers.</p>\n\n<p>I had said all the right words: namespac",
+    "link": "https://dev.to/henryosei/i-thought-i-understood-containers-then-i-tried-building-one-5a80",
+    "topic": "docker"
+  },
+  {
+    "title": "C\u00f3mo validar correos de rollback en Kubernetes",
+    "desc": "<p>Cuando un despliegue falla y el rollback entra en juego, el correo de notificaci\u00f3n suele ser la primera se\u00f1al que ve el equipo fuera de l",
+    "link": "https://dev.to/alexcarteruk/como-validar-correos-de-rollback-en-kubernetes-p2b",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Terraform vs CloudFormation: The Matrix of IaC",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Look, I\u2019ve been there. You\u2019re spinning up a new environment for a side\u2011project, and you ",
+    "link": "https://dev.to/timevolt/terraform-vs-cloudformation-the-matrix-of-iac-4ggd",
+    "topic": "terraform"
+  },
+  {
+    "title": "I Cut My AWS Hosting Bill from ~$45/mo to ~$8 by Consolidating Three Apps on One Lightsail Box",
+    "desc": "<p><em>How I moved portfolio, krogerCart, and chat-bot off separate EC2 instances onto a single $5 Lightsail instance with Docker and Caddy ",
+    "link": "https://dev.to/david_shibley/i-cut-my-aws-hosting-bill-from-45mo-to-8-by-consolidating-three-apps-on-one-lightsail-box-53ga",
+    "topic": "aws"
+  },
+  {
     "title": "Is anyone using AWS CodePipeline for the complete CI/CD pipeline?",
     "desc": "",
     "link": "https://dev.to/arnabadhikar/is-anyone-using-aws-codepipeline-for-the-complete-cicd-pipelineaws-cicd-cloudcomputing-3nfk",
@@ -21,30 +45,6 @@
     "title": "Monolith vs. Microservices: Simplicity vs. Scalability \u2694\ufe0f",
     "desc": "<p>When I started out, I fell for the hype: I thought microservices were the only modern way to build apps. </p>\n\n<p>After building a modula",
     "link": "https://dev.to/ganeshak11/monolith-vs-microservices-simplicity-vs-scalability-4mi8",
-    "topic": "general"
-  },
-  {
-    "title": "Python Docker Containerization: From Dev to Production",
-    "desc": "<h1>\n  \n  \n  Python Docker Containerization: From Dev to Production\n</h1>\n\n<p><strong>Tags:</strong> python, docker, devops, deployment</p>\n",
-    "link": "https://dev.to/annalilith/python-docker-containerization-from-dev-to-production-4l0g",
-    "topic": "docker"
-  },
-  {
-    "title": "Both Delivery Paths Went Silent. Neither Was Broken.",
-    "desc": "<p>My home server sends me a stream of scheduled reports over Telegram every morning \u2014 system health, data pulls, monitoring summaries, a wa",
-    "link": "https://dev.to/henry_dan_81513dd35a2f540/both-delivery-paths-went-silent-neither-was-broken-7cd",
-    "topic": "general"
-  },
-  {
-    "title": "V2: Build a Dynamic Online Ordering System for a Local Caf\u00e9",
-    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>We already have the static website online, thanks to Amazon S3's static web hosting capabilities. Now it",
-    "link": "https://dev.to/aws-builders/v2-build-a-dynamic-online-ordering-system-for-a-local-cafe-42n0",
-    "topic": "general"
-  },
-  {
-    "title": "Building an Offline Document Search Engine for My University",
-    "desc": "<p>Hi everyone,</p>\n\n<p>I'm Yi\u011fit, a third-year software engineering student. If you have ever tried to find a specific rule about grading, ",
-    "link": "https://dev.to/yigtwx/building-an-offline-document-search-engine-for-my-university-56bi",
     "topic": "general"
   }
 ]
