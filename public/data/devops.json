@@ -1,5 +1,23 @@
 [
   {
+    "title": "Why Your Microservices Need Circuit Breakers (And How to Add Them)",
+    "desc": "<h2>\n  \n  \n  The Cascading Failure That Took Down Everything\n</h2>\n\n<p>Our payment service went down for 3 minutes. No big deal, right? Exce",
+    "link": "https://dev.to/samson_tanimawo/why-your-microservices-need-circuit-breakers-and-how-to-add-them-1ee8",
+    "topic": "general"
+  },
+  {
+    "title": "Meet checkOwners: confidence-scored CODEOWNERS from your git history",
+    "desc": "<p>\"Who owns this code?\" is a question most teams answer with folklore. GitHub's CODEOWNERS file is supposed to answer it, but it gets writt",
+    "link": "https://dev.to/smusali/meet-checkowners-confidence-scored-codeowners-from-your-git-history-4280",
+    "topic": "general"
+  },
+  {
+    "title": "A write is not just a write",
+    "desc": "<p>The point became clear to me while working on the GitHub adapter (a more or less simple GitHub gateway for AI agents creating PRs).</p>\n\n",
+    "link": "https://dev.to/davidloibner/a-write-is-not-just-a-write-34b1",
+    "topic": "general"
+  },
+  {
     "title": "I Thought I Understood Containers. Then I Tried Building One.",
     "desc": "<p>I had just aced my mentor\u2019s Docker exam, so of course I thought I understood containers.</p>\n\n<p>I had said all the right words: namespac",
     "link": "https://dev.to/henryosei/i-thought-i-understood-containers-then-i-tried-building-one-5a80",
@@ -28,23 +46,5 @@
     "desc": "",
     "link": "https://dev.to/arnabadhikar/is-anyone-using-aws-codepipeline-for-the-complete-cicd-pipelineaws-cicd-cloudcomputing-3nfk",
     "topic": "aws"
-  },
-  {
-    "title": "97.8% of the top 10,000 domains have no MTA-STS. Here's how to be in the other 2%",
-    "desc": "<p>Of the 10,000 most-visited domains on the web, 97.8% have no MTA-STS policy at all. Not misconfigured. Not weak. Just absent. I scanned t",
-    "link": "https://dev.to/vadimivanov/978-of-the-top-10000-domains-have-no-mta-sts-heres-how-to-be-in-the-other-2-1bfn",
-    "topic": "general"
-  },
-  {
-    "title": "What's All Am I Hosting? Full Infrastructure Breakdown",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/shubham399/whats-all-am-i-hosting-full-infrastructure-breakdown-53b8",
-    "topic": "general"
-  },
-  {
-    "title": "Monolith vs. Microservices: Simplicity vs. Scalability \u2694\ufe0f",
-    "desc": "<p>When I started out, I fell for the hype: I thought microservices were the only modern way to build apps. </p>\n\n<p>After building a modula",
-    "link": "https://dev.to/ganeshak11/monolith-vs-microservices-simplicity-vs-scalability-4mi8",
-    "topic": "general"
   }
 ]
