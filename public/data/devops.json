@@ -1,50 +1,50 @@
 [
   {
-    "title": "From GitHub Repo to Live App: What Can Go Wrong",
-    "desc": "<p>Deploying from GitHub sounds like a solved problem.</p>\n\n<p>Clone the repo. Detect the stack. Build an image. Run a container. Add SSL. R",
-    "link": "https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i",
-    "topic": "general"
-  },
-  {
-    "title": "Why Temperature & Humidity Sensors Aren't Enough for Modern Industrial Monitoring",
-    "desc": "<p>Why Temperature & Humidity Sensors Aren't Enough for Modern Industrial Monitoring</p>\n\n<p>Most factories already have environmental senso",
-    "link": "https://dev.to/phuc_bach_22e/why-temperature-humidity-sensors-arent-enough-for-modern-industrial-monitoring-1eeb",
-    "topic": "general"
-  },
-  {
-    "title": "How to free up disk space used by Docker",
-    "desc": "<h1>\n  \n  \n  How to free up disk space used by Docker\n</h1>\n\n<p>When you use Docker on a daily basis, your disk can get full of unnamed imag",
-    "link": "https://dev.to/isaias_velasquez_d2261770/how-to-free-up-disk-space-used-by-docker-4576",
-    "topic": "docker"
-  },
-  {
-    "title": "SRE for People Who Hate SSH: A Beginner\u2019s Guide to MongoDB Atlas",
+    "title": "What Is a DevOps Engineer Master Diploma Program? A Complete Guide",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/scalingdiaries/sre-for-people-who-hate-ssh-a-beginners-guide-to-mongodb-atlas-315j",
+    "link": "https://dev.to/cybersecurity-12/what-is-a-devops-engineer-master-diploma-program-a-complete-guide-4f",
     "topic": "general"
   },
   {
-    "title": "How We Solved ArgoCD Notifications' Single-Secret Limitation with Kyverno",
-    "desc": "<blockquote>\n<p><strong>Note:</strong> I wrote this post a while back, before Kyverno introduced its new Mutating Policies (released in <a h",
-    "link": "https://dev.to/krishanthisera/-how-we-solved-argocd-notifications-single-secret-limitation-with-kyverno-3ak2",
+    "title": "Running a mail server on a VPS: what actually keeps you out of spam",
+    "desc": "<p>Your mail server works. Postfix starts, the logs look clean, you send a test message to your Gmail \u2014 and it lands in spam. Or it just dis",
+    "link": "https://dev.to/eqvps/running-a-mail-server-on-a-vps-what-actually-keeps-you-out-of-spam-2hop",
     "topic": "general"
   },
   {
-    "title": "100 Days of DevOps, Day 5: SELinux Isn't Your Enemy, and GP3 Is Your Default",
-    "desc": "<p>Most people meet SELinux for the first time when something breaks, and their first move is to switch it off. I get the reflex. But \"disab",
-    "link": "https://dev.to/ndcodes/100-days-of-devops-day-5-selinux-isnt-your-enemy-and-gp3-is-your-default-55e1",
+    "title": "Day 57: Internals of ClickHouse\u00ae Data Parts and Merges \u2013 A Complete Guide",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>One of the reasons ClickHouse\u00ae can handle massive analytical workloads with exceptional speed is its sto",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-57-internals-of-clickhouser-data-parts-and-merges-a-complete-guide-3oa6",
     "topic": "general"
   },
   {
-    "title": "Bruno \u2014 API Client \u0e41\u0e1a\u0e1a Git-Native \u0e17\u0e35\u0e48\u0e40\u0e01\u0e47\u0e1a\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e1f\u0e25\u0e4c",
-    "desc": "<h2>\n  \n  \n  Bruno \u2014 API Client \u0e41\u0e1a\u0e1a Git-Native \u0e17\u0e35\u0e48\u0e40\u0e01\u0e47\u0e1a\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e1f\u0e25\u0e4c\n</h2>\n\n<p>\u0e40\u0e27\u0e25\u0e32 dev team \u0e15\u0e49\u0e2d\u0e07\u0e40\u0e17\u0e2a API \u2014 \u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e21\u0e37\u0e2d\u0e17\u0e35\u0e48\u0e17\u0e38\u0e01\u0e04\u0e19\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07\u0e04\u0e37\u0e2d <st",
-    "link": "https://dev.to/gophernment/bruno-api-client-aebb-git-native-thiiekbthukyaangepnaifl-4fj4",
+    "title": "C\u00f3mo probar correos de aprobaci\u00f3n en Terraform sin tocar bandejas reales",
+    "desc": "<p>Cuando un pipeline de infraestructura depende de un correo de aprobaci\u00f3n, el fallo rara vez est\u00e1 en el bot\u00f3n final. Normalmente aparece a",
+    "link": "https://dev.to/alexcarteruk/como-probar-correos-de-aprobacion-en-terraform-sin-tocar-bandejas-reales-3kf8",
+    "topic": "terraform"
+  },
+  {
+    "title": "Webhook Retry Logic: Exponential Backoff Best Practices",
+    "desc": "<h2>\n  \n  \n  Why Webhook Retry Logic Matters\n</h2>\n\n<p>Your webhook handler crashes. The provider sends a request. You miss it. Now what? Wi",
+    "link": "https://dev.to/anonymilyhq/webhook-retry-logic-exponential-backoff-best-practices-1de6",
     "topic": "general"
   },
   {
-    "title": "What Industries Hire AI Security Certified Professionals?",
-    "desc": "<p>Artificial intelligence is transforming the way organizations operate, but it also introduces new security challenges. From protecting AI",
-    "link": "https://dev.to/ailearning/what-industries-hire-ai-security-certified-professionals-53h9",
-    "topic": "secops"
+    "title": "Why I\u2019m Thinking of Switching My Portfolio to Astro.js ..",
+    "desc": "<h1>\n  \n  \n  Why I'm Thinking of Switching My Portfolio to Astro.js\n</h1>\n\n<p>Lately I have been spending most of my time building auditing ",
+    "link": "https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj",
+    "topic": "general"
+  },
+  {
+    "title": "Role of statistics in data science.",
+    "desc": "<h2>\n  \n  \n  What is statistics?\n</h2>\n\n<p>Data science is based on statistics. It is a mathematical framework that collects, analyzes and p",
+    "link": "https://dev.to/gigomkenya/role-of-statistics-in-data-science-17gp",
+    "topic": "general"
+  },
+  {
+    "title": "Windmill vs n8n vs Temporal for API automation",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
+    "link": "https://dev.to/chasebot/windmill-vs-n8n-vs-temporal-for-api-automation-3lmi",
+    "topic": "general"
   }
 ]
