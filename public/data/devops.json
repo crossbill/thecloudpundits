@@ -1,50 +1,50 @@
 [
   {
-    "title": "Stop Queue Crashes: Dead Letter Queues in Laravel",
-    "desc": "<h2>The \"Poison Pill\" Catastrophe</h2>\n\n<p>In robust B2B SaaS platforms at Smart Tech Devs, offloading heavy tasks (like generating PDF repo",
-    "link": "https://dev.to/iprajapatiparesh/stop-queue-crashes-dead-letter-queues-in-laravel-4k1g",
+    "title": "From GitHub Repo to Live App: What Can Go Wrong",
+    "desc": "<p>Deploying from GitHub sounds like a solved problem.</p>\n\n<p>Clone the repo. Detect the stack. Build an image. Run a container. Add SSL. R",
+    "link": "https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i",
     "topic": "general"
   },
   {
-    "title": "Which Blockchain Certification Is Best for Cryptocurrency Professionals?",
-    "desc": "<p>The cryptocurrency industry is getting bigger and bigger as businesses, financial institutions and investors start using digital assets. ",
-    "link": "https://dev.to/georgiaweston/which-blockchain-certification-is-best-for-cryptocurrency-professionals-30g2",
+    "title": "Why Temperature & Humidity Sensors Aren't Enough for Modern Industrial Monitoring",
+    "desc": "<p>Why Temperature & Humidity Sensors Aren't Enough for Modern Industrial Monitoring</p>\n\n<p>Most factories already have environmental senso",
+    "link": "https://dev.to/phuc_bach_22e/why-temperature-humidity-sensors-arent-enough-for-modern-industrial-monitoring-1eeb",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udd27 Debug Docker OOM kills with Python",
-    "desc": "<h2>\n  \n  \n  \ud83d\udea8 Production Alert \u2014 OOM Kills Bring $200K/min Loss\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to",
-    "link": "https://dev.to/ptp2308/debug-docker-oom-kills-with-python-olp",
+    "title": "How to free up disk space used by Docker",
+    "desc": "<h1>\n  \n  \n  How to free up disk space used by Docker\n</h1>\n\n<p>When you use Docker on a daily basis, your disk can get full of unnamed imag",
+    "link": "https://dev.to/isaias_velasquez_d2261770/how-to-free-up-disk-space-used-by-docker-4576",
     "topic": "docker"
   },
   {
-    "title": "Migration Photopea vers PDF serveur : retour d'exp\u00e9rience sur un pipeline de rendu avec Playwright",
-    "desc": "<p><em>\ud83d\udcd6 Article original : <a href=\"https://gist.github.com/mohamed-amine-ben-mallessa/df35e6bb0c7c81770c45b751bd40409e\" rel=\"noopener nore",
-    "link": "https://dev.to/benmallessamohamedamine/migration-photopea-vers-pdf-serveur-retour-dexperience-sur-un-pipeline-de-rendu-avec-playwright-2dj8",
+    "title": "SRE for People Who Hate SSH: A Beginner\u2019s Guide to MongoDB Atlas",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/scalingdiaries/sre-for-people-who-hate-ssh-a-beginners-guide-to-mongodb-atlas-315j",
     "topic": "general"
   },
   {
-    "title": "C\u00f3mo validar correos de Alertmanager tras rotar secretos en Kubernetes",
-    "desc": "<p>Rotar credenciales SMTP en un cl\u00faster parece un cambio peque\u00f1o, pero muchas incidencias nacen justo ahi. El <code>Secret</code> se actual",
-    "link": "https://dev.to/alexcarteruk/como-validar-correos-de-alertmanager-tras-rotar-secretos-en-kubernetes-4fi5",
-    "topic": "kubernetes"
+    "title": "How We Solved ArgoCD Notifications' Single-Secret Limitation with Kyverno",
+    "desc": "<blockquote>\n<p><strong>Note:</strong> I wrote this post a while back, before Kyverno introduced its new Mutating Policies (released in <a h",
+    "link": "https://dev.to/krishanthisera/-how-we-solved-argocd-notifications-single-secret-limitation-with-kyverno-3ak2",
+    "topic": "general"
   },
   {
-    "title": "8 Free CVE & Vulnerability APIs With No Key (2026)",
-    "desc": "<p>Everyone bookmarks the NVD API and stops there. Looking up a CVE by ID is the easy ten percent of the job. The harder question is which o",
-    "link": "https://dev.to/0012303/8-free-cve-vulnerability-apis-with-no-key-2026-57b9",
+    "title": "100 Days of DevOps, Day 5: SELinux Isn't Your Enemy, and GP3 Is Your Default",
+    "desc": "<p>Most people meet SELinux for the first time when something breaks, and their first move is to switch it off. I get the reflex. But \"disab",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-day-5-selinux-isnt-your-enemy-and-gp3-is-your-default-55e1",
+    "topic": "general"
+  },
+  {
+    "title": "Bruno \u2014 API Client \u0e41\u0e1a\u0e1a Git-Native \u0e17\u0e35\u0e48\u0e40\u0e01\u0e47\u0e1a\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e1f\u0e25\u0e4c",
+    "desc": "<h2>\n  \n  \n  Bruno \u2014 API Client \u0e41\u0e1a\u0e1a Git-Native \u0e17\u0e35\u0e48\u0e40\u0e01\u0e47\u0e1a\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e1f\u0e25\u0e4c\n</h2>\n\n<p>\u0e40\u0e27\u0e25\u0e32 dev team \u0e15\u0e49\u0e2d\u0e07\u0e40\u0e17\u0e2a API \u2014 \u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e21\u0e37\u0e2d\u0e17\u0e35\u0e48\u0e17\u0e38\u0e01\u0e04\u0e19\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07\u0e04\u0e37\u0e2d <st",
+    "link": "https://dev.to/gophernment/bruno-api-client-aebb-git-native-thiiekbthukyaangepnaifl-4fj4",
+    "topic": "general"
+  },
+  {
+    "title": "What Industries Hire AI Security Certified Professionals?",
+    "desc": "<p>Artificial intelligence is transforming the way organizations operate, but it also introduces new security challenges. From protecting AI",
+    "link": "https://dev.to/ailearning/what-industries-hire-ai-security-certified-professionals-53h9",
     "topic": "secops"
-  },
-  {
-    "title": "\u30102026\u3011Auth0 \u4ee3\u66ff (Clerk/Supabase Auth/WorkOS)\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
-    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>\u4e57\u308a\u63db\u3048\u5148\u3068\u3057\u3066\u6700\u521d\u306b\u691c\u8a0e\u3059\u3079\u304d\u306f Clerk</strong>\u3002</p>\n\n<p>Next.js / <a href=\"https://www.amazon.co.jp/s?k=React%20",
-    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-4j5j",
-    "topic": "general"
-  },
-  {
-    "title": "\u30102026\u3011Algolia \u4ee3\u66ff\u306e\u5168\u6587\u691c\u7d22SaaS\u6bd4\u8f03\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
-    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>Meilisearch \u306b\u4e57\u308a\u63db\u3048\u308b\u3079\u304d\u3060\u3002</strong></p>\n\n<p>API \u8a2d\u8a08\u304c Algolia \u306b\u8fd1\u304f\u3001\u65e2\u5b58\u30b3\u30fc\u30c9\u306e\u5dee\u3057\u66ff\u3048\u30b3\u30b9\u30c8\u304c\u6700\u5c0f\u9650\u3067\u6e08\u3080\u3002OSS\uff08MIT \u30e9\u30a4\u30bb\u30f3\u30b9\uff09\u306a\u306e\u3067",
-    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-algolia-dai-ti-noquan-wen-jian-suo-saasbi-jiao-liao-jin-yi-xing-kosutodexuan-bu-1eg7",
-    "topic": "general"
   }
 ]
