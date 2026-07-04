@@ -1,5 +1,41 @@
 [
   {
+    "title": "The Incident Postmortem Template That Actually Prevents the Next Outage",
+    "desc": "<p>It's 2 AM.</p>\n\n<p>Production is down. Slack is on fire. Your CEO is awake and asking questions you can't answer yet.</p>\n\n<p>You fix the",
+    "link": "https://dev.to/syms_mation/the-incident-postmortem-template-that-actually-prevents-the-next-outage-4god",
+    "topic": "secops"
+  },
+  {
+    "title": "Production-Grade Docker Images for Python",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The typical first-draft Python <code>Dockerfile</code> \u2014 <code>FROM python</code>, <code>COPY . .</code>",
+    "link": "https://dev.to/gpuneet/production-grade-docker-images-for-python-4ghj",
+    "topic": "docker"
+  },
+  {
+    "title": "Production-Grade Docker Images for Java",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>A Java <code>Dockerfile</code> can be three lines and technically work \u2014 or it can be a 700 MB image tha",
+    "link": "https://dev.to/gpuneet/production-grade-docker-images-for-java-3k0n",
+    "topic": "docker"
+  },
+  {
+    "title": "Scarab Field Lab: 27x Smaller Final Decision Context, Merged Upstream",
+    "desc": "<p>The Patch Was Small. The Proof Was Not.</p>\n\n<p>Scarab Systems has been running public Field Lab comparisons to test a simple question:</",
+    "link": "https://dev.to/scarab-systems/scarab-field-lab-27x-smaller-final-decision-context-merged-upstream-1lj2",
+    "topic": "general"
+  },
+  {
+    "title": "Migration Photopea vers PDF serveur : retour d'exp\u00e9rience sur un pipeline de rendu avec Playwright (Cas concret)",
+    "desc": "<p><em>\ud83d\udcd6 Article original : <a href=\"https://gist.github.com/mohamed-amine-ben-mallessa/df35e6bb0c7c81770c45b751bd40409e\" rel=\"noopener nore",
+    "link": "https://dev.to/benmallessamohamedamine/migration-photopea-vers-pdf-serveur-retour-dexperience-sur-un-pipeline-de-rendu-avec-playwright-2hoh",
+    "topic": "general"
+  },
+  {
+    "title": "Tell your AI to set up billing drift detection",
+    "desc": "<p>User paid. Stripe looked fine. The app still gated them.</p>\n\n<p>They had an active subscription. Checkout worked. Tests passed \u2014 because",
+    "link": "https://dev.to/mattbaconz/tell-your-ai-to-set-up-billing-drift-detection-ag6",
+    "topic": "general"
+  },
+  {
     "title": "Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD (2026)",
     "desc": "<p><strong>Cloud-native security practices</strong> in 2026 cover a substantially different attack surface than the web/cloud security disci",
     "link": "https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm",
@@ -9,42 +45,6 @@
     "title": "From fragile iframes to server-side PDFs: a rendering pipeline migration story with Playwright",
     "desc": "<p><em>\ud83d\udcd6 Original article: <a href=\"https://gist.github.com/mohamed-amine-ben-mallessa/163ea0daec7bf8c95f12cf8b8cb6f12f\" rel=\"noopener noref",
     "link": "https://dev.to/benmallessamohamedamine/from-fragile-iframes-to-server-side-pdfs-a-rendering-pipeline-migration-story-with-playwright-4n0",
-    "topic": "general"
-  },
-  {
-    "title": "From Fork to Pull Request: A Practical GitHub Collaboration Workflow",
-    "desc": "<p>Modern software development is built on <strong>collaboration</strong>, and <code>GitHub</code> is at the center of that workflow.<br />\n",
-    "link": "https://dev.to/rahimah_dev/from-fork-to-pull-request-a-practical-github-collaboration-workflow-f9l",
-    "topic": "general"
-  },
-  {
-    "title": "Under 20 Hiit Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/under-20-hiit-timer-what-we-learned-building-random-tactical-timer-2hc9",
-    "topic": "general"
-  },
-  {
-    "title": "The On-Call Handoff That Prevents Dropped Incidents",
-    "desc": "<h2>\n  \n  \n  The Monday Morning Disaster\n</h2>\n\n<p>Every Monday, the same story: the incoming on-call engineer has no idea what happened ove",
-    "link": "https://dev.to/samson_tanimawo/the-on-call-handoff-that-prevents-dropped-incidents-non",
-    "topic": "secops"
-  },
-  {
-    "title": "Download CRYSTORLD NSP Full Game Latest 2026",
-    "desc": "<h1>\n  \n  \n  Download CRYSTORLD NSP Full Game Latest 2026\n</h1>\n\n<p>CRYSTORLD NSP is a charming pixel-art action RPG that blends exploration",
-    "link": "https://dev.to/suppleair_data_5e300edce4/download-crystorld-nsp-full-game-latest-2026-25cl",
-    "topic": "general"
-  },
-  {
-    "title": "Why your email goes to spam, and how to actually fix it",
-    "desc": "<p>You hit send, and the email never arrives. Or it arrives in the spam folder, and the person on the other end swears they checked. The mad",
-    "link": "https://dev.to/lukethomas_tw/why-your-email-goes-to-spam-and-how-to-actually-fix-it-4oa0",
-    "topic": "general"
-  },
-  {
-    "title": "Run the Readiness Audit Before You Flip DNS",
-    "desc": "<h2>\n  \n  \n  The cutover that would have taken the money and then broken\n</h2>\n\n<p>The DiagnosticPro migration moved a live product off Fire",
-    "link": "https://dev.to/jeremy_longshore/run-the-readiness-audit-before-you-flip-dns-2g07",
     "topic": "general"
   }
 ]
