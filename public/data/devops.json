@@ -1,50 +1,50 @@
 [
   {
-    "title": "Injecting Version Info at Build Time in Go With -ldflags",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://xgabriel.com/go-book\" rel=\"noopener noreferrer\">The Complete Guide to Go Programming</a>\n<",
-    "link": "https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j",
+    "title": "Stop Queue Crashes: Dead Letter Queues in Laravel",
+    "desc": "<h2>The \"Poison Pill\" Catastrophe</h2>\n\n<p>In robust B2B SaaS platforms at Smart Tech Devs, offloading heavy tasks (like generating PDF repo",
+    "link": "https://dev.to/iprajapatiparesh/stop-queue-crashes-dead-letter-queues-in-laravel-4k1g",
     "topic": "general"
   },
   {
-    "title": "Balancing Cost, Learning, and Resume Value: Choosing the Right Cloud Service for Non-Profit Mobile App Projects",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Choosing the right cloud service for a non-profit mobile app project is a delicate balancing act. On one",
-    "link": "https://dev.to/maricode/balancing-cost-learning-and-resume-value-choosing-the-right-cloud-service-for-non-profit-mobile-585b",
+    "title": "Which Blockchain Certification Is Best for Cryptocurrency Professionals?",
+    "desc": "<p>The cryptocurrency industry is getting bigger and bigger as businesses, financial institutions and investors start using digital assets. ",
+    "link": "https://dev.to/georgiaweston/which-blockchain-certification-is-best-for-cryptocurrency-professionals-30g2",
     "topic": "general"
   },
   {
-    "title": "govulncheck: Scan Go Code for CVEs You Can Actually Reach",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://xgabriel.com/go-book\" rel=\"noopener noreferrer\">The Complete Guide to Go Programming</a>\n<",
-    "link": "https://dev.to/gabrielanhaia/govulncheck-scan-go-code-for-cves-you-can-actually-reach-3fk5",
+    "title": "\ud83d\udd27 Debug Docker OOM kills with Python",
+    "desc": "<h2>\n  \n  \n  \ud83d\udea8 Production Alert \u2014 OOM Kills Bring $200K/min Loss\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to",
+    "link": "https://dev.to/ptp2308/debug-docker-oom-kills-with-python-olp",
+    "topic": "docker"
+  },
+  {
+    "title": "Migration Photopea vers PDF serveur : retour d'exp\u00e9rience sur un pipeline de rendu avec Playwright",
+    "desc": "<p><em>\ud83d\udcd6 Article original : <a href=\"https://gist.github.com/mohamed-amine-ben-mallessa/df35e6bb0c7c81770c45b751bd40409e\" rel=\"noopener nore",
+    "link": "https://dev.to/benmallessamohamedamine/migration-photopea-vers-pdf-serveur-retour-dexperience-sur-un-pipeline-de-rendu-avec-playwright-2dj8",
     "topic": "general"
   },
   {
-    "title": "What Changed? How We Turned Production Change Blindness into a less than 10-Minute Answer",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/omarreda/what-changed-how-we-turned-production-change-blindness-into-a-less-than-10-minute-answer-4k7l",
+    "title": "C\u00f3mo validar correos de Alertmanager tras rotar secretos en Kubernetes",
+    "desc": "<p>Rotar credenciales SMTP en un cl\u00faster parece un cambio peque\u00f1o, pero muchas incidencias nacen justo ahi. El <code>Secret</code> se actual",
+    "link": "https://dev.to/alexcarteruk/como-validar-correos-de-alertmanager-tras-rotar-secretos-en-kubernetes-4fi5",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "8 Free CVE & Vulnerability APIs With No Key (2026)",
+    "desc": "<p>Everyone bookmarks the NVD API and stops there. Looking up a CVE by ID is the easy ten percent of the job. The harder question is which o",
+    "link": "https://dev.to/0012303/8-free-cve-vulnerability-apis-with-no-key-2026-57b9",
+    "topic": "secops"
+  },
+  {
+    "title": "\u30102026\u3011Auth0 \u4ee3\u66ff (Clerk/Supabase Auth/WorkOS)\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>\u4e57\u308a\u63db\u3048\u5148\u3068\u3057\u3066\u6700\u521d\u306b\u691c\u8a0e\u3059\u3079\u304d\u306f Clerk</strong>\u3002</p>\n\n<p>Next.js / <a href=\"https://www.amazon.co.jp/s?k=React%20",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-4j5j",
     "topic": "general"
   },
   {
-    "title": "Scarab Diagnostic Field Test #037 - xdg-desktop-portal Startup Inventory Boundary",
-    "desc": "<p>Target: flatpak/xdg-desktop-portal<br />\nIssue: flatpak/xdg-desktop-portal#1947<br />\nPull request: flatpak/xdg-desktop-portal#2054<br />",
-    "link": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-037-xdg-desktop-portal-startup-inventory-boundary-5ecl",
-    "topic": "general"
-  },
-  {
-    "title": "What Is an LLM Gateway? Routing, Fallback, and Rate Limits Explained",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>An <a href=\"https://www.truefoundry.com/ai-gateway\" rel=\"noopener noreferrer\">LLM gateway</a> is a proxy ",
-    "link": "https://dev.to/sahajmeet_kaur_/what-is-an-llm-gateway-routing-fallback-and-rate-limits-explained-g72",
-    "topic": "general"
-  },
-  {
-    "title": "Why Framework Callbacks Fail to Stop AI Agent Financial Runaways",
-    "desc": "<p>If you are deploying autonomous multi-agent systems to production using frameworks like CrewAI, LangChain, or pure OpenAI tool-calling lo",
-    "link": "https://dev.to/billionaire664/why-framework-callbacks-fail-to-stop-ai-agent-financial-runaways-39hd",
-    "topic": "general"
-  },
-  {
-    "title": "What I Actually Look at When Debugging a Slow or Expensive LLM Call",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Standard APM metrics (latency, status code, error rate) don't capture the things that actually drive LLM ",
-    "link": "https://dev.to/sahajmeet_kaur_/what-i-actually-look-at-when-debugging-a-slow-or-expensive-llm-call-3jpb",
+    "title": "\u30102026\u3011Algolia \u4ee3\u66ff\u306e\u5168\u6587\u691c\u7d22SaaS\u6bd4\u8f03\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>Meilisearch \u306b\u4e57\u308a\u63db\u3048\u308b\u3079\u304d\u3060\u3002</strong></p>\n\n<p>API \u8a2d\u8a08\u304c Algolia \u306b\u8fd1\u304f\u3001\u65e2\u5b58\u30b3\u30fc\u30c9\u306e\u5dee\u3057\u66ff\u3048\u30b3\u30b9\u30c8\u304c\u6700\u5c0f\u9650\u3067\u6e08\u3080\u3002OSS\uff08MIT \u30e9\u30a4\u30bb\u30f3\u30b9\uff09\u306a\u306e\u3067",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-algolia-dai-ti-noquan-wen-jian-suo-saasbi-jiao-liao-jin-yi-xing-kosutodexuan-bu-1eg7",
     "topic": "general"
   }
 ]
