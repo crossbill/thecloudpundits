@@ -1,5 +1,23 @@
 [
   {
+    "title": "Injecting Version Info at Build Time in Go With -ldflags",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://xgabriel.com/go-book\" rel=\"noopener noreferrer\">The Complete Guide to Go Programming</a>\n<",
+    "link": "https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j",
+    "topic": "general"
+  },
+  {
+    "title": "Balancing Cost, Learning, and Resume Value: Choosing the Right Cloud Service for Non-Profit Mobile App Projects",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Choosing the right cloud service for a non-profit mobile app project is a delicate balancing act. On one",
+    "link": "https://dev.to/maricode/balancing-cost-learning-and-resume-value-choosing-the-right-cloud-service-for-non-profit-mobile-585b",
+    "topic": "general"
+  },
+  {
+    "title": "govulncheck: Scan Go Code for CVEs You Can Actually Reach",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://xgabriel.com/go-book\" rel=\"noopener noreferrer\">The Complete Guide to Go Programming</a>\n<",
+    "link": "https://dev.to/gabrielanhaia/govulncheck-scan-go-code-for-cves-you-can-actually-reach-3fk5",
+    "topic": "general"
+  },
+  {
     "title": "What Changed? How We Turned Production Change Blindness into a less than 10-Minute Answer",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/omarreda/what-changed-how-we-turned-production-change-blindness-into-a-less-than-10-minute-answer-4k7l",
@@ -27,24 +45,6 @@
     "title": "What I Actually Look at When Debugging a Slow or Expensive LLM Call",
     "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Standard APM metrics (latency, status code, error rate) don't capture the things that actually drive LLM ",
     "link": "https://dev.to/sahajmeet_kaur_/what-i-actually-look-at-when-debugging-a-slow-or-expensive-llm-call-3jpb",
-    "topic": "general"
-  },
-  {
-    "title": "Why AWS CodePipeline + ECS falls short for production-grade microservices (and how EKS fixes it)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/arnabadhikar/why-aws-codepipeline-ecs-falls-short-for-production-grade-microservices-and-how-eks-fixes-it-5bb9",
-    "topic": "aws"
-  },
-  {
-    "title": "Pushing \"Algorithm of the Soul\" to Production",
-    "desc": "<p>A few months ago, I published an article here discussing how we can map core multi-cloud engineering bottlenecks and agentic AI pipelines",
-    "link": "https://dev.to/kumar_dahal_da159557687b1/pushing-algorithm-of-the-soul-to-production-3e5h",
-    "topic": "general"
-  },
-  {
-    "title": "Pushing Algorithm of the Soul to Production",
-    "desc": "",
-    "link": "https://dev.to/kumar_dahal_da159557687b1/pushing-algorithm-of-the-soul-to-production-3p1c",
     "topic": "general"
   }
 ]
