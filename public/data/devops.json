@@ -1,50 +1,50 @@
 [
   {
-    "title": "Observing AI Microservices with OpenTelemetry & Grafana",
-    "desc": "<p>Modern AI workloads introduce new observability<br />\nchallenges. Learn how OpenTelemetry and Grafana help uncover latency,<br />\nfailure",
-    "link": "https://dev.to/naveens16/observing-ai-microservices-with-opentelemetry-grafana-5bfi",
+    "title": "We Built LayerX: A Modern Alternative to Dive",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/deveshctl/we-built-layerx-a-modern-alternative-to-dive-25oj",
     "topic": "general"
   },
   {
-    "title": "Why I Recommend Alibaba Cloud ECS for Developers in 2026",
-    "desc": "<h1>\n  \n  \n  Why I Recommend Alibaba Cloud ECS for Developers in 2026\n</h1>\n\n<p>As a developer who has tested multiple cloud providers, I wa",
-    "link": "https://dev.to/fan_li_ee7d84c6203253d041/why-i-recommend-alibaba-cloud-ecs-for-developers-in-2026-da0",
+    "title": "Why Snap CD: AI on a Leash",
+    "desc": "<p>AI coding agents are showing up in infrastructure workflows. They can diagnose a failed <code>terraform apply</code>, summarise what chan",
+    "link": "https://dev.to/karlschriek/why-snap-cd-ai-on-a-leash-396k",
     "topic": "general"
   },
   {
-    "title": "My drift detector graded every change \u2014 and stayed blind to the secret that hadn't rotated in 200 days",
-    "desc": "<p>My drift detector is built on one idea: take two snapshots of your cloud, diff<br />\nthem, and grade what moved. A security group opened ",
-    "link": "https://dev.to/hitoshi1964/my-drift-detector-graded-every-change-and-stayed-blind-to-the-secret-that-hadnt-rotated-in-200-52oi",
+    "title": "Top 5 Open Source APM Tools in 2026",
+    "desc": "<p>Choosing among <strong>open source APM tools</strong> in 2026 means matching architecture to your OpenTelemetry strategy, on-call workflo",
+    "link": "https://dev.to/logan_zhang_8ca3575087c5b/top-5-open-source-apm-tools-in-2026-1437",
     "topic": "general"
   },
   {
-    "title": "Stop running a JVM just to mock an API in your CI pipeline",
-    "desc": "<p>If you've set up WireMock in a CI pipeline before, you know the pattern: pull a Docker image with a full JVM in it, wait for it to boot, ",
-    "link": "https://dev.to/amazia_gur_fd339831499743/stop-running-a-jvm-just-to-mock-an-api-in-your-ci-pipeline-44i4",
+    "title": "Best Hiit Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/best-hiit-timer-what-we-learned-building-random-tactical-timer-gho",
     "topic": "general"
   },
   {
-    "title": "Decommissioning a Table in Databricks (and Why SSMS Still Matters)",
-    "desc": "<p>Decommissioning a table sounds like a five-minute job \u2014 drop it, done. In a real enterprise environment, it almost never is. Somewhere do",
-    "link": "https://dev.to/kiransp/decommissioning-a-table-in-databricks-and-why-ssms-still-matters-1mk1",
+    "title": "Engineering Confidence: The Science Behind Brabic's Best-Selling Bras",
+    "desc": "<p>When you wear a <a href=\"https://www.brabic.com/\" rel=\"noopener noreferrer\">Brabic bra</a>, you're not just wearing a piece of fabric. Yo",
+    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/engineering-confidence-the-science-behind-brabics-best-selling-bras-4egc",
     "topic": "general"
   },
   {
-    "title": "Your Self-Hosted LLM Has No Auth by Default. One Config Line Decides Who Runs It.",
-    "desc": "<p>A self-hosted LLM backend signals its exposure the moment its config binds to all interfaces, and you can read that indicator from the te",
-    "link": "https://dev.to/alex_spinov/your-self-hosted-llm-has-no-auth-by-default-one-config-line-decides-who-runs-it-1bib",
-    "topic": "general"
+    "title": "From Manual Deployments to Infrastructure as Code with Azure ARM Templates (Part 2)",
+    "desc": "<p><strong>Introduction</strong></p>\n\n<p>In my previous article, I shared my experience getting started with Microsoft Azure after building ",
+    "link": "https://dev.to/smarty_joy/from-manual-deployments-to-infrastructure-as-code-with-azure-arm-templates-part-2-2de6",
+    "topic": "azure"
   },
   {
-    "title": "Building an Online Anomaly Scoring Sidecar for Grafana Alerts",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/05/building-an-online-anomaly-scoring-sidecar-for-grafana-alerts\" rel",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/building-an-online-anomaly-scoring-sidecar-for-grafana-alerts-3ckj",
-    "topic": "general"
+    "title": "Debugging Containers From the Terminal: A Practical Docker CLI Workflow",
+    "desc": "<p>A container that's misbehaving is one of those problems where your instinct works against you. The pressure pushes you toward the dramati",
+    "link": "https://dev.to/jjoyneriv/debugging-containers-from-the-terminal-a-practical-docker-cli-workflow-d18",
+    "topic": "docker"
   },
   {
-    "title": "Full-Link Monitoring Tools: OTLP Ingest and Unified APM in Practice",
-    "desc": "<p>When teams evaluate <strong>full-link monitoring tools</strong>, the same questions keep coming up: Is Jaeger enough? Do we need SkyWalki",
-    "link": "https://dev.to/logan_zhang_8ca3575087c5b/full-link-monitoring-tools-otlp-ingest-and-unified-apm-in-practice-2ol7",
+    "title": "Soul in Motion \u2014 6:59 PM | 2026-07-05",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Locked down backend security with custom monitoring and alerting dashboards</li>\n<li>Improved frontend us",
+    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-659-pm-2026-07-05-18j2",
     "topic": "general"
   }
 ]
