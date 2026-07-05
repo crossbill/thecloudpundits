@@ -1,5 +1,35 @@
 [
   {
+    "title": "Observing AI Microservices with OpenTelemetry & Grafana",
+    "desc": "<p>Modern AI workloads introduce new observability<br />\nchallenges. Learn how OpenTelemetry and Grafana help uncover latency,<br />\nfailure",
+    "link": "https://dev.to/naveens16/observing-ai-microservices-with-opentelemetry-grafana-5bfi",
+    "topic": "general"
+  },
+  {
+    "title": "Why I Recommend Alibaba Cloud ECS for Developers in 2026",
+    "desc": "<h1>\n  \n  \n  Why I Recommend Alibaba Cloud ECS for Developers in 2026\n</h1>\n\n<p>As a developer who has tested multiple cloud providers, I wa",
+    "link": "https://dev.to/fan_li_ee7d84c6203253d041/why-i-recommend-alibaba-cloud-ecs-for-developers-in-2026-da0",
+    "topic": "general"
+  },
+  {
+    "title": "My drift detector graded every change \u2014 and stayed blind to the secret that hadn't rotated in 200 days",
+    "desc": "<p>My drift detector is built on one idea: take two snapshots of your cloud, diff<br />\nthem, and grade what moved. A security group opened ",
+    "link": "https://dev.to/hitoshi1964/my-drift-detector-graded-every-change-and-stayed-blind-to-the-secret-that-hadnt-rotated-in-200-52oi",
+    "topic": "general"
+  },
+  {
+    "title": "Stop running a JVM just to mock an API in your CI pipeline",
+    "desc": "<p>If you've set up WireMock in a CI pipeline before, you know the pattern: pull a Docker image with a full JVM in it, wait for it to boot, ",
+    "link": "https://dev.to/amazia_gur_fd339831499743/stop-running-a-jvm-just-to-mock-an-api-in-your-ci-pipeline-44i4",
+    "topic": "general"
+  },
+  {
+    "title": "Decommissioning a Table in Databricks (and Why SSMS Still Matters)",
+    "desc": "<p>Decommissioning a table sounds like a five-minute job \u2014 drop it, done. In a real enterprise environment, it almost never is. Somewhere do",
+    "link": "https://dev.to/kiransp/decommissioning-a-table-in-databricks-and-why-ssms-still-matters-1mk1",
+    "topic": "general"
+  },
+  {
     "title": "Your Self-Hosted LLM Has No Auth by Default. One Config Line Decides Who Runs It.",
     "desc": "<p>A self-hosted LLM backend signals its exposure the moment its config binds to all interfaces, and you can read that indicator from the te",
     "link": "https://dev.to/alex_spinov/your-self-hosted-llm-has-no-auth-by-default-one-config-line-decides-who-runs-it-1bib",
@@ -15,36 +45,6 @@
     "title": "Full-Link Monitoring Tools: OTLP Ingest and Unified APM in Practice",
     "desc": "<p>When teams evaluate <strong>full-link monitoring tools</strong>, the same questions keep coming up: Is Jaeger enough? Do we need SkyWalki",
     "link": "https://dev.to/logan_zhang_8ca3575087c5b/full-link-monitoring-tools-otlp-ingest-and-unified-apm-in-practice-2ol7",
-    "topic": "general"
-  },
-  {
-    "title": "The easiest way to download TikToks without the watermark",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/tiksssnettiktok/the-easiest-way-to-download-tiktoks-without-the-watermark-2if4",
-    "topic": "general"
-  },
-  {
-    "title": "Temporal vs n8n vs Airflow Webhook Automation",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
-    "link": "https://dev.to/chasebot/temporal-vs-n8n-vs-airflow-webhook-automation-4loh",
-    "topic": "general"
-  },
-  {
-    "title": "When TLS 1.3-only broke everything behind Akamai",
-    "desc": "<p>The alert wasn't subtle. Requests just stopped hitting our backend nginx box. Internal traffic from our own domains kept flowing, but any",
-    "link": "https://dev.to/mridul_it_is/when-tls-13-only-broke-everything-behind-akamai-j3e",
-    "topic": "general"
-  },
-  {
-    "title": "Why a curl User-Agent Isn't Automatically Malicious",
-    "desc": "<p>A surprising number of security tools treat user-agent strings as a static blocklist: see <code>curl</code>, <code>python-requests</code>",
-    "link": "https://dev.to/logtriage/why-a-curl-user-agent-isnt-automatically-malicious-393a",
-    "topic": "general"
-  },
-  {
-    "title": "The Four Questions I Ask Before Any Team Gets LLM Access: Cost, Safety, Access, Audit",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>LLM governance comes down to four questions per request: what's it costing (FinOps), is it safe (guardrai",
-    "link": "https://dev.to/sahajmeet_kaur_/the-four-questions-i-ask-before-any-team-gets-llm-access-cost-safety-access-audit-7og",
     "topic": "general"
   }
 ]
