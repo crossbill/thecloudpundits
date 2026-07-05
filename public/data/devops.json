@@ -1,50 +1,50 @@
 [
   {
-    "title": "Stop Letting .env Files Break Your Deployments",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/shashidharlbs/stop-letting-env-files-break-your-deployments-15n2",
-    "topic": "general"
-  },
-  {
-    "title": "I Built an AI That Forgets on Purpose \u2014 and It Made It Smarter",
-    "desc": "<p><em>It's 3am, your site is down, and your AI confidently tells you to fix a server that was deleted a month ago. Here's why I spent a wee",
-    "link": "https://dev.to/vinayaksonthalia/i-built-an-ai-that-forgets-on-purpose-and-it-made-it-smarter-5ci",
-    "topic": "general"
-  },
-  {
-    "title": "VPC Flow Logs Beyond the Console: Finding Real Answers with Athena",
-    "desc": "<p>A few months ago someone asked me a question that sounds simple: \"can you tell me everything that talked to this database in the last 48 ",
-    "link": "https://dev.to/rgtrovao/vpc-flow-logs-beyond-the-console-finding-real-answers-with-athena-2gkh",
-    "topic": "general"
-  },
-  {
-    "title": "I Gave My 3AM Self a Memory: Building on Cognee's Memory Lifecycle",
-    "desc": "<p>You get paged at 3AM. You fix production half-asleep. By the time the graphs go green, the context is gone.</p>\n\n<p>I built <strong>Black",
-    "link": "https://dev.to/devanshu_goyal_16893698bd/i-gave-my-3am-self-a-memory-building-on-cognees-memory-lifecycle-di5",
-    "topic": "general"
-  },
-  {
-    "title": "The Helm Chart Is a Platform Contract \u2014 Not a Template",
-    "desc": "<p>Early in building our cloud infrastructure, we had a problem nobody talks about \u2014 because it happens so slowly you almost don't notice it",
-    "link": "https://dev.to/sanjay-sankhla/the-helm-chart-is-a-platform-contract-not-a-template-1df2",
-    "topic": "general"
-  },
-  {
-    "title": "How Docker Uses cgroups (a /sys/fs/cgroup Walkthrough)",
-    "desc": "<p>At some point Docker stops feeling like magic. You run:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell",
-    "link": "https://dev.to/henryosei/how-docker-uses-cgroups-a-sysfscgroup-walkthrough-3c2m",
-    "topic": "docker"
-  },
-  {
-    "title": "Deploying Preview Environments on AWS with PR Labels",
-    "desc": "<p>Preview environments\u2014temporary, isolated deployments of your code\u2014have become essential for modern development workflows. They let you te",
-    "link": "https://dev.to/sohanaakbar7/deploying-preview-environments-on-aws-with-pr-labels-50gg",
+    "title": "Virtual Machines Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 28 \u2013 Jul 04, 2026",
+    "desc": "<h2>\n  \n  \n  \ud83d\udda5\ufe0f Virtual Machines \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 28 \u2013 Jul 04, 2026 | <strong>Total r",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-28-jul-04-2026-2p57",
     "topic": "aws"
   },
   {
-    "title": "AWS-native Observability for EC2 v\u1edbi CloudWatch Agent",
-    "desc": "<blockquote>\n<p><strong>View my website:</strong> <a href=\"https://kkloudtarus.net/blog/aws-native-observability-ec2-cloudwatch-agent\" rel=\"",
-    "link": "https://dev.to/truong_an_cornduck/aws-native-observability-for-ec2-voi-cloudwatch-agent-275h",
-    "topic": "aws"
+    "title": "CI Testing Management Tools Compared \u2014 A Hands-On Look at GitHub Actions",
+    "desc": "<h2>\n  \n  \n  Why \"Testing Management Tools\" Matter\n</h2>\n\n<p>Every serious software team eventually asks the same question: how do we make s",
+    "link": "https://dev.to/mauchoquenachoque/ci-testing-management-tools-compared-a-hands-on-look-at-github-actions-3ck4",
+    "topic": "general"
+  },
+  {
+    "title": "Three Lines of Bash Stand Between Your Cron Job and a Silent Outage",
+    "desc": "<p>Three separate incidents taught me the same lesson over about a year. A <code>*/1</code> rsync stacked six copies on a slow disk and drov",
+    "link": "https://dev.to/bashsnippets/three-lines-of-bash-stand-between-your-cron-job-and-a-silent-outage-1pjm",
+    "topic": "general"
+  },
+  {
+    "title": "You hardened your origin and your CDN. Your DNS is still one provider away from going dark.",
+    "desc": "<p>You put the site behind a CDN, locked the origin firewall to the edge ranges, tuned rate limits, and slept better. Then someone floods yo",
+    "link": "https://dev.to/blackneuron/you-hardened-your-origin-and-your-cdn-your-dns-is-still-one-provider-away-from-going-dark-3abk",
+    "topic": "general"
+  },
+  {
+    "title": "FastAPI Just Got Its Own Deployment Platform - And It's One Command",
+    "desc": "<p>I came across: <a href=\"https://fastapicloud.com\" rel=\"noopener noreferrer\">FastAPI Cloud</a>.</p>\n\n<p>Built by the same team behind Fast",
+    "link": "https://dev.to/navas_herbert/fastapi-just-got-its-own-deployment-platform-and-its-one-command-3i8e",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI agent checks its own work. That's not a loop, that's a confident intern with a cron job.",
+    "desc": "<p><strong>TL;DR:</strong> a loop is memory + rules + verify + schedule. Most agent setups have three of the four. The one they skip is a se",
+    "link": "https://dev.to/malik_chohra/your-ai-agent-checks-its-own-work-thats-not-a-loop-thats-a-confident-intern-with-a-cron-job-4hoo",
+    "topic": "general"
+  },
+  {
+    "title": "Sandboxing untrusted agent code with gVisor costs ~200ms per cold start. Blocking syscalls instead of emulating them costs ~8ms",
+    "desc": "<p>You are running code you did not write. It might be an AI agent executing an<br />\nLLM's output, a CI job running <code>npm install</code",
+    "link": "https://dev.to/dipankar_sarkar/sandboxing-untrusted-agent-code-with-gvisor-costs-200ms-per-cold-start-blocking-syscalls-instead-2500",
+    "topic": "general"
+  },
+  {
+    "title": "Your Kubernetes Controller Is Silently Dead and Nobody Knows",
+    "desc": "<p>Kubernetes controllers built on client-go have a silent failure mode that's easy to miss. When a ServiceAccount token goes stale, your co",
+    "link": "https://dev.to/reyshazni17/your-kubernetes-controller-is-silently-dead-and-nobody-knows-2fml",
+    "topic": "kubernetes"
   }
 ]
