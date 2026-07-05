@@ -1,5 +1,35 @@
 [
   {
+    "title": "Your Self-Hosted LLM Has No Auth by Default. One Config Line Decides Who Runs It.",
+    "desc": "<p>A self-hosted LLM backend signals its exposure the moment its config binds to all interfaces, and you can read that indicator from the te",
+    "link": "https://dev.to/alex_spinov/your-self-hosted-llm-has-no-auth-by-default-one-config-line-decides-who-runs-it-1bib",
+    "topic": "general"
+  },
+  {
+    "title": "Building an Online Anomaly Scoring Sidecar for Grafana Alerts",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/05/building-an-online-anomaly-scoring-sidecar-for-grafana-alerts\" rel",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/building-an-online-anomaly-scoring-sidecar-for-grafana-alerts-3ckj",
+    "topic": "general"
+  },
+  {
+    "title": "Full-Link Monitoring Tools: OTLP Ingest and Unified APM in Practice",
+    "desc": "<p>When teams evaluate <strong>full-link monitoring tools</strong>, the same questions keep coming up: Is Jaeger enough? Do we need SkyWalki",
+    "link": "https://dev.to/logan_zhang_8ca3575087c5b/full-link-monitoring-tools-otlp-ingest-and-unified-apm-in-practice-2ol7",
+    "topic": "general"
+  },
+  {
+    "title": "The easiest way to download TikToks without the watermark",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/tiksssnettiktok/the-easiest-way-to-download-tiktoks-without-the-watermark-2if4",
+    "topic": "general"
+  },
+  {
+    "title": "Temporal vs n8n vs Airflow Webhook Automation",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
+    "link": "https://dev.to/chasebot/temporal-vs-n8n-vs-airflow-webhook-automation-4loh",
+    "topic": "general"
+  },
+  {
     "title": "When TLS 1.3-only broke everything behind Akamai",
     "desc": "<p>The alert wasn't subtle. Requests just stopped hitting our backend nginx box. Internal traffic from our own domains kept flowing, but any",
     "link": "https://dev.to/mridul_it_is/when-tls-13-only-broke-everything-behind-akamai-j3e",
@@ -15,36 +45,6 @@
     "title": "The Four Questions I Ask Before Any Team Gets LLM Access: Cost, Safety, Access, Audit",
     "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>LLM governance comes down to four questions per request: what's it costing (FinOps), is it safe (guardrai",
     "link": "https://dev.to/sahajmeet_kaur_/the-four-questions-i-ask-before-any-team-gets-llm-access-cost-safety-access-audit-7og",
-    "topic": "general"
-  },
-  {
-    "title": "How to Pick an OpenTelemetry APM Backend in 2026",
-    "desc": "<p>A practical guide to choosing an <strong>OpenTelemetry APM backend</strong> \u00e2\u20ac\u201d evaluation criteria, common open-source patterns, and a h",
-    "link": "https://dev.to/logan_zhang_8ca3575087c5b/how-to-pick-an-opentelemetry-apm-backend-in-2026-2ecg",
-    "topic": "general"
-  },
-  {
-    "title": "Global Phone & Email Verification - Built Smarter. Priced Better.",
-    "desc": "<p>\ud83c\udf0d Global Phone & Email Verification - Built Smarter. Priced Better.</p>\n\n<p>Introducing ApexVerify's custom abstract shared verification ",
-    "link": "https://dev.to/apexverify/global-phone-email-verification-built-smarter-priced-better-42l4",
-    "topic": "general"
-  },
-  {
-    "title": "A Better CI Check for AWS Approval Emails",
-    "desc": "<p>A field-tested AWS CI/CD pattern for validating approval emails with Docker and a disposable email address before release.</p>\n\n<p>Approv",
-    "link": "https://dev.to/jasonmills94/a-better-ci-check-for-aws-approval-emails-22na",
-    "topic": "aws"
-  },
-  {
-    "title": "Automating Security in Python: A Hands-On Guide to SAST with Bandit and GitHub Actions",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In today's fast-paced development cycles, security can no longer be an afterthought. Static Application ",
-    "link": "https://dev.to/cristhiancarlosmamanic/automating-security-in-python-a-hands-on-guide-to-sast-with-bandit-and-github-actions-3pn6",
-    "topic": "secops"
-  },
-  {
-    "title": "Why Automation is Revolutionizing Software Engineering",
-    "desc": "<p>Imagine having more time to innovate instead of wrestling with repetitive tasks. Automation in software engineering is making this a real",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/why-automation-is-revolutionizing-software-engineering-2462",
     "topic": "general"
   }
 ]
