@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Your Microservices Need Circuit Breakers (And How to Add Them)",
-    "desc": "<h2>\n  \n  \n  The Cascading Failure That Took Down Everything\n</h2>\n\n<p>Our payment service went down for 3 minutes. No big deal, right? Exce",
-    "link": "https://dev.to/samson_tanimawo/why-your-microservices-need-circuit-breakers-and-how-to-add-them-1ee8",
+    "title": "Testing Management Tools Comparative Study",
+    "desc": "<p>Public example repository: <a href=\"https://github.com/Abel-GG-777/testing-management-tools-comparison\" rel=\"noopener noreferrer\">https:/",
+    "link": "https://dev.to/abel_fernandopacompiaor/testing-management-tools-comparative-study-32i5",
     "topic": "general"
   },
   {
-    "title": "Meet checkOwners: confidence-scored CODEOWNERS from your git history",
-    "desc": "<p>\"Who owns this code?\" is a question most teams answer with folklore. GitHub's CODEOWNERS file is supposed to answer it, but it gets writt",
-    "link": "https://dev.to/smusali/meet-checkowners-confidence-scored-codeowners-from-your-git-history-4280",
+    "title": "Add a post-quantum readiness gate to your CI in 5 lines",
+    "desc": "<p>Your codebase almost certainly relies on RSA and elliptic-curve cryptography \u2014 TLS, JWTs, SSH keys, signed tokens. All of it is breakable",
+    "link": "https://dev.to/brandonsellam/add-a-post-quantum-readiness-gate-to-your-ci-in-5-lines-2bg3",
     "topic": "general"
   },
   {
-    "title": "A write is not just a write",
-    "desc": "<p>The point became clear to me while working on the GitHub adapter (a more or less simple GitHub gateway for AI agents creating PRs).</p>\n\n",
-    "link": "https://dev.to/davidloibner/a-write-is-not-just-a-write-34b1",
+    "title": "Why You Don't Need 5 Database Admin Tools Anymore",
+    "desc": "<p>Your data stack probably looks something like this: PostgreSQL for transactional data, MongoDB for documents, Redis for caching, and mayb",
+    "link": "https://dev.to/biz59_support/why-you-dont-need-5-database-admin-tools-anymore-49el",
     "topic": "general"
   },
   {
-    "title": "I Thought I Understood Containers. Then I Tried Building One.",
-    "desc": "<p>I had just aced my mentor\u2019s Docker exam, so of course I thought I understood containers.</p>\n\n<p>I had said all the right words: namespac",
-    "link": "https://dev.to/henryosei/i-thought-i-understood-containers-then-i-tried-building-one-5a80",
+    "title": "Osloq \u2014 \u0e43\u0e2b\u0e49 AI reproduction \u0e40\u0e27\u0e25\u0e32\u0e40\u0e01\u0e34\u0e14 bug",
+    "desc": "<h2>\n  \n  \n  Osloq \u2014 \u0e43\u0e0a\u0e49 AI \u0e2b\u0e32\u0e2a\u0e32\u0e40\u0e2b\u0e15\u0e38 bug \u0e41\u0e17\u0e19\n</h2>\n\n<p>\u0e40\u0e27\u0e25\u0e32 AI coding tools \u0e40\u0e2a\u0e19\u0e2d\u0e08\u0e30 \"fix bug \u0e43\u0e2b\u0e49\" \u2014 \u0e40\u0e23\u0e32\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e01\u0e14 Accept \u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48\u0e01\u0e47 Reject \u0e2a\u0e2d\u0e07\u0e1b\u0e38",
+    "link": "https://dev.to/gophernment/osloq-aih-ai-reproduction-ewlaaekid-bug-1blp",
+    "topic": "general"
+  },
+  {
+    "title": "Ch\u1ea1y Docker Microservices tr\u00ean Ryzen AI 9 HX 370",
+    "desc": "<p><em>B\u00e0i vi\u1ebft n\u00e0y l\u00e0 b\u1ea3n t\u00f3m t\u1eaft k\u1ef9 thu\u1eadt ph\u00e2n t\u00edch hi\u1ec7u n\u0103ng ch\u1ea1y Docker. B\u1ea1n c\u00f3 th\u1ec3 xem chi ti\u1ebft b\u00e0i \u0111\u00e1nh gi\u00e1 ph\u1ea7n c\u1ee9ng g\u1ed1c t\u1ea1i <a href=",
+    "link": "https://dev.to/hungphatlaptop/chay-docker-microservices-tren-ryzen-ai-9-hx-370-3kjo",
     "topic": "docker"
   },
   {
-    "title": "C\u00f3mo validar correos de rollback en Kubernetes",
-    "desc": "<p>Cuando un despliegue falla y el rollback entra en juego, el correo de notificaci\u00f3n suele ser la primera se\u00f1al que ve el equipo fuera de l",
-    "link": "https://dev.to/alexcarteruk/como-validar-correos-de-rollback-en-kubernetes-p2b",
-    "topic": "kubernetes"
+    "title": "\u30102026\u3011Datadog \u4ee3\u66ff\u306e\u4f4e\u4fa1\u683c\u76e3\u8996SaaS\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>Grafana Cloud</strong> \u306b\u4e57\u308a\u63db\u3048\u308b\u3079\u304d\u3002</p>\n\n<p>Prometheus/Loki/Tempo\u306e\u30a8\u30b3\u30b7\u30b9\u30c6\u30e0\u3092\u305d\u306e\u307e\u307e\u4f7f\u3048\u308b\u305f\u3081\u3001\u65e2\u5b58\u306e\u30a4\u30f3\u30d5\u30e9\u8cc7\u7523\u3092\u6368\u3066\u305a\u306b\u6e08\u3080\u3002\u7121",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-datadog-dai-ti-nodi-jia-ge-jian-shi-saasliao-jin-yi-xing-kosutodexuan-bu-20mo",
+    "topic": "general"
   },
   {
-    "title": "Terraform vs CloudFormation: The Matrix of IaC",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Look, I\u2019ve been there. You\u2019re spinning up a new environment for a side\u2011project, and you ",
-    "link": "https://dev.to/timevolt/terraform-vs-cloudformation-the-matrix-of-iac-4ggd",
-    "topic": "terraform"
+    "title": "\u30102026\u3011Mailchimp \u4ee3\u66ff\u306e\u30c8\u30e9\u30f3\u30b6\u30af\u30b7\u30e7\u30f3\u30e1\u30fc\u30ebAPI\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>Resend</strong> \u306b\u4e57\u308a\u63db\u3048\u308b\u3079\u304d\u3002</p>\n\n<p><a href=\"https://www.amazon.co.jp/s?k=React%20%E5%85%A5%E9%96%80",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-mailchimp-dai-ti-notoranzakusiyonmeruapiliao-jin-yi-xing-kosutodexuan-bu-2djj",
+    "topic": "general"
   },
   {
-    "title": "I Cut My AWS Hosting Bill from ~$45/mo to ~$8 by Consolidating Three Apps on One Lightsail Box",
-    "desc": "<p><em>How I moved portfolio, krogerCart, and chat-bot off separate EC2 instances onto a single $5 Lightsail instance with Docker and Caddy ",
-    "link": "https://dev.to/david_shibley/i-cut-my-aws-hosting-bill-from-45mo-to-8-by-consolidating-three-apps-on-one-lightsail-box-53ga",
-    "topic": "aws"
-  },
-  {
-    "title": "Is anyone using AWS CodePipeline for the complete CI/CD pipeline?",
-    "desc": "",
-    "link": "https://dev.to/arnabadhikar/is-anyone-using-aws-codepipeline-for-the-complete-cicd-pipelineaws-cicd-cloudcomputing-3nfk",
-    "topic": "aws"
+    "title": "\u30102026\u3011Auth0 \u4ee3\u66ff (Clerk/Supabase Auth/WorkOS)\uff1a\u6599\u91d1\u30fb\u79fb\u884c\u30b3\u30b9\u30c8\u3067\u9078\u3076",
+    "desc": "<h2>\n  \n  \n  \u7d50\u8ad6\uff08\u304a\u3059\u3059\u30811\u3064\uff09\n</h2>\n\n<p><strong>\u4e57\u308a\u63db\u3048\u5148\u306e\u63a8\u85a6\uff1aClerk</strong></p>\n\n<p>Auth0 \u304b\u3089\u306e\u79fb\u884c\u5148\u3068\u3057\u3066\u3001\u5927\u534a\u306e SPA\uff0fNext.js \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u306f <strong>Clerk</strong> \u304c\u6700",
+    "link": "https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-3coa",
+    "topic": "general"
   }
 ]
