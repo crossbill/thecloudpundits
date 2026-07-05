@@ -1,50 +1,50 @@
 [
   {
-    "title": "We Built LayerX: A Modern Alternative to Dive",
+    "title": "Stop Letting .env Files Break Your Deployments",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/deveshctl/we-built-layerx-a-modern-alternative-to-dive-25oj",
+    "link": "https://dev.to/shashidharlbs/stop-letting-env-files-break-your-deployments-15n2",
     "topic": "general"
   },
   {
-    "title": "Why Snap CD: AI on a Leash",
-    "desc": "<p>AI coding agents are showing up in infrastructure workflows. They can diagnose a failed <code>terraform apply</code>, summarise what chan",
-    "link": "https://dev.to/karlschriek/why-snap-cd-ai-on-a-leash-396k",
+    "title": "I Built an AI That Forgets on Purpose \u2014 and It Made It Smarter",
+    "desc": "<p><em>It's 3am, your site is down, and your AI confidently tells you to fix a server that was deleted a month ago. Here's why I spent a wee",
+    "link": "https://dev.to/vinayaksonthalia/i-built-an-ai-that-forgets-on-purpose-and-it-made-it-smarter-5ci",
     "topic": "general"
   },
   {
-    "title": "Top 5 Open Source APM Tools in 2026",
-    "desc": "<p>Choosing among <strong>open source APM tools</strong> in 2026 means matching architecture to your OpenTelemetry strategy, on-call workflo",
-    "link": "https://dev.to/logan_zhang_8ca3575087c5b/top-5-open-source-apm-tools-in-2026-1437",
+    "title": "VPC Flow Logs Beyond the Console: Finding Real Answers with Athena",
+    "desc": "<p>A few months ago someone asked me a question that sounds simple: \"can you tell me everything that talked to this database in the last 48 ",
+    "link": "https://dev.to/rgtrovao/vpc-flow-logs-beyond-the-console-finding-real-answers-with-athena-2gkh",
     "topic": "general"
   },
   {
-    "title": "Best Hiit Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/best-hiit-timer-what-we-learned-building-random-tactical-timer-gho",
+    "title": "I Gave My 3AM Self a Memory: Building on Cognee's Memory Lifecycle",
+    "desc": "<p>You get paged at 3AM. You fix production half-asleep. By the time the graphs go green, the context is gone.</p>\n\n<p>I built <strong>Black",
+    "link": "https://dev.to/devanshu_goyal_16893698bd/i-gave-my-3am-self-a-memory-building-on-cognees-memory-lifecycle-di5",
     "topic": "general"
   },
   {
-    "title": "Engineering Confidence: The Science Behind Brabic's Best-Selling Bras",
-    "desc": "<p>When you wear a <a href=\"https://www.brabic.com/\" rel=\"noopener noreferrer\">Brabic bra</a>, you're not just wearing a piece of fabric. Yo",
-    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/engineering-confidence-the-science-behind-brabics-best-selling-bras-4egc",
+    "title": "The Helm Chart Is a Platform Contract \u2014 Not a Template",
+    "desc": "<p>Early in building our cloud infrastructure, we had a problem nobody talks about \u2014 because it happens so slowly you almost don't notice it",
+    "link": "https://dev.to/sanjay-sankhla/the-helm-chart-is-a-platform-contract-not-a-template-1df2",
     "topic": "general"
   },
   {
-    "title": "From Manual Deployments to Infrastructure as Code with Azure ARM Templates (Part 2)",
-    "desc": "<p><strong>Introduction</strong></p>\n\n<p>In my previous article, I shared my experience getting started with Microsoft Azure after building ",
-    "link": "https://dev.to/smarty_joy/from-manual-deployments-to-infrastructure-as-code-with-azure-arm-templates-part-2-2de6",
-    "topic": "azure"
-  },
-  {
-    "title": "Debugging Containers From the Terminal: A Practical Docker CLI Workflow",
-    "desc": "<p>A container that's misbehaving is one of those problems where your instinct works against you. The pressure pushes you toward the dramati",
-    "link": "https://dev.to/jjoyneriv/debugging-containers-from-the-terminal-a-practical-docker-cli-workflow-d18",
+    "title": "How Docker Uses cgroups (a /sys/fs/cgroup Walkthrough)",
+    "desc": "<p>At some point Docker stops feeling like magic. You run:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell",
+    "link": "https://dev.to/henryosei/how-docker-uses-cgroups-a-sysfscgroup-walkthrough-3c2m",
     "topic": "docker"
   },
   {
-    "title": "Soul in Motion \u2014 6:59 PM | 2026-07-05",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Locked down backend security with custom monitoring and alerting dashboards</li>\n<li>Improved frontend us",
-    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-659-pm-2026-07-05-18j2",
-    "topic": "general"
+    "title": "Deploying Preview Environments on AWS with PR Labels",
+    "desc": "<p>Preview environments\u2014temporary, isolated deployments of your code\u2014have become essential for modern development workflows. They let you te",
+    "link": "https://dev.to/sohanaakbar7/deploying-preview-environments-on-aws-with-pr-labels-50gg",
+    "topic": "aws"
+  },
+  {
+    "title": "AWS-native Observability for EC2 v\u1edbi CloudWatch Agent",
+    "desc": "<blockquote>\n<p><strong>View my website:</strong> <a href=\"https://kkloudtarus.net/blog/aws-native-observability-ec2-cloudwatch-agent\" rel=\"",
+    "link": "https://dev.to/truong_an_cornduck/aws-native-observability-for-ec2-voi-cloudwatch-agent-275h",
+    "topic": "aws"
   }
 ]
