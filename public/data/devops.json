@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Let a Bedrock Agent Watch My AWS Bill for 30 Days. Here Is Everything It Caught, Missed, and Made Up",
-    "desc": "<p>Ciao Amici \ud83d\udc4b</p>\n\n<p>Pull up a chair, because I have a story for you. It involves a forgotten GPU endpoint, a robot accountant I built ov",
-    "link": "https://dev.to/aws-builders/i-let-a-bedrock-agent-watch-my-aws-bill-for-30-days-here-is-everything-it-caught-missed-and-made-1lde",
-    "topic": "aws"
-  },
-  {
-    "title": "Download Stunt Race NSP Full Game Latest 2026",
-    "desc": "<h1>\n  \n  \n  Download Stunt Race NSP Full Game Latest 2026\n</h1>\n\n<p>Stunt Race NSP Full Game delivers a fast-paced arcade driving experienc",
-    "link": "https://dev.to/suppleair_data_5e300edce4/download-stunt-race-nsp-full-game-latest-2026-ccg",
+    "title": "The date format that broke my production AI agent (and the boring fix)",
+    "desc": "<p>The demo was clean. Forty-three test cases, all passing. The agent took a structured input, processed it, wrote the result downstream. I ",
+    "link": "https://dev.to/kimlike/the-date-format-that-broke-my-production-ai-agent-and-the-boring-fix-1281",
     "topic": "general"
   },
   {
-    "title": "Seguran\u00e7a e Qualidade na Pr\u00e1tica: o papel do SAST, DAST e dos testes automatizados no ciclo de vida do software moderno Por Eduardo \u2014 ADS, UNIDEP",
-    "desc": "<p><strong>O chamado que ningu\u00e9m quer atender</strong></p>\n\n<p>Imagine receber, numa sexta-feira \u00e0 tarde, a seguinte mensagem no Slack da em",
-    "link": "https://dev.to/edulovatelw/seguranca-e-qualidade-na-pratica-o-papel-do-sast-dast-e-dos-testes-automatizados-no-ciclo-de-vida-46dc",
-    "topic": "general"
+    "title": "Docker vs Kubernetes: Do You Actually Need an Orchestrator Yet?",
+    "desc": "<p>\"Docker vs Kubernetes\" is one of those framings that quietly sends people down the wrong road. It sounds like a choice between two compet",
+    "link": "https://dev.to/jjoyneriv/docker-vs-kubernetes-do-you-actually-need-an-orchestrator-yet-57k0",
+    "topic": "kubernetes"
   },
   {
-    "title": "Verify your Composer dependencies' provenance",
-    "desc": "<p>When the xz backdoor landed in 2024, it was a wake-up call for every package<br />\necosystem: the code you install is only as trustworthy",
-    "link": "https://dev.to/k2gl/verify-your-composer-dependencies-provenance-45je",
-    "topic": "general"
+    "title": "From Docker Compose to Kubernetes: What Actually Changes",
+    "desc": "<p>If you're comfortable with <code>docker compose up</code>, you already understand more of Kubernetes than you think. Compose taught you t",
+    "link": "https://dev.to/jjoyneriv/from-docker-compose-to-kubernetes-what-actually-changes-4ga9",
+    "topic": "kubernetes"
   },
   {
-    "title": "Can your AI agent actually manage ML infrastructure?",
-    "desc": "<p>I\u2019ve spent enough time in production environments to know that 'chatting with an AI' is a useless metric if the AI can't touch the actual",
-    "link": "https://dev.to/renato_marinho/can-your-ai-agent-actually-manage-ml-infrastructure-2fjp",
-    "topic": "general"
+    "title": "Docker Containerization: Turning 'Works on My Machine' Into a Reproducible Artifact",
+    "desc": "<p>\"Works on my machine\" is one of the oldest jokes in software, and it stopped being funny the first time it cost me a weekend. The code wa",
+    "link": "https://dev.to/jjoyneriv/docker-containerization-turning-works-on-my-machine-into-a-reproducible-artifact-4h00",
+    "topic": "docker"
   },
   {
-    "title": "I gave my AI agent's memory a CI/CD pipeline",
-    "desc": "<h1>\n  \n  \n  \ud83e\udde0 I gave my AI agent's memory a CI/CD pipeline\n</h1>\n\n<h3>\n  \n  \n  Building <strong>SOBER</strong> \u2014 tests, diff, bisect, and g",
-    "link": "https://dev.to/abhishek_gupta_b7379457d6/i-gave-my-ai-agents-memory-a-cicd-pipeline-56hf",
-    "topic": "general"
+    "title": "Docker Containerization Habits That Keep Production Calm",
+    "desc": "<p>Most of the container incidents I've helped clean up didn't come from anything exotic. They came from small shortcuts that felt reasonabl",
+    "link": "https://dev.to/jjoyneriv/docker-containerization-habits-that-keep-production-calm-3g63",
+    "topic": "docker"
   },
   {
-    "title": "Virtual Machines Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Jun 28 \u2013 Jul 04, 2026",
-    "desc": "<h2>\n  \n  \n  \ud83d\udda5\ufe0f Virtual Machines \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Jun 28 \u2013 Jul 04, 2026 | <strong>Total r",
-    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-28-jul-04-2026-2p57",
-    "topic": "aws"
+    "title": "What Is a Docker Image, Really? Layers, Caching, and Size",
+    "desc": "<p>Most people learn Docker by copying a <code>Dockerfile</code> that works, shipping it, and moving on. That's fine until the day a build t",
+    "link": "https://dev.to/jjoyneriv/what-is-a-docker-image-really-layers-caching-and-size-3cca",
+    "topic": "docker"
   },
   {
-    "title": "CI Testing Management Tools Compared \u2014 A Hands-On Look at GitHub Actions",
-    "desc": "<h2>\n  \n  \n  Why \"Testing Management Tools\" Matter\n</h2>\n\n<p>Every serious software team eventually asks the same question: how do we make s",
-    "link": "https://dev.to/mauchoquenachoque/ci-testing-management-tools-compared-a-hands-on-look-at-github-actions-3ck4",
-    "topic": "general"
+    "title": "Why Your Docker Images Are Huge (and How I Slim Them Down)",
+    "desc": "<p>A 1.2 GB image for a service that's a few megabytes of compiled code is one of those things everyone accepts until someone actually looks",
+    "link": "https://dev.to/jjoyneriv/why-your-docker-images-are-huge-and-how-i-slim-them-down-8oa",
+    "topic": "docker"
+  },
+  {
+    "title": "The Docker CLI Commands I Actually Use Every Day",
+    "desc": "<p>I've watched a lot of engineers reach for a GUI or a fresh Google search every time they need to do something with Docker. Nothing wrong ",
+    "link": "https://dev.to/jjoyneriv/the-docker-cli-commands-i-actually-use-every-day-58i3",
+    "topic": "docker"
   }
 ]
