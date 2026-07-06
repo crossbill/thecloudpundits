@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kafka addressing & VPC peering",
-    "desc": "<p>If you've ever tried to connect a Kafka client that lives in a different VPC than the cluster, you've probably hit this issue where there",
-    "link": "https://dev.to/conduktor/kafka-addressing-vpc-peering-5f3j",
+    "title": "The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs",
+    "desc": "<p>\ud83d\udd11 KeyManager: 3 OpenRouter keys loaded</p>\n\n<h1>\n  \n  \n  The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs\n</h1>\n",
+    "link": "https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-fb8",
     "topic": "general"
   },
   {
-    "title": "SaaS/B2B Devs wanted!",
-    "desc": "<p>Hi, My name is Emmanuel,</p>\n\n<p>I\u2019m 21, I have no coding or programming knowledge whatsoever, sure I'm willing to learn, but I'm also lo",
-    "link": "https://dev.to/emmanuel_awusu_9b9e825ede/saasb2b-devs-wanted-23eh",
+    "title": "AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code",
+    "desc": "<p>\ud83d\udd11 KeyManager: 3 OpenRouter keys loaded</p>\n\n<h1>\n  \n  \n  AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code\n</h1>\n\n<p>I",
+    "link": "https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-4g3p",
     "topic": "general"
   },
   {
-    "title": "One Block to Force a Default AWS Region Across Every Terragrunt Module",
-    "desc": "<p>A quiet failure mode in multi-module Terragrunt setups: someone copies an existing module to bootstrap a new one, forgets to check the re",
-    "link": "https://dev.to/vincentchabran/one-block-to-force-a-default-aws-region-across-every-terragrunt-module-51ol",
-    "topic": "aws"
-  },
-  {
-    "title": "Renaming Terragrunt Projects Without Migrating State",
-    "desc": "<p>If you've run Terragrunt across more than a handful of modules for a while, you've hit this: you want to reorganize your repo \u2014 rename a ",
-    "link": "https://dev.to/vincentchabran/renaming-terragrunt-projects-without-migrating-state-52jg",
+    "title": "No pipeline, no oil spills",
+    "desc": "<p>At some point in the last decade, shipping a web application started requiring a<br />\nbuild step. Then a second one. Then a config file ",
+    "link": "https://dev.to/smeldr/no-pipeline-no-oil-spills-23oh",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udc27 Linux for DevOps #2: Mastering Users, File Permissions & Process Management",
-    "desc": "<p>Welcome back to Part 2 of my Linux for DevOps series.</p>\n\n<p>In my previous blog, I covered Linux fundamentals, the file system, and ess",
-    "link": "https://dev.to/arpit_mungone_0107/linux-for-devops-2-mastering-users-file-permissions-process-management-1e53",
+    "title": "GitHub Managed Settings vs Ota: Platform Governance vs Execution Governance",
+    "desc": "<p>GitHub Managed Settings and Ota are not competing products.</p>\n\n<p>They govern different layers of software.</p>\n\n<p>GitHub Managed Sett",
+    "link": "https://dev.to/otaready/github-managed-settings-vs-ota-platform-governance-vs-execution-governance-26co",
     "topic": "general"
   },
   {
-    "title": "Monitoring Kubernetes Resource Usage with Prometheus and Grafana",
-    "desc": "<p>Introduction<br />\nRunning applications on Kubernetes is only half the battle. To ensure your workloads remain healthy, scalable, and cos",
-    "link": "https://dev.to/sohamahin/monitoring-kubernetes-resource-usage-with-prometheus-and-grafana-2402",
+    "title": "Secure VM Access Without Public IPs: A Beginner's Guide to Azure Bastion Service for Secure And Efficient VM Access",
+    "desc": "<p><strong>Introduction</strong><br />\nSecurely managing virtual machines is one of the major challenges of cloud engineering. Generally, ad",
+    "link": "https://dev.to/olakunle_makanjuola_92754/secure-vm-access-without-public-ips-a-beginners-guide-to-azure-bastion-service-for-secure-and-1c0h",
+    "topic": "azure"
+  },
+  {
+    "title": "AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code",
+    "desc": "<p>\ud83d\udd11 KeyManager: 3 OpenRouter keys loaded</p>\n\n<h1>\n  \n  \n  AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code\n</h1>\n\n<p>I",
+    "link": "https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-61k",
+    "topic": "general"
+  },
+  {
+    "title": "Before You Paste That Log: A Safer Debugging Habit",
+    "desc": "<p>Debugging is collaborative.</p>\n\n<p>You paste a stack trace into an issue. You send <code>curl -v</code> output to a teammate. You drop a",
+    "link": "https://dev.to/omarh-creator/before-you-paste-that-log-a-safer-debugging-habit-23c4",
+    "topic": "general"
+  },
+  {
+    "title": "Are You Over-Provisioning Your Kubernetes Cluster? The Hidden Cost of Unused Resources",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Imagine renting a large office building for 200 employees, but only 80 people come to work every day. Al",
+    "link": "https://dev.to/nalluri_gowtham_c21a3b06a/are-you-over-provisioning-your-kubernetes-cluster-the-hidden-cost-of-unused-resources-1i6a",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Reverse proxy m\u00ednimo en Rust: enrutar tr\u00e1fico por Host",
-    "desc": "<h1>\n  \n  \n  Reverse proxy m\u00ednimo en Rust: enrutar tr\u00e1fico por Host\n</h1>\n\n<p>Publiqu\u00e9 un nuevo tutorial en <strong>TuCodigoCotidiano</stron",
-    "link": "https://dev.to/tu_codigocotidiano_f173d/reverse-proxy-minimo-en-rust-enrutar-trafico-por-host-1e0l",
-    "topic": "general"
-  },
-  {
-    "title": "Turning Vision Into Ventures",
-    "desc": "<p>Startups don\u2019t succeed on vision alone\u2014they succeed when vision is paired with execution. At Aperture Venture Studio, we co\u2011create compan",
-    "link": "https://dev.to/chigozirim_favour_022bd45/turning-vision-into-ventures-fak",
-    "topic": "general"
   }
 ]
