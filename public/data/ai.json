@@ -1,5 +1,11 @@
 [
   {
+    "title": "\ud83e\udd17 Kernels: Major Updates",
+    "desc": "",
+    "link": "https://huggingface.co/blog/revamped-kernels",
+    "topic": "general"
+  },
+  {
     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "desc": "",
     "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
@@ -39,12 +45,6 @@
     "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
     "desc": "",
     "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "topic": "general"
-  },
-  {
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ffasr-leaderboard",
     "topic": "general"
   }
 ]

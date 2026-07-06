@@ -1,50 +1,50 @@
 [
   {
-    "title": "The deployment permission I deliberately withheld from my AI agents",
-    "desc": "<p>The agent finishes its work at 2am. Snapshot built, preflight checks passed, everything green. Then it files a deploy request and stops.<",
-    "link": "https://dev.to/kimlike/the-deployment-permission-i-deliberately-withheld-from-my-ai-agents-5b54",
+    "title": "Inside AIEOS: AI Can Write the Spec. It Can't Approve It.",
+    "desc": "<p>Ask Claude for a system architecture document. You'll get one. It'll have the right sections, confident prose, a diagram, tradeoffs that ",
+    "link": "https://dev.to/todd_linnertz_871a076f68e/inside-aieos-ai-can-write-the-spec-it-cant-approve-it-3f0",
     "topic": "general"
   },
   {
-    "title": "C\u00f3mo probar correos de handoff en guardias SRE",
-    "desc": "<p>Cuando una guardia cambia de turno, el correo de handoff suele cargar m\u00e1s contexto del que parece. Resume alertas abiertas, pods tocados,",
-    "link": "https://dev.to/alexcarteruk/como-probar-correos-de-handoff-en-guardias-sre-m14",
+    "title": "How We Structured a 5-Agent AI Team for Production (30 Days, Real Costs, What Broke)",
+    "desc": "<h1>\n  \n  \n  How We Structured a 5-Agent AI Team for Production (30 Days, Real Costs, What Broke)\n</h1>\n\n<p>Most \"AI agent team\" tutorials s",
+    "link": "https://dev.to/tryoneteam/how-we-structured-a-5-agent-ai-team-for-production-30-days-real-costs-what-broke-50na",
     "topic": "general"
   },
   {
-    "title": "Defending the Realm: Secrets, SSL, and Firewalls \u2013 A Lord of the Rings Adventure",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I pushed a side\u2011project to a public repo and f",
-    "link": "https://dev.to/timevolt/defending-the-realm-secrets-ssl-and-firewalls-a-lord-of-the-rings-adventure-20mf",
+    "title": "I built an open-source, self-hosted Git + DevOps tool \u2014 Gisia",
+    "desc": "<p>Hey folks \ud83d\udc4b</p>\n\n<p>I've been building an open-source DevOps tool called <strong>Gisia</strong> for a while now, and I figured it was tim",
+    "link": "https://dev.to/okoddcat/i-built-an-open-source-self-hosted-git-devops-tool-gisia-12l1",
     "topic": "general"
   },
   {
-    "title": "Omdaa API Is Now Free Forever \u2014 What Changed and How to Migrate",
-    "desc": "<h1>\n  \n  \n  Omdaa API Is Now Free Forever \u2014 What Changed and How to Migrate\n</h1>\n\n<p>We just shipped the biggest change in Omdaa's history",
-    "link": "https://dev.to/omdaa/omdaa-api-is-now-free-forever-what-changed-and-how-to-migrate-185l",
+    "title": "\ud83d\udd27 Automating KVM QEMU Ubuntu VM provisioning with Ansible made easy",
+    "desc": "<p>Provisioning a KVM QEMU Ubuntu VM without a pre\u2011built image can be faster than cloning an existing disk because QEMU allocates storage la",
+    "link": "https://dev.to/ptp2308/automating-kvm-qemu-ubuntu-vm-provisioning-with-ansible-made-easy-2o7o",
     "topic": "general"
   },
   {
-    "title": "The date format that broke my production AI agent (and the boring fix)",
-    "desc": "<p>The demo was clean. Forty-three test cases, all passing. The agent took a structured input, processed it, wrote the result downstream. I ",
-    "link": "https://dev.to/kimlike/the-date-format-that-broke-my-production-ai-agent-and-the-boring-fix-1281",
+    "title": "Prompt Engineering Was Version 1. Workflow Engineering Is Version 2.",
+    "desc": "<p>For the last two years, developers have been obsessed with one skill.</p>\n\n<p>Prompt engineering.</p>\n\n<p>Write better instructions.</p>\n",
+    "link": "https://dev.to/yash_sonawane25/prompt-engineering-was-version-1-workflow-engineering-is-version-2-me",
     "topic": "general"
   },
   {
-    "title": "Docker vs Kubernetes: Do You Actually Need an Orchestrator Yet?",
-    "desc": "<p>\"Docker vs Kubernetes\" is one of those framings that quietly sends people down the wrong road. It sounds like a choice between two compet",
-    "link": "https://dev.to/jjoyneriv/docker-vs-kubernetes-do-you-actually-need-an-orchestrator-yet-57k0",
-    "topic": "kubernetes"
+    "title": "Enterprise Skill Governance: Why You Need a Skill Registry",
+    "desc": "<p>The recent surge in popularity of large skill repositories highlights a critical shift in the AI agent ecosystem. Developers are no longe",
+    "link": "https://dev.to/fenju_fu/enterprise-skill-governance-why-you-need-a-skill-registry-9e0",
+    "topic": "general"
   },
   {
-    "title": "From Docker Compose to Kubernetes: What Actually Changes",
-    "desc": "<p>If you're comfortable with <code>docker compose up</code>, you already understand more of Kubernetes than you think. Compose taught you t",
-    "link": "https://dev.to/jjoyneriv/from-docker-compose-to-kubernetes-what-actually-changes-4ga9",
-    "topic": "kubernetes"
+    "title": "Giving Your Coding Agent Web Access Without Wrecking Its Context Window",
+    "desc": "<p>Most coding agents get web access the lazy way: a fetch tool that returns raw HTML, a search tool wired straight into the main context, a",
+    "link": "https://dev.to/danmercede/giving-your-coding-agent-web-access-without-wrecking-its-context-window-gi9",
+    "topic": "general"
   },
   {
-    "title": "Docker Containerization: Turning 'Works on My Machine' Into a Reproducible Artifact",
-    "desc": "<p>\"Works on my machine\" is one of the oldest jokes in software, and it stopped being funny the first time it cost me a weekend. The code wa",
-    "link": "https://dev.to/jjoyneriv/docker-containerization-turning-works-on-my-machine-into-a-reproducible-artifact-4h00",
-    "topic": "docker"
+    "title": "\u0110\u1ed9 tin c\u1eady Suspend/Resume Linux tr\u00ean Laptop RTX 5080/5070 Ti",
+    "desc": "<p>B\u00e0i vi\u1ebft n\u00e0y t\u00f3m t\u1eaft c\u1ea5u h\u00ecnh v\u00e0 \u0111\u00e1nh gi\u00e1 kh\u1ea3 n\u0103ng t\u01b0\u01a1ng th\u00edch c\u1ee7a h\u1ec7 \u0111i\u1ec1u h\u00e0nh Linux tr\u00ean c\u00e1c d\u00f2ng laptop gaming cao c\u1ea5p, tham kh\u1ea3o chi ",
+    "link": "https://dev.to/hung_phatlaptop_a651fc86/do-tin-cay-suspendresume-linux-tren-laptop-rtx-50805070-ti-577j",
+    "topic": "general"
   }
 ]
