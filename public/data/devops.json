@@ -1,5 +1,29 @@
 [
   {
+    "title": "The deployment permission I deliberately withheld from my AI agents",
+    "desc": "<p>The agent finishes its work at 2am. Snapshot built, preflight checks passed, everything green. Then it files a deploy request and stops.<",
+    "link": "https://dev.to/kimlike/the-deployment-permission-i-deliberately-withheld-from-my-ai-agents-5b54",
+    "topic": "general"
+  },
+  {
+    "title": "C\u00f3mo probar correos de handoff en guardias SRE",
+    "desc": "<p>Cuando una guardia cambia de turno, el correo de handoff suele cargar m\u00e1s contexto del que parece. Resume alertas abiertas, pods tocados,",
+    "link": "https://dev.to/alexcarteruk/como-probar-correos-de-handoff-en-guardias-sre-m14",
+    "topic": "general"
+  },
+  {
+    "title": "Defending the Realm: Secrets, SSL, and Firewalls \u2013 A Lord of the Rings Adventure",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I pushed a side\u2011project to a public repo and f",
+    "link": "https://dev.to/timevolt/defending-the-realm-secrets-ssl-and-firewalls-a-lord-of-the-rings-adventure-20mf",
+    "topic": "general"
+  },
+  {
+    "title": "Omdaa API Is Now Free Forever \u2014 What Changed and How to Migrate",
+    "desc": "<h1>\n  \n  \n  Omdaa API Is Now Free Forever \u2014 What Changed and How to Migrate\n</h1>\n\n<p>We just shipped the biggest change in Omdaa's history",
+    "link": "https://dev.to/omdaa/omdaa-api-is-now-free-forever-what-changed-and-how-to-migrate-185l",
+    "topic": "general"
+  },
+  {
     "title": "The date format that broke my production AI agent (and the boring fix)",
     "desc": "<p>The demo was clean. Forty-three test cases, all passing. The agent took a structured input, processed it, wrote the result downstream. I ",
     "link": "https://dev.to/kimlike/the-date-format-that-broke-my-production-ai-agent-and-the-boring-fix-1281",
@@ -21,30 +45,6 @@
     "title": "Docker Containerization: Turning 'Works on My Machine' Into a Reproducible Artifact",
     "desc": "<p>\"Works on my machine\" is one of the oldest jokes in software, and it stopped being funny the first time it cost me a weekend. The code wa",
     "link": "https://dev.to/jjoyneriv/docker-containerization-turning-works-on-my-machine-into-a-reproducible-artifact-4h00",
-    "topic": "docker"
-  },
-  {
-    "title": "Docker Containerization Habits That Keep Production Calm",
-    "desc": "<p>Most of the container incidents I've helped clean up didn't come from anything exotic. They came from small shortcuts that felt reasonabl",
-    "link": "https://dev.to/jjoyneriv/docker-containerization-habits-that-keep-production-calm-3g63",
-    "topic": "docker"
-  },
-  {
-    "title": "What Is a Docker Image, Really? Layers, Caching, and Size",
-    "desc": "<p>Most people learn Docker by copying a <code>Dockerfile</code> that works, shipping it, and moving on. That's fine until the day a build t",
-    "link": "https://dev.to/jjoyneriv/what-is-a-docker-image-really-layers-caching-and-size-3cca",
-    "topic": "docker"
-  },
-  {
-    "title": "Why Your Docker Images Are Huge (and How I Slim Them Down)",
-    "desc": "<p>A 1.2 GB image for a service that's a few megabytes of compiled code is one of those things everyone accepts until someone actually looks",
-    "link": "https://dev.to/jjoyneriv/why-your-docker-images-are-huge-and-how-i-slim-them-down-8oa",
-    "topic": "docker"
-  },
-  {
-    "title": "The Docker CLI Commands I Actually Use Every Day",
-    "desc": "<p>I've watched a lot of engineers reach for a GUI or a fresh Google search every time they need to do something with Docker. Nothing wrong ",
-    "link": "https://dev.to/jjoyneriv/the-docker-cli-commands-i-actually-use-every-day-58i3",
     "topic": "docker"
   }
 ]
