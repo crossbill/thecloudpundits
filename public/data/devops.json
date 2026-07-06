@@ -1,50 +1,50 @@
 [
   {
-    "title": "9 AWS IAM Privilege Escalation Methods You Can Check in 5 Minutes",
-    "desc": "<p>Most AWS IAM breaches do not start with a zero-day. They start with a policy that<br />\ngranted one permission too many \u2014 and that single",
-    "link": "https://dev.to/shieldlyio/9-aws-iam-privilege-escalation-methods-you-can-check-in-5-minutes-4n0p",
-    "topic": "aws"
-  },
-  {
-    "title": "Terraform vs. Pulumi in 2026: Which Should You Learn First?",
-    "desc": "<p>If you're getting into infrastructure as code, you hit the same fork in the road I did: Terraform or Pulumi? Both let you define cloud in",
-    "link": "https://dev.to/muskan_bandta/terraform-vs-pulumi-in-2026-which-should-you-learn-first-13m1",
-    "topic": "terraform"
-  },
-  {
-    "title": "Designing a Content Distribution Pipeline \u2014 From Draft to Multi-Platform in Minutes",
-    "desc": "<h1>\n  \n  \n  Designing a Content Distribution Pipeline: From Draft to Multi-Platform in Minutes\n</h1>\n\n<p>If you've ever managed content acr",
-    "link": "https://dev.to/claudia-ve/designing-a-content-distribution-pipeline-from-draft-to-multi-platform-in-minutes-26o0",
+    "title": "Review Kickboxing Rounds: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/review-kickboxing-rounds-what-we-learned-building-random-tactical-timer-2f2a",
     "topic": "general"
   },
   {
-    "title": "ViciDial Disposition Statuses \u2014 Complete Reference & Custom Setup",
-    "desc": "<h1>\n  \n  \n  ViciDial Disposition Statuses \u2014 Complete Reference & Custom Setup\n</h1>\n\n<p><strong>Master ViciDial disposition codes, implemen",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-disposition-statuses-complete-reference-custom-setup-593g",
+    "title": "Understanding Kubernetes RBAC: Roles, RoleBindings, and and Client Certificates",
+    "desc": "<p>One thing I discovered today is that before Kubernetes can decide <strong>what you're allowed to do</strong>, it first needs to know <str",
+    "link": "https://dev.to/oyebobs/understanding-kubernetes-rbac-roles-rolebindings-and-and-client-certificates-d97",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Why your Supabase bill is actually $110/mo \u2014 and what to do about it",
+    "desc": "<p>Supabase advertises a $25/mo Pro plan. That number is real. It is also misleading.</p>\n\n<p>Here is what a production-ready Supabase setup",
+    "link": "https://dev.to/tsushanth/why-your-supabase-bill-is-actually-110mo-and-what-to-do-about-it-3m22",
     "topic": "general"
   },
   {
-    "title": "How to Build a Scalable Fraud Detection Workflow",
-    "desc": "<h2>\n  \n  \n  The Growing Cost of Fraud\n</h2>\n\n<p>Fraudsters never stop innovating. From synthetic identities to deepfake onboarding, every y",
-    "link": "https://dev.to/unmeshed/how-to-build-a-scalable-fraud-detection-workflow-1ino",
+    "title": "Queue Position Estimation Under Partial Order Book Visibility for a Polymarket Trading bot",
+    "desc": "<p>In modern prediction markets and high-frequency trading systems, understanding your true position in the queue is often more important th",
+    "link": "https://dev.to/mateosoul/queue-position-estimation-under-partial-order-book-visibility-for-a-polymarket-trading-bot-13d6",
     "topic": "general"
   },
   {
-    "title": "AI DevOps prompts",
-    "desc": "<blockquote>\n<p><strong>TL;DR</strong> Prompt engineering entered DevOps not as an experiment but as a pressure valve: teams shipping faster",
-    "link": "https://dev.to/zop_8abedcc7e12/ai-devops-prompts-22hc",
+    "title": "Starting DevOps Journey...",
+    "desc": "<p>Today I'm starting my DevOps journey.</p>\n\n<p>No shortcuts. Just learning, building, and showing up every day.</p>\n\n<p>Looking forward to",
+    "link": "https://dev.to/absurd_sapien/starting-devops-journey-25fg",
     "topic": "general"
   },
   {
-    "title": "You Can't Review an Agent. You Can Review a Plan.",
-    "desc": "<p>A harness for AI-era Terraform.</p>\n\n<p>I'm building one. For a while now I've been developing a harness for infrastructure-as-code as a ",
-    "link": "https://dev.to/gyu07/you-cant-review-an-agent-you-can-review-a-plan-5hgp",
+    "title": "AI-Native Development Flow: 4 Months, 153 PRs, Production",
+    "desc": "<p>I joined a used-car export company as the only engineer.</p>\n\n<p>There was no existing codebase. No engineering team. Just a mandate: bui",
+    "link": "https://dev.to/flipslidersand/ai-native-development-flow-4-months-153-prs-production-10j3",
     "topic": "general"
   },
   {
-    "title": "Beyond Chatbots: The Best Kept Secret of Combining AI with IoT for Developers",
-    "desc": "<p>Artificial Intelligence is becoming the heart of modern software development practices. Almost every week sees the emergence of a new lar",
-    "link": "https://dev.to/fathimath_fida_ffbda72c61/beyond-chatbots-the-best-kept-secret-of-combining-ai-with-iot-for-developers-31cb",
+    "title": "#Advantages and Disadvantages of Cloud Computing *Understanding the Benefits and Challenges of Cloud Computing in the Modern Digital Age* ---",
+    "desc": "<p><strong>Introduction</strong><br />\nCloud computing has transformed the way individuals and organizations store, manage, and access data.",
+    "link": "https://dev.to/ayobiojo_ololade_46fc799b/advantages-and-disadvantages-of-cloud-computing-understanding-the-benefits-and-challenges-of-4bol",
     "topic": "general"
+  },
+  {
+    "title": "Container Security for SREs: The Practical Checklist",
+    "desc": "<h2>\n  \n  \n  Security Is Part of Reliability\n</h2>\n\n<p>SREs think about availability, latency, and throughput. But a security breach is just",
+    "link": "https://dev.to/samson_tanimawo/container-security-for-sres-the-practical-checklist-5hm3",
+    "topic": "docker"
   }
 ]

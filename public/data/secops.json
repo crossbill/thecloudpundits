@@ -1,5 +1,23 @@
 [
   {
+    "title": "North Korean Hackers Target Open Source Developers in Supply Chain Attacks",
+    "desc": "<p>The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and informat",
+    "link": "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Proof-of-Concept Exploit Released for Linux \u2018Bad Epoll\u2019 Root Access Vulnerability",
+    "desc": "<p>Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments",
+    "desc": "<p>Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing t",
+    "link": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
+    "topic": "secops"
+  },
+  {
     "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
     "desc": "<p>Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open s",
     "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
@@ -27,24 +45,6 @@
     "title": "Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices",
     "desc": "<p>NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during ",
     "link": "https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/",
-    "topic": "general"
-  },
-  {
-    "title": "Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution",
-    "desc": "<p>The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the u",
-    "link": "https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/",
-    "topic": "aws"
-  },
-  {
-    "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
-    "desc": "<p>Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response.</p>\n<p>The po",
-    "link": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
-    "topic": "secops"
-  },
-  {
-    "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
-    "desc": "<p>As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and ident",
-    "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
     "topic": "general"
   }
 ]

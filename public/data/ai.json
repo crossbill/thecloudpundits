@@ -1,5 +1,11 @@
 [
   {
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "desc": "",
+    "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "topic": "general"
+  },
+  {
     "title": "\ud83e\udd17 Kernels: Major Updates",
     "desc": "",
     "link": "https://huggingface.co/blog/revamped-kernels",
@@ -39,12 +45,6 @@
     "title": "Run a vLLM Server on HF Jobs in One Command",
     "desc": "",
     "link": "https://huggingface.co/blog/vllm-jobs",
-    "topic": "general"
-  },
-  {
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "desc": "",
-    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
     "topic": "general"
   }
 ]
