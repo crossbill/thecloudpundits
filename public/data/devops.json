@@ -1,50 +1,50 @@
 [
   {
-    "title": "Review Kickboxing Rounds: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/review-kickboxing-rounds-what-we-learned-building-random-tactical-timer-2f2a",
+    "title": "Kafka addressing & VPC peering",
+    "desc": "<p>If you've ever tried to connect a Kafka client that lives in a different VPC than the cluster, you've probably hit this issue where there",
+    "link": "https://dev.to/conduktor/kafka-addressing-vpc-peering-5f3j",
     "topic": "general"
   },
   {
-    "title": "Understanding Kubernetes RBAC: Roles, RoleBindings, and and Client Certificates",
-    "desc": "<p>One thing I discovered today is that before Kubernetes can decide <strong>what you're allowed to do</strong>, it first needs to know <str",
-    "link": "https://dev.to/oyebobs/understanding-kubernetes-rbac-roles-rolebindings-and-and-client-certificates-d97",
+    "title": "SaaS/B2B Devs wanted!",
+    "desc": "<p>Hi, My name is Emmanuel,</p>\n\n<p>I\u2019m 21, I have no coding or programming knowledge whatsoever, sure I'm willing to learn, but I'm also lo",
+    "link": "https://dev.to/emmanuel_awusu_9b9e825ede/saasb2b-devs-wanted-23eh",
+    "topic": "general"
+  },
+  {
+    "title": "One Block to Force a Default AWS Region Across Every Terragrunt Module",
+    "desc": "<p>A quiet failure mode in multi-module Terragrunt setups: someone copies an existing module to bootstrap a new one, forgets to check the re",
+    "link": "https://dev.to/vincentchabran/one-block-to-force-a-default-aws-region-across-every-terragrunt-module-51ol",
+    "topic": "aws"
+  },
+  {
+    "title": "Renaming Terragrunt Projects Without Migrating State",
+    "desc": "<p>If you've run Terragrunt across more than a handful of modules for a while, you've hit this: you want to reorganize your repo \u2014 rename a ",
+    "link": "https://dev.to/vincentchabran/renaming-terragrunt-projects-without-migrating-state-52jg",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\udc27 Linux for DevOps #2: Mastering Users, File Permissions & Process Management",
+    "desc": "<p>Welcome back to Part 2 of my Linux for DevOps series.</p>\n\n<p>In my previous blog, I covered Linux fundamentals, the file system, and ess",
+    "link": "https://dev.to/arpit_mungone_0107/linux-for-devops-2-mastering-users-file-permissions-process-management-1e53",
+    "topic": "general"
+  },
+  {
+    "title": "Monitoring Kubernetes Resource Usage with Prometheus and Grafana",
+    "desc": "<p>Introduction<br />\nRunning applications on Kubernetes is only half the battle. To ensure your workloads remain healthy, scalable, and cos",
+    "link": "https://dev.to/sohamahin/monitoring-kubernetes-resource-usage-with-prometheus-and-grafana-2402",
     "topic": "kubernetes"
   },
   {
-    "title": "Why your Supabase bill is actually $110/mo \u2014 and what to do about it",
-    "desc": "<p>Supabase advertises a $25/mo Pro plan. That number is real. It is also misleading.</p>\n\n<p>Here is what a production-ready Supabase setup",
-    "link": "https://dev.to/tsushanth/why-your-supabase-bill-is-actually-110mo-and-what-to-do-about-it-3m22",
+    "title": "Reverse proxy m\u00ednimo en Rust: enrutar tr\u00e1fico por Host",
+    "desc": "<h1>\n  \n  \n  Reverse proxy m\u00ednimo en Rust: enrutar tr\u00e1fico por Host\n</h1>\n\n<p>Publiqu\u00e9 un nuevo tutorial en <strong>TuCodigoCotidiano</stron",
+    "link": "https://dev.to/tu_codigocotidiano_f173d/reverse-proxy-minimo-en-rust-enrutar-trafico-por-host-1e0l",
     "topic": "general"
   },
   {
-    "title": "Queue Position Estimation Under Partial Order Book Visibility for a Polymarket Trading bot",
-    "desc": "<p>In modern prediction markets and high-frequency trading systems, understanding your true position in the queue is often more important th",
-    "link": "https://dev.to/mateosoul/queue-position-estimation-under-partial-order-book-visibility-for-a-polymarket-trading-bot-13d6",
+    "title": "Turning Vision Into Ventures",
+    "desc": "<p>Startups don\u2019t succeed on vision alone\u2014they succeed when vision is paired with execution. At Aperture Venture Studio, we co\u2011create compan",
+    "link": "https://dev.to/chigozirim_favour_022bd45/turning-vision-into-ventures-fak",
     "topic": "general"
-  },
-  {
-    "title": "Starting DevOps Journey...",
-    "desc": "<p>Today I'm starting my DevOps journey.</p>\n\n<p>No shortcuts. Just learning, building, and showing up every day.</p>\n\n<p>Looking forward to",
-    "link": "https://dev.to/absurd_sapien/starting-devops-journey-25fg",
-    "topic": "general"
-  },
-  {
-    "title": "AI-Native Development Flow: 4 Months, 153 PRs, Production",
-    "desc": "<p>I joined a used-car export company as the only engineer.</p>\n\n<p>There was no existing codebase. No engineering team. Just a mandate: bui",
-    "link": "https://dev.to/flipslidersand/ai-native-development-flow-4-months-153-prs-production-10j3",
-    "topic": "general"
-  },
-  {
-    "title": "#Advantages and Disadvantages of Cloud Computing *Understanding the Benefits and Challenges of Cloud Computing in the Modern Digital Age* ---",
-    "desc": "<p><strong>Introduction</strong><br />\nCloud computing has transformed the way individuals and organizations store, manage, and access data.",
-    "link": "https://dev.to/ayobiojo_ololade_46fc799b/advantages-and-disadvantages-of-cloud-computing-understanding-the-benefits-and-challenges-of-4bol",
-    "topic": "general"
-  },
-  {
-    "title": "Container Security for SREs: The Practical Checklist",
-    "desc": "<h2>\n  \n  \n  Security Is Part of Reliability\n</h2>\n\n<p>SREs think about availability, latency, and throughput. But a security breach is just",
-    "link": "https://dev.to/samson_tanimawo/container-security-for-sres-the-practical-checklist-5hm3",
-    "topic": "docker"
   }
 ]
