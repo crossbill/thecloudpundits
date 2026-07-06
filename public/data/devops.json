@@ -1,50 +1,50 @@
 [
   {
-    "title": "Inside AIEOS: AI Can Write the Spec. It Can't Approve It.",
-    "desc": "<p>Ask Claude for a system architecture document. You'll get one. It'll have the right sections, confident prose, a diagram, tradeoffs that ",
-    "link": "https://dev.to/todd_linnertz_871a076f68e/inside-aieos-ai-can-write-the-spec-it-cant-approve-it-3f0",
+    "title": "9 AWS IAM Privilege Escalation Methods You Can Check in 5 Minutes",
+    "desc": "<p>Most AWS IAM breaches do not start with a zero-day. They start with a policy that<br />\ngranted one permission too many \u2014 and that single",
+    "link": "https://dev.to/shieldlyio/9-aws-iam-privilege-escalation-methods-you-can-check-in-5-minutes-4n0p",
+    "topic": "aws"
+  },
+  {
+    "title": "Terraform vs. Pulumi in 2026: Which Should You Learn First?",
+    "desc": "<p>If you're getting into infrastructure as code, you hit the same fork in the road I did: Terraform or Pulumi? Both let you define cloud in",
+    "link": "https://dev.to/muskan_bandta/terraform-vs-pulumi-in-2026-which-should-you-learn-first-13m1",
+    "topic": "terraform"
+  },
+  {
+    "title": "Designing a Content Distribution Pipeline \u2014 From Draft to Multi-Platform in Minutes",
+    "desc": "<h1>\n  \n  \n  Designing a Content Distribution Pipeline: From Draft to Multi-Platform in Minutes\n</h1>\n\n<p>If you've ever managed content acr",
+    "link": "https://dev.to/claudia-ve/designing-a-content-distribution-pipeline-from-draft-to-multi-platform-in-minutes-26o0",
     "topic": "general"
   },
   {
-    "title": "How We Structured a 5-Agent AI Team for Production (30 Days, Real Costs, What Broke)",
-    "desc": "<h1>\n  \n  \n  How We Structured a 5-Agent AI Team for Production (30 Days, Real Costs, What Broke)\n</h1>\n\n<p>Most \"AI agent team\" tutorials s",
-    "link": "https://dev.to/tryoneteam/how-we-structured-a-5-agent-ai-team-for-production-30-days-real-costs-what-broke-50na",
+    "title": "ViciDial Disposition Statuses \u2014 Complete Reference & Custom Setup",
+    "desc": "<h1>\n  \n  \n  ViciDial Disposition Statuses \u2014 Complete Reference & Custom Setup\n</h1>\n\n<p><strong>Master ViciDial disposition codes, implemen",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-disposition-statuses-complete-reference-custom-setup-593g",
     "topic": "general"
   },
   {
-    "title": "I built an open-source, self-hosted Git + DevOps tool \u2014 Gisia",
-    "desc": "<p>Hey folks \ud83d\udc4b</p>\n\n<p>I've been building an open-source DevOps tool called <strong>Gisia</strong> for a while now, and I figured it was tim",
-    "link": "https://dev.to/okoddcat/i-built-an-open-source-self-hosted-git-devops-tool-gisia-12l1",
+    "title": "How to Build a Scalable Fraud Detection Workflow",
+    "desc": "<h2>\n  \n  \n  The Growing Cost of Fraud\n</h2>\n\n<p>Fraudsters never stop innovating. From synthetic identities to deepfake onboarding, every y",
+    "link": "https://dev.to/unmeshed/how-to-build-a-scalable-fraud-detection-workflow-1ino",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udd27 Automating KVM QEMU Ubuntu VM provisioning with Ansible made easy",
-    "desc": "<p>Provisioning a KVM QEMU Ubuntu VM without a pre\u2011built image can be faster than cloning an existing disk because QEMU allocates storage la",
-    "link": "https://dev.to/ptp2308/automating-kvm-qemu-ubuntu-vm-provisioning-with-ansible-made-easy-2o7o",
+    "title": "AI DevOps prompts",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong> Prompt engineering entered DevOps not as an experiment but as a pressure valve: teams shipping faster",
+    "link": "https://dev.to/zop_8abedcc7e12/ai-devops-prompts-22hc",
     "topic": "general"
   },
   {
-    "title": "Prompt Engineering Was Version 1. Workflow Engineering Is Version 2.",
-    "desc": "<p>For the last two years, developers have been obsessed with one skill.</p>\n\n<p>Prompt engineering.</p>\n\n<p>Write better instructions.</p>\n",
-    "link": "https://dev.to/yash_sonawane25/prompt-engineering-was-version-1-workflow-engineering-is-version-2-me",
+    "title": "You Can't Review an Agent. You Can Review a Plan.",
+    "desc": "<p>A harness for AI-era Terraform.</p>\n\n<p>I'm building one. For a while now I've been developing a harness for infrastructure-as-code as a ",
+    "link": "https://dev.to/gyu07/you-cant-review-an-agent-you-can-review-a-plan-5hgp",
     "topic": "general"
   },
   {
-    "title": "Enterprise Skill Governance: Why You Need a Skill Registry",
-    "desc": "<p>The recent surge in popularity of large skill repositories highlights a critical shift in the AI agent ecosystem. Developers are no longe",
-    "link": "https://dev.to/fenju_fu/enterprise-skill-governance-why-you-need-a-skill-registry-9e0",
-    "topic": "general"
-  },
-  {
-    "title": "Giving Your Coding Agent Web Access Without Wrecking Its Context Window",
-    "desc": "<p>Most coding agents get web access the lazy way: a fetch tool that returns raw HTML, a search tool wired straight into the main context, a",
-    "link": "https://dev.to/danmercede/giving-your-coding-agent-web-access-without-wrecking-its-context-window-gi9",
-    "topic": "general"
-  },
-  {
-    "title": "\u0110\u1ed9 tin c\u1eady Suspend/Resume Linux tr\u00ean Laptop RTX 5080/5070 Ti",
-    "desc": "<p>B\u00e0i vi\u1ebft n\u00e0y t\u00f3m t\u1eaft c\u1ea5u h\u00ecnh v\u00e0 \u0111\u00e1nh gi\u00e1 kh\u1ea3 n\u0103ng t\u01b0\u01a1ng th\u00edch c\u1ee7a h\u1ec7 \u0111i\u1ec1u h\u00e0nh Linux tr\u00ean c\u00e1c d\u00f2ng laptop gaming cao c\u1ea5p, tham kh\u1ea3o chi ",
-    "link": "https://dev.to/hung_phatlaptop_a651fc86/do-tin-cay-suspendresume-linux-tren-laptop-rtx-50805070-ti-577j",
+    "title": "Beyond Chatbots: The Best Kept Secret of Combining AI with IoT for Developers",
+    "desc": "<p>Artificial Intelligence is becoming the heart of modern software development practices. Almost every week sees the emergence of a new lar",
+    "link": "https://dev.to/fathimath_fida_ffbda72c61/beyond-chatbots-the-best-kept-secret-of-combining-ai-with-iot-for-developers-31cb",
     "topic": "general"
   }
 ]
