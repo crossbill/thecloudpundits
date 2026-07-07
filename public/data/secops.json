@@ -1,5 +1,17 @@
 [
   {
+    "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
+    "desc": "<p>The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code",
+    "link": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
+    "topic": "secops"
+  },
+  {
+    "title": "Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security",
+    "desc": "<p>The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-drive",
+    "link": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
+    "topic": "secops"
+  },
+  {
     "title": "Blogspot-Hosted Payloads Delivered in \u2018Veil#Drop\u2019 Attacks",
     "desc": "<p>Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection ",
     "link": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
@@ -33,18 +45,6 @@
     "title": "Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments",
     "desc": "<p>Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing t",
     "link": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
-    "topic": "secops"
-  },
-  {
-    "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open s",
-    "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
-    "topic": "general"
-  },
-  {
-    "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
-    "desc": "<p>Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage in",
-    "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
     "topic": "secops"
   }
 ]

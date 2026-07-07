@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Pod That Lied: A Kubernetes Readiness Probe War Story",
-    "desc": "<p>Last time I told you to bring coffee. I did. This one didn't start at 2 a.m. \u2014 it started at 10:40 on a perfectly ordinary Tuesday, which",
-    "link": "https://dev.to/devopsaitoolkit/the-pod-that-lied-a-kubernetes-readiness-probe-war-story-4kfg",
+    "title": "Understanding Kubernetes Health Checks",
+    "desc": "<p>Ever had a pod that looked \"Running\" in your cluster but was actually broken inside, quietly serving errors to every request that hit it?",
+    "link": "https://dev.to/puneetha_jalagam/understanding-kubernetes-health-checks-442f",
     "topic": "kubernetes"
   },
   {
-    "title": "The Volume That Wouldn't Let Go: A Kubernetes PVC War Story",
-    "desc": "<p>The page came in at 2:14 a.m., which is the only time pages ever come in. I have a theory that PagerDuty holds them in a little queue unt",
-    "link": "https://dev.to/devopsaitoolkit/the-volume-that-wouldnt-let-go-a-kubernetes-pvc-war-story-3b9b",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How Real-Time Monitoring Helps Food Processing Plants Reduce Operational Risks",
-    "desc": "<p>Modern food processing plants rely on automation to improve productivity, but production efficiency alone isn't enough. Two operational c",
-    "link": "https://dev.to/phuc_bach_22e/how-real-time-monitoring-helps-food-processing-plants-reduce-operational-risks-c6k",
+    "title": "How to Choose Topics for Biology Research Papers Assignment Help?",
+    "desc": "<p>Selecting the right research topic is one of the most important steps in writing a successful biology paper. A well-chosen topic not only",
+    "link": "https://dev.to/vepeno5777/how-to-choose-topics-for-biology-research-papers-assignment-help-1mdp",
     "topic": "general"
   },
   {
-    "title": "ML Anomaly Detection in Loki Logs: Per-Entity Isolation Forest",
-    "desc": "<p>Liquid syntax error: Variable '{{namespace=\"{namespace}' was not properly terminated with regexp: /\\}\\}/</p>",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/ml-anomaly-detection-in-loki-logs-per-entity-isolation-forest-4hob",
+    "title": "Day 64: ClickHouse\u00ae Query Cache \u2013 Configuration, Best Practices, and Common Pitfalls",
+    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Analytical platforms often execute the same SQL queries repeatedly. Business Intelligence (BI) dashboard",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-64-clickhouser-query-cache-configuration-best-practices-and-common-pitfalls-1j5m",
     "topic": "general"
   },
   {
-    "title": "Unlocking AI Potential with AMD Ryzen AI Halo Dev Kit",
-    "desc": "<h1>\n  \n  \n  Unlocking AI Potential with AMD Ryzen AI Halo Dev Kit\n</h1>\n\n<p>As an AI Infrastructure Engineer and Founder of Griffin AI Tech",
-    "link": "https://dev.to/naveenmalothu/unlocking-ai-potential-with-amd-ryzen-ai-halo-dev-kit-cge",
+    "title": "NetBox in Docker: The Migration Problems That Mattered More Than the Install",
+    "desc": "<p>Installing NetBox is not the hard part.</p>\n\n<p>The hard part starts when NetBox is no longer an empty application.</p>\n\n<p>When it alrea",
+    "link": "https://dev.to/kkadzielawa/netbox-in-docker-the-migration-problems-that-mattered-more-than-the-install-5hkf",
+    "topic": "docker"
+  },
+  {
+    "title": "Datadog Alternatives for Small Teams (2026)",
+    "desc": "<p>Datadog alternatives for small teams in 2026: an honest look at Grafana, Axiom, Better Stack, and Epok \u2014 by billing model, not just per-G",
+    "link": "https://dev.to/epok/datadog-alternatives-for-small-teams-2026-1edg",
     "topic": "general"
   },
   {
-    "title": "One Click, Fifteen Systems: The Secret Journey of Your HTTP Request",
-    "desc": "<p>You open a tab. You type a URL. You hit Enter.</p>\n\n<p>Two hundred milliseconds later, a page appears \u2014 a dashboard, a login screen, a pr",
-    "link": "https://dev.to/arashad_dodhiya_0e4bdba5a/one-click-fifteen-systems-the-secret-journey-of-your-http-request-p27",
+    "title": "Day 63: Advanced ClickHouse\u00ae Dictionaries \u2013 Integrating External Data Sources for Faster Lookups",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Modern analytics platforms rarely store all business data in one place. Customer information may reside ",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-63-advanced-clickhouser-dictionaries-integrating-external-data-sources-for-faster-lookups-3bpb",
     "topic": "general"
   },
   {
-    "title": "ColdFusion Code Analyzer: Catching CF 2025 Compatibility Issues Before They Hit Production",
-    "desc": "<p>The ColdFusion Code Analyzer is a built-in tool in the ColdFusion Administrator that scans your codebase and flags compatibility problems",
-    "link": "https://dev.to/deepak_sir__/coldfusion-code-analyzer-catching-cf-2025-compatibility-issues-before-they-hit-production-147a",
+    "title": "Buyer Demo Risk Recovery source URLs Room",
+    "desc": "<p><em>Originally published on <a href=\"https://www.techsaas.cloud/blog/buyer-demo-recovery-source-urls-room\" rel=\"noopener noreferrer\">Tech",
+    "link": "https://dev.to/yash_pritwani_07a77613fd6/buyer-demo-risk-recovery-source-urls-room-3pb1",
     "topic": "general"
   },
   {
-    "title": "How to Land Distributed Tracing in Production: Bytecode Agents, OTel, and Demo Screenshots",
-    "desc": "<p>Distributed tracing adoption starts with understanding how a non-intrusive Agent weaves Spans at the bytecode layer and how TraceId propa",
-    "link": "https://dev.to/logan_zhang_8ca3575087c5b/how-to-land-distributed-tracing-in-production-bytecode-agents-otel-and-demo-screenshots-3an3",
+    "title": "AI release governance Diagnostic Start Lane",
+    "desc": "<p><em>Originally published on <a href=\"https://www.techsaas.cloud/blog/ai-release-governance-diagnostic-lane\" rel=\"noopener noreferrer\">Tec",
+    "link": "https://dev.to/yash_pritwani_07a77613fd6/ai-release-governance-diagnostic-start-lane-o8d",
     "topic": "general"
   }
 ]
