@@ -1,50 +1,50 @@
 [
   {
-    "title": "Bypassing Localhost Isolation: Connecting GitHub Webhooks to a Local Jenkins Node Without Third-Party Agents",
-    "desc": "<p>When configuring a standard CI/CD pipeline, you expect to run into firewall rules. But what happens when your automation controller and y",
-    "link": "https://dev.to/jessekyemtingbyte/bypassing-localhost-isolation-connecting-github-webhooks-to-a-local-jenkins-node-without-4j19",
+    "title": "Title",
+    "desc": "<h1>\n  \n  \n  Title\n</h1>\n\n<p>vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare <br />\n<em>Image generated via Midjourney by",
+    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-2eil",
     "topic": "general"
   },
   {
-    "title": "AWS IAM Privilege Escalation: Real Attack Paths DevOps Engineers Need to Know",
-    "desc": "<p>You've locked down your AWS accounts. MFA is enforced, no wildcard IAM policies in production, and you've got a service control policy (S",
-    "link": "https://dev.to/shieldlyio/aws-iam-privilege-escalation-real-attack-paths-devops-engineers-need-to-know-1mo6",
-    "topic": "aws"
+    "title": "Two months of Open Community Groups",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/two-months-of-open-community-groups\" rel=\"noopener noreferrer\">T",
+    "link": "https://dev.to/rasne/two-months-of-open-community-groups-17eg",
+    "topic": "general"
   },
   {
-    "title": "Understanding Kubernetes ClusterRoles and ClusterRoleBindings",
-    "desc": "<p>Yesterday I learned about Roles and RoleBindings. Today I explored ClusterRoles and ClusterRoleBindings for cluster-scoped resources like",
-    "link": "https://dev.to/oyebobs/understanding-kubernetes-clusterroles-and-clusterrolebindings-1k64",
+    "title": "Understanding Kubernetes Service Accounts (The Identity Every Pod Uses)",
+    "desc": "<p>Most of us learn about Kubernetes users before we learn about Service Accounts. That's actually where the confusion starts Service Accoun",
+    "link": "https://dev.to/oyebobs/understanding-kubernetes-service-accounts-the-identity-every-pod-uses-4lcd",
     "topic": "kubernetes"
   },
   {
-    "title": "Visualizing Your Digital Ecosystem: How a \"SimCity for Docker\" Can Elevate Performance Goals for Developers",
-    "desc": "<p>For many in the tech world, the homelab isn't just a hobby; it's a meticulously crafted digital ecosystem, a personal sandbox for innovat",
-    "link": "https://dev.to/devactivity/visualizing-your-digital-ecosystem-how-a-simcity-for-docker-can-elevate-performance-goals-for-2914",
-    "topic": "docker"
-  },
-  {
-    "title": "Can Agents Replace Developers? How to Use Them Efficiently via Structured SDLC Loops",
-    "desc": "<p>There is a growing narrative around AI that autonomous agents are on the brink of completely replacing human software engineers. <strong>",
-    "link": "https://dev.to/charan_gutti_cf60c6185074/can-agents-replace-developers-how-to-use-them-efficiently-via-structured-sdlc-loops-276e",
+    "title": "WHAT IS / AGENTIC HARNESS",
+    "desc": "<p>WHAT IS / AGENTIC HARNESS</p>",
+    "link": "https://dev.to/alexgetmancom/what-is-agentic-harness-59f4",
     "topic": "general"
   },
   {
-    "title": "Stop the 'Log Fatigue': Why Visualizing Server Logs is a Security Necessity | 0707-1253",
-    "desc": "<p>In the world of DevOps and Security, 'Log Fatigue' is a real problem. We monitor systems for hours, staring at scrolling lines of text, w",
-    "link": "https://dev.to/tacit_71799acf6d056b5155c/stop-the-log-fatigue-why-visualizing-server-logs-is-a-security-necessity-0707-1253-ld2",
-    "topic": "secops"
-  },
-  {
-    "title": "How to Use Stream Analyzers for Digital TV Broadcasting: A Practical Guide",
-    "desc": "<p><strong><em>Part 1:\u00a0 Solving GOP Structure and Compatibility Issues</em></strong></p>\n\n<p>Operating a digital television network isn't ju",
-    "link": "https://dev.to/video_compression_guru/how-to-use-stream-analyzers-for-digital-tv-broadcasting-a-practical-guide-3a34",
+    "title": "5 Shapewear Mistakes You're Probably Making (And How to Fix Them)",
+    "desc": "<p>Shapewear can be a game-changer \u2014 but only if you wear it correctly. After working with thousands of customers, <a href=\"https://www.nebi",
+    "link": "https://dev.to/ersajay/5-shapewear-mistakes-youre-probably-making-and-how-to-fix-them-500a",
     "topic": "general"
   },
   {
-    "title": "# Tailwind Color Palette Generator: A Better Way to Create Consistent UI Colors",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/freecolortheory/-tailwind-color-palette-generator-a-better-way-to-create-consistent-ui-colors-31bi",
+    "title": "Reading Loki Logs With AI: Patterns That Work",
+    "desc": "<p>If you've adopted Loki for log aggregation, you've probably had this moment: you need to find something in your logs <em>right now</em>, ",
+    "link": "https://dev.to/devopsaitoolkit/reading-loki-logs-with-ai-patterns-that-work-255m",
     "topic": "general"
+  },
+  {
+    "title": "20 Kubernetes Failures You Should Be Alerting On",
+    "desc": "<p>CrashLoopBackOff is the one everyone watches. Here are 20 Kubernetes failures \u2014 in logs and events \u2014 that actually deserve an alert.</p>\n",
+    "link": "https://dev.to/epok/20-kubernetes-failures-you-should-be-alerting-on-590b",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "5 Terraform Mistakes I Keep Seeing in AWS Projects",
+    "desc": "<p>Infrastructure usually doesn't fail because of Terraform itself.</p>\n\n<p>Most issues come from configuration choices that look harmless d",
+    "link": "https://dev.to/guilhermemarochio/5-terraform-mistakes-i-keep-seeing-in-aws-projects-i42",
+    "topic": "aws"
   }
 ]
