@@ -1,5 +1,17 @@
 [
   {
+    "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
+    "desc": "<p>The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive st",
+    "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
+    "topic": "secops"
+  },
+  {
+    "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
+    "desc": "<p>Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vu",
+    "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
+    "topic": "general"
+  },
+  {
     "title": "CISA Reportedly Using Anthropic\u2019s Mythos to Scan Government Software for Flaws",
     "desc": "<p>The audits are reportedly being spearheaded by CISA\u2019s Attack Surface Evaluation team, a specialized unit tasked with conducting digital d",
     "link": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
@@ -34,17 +46,5 @@
     "desc": "<p>The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-drive",
     "link": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
     "topic": "secops"
-  },
-  {
-    "title": "Blogspot-Hosted Payloads Delivered in \u2018Veil#Drop\u2019 Attacks",
-    "desc": "<p>Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection ",
-    "link": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "The Shift Toward Business-Aligned Risk Management",
-    "desc": "<p>Moving from isolated, technical data to a continuous risk lifecycle can help organizations align security controls with actual business c",
-    "link": "https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/",
-    "topic": "general"
   }
 ]
