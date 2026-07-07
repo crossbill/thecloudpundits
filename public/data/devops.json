@@ -1,50 +1,50 @@
 [
   {
-    "title": "\u00c9clat de l\u2019Avenir Gestion S.A.R.L renforce la clart\u00e9 des analyses gr\u00e2ce aux rapports intelligents",
-    "desc": "<p>Dans un environnement financier marqu\u00e9 par la rapidit\u00e9 de l\u2019information, la multiplication des sources de donn\u00e9es et l\u2019\u00e9volution constant",
-    "link": "https://dev.to/eclataveniravis/eclat-de-lavenir-gestion-sarl-renforce-la-clarte-des-analyses-grace-aux-rapports-intelligents-2o90",
+    "title": "The Pod That Lied: A Kubernetes Readiness Probe War Story",
+    "desc": "<p>Last time I told you to bring coffee. I did. This one didn't start at 2 a.m. \u2014 it started at 10:40 on a perfectly ordinary Tuesday, which",
+    "link": "https://dev.to/devopsaitoolkit/the-pod-that-lied-a-kubernetes-readiness-probe-war-story-4kfg",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "The Volume That Wouldn't Let Go: A Kubernetes PVC War Story",
+    "desc": "<p>The page came in at 2:14 a.m., which is the only time pages ever come in. I have a theory that PagerDuty holds them in a little queue unt",
+    "link": "https://dev.to/devopsaitoolkit/the-volume-that-wouldnt-let-go-a-kubernetes-pvc-war-story-3b9b",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "How Real-Time Monitoring Helps Food Processing Plants Reduce Operational Risks",
+    "desc": "<p>Modern food processing plants rely on automation to improve productivity, but production efficiency alone isn't enough. Two operational c",
+    "link": "https://dev.to/phuc_bach_22e/how-real-time-monitoring-helps-food-processing-plants-reduce-operational-risks-c6k",
     "topic": "general"
   },
   {
-    "title": "Linux Package Management Explained Simply (apt, dnf, yum & rpm)",
-    "desc": "<p><strong>Quick Note</strong></p>\n\n<p>In my previous article, I mentioned that <strong>Linux Troubleshooting Flow for Beginners</strong> wo",
-    "link": "https://dev.to/sreekanth_kuruba_91721e5d/linux-package-management-explained-simply-apt-dnf-yum-rpm-11gn",
+    "title": "ML Anomaly Detection in Loki Logs: Per-Entity Isolation Forest",
+    "desc": "<p>Liquid syntax error: Variable '{{namespace=\"{namespace}' was not properly terminated with regexp: /\\}\\}/</p>",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/ml-anomaly-detection-in-loki-logs-per-entity-isolation-forest-4hob",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent Has an IAM Role. That's Not a Feature It's an Uncontrolled Blast Radius.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ajaydevineni/your-ai-agent-has-an-iam-role-thats-not-a-feature-its-an-uncontrolled-blast-radius-5bo3",
-    "topic": "secops"
-  },
-  {
-    "title": "\u53ef\u89c2\u6d4b\u6027\u6df1\u5ea6\u6307\u5357\uff1a\u6784\u5efa\u53ef\u89c2\u5bdf\u7cfb\u7edf\u7684\u6838\u5fc3\u827a\u672f",
-    "desc": "<h1>\n  \n  \n  \u53ef\u89c2\u6d4b\u6027\u6df1\u5ea6\u6307\u5357\uff1a\u6784\u5efa\u53ef\u89c2\u5bdf\u7cfb\u7edf\u7684\u6838\u5fc3\u827a\u672f\n</h1>\n\n<p>\u5728\u5206\u5e03\u5f0f\u7cfb\u7edf\u548c\u5fae\u670d\u52a1\u67b6\u6784\u65e5\u76ca\u590d\u6742\u7684\u4eca\u5929\uff0c\u5982\u4f55\u5feb\u901f\u5b9a\u4f4d\u95ee\u9898\u3001\u7406\u89e3\u7cfb\u7edf\u884c\u4e3a\uff0c\u5df2\u6210\u4e3a\u8fd0\u7ef4\u548c\u5f00\u53d1\u56e2\u961f\u7684\u6838\u5fc3\u6311\u6218\u3002\u53ef\u89c2\u6d4b\u6027\u6b63\u662f\u89e3\u51b3\u8fd9\u4e00\u95ee\u9898\u7684\u5173\u952e\u6280\u672f\u7406\u5ff5\u3002</p>\n\n<h2>\n  \n  \n  \u4ec0\u4e48\u662f\u53ef",
-    "link": "https://dev.to/tianxin/ke-guan-ce-xing-shen-du-zhi-nan-gou-jian-ke-guan-cha-xi-tong-de-he-xin-yi-zhu-4no4",
+    "title": "Unlocking AI Potential with AMD Ryzen AI Halo Dev Kit",
+    "desc": "<h1>\n  \n  \n  Unlocking AI Potential with AMD Ryzen AI Halo Dev Kit\n</h1>\n\n<p>As an AI Infrastructure Engineer and Founder of Griffin AI Tech",
+    "link": "https://dev.to/naveenmalothu/unlocking-ai-potential-with-amd-ryzen-ai-halo-dev-kit-cge",
     "topic": "general"
   },
   {
-    "title": "Test Isolation",
-    "desc": "<h2>\n  \n  \n  Test Isolation: A Lesson I Learned While Migrating Playwright Tests\n</h2>\n\n<p>During my software engineering internship, I help",
-    "link": "https://dev.to/seungwonlee03/test-isolation-31f7",
+    "title": "One Click, Fifteen Systems: The Secret Journey of Your HTTP Request",
+    "desc": "<p>You open a tab. You type a URL. You hit Enter.</p>\n\n<p>Two hundred milliseconds later, a page appears \u2014 a dashboard, a login screen, a pr",
+    "link": "https://dev.to/arashad_dodhiya_0e4bdba5a/one-click-fifteen-systems-the-secret-journey-of-your-http-request-p27",
     "topic": "general"
   },
   {
-    "title": "Database Reliability: The SRE Approach to Keeping Data Safe",
-    "desc": "<h2>\n  \n  \n  The Backup That Wasn't\n</h2>\n\n<p>We had backups. Daily snapshots to S3. Perfectly configured. Never tested.</p>\n\n<p>When we nee",
-    "link": "https://dev.to/samson_tanimawo/database-reliability-the-sre-approach-to-keeping-data-safe-40hc",
+    "title": "ColdFusion Code Analyzer: Catching CF 2025 Compatibility Issues Before They Hit Production",
+    "desc": "<p>The ColdFusion Code Analyzer is a built-in tool in the ColdFusion Administrator that scans your codebase and flags compatibility problems",
+    "link": "https://dev.to/deepak_sir__/coldfusion-code-analyzer-catching-cf-2025-compatibility-issues-before-they-hit-production-147a",
     "topic": "general"
   },
   {
-    "title": "How to criar Dockerfiles eficientes com multi stage builds",
-    "desc": "<p>Multi stage builds sao uma das melhores features do Docker para manter imagens pequenas e organizadas. Vou mostrar como aplicar isso em u",
-    "link": "https://dev.to/isaias_velasquez_d2261770/how-to-criar-dockerfiles-eficientes-com-multi-stage-builds-m7p",
-    "topic": "docker"
-  },
-  {
-    "title": "We Made Our AI-vs-Human PR Stats a Public Live Dashboard",
-    "desc": "<p>A while back I wrote about <a href=\"https://dev.to/zoetaka38/64-of-our-merged-prs-were-written-by-ai-2424-prs-in-3-months-3678\">64% of ou",
-    "link": "https://dev.to/zoetaka38/we-made-our-ai-vs-human-pr-stats-a-public-live-dashboard-4b8k",
+    "title": "How to Land Distributed Tracing in Production: Bytecode Agents, OTel, and Demo Screenshots",
+    "desc": "<p>Distributed tracing adoption starts with understanding how a non-intrusive Agent weaves Spans at the bytecode layer and how TraceId propa",
+    "link": "https://dev.to/logan_zhang_8ca3575087c5b/how-to-land-distributed-tracing-in-production-bytecode-agents-otel-and-demo-screenshots-3an3",
     "topic": "general"
   }
 ]
