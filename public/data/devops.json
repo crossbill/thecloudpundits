@@ -1,50 +1,50 @@
 [
   {
-    "title": "From vexctl scripts to a governed VEX platform: building vex-ui with Next.js, keyless signing, and a Trivy-consumable repo",
-    "desc": "<p>un Trivy against almost any vendor container image and you'll get a wall of<br />\nfindings. Most of them don't matter, the vulnerable cod",
-    "link": "https://dev.to/darkedges/from-vexctl-scripts-to-a-governed-vex-platform-building-vex-ui-with-nextjs-keyless-signing-and-1jkm",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Dokploy - Self-Hosted PaaS for Docker Applications on Ubuntu 24.04",
-    "desc": "<p>Dokploy is an open-source, self-hosted PaaS, a free alternative to Heroku, Vercel, and Netlify, that deploys apps from Git, manages datab",
-    "link": "https://dev.to/vultr/deploying-dokploy-self-hosted-paas-for-docker-applications-on-ubuntu-2404-27eg",
+    "title": "Mission 2: Containerise the App",
+    "desc": "<h1>\n  \n  \n  Introduction:\n</h1>\n\n<p>Welcome back to Mission 2! In the <a href=\"https://dev.toinsert%20link%20to%20Mission%201\">https://dev.",
+    "link": "https://dev.to/okunola_babatunde_dff5cbd/mission-2-containerise-the-app-3kfc",
     "topic": "docker"
   },
   {
-    "title": "Deploying Ngrok Ingress Controller on Kubernetes",
-    "desc": "<p>Ngrok is a distributed reverse proxy that exposes applications to the internet via a masked external domain, without touching internal ne",
-    "link": "https://dev.to/vultr/deploying-ngrok-ingress-controller-on-kubernetes-j70",
+    "title": "DevSecOps: Cad\u00ea a Seguran\u00e7a Nessa Esteira?",
+    "desc": "<p>Demorei um tempo bom pra decidir como abrir esse texto, porque toda vez que eu tentava resumir DevSecOps numa frase s\u00f3, sa\u00eda capenga. Che",
+    "link": "https://dev.to/duquedotdev/devsecops-cade-a-seguranca-nessa-esteira-45kc",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes Was Not Broken. My VM Was Too Small.",
+    "desc": "<p>I recently hit one of those Kubernetes issues that looks like a networking problem at first, then a CNI problem, then an RKE2 problem, an",
+    "link": "https://dev.to/henryosei/kubernetes-was-not-broken-my-vm-was-too-small-1l49",
     "topic": "kubernetes"
   },
   {
-    "title": "Deploying PocketBase - Open-Source Go Backend Platform on Linux",
-    "desc": "<p>PocketBase is an open-source backend written in Go that bundles a real-time SQLite database, authentication, file uploads, and an admin d",
-    "link": "https://dev.to/vultr/deploying-pocketbase-open-source-go-backend-platform-on-linux-27bl",
+    "title": "GitOps for Infrastructure: How We Deploy With Zero SSH",
+    "desc": "<h2>\n  \n  \n  The Last Time I Used SSH\n</h2>\n\n<p>I haven't SSH'd into a production server in 14 months. Not because I'm lazy \u2014 because our in",
+    "link": "https://dev.to/samson_tanimawo/gitops-for-infrastructure-how-we-deploy-with-zero-ssh-3593",
     "topic": "general"
   },
   {
-    "title": "Deploying Neko - Self-Hosted Virtual Browser Platform on Linux",
-    "desc": "<p>Neko is an open-source virtual browser platform that runs inside Docker and streams an interactive browser session to multiple users over",
-    "link": "https://dev.to/vultr/deploying-neko-self-hosted-virtual-browser-platform-on-linux-3i9n",
+    "title": "Title",
+    "desc": "<h1>\n  \n  \n  Title\n</h1>\n\n<p>vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare <br />\n<em>Image generated via Midjourney by",
+    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-4e0n",
     "topic": "general"
   },
   {
-    "title": "vLLM vs\u202fSGLang: Real\u2011World Architecture, KV\u2011Cache Strategies & Distributed Inference at Scale",
-    "desc": "<h1>\n  \n  \n  vLLM vs\u202fSGLang: Real\u2011World Architecture, KV\u2011Cache Strategies & Distributed Inference at Scale\n</h1>\n\n<p><em>Practical guidance ",
-    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/vllm-vs-sglang-real-world-architecture-kv-cache-strategies-distributed-inference-at-scale-3716",
+    "title": "Deploying Redpanda Kafka-Compatible Streaming Platform on Ubuntu 24.04",
+    "desc": "<p>Redpanda is a Kafka-API-compatible streaming platform written in C++ with no JVM and no ZooKeeper. This guide installs Redpanda on Ubuntu",
+    "link": "https://dev.to/vultr/deploying-redpanda-kafka-compatible-streaming-platform-on-ubuntu-2404-4elh",
     "topic": "general"
   },
   {
-    "title": "Deploying ClickHouse on Kubernetes",
-    "desc": "<p>ClickHouse is an open-source, column-oriented database built for OLAP workloads, running complex analytical queries across large datasets",
-    "link": "https://dev.to/vultr/deploying-clickhouse-on-kubernetes-1f5j",
-    "topic": "kubernetes"
+    "title": "Deploying ClearML as a GCP Vertex AI Alternative on Ubuntu",
+    "desc": "<p>Google Vertex AI is Google Cloud's managed ML platform with experiment tracking, training jobs, pipelines, a model registry, and endpoint",
+    "link": "https://dev.to/vultr/deploying-clearml-as-a-gcp-vertex-ai-alternative-on-ubuntu-n2f",
+    "topic": "gcp"
   },
   {
-    "title": "How to Automate Repetitive Business Processes (Without Making a Mess)",
-    "desc": "<p>Every business has the same problem wearing different clothes.</p>\n\n<p>A support ticket gets created in Zendesk. Someone manually copies ",
-    "link": "https://dev.to/outworktech/how-to-automate-repetitive-business-processes-without-making-a-mess-1mai",
+    "title": "Deploying Matomo Analytics - An Open-Source Google Analytics Alternative",
+    "desc": "<p>Matomo is an open-source web analytics platform that keeps full ownership of visitor data on infrastructure you control, a privacy-first ",
+    "link": "https://dev.to/vultr/deploying-matomo-analytics-an-open-source-google-analytics-alternative-3noa",
     "topic": "general"
   }
 ]
