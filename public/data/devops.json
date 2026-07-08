@@ -1,50 +1,50 @@
 [
   {
-    "title": "Mission 2: Containerise the App",
-    "desc": "<h1>\n  \n  \n  Introduction:\n</h1>\n\n<p>Welcome back to Mission 2! In the <a href=\"https://dev.toinsert%20link%20to%20Mission%201\">https://dev.",
-    "link": "https://dev.to/okunola_babatunde_dff5cbd/mission-2-containerise-the-app-3kfc",
-    "topic": "docker"
-  },
-  {
-    "title": "DevSecOps: Cad\u00ea a Seguran\u00e7a Nessa Esteira?",
-    "desc": "<p>Demorei um tempo bom pra decidir como abrir esse texto, porque toda vez que eu tentava resumir DevSecOps numa frase s\u00f3, sa\u00eda capenga. Che",
-    "link": "https://dev.to/duquedotdev/devsecops-cade-a-seguranca-nessa-esteira-45kc",
+    "title": "Build Go \u0111a n\u1ec1n t\u1ea3ng tr\u00ean Ryzen AI 9 HX 370 c\u00f3 nhanh kh\u00f4ng?",
+    "desc": "<p>Khi ph\u00e1t tri\u1ec3n ph\u1ea7n m\u1ec1m v\u00e0o n\u0103m 2026, c\u00e2u h\u1ecfi laptop l\u1eadp tr\u00ecnh c\u00f3 th\u1ef1c s\u1ef1 c\u1ea7n NPU hay ch\u1ec9 c\u1ea7n t\u1ed5 h\u1ee3p CPU/GPU truy\u1ec1n th\u1ed1ng lu\u00f4n \u0111\u01b0\u1ee3c c\u00e1c l",
+    "link": "https://dev.to/hungphatlaptop/build-go-da-nen-tang-tren-ryzen-ai-9-hx-370-co-nhanh-khong-12o",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Was Not Broken. My VM Was Too Small.",
-    "desc": "<p>I recently hit one of those Kubernetes issues that looks like a networking problem at first, then a CNI problem, then an RKE2 problem, an",
-    "link": "https://dev.to/henryosei/kubernetes-was-not-broken-my-vm-was-too-small-1l49",
-    "topic": "kubernetes"
+    "title": "We built a Rust EDR. macOS notarization tried to kill it.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/techstrtupninja/we-built-a-rust-edr-macos-notarization-tried-to-kill-it-363f",
+    "topic": "general"
   },
   {
-    "title": "GitOps for Infrastructure: How We Deploy With Zero SSH",
-    "desc": "<h2>\n  \n  \n  The Last Time I Used SSH\n</h2>\n\n<p>I haven't SSH'd into a production server in 14 months. Not because I'm lazy \u2014 because our in",
-    "link": "https://dev.to/samson_tanimawo/gitops-for-infrastructure-how-we-deploy-with-zero-ssh-3593",
+    "title": "Pick your first AI model from evidence, not memory",
+    "desc": "<p>Most teams do not need the perfect AI model on day one. They need a first model they can explain.</p>\n\n<p>The mistake is starting from br",
+    "link": "https://dev.to/edward_li_71f26791eac62b8/pick-your-first-ai-model-from-evidence-not-memory-1c33",
     "topic": "general"
+  },
+  {
+    "title": "\u7f8e\u80a1\u4e2a\u4eba\u601d\u8def\u53ca\u770b\u6cd5",
+    "desc": "<p>\u660e\u5929\u6709\u53ef\u80fd\u56de\u8e29\u4e00\u4e0b7488-7415\u8fd9\u4e2a\u533a\u95f4\u3002\u5982\u679c\u5468\u4e8c\u5468\u4e09\u8dcc\u5e45\u8f83\u6df1\uff0c\u5468\u56db\u5468\u4e94\u53ef\u80fd\u4f1a\u62c9\u8d77\u6765\u3002\u5468\u7ebf\u6536\u76d8\u53ef\u80fd\u79bb7488\u4e0d\u592a\u8fdc\u3002</p>\n\n<p>META\uff1a\u8ddf\u6211\u5728590\u4e70\u8fdb\u7684\uff0c\u76d8\u4e2d620\u4f4d\u7f6e\u5206\u6279\u8dd1\u8def\uff0c\u606d\u559c\u53d1\u8d22\u3002\u76ee\u524d\u6211\u662f\u8fd8\u7559\u4e86\u4e09\u5206\u4e4b\u4e00\u7684\u4ed3\u4f4d\u5728\u624b\u4e0a\u3002\u5df2\u7ecf\u7a81\u7834\u4e86610-613\u7684\u538b\u529b\u4f4d\u3002\u5411",
+    "link": "https://dev.to/palashghosh/mei-gu-ge-ren-si-lu-ji-kan-fa-4ej5",
+    "topic": "general"
+  },
+  {
+    "title": "Five Rules That Cut My Homelab Logs by 95%",
+    "desc": "<h1>\n  \n  \n  Five Rules That Cut My Homelab Logs by 95%\n</h1>\n\n<p>It is Tuesday morning. I am cleaning up disk space because my homelab serv",
+    "link": "https://dev.to/susiloharjo/five-rules-that-cut-my-homelab-logs-by-95-29ad",
+    "topic": "general"
+  },
+  {
+    "title": "Building Incident AI That Engineers Actually Trust",
+    "desc": "<p>The most important lesson we learned is this: you need to build strong foundations of system context before you can trust any automated r",
+    "link": "https://dev.to/karthikreddy_n/building-incident-ai-that-engineers-actually-trust-2obf",
+    "topic": "secops"
+  },
+  {
+    "title": "EC2: A Espinha Dorsal da AWS (e Onde Todo Mundo Erra)",
+    "desc": "<p>Lembro a primeira inst\u00e2ncia EC2 que subi. <code>t2.micro</code>, free tier, orgulho desproporcional ao tamanho da m\u00e1quina. Terminei o tut",
+    "link": "https://dev.to/duquedotdev/ec2-a-espinha-dorsal-da-aws-e-onde-todo-mundo-erra-4cnj",
+    "topic": "aws"
   },
   {
     "title": "Title",
     "desc": "<h1>\n  \n  \n  Title\n</h1>\n\n<p>vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare <br />\n<em>Image generated via Midjourney by",
-    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-4e0n",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Redpanda Kafka-Compatible Streaming Platform on Ubuntu 24.04",
-    "desc": "<p>Redpanda is a Kafka-API-compatible streaming platform written in C++ with no JVM and no ZooKeeper. This guide installs Redpanda on Ubuntu",
-    "link": "https://dev.to/vultr/deploying-redpanda-kafka-compatible-streaming-platform-on-ubuntu-2404-4elh",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying ClearML as a GCP Vertex AI Alternative on Ubuntu",
-    "desc": "<p>Google Vertex AI is Google Cloud's managed ML platform with experiment tracking, training jobs, pipelines, a model registry, and endpoint",
-    "link": "https://dev.to/vultr/deploying-clearml-as-a-gcp-vertex-ai-alternative-on-ubuntu-n2f",
-    "topic": "gcp"
-  },
-  {
-    "title": "Deploying Matomo Analytics - An Open-Source Google Analytics Alternative",
-    "desc": "<p>Matomo is an open-source web analytics platform that keeps full ownership of visitor data on infrastructure you control, a privacy-first ",
-    "link": "https://dev.to/vultr/deploying-matomo-analytics-an-open-source-google-analytics-alternative-3noa",
+    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-1of1",
     "topic": "general"
   }
 ]
