@@ -1,5 +1,11 @@
 [
   {
+    "title": "Data for Agents",
+    "desc": "",
+    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "topic": "general"
+  },
+  {
     "title": "Native-speed vLLM transformers modeling backend",
     "desc": "",
     "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/revamped-kernels",
     "topic": "general"
-  },
-  {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "desc": "",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "topic": "huggingface"
   }
 ]

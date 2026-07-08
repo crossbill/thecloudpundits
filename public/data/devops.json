@@ -1,50 +1,50 @@
 [
   {
-    "title": "Comment dockeriser une API FastAPI de A \u00e0 Z \u2014 Dockerfile expliqu\u00e9 ligne par ligne",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Tu sais faire tourner une API FastAPI en local. Tu lances <code>uvicorn main:app --reload</code>, tu ouv",
-    "link": "https://dev.to/romeo_dossou_b9a9ace7ba7c/comment-dockeriser-une-api-fastapi-de-a-a-z-dockerfile-explique-ligne-par-ligne-2f22",
-    "topic": "docker"
-  },
-  {
-    "title": "How a Yoga Retreat Bali Can Inspire Lasting Lifestyle Changes",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/yoga_retreatbali_93b333f/how-a-yoga-retreat-bali-can-inspire-lasting-lifestyle-changes-23j9",
+    "title": "Fahrzeug-Lifecycle-Management: Autoverkauf in Ahaus effizient gestaltet",
+    "desc": "<p>In der Software-Entwicklung sprechen wir st\u00e4ndig \u00fcber den Lifecycle von Produkten \u2013 von der Initialisierung bis zum \"End-of-Life\". Doch w",
+    "link": "https://dev.to/greman_autoguide_ec374e8/fahrzeug-lifecycle-management-autoverkauf-in-ahaus-effizient-gestaltet-55kk",
     "topic": "general"
   },
   {
-    "title": "What I Learned After Running a Live 5-Minute Polymarket Crypto Trading Bot",
-    "desc": "<h2>\n  \n  \n  Real Execution Lessons From Building, Breaking, and Rebuilding a Short-Horizon Prediction Market System\n</h2>\n\n<p>When I first ",
-    "link": "https://dev.to/benjamin_cup/what-i-learned-after-running-a-live-5-minute-polymarket-crypto-trading-bot-20ea",
+    "title": "OpenAI has introduced a new voice mode for ChatGPT",
+    "desc": "<p>OpenAI has introduced a new voice mode for ChatGPT</p>\n\n<p>\u2022 Conversations now feel more natural: you can interrupt, pause, and adjust th",
+    "link": "https://dev.to/alexgetmancom/openai-has-introduced-a-new-voice-mode-for-chatgpt-19i",
+    "topic": "openai"
+  },
+  {
+    "title": "The CNCF Data Storage in Cloud Native AI White Paper",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/the-cncf-data-storage-in-cloud-native-ai-white-paper\" rel=\"noope",
+    "link": "https://dev.to/rasne/the-cncf-data-storage-in-cloud-native-ai-white-paper-bma",
     "topic": "general"
   },
   {
     "title": "Title",
     "desc": "<h1>\n  \n  \n  Title\n</h1>\n\n<p>vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare <br />\n<em>Image generated via Midjourney by",
-    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-59ge",
+    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-2aa0",
     "topic": "general"
   },
   {
-    "title": "How a rotating refresh token turned into a 401 storm on Cloudflare Workers",
-    "desc": "<p>We run a Cloudflare Workers + D1 backend with rotating refresh tokens. One afternoon production started sending a steady stream of 401s o",
-    "link": "https://dev.to/oleksandr_devops/how-a-rotating-refresh-token-turned-into-a-401-storm-on-cloudflare-workers-1bel",
+    "title": "Taming Flaky Automated Tests For Good",
+    "desc": "<p>A flaky test usually reveals itself at the worst possible moment: the build is green on one commit, red on the next, and green again afte",
+    "link": "https://dev.to/daniel_reade123/taming-flaky-automated-tests-for-good-42al",
     "topic": "general"
   },
   {
-    "title": "7 Dockerfile Mistakes That Are Quietly Costing You",
-    "desc": "<p>Most Dockerfiles work. That's the problem \u2014 \"it builds and runs\" hides a lot of quiet costs in security, speed, and size that don't annou",
-    "link": "https://dev.to/devopsaitoolkit/7-dockerfile-mistakes-that-are-quietly-costing-you-5a5n",
-    "topic": "docker"
-  },
-  {
-    "title": "Requests hang forever: why missing timeouts cause recurring outages in .NET",
-    "desc": "<blockquote>\n<p><em>This post was originally published on <a href=\"https://matrixtrak.com/blog/timeouts-first-why-infinite-waits-create-recu",
-    "link": "https://dev.to/matrixtrak/requests-hang-forever-why-missing-timeouts-cause-recurring-outages-in-net-5ffi",
+    "title": "How to Find the First Brick on a Blank Wall: A First-Time Contributor's Guide to Open Source",
+    "desc": "<h2>\n  \n  \n  The Blank Wall Problem\n</h2>\n\n<p>Every open source project started with a blank wall.</p>\n\n<p>You visit the repo. You see issue",
+    "link": "https://dev.to/zwiserfit/how-to-find-the-first-brick-on-a-blank-wall-a-first-time-contributors-guide-to-open-source-3b55",
     "topic": "general"
   },
   {
-    "title": "vLLM vs\u202fSGLang: Architectural Deep\u2011Dive, KV\u2011Cache Pinning, and Distributed Inference at Scale",
-    "desc": "<h1>\n  \n  \n  vLLM vs\u202fSGLang: Architectural Deep\u2011Dive, KV\u2011Cache Pinning, and Distributed Inference at Scale\n</h1>\n\n<p><strong>Subtitle:</stro",
-    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/vllm-vs-sglang-architectural-deep-dive-kv-cache-pinning-and-distributed-inference-at-scale-3gk5",
+    "title": "Why Continuous Integration is a Game Changer for AI Development",
+    "desc": "<h2>\n  \n  \n  Understanding Continuous Integration (CI) in AI Development\n</h2>\n\n<p>Continuous Integration (CI) in AI isn't just a fancy term",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/why-continuous-integration-is-a-game-changer-for-ai-development-25bc",
+    "topic": "general"
+  },
+  {
+    "title": "Why I Built a Risk Score Instead of a Buy Button",
+    "desc": "<p>The obvious feature to build here is a button. \"You're spending $4,200/month on <code>m5.xlarge</code> \u2014 buy a 1-year Savings Plan and sa",
+    "link": "https://dev.to/cloudwiseteam/why-i-built-a-risk-score-instead-of-a-buy-button-54eg",
     "topic": "general"
   }
 ]
