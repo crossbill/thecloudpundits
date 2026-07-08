@@ -1,5 +1,17 @@
 [
   {
+    "title": "CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws",
+    "desc": "<p>Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA's Known Exploited V",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/",
+    "topic": "aws"
+  },
+  {
+    "title": "Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection",
+    "desc": "<p>Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private reposi",
+    "link": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
+    "topic": "secops"
+  },
+  {
     "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
     "desc": "<p>The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive st",
     "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
@@ -33,18 +45,6 @@
     "title": "CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker",
     "desc": "<p>Tarah Wheeler is CISO at TPO Group, a firm that provides cybersecurity consultancy for high-stakes organizations. But despite this elevat",
     "link": "https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/",
-    "topic": "secops"
-  },
-  {
-    "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
-    "desc": "<p>The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code",
-    "link": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
-    "topic": "secops"
-  },
-  {
-    "title": "Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security",
-    "desc": "<p>The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-drive",
-    "link": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
     "topic": "secops"
   }
 ]
