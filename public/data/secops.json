@@ -1,5 +1,17 @@
 [
   {
+    "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
+    "desc": "<p>The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery",
+    "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
+    "topic": "secops"
+  },
+  {
+    "title": "China-Linked APT Expands Arsenal With New \u2018Leash\u2019 Backdoors",
+    "desc": "<p>Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLea",
+    "link": "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/",
+    "topic": "general"
+  },
+  {
     "title": "Webinar Today: Why Email Security Keeps Failing",
     "desc": "<p>Join the webinar as we break down why email-layer defenses alone can\u2019t keep pace with the modern phishing ecosystem.</p>\n<p>The post <a h",
     "link": "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/",
@@ -34,17 +46,5 @@
     "desc": "<p>Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vu",
     "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
     "topic": "general"
-  },
-  {
-    "title": "CISA Reportedly Using Anthropic\u2019s Mythos to Scan Government Software for Flaws",
-    "desc": "<p>The audits are reportedly being spearheaded by CISA\u2019s Attack Surface Evaluation team, a specialized unit tasked with conducting digital d",
-    "link": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
-    "topic": "aws"
-  },
-  {
-    "title": "Critical Adobe ColdFusion Vulnerability Exploited in Attacks",
-    "desc": "<p>Hackers are exploiting a recently patched critical vulnerability (CVE-2026-48282) in Adobe ColdFusion that carries a CVSS score of 10/10.",
-    "link": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/",
-    "topic": "secops"
   }
 ]

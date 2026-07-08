@@ -1,50 +1,50 @@
 [
   {
-    "title": "Retail IT's Guide to Running an AI IT Ops Agent",
-    "desc": "<h2>\n  \n  \n  Why Retail IT Is a Different Beast for an AI IT Ops Agent\n</h2>\n\n<p>Look, retail IT isn't like running ops for a SaaS company. ",
-    "link": "https://dev.to/afzaal_a/retail-its-guide-to-running-an-ai-it-ops-agent-2o46",
+    "title": "Comment dockeriser une API FastAPI de A \u00e0 Z \u2014 Dockerfile expliqu\u00e9 ligne par ligne",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Tu sais faire tourner une API FastAPI en local. Tu lances <code>uvicorn main:app --reload</code>, tu ouv",
+    "link": "https://dev.to/romeo_dossou_b9a9ace7ba7c/comment-dockeriser-une-api-fastapi-de-a-a-z-dockerfile-explique-ligne-par-ligne-2f22",
+    "topic": "docker"
+  },
+  {
+    "title": "How a Yoga Retreat Bali Can Inspire Lasting Lifestyle Changes",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/yoga_retreatbali_93b333f/how-a-yoga-retreat-bali-can-inspire-lasting-lifestyle-changes-23j9",
     "topic": "general"
   },
   {
-    "title": "Under 20 Mma Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/under-20-mma-timer-what-we-learned-building-random-tactical-timer-4jb1",
+    "title": "What I Learned After Running a Live 5-Minute Polymarket Crypto Trading Bot",
+    "desc": "<h2>\n  \n  \n  Real Execution Lessons From Building, Breaking, and Rebuilding a Short-Horizon Prediction Market System\n</h2>\n\n<p>When I first ",
+    "link": "https://dev.to/benjamin_cup/what-i-learned-after-running-a-live-5-minute-polymarket-crypto-trading-bot-20ea",
     "topic": "general"
   },
   {
-    "title": "Cron is too dumb. Airflow is too heavy. Meet cronova.",
-    "desc": "<p><em>A self-hosted workflow scheduler that fits in a single Go binary \u2014 DAGs, retries, backfill, a web console, and a built-in endpoint fo",
-    "link": "https://dev.to/zoyluofakeall/cron-is-too-dumb-airflow-is-too-heavy-meet-cronova-4chj",
+    "title": "Title",
+    "desc": "<h1>\n  \n  \n  Title\n</h1>\n\n<p>vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare <br />\n<em>Image generated via Midjourney by",
+    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-59ge",
     "topic": "general"
   },
   {
-    "title": "IP Transit: What Actually Happens Before Your Network Reaches the Internet",
-    "desc": "<p>You can have racks, routers, servers, switches, and clean configs \u2014 but none of that makes your network reachable from the public interne",
-    "link": "https://dev.to/kohanevich/ip-transit-what-actually-happens-before-your-network-reaches-the-internet-46dg",
+    "title": "How a rotating refresh token turned into a 401 storm on Cloudflare Workers",
+    "desc": "<p>We run a Cloudflare Workers + D1 backend with rotating refresh tokens. One afternoon production started sending a steady stream of 401s o",
+    "link": "https://dev.to/oleksandr_devops/how-a-rotating-refresh-token-turned-into-a-401-storm-on-cloudflare-workers-1bel",
     "topic": "general"
   },
   {
-    "title": "Why Your Kubernetes Dashboard Looks Healthy While Your Costs Keep Rising",
-    "desc": "<p>Every green checkmark on your Kubernetes dashboard feels like a small win. Pods are running. CPU usage looks fine. Nothing is alerting. E",
-    "link": "https://dev.to/puneetha_jalagam/why-your-kubernetes-dashboard-looks-healthy-while-your-costs-keep-rising-16d3",
-    "topic": "kubernetes"
+    "title": "7 Dockerfile Mistakes That Are Quietly Costing You",
+    "desc": "<p>Most Dockerfiles work. That's the problem \u2014 \"it builds and runs\" hides a lot of quiet costs in security, speed, and size that don't annou",
+    "link": "https://dev.to/devopsaitoolkit/7-dockerfile-mistakes-that-are-quietly-costing-you-5a5n",
+    "topic": "docker"
   },
   {
-    "title": "Best Railway Alternatives for Production Apps in 2026",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li><p>I would not start a new serious production deployment on Railway in 2026.  </p></li>\n<li><p>Railway is",
-    "link": "https://dev.to/engineeringjournal/railway-alternatives-production-h7l",
+    "title": "Requests hang forever: why missing timeouts cause recurring outages in .NET",
+    "desc": "<blockquote>\n<p><em>This post was originally published on <a href=\"https://matrixtrak.com/blog/timeouts-first-why-infinite-waits-create-recu",
+    "link": "https://dev.to/matrixtrak/requests-hang-forever-why-missing-timeouts-cause-recurring-outages-in-net-5ffi",
     "topic": "general"
   },
   {
-    "title": "I Built a DevOps Portfolio That Actually Deploys Itself (React, Vite, Vercel) \ud83d\ude80",
-    "desc": "<p>As a DevOps and Cloud Engineer, I\u2019ve always found traditional resume formats incredibly frustrating. They are great for listing out buzzw",
-    "link": "https://dev.to/zubairlearntech/i-built-a-devops-portfolio-that-actually-deploys-itself-react-vite-vercel-4i5c",
-    "topic": "general"
-  },
-  {
-    "title": "Your Laptop Is the New Production Environment",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/your-laptop-is-the-new-production-environment\" rel=\"noopener nor",
-    "link": "https://dev.to/rasne/your-laptop-is-the-new-production-environment-32p0",
+    "title": "vLLM vs\u202fSGLang: Architectural Deep\u2011Dive, KV\u2011Cache Pinning, and Distributed Inference at Scale",
+    "desc": "<h1>\n  \n  \n  vLLM vs\u202fSGLang: Architectural Deep\u2011Dive, KV\u2011Cache Pinning, and Distributed Inference at Scale\n</h1>\n\n<p><strong>Subtitle:</stro",
+    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/vllm-vs-sglang-architectural-deep-dive-kv-cache-pinning-and-distributed-inference-at-scale-3gk5",
     "topic": "general"
   }
 ]

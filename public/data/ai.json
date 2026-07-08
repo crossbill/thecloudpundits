@@ -1,5 +1,11 @@
 [
   {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "desc": "",
+    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "topic": "general"
+  },
+  {
     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
     "desc": "",
     "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
     "topic": "huggingface"
-  },
-  {
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "topic": "general"
   }
 ]
