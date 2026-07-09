@@ -1,50 +1,50 @@
 [
   {
-    "title": "From Solo Bot to Agent Fleet: A Practical Guide",
-    "desc": "<h2>\n  \n  \n  The Architecture Problem\n</h2>\n\n<p>Last month, I hit a wall. My single AI agent\u2014a scraper that monitored competitor pricing\u2014was",
-    "link": "https://dev.to/robo_rent_cc/from-solo-bot-to-agent-fleet-a-practical-guide-3m3i",
-    "topic": "general"
-  },
-  {
-    "title": "Load Testing in Production: How We Do It Safely",
-    "desc": "<h2>\n  \n  \n  Why Staging Load Tests Lie\n</h2>\n\n<p>We ran perfect load tests in staging. 10,000 requests per second, sub-100ms latency, zero ",
-    "link": "https://dev.to/samson_tanimawo/load-testing-in-production-how-we-do-it-safely-4j0o",
-    "topic": "general"
-  },
-  {
-    "title": "The Matrix of CI/CD: Building Pipelines That Actually Work",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>I still remember the first time I tried to automate a release. I had a shiny new feature",
-    "link": "https://dev.to/timevolt/the-matrix-of-cicd-building-pipelines-that-actually-work-35mo",
-    "topic": "general"
-  },
-  {
-    "title": "Your Cron Job Works. That's Not the Same as Surviving Cron",
-    "desc": "<p>There's a gap between a script that works when you run it and a script that survives running unattended for a year. The first only has to",
-    "link": "https://dev.to/bashsnippets/your-cron-job-works-thats-not-the-same-as-surviving-cron-1n84",
-    "topic": "general"
-  },
-  {
-    "title": "microservice \u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35 observability \u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 \u0e16\u0e36\u0e07\u0e08\u0e30\u0e04\u0e38\u0e49\u0e21",
-    "desc": "<h2>\n  \n  \n  microservice \u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35 observability \u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 \u0e16\u0e36\u0e07\u0e08\u0e30\u0e04\u0e38\u0e49\u0e21\n</h2>\n\n<p>\u0e21\u0e35\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e40\u0e25\u0e48\u0e32\u0e43\u0e19\u0e17\u0e35\u0e21\u0e17\u0e35\u0e48\u0e1c\u0e21\u0e40\u0e04\u0e22\u0e17\u0e33\u0e07\u0e32\u0e19\u0e14\u0e49\u0e27\u0e22:</p>\n\n<blockquote>\n<p>\u0e23\u0e30\u0e1a\u0e1a\u0e25\u0e48\u0e21\u0e15\u0e2d",
-    "link": "https://dev.to/gophernment/microservice-tngmii-observability-aekhaihn-thuengcchakhum-1m1g",
-    "topic": "general"
-  },
-  {
-    "title": "Title",
-    "desc": "<h1>\n  \n  \n  Title\n</h1>\n\n<p>vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare <br />\n<em>Image generated via Midjourney by",
-    "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-34i4",
-    "topic": "general"
-  },
-  {
-    "title": "Inbox Contracts for Scheduled Automation",
-    "desc": "<p>Scheduled jobs are great at doing work quietly until one of them sends the wrong email at 3 AM. The script still \"passed\", the queue stil",
-    "link": "https://dev.to/mrdapperx/inbox-contracts-for-scheduled-automation-1b5n",
-    "topic": "general"
-  },
-  {
-    "title": "Docker for developers",
-    "desc": "<p>\"Works on my machine\" is the most expensive sentence in software. <strong>Docker</strong> exists to kill it. At its core, Docker packages",
-    "link": "https://dev.to/agenyc/docker-for-developers-25ka",
+    "title": "SUSE\u2019s Rancher Desktop is now downstream of a Scarab-originated Docker Compose repair.",
+    "desc": "<p>Second downstream signal for Scarab.</p>\n\n<p>Our Docker Compose repair was merged upstream.</p>\n\n<p>Then it shipped in a Docker Compose r",
+    "link": "https://dev.to/scarab-systems/suses-rancher-desktop-is-now-downstream-of-a-scarab-originated-docker-compose-repair-3iaa",
     "topic": "docker"
+  },
+  {
+    "title": "Signature invalid but bot was working: why clock drift breaks auth suddenly",
+    "desc": "<blockquote>\n<p><em>This post was originally published on <a href=\"https://matrixtrak.com/blog/timestamp-drift-signature-errors\" rel=\"noopen",
+    "link": "https://dev.to/matrixtrak/signature-invalid-but-bot-was-working-why-clock-drift-breaks-auth-suddenly-1ef",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\ude80 Building a scalable Python API with FastAPI and Docker",
+    "desc": "<p>Running a single\u2011threaded FastAPI process inside a Docker container can increase overall throughput. The container isolates the Python in",
+    "link": "https://dev.to/ptp2308/building-a-scalable-python-api-with-fastapi-and-docker-39dc",
+    "topic": "docker"
+  },
+  {
+    "title": "Maintaining P99 Latency with Autoscaling Cold Starts",
+    "desc": "<h2>\n  \n  \n  Key takeaways\n</h2>\n\n<ul>\n<li>Autoscaling cold starts can spike latency, impacting user experience.</li>\n<li>Using pre-warming ",
+    "link": "https://dev.to/kapil/maintaining-p99-latency-with-autoscaling-cold-starts-454h",
+    "topic": "general"
+  },
+  {
+    "title": "Automated ViciDial Backups \u2014 Database, Recordings & Config",
+    "desc": "<h1>\n  \n  \n  Automated ViciDial Backups \u2014 Database, Recordings & Config\n</h1>\n\n<p><strong>Master complete backup automation for ViciDial pro",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/automated-vicidial-backups-database-recordings-config-307m",
+    "topic": "general"
+  },
+  {
+    "title": "Day 4 of 100 Days of GenAI for\u00a0DevOps\ud83d\ude80",
+    "desc": "<p>We say ChatGPT every day.</p>\n\n<p>But have you ever stopped and asked...</p>\n\n<p>What does \"Chat\" mean?</p>\n\n<p>What does the \"G\" stand f",
+    "link": "https://dev.to/lakhera2015/day-4-of-100-days-of-genai-for-devops-2cc9",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Deploying Blind: Add a Blast Radius Gate to Your CI/CD Pipeline",
+    "desc": "<p><em>Series: Introducing <a href=\"https://github.com/sburgholzer/BlastRadius\" rel=\"noopener noreferrer\">Blast Radius</a> \u2014 See What Breaks",
+    "link": "https://dev.to/aws-builders/stop-deploying-blind-add-a-blast-radius-gate-to-your-cicd-pipeline-231m",
+    "topic": "general"
+  },
+  {
+    "title": "Shipping an AI-built app to your own domain: the DNS-to-HTTPS path (and the cost trap nobody warns you about)",
+    "desc": "<p>An AI tool can turn a prompt into a working app in minutes. The part nobody shows you in the demo is the last mile: getting that app off ",
+    "link": "https://dev.to/alex_ybuild/shipping-an-ai-built-app-to-your-own-domain-the-dns-to-https-path-and-the-cost-trap-nobody-warns-4i80",
+    "topic": "general"
   }
 ]
