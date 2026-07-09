@@ -1,50 +1,50 @@
 [
   {
-    "title": "Codexers, max out your limits - reset is coming.",
-    "desc": "<p>Codexers, max out your limits - reset is coming.</p>",
-    "link": "https://dev.to/alexgetmancom/codexers-max-out-your-limits-reset-is-coming-pdf",
+    "title": "Why Kubernetes became APT groups' favorite entry point",
+    "desc": "<h2>\n  \n  \n  Kubernetes made shipping easier. It did not make security easier.\n</h2>\n\n<p>Kubernetes solved a real operations problem: runnin",
+    "link": "https://dev.to/comparedge_com/why-kubernetes-became-apt-groups-favorite-entry-point-3aap",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Navigating the ingress-NGINX retirement",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/navigating-the-ingress-nginx-retirement\" rel=\"noopener noreferre",
+    "link": "https://dev.to/rasne/navigating-the-ingress-nginx-retirement-3p81",
     "topic": "general"
   },
   {
-    "title": "Policy-Driven CI/CD: Simple, Social, and Secure Gates",
-    "desc": "<ul>\n<li>Why simple, social policies beat elaborate rulebooks</li>\n<li>How to design CI/CD gates and approval flows that scale</li>\n<li>Impl",
-    "link": "https://dev.to/beefedai/policy-driven-cicd-simple-social-and-secure-gates-26da",
+    "title": "Release: GPT-5.6 Sol, Terra, and Luna",
+    "desc": "<p>Release: GPT-5.6 Sol, Terra, and Luna</p>\n\n<p>OpenAI has released a new\u00a0GPT-5.6\u00a0lineup.\u00a0Sol\u00a0is the top model,\u00a0Terra\u00a0is for everyday tasks",
+    "link": "https://dev.to/alexgetmancom/release-gpt-56-sol-terra-and-luna-3cpc",
     "topic": "general"
   },
   {
-    "title": "SSH Security: How To Protect Your Server From Brute Force Attacks",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 61% of all cyber attacks in 2026 are caused by weak passwords and brute force attacks ",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/ssh-security-how-to-protect-your-server-from-brute-force-attacks-39oc",
-    "topic": "secops"
-  },
-  {
-    "title": "VM Snapshots in qcontroller: Go Back to When Everything Worked",
-    "desc": "<p>I do most of my work inside VMs, and I use <a href=\"https://github.com/q-controller/qcontroller\" rel=\"noopener noreferrer\">qcontroller</a",
-    "link": "https://dev.to/krjakbrjak/vm-snapshots-in-qcontroller-go-back-to-when-everything-worked-4oi2",
+    "title": "We built a SOC 2 reviewer for AI sessions, and kept AI out of the execution path",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/sirinivask/we-built-a-soc-2-reviewer-for-ai-sessions-and-kept-ai-out-of-the-execution-path-2pic",
     "topic": "general"
   },
   {
-    "title": "Flaky Test Detection in 2026: From Manual Reruns to AI-Powered Classification",
-    "desc": "<p>The question used to be simple: \"Is this test flaky?\" You'd run it a few times, shrug, and move on. But as test suites grew from hundreds",
-    "link": "https://dev.to/prit_indiangamer_1dfa3c5/flaky-test-detection-in-2026-from-manual-reruns-to-ai-powered-classification-kb3",
+    "title": "How To Deploy a Full-Stack App for Free Using Railway and Vercel",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 70% of startups fail due to cash flow problems, and deploying a full-stack app can cos",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/how-to-deploy-a-full-stack-app-for-free-using-railway-and-vercel-4a8k",
     "topic": "general"
   },
   {
-    "title": "How Much Do Flaky Tests Actually Cost? We Did the Math for a 20-Person Team",
-    "desc": "<p>\"Flaky tests waste time.\" Every engineer knows this. But when you ask \"how much time, exactly?\" most teams can't answer. They feel the pa",
-    "link": "https://dev.to/prit_indiangamer_1dfa3c5/how-much-do-flaky-tests-actually-cost-we-did-the-math-for-a-20-person-team-1c39",
+    "title": "Polling API Rate Limit? The Agent Workaround That Actually Sticks",
+    "desc": "<h2>\n  \n  \n  The problem: your agent is polling itself into a rate limit ban\n</h2>\n\n<p>If you're building an autonomous agent that needs to ",
+    "link": "https://dev.to/pstayet/polling-api-rate-limit-the-agent-workaround-that-actually-sticks-4a0c",
     "topic": "general"
   },
   {
-    "title": "What Are Flaky Tests? The Complete 2026 Guide",
-    "desc": "<p>If you've ever pushed code, watched CI go red, spent 20 minutes investigating, only to hit \"re-run\" and see it pass \u2014 you've been burned ",
-    "link": "https://dev.to/prit_indiangamer_1dfa3c5/what-are-flaky-tests-the-complete-2026-guide-anf",
+    "title": "Linux Firewall Setup: Complete ufw and iptables Guide",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 83% of Linux users are vulnerable to cyber attacks due to misconfigured firewalls? Las",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/linux-firewall-setup-complete-ufw-and-iptables-guide-1e8m",
     "topic": "general"
   },
   {
-    "title": "How To Set Up a VPN Server on Linux for Free",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours trying to set up a VPN server on my Linux machine, only to realize I was maki",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/how-to-set-up-a-vpn-server-on-linux-for-free-1g6e",
+    "title": "Tombstone v1.3-v1.4: Resilience Was the Easy Layer",
+    "desc": "<p>I removed four <code>|| true</code> statements from a GitHub Actions workflow on July 9th and watched CI go red in four different ways wi",
+    "link": "https://dev.to/sai_ram_0000/tombstone-v13-v14-resilience-was-the-easy-layer-370e",
     "topic": "general"
   }
 ]
