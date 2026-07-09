@@ -1,5 +1,17 @@
 [
   {
+    "title": "The Codex team is well aware of the bugs in the new app and is already working on fixes.",
+    "desc": "<p>The Codex team is well aware of the bugs in the new app and is already working on fixes.</p>\n\n<p>Let\u2019s give them a little time to get eve",
+    "link": "https://dev.to/alexgetmancom/the-codex-team-is-well-aware-of-the-bugs-in-the-new-app-and-is-already-working-on-fixes-4obj",
+    "topic": "general"
+  },
+  {
+    "title": "From SSH Chaos to Self-Service GPU Workspaces with Coder and HAMi",
+    "desc": "<blockquote>\n<p><strong>Disclosure:</strong> I designed the architecture, production rollout, and validation for this project. Parts of the ",
+    "link": "https://dev.to/ranjbaryshahab/from-ssh-chaos-to-self-service-gpu-workspaces-with-coder-and-hami-1m76",
+    "topic": "general"
+  },
+  {
     "title": "Why Kubernetes became APT groups' favorite entry point",
     "desc": "<h2>\n  \n  \n  Kubernetes made shipping easier. It did not make security easier.\n</h2>\n\n<p>Kubernetes solved a real operations problem: runnin",
     "link": "https://dev.to/comparedge_com/why-kubernetes-became-apt-groups-favorite-entry-point-3aap",
@@ -33,18 +45,6 @@
     "title": "Polling API Rate Limit? The Agent Workaround That Actually Sticks",
     "desc": "<h2>\n  \n  \n  The problem: your agent is polling itself into a rate limit ban\n</h2>\n\n<p>If you're building an autonomous agent that needs to ",
     "link": "https://dev.to/pstayet/polling-api-rate-limit-the-agent-workaround-that-actually-sticks-4a0c",
-    "topic": "general"
-  },
-  {
-    "title": "Linux Firewall Setup: Complete ufw and iptables Guide",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 83% of Linux users are vulnerable to cyber attacks due to misconfigured firewalls? Las",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/linux-firewall-setup-complete-ufw-and-iptables-guide-1e8m",
-    "topic": "general"
-  },
-  {
-    "title": "Tombstone v1.3-v1.4: Resilience Was the Easy Layer",
-    "desc": "<p>I removed four <code>|| true</code> statements from a GitHub Actions workflow on July 9th and watched CI go red in four different ways wi",
-    "link": "https://dev.to/sai_ram_0000/tombstone-v13-v14-resilience-was-the-easy-layer-370e",
     "topic": "general"
   }
 ]
