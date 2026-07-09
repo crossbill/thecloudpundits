@@ -1,50 +1,50 @@
 [
   {
-    "title": "n8n vs Temporal vs Windmill pricing comparison",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
-    "link": "https://dev.to/chasebot/n8n-vs-temporal-vs-windmill-pricing-comparison-34a8",
+    "title": "Why Every Growing Business Needs Network Monitoring & Security",
+    "desc": "<p>Cyberattacks are no longer limited to large enterprises. Small and medium-sized businesses are now frequent targets because attackers kno",
+    "link": "https://dev.to/raheelali123/why-every-growing-business-needs-network-monitoring-security-40m2",
+    "topic": "secops"
+  },
+  {
+    "title": "AI Training \u2013 Build In-Demand AI Skills for Career Growth",
+    "desc": "<p>\ud83d\ude80 \ud835\uddd5\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1 \ud835\udddc\ud835\uddfb-\ud835\uddd7\ud835\uddf2\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd4\ud835\udddc \ud835\udde6\ud835\uddf8\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\ude00 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd4\ud835\uddf0\ud835\uddf0\ud835\uddf2\ud835\uddf9\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf2 \ud835\uddec\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\uddf2\ud835\uddf2\ud835\uddff!<br />\n\ud83c\udfaf Gain Job-Ready #AISkills with #Visualpath Through Hands-On Training, Real",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/ai-training-build-in-demand-ai-skills-for-career-growth-3n36",
     "topic": "general"
   },
   {
-    "title": "Master AI Agents for DevOps Engineers Training | Online Course",
-    "desc": "<p>How AI Agents Are Changing the Future of DevOps Engineering<br />\nIntroduction<br />\nModern software teams need to deliver updates faster",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-ai-agents-for-devops-engineers-training-online-course-2l5f",
-    "topic": "general"
-  },
-  {
-    "title": "Per-pod secrets in Kubernetes: 3 patterns compared: field controls that hold",
-    "desc": "<p>Per-pod secrets in Kubernetes: 3 patterns compared should not be treated as filler content. The real risk is not a shortage of ideas; it ",
-    "link": "https://dev.to/isabelle_dubuis_d858453d7/per-pod-secrets-in-kubernetes-3-patterns-compared-field-controls-that-hold-43p7",
+    "title": "Hardening Kubernetes: How to Block `kubectl debug node` from Breaking Your Cluster Matrix",
+    "desc": "<p>You've done everything right. You're hardening your Kubernetes cluster, meticulously setting <code>runAsNonRoot: true</code>, and applyin",
+    "link": "https://dev.to/andriesh/hardening-kubernetes-how-to-block-kubectl-debug-node-from-breaking-your-cluster-matrix-49kb",
     "topic": "kubernetes"
   },
   {
-    "title": "Where Accountability Breaks When Agents Multiply",
-    "desc": "<h2>\n  \n  \n  At first, everything seems to work\n</h2>\n\n<p>Put a single AI agent into a real service and it tends to hold up surprisingly wel",
-    "link": "https://dev.to/zse4321/where-accountability-breaks-when-agents-multiply-219g",
+    "title": "Run Docker Compose as a Linux Service with systemd",
+    "desc": "<p>Docker Compose on a Linux server should start on boot, stop cleanly on shutdown, and survive reboots without manual intervention.</p>\n\n<p",
+    "link": "https://dev.to/rosgluk/run-docker-compose-as-a-linux-service-with-systemd-2g8e",
+    "topic": "docker"
+  },
+  {
+    "title": "## OpenScience: An Open\u2011Source AI Workbench for Research",
+    "desc": "<h2>\n  \n  \n  OpenScience: An Open\u2011Source AI Workbench for Research\n</h2>\n\n<p>OpenScience is a free AI workbench designed for scientific rese",
+    "link": "https://dev.to/atheerium/-openscience-an-open-source-ai-workbench-for-research-3f1k",
     "topic": "general"
   },
   {
-    "title": "Top 10 Best SiteVision to WordPress Migration Companies",
-    "desc": "<p><em>You've got a SiteVision CMS but you're hitting architectural limitations constantly. Time to migrate to WordPress. Let's talk about w",
-    "link": "https://dev.to/oliverpitts/top-10-best-sitevision-to-wordpress-migration-companies-4ipi",
+    "title": "Soul in Motion \u2014 4:49 PM | 2026-07-09",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Fixed the auto-upload issues in the Soul in Motion desktop skill.</li>\n<li>Implemented a heavier logging ",
+    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-449-pm-2026-07-09-713",
     "topic": "general"
   },
   {
-    "title": "Deploying Nginx on AWS EC2 Using Terraform \u2014 Automating Infrastructure",
-    "desc": "<p>Been meaning to do a proper Terraform project for a while. This weekend I finally did it.</p>\n\n<p>The goal was simple: use Terraform to p",
-    "link": "https://dev.to/deep_datta_731d9bd4a91980/deploying-nginx-on-aws-ec2-using-terraform-automating-infrastructure-2fkp",
-    "topic": "aws"
+    "title": "Kubernetes Alert Emails After Secret Rotation",
+    "desc": "<p>Secret rotation is one of those changes that looks complete long before it actually is. The IAM key rotates, the Kubernetes secret update",
+    "link": "https://dev.to/jasonmills94/kubernetes-alert-emails-after-secret-rotation-1dck",
+    "topic": "kubernetes"
   },
   {
-    "title": "Stop Copy-Pasting AI HTML Into FTP Clients",
-    "desc": "<h2>\n  \n  \n  The workflow that was quietly wasting my time\n</h2>\n\n<p>Here's a pattern I bet a lot of you know well:</p>\n\n<p>You open ChatGPT",
-    "link": "https://dev.to/juliedechili/stop-copy-pasting-ai-html-into-ftp-clients-26p",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure AI Agents on Bare Metal: A Practical Overview",
-    "desc": "<p>The software engineering landscape is facing a profound security crisis. For the past decade, site reliability engineers secured applicat",
-    "link": "https://dev.to/andrew_wiggins/how-to-secure-ai-agents-on-bare-metal-a-practical-overview-4nnb",
-    "topic": "general"
+    "title": "AI Destekli Full-Stack Geli\u015ftirme: Servisler Aras\u0131 \u0130leti\u015fim ve Dockerization",
+    "desc": "<h1>\n  \n  \n  AI Destekli Full-Stack Geli\u015ftirme: Servisler Aras\u0131 \u0130leti\u015fim ve Dockerization\n</h1>\n\n<p>Bu yaz\u0131n\u0131n amac\u0131 bir restoran uygulamas\u0131",
+    "link": "https://dev.to/tahayagizguler/ai-destekli-full-stack-gelistirme-servisler-arasi-iletisim-ve-dockerization-1o9j",
+    "topic": "docker"
   }
 ]

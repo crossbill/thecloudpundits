@@ -1,5 +1,29 @@
 [
   {
+    "title": "15-Year-Old Linux Vulnerability \u2018GhostLock\u2019 Earns Researchers $92k From Google",
+    "desc": "<p>Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
+    "topic": "secops"
+  },
+  {
+    "title": "Microsoft Patches Defender \u2018RoguePlanet\u2019 Vulnerability",
+    "desc": "<p>The privilege escalation vulnerability tracked as CVE-2026-50656 has been patched with a Microsoft Malware Protection Engine update.</p>\n",
+    "link": "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/",
+    "topic": "azure"
+  },
+  {
+    "title": "Mount Royal University Confirms Data Stolen in Ransomware Attack",
+    "desc": "<p>Hackers accessed the institution\u2019s internal network and deleted two drives containing employee, student, and university data.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/",
+    "topic": "secops"
+  },
+  {
+    "title": "AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique",
+    "desc": "<p>Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval.</p>\n<p>The post <a href=\"https://ww",
+    "link": "https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/",
+    "topic": "general"
+  },
+  {
     "title": "Chrome 150 Update Patches 27 Vulnerabilities",
     "desc": "<p>The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google.</p>\n<p>The post <a href=\"htt",
     "link": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
@@ -22,29 +46,5 @@
     "desc": "<p>The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery",
     "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
     "topic": "secops"
-  },
-  {
-    "title": "China-Linked APT Expands Arsenal With New \u2018Leash\u2019 Backdoors",
-    "desc": "<p>Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLea",
-    "link": "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/",
-    "topic": "general"
-  },
-  {
-    "title": "Webinar Today: Why Email Security Keeps Failing",
-    "desc": "<p>Join the webinar as we break down why email-layer defenses alone can\u2019t keep pace with the modern phishing ecosystem.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/",
-    "topic": "secops"
-  },
-  {
-    "title": "Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations",
-    "desc": "<p>The \"Rogue Agent\" vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise eve",
-    "link": "https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/",
-    "topic": "secops"
-  },
-  {
-    "title": "CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws",
-    "desc": "<p>Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA's Known Exploited V",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/",
-    "topic": "aws"
   }
 ]
