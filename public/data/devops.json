@@ -1,50 +1,50 @@
 [
   {
-    "title": "SUSE\u2019s Rancher Desktop is now downstream of a Scarab-originated Docker Compose repair.",
-    "desc": "<p>Second downstream signal for Scarab.</p>\n\n<p>Our Docker Compose repair was merged upstream.</p>\n\n<p>Then it shipped in a Docker Compose r",
-    "link": "https://dev.to/scarab-systems/suses-rancher-desktop-is-now-downstream-of-a-scarab-originated-docker-compose-repair-3iaa",
-    "topic": "docker"
-  },
-  {
-    "title": "Signature invalid but bot was working: why clock drift breaks auth suddenly",
-    "desc": "<blockquote>\n<p><em>This post was originally published on <a href=\"https://matrixtrak.com/blog/timestamp-drift-signature-errors\" rel=\"noopen",
-    "link": "https://dev.to/matrixtrak/signature-invalid-but-bot-was-working-why-clock-drift-breaks-auth-suddenly-1ef",
+    "title": "n8n vs Temporal vs Windmill pricing comparison",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
+    "link": "https://dev.to/chasebot/n8n-vs-temporal-vs-windmill-pricing-comparison-34a8",
     "topic": "general"
   },
   {
-    "title": "\ud83d\ude80 Building a scalable Python API with FastAPI and Docker",
-    "desc": "<p>Running a single\u2011threaded FastAPI process inside a Docker container can increase overall throughput. The container isolates the Python in",
-    "link": "https://dev.to/ptp2308/building-a-scalable-python-api-with-fastapi-and-docker-39dc",
-    "topic": "docker"
-  },
-  {
-    "title": "Maintaining P99 Latency with Autoscaling Cold Starts",
-    "desc": "<h2>\n  \n  \n  Key takeaways\n</h2>\n\n<ul>\n<li>Autoscaling cold starts can spike latency, impacting user experience.</li>\n<li>Using pre-warming ",
-    "link": "https://dev.to/kapil/maintaining-p99-latency-with-autoscaling-cold-starts-454h",
+    "title": "Master AI Agents for DevOps Engineers Training | Online Course",
+    "desc": "<p>How AI Agents Are Changing the Future of DevOps Engineering<br />\nIntroduction<br />\nModern software teams need to deliver updates faster",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-ai-agents-for-devops-engineers-training-online-course-2l5f",
     "topic": "general"
   },
   {
-    "title": "Automated ViciDial Backups \u2014 Database, Recordings & Config",
-    "desc": "<h1>\n  \n  \n  Automated ViciDial Backups \u2014 Database, Recordings & Config\n</h1>\n\n<p><strong>Master complete backup automation for ViciDial pro",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/automated-vicidial-backups-database-recordings-config-307m",
+    "title": "Per-pod secrets in Kubernetes: 3 patterns compared: field controls that hold",
+    "desc": "<p>Per-pod secrets in Kubernetes: 3 patterns compared should not be treated as filler content. The real risk is not a shortage of ideas; it ",
+    "link": "https://dev.to/isabelle_dubuis_d858453d7/per-pod-secrets-in-kubernetes-3-patterns-compared-field-controls-that-hold-43p7",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Where Accountability Breaks When Agents Multiply",
+    "desc": "<h2>\n  \n  \n  At first, everything seems to work\n</h2>\n\n<p>Put a single AI agent into a real service and it tends to hold up surprisingly wel",
+    "link": "https://dev.to/zse4321/where-accountability-breaks-when-agents-multiply-219g",
     "topic": "general"
   },
   {
-    "title": "Day 4 of 100 Days of GenAI for\u00a0DevOps\ud83d\ude80",
-    "desc": "<p>We say ChatGPT every day.</p>\n\n<p>But have you ever stopped and asked...</p>\n\n<p>What does \"Chat\" mean?</p>\n\n<p>What does the \"G\" stand f",
-    "link": "https://dev.to/lakhera2015/day-4-of-100-days-of-genai-for-devops-2cc9",
+    "title": "Top 10 Best SiteVision to WordPress Migration Companies",
+    "desc": "<p><em>You've got a SiteVision CMS but you're hitting architectural limitations constantly. Time to migrate to WordPress. Let's talk about w",
+    "link": "https://dev.to/oliverpitts/top-10-best-sitevision-to-wordpress-migration-companies-4ipi",
     "topic": "general"
   },
   {
-    "title": "Stop Deploying Blind: Add a Blast Radius Gate to Your CI/CD Pipeline",
-    "desc": "<p><em>Series: Introducing <a href=\"https://github.com/sburgholzer/BlastRadius\" rel=\"noopener noreferrer\">Blast Radius</a> \u2014 See What Breaks",
-    "link": "https://dev.to/aws-builders/stop-deploying-blind-add-a-blast-radius-gate-to-your-cicd-pipeline-231m",
+    "title": "Deploying Nginx on AWS EC2 Using Terraform \u2014 Automating Infrastructure",
+    "desc": "<p>Been meaning to do a proper Terraform project for a while. This weekend I finally did it.</p>\n\n<p>The goal was simple: use Terraform to p",
+    "link": "https://dev.to/deep_datta_731d9bd4a91980/deploying-nginx-on-aws-ec2-using-terraform-automating-infrastructure-2fkp",
+    "topic": "aws"
+  },
+  {
+    "title": "Stop Copy-Pasting AI HTML Into FTP Clients",
+    "desc": "<h2>\n  \n  \n  The workflow that was quietly wasting my time\n</h2>\n\n<p>Here's a pattern I bet a lot of you know well:</p>\n\n<p>You open ChatGPT",
+    "link": "https://dev.to/juliedechili/stop-copy-pasting-ai-html-into-ftp-clients-26p",
     "topic": "general"
   },
   {
-    "title": "Shipping an AI-built app to your own domain: the DNS-to-HTTPS path (and the cost trap nobody warns you about)",
-    "desc": "<p>An AI tool can turn a prompt into a working app in minutes. The part nobody shows you in the demo is the last mile: getting that app off ",
-    "link": "https://dev.to/alex_ybuild/shipping-an-ai-built-app-to-your-own-domain-the-dns-to-https-path-and-the-cost-trap-nobody-warns-4i80",
+    "title": "How to Secure AI Agents on Bare Metal: A Practical Overview",
+    "desc": "<p>The software engineering landscape is facing a profound security crisis. For the past decade, site reliability engineers secured applicat",
+    "link": "https://dev.to/andrew_wiggins/how-to-secure-ai-agents-on-bare-metal-a-practical-overview-4nnb",
     "topic": "general"
   }
 ]

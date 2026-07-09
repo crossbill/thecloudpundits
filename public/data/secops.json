@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chrome 150 Update Patches 27 Vulnerabilities",
+    "desc": "<p>The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "8Layers Raises $2.9 Million for Identity Security Platform",
+    "desc": "<p>The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform.</p",
+    "link": "https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/",
+    "topic": "secops"
+  },
+  {
+    "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
+    "desc": "<p>Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface.</p>\n<p>The p",
+    "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
+    "topic": "general"
+  },
+  {
     "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
     "desc": "<p>The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery",
     "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
@@ -28,23 +46,5 @@
     "desc": "<p>Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA's Known Exploited V",
     "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/",
     "topic": "aws"
-  },
-  {
-    "title": "Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection",
-    "desc": "<p>Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private reposi",
-    "link": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
-    "topic": "secops"
-  },
-  {
-    "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
-    "desc": "<p>The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive st",
-    "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
-    "topic": "secops"
-  },
-  {
-    "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
-    "desc": "<p>Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vu",
-    "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
-    "topic": "general"
   }
 ]
