@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Every Growing Business Needs Network Monitoring & Security",
-    "desc": "<p>Cyberattacks are no longer limited to large enterprises. Small and medium-sized businesses are now frequent targets because attackers kno",
-    "link": "https://dev.to/raheelali123/why-every-growing-business-needs-network-monitoring-security-40m2",
-    "topic": "secops"
-  },
-  {
-    "title": "AI Training \u2013 Build In-Demand AI Skills for Career Growth",
-    "desc": "<p>\ud83d\ude80 \ud835\uddd5\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1 \ud835\udddc\ud835\uddfb-\ud835\uddd7\ud835\uddf2\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd4\ud835\udddc \ud835\udde6\ud835\uddf8\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\ude00 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd4\ud835\uddf0\ud835\uddf0\ud835\uddf2\ud835\uddf9\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf2 \ud835\uddec\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\uddf2\ud835\uddf2\ud835\uddff!<br />\n\ud83c\udfaf Gain Job-Ready #AISkills with #Visualpath Through Hands-On Training, Real",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/ai-training-build-in-demand-ai-skills-for-career-growth-3n36",
+    "title": "DevOps",
+    "desc": "<p>DevOps means group of softwares or tools used to automated the SDLC processes to eliminate the traditional problems.</p>",
+    "link": "https://dev.to/sidduganesh_musa_4459c040/devops-4hep",
     "topic": "general"
   },
   {
-    "title": "Hardening Kubernetes: How to Block `kubectl debug node` from Breaking Your Cluster Matrix",
-    "desc": "<p>You've done everything right. You're hardening your Kubernetes cluster, meticulously setting <code>runAsNonRoot: true</code>, and applyin",
-    "link": "https://dev.to/andriesh/hardening-kubernetes-how-to-block-kubectl-debug-node-from-breaking-your-cluster-matrix-49kb",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Run Docker Compose as a Linux Service with systemd",
-    "desc": "<p>Docker Compose on a Linux server should start on boot, stop cleanly on shutdown, and survive reboots without manual intervention.</p>\n\n<p",
-    "link": "https://dev.to/rosgluk/run-docker-compose-as-a-linux-service-with-systemd-2g8e",
+    "title": "Docker Compose for Local Development: Complete Setup (2026)",
+    "desc": "<p><code>git clone</code> \u2192 <code>make dev</code> \u2192 working environment with Postgres, Redis, and email testing, same for every developer. T",
+    "link": "https://dev.to/stacknotice/docker-compose-for-local-development-complete-setup-2026-2gid",
     "topic": "docker"
   },
   {
-    "title": "## OpenScience: An Open\u2011Source AI Workbench for Research",
-    "desc": "<h2>\n  \n  \n  OpenScience: An Open\u2011Source AI Workbench for Research\n</h2>\n\n<p>OpenScience is a free AI workbench designed for scientific rese",
-    "link": "https://dev.to/atheerium/-openscience-an-open-source-ai-workbench-for-research-3f1k",
+    "title": "ClickHouse system tables ate my disk (and the fix)",
+    "desc": "<blockquote>\n<p><strong>TL;DR.</strong></p>\n\n<p>A monitoring alert said I was dropping check results. The disk was 100% full. My actual data",
+    "link": "https://dev.to/slima4/clickhouse-system-tables-ate-my-disk-and-the-fix-827",
     "topic": "general"
   },
   {
-    "title": "Soul in Motion \u2014 4:49 PM | 2026-07-09",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Fixed the auto-upload issues in the Soul in Motion desktop skill.</li>\n<li>Implemented a heavier logging ",
-    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-449-pm-2026-07-09-713",
+    "title": "Visualizing Crontab: Build and Translate Cron Expressions in Your Browser",
+    "desc": "<p>Every developer, sysadmin, and DevOps engineer has wrestled with crontab syntax. </p>\n\n<p>At a glance, patterns like <code>*/15 9-17 * * ",
+    "link": "https://dev.to/kandz/visualizing-crontab-build-and-translate-cron-expressions-in-your-browser-263",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Alert Emails After Secret Rotation",
-    "desc": "<p>Secret rotation is one of those changes that looks complete long before it actually is. The IAM key rotates, the Kubernetes secret update",
-    "link": "https://dev.to/jasonmills94/kubernetes-alert-emails-after-secret-rotation-1dck",
-    "topic": "kubernetes"
+    "title": "Released Gisia v1.4.1 Your Opensource DevOps Tool",
+    "desc": "<p>Gisia is a free and opensource tool for small teams, check it out on <a href=\"https://gisia.dev/\" rel=\"noopener noreferrer\">https://gisia",
+    "link": "https://dev.to/okoddcat/released-gisia-v141-8a1",
+    "topic": "general"
   },
   {
-    "title": "AI Destekli Full-Stack Geli\u015ftirme: Servisler Aras\u0131 \u0130leti\u015fim ve Dockerization",
-    "desc": "<h1>\n  \n  \n  AI Destekli Full-Stack Geli\u015ftirme: Servisler Aras\u0131 \u0130leti\u015fim ve Dockerization\n</h1>\n\n<p>Bu yaz\u0131n\u0131n amac\u0131 bir restoran uygulamas\u0131",
-    "link": "https://dev.to/tahayagizguler/ai-destekli-full-stack-gelistirme-servisler-arasi-iletisim-ve-dockerization-1o9j",
-    "topic": "docker"
+    "title": "PostHog Behavior, Sentry Breakage: Deploy Review Needs Both",
+    "desc": "<p>PostHog and Sentry are not interchangeable tools. They answer different questions.</p>\n\n<p>PostHog is where a team looks when it wants to",
+    "link": "https://dev.to/jakexkim/posthog-behavior-sentry-breakage-deploy-review-needs-both-2f2p",
+    "topic": "general"
+  },
+  {
+    "title": "Home Lab AI Agents: Deploying Is Easy, Keeping Them Alive Is Not",
+    "desc": "<h2>\n  \n  \n  The agents were alive. The work was not.\n</h2>\n\n<p>I have been growing a home lab for years the way most people do: a NAS, then",
+    "link": "https://dev.to/chemy_pvl/home-lab-ai-agents-deploying-is-easy-keeping-them-alive-is-not-d54",
+    "topic": "general"
+  },
+  {
+    "title": "AWS Rollback Emails as a CI/CD Gate",
+    "desc": "<p>Rollback emails are boring right up until the day you need one and it never arrives. After a few rough releases, I stopped treating rollb",
+    "link": "https://dev.to/jasonmills94/aws-rollback-emails-as-a-cicd-gate-31mj",
+    "topic": "aws"
   }
 ]

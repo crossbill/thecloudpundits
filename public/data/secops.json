@@ -1,5 +1,29 @@
 [
   {
+    "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
+    "desc": "<p>The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
+    "topic": "secops"
+  },
+  {
+    "title": "UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge",
+    "desc": "<p>Two announcements on July 7, 2026, demonstrate the government\u2019s determination to improve the level of cybersecurity within the UK.</p>\n<p",
+    "link": "https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/",
+    "topic": "general"
+  },
+  {
+    "title": "Palo Alto Networks Patches 13 Vulnerabilities",
+    "desc": "<p>Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS softwa",
+    "link": "https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "12 Million Impacted by Data Breach at Japanese Telco KDDI",
+    "desc": "<p>Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/",
+    "topic": "secops"
+  },
+  {
     "title": "15-Year-Old Linux Vulnerability \u2018GhostLock\u2019 Earns Researchers $92k From Google",
     "desc": "<p>Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access.</p>\n<p>The post <a hr",
     "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
@@ -22,29 +46,5 @@
     "desc": "<p>Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval.</p>\n<p>The post <a href=\"https://ww",
     "link": "https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/",
     "topic": "general"
-  },
-  {
-    "title": "Chrome 150 Update Patches 27 Vulnerabilities",
-    "desc": "<p>The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "8Layers Raises $2.9 Million for Identity Security Platform",
-    "desc": "<p>The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform.</p",
-    "link": "https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/",
-    "topic": "secops"
-  },
-  {
-    "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
-    "desc": "<p>Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
-    "topic": "general"
-  },
-  {
-    "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
-    "desc": "<p>The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery",
-    "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
-    "topic": "secops"
   }
 ]
