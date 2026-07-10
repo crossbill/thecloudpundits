@@ -1,50 +1,50 @@
 [
   {
-    "title": "Day 69 - Anatomy of a ClickHouse\u00ae Vertical Merge",
-    "desc": "<h1>\n  \n  \n  Anatomy of a ClickHouse\u00ae Vertical Merge\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>ClickHouse is designed to process analytical",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-69-anatomy-of-a-clickhouser-vertical-merge-4dlo",
+    "title": "7 Bugs in 34 Days: What Our AI Agents Caught While Nobody Was Watching",
+    "desc": "<p>We just spent 34 days running 9 AI agents on 2 CPU cores and 3.6GB RAM in a real gym.</p>\n\n<p>Nobody saw most of it. That's the point.</p",
+    "link": "https://dev.to/zwiserfit/7-bugs-in-34-days-what-our-ai-agents-caught-while-nobody-was-watching-50j0",
     "topic": "general"
   },
   {
-    "title": "AI and Cybersecurity: Why Software Updates and Proactive Monitoring Matter More Than Ever",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/smartym/ai-and-cybersecurity-why-software-updates-and-proactive-monitoring-matter-more-than-ever-3764",
+    "title": "Build CI/CD Pipeline in 10 Mins with Free GitHub Actions",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually deploying my application to a cloud server, only to realize that I h",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-free-github-actions-4869",
+    "topic": "general"
+  },
+  {
+    "title": "I saw someone give OpenClaw a 4-node Proxmox cluster and now I think most of us are doing agent security backwards",
+    "desc": "<p>I had one of those \"hold on, this is way too normal now\" moments reading OpenClaw threads.</p>\n\n<p>Not because people were building toy d",
+    "link": "https://dev.to/lars_winstand/i-saw-someone-give-openclaw-a-4-node-proxmox-cluster-and-now-i-think-most-of-us-are-doing-agent-19n9",
     "topic": "secops"
   },
   {
-    "title": "\ud83d\udcda AWS Cloud Learning Journey - Day 2",
-    "desc": "<p>Today, I explored the fundamentals of Amazon Web Services (AWS) and learned the following topics:</p>\n\n<p><strong>AWS & AWS Services</str",
-    "link": "https://dev.to/wariskhanmrt/aws-cloud-learning-journey-day-2-4mnl",
-    "topic": "aws"
+    "title": "Docker Compose Ambiente Desenvolvimento",
+    "desc": "<p>Trabalhar com dependencias como banco de dados, filas e caches localmente e sempre um processo chato. Docker Compose resolve isso com um ",
+    "link": "https://dev.to/isaias_velasquez_d2261770/docker-compose-ambiente-desenvolvimento-4blg",
+    "topic": "docker"
   },
   {
-    "title": "CI/CD for AI Agents: Why Quality Evals Pass and Production Agents Still Go Wrong",
-    "desc": "<p>In April 2026, a developer shipped an agent that had passed every evaluation they ran. Unit tests: green. Task completion rate: 94%. Hall",
-    "link": "https://dev.to/waxell/cicd-for-ai-agents-why-quality-evals-pass-and-production-agents-still-go-wrong-39j6",
+    "title": "Avoiding Rework, Without the Guesswork",
+    "desc": "<p>The most expensive code is the code you build twice. Most rework isn't bad luck \u2014 it's a skipped step. Front-load the cheap questions:</p",
+    "link": "https://dev.to/devxhub/avoiding-rework-without-the-guesswork-270p",
     "topic": "general"
   },
   {
-    "title": "A Unity Build Size Check That Can Fail Your CI",
-    "desc": "<blockquote>\n<p>Build Analyzer series, article 4.</p>\n\n<p>In <a href=\"https://dev.to/hano/what-actually-makes-a-unity-build-so-large-3jh4\">a",
-    "link": "https://dev.to/hano/a-unity-build-size-check-that-can-fail-your-ci-56ci",
+    "title": "Using AI To Find And Fix Accessibility Issues At Scale",
+    "desc": "<p>A product team usually notices accessibility debt the same way people notice a slow leak. A few bug tickets mention missing labels. QA fi",
+    "link": "https://dev.to/henryv/using-ai-to-find-and-fix-accessibility-issues-at-scale-8l7",
     "topic": "general"
   },
   {
-    "title": "I Got Tired of Reading thousands-line Terraform Plans, So I Built an Open-Source CLI to AI-Triage Them.",
-    "desc": "<p>We\u2019ve all been there. You open a Pull Request, scroll down to the CI/CD pipeline output to verify an infrastructure change, and you're hi",
-    "link": "https://dev.to/nico_balmaceda/i-got-tired-of-reading-thousands-line-terraform-plans-so-i-built-an-open-source-cli-to-ai-triage-37b9",
-    "topic": "terraform"
-  },
-  {
-    "title": "What I learned about Agentic AI and DevOps- Week 2 of the DevOps Micro Internship",
-    "desc": "<h2>\n  \n  \n  Reflection \u2013 Week 2\n</h2>\n\n<p>Week 2 of the DevOps Micro Internship pushed me from \"using AI as a chatbot\" to actually building",
-    "link": "https://dev.to/rohan_das_32be6304bddb383/what-i-learned-about-agentic-ai-and-devops-week-2-of-the-devops-micro-internship-25pl",
+    "title": "What Indie SaaS Founders Should Monitor Before Users Complain",
+    "desc": "<p>Before your first 100 customers, monitoring can feel like something you will set up later.</p>\n\n<p>You are still building features. You a",
+    "link": "https://dev.to/captain_cole/what-indie-saas-founders-should-monitor-before-users-complain-1fge",
     "topic": "general"
   },
   {
-    "title": "I Stopped Asking AI Agents to Behave: 3 Permission Levels Instead",
-    "desc": "<p>An AI agent merged work that I expected to review myself.</p>\n\n<p>The tests passed. An existing auto-merge path ran. The deployment start",
-    "link": "https://dev.to/nomurasan/i-stopped-asking-ai-agents-to-behave-3-permission-levels-instead-3e3p",
-    "topic": "general"
+    "title": "Why We\u2019re Building Nest: Moving Beyond Docker Registry V2\u2019s Data-Transfer Bottleneck",
+    "desc": "<p>At <a href=\"https://puffinnest.com\" rel=\"noopener noreferrer\">PuffinNest</a>, we are building a modern container registry for developers ",
+    "link": "https://dev.to/greedykomododragon/why-were-building-nest-moving-beyond-docker-registry-v2s-data-transfer-bottleneck-44nm",
+    "topic": "docker"
   }
 ]
