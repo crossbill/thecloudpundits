@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Codex team is well aware of the bugs in the new app and is already working on fixes.",
-    "desc": "<p>The Codex team is well aware of the bugs in the new app and is already working on fixes.</p>\n\n<p>Let\u2019s give them a little time to get eve",
-    "link": "https://dev.to/alexgetmancom/the-codex-team-is-well-aware-of-the-bugs-in-the-new-app-and-is-already-working-on-fixes-4obj",
+    "title": "I containerised a Romestead server because my friend never opened his",
+    "desc": "<p>I wanted to play <a href=\"https://romestead.wiki.gg/\" rel=\"noopener noreferrer\">Romestead</a>. My friend had the server on his machine. M",
+    "link": "https://dev.to/toledkrw/i-containerised-a-romestead-server-because-my-friend-never-opened-his-4gk4",
+    "topic": "docker"
+  },
+  {
+    "title": "Stop Hardcoding AWS Credentials: How to Manage Secrets Securely",
+    "desc": "<p>It is a cloud engineer's worst nightmare.</p>\n\n<p>You finish a long coding session, type <code>git push origin main</code>, and go to sle",
+    "link": "https://dev.to/vatul16/stop-hardcoding-aws-credentials-how-to-manage-secrets-securely-3bl",
+    "topic": "aws"
+  },
+  {
+    "title": "Run IDs Fix Flaky Notification Jobs",
+    "desc": "<p>Most flaky notification tests are not failing because email is hard. They fail because the workflow has no single identity for one run. A",
+    "link": "https://dev.to/mrdapperx/run-ids-fix-flaky-notification-jobs-3c0p",
     "topic": "general"
   },
   {
-    "title": "From SSH Chaos to Self-Service GPU Workspaces with Coder and HAMi",
-    "desc": "<blockquote>\n<p><strong>Disclosure:</strong> I designed the architecture, production rollout, and validation for this project. Parts of the ",
-    "link": "https://dev.to/ranjbaryshahab/from-ssh-chaos-to-self-service-gpu-workspaces-with-coder-and-hami-1m76",
+    "title": "Reverse Proxy Setup + SSL Self-Sign (Root CA + Wildcard)",
+    "desc": "<p>Pada postingan ini saya akan membahas bagaimana membangun <strong>Reverse Proxy Nginx</strong> dengan <strong>SSL Internal (Self-Signed P",
+    "link": "https://dev.to/seno21/reverse-proxy-setup-ssl-self-sign-root-ca-wildcard-59k6",
     "topic": "general"
   },
   {
-    "title": "Why Kubernetes became APT groups' favorite entry point",
-    "desc": "<h2>\n  \n  \n  Kubernetes made shipping easier. It did not make security easier.\n</h2>\n\n<p>Kubernetes solved a real operations problem: runnin",
-    "link": "https://dev.to/comparedge_com/why-kubernetes-became-apt-groups-favorite-entry-point-3aap",
-    "topic": "kubernetes"
+    "title": "\u0e27\u0e32\u0e07\u0e40\u0e25\u0e40\u0e22\u0e2d\u0e23\u0e4c security scan \u0e43\u0e19 pipeline \u0e22\u0e31\u0e07\u0e44\u0e07\u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49 dev \u0e40\u0e01\u0e25\u0e35\u0e22\u0e14",
+    "desc": "<p>\u0e21\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e0a\u0e48\u0e27\u0e07\u0e19\u0e36\u0e07\u0e17\u0e35\u0e48 pipeline \u0e40\u0e23\u0e32\u0e0a\u0e49\u0e32\u0e25\u0e07\u0e08\u0e32\u0e01 4 \u0e19\u0e32\u0e17\u0e35\u0e40\u0e1b\u0e47\u0e19 18 \u0e19\u0e32\u0e17\u0e35 \u0e41\u0e25\u0e49\u0e27\u0e17\u0e38\u0e01\u0e04\u0e19\u0e01\u0e47\u0e40\u0e23\u0e34\u0e48\u0e21\u0e1a\u0e48\u0e19 \u0e08\u0e19\u0e40\u0e01\u0e37\u0e2d\u0e1a\u0e21\u0e35\u0e21\u0e15\u0e34\u0e43\u0e2b\u0e49\u0e1b\u0e34\u0e14 security scan \u0e1a\u0e32\u0e07\u0e15\u0e31\u0e27\u0e17\u0e34\u0e49\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e40\u0e23\u0e47\u0e27 \u0e19\u0e31\u0e48",
+    "link": "https://dev.to/icelimited/waangeleyr-security-scan-ain-pipeline-yangaingaimaih-dev-ekliiyd-30m4",
+    "topic": "secops"
   },
   {
-    "title": "Navigating the ingress-NGINX retirement",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/navigating-the-ingress-nginx-retirement\" rel=\"noopener noreferre",
-    "link": "https://dev.to/rasne/navigating-the-ingress-nginx-retirement-3p81",
+    "title": "Bmup Multi-Asset Institute: Shaping the Future, Impacting Society",
+    "desc": "<p>Bmup Multi-Asset Institute is not just an investment platform; it is a force with profound social influence. Since its founding, we have ",
+    "link": "https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-shaping-the-future-impacting-society-2h1i",
     "topic": "general"
   },
   {
-    "title": "Release: GPT-5.6 Sol, Terra, and Luna",
-    "desc": "<p>Release: GPT-5.6 Sol, Terra, and Luna</p>\n\n<p>OpenAI has released a new\u00a0GPT-5.6\u00a0lineup.\u00a0Sol\u00a0is the top model,\u00a0Terra\u00a0is for everyday tasks",
-    "link": "https://dev.to/alexgetmancom/release-gpt-56-sol-terra-and-luna-3cpc",
+    "title": "My \"Deploy to Cloudflare\" button disabled auth",
+    "desc": "<p>I recently open-sourced <a href=\"https://github.com/ddyy/minvoice\" rel=\"noopener noreferrer\">Minvoice</a>, a small invoicing app that run",
+    "link": "https://dev.to/ddyy/my-deploy-to-cloudflare-button-disabled-auth-2p67",
     "topic": "general"
   },
   {
-    "title": "We built a SOC 2 reviewer for AI sessions, and kept AI out of the execution path",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sirinivask/we-built-a-soc-2-reviewer-for-ai-sessions-and-kept-ai-out-of-the-execution-path-2pic",
-    "topic": "general"
-  },
-  {
-    "title": "How To Deploy a Full-Stack App for Free Using Railway and Vercel",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 70% of startups fail due to cash flow problems, and deploying a full-stack app can cos",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/how-to-deploy-a-full-stack-app-for-free-using-railway-and-vercel-4a8k",
-    "topic": "general"
-  },
-  {
-    "title": "Polling API Rate Limit? The Agent Workaround That Actually Sticks",
-    "desc": "<h2>\n  \n  \n  The problem: your agent is polling itself into a rate limit ban\n</h2>\n\n<p>If you're building an autonomous agent that needs to ",
-    "link": "https://dev.to/pstayet/polling-api-rate-limit-the-agent-workaround-that-actually-sticks-4a0c",
-    "topic": "general"
+    "title": "The 10 Docker Errors That Waste the Most Time (and the One-Line Fix)",
+    "desc": "<p>Docker is fantastic right up until it throws one of its greasy, context-free error messages at you and you lose twenty minutes to a thing",
+    "link": "https://dev.to/devopsaitoolkit/the-10-docker-errors-that-waste-the-most-time-and-the-one-line-fix-45mg",
+    "topic": "docker"
   }
 ]
