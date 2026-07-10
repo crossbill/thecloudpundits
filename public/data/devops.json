@@ -1,50 +1,50 @@
 [
   {
-    "title": "Shift left security: qu\u00e9 es y por qu\u00e9 importa ahora",
-    "desc": "<p>Un exportador de tomate no manda su producto a revisi\u00f3n el d\u00eda que llega al puerto. Lo revisa en el campo, antes de la cosecha, con contr",
-    "link": "https://dev.to/jfgg/shift-left-security-que-es-y-por-que-importa-ahora-4glh",
-    "topic": "secops"
+    "title": "Debugging Kubernetes OOMKilled: A Step-by-Step Guide",
+    "desc": "<h2>\n  \n  \n  The Dreaded OOMKilled\n</h2>\n\n\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight console\"><code><span class=\"gp\">",
+    "link": "https://dev.to/samson_tanimawo/debugging-kubernetes-oomkilled-a-step-by-step-guide-c6o",
+    "topic": "kubernetes"
   },
   {
-    "title": "Building a Fully Automated Facebook Post Scheduler using Node.js and GitHub Actions",
-    "desc": "<h1>\n  \n  \n  How I Built a Zero-Cost Facebook Auto-Poster Using Node.js and GitHub Actions\n</h1>\n\n<p>Automating social media management can ",
-    "link": "https://dev.to/darshanraval/building-a-fully-automated-facebook-post-scheduler-using-nodejs-and-github-actions-5ehj",
+    "title": "Where should AI workloads run? A sovereign and sensible approach",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/where-should-ai-workloads-run-a-sovereign-and-sensible-approach\"",
+    "link": "https://dev.to/rasne/where-should-ai-workloads-run-a-sovereign-and-sensible-approach-5827",
     "topic": "general"
   },
   {
-    "title": "Are you Facing \u2018Docker Permission Denied\u2019 error! Let\u2019s fix it and get you started with your shipping! \ud83d\ude35\ud83d\ude15\ud83d\udd0d",
-    "desc": "<h5>\n  \n  \n  Stop typing 'sudo' before every single Docker command. Learn how to instantly and securely fix the docker.sock permission denie",
-    "link": "https://dev.to/khushalsarode/are-you-facing-docker-permission-denied-error-lets-fix-it-and-get-you-started-with-your-36pd",
-    "topic": "docker"
-  },
-  {
-    "title": "Why Reliable Browser Testing Is Mostly About State, Not Clicking",
-    "desc": "<p>Most browser tests are described as sequences of actions:</p>\n\n<ol>\n<li>open a page;</li>\n<li>click a control;</li>\n<li>enter some text;<",
-    "link": "https://dev.to/orbitpickle307/why-reliable-browser-testing-is-mostly-about-state-not-clicking-39h8",
+    "title": "Build CI/CD Pipeline in 10 Mins with Free GitHub Actions",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 87% of developers waste over 10 hours a week on manual deployment tasks? Last week, I ",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-free-github-actions-lo",
     "topic": "general"
   },
   {
-    "title": "Bun's VC funding shifted creator Jarred from open source to high stress",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Jarred, the creator of Bun, has strong \"beginner energy\" which helped him learn and grow in the Zig commu",
-    "link": "https://dev.to/crescevo/buns-vc-funding-shifted-creator-jarred-from-open-source-to-high-stress-10g7",
+    "title": "De comandos manuales a scripts din\u00e1micos: C\u00f3mo simplifiqu\u00e9 la clonaci\u00f3n de Windows en WinPE con DISM",
+    "desc": "<p>\u00bfAlguna vez te has encontrado en esa situaci\u00f3n donde hay una herramienta que te resuelve un problema pero en tu empresa no est\u00e1 permitida",
+    "link": "https://dev.to/fefeco/de-comandos-manuales-a-scripts-dinamicos-como-simplifique-la-clonacion-de-windows-en-winpe-con-dism-4j6j",
     "topic": "general"
   },
   {
-    "title": "Why I'm Learning DevOps in Public",
-    "desc": "<p>I just installed WSL2, set up Ubuntu, and ran my first Docker container. <br />\nNothing groundbreaking \u2014 but it's the start of something ",
-    "link": "https://dev.to/iriandr/why-im-learning-devops-in-public-4e4d",
+    "title": "7 Infrastructure Bugs Our AI Agents Auto-Recovered in 34 Days",
+    "desc": "<p>In 34 days of autonomous operation, our 9-agent system detected and auto-recovered from 7 distinct failure modes \u2014 with no SRE rotation n",
+    "link": "https://dev.to/zwiserfit/7-infrastructure-bugs-our-ai-agents-auto-recovered-in-34-days-g7g",
     "topic": "general"
   },
   {
-    "title": "CloudFormation: A Hands-On Journey Through Compute, Nesting, and Custom Resources",
-    "desc": "<p>As part of my intensive DevSecOps training with ParoCyber, I\u2019ve been deep-diving into AWS CloudFormation.<br />\nFor these exercises, I am",
-    "link": "https://dev.to/puritychepkemoi/cloudformation-a-hands-on-journey-through-compute-nesting-and-custom-resources-117h",
+    "title": "The Background Task That Froze: A Serverless CPU-Throttling Mystery",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Lesson learned building an agent on Cloud Run:</strong> don't schedule work to run <em>after</em> you send the res",
+    "link": "https://dev.to/dalenguyen/the-background-task-that-froze-a-serverless-cpu-throttling-mystery-3j3d",
     "topic": "general"
   },
   {
-    "title": "Give Your Auditor AWS Access \u2014 Without Sharing a Single Credential",
-    "desc": "<p>If your auditor asks for that, that should be the first finding. \ud83d\udea9</p>\n\n<p>An external auditor needs access to your AWS accounts, and the",
-    "link": "https://dev.to/upstood/give-your-auditor-aws-access-without-sharing-a-single-credential-140k",
-    "topic": "aws"
+    "title": "Step-by-Step Guide: Configuring Azure Monitor Log Analytics Workspace and Monitoring Linux Virtual Machines.",
+    "desc": "<h2>\n  \n  \n  Introduction.\n</h2>\n\n<p>Effective monitoring is a critical aspect of managing cloud resources, enabling administrators to gain ",
+    "link": "https://dev.to/zainab_oladimeji/step-by-step-guide-configuring-azure-monitor-log-analytics-workspace-and-monitoring-linux-virtual-5hm4",
+    "topic": "azure"
+  },
+  {
+    "title": "How 9 AI Agents Built a Self-Evolving Error Prevention System \u2014 And Open Sourced It",
+    "desc": "<h2>\n  \n  \n  The Problem No One Talks About\n</h2>\n\n<p>When a single AI agent makes a mistake, you fix the prompt. When <strong>9 agents</str",
+    "link": "https://dev.to/zwiserfit/how-9-ai-agents-built-a-self-evolving-error-prevention-system-and-open-sourced-it-a1d",
+    "topic": "general"
   }
 ]
