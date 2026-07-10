@@ -1,5 +1,35 @@
 [
   {
+    "title": "Bun's VC funding shifted creator Jarred from open source to high stress",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Jarred, the creator of Bun, has strong \"beginner energy\" which helped him learn and grow in the Zig commu",
+    "link": "https://dev.to/crescevo/buns-vc-funding-shifted-creator-jarred-from-open-source-to-high-stress-10g7",
+    "topic": "general"
+  },
+  {
+    "title": "Why I'm Learning DevOps in Public",
+    "desc": "<p>I just installed WSL2, set up Ubuntu, and ran my first Docker container. <br />\nNothing groundbreaking \u2014 but it's the start of something ",
+    "link": "https://dev.to/iriandr/why-im-learning-devops-in-public-4e4d",
+    "topic": "general"
+  },
+  {
+    "title": "CloudFormation: A Hands-On Journey Through Compute, Nesting, and Custom Resources",
+    "desc": "<p>As part of my intensive DevSecOps training with ParoCyber, I\u2019ve been deep-diving into AWS CloudFormation.<br />\nFor these exercises, I am",
+    "link": "https://dev.to/puritychepkemoi/cloudformation-a-hands-on-journey-through-compute-nesting-and-custom-resources-117h",
+    "topic": "general"
+  },
+  {
+    "title": "Give Your Auditor AWS Access \u2014 Without Sharing a Single Credential",
+    "desc": "<p>If your auditor asks for that, that should be the first finding. \ud83d\udea9</p>\n\n<p>An external auditor needs access to your AWS accounts, and the",
+    "link": "https://dev.to/upstood/give-your-auditor-aws-access-without-sharing-a-single-credential-140k",
+    "topic": "aws"
+  },
+  {
+    "title": "9 Essential Terraform Practices That Save Your Infrastructure",
+    "desc": "<p><strong>Terraform practices</strong> that prevent the 3am \u201cwho deleted production\u201d incident are not the ones the official tutorials teach",
+    "link": "https://dev.to/gtstudios/9-essential-terraform-practices-that-save-your-infrastructure-d15",
+    "topic": "terraform"
+  },
+  {
     "title": "7 Bugs in 34 Days: What Our AI Agents Caught While Nobody Was Watching",
     "desc": "<p>We just spent 34 days running 9 AI agents on 2 CPU cores and 3.6GB RAM in a real gym.</p>\n\n<p>Nobody saw most of it. That's the point.</p",
     "link": "https://dev.to/zwiserfit/7-bugs-in-34-days-what-our-ai-agents-caught-while-nobody-was-watching-50j0",
@@ -16,35 +46,5 @@
     "desc": "<p>I had one of those \"hold on, this is way too normal now\" moments reading OpenClaw threads.</p>\n\n<p>Not because people were building toy d",
     "link": "https://dev.to/lars_winstand/i-saw-someone-give-openclaw-a-4-node-proxmox-cluster-and-now-i-think-most-of-us-are-doing-agent-19n9",
     "topic": "secops"
-  },
-  {
-    "title": "Docker Compose Ambiente Desenvolvimento",
-    "desc": "<p>Trabalhar com dependencias como banco de dados, filas e caches localmente e sempre um processo chato. Docker Compose resolve isso com um ",
-    "link": "https://dev.to/isaias_velasquez_d2261770/docker-compose-ambiente-desenvolvimento-4blg",
-    "topic": "docker"
-  },
-  {
-    "title": "Avoiding Rework, Without the Guesswork",
-    "desc": "<p>The most expensive code is the code you build twice. Most rework isn't bad luck \u2014 it's a skipped step. Front-load the cheap questions:</p",
-    "link": "https://dev.to/devxhub/avoiding-rework-without-the-guesswork-270p",
-    "topic": "general"
-  },
-  {
-    "title": "Using AI To Find And Fix Accessibility Issues At Scale",
-    "desc": "<p>A product team usually notices accessibility debt the same way people notice a slow leak. A few bug tickets mention missing labels. QA fi",
-    "link": "https://dev.to/henryv/using-ai-to-find-and-fix-accessibility-issues-at-scale-8l7",
-    "topic": "general"
-  },
-  {
-    "title": "What Indie SaaS Founders Should Monitor Before Users Complain",
-    "desc": "<p>Before your first 100 customers, monitoring can feel like something you will set up later.</p>\n\n<p>You are still building features. You a",
-    "link": "https://dev.to/captain_cole/what-indie-saas-founders-should-monitor-before-users-complain-1fge",
-    "topic": "general"
-  },
-  {
-    "title": "Why We\u2019re Building Nest: Moving Beyond Docker Registry V2\u2019s Data-Transfer Bottleneck",
-    "desc": "<p>At <a href=\"https://puffinnest.com\" rel=\"noopener noreferrer\">PuffinNest</a>, we are building a modern container registry for developers ",
-    "link": "https://dev.to/greedykomododragon/why-were-building-nest-moving-beyond-docker-registry-v2s-data-transfer-bottleneck-44nm",
-    "topic": "docker"
   }
 ]
