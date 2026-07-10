@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why AI Increases the Need for Platform Engineering",
-    "desc": "<p>AI can generate a working Terraform module in about thirty seconds. Give it a prompt describing a VPC, subnets, NAT gateways, and route t",
-    "link": "https://dev.to/m_yemi_64fd836a19f8dbadb/why-ai-increases-the-need-for-platform-engineering-5ap3",
+    "title": "Ubuntu 22.04 Made hashcat 1,000x Slower: Inside the yescrypt Switch That Broke Password Cracking",
+    "desc": "<p>Almost every \"how to crack Linux passwords\" blog post from the past five years is out of date. Not slightly. Wrong-tool, wrong-numbers, w",
+    "link": "https://dev.to/kenimo49/ubuntu-2204-made-hashcat-1000x-slower-inside-the-yescrypt-switch-that-broke-password-cracking-3g6n",
     "topic": "general"
   },
   {
-    "title": "Monitoring Hybrid Infrastructure with Zabbix: Ubuntu, Windows, and Red Hat",
-    "desc": "<p><em>It's been a while since I last wrote a technical article. Recently, one of my routine tasks at work involved onboarding servers into ",
-    "link": "https://dev.to/fikalz/monitoring-hybrid-infrastructure-with-zabbix-ubuntu-windows-and-red-hat-2mdo",
+    "title": "Why Your Application Needs Observability: Building a Self-Hosted Observability Pipeline with the LGTM Stack (Loki, Grafana, Tempo, Mimir)",
+    "desc": "<h2>\n  \n  \n  Understanding Observability with the LGTM Stack\n</h2>\n\n<blockquote>\n<p>From \"what happened last night?\" to \"here's exactly what",
+    "link": "https://dev.to/ashadulmridha/why-your-application-needs-observability-building-a-self-hosted-observability-pipeline-with-the-1pgm",
     "topic": "general"
   },
   {
-    "title": "Securing the Perimeter: Overcoming Ingress Hazards in Commercial Outdoor Surveillance Networks",
-    "desc": "<p>Global commercial security and public infrastructure surveillance networks are expected to operate flawlessly 24 hours a day, 365 days a ",
-    "link": "https://dev.to/eweichat26/securing-the-perimeter-overcoming-ingress-hazards-in-commercial-outdoor-surveillance-networks-5b4d",
+    "title": "Stop Signup Fraud Before You Push to Production",
+    "desc": "<p>Your authentication flow might work perfectly on your local machine, but that is a dangerous metric of success. Passing a functional test",
+    "link": "https://dev.to/devandrew/stop-signup-fraud-before-you-push-to-production-4he2",
     "topic": "general"
   },
   {
-    "title": "Top 40 Terraform Interview Questions with Answers (2026)",
-    "desc": "<h1>\n  \n  \n  Top 40 Terraform Interview Questions (2026)\n</h1>\n\n<p>Terraform is asked in almost every DevOps/Cloud <br />\ninterview. Here ar",
-    "link": "https://dev.to/devopsrise_0607/top-40-terraform-interview-questions-with-answers-2026-1lol",
-    "topic": "terraform"
-  },
-  {
-    "title": "Why Do Batch Jobs Still Take All Night?",
-    "desc": "<h2>\n  \n  \n  Batch Job Automation with Built-In Job Scheduler\n</h2>\n\n<p>Handling batch jobs are essential in everything from regular data pr",
-    "link": "https://dev.to/unmeshed/why-do-batch-jobs-still-take-all-night-126e",
+    "title": "Build CI/CD in 10 Mins with Free GitHub Actions",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 70% of developers still spend over 10 hours a week on manual deployment tasks, but you",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-in-10-mins-with-free-github-actions-3bjf",
     "topic": "general"
   },
   {
-    "title": "How to Go from Developer to Cloud Architect - The Honest Roadmap",
-    "desc": "<p>The cloud architect title is one of the most sought-after in modern IT. It is also one of the most inconsistently defined \u2014 used to descr",
-    "link": "https://dev.to/satyam_dixit_4802eb0b7608/how-to-go-from-developer-to-cloud-architect-the-honest-roadmap-4015",
+    "title": "#10 The Week I Held My Breath: Moving to a Real Server",
+    "desc": "<p>I had decided to move my tool to a real server. The only problem was I had no idea where to begin.</p>\n\n<p>My tools all ran on spreadshee",
+    "link": "https://dev.to/fromzerotoship/10-the-week-i-held-my-breath-moving-to-a-real-server-5fej",
     "topic": "general"
   },
   {
-    "title": "The AI Agents Gotcha That Breaks Production (And How to Fix It)",
-    "desc": "<p>Here is the gotcha: an AI agent's process state is not the world state. An agent run ends one of two ways you can see: a success report, ",
-    "link": "https://dev.to/astraedus/the-ai-agents-gotcha-that-breaks-production-and-how-to-fix-it-5a15",
+    "title": "Embrace the DevOps Mindset",
+    "desc": "<p>DevOps isn\u2019t just about tools; it\u2019s a mindset. Foster collaboration between devs and ops to break down silos. It\u2019s about ownership and sh",
+    "link": "https://dev.to/fabiosarmento/embrace-the-devops-mindset-13od",
     "topic": "general"
   },
   {
-    "title": "Put a Deterministic Gate Between Generated Code and Main",
-    "desc": "<p>Generated code should enter a repository through the same narrow door as human code.</p>\n\n<p>That door is not \u201cthe agent said the task su",
-    "link": "https://dev.to/kongkong1/put-a-deterministic-gate-between-generated-code-and-main-4kld",
+    "title": "The Hidden Costs of Building Your Own Mapping Infrastructure",
+    "desc": "<h2>\n  \n  \n  Why Mapping Infrastructure Looks Simple at First\n</h2>\n\n<p>Building a location-based app often starts with a simple idea: add a",
+    "link": "https://dev.to/fyre_maps_70b6a5d04c023a9/the-hidden-costs-of-building-your-own-mapping-infrastructure-5422",
+    "topic": "general"
+  },
+  {
+    "title": "The Architecture of Clean Access: Mitigating Telemetry Exploitation via Streamlined Directories",
+    "desc": "<p>The Expansion of Telemetry Harvesting in Standard Web Browsing<br />\nThe utilitarian value of the modern open web is heavily degraded by ",
+    "link": "https://dev.to/darasem_9351c04dfc03d625e/the-architecture-of-clean-access-mitigating-telemetry-exploitation-via-streamlined-directories-no2",
     "topic": "general"
   }
 ]

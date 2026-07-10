@@ -1,5 +1,23 @@
 [
   {
+    "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
+    "desc": "<p>Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
+    "topic": "secops"
+  },
+  {
+    "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
+    "desc": "<p>Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
+    "topic": "general"
+  },
+  {
+    "title": "Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
+    "desc": "<p>The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages.</p>\n<p>The post <a href=\"https:/",
+    "link": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
+    "topic": "azure"
+  },
+  {
     "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
     "desc": "<p>The backdoor\u2019s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.</p>\n<p>The po",
     "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
@@ -28,23 +46,5 @@
     "desc": "<p>Two announcements on July 7, 2026, demonstrate the government\u2019s determination to improve the level of cybersecurity within the UK.</p>\n<p",
     "link": "https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/",
     "topic": "general"
-  },
-  {
-    "title": "Palo Alto Networks Patches 13 Vulnerabilities",
-    "desc": "<p>Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS softwa",
-    "link": "https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "12 Million Impacted by Data Breach at Japanese Telco KDDI",
-    "desc": "<p>Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/",
-    "topic": "secops"
-  },
-  {
-    "title": "15-Year-Old Linux Vulnerability \u2018GhostLock\u2019 Earns Researchers $92k From Google",
-    "desc": "<p>Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
-    "topic": "secops"
   }
 ]
