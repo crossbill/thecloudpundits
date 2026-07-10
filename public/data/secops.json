@@ -1,5 +1,23 @@
 [
   {
+    "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
+    "desc": "<p>The backdoor\u2019s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.</p>\n<p>The po",
+    "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
+    "topic": "general"
+  },
+  {
+    "title": "\u2018HalluSquatting\u2019 Turns AI Hallucinations Into Botnet Delivery Mechanism",
+    "desc": "<p>Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution.</p>\n<p>The po",
+    "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
+    "topic": "general"
+  },
+  {
+    "title": "Network of 200 GitHub Repositories Used for Malware Infection",
+    "desc": "<p>A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
+    "topic": "general"
+  },
+  {
     "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
     "desc": "<p>The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.</p>\n<p>The post <a href=\"htt",
     "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
@@ -28,23 +46,5 @@
     "desc": "<p>Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access.</p>\n<p>The post <a hr",
     "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
     "topic": "secops"
-  },
-  {
-    "title": "Microsoft Patches Defender \u2018RoguePlanet\u2019 Vulnerability",
-    "desc": "<p>The privilege escalation vulnerability tracked as CVE-2026-50656 has been patched with a Microsoft Malware Protection Engine update.</p>\n",
-    "link": "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/",
-    "topic": "azure"
-  },
-  {
-    "title": "Mount Royal University Confirms Data Stolen in Ransomware Attack",
-    "desc": "<p>Hackers accessed the institution\u2019s internal network and deleted two drives containing employee, student, and university data.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique",
-    "desc": "<p>Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/",
-    "topic": "general"
   }
 ]
