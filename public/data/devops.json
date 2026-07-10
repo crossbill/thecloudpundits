@@ -1,50 +1,50 @@
 [
   {
-    "title": "Ubuntu 22.04 Made hashcat 1,000x Slower: Inside the yescrypt Switch That Broke Password Cracking",
-    "desc": "<p>Almost every \"how to crack Linux passwords\" blog post from the past five years is out of date. Not slightly. Wrong-tool, wrong-numbers, w",
-    "link": "https://dev.to/kenimo49/ubuntu-2204-made-hashcat-1000x-slower-inside-the-yescrypt-switch-that-broke-password-cracking-3g6n",
+    "title": "Day 69 - Anatomy of a ClickHouse\u00ae Vertical Merge",
+    "desc": "<h1>\n  \n  \n  Anatomy of a ClickHouse\u00ae Vertical Merge\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>ClickHouse is designed to process analytical",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-69-anatomy-of-a-clickhouser-vertical-merge-4dlo",
     "topic": "general"
   },
   {
-    "title": "Why Your Application Needs Observability: Building a Self-Hosted Observability Pipeline with the LGTM Stack (Loki, Grafana, Tempo, Mimir)",
-    "desc": "<h2>\n  \n  \n  Understanding Observability with the LGTM Stack\n</h2>\n\n<blockquote>\n<p>From \"what happened last night?\" to \"here's exactly what",
-    "link": "https://dev.to/ashadulmridha/why-your-application-needs-observability-building-a-self-hosted-observability-pipeline-with-the-1pgm",
+    "title": "AI and Cybersecurity: Why Software Updates and Proactive Monitoring Matter More Than Ever",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/smartym/ai-and-cybersecurity-why-software-updates-and-proactive-monitoring-matter-more-than-ever-3764",
+    "topic": "secops"
+  },
+  {
+    "title": "\ud83d\udcda AWS Cloud Learning Journey - Day 2",
+    "desc": "<p>Today, I explored the fundamentals of Amazon Web Services (AWS) and learned the following topics:</p>\n\n<p><strong>AWS & AWS Services</str",
+    "link": "https://dev.to/wariskhanmrt/aws-cloud-learning-journey-day-2-4mnl",
+    "topic": "aws"
+  },
+  {
+    "title": "CI/CD for AI Agents: Why Quality Evals Pass and Production Agents Still Go Wrong",
+    "desc": "<p>In April 2026, a developer shipped an agent that had passed every evaluation they ran. Unit tests: green. Task completion rate: 94%. Hall",
+    "link": "https://dev.to/waxell/cicd-for-ai-agents-why-quality-evals-pass-and-production-agents-still-go-wrong-39j6",
     "topic": "general"
   },
   {
-    "title": "Stop Signup Fraud Before You Push to Production",
-    "desc": "<p>Your authentication flow might work perfectly on your local machine, but that is a dangerous metric of success. Passing a functional test",
-    "link": "https://dev.to/devandrew/stop-signup-fraud-before-you-push-to-production-4he2",
+    "title": "A Unity Build Size Check That Can Fail Your CI",
+    "desc": "<blockquote>\n<p>Build Analyzer series, article 4.</p>\n\n<p>In <a href=\"https://dev.to/hano/what-actually-makes-a-unity-build-so-large-3jh4\">a",
+    "link": "https://dev.to/hano/a-unity-build-size-check-that-can-fail-your-ci-56ci",
     "topic": "general"
   },
   {
-    "title": "Build CI/CD in 10 Mins with Free GitHub Actions",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 70% of developers still spend over 10 hours a week on manual deployment tasks, but you",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-in-10-mins-with-free-github-actions-3bjf",
+    "title": "I Got Tired of Reading thousands-line Terraform Plans, So I Built an Open-Source CLI to AI-Triage Them.",
+    "desc": "<p>We\u2019ve all been there. You open a Pull Request, scroll down to the CI/CD pipeline output to verify an infrastructure change, and you're hi",
+    "link": "https://dev.to/nico_balmaceda/i-got-tired-of-reading-thousands-line-terraform-plans-so-i-built-an-open-source-cli-to-ai-triage-37b9",
+    "topic": "terraform"
+  },
+  {
+    "title": "What I learned about Agentic AI and DevOps- Week 2 of the DevOps Micro Internship",
+    "desc": "<h2>\n  \n  \n  Reflection \u2013 Week 2\n</h2>\n\n<p>Week 2 of the DevOps Micro Internship pushed me from \"using AI as a chatbot\" to actually building",
+    "link": "https://dev.to/rohan_das_32be6304bddb383/what-i-learned-about-agentic-ai-and-devops-week-2-of-the-devops-micro-internship-25pl",
     "topic": "general"
   },
   {
-    "title": "#10 The Week I Held My Breath: Moving to a Real Server",
-    "desc": "<p>I had decided to move my tool to a real server. The only problem was I had no idea where to begin.</p>\n\n<p>My tools all ran on spreadshee",
-    "link": "https://dev.to/fromzerotoship/10-the-week-i-held-my-breath-moving-to-a-real-server-5fej",
-    "topic": "general"
-  },
-  {
-    "title": "Embrace the DevOps Mindset",
-    "desc": "<p>DevOps isn\u2019t just about tools; it\u2019s a mindset. Foster collaboration between devs and ops to break down silos. It\u2019s about ownership and sh",
-    "link": "https://dev.to/fabiosarmento/embrace-the-devops-mindset-13od",
-    "topic": "general"
-  },
-  {
-    "title": "The Hidden Costs of Building Your Own Mapping Infrastructure",
-    "desc": "<h2>\n  \n  \n  Why Mapping Infrastructure Looks Simple at First\n</h2>\n\n<p>Building a location-based app often starts with a simple idea: add a",
-    "link": "https://dev.to/fyre_maps_70b6a5d04c023a9/the-hidden-costs-of-building-your-own-mapping-infrastructure-5422",
-    "topic": "general"
-  },
-  {
-    "title": "The Architecture of Clean Access: Mitigating Telemetry Exploitation via Streamlined Directories",
-    "desc": "<p>The Expansion of Telemetry Harvesting in Standard Web Browsing<br />\nThe utilitarian value of the modern open web is heavily degraded by ",
-    "link": "https://dev.to/darasem_9351c04dfc03d625e/the-architecture-of-clean-access-mitigating-telemetry-exploitation-via-streamlined-directories-no2",
+    "title": "I Stopped Asking AI Agents to Behave: 3 Permission Levels Instead",
+    "desc": "<p>An AI agent merged work that I expected to review myself.</p>\n\n<p>The tests passed. An existing auto-merge path ran. The deployment start",
+    "link": "https://dev.to/nomurasan/i-stopped-asking-ai-agents-to-behave-3-permission-levels-instead-3e3p",
     "topic": "general"
   }
 ]
