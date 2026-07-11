@@ -1,50 +1,50 @@
 [
   {
-    "title": "Authorization Explained: What Really Happens Before Your Card Payment Is Approved?",
-    "desc": "<blockquote>\n<p><em>A deep dive into the first stage of every card payment.</em></p>\n</blockquote>\n\n<p>Most of us have made a card payment a",
-    "link": "https://dev.to/eunice-js/authorization-explained-what-really-happens-before-your-card-payment-is-approved-3po",
+    "title": "Step-by-Step Guide to Configuring Monitoring for Azure Compute Services Using Azure Monitor.",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Effective monitoring is a critical component of maintaining secure, reliable, and high-performing Azure ",
+    "link": "https://dev.to/zainab_oladimeji/step-by-step-guide-to-configuring-monitoring-for-azure-compute-services-using-azure-monitor-kib",
+    "topic": "azure"
+  },
+  {
+    "title": "GitHub Actions: Automate Your Workflow Like a Pro",
+    "desc": "<h1>\n  \n  \n  GitHub Actions: Automate Your Workflow Like a Pro\n</h1>\n\n<p>Imagine waking up every morning to find that your code has been aut",
+    "link": "https://dev.to/qingluan/github-actions-automate-your-workflow-like-a-pro-4i5c",
     "topic": "general"
   },
   {
-    "title": "New here. \nAny Devops engineer aspirant to connect with?\ud83d\udda4",
-    "desc": "",
-    "link": "https://dev.to/henryigwe/new-here-any-devops-engineer-aspirant-to-connect-with-4hn8",
+    "title": "No Ads Reaction Training: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/no-ads-reaction-training-what-we-learned-building-random-tactical-timer-2nog",
     "topic": "general"
   },
   {
-    "title": "I built an AI code reviewer with 6 parallel agents. Here\u2019s the architecture, warts and all.",
-    "desc": "<p>Six months ago I got fed up with my AI code review tool.</p>\n\n<p>Two problems.</p>\n\n<ul>\n<li>It charged roughly <strong>3.5\u00d7 the raw Open",
-    "link": "https://dev.to/looksgoodtomeow/i-built-an-ai-code-reviewer-with-6-parallel-agents-heres-the-architecture-warts-and-all-dfc",
+    "title": "Day 72 - ClickHouse\u00ae Internals: How the Query Analyzer Works",
+    "desc": "<p>When you execute a SQL query in ClickHouse\u00ae, it doesn't immediately start scanning data or reading storage files. Instead, the query pass",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-72-clickhouser-internals-how-the-query-analyzer-works-500",
     "topic": "general"
   },
   {
-    "title": "Shrinking Your LLM Bill: A Guide to Semantic Prompt Compression | 0711-1210",
-    "desc": "<h1>\n  \n  \n  Shrinking Your LLM Bill: A Guide to Semantic Prompt Compression\n</h1>\n\n<p>As LLMs become the backbone of modern software, API c",
-    "link": "https://dev.to/tacit_71799acf6d056b5155c/shrinking-your-llm-bill-a-guide-to-semantic-prompt-compression-0711-1210-p2p",
+    "title": "Claude Code Governance: Managed Settings, Audit Logs, and Where the Gaps Actually Are",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Claude Code resolves settings through a precedence stack - managed settings beat everything else and can'",
+    "link": "https://dev.to/sahajmeet_kaur_/claude-code-governance-managed-settings-audit-logs-and-where-the-gaps-actually-are-plg",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Build CI/CD Pipeline in 10 Mins with GitHub Actions",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 70% of CI/CD pipelines take over an hour to set up, but with GitHub Actions, you can b",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-github-actions-3pf0",
     "topic": "general"
   },
   {
-    "title": "Automate Your DevOps Pipeline",
-    "desc": "<p>Automating your DevOps pipeline isn\u2019t just about speed; it\u2019s about reliability. Consistent deployments reduce human error and boost confi",
-    "link": "https://dev.to/fabiosarmento/automate-your-devops-pipeline-o5n",
+    "title": "MCP Server Management: Centralizing Auth, RBAC, and Approval Gates Before They Sprawl",
+    "desc": "<p>Six months ago we had one or two MCP servers. Now it's common for a team here to spin up a dozen - Slack, Jira, a database, an internal A",
+    "link": "https://dev.to/sahajmeet_kaur_/mcp-server-management-centralizing-auth-rbac-and-approval-gates-before-they-sprawl-50oe",
     "topic": "general"
   },
   {
-    "title": "SRE Course | Site Reliability Engineering Online Training",
-    "desc": "<p>\ud83c\udfaf \ud835\udde0\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\udde6\ud835\uddf6\ud835\ude01\ud835\uddf2 \ud835\udde5\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddee\ud835\uddef\ud835\uddf6\ud835\uddf9\ud835\uddf6\ud835\ude01\ud835\ude06 \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 (\ud835\udde6\ud835\udde5\ud835\uddd8) & \ud835\uddd5\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1 \ud835\udde5\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2, \ud835\udde6\ud835\uddf0\ud835\uddee\ud835\uddf9\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\uddd6\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\uddf1 \ud835\udde6\ud835\ude06\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddfa\ud835\ude00! <br />\n\ud83d\ude80 Learn #SiteReliabilityEngineering (#SRE) w",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/sre-course-site-reliability-engineering-online-training-4o04",
-    "topic": "general"
-  },
-  {
-    "title": "Download PlateUp XCI Full Game Latest 2026",
-    "desc": "<h1>\n  \n  \n  Download PlateUp XCI Full Game Latest 2026\n</h1>\n\n<p>PlateUp! combines fast-paced cooking, restaurant management, and roguelite",
-    "link": "https://dev.to/ethan_david_68a2f2f492f12/download-plateup-xci-full-game-latest-2026-2gj7",
-    "topic": "general"
-  },
-  {
-    "title": "Day 71 - Advanced Partitioning Strategies for Petabyte-Scale Tables",
-    "desc": "<p>As datasets grow into the petabyte range, choosing the right partitioning strategy becomes one of the most important architectural decisi",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-71-advanced-partitioning-strategies-for-petabyte-scale-tables-3n1a",
-    "topic": "general"
+    "title": "Configuring Azure Monitor Alerts and Action Groups for Virtual Machine Monitoring",
+    "desc": "<h2>\n  \n  \n  Introduction.\n</h2>\n\n<p>Monitoring is a critical component of maintaining secure, reliable, and highly available cloud environm",
+    "link": "https://dev.to/zainab_oladimeji/configuring-azure-monitor-alerts-and-action-groups-for-virtual-machine-monitoring-1plk",
+    "topic": "azure"
   }
 ]
