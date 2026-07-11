@@ -1,50 +1,50 @@
 [
   {
-    "title": "Restoring Network Neutrality: Defeating Behavioral Analytics via Static Architecture",
-    "desc": "<p>The Structural Erosion of Trust in Public Hyperlinks<br />\nThe contemporary open web has largely abandoned the principle of direct, unman",
-    "link": "https://dev.to/darasem_9351c04dfc03d625e/restoring-network-neutrality-defeating-behavioral-analytics-via-static-architecture-13oj",
+    "title": "Day 70- Extending ClickHouse\u00ae with C++ UDFs",
+    "desc": "<p>Introduction<br />\nClickHouse\u00ae comes with hundreds of built-in functions covering string manipulation, date/time<br />\noperations, mathem",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-70-extending-clickhouser-with-c-udfs-2hog",
     "topic": "general"
   },
   {
-    "title": "Best n8n Alternatives for Enterprise API Automation",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
-    "link": "https://dev.to/chasebot/best-n8n-alternatives-for-enterprise-api-automation-9kj",
+    "title": "Resolving Control Tower StackSet Drift from Orphaned Accounts",
+    "desc": "<p>I upgraded AWS Control Tower landing zone from version 3.3 to 4.0. The update failed the first time. StackSet instances showed <code>INOP",
+    "link": "https://dev.to/awshuss/resolving-control-tower-stackset-drift-from-orphaned-accounts-561",
     "topic": "general"
   },
   {
-    "title": "Speed Mobile CI: Caching, Parallelization & Test Sharding",
-    "desc": "<p>Brittle PR cycles, stalled code reviews, and QA queues are symptoms, not the root cause. Your CI shows long wall-clock times, one job (of",
-    "link": "https://dev.to/beefedai/speed-mobile-ci-caching-parallelization-test-sharding-5ega",
+    "title": "Docker Volumes vs Bind Mounts: Where Your Data Actually Lives",
+    "desc": "<p>A container's writable layer feels like a filesystem, and that's exactly the trap. Write a database into it, remove the container, and th",
+    "link": "https://dev.to/jjoyneriv/docker-volumes-vs-bind-mounts-where-your-data-actually-lives-1ipl",
+    "topic": "docker"
+  },
+  {
+    "title": "Adding a Zero-Dependency Telemetry Dashboard to My Rust LLM Proxy (v1.2.0)",
+    "desc": "<p>Two days ago, I open-sourced <strong>Kilovolt</strong>\u2014a zero-copy Rust reverse proxy designed to act as a strict financial circuit break",
+    "link": "https://dev.to/yodsran/adding-a-zero-dependency-telemetry-dashboard-to-my-rust-llm-proxy-v120-2nh2",
     "topic": "general"
   },
   {
-    "title": "Kustomize bases & overlays \u2014 one base, every environment",
-    "desc": "<p><em>dev, staging, prod from one base.</em></p>\n\n<p>A Kustomize base is a master recipe; overlays are the diners' tweaks. You cook one dis",
-    "link": "https://dev.to/secopsloghq/kustomize-bases-overlays-one-base-every-environment-2gim",
+    "title": "I Put Eight Security Bugs in a Flask App on Purpose. The Robots Only Caught Some of Them.",
+    "desc": "<p>A while back I wrote about finding security holes in my own hackathon project months after the fact. It was not a proud moment. There is ",
+    "link": "https://dev.to/adityachooramani/i-put-eight-security-bugs-in-a-flask-app-on-purpose-the-robots-only-caught-some-of-them-4h55",
+    "topic": "secops"
+  },
+  {
+    "title": "Web Development Agency Florida: 10 Proven Success Tips",
+    "desc": "<p><strong>How to Choose the Best Web Development Agency in Florida: 10 Essential Factors to Consider</strong></p>\n\n<p>Picking the right <st",
+    "link": "https://dev.to/digital-marketagency/web-development-agency-florida-10-proven-success-tips-3h2b",
     "topic": "general"
   },
   {
-    "title": "Argo CD sync policies & self-heal, explained",
-    "desc": "<p><em>Auto-sync, prune, self-heal.</em></p>\n\n<p>A syncPolicy is the thermostat setting for an Argo CD Application. Argo CD continuously com",
-    "link": "https://dev.to/secopsloghq/argo-cd-sync-policies-self-heal-explained-3eg5",
+    "title": "Oracle 26ai \u2014 Enhancements to Data Dictionary Views for Partitioning",
+    "desc": "<p>In data dictionary views related to partitioning, the HIGH_VALUE column is one of the most frequently used attributes. However, its datat",
+    "link": "https://dev.to/vahidusefzadeh/oracle-26ai-enhancements-to-data-dictionary-views-for-partitioning-4gc5",
     "topic": "general"
   },
   {
-    "title": "Migrating from Terraform to OpenTofu, safely",
-    "desc": "<p><em>Move an existing project, safely.</em></p>\n\n<p>Migrating from Terraform to OpenTofu is less an engine transplant than a badge swap. O",
-    "link": "https://dev.to/secopsloghq/migrating-from-terraform-to-opentofu-safely-4ob4",
-    "topic": "terraform"
-  },
-  {
-    "title": "Custom Software Development Services | USA",
-    "desc": "<p>If you've ever tried to run a growing business on spreadsheets, disconnected apps, and software that almost fits your workflow, you alrea",
-    "link": "https://dev.to/ict_management_b18f7cc305/custom-software-development-services-usa-1l6b",
-    "topic": "general"
-  },
-  {
-    "title": "Wetask: a unified runtime for distributed tasks, scheduling, and caching",
-    "desc": "<p>Today I\u2019m releasing <strong>Wetask v0.1.0-rc.1</strong>, the first public release candidate of a system I\u2019ve been building in Go.</p>\n\n<p",
-    "link": "https://dev.to/tosiiko/wetask-a-unified-runtime-for-distributed-tasks-scheduling-and-caching-3i2m",
+    "title": "\u2728Be Someone's Reason to Smile Today \u2728 - Rahul Gupta",
+    "desc": "<p><a href=\"https://www.instagram.com/iamrahulgupta9/reel/DakNNquSE5u/\" rel=\"noopener noreferrer\">Helping people</a> is not charity - it's h",
+    "link": "https://dev.to/i-am-rahul_gupta_9/be-someones-reason-to-smile-today-rahul-gupta-4jo1",
     "topic": "general"
   }
 ]
