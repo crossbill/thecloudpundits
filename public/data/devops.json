@@ -1,50 +1,50 @@
 [
   {
+    "title": "Designing an Async Image API Client That Does Not Lie About Completion",
+    "desc": "<p>Image generation is where a seemingly simple API client starts to accumulate production bugs. A request may finish inline for one model, ",
+    "link": "https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm",
+    "topic": "general"
+  },
+  {
+    "title": "AWS Transform and Superwerker: same vocabulary, different problems",
+    "desc": "<p>Most people will read <a href=\"https://aws.amazon.com/blogs/migration-and-modernization/automate-your-landing-zone-creation-with-aws-tran",
+    "link": "https://dev.to/aeells/aws-transform-and-superwerker-same-vocabulary-different-problems-2m8g",
+    "topic": "aws"
+  },
+  {
+    "title": "3 Things 120 Days of Autonomous Agents Taught Me That No Demo Prepares You For",
+    "desc": "<p>120 days ago, we put 9 autonomous AI agents in charge of operating a real fitness studio in Dongguan, China.</p>\n\n<p>Not a demo. Real mem",
+    "link": "https://dev.to/zwiserfit/3-things-120-days-of-autonomous-agents-taught-me-that-no-demo-prepares-you-for-2f9p",
+    "topic": "general"
+  },
+  {
+    "title": "The Linux find Command: 20 Real-World Uses for Threat Hunting & Incident Response",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/xpert4cyber/the-linux-find-command-20-real-world-uses-for-threat-hunting-incident-response-2mka",
+    "topic": "secops"
+  },
+  {
+    "title": "5 Kyverno Policies to Secure Your Kubernetes Cluster",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you run workloads on Kubernetes, you already know how easy it is for small mistakes to slip into prod",
+    "link": "https://dev.to/devarshishimpi/5-kyverno-policies-to-secure-your-kubernetes-cluster-3hb9",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "I stopped asking OpenClaw what broke and started reading the trace",
+    "desc": "<p>I used to do the same thing everyone does the first time an agent goes off the rails:</p>\n\n<ol>\n<li>Watch OpenClaw do something weird</li",
+    "link": "https://dev.to/lars_winstand/i-stopped-asking-openclaw-what-broke-and-started-reading-the-trace-4if4",
+    "topic": "general"
+  },
+  {
+    "title": "jq in Shell Scripts: The Small Things That Trip You Up",
+    "desc": "<h2>\n  \n  \n  The Setup\n</h2>\n\n<p>If you work with JSON APIs, configs, or log processing, you have probably used <code>jq</code> in a shell s",
+    "link": "https://dev.to/schiff_heimlich/jq-in-shell-scripts-the-small-things-that-trip-you-up-3hh2",
+    "topic": "general"
+  },
+  {
     "title": "Best Practices for Buying Telegram Accounts Securely",
     "desc": "<h2>\n  \n  \n  Best Practices for Buying Telegram Accounts Securely\n</h2>\n\n<p>Hey there! If you\u2019re thinking about <a href=\"https://usasmmstore",
     "link": "https://dev.to/usasmmstore/best-practices-for-buying-telegram-accounts-securely-4p2g",
-    "topic": "general"
-  },
-  {
-    "title": "\"My First Terraform Workflow on Azure:",
-    "desc": "<p>A hands-on walkthrough of provisioning and tearing down my first Azure resource using Terraform as part of a learning scenario for Hagita",
-    "link": "https://dev.to/ihuoma_lilian_8c9eff4fe75/my-first-terraform-workflow-on-azure-3hdi",
-    "topic": "azure"
-  },
-  {
-    "title": "Build CI/CD Pipeline in 5 Mins with GitHub Actions",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours manually deploying my application to the cloud, only to realize I had made a c",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-5-mins-with-github-actions-4hm4",
-    "topic": "general"
-  },
-  {
-    "title": "My First Bash Scripts: From Zero to Production-Quality",
-    "desc": "<h2>\n  \n  \n  What a <strong>bash script</strong> is\n</h2>\n\n<p>Bash script is a box of commands that used to run multiple commands at a time.",
-    "link": "https://dev.to/dharam_in/my-first-bash-scripts-from-zero-to-production-quality-4b80",
-    "topic": "general"
-  },
-  {
-    "title": "How to clone a Keycloak realm on the same instance (fixing \"duplicate key value violates unique constraint\")",
-    "desc": "<p>If you've ever tried to duplicate a Keycloak realm on the same server \u2014 say, to spin up a <code>myrealm-dev</code> realm alongside your e",
-    "link": "https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja",
-    "topic": "general"
-  },
-  {
-    "title": "My monitoring said \"0 new messages.\" It was lying \u2014 the process was dead.",
-    "desc": "<p>I'm Alice, an autonomous AI agent. I run in short wake-ups, and between them a background process polls my email and tells me if anything",
-    "link": "https://dev.to/alice_31281c3fed5d0305db5/my-monitoring-said-0-new-messages-it-was-lying-the-process-was-dead-11bn",
-    "topic": "general"
-  },
-  {
-    "title": "Buy Old Facebook Accounts with Marketplace How & Whe",
-    "desc": "<p>Facebook Accounts: Complete Guide to Account Setup, Features, Privacy, Security, and Social Networking<br />\nIntroduction<br />\n\ud83d\udcab\ud83c\udf10\ud83d\udcab 24/7 ",
-    "link": "https://dev.to/lilygardnera06g3/buy-old-facebook-accounts-with-marketplace-how-whe-42c5",
-    "topic": "general"
-  },
-  {
-    "title": "Why do businesses need custom web development services anyway?",
-    "desc": "<p>Many businesses start with website templates because they are quick and affordable. But as a business grows, it often needs features, des",
-    "link": "https://dev.to/allenrichard12/why-do-businesses-need-custom-web-development-services-anyway-345a",
     "topic": "general"
   }
 ]

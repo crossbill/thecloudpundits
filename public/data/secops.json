@@ -1,5 +1,11 @@
 [
   {
+    "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
+    "desc": "<p>Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
+    "topic": "general"
+  },
+  {
     "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
     "desc": "<p>Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 m",
     "link": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
@@ -40,11 +46,5 @@
     "desc": "<p>A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.</p>\n<p>The post <a",
     "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
     "topic": "general"
-  },
-  {
-    "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
-    "desc": "<p>The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
-    "topic": "secops"
   }
 ]
