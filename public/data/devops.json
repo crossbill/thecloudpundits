@@ -1,5 +1,23 @@
 [
   {
+    "title": "Interactive Rebase in Git: Edit Your History Like a Pro",
+    "desc": "<p>You've been working on a feature for two days. Twelve commits. One says \"fix\", another \"more fixes\", one says \"ok now it works\", and thre",
+    "link": "https://dev.to/fj_palacios/interactive-rebase-in-git-edit-your-history-like-a-pro-1h0i",
+    "topic": "general"
+  },
+  {
+    "title": "Build CI/CD Pipeline in 10 Mins with GitHub Actions",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 70% of CI/CD pipelines take over an hour to set up, but with GitHub Actions, you can b",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-github-actions-37aj",
+    "topic": "general"
+  },
+  {
+    "title": "How to usar Docker secrets e volumes na pratica",
+    "desc": "<p>Docker secrets e volumes resolvem dois problemas que aparecem em todo projeto: passar dados sensiveis para dentro do container sem deixar",
+    "link": "https://dev.to/isaias_velasquez_d2261770/how-to-usar-docker-secrets-e-volumes-na-pratica-2aj2",
+    "topic": "docker"
+  },
+  {
     "title": "Step\u2011by\u2011step guide to debug Gemma 4B deployments on Google Cloud TPU v6e\u20111. Covers MCP setup and Antigravity CLI usage. https://",
     "desc": "<p>Step\u2011by\u2011step guide to debug Gemma 4B deployments on Google Cloud TPU v6e\u20111. Covers MCP setup and Antigravity CLI usage. <a href=\"https://",
     "link": "https://dev.to/atheerium/step-by-step-guide-to-debug-gemma-4b-deployments-on-google-cloud-tpu-v6e-1-covers-mcp-setup-and-1nj3",
@@ -28,23 +46,5 @@
     "desc": "<p>Gemma 4B deploys to Google Cloud TPU v6e-1. Get a step-by-step debugging guide. <a href=\"https://dev.to/gde/debugging-deployments-with-ge",
     "link": "https://dev.to/atheerium/gemma-4b-deploys-to-google-cloud-tpu-v6e-1-get-a-step-by-step-debugging-guide-j2i",
     "topic": "gcp"
-  },
-  {
-    "title": "Cloud Migration Services UK: A Decision-Maker Guide",
-    "desc": "<p>For leaders evaluating cloud migration services uk, the challenge is rarely just moving servers from one environment to another. The real",
-    "link": "https://dev.to/esparksit/cloud-migration-services-uk-a-decision-maker-guide-4mnf",
-    "topic": "general"
-  },
-  {
-    "title": "Chatto opens source for self-hosted encrypted team chat",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Chatto, a group and team chat application, is now open source and available for self-hosting.</li>\n<li>Ch",
-    "link": "https://dev.to/crescevo/chatto-opens-source-for-self-hosted-encrypted-team-chat-bpn",
-    "topic": "general"
-  },
-  {
-    "title": "Designing an Async Image API Client That Does Not Lie About Completion",
-    "desc": "<p>Image generation is where a seemingly simple API client starts to accumulate production bugs. A request may finish inline for one model, ",
-    "link": "https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm",
-    "topic": "general"
   }
 ]
