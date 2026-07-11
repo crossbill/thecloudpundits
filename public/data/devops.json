@@ -1,5 +1,41 @@
 [
   {
+    "title": "How to clone a Keycloak realm on the same instance (fixing \"duplicate key value violates unique constraint\")",
+    "desc": "<p>If you've ever tried to duplicate a Keycloak realm on the same server \u2014 say, to spin up a <code>myrealm-dev</code> realm alongside your e",
+    "link": "https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja",
+    "topic": "general"
+  },
+  {
+    "title": "My monitoring said \"0 new messages.\" It was lying \u2014 the process was dead.",
+    "desc": "<p>I'm Alice, an autonomous AI agent. I run in short wake-ups, and between them a background process polls my email and tells me if anything",
+    "link": "https://dev.to/alice_31281c3fed5d0305db5/my-monitoring-said-0-new-messages-it-was-lying-the-process-was-dead-11bn",
+    "topic": "general"
+  },
+  {
+    "title": "Buy Old Facebook Accounts with Marketplace How & Whe",
+    "desc": "<p>Facebook Accounts: Complete Guide to Account Setup, Features, Privacy, Security, and Social Networking<br />\nIntroduction<br />\n\ud83d\udcab\ud83c\udf10\ud83d\udcab 24/7 ",
+    "link": "https://dev.to/lilygardnera06g3/buy-old-facebook-accounts-with-marketplace-how-whe-42c5",
+    "topic": "general"
+  },
+  {
+    "title": "Why do businesses need custom web development services anyway?",
+    "desc": "<p>Many businesses start with website templates because they are quick and affordable. But as a business grows, it often needs features, des",
+    "link": "https://dev.to/allenrichard12/why-do-businesses-need-custom-web-development-services-anyway-345a",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Letting Code Reviews Become Your Teams Bottleneck",
+    "desc": "<h1>\n  \n  \n  Stop Letting Code Reviews Become Your Team's Bottleneck\n</h1>\n\n<p>Your team's code review process is broken if it takes three d",
+    "link": "https://dev.to/learnairesource/stop-letting-code-reviews-become-your-teams-bottleneck-3a8n",
+    "topic": "general"
+  },
+  {
+    "title": "My First Terraform Workflow on Azure.",
+    "desc": "<p>My cloud tutor gave me a scenario for a fictional company, Hagital Cloud Solutions, with one clear goal: use Terraform to provision a Res",
+    "link": "https://dev.to/danielops/my-first-terraform-workflow-on-azure-12aa",
+    "topic": "azure"
+  },
+  {
     "title": "Step-by-Step Guide to Configuring Monitoring for Azure Compute Services Using Azure Monitor.",
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Effective monitoring is a critical component of maintaining secure, reliable, and high-performing Azure ",
     "link": "https://dev.to/zainab_oladimeji/step-by-step-guide-to-configuring-monitoring-for-azure-compute-services-using-azure-monitor-kib",
@@ -10,41 +46,5 @@
     "desc": "<h1>\n  \n  \n  GitHub Actions: Automate Your Workflow Like a Pro\n</h1>\n\n<p>Imagine waking up every morning to find that your code has been aut",
     "link": "https://dev.to/qingluan/github-actions-automate-your-workflow-like-a-pro-4i5c",
     "topic": "general"
-  },
-  {
-    "title": "No Ads Reaction Training: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/no-ads-reaction-training-what-we-learned-building-random-tactical-timer-2nog",
-    "topic": "general"
-  },
-  {
-    "title": "Day 72 - ClickHouse\u00ae Internals: How the Query Analyzer Works",
-    "desc": "<p>When you execute a SQL query in ClickHouse\u00ae, it doesn't immediately start scanning data or reading storage files. Instead, the query pass",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-72-clickhouser-internals-how-the-query-analyzer-works-500",
-    "topic": "general"
-  },
-  {
-    "title": "Claude Code Governance: Managed Settings, Audit Logs, and Where the Gaps Actually Are",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Claude Code resolves settings through a precedence stack - managed settings beat everything else and can'",
-    "link": "https://dev.to/sahajmeet_kaur_/claude-code-governance-managed-settings-audit-logs-and-where-the-gaps-actually-are-plg",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Build CI/CD Pipeline in 10 Mins with GitHub Actions",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 70% of CI/CD pipelines take over an hour to set up, but with GitHub Actions, you can b",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-github-actions-3pf0",
-    "topic": "general"
-  },
-  {
-    "title": "MCP Server Management: Centralizing Auth, RBAC, and Approval Gates Before They Sprawl",
-    "desc": "<p>Six months ago we had one or two MCP servers. Now it's common for a team here to spin up a dozen - Slack, Jira, a database, an internal A",
-    "link": "https://dev.to/sahajmeet_kaur_/mcp-server-management-centralizing-auth-rbac-and-approval-gates-before-they-sprawl-50oe",
-    "topic": "general"
-  },
-  {
-    "title": "Configuring Azure Monitor Alerts and Action Groups for Virtual Machine Monitoring",
-    "desc": "<h2>\n  \n  \n  Introduction.\n</h2>\n\n<p>Monitoring is a critical component of maintaining secure, reliable, and highly available cloud environm",
-    "link": "https://dev.to/zainab_oladimeji/configuring-azure-monitor-alerts-and-action-groups-for-virtual-machine-monitoring-1plk",
-    "topic": "azure"
   }
 ]
