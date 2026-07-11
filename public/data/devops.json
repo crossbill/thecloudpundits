@@ -1,5 +1,11 @@
 [
   {
+    "title": "Step\u2011by\u2011step guide to debug Gemma 4B deployments on Google Cloud TPU v6e\u20111. Covers MCP setup and Antigravity CLI usage. https://",
+    "desc": "<p>Step\u2011by\u2011step guide to debug Gemma 4B deployments on Google Cloud TPU v6e\u20111. Covers MCP setup and Antigravity CLI usage. <a href=\"https://",
+    "link": "https://dev.to/atheerium/step-by-step-guide-to-debug-gemma-4b-deployments-on-google-cloud-tpu-v6e-1-covers-mcp-setup-and-1nj3",
+    "topic": "gcp"
+  },
+  {
     "title": "Label-Driven Agentic Workflows: Building Autonomous Software Pipelines Without a Workflow Engine",
     "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Instead of building yet another orchestration layer, use the labels in your existing issue tracker (",
     "link": "https://dev.to/serifcolakel/label-driven-agentic-workflows-building-autonomous-software-pipelines-without-a-workflow-engine-16d1",
@@ -40,11 +46,5 @@
     "desc": "<p>Image generation is where a seemingly simple API client starts to accumulate production bugs. A request may finish inline for one model, ",
     "link": "https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm",
     "topic": "general"
-  },
-  {
-    "title": "AWS Transform and Superwerker: same vocabulary, different problems",
-    "desc": "<p>Most people will read <a href=\"https://aws.amazon.com/blogs/migration-and-modernization/automate-your-landing-zone-creation-with-aws-tran",
-    "link": "https://dev.to/aeells/aws-transform-and-superwerker-same-vocabulary-different-problems-2m8g",
-    "topic": "aws"
   }
 ]
