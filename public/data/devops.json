@@ -1,50 +1,50 @@
 [
   {
-    "title": "A practical checklist for migrating an Ubuntu or Debian VPS",
-    "desc": "<p>Changing VPS providers sounds simple until you list everything that actually lives on the server.</p>\n\n<p>The application files are usual",
-    "link": "https://dev.to/oguzhankrcb/a-practical-checklist-for-migrating-an-ubuntu-or-debian-vps-41c6",
+    "title": "100 Days of DevOps and Cloud (AWS), Day 9: A Database That Won't Start Is Usually a Permissions Problem",
+    "desc": "<p>When a service refuses to start, the instinct is to blame the service. Usually, the service itself is fine, and something around it is br",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-9-a-database-that-wont-start-is-usually-a-permissions-1cpk",
+    "topic": "aws"
+  },
+  {
+    "title": "Step\u2011by\u2011step guide for debugging Gemma 2B deployments on TPU v6e\u20111. Uses MCP and Antigravity CLI to launch Gemma 4 on Google Clo",
+    "desc": "<p>Step\u2011by\u2011step guide for debugging Gemma 2B deployments on TPU v6e\u20111. Uses MCP and Antigravity CLI to launch Gemma 4 on Google Cloud TPU. <",
+    "link": "https://dev.to/atheerium/step-by-step-guide-for-debugging-gemma-2b-deployments-on-tpu-v6e-1-uses-mcp-and-antigravity-cli-to-3ido",
     "topic": "general"
   },
   {
-    "title": "I Built a Free Shadow API Scanner and Found 269 Forgotten Routes in Ghost CMS",
-    "desc": "<p>How a weekend project turned into a production tool with 875+ npm downloads in 48 hours \u2014 and why your codebase probably has shadow APIs ",
-    "link": "https://dev.to/darkmaster0345/i-built-a-free-shadow-api-scanner-and-found-269-forgotten-routes-in-ghost-cms-11eg",
+    "title": "Runbooks SRE para correos de guardia en Cloud",
+    "desc": "<p>Cuando un equipo cambia reglas de alertas, destinatarios o secretos del sistema de notificaciones, casi siempre valida dashboards, logs y",
+    "link": "https://dev.to/alexcarteruk/runbooks-sre-para-correos-de-guardia-en-cloud-51hb",
     "topic": "general"
   },
   {
-    "title": "Nginx + Python: The Perfect Production Setup",
-    "desc": "<h1>\n  \n  \n  Nginx + Python: The Perfect Production Setup\n</h1>\n\n<h3>\n  \n  \n  Why You Need Nginx and Python in Your Production Setup\n</h3>\n\n",
-    "link": "https://dev.to/qingluan/nginx-python-the-perfect-production-setup-12f4",
+    "title": "70 false alerts a day \u2014 why uptime monitors cry wolf \u2014 and what the fix costs",
+    "desc": "<p>There is a sentence in a sysadmin thread that should end the career of any monitoring product: <em>\"anyone still on this service needs to",
+    "link": "https://dev.to/artem_meleshkin_0c4e0a675/70-false-alerts-a-day-why-uptime-monitors-cry-wolf-and-what-the-fix-costs-nnl",
     "topic": "general"
   },
   {
-    "title": "How to Deploy Your Python App on a $5/Month Server",
-    "desc": "<h1>\n  \n  \n  How to Deploy Your Python App on a $5/Month Server\n</h1>\n\n<h2>\n  \n  \n  Deploying Your Python App on a $5/Month Server: A Step-b",
-    "link": "https://dev.to/qingluan/how-to-deploy-your-python-app-on-a-5month-server-15g0",
+    "title": "I got scammed what do I do, I contacted Mighty Hacker Recovery",
+    "desc": "<p>**I lost $292,900 in Bitcoin after investing with an online mining company. After realizing I had been scammed, I spent a long time searc",
+    "link": "https://dev.to/jude_martins_0720dad297cf/i-got-scammed-what-do-i-do-i-contacted-mighty-hacker-recovery-a52",
     "topic": "general"
   },
   {
-    "title": "The Linux locate Command: A Faster Alternative to find (With Security Use Cases)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/the-linux-locate-command-a-faster-alternative-to-find-with-security-use-cases-3hd6",
-    "topic": "secops"
-  },
-  {
-    "title": "Killing the Shared Proxy: Direct Routing to Per-Customer Containers on Docker Swarm",
-    "desc": "<h3>\n  \n  \n  We already ran one container per customer \u2014 but every request was relayed through a single shared one. Here's how we cut it out",
-    "link": "https://dev.to/sourav_sarkar_78787d235fa/killing-the-shared-proxy-direct-routing-to-per-customer-containers-on-docker-swarm-2h79",
-    "topic": "docker"
-  },
-  {
-    "title": "DRY Infrastructure: How to Architect Modular Ansible Playbooks for Next.js",
-    "desc": "<p>Infrastructure code suffers from the same antipatterns as application code, duplication, tight coupling, undocumented assumptions, and a ",
-    "link": "https://dev.to/actocodes/dry-infrastructure-how-to-architect-modular-ansible-playbooks-for-nextjs-11h4",
+    "title": "CI is green. Your release may still be risky.",
+    "desc": "<p>Every team has a moment like this: CI passes, the PR gets merged, the deploy goes out \u2014 and two hours later someone's asking why checkout",
+    "link": "https://dev.to/dulvarn/ci-is-green-your-release-may-still-be-risky-3c7m",
     "topic": "general"
   },
   {
-    "title": "Comment an Entire File in Vim in Seconds (Two Methods Every Developer Should Know)",
-    "desc": "<p>Whether you're debugging, testing a new implementation, or temporarily disabling code, there are times when you need to comment out an en",
-    "link": "https://dev.to/saint_vandora/comment-an-entire-file-in-vim-in-seconds-two-methods-every-developer-should-know-k78",
+    "title": "WorkerDeck is now on PyPI (and its own test suite fell into the zombie trap)",
+    "desc": "<p>A few days ago I wrote about the bug that taught me how to run one process<br />\nper user<br />\nand extracted the solution into a small l",
+    "link": "https://dev.to/gritfelddesign/workerdeck-is-now-on-pypi-and-its-own-test-suite-fell-into-the-zombie-trap-5cd5",
+    "topic": "general"
+  },
+  {
+    "title": "Bun ditches Zig for Rust to boost performance",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Bun was initially written in Zig and has gained significant traction with over 22 million monthly downloa",
+    "link": "https://dev.to/crescevo/bun-ditches-zig-for-rust-to-boost-performance-4bn4",
     "topic": "general"
   }
 ]
