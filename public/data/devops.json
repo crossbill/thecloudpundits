@@ -1,5 +1,23 @@
 [
   {
+    "title": "Killing the Shared Proxy: Direct Routing to Per-Customer Containers on Docker Swarm",
+    "desc": "<h3>\n  \n  \n  We already ran one container per customer \u2014 but every request was relayed through a single shared one. Here's how we cut it out",
+    "link": "https://dev.to/sourav_sarkar_78787d235fa/killing-the-shared-proxy-direct-routing-to-per-customer-containers-on-docker-swarm-2h79",
+    "topic": "docker"
+  },
+  {
+    "title": "DRY Infrastructure: How to Architect Modular Ansible Playbooks for Next.js",
+    "desc": "<p>Infrastructure code suffers from the same antipatterns as application code, duplication, tight coupling, undocumented assumptions, and a ",
+    "link": "https://dev.to/actocodes/dry-infrastructure-how-to-architect-modular-ansible-playbooks-for-nextjs-11h4",
+    "topic": "general"
+  },
+  {
+    "title": "Comment an Entire File in Vim in Seconds (Two Methods Every Developer Should Know)",
+    "desc": "<p>Whether you're debugging, testing a new implementation, or temporarily disabling code, there are times when you need to comment out an en",
+    "link": "https://dev.to/saint_vandora/comment-an-entire-file-in-vim-in-seconds-two-methods-every-developer-should-know-k78",
+    "topic": "general"
+  },
+  {
     "title": "Enhancing CI/CD and E2E Testing with Sentry Integration in tvview",
     "desc": "<h1>\n  \n  \n  Enhancing CI/CD and E2E Testing with Sentry Integration in tvview\n</h1>\n\n<p><strong>TL;DR:</strong> I integrated Sentry for err",
     "link": "https://dev.to/zaerohell/enhancing-cicd-and-e2e-testing-with-sentry-integration-in-tvview-2e8a",
@@ -27,24 +45,6 @@
     "title": "Give Your CI Pipeline an Error Budget Before Adding AI Triage",
     "desc": "<p>An AI-generated explanation cannot rescue an unhealthy CI pipeline. If jobs wait unpredictably, runners disappear, retries hide flakes, o",
     "link": "https://dev.to/odd_background_328/give-your-ci-pipeline-an-error-budget-before-adding-ai-triage-3j4g",
-    "topic": "general"
-  },
-  {
-    "title": "Kubeletto: The Free, Kubernetes-Powered Way to Deploy Your App in Minutes",
-    "desc": "<p>If you've been building on the web for more than a few years, you remember the golden age of \"just deploy it.\" <code>git push heroku main",
-    "link": "https://dev.to/benelabs/kubeletto-the-free-kubernetes-powered-way-to-deploy-your-app-in-minutes-25on",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Kubernetes for Beginners: Deploy Your First App",
-    "desc": "<h1>\n  \n  \n  Kubernetes for Beginners: Deploy Your First App\n</h1>\n\n<p>Imagine having a superpower that allows you to deploy, manage, and sc",
-    "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-2okk",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Everyone is talking about building smarter AI agents.",
-    "desc": "<p>Building AI agents is becoming easier.</p>\n\n<p>Securing them is becoming much harder.</p>\n\n<p>Most prompt injection discussions focus on ",
-    "link": "https://dev.to/neuralcoretech/everyone-is-talking-about-building-smarter-ai-agents-2b55",
     "topic": "general"
   }
 ]
