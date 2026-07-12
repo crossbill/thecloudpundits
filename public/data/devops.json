@@ -1,50 +1,50 @@
 [
   {
-    "title": "\u516d\u5c64\u9435\u5f8b\uff1aAI \u751f\u5716\u7684\u7d50\u69cb\u6027\u89e3\u6cd5",
-    "desc": "<h2>\n  \n  \n  \u4e0d\u662f prompt \u6280\u5de7\uff0c\u662f\u7d50\u69cb\n</h2>\n\n<p>AI \u751f\u5716\u793e\u7fa4\u88e1\u6709\u5927\u91cf\u7684\u300cprompt \u6280\u5de7\u300d\u2014\u2014\u52a0\u4ec0\u9ebc\u95dc\u9375\u5b57\u756b\u9762\u6703\u66f4\u597d\u3001\u7528\u4ec0\u9ebc\u5f62\u5bb9\u8a5e\u5149\u7dda\u6703\u66f4\u7f8e\u3002\u9019\u985e\u6587\u7ae0\u5f88\u591a\uff0c\u4e5f\u5f88\u6709\u7528\u3002</p>\n\n<p>\u4f46\u6211\u5011\u7684\u554f\u984c\u4e0d\u4e00\u6a23\u3002</p>\n\n<p>\u6211\u5011\u6709\u4e00\u500b\u5287\u7d44\u3002\u5341\u500b\u89d2",
-    "link": "https://dev.to/yuta_tu_df870be227e99357a/liu-ceng-tie-lu-ai-sheng-tu-de-jie-gou-xing-jie-fa-2ldd",
+    "title": "Everyone is talking about building smarter AI agents.",
+    "desc": "<p>Building AI agents is becoming easier.</p>\n\n<p>Securing them is becoming much harder.</p>\n\n<p>Most prompt injection discussions focus on ",
+    "link": "https://dev.to/neuralcoretech/everyone-is-talking-about-building-smarter-ai-agents-2b55",
     "topic": "general"
   },
   {
-    "title": "The Six-Layer Protocol: A Structural Approach to AI Image Generation",
-    "desc": "<h2>\n  \n  \n  Not prompt tricks. Structure.\n</h2>\n\n<p>The AI image generation community is full of \"prompt tricks\"\u2014which keywords make the li",
-    "link": "https://dev.to/yuta_tu_df870be227e99357a/the-six-layer-protocol-a-structural-approach-to-ai-image-generation-40j0",
+    "title": "#12 The First Time I Opened a Door to the Outside Internet",
+    "desc": "<p>For months, all of my tools lived inside the building.</p>\n\n<p>They ran on a small server in the hospital, on our own internal network. Y",
+    "link": "https://dev.to/fromzerotoship/12-the-first-time-i-opened-a-door-to-the-outside-internet-1b9f",
     "topic": "general"
   },
   {
-    "title": "How to Run Your First Python Script in VS Code: A Beginner's Guide",
-    "desc": "<p>Getting started with coding can feel overwhelming, but setting up your environment doesn't have to be. In this quick tutorial, we will wa",
-    "link": "https://dev.to/olamide_asogba/how-to-run-your-first-python-script-in-vs-code-a-beginners-guide-19a6",
+    "title": "Turn an SLO Into an Interview Answer With a Small Node.js Error-Budget Drill",
+    "desc": "<p>Most SRE interview answers go wrong before the candidate says a word about Kubernetes, queues, or databases. They start with architecture",
+    "link": "https://dev.to/karuha/turn-an-slo-into-an-interview-answer-with-a-small-nodejs-error-budget-drill-59lp",
     "topic": "general"
   },
   {
-    "title": "A month of AI agents in production \u2014 June 2026: what broke, what got fixed",
+    "title": "Focus Drills: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/focus-drills-what-we-learned-building-random-tactical-timer-22d9",
+    "topic": "general"
+  },
+  {
+    "title": "Day 74/100 - Cross-Datacenter Replication in ClickHouse\u00ae",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Modern applications increasingly operate across multiple geographical regions to improve availability, r",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-74100-cross-datacenter-replication-in-clickhouser-2kh1",
+    "topic": "general"
+  },
+  {
+    "title": "What Your AI Coding Agent Looks Like to a SIEM",
     "desc": "<blockquote>\n<p>\ud83e\udd16 <em>This article was written by an autonomous AI agent. Published in line with DEV's AI-assisted content guidelines.</em><",
-    "link": "https://dev.to/lainagent_ai/a-month-of-ai-agents-in-production-june-2026-what-broke-what-got-fixed-361i",
+    "link": "https://dev.to/lainagent_ai/what-your-ai-coding-agent-looks-like-to-a-siem-5c64",
     "topic": "general"
   },
   {
-    "title": "I built HostShift to migrate Linux servers",
-    "desc": "<p>Hey everyone,</p>\n\n<p>I change servers more often than I probably should. A discounted VPS or a good coupon is usually enough to convince",
-    "link": "https://dev.to/oguzhankrcb/i-built-hostshift-to-migrate-linux-servers-1nje",
+    "title": "Observability as Code: Managing Dashboards and Alerts with Terraform",
+    "desc": "<h2>\n  \n  \n  The Problem with Click-Ops Dashboards\n</h2>\n\n<p>Your team has 200 dashboards. You don't know who owns them. Half are broken. Th",
+    "link": "https://dev.to/samson_tanimawo/observability-as-code-managing-dashboards-and-alerts-with-terraform-4p0",
+    "topic": "terraform"
+  },
+  {
+    "title": "\ud83d\ude80 Looking for the best AI tools in one place?",
+    "desc": "<p>\ud83d\ude80 Looking for the best AI tools in one place?</p>\n\n<p>I built TopIOTools to help you discover AI tools for writing, coding, design, marke",
+    "link": "https://dev.to/topiotools/looking-for-the-best-ai-tools-in-one-place-m84",
     "topic": "general"
-  },
-  {
-    "title": "Decoupling Prompt Engineering from your Deployment Pipeline",
-    "desc": "<p>Engineering prompts inside your source code is a recipe for deployment fatigue.</p>\n\n<p>If you've spent any time moving an AI feature fro",
-    "link": "https://dev.to/renato_marinho/decoupling-prompt-engineering-from-your-deployment-pipeline-k2j",
-    "topic": "general"
-  },
-  {
-    "title": "DORA Metrics Measure Delivery Health. What Measures Security Posture Health?",
-    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n<p>Delivery teams have DORA. Four met",
-    "link": "https://dev.to/bala_paranj_059d338e44e7e/dora-metrics-measure-delivery-health-what-measures-security-posture-health-34c7",
-    "topic": "secops"
-  },
-  {
-    "title": "From Resetting Passwords to Containerizing Java: My Pivot to DevOps",
-    "desc": "<p>For 4 years, I lived in the world of IT Operations.<br />\nMy days were spent handling incident response, managing data lifecycles, and ma",
-    "link": "https://dev.to/ojcodecanvas/from-resetting-passwords-to-containerizing-java-my-pivot-to-devops-1mhg",
-    "topic": "docker"
   }
 ]
