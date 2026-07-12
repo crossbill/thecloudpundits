@@ -1,50 +1,50 @@
 [
   {
+    "title": "Cloud Cost Control Needs Ownership, Not Just Dashboards",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/aicloudstrategist/cloud-cost-control-needs-ownership-not-just-dashboards-34ib",
+    "topic": "general"
+  },
+  {
+    "title": "The Recon Refuted the Task: Building Infrastructure With an Agent You Can Trust",
+    "desc": "<p>I asked an agent to build a monitor: something to watch the background jobs across my servers and tell me when one broke. It came back an",
+    "link": "https://dev.to/danmercede/the-recon-refuted-the-task-building-infrastructure-with-an-agent-you-can-trust-2o07",
+    "topic": "general"
+  },
+  {
+    "title": "AI Companion in Production by Month Three: 5 Architecture Decisions and Infra Tuning",
+    "desc": "<h1>\n  \n  \n  AI Companion in Production by Month Three: 5 Architecture Decisions and Infra Tuning\n</h1>\n\n<p>Anyone who has tried to build an",
+    "link": "https://dev.to/david_chejo/ai-companion-in-production-by-month-three-5-architecture-decisions-and-infra-tuning-jc0",
+    "topic": "general"
+  },
+  {
+    "title": "Your Redundancy Math Assumes Independence. Production Doesn't.",
+    "desc": "<h2>\n  \n  \n  The problem\n</h2>\n\n<p>Every redundancy calculation you've ever been handed \u2014 RAID fault tolerance, N+1 replica math, \"three nin",
+    "link": "https://dev.to/speed_engineer/your-redundancy-math-assumes-independence-production-doesnt-17h8",
+    "topic": "general"
+  },
+  {
+    "title": "\u2601\ufe0f Uploading files to Azure Blob Storage with azure blob storage python upload example made easy",
+    "desc": "<h2>\n  \n  \n  \ud83d\ude80 Prerequisites \u2014 Why They <em>Matter</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/",
+    "link": "https://dev.to/ptp2308/uploading-files-to-azure-blob-storage-with-azure-blob-storage-python-upload-example-made-easy-4hk9",
+    "topic": "azure"
+  },
+  {
+    "title": "Navigating Data Egress Fees: A Hidden Cloud Cost for Startups",
+    "desc": "<h2>\n  \n  \n  Key takeaways\n</h2>\n\n<ul>\n<li>Data egress fees can exceed 30% of total cloud costs.</li>\n<li>Understanding egress costs is cruc",
+    "link": "https://dev.to/kapil/navigating-data-egress-fees-a-hidden-cloud-cost-for-startups-268e",
+    "topic": "general"
+  },
+  {
+    "title": "ViciDial API Integration \u2014 Click-to-Call & CRM Webhooks",
+    "desc": "<h1>\n  \n  \n  ViciDial API Integration \u2014 Click-to-Call & CRM Webhooks\n</h1>\n\n<p><strong>Master ViciDial's REST API and webhook system to buil",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-api-integration-click-to-call-crm-webhooks-2cf0",
+    "topic": "general"
+  },
+  {
     "title": "Message Queues (SQS)",
     "desc": "<blockquote>\n<p><strong>One-liner:</strong> A message queue decouples services by letting a producer drop messages into a queue, where consu",
     "link": "https://dev.to/gouranga-das-khulna/message-queues-sqs-nj7",
     "topic": "general"
-  },
-  {
-    "title": "I finally found an always-on voice setup that my family wouldn\u2019t abandon after 2 days",
-    "desc": "<p>I\u2019ve become deeply suspicious of voice demos.</p>\n\n<p>You\u2019ve seen the pattern: someone talks to an agent, there\u2019s a weird pause, the mode",
-    "link": "https://dev.to/lars_winstand/i-finally-found-an-always-on-voice-setup-that-my-family-wouldnt-abandon-after-2-days-4na4",
-    "topic": "general"
-  },
-  {
-    "title": "Docker Networking, Demystified: Bridge, Host, and Container DNS",
-    "desc": "<p>Most people meet Docker networking the same way I did: two containers that should be able to talk to each other, and one of them stubborn",
-    "link": "https://dev.to/jjoyneriv/docker-networking-demystified-bridge-host-and-container-dns-5fac",
-    "topic": "docker"
-  },
-  {
-    "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
-    "desc": "<p>I spent three months and nearly $500 on GPUs, power supplies, and cooling fans. I told myself I was building the ultimate local AI rig\u2014no",
-    "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-2afe",
-    "topic": "general"
-  },
-  {
-    "title": "\ud83d\ude80 Calling all DevOps, SRE, and Platform Engineers! Let\u2019s build the future of AI for DevOps together.",
-    "desc": "<p>Over the last few years, I've been exploring AI agents, and one thing became obvious.<br />\nThere are hundreds of AI agents available tod",
-    "link": "https://dev.to/lakhera2015/calling-all-devops-sre-and-platform-engineers-lets-build-the-future-of-ai-for-devops-together-4i2i",
-    "topic": "general"
-  },
-  {
-    "title": "Bruno vs Postman: Git-Native Client vs Cloud Platform (2026)",
-    "desc": "<p>A source-based comparison of Bruno's Git-native, local-first API client and Postman's cloud platform \u2014 covering architecture, features, c",
-    "link": "https://dev.to/kimcomplete/bruno-vs-postman-git-native-client-vs-cloud-platform-2026-5a8e",
-    "topic": "general"
-  },
-  {
-    "title": "Scaling PgBouncer to 4x Throughput: A Technical Deep Dive into PostgreSQL Connection Pooling Optimization",
-    "desc": "<p><em>Originally published on <a href=\"https://tamiz.pro/insights/scaling-pgbouncer-throughput-postgresql-connection-pooling-optimization\" ",
-    "link": "https://dev.to/tamizuddin/scaling-pgbouncer-to-4x-throughput-a-technical-deep-dive-into-postgresql-connection-pooling-2bmj",
-    "topic": "general"
-  },
-  {
-    "title": "How I Built a Production Multi-Tenant SaaS on AWS for $94/month - And Almost Gave Up",
-    "desc": "<h1>\n  \n  \n  I Almost Quit This Project at 2am. I'm Glad I Didn't.\n</h1>\n\n<p>After OrderFlow I thought I understood AWS.</p>\n\n<p>I understoo",
-    "link": "https://dev.to/aboodi679/how-i-built-a-production-multi-tenant-saas-on-aws-for-94month-and-almost-gave-up-42d5",
-    "topic": "aws"
   }
 ]
