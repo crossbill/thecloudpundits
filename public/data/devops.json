@@ -1,50 +1,50 @@
 [
   {
+    "title": "Message Queues (SQS)",
+    "desc": "<blockquote>\n<p><strong>One-liner:</strong> A message queue decouples services by letting a producer drop messages into a queue, where consu",
+    "link": "https://dev.to/gouranga-das-khulna/message-queues-sqs-nj7",
+    "topic": "general"
+  },
+  {
+    "title": "I finally found an always-on voice setup that my family wouldn\u2019t abandon after 2 days",
+    "desc": "<p>I\u2019ve become deeply suspicious of voice demos.</p>\n\n<p>You\u2019ve seen the pattern: someone talks to an agent, there\u2019s a weird pause, the mode",
+    "link": "https://dev.to/lars_winstand/i-finally-found-an-always-on-voice-setup-that-my-family-wouldnt-abandon-after-2-days-4na4",
+    "topic": "general"
+  },
+  {
+    "title": "Docker Networking, Demystified: Bridge, Host, and Container DNS",
+    "desc": "<p>Most people meet Docker networking the same way I did: two containers that should be able to talk to each other, and one of them stubborn",
+    "link": "https://dev.to/jjoyneriv/docker-networking-demystified-bridge-host-and-container-dns-5fac",
+    "topic": "docker"
+  },
+  {
+    "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
+    "desc": "<p>I spent three months and nearly $500 on GPUs, power supplies, and cooling fans. I told myself I was building the ultimate local AI rig\u2014no",
+    "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-2afe",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\ude80 Calling all DevOps, SRE, and Platform Engineers! Let\u2019s build the future of AI for DevOps together.",
+    "desc": "<p>Over the last few years, I've been exploring AI agents, and one thing became obvious.<br />\nThere are hundreds of AI agents available tod",
+    "link": "https://dev.to/lakhera2015/calling-all-devops-sre-and-platform-engineers-lets-build-the-future-of-ai-for-devops-together-4i2i",
+    "topic": "general"
+  },
+  {
+    "title": "Bruno vs Postman: Git-Native Client vs Cloud Platform (2026)",
+    "desc": "<p>A source-based comparison of Bruno's Git-native, local-first API client and Postman's cloud platform \u2014 covering architecture, features, c",
+    "link": "https://dev.to/kimcomplete/bruno-vs-postman-git-native-client-vs-cloud-platform-2026-5a8e",
+    "topic": "general"
+  },
+  {
+    "title": "Scaling PgBouncer to 4x Throughput: A Technical Deep Dive into PostgreSQL Connection Pooling Optimization",
+    "desc": "<p><em>Originally published on <a href=\"https://tamiz.pro/insights/scaling-pgbouncer-throughput-postgresql-connection-pooling-optimization\" ",
+    "link": "https://dev.to/tamizuddin/scaling-pgbouncer-to-4x-throughput-a-technical-deep-dive-into-postgresql-connection-pooling-2bmj",
+    "topic": "general"
+  },
+  {
     "title": "How I Built a Production Multi-Tenant SaaS on AWS for $94/month - And Almost Gave Up",
     "desc": "<h1>\n  \n  \n  I Almost Quit This Project at 2am. I'm Glad I Didn't.\n</h1>\n\n<p>After OrderFlow I thought I understood AWS.</p>\n\n<p>I understoo",
     "link": "https://dev.to/aboodi679/how-i-built-a-production-multi-tenant-saas-on-aws-for-94month-and-almost-gave-up-42d5",
     "topic": "aws"
-  },
-  {
-    "title": "From FYP to Production AWS: How I Built My First Real Cloud Project (And How Many Times It Broke)",
-    "desc": "<p>My final year project was done.</p>\n\n<p>90/100. Top 8 at the exhibition. Supervisor happy. Committee happy.</p>\n\n<p>And I had absolutely ",
-    "link": "https://dev.to/aboodi679/how-i-built-a-production-multi-tenant-saas-on-aws-for-94month-and-almost-gave-up-1707",
-    "topic": "aws"
-  },
-  {
-    "title": "Interactive Rebase in Git: Edit Your History Like a Pro",
-    "desc": "<p>You've been working on a feature for two days. Twelve commits. One says \"fix\", another \"more fixes\", one says \"ok now it works\", and thre",
-    "link": "https://dev.to/fj_palacios/interactive-rebase-in-git-edit-your-history-like-a-pro-1h0i",
-    "topic": "general"
-  },
-  {
-    "title": "Build CI/CD Pipeline in 10 Mins with GitHub Actions",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 70% of CI/CD pipelines take over an hour to set up, but with GitHub Actions, you can b",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-github-actions-37aj",
-    "topic": "general"
-  },
-  {
-    "title": "How to usar Docker secrets e volumes na pratica",
-    "desc": "<p>Docker secrets e volumes resolvem dois problemas que aparecem em todo projeto: passar dados sensiveis para dentro do container sem deixar",
-    "link": "https://dev.to/isaias_velasquez_d2261770/how-to-usar-docker-secrets-e-volumes-na-pratica-2aj2",
-    "topic": "docker"
-  },
-  {
-    "title": "Step\u2011by\u2011step guide to debug Gemma 4B deployments on Google Cloud TPU v6e\u20111. Covers MCP setup and Antigravity CLI usage. https://",
-    "desc": "<p>Step\u2011by\u2011step guide to debug Gemma 4B deployments on Google Cloud TPU v6e\u20111. Covers MCP setup and Antigravity CLI usage. <a href=\"https://",
-    "link": "https://dev.to/atheerium/step-by-step-guide-to-debug-gemma-4b-deployments-on-google-cloud-tpu-v6e-1-covers-mcp-setup-and-1nj3",
-    "topic": "gcp"
-  },
-  {
-    "title": "Label-Driven Agentic Workflows: Building Autonomous Software Pipelines Without a Workflow Engine",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Instead of building yet another orchestration layer, use the labels in your existing issue tracker (",
-    "link": "https://dev.to/serifcolakel/label-driven-agentic-workflows-building-autonomous-software-pipelines-without-a-workflow-engine-16d1",
-    "topic": "general"
-  },
-  {
-    "title": "Optimize HikariCP for Dirt-Cheap VPS Hosting",
-    "desc": "<p>If you are running a Spring Boot app on a tiny \u20b9100/month VPS with 1GB RAM, the default settings will crash your server. The biggest sile",
-    "link": "https://dev.to/shubham_bhati/optimize-hikaricp-for-dirt-cheap-vps-hosting-5gg4",
-    "topic": "general"
   }
 ]
