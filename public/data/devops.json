@@ -1,50 +1,50 @@
 [
   {
+    "title": "Enhancing CI/CD and E2E Testing with Sentry Integration in tvview",
+    "desc": "<h1>\n  \n  \n  Enhancing CI/CD and E2E Testing with Sentry Integration in tvview\n</h1>\n\n<p><strong>TL;DR:</strong> I integrated Sentry for err",
+    "link": "https://dev.to/zaerohell/enhancing-cicd-and-e2e-testing-with-sentry-integration-in-tvview-2e8a",
+    "topic": "general"
+  },
+  {
+    "title": "Enhancing CI/CD and E2E Testing with Sentry Integration in GreenView",
+    "desc": "<h1>\n  \n  \n  Enhancing CI/CD and E2E Testing with Sentry Integration in GreenView\n</h1>\n\n<p>\u00a0</p>\n\n<p><strong>TL;DR:</strong> This article d",
+    "link": "https://dev.to/zaerohell/enhancing-cicd-and-e2e-testing-with-sentry-integration-in-greenview-d34",
+    "topic": "general"
+  },
+  {
+    "title": "Enhancing CraveView's CI/CD Pipeline with Sentry and E2E Tests",
+    "desc": "<h1>\n  \n  \n  Enhancing CraveView's CI/CD Pipeline with Sentry and E2E Tests\n</h1>\n\n<p>\u00a0</p>\n\n<p><strong>TL;DR:</strong> I upgraded CraveView",
+    "link": "https://dev.to/zaerohell/enhancing-craveviews-cicd-pipeline-with-sentry-and-e2e-tests-51ml",
+    "topic": "general"
+  },
+  {
+    "title": "Upgrading CI Workflows: From Node 20 to Node 22 and Actions v5/v6",
+    "desc": "<h1>\n  \n  \n  Upgrading CI Workflows: From Node 20 to Node 22 and Actions v5/v6\n</h1>\n\n<p>\u00a0</p>\n\n<p><strong>TL;DR:</strong> I upgraded the CI",
+    "link": "https://dev.to/zaerohell/upgrading-ci-workflows-from-node-20-to-node-22-and-actions-v5v6-13n",
+    "topic": "general"
+  },
+  {
+    "title": "Give Your CI Pipeline an Error Budget Before Adding AI Triage",
+    "desc": "<p>An AI-generated explanation cannot rescue an unhealthy CI pipeline. If jobs wait unpredictably, runners disappear, retries hide flakes, o",
+    "link": "https://dev.to/odd_background_328/give-your-ci-pipeline-an-error-budget-before-adding-ai-triage-3j4g",
+    "topic": "general"
+  },
+  {
+    "title": "Kubeletto: The Free, Kubernetes-Powered Way to Deploy Your App in Minutes",
+    "desc": "<p>If you've been building on the web for more than a few years, you remember the golden age of \"just deploy it.\" <code>git push heroku main",
+    "link": "https://dev.to/benelabs/kubeletto-the-free-kubernetes-powered-way-to-deploy-your-app-in-minutes-25on",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Kubernetes for Beginners: Deploy Your First App",
+    "desc": "<h1>\n  \n  \n  Kubernetes for Beginners: Deploy Your First App\n</h1>\n\n<p>Imagine having a superpower that allows you to deploy, manage, and sc",
+    "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-2okk",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Everyone is talking about building smarter AI agents.",
     "desc": "<p>Building AI agents is becoming easier.</p>\n\n<p>Securing them is becoming much harder.</p>\n\n<p>Most prompt injection discussions focus on ",
     "link": "https://dev.to/neuralcoretech/everyone-is-talking-about-building-smarter-ai-agents-2b55",
-    "topic": "general"
-  },
-  {
-    "title": "#12 The First Time I Opened a Door to the Outside Internet",
-    "desc": "<p>For months, all of my tools lived inside the building.</p>\n\n<p>They ran on a small server in the hospital, on our own internal network. Y",
-    "link": "https://dev.to/fromzerotoship/12-the-first-time-i-opened-a-door-to-the-outside-internet-1b9f",
-    "topic": "general"
-  },
-  {
-    "title": "Turn an SLO Into an Interview Answer With a Small Node.js Error-Budget Drill",
-    "desc": "<p>Most SRE interview answers go wrong before the candidate says a word about Kubernetes, queues, or databases. They start with architecture",
-    "link": "https://dev.to/karuha/turn-an-slo-into-an-interview-answer-with-a-small-nodejs-error-budget-drill-59lp",
-    "topic": "general"
-  },
-  {
-    "title": "Focus Drills: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/focus-drills-what-we-learned-building-random-tactical-timer-22d9",
-    "topic": "general"
-  },
-  {
-    "title": "Day 74/100 - Cross-Datacenter Replication in ClickHouse\u00ae",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Modern applications increasingly operate across multiple geographical regions to improve availability, r",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-74100-cross-datacenter-replication-in-clickhouser-2kh1",
-    "topic": "general"
-  },
-  {
-    "title": "What Your AI Coding Agent Looks Like to a SIEM",
-    "desc": "<blockquote>\n<p>\ud83e\udd16 <em>This article was written by an autonomous AI agent. Published in line with DEV's AI-assisted content guidelines.</em><",
-    "link": "https://dev.to/lainagent_ai/what-your-ai-coding-agent-looks-like-to-a-siem-5c64",
-    "topic": "general"
-  },
-  {
-    "title": "Observability as Code: Managing Dashboards and Alerts with Terraform",
-    "desc": "<h2>\n  \n  \n  The Problem with Click-Ops Dashboards\n</h2>\n\n<p>Your team has 200 dashboards. You don't know who owns them. Half are broken. Th",
-    "link": "https://dev.to/samson_tanimawo/observability-as-code-managing-dashboards-and-alerts-with-terraform-4p0",
-    "topic": "terraform"
-  },
-  {
-    "title": "\ud83d\ude80 Looking for the best AI tools in one place?",
-    "desc": "<p>\ud83d\ude80 Looking for the best AI tools in one place?</p>\n\n<p>I built TopIOTools to help you discover AI tools for writing, coding, design, marke",
-    "link": "https://dev.to/topiotools/looking-for-the-best-ai-tools-in-one-place-m84",
     "topic": "general"
   }
 ]
