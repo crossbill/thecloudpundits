@@ -1,5 +1,17 @@
 [
   {
+    "title": "The monitoring agent that cannot be told what to do",
+    "desc": "<p>Here is a design decision we made early, wrote into the architecture as an invariant, and have refused to revisit since: <strong>our agen",
+    "link": "https://dev.to/artem_meleshkin_0c4e0a675/the-monitoring-agent-that-cannot-be-told-what-to-do-33kd",
+    "topic": "general"
+  },
+  {
+    "title": "Your uptime SLA means nothing when the physical process can't wait for your rollback",
+    "desc": "<p>There\u2019s a conversation that happens when IT developers first encounter operational technology. It usually goes something like this:</p>\n\n",
+    "link": "https://dev.to/mariusgjerd/your-uptime-sla-means-nothing-when-the-physical-process-cant-wait-for-your-rollback-12i2",
+    "topic": "general"
+  },
+  {
     "title": "100 Days of DevOps and Cloud (AWS), Day 9: A Database That Won't Start Is Usually a Permissions Problem",
     "desc": "<p>When a service refuses to start, the instinct is to blame the service. Usually, the service itself is fine, and something around it is br",
     "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-9-a-database-that-wont-start-is-usually-a-permissions-1cpk",
@@ -33,18 +45,6 @@
     "title": "CI is green. Your release may still be risky.",
     "desc": "<p>Every team has a moment like this: CI passes, the PR gets merged, the deploy goes out \u2014 and two hours later someone's asking why checkout",
     "link": "https://dev.to/dulvarn/ci-is-green-your-release-may-still-be-risky-3c7m",
-    "topic": "general"
-  },
-  {
-    "title": "WorkerDeck is now on PyPI (and its own test suite fell into the zombie trap)",
-    "desc": "<p>A few days ago I wrote about the bug that taught me how to run one process<br />\nper user<br />\nand extracted the solution into a small l",
-    "link": "https://dev.to/gritfelddesign/workerdeck-is-now-on-pypi-and-its-own-test-suite-fell-into-the-zombie-trap-5cd5",
-    "topic": "general"
-  },
-  {
-    "title": "Bun ditches Zig for Rust to boost performance",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Bun was initially written in Zig and has gained significant traction with over 22 million monthly downloa",
-    "link": "https://dev.to/crescevo/bun-ditches-zig-for-rust-to-boost-performance-4bn4",
     "topic": "general"
   }
 ]
