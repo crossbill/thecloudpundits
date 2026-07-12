@@ -1,5 +1,35 @@
 [
   {
+    "title": "$440 Million in 45 Minutes: When a Company's Own Automated System Loses the Company's Own Money",
+    "desc": "<p><em>Knight Capital, Zillow, and a Replit AI agent: three cases where a company's own automated system destroyed the company's own money, ",
+    "link": "https://dev.to/vibeagentmaking/440-million-in-45-minutes-when-a-companys-own-automated-system-loses-the-companys-own-money-3jfd",
+    "topic": "general"
+  },
+  {
+    "title": "# Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments *By Alexey Levin & Eli Shohat, co-founders of D-Band* ---",
+    "desc": "<h1>\n  \n  \n  Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments\n</h1>\n\n<p><em>By Alexey Levin & Eli Shoha",
+    "link": "https://dev.to/dband-drm/-why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by-alexey-1bnc",
+    "topic": "secops"
+  },
+  {
+    "title": "Top 5 Buying Old Gmail Accounts Instantly",
+    "desc": "<p>Where Can You Buy Gmail Accounts Safely?<br />\n\ud83d\udcab\ud83c\udf10\ud83d\udcab 24/7 Customer Support Available \ud83c\udf10\ud83d\ude80\ud83d\udcab</p>\n\n<p>\ud83d\udcab\ud83d\ude80\ud83c\udf0e\ud83d\udcf1\u2728\ud83c\udfc6 Contact Us</p>\n\n<p>\ud83d\udcab\ud83d\ude80\ud83c\udf0e\ud83d\udcf1\u2728\ud83c\udfc6<a href=\"h",
+    "link": "https://dev.to/aleecehoffman2iswg/top-5-buying-old-gmail-accounts-instantly-3kil",
+    "topic": "general"
+  },
+  {
+    "title": "Top 33 Places to Buying Verified Alipay Accounts Online",
+    "desc": "<p>Buy Verified Alipay Account</p>\n\n<p>\ud83d\udcab\ud83c\udf10\ud83d\udcab 24/7 Customer Support Available \ud83c\udf10\ud83d\ude80\ud83d\udcab</p>\n\n<p>\ud83d\udcab\ud83d\ude80\ud83c\udf0e\ud83d\udcf1\u2728\ud83c\udfc6 Contact Us</p>\n\n<p>\ud83d\udcab\ud83d\ude80\ud83c\udf0e\ud83d\udcf1\u2728\ud83c\udfc6<a href=\"https://t.me",
+    "link": "https://dev.to/aleecehoffman2iswg/top-33-places-to-buying-verified-alipay-accounts-online-75j",
+    "topic": "general"
+  },
+  {
+    "title": "Architecting Kubernetes Deployments with Python",
+    "desc": "<p>Python is an excellent language for automating cloud infrastructure, but the official Kubernetes Python client leaves developers with an ",
+    "link": "https://dev.to/joachim8675309/architecting-kubernetes-deployments-with-python-4jhe",
+    "topic": "kubernetes"
+  },
+  {
     "title": "The monitoring agent that cannot be told what to do",
     "desc": "<p>Here is a design decision we made early, wrote into the architecture as an invariant, and have refused to revisit since: <strong>our agen",
     "link": "https://dev.to/artem_meleshkin_0c4e0a675/the-monitoring-agent-that-cannot-be-told-what-to-do-33kd",
@@ -16,35 +46,5 @@
     "desc": "<p>When a service refuses to start, the instinct is to blame the service. Usually, the service itself is fine, and something around it is br",
     "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-9-a-database-that-wont-start-is-usually-a-permissions-1cpk",
     "topic": "aws"
-  },
-  {
-    "title": "Step\u2011by\u2011step guide for debugging Gemma 2B deployments on TPU v6e\u20111. Uses MCP and Antigravity CLI to launch Gemma 4 on Google Clo",
-    "desc": "<p>Step\u2011by\u2011step guide for debugging Gemma 2B deployments on TPU v6e\u20111. Uses MCP and Antigravity CLI to launch Gemma 4 on Google Cloud TPU. <",
-    "link": "https://dev.to/atheerium/step-by-step-guide-for-debugging-gemma-2b-deployments-on-tpu-v6e-1-uses-mcp-and-antigravity-cli-to-3ido",
-    "topic": "general"
-  },
-  {
-    "title": "Runbooks SRE para correos de guardia en Cloud",
-    "desc": "<p>Cuando un equipo cambia reglas de alertas, destinatarios o secretos del sistema de notificaciones, casi siempre valida dashboards, logs y",
-    "link": "https://dev.to/alexcarteruk/runbooks-sre-para-correos-de-guardia-en-cloud-51hb",
-    "topic": "general"
-  },
-  {
-    "title": "70 false alerts a day \u2014 why uptime monitors cry wolf \u2014 and what the fix costs",
-    "desc": "<p>There is a sentence in a sysadmin thread that should end the career of any monitoring product: <em>\"anyone still on this service needs to",
-    "link": "https://dev.to/artem_meleshkin_0c4e0a675/70-false-alerts-a-day-why-uptime-monitors-cry-wolf-and-what-the-fix-costs-nnl",
-    "topic": "general"
-  },
-  {
-    "title": "I got scammed what do I do, I contacted Mighty Hacker Recovery",
-    "desc": "<p>**I lost $292,900 in Bitcoin after investing with an online mining company. After realizing I had been scammed, I spent a long time searc",
-    "link": "https://dev.to/jude_martins_0720dad297cf/i-got-scammed-what-do-i-do-i-contacted-mighty-hacker-recovery-a52",
-    "topic": "general"
-  },
-  {
-    "title": "CI is green. Your release may still be risky.",
-    "desc": "<p>Every team has a moment like this: CI passes, the PR gets merged, the deploy goes out \u2014 and two hours later someone's asking why checkout",
-    "link": "https://dev.to/dulvarn/ci-is-green-your-release-may-still-be-risky-3c7m",
-    "topic": "general"
   }
 ]
