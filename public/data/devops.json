@@ -1,5 +1,35 @@
 [
   {
+    "title": "A practical checklist for migrating an Ubuntu or Debian VPS",
+    "desc": "<p>Changing VPS providers sounds simple until you list everything that actually lives on the server.</p>\n\n<p>The application files are usual",
+    "link": "https://dev.to/oguzhankrcb/a-practical-checklist-for-migrating-an-ubuntu-or-debian-vps-41c6",
+    "topic": "general"
+  },
+  {
+    "title": "I Built a Free Shadow API Scanner and Found 269 Forgotten Routes in Ghost CMS",
+    "desc": "<p>How a weekend project turned into a production tool with 875+ npm downloads in 48 hours \u2014 and why your codebase probably has shadow APIs ",
+    "link": "https://dev.to/darkmaster0345/i-built-a-free-shadow-api-scanner-and-found-269-forgotten-routes-in-ghost-cms-11eg",
+    "topic": "general"
+  },
+  {
+    "title": "Nginx + Python: The Perfect Production Setup",
+    "desc": "<h1>\n  \n  \n  Nginx + Python: The Perfect Production Setup\n</h1>\n\n<h3>\n  \n  \n  Why You Need Nginx and Python in Your Production Setup\n</h3>\n\n",
+    "link": "https://dev.to/qingluan/nginx-python-the-perfect-production-setup-12f4",
+    "topic": "general"
+  },
+  {
+    "title": "How to Deploy Your Python App on a $5/Month Server",
+    "desc": "<h1>\n  \n  \n  How to Deploy Your Python App on a $5/Month Server\n</h1>\n\n<h2>\n  \n  \n  Deploying Your Python App on a $5/Month Server: A Step-b",
+    "link": "https://dev.to/qingluan/how-to-deploy-your-python-app-on-a-5month-server-15g0",
+    "topic": "general"
+  },
+  {
+    "title": "The Linux locate Command: A Faster Alternative to find (With Security Use Cases)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/xpert4cyber/the-linux-locate-command-a-faster-alternative-to-find-with-security-use-cases-3hd6",
+    "topic": "secops"
+  },
+  {
     "title": "Killing the Shared Proxy: Direct Routing to Per-Customer Containers on Docker Swarm",
     "desc": "<h3>\n  \n  \n  We already ran one container per customer \u2014 but every request was relayed through a single shared one. Here's how we cut it out",
     "link": "https://dev.to/sourav_sarkar_78787d235fa/killing-the-shared-proxy-direct-routing-to-per-customer-containers-on-docker-swarm-2h79",
@@ -15,36 +45,6 @@
     "title": "Comment an Entire File in Vim in Seconds (Two Methods Every Developer Should Know)",
     "desc": "<p>Whether you're debugging, testing a new implementation, or temporarily disabling code, there are times when you need to comment out an en",
     "link": "https://dev.to/saint_vandora/comment-an-entire-file-in-vim-in-seconds-two-methods-every-developer-should-know-k78",
-    "topic": "general"
-  },
-  {
-    "title": "Enhancing CI/CD and E2E Testing with Sentry Integration in tvview",
-    "desc": "<h1>\n  \n  \n  Enhancing CI/CD and E2E Testing with Sentry Integration in tvview\n</h1>\n\n<p><strong>TL;DR:</strong> I integrated Sentry for err",
-    "link": "https://dev.to/zaerohell/enhancing-cicd-and-e2e-testing-with-sentry-integration-in-tvview-2e8a",
-    "topic": "general"
-  },
-  {
-    "title": "Enhancing CI/CD and E2E Testing with Sentry Integration in GreenView",
-    "desc": "<h1>\n  \n  \n  Enhancing CI/CD and E2E Testing with Sentry Integration in GreenView\n</h1>\n\n<p>\u00a0</p>\n\n<p><strong>TL;DR:</strong> This article d",
-    "link": "https://dev.to/zaerohell/enhancing-cicd-and-e2e-testing-with-sentry-integration-in-greenview-d34",
-    "topic": "general"
-  },
-  {
-    "title": "Enhancing CraveView's CI/CD Pipeline with Sentry and E2E Tests",
-    "desc": "<h1>\n  \n  \n  Enhancing CraveView's CI/CD Pipeline with Sentry and E2E Tests\n</h1>\n\n<p>\u00a0</p>\n\n<p><strong>TL;DR:</strong> I upgraded CraveView",
-    "link": "https://dev.to/zaerohell/enhancing-craveviews-cicd-pipeline-with-sentry-and-e2e-tests-51ml",
-    "topic": "general"
-  },
-  {
-    "title": "Upgrading CI Workflows: From Node 20 to Node 22 and Actions v5/v6",
-    "desc": "<h1>\n  \n  \n  Upgrading CI Workflows: From Node 20 to Node 22 and Actions v5/v6\n</h1>\n\n<p>\u00a0</p>\n\n<p><strong>TL;DR:</strong> I upgraded the CI",
-    "link": "https://dev.to/zaerohell/upgrading-ci-workflows-from-node-20-to-node-22-and-actions-v5v6-13n",
-    "topic": "general"
-  },
-  {
-    "title": "Give Your CI Pipeline an Error Budget Before Adding AI Triage",
-    "desc": "<p>An AI-generated explanation cannot rescue an unhealthy CI pipeline. If jobs wait unpredictably, runners disappear, retries hide flakes, o",
-    "link": "https://dev.to/odd_background_328/give-your-ci-pipeline-an-error-budget-before-adding-ai-triage-3j4g",
     "topic": "general"
   }
 ]
