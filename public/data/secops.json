@@ -1,5 +1,17 @@
 [
   {
+    "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
+    "desc": "<p>Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.</p>\n<p>The post <a href=\"https:/",
+    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
+    "topic": "secops"
+  },
+  {
+    "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
+    "desc": "<p>Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker.</p>\n<p",
+    "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
+    "topic": "secops"
+  },
+  {
     "title": "Zimbra Patches Critical Code Execution Vulnerability",
     "desc": "<p>The flaw results in malicious code embedded in crafted emails being executed when the emails are opened.</p>\n<p>The post <a href=\"https:/",
     "link": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
@@ -34,17 +46,5 @@
     "desc": "<p>Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
     "topic": "general"
-  },
-  {
-    "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
-    "desc": "<p>Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 m",
-    "link": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
-    "topic": "secops"
-  },
-  {
-    "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
-    "desc": "<p>Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
-    "topic": "secops"
   }
 ]
