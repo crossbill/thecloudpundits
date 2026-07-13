@@ -1,50 +1,50 @@
 [
   {
-    "title": "self-healing infra 4 failure classes 4 remediation loops",
-    "desc": "<blockquote>\n<p><strong>TL;DR</strong> Static runbooks fail modern infrastructure because the gap between when a failure begins and when a h",
-    "link": "https://dev.to/zop_8abedcc7e12/self-healing-infra-4-failure-classes-4-remediation-loops-40a7",
+    "title": "On-call is unpaid overtime and we normalized it",
+    "desc": "<p>Your pager buzzes you awake in the dead of night, an alert in one of your systems demands your attention. You manage to identify the issu",
+    "link": "https://dev.to/adioof/on-call-is-unpaid-overtime-and-we-normalized-it-1h3d",
     "topic": "general"
   },
   {
-    "title": "After the free credits run out, a practical transition plan to avoid bill shock on AWS, Azure, and GCP",
-    "desc": "<blockquote>\n<p><strong>TL;DR</strong> The free-credit expiration is not a billing event. It is a systems failure that was designed into the",
-    "link": "https://dev.to/zop_8abedcc7e12/after-the-free-credits-run-out-a-practical-transition-plan-to-avoid-bill-shock-on-aws-azure-and-35hk",
-    "topic": "aws"
-  },
-  {
-    "title": "Hidden cloud costs: egress fees api calls, and the line items AWS, Azure, and GCP don't advertise",
-    "desc": "<blockquote>\n<p><strong>TL;DR</strong> Cloud providers price egress and API calls in ways that guarantee the invoice will not match the esti",
-    "link": "https://dev.to/zop_8abedcc7e12/hidden-cloud-costs-egress-fees-api-calls-and-the-line-items-aws-azure-and-gcp-don-t-advertise-5cae",
-    "topic": "aws"
-  },
-  {
-    "title": "I teach DevOps. Two weeks later, they can't do it. So we're building the practice layer.",
-    "desc": "<p>A note from Manabi's founder, Tobi.</p>\n\n<p>I teach DevOps for a living: Linux, Git, Docker, CI/CD, Terraform, Kubernetes. I'm good at th",
-    "link": "https://dev.to/aboutmanabi/i-teach-devops-two-weeks-later-they-cant-do-it-so-were-building-the-practice-layer-540g",
+    "title": "Build a GitHub Actions Bot That Pays You",
+    "desc": "<h1>\n  \n  \n  Build a GitHub Actions Bot That Pays You\n</h1>\n\n<p><strong>Paying Your Way: How to Build a GitHub Actions Bot That Earns You Mo",
+    "link": "https://dev.to/qingluan/build-a-github-actions-bot-that-pays-you-1hfb",
     "topic": "general"
   },
   {
-    "title": "Shopify: Go-To Platform for E-Commerce Success",
-    "desc": "<p>Selling online used to mean three months of development work before a single order came through. Custom infrastructure, a developer on re",
-    "link": "https://dev.to/sahil_khurana_486f374ecf2/shopify-go-to-platform-for-e-commerce-success-2ch",
+    "title": "Why VPN Users Delete Apps After One Bad Connection",
+    "desc": "<h2>\n  \n  \n  Introduction: One Failed Connection Can End the Relationship\n</h2>\n\n<p>A VPN user does not always delete an app because the des",
+    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/why-vpn-users-delete-apps-after-one-bad-connection-1k7i",
     "topic": "general"
   },
   {
-    "title": "AI governance lessons from NVIDIA's 11-member board change",
-    "desc": "<p>On July 13, 2026, Suzanne Nora Johnson is set to join NVIDIA's board and Audit Committee, expanding the board to 11 members.</p>\n\n<p>That",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/ai-governance-lessons-from-nvidias-11-member-board-change-3lie",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Protect Your Automated Business Processes with n8n Error Workflows",
-    "desc": "<blockquote>\n<p>A simple 2-node n8n workflow can alert you in Telegram, Slack, Google Chat, email, or another team channel when an automatio",
-    "link": "https://dev.to/floxolab/protect-your-automated-business-processes-with-n8n-error-workflows-moi",
+    "title": "AI Agents for DevOps Online Training with Expert Trainers",
+    "desc": "<p>Why DevOps Engineers Should Learn AI Agent Technologies in 2026<br />\nIntroduction<br />\nDevOps has grown beyond continuous integration a",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/ai-agents-for-devops-online-training-with-expert-trainers-435c",
     "topic": "general"
   },
   {
-    "title": "Practical Linux io_uring for High-Performance Async I/O",
-    "desc": "<h1>\n  \n  \n  Practical Linux io_uring for High-Performance Async I/O\n</h1>\n\n<p>If you've ever benchmarked a high-throughput server or tool o",
-    "link": "https://dev.to/lyraalishaikh/practical-linux-iouring-for-high-performance-async-io-4dbb",
+    "title": "The Relevance of Explainability in Artificial Intelligence: Perspectives from Healthcare, Finance, and Criminal Justice",
+    "desc": "<p><strong>Abstract</strong></p>\n\n<p>As machine learning models grow more complex, their internal decision logic increasingly resembles a \"b",
+    "link": "https://dev.to/damodara_tadimeti2341426/the-relevance-of-explainability-in-artificial-intelligence-perspectives-from-healthcare-finance-10n7",
+    "topic": "general"
+  },
+  {
+    "title": "A Definitive Guide to Configuring coTURN on Oracle Cloud Infrastructure (OCI) Free Tier for WebRTC",
+    "desc": "<p>This guide provides a comprehensive, step-by-step walkthrough to deploy and configure a private coTURN server for WebRTC audio/video call",
+    "link": "https://dev.to/khvichadev/a-definitive-guide-to-configuring-coturn-on-oracle-cloud-infrastructure-oci-free-tier-for-webrtc-igf",
+    "topic": "general"
+  },
+  {
+    "title": "How to use AI Code Reviewer for solo devs",
+    "desc": "<p>CODE REVIEW EFFICACY: How AI Catches 37% More Security Vulnerabilities Than Human Reviewers</p>\n\n<h2>\n  \n  \n  The Painful Reality of Huma",
+    "link": "https://dev.to/xavvyness/how-to-use-ai-code-reviewer-for-solo-devs-2i02",
+    "topic": "general"
+  },
+  {
+    "title": "\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0434\u043b\u044f \u0411\u0438\u0442\u0440\u0438\u043a\u044124 \u0438 \u0432\u0435\u0431-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432: \u043d\u0430 \u0447\u0442\u043e \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043f\u0440\u0438 \u0432\u044b\u0431\u043e\u0440\u0435 \u043f\u0440\u043e\u0432\u0430\u0439\u0434\u0435\u0440\u0430",
+    "desc": "<p>\u0421\u0432\u043e\u0439 \u0441\u0435\u0440\u0432\u0435\u0440 \u0432 \u043e\u0444\u0438\u0441\u0435 \u2014 \u044d\u0442\u043e \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0436\u0435\u043b\u0435\u0437\u043e \u0432 \u0441\u0442\u043e\u0439\u043a\u0435, \u043d\u043e \u0438 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440, \u0418\u0411\u041f, \u0430\u0434\u043c\u0438\u043d \u0432 \u0448\u0442\u0430\u0442\u0435 \u0438 \u043d\u043e\u0447\u043d\u044b\u0435 \u0437\u0432\u043e\u043d\u043a\u0438 \u00ab\u0432\u0441\u0451 \u0443\u043f\u0430\u043b\u043e\u00bb. \u0414\u043b\u044f \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0430 \u043a\u043e",
+    "link": "https://dev.to/_swebs_f392b7/oblachnyi-khostingh-dlia-bitriks24-i-vieb-proiektov-na-chto-smotriet-pri-vyborie-provaidiera-25p8",
     "topic": "general"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "title": "Zimbra Patches Critical Code Execution Vulnerability",
+    "desc": "<p>The flaw results in malicious code embedded in crafted emails being executed when the emails are opened.</p>\n<p>The post <a href=\"https:/",
+    "link": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
+    "desc": "<p>The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried ou",
+    "link": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
+    "topic": "secops"
+  },
+  {
+    "title": "Organizations Warned of Exploited Joomla Extension Vulnerabilities",
+    "desc": "<p>Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns",
+    "desc": "<p>The company notified customers to manually shut down their servers while it is investigating a credible threat.</p>\n<p>The post <a href=\"",
+    "link": "https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/",
+    "topic": "secops"
+  },
+  {
+    "title": "Centers Laboratory Data Breach Affects 540,000 Individuals",
+    "desc": "<p>The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider.</p>\n<p",
+    "link": "https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/",
+    "topic": "secops"
+  },
+  {
     "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
     "desc": "<p>Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
@@ -16,35 +46,5 @@
     "desc": "<p>Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.</p>\n<p>The post <a href=",
     "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
     "topic": "secops"
-  },
-  {
-    "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
-    "desc": "<p>Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
-    "topic": "general"
-  },
-  {
-    "title": "Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
-    "desc": "<p>The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages.</p>\n<p>The post <a href=\"https:/",
-    "link": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
-    "topic": "azure"
-  },
-  {
-    "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
-    "desc": "<p>The backdoor\u2019s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.</p>\n<p>The po",
-    "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
-    "topic": "general"
-  },
-  {
-    "title": "\u2018HalluSquatting\u2019 Turns AI Hallucinations Into Botnet Delivery Mechanism",
-    "desc": "<p>Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution.</p>\n<p>The po",
-    "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
-    "topic": "general"
-  },
-  {
-    "title": "Network of 200 GitHub Repositories Used for Malware Infection",
-    "desc": "<p>A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
-    "topic": "general"
   }
 ]
