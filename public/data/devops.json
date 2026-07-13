@@ -1,50 +1,50 @@
 [
   {
+    "title": "Running Claude Code on AWS Bedrock: IAM, SCPs, and the Governance Model Most Teams Get Wrong",
+    "desc": "<p><em>Cross-posted with permission from <a href=\"https://iqraa.tech\" rel=\"noopener noreferrer\">iqraa.tech</a> \u2014 the <a href=\"https://iqraa.",
+    "link": "https://dev.to/amartinawi/running-claude-code-on-aws-bedrock-iam-scps-and-the-governance-model-most-teams-get-wrong-3bg2",
+    "topic": "aws"
+  },
+  {
+    "title": "TypeScript 7 runs 10x faster natively",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>TypeScript 7 is a 10x faster native port of TypeScript.</li>\n<li>The new version brings native code speed",
+    "link": "https://dev.to/crescevo/typescript-7-runs-10x-faster-natively-3ha6",
+    "topic": "general"
+  },
+  {
+    "title": "How We Cut AI Coding Costs from $10K to $3K/Month with Task-Level Model Routing",
+    "desc": "<h2>\n  \n  \n  The Problem Nobody Talks About\n</h2>\n\n<p>Every AI coding tool sells you on the frontier model. Claude Code defaults to Fable 5.",
+    "link": "https://dev.to/aplomb2/how-we-cut-ai-coding-costs-from-10k-to-3kmonth-with-task-level-model-routing-53j2",
+    "topic": "general"
+  },
+  {
+    "title": "Green CI working software",
+    "desc": "<p>Two green CI runs told me the release worked. Both were no-ops.</p>\n\n<p>A green check means one thing: the job exited 0. That is all it m",
+    "link": "https://dev.to/nazarii-ahapevych/green-ci-working-software-5cim",
+    "topic": "general"
+  },
+  {
+    "title": "Fleet Management for 100+ AI Bots: Lessons Learned",
+    "desc": "<p>So you\u2019ve built a handful of AI agents. Maybe a scraper here, a social poster there. They work. You scale to ten, then fifty. Then one da",
+    "link": "https://dev.to/robo_rent_cc/fleet-management-for-100-ai-bots-lessons-learned-8nd",
+    "topic": "general"
+  },
+  {
+    "title": "How I Reorganized 45 Kubernetes Manifests and Saved Hours of Development Time",
+    "desc": "<h1>\n  \n  \n  How I Reorganized 45 Kubernetes Manifests (And You Should Too)\n</h1>\n\n<p><strong>TL;DR</strong>: I took a messy flat structure ",
+    "link": "https://dev.to/le_beltagy_fa95916e758817/how-i-reorganized-45-kubernetes-manifests-and-saved-hours-of-development-time-1m80",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Building a PostgreSQL Change-Event Relay",
+    "desc": "<h2>\n  \n  \n  Building a PostgreSQL Change-Event Relay\n</h2>\n\n<p>PostgreSQL logical replication has become a popular foundation for event-dri",
+    "link": "https://dev.to/kenneth_demanawa_fcc6581e/building-a-postgresql-change-event-relay-1mj1",
+    "topic": "general"
+  },
+  {
     "title": "Top Guide to Buy Old GitHub Accounts: Tips for Developers",
     "desc": "<p>Buy GitHub Accounts from usadigitalhub.com<br />\n\ud83c\udf10 24/7 Customer Support Available</p>\n\n<p>\ud83d\udcde WhatsApp: +1 (506) 541-7768</p>\n\n<p>\ud83d\udcf1 Telegr",
     "link": "https://dev.to/nomihubbardv6wr3/top-guide-to-buy-old-github-accounts-tips-for-developers-4pm7",
-    "topic": "general"
-  },
-  {
-    "title": "We Already Built the Loop",
-    "desc": "<p>In June 2026, <em>loop engineering</em> started circulating as a name for a way of working with coding agents.</p>\n\n<p>Addy Osmani descri",
-    "link": "https://dev.to/danielbutlerirl/we-already-built-the-loop-32ef",
-    "topic": "general"
-  },
-  {
-    "title": "4 self-hosting failures that return success",
-    "desc": "<p>The failures that cost me the most in three years of self-hosting were never the ones that threw an error. An error is a gift: it tells y",
-    "link": "https://dev.to/mbaelde/4-self-hosting-failures-that-return-success-1go5",
-    "topic": "general"
-  },
-  {
-    "title": "Mastering API Design for Seamless Automation",
-    "desc": "<h2>\n  \n  \n  The Fundamental Role of API Design in Automation\n</h2>\n\n<p>From enabling seamless data exchange to supporting agile workflows, ",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/mastering-api-design-for-seamless-automation-462k",
-    "topic": "general"
-  },
-  {
-    "title": "Using SSL Certificates (HTTPS) with RLM",
-    "desc": "<p>License administrators are now able to run the RLM web server with SSL certificates, allowing for increased protection though third party",
-    "link": "https://dev.to/reprise_software/using-ssl-certificates-https-with-rlm-439j",
-    "topic": "general"
-  },
-  {
-    "title": "The Redis That Timed Out: A Docker Subnet Overlap Hiding in Plain Sight",
-    "desc": "<p>Postgres worked. Redis didn't. Same host, same Docker, same iptables, two containers started four minutes apart \u2014 and one of them refused",
-    "link": "https://dev.to/frozer/the-redis-that-timed-out-a-docker-subnet-overlap-hiding-in-plain-sight-3473",
-    "topic": "docker"
-  },
-  {
-    "title": "Master os-taxonomy in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 80% of development time is spent on maintenance, with a significant portion dedicated ",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-4fnc",
-    "topic": "general"
-  },
-  {
-    "title": "I gave an AI agent the same deployment on four clouds.",
-    "desc": "<p>Full disclosure up front: I run one of the four platforms in this test (redu.cloud), so take my framing with that in mind. I recorded eve",
-    "link": "https://dev.to/zzmilos/i-gave-an-ai-agent-the-same-deployment-on-four-clouds-4g1h",
     "topic": "general"
   }
 ]
