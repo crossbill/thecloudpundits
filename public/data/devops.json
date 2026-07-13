@@ -1,50 +1,50 @@
 [
   {
-    "title": "Running Claude Code on AWS Bedrock: IAM, SCPs, and the Governance Model Most Teams Get Wrong",
-    "desc": "<p><em>Cross-posted with permission from <a href=\"https://iqraa.tech\" rel=\"noopener noreferrer\">iqraa.tech</a> \u2014 the <a href=\"https://iqraa.",
-    "link": "https://dev.to/amartinawi/running-claude-code-on-aws-bedrock-iam-scps-and-the-governance-model-most-teams-get-wrong-3bg2",
-    "topic": "aws"
-  },
-  {
-    "title": "TypeScript 7 runs 10x faster natively",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>TypeScript 7 is a 10x faster native port of TypeScript.</li>\n<li>The new version brings native code speed",
-    "link": "https://dev.to/crescevo/typescript-7-runs-10x-faster-natively-3ha6",
+    "title": "A Passing Test Suite Is Not a Release Signal",
+    "desc": "<p>A green CI pipeline feels reassuring.</p>\n\n<p>The build completed. The unit tests passed. The browser suite reported 100%. The pull reque",
+    "link": "https://dev.to/sleepyfalcon247/a-passing-test-suite-is-not-a-release-signal-1kb7",
     "topic": "general"
   },
   {
-    "title": "How We Cut AI Coding Costs from $10K to $3K/Month with Task-Level Model Routing",
-    "desc": "<h2>\n  \n  \n  The Problem Nobody Talks About\n</h2>\n\n<p>Every AI coding tool sells you on the frontier model. Claude Code defaults to Fable 5.",
-    "link": "https://dev.to/aplomb2/how-we-cut-ai-coding-costs-from-10k-to-3kmonth-with-task-level-model-routing-53j2",
+    "title": "Your Kafka Schema Registry is wide open",
+    "desc": "<p>Quick question about your Kafka setup: right now, which applications are allowed to change or delete which schemas?</p>\n\n<p>Sometimes, it",
+    "link": "https://dev.to/conduktor/your-kafka-schema-registry-is-wide-open-1fl6",
     "topic": "general"
   },
   {
-    "title": "Green CI working software",
-    "desc": "<p>Two green CI runs told me the release worked. Both were no-ops.</p>\n\n<p>A green check means one thing: the job exited 0. That is all it m",
-    "link": "https://dev.to/nazarii-ahapevych/green-ci-working-software-5cim",
+    "title": "Podman in Production: The Book, and the Pipeline Behind It",
+    "desc": "<p>My first encounter with Podman back in 2020 was involuntary. A customer with<br />\nair-gapped RHEL 7 machines that we needed to deploy a ",
+    "link": "https://dev.to/wkerschbaumer/podman-in-production-the-book-and-the-pipeline-behind-it-nie",
     "topic": "general"
   },
   {
-    "title": "Fleet Management for 100+ AI Bots: Lessons Learned",
-    "desc": "<p>So you\u2019ve built a handful of AI agents. Maybe a scraper here, a social poster there. They work. You scale to ten, then fifty. Then one da",
-    "link": "https://dev.to/robo_rent_cc/fleet-management-for-100-ai-bots-lessons-learned-8nd",
+    "title": "GitLab vs GitHub in 2026: Integrated Platform vs. Composable Ecosystem",
+    "desc": "<p>Pick GitLab or GitHub in 2026 and you're not really choosing between two Git hosts \u2014 you're choosing between two philosophies about what ",
+    "link": "https://dev.to/dobybaxter127/gitlab-vs-github-in-2026-integrated-platform-vs-composable-ecosystem-5dm9",
     "topic": "general"
   },
   {
-    "title": "How I Reorganized 45 Kubernetes Manifests and Saved Hours of Development Time",
-    "desc": "<h1>\n  \n  \n  How I Reorganized 45 Kubernetes Manifests (And You Should Too)\n</h1>\n\n<p><strong>TL;DR</strong>: I took a messy flat structure ",
-    "link": "https://dev.to/le_beltagy_fa95916e758817/how-i-reorganized-45-kubernetes-manifests-and-saved-hours-of-development-time-1m80",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Building a PostgreSQL Change-Event Relay",
-    "desc": "<h2>\n  \n  \n  Building a PostgreSQL Change-Event Relay\n</h2>\n\n<p>PostgreSQL logical replication has become a popular foundation for event-dri",
-    "link": "https://dev.to/kenneth_demanawa_fcc6581e/building-a-postgresql-change-event-relay-1mj1",
+    "title": "Making Architecture Diagrams Tell the Truth: Trust Boundaries, Data Flow, and the Things We Leave Out",
+    "desc": "<p>Most architecture diagrams are optimistic. They show the happy path: a client talks to a service, the service talks to a database, arrows",
+    "link": "https://dev.to/dobybaxter127/making-architecture-diagrams-tell-the-truth-trust-boundaries-data-flow-and-the-things-we-leave-dm6",
     "topic": "general"
   },
   {
-    "title": "Top Guide to Buy Old GitHub Accounts: Tips for Developers",
-    "desc": "<p>Buy GitHub Accounts from usadigitalhub.com<br />\n\ud83c\udf10 24/7 Customer Support Available</p>\n\n<p>\ud83d\udcde WhatsApp: +1 (506) 541-7768</p>\n\n<p>\ud83d\udcf1 Telegr",
-    "link": "https://dev.to/nomihubbardv6wr3/top-guide-to-buy-old-github-accounts-tips-for-developers-4pm7",
+    "title": "Automatizaci\u00f3n con IA: La Gu\u00eda Completa para Transformar los Procesos de tu Empresa",
+    "desc": "<h1>\n  \n  \n  Automatizaci\u00f3n con IA: La Gu\u00eda Completa para Transformar los Procesos de tu Empresa\n</h1>\n\n<p>La automatizaci\u00f3n con Inteligenci",
+    "link": "https://dev.to/vex_soluciones/automatizacion-con-ia-la-guia-completa-para-transformar-los-procesos-de-tu-empresa-16jd",
+    "topic": "general"
+  },
+  {
+    "title": "Validate Your LLM Workflow Before It Runs (Python + YAML Topology Checks)",
+    "desc": "<p>Your LLM app boots fine. It answers the first few messages fine. Then, ten minutes into a real conversation, it quietly walks from the <c",
+    "link": "https://dev.to/dobybaxter127/validate-your-llm-workflow-before-it-runs-python-yaml-topology-checks-35l1",
+    "topic": "general"
+  },
+  {
+    "title": "How to add mechanical enforcement to any AI coding agent",
+    "desc": "<h3>\n  \n  \n  The problem\n</h3>\n\n<p>AI coding agents generate code at impressive speeds. But they also commit untested code, hallucinate APIs",
+    "link": "https://dev.to/juandelossantos/how-to-add-mechanical-enforcement-to-any-ai-coding-agent-2dbl",
     "topic": "general"
   }
 ]
