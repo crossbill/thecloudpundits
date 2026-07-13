@@ -1,50 +1,50 @@
 [
   {
-    "title": "Catch Risky IAM in Your CDK App Before cdk deploy",
-    "desc": "<p>You ship a CDK stack. One IAM role has a wildcard because you copy-pasted a gist eight months ago. That role is now your blast radius.</p",
-    "link": "https://dev.to/shieldlyio/catch-risky-iam-in-your-cdk-app-before-cdk-deploy-25gm",
-    "topic": "secops"
+    "title": "100 Days of DevOps and Cloud (AWS), Day 10: Automating Backups Over SSH, and What an Elastic IP Really Costs Now",
+    "desc": "<p>A backup you have to babysit is not a backup. The whole point is that it runs without you, at 2 am, while you sleep, which means it canno",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-10-automating-backups-over-ssh-and-what-an-elastic-ip-l4p",
+    "topic": "aws"
   },
   {
-    "title": "How I Designed an AI SRE Agent to Cut LLM Costs by Up to 100x \u2014 With Architecture, Not Prompts",
-    "desc": "<p>The fastest way to kill an AI project isn't a bad model. It's the first cloud bill.</p>\n\n<p>When I set out to build an AI SRE agent for K",
-    "link": "https://dev.to/shafivullashaiktechops/how-i-designed-an-ai-sre-agent-to-cut-llm-costs-by-up-to-100x-with-architecture-not-prompts-40gm",
+    "title": "Our AI coding bill quietly tripled. Here's what we learned fixing it.",
+    "desc": "<p>A few months ago I opened our cloud bill and had that small stomach drop moment every engineer knows. Our AI coding spend had roughly tri",
+    "link": "https://dev.to/ckvirstack/our-ai-coding-bill-quietly-tripled-heres-what-we-learned-fixing-it-14ec",
     "topic": "general"
   },
   {
-    "title": "Download Trials Of Randoom NSP Full Game Latest 2026",
-    "desc": "<h1>\n  \n  \n  Download Trials Of Randoom NSP Full Game Latest 2026\n</h1>\n\n<p>Trials Of Randoom NSP Full Game is a precision platformer that c",
-    "link": "https://dev.to/maholo/download-trials-of-randoom-nsp-full-game-latest-2026-48k5",
+    "title": "Agentifying your entire software development lifecycle",
+    "desc": "<p><em>This is an adapted version of <a href=\"https://youtu.be/K3YYr6yauAw\" rel=\"noopener noreferrer\">this video</a> on the Google Cloud Tec",
+    "link": "https://dev.to/ykdap/agentifying-your-entire-software-development-lifecycle-dn9",
     "topic": "general"
   },
   {
-    "title": "Securing a CI/CD Pipeline Behind NAT with Tailscale",
+    "title": "Python Logging: Best Practices for Production Apps",
+    "desc": "<h1>\n  \n  \n  Python Logging: Best Practices for Production Apps\n</h1>\n\n<h1>\n  \n  \n  Python Logging: Best Practices for Production Apps\n</h1>",
+    "link": "https://dev.to/qingluan/python-logging-best-practices-for-production-apps-41j3",
+    "topic": "general"
+  },
+  {
+    "title": "How to Deploy Python Apps with Docker Compose",
+    "desc": "<h1>\n  \n  \n  How to Deploy Python Apps with Docker Compose\n</h1>\n\n<h1>\n  \n  \n  How to Deploy Python Apps with Docker Compose\n</h1>\n\n<p>Stop ",
+    "link": "https://dev.to/qingluan/how-to-deploy-python-apps-with-docker-compose-3pf1",
+    "topic": "docker"
+  },
+  {
+    "title": "7 Essential Observability Practices Every Production Team Needs",
+    "desc": "<p><strong>Observability practices</strong> are the difference between calmly diagnosing a 2am incident in five minutes and frantically grep",
+    "link": "https://dev.to/gtstudios/7-essential-observability-practices-every-production-team-needs-3ja5",
+    "topic": "general"
+  },
+  {
+    "title": "The SRE Talent Gap: Why the US Needs 10x More Reliability Engineers and How to Train Them",
+    "desc": "<p>When the Colonial Pipeline was shut down in May 2021 following a ransomware attack, it was not the sophistication of the attack that made",
+    "link": "https://dev.to/npayyappilly/the-sre-talent-gap-why-the-us-needs-10x-more-reliability-engineers-and-how-to-train-them-2h0h",
+    "topic": "general"
+  },
+  {
+    "title": "Agentic Pipeline to convert AWS infrastructure to Terraform",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vini-ornelas/securing-a-cicd-pipeline-behind-nat-with-tailscale-4jn6",
-    "topic": "general"
-  },
-  {
-    "title": "The graph nobody is watching",
-    "desc": "<p>If you ask me what part of the system I protect the most, the answer is the database.</p>\n\n<p>I've been writing software alone for twenty",
-    "link": "https://dev.to/hidekimori/the-graph-nobody-is-watching-4e43",
-    "topic": "general"
-  },
-  {
-    "title": "Website Uptime Monitoring: From a 20-Line Bash Script to Production-Ready Alerts",
-    "desc": "<p>Every team eventually asks the same question at the worst possible time: <em>\"Wait \u2014 how long has the site been down?\"</em> Usually the a",
-    "link": "https://dev.to/enterno/website-uptime-monitoring-from-a-20-line-bash-script-to-production-ready-alerts-36j9",
-    "topic": "general"
-  },
-  {
-    "title": "Visualizing Deep Trace Hierarchies: Self-Hosting SigNoz via Foundry on Windows",
-    "desc": "<p>If you\u2019ve ever had a night of going through a disorganized pile of flat text logs which had you searching for the reason a single API end",
-    "link": "https://dev.to/rahulchandra2004/visualizing-deep-trace-hierarchies-self-hosting-signoz-via-foundry-on-windows-5b13",
-    "topic": "general"
-  },
-  {
-    "title": "Master os-taxonomy in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually categorizing and organizing my JavaScript projects, only to realize ",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-514p",
-    "topic": "general"
+    "link": "https://dev.to/chanuth_412/agentic-pipeline-to-convert-aws-infrastructure-to-terraform-29k4",
+    "topic": "aws"
   }
 ]
