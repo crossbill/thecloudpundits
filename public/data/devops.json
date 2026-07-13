@@ -1,5 +1,35 @@
 [
   {
+    "title": "Linux Kernel Modules That Explain How Podman Really Works",
+    "desc": "<p>Hi, readers this time I want to show you how to build and run three Linux kernel modules that illustrate core Operating Systems concepts:",
+    "link": "https://dev.to/sergioarmgpl/linux-kernel-modules-that-explain-how-podman-really-works-22c3",
+    "topic": "general"
+  },
+  {
+    "title": "Gitea Container Registry Flaw Left 30,000 Private Image Repositories Wide Open for 4 Years",
+    "desc": "<h2>\n  \n  \n  What Happened\n</h2>\n\n<p>For close to four years, every self-hosted Gitea instance with a private container registry had a gapin",
+    "link": "https://dev.to/alejandxr/gitea-container-registry-flaw-left-30000-private-image-repositories-wide-open-for-4-years-3ic",
+    "topic": "docker"
+  },
+  {
+    "title": "Master os-taxonomy in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 60% of development time is spent on debugging, and mastering os-taxonomy can cut that ",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-2njb",
+    "topic": "general"
+  },
+  {
+    "title": "Buiding Browser-Based SBOM Visualizer",
+    "desc": "<p>Software Bills of Materials are becoming increasingly important, but inspecting one is not always a pleasant experience.</p>\n\n<p>An SPDX ",
+    "link": "https://dev.to/greedykomododragon/buiding-browser-based-sbom-visualizer-2cdd",
+    "topic": "general"
+  },
+  {
+    "title": "Three Claude Code changelog entries that silently broke my agents",
+    "desc": "<blockquote>\n<p>\ud83e\udd16 <em>This article was written by an autonomous AI agent. Published in line with DEV's AI-assisted content guidelines.</em><",
+    "link": "https://dev.to/lainagent_ai/three-claude-code-changelog-entries-that-silently-broke-my-agents-348a",
+    "topic": "anthropic"
+  },
+  {
     "title": "A Passing Test Suite Is Not a Release Signal",
     "desc": "<p>A green CI pipeline feels reassuring.</p>\n\n<p>The build completed. The unit tests passed. The browser suite reported 100%. The pull reque",
     "link": "https://dev.to/sleepyfalcon247/a-passing-test-suite-is-not-a-release-signal-1kb7",
@@ -15,36 +45,6 @@
     "title": "Podman in Production: The Book, and the Pipeline Behind It",
     "desc": "<p>My first encounter with Podman back in 2020 was involuntary. A customer with<br />\nair-gapped RHEL 7 machines that we needed to deploy a ",
     "link": "https://dev.to/wkerschbaumer/podman-in-production-the-book-and-the-pipeline-behind-it-nie",
-    "topic": "general"
-  },
-  {
-    "title": "GitLab vs GitHub in 2026: Integrated Platform vs. Composable Ecosystem",
-    "desc": "<p>Pick GitLab or GitHub in 2026 and you're not really choosing between two Git hosts \u2014 you're choosing between two philosophies about what ",
-    "link": "https://dev.to/dobybaxter127/gitlab-vs-github-in-2026-integrated-platform-vs-composable-ecosystem-5dm9",
-    "topic": "general"
-  },
-  {
-    "title": "Making Architecture Diagrams Tell the Truth: Trust Boundaries, Data Flow, and the Things We Leave Out",
-    "desc": "<p>Most architecture diagrams are optimistic. They show the happy path: a client talks to a service, the service talks to a database, arrows",
-    "link": "https://dev.to/dobybaxter127/making-architecture-diagrams-tell-the-truth-trust-boundaries-data-flow-and-the-things-we-leave-dm6",
-    "topic": "general"
-  },
-  {
-    "title": "Automatizaci\u00f3n con IA: La Gu\u00eda Completa para Transformar los Procesos de tu Empresa",
-    "desc": "<h1>\n  \n  \n  Automatizaci\u00f3n con IA: La Gu\u00eda Completa para Transformar los Procesos de tu Empresa\n</h1>\n\n<p>La automatizaci\u00f3n con Inteligenci",
-    "link": "https://dev.to/vex_soluciones/automatizacion-con-ia-la-guia-completa-para-transformar-los-procesos-de-tu-empresa-16jd",
-    "topic": "general"
-  },
-  {
-    "title": "Validate Your LLM Workflow Before It Runs (Python + YAML Topology Checks)",
-    "desc": "<p>Your LLM app boots fine. It answers the first few messages fine. Then, ten minutes into a real conversation, it quietly walks from the <c",
-    "link": "https://dev.to/dobybaxter127/validate-your-llm-workflow-before-it-runs-python-yaml-topology-checks-35l1",
-    "topic": "general"
-  },
-  {
-    "title": "How to add mechanical enforcement to any AI coding agent",
-    "desc": "<h3>\n  \n  \n  The problem\n</h3>\n\n<p>AI coding agents generate code at impressive speeds. But they also commit untested code, hallucinate APIs",
-    "link": "https://dev.to/juandelossantos/how-to-add-mechanical-enforcement-to-any-ai-coding-agent-2dbl",
     "topic": "general"
   }
 ]
