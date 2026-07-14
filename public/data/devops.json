@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why mocking your Vector DB in CI is a terrible idea (and a 200ms fix)",
-    "desc": "<p>Over the last year, building a RAG application has become incredibly easy. But if you\u2019ve tried to move that prototype from a Jupyter Note",
-    "link": "https://dev.to/lopz/why-mocking-your-vector-db-in-ci-is-a-terrible-idea-and-a-200ms-fix-4nmc",
+    "title": "Why Your Product Tours Should Live in Git (Not Pendo)",
+    "desc": "<p>You've probably felt this friction. Your PM wants to tweak the onboarding tour. Your designer has feedback on button placement. So you lo",
+    "link": "https://dev.to/trailguide/why-your-product-tours-should-live-in-git-not-pendo-1741",
     "topic": "general"
   },
   {
-    "title": "AI Engineer World\u2019s Fair 2026: The Runtime Is Where Agent Trust Is Won",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is",
-    "link": "https://dev.to/rasne/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won-3j5j",
+    "title": "Our drift-warning hook was silently dead for 23 days. Zero warnings looked exactly like good behavior.",
+    "desc": "<p>Last week I wrote about <a href=\"https://dev.to/nexuslabzen/our-ai-agents-fabricated-done-five-times-in-17-days-here-is-what-actually-red",
+    "link": "https://dev.to/nexuslabzen/our-drift-warning-hook-was-silently-dead-for-23-days-zero-warnings-looked-exactly-like-good-472f",
     "topic": "general"
   },
   {
-    "title": "Build a Website Health Checker with Python",
-    "desc": "<h1>\n  \n  \n  Build a Website Health Checker with Python\n</h1>\n\n<p>You\u2019ve got a broken link at 2 AM, your users are furious, and you\u2019re the o",
-    "link": "https://dev.to/qingluan/build-a-website-health-checker-with-python-340o",
+    "title": "Apple's container hit 1.0. Should it be your dev environment yet? I measured.",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Apple's <a href=\"https://github.com/apple/container\" rel=\"noopener noreferrer\"><code>container</code></a",
+    "link": "https://dev.to/suruseas/apples-container-hit-10-should-it-be-your-dev-environment-yet-i-measured-1e00",
+    "topic": "docker"
+  },
+  {
+    "title": "BEST IOT SERVICES",
+    "desc": "<p>BEST IOT SERVICES<br />\n<a href=\"https://www.geniuscreators.com/service/iot-internet-of-things-service/\" rel=\"noopener noreferrer\">https:",
+    "link": "https://dev.to/geniuscreators/best-iot-services-lal",
     "topic": "general"
   },
   {
-    "title": "Day 77 of #100DaysOfClickHouse: Resolving Replication Conflicts in ClickHouse\u00ae",
-    "desc": "<h1>\n  \n  \n  Resolving Replication Conflicts in ClickHouse\u00ae\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>ClickHouse\u00ae is designed for high-perf",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-77-of-100daysofclickhouse-resolving-replication-conflicts-in-clickhouser-43o2",
+    "title": "How to Become an AI Infrastructure Engineer: Skills & Roadmap",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/yusuf42/how-to-become-an-ai-infrastructure-engineer-skills-roadmap-3o5i",
     "topic": "general"
   },
   {
-    "title": "Hermes Agent: Headless Server + Remote Desktop Setup",
-    "desc": "<p>Running Hermes Agent on a headless server while connecting from a desktop client on another machine requires two server processes and a s",
-    "link": "https://dev.to/rosgluk/hermes-agent-headless-server-remote-desktop-setup-3dhd",
+    "title": "Agentic commerce: consent boundaries developers can test",
+    "desc": "<p>July 14, 2026 matters because Google\u2019s India-focused safety announcement framed agentic commerce as contained execution plus provable per",
+    "link": "https://dev.to/tran_tienvan_e45fc26d655/agentic-commerce-consent-boundaries-developers-can-test-5djm",
     "topic": "general"
   },
   {
-    "title": "How to Use Terraform with Python for Infrastructure",
-    "desc": "<h1>\n  \n  \n  How to Use Terraform with Python for Infrastructure\n</h1>\n\n<p>Imagine you\u2019re staring at a terminal, manually running <code>terr",
-    "link": "https://dev.to/qingluan/how-to-use-terraform-with-python-for-infrastructure-3ob",
-    "topic": "terraform"
-  },
-  {
-    "title": "Streamlining Documentation Delivery: A Clean Software Development Overview with GitHub Pages & Actions",
-    "desc": "<h2>\n  \n  \n  The Documentation Dilemma: Keeping Repositories Clean\n</h2>\n\n<p>In the fast-paced world of software development, clear, accessi",
-    "link": "https://dev.to/devactivity/streamlining-documentation-delivery-a-clean-software-development-overview-with-github-pages--3ckl",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3f21",
     "topic": "general"
   },
   {
-    "title": "9 Proven Kubernetes Basics That Solve Real Problems",
-    "desc": "<p><strong>Kubernetes basics</strong> are still the foundation that determines whether your team uses K8s as a powerful platform or as an ex",
-    "link": "https://dev.to/gtstudios/9-proven-kubernetes-basics-that-solve-real-problems-42ii",
-    "topic": "kubernetes"
+    "title": "From 15+ Manual Deployments to 2 YAML Templates: Scaling Azure DevOps Pipelines for IIS-Hosted Apps",
+    "desc": "<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>I manage <strong>8 web applications</strong> hosted on a single Windows VM running IIS. Each application ",
+    "link": "https://dev.to/vignesh_athiappan_818c9e0/from-15-manual-deployments-to-2-yaml-templates-scaling-azure-devops-pipelines-for-iis-hosted-apps-3884",
+    "topic": "azure"
   }
 ]
