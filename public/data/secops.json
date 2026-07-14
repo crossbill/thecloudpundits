@@ -1,5 +1,17 @@
 [
   {
+    "title": "Multiple Jscrambler Packages Impacted by Supply Chain Attack",
+    "desc": "<p>A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/",
+    "topic": "secops"
+  },
+  {
+    "title": "Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules",
+    "desc": "<p>A new CMMC review and reform task force will conduct a comprehensive review of the program.</p>\n<p>The post <a href=\"https://www.security",
+    "link": "https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/",
+    "topic": "secops"
+  },
+  {
     "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
     "desc": "<p>Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate",
     "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
@@ -34,17 +46,5 @@
     "desc": "<p>Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution.</p>\n<p>The post <a href=\"h",
     "link": "https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/",
     "topic": "general"
-  },
-  {
-    "title": "Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns",
-    "desc": "<p>The company notified customers to manually shut down their servers while it is investigating a credible threat.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/",
-    "topic": "secops"
-  },
-  {
-    "title": "Centers Laboratory Data Breach Affects 540,000 Individuals",
-    "desc": "<p>The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider.</p>\n<p",
-    "link": "https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/",
-    "topic": "secops"
   }
 ]
