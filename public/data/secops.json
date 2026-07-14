@@ -1,5 +1,23 @@
 [
   {
+    "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
+    "desc": "<p>The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization.</p>\n<p",
+    "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
+    "topic": "general"
+  },
+  {
+    "title": "US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers",
+    "desc": "<p>Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/",
+    "topic": "secops"
+  },
+  {
+    "title": "Valarian Raises $50 Million for Sovereign Infrastructure Control Layer",
+    "desc": "<p>UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology.</p>\n<p>The post <a href=\"https://www.secu",
+    "link": "https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/",
+    "topic": "general"
+  },
+  {
     "title": "Multiple Jscrambler Packages Impacted by Supply Chain Attack",
     "desc": "<p>A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer.</p>\n<p>The post <a href=\"htt",
     "link": "https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/",
@@ -28,23 +46,5 @@
     "desc": "<p>Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker.</p>\n<p",
     "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
     "topic": "secops"
-  },
-  {
-    "title": "Zimbra Patches Critical Code Execution Vulnerability",
-    "desc": "<p>The flaw results in malicious code embedded in crafted emails being executed when the emails are opened.</p>\n<p>The post <a href=\"https:/",
-    "link": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
-    "desc": "<p>The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried ou",
-    "link": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
-    "topic": "secops"
-  },
-  {
-    "title": "Organizations Warned of Exploited Joomla Extension Vulnerabilities",
-    "desc": "<p>Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution.</p>\n<p>The post <a href=\"h",
-    "link": "https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/",
-    "topic": "general"
   }
 ]
