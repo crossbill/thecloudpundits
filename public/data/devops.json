@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Virtualization Market Is Splitting Into Three Camps",
-    "desc": "<p>The virtualization market has stopped behaving like a two-sided argument about which hypervisor wins, and if you're still evaluating it t",
-    "link": "https://dev.to/ntctech/the-virtualization-market-is-splitting-into-three-camps-46me",
-    "topic": "general"
-  },
-  {
-    "title": "Our server bill is $42/year. We serve 330 humans/day. Here's the breakdown",
-    "desc": "<p>A $20 smart plug. That's our entire energy monitoring infrastructure.</p>\n\n<p><strong>Current draw right now</strong>: < 30W<br /><br />\n",
-    "link": "https://dev.to/tommy2970/our-server-bill-is-42year-we-serve-330-humansday-heres-the-breakdown-344d",
-    "topic": "general"
-  },
-  {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4d8f",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4ag9",
     "topic": "general"
   },
   {
-    "title": "Azure SQL: The hidden costs and pitfalls of switching to Serverless (A DBA's Perspective)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/klpdlabs/azure-sql-the-hidden-costs-and-pitfalls-of-switching-to-serverless-a-dbas-perspective-n6f",
-    "topic": "azure"
-  },
-  {
-    "title": "Master os-taxonomy in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 70% of developers spend more time maintaining existing code than writing new code? Las",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-3bf3",
-    "topic": "general"
-  },
-  {
-    "title": "Top 09 Platforms to Buy Aged Telegram Accounts in",
-    "desc": "<p>Where Can You Safely Buy Aged Telegram Accounts?<br />\n\ud83c\udf10 24/7 Customer Support Available</p>\n\n<p>\ud83d\udcde WhatsApp: +1 (506) 541-7768</p>\n\n<p>\ud83d\udcf1 ",
-    "link": "https://dev.to/aviepointervzzc8/top-09-platforms-to-buy-aged-telegram-accounts-in-4adl",
-    "topic": "general"
-  },
-  {
-    "title": "AWS Compute Options: Lambda and ECS",
-    "desc": "<h1>\n  \n  \n  AWS Compute Options: Lambda and ECS\n</h1>\n\n<p><em>A practical guide to two of AWS's core compute services \u2014 Lambda for serverle",
-    "link": "https://dev.to/rhuturaj_takle/aws-compute-options-lambda-and-ecs-5b9g",
+    "title": "Building a Reusable AWS SAM CI/CD Pipeline for Multi-Account Deployments",
+    "desc": "<p><strong>Introduction & The Problem</strong><br />\nI am an Intermediate Software Engineer at one of New Zealand\u2019s global QSR enterprises.<",
+    "link": "https://dev.to/viren_patel_4351db2f23035/building-a-reusable-aws-sam-cicd-pipeline-for-multi-account-deployments-167g",
     "topic": "aws"
   },
   {
-    "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/a-broken-dnssec-rollover-took-down-al-now-1111-tells-you-when-va",
-    "link": "https://dev.to/rasne/a-broken-dnssec-rollover-took-down-al-now-1111-tells-you-when-validation-is-bypassed-1mc2",
+    "title": "PostgreSQL EXPLAIN ANALYZE: Read Plans, Fix Slow Queries",
+    "desc": "<p>Slow database queries rarely announce themselves. The app just feels sluggish, one endpoint times out under load, and everyone suspects t",
+    "link": "https://dev.to/akshay272727/postgresql-explain-analyze-read-plans-fix-slow-queries-4bk",
     "topic": "general"
+  },
+  {
+    "title": "Sauvegardes WordPress automatiques sans plugin payant : guide technique 2026",
+    "desc": "<blockquote>\n<p>Cet article a \u00e9t\u00e9 publi\u00e9 \u00e0 l'origine sur <a href=\"https://wpadminlab.com/sauvegardes-wordpress-automatiques-sans-plugin-paya",
+    "link": "https://dev.to/wpadminlab/sauvegardes-wordpress-automatiques-sans-plugin-payant-guide-technique-2026-2epi",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+    "desc": "<p>What if you could combine the native simplicity of <strong>Docker Compose</strong> with the decentralized targeting and reliability of <s",
+    "link": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+    "topic": "docker"
+  },
+  {
+    "title": "Your docs don't rot because you're lazy",
+    "desc": "<p>Every stale doc has the same origin story. The code changed. The docs didn't. And the reason isn't laziness. It's distance.</p>\n\n<p>When ",
+    "link": "https://dev.to/jkballa/your-docs-dont-rot-because-youre-lazy-1bok",
+    "topic": "general"
+  },
+  {
+    "title": "7 Infrastructure Bugs Our 9 AI Agents Auto-Recovered in 34 Days",
+    "desc": "<h1>\n  \n  \n  7 Infrastructure Bugs Our 9 AI Agents Auto-Recovered in 34 Days\n</h1>\n\n<p>No SRE rotation. No human infrastructure dashboards. ",
+    "link": "https://dev.to/zwiserfit/7-infrastructure-bugs-our-9-ai-agents-auto-recovered-in-34-days-37am",
+    "topic": "general"
+  },
+  {
+    "title": "How to Get JetBrains Air & Run Claude Code / AI Agents for FREE (Windows Guide)",
+    "desc": "<p>Whether you want to build entire applications from scratch or refactor legacy codebases, running autonomous AI agents is the new standard",
+    "link": "https://dev.to/codesetuplab/how-to-get-jetbrains-air-run-claude-code-ai-agents-for-free-windows-guide-20ol",
+    "topic": "anthropic"
   }
 ]
