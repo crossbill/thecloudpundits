@@ -1,5 +1,11 @@
 [
   {
+    "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
+    "desc": "<p>A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions.\u00a0</p",
+    "link": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
+    "topic": "anthropic"
+  },
+  {
     "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
     "desc": "<p>The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization.</p>\n<p",
     "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
@@ -39,12 +45,6 @@
     "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
     "desc": "<p>Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.</p>\n<p>The post <a href=\"https:/",
     "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
-    "topic": "secops"
-  },
-  {
-    "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
-    "desc": "<p>Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker.</p>\n<p",
-    "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
     "topic": "secops"
   }
 ]

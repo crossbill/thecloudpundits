@@ -1,50 +1,50 @@
 [
   {
-    "title": "Master os-taxonomy in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 80% of developers spend more time debugging than coding? Mastering os-taxonomy can hel",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-35eb",
+    "title": "Why mocking your Vector DB in CI is a terrible idea (and a 200ms fix)",
+    "desc": "<p>Over the last year, building a RAG application has become incredibly easy. But if you\u2019ve tried to move that prototype from a Jupyter Note",
+    "link": "https://dev.to/lopz/why-mocking-your-vector-db-in-ci-is-a-terrible-idea-and-a-200ms-fix-4nmc",
     "topic": "general"
   },
   {
-    "title": "How AI Is Transforming Facility Management in 2026",
-    "desc": "<p>Facility management is no longer limited to manual inspections, paperwork, and reactive maintenance. With the rapid adoption of Artificia",
-    "link": "https://dev.to/factech_fm/how-ai-is-transforming-facility-management-in-2026-25ni",
+    "title": "AI Engineer World\u2019s Fair 2026: The Runtime Is Where Agent Trust Is Won",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is",
+    "link": "https://dev.to/rasne/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won-3j5j",
     "topic": "general"
   },
   {
-    "title": "Your audit expired the day you made the next commit",
-    "desc": "<p>Mirror/dev.to. Positions continuous monitoring (our wedge).*</p>\n\n<p>You paid for an audit. The firm reviewed a commit hash, handed you a",
-    "link": "https://dev.to/juan23z/your-audit-expired-the-day-you-made-the-next-commit-48m2",
+    "title": "Build a Website Health Checker with Python",
+    "desc": "<h1>\n  \n  \n  Build a Website Health Checker with Python\n</h1>\n\n<p>You\u2019ve got a broken link at 2 AM, your users are furious, and you\u2019re the o",
+    "link": "https://dev.to/qingluan/build-a-website-health-checker-with-python-340o",
     "topic": "general"
   },
   {
-    "title": "7 Terraform Patterns That Survive Production",
-    "desc": "<h1>\n  \n  \n  7 Terraform Patterns That Survive Production\n</h1>\n\n<p>Nobody's Terraform stays clean past the second sprint. You start with a ",
-    "link": "https://dev.to/datanestdigital/7-terraform-patterns-that-survive-production-4clf",
+    "title": "Day 77 of #100DaysOfClickHouse: Resolving Replication Conflicts in ClickHouse\u00ae",
+    "desc": "<h1>\n  \n  \n  Resolving Replication Conflicts in ClickHouse\u00ae\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>ClickHouse\u00ae is designed for high-perf",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-77-of-100daysofclickhouse-resolving-replication-conflicts-in-clickhouser-43o2",
+    "topic": "general"
+  },
+  {
+    "title": "Hermes Agent: Headless Server + Remote Desktop Setup",
+    "desc": "<p>Running Hermes Agent on a headless server while connecting from a desktop client on another machine requires two server processes and a s",
+    "link": "https://dev.to/rosgluk/hermes-agent-headless-server-remote-desktop-setup-3dhd",
+    "topic": "general"
+  },
+  {
+    "title": "How to Use Terraform with Python for Infrastructure",
+    "desc": "<h1>\n  \n  \n  How to Use Terraform with Python for Infrastructure\n</h1>\n\n<p>Imagine you\u2019re staring at a terminal, manually running <code>terr",
+    "link": "https://dev.to/qingluan/how-to-use-terraform-with-python-for-infrastructure-3ob",
     "topic": "terraform"
   },
   {
-    "title": "Why Your Business Needs DevOps: A Practical Guide to Faster, Safer Software Delivery",
-    "desc": "<p>DevOps for business means merging software development and IT operations into one connected workflow, powered by automation, so companies",
-    "link": "https://dev.to/mathionix_technologies/why-your-business-needs-devops-a-practical-guide-to-faster-safer-software-delivery-g4c",
+    "title": "Streamlining Documentation Delivery: A Clean Software Development Overview with GitHub Pages & Actions",
+    "desc": "<h2>\n  \n  \n  The Documentation Dilemma: Keeping Repositories Clean\n</h2>\n\n<p>In the fast-paced world of software development, clear, accessi",
+    "link": "https://dev.to/devactivity/streamlining-documentation-delivery-a-clean-software-development-overview-with-github-pages--3ckl",
     "topic": "general"
   },
   {
-    "title": "How to Deploy a Self-Hosted 2-of-3 MPC Signing Cluster (Without Losing Everyone's Keys)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/immunefomo/how-to-deploy-a-self-hosted-2-of-3-mpc-signing-cluster-without-losing-everyones-keys-2mg1",
-    "topic": "general"
-  },
-  {
-    "title": "Fix High Memory Leaks with Real-Time System Monitoring in Python",
-    "desc": "<p>When your server starts swapping memory or your application begins to slow down due to high memory usage, it's often hard to pinpoint the",
-    "link": "https://dev.to/intellitools/fix-high-memory-leaks-with-real-time-system-monitoring-in-python-2n8c",
-    "topic": "general"
-  },
-  {
-    "title": "A hard-earned rule from incident retrospectives:",
-    "desc": "<h1>\n  \n  \n  LinkedIn Draft \u2014 Workflow (2026-07-14)\n</h1>\n\n<p>A hard-earned rule from incident retrospectives:</p>\n\n<p><strong>GitOps drift:",
-    "link": "https://dev.to/neeraja_khanapure_4a33a5f/a-hard-earned-rule-from-incident-retrospectives-je",
-    "topic": "secops"
+    "title": "9 Proven Kubernetes Basics That Solve Real Problems",
+    "desc": "<p><strong>Kubernetes basics</strong> are still the foundation that determines whether your team uses K8s as a powerful platform or as an ex",
+    "link": "https://dev.to/gtstudios/9-proven-kubernetes-basics-that-solve-real-problems-42ii",
+    "topic": "kubernetes"
   }
 ]
