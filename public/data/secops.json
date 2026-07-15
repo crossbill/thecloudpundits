@@ -1,5 +1,23 @@
 [
   {
+    "title": "White House Launches AI-Driven \u2018Gold Eagle\u2019 Vulnerability Coordination Initiative",
+    "desc": "<p>The new program stems from an AI-focused Executive Order signed by President Trump on June 2.</p>\n<p>The post <a href=\"https://www.securi",
+    "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
+    "topic": "secops"
+  },
+  {
+    "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
+    "desc": "<p>The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
+    "topic": "secops"
+  },
+  {
+    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
+    "desc": "<p>The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.</p>\n",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
+    "topic": "general"
+  },
+  {
     "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
     "desc": "<p>Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed.</p>\n<p>The post <a href=\"https",
     "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
@@ -27,24 +45,6 @@
     "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
     "desc": "<p>The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges.</p>\n<p>The post <a href=\"htt",
     "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
-    "desc": "<p>The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal.</p>\n<p>The po",
-    "link": "https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/",
-    "topic": "general"
-  },
-  {
-    "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
-    "desc": "<p>A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions.\u00a0</p",
-    "link": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
-    "desc": "<p>The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization.</p>\n<p",
-    "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
     "topic": "general"
   }
 ]

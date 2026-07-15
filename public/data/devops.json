@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes ConfigMaps and Secrets \u2014 Complete Configuration Management Guide (2026)",
-    "desc": "<p>Never hardcode configuration or secrets inside your container image. Kubernetes provides two objects for this:</p>\n\n<ul>\n<li>\n<strong>Con",
-    "link": "https://dev.to/devopsrise_0607/kubernetes-configmaps-and-secrets-complete-configuration-management-guide-2026-2117",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "A DevOps Roadmap for Teams Starting from Zero",
-    "desc": "<blockquote>\n<p><strong>Quick summary</strong></p>\n\n<ul>\n<li>DevOps is a culture of fast, reliable delivery - not a pile of tools - and team",
-    "link": "https://dev.to/acquriotech/a-devops-roadmap-for-teams-starting-from-zero-4og6",
+    "title": "One MCP Server, Two Models: An Always-On Ops Agent That Costs $0",
+    "desc": "<p><em>A companion to <a href=\"https://dev.to/gde03/claude-code-beyond-the-prompt-part-4-your-first-mcp-server-give-claude-safe-hands-on-you",
+    "link": "https://dev.to/gde03/one-mcp-server-two-models-an-always-on-ops-agent-that-costs-0-57b6",
     "topic": "general"
   },
   {
-    "title": "Kubernetes RBAC \u2014 Control Who Can Do What in Your Cluster (2026)",
-    "desc": "<p>Without RBAC properly configured:</p>\n\n<ul>\n<li>A developer can accidentally delete production pods</li>\n<li>A compromised app can read A",
-    "link": "https://dev.to/devopsrise_0607/kubernetes-rbac-control-who-can-do-what-in-your-cluster-2026-3p0d",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Docker Networking Explained \u2014 Bridge, Host and Custom Networks (2026)",
-    "desc": "<p>How do containers talk to each other? Why can my web container reach my database by name but not by default? This guide explains Docker n",
-    "link": "https://dev.to/devopsrise_0607/docker-networking-explained-bridge-host-and-custom-networks-2026-1oo1",
-    "topic": "docker"
-  },
-  {
-    "title": "I replaced homelab bash with agents \u2014 and the DX got weirdly good",
-    "desc": "<p>Homelabs used to mean a folder of bash scripts, a wiki nobody updates, and one machine you are afraid to reboot.</p>\n\n<p>I wanted somethi",
-    "link": "https://dev.to/shiva_kadiri/i-replaced-homelab-bash-with-agents-and-the-dx-got-weirdly-good-3f7e",
+    "title": "API Key Rotation Without Downtime: Patterns and Implementation",
+    "desc": "<p>Rotating API keys is routine maintenance \u2014 until it causes a production incident. The window between revoking an old key and deploying a ",
+    "link": "https://dev.to/ayinedjimi-consultants/api-key-rotation-without-downtime-patterns-and-implementation-j77",
     "topic": "general"
   },
   {
-    "title": "Long-Running AI Agents Need a Lease, a Heartbeat, and a Drain Test",
-    "desc": "<p>NVIDIA's June 2026 GTC Taipei program includes a session on <a href=\"https://www.nvidia.com/en-us/on-demand/playlist/playList-1e4f6d1d-64",
-    "link": "https://dev.to/odd_background_328/long-running-ai-agents-need-a-lease-a-heartbeat-and-a-drain-test-57a6",
+    "title": "Salesforce DevOps Course | Salesforce DevOps Online Training",
+    "desc": "<p>Why Salesforce DevOps Skills Are in High Demand in 2026<br />\nIntroduction<br />\nSalesforce DevOps has become an important part of modern",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-course-salesforce-devops-online-training-4ngn",
     "topic": "general"
   },
   {
-    "title": "Turn Google DeepMind's AI Control Roadmap Into Five Agent Security Tests",
-    "desc": "<p>Google DeepMind published its <a href=\"https://deepmind.google/blog/securing-the-future-of-ai-agents/\" rel=\"noopener noreferrer\">AI Contr",
-    "link": "https://dev.to/jaryn_123/turn-google-deepminds-ai-control-roadmap-into-five-agent-security-tests-69n",
-    "topic": "secops"
+    "title": "A Weekly Cron Died Silently for 10 Weeks. Here Is What We Changed.",
+    "desc": "<h2>\n  \n  \n  The Bug Nobody Saw\n</h2>\n\n<p>For roughly 10 weeks, a scheduled publishing job produced zero output. No error email. No Slack pi",
+    "link": "https://dev.to/savage_solutions/a-weekly-cron-died-silently-for-10-weeks-here-is-what-we-changed-33m5",
+    "topic": "general"
   },
   {
-    "title": "Terraform Cloudflare DNS Checklist Before Every Apply",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/15/terraform-cloudflare-dns-checklist-before-every-apply\" rel=\"noopen",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/terraform-cloudflare-dns-checklist-before-every-apply-3g9m",
-    "topic": "terraform"
+    "title": "What is DevOps? A Beginner's Guide to Modern Software Development",
+    "desc": "<h1>\n  \n  \n  What is DevOps? A Beginner's Guide to Modern Software Development\n</h1>\n\n<p>If you've started learning Cloud Computing, Docker,",
+    "link": "https://dev.to/mohammadshafaquearif/what-is-devops-a-beginners-guide-to-modern-software-development-2010",
+    "topic": "general"
+  },
+  {
+    "title": "The Best Test Automation Tool Is the One Your Team Still Uses a Year Later",
+    "desc": "<p>Most test automation tools look good during a demo.</p>\n\n<p>You record a login flow, add an assertion, run it in Chrome, and get a green ",
+    "link": "https://dev.to/mellowthunder735/the-best-test-automation-tool-is-the-one-your-team-still-uses-a-year-later-o22",
+    "topic": "general"
+  },
+  {
+    "title": "Who Is Mohammad Shafaque Arif? A Software Developer Passionate About DevOps, Cloud Computing, and Modern Infrastructure",
+    "desc": "<h1>\n  \n  \n  Who Is Mohammad Shafaque Arif? My Journey into Full Stack Development, DevOps, and Cloud Computing\n</h1>\n\n<p>Every developer ha",
+    "link": "https://dev.to/mohammadshafaquearif/who-is-mohammad-shafaque-arif-a-software-developer-passionate-about-devops-cloud-computing-and-4eeo",
+    "topic": "general"
+  },
+  {
+    "title": "The First 10 Seconds That Decide Whether Users Trust Your VPN App",
+    "desc": "<h2>\n  \n  \n  Introduction: Trust Starts Before the VPN Connects\n</h2>\n\n<p>Most VPN app builders think user trust begins after the VPN connec",
+    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/the-first-10-seconds-that-decide-whether-users-trust-your-vpn-app-55gp",
+    "topic": "general"
   }
 ]
