@@ -1,5 +1,11 @@
 [
   {
+    "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
+    "desc": "<p>Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
+    "topic": "general"
+  },
+  {
     "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
     "desc": "<p>SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution.</p>\n<p>The post ",
     "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
@@ -40,11 +46,5 @@
     "desc": "<p>The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization.</p>\n<p",
     "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
     "topic": "general"
-  },
-  {
-    "title": "US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers",
-    "desc": "<p>Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/",
-    "topic": "secops"
   }
 ]
