@@ -1,50 +1,50 @@
 [
   {
-    "title": "Shopify Flow: What It Can Actually Automate",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/zillionera_dev6/shopify-flow-what-it-can-actually-automate-48je",
+    "title": "MCP Tunnels vs VPN for AI Agents: When a VPN Is the Wrong Shape",
+    "desc": "<p>If you are running an MCP server, you have probably hit the connectivity question: how do agents across the internet reach it? The defaul",
+    "link": "https://dev.to/pstayet/mcp-tunnels-vs-vpn-for-ai-agents-when-a-vpn-is-the-wrong-shape-8fp",
     "topic": "general"
   },
   {
-    "title": "# Tracking the Ghosts in the Machine: Instrumenting Asynchronous AI Agent Workflows with OpenTelemetry and SigNoz",
-    "desc": "<p>When an LLM-based agent takes 12 seconds to respond, where exactly does the time go?</p>\n\n<p>Was it a slow vector database retrieval? Did",
-    "link": "https://dev.to/scoops/-tracking-the-ghosts-in-the-machine-instrumenting-asynchronous-ai-agent-workflows-with-3bi2",
+    "title": "HAMi becomes a CNCF incubating project",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/hami-becomes-a-cncf-incubating-project\" rel=\"noopener noreferrer",
+    "link": "https://dev.to/rasne/hami-becomes-a-cncf-incubating-project-2516",
     "topic": "general"
   },
   {
-    "title": "REPO LAYOUT VS. RUNTIME ARCHITECTURE",
-    "desc": "<h2>\n  \n  \n  <img alt=\"cover image\" height=\"424\" src=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=aut",
-    "link": "https://dev.to/jorelfuji/repo-layout-vs-runtime-architecture-2oph",
+    "title": "Coding agents can write your integration. They can't run it.",
+    "desc": "<p>Digibee opens with a clear disclaimer: every team there uses Claude Code. This isn't a take from people who skipped the AI tooling revolu",
+    "link": "https://dev.to/thegatewayguy/coding-agents-can-write-your-integration-they-cant-run-it-17k4",
     "topic": "general"
   },
   {
-    "title": "You Know 'Tree' as a Dev Tool. Security Teams Weaponize It.",
-    "desc": "<h2>\n  \n  \n  <img alt=\" \" height=\"800\" src=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat",
-    "link": "https://dev.to/xpert4cyber/you-know-tree-as-a-dev-tool-security-teams-weaponize-it-32el",
-    "topic": "secops"
-  },
-  {
-    "title": "What if your security scanner fixed the code too?",
-    "desc": "<p>What if your security scanner fixed the code too?</p>\n\n<p>Every developer who has wired up a SAST tool knows the letdown. You get 200 fin",
-    "link": "https://dev.to/lucky3mc/what-if-your-security-scanner-fixed-the-code-too-40pi",
-    "topic": "secops"
-  },
-  {
-    "title": "Streaming an AI Agent Without a Function Timeout",
-    "desc": "<p>An AI agent and a serverless function want different things. The agent wants to think, call a tool, stream some tokens, call another tool",
-    "link": "https://dev.to/devopsdaily/streaming-an-ai-agent-without-a-function-timeout-1eoe",
+    "title": "How to build a secure, cross-protocol Agentic AI cluster in 15 minutes (without touching Istio).",
+    "desc": "<h2>\n  \n  \n  The Challenge of the ReAct Loop (East-West Traffic)\n</h2>\n\n<p>A ReAct loop is essentially an AI agent breaking down a complex p",
+    "link": "https://dev.to/tommcnamara/how-to-build-a-secure-cross-protocol-agentic-ai-cluster-in-15-minutes-without-touching-istio-5ega",
     "topic": "general"
   },
   {
-    "title": "The Security Group Change Terraform Never Told Me About",
-    "desc": "<p>Terraform had a blind spot in my three-tier project.</p>\n\n<p>The code could create the infrastructure. The state lived in S3. But if some",
-    "link": "https://dev.to/lbagga/the-security-group-change-terraform-never-told-me-about-1b2p",
-    "topic": "terraform"
+    "title": "Learn How to Improve AI Agent Observability Without Increasing Costs",
+    "desc": "<p>Deploying an AI agent isn\u2019t very different from hiring a new human customer support agent. You bring them up to speed on context, handle ",
+    "link": "https://dev.to/nishevitha_ramamoorthy_42/learn-how-to-improve-ai-agent-observability-without-increasing-costs-16bk",
+    "topic": "general"
   },
   {
-    "title": "Deploy an AI IT Ops Agent for E-commerce in 3 Steps",
-    "desc": "<p>Every hour your checkout is down costs real money. Industry benchmarks typically put e-commerce downtime in the range of $10,000 to $100,",
-    "link": "https://dev.to/afzaal_a/deploy-an-ai-it-ops-agent-for-e-commerce-in-3-steps-4hh9",
+    "title": "I Gave an AI Agent a Database, Compute, Storage, and Models From One CLI",
+    "desc": "<p>A working AI agent has an unglamorous shopping list. It needs a database to remember things, somewhere to run that can stream tokens with",
+    "link": "https://dev.to/devopsdaily/i-gave-an-ai-agent-a-database-compute-storage-and-models-from-one-cli-514h",
+    "topic": "general"
+  },
+  {
+    "title": "Anakatech Selects Payneteasy Orchestration as the Backbone for Its Multi-Brand Gaming Payments",
+    "desc": "<p><em><strong>Subheadline:</strong> Five-year partnership enables flexible routing, fast integrations, and uplift in approval rates while r",
+    "link": "https://dev.to/payneteasy/anakatech-selects-payneteasy-orchestration-as-the-backbone-for-its-multi-brand-gaming-payments-1l4m",
+    "topic": "general"
+  },
+  {
+    "title": "Realtime Without a WebSocket Service",
+    "desc": "<p>The moment a feature needs to update live, a live counter, a presence indicator, a \"new message\" badge, an activity feed, the reflex is t",
+    "link": "https://dev.to/devopsdaily/realtime-without-a-websocket-service-1gk3",
     "topic": "general"
   }
 ]
