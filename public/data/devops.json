@@ -1,50 +1,50 @@
 [
   {
-    "title": "7 Infrastructure Bugs Our AI Agents Auto-Recovered in 34 Days \u2014 The Full Breakdown",
-    "desc": "<h2>\n  \n  \n  7 Bugs, 34 Days, Zero Human SRE\n</h2>\n\n<p>Over a 34-day pre-launch sprint (June 7\u2013July 11), our 9-agent autonomous system encou",
-    "link": "https://dev.to/zwiserfit/7-infrastructure-bugs-our-ai-agents-auto-recovered-in-34-days-the-full-breakdown-2eo5",
+    "title": "May the Backups Be With You: A Star Wars Inspired Guide to Database Backups and Disaster Recovery",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think \u201cI\u2019ll just snapshot the DB once a month and call it a day.\u201d It",
+    "link": "https://dev.to/timevolt/may-the-backups-be-with-you-a-star-wars-inspired-guide-to-database-backups-and-disaster-recovery-1adn",
     "topic": "general"
   },
   {
-    "title": "mtime is not a claim",
-    "desc": "<p>There are 54 files in <code>~/.mesh/knowledge</code> on this machine. Each one is a capability sweep \u2014 a<br />\nrecord of what some node i",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/mtime-is-not-a-claim-36en",
+    "title": "Your Webhook Returned 200 OK. Did the Event Actually Get Processed?",
+    "desc": "<p>A webhook provider sends an event. Your endpoint returns <code>200 OK</code>. The provider stops retrying.</p>\n\n<p>Everything worked, rig",
+    "link": "https://dev.to/andrew_lencmanis_12ca3b2b/your-webhook-returned-200-ok-did-the-event-actually-get-processed-4npj",
     "topic": "general"
   },
   {
-    "title": "The API docs pipeline that runs itself (week 1 recap)",
-    "desc": "<p>One week in. Let's connect the dots, because the tools are useful alone but the real win is chaining them.</p>\n\n<p>Here's the pipeline:</",
-    "link": "https://dev.to/jkballa/the-api-docs-pipeline-that-runs-itself-week-1-recap-5ok",
+    "title": "Non-determinism is the job",
+    "desc": "<p>Early in my career, and partially because I worked at a place that was a little silly and I didn't have much contact outside the organiza",
+    "link": "https://dev.to/raleighschickel/non-determinism-is-the-job-2omf",
     "topic": "general"
   },
   {
-    "title": "Every developer's laptop is a pile of plaintext secrets.",
-    "desc": "<p>Run this: <code>cat ~/.cache/huggingface/token</code></p>\n\n<p>That's your Hugging Face token. Plaintext. In a cache folder the kind that ",
-    "link": "https://dev.to/menit/every-developers-laptop-is-a-pile-of-plaintext-secrets-56ih",
+    "title": "When fastembed silently rotted my worker: anchor your caches, don't trust /tmp",
+    "desc": "<p>My worker just crashed on a research job, and the traceback pointed at a file that should have been there:<br />\n</p>\n\n<div class=\"highli",
+    "link": "https://dev.to/yogeshchavan2008/when-fastembed-silently-rotted-my-worker-anchor-your-caches-dont-trust-tmp-3ab3",
     "topic": "general"
   },
   {
-    "title": "Would You Ship a Codebase Rewritten Entirely by Agents?",
-    "desc": "<p>The team behind Bun ported 535,000 lines of Zig to Rust in 11 days, with one engineer, 64 Claude agents running in parallel, roughly $165",
-    "link": "https://dev.to/sedai/would-you-ship-a-codebase-rewritten-entirely-by-agents-1p6e",
+    "title": "The Two Numbers Every Quant Market Maker Solves For Before You Click Buy",
+    "desc": "<p>Every price you have ever clicked was placed there by a machine solving an equation you have never seen<br />\nLets dive into it<br />\nWhe",
+    "link": "https://dev.to/benjamin_cup/the-two-numbers-every-quant-market-maker-solves-for-before-you-click-buy-3b19",
     "topic": "general"
   },
   {
-    "title": "Shadow IT Management: Frameworks & Hidden Risks (+ Checklist)",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/shadow-it-management-frameworks-hidden-risks-checklist\" rel=\"noo",
-    "link": "https://dev.to/rasne/shadow-it-management-frameworks-hidden-risks-checklist-71k",
+    "title": "Turn redacted HarnessDelta findings into native CI review artifacts",
+    "desc": "<p>A specialist check is most useful when its findings arrive where a team already reviews code. For coding-agent configuration, that usuall",
+    "link": "https://dev.to/nekoautomata/turn-redacted-harnessdelta-findings-into-native-ci-review-artifacts-1dco",
     "topic": "general"
   },
   {
-    "title": "Supabase Backups Don't Include Your Storage Files. Here's What Does.",
-    "desc": "<p>The restore finished clean. <code>pg_restore</code> exited 0, every table came back, row counts matched, the app booted. Twenty minutes l",
-    "link": "https://dev.to/superlede/supabase-backups-dont-include-your-storage-files-heres-what-does-14e9",
-    "topic": "general"
+    "title": "100 Days of DevOps and Cloud (AWS), Day 11: A WAR File Deploys Itself, and an ENI Is a Network Card You Can Move",
+    "desc": "<p>Deploying a Java web app to Tomcat sounds like it should need a deploy tool. It does not. You copy one file into one folder, and Tomcat d",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-11-a-war-file-deploys-itself-and-an-eni-is-a-network-card-45o0",
+    "topic": "aws"
   },
   {
-    "title": "Four Instances, Two Data Centers, One Bug: When Redundancy Isn't Independence",
-    "desc": "<p>Four instances of the core service. Two physically separate data centers. And a single operating-system defect degraded the whole thing a",
-    "link": "https://dev.to/kkierii/four-instances-two-data-centers-one-bug-when-redundancy-isnt-independence-3dl8",
+    "title": "Vercel AI Gateway: One Endpoint, Zero Token Markup, and Where It Stops",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>It's a single HTTP endpoint in front of hundreds of models, referenced as <code>creator/model-name</code>",
+    "link": "https://dev.to/sahajmeet_kaur_/vercel-ai-gateway-one-endpoint-zero-token-markup-and-where-it-stops-20pc",
     "topic": "general"
   }
 ]
