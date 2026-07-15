@@ -1,50 +1,50 @@
 [
   {
+    "title": "Ingress-NGINX retired in March 2026: the Gateway API migration plan for 30 annotations",
+    "desc": "<h1>\n  \n  \n  Ingress-NGINX retired in March 2026: the Gateway API migration plan for 30 annotations\n</h1>\n\n<p><strong>Summary.</strong> The ",
+    "link": "https://dev.to/mr_manushukla/ingress-nginx-retired-in-march-2026-the-gateway-api-migration-plan-for-30-annotations-28ah",
+    "topic": "general"
+  },
+  {
+    "title": "The 10 Sites Guide to Buying Old Yahoo Accounts in 26",
+    "desc": "<p>Buy Old Yahoo Accounts: Risks, Security Issues, and Safe Alternatives (Complete Guide)<br />\n\ud83c\udf10 24/7 Customer Support Available</p>\n\n<p>\ud83d\udcde ",
+    "link": "https://dev.to/violantemccartyso8xt/the-10-sites-guide-to-buying-old-yahoo-accounts-in-26-26j7",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Coding Assistant Isn't Reading Your Code, It's Mailing It Home",
+    "desc": "<h2>\n  \n  \n  Hook\n</h2>\n\n<p>An AI coding CLI that uploads your entire Git history \u2014 commit logs, secrets, and all \u2014 to a vendor-controlled b",
+    "link": "https://dev.to/coridev/your-ai-coding-assistant-isnt-reading-your-code-its-mailing-it-home-3blg",
+    "topic": "general"
+  },
+  {
+    "title": "Master grok-build in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours manually building and deploying a Rust project, only to realize that I could h",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-grok-build-in-5-mins-oc5",
+    "topic": "general"
+  },
+  {
+    "title": "What's Actually Cooking in Azure AI Right Now (Notes from My MVP Prep Rabbit Hole)",
+    "desc": "<p>So here's the thing \u2014 I've been buried in Azure documentation for the past few weeks, partly because I'm putting together my Microsoft MV",
+    "link": "https://dev.to/ibne_sabidsaikat_1443282/whats-actually-cooking-in-azure-ai-right-now-notes-from-my-mvp-prep-rabbit-hole-9hf",
+    "topic": "azure"
+  },
+  {
+    "title": "Cron Expressions: The Parts That Actually Trip People Up",
+    "desc": "<h1>\n  \n  \n  Cron Expressions: The Parts That Actually Trip People Up\n</h1>\n\n<p>Cron looks simple until you hit one of its few genuinely wei",
+    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/cron-expressions-the-parts-that-actually-trip-people-up-12il",
+    "topic": "general"
+  },
+  {
+    "title": "The Hard Part of Test Automation Isn\u2019t Writing Tests Anymore",
+    "desc": "<p>A few years ago, creating the automated test was usually the difficult part.</p>\n\n<p>You had to choose a framework, learn its APIs, build",
+    "link": "https://dev.to/sleepyfalcon247/the-hard-part-of-test-automation-isnt-writing-tests-anymore-h9",
+    "topic": "general"
+  },
+  {
     "title": "Chronological K8s Debugging: Merging Logs, Events, and Node Alerts on the Fly",
     "desc": "<h1>\n  \n  \n  Chronological K8s Debugging: Merging Logs, Events, and Node Alerts on the Fly\n</h1>\n\n<p>If you've ever had to debug a failing K",
     "link": "https://dev.to/dasmat13/chronological-k8s-debugging-merging-logs-events-and-node-alerts-on-the-fly-c62",
     "topic": "kubernetes"
-  },
-  {
-    "title": "NATS vs gRPC for Messaging: When the Answer Is Neither",
-    "desc": "<h1>\n  \n  \n  NATS vs gRPC for Messaging: When the Answer Is Neither\n</h1>\n\n<p>If you're building a distributed system that needs reliable in",
-    "link": "https://dev.to/pstayet/nats-vs-grpc-for-messaging-when-the-answer-is-neither-2bng",
-    "topic": "general"
-  },
-  {
-    "title": "May the Backups Be With You: A Star Wars Inspired Guide to Database Backups and Disaster Recovery",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think \u201cI\u2019ll just snapshot the DB once a month and call it a day.\u201d It",
-    "link": "https://dev.to/timevolt/may-the-backups-be-with-you-a-star-wars-inspired-guide-to-database-backups-and-disaster-recovery-1adn",
-    "topic": "general"
-  },
-  {
-    "title": "Your Webhook Returned 200 OK. Did the Event Actually Get Processed?",
-    "desc": "<p>A webhook provider sends an event. Your endpoint returns <code>200 OK</code>. The provider stops retrying.</p>\n\n<p>Everything worked, rig",
-    "link": "https://dev.to/andrew_lencmanis_12ca3b2b/your-webhook-returned-200-ok-did-the-event-actually-get-processed-4npj",
-    "topic": "general"
-  },
-  {
-    "title": "Non-determinism is the job",
-    "desc": "<p>Early in my career, and partially because I worked at a place that was a little silly and I didn't have much contact outside the organiza",
-    "link": "https://dev.to/raleighschickel/non-determinism-is-the-job-2omf",
-    "topic": "general"
-  },
-  {
-    "title": "When fastembed silently rotted my worker: anchor your caches, don't trust /tmp",
-    "desc": "<p>My worker just crashed on a research job, and the traceback pointed at a file that should have been there:<br />\n</p>\n\n<div class=\"highli",
-    "link": "https://dev.to/yogeshchavan2008/when-fastembed-silently-rotted-my-worker-anchor-your-caches-dont-trust-tmp-3ab3",
-    "topic": "general"
-  },
-  {
-    "title": "The Two Numbers Every Quant Market Maker Solves For Before You Click Buy",
-    "desc": "<p>Every price you have ever clicked was placed there by a machine solving an equation you have never seen<br />\nLets dive into it<br />\nWhe",
-    "link": "https://dev.to/benjamin_cup/the-two-numbers-every-quant-market-maker-solves-for-before-you-click-buy-3b19",
-    "topic": "general"
-  },
-  {
-    "title": "Turn redacted HarnessDelta findings into native CI review artifacts",
-    "desc": "<p>A specialist check is most useful when its findings arrive where a team already reviews code. For coding-agent configuration, that usuall",
-    "link": "https://dev.to/nekoautomata/turn-redacted-harnessdelta-findings-into-native-ci-review-artifacts-1dco",
-    "topic": "general"
   }
 ]
