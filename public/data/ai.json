@@ -1,5 +1,17 @@
 [
   {
+    "title": "What building Shippy taught us about building agents",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "topic": "general"
+  },
+  {
+    "title": "Model Routing Is Simple. Until It Isn\u2019t.",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "topic": "general"
+  },
+  {
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "desc": "",
     "link": "https://huggingface.co/blog/real-world-voiceeq",
@@ -34,17 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
     "topic": "huggingface"
-  },
-  {
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "desc": "",
-    "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "topic": "huggingface"
-  },
-  {
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "desc": "",
-    "link": "https://huggingface.co/blog/lerobot-release-v060",
-    "topic": "general"
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
-    "title": "MCP Tunnels vs VPN for AI Agents: When a VPN Is the Wrong Shape",
-    "desc": "<p>If you are running an MCP server, you have probably hit the connectivity question: how do agents across the internet reach it? The defaul",
-    "link": "https://dev.to/pstayet/mcp-tunnels-vs-vpn-for-ai-agents-when-a-vpn-is-the-wrong-shape-8fp",
+    "title": "7 Infrastructure Bugs Our AI Agents Auto-Recovered in 34 Days \u2014 The Full Breakdown",
+    "desc": "<h2>\n  \n  \n  7 Bugs, 34 Days, Zero Human SRE\n</h2>\n\n<p>Over a 34-day pre-launch sprint (June 7\u2013July 11), our 9-agent autonomous system encou",
+    "link": "https://dev.to/zwiserfit/7-infrastructure-bugs-our-ai-agents-auto-recovered-in-34-days-the-full-breakdown-2eo5",
     "topic": "general"
   },
   {
-    "title": "HAMi becomes a CNCF incubating project",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/hami-becomes-a-cncf-incubating-project\" rel=\"noopener noreferrer",
-    "link": "https://dev.to/rasne/hami-becomes-a-cncf-incubating-project-2516",
+    "title": "mtime is not a claim",
+    "desc": "<p>There are 54 files in <code>~/.mesh/knowledge</code> on this machine. Each one is a capability sweep \u2014 a<br />\nrecord of what some node i",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/mtime-is-not-a-claim-36en",
     "topic": "general"
   },
   {
-    "title": "Coding agents can write your integration. They can't run it.",
-    "desc": "<p>Digibee opens with a clear disclaimer: every team there uses Claude Code. This isn't a take from people who skipped the AI tooling revolu",
-    "link": "https://dev.to/thegatewayguy/coding-agents-can-write-your-integration-they-cant-run-it-17k4",
+    "title": "The API docs pipeline that runs itself (week 1 recap)",
+    "desc": "<p>One week in. Let's connect the dots, because the tools are useful alone but the real win is chaining them.</p>\n\n<p>Here's the pipeline:</",
+    "link": "https://dev.to/jkballa/the-api-docs-pipeline-that-runs-itself-week-1-recap-5ok",
     "topic": "general"
   },
   {
-    "title": "How to build a secure, cross-protocol Agentic AI cluster in 15 minutes (without touching Istio).",
-    "desc": "<h2>\n  \n  \n  The Challenge of the ReAct Loop (East-West Traffic)\n</h2>\n\n<p>A ReAct loop is essentially an AI agent breaking down a complex p",
-    "link": "https://dev.to/tommcnamara/how-to-build-a-secure-cross-protocol-agentic-ai-cluster-in-15-minutes-without-touching-istio-5ega",
+    "title": "Every developer's laptop is a pile of plaintext secrets.",
+    "desc": "<p>Run this: <code>cat ~/.cache/huggingface/token</code></p>\n\n<p>That's your Hugging Face token. Plaintext. In a cache folder the kind that ",
+    "link": "https://dev.to/menit/every-developers-laptop-is-a-pile-of-plaintext-secrets-56ih",
     "topic": "general"
   },
   {
-    "title": "Learn How to Improve AI Agent Observability Without Increasing Costs",
-    "desc": "<p>Deploying an AI agent isn\u2019t very different from hiring a new human customer support agent. You bring them up to speed on context, handle ",
-    "link": "https://dev.to/nishevitha_ramamoorthy_42/learn-how-to-improve-ai-agent-observability-without-increasing-costs-16bk",
+    "title": "Would You Ship a Codebase Rewritten Entirely by Agents?",
+    "desc": "<p>The team behind Bun ported 535,000 lines of Zig to Rust in 11 days, with one engineer, 64 Claude agents running in parallel, roughly $165",
+    "link": "https://dev.to/sedai/would-you-ship-a-codebase-rewritten-entirely-by-agents-1p6e",
     "topic": "general"
   },
   {
-    "title": "I Gave an AI Agent a Database, Compute, Storage, and Models From One CLI",
-    "desc": "<p>A working AI agent has an unglamorous shopping list. It needs a database to remember things, somewhere to run that can stream tokens with",
-    "link": "https://dev.to/devopsdaily/i-gave-an-ai-agent-a-database-compute-storage-and-models-from-one-cli-514h",
+    "title": "Shadow IT Management: Frameworks & Hidden Risks (+ Checklist)",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/shadow-it-management-frameworks-hidden-risks-checklist\" rel=\"noo",
+    "link": "https://dev.to/rasne/shadow-it-management-frameworks-hidden-risks-checklist-71k",
     "topic": "general"
   },
   {
-    "title": "Anakatech Selects Payneteasy Orchestration as the Backbone for Its Multi-Brand Gaming Payments",
-    "desc": "<p><em><strong>Subheadline:</strong> Five-year partnership enables flexible routing, fast integrations, and uplift in approval rates while r",
-    "link": "https://dev.to/payneteasy/anakatech-selects-payneteasy-orchestration-as-the-backbone-for-its-multi-brand-gaming-payments-1l4m",
+    "title": "Supabase Backups Don't Include Your Storage Files. Here's What Does.",
+    "desc": "<p>The restore finished clean. <code>pg_restore</code> exited 0, every table came back, row counts matched, the app booted. Twenty minutes l",
+    "link": "https://dev.to/superlede/supabase-backups-dont-include-your-storage-files-heres-what-does-14e9",
     "topic": "general"
   },
   {
-    "title": "Realtime Without a WebSocket Service",
-    "desc": "<p>The moment a feature needs to update live, a live counter, a presence indicator, a \"new message\" badge, an activity feed, the reflex is t",
-    "link": "https://dev.to/devopsdaily/realtime-without-a-websocket-service-1gk3",
+    "title": "Four Instances, Two Data Centers, One Bug: When Redundancy Isn't Independence",
+    "desc": "<p>Four instances of the core service. Two physically separate data centers. And a single operating-system defect degraded the whole thing a",
+    "link": "https://dev.to/kkierii/four-instances-two-data-centers-one-bug-when-redundancy-isnt-independence-3dl8",
     "topic": "general"
   }
 ]
