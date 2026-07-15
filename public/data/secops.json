@@ -1,5 +1,29 @@
 [
   {
+    "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+    "desc": "<p>An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+    "topic": "secops"
+  },
+  {
+    "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+    "desc": "<p>Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+    "desc": "<p>Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security produc",
+    "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+    "topic": "secops"
+  },
+  {
+    "title": "Virtual Event Today: Cloud & Data Security Summit",
+    "desc": "<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of",
+    "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
+    "topic": "secops"
+  },
+  {
     "title": "US Charges Russian Individuals and Firms for Running Cybercrime Services",
     "desc": "<p>The suspects and their companies were previously sanctioned by the United States and its allies.</p>\n<p>The post <a href=\"https://www.sec",
     "link": "https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/",
@@ -22,29 +46,5 @@
     "desc": "<p>The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
     "topic": "secops"
-  },
-  {
-    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
-    "desc": "<p>The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.</p>\n",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
-    "topic": "general"
-  },
-  {
-    "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
-    "desc": "<p>Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
-    "topic": "general"
-  },
-  {
-    "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
-    "desc": "<p>SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
-    "topic": "general"
-  },
-  {
-    "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
-    "desc": "<p>Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed.</p>\n<p>",
-    "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
-    "topic": "azure"
   }
 ]
