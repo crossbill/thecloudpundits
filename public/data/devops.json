@@ -1,5 +1,41 @@
 [
   {
+    "title": "Where is the hosts file on Mac, Windows, and Linux?",
+    "desc": "<p>You need to open the hosts file. You already know why. You just cannot remember the path.</p>\n\n<p>Here it is for each OS, plus how to ope",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/where-is-the-hosts-file-on-mac-windows-and-linux-5cko",
+    "topic": "general"
+  },
+  {
+    "title": "How to switch local and staging domains with the hosts file",
+    "desc": "<p>You want <code>shop.test</code> on localhost during the day, then the real client domain pointed at staging, then maybe the same domain p",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/how-to-switch-local-and-staging-domains-with-the-hosts-file-4aj7",
+    "topic": "general"
+  },
+  {
+    "title": "How to edit /etc/hosts without breaking your local setup",
+    "desc": "<p>Most people open <code>/etc/hosts</code>, change one line, refresh the browser, and hope.</p>\n\n<p>That works until it does not. Then you ",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/how-to-edit-etchosts-without-breaking-your-local-setup-2hf7",
+    "topic": "general"
+  },
+  {
+    "title": "How to flush DNS on Mac, Windows, and Linux",
+    "desc": "<h1>\n  \n  \n  How to flush DNS on Mac, Windows, and Linux\n</h1>\n\n<p>You changed your hosts file. The line looks right. The browser still load",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/how-to-flush-dns-on-mac-windows-and-linux-285e",
+    "topic": "general"
+  },
+  {
+    "title": "I built a live Spring Boot Actuator dashboard: health aggregation, Micrometer meter types, and the Prometheus scrape format",
+    "desc": "<p>Every Spring Boot tutorial shows you the same two screenshots: the <code>/actuator/health</code> JSON blob, and a wall of <code>/actuator",
+    "link": "https://dev.to/dev48v/i-built-a-live-spring-boot-actuator-dashboard-health-aggregation-micrometer-meter-types-and-the-14k4",
+    "topic": "general"
+  },
+  {
+    "title": "Why Bio Scale Agency Is Helping Businesses Build Sustainable Digital Growth",
+    "desc": "<p>Growing a business online has become more challenging than ever. Search engine algorithms continue to evolve, customer expectations are h",
+    "link": "https://dev.to/bioscaleagency/why-bio-scale-agency-is-helping-businesses-build-sustainable-digital-growth-4n08",
+    "topic": "general"
+  },
+  {
     "title": "Remotely access Home Assistant via Tailscale for free",
     "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/remotely-access-home-assistant-via-tailscale-for-free\" rel=\"noop",
     "link": "https://dev.to/rasne/remotely-access-home-assistant-via-tailscale-for-free-5bo2",
@@ -10,41 +46,5 @@
     "desc": "<p>Uber burned through its entire 2026 AI coding budget in four months. One executive racked up a $1,200 bill in a single two-hour Claude Co",
     "link": "https://dev.to/aplomb2/why-ubers-1200-claude-code-session-is-actually-a-routing-problem-d66",
     "topic": "anthropic"
-  },
-  {
-    "title": "How I\u2019d Migrate from Azure DevOps to Jira (Without Breaking History) in 2026",
-    "desc": "<p>Moving from Azure DevOps to Jira sounds straightforward until you actually start mapping the data.</p>\n\n<p>The challenge isn't exporting ",
-    "link": "https://dev.to/ankita_phd/how-id-migrate-from-azure-devops-to-jira-without-breaking-history-in-2026-ac5",
-    "topic": "azure"
-  },
-  {
-    "title": "The Deploy Was Boring. That Was The Whole Point",
-    "desc": "<p>You know the ten minutes before a deployment. The finger near the button. A dashboard open in the next tab. That low hum of waiting for s",
-    "link": "https://dev.to/jeelvankhede/the-deploy-was-boring-that-was-the-whole-point-29if",
-    "topic": "general"
-  },
-  {
-    "title": "Commit Cron: A Simple Daily Commit Bot with GitHub Actions",
-    "desc": "<p>I built <strong>Commit Cron</strong>, a small GitHub Actions experiment that creates one automated commit every day.</p>\n\n<p>The project ",
-    "link": "https://dev.to/jheytim/commit-cron-a-simple-daily-commit-bot-with-github-actions-3i0b",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Real SIEM Lab on a Mac Mini Fleet \u2014 What Actually Broke, and What I Learned Fixing It",
-    "desc": "<p>Most \"I built a home SOC\" posts show you the pretty dashboard and stop there. This one is about what happened after the dashboard loaded ",
-    "link": "https://dev.to/firststeptechnology/building-a-real-siem-lab-on-a-mac-mini-fleet-what-actually-broke-and-what-i-learned-fixing-it-4i50",
-    "topic": "general"
-  },
-  {
-    "title": "Deploy Gemma 4 (26B) with QAT on GCE g2-standard. Uses NVIDIA L4, MCP. https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2",
-    "desc": "<p>Deploy Gemma 4 (26B) with QAT on GCE g2-standard. Uses NVIDIA L4, MCP. <a href=\"https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2",
-    "link": "https://dev.to/atheerium/deploy-gemma-4-26b-with-qat-on-gce-g2-standard-uses-nvidia-l4-mcp-o5o",
-    "topic": "general"
-  },
-  {
-    "title": "AIoT Explained: Why AI + IoT Is More Than Just Another Tech Buzzword",
-    "desc": "<p>Developers have spent years building connected devices through IoT and intelligent applications with AI. But combining the two creates so",
-    "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-explained-why-ai-iot-is-more-than-just-another-tech-buzzword-254i",
-    "topic": "general"
   }
 ]
