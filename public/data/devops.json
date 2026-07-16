@@ -1,5 +1,29 @@
 [
   {
+    "title": "Remotely access Home Assistant via Tailscale for free",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/remotely-access-home-assistant-via-tailscale-for-free\" rel=\"noop",
+    "link": "https://dev.to/rasne/remotely-access-home-assistant-via-tailscale-for-free-5bo2",
+    "topic": "general"
+  },
+  {
+    "title": "Why Uber's $1,200 Claude Code Session Is Actually a Routing Problem",
+    "desc": "<p>Uber burned through its entire 2026 AI coding budget in four months. One executive racked up a $1,200 bill in a single two-hour Claude Co",
+    "link": "https://dev.to/aplomb2/why-ubers-1200-claude-code-session-is-actually-a-routing-problem-d66",
+    "topic": "anthropic"
+  },
+  {
+    "title": "How I\u2019d Migrate from Azure DevOps to Jira (Without Breaking History) in 2026",
+    "desc": "<p>Moving from Azure DevOps to Jira sounds straightforward until you actually start mapping the data.</p>\n\n<p>The challenge isn't exporting ",
+    "link": "https://dev.to/ankita_phd/how-id-migrate-from-azure-devops-to-jira-without-breaking-history-in-2026-ac5",
+    "topic": "azure"
+  },
+  {
+    "title": "The Deploy Was Boring. That Was The Whole Point",
+    "desc": "<p>You know the ten minutes before a deployment. The finger near the button. A dashboard open in the next tab. That low hum of waiting for s",
+    "link": "https://dev.to/jeelvankhede/the-deploy-was-boring-that-was-the-whole-point-29if",
+    "topic": "general"
+  },
+  {
     "title": "Commit Cron: A Simple Daily Commit Bot with GitHub Actions",
     "desc": "<p>I built <strong>Commit Cron</strong>, a small GitHub Actions experiment that creates one automated commit every day.</p>\n\n<p>The project ",
     "link": "https://dev.to/jheytim/commit-cron-a-simple-daily-commit-bot-with-github-actions-3i0b",
@@ -22,29 +46,5 @@
     "desc": "<p>Developers have spent years building connected devices through IoT and intelligent applications with AI. But combining the two creates so",
     "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-explained-why-ai-iot-is-more-than-just-another-tech-buzzword-254i",
     "topic": "general"
-  },
-  {
-    "title": "Best Practices for Managing AWS WAF with Code",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/aws-builders/best-practices-for-managing-aws-waf-with-code-3efl",
-    "topic": "aws"
-  },
-  {
-    "title": "From the Captain\u2019s Chair: Mohammad-Ali A\u2019r\u00e2bi",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/from-the-captains-chair-mohammad-ali-arbi\" rel=\"noopener norefer",
-    "link": "https://dev.to/rasne/from-the-captains-chair-mohammad-ali-arabi-1fok",
-    "topic": "general"
-  },
-  {
-    "title": "Don't Just Learn AI \u2014 Deploy It",
-    "desc": "<p>Production-ready Python code for 4 types of AI agents. Customer support, sales, content, ops \u2014 each with setup guide. No enterprise tools",
-    "link": "https://dev.to/fatai_kolalawal_9b7c054d/dont-just-learn-ai-deploy-it-1c0n",
-    "topic": "general"
-  },
-  {
-    "title": "I Asked GPT to Build the Same Infrastructure in AWS CDK, Terraform, Pulumi, and SST. Here's What Happened.",
-    "desc": "<p>Most Infrastructure as Code debates ask the same questions:</p>\n\n<ul>\n<li>Which tool has the best syntax?</li>\n<li>Which one scales acros",
-    "link": "https://dev.to/sun_wukong121/i-asked-gpt-to-build-the-same-infrastructure-in-aws-cdk-terraform-pulumi-and-sst-heres-what-al5",
-    "topic": "aws"
   }
 ]
