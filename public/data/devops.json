@@ -1,50 +1,50 @@
 [
   {
-    "title": "Where is the hosts file on Mac, Windows, and Linux?",
-    "desc": "<p>You need to open the hosts file. You already know why. You just cannot remember the path.</p>\n\n<p>Here it is for each OS, plus how to ope",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/where-is-the-hosts-file-on-mac-windows-and-linux-5cko",
+    "title": "\u2705 Day 10: 100 Days of GenAI for DevOps: MCP for DevOps Engineers: GitHub & AWS MCP Servers\u2705",
+    "desc": "<p>Today we're diving into one of the most important technologies in the AI ecosystem: Model Context Protocol (MCP).</p>\n\n<p>If you've been ",
+    "link": "https://dev.to/lakhera2015/day-10-100-days-of-genai-for-devops-mcp-for-devops-engineers-github-aws-mcp-servers-7cf",
+    "topic": "aws"
+  },
+  {
+    "title": "What if the safest Kubernetes fix is no fix at all?",
+    "desc": "<p>AI-assisted DevOps and SRE tools are becoming more common. Tools like <strong>K8sGPT</strong> can scan Kubernetes clusters, detect issues",
+    "link": "https://dev.to/mayank013/what-if-the-safest-kubernetes-fix-is-no-fix-at-all-29ac",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Fix Permission denied when editing /etc/hosts",
+    "desc": "<p>You open the hosts file, change one line, hit save, and get <code>Permission denied</code>.</p>\n\n<p>That is normal. The system hosts file",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/fix-permission-denied-when-editing-etchosts-5c4f",
     "topic": "general"
   },
   {
-    "title": "How to switch local and staging domains with the hosts file",
-    "desc": "<p>You want <code>shop.test</code> on localhost during the day, then the real client domain pointed at staging, then maybe the same domain p",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/how-to-switch-local-and-staging-domains-with-the-hosts-file-4aj7",
+    "title": "Kubernetes in Azure",
+    "desc": "<p>creating a folder and initializing github for our work, then login in to our azure account</p>\n\n<p><a class=\"article-body-image-wrapper\" ",
+    "link": "https://dev.to/clinton_mbilitem_17fbf80c/kubernetes-in-azure-2mnk",
+    "topic": "azure"
+  },
+  {
+    "title": "DNS not updating after hosts file change? Fix it in order",
+    "desc": "<p>You edited the hosts file. The line looks correct. The browser still opens the old site.</p>\n\n<p>Do not rewrite the hosts file again yet.",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/dns-not-updating-after-hosts-file-change-fix-it-in-order-57en",
     "topic": "general"
   },
   {
-    "title": "How to edit /etc/hosts without breaking your local setup",
-    "desc": "<p>Most people open <code>/etc/hosts</code>, change one line, refresh the browser, and hope.</p>\n\n<p>That works until it does not. Then you ",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/how-to-edit-etchosts-without-breaking-your-local-setup-2hf7",
+    "title": "Learn grok-build in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 9 out of 10 developers waste over 2 hours a day on inefficient build processes? Last w",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-54hf",
     "topic": "general"
   },
   {
-    "title": "How to flush DNS on Mac, Windows, and Linux",
-    "desc": "<h1>\n  \n  \n  How to flush DNS on Mac, Windows, and Linux\n</h1>\n\n<p>You changed your hosts file. The line looks right. The browser still load",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/how-to-flush-dns-on-mac-windows-and-linux-285e",
+    "title": "macOS runs out of application memory because your dead dev servers never die",
+    "desc": "<p>It was past midnight and my Mac threw a box I had not seen in years.</p>\n\n<p>Your system has run out of application memory.</p>\n\n<p>Force",
+    "link": "https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c",
     "topic": "general"
   },
   {
-    "title": "I built a live Spring Boot Actuator dashboard: health aggregation, Micrometer meter types, and the Prometheus scrape format",
-    "desc": "<p>Every Spring Boot tutorial shows you the same two screenshots: the <code>/actuator/health</code> JSON blob, and a wall of <code>/actuator",
-    "link": "https://dev.to/dev48v/i-built-a-live-spring-boot-actuator-dashboard-health-aggregation-micrometer-meter-types-and-the-14k4",
+    "title": "How to block websites with the hosts file",
+    "desc": "<p>You can block a domain on your machine without installing another browser extension.</p>\n\n<p>Point the hostname at a dead address in the ",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/how-to-block-websites-with-the-hosts-file-3kd4",
     "topic": "general"
-  },
-  {
-    "title": "Why Bio Scale Agency Is Helping Businesses Build Sustainable Digital Growth",
-    "desc": "<p>Growing a business online has become more challenging than ever. Search engine algorithms continue to evolve, customer expectations are h",
-    "link": "https://dev.to/bioscaleagency/why-bio-scale-agency-is-helping-businesses-build-sustainable-digital-growth-4n08",
-    "topic": "general"
-  },
-  {
-    "title": "Remotely access Home Assistant via Tailscale for free",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/remotely-access-home-assistant-via-tailscale-for-free\" rel=\"noop",
-    "link": "https://dev.to/rasne/remotely-access-home-assistant-via-tailscale-for-free-5bo2",
-    "topic": "general"
-  },
-  {
-    "title": "Why Uber's $1,200 Claude Code Session Is Actually a Routing Problem",
-    "desc": "<p>Uber burned through its entire 2026 AI coding budget in four months. One executive racked up a $1,200 bill in a single two-hour Claude Co",
-    "link": "https://dev.to/aplomb2/why-ubers-1200-claude-code-session-is-actually-a-routing-problem-d66",
-    "topic": "anthropic"
   }
 ]
