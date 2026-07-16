@@ -1,5 +1,11 @@
 [
   {
+    "title": "Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities",
+    "desc": "<p>The cybersecurity companies patched critical and high-severity vulnerabilities in some of their products.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
     "desc": "<p>An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically.</p>\n<p>The ",
     "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
@@ -39,12 +45,6 @@
     "title": "White House Launches AI-Driven \u2018Gold Eagle\u2019 Vulnerability Coordination Initiative",
     "desc": "<p>The new program stems from an AI-focused Executive Order signed by President Trump on June 2.</p>\n<p>The post <a href=\"https://www.securi",
     "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
-    "topic": "secops"
-  },
-  {
-    "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
-    "desc": "<p>The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.</p>\n<p>The post <a href=\"ht",
-    "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
     "topic": "secops"
   }
 ]
