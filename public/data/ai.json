@@ -1,5 +1,11 @@
 [
   {
+    "title": "Security incident disclosure \u2014 July 2026",
+    "desc": "",
+    "link": "https://huggingface.co/blog/security-incident-july-2026",
+    "topic": "secops"
+  },
+  {
     "title": "What building Shippy taught us about building agents",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
     "topic": "general"
-  },
-  {
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "desc": "",
-    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "topic": "huggingface"
   }
 ]

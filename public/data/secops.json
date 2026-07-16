@@ -1,5 +1,23 @@
 [
   {
+    "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
+    "desc": "<p>The startup has built an AI-powered Identity Operating System that governs all identities across an organization\u2019s environment.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
+    "topic": "general"
+  },
+  {
+    "title": "Splunk, Zoom Patch Critical Vulnerabilities",
+    "desc": "<p>The flaws could allow attackers to access credentials and data, take over accounts, and escalate their privileges.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
+    "desc": "<p>Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and ex",
+    "link": "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "China\u2019s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
     "desc": "<p>Chinese cybersecurity firms are facing action from the country\u2019s military, but it\u2019s not due to product or technical failures.</p>\n<p>The ",
     "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
@@ -27,24 +45,6 @@
     "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
     "desc": "<p>An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically.</p>\n<p>The ",
     "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
-    "topic": "secops"
-  },
-  {
-    "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
-    "desc": "<p>Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
-    "desc": "<p>Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security produc",
-    "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
-    "topic": "secops"
-  },
-  {
-    "title": "Virtual Event Today: Cloud & Data Security Summit",
-    "desc": "<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of",
-    "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
     "topic": "secops"
   }
 ]
