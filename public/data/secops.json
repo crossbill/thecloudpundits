@@ -1,5 +1,23 @@
 [
   {
+    "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
+    "desc": "<p>Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
+    "topic": "general"
+  },
+  {
+    "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
+    "desc": "<p>AI infrastructure introduces new security risks that traditional data center designs were never built to handle.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
+    "topic": "general"
+  },
+  {
+    "title": "\u2018ClickLock Stealer\u2019 Bypasses macOS Security With Social Engineering, Process Killing",
+    "desc": "<p>The new macOS malware has targeted at least 100 users to steal their passwords and cryptocurrency.\u00a0</p>\n<p>The post <a href=\"https://www.",
+    "link": "https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/",
+    "topic": "secops"
+  },
+  {
     "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
     "desc": "<p>The startup has built an AI-powered Identity Operating System that governs all identities across an organization\u2019s environment.</p>\n<p>Th",
     "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
@@ -28,23 +46,5 @@
     "desc": "<p>Signed by Microsoft, the vulnerable UEFI shim bootloaders could be abused on any system, regardless of the OS.</p>\n<p>The post <a href=\"h",
     "link": "https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/",
     "topic": "general"
-  },
-  {
-    "title": "Nightmare Eclipse Drops \u2018LegacyHive\u2019 Windows Zero-Day",
-    "desc": "<p>The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
-    "topic": "general"
-  },
-  {
-    "title": "Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities",
-    "desc": "<p>The cybersecurity companies patched critical and high-severity vulnerabilities in some of their products.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
-    "desc": "<p>An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
-    "topic": "secops"
   }
 ]

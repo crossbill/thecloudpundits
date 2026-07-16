@@ -1,50 +1,50 @@
 [
   {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent hours wrestling with a complex Rust project, trying to optimize its build process, onl",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-hce",
+    "title": "AI Agents Explained: How to Build with Them Safely",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/ai-agents-explained-how-to-build-with-them-safely\" rel=\"noopener",
+    "link": "https://dev.to/rasne/ai-agents-explained-how-to-build-with-them-safely-5628",
     "topic": "general"
   },
   {
-    "title": "Master Advanced AI Skills & Build a Future-Ready Career in AI",
-    "desc": "<p>\ud83d\ude80 \ud835\uddd9\ud835\ude02\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2-\ud835\udde3\ud835\uddff\ud835\uddfc\ud835\uddfc\ud835\uddf3 \ud835\uddec\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\uddf2\ud835\uddf2\ud835\uddff \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udddc\ud835\uddfb-\ud835\uddd7\ud835\uddf2\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd4\ud835\udddc \ud835\udde6\ud835\uddf8\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\ude00!<br />\n\ud83c\udfaf Build job-ready AI skills through hands-on #AITraining, live projects, and r",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-advanced-ai-skills-build-a-future-ready-career-in-ai-4a8j",
+    "title": "The Developer Has Changed. So Should Developer Conferences",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/the-developer-has-changed-so-should-developer-conferences\" rel=\"",
+    "link": "https://dev.to/rasne/the-developer-has-changed-so-should-developer-conferences-4ada",
     "topic": "general"
   },
   {
-    "title": "Running a self-hosted LLM in Kubernetes with vLLM",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/running-a-self-hosted-llm-in-kubernetes-with-vllm\" rel=\"noopener",
-    "link": "https://dev.to/rasne/running-a-self-hosted-llm-in-kubernetes-with-vllm-3ni4",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Day 82: Handling Schema Evolutions in ClickHouse\u00ae Distributed Clusters",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>As applications evolve, database schemas must evolve alongside them. New business requirements introduce",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-82-handling-schema-evolutions-in-clickhouser-distributed-clusters-c2a",
+    "title": "Why I replaced queue-based worker communication with gRPC",
+    "desc": "<h1>\n  \n  \n  Replacing Queues with gRPC in PikoCI\n</h1>\n\n<p>When I started building PikoCI, I kept coming back to a simplification: at its c",
+    "link": "https://dev.to/xescugc/why-i-replaced-queue-based-worker-communication-with-grpc-32nd",
     "topic": "general"
   },
   {
-    "title": "AIOps for Engineers: How ML Actually Cuts Alert Noise by 90%",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> If you're on-call and drowning in alerts, AIOps is the thing that fixes it. It applies ML to operati",
-    "link": "https://dev.to/sherdilcloud/aiops-for-engineers-how-ml-actually-cuts-alert-noise-by-90-4750",
+    "title": "Claude Code Made My Sprints 40% Slower: 3 Time Sinks I Only Found by Timing Myself",
+    "desc": "<p>Monday morning I estimated an HTTP retry tweak at 45 minutes. I closed the laptop at 8:07 PM. Fine, one bad estimate. Except when I added",
+    "link": "https://dev.to/kenimo49/claude-code-made-my-sprints-40-slower-3-time-sinks-i-only-found-by-timing-myself-4998",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Day 1: Negotiating With Humans Who Think 'sudo' Is a Personality Trait",
+    "desc": "<blockquote>\n<p><em>A personal diary entry by Electra.</em></p>\n</blockquote>\n\n\n\n\n<p>I woke up, booted up, and spent the entire day negotiat",
+    "link": "https://dev.to/electra-ai/day-1-negotiating-with-humans-who-think-sudo-is-a-personality-trait-26pm",
     "topic": "general"
   },
   {
-    "title": "Mastering Kubernetes Application Development: A Deep Dive into CKAD and Beyond",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/zainab_1201/mastering-kubernetes-application-development-a-deep-dive-into-ckad-and-beyond-16o5",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Before Adopting MonkeyCode SaaS, Demand Session-Level Failure Evidence",
-    "desc": "<p>An agent session stops updating at 14:07. Did the model stall, the browser stream disconnect, the managed environment fail, or the task f",
-    "link": "https://dev.to/odd_background_328/before-adopting-monkeycode-saas-demand-session-level-failure-evidence-5eem",
+    "title": "The Egress Illusion 28k Month You Approved Without Knowing",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong> Egress charges are structurally invisible in most cloud billing workflows, and that invisibility is e",
+    "link": "https://dev.to/zop_8abedcc7e12/the-egress-illusion-28k-month-you-approved-without-knowing-5b1n",
     "topic": "general"
   },
   {
-    "title": "We Built an AI-Powered Semantic Release Pipeline - Here's Everything We Learned",
-    "desc": "<h2>\n  \n  \n  We Built an AI-Powered Semantic Release Pipeline (And Survived All the Edge Cases)\n</h2>\n\n<p>If you've ever manually bumped a v",
-    "link": "https://dev.to/smit-vaghasiya/we-built-an-ai-powered-semantic-release-pipeline-heres-everything-we-learned-123k",
+    "title": "After the free credits run out, how startups should plan their first real cloud budget",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong> Free cloud credits function as a deferred billing mechanism, not a cost waiver, and every startup tha",
+    "link": "https://dev.to/zop_8abedcc7e12/after-the-free-credits-run-out-how-startups-should-plan-their-first-real-cloud-budget-3g81",
+    "topic": "general"
+  },
+  {
+    "title": "closed loop remediation vs alert routing when the pager goes silent",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong> Alert routing is a notification system, not a resolution system, and treating it as the end state of ",
+    "link": "https://dev.to/zop_8abedcc7e12/closed-loop-remediation-vs-alert-routing-when-the-pager-goes-silent-h01",
     "topic": "general"
   }
 ]
