@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why You Can No Longer Redesign the Platform You Built",
-    "desc": "<p>Infrastructure state gravity is the reason a Terraform module that shipped clean fourteen months ago can no longer be touched without som",
-    "link": "https://dev.to/ntctech/why-you-can-no-longer-redesign-the-platform-you-built-1cl4",
+    "title": "Commit Cron: A Simple Daily Commit Bot with GitHub Actions",
+    "desc": "<p>I built <strong>Commit Cron</strong>, a small GitHub Actions experiment that creates one automated commit every day.</p>\n\n<p>The project ",
+    "link": "https://dev.to/jheytim/commit-cron-a-simple-daily-commit-bot-with-github-actions-3i0b",
     "topic": "general"
   },
   {
-    "title": "Basic Cloud Concepts",
-    "desc": "<p><a href=\"https://dev.tourl\"></a><a href=\"https://dev.tourl\"></a> <strong>What is Cloud Computing?</strong></p>\n\n<ul>\n<li> Cloud computing",
-    "link": "https://dev.to/supremos_17/basic-cloud-concepts-5c3b",
+    "title": "Building a Real SIEM Lab on a Mac Mini Fleet \u2014 What Actually Broke, and What I Learned Fixing It",
+    "desc": "<p>Most \"I built a home SOC\" posts show you the pretty dashboard and stop there. This one is about what happened after the dashboard loaded ",
+    "link": "https://dev.to/firststeptechnology/building-a-real-siem-lab-on-a-mac-mini-fleet-what-actually-broke-and-what-i-learned-fixing-it-4i50",
     "topic": "general"
   },
   {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours manually building and managing my Rust project, only to realize that I could h",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-3ga1",
+    "title": "Deploy Gemma 4 (26B) with QAT on GCE g2-standard. Uses NVIDIA L4, MCP. https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2",
+    "desc": "<p>Deploy Gemma 4 (26B) with QAT on GCE g2-standard. Uses NVIDIA L4, MCP. <a href=\"https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2",
+    "link": "https://dev.to/atheerium/deploy-gemma-4-26b-with-qat-on-gce-g2-standard-uses-nvidia-l4-mcp-o5o",
+    "topic": "general"
+  },
+  {
+    "title": "AIoT Explained: Why AI + IoT Is More Than Just Another Tech Buzzword",
+    "desc": "<p>Developers have spent years building connected devices through IoT and intelligent applications with AI. But combining the two creates so",
+    "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-explained-why-ai-iot-is-more-than-just-another-tech-buzzword-254i",
+    "topic": "general"
+  },
+  {
+    "title": "Best Practices for Managing AWS WAF with Code",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/aws-builders/best-practices-for-managing-aws-waf-with-code-3efl",
+    "topic": "aws"
+  },
+  {
+    "title": "From the Captain\u2019s Chair: Mohammad-Ali A\u2019r\u00e2bi",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/from-the-captains-chair-mohammad-ali-arbi\" rel=\"noopener norefer",
+    "link": "https://dev.to/rasne/from-the-captains-chair-mohammad-ali-arabi-1fok",
     "topic": "general"
   },
   {
     "title": "Don't Just Learn AI \u2014 Deploy It",
     "desc": "<p>Production-ready Python code for 4 types of AI agents. Customer support, sales, content, ops \u2014 each with setup guide. No enterprise tools",
-    "link": "https://dev.to/fatai_kolalawal_9b7c054d/dont-just-learn-ai-deploy-it-f5f",
+    "link": "https://dev.to/fatai_kolalawal_9b7c054d/dont-just-learn-ai-deploy-it-1c0n",
     "topic": "general"
   },
   {
-    "title": "Tutorial Completion Didn't Make Me Feel Like an Engineer",
-    "desc": "<p>Over the past few months, I've completed hands-on learning across Linux, Docker, Docker Compose, Git, GitHub Actions, AWS EC2, Nginx, Pos",
-    "link": "https://dev.to/gravox/tutorial-completion-didnt-make-me-feel-like-an-engineer-2c49",
-    "topic": "general"
-  },
-  {
-    "title": "How GAUNTLEX Gates HIPAA/FINRA Compliance in CI",
-    "desc": "<h2>\n  \n  \n  The compliance gap nobody's pricing in yet\n</h2>\n\n<p>A team building a healthcare API asks an AI coding assistant to implement ",
-    "link": "https://dev.to/sanjoy1234/how-gauntlex-gates-hipaafinra-compliance-in-ci-29hj",
-    "topic": "general"
-  },
-  {
-    "title": "how to run a blameless postmortem that actually changes anything",
-    "desc": "<p>most engineering teams say they run blameless postmortems. fewer actually do. the difference usually shows up not in the meeting itself b",
-    "link": "https://dev.to/nolanvale/how-to-run-a-blameless-postmortem-that-actually-changes-anything-30j4",
-    "topic": "general"
-  },
-  {
-    "title": "Understanding PersistentVolumes (PV) and PersistentVolumeClaims (PVC)",
-    "desc": "<p>Today I learned one of the most confusing Kubernetes concepts for beginners: <strong>PersistentVolumes (PV)</strong> and <strong>Persiste",
-    "link": "https://dev.to/oyebobs/understanding-persistentvolumes-pv-and-persistentvolumeclaims-pvc-b9g",
-    "topic": "general"
+    "title": "I Asked GPT to Build the Same Infrastructure in AWS CDK, Terraform, Pulumi, and SST. Here's What Happened.",
+    "desc": "<p>Most Infrastructure as Code debates ask the same questions:</p>\n\n<ul>\n<li>Which tool has the best syntax?</li>\n<li>Which one scales acros",
+    "link": "https://dev.to/sun_wukong121/i-asked-gpt-to-build-the-same-infrastructure-in-aws-cdk-terraform-pulumi-and-sst-heres-what-al5",
+    "topic": "aws"
   }
 ]
