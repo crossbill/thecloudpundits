@@ -1,5 +1,23 @@
 [
   {
+    "title": "AI Worked Both Sides of the Security Ledger This Week. Here's What to Actually Run",
+    "desc": "<p>Two of the zero-days Microsoft patched on July 14 are being exploited right now. Here is the one-liner to check whether either is sitting",
+    "link": "https://dev.to/kkierii/ai-worked-both-sides-of-the-security-ledger-this-week-heres-what-to-actually-run-2071",
+    "topic": "secops"
+  },
+  {
+    "title": "Docker Compose verstehen: Services, Volumes, Netzwerke",
+    "desc": "<p>Im <a href=\"https://serverkueche.de/tutorials/docker-installieren/\" rel=\"noopener noreferrer\">Docker-Tutorial</a> hast du das Compose-Plu",
+    "link": "https://dev.to/serverkueche/docker-compose-verstehen-services-volumes-netzwerke-11je",
+    "topic": "docker"
+  },
+  {
+    "title": "Learn grok-build in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours debugging a complex Rust project, only to realize that I could have saved hour",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-em8",
+    "topic": "general"
+  },
+  {
     "title": "Code Review, Part 2: The Reviewer That Learned To Lie Better",
     "desc": "<p>Several posts ago, I wrote about setting up a multi-agent adversarial code review process as part of my development pipeline. The premise",
     "link": "https://dev.to/raleighschickel/code-review-part-2-the-reviewer-that-learned-to-lie-better-4901",
@@ -27,24 +45,6 @@
     "title": "The Bus Factor: How to Actually Find It and Fix It on Your Team",
     "desc": "<p>Your bus factor is not theoretical. It is a business continuity metric, and unlike most culture-y engineering concepts, it's one you can ",
     "link": "https://dev.to/betterengineer/the-bus-factor-how-to-actually-find-it-and-fix-it-on-your-team-478j",
-    "topic": "general"
-  },
-  {
-    "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/cloudflare-waf-protects-wordpress-applications-from-two-high-sev",
-    "link": "https://dev.to/rasne/cloudflare-waf-protects-wordpress-applications-from-two-high-severity-vulnerabilities-2ddf",
-    "topic": "general"
-  },
-  {
-    "title": "The Ultimate Guide to Buying Naver Accounts in 2025/26",
-    "desc": "<p>Buy Naver Accounts \u2013 All PVA Accounts<br />\n\ud83c\udf10 24/7 Customer Support Available</p>\n\n<p>\ud83d\udcde WhatsApp: +1 (506) 541-7768</p>\n\n<p>\ud83d\udcf1 Telegram: <",
-    "link": "https://dev.to/andeeephan9jty8/the-ultimate-guide-to-buying-naver-accounts-in-202526-1i22",
-    "topic": "general"
-  },
-  {
-    "title": "Our LLM service had no backpressure. The provider got 7x slower and our p99 got 25x worse.",
-    "desc": "<p>TL;DR. Our summarization endpoint holds a p99 under 3 seconds. On 21/05 our provider degraded: median call time went from 620ms to about ",
-    "link": "https://dev.to/jasmine_park_dev/our-llm-service-had-no-backpressure-the-provider-got-7x-slower-and-our-p99-got-25x-worse-4hc6",
     "topic": "general"
   }
 ]
