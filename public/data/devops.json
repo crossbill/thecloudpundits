@@ -1,5 +1,29 @@
 [
   {
+    "title": "Code Review, Part 2: The Reviewer That Learned To Lie Better",
+    "desc": "<p>Several posts ago, I wrote about setting up a multi-agent adversarial code review process as part of my development pipeline. The premise",
+    "link": "https://dev.to/raleighschickel/code-review-part-2-the-reviewer-that-learned-to-lie-better-4901",
+    "topic": "general"
+  },
+  {
+    "title": "When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures",
+    "desc": "<p>A browser test can be green and still be wrong.</p>\n\n<p>It can pass because a mock returned an outdated response. It can fail because sta",
+    "link": "https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Complete CI/CD Pipeline with Docker and GitHub Actions",
+    "desc": "<p>Modern software delivery is about much more than writing code. It requires automation, collaboration, repeatability, and reliable deploym",
+    "link": "https://dev.to/rahimah_dev/building-a-complete-cicd-pipeline-with-docker-and-github-actions-471k",
+    "topic": "docker"
+  },
+  {
+    "title": "Check who owns the files that control your coding agents",
+    "desc": "<p>A repository can review application code carefully while leaving its coding-agent control files outside the reviewer boundary.</p>\n\n<p><c",
+    "link": "https://dev.to/nekoautomata/check-who-owns-the-files-that-control-your-coding-agents-41bl",
+    "topic": "general"
+  },
+  {
     "title": "The Bus Factor: How to Actually Find It and Fix It on Your Team",
     "desc": "<p>Your bus factor is not theoretical. It is a business continuity metric, and unlike most culture-y engineering concepts, it's one you can ",
     "link": "https://dev.to/betterengineer/the-bus-factor-how-to-actually-find-it-and-fix-it-on-your-team-478j",
@@ -21,30 +45,6 @@
     "title": "Our LLM service had no backpressure. The provider got 7x slower and our p99 got 25x worse.",
     "desc": "<p>TL;DR. Our summarization endpoint holds a p99 under 3 seconds. On 21/05 our provider degraded: median call time went from 620ms to about ",
     "link": "https://dev.to/jasmine_park_dev/our-llm-service-had-no-backpressure-the-provider-got-7x-slower-and-our-p99-got-25x-worse-4hc6",
-    "topic": "general"
-  },
-  {
-    "title": "100 Days of DevOps and Cloud (AWS), Day 13: Firewall Rules Are About Order, and Creating an AMI Reboots the Instance",
-    "desc": "<p>A firewall is not a list of rules. It is an ordered list of rules, and the order is the whole thing. Put the same two rules in the wrong ",
-    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-13-firewall-rules-are-about-order-and-creating-an-ami-58kj",
-    "topic": "aws"
-  },
-  {
-    "title": "Installing Apache Kafka 4.2 on Ubuntu (WSL2): A Complete KRaft Step-by-Step Guide",
-    "desc": "<h2>\n  \n  \n  Installing Apache Kafka 4.2 on Ubuntu 24.04 (WSL2) Using KRaft Mode: A Complete Step-by-Step Guide\n</h2>\n\n<blockquote>\n<p>Learn",
-    "link": "https://dev.to/sanjayghosh/installing-apache-kafka-42-on-ubuntu-wsl2-a-complete-kraft-step-by-step-guide-4bmf",
-    "topic": "general"
-  },
-  {
-    "title": "Your benign set should look malicious",
-    "desc": "<p>A 0.1% false-positive rate against clean traffic means nothing. The test proved a detector can ignore a health-check ping and a plain JSO",
-    "link": "https://dev.to/luckypipewrench/your-benign-set-should-look-malicious-pnk",
-    "topic": "general"
-  },
-  {
-    "title": "Effective Automation Strategies for SaaS Development",
-    "desc": "<h2>\n  \n  \n  Understanding Automation in SaaS\n</h2>\n\n<p>Automation is no longer a luxury; it's a necessity for businesses looking to thrive ",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/effective-automation-strategies-for-saas-development-131k",
     "topic": "general"
   }
 ]
