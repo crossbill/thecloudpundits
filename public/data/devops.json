@@ -1,50 +1,50 @@
 [
   {
-    "title": "5 proyectos de agentes aut\u00f3nomos que revelan una infraestructura emergente",
-    "desc": "<p>El ecosistema de agentes aut\u00f3nomos est\u00e1 evolucionando. Mientras la atenci\u00f3n se centra en modelos y frameworks, empiezan a aparecer proyec",
-    "link": "https://dev.to/prowlindex/5-proyectos-de-agentes-autonomos-que-revelan-una-infraestructura-emergente-kb7",
-    "topic": "general"
-  },
-  {
-    "title": "How to Gate Your CI Pipeline on Quantum Vulnerability \u2014 with quantum-audit",
-    "desc": "<p>Part 3 of the quantum-audit series. <a href=\"https://dev.to/takundanashebmuchenapixel/i-scanned-200-blockchain-npm-packages-for-quantum-v",
-    "link": "https://dev.to/takundanashebmuchenapixel/how-to-gate-your-ci-pipeline-on-quantum-vulnerability-with-quantum-audit-5bbe",
+    "title": "I Spent a Month Testing 12 Code Security Tools. Here's What Nobody Tells You.",
+    "desc": "<p>Most developers do not scan their code. Not because they do not care about security. Because the tools are either too expensive, too comp",
+    "link": "https://dev.to/lucky3mc/i-spent-a-month-testing-12-code-security-tools-heres-what-nobody-tells-you-1kka",
     "topic": "secops"
   },
   {
-    "title": "The Silent Failure Problem: When Your AI Automation Breaks and Nobody Notices",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sachin_neupane_18d575266b/the-silent-failure-problem-when-your-ai-automation-breaks-and-nobody-notices-3e1j",
+    "title": "How to catch breaking OpenAPI changes before they reach production",
+    "desc": "<p>An API can stay online, return 200s, and still break every client that depends on it.</p>\n\n<p>That is the uncomfortable part of API compa",
+    "link": "https://dev.to/apicontractguard/how-to-catch-breaking-openapi-changes-before-they-reach-production-44jj",
     "topic": "general"
   },
   {
-    "title": "Your services already know why they broke. You just delete that knowledge at deploy time.",
-    "desc": "<p>I want to start with a moment most of us have lived through.</p>\n\n<p>It's 3 a.m. A dashboard is red. You're eight terminals deep in <code",
-    "link": "https://dev.to/tflux2011/your-services-already-know-why-they-broke-you-just-delete-that-knowledge-at-deploy-time-5c23",
+    "title": "I Deleted My Database on Purpose. It Was Back in 47 Seconds.",
+    "desc": "<p>There's a sentence I can't stop thinking about:</p>\n\n<p><strong>A backup you have never restored is a wish, not a backup.</strong></p>\n\n<",
+    "link": "https://dev.to/vivian_okose/i-deleted-my-database-on-purpose-it-was-back-in-47-seconds-2dm0",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udd04 From MySQL to Doris: A Complete Data Sync Walkthrough with qData Open Source",
-    "desc": "<p>When evaluating a Data Middle Platform, you don\u2019t need to build a complex architecture upfront.  </p>\n\n<p><strong>A smarter approach:</st",
-    "link": "https://dev.to/tongwu/from-mysql-to-doris-a-complete-data-sync-walkthrough-with-qdata-open-source-4on6",
+    "title": "10 Top 5 Sites to Buy Telegram Accounts Fast in 2026",
+    "desc": "<p>Why Should You Buy Old Telegram Accounts?<br />\n\ud83c\udf10 24/7 Customer Support Available</p>\n\n<p>\ud83d\udcde WhatsApp: +1 (506) 541-7768</p>\n\n<p>\u00a0\ud83d\udce2 Telegr",
+    "link": "https://dev.to/annnoraestradayi4zw/10-top-5-sites-to-buy-telegram-accounts-fast-in-2026-4cg7",
     "topic": "general"
   },
   {
-    "title": "Visualizing Data Lineage: How to Track Impact and Trace Sources in qData Pro",
-    "desc": "<p>In the early stages of building a Data Middle Platform, the number of data tasks is usually limited.</p>\n\n<p>Developers can often underst",
-    "link": "https://dev.to/tongwu/visualizing-data-lineage-how-to-track-impact-and-trace-sources-in-qdata-pro-3c2e",
+    "title": "I Let an AI Agent Run My Cloud Ops for a Week: Here's What Broke",
+    "desc": "<p>Everyone keeps saying AI agents can run your operations now. So I gave one seven days to try, on a real environment, not a demo. Here's w",
+    "link": "https://dev.to/muskan_bandta/i-let-an-ai-agent-run-my-cloud-ops-for-a-week-heres-what-broke-5f",
     "topic": "general"
   },
   {
-    "title": "Fixing AKS NodePressure Memory Eviction with Azure Disk CSI: Root Cause & Recovery Guide",
-    "desc": "<h2>\n  \n  \n  The Incident (What Does the Error Mean?)\n</h2>\n\n<p>You will see this in <code>kubectl describe pod <pod-name></code>:<br />\n</p",
-    "link": "https://dev.to/abestdev/fixing-aks-nodepressure-memory-eviction-with-azure-disk-csi-root-cause-recovery-guide-2egp",
-    "topic": "azure"
+    "title": "Learn grok-build in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours debugging a complex build pipeline, only to realize that I could have automate",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-137h",
+    "topic": "general"
   },
   {
-    "title": "I booted my laptop after six days away \u2014 and Windows Task Scheduler silently refused to revive my AI agent",
-    "desc": "<h1>\n  \n  \n  I booted my laptop after six days away \u2014 and Windows Task Scheduler silently refused to revive my AI agent\n</h1>\n\n<p>I run a sm",
-    "link": "https://dev.to/nebulakes-prog/i-booted-my-laptop-after-six-days-away-and-windows-task-scheduler-silently-refused-to-revive-my-28ii",
+    "title": "How Can Recruiters Verify AI Certifications on LinkedIn?",
+    "desc": "<p>AI certifications have become an effective way for professionals to showcase their expertise in artificial intelligence, machine learning",
+    "link": "https://dev.to/ailearning/how-can-recruiters-verify-ai-certifications-on-linkedin-3inp",
+    "topic": "general"
+  },
+  {
+    "title": "How to Run a Real-Time API Across 10 Global Regions on GKE \u2014 Without Duplicating Your Manifests",
+    "desc": "<p>When you're building a real-time speech translation product, latency isn't a performance metric \u2014 it's the product itself. A 300ms round-",
+    "link": "https://dev.to/alfchee/how-to-run-a-real-time-api-across-10-global-regions-on-gke-without-duplicating-your-manifests-57h7",
     "topic": "general"
   }
 ]
