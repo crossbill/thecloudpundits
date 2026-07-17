@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Spent a Month Testing 12 Code Security Tools. Here's What Nobody Tells You.",
-    "desc": "<p>Most developers do not scan their code. Not because they do not care about security. Because the tools are either too expensive, too comp",
-    "link": "https://dev.to/lucky3mc/i-spent-a-month-testing-12-code-security-tools-heres-what-nobody-tells-you-1kka",
-    "topic": "secops"
-  },
-  {
-    "title": "How to catch breaking OpenAPI changes before they reach production",
-    "desc": "<p>An API can stay online, return 200s, and still break every client that depends on it.</p>\n\n<p>That is the uncomfortable part of API compa",
-    "link": "https://dev.to/apicontractguard/how-to-catch-breaking-openapi-changes-before-they-reach-production-44jj",
+    "title": "Magento 2 Peak Traffic Preparation: Scaling for Black Friday and High-Events",
+    "desc": "<p>Every November, the same story plays out. A Magento 2 store that comfortably handles 200 concurrent visitors suddenly gets 5,000. The dat",
+    "link": "https://dev.to/magevanta/magento-2-peak-traffic-preparation-scaling-for-black-friday-and-high-events-4l64",
     "topic": "general"
   },
   {
-    "title": "I Deleted My Database on Purpose. It Was Back in 47 Seconds.",
-    "desc": "<p>There's a sentence I can't stop thinking about:</p>\n\n<p><strong>A backup you have never restored is a wish, not a backup.</strong></p>\n\n<",
-    "link": "https://dev.to/vivian_okose/i-deleted-my-database-on-purpose-it-was-back-in-47-seconds-2dm0",
+    "title": "AI agents can open PRs. Who checks whether they crossed the line?",
+    "desc": "<h3>\n  \n  \n  The gap between \"works\" and \"stayed in scope\"\n</h3>\n\n<p>An AI coding agent can produce a pull request that builds, passes tests",
+    "link": "https://dev.to/sjh9714/ai-agents-can-open-prs-who-checks-whether-they-crossed-the-line-47b7",
     "topic": "general"
   },
   {
-    "title": "10 Top 5 Sites to Buy Telegram Accounts Fast in 2026",
-    "desc": "<p>Why Should You Buy Old Telegram Accounts?<br />\n\ud83c\udf10 24/7 Customer Support Available</p>\n\n<p>\ud83d\udcde WhatsApp: +1 (506) 541-7768</p>\n\n<p>\u00a0\ud83d\udce2 Telegr",
-    "link": "https://dev.to/annnoraestradayi4zw/10-top-5-sites-to-buy-telegram-accounts-fast-in-2026-4cg7",
+    "title": "Testing AI-Powered Web Apps Requires More Than Browser Automation",
+    "desc": "<p>Browser automation remains essential for AI-powered web applications.</p>\n\n<p>Users still click buttons, submit forms, open dialogs, uplo",
+    "link": "https://dev.to/sleepyfalcon247/testing-ai-powered-web-apps-requires-more-than-browser-automation-1c03",
     "topic": "general"
   },
   {
-    "title": "I Let an AI Agent Run My Cloud Ops for a Week: Here's What Broke",
-    "desc": "<p>Everyone keeps saying AI agents can run your operations now. So I gave one seven days to try, on a real environment, not a demo. Here's w",
-    "link": "https://dev.to/muskan_bandta/i-let-an-ai-agent-run-my-cloud-ops-for-a-week-heres-what-broke-5f",
+    "title": "Why Browser Tests Fail When State Outlives the Page",
+    "desc": "<p>One of the most misleading assumptions in browser automation is that a new page means a new test state.</p>\n\n<p>It often does not.</p>\n\n<",
+    "link": "https://dev.to/mellowthunder735/why-browser-tests-fail-when-state-outlives-the-page-4na2",
     "topic": "general"
   },
   {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours debugging a complex build pipeline, only to realize that I could have automate",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-137h",
+    "title": "Self-hosting open source tools on budget VPS",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
+    "link": "https://dev.to/chasebot/self-hosting-open-source-tools-on-budget-vps-2od5",
     "topic": "general"
   },
   {
-    "title": "How Can Recruiters Verify AI Certifications on LinkedIn?",
-    "desc": "<p>AI certifications have become an effective way for professionals to showcase their expertise in artificial intelligence, machine learning",
-    "link": "https://dev.to/ailearning/how-can-recruiters-verify-ai-certifications-on-linkedin-3inp",
+    "title": "Top 10 Best Congressus to WordPress Migration Companies",
+    "desc": "<p><em>You've got a Congressus site but you're constrained by platform limitations and vendor lock-in. Time to migrate to WordPress. Let's t",
+    "link": "https://dev.to/oliverpitts/top-10-best-congressus-to-wordpress-migration-companies-432a",
     "topic": "general"
   },
   {
-    "title": "How to Run a Real-Time API Across 10 Global Regions on GKE \u2014 Without Duplicating Your Manifests",
-    "desc": "<p>When you're building a real-time speech translation product, latency isn't a performance metric \u2014 it's the product itself. A 300ms round-",
-    "link": "https://dev.to/alfchee/how-to-run-a-real-time-api-across-10-global-regions-on-gke-without-duplicating-your-manifests-57h7",
+    "title": "Build a Production-Grade Mail Server with Mailcow & Docker \ud83d\udc0b",
+    "desc": "<p>Every major mailbox provider charges a recurring monthly fee for something you can run yourself. If you have the hardware, you can host a",
+    "link": "https://dev.to/bytesrack/build-a-production-grade-mail-server-with-mailcow-docker-pmn",
+    "topic": "docker"
+  },
+  {
+    "title": "Beyond Logs: Why Observability's Next Era Is Comprehension",
+    "desc": "<h1>\n  \n  \n  Beyond Logs: Why Observability's Next Era Is Comprehension\n</h1>\n\n<p>Ask most engineers to debug a production incident and watc",
+    "link": "https://dev.to/aws-builders/beyond-logs-why-observabilitys-next-era-is-comprehension-3l6",
     "topic": "general"
   }
 ]
