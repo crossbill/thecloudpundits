@@ -1,5 +1,35 @@
 [
   {
+    "title": "The Bus Factor: How to Actually Find It and Fix It on Your Team",
+    "desc": "<p>Your bus factor is not theoretical. It is a business continuity metric, and unlike most culture-y engineering concepts, it's one you can ",
+    "link": "https://dev.to/betterengineer/the-bus-factor-how-to-actually-find-it-and-fix-it-on-your-team-478j",
+    "topic": "general"
+  },
+  {
+    "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/cloudflare-waf-protects-wordpress-applications-from-two-high-sev",
+    "link": "https://dev.to/rasne/cloudflare-waf-protects-wordpress-applications-from-two-high-severity-vulnerabilities-2ddf",
+    "topic": "general"
+  },
+  {
+    "title": "The Ultimate Guide to Buying Naver Accounts in 2025/26",
+    "desc": "<p>Buy Naver Accounts \u2013 All PVA Accounts<br />\n\ud83c\udf10 24/7 Customer Support Available</p>\n\n<p>\ud83d\udcde WhatsApp: +1 (506) 541-7768</p>\n\n<p>\ud83d\udcf1 Telegram: <",
+    "link": "https://dev.to/andeeephan9jty8/the-ultimate-guide-to-buying-naver-accounts-in-202526-1i22",
+    "topic": "general"
+  },
+  {
+    "title": "Our LLM service had no backpressure. The provider got 7x slower and our p99 got 25x worse.",
+    "desc": "<p>TL;DR. Our summarization endpoint holds a p99 under 3 seconds. On 21/05 our provider degraded: median call time went from 620ms to about ",
+    "link": "https://dev.to/jasmine_park_dev/our-llm-service-had-no-backpressure-the-provider-got-7x-slower-and-our-p99-got-25x-worse-4hc6",
+    "topic": "general"
+  },
+  {
+    "title": "100 Days of DevOps and Cloud (AWS), Day 13: Firewall Rules Are About Order, and Creating an AMI Reboots the Instance",
+    "desc": "<p>A firewall is not a list of rules. It is an ordered list of rules, and the order is the whole thing. Put the same two rules in the wrong ",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-13-firewall-rules-are-about-order-and-creating-an-ami-58kj",
+    "topic": "aws"
+  },
+  {
     "title": "Installing Apache Kafka 4.2 on Ubuntu (WSL2): A Complete KRaft Step-by-Step Guide",
     "desc": "<h2>\n  \n  \n  Installing Apache Kafka 4.2 on Ubuntu 24.04 (WSL2) Using KRaft Mode: A Complete Step-by-Step Guide\n</h2>\n\n<blockquote>\n<p>Learn",
     "link": "https://dev.to/sanjayghosh/installing-apache-kafka-42-on-ubuntu-wsl2-a-complete-kraft-step-by-step-guide-4bmf",
@@ -15,36 +45,6 @@
     "title": "Effective Automation Strategies for SaaS Development",
     "desc": "<h2>\n  \n  \n  Understanding Automation in SaaS\n</h2>\n\n<p>Automation is no longer a luxury; it's a necessity for businesses looking to thrive ",
     "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/effective-automation-strategies-for-saas-development-131k",
-    "topic": "general"
-  },
-  {
-    "title": "Production Ready Terraform with Testing, Validation and CI/CD",
-    "desc": "<p>I've seen plenty of teams running Terraform from their laptops. Some commit the state file to git (which creates merge conflicts and expo",
-    "link": "https://dev.to/fatihkoc/production-ready-terraform-with-testing-validation-and-cicd-3ef0",
-    "topic": "terraform"
-  },
-  {
-    "title": "GitHub Actions: Automating Your Development Workflow",
-    "desc": "<h1>\n  \n  \n  GitHub Actions: Automating Your Development Workflow\n</h1>\n\n<p>GitHub Actions is GitHub's native CI/CD solution that automates ",
-    "link": "https://dev.to/said_olano/github-actions-automating-your-development-workflow-2o2e",
-    "topic": "general"
-  },
-  {
-    "title": "Vault as an OIDC Identity Provider: Exposing Private Discovery Endpoints to the World",
-    "desc": "<p><em>Note: this blog was co-authored with the excellent <a href=\"https://www.thelonelyghost.com/\" rel=\"noopener noreferrer\">David Alexande",
-    "link": "https://dev.to/drewmullen/vault-as-an-oidc-identity-provider-exposing-private-discovery-endpoints-to-the-world-jlh",
-    "topic": "general"
-  },
-  {
-    "title": "Prometheus Was Built for Metrics. We\u2019re Asking It to Explain Systems.",
-    "desc": "<h1>\n  \n  \n  Prometheus Was Built for Metrics. We're Asking It to Explain Systems.\n</h1>\n\n<p>For nearly a decade, Prometheus has been the go",
-    "link": "https://dev.to/kubeha_18/prometheus-was-built-for-metrics-were-asking-it-to-explain-systems-9a1",
-    "topic": "general"
-  },
-  {
-    "title": "EnvGuard v4.0 \u2014 Now You Can See Your Environment Drift (and Catch Secrets You Leaked Months Ago)",
-    "desc": "<p>Every developer has been burned by a broken .env file\u2014missing variables, empty values, or secrets accidentally committed to Git.</p>\n\n<p>",
-    "link": "https://dev.to/tuhin1122/envguard-v40-now-you-can-see-your-environment-drift-and-catch-secrets-you-leaked-months-ago-35oj",
     "topic": "general"
   }
 ]
