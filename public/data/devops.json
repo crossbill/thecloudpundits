@@ -1,5 +1,23 @@
 [
   {
+    "title": "AES-GCM vs ChaCha20-Poly1305: A Practical Comparison for Protocol Designers",
+    "desc": "<p>If you build anything with transport security \u2014 VPNs, tunnels, messaging protocols, or encrypted overlay networks \u2014 you've met two domina",
+    "link": "https://dev.to/pstayet/aes-gcm-vs-chacha20-poly1305-a-practical-comparison-for-protocol-designers-5ef",
+    "topic": "general"
+  },
+  {
+    "title": "The OpenTofu Errors You'll Actually Hit (and How to Fix Them Fast)",
+    "desc": "<p>Every OpenTofu user hits the same wall of errors eventually, usually at the worst possible moment \u2014 mid-deploy, in CI, with a teammate wa",
+    "link": "https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e",
+    "topic": "general"
+  },
+  {
+    "title": "Blinding the State Informant: How Axiom Shield Weaponizes Client-Side Sandboxing Against EU Chat Control",
+    "desc": "<p>The regulatory push for EU Chat Control 2.0 has exposed a fundamental architectural vulnerability in modern operating systems. Government",
+    "link": "https://dev.to/gabrielgigitashvili044pixel/blinding-the-state-informant-how-axiom-shield-weaponizes-client-side-sandboxing-against-eu-chat-3bpj",
+    "topic": "general"
+  },
+  {
     "title": "AI Worked Both Sides of the Security Ledger This Week. Here's What to Actually Run",
     "desc": "<p>Two of the zero-days Microsoft patched on July 14 are being exploited right now. Here is the one-liner to check whether either is sitting",
     "link": "https://dev.to/kkierii/ai-worked-both-sides-of-the-security-ledger-this-week-heres-what-to-actually-run-2071",
@@ -27,24 +45,6 @@
     "title": "When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures",
     "desc": "<p>A browser test can be green and still be wrong.</p>\n\n<p>It can pass because a mock returned an outdated response. It can fail because sta",
     "link": "https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Complete CI/CD Pipeline with Docker and GitHub Actions",
-    "desc": "<p>Modern software delivery is about much more than writing code. It requires automation, collaboration, repeatability, and reliable deploym",
-    "link": "https://dev.to/rahimah_dev/building-a-complete-cicd-pipeline-with-docker-and-github-actions-471k",
-    "topic": "docker"
-  },
-  {
-    "title": "Check who owns the files that control your coding agents",
-    "desc": "<p>A repository can review application code carefully while leaving its coding-agent control files outside the reviewer boundary.</p>\n\n<p><c",
-    "link": "https://dev.to/nekoautomata/check-who-owns-the-files-that-control-your-coding-agents-41bl",
-    "topic": "general"
-  },
-  {
-    "title": "The Bus Factor: How to Actually Find It and Fix It on Your Team",
-    "desc": "<p>Your bus factor is not theoretical. It is a business continuity metric, and unlike most culture-y engineering concepts, it's one you can ",
-    "link": "https://dev.to/betterengineer/the-bus-factor-how-to-actually-find-it-and-fix-it-on-your-team-478j",
     "topic": "general"
   }
 ]
