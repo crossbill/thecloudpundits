@@ -1,50 +1,50 @@
 [
   {
-    "title": "\u2705 Day 10: 100 Days of GenAI for DevOps: MCP for DevOps Engineers: GitHub & AWS MCP Servers\u2705",
-    "desc": "<p>Today we're diving into one of the most important technologies in the AI ecosystem: Model Context Protocol (MCP).</p>\n\n<p>If you've been ",
-    "link": "https://dev.to/lakhera2015/day-10-100-days-of-genai-for-devops-mcp-for-devops-engineers-github-aws-mcp-servers-7cf",
-    "topic": "aws"
-  },
-  {
-    "title": "What if the safest Kubernetes fix is no fix at all?",
-    "desc": "<p>AI-assisted DevOps and SRE tools are becoming more common. Tools like <strong>K8sGPT</strong> can scan Kubernetes clusters, detect issues",
-    "link": "https://dev.to/mayank013/what-if-the-safest-kubernetes-fix-is-no-fix-at-all-29ac",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Fix Permission denied when editing /etc/hosts",
-    "desc": "<p>You open the hosts file, change one line, hit save, and get <code>Permission denied</code>.</p>\n\n<p>That is normal. The system hosts file",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/fix-permission-denied-when-editing-etchosts-5c4f",
+    "title": "5 proyectos de agentes aut\u00f3nomos que revelan una infraestructura emergente",
+    "desc": "<p>El ecosistema de agentes aut\u00f3nomos est\u00e1 evolucionando. Mientras la atenci\u00f3n se centra en modelos y frameworks, empiezan a aparecer proyec",
+    "link": "https://dev.to/prowlindex/5-proyectos-de-agentes-autonomos-que-revelan-una-infraestructura-emergente-kb7",
     "topic": "general"
   },
   {
-    "title": "Kubernetes in Azure",
-    "desc": "<p>creating a folder and initializing github for our work, then login in to our azure account</p>\n\n<p><a class=\"article-body-image-wrapper\" ",
-    "link": "https://dev.to/clinton_mbilitem_17fbf80c/kubernetes-in-azure-2mnk",
+    "title": "How to Gate Your CI Pipeline on Quantum Vulnerability \u2014 with quantum-audit",
+    "desc": "<p>Part 3 of the quantum-audit series. <a href=\"https://dev.to/takundanashebmuchenapixel/i-scanned-200-blockchain-npm-packages-for-quantum-v",
+    "link": "https://dev.to/takundanashebmuchenapixel/how-to-gate-your-ci-pipeline-on-quantum-vulnerability-with-quantum-audit-5bbe",
+    "topic": "secops"
+  },
+  {
+    "title": "The Silent Failure Problem: When Your AI Automation Breaks and Nobody Notices",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/sachin_neupane_18d575266b/the-silent-failure-problem-when-your-ai-automation-breaks-and-nobody-notices-3e1j",
+    "topic": "general"
+  },
+  {
+    "title": "Your services already know why they broke. You just delete that knowledge at deploy time.",
+    "desc": "<p>I want to start with a moment most of us have lived through.</p>\n\n<p>It's 3 a.m. A dashboard is red. You're eight terminals deep in <code",
+    "link": "https://dev.to/tflux2011/your-services-already-know-why-they-broke-you-just-delete-that-knowledge-at-deploy-time-5c23",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\udd04 From MySQL to Doris: A Complete Data Sync Walkthrough with qData Open Source",
+    "desc": "<p>When evaluating a Data Middle Platform, you don\u2019t need to build a complex architecture upfront.  </p>\n\n<p><strong>A smarter approach:</st",
+    "link": "https://dev.to/tongwu/from-mysql-to-doris-a-complete-data-sync-walkthrough-with-qdata-open-source-4on6",
+    "topic": "general"
+  },
+  {
+    "title": "Visualizing Data Lineage: How to Track Impact and Trace Sources in qData Pro",
+    "desc": "<p>In the early stages of building a Data Middle Platform, the number of data tasks is usually limited.</p>\n\n<p>Developers can often underst",
+    "link": "https://dev.to/tongwu/visualizing-data-lineage-how-to-track-impact-and-trace-sources-in-qdata-pro-3c2e",
+    "topic": "general"
+  },
+  {
+    "title": "Fixing AKS NodePressure Memory Eviction with Azure Disk CSI: Root Cause & Recovery Guide",
+    "desc": "<h2>\n  \n  \n  The Incident (What Does the Error Mean?)\n</h2>\n\n<p>You will see this in <code>kubectl describe pod <pod-name></code>:<br />\n</p",
+    "link": "https://dev.to/abestdev/fixing-aks-nodepressure-memory-eviction-with-azure-disk-csi-root-cause-recovery-guide-2egp",
     "topic": "azure"
   },
   {
-    "title": "DNS not updating after hosts file change? Fix it in order",
-    "desc": "<p>You edited the hosts file. The line looks correct. The browser still opens the old site.</p>\n\n<p>Do not rewrite the hosts file again yet.",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/dns-not-updating-after-hosts-file-change-fix-it-in-order-57en",
-    "topic": "general"
-  },
-  {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 9 out of 10 developers waste over 2 hours a day on inefficient build processes? Last w",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-54hf",
-    "topic": "general"
-  },
-  {
-    "title": "macOS runs out of application memory because your dead dev servers never die",
-    "desc": "<p>It was past midnight and my Mac threw a box I had not seen in years.</p>\n\n<p>Your system has run out of application memory.</p>\n\n<p>Force",
-    "link": "https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c",
-    "topic": "general"
-  },
-  {
-    "title": "How to block websites with the hosts file",
-    "desc": "<p>You can block a domain on your machine without installing another browser extension.</p>\n\n<p>Point the hostname at a dead address in the ",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/how-to-block-websites-with-the-hosts-file-3kd4",
+    "title": "I booted my laptop after six days away \u2014 and Windows Task Scheduler silently refused to revive my AI agent",
+    "desc": "<h1>\n  \n  \n  I booted my laptop after six days away \u2014 and Windows Task Scheduler silently refused to revive my AI agent\n</h1>\n\n<p>I run a sm",
+    "link": "https://dev.to/nebulakes-prog/i-booted-my-laptop-after-six-days-away-and-windows-task-scheduler-silently-refused-to-revive-my-28ii",
     "topic": "general"
   }
 ]
