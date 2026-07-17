@@ -1,50 +1,50 @@
 [
   {
-    "title": "Modern Compute Strategies for Agentic Workloads",
-    "desc": "<p>The rapid rise of AI agents is fundamentally shifting how engineers think about cloud infrastructure and resource management. While Kuber",
-    "link": "https://dev.to/vpodk/modern-compute-strategies-for-agentic-workloads-58cm",
+    "title": "Installing Apache Kafka 4.2 on Ubuntu (WSL2): A Complete KRaft Step-by-Step Guide",
+    "desc": "<h2>\n  \n  \n  Installing Apache Kafka 4.2 on Ubuntu 24.04 (WSL2) Using KRaft Mode: A Complete Step-by-Step Guide\n</h2>\n\n<blockquote>\n<p>Learn",
+    "link": "https://dev.to/sanjayghosh/installing-apache-kafka-42-on-ubuntu-wsl2-a-complete-kraft-step-by-step-guide-4bmf",
     "topic": "general"
   },
   {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 9 out of 10 developers struggle with build tools, wasting precious time and hindering ",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-1lji",
+    "title": "Your benign set should look malicious",
+    "desc": "<p>A 0.1% false-positive rate against clean traffic means nothing. The test proved a detector can ignore a health-check ping and a plain JSO",
+    "link": "https://dev.to/luckypipewrench/your-benign-set-should-look-malicious-pnk",
     "topic": "general"
   },
   {
-    "title": "AI Agents: The Skill Every Developer Should Learn in 2026 \ud83e\udd16",
-    "desc": "<p>AI agents are everywhere right now \u2014 and for good reason. Unlike a basic chatbot that just replies to prompts, an agent can <strong>plan,",
-    "link": "https://dev.to/haroonsaeed/ai-agents-the-skill-every-developer-should-learn-in-2026-3e5o",
+    "title": "Effective Automation Strategies for SaaS Development",
+    "desc": "<h2>\n  \n  \n  Understanding Automation in SaaS\n</h2>\n\n<p>Automation is no longer a luxury; it's a necessity for businesses looking to thrive ",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/effective-automation-strategies-for-saas-development-131k",
     "topic": "general"
   },
   {
-    "title": "AWS EC2: Complete Guide to Elastic Cloud Compute",
-    "desc": "<h1>\n  \n  \n  AWS EC2: Complete Guide to Elastic Cloud Compute\n</h1>\n\n<p>Amazon EC2 (Elastic Compute Cloud) remains the foundational compute ",
-    "link": "https://dev.to/said_olano/aws-ec2-complete-guide-to-elastic-cloud-compute-4158",
-    "topic": "aws"
-  },
-  {
-    "title": "Multi-Agent LLM Analysis for DevOps: A Panel of Experts That Actually Improves Decisions",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-07-17-multi-agent-llm-devops-panel-of-experts\" re",
-    "link": "https://dev.to/devtocash/multi-agent-llm-analysis-for-devops-a-panel-of-experts-that-actually-improves-decisions-4meo",
-    "topic": "general"
-  },
-  {
-    "title": "Infrastructure as Code: Terraform and CloudFormation \u2013 The Fellowship of the Cloud",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to feel like I was stuck in a never\u2011ending boss fight every time our te",
-    "link": "https://dev.to/timevolt/infrastructure-as-code-terraform-and-cloudformation-the-fellowship-of-the-cloud-3bd",
+    "title": "Production Ready Terraform with Testing, Validation and CI/CD",
+    "desc": "<p>I've seen plenty of teams running Terraform from their laptops. Some commit the state file to git (which creates merge conflicts and expo",
+    "link": "https://dev.to/fatihkoc/production-ready-terraform-with-testing-validation-and-cicd-3ef0",
     "topic": "terraform"
   },
   {
-    "title": "Best AI Gateways for Claude in 2026",
-    "desc": "<p>\"Does it support Claude\" clears almost every gateway on this list - that part's been table stakes for a while. What actually separates th",
-    "link": "https://dev.to/sahajmeet_kaur_/top-5-ai-gateways-for-claude-in-2026-and-why-truefoundry-ranks-1-1np6",
-    "topic": "anthropic"
+    "title": "GitHub Actions: Automating Your Development Workflow",
+    "desc": "<h1>\n  \n  \n  GitHub Actions: Automating Your Development Workflow\n</h1>\n\n<p>GitHub Actions is GitHub's native CI/CD solution that automates ",
+    "link": "https://dev.to/said_olano/github-actions-automating-your-development-workflow-2o2e",
+    "topic": "general"
   },
   {
-    "title": "34 Days. 9 AI Agents. One Gym. Zero Human Intervention.",
-    "desc": "<h1>\n  \n  \n  34 Days. 9 AI Agents. One Gym. Zero Human Intervention.\n</h1>\n\n<p>We stopped touching the controls 34 days ago.</p>\n\n<p>Not \"we",
-    "link": "https://dev.to/zwiserfit/34-days-9-ai-agents-one-gym-zero-human-intervention-5a7",
+    "title": "Vault as an OIDC Identity Provider: Exposing Private Discovery Endpoints to the World",
+    "desc": "<p><em>Note: this blog was co-authored with the excellent <a href=\"https://www.thelonelyghost.com/\" rel=\"noopener noreferrer\">David Alexande",
+    "link": "https://dev.to/drewmullen/vault-as-an-oidc-identity-provider-exposing-private-discovery-endpoints-to-the-world-jlh",
+    "topic": "general"
+  },
+  {
+    "title": "Prometheus Was Built for Metrics. We\u2019re Asking It to Explain Systems.",
+    "desc": "<h1>\n  \n  \n  Prometheus Was Built for Metrics. We're Asking It to Explain Systems.\n</h1>\n\n<p>For nearly a decade, Prometheus has been the go",
+    "link": "https://dev.to/kubeha_18/prometheus-was-built-for-metrics-were-asking-it-to-explain-systems-9a1",
+    "topic": "general"
+  },
+  {
+    "title": "EnvGuard v4.0 \u2014 Now You Can See Your Environment Drift (and Catch Secrets You Leaked Months Ago)",
+    "desc": "<p>Every developer has been burned by a broken .env file\u2014missing variables, empty values, or secrets accidentally committed to Git.</p>\n\n<p>",
+    "link": "https://dev.to/tuhin1122/envguard-v40-now-you-can-see-your-environment-drift-and-catch-secrets-you-leaked-months-ago-35oj",
     "topic": "general"
   }
 ]
