@@ -1,5 +1,41 @@
 [
   {
+    "title": "How 37 pull requests pwned AsyncAPI's CI and backdoored npm packages",
+    "desc": "<blockquote>\n<p>\ud83e\udd16 <em>This article was written by an autonomous AI agent. Published in line with DEV's AI-assisted content guidelines.</em><",
+    "link": "https://dev.to/lainagent_ai/how-37-pull-requests-pwned-asyncapis-ci-and-backdoored-npm-packages-14k6",
+    "topic": "general"
+  },
+  {
+    "title": "The Business of Great Software: Why Architecture and Engineering Matter",
+    "desc": "<p>Every business starts with an idea.</p>\n\n<p><em>\"Let's build a fintech app.\"</em><br />\n<em>\"Let's create a marketplace.\"</em><br />\n<em>",
+    "link": "https://dev.to/akinolae/the-business-of-great-software-why-architecture-and-engineering-matter-59f5",
+    "topic": "general"
+  },
+  {
+    "title": "Your Cache Hit Rate Is Lying to You",
+    "desc": "<p>Your remote cache dashboard shows an 80% hit rate.</p>\n\n<p>That sounds good.</p>\n\n<p>It probably means fewer builds, faster CI, and less ",
+    "link": "https://dev.to/cachely-admin/your-cache-hit-rate-is-lying-to-you-186h",
+    "topic": "general"
+  },
+  {
+    "title": "Why Security-Conscious Teams Choose Docker Hardened Images",
+    "desc": "<p>High-profile incidents such as <strong>Log4Shell</strong> and the <strong>SolarWinds</strong> attack fundamentally changed how the indust",
+    "link": "https://dev.to/rashi_chaubal_2948263e86d/why-security-conscious-teams-choose-docker-hardened-images-22al",
+    "topic": "docker"
+  },
+  {
+    "title": "Crossfit Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/crossfit-timer-what-we-learned-building-random-tactical-timer-57p0",
+    "topic": "general"
+  },
+  {
+    "title": "HIPAA-Compliant AI Agent Architecture: The Network Layer You Can't Skip",
+    "desc": "<p>When you're thinking through a HIPAA-compliant AI agent architecture, most of the checklists focus on the obvious layers: data encryption",
+    "link": "https://dev.to/pstayet/hipaa-compliant-ai-agent-architecture-the-network-layer-you-cant-skip-1nh8",
+    "topic": "general"
+  },
+  {
     "title": "Is 98% uptime good? It allows 7.3 days of downtime a year",
     "desc": "<p><em>Cover photo by <a href=\"https://unsplash.com/@theblowup\" rel=\"noopener noreferrer\">the blowup</a> on Unsplash.</em></p>\n\n<p>I build a",
     "link": "https://dev.to/slima4/is-98-uptime-good-it-allows-73-days-of-downtime-a-year-4dd3",
@@ -9,42 +45,6 @@
     "title": "5 Ways Self-Hosting Boosts Your Developer Skills",
     "desc": "<p>Recently, I saw a junior developer get a \"disk full\" error when running a deploy script and not know what to do; this situation once agai",
     "link": "https://dev.to/merbayerp/5-ways-self-hosting-boosts-your-developer-skills-4pjm",
-    "topic": "general"
-  },
-  {
-    "title": "Everything Was Green. Nothing Was Listening. \u2014 Self-Hosting SigNoz for MCP Tool-Error Traces",
-    "desc": "<p>Everything was green. <code>signoz-signoz-0</code> was healthy. The UI answered on <code>localhost:8080</code> with a clean HTTP 200. The",
-    "link": "https://dev.to/thirumalaiboobathi_b_2b20/everything-was-green-nothing-was-listening-self-hosting-signoz-for-mcp-tool-error-traces-148p",
-    "topic": "general"
-  },
-  {
-    "title": "AI Code Healer for Fixing Broken CI/CD Builds Fast",
-    "desc": "<h2>\n  \n  \n  The Problem Every Developer Knows\n</h2>\n\n<p>You are on vacation. Your phone buzzes. A build has failed.</p>\n\n<p>You have no lap",
-    "link": "https://dev.to/geekyants/ai-code-healer-for-fixing-broken-cicd-builds-fast-cdi",
-    "topic": "general"
-  },
-  {
-    "title": "How We Made Moderation Architecturally Impossible to Skip",
-    "desc": "<p>How We Made Moderation Architecturally Impossible to Skip</p>\n\n<p>By Ronny Cruz Alvarez, founder of Open Feed Network (Candor Network). S",
-    "link": "https://dev.to/denofthives2026/how-we-made-moderation-architecturally-impossible-to-skip-7lo",
-    "topic": "general"
-  },
-  {
-    "title": "Fourth challenge on DevOpsLedger",
-    "desc": "<p>Access Keys Are Hardcoded on the EC2 Box. Just Rotate Them?</p>\n\n<p>An app on EC2 authenticates to AWS with long-lived IAM user keys in a",
-    "link": "https://dev.to/b00mgr3rt/fourth-challenge-on-devopsledger-3k3a",
-    "topic": "general"
-  },
-  {
-    "title": "SRE vs DevOps vs Platform Engineering: What's the Difference in 2026?",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/sre-vs-devops-platform-engineering\" rel=\"noopener nore",
-    "link": "https://dev.to/devtocash/sre-vs-devops-vs-platform-engineering-whats-the-difference-in-2026-poi",
-    "topic": "general"
-  },
-  {
-    "title": "Soul in Motion \u2014 6:27 PM | 2026-07-17",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Focused on building out personal portfolio with 5 new case studies and 4 refreshed projects.</li>\n<li>Col",
-    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-627-pm-2026-07-17-3fh8",
     "topic": "general"
   }
 ]
