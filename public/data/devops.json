@@ -1,50 +1,50 @@
 [
   {
+    "title": "Best Practices for Cloud-Native AI Applications",
+    "desc": "<h2>\n  \n  \n  Understanding Emerging Technologies in Cloud-Native Development\n</h2>\n\n<p>Emerging technologies are reshaping cloud-native AI a",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/best-practices-for-cloud-native-ai-applications-1oi8",
+    "topic": "general"
+  },
+  {
+    "title": "I built an AI agent that watches my Kubernetes cluster (and can\u2019t break it)",
+    "desc": "<h1>\n  \n  \n  I built an AI that watches my Kubernetes cluster (and can't break it)\n</h1>\n\n<p>I only ever found out something was wrong in my",
+    "link": "https://dev.to/emreoztoprak/i-built-an-ai-agent-that-watches-my-kubernetes-cluster-and-cant-break-it-44n7",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Eval Frameworks: How to Swap LLM Models Without Breaking Production",
+    "desc": "<p>Every few weeks a better model ships, and a familiar meeting follows. Someone wants to upgrade. Someone else asks how we know it won't br",
+    "link": "https://dev.to/justsoftlab_x01/eval-frameworks-how-to-swap-llm-models-without-breaking-production-13g0",
+    "topic": "general"
+  },
+  {
+    "title": "Day 84: EXPLAIN `pretty=1` and `compact=1` in ClickHouse\u00ae 26.3",
+    "desc": "<p>When a ClickHouse\u00ae query runs slowly, the root cause is not always insufficient hardware or an inefficient schema. In many cases, the iss",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-84-explain-pretty1-and-compact1-in-clickhouser-263-4en1",
+    "topic": "general"
+  },
+  {
+    "title": "Router Configuration Theft: What to Investigate After the Rebuild",
+    "desc": "<p>An SNMP Set request can make a router write its own configuration to a file and send that file to an external system.</p>\n\n<p>That is the",
+    "link": "https://dev.to/kkierii/router-configuration-theft-what-to-investigate-after-the-rebuild-1lhb",
+    "topic": "general"
+  },
+  {
+    "title": "Before You Give an OpenClaw Contractor SSH Access, Run These 7 Redacted Checks",
+    "desc": "<p>Giving a contractor SSH access should not be the first step in an OpenClaw VPS project.</p>\n\n<p>Before anyone logs in, you can learn a su",
+    "link": "https://dev.to/moonshot_1341/before-you-give-an-openclaw-contractor-ssh-access-run-these-7-redacted-checks-2l64",
+    "topic": "general"
+  },
+  {
+    "title": "Top 9 Platforms to Buy USA Facebook Accounts in USA",
+    "desc": "<p>Buy Facebook accounts | Buy Verified Facebook Accounts<br />\nBuy Verified Facebook Accounts New aged , pva</p>\n\n<p>Are you ready to eleva",
+    "link": "https://dev.to/bert_s_c6879ae5aad667f7e7/top-9-platforms-to-buy-usa-facebook-accounts-in-usa-47gm",
+    "topic": "general"
+  },
+  {
     "title": "Learn grok-build in 5 Mins",
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent hours struggling to optimize my build process, only to realize that I was wasting tim",
     "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-18ef",
-    "topic": "general"
-  },
-  {
-    "title": "Monitoring and Logging: The Avengers Assemble",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night I got paged at 2\u202fa.m. because a handful of users we",
-    "link": "https://dev.to/timevolt/monitoring-and-logging-the-avengers-assemble-33if",
-    "topic": "general"
-  },
-  {
-    "title": "Server-Side A/B Testing with Optimizely: A Practical Guide",
-    "desc": "<p>Most A/B testing happens in the browser: a script swaps a headline or button color after the page loads. That works for surface-level UI ",
-    "link": "https://dev.to/david_sert/server-side-ab-testing-with-optimizely-a-practical-guide-426k",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Measuring AI Tokens\u2014Start Measuring Successful Tasks",
-    "desc": "<p>On July 17, 2026, Fortune reported OpenAI CFO Sarah Friar's proposed lens: \"useful intelligence per dollar.\" For developer teams shipping",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/stop-measuring-ai-tokens-start-measuring-successful-tasks-1kge",
-    "topic": "general"
-  },
-  {
-    "title": "Headscale vs Nebula: Self-Hosted Overlay Networks Compared",
-    "desc": "<p>If you're evaluating self-hosted overlay networks in 2026, two names come up constantly: <strong>Headscale</strong> and <strong>Nebula</s",
-    "link": "https://dev.to/pstayet/headscale-vs-nebula-self-hosted-overlay-networks-compared-3b16",
-    "topic": "general"
-  },
-  {
-    "title": "5 A2A Mistakes That Break Production Systems",
-    "desc": "<p>Most A2A trouble comes from a short list of avoidable mistakes. Here they are, with the fix for each.*</p>\n\n\n\n\n<p><strong>The five that a",
-    "link": "https://dev.to/promptmaster/5-a2a-mistakes-that-break-production-systems-1b08",
-    "topic": "general"
-  },
-  {
-    "title": "Best Sites to Buy Yahoo Accounts (PVA, Aged, Bulk Options)",
-    "desc": "<p>Buy Old Yahoo Accounts \u2013 The Ultimate Guide to Benefits, Uses, Security, and Digital Identity Management (2026)<br />\nIntroduction<br />\n",
-    "link": "https://dev.to/romondamanningnjufm/best-sites-to-buy-yahoo-accounts-pva-aged-bulk-options-1cbf",
-    "topic": "general"
-  },
-  {
-    "title": "You don't need an observability stack yet",
-    "desc": "<p>The question gets asked on r/node every few months, on r/selfhosted every few weeks, and on Hacker News whenever a Datadog invoice goes v",
-    "link": "https://dev.to/productimpossible/you-dont-need-an-observability-stack-yet-n0",
     "topic": "general"
   }
 ]
