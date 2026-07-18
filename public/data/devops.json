@@ -1,5 +1,29 @@
 [
   {
+    "title": "Your Redirect Domain Is Infrastructure: What the t.me Outage Teaches Us",
+    "desc": "<p>A redirect domain looks small until people depend on it.</p>\n\n<p>In July 2026, Telegram's <code>t.me</code> domain stopped resolving afte",
+    "link": "https://dev.to/redirhub/your-redirect-domain-is-infrastructure-what-the-tme-outage-teaches-us-4ada",
+    "topic": "general"
+  },
+  {
+    "title": "rcmd now speaks MCP \u2014 your AI agent can manage your servers without SSH",
+    "desc": "<p>I've been building rcmd, a relay-based remote command tool. No SSH keys, no open ports \u2014 your servers connect out to a relay, and you sen",
+    "link": "https://dev.to/javimosch/rcmd-now-speaks-mcp-your-ai-agent-can-manage-your-servers-without-ssh-3eck",
+    "topic": "general"
+  },
+  {
+    "title": "Top 10 DevOps Projects for Your Resume (Beginner to Advanced)",
+    "desc": "<p>Ten hands-on DevOps projects that hiring managers actually want to see. Covers Docker, Kubernetes, Terraform, CI/CD, AWS, and monitoring ",
+    "link": "https://dev.to/devopslesson/top-10-devops-projects-for-your-resume-beginner-to-advanced-4i5p",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes 1.35 is the last release supporting containerd 1.x: a 2026 upgrade guide",
+    "desc": "<h1>\n  \n  \n  Kubernetes 1.35 is the last release supporting containerd 1.x: a 2026 upgrade guide\n</h1>\n\n<p><strong>Summary.</strong> Kuberne",
+    "link": "https://dev.to/mr_manushukla/kubernetes-135-is-the-last-release-supporting-containerd-1x-a-2026-upgrade-guide-10p0",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Best Practices for Cloud-Native AI Applications",
     "desc": "<h2>\n  \n  \n  Understanding Emerging Technologies in Cloud-Native Development\n</h2>\n\n<p>Emerging technologies are reshaping cloud-native AI a",
     "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/best-practices-for-cloud-native-ai-applications-1oi8",
@@ -21,30 +45,6 @@
     "title": "Day 84: EXPLAIN `pretty=1` and `compact=1` in ClickHouse\u00ae 26.3",
     "desc": "<p>When a ClickHouse\u00ae query runs slowly, the root cause is not always insufficient hardware or an inefficient schema. In many cases, the iss",
     "link": "https://dev.to/kanishga_subramani_49ad73/day-84-explain-pretty1-and-compact1-in-clickhouser-263-4en1",
-    "topic": "general"
-  },
-  {
-    "title": "Router Configuration Theft: What to Investigate After the Rebuild",
-    "desc": "<p>An SNMP Set request can make a router write its own configuration to a file and send that file to an external system.</p>\n\n<p>That is the",
-    "link": "https://dev.to/kkierii/router-configuration-theft-what-to-investigate-after-the-rebuild-1lhb",
-    "topic": "general"
-  },
-  {
-    "title": "Before You Give an OpenClaw Contractor SSH Access, Run These 7 Redacted Checks",
-    "desc": "<p>Giving a contractor SSH access should not be the first step in an OpenClaw VPS project.</p>\n\n<p>Before anyone logs in, you can learn a su",
-    "link": "https://dev.to/moonshot_1341/before-you-give-an-openclaw-contractor-ssh-access-run-these-7-redacted-checks-2l64",
-    "topic": "general"
-  },
-  {
-    "title": "Top 9 Platforms to Buy USA Facebook Accounts in USA",
-    "desc": "<p>Buy Facebook accounts | Buy Verified Facebook Accounts<br />\nBuy Verified Facebook Accounts New aged , pva</p>\n\n<p>Are you ready to eleva",
-    "link": "https://dev.to/bert_s_c6879ae5aad667f7e7/top-9-platforms-to-buy-usa-facebook-accounts-in-usa-47gm",
-    "topic": "general"
-  },
-  {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent hours struggling to optimize my build process, only to realize that I was wasting tim",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-18ef",
     "topic": "general"
   }
 ]
