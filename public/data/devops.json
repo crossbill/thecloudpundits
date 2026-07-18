@@ -1,50 +1,50 @@
 [
   {
-    "title": "AES-GCM vs ChaCha20-Poly1305: A Practical Comparison for Protocol Designers",
-    "desc": "<p>If you build anything with transport security \u2014 VPNs, tunnels, messaging protocols, or encrypted overlay networks \u2014 you've met two domina",
-    "link": "https://dev.to/pstayet/aes-gcm-vs-chacha20-poly1305-a-practical-comparison-for-protocol-designers-5ef",
-    "topic": "general"
-  },
-  {
-    "title": "The OpenTofu Errors You'll Actually Hit (and How to Fix Them Fast)",
-    "desc": "<p>Every OpenTofu user hits the same wall of errors eventually, usually at the worst possible moment \u2014 mid-deploy, in CI, with a teammate wa",
-    "link": "https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e",
-    "topic": "general"
-  },
-  {
-    "title": "Blinding the State Informant: How Axiom Shield Weaponizes Client-Side Sandboxing Against EU Chat Control",
-    "desc": "<p>The regulatory push for EU Chat Control 2.0 has exposed a fundamental architectural vulnerability in modern operating systems. Government",
-    "link": "https://dev.to/gabrielgigitashvili044pixel/blinding-the-state-informant-how-axiom-shield-weaponizes-client-side-sandboxing-against-eu-chat-3bpj",
-    "topic": "general"
-  },
-  {
-    "title": "AI Worked Both Sides of the Security Ledger This Week. Here's What to Actually Run",
-    "desc": "<p>Two of the zero-days Microsoft patched on July 14 are being exploited right now. Here is the one-liner to check whether either is sitting",
-    "link": "https://dev.to/kkierii/ai-worked-both-sides-of-the-security-ledger-this-week-heres-what-to-actually-run-2071",
+    "title": "The EU Cyber Resilience Act Has an EOL Problem \u2014 and the Deadline Isn't the One You Think",
+    "desc": "<p><em>Originally published at <a href=\"https://endoflife.ai/article-eu-cra-eol-compliance\" rel=\"noopener noreferrer\">endoflife.ai</a>.</em>",
+    "link": "https://dev.to/endoflifeai/the-eu-cyber-resilience-act-has-an-eol-problem-and-the-deadline-isnt-the-one-you-think-294b",
     "topic": "secops"
   },
   {
-    "title": "Docker Compose verstehen: Services, Volumes, Netzwerke",
-    "desc": "<p>Im <a href=\"https://serverkueche.de/tutorials/docker-installieren/\" rel=\"noopener noreferrer\">Docker-Tutorial</a> hast du das Compose-Plu",
-    "link": "https://dev.to/serverkueche/docker-compose-verstehen-services-volumes-netzwerke-11je",
-    "topic": "docker"
-  },
-  {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours debugging a complex Rust project, only to realize that I could have saved hour",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-em8",
+    "title": "Pub-Sub (SNS) & Fan-out Architecture",
+    "desc": "<blockquote>\n<p><strong>One-liner:</strong> Pub-Sub lets publishers broadcast events to all interested subscribers without knowing who they ",
+    "link": "https://dev.to/gouranga-das-khulna/pub-sub-sns-fan-out-architecture-14l5",
     "topic": "general"
   },
   {
-    "title": "Code Review, Part 2: The Reviewer That Learned To Lie Better",
-    "desc": "<p>Several posts ago, I wrote about setting up a multi-agent adversarial code review process as part of my development pipeline. The premise",
-    "link": "https://dev.to/raleighschickel/code-review-part-2-the-reviewer-that-learned-to-lie-better-4901",
+    "title": "There's no standard status page, and other lessons from tracking 96 providers",
+    "desc": "<p>Your Slack won't load. Is it you, your VPN, the office wifi, or Slack? You open Slack's status page and it's green. It's often green whil",
+    "link": "https://dev.to/kerolos_atallah/theres-no-standard-status-page-and-other-lessons-from-tracking-96-providers-56k6",
     "topic": "general"
   },
   {
-    "title": "When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures",
-    "desc": "<p>A browser test can be green and still be wrong.</p>\n\n<p>It can pass because a mock returned an outdated response. It can fail because sta",
-    "link": "https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69",
+    "title": "I thought my agent needed a huge soul.md until a 52-word file worked better",
+    "desc": "<p>I used to think better agent behavior came from a bigger <code>soul.md</code>.</p>\n\n<p>You know the file:</p>\n\n<ul>\n<li>tone rules</li>\n<",
+    "link": "https://dev.to/lars_winstand/i-thought-my-agent-needed-a-huge-soulmd-until-a-52-word-file-worked-better-l87",
+    "topic": "general"
+  },
+  {
+    "title": "Flagsmith Alternative: Why Teams Switch to Rollgate",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://rollgate.io/blog/flagsmith-alternative\" rel=\"noopener noreferrer\">rollgate.io</a>.<",
+    "link": "https://dev.to/domenico_giordano_e441224/flagsmith-alternative-why-teams-switch-to-rollgate-4kf1",
+    "topic": "general"
+  },
+  {
+    "title": "The Economics of Self-Hosting vs. Managed Monitoring",
+    "desc": "<h2>\n  \n  \n  The \"Obvious\" Math That's Wrong\n</h2>\n\n<p>Engineer A: \"Datadog is $15K/month. Prometheus is free. We should self-host.\"</p>\n\n<p",
+    "link": "https://dev.to/samson_tanimawo/the-economics-of-self-hosting-vs-managed-monitoring-5cc5",
+    "topic": "general"
+  },
+  {
+    "title": "Best Self-Hosted Alternatives to Notion: 8 Open-Source Picks",
+    "desc": "<p>Open-source workspaces, wikis, and note tools you can run on your own server \u2014 and how to choose between them for data ownership, privacy",
+    "link": "https://dev.to/kimcomplete/best-self-hosted-alternatives-to-notion-8-open-source-picks-2ohl",
+    "topic": "general"
+  },
+  {
+    "title": "2026's Best Websites to Buy Verified Paxful Accounts In 2025/26",
+    "desc": "<p>Buy Verified Paxful Accounts</p>\n\n<p>\ud83c\udf10 24/7 Customer Support Available</p>\n\n<p>\ud83d\udcde WhatsApp: +1 (506) 541-7768</p>\n\n<p>\ud83d\udcf1 Telegram: <a href=",
+    "link": "https://dev.to/rubettaestejs8rv/2026s-best-websites-to-buy-verified-paxful-accounts-in-202526-2l4n",
     "topic": "general"
   }
 ]
