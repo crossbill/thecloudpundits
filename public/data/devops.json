@@ -1,50 +1,50 @@
 [
   {
-    "title": "GitHub Account Suspended? Protect Your Productivity & Access to Your GitHub Dashboard",
-    "desc": "<p>Imagine logging into GitHub, only to find your account suspended without warning. All your repositories, coursework, internship projects,",
-    "link": "https://dev.to/devactivity/github-account-suspended-protect-your-productivity-access-to-your-github-dashboard-5cgm",
+    "title": "Fifth challenge on DevOpsLedger",
+    "desc": "<p>Commit terraform.tfstate to the Repo So Everyone Shares It?</p>\n\n<p>A teammate wants to commit terraform.tfstate to git so the whole team",
+    "link": "https://dev.to/b00mgr3rt/fifth-challenge-on-devopsledger-2d56",
     "topic": "general"
   },
   {
-    "title": "Do you pin your base images in Dockerfile?",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>Using tags like latest or numeric versions (3.23.5) in your Dockerfile is dangerous because they are mutable an",
-    "link": "https://dev.to/nicolasv/do-you-pin-your-base-images-in-dockerfile-90a",
+    "title": "You don't need GPUS to run ai Use ODUUL CLOUD super servers",
+    "desc": "<p><a href=\"https://oduul.cloud/dedicated-servers-hosting-packages/\" rel=\"noopener noreferrer\">TEST ODUUL CLOUD SUPER SERVERS</a></p>\n\n\n\n<di",
+    "link": "https://dev.to/terry_james_66cb65d9ab8b5/you-dont-need-gpus-to-run-ai-use-oduul-cloud-super-servers-423p",
+    "topic": "general"
+  },
+  {
+    "title": "OpenTofu vs Terraform in 2026: What Actually Changed",
+    "desc": "<p>I've been running both Terraform and OpenTofu across production infra for a while now, and the number one question I still get is some ve",
+    "link": "https://dev.to/jjoyneriv/opentofu-vs-terraform-in-2026-what-actually-changed-2do7",
+    "topic": "terraform"
+  },
+  {
+    "title": "Deploying Laravel App to Ubuntu or Debian Server VM Azure",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/youssefahmedcs/deploy-laravel-app-on-an-azure-linux-vm-or-any-server-4jc8",
+    "topic": "azure"
+  },
+  {
+    "title": "JVM",
+    "desc": "<p>The <strong>Java Virtual Machine</strong> (JVM) is a software-based engine that executes Java programs. It allows Java applications to ru",
+    "link": "https://dev.to/ihsaan_muhammed_18/jvm-3p7e",
+    "topic": "general"
+  },
+  {
+    "title": "Instrument BookStack with OpenTelemetry and SigNoz Using Docker",
+    "desc": "<p>Deploying BookStack was the easy part. Understanding what was happening inside the application wasn't. Without visibility into incoming r",
+    "link": "https://dev.to/abdultalha08/instrument-bookstack-with-opentelemetry-and-signoz-using-docker-2191",
     "topic": "docker"
   },
   {
-    "title": "GitHub Actions Caching Strategy for Monorepos: Skipping Dependency Installation When Only Docs or Astro Marketing Changes",
-    "desc": "<h1>\n  \n  \n  GitHub Actions Caching Strategy for Monorepos: Skipping Dependency Installation When Only Docs or Astro Marketing Changes\n</h1>",
-    "link": "https://dev.to/uaslimcreate/github-actions-caching-strategy-for-monorepos-skipping-dependency-installation-when-only-docs-or-45pi",
+    "title": "Cleaning up Repository Bloat: Removing Redundant requirements.txt",
+    "desc": "<p><em>This is a submission for <a href=\"https://dev.to/bugsmash\">DEV's Summer Bug Smash: Clear the Lineup</a> powered by <a href=\"https://s",
+    "link": "https://dev.to/rohithtp/cleaning-up-repository-bloat-removing-redundant-requirementstxt-3akk",
     "topic": "general"
   },
   {
-    "title": "How to provide storage for the IT department testing and training",
-    "desc": "<p>Below are the step-by-step instructions for providing storage for the IT department testing and training.</p>\n\n<ul>\n<li><strong>login to ",
-    "link": "https://dev.to/enoghasejeremiah/how-to-provide-storage-for-the-it-department-testing-and-training-j3d",
-    "topic": "general"
-  },
-  {
-    "title": "Resource Sentinel MCP: stop local AI agents from melting the host",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sphillips1337/resource-sentinel-mcp-stop-local-ai-agents-from-melting-the-host-2hhb",
-    "topic": "general"
-  },
-  {
-    "title": "PromptOS: an AI-first Linux installer that never builds the same machine twice",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sphillips1337/promptos-an-ai-first-linux-installer-that-never-builds-the-same-machine-twice-f4f",
-    "topic": "general"
-  },
-  {
-    "title": "Three RabbitMQ Pitfalls on AKS That Can Also Happen on EKS",
-    "desc": "<p>Recently, I had an opportunity to perform minor version upgrades across a group of AKS clusters.</p>\n\n<p>As a prerequisite, I added the f",
-    "link": "https://dev.to/aws-builders/three-rabbitmq-pitfalls-on-aks-that-can-also-happen-on-eks-1cha",
-    "topic": "general"
-  },
-  {
-    "title": "Why I Stopped Writing Hardhat Deployment Scripts for Simple EVM Launches",
-    "desc": "<p>Every time I launch a new token or smart contract structure on an EVM chain, the worst part isn't writing the Solidity code\u2014it\u2019s dealing ",
-    "link": "https://dev.to/kowshikkumar1997/why-i-stopped-writing-hardhat-deployment-scripts-for-simple-evm-launches-51oe",
+    "title": "Hi everyone,",
+    "desc": "<p>Hi everyone,</p>\n\n<p>I built Code Healing AI because I got tired of switching between multiple tools just to debug code, scan for securit",
+    "link": "https://dev.to/santosh_nanavare_2baab6e9/hi-everyone-33pn",
     "topic": "general"
   }
 ]
