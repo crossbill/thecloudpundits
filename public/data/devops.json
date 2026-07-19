@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why $10B Meta-Anthropic talks matter: Measuring your agent\u2019s true cost-per-task",
-    "desc": "<p>CNBC reported that Meta Platforms and Anthropic are in early, preliminary talks; Quartz reported that the proposed arrangement could reac",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/why-10b-meta-anthropic-talks-matter-measuring-your-agents-true-cost-per-task-2c3e",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Building Your First Runbook: A Template That Actually Works",
-    "desc": "<p>Most runbooks are useless. Either they're too abstract ('check the logs') or they're a 40-page Confluence doc that nobody reads at 3 AM.<",
-    "link": "https://dev.to/samson_tanimawo/building-your-first-runbook-a-template-that-actually-works-3fma",
+    "title": "Repository-Level Copilot Metrics Need a Cardinality Budget Before Export",
+    "desc": "<p>Primary source: <a href=\"https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available/\" rel",
+    "link": "https://dev.to/odd_background_328/repository-level-copilot-metrics-need-a-cardinality-budget-before-export-2450",
     "topic": "general"
   },
   {
-    "title": "<InSource> argo-workflows #14615",
-    "desc": "<p>\u89e3\u6790 <a href=\"https://github.com/argoproj/argo-workflows/issues/14615#issuecomment-4894277872\" rel=\"noopener noreferrer\">#14615</a> \u9019\u500b issu",
-    "link": "https://dev.to/hchsu/argo-workflows-14615-3koo",
+    "title": "Treat Copilot Code-Review Instructions as Untrusted Policy Input",
+    "desc": "<p>Primary source: <a href=\"https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements/\" re",
+    "link": "https://dev.to/jaryn_123/treat-copilot-code-review-instructions-as-untrusted-policy-input-1if7",
     "topic": "general"
   },
   {
-    "title": "Sending Gmail from behind China's Great Firewall \u2014 six attempts that failed",
-    "desc": "<p>Last night I needed to send one email to <code>support@creem.io</code> from Guangzhou, China. Simple email \u2014 15 minutes to draft. Sending",
-    "link": "https://dev.to/baolin_tikool_43da6f2b56f/sending-gmail-from-behind-chinas-great-firewall-six-attempts-that-failed-1khf",
+    "title": "By Mid-2027 You'll Train LLMs From Scratch, Not Fine-Tune",
+    "desc": "<p>Here's a prediction I'll stand behind: by mid-2027, the default way to train a small-to-medium LLM will be from scratch, not from a check",
+    "link": "https://dev.to/o96a/by-mid-2027-youll-train-llms-from-scratch-not-fine-tune-2hec",
     "topic": "general"
   },
   {
-    "title": "MCP (Model Context Protocol) Explained: The Future of AI Integrations Every Developer Should Understand",
-    "desc": "<blockquote>\n<p>\ud83d\ude80 <strong>AI is becoming smarter every day. But intelligence alone isn't enough\u2014it also needs a standardized way to communic",
-    "link": "https://dev.to/yash_sonawane25/mcp-model-context-protocol-explained-the-future-of-ai-integrations-every-developer-should-3729",
+    "title": "I built a 100% client-side Docker Compose & Nginx/Caddy generator",
+    "desc": "<p>Hey everyone! \ud83d\udc4b</p>\n\n<p>As developers, we\u2019ve all been through the chore of writing boilerplate <code>docker-compose.yml</code> configs, s",
+    "link": "https://dev.to/gohar7260/i-built-a-100-client-side-docker-compose-nginxcaddy-generator-2moe",
+    "topic": "docker"
+  },
+  {
+    "title": "Why We Hold Every Failed Verify Now: The Fail-Open Gate That Shipped a Broken Build",
+    "desc": "<p><em>A green checkmark that meant \"I did not look\" shipped a broken build. The fix was not more tests but a verdict contract: a failed ver",
+    "link": "https://dev.to/vibeagentmaking/why-we-hold-every-failed-verify-now-the-fail-open-gate-that-shipped-a-broken-build-hai",
     "topic": "general"
   },
   {
-    "title": "I self-hosted SigNoz and fell in love with distributed tracing",
-    "desc": "<p>Every developer knows the feeling: the app is slow, or something is throwing errors, and you have <strong>no idea which part is at fault<",
-    "link": "https://dev.to/akshay_mehta_d11430adc73b/i-self-hosted-signoz-and-fell-in-love-with-distributed-tracing-2nnc",
+    "title": "850k Static Pages on One Server",
+    "desc": "<p>Engineering notes</p>\n\n<h1>\n  \n  \n  How we serve 850,000 static pages from one small server\n</h1>\n\n<p><strong>Dietly serves more than 850",
+    "link": "https://dev.to/dietly/850k-static-pages-on-one-server-3366",
     "topic": "general"
   },
   {
-    "title": "I Stopped My PostgreSQL Primary 10 Times to Measure Real RPO",
-    "desc": "<p>In my previous article, I used real measurements to show that lowering the DNS TTL does not necessarily make Route 53 failover faster. Th",
-    "link": "https://dev.to/leobagnolabs/i-stopped-my-postgresql-primary-10-times-to-measure-real-rpo-218p",
+    "title": "7 Simple WordPress SEO Tips That Can Improve Your Google Rankings",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/mufeedh/7-simple-wordpress-seo-tips-that-can-improve-your-google-rankings-4n7h",
     "topic": "general"
   },
   {
-    "title": "Getting Started with SigNoz: A Beginner's Journey into Observability",
-    "desc": "<h2>\n  \n  \n  Getting Started with SigNoz: A Beginner's Journey into Observability\n</h2>\n\n<p>Last week, I spent over three hours trying to fi",
-    "link": "https://dev.to/lochangowda10/getting-started-with-signoz-a-beginners-journey-into-observability-4fg0",
+    "title": "Free Sparring Prep: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/free-sparring-prep-what-we-learned-building-random-tactical-timer-55k2",
     "topic": "general"
   }
 ]
