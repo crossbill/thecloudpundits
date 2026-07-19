@@ -1,50 +1,50 @@
 [
   {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours manually building and managing my Rust project, only to realize that I could h",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-2fp4",
-    "topic": "general"
-  },
-  {
-    "title": "\ud83d\udc33 Docker Basics Every Beginner Should Know",
-    "desc": "<p>When I started learning Docker, I quickly realized that understanding a few core concepts and commands makes working with containers much",
-    "link": "https://dev.to/themdmohiuddin/docker-basics-every-beginner-should-know-26oe",
-    "topic": "docker"
-  },
-  {
-    "title": "Understanding Terraform Expressions: Conditional, Dynamic Blocks, and Splat Expressions",
-    "desc": "<p><strong>Terraform Expressions Overview</strong><br />\nTerraform expressions offer concise, reusable ways to derive values or generate mul",
-    "link": "https://dev.to/brian_mengo/understanding-terraform-expressions-conditional-dynamic-blocks-and-splat-expressions-4i36",
-    "topic": "terraform"
-  },
-  {
-    "title": "How to Use Claude to Find Jobs: Scrape LinkedIn with Apify (2026 Guide)",
-    "desc": "<p>Connect Claude to Apify and pull fresh job postings from LinkedIn filtered to the last 24 hours straight into an Excel sheet. Plus how to",
-    "link": "https://dev.to/devopslesson/how-to-use-claude-to-find-jobs-scrape-linkedin-with-apify-2026-guide-e3l",
+    "title": "On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment (Setup Guide)",
+    "desc": "<p>The security officer said no.</p>\n\n<p>Not \"maybe with some modifications.\" Not \"let us review the data handling policy.\" No. Cloud-hosted",
+    "link": "https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h",
     "topic": "anthropic"
   },
   {
-    "title": "SA.tech",
-    "desc": "<p>\ud83c\uddff\ud83c\udde6 <strong>SA.tech</strong><br />\nWhere South Africans in tech connect, collaborate, and grow.<br />\nDevs, designers, founders, data, and",
-    "link": "https://dev.to/life_hack/satech-303o",
+    "title": "12 GitHub Actions Workflows That Will Quietly Save Your DevOps Team Hours Every Week",
+    "desc": "<p>If your team is still manually running tests, tagging releases, or nudging people about stale PRs \u2014 you're leaving a lot of free automati",
+    "link": "https://dev.to/amayo_clinton/12-github-actions-workflows-that-will-quietly-save-your-devops-team-hours-every-week-2j6d",
     "topic": "general"
   },
   {
-    "title": "Workflow v\u1edbi Thunderbolt Dock tr\u00ean Asus Gaming V16 V3607",
-    "desc": "<p>Asus Gaming V16 V3607 2025 v\u1edbi b\u1ed9 x\u1eed l\u00fd Intel Core 5 210H (8 nh\u00e2n, 12 lu\u1ed3ng, TDP 45W) l\u00e0 m\u1ed9t gi\u1ea3i ph\u00e1p lai t\u1ed1i \u01b0u cho h\u1ecdc t\u1eadp v\u00e0 \u0111a nhi\u1ec7m",
-    "link": "https://dev.to/hung_phatlaptop_a651fc86/workflow-voi-thunderbolt-dock-tren-asus-gaming-v16-v3607-m5i",
+    "title": "Agentic AI Is Changing How Developers Write Code \u2014 Here's What You Need to Know",
+    "desc": "<h2>\n  \n  \n  Overview\n</h2>\n\n<p>Agentic AI is the next step beyond simple code-completion tools. Instead of just suggesting the next line of",
+    "link": "https://dev.to/haroonsaeed/agentic-ai-is-changing-how-developers-write-code-heres-what-you-need-to-know-3ldg",
     "topic": "general"
   },
   {
-    "title": "Repository-Level Copilot Metrics Need a Cardinality Budget Before Export",
-    "desc": "<p>Primary source: <a href=\"https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available/\" rel",
-    "link": "https://dev.to/odd_background_328/repository-level-copilot-metrics-need-a-cardinality-budget-before-export-2450",
+    "title": "How to Automate PagerDuty Incident Triage with n8n and Claude (Step by Step)",
+    "desc": "<p>If you're on call, you know the worst part isn't the hard incidents \u2014 it's the first five minutes of every page, half-awake, trying to fi",
+    "link": "https://dev.to/nightshiftlabs/how-to-automate-pagerduty-incident-triage-with-n8n-and-claude-step-by-step-2ck8",
+    "topic": "anthropic"
+  },
+  {
+    "title": "From Side Project to Production Tool: What 8 Releases of tfdrift Taught Me About Building DevOps Tooling",
+    "desc": "<p>Three months ago, tfdrift was 60 lines of Python that shelled out to terraform plan and printed a colored table. Today it has incremental",
+    "link": "https://dev.to/sudarshan_thakur_1e141b99/from-side-project-to-production-tool-what-8-releases-of-tfdrift-taught-me-about-building-devops-30m8",
     "topic": "general"
   },
   {
-    "title": "Treat Copilot Code-Review Instructions as Untrusted Policy Input",
-    "desc": "<p>Primary source: <a href=\"https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements/\" re",
-    "link": "https://dev.to/jaryn_123/treat-copilot-code-review-instructions-as-untrusted-policy-input-1if7",
+    "title": "Running FFmpeg on Heroku: The Ephemeral-Filesystem Trap (and the Fix)",
+    "desc": "<p><em>Originally published at <a href=\"https://www.ffmpeg-micro.com/blog/ffmpeg-heroku-ephemeral-filesystem-fix\" rel=\"noopener noreferrer\">",
+    "link": "https://dev.to/javidjamae/running-ffmpeg-on-heroku-the-ephemeral-filesystem-trap-and-the-fix-4i39",
+    "topic": "general"
+  },
+  {
+    "title": "Day 86: Faster Map Key Lookups in ClickHouse\u00ae 26.3 with Bucketed Map Serialization",
+    "desc": "<p>Semi-structured data has become a standard part of modern analytics. Whether you're storing application logs, telemetry, user attributes,",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-86-faster-map-key-lookups-in-clickhouser-263-with-bucketed-map-serialization-21ha",
+    "topic": "general"
+  },
+  {
+    "title": "From Exit 139 to HTTP 402: Following One Payment Failure Across SigNoz",
+    "desc": "<p><em>How I self-hosted SigNoz on WSL2, recovered a crashing telemetry pipeline, and followed one payment failure across metrics, traces, l",
+    "link": "https://dev.to/tyson1234/from-exit-139-to-http-402-following-one-payment-failure-across-signoz-3196",
     "topic": "general"
   }
 ]
