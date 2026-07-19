@@ -1,50 +1,50 @@
 [
   {
+    "title": "We launched Zalanx \u2014 security monitoring for lean SaaS teams",
+    "desc": "<p>We launched Zalanx today \u2014 security monitoring for lean SaaS teams.</p>\n\n<p>Most SaaS teams already use several tools across cloud, ident",
+    "link": "https://dev.to/zalanx/we-launched-zalanx-security-monitoring-for-lean-saas-teams-1foe",
+    "topic": "secops"
+  },
+  {
+    "title": "Kubernetes: correos de rollback sin confusi\u00f3n",
+    "desc": "<p>En muchos equipos SRE, el rollback en Kubernetes ya est\u00e1 bastante automatizado. Lo que sigue flojo, curiosamente, es el correo que avisa ",
+    "link": "https://dev.to/alexcarteruk/kubernetes-correos-de-rollback-sin-confusion-bk4",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Alarmas que despiertan por causa real, no por un n\u00famero random",
+    "desc": "<p>El escenario es un trabajo en segundo plano en una plataforma de<br />\ncomunidad: un matcher nocturno que empareja items nuevos contra un",
+    "link": "https://dev.to/aws-builders/alarmas-que-despiertan-por-causa-no-por-un-numero-mkm",
+    "topic": "general"
+  },
+  {
+    "title": "DevOps Is About Shipping Software. Platform Engineering Is About Scaling the Way Teams Ship.",
+    "desc": "<p>Infrastructure teams are changing roles as organizations adopt cloud native technologies. DevOps is all about improving collaboration, au",
+    "link": "https://dev.to/gaurav_singh_b1c98a01104e/devops-is-about-shipping-software-platform-engineering-is-about-scaling-the-way-teams-ship-408",
+    "topic": "general"
+  },
+  {
+    "title": "The Rise of Local AI Models for Developers",
+    "desc": "<p>Local AI <a>models are becoming</a> increasingly popular among developers because they provide greater privacy, faster response times, an",
+    "link": "https://dev.to/sharafat_ali_8c9a8ff2bee7/the-rise-of-local-ai-models-for-developers-oek",
+    "topic": "general"
+  },
+  {
+    "title": "Migrating from Terraform to OpenTofu: A Low-Risk Playbook",
+    "desc": "<p>I've migrated a few real environments from Terraform to OpenTofu now, and the good news is that a careful migration is almost boring. The",
+    "link": "https://dev.to/jjoyneriv/migrating-from-terraform-to-opentofu-a-low-risk-playbook-1g",
+    "topic": "terraform"
+  },
+  {
+    "title": "How to Optimize robots.txt for AI Crawlers in 2026",
+    "desc": "<p>The most common robots.txt mistake I see in 2026 is treating \"AI bots\" as a single group and blocking all of them with one rule. That dec",
+    "link": "https://dev.to/natalie_seeklab_4ce72aa3b/how-to-optimize-robotstxt-for-ai-crawlers-in-2026-4k6j",
+    "topic": "general"
+  },
+  {
     "title": "On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment (Setup Guide)",
     "desc": "<p>The security officer said no.</p>\n\n<p>Not \"maybe with some modifications.\" Not \"let us review the data handling policy.\" No. Cloud-hosted",
     "link": "https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h",
     "topic": "anthropic"
-  },
-  {
-    "title": "12 GitHub Actions Workflows That Will Quietly Save Your DevOps Team Hours Every Week",
-    "desc": "<p>If your team is still manually running tests, tagging releases, or nudging people about stale PRs \u2014 you're leaving a lot of free automati",
-    "link": "https://dev.to/amayo_clinton/12-github-actions-workflows-that-will-quietly-save-your-devops-team-hours-every-week-2j6d",
-    "topic": "general"
-  },
-  {
-    "title": "Agentic AI Is Changing How Developers Write Code \u2014 Here's What You Need to Know",
-    "desc": "<h2>\n  \n  \n  Overview\n</h2>\n\n<p>Agentic AI is the next step beyond simple code-completion tools. Instead of just suggesting the next line of",
-    "link": "https://dev.to/haroonsaeed/agentic-ai-is-changing-how-developers-write-code-heres-what-you-need-to-know-3ldg",
-    "topic": "general"
-  },
-  {
-    "title": "How to Automate PagerDuty Incident Triage with n8n and Claude (Step by Step)",
-    "desc": "<p>If you're on call, you know the worst part isn't the hard incidents \u2014 it's the first five minutes of every page, half-awake, trying to fi",
-    "link": "https://dev.to/nightshiftlabs/how-to-automate-pagerduty-incident-triage-with-n8n-and-claude-step-by-step-2ck8",
-    "topic": "anthropic"
-  },
-  {
-    "title": "From Side Project to Production Tool: What 8 Releases of tfdrift Taught Me About Building DevOps Tooling",
-    "desc": "<p>Three months ago, tfdrift was 60 lines of Python that shelled out to terraform plan and printed a colored table. Today it has incremental",
-    "link": "https://dev.to/sudarshan_thakur_1e141b99/from-side-project-to-production-tool-what-8-releases-of-tfdrift-taught-me-about-building-devops-30m8",
-    "topic": "general"
-  },
-  {
-    "title": "Running FFmpeg on Heroku: The Ephemeral-Filesystem Trap (and the Fix)",
-    "desc": "<p><em>Originally published at <a href=\"https://www.ffmpeg-micro.com/blog/ffmpeg-heroku-ephemeral-filesystem-fix\" rel=\"noopener noreferrer\">",
-    "link": "https://dev.to/javidjamae/running-ffmpeg-on-heroku-the-ephemeral-filesystem-trap-and-the-fix-4i39",
-    "topic": "general"
-  },
-  {
-    "title": "Day 86: Faster Map Key Lookups in ClickHouse\u00ae 26.3 with Bucketed Map Serialization",
-    "desc": "<p>Semi-structured data has become a standard part of modern analytics. Whether you're storing application logs, telemetry, user attributes,",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-86-faster-map-key-lookups-in-clickhouser-263-with-bucketed-map-serialization-21ha",
-    "topic": "general"
-  },
-  {
-    "title": "From Exit 139 to HTTP 402: Following One Payment Failure Across SigNoz",
-    "desc": "<p><em>How I self-hosted SigNoz on WSL2, recovered a crashing telemetry pipeline, and followed one payment failure across metrics, traces, l",
-    "link": "https://dev.to/tyson1234/from-exit-139-to-http-402-following-one-payment-failure-across-signoz-3196",
-    "topic": "general"
   }
 ]
