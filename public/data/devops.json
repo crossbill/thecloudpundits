@@ -1,5 +1,17 @@
 [
   {
+    "title": "How We Cut Datadog Bills by 60% Without Losing Observability",
+    "desc": "<p>Last year our Datadog bill hit $38k/month. Leadership asked me to cut it in half. Here's how we got to $15k without losing a single usefu",
+    "link": "https://dev.to/samson_tanimawo/how-we-cut-datadog-bills-by-60-without-losing-observability-2d0p",
+    "topic": "general"
+  },
+  {
+    "title": "A One-Weekend AI Build Stack (and the day I finally made peace with IAM)",
+    "desc": "<p>I spent this weekend finally joining the vibe coding revolution: not by writing much code \u2014 but building the thing that writes it.</p>\n\n<",
+    "link": "https://dev.to/jsulaiman/a-one-weekend-ai-build-stack-and-the-day-i-finally-made-peace-with-iam-17fd",
+    "topic": "secops"
+  },
+  {
     "title": "Learn grok-build in 5 Mins",
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours manually configuring my project build process, only to realize that I could ha",
     "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-3le5",
@@ -34,17 +46,5 @@
     "desc": "<p>Small businesses can benefit from managed IT services in 2026 by outsourcing day-to-day technology operations to a specialized partner th",
     "link": "https://dev.to/esparksit/how-managed-it-services-help-small-businesses-in-2026-3pmh",
     "topic": "general"
-  },
-  {
-    "title": "We launched Zalanx \u2014 security monitoring for lean SaaS teams",
-    "desc": "<p>We launched Zalanx today \u2014 security monitoring for lean SaaS teams.</p>\n\n<p>Most SaaS teams already use several tools across cloud, ident",
-    "link": "https://dev.to/zalanx/we-launched-zalanx-security-monitoring-for-lean-saas-teams-1foe",
-    "topic": "secops"
-  },
-  {
-    "title": "Kubernetes: correos de rollback sin confusi\u00f3n",
-    "desc": "<p>En muchos equipos SRE, el rollback en Kubernetes ya est\u00e1 bastante automatizado. Lo que sigue flojo, curiosamente, es el correo que avisa ",
-    "link": "https://dev.to/alexcarteruk/kubernetes-correos-de-rollback-sin-confusion-bk4",
-    "topic": "kubernetes"
   }
 ]
