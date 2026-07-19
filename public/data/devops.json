@@ -1,5 +1,35 @@
 [
   {
+    "title": "Mastering systemd, SSH, and Package Management",
+    "desc": "<h1>\n  \n  \n  Week 5 of My DevSecOps Journey \u2014 systemd, SSH & Package Management\n</h1>\n\n<p>This week was all about how a Linux server <em>act",
+    "link": "https://dev.to/dharam_in/mastering-systemd-ssh-and-package-management-13d5",
+    "topic": "general"
+  },
+  {
+    "title": "The Macstab Chaos Stack: Testing the Vertical From Syscall to CI Pipeline",
+    "desc": "<blockquote>\n<p>\ud83c\udfa5 <strong>Video walkthrough coming soon</strong> \u2014 subscribe on the <strong><a href=\"https://www.youtube.com/@MacstabEnginee",
+    "link": "https://dev.to/christian_schnapka_19de9f/the-macstab-chaos-stack-testing-the-vertical-from-syscall-to-ci-pipeline-25fm",
+    "topic": "general"
+  },
+  {
+    "title": "Cron Jobs Fail Quietly. Here\u2019s the Monitoring Setup I\u2019d Use First",
+    "desc": "<p>Cron jobs fail in a different way than web pages.</p>\n\n<p>A homepage failure is visible. A bad deploy breaks something a user can click. ",
+    "link": "https://dev.to/captain_cole/cron-jobs-fail-quietly-heres-the-monitoring-setup-id-use-first-2mm6",
+    "topic": "general"
+  },
+  {
+    "title": "Demystifying LLM Tokenizers: Building a Client-Side Token and API Cost Calculator",
+    "desc": "<p>If you are building applications with large language models (LLMs) like OpenAI's GPT-4o, Anthropic's Claude 3.5, or Google's Gemini 1.5, ",
+    "link": "https://dev.to/kandz/demystifying-llm-tokenizers-building-a-client-side-token-and-api-cost-calculator-56pn",
+    "topic": "general"
+  },
+  {
+    "title": "Learn grok-build in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours debugging a complex Rust project, only to realize that I was using a suboptim",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-7n4",
+    "topic": "general"
+  },
+  {
     "title": "Telemetry Mitigation Report: Optimizing TCP Overhead and Neutralizing Cross-Site Scrapers via Secure Hubs",
     "desc": "<p>Structural Inefficiencies in Commercial Search Architecture<br />\nA granular breakdown of public data gateways reveals that up to thirty-",
     "link": "https://dev.to/darasem_9351c04dfc03d625e/telemetry-mitigation-report-optimizing-tcp-overhead-and-neutralizing-cross-site-scrapers-via-3bn2",
@@ -16,35 +46,5 @@
     "desc": "<p>Azure Cobalt 200 puts Rowhammer protection in Microsoft's custom memory controller, close to DRAM.</p>\n\n<p>That should get a platform eng",
     "link": "https://dev.to/tran_tienvan_e45fc26d655/beyond-the-hypervisor-how-azure-cobalt-200-changes-multi-tenant-isolation-2p78",
     "topic": "azure"
-  },
-  {
-    "title": "How We Banished \"Latest\" and Made Rollbacks Instant",
-    "desc": "<p>Stop using :latest in production. Here\u2019s why\u2014and how we did it.</p>\n\n<p>The Problem We All Know<br />\nIt starts innocently enough:</p>\n\n<",
-    "link": "https://dev.to/sohanaakbar7/how-we-banished-latest-and-made-rollbacks-instant-3fpa",
-    "topic": "general"
-  },
-  {
-    "title": "Holen Sie Ihren Terraform-State aus dem \u00f6ffentlichen Internet (ohne ein VPN aufzubauen)",
-    "desc": "<p>Ihre Terraform-State-Datei ist das mit Abstand sensibelste Artefakt in Ihrer Cloud. Sie ist eine vollst\u00e4ndige Landkarte jeder Ressource, ",
-    "link": "https://dev.to/authagonal/holen-sie-ihren-terraform-state-aus-dem-offentlichen-internet-ohne-ein-vpn-aufzubauen-3j1i",
-    "topic": "terraform"
-  },
-  {
-    "title": "cidx v2.1.0 \u2014 the most useful output of a release was its seven bug reports",
-    "desc": "<p><strong>cidx is a declarative CI/CD runner I build</strong> (in Go) \u2014 you describe your pipeline once, it runs the same locally and in CI",
-    "link": "https://dev.to/arcker/cidx-v210-the-most-useful-output-of-a-release-was-its-seven-bug-reports-43lf",
-    "topic": "general"
-  },
-  {
-    "title": "I Self-Hosted SigNoz on AWS EC2 From Scratch \u2014 Every Wall I Hit and How I Fixed It",
-    "desc": "<p>The WeMakeDevs \"Agents of SigNoz\" hackathon said: self-host SigNoz, instrument a real app, send data. Simple enough on paper. Two hours a",
-    "link": "https://dev.to/ifeoluwa_afolabiafoxcut/i-self-hosted-signoz-on-aws-ec2-from-scratch-every-wall-i-hit-and-how-i-fixed-it-5d72",
-    "topic": "aws"
-  },
-  {
-    "title": "Two ways to reuse a privileged CI token (and my rule only caught one)",
-    "desc": "<p>I shipped a security rule this week, looked at it again the next morning, and realized it only caught half the bug it was supposed to cat",
-    "link": "https://dev.to/kielltampubolon/two-ways-to-reuse-a-privileged-ci-token-and-my-rule-only-caught-one-l1p",
-    "topic": "general"
   }
 ]
