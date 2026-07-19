@@ -1,5 +1,29 @@
 [
   {
+    "title": "Building a Production-Ready CI/CD Pipeline on AWS: From Empty Terraform Files to a Live, Monitored, Auto-Deploying App",
+    "desc": "<p>Learn how to build a complete containerized deployment pipeline on AWS\u2014 VPC, ECR, ECS Fargate, an Application Load Balancer with HTTPS, C",
+    "link": "https://dev.to/adedejicloud/building-a-production-ready-cicd-pipeline-on-aws-from-empty-terraform-files-to-a-live-monitored-4kbm",
+    "topic": "aws"
+  },
+  {
+    "title": "Auditing a Laravel App's Security in One Command (No Terminal Required)",
+    "desc": "<p>Most security tools ask a lot of you before they tell you anything: create a cloud account, wire up CI, install a scanner and its depende",
+    "link": "https://dev.to/getobserver205/auditing-a-laravel-apps-security-in-one-command-no-terminal-required-23h8",
+    "topic": "secops"
+  },
+  {
+    "title": "100 Days of DevOps and Cloud (AWS), Day 14: Restoring a Broken httpd, and the One EC2 Command With No Undo",
+    "desc": "<p>Some commands you can walk back. Terminating an EC2 instance is not one of them. Day 14 paired a recoverable problem, a web server knocke",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-14-restoring-a-broken-httpd-and-the-one-ec2-command-with-1fpg",
+    "topic": "aws"
+  },
+  {
+    "title": "How Managed IT Services Help Small Businesses in 2026",
+    "desc": "<p>Small businesses can benefit from managed IT services in 2026 by outsourcing day-to-day technology operations to a specialized partner th",
+    "link": "https://dev.to/esparksit/how-managed-it-services-help-small-businesses-in-2026-3pmh",
+    "topic": "general"
+  },
+  {
     "title": "We launched Zalanx \u2014 security monitoring for lean SaaS teams",
     "desc": "<p>We launched Zalanx today \u2014 security monitoring for lean SaaS teams.</p>\n\n<p>Most SaaS teams already use several tools across cloud, ident",
     "link": "https://dev.to/zalanx/we-launched-zalanx-security-monitoring-for-lean-saas-teams-1foe",
@@ -22,29 +46,5 @@
     "desc": "<p>Infrastructure teams are changing roles as organizations adopt cloud native technologies. DevOps is all about improving collaboration, au",
     "link": "https://dev.to/gaurav_singh_b1c98a01104e/devops-is-about-shipping-software-platform-engineering-is-about-scaling-the-way-teams-ship-408",
     "topic": "general"
-  },
-  {
-    "title": "The Rise of Local AI Models for Developers",
-    "desc": "<p>Local AI <a>models are becoming</a> increasingly popular among developers because they provide greater privacy, faster response times, an",
-    "link": "https://dev.to/sharafat_ali_8c9a8ff2bee7/the-rise-of-local-ai-models-for-developers-oek",
-    "topic": "general"
-  },
-  {
-    "title": "Migrating from Terraform to OpenTofu: A Low-Risk Playbook",
-    "desc": "<p>I've migrated a few real environments from Terraform to OpenTofu now, and the good news is that a careful migration is almost boring. The",
-    "link": "https://dev.to/jjoyneriv/migrating-from-terraform-to-opentofu-a-low-risk-playbook-1g",
-    "topic": "terraform"
-  },
-  {
-    "title": "How to Optimize robots.txt for AI Crawlers in 2026",
-    "desc": "<p>The most common robots.txt mistake I see in 2026 is treating \"AI bots\" as a single group and blocking all of them with one rule. That dec",
-    "link": "https://dev.to/natalie_seeklab_4ce72aa3b/how-to-optimize-robotstxt-for-ai-crawlers-in-2026-4k6j",
-    "topic": "general"
-  },
-  {
-    "title": "On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment (Setup Guide)",
-    "desc": "<p>The security officer said no.</p>\n\n<p>Not \"maybe with some modifications.\" Not \"let us review the data handling policy.\" No. Cloud-hosted",
-    "link": "https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h",
-    "topic": "anthropic"
   }
 ]
