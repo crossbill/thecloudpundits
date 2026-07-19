@@ -1,5 +1,17 @@
 [
   {
+    "title": "Learn grok-build in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours manually configuring my project build process, only to realize that I could ha",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-3le5",
+    "topic": "general"
+  },
+  {
+    "title": "GhostApproval: When an AI Coding Agent Shows the Wrong File in Its Approval Dialog",
+    "desc": "<p>An approval dialog is only useful when it tells the user what the system will actually do.</p>\n\n<p>GhostApproval exposed a gap between th",
+    "link": "https://dev.to/jfisher4002/ghostapproval-when-an-ai-coding-agent-shows-the-wrong-file-in-its-approval-dialog-53km",
+    "topic": "general"
+  },
+  {
     "title": "Building a Production-Ready CI/CD Pipeline on AWS: From Empty Terraform Files to a Live, Monitored, Auto-Deploying App",
     "desc": "<p>Learn how to build a complete containerized deployment pipeline on AWS\u2014 VPC, ECR, ECS Fargate, an Application Load Balancer with HTTPS, C",
     "link": "https://dev.to/adedejicloud/building-a-production-ready-cicd-pipeline-on-aws-from-empty-terraform-files-to-a-live-monitored-4kbm",
@@ -34,17 +46,5 @@
     "desc": "<p>En muchos equipos SRE, el rollback en Kubernetes ya est\u00e1 bastante automatizado. Lo que sigue flojo, curiosamente, es el correo que avisa ",
     "link": "https://dev.to/alexcarteruk/kubernetes-correos-de-rollback-sin-confusion-bk4",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Alarmas que despiertan por causa real, no por un n\u00famero random",
-    "desc": "<p>El escenario es un trabajo en segundo plano en una plataforma de<br />\ncomunidad: un matcher nocturno que empareja items nuevos contra un",
-    "link": "https://dev.to/aws-builders/alarmas-que-despiertan-por-causa-no-por-un-numero-mkm",
-    "topic": "general"
-  },
-  {
-    "title": "DevOps Is About Shipping Software. Platform Engineering Is About Scaling the Way Teams Ship.",
-    "desc": "<p>Infrastructure teams are changing roles as organizations adopt cloud native technologies. DevOps is all about improving collaboration, au",
-    "link": "https://dev.to/gaurav_singh_b1c98a01104e/devops-is-about-shipping-software-platform-engineering-is-about-scaling-the-way-teams-ship-408",
-    "topic": "general"
   }
 ]
