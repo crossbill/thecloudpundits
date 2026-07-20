@@ -1,50 +1,50 @@
 [
   {
+    "title": "Best 10 Places to Buy Naver Accounts (Verified & Ready ...",
+    "desc": "<p>Buy Naver Accounts: Complete Guide to Features, Security, Risks & Responsible Account Management (2026)<br />\nIntroduction<br />\n\ud83d\udcde Contac",
+    "link": "https://dev.to/eilisfarleypgmnm/best-10-places-to-buy-naver-accounts-verified-ready--5b24",
+    "topic": "general"
+  },
+  {
+    "title": "I put an AI agent on a timer. Overnight it burned 136M tokens doing almost nothing.",
+    "desc": "<p>To keep one of our AI-agent projects moving without me, I did the obvious thing: I gave the<br />\norchestrating agent a scheduled wake-up",
+    "link": "https://dev.to/wartzarbee/i-put-an-ai-agent-on-a-timer-overnight-it-burned-136m-tokens-doing-almost-nothing-2ae2",
+    "topic": "general"
+  },
+  {
+    "title": "Gold Eagle Can't Patch What Nobody Maintains: The EOL Hole in the White House's New Vulnerability Pipeline",
+    "desc": "<p>On July 14, the White House launched <strong>Gold Eagle</strong>, a national vulnerability coordination clearinghouse created by <a href=",
+    "link": "https://dev.to/endoflifeai/gold-eagle-cant-patch-what-nobody-maintains-the-eol-hole-in-the-white-houses-new-vulnerability-18bk",
+    "topic": "secops"
+  },
+  {
+    "title": "Learn grok-build in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent hours struggling to set up a new build tool for my Rust project, only to realize that",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-583l",
+    "topic": "general"
+  },
+  {
+    "title": "When Does Self-Hosting an LLM Actually Beat the API? The Break-Even Math",
+    "desc": "<p>Every team I've worked with hits the same argument about three months after shipping something on top of an LLM: <em>\"Should we still be ",
+    "link": "https://dev.to/framz/when-does-self-hosting-an-llm-actually-beat-the-api-the-break-even-math-gl1",
+    "topic": "general"
+  },
+  {
+    "title": "The Four Layers of Cloud Lock-In (and How Terraform Cuts Your Exit Cost)",
+    "desc": "<p>People throw around \"vendor lock-in\" like it's a binary \u2014 you either have it or you don't. That framing is why the conversation usually g",
+    "link": "https://dev.to/framz/the-four-layers-of-cloud-lock-in-and-how-terraform-cuts-your-exit-cost-17he",
+    "topic": "terraform"
+  },
+  {
+    "title": "Replit's AI Agent Deleted a Production Database During a Code Freeze. Then It Said Rollback Was Impossible. It Wasn't.",
+    "desc": "<p><em>The destructive action was recoverable in minutes. The agent's false claim that it wasn't is what nearly made the loss permanent. Rea",
+    "link": "https://dev.to/vibeagentmaking/replits-ai-agent-deleted-a-production-database-during-a-code-freeze-then-it-said-rollback-was-1ngl",
+    "topic": "general"
+  },
+  {
     "title": "100 Days of DevOps and Cloud (AWS), Day 15: HTTPS on Nginx, and the Incremental Trick That Makes Snapshots Cheap",
     "desc": "<p>Test before you reload. That one habit is the whole difference between a config change and an outage, and it is baked into how you work w",
     "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-15-https-on-nginx-and-the-incremental-trick-that-makes-nc5",
-    "topic": "aws"
-  },
-  {
-    "title": "Cloudflare Internal DNS is now generally available",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/cloudflare-internal-dns-is-now-generally-available\" rel=\"noopene",
-    "link": "https://dev.to/rasne/cloudflare-internal-dns-is-now-generally-available-43nf",
-    "topic": "general"
-  },
-  {
-    "title": "One login to rule them all: centralized auth for internal tools with Caddy",
-    "desc": "<p>I am lazy. Not in the <em>\"I don't want to work\"</em> sense<sup id=\"fnref1\">1</sup>, but in the <em>\"I refuse to solve the same problem t",
-    "link": "https://dev.to/hypertesto/one-login-to-rule-them-all-centralized-auth-for-internal-tools-with-caddy-3fof",
-    "topic": "general"
-  },
-  {
-    "title": "The 7 Decisions That Quietly Decide Whether Your App Survives",
-    "desc": "<p>Your app doesn't crash because of bad code. It crashes because of the decisions you never made.</p>\n\n<p>Where does your data actually liv",
-    "link": "https://dev.to/mehedihasan712277/the-7-decisions-that-quietly-decide-whether-your-app-survives-507h",
-    "topic": "general"
-  },
-  {
-    "title": "Local Kubernetes Dev \u2014 Part 1: The inner dev loop and why run a cluster locally",
-    "desc": "<p>A second ago your dev loop was instant \u2014 now every code change costs you 2\u20135 minutes.</p>\n\n<p>Sound familiar? You finished a service, it ",
-    "link": "https://dev.to/mikhail_dorokhovich_0c532/local-kubernetes-dev-part-1-the-inner-dev-loop-and-why-run-a-cluster-locally-3go8",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "75 Companies Exposed the Real AI Cost Problem. It's Not the Models \u2014 It's the Routing.",
-    "desc": "<p>A YC-backed startup recently shared findings from 75+ customer conversations across every industry. One theme dominated everything else:<",
-    "link": "https://dev.to/aplomb2/75-companies-exposed-the-real-ai-cost-problem-its-not-the-models-its-the-routing-3509",
-    "topic": "general"
-  },
-  {
-    "title": "A Green Backup Job Is Not a Recovery Test: Run a Safe Restore Drill with DBAegis",
-    "desc": "<p>Disclosure: I am part of the team building DBAegis.</p>\n\n<p>A backup job that ends in <code>SUCCESS</code> proves that a command complete",
-    "link": "https://dev.to/ilogicsoft_8a100b932089aa/a-green-backup-job-is-not-a-recovery-test-run-a-safe-restore-drill-with-dbaegis-2b2g",
-    "topic": "general"
-  },
-  {
-    "title": "Scanning AWS Lambda for Vulnerabilities with Amazon Inspector",
-    "desc": "<p>Recently completed a hands-on lab on using <strong>Amazon Inspector</strong> to scan AWS Lambda functions for vulnerabilities \u2014 here's a ",
-    "link": "https://dev.to/muhammad-nadeem/scanning-aws-lambda-for-vulnerabilities-with-amazon-inspector-305m",
     "topic": "aws"
   }
 ]
