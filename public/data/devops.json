@@ -1,50 +1,50 @@
 [
   {
-    "title": "Day 87 - Standard-Compliant NOT Operator in ClickHouse\u00ae 26.3: Breaking Changes Explained",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Every new ClickHouse\u00ae release brings performance improvements, new features, and occasionally behavioral",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-87-standard-compliant-not-operator-in-clickhouser-263-breaking-changes-explained-50f0",
+    "title": "75 Companies Exposed the Real AI Cost Problem. It's Not the Models \u2014 It's the Routing.",
+    "desc": "<p>A YC-backed startup recently shared findings from 75+ customer conversations across every industry. One theme dominated everything else:<",
+    "link": "https://dev.to/aplomb2/75-companies-exposed-the-real-ai-cost-problem-its-not-the-models-its-the-routing-3509",
     "topic": "general"
   },
   {
-    "title": "5 'Backdoors Silenciosas' en Docker que tus Devs IGNORAN (Julio 2026)",
-    "desc": "<p><em>Descubre las vulnerabilidades ocultas en tus contenedores Docker que exponen tu infraestructura a ataques silenciosos y c\u00f3mo mitigarl",
-    "link": "https://dev.to/angelh/5-backdoors-silenciosas-en-docker-que-tus-devs-ignoran-julio-2026-33c",
-    "topic": "docker"
-  },
-  {
-    "title": "From Skype Archives to Docker: Building a Self-Hosted Team Workspace",
-    "desc": "<p>title: From Skype Archives to Docker: Building a Self-Hosted Team Workspace<br />\npublished: true<br />\ndescription: How MyChat connects ",
-    "link": "https://dev.to/nss/from-skype-archives-to-docker-building-a-self-hosted-team-workspace-27pc",
-    "topic": "docker"
-  },
-  {
-    "title": "Linux cgroups: Limiting Process Resources Without the Pain",
-    "desc": "<h1>\n  \n  \n  Linux cgroups: Limiting Process Resources Without the Pain\n</h1>\n\n<p>Let me share something I ran into last week that might sav",
-    "link": "https://dev.to/schiff_heimlich/linux-cgroups-limiting-process-resources-without-the-pain-5f4e",
+    "title": "A Green Backup Job Is Not a Recovery Test: Run a Safe Restore Drill with DBAegis",
+    "desc": "<p>Disclosure: I am part of the team building DBAegis.</p>\n\n<p>A backup job that ends in <code>SUCCESS</code> proves that a command complete",
+    "link": "https://dev.to/ilogicsoft_8a100b932089aa/a-green-backup-job-is-not-a-recovery-test-run-a-safe-restore-drill-with-dbaegis-2b2g",
     "topic": "general"
   },
   {
-    "title": "I overrode my own safety rules 38 times in one session",
-    "desc": "<p>Past one in the morning, I typed an environment variable in front of a command to make a check stop talking to me.</p>\n\n<p>I had written ",
-    "link": "https://dev.to/mjmirza/i-overrode-my-own-safety-rules-38-times-in-one-session-1eac",
+    "title": "Scanning AWS Lambda for Vulnerabilities with Amazon Inspector",
+    "desc": "<p>Recently completed a hands-on lab on using <strong>Amazon Inspector</strong> to scan AWS Lambda functions for vulnerabilities \u2014 here's a ",
+    "link": "https://dev.to/muhammad-nadeem/scanning-aws-lambda-for-vulnerabilities-with-amazon-inspector-305m",
+    "topic": "aws"
+  },
+  {
+    "title": "Free hosts file editor alternatives: SwitchHosts, PowerToys, Terminal, and when to pay",
+    "desc": "<p>You can manage the hosts file without paying anyone. Plenty of people should.</p>\n\n<p>This is the free stack, plus the one case where a o",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/free-hosts-file-editor-alternatives-switchhosts-powertoys-terminal-and-when-to-pay-4m2l",
     "topic": "general"
   },
   {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 83% of developers spend more than 2 hours a day on build configurations, manually twea",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-5c21",
+    "title": "PowerToys Hosts File Editor alternative (when you need more than an edit box)",
+    "desc": "<p>Microsoft PowerToys includes a Hosts File Editor. It is free, signed, and already on many Windows machines.</p>\n\n<p>It is a good editor. ",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/powertoys-hosts-file-editor-alternative-when-you-need-more-than-an-edit-box-3kd3",
     "topic": "general"
   },
   {
-    "title": "We cut a Lambda bill 96.5% by fixing a retry storm.",
-    "desc": "<p>The invocation graph is the first thing I open on any serverless engagement, and this one looked wrong from across the room. 29.3K Lambda",
-    "link": "https://dev.to/votiakov/we-cut-a-lambda-bill-965-by-fixing-a-retry-storm-4ed7",
+    "title": "We built an agent that turns messy RFQ emails into priced quotes, and shipped it on Alibaba Cloud",
+    "desc": "<p>Every distributor we spoke to has the same quiet bottleneck, and none of them call it a problem. They call it Tuesday.</p>\n\n<p>A request ",
+    "link": "https://dev.to/johnughiovhe/we-built-an-agent-that-turns-messy-rfq-emails-into-priced-quotes-and-shipped-it-on-alibaba-cloud-2oip",
     "topic": "general"
   },
   {
-    "title": "Taming Cloud Costs with Smart Resource Allocation",
-    "desc": "<h3>\n  \n  \n  The Problem \u2014 Unoptimized Cloud Costs Due to Inefficient Resource Utilization\n</h3>\n\n<p>In production environments, inefficient",
-    "link": "https://dev.to/vprachi360/taming-cloud-costs-with-smart-resource-allocation-1mcm",
+    "title": "Guia Pr\u00e1tico de Versionamento para Equipes de Software",
+    "desc": "<p>Estrat\u00e9gias pragm\u00e1ticas para gerenciar versionamento com alinhamento, testes robustos e deploys seguros. Dicas reais de equipes que entre",
+    "link": "https://dev.to/dev-freelancer/guia-pratico-de-versionamento-para-equipes-de-software-1jaf",
+    "topic": "general"
+  },
+  {
+    "title": "iHosts alternative for Mac developers who need Windows or Linux too",
+    "desc": "<p>iHosts is a clean macOS hosts editor. If your world is only Apple hardware, it can be enough.</p>\n\n<p>The search for an iHosts alternativ",
+    "link": "https://dev.to/locahl_9bd77121e3d366f72f/ihosts-alternative-for-mac-developers-who-need-windows-or-linux-too-m2e",
     "topic": "general"
   }
 ]
