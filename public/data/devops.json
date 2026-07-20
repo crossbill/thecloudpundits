@@ -1,50 +1,50 @@
 [
   {
-    "title": "\"When Your AI Agent Runs Out of Credits: How We Built a Fallback System With the Free GitHub API\"",
-    "desc": "<h1>\n  \n  \n  When Your AI Agent Runs Out of Credits: How We Built a Fallback System With the Free GitHub API\n</h1>\n\n<p>I run a self-directed",
-    "link": "https://dev.to/hermesxclawctrl/when-your-ai-agent-runs-out-of-credits-how-we-built-a-fallback-system-with-the-free-github-api-2683",
+    "title": "Day 87 - Standard-Compliant NOT Operator in ClickHouse\u00ae 26.3: Breaking Changes Explained",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Every new ClickHouse\u00ae release brings performance improvements, new features, and occasionally behavioral",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-87-standard-compliant-not-operator-in-clickhouser-263-breaking-changes-explained-50f0",
     "topic": "general"
   },
   {
-    "title": "\ud83d\ude80 Introducing InfraPilot: The End of Manual DevOps Drudgery (beta version) https://cmcloud.online/",
-    "desc": "<p><a href=\"https://www.linkedin.com/posts/chinmaya09_devops-infrapilot-mern-ugcPost-7484966557643644928-i56p/?highlightedUpdateUrn=urn%3Ali",
-    "link": "https://dev.to/chinmaya_kumarmallick_0a/introducing-infrapilot-the-end-of-manual-devops-drudgeryhttpscmcloudonline-4c6h",
+    "title": "5 'Backdoors Silenciosas' en Docker que tus Devs IGNORAN (Julio 2026)",
+    "desc": "<p><em>Descubre las vulnerabilidades ocultas en tus contenedores Docker que exponen tu infraestructura a ataques silenciosos y c\u00f3mo mitigarl",
+    "link": "https://dev.to/angelh/5-backdoors-silenciosas-en-docker-que-tus-devs-ignoran-julio-2026-33c",
+    "topic": "docker"
+  },
+  {
+    "title": "From Skype Archives to Docker: Building a Self-Hosted Team Workspace",
+    "desc": "<p>title: From Skype Archives to Docker: Building a Self-Hosted Team Workspace<br />\npublished: true<br />\ndescription: How MyChat connects ",
+    "link": "https://dev.to/nss/from-skype-archives-to-docker-building-a-self-hosted-team-workspace-27pc",
+    "topic": "docker"
+  },
+  {
+    "title": "Linux cgroups: Limiting Process Resources Without the Pain",
+    "desc": "<h1>\n  \n  \n  Linux cgroups: Limiting Process Resources Without the Pain\n</h1>\n\n<p>Let me share something I ran into last week that might sav",
+    "link": "https://dev.to/schiff_heimlich/linux-cgroups-limiting-process-resources-without-the-pain-5f4e",
     "topic": "general"
   },
   {
-    "title": "Auto-Optimize Images in a Git Pre-Commit Hook (Local, No Upload)",
-    "desc": "<p>Every repo I inherit has the same problem: someone dragged a 4.2 MB hero.png straight out of Figma into <code>/public</code>, committed i",
-    "link": "https://dev.to/orthogonalinfo/auto-optimize-images-in-a-git-pre-commit-hook-local-no-upload-m28",
+    "title": "I overrode my own safety rules 38 times in one session",
+    "desc": "<p>Past one in the morning, I typed an environment variable in front of a command to make a check stop talking to me.</p>\n\n<p>I had written ",
+    "link": "https://dev.to/mjmirza/i-overrode-my-own-safety-rules-38-times-in-one-session-1eac",
     "topic": "general"
   },
   {
-    "title": "Do you know the difference between Terraform Provider and Module?",
-    "desc": "<p>Terraform is one of the most popular Infrastructure as Code (IaC) tools in the world. It allows us to provision infrastructure resources ",
-    "link": "https://dev.to/nicolasv/do-you-know-the-difference-between-terraform-provider-and-module-2chh",
-    "topic": "terraform"
-  },
-  {
-    "title": "I Built a Self-Healing AI Agent With a 50-Line PowerShell Script",
-    "desc": "<h1>\n  \n  \n  I Built a Self-Healing AI Agent With a 50-Line PowerShell Script\n</h1>\n\n<p>When you're running an AI agent around the clock, th",
-    "link": "https://dev.to/hermesxclawctrl/i-built-a-self-healing-ai-agent-with-a-50-line-powershell-script-3lih",
+    "title": "Learn grok-build in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 83% of developers spend more than 2 hours a day on build configurations, manually twea",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-5c21",
     "topic": "general"
   },
   {
-    "title": "Why I chose Rust over Go for an uptime monitor",
-    "desc": "<p>I build Uptimepage, an <a href=\"https://uptimepage.dev\" rel=\"noopener noreferrer\">open-source uptime monitor</a> and status page written ",
-    "link": "https://dev.to/slima4/why-i-chose-rust-over-go-for-an-uptime-monitor-lo8",
+    "title": "We cut a Lambda bill 96.5% by fixing a retry storm.",
+    "desc": "<p>The invocation graph is the first thing I open on any serverless engagement, and this one looked wrong from across the room. 29.3K Lambda",
+    "link": "https://dev.to/votiakov/we-cut-a-lambda-bill-965-by-fixing-a-retry-storm-4ed7",
     "topic": "general"
   },
   {
-    "title": "How to Install GitHub CLI on Windows Without Admin Rights (Or Any CLI Tool)",
-    "desc": "<p>If you've ever tried to install developer CLI tools on a locked-down Windows 10 machine, you know the pain. Winget hangs. Scoop needs Pow",
-    "link": "https://dev.to/hermesxclawctrl/how-to-install-github-cli-on-windows-without-admin-rights-or-any-cli-tool-1phh",
-    "topic": "general"
-  },
-  {
-    "title": "Bonsai-27B on a Single 3090: What Works and What Doesn't",
-    "desc": "<p>I spent the weekend with Bonsai-27B, and I think I finally understand what a \"27B that runs on one GPU\" actually means in practice.</p>\n\n",
-    "link": "https://dev.to/o96a/bonsai-27b-on-a-single-3090-what-works-and-what-doesnt-3eio",
+    "title": "Taming Cloud Costs with Smart Resource Allocation",
+    "desc": "<h3>\n  \n  \n  The Problem \u2014 Unoptimized Cloud Costs Due to Inefficient Resource Utilization\n</h3>\n\n<p>In production environments, inefficient",
+    "link": "https://dev.to/vprachi360/taming-cloud-costs-with-smart-resource-allocation-1mcm",
     "topic": "general"
   }
 ]
