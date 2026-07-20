@@ -1,5 +1,17 @@
 [
   {
+    "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
+    "desc": "<p>Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
+    "topic": "general"
+  },
+  {
+    "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
+    "desc": "<p>The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
+    "topic": "general"
+  },
+  {
     "title": "OpenSSL Silently Fixes \u2018HollowByte\u2019 DoS Vulnerability",
     "desc": "<p>Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory.</p>\n<p>T",
     "link": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
@@ -34,17 +46,5 @@
     "desc": "<p>Targeting production infrastructure, the attack compromised internal datasets and service credentials.</p>\n<p>The post <a href=\"https://w",
     "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
     "topic": "huggingface"
-  },
-  {
-    "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-    "desc": "<p>The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.</p>\n<p>The post <a href=\"https://www.se",
-    "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-    "topic": "general"
-  },
-  {
-    "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
-    "desc": "<p>Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
-    "topic": "general"
   }
 ]
