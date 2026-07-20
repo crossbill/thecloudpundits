@@ -1,50 +1,50 @@
 [
   {
-    "title": "\ud83d\udc0d Mastering Argo CD app of apps for Python microservices",
-    "desc": "<h2>\n  \n  \n  \ud83d\ude80 Direct Answer \u2014 <em>Argo CD app of apps Python microservice tutorial</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" hre",
-    "link": "https://dev.to/ptp2308/mastering-argo-cd-app-of-apps-for-python-microservices-36a4",
+    "title": "Exploring Qwen 3.8: A Leap Forward in AI Infrastructure",
+    "desc": "<h1>\n  \n  \n  <strong>What was released / announced</strong>\n</h1>\n\n<p>Qwen 3.8, as announced on Twitter by Alibaba Qwen, marks a significant",
+    "link": "https://dev.to/naveenmalothu/exploring-qwen-38-a-leap-forward-in-ai-infrastructure-4efc",
     "topic": "general"
   },
   {
-    "title": "Asterisk Music on Hold \u2014 Custom Audio & Per-Queue MOH",
-    "desc": "<h1>\n  \n  \n  Asterisk Music on Hold \u2014 Custom Audio & Per-Queue MOH\n</h1>\n\n<p><strong>Master custom music on hold setup, per-queue MOH routin",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/asterisk-music-on-hold-custom-audio-per-queue-moh-34g8",
+    "title": "Learn grok-build in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours debugging my Rust build process, only to realize that I could have automated i",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-4n85",
     "topic": "general"
   },
   {
-    "title": "Reproduce SQLite WAL Checkpoint Starvation With One Forgotten Reader",
-    "desc": "<p>A SQLite service can keep answering health checks while its WAL grows without a successful checkpoint. One forgotten read transaction is ",
-    "link": "https://dev.to/odd_background_328/reproduce-sqlite-wal-checkpoint-starvation-with-one-forgotten-reader-4jfo",
+    "title": "Adscs Digital Assets: Digital Financial Infrastructure Driven by DeFi",
+    "desc": "<p>Amid the accelerating process of global financial digitalization, decentralized finance (DeFi) is emerging as the key force driving indus",
+    "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-digital-financial-infrastructure-driven-by-defi-41ld",
     "topic": "general"
   },
   {
-    "title": "Node Infrastructure Guide: Evaluation & Best Practices for Web3",
-    "desc": "<h2>\n  \n  \n  Node infrastructure decision checklist\n</h2>\n\n<p>Before committing to a node infrastructure strategy, evaluate these key factor",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/node-infrastructure-guide-evaluation-best-practices-for-web3-1oe7",
+    "title": "How to Audit Your AWS Dev/Test Spend in 20 Minutes (Without Paying for a FinOps Tool)",
+    "desc": "<h2>\n  \n  \n  The problem lands on a Friday afternoon\n</h2>\n\n<p>You open your AWS bill on a Monday and something is off. Not catastrophically",
+    "link": "https://dev.to/trigops/how-to-audit-your-aws-devtest-spend-in-20-minutes-without-paying-for-a-finops-tool-3p16",
+    "topic": "aws"
+  },
+  {
+    "title": "Why Doesn't Everyone Connect to the Same Server? Understanding AWS Elastic Load Balancer (ELB)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/anupa_supul/why-doesnt-everyone-connect-to-the-same-server-understanding-aws-elastic-load-balancer-elb-2c33",
+    "topic": "aws"
+  },
+  {
+    "title": "Your AI Code Review Passed. That Doesn't Mean Your Code Is Safe.",
+    "desc": "<p>You push a PR. The automated review runs, comes back green, no issues flagged. You merge with confidence because the tool said it was cle",
+    "link": "https://dev.to/emma_schmidt_/your-ai-code-review-passed-that-doesnt-mean-your-code-is-safe-4e13",
     "topic": "general"
   },
   {
-    "title": "Binance Smart Chain RPC: Complete Guide for Developers",
-    "desc": "<h2>\n  \n  \n  Binance Smart Chain RPC decision checklist\n</h2>\n\n<p>Before integrating a BSC RPC endpoint, consider these factors:</p>\n\n<div c",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/binance-smart-chain-rpc-complete-guide-for-developers-4l8f",
+    "title": "Harnessing the Power of Data Visualization: Integrating D3.js with React",
+    "desc": "<h3>\n  \n  \n  Key Takeaways\n</h3>\n\n<ol>\n<li><p><strong>D3 is not a charting library. This trips up almost everyone who comes to it expecting ",
+    "link": "https://dev.to/sahil_khurana_486f374ecf2/harnessing-the-power-of-data-visualization-integrating-d3js-with-react-2aha",
     "topic": "general"
   },
   {
-    "title": "Polygon RPC: Complete Developer Guide to Endpoints and Providers",
-    "desc": "<h2>\n  \n  \n  Polygon RPC decision checklist\n</h2>\n\n<p>Before you integrate a Polygon RPC endpoint, evaluate these factors to avoid common pi",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/polygon-rpc-complete-developer-guide-to-endpoints-and-providers-p14",
-    "topic": "general"
-  },
-  {
-    "title": "Polygon RPC Provider Guide: How to Choose the Best One",
-    "desc": "<h2>\n  \n  \n  Polygon RPC provider decision checklist\n</h2>\n\n<p>Before evaluating providers, clarify your requirements:</p>\n\n<ul>\n<li>\n<stron",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/polygon-rpc-provider-guide-how-to-choose-the-best-one-4ai5",
-    "topic": "general"
-  },
-  {
-    "title": "Moonriver RPC: Endpoints, Configuration, and Best Practices",
-    "desc": "<h2>\n  \n  \n  Moonriver RPC Decision Checklist\n</h2>\n\n<p>Before integrating Moonriver RPC into your project, consider the following:</p>\n\n<di",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/moonriver-rpc-endpoints-configuration-and-best-practices-1ddi",
-    "topic": "general"
+    "title": "Can I Automate Workflows After a ChatGPT Certification?",
+    "desc": "<p>The growing adoption of generative AI has transformed how businesses handle repetitive tasks and improve productivity. One of the biggest",
+    "link": "https://dev.to/ailearning/can-i-automate-workflows-after-a-chatgpt-certification-52db",
+    "topic": "openai"
   }
 ]
