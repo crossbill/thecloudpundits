@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenSSL Silently Fixes \u2018HollowByte\u2019 DoS Vulnerability",
+    "desc": "<p>Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory.</p>\n<p>T",
+    "link": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "New Index Tracks Material Breaches \u2014 And Refuses to Add Up the Losses",
+    "desc": "<p>Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens.<",
+    "link": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
+    "topic": "secops"
+  },
+  {
+    "title": "Ernst & Young Data Breach Affects Personal, Financial Information",
+    "desc": "<p>Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management p",
+    "link": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
+    "topic": "secops"
+  },
+  {
+    "title": "Watch on Demand: Cloud & Data Security Summit",
+    "desc": "<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of",
+    "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
+    "topic": "secops"
+  },
+  {
+    "title": "Capital One Open Sources AI-Powered \u2018VulnHunter\u2019 Security Tool",
+    "desc": "<p>The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.</p>\n<",
+    "link": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
+    "topic": "secops"
+  },
+  {
     "title": "Hugging Face Hacked in Autonomous AI Attack",
     "desc": "<p>Targeting production infrastructure, the attack compromised internal datasets and service credentials.</p>\n<p>The post <a href=\"https://w",
     "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
@@ -16,35 +46,5 @@
     "desc": "<p>Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.</p>\n<p>The ",
     "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
     "topic": "general"
-  },
-  {
-    "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm",
-    "link": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
-    "topic": "general"
-  },
-  {
-    "title": "Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive",
-    "desc": "<p>(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enoug",
-    "link": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
-    "topic": "general"
-  },
-  {
-    "title": "Beacon Security Raises $13 Million for Security Data Platform",
-    "desc": "<p>The startup helps organizations detect, hunt, and protect their assets across environments at machine speed.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/",
-    "topic": "secops"
-  },
-  {
-    "title": "Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday",
-    "desc": "<p>Industry professionals broadly agree that the suspension pauses third-party CMMC audits but not the underlying legal obligation to protec",
-    "link": "https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/",
-    "topic": "general"
-  },
-  {
-    "title": "Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei",
-    "desc": "<p>The company disconnected its systems on July 13 and is starting to gradually restore operations.</p>\n<p>The post <a href=\"https://www.sec",
-    "link": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/",
-    "topic": "secops"
   }
 ]
