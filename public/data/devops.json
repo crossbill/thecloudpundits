@@ -1,5 +1,35 @@
 [
   {
+    "title": "100 Days of DevOps and Cloud (AWS), Day 15: HTTPS on Nginx, and the Incremental Trick That Makes Snapshots Cheap",
+    "desc": "<p>Test before you reload. That one habit is the whole difference between a config change and an outage, and it is baked into how you work w",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-15-https-on-nginx-and-the-incremental-trick-that-makes-nc5",
+    "topic": "aws"
+  },
+  {
+    "title": "Cloudflare Internal DNS is now generally available",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/cloudflare-internal-dns-is-now-generally-available\" rel=\"noopene",
+    "link": "https://dev.to/rasne/cloudflare-internal-dns-is-now-generally-available-43nf",
+    "topic": "general"
+  },
+  {
+    "title": "One login to rule them all: centralized auth for internal tools with Caddy",
+    "desc": "<p>I am lazy. Not in the <em>\"I don't want to work\"</em> sense<sup id=\"fnref1\">1</sup>, but in the <em>\"I refuse to solve the same problem t",
+    "link": "https://dev.to/hypertesto/one-login-to-rule-them-all-centralized-auth-for-internal-tools-with-caddy-3fof",
+    "topic": "general"
+  },
+  {
+    "title": "The 7 Decisions That Quietly Decide Whether Your App Survives",
+    "desc": "<p>Your app doesn't crash because of bad code. It crashes because of the decisions you never made.</p>\n\n<p>Where does your data actually liv",
+    "link": "https://dev.to/mehedihasan712277/the-7-decisions-that-quietly-decide-whether-your-app-survives-507h",
+    "topic": "general"
+  },
+  {
+    "title": "Local Kubernetes Dev \u2014 Part 1: The inner dev loop and why run a cluster locally",
+    "desc": "<p>A second ago your dev loop was instant \u2014 now every code change costs you 2\u20135 minutes.</p>\n\n<p>Sound familiar? You finished a service, it ",
+    "link": "https://dev.to/mikhail_dorokhovich_0c532/local-kubernetes-dev-part-1-the-inner-dev-loop-and-why-run-a-cluster-locally-3go8",
+    "topic": "kubernetes"
+  },
+  {
     "title": "75 Companies Exposed the Real AI Cost Problem. It's Not the Models \u2014 It's the Routing.",
     "desc": "<p>A YC-backed startup recently shared findings from 75+ customer conversations across every industry. One theme dominated everything else:<",
     "link": "https://dev.to/aplomb2/75-companies-exposed-the-real-ai-cost-problem-its-not-the-models-its-the-routing-3509",
@@ -16,35 +46,5 @@
     "desc": "<p>Recently completed a hands-on lab on using <strong>Amazon Inspector</strong> to scan AWS Lambda functions for vulnerabilities \u2014 here's a ",
     "link": "https://dev.to/muhammad-nadeem/scanning-aws-lambda-for-vulnerabilities-with-amazon-inspector-305m",
     "topic": "aws"
-  },
-  {
-    "title": "Free hosts file editor alternatives: SwitchHosts, PowerToys, Terminal, and when to pay",
-    "desc": "<p>You can manage the hosts file without paying anyone. Plenty of people should.</p>\n\n<p>This is the free stack, plus the one case where a o",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/free-hosts-file-editor-alternatives-switchhosts-powertoys-terminal-and-when-to-pay-4m2l",
-    "topic": "general"
-  },
-  {
-    "title": "PowerToys Hosts File Editor alternative (when you need more than an edit box)",
-    "desc": "<p>Microsoft PowerToys includes a Hosts File Editor. It is free, signed, and already on many Windows machines.</p>\n\n<p>It is a good editor. ",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/powertoys-hosts-file-editor-alternative-when-you-need-more-than-an-edit-box-3kd3",
-    "topic": "general"
-  },
-  {
-    "title": "We built an agent that turns messy RFQ emails into priced quotes, and shipped it on Alibaba Cloud",
-    "desc": "<p>Every distributor we spoke to has the same quiet bottleneck, and none of them call it a problem. They call it Tuesday.</p>\n\n<p>A request ",
-    "link": "https://dev.to/johnughiovhe/we-built-an-agent-that-turns-messy-rfq-emails-into-priced-quotes-and-shipped-it-on-alibaba-cloud-2oip",
-    "topic": "general"
-  },
-  {
-    "title": "Guia Pr\u00e1tico de Versionamento para Equipes de Software",
-    "desc": "<p>Estrat\u00e9gias pragm\u00e1ticas para gerenciar versionamento com alinhamento, testes robustos e deploys seguros. Dicas reais de equipes que entre",
-    "link": "https://dev.to/dev-freelancer/guia-pratico-de-versionamento-para-equipes-de-software-1jaf",
-    "topic": "general"
-  },
-  {
-    "title": "iHosts alternative for Mac developers who need Windows or Linux too",
-    "desc": "<p>iHosts is a clean macOS hosts editor. If your world is only Apple hardware, it can be enough.</p>\n\n<p>The search for an iHosts alternativ",
-    "link": "https://dev.to/locahl_9bd77121e3d366f72f/ihosts-alternative-for-mac-developers-who-need-windows-or-linux-too-m2e",
-    "topic": "general"
   }
 ]
