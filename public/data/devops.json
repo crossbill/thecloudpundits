@@ -1,50 +1,50 @@
 [
   {
-    "title": "pgwd 1.0: Cron Exit Codes for PostgreSQL Connection Alerts",
-    "desc": "<ul>\n<li>\n<strong>Follow-up to:</strong> <a href=\"https://dev.to/hrodrig/pgwd-a-watchdog-for-your-postgresql-connections-1pjg\">Intro</a> \u00b7 <",
-    "link": "https://dev.to/hrodrig/pgwd-10-cron-exit-codes-for-postgresql-connection-alerts-n3",
+    "title": "Normalize the copy, not the source: a local text-tree preflight with TextSuture",
+    "desc": "<p>A text tree can look fine in one checkout and still create noisy diffs or fail when it crosses platforms.</p>\n\n<p>The causes are usually ",
+    "link": "https://dev.to/nekoautomata/normalize-the-copy-not-the-source-a-local-text-tree-preflight-with-textsuture-3ce8",
     "topic": "general"
   },
   {
-    "title": "Why SLIs Matter More Than SLOs",
-    "desc": "<p>SLOs get all the attention. I want to argue that your SLIs are more important.</p>\n\n<p>Here's the thing: an SLO is a number you pick. 99.",
-    "link": "https://dev.to/samson_tanimawo/why-slis-matter-more-than-slos-4n8",
+    "title": "A CI Retry Should Be an Experiment, Not a Reflex",
+    "desc": "<p>Flaky builds create a difficult kind of pressure. The code may be correct, the failure may disappear on rerun, and the delivery pipeline ",
+    "link": "https://dev.to/iqtechsolutions/a-ci-retry-should-be-an-experiment-not-a-reflex-4749",
     "topic": "general"
   },
   {
-    "title": "Stop Re-Explaining Your Business to AI. Get a Partner with Total Recall.",
-    "desc": "<p><strong>Every AI tool you've tried has the same problem:</strong> it forgets you.<br />\nYou spend 20 minutes explaining your business, yo",
-    "link": "https://dev.to/jerry_ballew_9add5e48965b/stop-re-explaining-your-business-to-ai-get-a-partner-with-total-recall-ol4",
+    "title": "Agile Requirements Specification: How to Bridge Business Logic and Test Automation with BDD",
+    "desc": "<p>One of the most persistent challenges in Agile development is maintaining a clean, unambiguous link between business requirements and act",
+    "link": "https://dev.to/michael_weber_709b43dc7f0/agile-requirements-specification-how-to-bridge-business-logic-and-test-automation-with-bdd-3mb6",
     "topic": "general"
   },
   {
-    "title": "Every AWS project starts with copy-pasting last repo's Terraform. I built a generator instead.",
-    "desc": "<p>Be honest about how your last AWS project's infrastructure started. You copied the Terraform from the previous repo, deleted the bits tha",
-    "link": "https://dev.to/framz/every-aws-project-starts-with-copy-pasting-last-repos-terraform-i-built-a-generator-instead-2fpg",
-    "topic": "aws"
+    "title": "The Feynman Guide to Docker",
+    "desc": "<p>Have you ever tried to run a piece of software on a friend's computer, only for it to fail immediately? You scratch your head, look at yo",
+    "link": "https://dev.to/chemacabeza/the-feynman-guide-to-docker-5f63",
+    "topic": "docker"
   },
   {
-    "title": "Kubernetes Health Probes: Liveness, Readiness, and Startup Explained",
-    "desc": "<p>You've deployed your app to Kubernetes. The pod starts \u2014 then it gets killed. Or it's running but no traffic reaches it. Or it takes 90 s",
-    "link": "https://dev.to/toothbrush/kubernetes-health-probes-liveness-readiness-and-startup-explained-5app",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Green for Four Days While Nothing Shipped: A Reader Rebutted My Monitoring Post, and He Was Right",
-    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/monitor-green-nothing-shipped-score-the-effect.html\" rel=\"noopener",
-    "link": "https://dev.to/hexisteme/green-for-four-days-while-nothing-shipped-a-reader-rebutted-my-monitoring-post-and-he-was-right-3m11",
+    "title": "Which AI Certification Programs Provide Official Credentials Recognized by Employers?",
+    "desc": "<p>Artificial Intelligence (AI) has become one of the most sought-after skills across industries. As organizations continue to adopt AI tech",
+    "link": "https://dev.to/georgiaweston/which-ai-certification-programs-provide-official-credentials-recognized-by-employers-33fo",
     "topic": "general"
   },
   {
-    "title": "How to Use AI for Code Reviews: A Complete Prompt System",
-    "desc": "<p>Code reviews are where AI earns its keep. Not as a replacement for human review \u2014 but as a first pass that catches the obvious stuff.</p>",
-    "link": "https://dev.to/draftkit/how-to-use-ai-for-code-reviews-a-complete-prompt-system-n66",
+    "title": "Docker Essentials: Containerizing Your First App \u2014 Like a Quest in Zelda",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Picture this: you\u2019ve just finished building a sweet little Node.js API that talks to a P",
+    "link": "https://dev.to/timevolt/docker-essentials-containerizing-your-first-app-like-a-quest-in-zelda-4pje",
+    "topic": "docker"
+  },
+  {
+    "title": "Top 10 Custom Software Development Trends Transforming Businesses in 2026",
+    "desc": "<p>Off-the-shelf software used to be the safe choice. In 2026, it's increasingly the expensive one \u2014 expensive in lost efficiency, in workar",
+    "link": "https://dev.to/jade_williams/top-10-custom-software-development-trends-transforming-businesses-in-2026-2hdf",
     "topic": "general"
   },
   {
-    "title": "A 500 Error Taught Me More Than a Green Checkmark Would Have",
-    "desc": "<p>I set up my first CI pipeline today. It failed on the first real run \u2014<br />\nnot because of a typo, but because the pipeline wasn't actua",
-    "link": "https://dev.to/iriandr/a-500-error-taught-me-more-than-a-green-checkmark-would-have-3040",
+    "title": "Resilience at Scale: Queue-Driven Architecture in Laravel \u2699\ufe0f",
+    "desc": "<h2>The Synchronous Bottleneck</h2>\n\n<p>When an application scales, forcing users to wait for backend processes to finish synchronously is a",
+    "link": "https://dev.to/iprajapatiparesh/resilience-at-scale-queue-driven-architecture-in-laravel-hb8",
     "topic": "general"
   }
 ]
