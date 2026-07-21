@@ -1,5 +1,35 @@
 [
   {
+    "title": "Incident Retrospectives Without Blame",
+    "desc": "<p>I've run over 100 post-mortems. The worst ones end with 'Alice will be more careful.' The best ones end with 'we fixed the system.' Here'",
+    "link": "https://dev.to/samson_tanimawo/incident-retrospectives-without-blame-29e",
+    "topic": "secops"
+  },
+  {
+    "title": "Pin your MCP server contracts the way you pin your dependencies",
+    "desc": "<p>You pin your npm dependencies. You have a lockfile. You review the diff when it changes.</p>\n\n<p>Now consider the MCP servers your agent ",
+    "link": "https://dev.to/tsvetang2/pin-your-mcp-server-contracts-the-way-you-pin-your-dependencies-43j8",
+    "topic": "general"
+  },
+  {
+    "title": "EKS Rollback Emails Need Deployment Context",
+    "desc": "<p>Rollback emails from EKS pipelines look harmless right up until a sleepy on-call engineer opens one and cannot tell which deployment actu",
+    "link": "https://dev.to/jasonmills94/eks-rollback-emails-need-deployment-context-4h2p",
+    "topic": "general"
+  },
+  {
+    "title": "Catch CIDR conflicts before VPC, Kubernetes, VPN, or homelab changes",
+    "desc": "<p>A subnet plan can look reasonable in four different systems and still conflict when those systems need to communicate.</p>\n\n<p>A VPC team",
+    "link": "https://dev.to/nekoautomata/catch-cidr-conflicts-before-vpc-kubernetes-vpn-or-homelab-changes-3eg2",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Your Dataset Loader Is Safe Now. Your Dataset Parser Might Not Be.",
+    "desc": "<p>Until mid-2024, this line could execute arbitrary Python from a stranger's repository:<br />\n</p>\n\n<div class=\"highlight js-code-highligh",
+    "link": "https://dev.to/kkierii/your-dataset-loader-is-safe-now-your-dataset-parser-might-not-be-3dij",
+    "topic": "general"
+  },
+  {
     "title": "Eval-Gated AI Releases: Treating Retrieval Quality Like Unit Tests",
     "desc": "<p>No backend team would merge a PR that fails the test suite. Yet many AI teams ship prompt and model changes with no automated quality che",
     "link": "https://dev.to/venkathub/eval-gated-ai-releases-treating-retrieval-quality-like-unit-tests-4o9j",
@@ -16,35 +46,5 @@
     "desc": "<p>A hands-on guide to Agentic AI in CI/CD. Build a self-healing pipeline that triages failures, opens PRs, and remediates issues with real ",
     "link": "https://dev.to/devopslesson/i-let-an-ai-agent-fix-my-broken-cicd-pipeline-and-heres-what-happened-1144",
     "topic": "general"
-  },
-  {
-    "title": "Catch token-cost regressions in CI before they ship",
-    "desc": "<p>Last year a team shipped a \"small prompt improvement\" on a Friday. By Monday their Claude bill had jumped 40%. Nobody caught it in review",
-    "link": "https://dev.to/wartzarbee/catch-token-cost-regressions-in-ci-before-they-ship-35o3",
-    "topic": "general"
-  },
-  {
-    "title": "Building Roomzin: Why We Stopped Treating Booking Inventory as a Search Problem",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/mjavani/building-roomzin-why-we-stopped-treating-booking-inventory-as-a-search-problem-oga",
-    "topic": "general"
-  },
-  {
-    "title": "Top 17 Sites Rated Shops to Buy Elite Yelp Reviews for 2026",
-    "desc": "<p>Buy Elite Yelp Reviews</p>\n\n<p>\u2554\u2550\u2550\u2550\ud83d\udd25\u2550\u2550\u2550\u2557\u27a4Fast Reply 24/7 | Instant Support \ud83d\ude80<br />\n\u2554\u2550\u2550\u2550\ud83d\udd25\u2550\u2550\u2550\u2557\u27a4Telegram: @progmbofficial<br />\n\u2554\u2550\u2550\u2550\ud83d\udd25\u2550\u2550\u2550\u2557\u27a4Wh",
-    "link": "https://dev.to/drwlion1014/top-17-sites-rated-shops-to-buy-elite-yelp-reviews-for-2026-3f84",
-    "topic": "general"
-  },
-  {
-    "title": "The Health Check That Caused the Outage",
-    "desc": "<p>Your database dropped out for a few minutes. Your health check turned that into a full outage.</p>\n\n<p>That's not a hypothetical situatio",
-    "link": "https://dev.to/michal-izewski/the-health-check-that-caused-the-outage-329b",
-    "topic": "general"
-  },
-  {
-    "title": "We Cut AWS Costs 85% While Scaling to Millions of Users - A System Design Case Study.",
-    "desc": "<p>Want to see a real system design implementation that cut AWS costs and scaled a project to millions of users? Here's exactly what we buil",
-    "link": "https://dev.to/shahjalal-rafi/we-cut-aws-costs-85-while-scaling-to-millions-of-users-a-system-design-case-study-3jcf",
-    "topic": "aws"
   }
 ]
