@@ -1,50 +1,50 @@
 [
   {
-    "title": "My Local AI Assistant Got Worse When I Remembered Too Much",
-    "desc": "<h1>\n  \n  \n  My Local AI Assistant Got Worse When I Remembered Too Much\n</h1>\n\n<p>I moved a personal AI assistant onto a small local model l",
-    "link": "https://dev.to/toddsullivan/my-local-ai-assistant-got-worse-when-i-remembered-too-much-3egp",
+    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
+    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
+    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-3dol",
     "topic": "general"
   },
   {
-    "title": "Making a Service Survive an Availability Zone Outage \u2014 and Proving It for $0",
-    "desc": "<p>A reproducible multi-AZ resilience walkthrough: spread a service across simulated zones, kill one under load, and measure the dropped req",
-    "link": "https://dev.to/pradeep_kandepaneni/making-a-service-survive-an-availability-zone-outage-and-proving-it-for-0-565h",
+    "title": "Platform engineering for the agentic enterprise: Managing applications, resources, and AI agents",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/platform-engineering-for-the-agentic-enterprise-managing-applica",
+    "link": "https://dev.to/rasne/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents-3dii",
     "topic": "general"
   },
   {
-    "title": "Clean up Docker images that are taking up space",
-    "desc": "<p>You deploy, you rebuild, you test things. And one day, you look at your server and you have only 2 GB of free space left. Congratulations",
-    "link": "https://dev.to/thomasbnt/clean-up-docker-images-that-are-taking-up-space-2oem",
-    "topic": "docker"
-  },
-  {
-    "title": "Managing Environment Variables and Secrets",
-    "desc": "<p>Last time, in <a href=\"https://amanksingh.com/blog/docker-local-development-setup\" rel=\"noopener noreferrer\">Setting Up Docker for Local ",
-    "link": "https://dev.to/moose978/managing-environment-variables-and-secrets-342f",
+    "title": "Why your agent needs access to your documentation",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/why-your-agent-needs-access-to-your-documentation\" rel=\"noopener",
+    "link": "https://dev.to/rasne/why-your-agent-needs-access-to-your-documentation-132f",
     "topic": "general"
   },
   {
-    "title": "Setting Up Docker for Local Development",
-    "desc": "<p>The <a href=\"https://amanksingh.com/blog/prisma-or-typeorm-nestjs\" rel=\"noopener noreferrer\">Prisma or TypeORM</a> article settled how th",
-    "link": "https://dev.to/moose978/setting-up-docker-for-local-development-3n4e",
-    "topic": "docker"
-  },
-  {
-    "title": "Cloud Cost Optimization: A Practical Guide for Leaders",
-    "desc": "<p>Cloud cost optimization means lowering unnecessary cloud spend without harming reliability, security, or product delivery. In practice, t",
-    "link": "https://dev.to/esparksit/cloud-cost-optimization-a-practical-guide-for-leaders-4ni1",
-    "topic": "finops"
-  },
-  {
-    "title": "Wondering whether a virtual dedicated server is right for your next project?",
-    "desc": "<p>Wondering whether a virtual dedicated server is right for your next project?</p>\n\n<p>Quick tip: A VDS provides isolated resources and gre",
-    "link": "https://dev.to/onegbits/wondering-whether-a-virtual-dedicated-server-is-right-for-your-next-project-2o0f",
+    "title": "What DevOps Actually Is (It's Not a Job Title)",
+    "desc": "<h2>\n  \n  \n  The most misunderstood word in tech\n</h2>\n\n<p>Open any job board and you'll see hundreds of \"DevOps Engineer\" roles. Read the l",
+    "link": "https://dev.to/sri2614/what-devops-actually-is-its-not-a-job-title-4amm",
     "topic": "general"
   },
   {
-    "title": "Preventing Unsafe Regional Failover in Amazon EKS with Policy-Gated Recovery",
-    "desc": "<p>This article was originally published on AWS Builder Center.</p>\n\n<p>A secondary Amazon EKS cluster can appear healthy while still being ",
-    "link": "https://dev.to/pradeep_kandepaneni/preventing-unsafe-regional-failover-in-amazon-eks-with-policy-gated-recovery-3c8l",
+    "title": "What Is IT Staff Augmentation? Services, Companies and How to Choose Right",
+    "desc": "<p>The global staff augmentation market hit $299.3 billion in 2023 and is on track to exceed $857 billion by 2031. That is not a niche hirin",
+    "link": "https://dev.to/remotex_services_llp/what-is-it-staff-augmentation-services-companies-and-how-to-choose-right-p2m",
+    "topic": "general"
+  },
+  {
+    "title": "Not in any textbook \u2014 learned this from a 3am page:",
+    "desc": "<h1>\n  \n  \n  LinkedIn Draft \u2014 Workflow (2026-07-21)\n</h1>\n\n<p>Not in any textbook \u2014 learned this from a 3am page:</p>\n\n<p><strong>Kubernetes",
+    "link": "https://dev.to/neeraja_khanapure_4a33a5f/not-in-any-textbook-learned-this-from-a-3am-page-41a2",
+    "topic": "general"
+  },
+  {
+    "title": "The Long Night of Deployment: How We Tamed DNS, Nginx, Tor, and a Rebel Firewall",
+    "desc": "<p>The Article<br />\nIntroduction</p>\n\n<p>A few weeks ago, I started an ambitious project: MyZubster \u2013 a skills exchange platform with Moner",
+    "link": "https://dev.to/danielioni/the-long-night-of-deployment-how-we-tamed-dns-nginx-tor-and-a-rebel-firewall-8pm",
+    "topic": "general"
+  },
+  {
+    "title": "ownerdiff: CODEOWNERS for a git range",
+    "desc": "<p>Monorepo PRs (and agent sessions) touch many teams. <strong><a href=\"https://github.com/SybilGambleyyu/ownerdiff\" rel=\"noopener noreferre",
+    "link": "https://dev.to/sybilgambleyyu/ownerdiff-codeowners-for-a-git-range-1d8h",
     "topic": "general"
   }
 ]
