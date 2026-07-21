@@ -1,50 +1,50 @@
 [
   {
-    "title": "Normalize the copy, not the source: a local text-tree preflight with TextSuture",
-    "desc": "<p>A text tree can look fine in one checkout and still create noisy diffs or fail when it crosses platforms.</p>\n\n<p>The causes are usually ",
-    "link": "https://dev.to/nekoautomata/normalize-the-copy-not-the-source-a-local-text-tree-preflight-with-textsuture-3ce8",
+    "title": "My Local AI Assistant Got Worse When I Remembered Too Much",
+    "desc": "<h1>\n  \n  \n  My Local AI Assistant Got Worse When I Remembered Too Much\n</h1>\n\n<p>I moved a personal AI assistant onto a small local model l",
+    "link": "https://dev.to/toddsullivan/my-local-ai-assistant-got-worse-when-i-remembered-too-much-3egp",
     "topic": "general"
   },
   {
-    "title": "A CI Retry Should Be an Experiment, Not a Reflex",
-    "desc": "<p>Flaky builds create a difficult kind of pressure. The code may be correct, the failure may disappear on rerun, and the delivery pipeline ",
-    "link": "https://dev.to/iqtechsolutions/a-ci-retry-should-be-an-experiment-not-a-reflex-4749",
+    "title": "Making a Service Survive an Availability Zone Outage \u2014 and Proving It for $0",
+    "desc": "<p>A reproducible multi-AZ resilience walkthrough: spread a service across simulated zones, kill one under load, and measure the dropped req",
+    "link": "https://dev.to/pradeep_kandepaneni/making-a-service-survive-an-availability-zone-outage-and-proving-it-for-0-565h",
     "topic": "general"
   },
   {
-    "title": "Agile Requirements Specification: How to Bridge Business Logic and Test Automation with BDD",
-    "desc": "<p>One of the most persistent challenges in Agile development is maintaining a clean, unambiguous link between business requirements and act",
-    "link": "https://dev.to/michael_weber_709b43dc7f0/agile-requirements-specification-how-to-bridge-business-logic-and-test-automation-with-bdd-3mb6",
-    "topic": "general"
-  },
-  {
-    "title": "The Feynman Guide to Docker",
-    "desc": "<p>Have you ever tried to run a piece of software on a friend's computer, only for it to fail immediately? You scratch your head, look at yo",
-    "link": "https://dev.to/chemacabeza/the-feynman-guide-to-docker-5f63",
+    "title": "Clean up Docker images that are taking up space",
+    "desc": "<p>You deploy, you rebuild, you test things. And one day, you look at your server and you have only 2 GB of free space left. Congratulations",
+    "link": "https://dev.to/thomasbnt/clean-up-docker-images-that-are-taking-up-space-2oem",
     "topic": "docker"
   },
   {
-    "title": "Which AI Certification Programs Provide Official Credentials Recognized by Employers?",
-    "desc": "<p>Artificial Intelligence (AI) has become one of the most sought-after skills across industries. As organizations continue to adopt AI tech",
-    "link": "https://dev.to/georgiaweston/which-ai-certification-programs-provide-official-credentials-recognized-by-employers-33fo",
+    "title": "Managing Environment Variables and Secrets",
+    "desc": "<p>Last time, in <a href=\"https://amanksingh.com/blog/docker-local-development-setup\" rel=\"noopener noreferrer\">Setting Up Docker for Local ",
+    "link": "https://dev.to/moose978/managing-environment-variables-and-secrets-342f",
     "topic": "general"
   },
   {
-    "title": "Docker Essentials: Containerizing Your First App \u2014 Like a Quest in Zelda",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Picture this: you\u2019ve just finished building a sweet little Node.js API that talks to a P",
-    "link": "https://dev.to/timevolt/docker-essentials-containerizing-your-first-app-like-a-quest-in-zelda-4pje",
+    "title": "Setting Up Docker for Local Development",
+    "desc": "<p>The <a href=\"https://amanksingh.com/blog/prisma-or-typeorm-nestjs\" rel=\"noopener noreferrer\">Prisma or TypeORM</a> article settled how th",
+    "link": "https://dev.to/moose978/setting-up-docker-for-local-development-3n4e",
     "topic": "docker"
   },
   {
-    "title": "Top 10 Custom Software Development Trends Transforming Businesses in 2026",
-    "desc": "<p>Off-the-shelf software used to be the safe choice. In 2026, it's increasingly the expensive one \u2014 expensive in lost efficiency, in workar",
-    "link": "https://dev.to/jade_williams/top-10-custom-software-development-trends-transforming-businesses-in-2026-2hdf",
+    "title": "Cloud Cost Optimization: A Practical Guide for Leaders",
+    "desc": "<p>Cloud cost optimization means lowering unnecessary cloud spend without harming reliability, security, or product delivery. In practice, t",
+    "link": "https://dev.to/esparksit/cloud-cost-optimization-a-practical-guide-for-leaders-4ni1",
+    "topic": "finops"
+  },
+  {
+    "title": "Wondering whether a virtual dedicated server is right for your next project?",
+    "desc": "<p>Wondering whether a virtual dedicated server is right for your next project?</p>\n\n<p>Quick tip: A VDS provides isolated resources and gre",
+    "link": "https://dev.to/onegbits/wondering-whether-a-virtual-dedicated-server-is-right-for-your-next-project-2o0f",
     "topic": "general"
   },
   {
-    "title": "Resilience at Scale: Queue-Driven Architecture in Laravel \u2699\ufe0f",
-    "desc": "<h2>The Synchronous Bottleneck</h2>\n\n<p>When an application scales, forcing users to wait for backend processes to finish synchronously is a",
-    "link": "https://dev.to/iprajapatiparesh/resilience-at-scale-queue-driven-architecture-in-laravel-hb8",
+    "title": "Preventing Unsafe Regional Failover in Amazon EKS with Policy-Gated Recovery",
+    "desc": "<p>This article was originally published on AWS Builder Center.</p>\n\n<p>A secondary Amazon EKS cluster can appear healthy while still being ",
+    "link": "https://dev.to/pradeep_kandepaneni/preventing-unsafe-regional-failover-in-amazon-eks-with-policy-gated-recovery-3c8l",
     "topic": "general"
   }
 ]

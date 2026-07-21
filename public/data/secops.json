@@ -1,5 +1,11 @@
 [
   {
+    "title": "Zimbra Update Patches Critical Vulnerabilities",
+    "desc": "<p>The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
     "desc": "<p>Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.</p>\n<p>The post",
     "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
@@ -40,11 +46,5 @@
     "desc": "<p>The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.</p>\n<",
     "link": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
     "topic": "secops"
-  },
-  {
-    "title": "Hugging Face Hacked in Autonomous AI Attack",
-    "desc": "<p>Targeting production infrastructure, the attack compromised internal datasets and service credentials.</p>\n<p>The post <a href=\"https://w",
-    "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
-    "topic": "huggingface"
   }
 ]
