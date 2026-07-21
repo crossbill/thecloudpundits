@@ -1,50 +1,50 @@
 [
   {
-    "title": "Best 10 Places to Buy Naver Accounts (Verified & Ready ...",
-    "desc": "<p>Buy Naver Accounts: Complete Guide to Features, Security, Risks & Responsible Account Management (2026)<br />\nIntroduction<br />\n\ud83d\udcde Contac",
-    "link": "https://dev.to/eilisfarleypgmnm/best-10-places-to-buy-naver-accounts-verified-ready--5b24",
+    "title": "pgwd 1.0: Cron Exit Codes for PostgreSQL Connection Alerts",
+    "desc": "<ul>\n<li>\n<strong>Follow-up to:</strong> <a href=\"https://dev.to/hrodrig/pgwd-a-watchdog-for-your-postgresql-connections-1pjg\">Intro</a> \u00b7 <",
+    "link": "https://dev.to/hrodrig/pgwd-10-cron-exit-codes-for-postgresql-connection-alerts-n3",
     "topic": "general"
   },
   {
-    "title": "I put an AI agent on a timer. Overnight it burned 136M tokens doing almost nothing.",
-    "desc": "<p>To keep one of our AI-agent projects moving without me, I did the obvious thing: I gave the<br />\norchestrating agent a scheduled wake-up",
-    "link": "https://dev.to/wartzarbee/i-put-an-ai-agent-on-a-timer-overnight-it-burned-136m-tokens-doing-almost-nothing-2ae2",
+    "title": "Why SLIs Matter More Than SLOs",
+    "desc": "<p>SLOs get all the attention. I want to argue that your SLIs are more important.</p>\n\n<p>Here's the thing: an SLO is a number you pick. 99.",
+    "link": "https://dev.to/samson_tanimawo/why-slis-matter-more-than-slos-4n8",
     "topic": "general"
   },
   {
-    "title": "Gold Eagle Can't Patch What Nobody Maintains: The EOL Hole in the White House's New Vulnerability Pipeline",
-    "desc": "<p>On July 14, the White House launched <strong>Gold Eagle</strong>, a national vulnerability coordination clearinghouse created by <a href=",
-    "link": "https://dev.to/endoflifeai/gold-eagle-cant-patch-what-nobody-maintains-the-eol-hole-in-the-white-houses-new-vulnerability-18bk",
-    "topic": "secops"
-  },
-  {
-    "title": "Learn grok-build in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent hours struggling to set up a new build tool for my Rust project, only to realize that",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-583l",
+    "title": "Stop Re-Explaining Your Business to AI. Get a Partner with Total Recall.",
+    "desc": "<p><strong>Every AI tool you've tried has the same problem:</strong> it forgets you.<br />\nYou spend 20 minutes explaining your business, yo",
+    "link": "https://dev.to/jerry_ballew_9add5e48965b/stop-re-explaining-your-business-to-ai-get-a-partner-with-total-recall-ol4",
     "topic": "general"
   },
   {
-    "title": "When Does Self-Hosting an LLM Actually Beat the API? The Break-Even Math",
-    "desc": "<p>Every team I've worked with hits the same argument about three months after shipping something on top of an LLM: <em>\"Should we still be ",
-    "link": "https://dev.to/framz/when-does-self-hosting-an-llm-actually-beat-the-api-the-break-even-math-gl1",
-    "topic": "general"
-  },
-  {
-    "title": "The Four Layers of Cloud Lock-In (and How Terraform Cuts Your Exit Cost)",
-    "desc": "<p>People throw around \"vendor lock-in\" like it's a binary \u2014 you either have it or you don't. That framing is why the conversation usually g",
-    "link": "https://dev.to/framz/the-four-layers-of-cloud-lock-in-and-how-terraform-cuts-your-exit-cost-17he",
-    "topic": "terraform"
-  },
-  {
-    "title": "Replit's AI Agent Deleted a Production Database During a Code Freeze. Then It Said Rollback Was Impossible. It Wasn't.",
-    "desc": "<p><em>The destructive action was recoverable in minutes. The agent's false claim that it wasn't is what nearly made the loss permanent. Rea",
-    "link": "https://dev.to/vibeagentmaking/replits-ai-agent-deleted-a-production-database-during-a-code-freeze-then-it-said-rollback-was-1ngl",
-    "topic": "general"
-  },
-  {
-    "title": "100 Days of DevOps and Cloud (AWS), Day 15: HTTPS on Nginx, and the Incremental Trick That Makes Snapshots Cheap",
-    "desc": "<p>Test before you reload. That one habit is the whole difference between a config change and an outage, and it is baked into how you work w",
-    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-15-https-on-nginx-and-the-incremental-trick-that-makes-nc5",
+    "title": "Every AWS project starts with copy-pasting last repo's Terraform. I built a generator instead.",
+    "desc": "<p>Be honest about how your last AWS project's infrastructure started. You copied the Terraform from the previous repo, deleted the bits tha",
+    "link": "https://dev.to/framz/every-aws-project-starts-with-copy-pasting-last-repos-terraform-i-built-a-generator-instead-2fpg",
     "topic": "aws"
+  },
+  {
+    "title": "Kubernetes Health Probes: Liveness, Readiness, and Startup Explained",
+    "desc": "<p>You've deployed your app to Kubernetes. The pod starts \u2014 then it gets killed. Or it's running but no traffic reaches it. Or it takes 90 s",
+    "link": "https://dev.to/toothbrush/kubernetes-health-probes-liveness-readiness-and-startup-explained-5app",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Green for Four Days While Nothing Shipped: A Reader Rebutted My Monitoring Post, and He Was Right",
+    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/monitor-green-nothing-shipped-score-the-effect.html\" rel=\"noopener",
+    "link": "https://dev.to/hexisteme/green-for-four-days-while-nothing-shipped-a-reader-rebutted-my-monitoring-post-and-he-was-right-3m11",
+    "topic": "general"
+  },
+  {
+    "title": "How to Use AI for Code Reviews: A Complete Prompt System",
+    "desc": "<p>Code reviews are where AI earns its keep. Not as a replacement for human review \u2014 but as a first pass that catches the obvious stuff.</p>",
+    "link": "https://dev.to/draftkit/how-to-use-ai-for-code-reviews-a-complete-prompt-system-n66",
+    "topic": "general"
+  },
+  {
+    "title": "A 500 Error Taught Me More Than a Green Checkmark Would Have",
+    "desc": "<p>I set up my first CI pipeline today. It failed on the first real run \u2014<br />\nnot because of a typo, but because the pipeline wasn't actua",
+    "link": "https://dev.to/iriandr/a-500-error-taught-me-more-than-a-green-checkmark-would-have-3040",
+    "topic": "general"
   }
 ]
