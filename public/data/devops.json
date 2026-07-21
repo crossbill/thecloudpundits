@@ -1,50 +1,50 @@
 [
   {
-    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
-    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
-    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-3dol",
+    "title": "Alert Fatigue: The Silent Productivity Killer",
+    "desc": "<p>Alert fatigue isn't a wellness issue. It's a production risk. And it's cheaper to fix than most people think.</p>\n\n<h2>\n  \n  \n  The math\n",
+    "link": "https://dev.to/samson_tanimawo/alert-fatigue-the-silent-productivity-killer-105g",
     "topic": "general"
   },
   {
-    "title": "Platform engineering for the agentic enterprise: Managing applications, resources, and AI agents",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/platform-engineering-for-the-agentic-enterprise-managing-applica",
-    "link": "https://dev.to/rasne/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents-3dii",
+    "title": "How I Use AI to Write Better Changelogs (With Examples)",
+    "desc": "<p>Changelogs are the most underappreciated piece of product communication. Users actually read them. Here's how to use AI to write changelo",
+    "link": "https://dev.to/draftkit/how-i-use-ai-to-write-better-changelogs-with-examples-15l1",
     "topic": "general"
   },
   {
-    "title": "Why your agent needs access to your documentation",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/why-your-agent-needs-access-to-your-documentation\" rel=\"noopener",
-    "link": "https://dev.to/rasne/why-your-agent-needs-access-to-your-documentation-132f",
+    "title": "Why Modern CI/CD Needs Self-Healing Resilience: Moving Beyond \"Re-run Failed Jobs\"",
+    "desc": "<p>Every DevOps engineer has seen it:<br />\nA deployment fails because Docker Hub returns a <code>503 Service Unavailable</code> or a packag",
+    "link": "https://dev.to/foldedodin/why-modern-cicd-needs-self-healing-resilience-moving-beyond-re-run-failed-jobs-38ld",
     "topic": "general"
   },
   {
-    "title": "What DevOps Actually Is (It's Not a Job Title)",
-    "desc": "<h2>\n  \n  \n  The most misunderstood word in tech\n</h2>\n\n<p>Open any job board and you'll see hundreds of \"DevOps Engineer\" roles. Read the l",
-    "link": "https://dev.to/sri2614/what-devops-actually-is-its-not-a-job-title-4amm",
+    "title": "Building Go CLIs with Cobra: a practical guide",
+    "desc": "<blockquote>\n<p><strong>Series:</strong> Platform engineering with Go | <strong>Topics:</strong> Go, Cobra, CLI, Platform Engineering</p>\n</",
+    "link": "https://dev.to/ferztyle/building-go-clis-with-cobra-a-practical-guide-40fi",
     "topic": "general"
   },
   {
-    "title": "What Is IT Staff Augmentation? Services, Companies and How to Choose Right",
-    "desc": "<p>The global staff augmentation market hit $299.3 billion in 2023 and is on track to exceed $857 billion by 2031. That is not a niche hirin",
-    "link": "https://dev.to/remotex_services_llp/what-is-it-staff-augmentation-services-companies-and-how-to-choose-right-p2m",
+    "title": "Why Reviewing IAM Policies One at a Time Misses the Real Risk",
+    "desc": "<p>Ask most teams how they review IAM, and the answer is some version of: pull up the policy, read the <code>Action</code> and <code>Resourc",
+    "link": "https://dev.to/shieldlyio/why-reviewing-iam-policies-one-at-a-time-misses-the-real-risk-4nh2",
+    "topic": "secops"
+  },
+  {
+    "title": "Why Are We Still Copy-Pasting YAML in GitHub Actions?",
+    "desc": "<p>If you manage a multi-repository architecture, you already know the pain I'm about to describe. </p>\n\n<p>You need to roll out a standardi",
+    "link": "https://dev.to/fawwaz_hayaza/why-are-we-still-copy-pasting-yaml-in-github-actions-77m",
     "topic": "general"
   },
   {
-    "title": "Not in any textbook \u2014 learned this from a 3am page:",
-    "desc": "<h1>\n  \n  \n  LinkedIn Draft \u2014 Workflow (2026-07-21)\n</h1>\n\n<p>Not in any textbook \u2014 learned this from a 3am page:</p>\n\n<p><strong>Kubernetes",
-    "link": "https://dev.to/neeraja_khanapure_4a33a5f/not-in-any-textbook-learned-this-from-a-3am-page-41a2",
+    "title": "The Production Readiness Checklist",
+    "desc": "<p>In the <a href=\"https://amanksingh.com/blog/performance-tuning-before-launch\" rel=\"noopener noreferrer\">last article</a>, I walked throug",
+    "link": "https://dev.to/moose978/the-production-readiness-checklist-p4b",
     "topic": "general"
   },
   {
-    "title": "The Long Night of Deployment: How We Tamed DNS, Nginx, Tor, and a Rebel Firewall",
-    "desc": "<p>The Article<br />\nIntroduction</p>\n\n<p>A few weeks ago, I started an ambitious project: MyZubster \u2013 a skills exchange platform with Moner",
-    "link": "https://dev.to/danielioni/the-long-night-of-deployment-how-we-tamed-dns-nginx-tor-and-a-rebel-firewall-8pm",
-    "topic": "general"
-  },
-  {
-    "title": "ownerdiff: CODEOWNERS for a git range",
-    "desc": "<p>Monorepo PRs (and agent sessions) touch many teams. <strong><a href=\"https://github.com/SybilGambleyyu/ownerdiff\" rel=\"noopener noreferre",
-    "link": "https://dev.to/sybilgambleyyu/ownerdiff-codeowners-for-a-git-range-1d8h",
+    "title": "Silent nginx Config Bugs That Pass nginx -t: if, location, add_header, alias",
+    "desc": "<p><code>nginx -t</code> returns <code>syntax is ok</code> and <code>test is successful</code>. <code>nginx -s reload</code> finishes withou",
+    "link": "https://dev.to/shinagawa-web/nginx-t-passed-but-the-behavior-is-wrong-config-patterns-that-break-silently-outside-the-syntax-2nnc",
     "topic": "general"
   }
 ]

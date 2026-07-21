@@ -1,5 +1,35 @@
 [
   {
+    "title": "Empirical Security Raises $25 Million in Series A Funding",
+    "desc": "<p>The startup will use the investment to accelerate the development of its threat prediction and discovery products.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/",
+    "topic": "secops"
+  },
+  {
+    "title": "SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity",
+    "desc": "<p>Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven imp",
+    "link": "https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/",
+    "topic": "secops"
+  },
+  {
+    "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
+    "desc": "<p>Part of a larger toolkit, HollowGraph uses a compromised 365 account\u2019s calendar as a two-way dead-drop.</p>\n<p>The post <a href=\"https://",
+    "link": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
+    "topic": "azure"
+  },
+  {
+    "title": "CISO Conversations: Andreas Gaetje \u2013 From Economics to CISO at K\u00f6rber AG",
+    "desc": "<p>Gaetje\u2019s story shows that you don\u2019t need to be a \u2018deep bit-crawler\u2019 to become a Chief Information Security Officer.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/",
+    "topic": "general"
+  },
+  {
+    "title": "Est\u00e9e Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
+    "desc": "<p>Hackers exfiltrated personal, financial, and health information from the company\u2019s Oracle EBS instance in August 2025.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/",
+    "topic": "general"
+  },
+  {
     "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
     "desc": "<p>A security researcher discovered a broken access control vulnerability in Meta\u2019s support infrastructure.</p>\n<p>The post <a href=\"https:/",
     "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
@@ -15,36 +45,6 @@
     "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
     "desc": "<p>The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
-    "topic": "secops"
-  },
-  {
-    "title": "Zimbra Update Patches Critical Vulnerabilities",
-    "desc": "<p>The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
-    "desc": "<p>Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
-    "topic": "general"
-  },
-  {
-    "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
-    "desc": "<p>The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
-    "topic": "general"
-  },
-  {
-    "title": "OpenSSL Silently Fixes \u2018HollowByte\u2019 DoS Vulnerability",
-    "desc": "<p>Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory.</p>\n<p>T",
-    "link": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "New Index Tracks Material Breaches \u2014 And Refuses to Add Up the Losses",
-    "desc": "<p>Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens.<",
-    "link": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
     "topic": "secops"
   }
 ]
