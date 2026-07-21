@@ -1,5 +1,23 @@
 [
   {
+    "title": "Eval-Gated AI Releases: Treating Retrieval Quality Like Unit Tests",
+    "desc": "<p>No backend team would merge a PR that fails the test suite. Yet many AI teams ship prompt and model changes with no automated quality che",
+    "link": "https://dev.to/venkathub/eval-gated-ai-releases-treating-retrieval-quality-like-unit-tests-4o9j",
+    "topic": "general"
+  },
+  {
+    "title": "Master Codex-Dream-Skin in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent hours struggling to optimize my JavaScript code, only to realize that I was using out",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-codex-dream-skin-in-5-mins-ek8",
+    "topic": "general"
+  },
+  {
+    "title": "I Let an AI Agent Fix My Broken CI/CD Pipeline and Here's What Happened",
+    "desc": "<p>A hands-on guide to Agentic AI in CI/CD. Build a self-healing pipeline that triages failures, opens PRs, and remediates issues with real ",
+    "link": "https://dev.to/devopslesson/i-let-an-ai-agent-fix-my-broken-cicd-pipeline-and-heres-what-happened-1144",
+    "topic": "general"
+  },
+  {
     "title": "Catch token-cost regressions in CI before they ship",
     "desc": "<p>Last year a team shipped a \"small prompt improvement\" on a Friday. By Monday their Claude bill had jumped 40%. Nobody caught it in review",
     "link": "https://dev.to/wartzarbee/catch-token-cost-regressions-in-ci-before-they-ship-35o3",
@@ -28,23 +46,5 @@
     "desc": "<p>Want to see a real system design implementation that cut AWS costs and scaled a project to millions of users? Here's exactly what we buil",
     "link": "https://dev.to/shahjalal-rafi/we-cut-aws-costs-85-while-scaling-to-millions-of-users-a-system-design-case-study-3jcf",
     "topic": "aws"
-  },
-  {
-    "title": "DEVOPS",
-    "desc": "<h1>\n  \n  \n  Why Every DevOps Engineer Needs to Fall in Love With Linux (Before Anything Else)\n</h1>\n\n<p>When I started learning DevOps, I m",
-    "link": "https://dev.to/prash_1_9a3a6266c93cd7276/devops-3bbi",
-    "topic": "general"
-  },
-  {
-    "title": "Benchmarking API Rate Limiters at 35k+ RPS: Nginx vs. Python vs. Rust",
-    "desc": "<p>Rate limiters are supposed to shield downstream services from traffic spikes. But what happens to the gateway itself when hit with tens o",
-    "link": "https://dev.to/__mr__/benchmarking-api-rate-limiters-at-35k-rps-nginx-vs-python-vs-rust-3i5a",
-    "topic": "general"
-  },
-  {
-    "title": "Automatisierte Wertermittlung und digitale Prozesse im modernen KFZ-Ankauf",
-    "desc": "<p>Die digitale Transformation hat l\u00e4ngst nicht mehr nur Branchen wie den E-Commerce oder das Finanzwesen revolutioniert, sondern greift sp\u00fc",
-    "link": "https://dev.to/shekh_kbir_1b42dd2dfa2d69/automatisierte-wertermittlung-und-digitale-prozesse-im-modernen-kfz-ankauf-o73",
-    "topic": "general"
   }
 ]
