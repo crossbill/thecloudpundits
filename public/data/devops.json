@@ -1,50 +1,50 @@
 [
   {
-    "title": "Alert Fatigue: The Silent Productivity Killer",
-    "desc": "<p>Alert fatigue isn't a wellness issue. It's a production risk. And it's cheaper to fix than most people think.</p>\n\n<h2>\n  \n  \n  The math\n",
-    "link": "https://dev.to/samson_tanimawo/alert-fatigue-the-silent-productivity-killer-105g",
-    "topic": "general"
-  },
-  {
-    "title": "How I Use AI to Write Better Changelogs (With Examples)",
-    "desc": "<p>Changelogs are the most underappreciated piece of product communication. Users actually read them. Here's how to use AI to write changelo",
-    "link": "https://dev.to/draftkit/how-i-use-ai-to-write-better-changelogs-with-examples-15l1",
-    "topic": "general"
-  },
-  {
-    "title": "Why Modern CI/CD Needs Self-Healing Resilience: Moving Beyond \"Re-run Failed Jobs\"",
-    "desc": "<p>Every DevOps engineer has seen it:<br />\nA deployment fails because Docker Hub returns a <code>503 Service Unavailable</code> or a packag",
-    "link": "https://dev.to/foldedodin/why-modern-cicd-needs-self-healing-resilience-moving-beyond-re-run-failed-jobs-38ld",
-    "topic": "general"
-  },
-  {
-    "title": "Building Go CLIs with Cobra: a practical guide",
-    "desc": "<blockquote>\n<p><strong>Series:</strong> Platform engineering with Go | <strong>Topics:</strong> Go, Cobra, CLI, Platform Engineering</p>\n</",
-    "link": "https://dev.to/ferztyle/building-go-clis-with-cobra-a-practical-guide-40fi",
-    "topic": "general"
-  },
-  {
-    "title": "Why Reviewing IAM Policies One at a Time Misses the Real Risk",
-    "desc": "<p>Ask most teams how they review IAM, and the answer is some version of: pull up the policy, read the <code>Action</code> and <code>Resourc",
-    "link": "https://dev.to/shieldlyio/why-reviewing-iam-policies-one-at-a-time-misses-the-real-risk-4nh2",
+    "title": "An AI audit found two invisible outages and a security hole in my own SaaS",
+    "desc": "<p>The dashboard was green and the product was down.<br />\nNot all the way down. Worse: down in the two places I wasn't looking, while every",
+    "link": "https://dev.to/madcoolseed/an-ai-audit-found-two-invisible-outages-and-a-security-hole-in-my-own-saas-4cl3",
     "topic": "secops"
   },
   {
-    "title": "Why Are We Still Copy-Pasting YAML in GitHub Actions?",
-    "desc": "<p>If you manage a multi-repository architecture, you already know the pain I'm about to describe. </p>\n\n<p>You need to roll out a standardi",
-    "link": "https://dev.to/fawwaz_hayaza/why-are-we-still-copy-pasting-yaml-in-github-actions-77m",
+    "title": "Docker vs Podman",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/altairlage/docker-vs-podman-564j",
+    "topic": "docker"
+  },
+  {
+    "title": "JWT (JSON Web Token) flow",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/altairlage/jwt-json-web-token-flow-4l7h",
     "topic": "general"
   },
   {
-    "title": "The Production Readiness Checklist",
-    "desc": "<p>In the <a href=\"https://amanksingh.com/blog/performance-tuning-before-launch\" rel=\"noopener noreferrer\">last article</a>, I walked throug",
-    "link": "https://dev.to/moose978/the-production-readiness-checklist-p4b",
+    "title": "Understanding AWS VPC: The Foundation of Every Cloud Network",
+    "desc": "<p>When I started learning AWS, I kept hearing the term <strong>VPC (Virtual Private Cloud)</strong> everywhere.</p>\n\n<p>At first, I assumed",
+    "link": "https://dev.to/hafiz_husnainamir/understanding-aws-vpc-the-foundation-of-every-cloud-network-21a6",
+    "topic": "aws"
+  },
+  {
+    "title": "Our CI eval gate sent us a token bill. The deterministic one sent nothing.",
+    "desc": "<p>TL;DR. A quality gate that grades every pull request with an LLM-as-judge metric is buying a judge call per PR, per metric, forever. At f",
+    "link": "https://dev.to/ethanwritesai/our-ci-eval-gate-sent-us-a-token-bill-the-deterministic-one-sent-nothing-o6g",
     "topic": "general"
   },
   {
-    "title": "Silent nginx Config Bugs That Pass nginx -t: if, location, add_header, alias",
-    "desc": "<p><code>nginx -t</code> returns <code>syntax is ok</code> and <code>test is successful</code>. <code>nginx -s reload</code> finishes withou",
-    "link": "https://dev.to/shinagawa-web/nginx-t-passed-but-the-behavior-is-wrong-config-patterns-that-break-silently-outside-the-syntax-2nnc",
+    "title": "10 AI Prompts I Use for DevOps and SRE Work (Incidents, Runbooks, On-Call)",
+    "desc": "<p>On-call shifts used to eat my evenings. The worst part wasn't the 2 AM page \u2014 it was writing up the incident afterward, updating the runb",
+    "link": "https://dev.to/draftkit/10-ai-prompts-i-use-for-devops-and-sre-work-incidents-runbooks-on-call-16k2",
+    "topic": "secops"
+  },
+  {
+    "title": "\"Private\" wasn't private: a fresh Gitea auth bypass, reproduced on a live lab",
+    "desc": "<p>People don't self-host git for fun. You stand up Gitea or Forgejo when the code can't leave the building. Not even into a private GitHub ",
+    "link": "https://dev.to/cynepmyx/private-wasnt-private-a-fresh-gitea-auth-bypass-reproduced-on-a-live-lab-2bkn",
     "topic": "general"
+  },
+  {
+    "title": "5 Kubernetes YAML Anti-Patterns I Still See in Production (And How to Fix Them)",
+    "desc": "<p>Unfortunately, I still see serious security risks in production environments. Therefore, I would like to highlight five common mistakes, ",
+    "link": "https://dev.to/theyamlguy/5-kubernetes-yaml-anti-patterns-i-still-see-in-production-and-how-to-fix-them-5318",
+    "topic": "kubernetes"
   }
 ]
