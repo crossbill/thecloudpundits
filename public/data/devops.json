@@ -1,50 +1,50 @@
 [
   {
-    "title": "An AI audit found two invisible outages and a security hole in my own SaaS",
-    "desc": "<p>The dashboard was green and the product was down.<br />\nNot all the way down. Worse: down in the two places I wasn't looking, while every",
-    "link": "https://dev.to/madcoolseed/an-ai-audit-found-two-invisible-outages-and-a-security-hole-in-my-own-saas-4cl3",
-    "topic": "secops"
-  },
-  {
-    "title": "Docker vs Podman",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/altairlage/docker-vs-podman-564j",
+    "title": "Gitea's Docker Image Shipped a Dangerous Default, and It's Still Catching People",
+    "desc": "<h1>\n  \n  \n  Gitea's Docker Image Shipped a Dangerous Default, and It's Still Catching People\n</h1>\n\n<p>Gitea <=1.26.2 had a problem. The of",
+    "link": "https://dev.to/schiff_heimlich/giteas-docker-image-shipped-a-dangerous-default-and-its-still-catching-people-1di0",
     "topic": "docker"
   },
   {
-    "title": "JWT (JSON Web Token) flow",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/altairlage/jwt-json-web-token-flow-4l7h",
+    "title": "Secure Test Credentials with the YoBox Password Generator",
+    "desc": "<p>Test credentials are the most under-thought attack surface in modern engineering. Every team has a password: \"Password123!\" somewhere in ",
+    "link": "https://dev.to/yobox/secure-test-credentials-with-the-yobox-password-generator-1jn6",
     "topic": "general"
   },
   {
-    "title": "Understanding AWS VPC: The Foundation of Every Cloud Network",
-    "desc": "<p>When I started learning AWS, I kept hearing the term <strong>VPC (Virtual Private Cloud)</strong> everywhere.</p>\n\n<p>At first, I assumed",
-    "link": "https://dev.to/hafiz_husnainamir/understanding-aws-vpc-the-foundation-of-every-cloud-network-21a6",
+    "title": "Master Codex-Dream-Skin in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours debugging a complex JavaScript issue, only to realize that I could have autom",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-codex-dream-skin-in-5-mins-38mg",
+    "topic": "general"
+  },
+  {
+    "title": "Claude Opus vs GPT Codex: Who Drives and Who Gets Driven in Real Incident Response",
+    "desc": "<p>In the world of AI-assisted operations, the difference between a model that drives and one that gets driven can mean hours of sleep lost ",
+    "link": "https://dev.to/mehrdadkhodaverdi/claude-opus-vs-gpt-codex-who-drives-and-who-gets-driven-in-real-incident-response-4a1j",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Top 10 Platforms to Buy Verified Alipay Accounts In",
+    "desc": "<p>Buy Verified Alipay Account: Complete Guide to Verification, Digital Payments, Security, and Safe Account Management (2026)<br />\nIntrodu",
+    "link": "https://dev.to/darivalenzuelanpi59/top-10-platforms-to-buy-verified-alipay-accounts-in-2nac",
+    "topic": "general"
+  },
+  {
+    "title": "Day 92 of #100DaysOfClickHouse - Read-Only Tables in ClickHouse\u00ae 26.3",
+    "desc": "<h2>\n  \n  \n  <strong>Day 92 of #100DaysOfClickHouse</strong>\n</h2>\n\n<h1>\n  \n  \n  <strong>Read-Only Tables in ClickHouse\u00ae 26.3: How <code>tab",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-92-of-100daysofclickhouse-read-only-tables-in-clickhouser-263-2433",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Production Grade AWS Infrastructure Project (Part 4): Security Groups Terraform",
+    "desc": "<h2>\n  \n  \n  Continuing the build\n</h2>\n\n<p>In my <a href=\"https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-p",
+    "link": "https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-4-security-groups-terraform-1cim",
     "topic": "aws"
   },
   {
-    "title": "Our CI eval gate sent us a token bill. The deterministic one sent nothing.",
-    "desc": "<p>TL;DR. A quality gate that grades every pull request with an LLM-as-judge metric is buying a judge call per PR, per metric, forever. At f",
-    "link": "https://dev.to/ethanwritesai/our-ci-eval-gate-sent-us-a-token-bill-the-deterministic-one-sent-nothing-o6g",
+    "title": "Day 91 of #100DaysOfClickHouse - Partition Pruning in ClickHouse\u00ae",
+    "desc": "<h1>\n  \n  \n  Partition Pruning in ClickHouse\u00ae: How It Really Works\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Partition pruning is one of th",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-91-of-100daysofclickhouse-partition-pruning-in-clickhouser-4a5a",
     "topic": "general"
-  },
-  {
-    "title": "10 AI Prompts I Use for DevOps and SRE Work (Incidents, Runbooks, On-Call)",
-    "desc": "<p>On-call shifts used to eat my evenings. The worst part wasn't the 2 AM page \u2014 it was writing up the incident afterward, updating the runb",
-    "link": "https://dev.to/draftkit/10-ai-prompts-i-use-for-devops-and-sre-work-incidents-runbooks-on-call-16k2",
-    "topic": "secops"
-  },
-  {
-    "title": "\"Private\" wasn't private: a fresh Gitea auth bypass, reproduced on a live lab",
-    "desc": "<p>People don't self-host git for fun. You stand up Gitea or Forgejo when the code can't leave the building. Not even into a private GitHub ",
-    "link": "https://dev.to/cynepmyx/private-wasnt-private-a-fresh-gitea-auth-bypass-reproduced-on-a-live-lab-2bkn",
-    "topic": "general"
-  },
-  {
-    "title": "5 Kubernetes YAML Anti-Patterns I Still See in Production (And How to Fix Them)",
-    "desc": "<p>Unfortunately, I still see serious security risks in production environments. Therefore, I would like to highlight five common mistakes, ",
-    "link": "https://dev.to/theyamlguy/5-kubernetes-yaml-anti-patterns-i-still-see-in-production-and-how-to-fix-them-5318",
-    "topic": "kubernetes"
   }
 ]
