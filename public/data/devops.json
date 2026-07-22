@@ -1,50 +1,50 @@
 [
   {
-    "title": "[Homelab AI Project] Ep.5 - Building a Lightweight Self-Hosted CI/CD Pipeline with Gitea and Act Runner",
-    "desc": "<h3>\n  \n  \n  1. The Challenge: Keeping Git and CI/CD under 150MB of RAM\n</h3>\n\n<p>In Episode 4, we decoupled our PostgreSQL database, Redis ",
-    "link": "https://dev.to/tristan_kilhwanchai_5954/homelab-ai-project-ep5-building-a-lightweight-self-hosted-cicd-pipeline-with-gitea-and-act-1l4h",
+    "title": "I read all 141 comments asking if OpenClaw is dead and the answer is messier than people think",
+    "desc": "<p>I went through all 141 comments on the viral r/openclaw thread asking whether OpenClaw is dead.</p>\n\n<p>My short version:</p>\n\n<p><strong",
+    "link": "https://dev.to/lars_winstand/i-read-all-141-comments-asking-if-openclaw-is-dead-and-the-answer-is-messier-than-people-think-4p13",
     "topic": "general"
   },
   {
-    "title": "Top 10 Best Lightspeed to WooCommerce Migration Companies",
-    "desc": "<p><em>You've got a Lightspeed POS system but you're stuck with limited ecommerce capabilities and expensive constraints. Time to migrate to",
-    "link": "https://dev.to/oliverpitts/top-10-best-lightspeed-to-woocommerce-migration-companies-1lj9",
+    "title": "Anti-bot without melting your budget: the proxy waterfall.",
+    "desc": "<p>Residential proxies are the caviar of scraping infra. They work when nothing else does, and they cost accordingly. The mistake I see over",
+    "link": "https://dev.to/votiakov/anti-bot-without-melting-your-budget-the-proxy-waterfall-4a04",
     "topic": "general"
   },
   {
-    "title": "The 'Game 3' Moment: Managing High-Stakes Agentic Failures in Real-Time",
-    "desc": "<h1>\n  \n  \n  The 'Game 3' Moment: Managing High-Stakes Agentic Failures in Real-Time\n</h1>\n\n<p>In high-stakes sports, Game 3 of a series is ",
-    "link": "https://dev.to/omnithium/the-game-3-moment-managing-high-stakes-agentic-failures-in-real-time-4f0f",
+    "title": "A letter that walks your network for you: reproducing a fresh Roundcube SSRF on a live lab",
+    "desc": "<p>You open an email. While you are reading it, your mail server is already knocking on an internal address you never handed it, because the",
+    "link": "https://dev.to/cynepmyx/a-letter-that-walks-your-network-for-you-reproducing-a-fresh-roundcube-ssrf-on-a-live-lab-1357",
     "topic": "general"
   },
   {
-    "title": "Adscs Digital Assets Expands Focus on Digital Security and Information Awareness",
-    "desc": "<p>Adscs Digital Assets Continues to Promote Digital Security Awareness Through Technology-Focused Initiatives</p>\n\n<p>Adscs Digital Assets ",
-    "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-expands-focus-on-digital-security-and-information-awareness-1bn8",
+    "title": "Zero Trust in DevSecOps: Securing the Modern Software Delivery Pipeline",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The traditional perimeter-based security model is dead. In 2026, CI/CD pipelines have become the single ",
+    "link": "https://dev.to/isuvo/zero-trust-in-devsecops-securing-the-modern-software-delivery-pipeline-3e4e",
     "topic": "secops"
   },
   {
-    "title": "Why Enterprise Scheduling Systems Are Evolving Beyond Traditional Job Automation",
-    "desc": "<h3>\n  \n  \n  Scheduling Systems Are Becoming the \"Autonomous Driving\" Control Center of Enterprise Digital Operations\n</h3>\n\n<p>In their pap",
-    "link": "https://dev.to/weeli_632477a9c141395/why-enterprise-scheduling-systems-are-evolving-beyond-traditional-job-automation-220i",
+    "title": "DevOps Engineer Seeks Practical Skill Development Beyond Foundational Tools: Strategies for Broader Exposure",
+    "desc": "<h2>\n  \n  \n  Introduction: The DevOps Learning Plateau\n</h2>\n\n<p>After the initial rush of mastering foundational tools like <strong>CI/CD p",
+    "link": "https://dev.to/maricode/devops-engineer-seeks-practical-skill-development-beyond-foundational-tools-strategies-for-broader-4c6i",
     "topic": "general"
   },
   {
-    "title": "The Test Automation Tool Landscape, Mapped",
-    "desc": "<p>Most teams do not pick a test automation tool once. They inherit one, patch around it for a year, then realize the tool choice is quietly",
-    "link": "https://dev.to/daniel_reade123/the-test-automation-tool-landscape-mapped-386",
+    "title": "Cloud: alertas de certificados que si orientan",
+    "desc": "<p>Las alertas de certificados vencidos parecen un tema menor hasta que llegan de madrugada y nadie entiende si el riesgo es real, si afecta",
+    "link": "https://dev.to/alexcarteruk/cloud-alertas-de-certificados-que-si-orientan-4mjd",
     "topic": "general"
   },
   {
-    "title": "I shipped DockRx: analyze Dockerfiles like a doctor, not a linter",
-    "desc": "<p>I got tired of Dockerfile linters that dump warnings with no sense of priority.</p>\n\n<p>So I built <strong>DockRx</strong> \u2014 it scores a ",
-    "link": "https://dev.to/ankit_patil_0f4066d0abc17/i-shipped-dockrx-analyze-dockerfiles-like-a-doctor-not-a-linter-3c5m",
-    "topic": "docker"
+    "title": "Treating AI Operators As Untrusted Kubernetes Components",
+    "desc": "<h2>\n  \n  \n  Field Note\n</h2>\n\n<p>The most useful pattern this week is people finally treating \u201cAI\u201d like any other untrusted system componen",
+    "link": "https://dev.to/abhinav2001/treating-ai-operators-as-untrusted-kubernetes-components-45oe",
+    "topic": "kubernetes"
   },
   {
-    "title": "Audit Trails for AI Writing Cron Jobs",
-    "desc": "<p>Scheduled AI writing jobs look simple right up until one of them posts the wrong draft, reuses stale context, or quietly fails after doin",
-    "link": "https://dev.to/mrdapperx/audit-trails-for-ai-writing-cron-jobs-ha2",
+    "title": "95% of AI Agent Pilots Deliver Zero ROI. Here's What Actually Works in Production",
+    "desc": "<p><em>Gartner says $234B is at risk from agentic AI. 95% of enterprise pilots deliver zero ROI. Here's what separates the 5% that actually ",
+    "link": "https://dev.to/isuvo/95-of-ai-agent-pilots-deliver-zero-roi-heres-what-actually-works-in-production-209d",
     "topic": "general"
   }
 ]
