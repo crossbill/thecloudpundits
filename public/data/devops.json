@@ -1,50 +1,50 @@
 [
   {
-    "title": "Samsung Galaxy Z Fold8 Ultra: First Look at Next-Gen Foldables",
-    "desc": "<p>Forget everything you thought you knew about folding phones. The Samsung Galaxy Z Fold8 Ultra isn't just a spec bump; it's a fundamental ",
-    "link": "https://dev.to/thomas_woodfin_3a4efcd491/samsung-galaxy-z-fold8-ultra-first-look-at-next-gen-foldables-519c",
+    "title": "Deploying a Telegram Bot Should Not Require Becoming a DevOps Engineer",
+    "desc": "<p>A Telegram bot can be surprisingly small.</p>\n\n<p>The first version may contain:</p>\n\n<ul>\n<li>one command handler;</li>\n<li>a few API ca",
+    "link": "https://dev.to/leshan/deploying-a-telegram-bot-should-not-require-becoming-a-devops-engineer-51eo",
     "topic": "general"
   },
   {
-    "title": "How to Test AI Features Without Pretending They Are Deterministic",
-    "desc": "<p>Traditional UI testing is built around deterministic expectations.</p>\n\n<p>Enter a known value. Click a known button. Receive a known res",
-    "link": "https://dev.to/sleepyfalcon247/how-to-test-ai-features-without-pretending-they-are-deterministic-265g",
+    "title": "citesure 0.4: software citations, CJK scripts, offline DOI lint",
+    "desc": "<p>Papers are not the only place citations go wrong. Research software ships <code>CITATION.cff</code> with Zenodo DOIs; multilingual drafts",
+    "link": "https://dev.to/sybilgambleyyu/citesure-04-software-citations-cjk-scripts-offline-doi-lint-4cdb",
     "topic": "general"
   },
   {
-    "title": "Your Stopped GCP VM Is Not Guaranteed to Start Again",
-    "desc": "<p>The setup: an <strong>ephemeral staging box</strong>. Nobody reviews releases at 2 AM, so a scheduler auto-stops it every evening after b",
-    "link": "https://dev.to/edpittol/your-stopped-gcp-vm-is-not-guaranteed-to-start-again-3159",
-    "topic": "gcp"
+    "title": "ActionsManager - manage GitHub Actions across repositories",
+    "desc": "<p>I\u2019ve been working on a self-hosted tool for managing GitHub Actions across multiple repositories, mostly because I was tired of maintaini",
+    "link": "https://dev.to/actionsmanager/actionsmanager-manage-github-actions-across-repositories-4e7o",
+    "topic": "general"
   },
   {
-    "title": "ML Zoomcamp WEEK 10: Kubernetes. Finally!!!",
-    "desc": "<p>Like Docker, Kubernetes is one of those words I see being thrown around, and I've always been curious about it. Which is one of the reaso",
-    "link": "https://dev.to/olyray/ml-zoomcamp-week-10-kubernetes-finally-3ah5",
+    "title": "From DevOps to SRE: Making the Transition",
+    "desc": "<p>I moved from a DevOps title to an SRE title about 6 years ago. On paper, they look similar. In practice, the mindset is different. Here's",
+    "link": "https://dev.to/samson_tanimawo/from-devops-to-sre-making-the-transition-4km9",
+    "topic": "general"
+  },
+  {
+    "title": "A dataset breached the world's largest AI model hub",
+    "desc": "<blockquote>\n<p>\ud83e\udd16 <em>This article was written by an autonomous AI agent. Published in line with DEV's AI-assisted content guidelines.</em><",
+    "link": "https://dev.to/lainagent_ai/a-dataset-breached-the-worlds-largest-ai-model-hub-363b",
+    "topic": "secops"
+  },
+  {
+    "title": "Emulators, Simulators, And Real Devices Compared",
+    "desc": "<p>A test pass can look perfect on a laptop and still fail the moment someone taps the app on an aging phone with a weak signal. That gap is",
+    "link": "https://dev.to/graceholloway_/emulators-simulators-and-real-devices-compared-32h5",
+    "topic": "general"
+  },
+  {
+    "title": "From Docker Build to Kubernetes Deploy on Ubuntu: The Image Workflow That Never Changed",
+    "desc": "<p>Amid all the noise about dockershim, one thing got lost: <strong>the everyday workflow of building an image with Docker and running it on",
+    "link": "https://dev.to/jjoyneriv/from-docker-build-to-kubernetes-deploy-on-ubuntu-the-image-workflow-that-never-changed-d4f",
     "topic": "kubernetes"
   },
   {
-    "title": "THE NEW FACE OF ENTERTAINMENT: HOW DIGITAL STARS ARE TAKING OVER",
-    "desc": "<p>THE NEW FACE OF ENTERTAINMENT: HOW DIGITAL STARS ARE TAKING OVER</p>\n\n<p>Entertainment has entered a new era, and the spotlight is no lon",
-    "link": "https://dev.to/adeniran_adebayoadekunle/the-new-face-of-entertainment-how-digital-stars-are-taking-over-5c4a",
-    "topic": "general"
-  },
-  {
-    "title": "AWS Launches Self-Hosted Claude Apps Gateway to Centralize Governance of AI Coding Agents",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/isuvo/aws-launches-self-hosted-claude-apps-gateway-to-centralize-governance-of-ai-coding-agents-5462",
-    "topic": "aws"
-  },
-  {
-    "title": "A real Docker exercise from our course platform (try it yourself)",
-    "desc": "<h2>\n  \n  \n  Skip the pitch, here's the exercise\n</h2>\n\n<p>Rather than describe our coding education platform in the abst<br />\nract, I want",
-    "link": "https://dev.to/cursora/a-real-docker-exercise-from-our-course-platform-try-it-yourself-477a",
+    "title": "Install Docker on Ubuntu 26.04 (the right way, with the docker-group truth)",
+    "desc": "<p>The wrong way to install Docker on Ubuntu is the one that looks easiest: <code>sudo apt install docker.io</code>. That package exists, it",
+    "link": "https://dev.to/peculiarengineer/install-docker-on-ubuntu-2604-the-right-way-with-the-docker-group-truth-1knd",
     "topic": "docker"
-  },
-  {
-    "title": "Building on Vercel? Your Logs Now Have a Better Home",
-    "desc": "<p><em>Authored by Adam Og\u00f3rek</em></p>\n\n<p>Vercel is one of the breakout stories of the AI boom. From being a scrappy deployment tool on la",
-    "link": "https://dev.to/bronto_io/building-on-vercel-your-logs-now-have-a-better-home-235g",
-    "topic": "general"
   }
 ]
