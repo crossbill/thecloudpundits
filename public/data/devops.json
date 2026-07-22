@@ -1,50 +1,50 @@
 [
   {
-    "title": "Recipes for a small developer toolkit",
-    "desc": "<p>Copy-paste workflows using <a href=\"https://sybilgambleyyu.github.io/posts/toolkit/\" rel=\"noopener noreferrer\">the toolkit</a>.</p>\n\n<h2>",
-    "link": "https://dev.to/sybilgambleyyu/recipes-for-a-small-developer-toolkit-13ph",
+    "title": "The SRE Interview: Questions I Actually Ask",
+    "desc": "<p>I've interviewed maybe 300 SRE candidates over the years. Most interviews are bad. Leetcode for people who don't write production code. S",
+    "link": "https://dev.to/samson_tanimawo/the-sre-interview-questions-i-actually-ask-5ffk",
     "topic": "general"
   },
   {
-    "title": "I made a policy engine think it was in production",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/i-made-a-policy-engine-think-it-was-in-production\" rel=\"noopener",
-    "link": "https://dev.to/rasne/i-made-a-policy-engine-think-it-was-in-production-379n",
+    "title": "Factory.ai vs Devin: Stop Comparing Features. Compare How They Change Software Delivery.",
+    "desc": "<p>A few weeks ago, someone asked me a simple question:</p>\n\n<p>\"Should I use Factory.ai or Devin?\"</p>\n\n<p>My first instinct was to compare",
+    "link": "https://dev.to/joshua_dyson/factoryai-vs-devin-stop-comparing-features-compare-how-they-change-software-delivery-4696",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions & CI/CD, Explained Like a Robot Assembly Line",
-    "desc": "<blockquote>\n<p><em>Estimated reading time: ~6 minutes. No prior experience required.</em></p>\n</blockquote>\n\n\n\n\n<h2>\n  \n  \n  The Friday dep",
-    "link": "https://dev.to/ramkumar-m-n/github-actions-cicd-explained-like-a-robot-assembly-line-1f7c",
+    "title": "IdentyClaw Passport vs static secrets: when cryptographic agent identity beats API keys",
+    "desc": "<h1>\n  \n  \n  Passport vs static secrets: when cryptographic agent identity beats API keys\n</h1>\n\n<p>Running OpenClaw across hosts or talking",
+    "link": "https://dev.to/discernible-io/identyclaw-passport-vs-static-secrets-when-cryptographic-agent-identity-beats-api-keys-pm0",
     "topic": "general"
   },
   {
-    "title": "Stop Making Your Senior Engineers Do Tier-1 Support: A Practical Guide to Escalation Protocols",
-    "desc": "<h2>\n  \n  \n  The Developer Interrupt Problem\n</h2>\n\n<p>Every interruption costs more than it looks like on the surface. A single Slack ping ",
-    "link": "https://dev.to/beranto_rafalinjanahary_a/stop-making-your-senior-engineers-do-tier-1-support-a-practical-guide-to-escalation-protocols-ofb",
+    "title": "Automating Linux Tasks with Bash",
+    "desc": "<blockquote>\n<p>\"Every repetitive task is an opportunity waiting to be automated.\"</p>\n</blockquote>\n\n<p><strong>One of the biggest lessons ",
+    "link": "https://dev.to/rubi_cloud/automating-linux-tasks-with-bash-192l",
     "topic": "general"
   },
   {
-    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
-    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
-    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-5ci7",
-    "topic": "general"
+    "title": "Quantum Computing & Quantum-Safe Security: The Race to 2029",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/isuvo/quantum-computing-quantum-safe-security-the-race-to-2029-4kon",
+    "topic": "secops"
   },
   {
-    "title": "What is a Power Inductor? Understanding Its Role in Modern Power Electronics",
-    "desc": "<p><a href=\"https://magnoteknik.com/what-is-a-power-inductor/\" rel=\"noopener noreferrer\">Power electronics</a> are at the heart of today's t",
-    "link": "https://dev.to/seo_mango_ff23a49da4a741/what-is-a-power-inductor-understanding-its-role-in-modern-power-electronics-33n4",
-    "topic": "general"
+    "title": "What the IAM Policy Simulator Actually Tells You (and What It Doesn't)",
+    "desc": "<p>AWS ships a policy simulator: paste a principal, an action, a resource, and it tells you whether that specific request would be allowed o",
+    "link": "https://dev.to/shieldlyio/what-the-iam-policy-simulator-actually-tells-you-and-what-it-doesnt-22ef",
+    "topic": "secops"
   },
   {
-    "title": "MLOps & AIOps Online Recorded Demo Video",
-    "desc": "<p>\ud835\udde0\ud835\udddf\ud835\udde2\ud835\uddfd\ud835\ude00 & \ud835\uddd4\ud835\udddc\ud835\udde2\ud835\uddfd\ud835\ude00 \ud835\udde2\ud835\uddfb\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf2 \ud835\udde5\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddff\ud835\uddf1\ud835\uddf2\ud835\uddf1 \ud835\uddd7\ud835\uddf2\ud835\uddfa\ud835\uddfc \ud835\udde9\ud835\uddf6\ud835\uddf1\ud835\uddf2\ud835\uddfc<br />\nMode of Training: Online<br />\n\ud835\uddd6\ud835\uddfc\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf0\ud835\ude01 \ud83d\udcf2  +91-7032290546<br />\n\ud83d\udd35Please join in the WhatsAp",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/mlops-aiops-online-recorded-demo-video-im",
-    "topic": "general"
+    "title": "Kubernetes Liveness, Readiness, and Startup Probes: A Practical Guide",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/kubernetes-liveness-readiness-startup-probes-guide\" re",
+    "link": "https://dev.to/devtocash/kubernetes-liveness-readiness-and-startup-probes-a-practical-guide-4k0i",
+    "topic": "kubernetes"
   },
   {
-    "title": "The Best Flutter App Development Companies to Consider in 2026",
-    "desc": "<p>Flutter is no longer a promising cross-platform framework but one of the most popular frameworks to create a mobile app. Supported by Goo",
-    "link": "https://dev.to/akhil_sanghvi_a4b1d875042/the-best-flutter-app-development-companies-to-consider-in-2026-27kk",
+    "title": "Runtime Enforcement, Not Runtime Advice",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/runtime-enforcement-not-runtime-advice\" rel=\"noopener noreferrer",
+    "link": "https://dev.to/rasne/runtime-enforcement-not-runtime-advice-1lbh",
     "topic": "general"
   }
 ]
