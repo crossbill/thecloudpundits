@@ -1,5 +1,41 @@
 [
   {
+    "title": "Samsung Galaxy Z Fold8 Ultra: First Look at Next-Gen Foldables",
+    "desc": "<p>Forget everything you thought you knew about folding phones. The Samsung Galaxy Z Fold8 Ultra isn't just a spec bump; it's a fundamental ",
+    "link": "https://dev.to/thomas_woodfin_3a4efcd491/samsung-galaxy-z-fold8-ultra-first-look-at-next-gen-foldables-519c",
+    "topic": "general"
+  },
+  {
+    "title": "How to Test AI Features Without Pretending They Are Deterministic",
+    "desc": "<p>Traditional UI testing is built around deterministic expectations.</p>\n\n<p>Enter a known value. Click a known button. Receive a known res",
+    "link": "https://dev.to/sleepyfalcon247/how-to-test-ai-features-without-pretending-they-are-deterministic-265g",
+    "topic": "general"
+  },
+  {
+    "title": "Your Stopped GCP VM Is Not Guaranteed to Start Again",
+    "desc": "<p>The setup: an <strong>ephemeral staging box</strong>. Nobody reviews releases at 2 AM, so a scheduler auto-stops it every evening after b",
+    "link": "https://dev.to/edpittol/your-stopped-gcp-vm-is-not-guaranteed-to-start-again-3159",
+    "topic": "gcp"
+  },
+  {
+    "title": "ML Zoomcamp WEEK 10: Kubernetes. Finally!!!",
+    "desc": "<p>Like Docker, Kubernetes is one of those words I see being thrown around, and I've always been curious about it. Which is one of the reaso",
+    "link": "https://dev.to/olyray/ml-zoomcamp-week-10-kubernetes-finally-3ah5",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "THE NEW FACE OF ENTERTAINMENT: HOW DIGITAL STARS ARE TAKING OVER",
+    "desc": "<p>THE NEW FACE OF ENTERTAINMENT: HOW DIGITAL STARS ARE TAKING OVER</p>\n\n<p>Entertainment has entered a new era, and the spotlight is no lon",
+    "link": "https://dev.to/adeniran_adebayoadekunle/the-new-face-of-entertainment-how-digital-stars-are-taking-over-5c4a",
+    "topic": "general"
+  },
+  {
+    "title": "AWS Launches Self-Hosted Claude Apps Gateway to Centralize Governance of AI Coding Agents",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/isuvo/aws-launches-self-hosted-claude-apps-gateway-to-centralize-governance-of-ai-coding-agents-5462",
+    "topic": "aws"
+  },
+  {
     "title": "A real Docker exercise from our course platform (try it yourself)",
     "desc": "<h2>\n  \n  \n  Skip the pitch, here's the exercise\n</h2>\n\n<p>Rather than describe our coding education platform in the abst<br />\nract, I want",
     "link": "https://dev.to/cursora/a-real-docker-exercise-from-our-course-platform-try-it-yourself-477a",
@@ -9,42 +45,6 @@
     "title": "Building on Vercel? Your Logs Now Have a Better Home",
     "desc": "<p><em>Authored by Adam Og\u00f3rek</em></p>\n\n<p>Vercel is one of the breakout stories of the AI boom. From being a scrappy deployment tool on la",
     "link": "https://dev.to/bronto_io/building-on-vercel-your-logs-now-have-a-better-home-235g",
-    "topic": "general"
-  },
-  {
-    "title": "Running headless Chrome in production is a part-time job",
-    "desc": "<p>It works on your laptop. You wrote fifteen lines of Puppeteer, pointed it at a<br />\nURL, got a PNG back. You wrapped it in a route, depl",
-    "link": "https://dev.to/stevie_g/running-headless-chrome-in-production-is-a-part-time-job-16d1",
-    "topic": "general"
-  },
-  {
-    "title": "I gave an on-call autopilot a hard \"stop and ask a human\" gate \u2014 here's the state machine that makes it safe",
-    "desc": "<p>It's 3am. Your phone lights up with a page you've seen four times this quarter. You know the fix. You've <em>documented</em> the fix. And",
-    "link": "https://dev.to/kopachelli/i-gave-an-on-call-autopilot-a-hard-stop-and-ask-a-human-gate-heres-the-state-machine-that-hm5",
-    "topic": "general"
-  },
-  {
-    "title": "Why AI Apps Fail in Production (And How Google Solved It)",
-    "desc": "<p>We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you can take a wild idea from a blank scr",
-    "link": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
-    "topic": "general"
-  },
-  {
-    "title": "WordPress cron behind a load balancer: fixing 'Missed schedule'",
-    "desc": "<p>A newsroom schedules its lead story for six in the morning. At 6:05 it is not on the homepage. Nobody did anything wrong: the post was wr",
-    "link": "https://dev.to/mantekio/wordpress-cron-behind-a-load-balancer-fixing-missed-schedule-2184",
-    "topic": "general"
-  },
-  {
-    "title": "Engineering Internationalization: Hreflang, Subdirectory Routing, and CDN Architecture",
-    "desc": "<p>When scaling web applications globally, internationalization (i18n) isn't just about translating UI strings or setting up localization li",
-    "link": "https://dev.to/adslectic/engineering-internationalization-hreflang-subdirectory-routing-and-cdn-architecture-3ckn",
-    "topic": "general"
-  },
-  {
-    "title": "Automated On-Call Roster Alerting System",
-    "desc": "<h2>\n  \n  \n  Overview\n</h2>\n\n<p>I built an automated on-call alerting system that reads team schedules from a central Google Sheet and sends",
-    "link": "https://dev.to/wajahataliabid/automated-on-call-roster-alerting-system-4gfj",
     "topic": "general"
   }
 ]
