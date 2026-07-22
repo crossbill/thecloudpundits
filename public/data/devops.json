@@ -1,50 +1,50 @@
 [
   {
-    "title": "Octomind Cloud Is Live: Real Machines for Your Agent, Every Model Through One Key",
-    "desc": "<blockquote>\n<p>This post originally appeared on <a href=\"https://octomind.run/blog/octomind-cloud-launch\" rel=\"noopener noreferrer\">octomin",
-    "link": "https://dev.to/donk8r/octomind-cloud-is-live-real-machines-for-your-agent-every-model-through-one-key-3ei9",
-    "topic": "general"
-  },
-  {
-    "title": "WordPress path security: return 404 before PHP runs (Apache + nginx)",
-    "desc": "<p>Every default WordPress install answers the same handful of requests at the same paths. That's what lets one script attack hundreds of th",
-    "link": "https://dev.to/cifi/wordpress-path-security-return-404-before-php-runs-apache-nginx-30ba",
-    "topic": "secops"
-  },
-  {
-    "title": "AI Agents Need Test Suites, Not Code Reviewers",
-    "desc": "<p><em>Originally published at <a href=\"https://www.tddbuddy.com/blog/your-first-kata-fizzbuzz-step-by-step/\" rel=\"noopener noreferrer\">tddb",
-    "link": "https://dev.to/tmfrisinger/ai-agents-need-test-suites-not-code-reviewers-34l1",
-    "topic": "general"
-  },
-  {
-    "title": "Day 94/100 \u2013 Automated Insert Batching in ClickHouse\u00ae 26.3: Higher Throughput with Asynchronous Inserts",
-    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Modern data platforms are expected to ingest massive volumes of data in real time. Whether it's applicat",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-94100-automated-insert-batching-in-clickhouser-263-higher-throughput-with-asynchronous-al9",
-    "topic": "general"
-  },
-  {
-    "title": "From \"kubectl apply\" to a self-driving platform: a GitOps homelab, evolved",
-    "desc": "<blockquote>\n<p>Long read. This is the story of how a laptop cluster went from <em>\"I threw some<br />\nmanifests at it\"</em> to a platform t",
-    "link": "https://dev.to/redbul1ka/from-kubectl-apply-to-a-self-driving-platform-a-gitops-homelab-evolved-28db",
-    "topic": "general"
-  },
-  {
-    "title": "Day 93/100 \u2013 New Unicode String Functions in ClickHouse\u00ae 26.3: Better Text Search and Normalization",
-    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Modern data platforms process enormous volumes of text originating from users all over the world. Names,",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-93100-new-unicode-string-functions-in-clickhouser-263-better-text-search-and-normalization-1joe",
-    "topic": "general"
-  },
-  {
-    "title": "Confidential Containers becomes a CNCF incubating project",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/confidential-containers-becomes-a-cncf-incubating-project\" rel=\"",
-    "link": "https://dev.to/rasne/confidential-containers-becomes-a-cncf-incubating-project-f70",
+    "title": "A real Docker exercise from our course platform (try it yourself)",
+    "desc": "<h2>\n  \n  \n  Skip the pitch, here's the exercise\n</h2>\n\n<p>Rather than describe our coding education platform in the abst<br />\nract, I want",
+    "link": "https://dev.to/cursora/a-real-docker-exercise-from-our-course-platform-try-it-yourself-477a",
     "topic": "docker"
   },
   {
-    "title": "The Cheap Way to Add AI Review to CI: Small Local Models Plus Prompt Caching",
-    "desc": "<p>I wired an AI code reviewer into CI, felt clever, and then looked at the bill after a busy week of PRs. Every push, every commit, sending",
-    "link": "https://dev.to/pavelespitia/the-cheap-way-to-add-ai-review-to-ci-small-local-models-plus-prompt-caching-4748",
+    "title": "Building on Vercel? Your Logs Now Have a Better Home",
+    "desc": "<p><em>Authored by Adam Og\u00f3rek</em></p>\n\n<p>Vercel is one of the breakout stories of the AI boom. From being a scrappy deployment tool on la",
+    "link": "https://dev.to/bronto_io/building-on-vercel-your-logs-now-have-a-better-home-235g",
+    "topic": "general"
+  },
+  {
+    "title": "Running headless Chrome in production is a part-time job",
+    "desc": "<p>It works on your laptop. You wrote fifteen lines of Puppeteer, pointed it at a<br />\nURL, got a PNG back. You wrapped it in a route, depl",
+    "link": "https://dev.to/stevie_g/running-headless-chrome-in-production-is-a-part-time-job-16d1",
+    "topic": "general"
+  },
+  {
+    "title": "I gave an on-call autopilot a hard \"stop and ask a human\" gate \u2014 here's the state machine that makes it safe",
+    "desc": "<p>It's 3am. Your phone lights up with a page you've seen four times this quarter. You know the fix. You've <em>documented</em> the fix. And",
+    "link": "https://dev.to/kopachelli/i-gave-an-on-call-autopilot-a-hard-stop-and-ask-a-human-gate-heres-the-state-machine-that-hm5",
+    "topic": "general"
+  },
+  {
+    "title": "Why AI Apps Fail in Production (And How Google Solved It)",
+    "desc": "<p>We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you can take a wild idea from a blank scr",
+    "link": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
+    "topic": "general"
+  },
+  {
+    "title": "WordPress cron behind a load balancer: fixing 'Missed schedule'",
+    "desc": "<p>A newsroom schedules its lead story for six in the morning. At 6:05 it is not on the homepage. Nobody did anything wrong: the post was wr",
+    "link": "https://dev.to/mantekio/wordpress-cron-behind-a-load-balancer-fixing-missed-schedule-2184",
+    "topic": "general"
+  },
+  {
+    "title": "Engineering Internationalization: Hreflang, Subdirectory Routing, and CDN Architecture",
+    "desc": "<p>When scaling web applications globally, internationalization (i18n) isn't just about translating UI strings or setting up localization li",
+    "link": "https://dev.to/adslectic/engineering-internationalization-hreflang-subdirectory-routing-and-cdn-architecture-3ckn",
+    "topic": "general"
+  },
+  {
+    "title": "Automated On-Call Roster Alerting System",
+    "desc": "<h2>\n  \n  \n  Overview\n</h2>\n\n<p>I built an automated on-call alerting system that reads team schedules from a central Google Sheet and sends",
+    "link": "https://dev.to/wajahataliabid/automated-on-call-roster-alerting-system-4gfj",
     "topic": "general"
   }
 ]
