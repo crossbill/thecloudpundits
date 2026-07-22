@@ -1,50 +1,50 @@
 [
   {
-    "title": "TRUE Coverage: How We Achieved 90% Faster CI by Measuring What Tests Actually Do",
-    "desc": "<p><strong>TL;DR:</strong> Use per-test coverage data to build a reverse map (file \u2192 tests that touch it). Git diff + map lookup = run only ",
-    "link": "https://dev.to/anthony_dawson_7e5553bb8e/true-coverage-how-we-achieved-90-faster-ci-by-measuring-what-tests-actually-do-4ihg",
+    "title": "Octomind Cloud Is Live: Real Machines for Your Agent, Every Model Through One Key",
+    "desc": "<blockquote>\n<p>This post originally appeared on <a href=\"https://octomind.run/blog/octomind-cloud-launch\" rel=\"noopener noreferrer\">octomin",
+    "link": "https://dev.to/donk8r/octomind-cloud-is-live-real-machines-for-your-agent-every-model-through-one-key-3ei9",
     "topic": "general"
   },
   {
-    "title": "Catch the dangerous Postgres migration at the CI step",
-    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight sql\"><code><span class=\"c1\">-- looks routine in review, locks your table in ",
-    "link": "https://dev.to/technical_turtle/catch-the-dangerous-postgres-migration-at-the-ci-step-1dd9",
+    "title": "WordPress path security: return 404 before PHP runs (Apache + nginx)",
+    "desc": "<p>Every default WordPress install answers the same handful of requests at the same paths. That's what lets one script attack hundreds of th",
+    "link": "https://dev.to/cifi/wordpress-path-security-return-404-before-php-runs-apache-nginx-30ba",
+    "topic": "secops"
+  },
+  {
+    "title": "AI Agents Need Test Suites, Not Code Reviewers",
+    "desc": "<p><em>Originally published at <a href=\"https://www.tddbuddy.com/blog/your-first-kata-fizzbuzz-step-by-step/\" rel=\"noopener noreferrer\">tddb",
+    "link": "https://dev.to/tmfrisinger/ai-agents-need-test-suites-not-code-reviewers-34l1",
     "topic": "general"
   },
   {
-    "title": "Governance in Spec-Driven Development",
-    "desc": "<h4>\n  \n  \n  A reproducible GCP example using GitHub Spec Kit, SicarioSpec, Terraform, Checkov, and Conftest to turn AI-assisted intent into",
-    "link": "https://dev.to/dfirs1car1o/governance-in-spec-driven-development-4ce1",
+    "title": "Day 94/100 \u2013 Automated Insert Batching in ClickHouse\u00ae 26.3: Higher Throughput with Asynchronous Inserts",
+    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Modern data platforms are expected to ingest massive volumes of data in real time. Whether it's applicat",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-94100-automated-insert-batching-in-clickhouser-263-higher-throughput-with-asynchronous-al9",
     "topic": "general"
   },
   {
-    "title": "The Ultimate Shapewear Gift Guide: Because She Deserves to Feel Amazing",
-    "desc": "<p>Let's face it: buying gifts for the women in your life is hard. Perfume is too personal. Jewelry is too expensive. Flowers die. But here'",
-    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/the-ultimate-shapewear-gift-guide-because-she-deserves-to-feel-amazing-46km",
+    "title": "From \"kubectl apply\" to a self-driving platform: a GitOps homelab, evolved",
+    "desc": "<blockquote>\n<p>Long read. This is the story of how a laptop cluster went from <em>\"I threw some<br />\nmanifests at it\"</em> to a platform t",
+    "link": "https://dev.to/redbul1ka/from-kubectl-apply-to-a-self-driving-platform-a-gitops-homelab-evolved-28db",
     "topic": "general"
   },
   {
-    "title": "The Science of Feeling Good: How What You Wear Changes Your Brain",
-    "desc": "<p>There's a reason why putting on a well-fitting outfit can transform your entire mood. It's not just vanity \u2014 it's neuroscience. The emerg",
-    "link": "https://dev.to/ersajay/the-science-of-feeling-good-how-what-you-wear-changes-your-brain-4o5d",
+    "title": "Day 93/100 \u2013 New Unicode String Functions in ClickHouse\u00ae 26.3: Better Text Search and Normalization",
+    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Modern data platforms process enormous volumes of text originating from users all over the world. Names,",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-93100-new-unicode-string-functions-in-clickhouser-263-better-text-search-and-normalization-1joe",
     "topic": "general"
   },
   {
-    "title": "Batch-Convert a Folder of Images to WebP with a Makefile (cwebp, No SaaS)",
-    "desc": "<h1>\n  \n  \n  Batch-Convert a Folder of Images to WebP with a Makefile (cwebp, No SaaS)\n</h1>\n\n<p>Shipping WebP instead of JPEG/PNG is one of",
-    "link": "https://dev.to/orthogonalinfo/batch-convert-a-folder-of-images-to-webp-with-a-makefile-cwebp-no-saas-4mhd",
-    "topic": "general"
+    "title": "Confidential Containers becomes a CNCF incubating project",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/confidential-containers-becomes-a-cncf-incubating-project\" rel=\"",
+    "link": "https://dev.to/rasne/confidential-containers-becomes-a-cncf-incubating-project-f70",
+    "topic": "docker"
   },
   {
-    "title": "What 2,204 merged AI-agent PRs actually touched (0 declared their scope)",
-    "desc": "<p>AI coding agents \u2014 Devin, Copilot coding agent, Codex, Claude Code, Cursor \u2014 open and merge pull requests at scale now. Every agent vendo",
-    "link": "https://dev.to/sjh9714/what-2204-merged-ai-agent-prs-actually-touched-0-declared-their-scope-d20",
-    "topic": "general"
-  },
-  {
-    "title": "How to Know When Your Cron Job Silently Stops Running",
-    "desc": "<p>Had a backup script running every night at 2 AM for about six months. Worked great. Then one day I needed to restore something and discov",
-    "link": "https://dev.to/webmox/how-to-know-when-your-cron-job-silently-stops-running-d94",
+    "title": "The Cheap Way to Add AI Review to CI: Small Local Models Plus Prompt Caching",
+    "desc": "<p>I wired an AI code reviewer into CI, felt clever, and then looked at the bill after a busy week of PRs. Every push, every commit, sending",
+    "link": "https://dev.to/pavelespitia/the-cheap-way-to-add-ai-review-to-ci-small-local-models-plus-prompt-caching-4748",
     "topic": "general"
   }
 ]
