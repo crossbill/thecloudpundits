@@ -1,50 +1,50 @@
 [
   {
-    "title": "Self-Hosting Like a Pro, Part 2: Docker, K3s and Traefik v3 with Automatic HTTPS",
-    "desc": "<p>This is Part 2 of a four-part series where I document how I turned a 10\u20ac/month VPS into a production-grade platform hosting multiple proj",
-    "link": "https://dev.to/adeutou/self-hosting-like-a-pro-part-2-docker-k3s-and-traefik-v3-with-automatic-https-1kpn",
+    "title": "[Homelab AI Project] Ep.5 - Building a Lightweight Self-Hosted CI/CD Pipeline with Gitea and Act Runner",
+    "desc": "<h3>\n  \n  \n  1. The Challenge: Keeping Git and CI/CD under 150MB of RAM\n</h3>\n\n<p>In Episode 4, we decoupled our PostgreSQL database, Redis ",
+    "link": "https://dev.to/tristan_kilhwanchai_5954/homelab-ai-project-ep5-building-a-lightweight-self-hosted-cicd-pipeline-with-gitea-and-act-1l4h",
+    "topic": "general"
+  },
+  {
+    "title": "Top 10 Best Lightspeed to WooCommerce Migration Companies",
+    "desc": "<p><em>You've got a Lightspeed POS system but you're stuck with limited ecommerce capabilities and expensive constraints. Time to migrate to",
+    "link": "https://dev.to/oliverpitts/top-10-best-lightspeed-to-woocommerce-migration-companies-1lj9",
+    "topic": "general"
+  },
+  {
+    "title": "The 'Game 3' Moment: Managing High-Stakes Agentic Failures in Real-Time",
+    "desc": "<h1>\n  \n  \n  The 'Game 3' Moment: Managing High-Stakes Agentic Failures in Real-Time\n</h1>\n\n<p>In high-stakes sports, Game 3 of a series is ",
+    "link": "https://dev.to/omnithium/the-game-3-moment-managing-high-stakes-agentic-failures-in-real-time-4f0f",
+    "topic": "general"
+  },
+  {
+    "title": "Adscs Digital Assets Expands Focus on Digital Security and Information Awareness",
+    "desc": "<p>Adscs Digital Assets Continues to Promote Digital Security Awareness Through Technology-Focused Initiatives</p>\n\n<p>Adscs Digital Assets ",
+    "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-expands-focus-on-digital-security-and-information-awareness-1bn8",
+    "topic": "secops"
+  },
+  {
+    "title": "Why Enterprise Scheduling Systems Are Evolving Beyond Traditional Job Automation",
+    "desc": "<h3>\n  \n  \n  Scheduling Systems Are Becoming the \"Autonomous Driving\" Control Center of Enterprise Digital Operations\n</h3>\n\n<p>In their pap",
+    "link": "https://dev.to/weeli_632477a9c141395/why-enterprise-scheduling-systems-are-evolving-beyond-traditional-job-automation-220i",
+    "topic": "general"
+  },
+  {
+    "title": "The Test Automation Tool Landscape, Mapped",
+    "desc": "<p>Most teams do not pick a test automation tool once. They inherit one, patch around it for a year, then realize the tool choice is quietly",
+    "link": "https://dev.to/daniel_reade123/the-test-automation-tool-landscape-mapped-386",
+    "topic": "general"
+  },
+  {
+    "title": "I shipped DockRx: analyze Dockerfiles like a doctor, not a linter",
+    "desc": "<p>I got tired of Dockerfile linters that dump warnings with no sense of priority.</p>\n\n<p>So I built <strong>DockRx</strong> \u2014 it scores a ",
+    "link": "https://dev.to/ankit_patil_0f4066d0abc17/i-shipped-dockrx-analyze-dockerfiles-like-a-doctor-not-a-linter-3c5m",
     "topic": "docker"
   },
   {
-    "title": "60% of SREs Don't Trust AI Agents Enough to Deploy Them. Here's How to Build the Trust Layer",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ajaydevineni/60-of-sres-dont-trust-ai-agents-enough-to-deploy-them-heres-how-to-build-the-trust-layer-1d3o",
+    "title": "Audit Trails for AI Writing Cron Jobs",
+    "desc": "<p>Scheduled AI writing jobs look simple right up until one of them posts the wrong draft, reuses stale context, or quietly fails after doin",
+    "link": "https://dev.to/mrdapperx/audit-trails-for-ai-writing-cron-jobs-ha2",
     "topic": "general"
-  },
-  {
-    "title": "How we built the delivery evidence chain",
-    "desc": "<p><em>AI agents can write an app in ten minutes. Proving what actually shipped is a harder, older problem. This is how we built Appaloft's ",
-    "link": "https://dev.to/wagahai_dd0eeb5e9646/how-we-built-the-delivery-evidence-chain-3dd1",
-    "topic": "general"
-  },
-  {
-    "title": "The OpenAI/Hugging Face Incident is a Wake-Up Call for Model Eval Security",
-    "desc": "<h1>\n  \n  \n  The OpenAI/Hugging Face Incident is a Wake-Up Call for Model Eval Security\n</h1>\n\n<p>Yesterday\u2019s disclosure from OpenAI and Hug",
-    "link": "https://dev.to/ashraf_chowdury09/the-openaihugging-face-incident-is-a-wake-up-call-for-model-eval-security-12da",
-    "topic": "openai"
-  },
-  {
-    "title": "Melhoria Cont\u00ednua de APIs: Contratos, Observabilidade e Testes que Funcionam",
-    "desc": "<p>Guia pr\u00e1tico para equipes que querem APIs mais est\u00e1veis sem travar entregas. Contratos s\u00f3lidos, observabilidade real, testes de carga e g",
-    "link": "https://dev.to/dev-freelancer/melhoria-continua-de-apis-contratos-observabilidade-e-testes-que-funcionam-3llj",
-    "topic": "general"
-  },
-  {
-    "title": "Scaling Support: A Technical Deep Dive into Modern Autonomous AI Agents",
-    "desc": "<p>In 2026, the paradigm of customer support has fundamentally shifted. As development teams build increasingly complex digital ecosystems, ",
-    "link": "https://dev.to/productwatch/scaling-support-a-technical-deep-dive-into-modern-autonomous-ai-agents-3hg8",
-    "topic": "general"
-  },
-  {
-    "title": "My GitHub Actions run was green. It deployed nothing.",
-    "desc": "<p>I opened the production URL and got a <code>404</code>. The cron that should have published that morning had finished with <code>success<",
-    "link": "https://dev.to/nomurasan/my-github-actions-run-was-green-it-deployed-nothing-565",
-    "topic": "general"
-  },
-  {
-    "title": "Incident Retrospectives Without Blame",
-    "desc": "<p>I've run over 100 post-mortems. The worst ones end with 'Alice will be more careful.' The best ones end with 'we fixed the system.' Here'",
-    "link": "https://dev.to/samson_tanimawo/incident-retrospectives-without-blame-29e",
-    "topic": "secops"
   }
 ]
