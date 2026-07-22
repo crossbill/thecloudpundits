@@ -1,50 +1,50 @@
 [
   {
-    "title": "The SRE Interview: Questions I Actually Ask",
-    "desc": "<p>I've interviewed maybe 300 SRE candidates over the years. Most interviews are bad. Leetcode for people who don't write production code. S",
-    "link": "https://dev.to/samson_tanimawo/the-sre-interview-questions-i-actually-ask-5ffk",
+    "title": "TRUE Coverage: How We Achieved 90% Faster CI by Measuring What Tests Actually Do",
+    "desc": "<p><strong>TL;DR:</strong> Use per-test coverage data to build a reverse map (file \u2192 tests that touch it). Git diff + map lookup = run only ",
+    "link": "https://dev.to/anthony_dawson_7e5553bb8e/true-coverage-how-we-achieved-90-faster-ci-by-measuring-what-tests-actually-do-4ihg",
     "topic": "general"
   },
   {
-    "title": "Factory.ai vs Devin: Stop Comparing Features. Compare How They Change Software Delivery.",
-    "desc": "<p>A few weeks ago, someone asked me a simple question:</p>\n\n<p>\"Should I use Factory.ai or Devin?\"</p>\n\n<p>My first instinct was to compare",
-    "link": "https://dev.to/joshua_dyson/factoryai-vs-devin-stop-comparing-features-compare-how-they-change-software-delivery-4696",
+    "title": "Catch the dangerous Postgres migration at the CI step",
+    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight sql\"><code><span class=\"c1\">-- looks routine in review, locks your table in ",
+    "link": "https://dev.to/technical_turtle/catch-the-dangerous-postgres-migration-at-the-ci-step-1dd9",
     "topic": "general"
   },
   {
-    "title": "IdentyClaw Passport vs static secrets: when cryptographic agent identity beats API keys",
-    "desc": "<h1>\n  \n  \n  Passport vs static secrets: when cryptographic agent identity beats API keys\n</h1>\n\n<p>Running OpenClaw across hosts or talking",
-    "link": "https://dev.to/discernible-io/identyclaw-passport-vs-static-secrets-when-cryptographic-agent-identity-beats-api-keys-pm0",
+    "title": "Governance in Spec-Driven Development",
+    "desc": "<h4>\n  \n  \n  A reproducible GCP example using GitHub Spec Kit, SicarioSpec, Terraform, Checkov, and Conftest to turn AI-assisted intent into",
+    "link": "https://dev.to/dfirs1car1o/governance-in-spec-driven-development-4ce1",
     "topic": "general"
   },
   {
-    "title": "Automating Linux Tasks with Bash",
-    "desc": "<blockquote>\n<p>\"Every repetitive task is an opportunity waiting to be automated.\"</p>\n</blockquote>\n\n<p><strong>One of the biggest lessons ",
-    "link": "https://dev.to/rubi_cloud/automating-linux-tasks-with-bash-192l",
+    "title": "The Ultimate Shapewear Gift Guide: Because She Deserves to Feel Amazing",
+    "desc": "<p>Let's face it: buying gifts for the women in your life is hard. Perfume is too personal. Jewelry is too expensive. Flowers die. But here'",
+    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/the-ultimate-shapewear-gift-guide-because-she-deserves-to-feel-amazing-46km",
     "topic": "general"
   },
   {
-    "title": "Quantum Computing & Quantum-Safe Security: The Race to 2029",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/isuvo/quantum-computing-quantum-safe-security-the-race-to-2029-4kon",
-    "topic": "secops"
+    "title": "The Science of Feeling Good: How What You Wear Changes Your Brain",
+    "desc": "<p>There's a reason why putting on a well-fitting outfit can transform your entire mood. It's not just vanity \u2014 it's neuroscience. The emerg",
+    "link": "https://dev.to/ersajay/the-science-of-feeling-good-how-what-you-wear-changes-your-brain-4o5d",
+    "topic": "general"
   },
   {
-    "title": "What the IAM Policy Simulator Actually Tells You (and What It Doesn't)",
-    "desc": "<p>AWS ships a policy simulator: paste a principal, an action, a resource, and it tells you whether that specific request would be allowed o",
-    "link": "https://dev.to/shieldlyio/what-the-iam-policy-simulator-actually-tells-you-and-what-it-doesnt-22ef",
-    "topic": "secops"
+    "title": "Batch-Convert a Folder of Images to WebP with a Makefile (cwebp, No SaaS)",
+    "desc": "<h1>\n  \n  \n  Batch-Convert a Folder of Images to WebP with a Makefile (cwebp, No SaaS)\n</h1>\n\n<p>Shipping WebP instead of JPEG/PNG is one of",
+    "link": "https://dev.to/orthogonalinfo/batch-convert-a-folder-of-images-to-webp-with-a-makefile-cwebp-no-saas-4mhd",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes Liveness, Readiness, and Startup Probes: A Practical Guide",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/kubernetes-liveness-readiness-startup-probes-guide\" re",
-    "link": "https://dev.to/devtocash/kubernetes-liveness-readiness-and-startup-probes-a-practical-guide-4k0i",
-    "topic": "kubernetes"
+    "title": "What 2,204 merged AI-agent PRs actually touched (0 declared their scope)",
+    "desc": "<p>AI coding agents \u2014 Devin, Copilot coding agent, Codex, Claude Code, Cursor \u2014 open and merge pull requests at scale now. Every agent vendo",
+    "link": "https://dev.to/sjh9714/what-2204-merged-ai-agent-prs-actually-touched-0-declared-their-scope-d20",
+    "topic": "general"
   },
   {
-    "title": "Runtime Enforcement, Not Runtime Advice",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/runtime-enforcement-not-runtime-advice\" rel=\"noopener noreferrer",
-    "link": "https://dev.to/rasne/runtime-enforcement-not-runtime-advice-1lbh",
+    "title": "How to Know When Your Cron Job Silently Stops Running",
+    "desc": "<p>Had a backup script running every night at 2 AM for about six months. Worked great. Then one day I needed to restore something and discov",
+    "link": "https://dev.to/webmox/how-to-know-when-your-cron-job-silently-stops-running-d94",
     "topic": "general"
   }
 ]
