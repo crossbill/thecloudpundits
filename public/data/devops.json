@@ -1,50 +1,50 @@
 [
   {
-    "title": "Beyond CI/CD: Building Agentic Validation and Inspection Layers with LangGraph, MCP, and A2A",
-    "desc": "<p>Modern CI/CD pipelines are exceptionally good at automation.</p>\n\n<p>They compile code, run tests, build artifacts, scan dependencies, de",
-    "link": "https://dev.to/nikhil_ramank_152ca48266/beyond-cicd-building-agentic-validation-and-inspection-layers-with-langgraph-mcp-and-a2a-30f0",
+    "title": "Why Transactional Email APIs Won't Power Your Outreach Engine",
+    "desc": "<h2>\n  \n  \n  The Misconception\n</h2>\n\n<p>You're building a sales tool. You need reliable email delivery. You've heard Postmark gets 98%+ inb",
+    "link": "https://dev.to/livedirectmarketing/why-transactional-email-apis-wont-power-your-outreach-engine-4icg",
     "topic": "general"
   },
   {
-    "title": "Japan Market Entry for Cloud & SaaS Vendors: What Localization Actually Requires Beyond Translation",
-    "desc": "<h2>\n  \n  \n  Key Points\n</h2>\n\n<ul>\n<li>Translation is table stakes, not the differentiator \u2014 Japanese enterprise buyers evaluate data resid",
-    "link": "https://dev.to/brywritescode/japan-market-entry-for-cloud-saas-vendors-what-localization-actually-requires-beyond-translation-2ji6",
+    "title": "BorgShield: Sistema de Backup Linux Eficiente, Fiable y Verificable",
+    "desc": "<h2>\n  \n  \n  Un an\u00e1lisis t\u00e9cnico basado en BorgBackup para entornos Debian/Ubuntu\n</h2>\n\n<p><strong>Autor:</strong> Arcadio Ortega Reinoso<b",
+    "link": "https://dev.to/arcadio_ortega/borgshield-sistema-de-backup-linux-eficiente-fiable-y-verificable-4iad",
     "topic": "general"
   },
   {
-    "title": "Escaping the sticky cloud ecosystem \u2601\ufe0f",
-    "desc": "<p>Cloud providers sell ecosystems designed to keep you locked in as a tenant with no move-out rights. Adopting proprietary databases, speci",
-    "link": "https://dev.to/upsun/escaping-the-sticky-cloud-ecosystem-5a65",
+    "title": "How to Build Efficient Context for Your AI Client to handle incidents",
+    "desc": "<p>Most teams that adopt an AI coding or operations assistant eventually reach the same conclusion:</p>\n\n<p><strong>The model is rarely the ",
+    "link": "https://dev.to/xtsoftwarelabs/how-to-build-efficient-context-for-your-ai-client-4fnd",
+    "topic": "secops"
+  },
+  {
+    "title": "Kubernetes HPA: Guide with Apache on KIND",
+    "desc": "<p>Horizontal Pod Autoscaler (HPA) automatically increases or decreases the number of Pods based on CPU or memory utilization. In this proje",
+    "link": "https://dev.to/nishant_bhardwaj_9135ba51/kubernetes-hpa-guide-with-apache-on-kind-131o",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "EKS Backup Drill Emails Need Restore Context",
+    "desc": "<p>Backup drills are easy to mark green for the wrong reasons. Snapshots finish, logs look healthy, and somebody posts \"restore tested\" in c",
+    "link": "https://dev.to/jasonmills94/eks-backup-drill-emails-need-restore-context-2j40",
     "topic": "general"
   },
   {
-    "title": "Lion Air call center 24 jam Indonesia",
-    "desc": "<p>Silahkan hubungi Lion Air Call Center 24 jam Indonesia (+628176431303) dan Contact Support kami 24/7.</p>",
-    "link": "https://dev.to/jackson_kristanto_679fb83/lion-air-call-center-24-jam-indonesia-30fe",
+    "title": "Who Wrote This Code? AI Code Provenance Before the Audits Arrive",
+    "desc": "<p><em>Originally published on <a href=\"https://jonattan.in/blog/ai-code-provenance/\" rel=\"noopener noreferrer\">jonattan.in</a>.</em><br />\n",
+    "link": "https://dev.to/jonattan_s/who-wrote-this-code-ai-code-provenance-before-the-audits-arrive-1hj4",
     "topic": "general"
   },
   {
-    "title": "Why your AI agents should be collaborative (and how to build the review gates)",
-    "desc": "<p>Less than 10% of workplace AI interactions in Google\u2019s July 23, 2026 ATLAS announcement fully automate tasks.</p>\n\n<p>For developers, tha",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/why-your-ai-agents-should-be-collaborative-and-how-to-build-the-review-gates-35ji",
+    "title": "I stopped trusting AGENTS.md after my agent said \u201cdone\u201d 3 times with zero proof",
+    "desc": "<p>I used to think a solid <code>AGENTS.md</code> file was most of the battle.</p>\n\n<p>Add some rules.<br />\nTell the agent to challenge bad",
+    "link": "https://dev.to/lars_winstand/i-stopped-trusting-agentsmd-after-my-agent-said-done-3-times-with-zero-proof-32ii",
     "topic": "general"
   },
   {
-    "title": "Migrating from Promtail to Alloy for Log Collection",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Promtail reached end of life in March 2026, making Alloy the supported replacement for shipping logs",
-    "link": "https://dev.to/irinobservability/migrating-from-promtail-to-alloy-for-log-collection-18j2",
-    "topic": "general"
-  },
-  {
-    "title": "Building the device database together: Public preview now live",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/building-the-device-database-together-public-preview-now-live\" r",
-    "link": "https://dev.to/rasne/building-the-device-database-together-public-preview-now-live-3jge",
-    "topic": "general"
-  },
-  {
-    "title": "Day 96/100 \u2013 Standard SQL Time Functions in ClickHouse\u00ae 26.3: Better ANSI SQL Compatibility",
-    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>One of the key goals of recent ClickHouse\u00ae releases has been improving compatibility with the ANSI SQL s",
-    "link": "https://dev.to/kanishga_subramani_49ad73/day-96100-standard-sql-time-functions-in-clickhouser-263-better-ansi-sql-compatibility-4m4l",
-    "topic": "general"
+    "title": "\ud83d\ude80 What It Really Takes to Migrate Kubernetes Without Downtime",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/evrone/what-it-really-takes-to-migrate-kubernetes-without-downtime-38cp",
+    "topic": "kubernetes"
   }
 ]
