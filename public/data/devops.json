@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes: secretos rotados sin alertas rotas",
-    "desc": "<p>Rotar secretos en Kubernetes suele cerrar un riesgo tecnico, pero aveces abre otro m\u00e1s silencioso: las alertas siguen saliendo, aunque ya",
-    "link": "https://dev.to/alexcarteruk/kubernetes-secretos-rotados-sin-alertas-rotas-2i7i",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Enhancing Your Tech Edge: The Unmatched Benefits of DevOps Training at Marathahalli in 2026",
-    "desc": "<p>Enhancing Your Tech Edge: The Unmatched Benefits of <a href=\"https://learnmoretech.in/devops-training-in-marathahalli\" rel=\"noopener nore",
-    "link": "https://dev.to/lm_pg_ae695f1a4c717f/enhancing-your-tech-edge-the-unmatched-benefits-of-devops-training-at-marathahalli-in-2026-27a9",
+    "title": "Software RAID vs Hardware RAID for NVMe: The PCIe Bottleneck",
+    "desc": "<p>For two decades, SysAdmins operated under a strict golden rule: <em>\"Always use a dedicated Hardware RAID controller to protect your disk",
+    "link": "https://dev.to/jaksontate/software-raid-vs-hardware-raid-for-nvme-the-pcie-bottleneck-2hfl",
     "topic": "general"
   },
   {
-    "title": "Achieve New Heights: A Comprehensive Guide to DevOps Training at Marathahalli for Future Leaders in 2026",
-    "desc": "<p>Achieve New Heights: A Comprehensive Guide to <a href=\"https://learnmoretech.in/devops-training-in-marathahalli\" rel=\"noopener noreferrer",
-    "link": "https://dev.to/lm_pg_ae695f1a4c717f/achieve-new-heights-a-comprehensive-guide-to-devops-training-at-marathahalli-for-future-leaders-in-128b",
+    "title": "Your First CI Pipeline with GitHub Actions",
+    "desc": "<h2>\n  \n  \n  From theory to a green checkmark\n</h2>\n\n<p>You know <em>what</em> a pipeline does, now let's build one. By the end of this arti",
+    "link": "https://dev.to/sri2614/your-first-ci-pipeline-with-github-actions-3od2",
     "topic": "general"
   },
   {
-    "title": "Unleashing Innovation: Why Choosing DevOps Training at Marathahalli in 2026 is Your Smartest Move",
-    "desc": "<p>Unleashing Innovation: Why Choosing <a href=\"https://learnmoretech.in/devops-training-in-marathahalli\" rel=\"noopener noreferrer\">DevOps T",
-    "link": "https://dev.to/h2_lmt_318f611464212f9336/unleashing-innovation-why-choosing-devops-training-at-marathahalli-in-2026-is-your-smartest-move-enk",
+    "title": "WekaFS vs Ceph on Bare Metal: Stop AI GPU Starvation",
+    "desc": "<p>AI companies are spending millions of dollars on high-end NVIDIA H100 and A100 GPU clusters, only to watch them sit completely idle <stro",
+    "link": "https://dev.to/jaksontate/wekafs-vs-ceph-on-bare-metal-stop-ai-gpu-starvation-3mg3",
     "topic": "general"
   },
   {
-    "title": "Maximizing Career Prospects: The Essential Components of DevOps Training at Marathahalli",
-    "desc": "<p>Maximizing Career Prospects: The Essential Components of <a href=\"https://learnmoretech.in/devops-training-in-marathahalli\" rel=\"noopener",
-    "link": "https://dev.to/h2_lmt_318f611464212f9336/maximizing-career-prospects-the-essential-components-of-devops-training-at-marathahalli-599p",
+    "title": "What's the Real Per-Seat Cost of GitHub Copilot Once Enterprise Cloud and AI Credit Overages Are Included?",
+    "desc": "<p>GitHub Copilot has quickly become one of the most widely adopted AI coding assistants. For many developers, it's become a daily tool for ",
+    "link": "https://dev.to/joshua_dyson/whats-the-real-per-seat-cost-of-github-copilot-once-enterprise-cloud-and-ai-credit-overages-are-4215",
     "topic": "general"
   },
   {
-    "title": "Revolutionizing Your Skills: The Transformative Outcomes of DevOps Training at Marathahalli for Future Innovators",
-    "desc": "<p>Revolutionizing Your Skills: The Transformative Outcomes of <a href=\"https://learnmoretech.in/devops-training-in-marathahalli\" rel=\"noope",
-    "link": "https://dev.to/lmt_new_5ff6b33c7/revolutionizing-your-skills-the-transformative-outcomes-of-devops-training-at-marathahalli-for-41ll",
+    "title": "The VPN App Store Problem: How Bad Performance Turns Into Bad Reviews",
+    "desc": "<h2>\n  \n  \n  Introduction: The App Store Does Not Forget Bad Performance\n</h2>\n\n<p>A VPN app does not fail quietly anymore. In the past, a u",
+    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/the-vpn-app-store-problem-how-bad-performance-turns-into-bad-reviews-49ma",
     "topic": "general"
   },
   {
-    "title": "KYBCR Exchange (Kyberon Core Group) Enhances Platform Reliability with Intelligent Management Frameworks",
-    "desc": "<p>As digital platforms continue to grow in complexity, maintaining stable, efficient, and reliable infrastructure has become a key challeng",
-    "link": "https://dev.to/kybcrexchange/kybcr-exchange-kyberon-core-group-enhances-platform-reliability-with-intelligent-management-lmo",
+    "title": "8 Levels of AI Autonomy in Software Engineering",
+    "desc": "<p><strong>TL;DR: AI tooling in software engineering is a spectrum, not a binary switch. We are moving from simple inline autocompletion to ",
+    "link": "https://dev.to/doogal/8-levels-of-ai-autonomy-in-software-engineering-2880",
     "topic": "general"
   },
   {
-    "title": "Elevate Your Tech Career: Navigating the Profound Impact of DevOps Training at Marathahalli in 2026",
-    "desc": "<p>Elevate Your Tech Career: Navigating the Profound Impact of <a href=\"https://learnmoretech.in/devops-training-in-marathahalli\" rel=\"noope",
-    "link": "https://dev.to/h1_lmt_582a030968e32867be/elevate-your-tech-career-navigating-the-profound-impact-of-devops-training-at-marathahalli-in-2026-3o26",
+    "title": "Send an Email by Hand: The Raw SMTP Conversation (and Why You Should Not Do It in Production)",
+    "desc": "<p>Every email your application sends is, underneath the library and the API, a short text conversation between two servers. You can have th",
+    "link": "https://dev.to/devopsdaily/send-an-email-by-hand-the-raw-smtp-conversation-and-why-you-should-not-do-it-in-production-1l7f",
+    "topic": "general"
+  },
+  {
+    "title": "How to Set Up Follow-the-Sun On-Call",
+    "desc": "<h4>\n  \n  \n  Quick answer:\n</h4>\n\n<p>Setting up a follow-the-sun rotation basically means spreading your primary on-call shifts across three",
+    "link": "https://dev.to/mads_quist/how-to-set-up-follow-the-sun-on-call-2113",
     "topic": "general"
   }
 ]
