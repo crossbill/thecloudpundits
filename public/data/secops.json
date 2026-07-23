@@ -1,5 +1,23 @@
 [
   {
+    "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
+    "desc": "<p>AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization.</p>\n",
+    "link": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
+    "topic": "openai"
+  },
+  {
+    "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
+    "desc": "<p>You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a ",
+    "link": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
+    "topic": "secops"
+  },
+  {
+    "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
+    "desc": "<p>Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts.</p>\n<p>The post <a href=\"https://www.",
+    "link": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
+    "topic": "secops"
+  },
+  {
     "title": "Abstract Raises $25 Million to Expand Composable Security Operations Platform",
     "desc": "<p>The latest investment round brings the total raised by Abstract to nearly $50 million.</p>\n<p>The post <a href=\"https://www.securityweek.",
     "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
@@ -28,23 +46,5 @@
     "desc": "<p>The vulnerability tracked as CVE-2026-16232 has been exploited against customers with certain configurations.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/",
     "topic": "secops"
-  },
-  {
-    "title": "US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices",
-    "desc": "<p>An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
-    "topic": "general"
-  },
-  {
-    "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
-    "desc": "<p>Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms.\u00a0</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
-    "topic": "secops"
-  },
-  {
-    "title": "Palo Alto Networks to Acquire Observability Platform Provider Embrace",
-    "desc": "<p>Acquisition follows January's Chronosphere deal, deepening Palo Alto Networks' push beyond core security into observability.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/",
-    "topic": "general"
   }
 ]
