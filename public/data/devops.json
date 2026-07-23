@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Transactional Email APIs Won't Power Your Outreach Engine",
-    "desc": "<h2>\n  \n  \n  The Misconception\n</h2>\n\n<p>You're building a sales tool. You need reliable email delivery. You've heard Postmark gets 98%+ inb",
-    "link": "https://dev.to/livedirectmarketing/why-transactional-email-apis-wont-power-your-outreach-engine-4icg",
+    "title": "Build a Terraform provider for your side project's API (it's smaller than you think)",
+    "desc": "<p>Writing a Terraform provider sounds like a big-company activity, something HashiCorp partners do with a team and a roadmap. In practice, ",
+    "link": "https://dev.to/devopsdaily/build-a-terraform-provider-for-your-side-projects-api-its-smaller-than-you-think-5bg8",
+    "topic": "terraform"
+  },
+  {
+    "title": "DevOps na Pr\u00e1tica: Como Reduzir Problemas com Servidores e Rede",
+    "desc": "<p>Servidor caindo \u00e0s tr\u00eas da manh\u00e3, rede inst\u00e1vel derrubando uma transa\u00e7\u00e3o em produ\u00e7\u00e3o, deploy que funcionava em homologa\u00e7\u00e3o e quebra tudo ",
+    "link": "https://dev.to/luiscruzcwb/devops-na-pratica-como-reduzir-problemas-com-servidores-e-rede-91a",
     "topic": "general"
   },
   {
-    "title": "BorgShield: Sistema de Backup Linux Eficiente, Fiable y Verificable",
-    "desc": "<h2>\n  \n  \n  Un an\u00e1lisis t\u00e9cnico basado en BorgBackup para entornos Debian/Ubuntu\n</h2>\n\n<p><strong>Autor:</strong> Arcadio Ortega Reinoso<b",
-    "link": "https://dev.to/arcadio_ortega/borgshield-sistema-de-backup-linux-eficiente-fiable-y-verificable-4iad",
+    "title": "Scaling Parameter Store reads for production workloads",
+    "desc": "<p>Consider an order-processing service running on Amazon ECS Fargate during a weekend sale. Under normal conditions, 20 tasks read configur",
+    "link": "https://dev.to/aparkris/scaling-parameter-store-reads-for-production-workloads-46ie",
     "topic": "general"
   },
   {
-    "title": "How to Build Efficient Context for Your AI Client to handle incidents",
-    "desc": "<p>Most teams that adopt an AI coding or operations assistant eventually reach the same conclusion:</p>\n\n<p><strong>The model is rarely the ",
-    "link": "https://dev.to/xtsoftwarelabs/how-to-build-efficient-context-for-your-ai-client-4fnd",
+    "title": "Getting Real Numbers Into the VPA Model: The Commands and Tools",
+    "desc": "<p>The companion post to this one, \"What the VPA Recommender Is Actually Computing,\" walks through the decay-weighted percentile math, the O",
+    "link": "https://dev.to/prasadmk/getting-real-numbers-into-the-vpa-model-the-commands-and-tools-2ol2",
+    "topic": "general"
+  },
+  {
+    "title": "Completing the Core SEO Foundation of My Django Food Blog",
+    "desc": "<p>Today I focused on something that every production-ready web application needs but many side projects overlook\u2014technical SEO.</p>\n\n<p>Ove",
+    "link": "https://dev.to/cyberb0x/completing-the-core-seo-foundation-of-my-django-food-blog-3mhc",
+    "topic": "general"
+  },
+  {
+    "title": "New Vulnerability 'Rogue Agent' Highlights AI Agent Security Risks in Cloud Platforms",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/isuvo/new-vulnerability-rogue-agent-highlights-ai-agent-security-risks-in-cloud-platforms-9j6",
     "topic": "secops"
   },
   {
-    "title": "Kubernetes HPA: Guide with Apache on KIND",
-    "desc": "<p>Horizontal Pod Autoscaler (HPA) automatically increases or decreases the number of Pods based on CPU or memory utilization. In this proje",
-    "link": "https://dev.to/nishant_bhardwaj_9135ba51/kubernetes-hpa-guide-with-apache-on-kind-131o",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "EKS Backup Drill Emails Need Restore Context",
-    "desc": "<p>Backup drills are easy to mark green for the wrong reasons. Snapshots finish, logs look healthy, and somebody posts \"restore tested\" in c",
-    "link": "https://dev.to/jasonmills94/eks-backup-drill-emails-need-restore-context-2j40",
+    "title": "Autonomous agents are the easy part",
+    "desc": "<p>One morning last week I opened my inbox to a hundred emails, all sent from me, to me, most of them stamped within the same two minutes of",
+    "link": "https://dev.to/martinschenk/autonomous-agents-are-the-easy-part-4b8m",
     "topic": "general"
   },
   {
-    "title": "Who Wrote This Code? AI Code Provenance Before the Audits Arrive",
-    "desc": "<p><em>Originally published on <a href=\"https://jonattan.in/blog/ai-code-provenance/\" rel=\"noopener noreferrer\">jonattan.in</a>.</em><br />\n",
-    "link": "https://dev.to/jonattan_s/who-wrote-this-code-ai-code-provenance-before-the-audits-arrive-1hj4",
+    "title": "I let an AI test my app 55 times in a week. Here's what it broke (and what I broke).",
+    "desc": "<p>I had a passing test. Green checkmark, banked in my suite, ran clean every time I looked at it. \"Pet sprite renders, no broken image.\" </",
+    "link": "https://dev.to/lxcario/i-let-an-ai-test-my-app-55-times-in-a-week-heres-what-it-broke-and-what-i-broke-51eh",
     "topic": "general"
-  },
-  {
-    "title": "I stopped trusting AGENTS.md after my agent said \u201cdone\u201d 3 times with zero proof",
-    "desc": "<p>I used to think a solid <code>AGENTS.md</code> file was most of the battle.</p>\n\n<p>Add some rules.<br />\nTell the agent to challenge bad",
-    "link": "https://dev.to/lars_winstand/i-stopped-trusting-agentsmd-after-my-agent-said-done-3-times-with-zero-proof-32ii",
-    "topic": "general"
-  },
-  {
-    "title": "\ud83d\ude80 What It Really Takes to Migrate Kubernetes Without Downtime",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/evrone/what-it-really-takes-to-migrate-kubernetes-without-downtime-38cp",
-    "topic": "kubernetes"
   }
 ]
