@@ -1,50 +1,50 @@
 [
   {
-    "title": "Build a Terraform provider for your side project's API (it's smaller than you think)",
-    "desc": "<p>Writing a Terraform provider sounds like a big-company activity, something HashiCorp partners do with a team and a roadmap. In practice, ",
-    "link": "https://dev.to/devopsdaily/build-a-terraform-provider-for-your-side-projects-api-its-smaller-than-you-think-5bg8",
-    "topic": "terraform"
-  },
-  {
-    "title": "DevOps na Pr\u00e1tica: Como Reduzir Problemas com Servidores e Rede",
-    "desc": "<p>Servidor caindo \u00e0s tr\u00eas da manh\u00e3, rede inst\u00e1vel derrubando uma transa\u00e7\u00e3o em produ\u00e7\u00e3o, deploy que funcionava em homologa\u00e7\u00e3o e quebra tudo ",
-    "link": "https://dev.to/luiscruzcwb/devops-na-pratica-como-reduzir-problemas-com-servidores-e-rede-91a",
-    "topic": "general"
-  },
-  {
-    "title": "Scaling Parameter Store reads for production workloads",
-    "desc": "<p>Consider an order-processing service running on Amazon ECS Fargate during a weekend sale. Under normal conditions, 20 tasks read configur",
-    "link": "https://dev.to/aparkris/scaling-parameter-store-reads-for-production-workloads-46ie",
-    "topic": "general"
-  },
-  {
-    "title": "Getting Real Numbers Into the VPA Model: The Commands and Tools",
-    "desc": "<p>The companion post to this one, \"What the VPA Recommender Is Actually Computing,\" walks through the decay-weighted percentile math, the O",
-    "link": "https://dev.to/prasadmk/getting-real-numbers-into-the-vpa-model-the-commands-and-tools-2ol2",
-    "topic": "general"
-  },
-  {
-    "title": "Completing the Core SEO Foundation of My Django Food Blog",
-    "desc": "<p>Today I focused on something that every production-ready web application needs but many side projects overlook\u2014technical SEO.</p>\n\n<p>Ove",
-    "link": "https://dev.to/cyberb0x/completing-the-core-seo-foundation-of-my-django-food-blog-3mhc",
-    "topic": "general"
-  },
-  {
-    "title": "New Vulnerability 'Rogue Agent' Highlights AI Agent Security Risks in Cloud Platforms",
+    "title": "7 Best AI Gateways for Early-Stage AI Startups in 2026",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/isuvo/new-vulnerability-rogue-agent-highlights-ai-agent-security-risks-in-cloud-platforms-9j6",
-    "topic": "secops"
-  },
-  {
-    "title": "Autonomous agents are the easy part",
-    "desc": "<p>One morning last week I opened my inbox to a hundred emails, all sent from me, to me, most of them stamped within the same two minutes of",
-    "link": "https://dev.to/martinschenk/autonomous-agents-are-the-easy-part-4b8m",
+    "link": "https://dev.to/andreipopescu/7-best-ai-gateways-for-early-stage-ai-startups-in-2026-h7g",
     "topic": "general"
   },
   {
-    "title": "I let an AI test my app 55 times in a week. Here's what it broke (and what I broke).",
-    "desc": "<p>I had a passing test. Green checkmark, banked in my suite, ran clean every time I looked at it. \"Pet sprite renders, no broken image.\" </",
-    "link": "https://dev.to/lxcario/i-let-an-ai-test-my-app-55-times-in-a-week-heres-what-it-broke-and-what-i-broke-51eh",
+    "title": "10 Best AI Gateways for Platform Engineering Teams",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/babatundefashola/10-best-ai-gateways-for-platform-engineering-teams-2f38",
     "topic": "general"
+  },
+  {
+    "title": "9 Best AI Gateways for Regulated Industries (Finance, Healthcare)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/rafael95/9-best-ai-gateways-for-regulated-industries-finance-healthcare-2j45",
+    "topic": "general"
+  },
+  {
+    "title": "8 Best AI Gateways for Multimodal Workloads Across Vision, Audio, and Speech",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/omar55/8-best-ai-gateways-for-multimodal-workloads-across-vision-audio-and-speech-477d",
+    "topic": "general"
+  },
+  {
+    "title": "7 Best Tools to Aggregate and Manage Multiple MCP Servers",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/henrik45/7-best-tools-to-aggregate-and-manage-multiple-mcp-servers-1gej",
+    "topic": "general"
+  },
+  {
+    "title": "8 Best AI Gateways for Coding Agents Like Claude Code, Cursor, and Codex CLI",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/conorbreathnach/8-best-ai-gateways-for-coding-agents-like-claude-code-cursor-and-codex-cli-aek",
+    "topic": "anthropic"
+  },
+  {
+    "title": "10 Best AI Gateways You Can Deploy with Docker in Minutes",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/alejandro46/10-best-ai-gateways-you-can-deploy-with-docker-in-minutes-af3",
+    "topic": "docker"
+  },
+  {
+    "title": "8 Best LLM Gateways for Kubernetes Deployments in 2026",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/olusegun/8-best-llm-gateways-for-kubernetes-deployments-in-2026-2g4i",
+    "topic": "kubernetes"
   }
 ]
