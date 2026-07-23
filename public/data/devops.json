@@ -1,50 +1,50 @@
 [
   {
-    "title": "Software RAID vs Hardware RAID for NVMe: The PCIe Bottleneck",
-    "desc": "<p>For two decades, SysAdmins operated under a strict golden rule: <em>\"Always use a dedicated Hardware RAID controller to protect your disk",
-    "link": "https://dev.to/jaksontate/software-raid-vs-hardware-raid-for-nvme-the-pcie-bottleneck-2hfl",
+    "title": "No Ads Sparring Prep: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/no-ads-sparring-prep-what-we-learned-building-random-tactical-timer-j11",
     "topic": "general"
   },
   {
-    "title": "Your First CI Pipeline with GitHub Actions",
-    "desc": "<h2>\n  \n  \n  From theory to a green checkmark\n</h2>\n\n<p>You know <em>what</em> a pipeline does, now let's build one. By the end of this arti",
-    "link": "https://dev.to/sri2614/your-first-ci-pipeline-with-github-actions-3od2",
+    "title": "Day 95/100 \u2013 ClickHouse\u00ae 26.3 S3 Object Storage Read Enhancements: Faster Data Lake Queries",
+    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Cloud object storage has become the foundation of modern data lake architectures. Services such as Amazo",
+    "link": "https://dev.to/kanishga_subramani_49ad73/day-95100-clickhouser-263-s3-object-storage-read-enhancements-faster-data-lake-queries-1gj9",
     "topic": "general"
   },
   {
-    "title": "WekaFS vs Ceph on Bare Metal: Stop AI GPU Starvation",
-    "desc": "<p>AI companies are spending millions of dollars on high-end NVIDIA H100 and A100 GPU clusters, only to watch them sit completely idle <stro",
-    "link": "https://dev.to/jaksontate/wekafs-vs-ceph-on-bare-metal-stop-ai-gpu-starvation-3mg3",
+    "title": "Automation was dead for 3 days with zero errors \u2014 a broken launchd plist, and the \"monitor of the monitor\" that died too",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://zenn.dev/umamon/articles/blog-automation-diary\" rel=\"noopener noreferrer\">Zenn</a> ",
+    "link": "https://dev.to/bigkijimon/automation-was-dead-for-3-days-with-zero-errors-a-broken-launchd-plist-and-the-monitor-of-the-1799",
     "topic": "general"
   },
   {
-    "title": "What's the Real Per-Seat Cost of GitHub Copilot Once Enterprise Cloud and AI Credit Overages Are Included?",
-    "desc": "<p>GitHub Copilot has quickly become one of the most widely adopted AI coding assistants. For many developers, it's become a daily tool for ",
-    "link": "https://dev.to/joshua_dyson/whats-the-real-per-seat-cost-of-github-copilot-once-enterprise-cloud-and-ai-credit-overages-are-4215",
+    "title": "Observability for Serverless: What's Different",
+    "desc": "<p>Everything you know about observability needs a slight rethink when you move to serverless. Let me save you the weeks of frustration I we",
+    "link": "https://dev.to/samson_tanimawo/observability-for-serverless-whats-different-ibm",
     "topic": "general"
   },
   {
-    "title": "The VPN App Store Problem: How Bad Performance Turns Into Bad Reviews",
-    "desc": "<h2>\n  \n  \n  Introduction: The App Store Does Not Forget Bad Performance\n</h2>\n\n<p>A VPN app does not fail quietly anymore. In the past, a u",
-    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/the-vpn-app-store-problem-how-bad-performance-turns-into-bad-reviews-49ma",
+    "title": "Issue In, PR Out: maestro Orchestrates Claude Agents for GitHub & Linear",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/rluisr/issue-in-pr-out-maestro-orchestrates-claude-agents-for-github-linear-2l1n",
+    "topic": "anthropic"
+  },
+  {
+    "title": "The Evolving Role of RAG in Agentic AI Systems",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/isuvo/the-evolving-role-of-rag-in-agentic-ai-systems-2jo8",
     "topic": "general"
   },
   {
-    "title": "8 Levels of AI Autonomy in Software Engineering",
-    "desc": "<p><strong>TL;DR: AI tooling in software engineering is a spectrum, not a binary switch. We are moving from simple inline autocompletion to ",
-    "link": "https://dev.to/doogal/8-levels-of-ai-autonomy-in-software-engineering-2880",
+    "title": "CI/CD Pipelines for Growing Products: Fast Releases, Verifiable Recovery",
+    "desc": "<p><em>Originally published on the Edilec blog: <a href=\"https://edilec.com/blog/cld-3102/ci-cd-pipelines-for-growing-products/\" rel=\"noopen",
+    "link": "https://dev.to/krishnamm/cicd-pipelines-for-growing-products-fast-releases-verifiable-recovery-1j6f",
     "topic": "general"
   },
   {
-    "title": "Send an Email by Hand: The Raw SMTP Conversation (and Why You Should Not Do It in Production)",
-    "desc": "<p>Every email your application sends is, underneath the library and the API, a short text conversation between two servers. You can have th",
-    "link": "https://dev.to/devopsdaily/send-an-email-by-hand-the-raw-smtp-conversation-and-why-you-should-not-do-it-in-production-1l7f",
-    "topic": "general"
-  },
-  {
-    "title": "How to Set Up Follow-the-Sun On-Call",
-    "desc": "<h4>\n  \n  \n  Quick answer:\n</h4>\n\n<p>Setting up a follow-the-sun rotation basically means spreading your primary on-call shifts across three",
-    "link": "https://dev.to/mads_quist/how-to-set-up-follow-the-sun-on-call-2113",
+    "title": "How DevOps Engineers Can Prepare for AIOps Interviews",
+    "desc": "<p>DevOps interviews are changing. </p>\n\n<p>Earlier, most interviews focused on Linux, CI/CD, cloud, containers, Kubernetes, monitoring, scr",
+    "link": "https://dev.to/brillius/how-devops-engineers-can-prepare-for-aiops-interviews-doh",
     "topic": "general"
   }
 ]
