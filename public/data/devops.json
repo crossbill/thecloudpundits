@@ -1,50 +1,50 @@
 [
   {
-    "title": "System Guide: Setting Up a Centralized Software Licensing Server",
-    "desc": "<p>Having visibility into user access and seat distribution is crucial for businesses of all sizes, and license servers help you get there.<",
-    "link": "https://dev.to/reprise_software/system-guide-setting-up-a-centralized-software-licensing-server-90i",
+    "title": "Why Your SaaS Cold Email Fails: A Technical Autopsy of Deliverability",
+    "desc": "<h2>\n  \n  \n  The Reply Rate That Never Moves\n</h2>\n\n<p>You built something useful. You have a list of 200 prospects who fit your ICP perfect",
+    "link": "https://dev.to/livedirectmarketing/why-your-saas-cold-email-fails-a-technical-autopsy-of-deliverability-30a2",
     "topic": "general"
   },
   {
-    "title": "Getting Started with Infrastructure as Code Using Terraform",
-    "desc": "<h2>\n  \n  \n  What is Infrastructure as Code?\n</h2>\n\n<p>Infrastructure as Code (IaC) lets you manage your cloud resources with configuration ",
-    "link": "https://dev.to/cloudfrontier/getting-started-with-infrastructure-as-code-using-terraform-3ppo",
-    "topic": "terraform"
+    "title": "Turning Claude into a Code Quality Auditor with MCP",
+    "desc": "<p>Context switching is where engineering productivity goes to die.</p>\n\n<p>You're deep in a refactor inside Cursor or Claude Code, logic is",
+    "link": "https://dev.to/renato_marinho/turning-claude-into-a-code-quality-auditor-with-mcp-eci",
+    "topic": "anthropic"
   },
   {
-    "title": "What Do DevOps Services Involve?",
-    "desc": "<p>DevOps helps development and IT teams work together to build, test, and release software faster. It combines automation, monitoring, and ",
-    "link": "https://dev.to/jacobfoster21/what-do-devops-services-involve-1j0f",
+    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/bgp-origin-attribute-manipulation-and-its-impact-on-the-internet",
+    "link": "https://dev.to/rasne/bgp-origin-attribute-manipulation-and-its-impact-on-the-internet-5bp3",
     "topic": "general"
   },
   {
-    "title": "Cloud Security for Engineers: The Controls You Actually Configure",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Most cloud breaches aren't sophisticated, they're misconfigurations. The controls that actually prev",
-    "link": "https://dev.to/sherdilcloud/cloud-security-for-engineers-the-controls-you-actually-configure-4lac",
-    "topic": "secops"
-  },
-  {
-    "title": "DSCI - CI with regular programming languages instead of YAML",
-    "desc": "<p><a href=\"https://github.com/melezhik/DSCI\" rel=\"noopener noreferrer\">DSCI</a> is forgejo CI runner with pipelines syntax is just regular ",
-    "link": "https://dev.to/sp1983/dsci-ci-with-regular-programming-languages-instead-of-yaml-5h71",
+    "title": "The AI Agent That Refused to Write Code",
+    "desc": "<h2>\n  \n  \n  Applying the AI-Ready Nx Workspace to a production monorepo\n</h2>\n\n<p>We asked our coding agent to start a task, <code>/run-tas",
+    "link": "https://dev.to/dsofianos/the-ai-agent-that-refused-to-write-code-2n2k",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udccc Enterprise readiness week for DevOps Open Agent: Multi-account AWS, Bedrock, observability evidence, and LLM cost control\ud83d\udccc",
-    "desc": "<p>This week was all about making DevOps Open Agent more practical for real-world enterprise environments.</p>\n\n<p>When you're building an A",
-    "link": "https://dev.to/lakhera2015/enterprise-readiness-week-for-devops-open-agent-multi-account-aws-bedrock-observability-3h1j",
-    "topic": "aws"
+    "title": "I keep seeing managers try to run OpenClaw fleets from Claude Desktop, and it exposes a real hole in agent ops",
+    "desc": "<p>A manager asked for a ChatGPT-like way to supervise remote OpenClaw agents.</p>\n\n<p>The replies accidentally exposed one of the biggest m",
+    "link": "https://dev.to/lars_winstand/i-keep-seeing-managers-try-to-run-openclaw-fleets-from-claude-desktop-and-it-exposes-a-real-hole-1cef",
+    "topic": "anthropic"
   },
   {
-    "title": "Drenados de nodo sin alertas confusas",
-    "desc": "<p>En varios equipos de SRE he visto el mismo problema durante una ventana de mantenimiento: el drenado de un nodo sale bien, pero los corre",
-    "link": "https://dev.to/alexcarteruk/drenados-de-nodo-sin-alertas-confusas-1p9f",
+    "title": "systemd RestartSec does not wait for your process to actually exit",
+    "desc": "<p>If you have ever set RestartSec on a systemd service and wondered why you still get Address already in use errors on restart, here is why",
+    "link": "https://dev.to/schiff_heimlich/systemd-restartsec-does-not-wait-for-your-process-to-actually-exit-4pl8",
     "topic": "general"
   },
   {
-    "title": "Why I Chose Oracle Cloud Always Free for My Production Server",
-    "desc": "<p>When I wanted to host my own applications, I had one big problem---I<br />\ndidn't want to pay every month for a VPS.</p>\n\n<p>I was still ",
-    "link": "https://dev.to/asepsayyad007/why-i-chose-oracle-cloud-always-free-for-my-production-server-g4e",
+    "title": "Beyond Physical SIMs: A Developer\u2019s Guide to eSIM Provisioning and Geo-Testing",
+    "desc": "<h2>\n  \n  \n  TL;DR & Disclosure\n</h2>\n\n<p>Managing connectivity for globally distributed dev teams shouldn't require a hardware supply chain",
+    "link": "https://dev.to/bossybigboss/beyond-physical-sims-a-developers-guide-to-esim-provisioning-and-geo-testing-ean",
+    "topic": "general"
+  },
+  {
+    "title": "trelix v2.7 to v2.9: The Release Where the Pipeline Itself Became the Product",
+    "desc": "<p>On 2026-07-09 I shipped trelix v2.7.0. The architecture felt done \u2014 seven retrieval legs, a knowledge graph, an agentic loop. Then I open",
+    "link": "https://dev.to/sai_ram_0000/trelix-v27-to-v29-the-release-where-the-pipeline-itself-became-the-product-21kb",
     "topic": "general"
   }
 ]
