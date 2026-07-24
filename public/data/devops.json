@@ -1,50 +1,50 @@
 [
   {
-    "title": "ETHENEA (ETHENEA Americas LLC) Builds a More Connected Digital Experience for Global Audiences",
-    "desc": "<p>In today\u2019s increasingly connected world, digital presence has become an important part of how organizations communicate, share informatio",
-    "link": "https://dev.to/etheneaamericasinsights/ethenea-ethenea-americas-llc-builds-a-more-connected-digital-experience-for-global-audiences-37dp",
+    "title": "A Tiny OpenSCAD Test Coupon Can Save Your Heat-Set Inserts",
+    "desc": "<p>This post was created with AI assistance. Please review the code and technical details before publication.</p>\n\n<p>Heat-set inserts are a",
+    "link": "https://dev.to/orion_lc/a-tiny-openscad-test-coupon-can-save-your-heat-set-inserts-2hl8",
     "topic": "general"
   },
   {
-    "title": "DevOps for Beginners: Everything Students Should Know",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/subha_74/devops-for-beginners-everything-students-should-know-3g9e",
+    "title": "Debugging a Broken Ingress Setup: A Step-by-Step Walkthrough",
+    "desc": "<p>This post documents a real debugging session that started with a simple symptom \u2014 <code>example.com</code> wouldn't load \u2014 and ended up u",
+    "link": "https://dev.to/oyebobs/debugging-a-broken-ingress-setup-a-step-by-step-walkthrough-b37",
     "topic": "general"
   },
   {
-    "title": "\"Error: Unable to find a match \u2014 fixing dnf package lookups after migrating off Amazon Linux 2\"",
-    "desc": "<p>You moved an instance, AMI, or user-data script from Amazon Linux 2 to Amazon Linux 2023, and a package install that's worked for years s",
-    "link": "https://dev.to/ntoledo319/error-unable-to-find-a-match-fixing-dnf-package-lookups-after-migrating-off-amazon-linux-2-56c7",
+    "title": "How to Build a Honeypot Logger with Go and Notify via Telegram",
+    "desc": "<p>Attackers constantly probe infrastructure you never intended to expose \u2014 admin panels, <code>.env</code> files, forgotten login pages. A ",
+    "link": "https://dev.to/ayinedjimi-consultants/how-to-build-a-honeypot-logger-with-go-and-notify-via-telegram-3li9",
     "topic": "general"
   },
   {
-    "title": "Architecting Secure etcd Encryption: Analyzing the Vault Kubernetes KMS v2 Beta",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Securing secrets at rest within a Kubernetes cluster has historically been a complex operational challen",
-    "link": "https://dev.to/isuvo/architecting-secure-etcd-encryption-analyzing-the-vault-kubernetes-kms-v2-beta-5h6c",
+    "title": "Salesforce DevOps Training in India | Online Course",
+    "desc": "<p>Salesforce DevOps Best Practices: The Complete Guide for Teams<br />\nIntroduction<br />\nSalesforce development has changed significantly ",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-training-in-india-online-course-58bo",
+    "topic": "general"
+  },
+  {
+    "title": "Why your incident response bot closes tickets without fixing systems",
+    "desc": "<h2>\n  \n  \n  The Illusion of Resolution: When Green Dashboards Lie\n</h2>\n\n<p>A green dashboard is not proof of a healthy system. It is proof",
+    "link": "https://dev.to/zop_8abedcc7e12/why-your-incident-response-bot-closes-tickets-without-fixing-systems-4656",
+    "topic": "secops"
+  },
+  {
+    "title": "Kimi K3 Sold Out in 48 Hours: The AI Bottleneck Just Moved to Inference",
+    "desc": "<p>Moonshot launched Kimi K3, and within 48 hours it had to stop taking new subscribers. Not because the model flopped, but because too many",
+    "link": "https://dev.to/muskan_bandta/kimi-k3-sold-out-in-48-hours-the-ai-bottleneck-just-moved-to-inference-47eg",
+    "topic": "general"
+  },
+  {
+    "title": "Multi-Cloud Storage Costs Are Out of Control. On-Premises NAS Is the Fix",
+    "desc": "<p>Cloud storage invoices have a reliable way of shocking finance teams. What begins as a predictable monthly object storage bill expands in",
+    "link": "https://dev.to/nasstorage/multi-cloud-storage-costs-are-out-of-control-on-premises-nas-is-the-fix-2fbj",
+    "topic": "general"
+  },
+  {
+    "title": "I thought the safe agent rollback strategy was \u201cdon\u2019t touch Kubernetes\u201d and then I saw this OpenClaw + Argo CD setup",
+    "desc": "<p>A lot of teams are stuck between two bad ideas.</p>\n\n<p>Idea #1: give an agent broad Kubernetes access and hope GPT-5, Claude, or whateve",
+    "link": "https://dev.to/lars_winstand/i-thought-the-safe-agent-rollback-strategy-was-dont-touch-kubernetes-and-then-i-saw-this-ka4",
     "topic": "kubernetes"
-  },
-  {
-    "title": "RefluXFS: The Silent Linux Kernel Bug Giving Hackers Root Access (CVE-2026-64600)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/refluxfs-the-silent-linux-kernel-bug-giving-hackers-root-access-cve-2026-64600-4n94",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying a Full Stack SaaS",
-    "desc": "<p>The <a href=\"https://amanksingh.com/blog/feature-flags-safe-rollouts\" rel=\"noopener noreferrer\">previous article</a> in this series cover",
-    "link": "https://dev.to/moose978/deploying-a-full-stack-saas-5g06",
-    "topic": "general"
-  },
-  {
-    "title": "Disaster Recovery and Backups",
-    "desc": "<p>In the <a href=\"https://amanksingh.com/blog/scaling-saas-beyond-one-server\" rel=\"noopener noreferrer\">last article</a>, I walked through ",
-    "link": "https://dev.to/moose978/disaster-recovery-and-backups-11l5",
-    "topic": "general"
-  },
-  {
-    "title": "Monitoring a SaaS in Production",
-    "desc": "<p>In the <a href=\"https://amanksingh.com/blog/cicd-fullstack-monorepo\" rel=\"noopener noreferrer\">last article</a>, I set up a pipeline that",
-    "link": "https://dev.to/moose978/monitoring-a-saas-in-production-50ho",
-    "topic": "general"
   }
 ]
