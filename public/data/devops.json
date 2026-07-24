@@ -1,5 +1,41 @@
 [
   {
+    "title": "System Guide: Setting Up a Centralized Software Licensing Server",
+    "desc": "<p>Having visibility into user access and seat distribution is crucial for businesses of all sizes, and license servers help you get there.<",
+    "link": "https://dev.to/reprise_software/system-guide-setting-up-a-centralized-software-licensing-server-90i",
+    "topic": "general"
+  },
+  {
+    "title": "Getting Started with Infrastructure as Code Using Terraform",
+    "desc": "<h2>\n  \n  \n  What is Infrastructure as Code?\n</h2>\n\n<p>Infrastructure as Code (IaC) lets you manage your cloud resources with configuration ",
+    "link": "https://dev.to/cloudfrontier/getting-started-with-infrastructure-as-code-using-terraform-3ppo",
+    "topic": "terraform"
+  },
+  {
+    "title": "What Do DevOps Services Involve?",
+    "desc": "<p>DevOps helps development and IT teams work together to build, test, and release software faster. It combines automation, monitoring, and ",
+    "link": "https://dev.to/jacobfoster21/what-do-devops-services-involve-1j0f",
+    "topic": "general"
+  },
+  {
+    "title": "Cloud Security for Engineers: The Controls You Actually Configure",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Most cloud breaches aren't sophisticated, they're misconfigurations. The controls that actually prev",
+    "link": "https://dev.to/sherdilcloud/cloud-security-for-engineers-the-controls-you-actually-configure-4lac",
+    "topic": "secops"
+  },
+  {
+    "title": "DSCI - CI with regular programming languages instead of YAML",
+    "desc": "<p><a href=\"https://github.com/melezhik/DSCI\" rel=\"noopener noreferrer\">DSCI</a> is forgejo CI runner with pipelines syntax is just regular ",
+    "link": "https://dev.to/sp1983/dsci-ci-with-regular-programming-languages-instead-of-yaml-5h71",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\udccc Enterprise readiness week for DevOps Open Agent: Multi-account AWS, Bedrock, observability evidence, and LLM cost control\ud83d\udccc",
+    "desc": "<p>This week was all about making DevOps Open Agent more practical for real-world enterprise environments.</p>\n\n<p>When you're building an A",
+    "link": "https://dev.to/lakhera2015/enterprise-readiness-week-for-devops-open-agent-multi-account-aws-bedrock-observability-3h1j",
+    "topic": "aws"
+  },
+  {
     "title": "Drenados de nodo sin alertas confusas",
     "desc": "<p>En varios equipos de SRE he visto el mismo problema durante una ventana de mantenimiento: el drenado de un nodo sale bien, pero los corre",
     "link": "https://dev.to/alexcarteruk/drenados-de-nodo-sin-alertas-confusas-1p9f",
@@ -10,41 +46,5 @@
     "desc": "<p>When I wanted to host my own applications, I had one big problem---I<br />\ndidn't want to pay every month for a VPS.</p>\n\n<p>I was still ",
     "link": "https://dev.to/asepsayyad007/why-i-chose-oracle-cloud-always-free-for-my-production-server-g4e",
     "topic": "general"
-  },
-  {
-    "title": "We audited every SSH connection to production for a month. Here's what we found.",
-    "desc": "<p>After the ex-employee key incident, I stopped trusting my own assumptions about who was actually connecting to what. So for one month, I ",
-    "link": "https://dev.to/iris_line_/we-audited-every-ssh-connection-to-production-for-a-month-heres-what-we-found-2770",
-    "topic": "general"
-  },
-  {
-    "title": "Anatomy of a Ban: Why \"Login with GitHub\" Is the Biggest Architectural Mistake of Your Life",
-    "desc": "<p>Two weeks ago, I was a regular developer. I had working services, a public portfolio, an accepted PR in open-source, and convenient \"Logi",
-    "link": "https://dev.to/ku6epxboctuk/anatomy-of-a-ban-why-login-with-github-is-the-biggest-architectural-mistake-of-your-life-1715",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Kubernetes Dashboard and Managing Cluster Resources",
-    "desc": "<p>Kubernetes Dashboard is an open-source web GUI for managing cluster resources (CronJobs, DaemonSets, Deployments, Pods, ReplicaSets, Stat",
-    "link": "https://dev.to/vultr/deploying-kubernetes-dashboard-and-managing-cluster-resources-4426",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Deploying Strapi on a Kubernetes Cluster",
-    "desc": "<p>Strapi is a headless CMS with an intuitive admin dashboard, custom content types, and role-based permissions, well-suited to Kubernetes f",
-    "link": "https://dev.to/vultr/deploying-strapi-on-a-kubernetes-cluster-384b",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Deploying MariaDB on Kubernetes",
-    "desc": "<p>MariaDB is a popular open-source relational database. Running it on Kubernetes gets you portability across environments, CI/CD integratio",
-    "link": "https://dev.to/vultr/deploying-mariadb-on-kubernetes-408a",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Deploying CockroachDB on Kubernetes",
-    "desc": "<p>CockroachDB is a distributed SQL database that replicates data across nodes for high availability. If a node fails, the cluster elects ne",
-    "link": "https://dev.to/vultr/deploying-cockroachdb-on-kubernetes-5ch8",
-    "topic": "kubernetes"
   }
 ]
