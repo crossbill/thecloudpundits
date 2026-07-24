@@ -1,5 +1,41 @@
 [
   {
+    "title": "What is a Forward Deployed Engineer? 8 months in the role.",
+    "desc": "<p>\"Forward Deployed Engineer.\" That was my new title as of last November, swapped in for \"SRE\" after I changed jobs. My first reaction? Wha",
+    "link": "https://dev.to/mvaldes/what-is-a-forward-deployed-engineer-8-months-in-the-role-2bcj",
+    "topic": "general"
+  },
+  {
+    "title": "How to Deploy an AI Crypto Trading Bot on Your VPS",
+    "desc": "<h1>How to Deploy an AI Crypto Trading Bot on Your VPS</h1>\n<p>In this tutorial you\u2019ll <strong>deploy an AI crypto trading bot</strong> to y",
+    "link": "https://dev.to/dineshstack/how-to-deploy-an-ai-crypto-trading-bot-on-your-vps-59a4",
+    "topic": "general"
+  },
+  {
+    "title": "Securing the Boundary: Mitigating Zero-Day Vulnerabilities in Modern API Gateways",
+    "desc": "<h2>\n  \n  \n  The Edge as a Primary Attack Vector\n</h2>\n\n<p>In modern platform engineering, the API gateway is no longer just a routing mecha",
+    "link": "https://dev.to/isuvo/securing-the-boundary-mitigating-zero-day-vulnerabilities-in-modern-api-gateways-2dck",
+    "topic": "general"
+  },
+  {
+    "title": "DevOps Engineer Professional Exam Guide",
+    "desc": "<h2>\n  \n  \n  \ud83d\udcd8 The <strong>AWS Certified DevOps Engineer \u2013 Professional (DOP-C02)</strong>\n</h2>\n\n<p>The <strong>AWS Certified DevOps Engine",
+    "link": "https://dev.to/aws-builders/devops-engineer-professional-exam-guide-4j35",
+    "topic": "general"
+  },
+  {
+    "title": "Migration Friction Is the Real Cost of Switching Tools",
+    "desc": "<p>Tool comparison posts obsess over feature matrices and monthly pricing. Both are the easy numbers. The expensive number is what it costs ",
+    "link": "https://dev.to/theobrenner/migration-friction-is-the-real-cost-of-switching-tools-4cga",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes 1.36: What's New and What Breaks",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/kubernetes-1-36-new-features/\" rel=\"noopener noreferrer\">DevToolHub<",
+    "link": "https://dev.to/amareswer/kubernetes-136-whats-new-and-what-breaks-1i11",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Why Your SaaS Cold Email Fails: A Technical Autopsy of Deliverability",
     "desc": "<h2>\n  \n  \n  The Reply Rate That Never Moves\n</h2>\n\n<p>You built something useful. You have a list of 200 prospects who fit your ICP perfect",
     "link": "https://dev.to/livedirectmarketing/why-your-saas-cold-email-fails-a-technical-autopsy-of-deliverability-30a2",
@@ -10,41 +46,5 @@
     "desc": "<p>Context switching is where engineering productivity goes to die.</p>\n\n<p>You're deep in a refactor inside Cursor or Claude Code, logic is",
     "link": "https://dev.to/renato_marinho/turning-claude-into-a-code-quality-auditor-with-mcp-eci",
     "topic": "anthropic"
-  },
-  {
-    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/bgp-origin-attribute-manipulation-and-its-impact-on-the-internet",
-    "link": "https://dev.to/rasne/bgp-origin-attribute-manipulation-and-its-impact-on-the-internet-5bp3",
-    "topic": "general"
-  },
-  {
-    "title": "The AI Agent That Refused to Write Code",
-    "desc": "<h2>\n  \n  \n  Applying the AI-Ready Nx Workspace to a production monorepo\n</h2>\n\n<p>We asked our coding agent to start a task, <code>/run-tas",
-    "link": "https://dev.to/dsofianos/the-ai-agent-that-refused-to-write-code-2n2k",
-    "topic": "general"
-  },
-  {
-    "title": "I keep seeing managers try to run OpenClaw fleets from Claude Desktop, and it exposes a real hole in agent ops",
-    "desc": "<p>A manager asked for a ChatGPT-like way to supervise remote OpenClaw agents.</p>\n\n<p>The replies accidentally exposed one of the biggest m",
-    "link": "https://dev.to/lars_winstand/i-keep-seeing-managers-try-to-run-openclaw-fleets-from-claude-desktop-and-it-exposes-a-real-hole-1cef",
-    "topic": "anthropic"
-  },
-  {
-    "title": "systemd RestartSec does not wait for your process to actually exit",
-    "desc": "<p>If you have ever set RestartSec on a systemd service and wondered why you still get Address already in use errors on restart, here is why",
-    "link": "https://dev.to/schiff_heimlich/systemd-restartsec-does-not-wait-for-your-process-to-actually-exit-4pl8",
-    "topic": "general"
-  },
-  {
-    "title": "Beyond Physical SIMs: A Developer\u2019s Guide to eSIM Provisioning and Geo-Testing",
-    "desc": "<h2>\n  \n  \n  TL;DR & Disclosure\n</h2>\n\n<p>Managing connectivity for globally distributed dev teams shouldn't require a hardware supply chain",
-    "link": "https://dev.to/bossybigboss/beyond-physical-sims-a-developers-guide-to-esim-provisioning-and-geo-testing-ean",
-    "topic": "general"
-  },
-  {
-    "title": "trelix v2.7 to v2.9: The Release Where the Pipeline Itself Became the Product",
-    "desc": "<p>On 2026-07-09 I shipped trelix v2.7.0. The architecture felt done \u2014 seven retrieval legs, a knowledge graph, an agentic loop. Then I open",
-    "link": "https://dev.to/sai_ram_0000/trelix-v27-to-v29-the-release-where-the-pipeline-itself-became-the-product-21kb",
-    "topic": "general"
   }
 ]
