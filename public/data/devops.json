@@ -1,50 +1,50 @@
 [
   {
-    "title": "AI-Driven Development: How AI Accelerates Software Delivery",
-    "desc": "<p>Competitive product teams still win on <strong>how fast they learn and ship</strong> \u2014 but \"fast\" in 2026 no longer means typing more cod",
-    "link": "https://dev.to/smartym/ai-driven-development-how-ai-accelerates-software-delivery-2bg8",
+    "title": "Drenados de nodo sin alertas confusas",
+    "desc": "<p>En varios equipos de SRE he visto el mismo problema durante una ventana de mantenimiento: el drenado de un nodo sale bien, pero los corre",
+    "link": "https://dev.to/alexcarteruk/drenados-de-nodo-sin-alertas-confusas-1p9f",
     "topic": "general"
   },
   {
-    "title": "Master AI Agents for DevOps Engineers Course | Visualpath",
-    "desc": "<p>\ud83d\ude80 \ud835\udde0\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\uddd4\ud835\udddc-\ud835\udde3\ud835\uddfc\ud835\ude04\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddf1 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\udde2\ud835\uddfd\ud835\ude00 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde1\ud835\uddf2\ud835\ude05\ud835\ude01-\ud835\uddda\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00!<br />\n\ud83c\udfaf The future of #DevOps is AI-powered. Learn to build intelligent #AIAge",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-ai-agents-for-devops-engineers-course-visualpath-4l5e",
+    "title": "Why I Chose Oracle Cloud Always Free for My Production Server",
+    "desc": "<p>When I wanted to host my own applications, I had one big problem---I<br />\ndidn't want to pay every month for a VPS.</p>\n\n<p>I was still ",
+    "link": "https://dev.to/asepsayyad007/why-i-chose-oracle-cloud-always-free-for-my-production-server-g4e",
     "topic": "general"
   },
   {
-    "title": "Automate Your Repetitive Tasks",
-    "desc": "<p>If you find yourself doing the same task over and over, take the time to automate it. It\u2019ll free you up for more meaningful work and redu",
-    "link": "https://dev.to/fabiosarmento/automate-your-repetitive-tasks-48np",
+    "title": "We audited every SSH connection to production for a month. Here's what we found.",
+    "desc": "<p>After the ex-employee key incident, I stopped trusting my own assumptions about who was actually connecting to what. So for one month, I ",
+    "link": "https://dev.to/iris_line_/we-audited-every-ssh-connection-to-production-for-a-month-heres-what-we-found-2770",
     "topic": "general"
   },
   {
-    "title": "Oops, I Committed a Secret: A Calm Guide to Scrubbing Git History",
-    "desc": "<p>You just finished a great feature. You're in the flow.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"",
-    "link": "https://dev.to/karamkhoury88/oops-i-committed-a-secret-a-calm-guide-to-scrubbing-git-history-38ll",
+    "title": "Anatomy of a Ban: Why \"Login with GitHub\" Is the Biggest Architectural Mistake of Your Life",
+    "desc": "<p>Two weeks ago, I was a regular developer. I had working services, a public portfolio, an accepted PR in open-source, and convenient \"Logi",
+    "link": "https://dev.to/ku6epxboctuk/anatomy-of-a-ban-why-login-with-github-is-the-biggest-architectural-mistake-of-your-life-1715",
     "topic": "general"
   },
   {
-    "title": "MyZubsterGateway: From Health Checks to Security Bots \u2013 A Development Log \ud83d\ude80",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/danielioni/myzubstergateway-from-health-checks-to-security-bots-adevelopmentlog-1n7c",
-    "topic": "secops"
-  },
-  {
-    "title": "Did the model get worse, or is it just you? How to actually tell when an LLM API silently changes",
-    "desc": "<p>You ship a feature on top of <code>gpt-x</code> or <code>claude-y</code>. It works. Three weeks later your users say the outputs feel wor",
-    "link": "https://dev.to/taniacoder/did-the-model-get-worse-or-is-it-just-you-how-to-actually-tell-when-an-llm-api-silently-changes-305b",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes: correos claros para drenados de nodo",
-    "desc": "<p>Cuando un equipo programa un drenado de nodo en Kubernetes, casi siempre piensa primero en <code>kubectl drain</code>, budgets y capacida",
-    "link": "https://dev.to/alexcarteruk/kubernetes-correos-claros-para-drenados-de-nodo-5e41",
+    "title": "Deploying Kubernetes Dashboard and Managing Cluster Resources",
+    "desc": "<p>Kubernetes Dashboard is an open-source web GUI for managing cluster resources (CronJobs, DaemonSets, Deployments, Pods, ReplicaSets, Stat",
+    "link": "https://dev.to/vultr/deploying-kubernetes-dashboard-and-managing-cluster-resources-4426",
     "topic": "kubernetes"
   },
   {
-    "title": "Dockerfile Best Practices: Small, Fast, Secure Images",
-    "desc": "<h2>\n  \n  \n  Your first Dockerfile works, and it's terrible\n</h2>\n\n<p>Almost everyone's first Dockerfile follows the same pattern: start fro",
-    "link": "https://dev.to/sri2614/dockerfile-best-practices-small-fast-secure-images-4mfm",
-    "topic": "docker"
+    "title": "Deploying Strapi on a Kubernetes Cluster",
+    "desc": "<p>Strapi is a headless CMS with an intuitive admin dashboard, custom content types, and role-based permissions, well-suited to Kubernetes f",
+    "link": "https://dev.to/vultr/deploying-strapi-on-a-kubernetes-cluster-384b",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Deploying MariaDB on Kubernetes",
+    "desc": "<p>MariaDB is a popular open-source relational database. Running it on Kubernetes gets you portability across environments, CI/CD integratio",
+    "link": "https://dev.to/vultr/deploying-mariadb-on-kubernetes-408a",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Deploying CockroachDB on Kubernetes",
+    "desc": "<p>CockroachDB is a distributed SQL database that replicates data across nodes for high availability. If a node fails, the cluster elects ne",
+    "link": "https://dev.to/vultr/deploying-cockroachdb-on-kubernetes-5ch8",
+    "topic": "kubernetes"
   }
 ]
