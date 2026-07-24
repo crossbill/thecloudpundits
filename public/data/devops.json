@@ -1,5 +1,29 @@
 [
   {
+    "title": "A PR review agent with 2 comments beats one with 20",
+    "desc": "<p>A good review agent needs a bias toward silence, a validation pass against its own findings, a context budget, and a definition of \"corre",
+    "link": "https://dev.to/stephanie_dover_b49c2e8d1/a-pr-review-agent-with-2-comments-beats-one-with-20-m2p",
+    "topic": "general"
+  },
+  {
+    "title": "I kept seeing weird stuff on my VPS, so I built a tool to stop guessing",
+    "desc": "<p>A few weeks ago I noticed some things I couldn't explain on one of my VPS instances \u2014 nothing catastrophic, just enough \"that's not right",
+    "link": "https://dev.to/salamancacm/i-kept-seeing-weird-stuff-on-my-vps-so-i-built-a-tool-to-stop-guessing-50cn",
+    "topic": "general"
+  },
+  {
+    "title": "My idle ClickHouse was merging 11 million rows every 30 seconds",
+    "desc": "<p>I run a small self-hosted observability tool on the cheapest VPS I could find on purpose: <strong>2 cores, 2 GB RAM, 20 GB SATA SSD</stro",
+    "link": "https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i",
+    "topic": "general"
+  },
+  {
+    "title": "C\u00e1maras Hanwha filtraban un token de GitHub con acceso admin",
+    "desc": "<p>Un investigador de seguridad extrajo el firmware de una c\u00e1mara Hanwha Vision y encontr\u00f3, duplicado en cerca de 30 archivos distintos, un ",
+    "link": "https://dev.to/lu1tr0n/camaras-hanwha-filtraban-un-token-de-github-con-acceso-admin-4c65",
+    "topic": "general"
+  },
+  {
     "title": "What is a Forward Deployed Engineer? 8 months in the role.",
     "desc": "<p>\"Forward Deployed Engineer.\" That was my new title as of last November, swapped in for \"SRE\" after I changed jobs. My first reaction? Wha",
     "link": "https://dev.to/mvaldes/what-is-a-forward-deployed-engineer-8-months-in-the-role-2bcj",
@@ -22,29 +46,5 @@
     "desc": "<h2>\n  \n  \n  \ud83d\udcd8 The <strong>AWS Certified DevOps Engineer \u2013 Professional (DOP-C02)</strong>\n</h2>\n\n<p>The <strong>AWS Certified DevOps Engine",
     "link": "https://dev.to/aws-builders/devops-engineer-professional-exam-guide-4j35",
     "topic": "general"
-  },
-  {
-    "title": "Migration Friction Is the Real Cost of Switching Tools",
-    "desc": "<p>Tool comparison posts obsess over feature matrices and monthly pricing. Both are the easy numbers. The expensive number is what it costs ",
-    "link": "https://dev.to/theobrenner/migration-friction-is-the-real-cost-of-switching-tools-4cga",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes 1.36: What's New and What Breaks",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/kubernetes-1-36-new-features/\" rel=\"noopener noreferrer\">DevToolHub<",
-    "link": "https://dev.to/amareswer/kubernetes-136-whats-new-and-what-breaks-1i11",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Why Your SaaS Cold Email Fails: A Technical Autopsy of Deliverability",
-    "desc": "<h2>\n  \n  \n  The Reply Rate That Never Moves\n</h2>\n\n<p>You built something useful. You have a list of 200 prospects who fit your ICP perfect",
-    "link": "https://dev.to/livedirectmarketing/why-your-saas-cold-email-fails-a-technical-autopsy-of-deliverability-30a2",
-    "topic": "general"
-  },
-  {
-    "title": "Turning Claude into a Code Quality Auditor with MCP",
-    "desc": "<p>Context switching is where engineering productivity goes to die.</p>\n\n<p>You're deep in a refactor inside Cursor or Claude Code, logic is",
-    "link": "https://dev.to/renato_marinho/turning-claude-into-a-code-quality-auditor-with-mcp-eci",
-    "topic": "anthropic"
   }
 ]
