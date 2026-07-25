@@ -1,50 +1,50 @@
 [
   {
-    "title": "Vulnerability Watch \u2014 1 high-severity CVE (2026-07-24)",
-    "desc": "<p><em>Automated vulnerability report from <a href=\"https://api.pkgdrift.com\" rel=\"noopener noreferrer\">pkgdrift</a> \u2014 real-time CVE intelli",
-    "link": "https://dev.to/pkgdrift/vulnerability-watch-1-high-severity-cve-2026-07-24-fp4",
-    "topic": "secops"
-  },
-  {
-    "title": "Deploying a Kubernetes Application on Azure Kubernetes Service (AKS): From Cluster Creation to Live Deployment",
-    "desc": "<p>Step 1 \u2014 Create a Resource Group and Verify It</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/wi",
-    "link": "https://dev.to/awokay/deploying-a-kubernetes-application-on-azure-kubernetes-service-aks-from-cluster-creation-to-live-3f97",
-    "topic": "azure"
-  },
-  {
-    "title": "The Hardest Browser Tests Live Outside the Browser",
-    "desc": "<p>The easiest browser test is the one that never leaves the browser.</p>\n\n<p>Open a page. Click a button. Check a message.</p>\n\n<p>Real cus",
-    "link": "https://dev.to/randomsquirrel802/the-hardest-browser-tests-live-outside-the-browser-afi",
+    "title": "10 Steps to Secure Linux",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-33i4",
     "topic": "general"
   },
   {
-    "title": "Your Test Suite Isn't Slow. It's Accumulating Decisions",
-    "desc": "<p>Most browser test suites do not collapse in one dramatic moment.</p>\n\n<p>They get a little slower on Monday.</p>\n\n<p>A little noisier on ",
-    "link": "https://dev.to/mellowthunder735/your-test-suite-isnt-slow-its-accumulating-decisions-5080",
+    "title": "How to Build a Robust Automation Framework for AI",
+    "desc": "<p>Imagine launching your AI project in half the time and dramatically reducing errors. A well-built automation framework can make this a re",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-to-build-a-robust-automation-framework-for-ai-49l4",
     "topic": "general"
   },
   {
-    "title": "The Next SharePoint 9.8 Arrived in Eight Days - And It Was the Last One With a Patch",
-    "desc": "<p><em>Originally published at <a href=\"https://endoflife.ai/article-sharepoint-cve-2026-50522\" rel=\"noopener noreferrer\">endoflife.ai</a>.<",
-    "link": "https://dev.to/endoflifeai/the-next-sharepoint-98-arrived-in-eight-days-and-it-was-the-last-one-with-a-patch-3db0",
+    "title": "Microservices Architecture for High-Concurrency Gaming Platforms",
+    "desc": "<h1>\n  \n  \n  Microservices Architecture for High-Concurrency Gaming Platforms\n</h1>\n\n<p>Gaming platforms handle thousands of concurrent conn",
+    "link": "https://dev.to/yoo_tao_31d3d572d2d49bfeb/microservices-architecture-for-high-concurrency-gaming-platforms-3859",
     "topic": "general"
   },
   {
-    "title": "A PR review agent with 2 comments beats one with 20",
-    "desc": "<p>A good review agent needs a bias toward silence, a validation pass against its own findings, a context budget, and a definition of \"corre",
-    "link": "https://dev.to/stephanie_dover_b49c2e8d1/a-pr-review-agent-with-2-comments-beats-one-with-20-m2p",
+    "title": "\ud83d\ude80 Deploy Flask API to Akamai Cloud Compute made easy",
+    "desc": "<p>To <strong>deploy a Flask API to Akamai Cloud Compute</strong> , containerize the application with Docker, push the image to Akamai\u2019s Con",
+    "link": "https://dev.to/ptp2308/deploy-flask-api-to-akamai-cloud-compute-made-easy-5009",
     "topic": "general"
   },
   {
-    "title": "I kept seeing weird stuff on my VPS, so I built a tool to stop guessing",
-    "desc": "<p>A few weeks ago I noticed some things I couldn't explain on one of my VPS instances \u2014 nothing catastrophic, just enough \"that's not right",
-    "link": "https://dev.to/salamancacm/i-kept-seeing-weird-stuff-on-my-vps-so-i-built-a-tool-to-stop-guessing-50cn",
+    "title": "ViciDial carrier_log No Answer \u2014 Diagnosing Failed Outbound Calls",
+    "desc": "<h1>\n  \n  \n  ViciDial carrier_log No Answer \u2014 Diagnosing Failed Outbound Calls\n</h1>\n\n<p><strong>Master the art of troubleshooting \"No Answe",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-carrierlog-no-answer-diagnosing-failed-outbound-calls-jo6",
     "topic": "general"
   },
   {
-    "title": "My idle ClickHouse was merging 11 million rows every 30 seconds",
-    "desc": "<p>I run a small self-hosted observability tool on the cheapest VPS I could find on purpose: <strong>2 cores, 2 GB RAM, 20 GB SATA SSD</stro",
-    "link": "https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i",
+    "title": "A2A's Multi-Cloud FinOps Data Pipeline on AWS: From Spreadsheet Hell to FOCUS",
+    "desc": "<p>If your multi-cloud cost review still means reconciling cloud bills by hand, you already know spreadsheet hell: provider-specific data, m",
+    "link": "https://dev.to/tran_tienvan_e45fc26d655/a2as-multi-cloud-finops-data-pipeline-on-aws-from-spreadsheet-hell-to-focus-g5m",
+    "topic": "aws"
+  },
+  {
+    "title": "Microservices",
+    "desc": "<blockquote>\n<p><strong>One-liner:</strong> Instead of one giant application (monolith), microservices split the system into small, independ",
+    "link": "https://dev.to/gouranga-das-khulna/microservices-1gfn",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4plk",
     "topic": "general"
   }
 ]
