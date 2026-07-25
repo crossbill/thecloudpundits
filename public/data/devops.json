@@ -1,5 +1,35 @@
 [
   {
+    "title": "AI SRE Agents on SigNoz MCP: Root-Cause Analysis for $0.0013",
+    "desc": "<blockquote>\n<p>\ud83c\udfc6 Built for the <strong>WeMakeDevs \u00d7 Agents of SigNoz Hackathon 2026</strong></p>\n\n<p>\u00b7 <strong>GitHub:</strong> <a href=\"ht",
+    "link": "https://dev.to/harjapan_2005/ai-sre-agents-on-signoz-mcp-root-cause-analysis-for-00013-4ne2",
+    "topic": "general"
+  },
+  {
+    "title": "I Let an Agent Take Over an Account With Every Permission Check Green",
+    "desc": "<p>Clone it. Run it. Tell me where I'm wrong.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>git c",
+    "link": "https://dev.to/kenielzep97/i-let-an-agent-take-over-an-account-with-every-permission-check-green-28g4",
+    "topic": "general"
+  },
+  {
+    "title": "I kept seeing weird stuff on my VPS, so I built a tool to stop guessing",
+    "desc": "<p>A few weeks ago I noticed some things I couldn't explain on one of my VPS instances \u2014 nothing catastrophic, just enough \"that's not right",
+    "link": "https://dev.to/salamancacm/i-kept-seeing-weird-stuff-on-my-vps-so-i-built-a-tool-to-stop-guessing-2808",
+    "topic": "general"
+  },
+  {
+    "title": "Google made multi-region Cloud Run easier. Cloud Run now supports cross-region failover and failback. https://dev.to/gdg/zero-to",
+    "desc": "<p>Google made multi-region Cloud Run easier. Cloud Run now supports cross-region failover and failback. <a href=\"https://dev.to/gdg/zero-to",
+    "link": "https://dev.to/atheerium/google-made-multi-region-cloud-run-easier-cloud-run-now-supports-cross-region-failover-and-3eb5",
+    "topic": "general"
+  },
+  {
+    "title": "41 percent of engineers admit ignoring alerts and I found out I was one of them",
+    "desc": "<p>Tuesday evening I counted something I had never counted before.</p>\n\n<p>The number of times my own tooling interrupted me in one working ",
+    "link": "https://dev.to/mjmirza/41-percent-of-engineers-admit-ignoring-alerts-and-i-found-out-i-was-one-of-them-fco",
+    "topic": "general"
+  },
+  {
     "title": "I Built an AI-Agent Guardrail, Then Discovered My Observer Was Watching Itself",
     "desc": "<p>Reactive AI cost monitoring has an awkward limitation: by the time a chart shows a runaway agent, the tokens are already gone. I wanted t",
     "link": "https://dev.to/amanm006/i-built-an-ai-agent-guardrail-then-discovered-my-observer-was-watching-itself-3j4d",
@@ -15,36 +45,6 @@
     "title": "From Policy to Pipeline: Making Compliance an Engineering Property",
     "desc": "<p><em>Part 4 of \"Trust the Machine\" \u2014> a series on building AI infrastructure that is secure, compliant, and governable by design.</em></p>",
     "link": "https://dev.to/anusha_mukka/from-policy-to-pipeline-making-compliance-an-engineering-property-35ap",
-    "topic": "general"
-  },
-  {
-    "title": "Monitering EC2 instance",
-    "desc": "<h2>\n  \n  \n  TASK 1: Configure Amazon SNS \ud83d\udce7\n</h2>\n\n<p>Objective</p>\n\n<p>Create an Amazon SNS topic and subscribe to email notifications for ",
-    "link": "https://dev.to/muhammad-nadeem/monitering-ec2-instance-598p",
-    "topic": "general"
-  },
-  {
-    "title": "The Oversight Ladder: the five levels of AI coding autonomy",
-    "desc": "<p><em>Originally published on <a href=\"https://ddd.consulting/blog/levels-of-ai-coding-autonomy\" rel=\"noopener noreferrer\">ddd.consulting</",
-    "link": "https://dev.to/dominik_ddd/the-oversight-ladder-the-five-levels-of-ai-coding-autonomy-1d94",
-    "topic": "general"
-  },
-  {
-    "title": "Sesiones remotas siempre disponibles para tus agentes de codigo",
-    "desc": "<p>Una sesi\u00f3n de agente que sobrevive a cerrar la laptop, corriendo en una sola instancia EC2 chica que manejas desde el tel\u00e9fono. Este post",
-    "link": "https://dev.to/aws-builders/sesiones-remotas-siempre-disponibles-para-tus-agentes-de-codigo-549f",
-    "topic": "general"
-  },
-  {
-    "title": "Hardening API Gateways: Bridging CISA Hardening Guidelines with Modern API Security",
-    "desc": "<h2>\n  \n  \n  \ud83c\udfd7\ufe0f The Gateway as the Hardened Trust Boundary\n</h2>\n\n<p>In modern distributed architectures, the API gateway is no longer just ",
-    "link": "https://dev.to/isuvo/hardening-api-gateways-bridging-cisa-hardening-guidelines-with-modern-api-security-4le9",
-    "topic": "secops"
-  },
-  {
-    "title": "MCP in enterprise: access control and audit logging",
-    "desc": "<h1>\n  \n  \n  MCP in enterprise: access control and audit logging\n</h1>\n\n<p>Ship an MCP server at a company with compliance requirements and ",
-    "link": "https://dev.to/mudassirworks/mcp-in-enterprise-access-control-and-audit-logging-342l",
     "topic": "general"
   }
 ]
