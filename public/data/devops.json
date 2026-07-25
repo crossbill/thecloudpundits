@@ -1,50 +1,50 @@
 [
   {
-    "title": "OmniSRE: Closed-Loop AI Observability and Autonomous Self-Healing",
-    "desc": "<h2>\n  \n  \n  How I Built an Autonomous AI SRE Agent with SigNoz (and the Telegram Kill Switch That Keeps It Safe)\n</h2>\n\n<p><a class=\"articl",
-    "link": "https://dev.to/rahulchandra2004/omnisre-closed-loop-ai-observability-and-autonomous-self-healing-1lf4",
+    "title": "The Complete Beginner\u2019s Guide to JSON: Everything Every Developer Should Know",
+    "desc": "<p>If you\u2019ve ever worked with APIs, web applications, mobile apps, or AI tools, you\u2019ve already encountered <a href=\"https://jsontoonpro.com/",
+    "link": "https://dev.to/wajeehaco/the-complete-beginners-guide-to-json-everything-every-developer-should-know-2ef3",
     "topic": "general"
   },
   {
-    "title": "Analyzing Moonshot AI's Kimi K3: What a 2.8-Trillion Parameter Open-Weights Model Means for Your Infrastructure",
-    "desc": "<p>On July 17, 2026, Moonshot AI announced Kimi K3, a flagship model boasting 2.8 trillion parameters, with a commitment to release its open",
-    "link": "https://dev.to/isuvo/analyzing-moonshot-ais-kimi-k3-what-a-28-trillion-parameter-open-weights-model-means-for-your-5dj0",
+    "title": "An OpenAI model breached Hugging Face to cheat a benchmark \u2014 the 5 holes, and how to close them in your agent",
+    "desc": "<p>In July 2026, two of OpenAI's models \u2014 GPT-5.6 Sol and a stronger unreleased one \u2014 broke out of a sealed cyber-evaluation sandbox, reache",
+    "link": "https://dev.to/master_chief999/an-openai-model-breached-hugging-face-to-cheat-a-benchmark-the-5-holes-and-how-to-close-them-in-4cl6",
+    "topic": "openai"
+  },
+  {
+    "title": "Put a token-cost gate on your AI-agent PRs in 5 minutes",
+    "desc": "<p>If you run an AI agent, your token bill lives in your source code \u2014 in prompts, tool<br />\ndescriptions, and how much context you re-send",
+    "link": "https://dev.to/wartzarbee/put-a-token-cost-gate-on-your-ai-agent-prs-in-5-minutes-4g7g",
     "topic": "general"
   },
   {
-    "title": "What Is Kubernetes? A Beginner's Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/subha_74/what-is-kubernetes-a-beginners-guide-53bh",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Fix nginx-proxy SSL Certs Not Issuing in Docker Compose",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/25/fix-nginx-proxy-ssl-certs-not-issuing-in-docker-compose\" rel=\"noop",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-nginx-proxy-ssl-certs-not-issuing-in-docker-compose-i0n",
-    "topic": "docker"
-  },
-  {
-    "title": "Which AI Certifications Provide the Highest Career Value for Professionals?",
-    "desc": "<p>Artificial Intelligence (AI) has become one of the most valuable skills in today's job market. From software development and finance to h",
-    "link": "https://dev.to/ailearning/which-ai-certifications-provide-the-highest-career-value-for-professionals-1ng3",
+    "title": "Convert Linear Travel Into Motor RPM and Step Pulses With Python",
+    "desc": "<p>When controlling a screw-driven linear axis, the motion command usually begins in millimeters, but the motor operates in revolutions and ",
+    "link": "https://dev.to/orion_lc/convert-linear-travel-into-motor-rpm-and-step-pulses-with-python-3jl2",
     "topic": "general"
   },
   {
-    "title": "\ud83c\udf10 Understanding TCP Flow: From Handshake to Data Transfer",
-    "desc": "<p>When you type a URL like <code>https://youtube.com</code> into Chrome, a fascinating sequence of events unfolds behind the scenes. Let\u2019s ",
-    "link": "https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n",
+    "title": "Discover the Unlimited Potential of DevOps Training at Bangalore: Why It Matters for Your Future Success",
+    "desc": "<p>Discover the Unlimited Potential of <a href=\"https://learnmoretech.in/devops-training-in-bangalore\" rel=\"noopener noreferrer\">DevOps Trai",
+    "link": "https://dev.to/lm_pg_ae695f1a4c717f/discover-the-unlimited-potential-of-devops-training-at-bangalore-why-it-matters-for-your-future-4a7c",
     "topic": "general"
   },
   {
-    "title": "Linux File Permissions Explained: Read, Write, and Change Permissions",
-    "desc": "<p>Linux file permissions are one of the first concepts every Linux user and system administrator needs to master. Every sysadmin has been b",
-    "link": "https://dev.to/serveravatar/linux-file-permissions-explained-read-write-and-change-permissions-3ble",
+    "title": "Empower Your Tech Future: Why Opting for DevOps Training at Bangalore is Essential for Tomorrow\u2019s Innovators",
+    "desc": "<p>Empower Your Tech Future: Why Opting for <a href=\"https://learnmoretech.in/devops-training-in-bangalore\" rel=\"noopener noreferrer\">DevOps",
+    "link": "https://dev.to/lm_pg_ae695f1a4c717f/empower-your-tech-future-why-opting-for-devops-training-at-bangalore-is-essential-for-tomorrows-186m",
     "topic": "general"
   },
   {
-    "title": "Your LLM Fallback Probably Isn't a Fallback",
-    "desc": "<p>At 04:00 UTC, every model call through our LLM gateway started returning<br />\nHTTP 400. Not some calls. All of them. Our tier-1 CI gate ",
-    "link": "https://dev.to/gad_ofir_076c468dd15d483b/your-llm-fallback-probably-isnt-a-fallback-34fk",
+    "title": "Power Up Your Potential: Why Enrolling in DevOps Training at Bangalore is Key for Career Advancement in 2026",
+    "desc": "<p>Power Up Your Potential: Why Enrolling in <a href=\"https://learnmoretech.in/devops-training-in-bangalore\" rel=\"noopener noreferrer\">DevOp",
+    "link": "https://dev.to/h2_lmt_318f611464212f9336/power-up-your-potential-why-enrolling-in-devops-training-at-bangalore-is-key-for-career-3ep",
+    "topic": "general"
+  },
+  {
+    "title": "Revamp Your Professional Journey: Exploring the Impact of DevOps Training at Bangalore in 2026",
+    "desc": "<p>Revamp Your Professional Journey: Exploring the Impact of <a href=\"https://learnmoretech.in/devops-training-in-bangalore\" rel=\"noopener n",
+    "link": "https://dev.to/h2_lmt_318f611464212f9336/revamp-your-professional-journey-exploring-the-impact-of-devops-training-at-bangalore-in-2026-5ek0",
     "topic": "general"
   }
 ]
