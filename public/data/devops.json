@@ -1,5 +1,35 @@
 [
   {
+    "title": "Vulnerability Watch \u2014 1 high-severity CVE (2026-07-24)",
+    "desc": "<p><em>Automated vulnerability report from <a href=\"https://api.pkgdrift.com\" rel=\"noopener noreferrer\">pkgdrift</a> \u2014 real-time CVE intelli",
+    "link": "https://dev.to/pkgdrift/vulnerability-watch-1-high-severity-cve-2026-07-24-fp4",
+    "topic": "secops"
+  },
+  {
+    "title": "Deploying a Kubernetes Application on Azure Kubernetes Service (AKS): From Cluster Creation to Live Deployment",
+    "desc": "<p>Step 1 \u2014 Create a Resource Group and Verify It</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/wi",
+    "link": "https://dev.to/awokay/deploying-a-kubernetes-application-on-azure-kubernetes-service-aks-from-cluster-creation-to-live-3f97",
+    "topic": "azure"
+  },
+  {
+    "title": "The Hardest Browser Tests Live Outside the Browser",
+    "desc": "<p>The easiest browser test is the one that never leaves the browser.</p>\n\n<p>Open a page. Click a button. Check a message.</p>\n\n<p>Real cus",
+    "link": "https://dev.to/randomsquirrel802/the-hardest-browser-tests-live-outside-the-browser-afi",
+    "topic": "general"
+  },
+  {
+    "title": "Your Test Suite Isn't Slow. It's Accumulating Decisions",
+    "desc": "<p>Most browser test suites do not collapse in one dramatic moment.</p>\n\n<p>They get a little slower on Monday.</p>\n\n<p>A little noisier on ",
+    "link": "https://dev.to/mellowthunder735/your-test-suite-isnt-slow-its-accumulating-decisions-5080",
+    "topic": "general"
+  },
+  {
+    "title": "The Next SharePoint 9.8 Arrived in Eight Days - And It Was the Last One With a Patch",
+    "desc": "<p><em>Originally published at <a href=\"https://endoflife.ai/article-sharepoint-cve-2026-50522\" rel=\"noopener noreferrer\">endoflife.ai</a>.<",
+    "link": "https://dev.to/endoflifeai/the-next-sharepoint-98-arrived-in-eight-days-and-it-was-the-last-one-with-a-patch-3db0",
+    "topic": "general"
+  },
+  {
     "title": "A PR review agent with 2 comments beats one with 20",
     "desc": "<p>A good review agent needs a bias toward silence, a validation pass against its own findings, a context budget, and a definition of \"corre",
     "link": "https://dev.to/stephanie_dover_b49c2e8d1/a-pr-review-agent-with-2-comments-beats-one-with-20-m2p",
@@ -15,36 +45,6 @@
     "title": "My idle ClickHouse was merging 11 million rows every 30 seconds",
     "desc": "<p>I run a small self-hosted observability tool on the cheapest VPS I could find on purpose: <strong>2 cores, 2 GB RAM, 20 GB SATA SSD</stro",
     "link": "https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i",
-    "topic": "general"
-  },
-  {
-    "title": "C\u00e1maras Hanwha filtraban un token de GitHub con acceso admin",
-    "desc": "<p>Un investigador de seguridad extrajo el firmware de una c\u00e1mara Hanwha Vision y encontr\u00f3, duplicado en cerca de 30 archivos distintos, un ",
-    "link": "https://dev.to/lu1tr0n/camaras-hanwha-filtraban-un-token-de-github-con-acceso-admin-4c65",
-    "topic": "general"
-  },
-  {
-    "title": "What is a Forward Deployed Engineer? 8 months in the role.",
-    "desc": "<p>\"Forward Deployed Engineer.\" That was my new title as of last November, swapped in for \"SRE\" after I changed jobs. My first reaction? Wha",
-    "link": "https://dev.to/mvaldes/what-is-a-forward-deployed-engineer-8-months-in-the-role-2bcj",
-    "topic": "general"
-  },
-  {
-    "title": "How to Deploy an AI Crypto Trading Bot on Your VPS",
-    "desc": "<h1>How to Deploy an AI Crypto Trading Bot on Your VPS</h1>\n<p>In this tutorial you\u2019ll <strong>deploy an AI crypto trading bot</strong> to y",
-    "link": "https://dev.to/dineshstack/how-to-deploy-an-ai-crypto-trading-bot-on-your-vps-59a4",
-    "topic": "general"
-  },
-  {
-    "title": "Securing the Boundary: Mitigating Zero-Day Vulnerabilities in Modern API Gateways",
-    "desc": "<h2>\n  \n  \n  The Edge as a Primary Attack Vector\n</h2>\n\n<p>In modern platform engineering, the API gateway is no longer just a routing mecha",
-    "link": "https://dev.to/isuvo/securing-the-boundary-mitigating-zero-day-vulnerabilities-in-modern-api-gateways-2dck",
-    "topic": "general"
-  },
-  {
-    "title": "DevOps Engineer Professional Exam Guide",
-    "desc": "<h2>\n  \n  \n  \ud83d\udcd8 The <strong>AWS Certified DevOps Engineer \u2013 Professional (DOP-C02)</strong>\n</h2>\n\n<p>The <strong>AWS Certified DevOps Engine",
-    "link": "https://dev.to/aws-builders/devops-engineer-professional-exam-guide-4j35",
     "topic": "general"
   }
 ]
