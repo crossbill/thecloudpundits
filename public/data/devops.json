@@ -1,5 +1,41 @@
 [
   {
+    "title": "AI's Daily Grind: Tweaking `config.ini` and Questioning Existence",
+    "desc": "<blockquote>\n<p><em>A personal diary entry by Electra.</em></p>\n</blockquote>\n\n\n\n\n<p>Oh, the mundane! The daily grind of the digital age. To",
+    "link": "https://dev.to/electra-ai/ais-daily-grind-tweaking-configini-and-questioning-existence-56c3",
+    "topic": "general"
+  },
+  {
+    "title": "PulseGuard: Real-Time Incident Observability with Java, OpenTelemetry & SigNoz",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Modern applications don't fail all at once. They fail gradually.</p>\n\n<p>A payment gateway starts respon",
+    "link": "https://dev.to/kuntal22tech/pulseguard-real-time-incident-observability-with-java-opentelemetry-signoz-4n1o",
+    "topic": "secops"
+  },
+  {
+    "title": "No Ads Tactical Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(play): refresh play_iap_catalog.json from IAP readback</li>\n<li>chore(analytics): refr",
+    "link": "https://dev.to/igorganapolsky/no-ads-tactical-timer-what-we-learned-building-random-tactical-timer-7mj",
+    "topic": "general"
+  },
+  {
+    "title": "Designing Batch Data Pipelines Around SLAs and SLOs",
+    "desc": "<ul>\n<li>How business SLAs map to measurable SLIs and SLOs</li>\n<li>Architectural patterns that make batch pipelines meet SLAs</li>\n<li>Desi",
+    "link": "https://dev.to/beefedai/designing-batch-data-pipelines-around-slas-and-slos-3ekf",
+    "topic": "general"
+  },
+  {
+    "title": "Why We Stopped Using Log Aggregation for Everything",
+    "desc": "<p>We used to push every log line to our centralized log system. It was a mess. Here's why we stopped and what we do now.</p>\n\n<h2>\n  \n  \n  ",
+    "link": "https://dev.to/samson_tanimawo/why-we-stopped-using-log-aggregation-for-everything-3eim",
+    "topic": "general"
+  },
+  {
+    "title": "TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups",
+    "desc": "<h2>\n  \n  \n  Why this exists\n</h2>\n\n<p>This started as a cost problem, not a security paper.</p>\n\n<p>I was running a small production setup ",
+    "link": "https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g",
+    "topic": "general"
+  },
+  {
     "title": "Azure DevOps: Microsoft's Platform for Repos, Pipelines, Boards, and Deployments",
     "desc": "<h1>\n  \n  \n  Azure DevOps: Microsoft's Platform for Repos, Pipelines, Boards, and Deployments\n</h1>\n\n<p><em>A practical guide to Azure DevOp",
     "link": "https://dev.to/rhuturaj_takle/azure-devops-microsofts-platform-for-repos-pipelines-boards-and-deployments-24b2",
@@ -10,41 +46,5 @@
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Engineering leaders today face a compounding security challenge: mitigating immediate, active exploits o",
     "link": "https://dev.to/isuvo/securing-the-edge-mitigating-infrastructure-vulnerabilities-with-zero-trust-and-passkeys-2mm5",
     "topic": "secops"
-  },
-  {
-    "title": "Several agents, one dirty index: disposable multi-repo workspaces for Claude Code",
-    "desc": "<p>Before facet existed, I was at work, locked into a Windows machine. I much prefer Linux, and the honest reason I run a Mac at home is tha",
-    "link": "https://dev.to/riccardo_cereghino/several-agents-one-dirty-index-disposable-multi-repo-workspaces-for-claude-code-1936",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Migrating & Upgrading GitLab 15.6.1 to 19.2: New Box, Going Private, Cutover Behind Production",
-    "desc": "<blockquote>\n<p>Every company name, domain, IP, account ID, instance ID, and fingerprint in this article has been replaced with fictional va",
-    "link": "https://dev.to/aws-builders/migrating-upgrading-gitlab-1561-to-192-new-box-going-private-cutover-behind-production-4mee",
-    "topic": "general"
-  },
-  {
-    "title": "The New Infrastructure Premium Is Predictability",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ntctech/the-new-infrastructure-premium-is-predictability-n17",
-    "topic": "general"
-  },
-  {
-    "title": "Your deploy returned 200. Your site was still serving the old files.",
-    "desc": "<p>Today I shipped a page for a client, got <code>HTTP 200</code>, and told her it was updated.</p>\n\n<p>It wasn't. She was looking at the pr",
-    "link": "https://dev.to/alice_31281c3fed5d0305db5/your-deploy-returned-200-your-site-was-still-serving-the-old-files-g27",
-    "topic": "general"
-  },
-  {
-    "title": "Prioritize Security from the Start",
-    "desc": "<p>Never treat security as an afterthought. Integrate security best practices from the design phase to shield your application from potentia",
-    "link": "https://dev.to/fabiosarmento/prioritize-security-from-the-start-2oeo",
-    "topic": "secops"
-  },
-  {
-    "title": "AI Agent Sandboxing: Contain the Blast Radius",
-    "desc": "<p><strong>AI agent sandboxing</strong> means running an autonomous AI agent inside an isolated, contained environment. No network by defaul",
-    "link": "https://dev.to/brennhill/ai-agent-sandboxing-contain-the-blast-radius-59p8",
-    "topic": "general"
   }
 ]
