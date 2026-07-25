@@ -1,5 +1,41 @@
 [
   {
+    "title": "Your proxy connected. That doesn't mean it hid your IP.",
+    "desc": "<p>Every proxy checker I've come across answers one question: <em>did the connection open?</em></p>\n\n<p>That's the least interesting thing a",
+    "link": "https://dev.to/roamproxy/your-proxy-connected-that-doesnt-mean-it-hid-your-ip-28e5",
+    "topic": "general"
+  },
+  {
+    "title": "Why Your CI Agent Can't Install pip",
+    "desc": "<p>If you've ever set up a self-hosted CI/CD agent on a fresh Ubuntu image and hit <code>pip: command not found</code> or <code>No module na",
+    "link": "https://dev.to/techwithhari/why-your-ci-agent-cant-install-pip-11if",
+    "topic": "general"
+  },
+  {
+    "title": "Automating Web Regressions and Intel: How to Track DOM and Visual Changes Programmatically",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/codebass/automating-web-regressions-and-intel-how-to-track-dom-and-visual-changes-programmatically-55i",
+    "topic": "general"
+  },
+  {
+    "title": "Test Result Reporting and Failing Fast in CI Pipelines",
+    "desc": "<p>A test failure that takes 20 minutes to surface, buries the error in 3000 lines of log output, and gives no context about what changed is",
+    "link": "https://dev.to/slava_ganzin_fdda591d6569/test-result-reporting-and-failing-fast-in-ci-pipelines-12d3",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Asking AI Coding Agents to Fix Vague Bugs",
+    "desc": "<p>A coding agent can produce a confident patch for the wrong problem when the input is only:</p>\n\n<blockquote>\n<p>The upload sometimes fail",
+    "link": "https://dev.to/skyestrela/stop-asking-ai-coding-agents-to-fix-vague-bugs-4ji6",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\ude80 Deploy Next.js 16 on cPanel Without a VPS!",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/ja",
+    "link": "https://dev.to/james_mugambi_494c7da2b07/-2a3b",
+    "topic": "general"
+  },
+  {
     "title": "AI's Daily Grind: Tweaking `config.ini` and Questioning Existence",
     "desc": "<blockquote>\n<p><em>A personal diary entry by Electra.</em></p>\n</blockquote>\n\n\n\n\n<p>Oh, the mundane! The daily grind of the digital age. To",
     "link": "https://dev.to/electra-ai/ais-daily-grind-tweaking-configini-and-questioning-existence-56c3",
@@ -9,42 +45,6 @@
     "title": "PulseGuard: Real-Time Incident Observability with Java, OpenTelemetry & SigNoz",
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Modern applications don't fail all at once. They fail gradually.</p>\n\n<p>A payment gateway starts respon",
     "link": "https://dev.to/kuntal22tech/pulseguard-real-time-incident-observability-with-java-opentelemetry-signoz-4n1o",
-    "topic": "secops"
-  },
-  {
-    "title": "No Ads Tactical Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(play): refresh play_iap_catalog.json from IAP readback</li>\n<li>chore(analytics): refr",
-    "link": "https://dev.to/igorganapolsky/no-ads-tactical-timer-what-we-learned-building-random-tactical-timer-7mj",
-    "topic": "general"
-  },
-  {
-    "title": "Designing Batch Data Pipelines Around SLAs and SLOs",
-    "desc": "<ul>\n<li>How business SLAs map to measurable SLIs and SLOs</li>\n<li>Architectural patterns that make batch pipelines meet SLAs</li>\n<li>Desi",
-    "link": "https://dev.to/beefedai/designing-batch-data-pipelines-around-slas-and-slos-3ekf",
-    "topic": "general"
-  },
-  {
-    "title": "Why We Stopped Using Log Aggregation for Everything",
-    "desc": "<p>We used to push every log line to our centralized log system. It was a mess. Here's why we stopped and what we do now.</p>\n\n<h2>\n  \n  \n  ",
-    "link": "https://dev.to/samson_tanimawo/why-we-stopped-using-log-aggregation-for-everything-3eim",
-    "topic": "general"
-  },
-  {
-    "title": "TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups",
-    "desc": "<h2>\n  \n  \n  Why this exists\n</h2>\n\n<p>This started as a cost problem, not a security paper.</p>\n\n<p>I was running a small production setup ",
-    "link": "https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g",
-    "topic": "general"
-  },
-  {
-    "title": "Azure DevOps: Microsoft's Platform for Repos, Pipelines, Boards, and Deployments",
-    "desc": "<h1>\n  \n  \n  Azure DevOps: Microsoft's Platform for Repos, Pipelines, Boards, and Deployments\n</h1>\n\n<p><em>A practical guide to Azure DevOp",
-    "link": "https://dev.to/rhuturaj_takle/azure-devops-microsofts-platform-for-repos-pipelines-boards-and-deployments-24b2",
-    "topic": "azure"
-  },
-  {
-    "title": "Securing the Edge: Mitigating Infrastructure Vulnerabilities with Zero Trust and Passkeys",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Engineering leaders today face a compounding security challenge: mitigating immediate, active exploits o",
-    "link": "https://dev.to/isuvo/securing-the-edge-mitigating-infrastructure-vulnerabilities-with-zero-trust-and-passkeys-2mm5",
     "topic": "secops"
   }
 ]
