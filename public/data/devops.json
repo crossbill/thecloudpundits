@@ -1,50 +1,50 @@
 [
   {
-    "title": "10 Steps to Secure Linux",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-33i4",
+    "title": "OmniSRE: Closed-Loop AI Observability and Autonomous Self-Healing",
+    "desc": "<h2>\n  \n  \n  How I Built an Autonomous AI SRE Agent with SigNoz (and the Telegram Kill Switch That Keeps It Safe)\n</h2>\n\n<p><a class=\"articl",
+    "link": "https://dev.to/rahulchandra2004/omnisre-closed-loop-ai-observability-and-autonomous-self-healing-1lf4",
     "topic": "general"
   },
   {
-    "title": "How to Build a Robust Automation Framework for AI",
-    "desc": "<p>Imagine launching your AI project in half the time and dramatically reducing errors. A well-built automation framework can make this a re",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-to-build-a-robust-automation-framework-for-ai-49l4",
+    "title": "Analyzing Moonshot AI's Kimi K3: What a 2.8-Trillion Parameter Open-Weights Model Means for Your Infrastructure",
+    "desc": "<p>On July 17, 2026, Moonshot AI announced Kimi K3, a flagship model boasting 2.8 trillion parameters, with a commitment to release its open",
+    "link": "https://dev.to/isuvo/analyzing-moonshot-ais-kimi-k3-what-a-28-trillion-parameter-open-weights-model-means-for-your-5dj0",
     "topic": "general"
   },
   {
-    "title": "Microservices Architecture for High-Concurrency Gaming Platforms",
-    "desc": "<h1>\n  \n  \n  Microservices Architecture for High-Concurrency Gaming Platforms\n</h1>\n\n<p>Gaming platforms handle thousands of concurrent conn",
-    "link": "https://dev.to/yoo_tao_31d3d572d2d49bfeb/microservices-architecture-for-high-concurrency-gaming-platforms-3859",
+    "title": "What Is Kubernetes? A Beginner's Guide",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/subha_74/what-is-kubernetes-a-beginners-guide-53bh",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Fix nginx-proxy SSL Certs Not Issuing in Docker Compose",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/25/fix-nginx-proxy-ssl-certs-not-issuing-in-docker-compose\" rel=\"noop",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-nginx-proxy-ssl-certs-not-issuing-in-docker-compose-i0n",
+    "topic": "docker"
+  },
+  {
+    "title": "Which AI Certifications Provide the Highest Career Value for Professionals?",
+    "desc": "<p>Artificial Intelligence (AI) has become one of the most valuable skills in today's job market. From software development and finance to h",
+    "link": "https://dev.to/ailearning/which-ai-certifications-provide-the-highest-career-value-for-professionals-1ng3",
     "topic": "general"
   },
   {
-    "title": "\ud83d\ude80 Deploy Flask API to Akamai Cloud Compute made easy",
-    "desc": "<p>To <strong>deploy a Flask API to Akamai Cloud Compute</strong> , containerize the application with Docker, push the image to Akamai\u2019s Con",
-    "link": "https://dev.to/ptp2308/deploy-flask-api-to-akamai-cloud-compute-made-easy-5009",
+    "title": "\ud83c\udf10 Understanding TCP Flow: From Handshake to Data Transfer",
+    "desc": "<p>When you type a URL like <code>https://youtube.com</code> into Chrome, a fascinating sequence of events unfolds behind the scenes. Let\u2019s ",
+    "link": "https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n",
     "topic": "general"
   },
   {
-    "title": "ViciDial carrier_log No Answer \u2014 Diagnosing Failed Outbound Calls",
-    "desc": "<h1>\n  \n  \n  ViciDial carrier_log No Answer \u2014 Diagnosing Failed Outbound Calls\n</h1>\n\n<p><strong>Master the art of troubleshooting \"No Answe",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-carrierlog-no-answer-diagnosing-failed-outbound-calls-jo6",
+    "title": "Linux File Permissions Explained: Read, Write, and Change Permissions",
+    "desc": "<p>Linux file permissions are one of the first concepts every Linux user and system administrator needs to master. Every sysadmin has been b",
+    "link": "https://dev.to/serveravatar/linux-file-permissions-explained-read-write-and-change-permissions-3ble",
     "topic": "general"
   },
   {
-    "title": "A2A's Multi-Cloud FinOps Data Pipeline on AWS: From Spreadsheet Hell to FOCUS",
-    "desc": "<p>If your multi-cloud cost review still means reconciling cloud bills by hand, you already know spreadsheet hell: provider-specific data, m",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/a2as-multi-cloud-finops-data-pipeline-on-aws-from-spreadsheet-hell-to-focus-g5m",
-    "topic": "aws"
-  },
-  {
-    "title": "Microservices",
-    "desc": "<blockquote>\n<p><strong>One-liner:</strong> Instead of one giant application (monolith), microservices split the system into small, independ",
-    "link": "https://dev.to/gouranga-das-khulna/microservices-1gfn",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4plk",
+    "title": "Your LLM Fallback Probably Isn't a Fallback",
+    "desc": "<p>At 04:00 UTC, every model call through our LLM gateway started returning<br />\nHTTP 400. Not some calls. All of them. Our tier-1 CI gate ",
+    "link": "https://dev.to/gad_ofir_076c468dd15d483b/your-llm-fallback-probably-isnt-a-fallback-34fk",
     "topic": "general"
   }
 ]
