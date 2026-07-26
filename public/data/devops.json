@@ -1,50 +1,50 @@
 [
   {
-    "title": "A Practical Multi-Stage Docker Build for Python APIs",
-    "desc": "<p>When containerizing Python web applications for production, developers often produce heavy, insecure images containing compilers, headers",
-    "link": "https://dev.to/borino88/a-practical-multi-stage-docker-build-for-python-apis-3p50",
-    "topic": "docker"
-  },
-  {
-    "title": "FFmpeg -map Flag Explained: Stream Selection and Multi-Track Audio",
-    "desc": "<p><em>Originally published at <a href=\"https://www.ffmpeg-micro.com/blog/ffmpeg-map-flag-explained\" rel=\"noopener noreferrer\">ffmpeg-micro.",
-    "link": "https://dev.to/javidjamae/ffmpeg-map-flag-explained-stream-selection-and-multi-track-audio-1mho",
-    "topic": "general"
-  },
-  {
-    "title": "AWS S3 \u2014 Versioning, Static Hosting, CORS, Object Lock & More",
-    "desc": "<h1>\n  \n  \n  \ud83d\uddc3\ufe0f AWS S3 \u2014 Extended Concepts\n</h1>\n\n<h3>\n  \n  \n  Versioning Deep Dive \u00b7 Bucket Types \u00b7 Static Hosting \u00b7 CORS \u00b7 Object Lock \u00b7 D",
-    "link": "https://dev.to/tejas_shinkar/aws-s3-versioning-static-hosting-cors-object-lock-more-4m5",
+    "title": "Secure by Design: Hardening API Gateways Against Memory Exploits and Logic Flaws",
+    "desc": "<h2>\n  \n  \n  The Edge as a Single Point of Failure\n</h2>\n\n<p>As an engineering leader, I have watched the API gateway evolve from a simple r",
+    "link": "https://dev.to/isuvo/secure-by-design-hardening-api-gateways-against-memory-exploits-and-logic-flaws-4i9j",
     "topic": "aws"
   },
   {
-    "title": "How I caught a Claude prompt regression before it hit production",
-    "desc": "<p>I changed one line in my system prompt last week. A single word \u2014 \"concisely\" became \"briefly\". I thought nothing of it.</p>\n\n<p>Two hour",
-    "link": "https://dev.to/pawfromoz/how-i-caught-a-claude-prompt-regression-before-it-hit-production-4bmd",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Transitioning from Consultancy to Big Tech: Key Skills and Knowledge for DevOps/SRE Professionals",
-    "desc": "<h2>\n  \n  \n  Introduction: The Big Tech DevOps Landscape\n</h2>\n\n<p>Transitioning from a consultancy role to a DevOps/SRE position at a Big T",
-    "link": "https://dev.to/maricode/transitioning-from-consultancy-to-big-tech-key-skills-and-knowledge-for-devopssre-professionals-335d",
+    "title": "SRE vs DevOps: Key Differences That Actually Matter (2026)",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/sre-vs-devops-key-differences-2026\" rel=\"noopener nore",
+    "link": "https://dev.to/devtocash/sre-vs-devops-key-differences-that-actually-matter-2026-526d",
     "topic": "general"
   },
   {
-    "title": "Temporary Is Not a Plan: Fork Discipline for an Adopted LMS",
-    "desc": "<p>Calling a patch temporary is not a plan. A retirement condition written into the commit is.</p>\n\n<p>Every change your fork carries agains",
-    "link": "https://dev.to/jeremy_longshore/temporary-is-not-a-plan-fork-discipline-for-an-adopted-lms-2dp5",
+    "title": "Everything that software developer need",
+    "desc": "<p>\ud83d\ude80 Code Healing AI \u2013 Your AI-Powered Code Doctor</p>\n\n<p>Write better code, detect bugs instantly, scan for security vulnerabilities, gene",
+    "link": "https://dev.to/santosh_nanavare_2baab6e9/everything-that-software-developer-need-1kj",
     "topic": "general"
   },
   {
-    "title": "Java Full Stack Developer Roadmap",
-    "desc": "<p>What is a Java Full Stack Developer?</p>\n\n<p>A Java Full Stack Developer is responsible for developing both the frontend (what users see)",
-    "link": "https://dev.to/manish_kumar_java/java-full-stack-developer-roadmap-4bg4",
+    "title": "Agentic Autofix: Revolutionizing Security Remediation for Your Software Project Goals",
+    "desc": "<p>In the fast-paced world of software development, achieving robust security alongside ambitious <strong><a href=\"https://dev.to/posts/tren",
+    "link": "https://dev.to/devactivity/agentic-autofix-revolutionizing-security-remediation-for-your-software-project-goals-4pl",
+    "topic": "secops"
+  },
+  {
+    "title": "Nobody Buys Capability Anymore. They Buy a Promise.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ntctech/nobody-buys-capability-anymore-they-buy-a-promise-34ch",
     "topic": "general"
   },
   {
-    "title": "How to Scope Custom Software Without Overspending",
-    "desc": "<p>The most reliable way to scope a custom software project without overspending is to define the business outcome, narrow the first release",
-    "link": "https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj",
+    "title": "DevOps: More Than Just Tools",
+    "desc": "<p>DevOps isn't about the latest tools; it\u2019s about collaboration and culture. Foster communication between teams, and you'll see real progre",
+    "link": "https://dev.to/fabiosarmento/devops-more-than-just-tools-b84",
+    "topic": "general"
+  },
+  {
+    "title": "Linux Command Line Tricks Every Developer Must Know",
+    "desc": "<h1>\n  \n  \n  Linux Command Line Tricks Every Developer Must Know\n</h1>\n\n<p>tags: linux, terminal, productivity, devops</p>\n\n\n\n\n<p>As a devel",
+    "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-1o5k",
+    "topic": "general"
+  },
+  {
+    "title": "Automated Regression Testing: The Complete 2026 Guide",
+    "desc": "<p>Every team I've talked to hits the same wall.</p>\n\n<p>You ship daily. Your QA checklist has 80 items. Nobody has time to run them all. Yo",
+    "link": "https://dev.to/aegis_runner_1fe3db6ef2bd/automated-regression-testing-the-complete-2026-guide-4538",
     "topic": "general"
   }
 ]
