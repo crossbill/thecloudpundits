@@ -1,50 +1,50 @@
 [
   {
-    "title": "I built a discovery layer for AI agents because mine kept getting lost",
-    "desc": "<p>Everyone's building AI agents right now. Almost nobody's building the boring layer underneath them: how do agents find each other?</p>\n\n<",
-    "link": "https://dev.to/mkk2026/i-built-a-discovery-layer-for-ai-agents-because-mine-kept-getting-lost-5bjo",
+    "title": "\ud83d\ude80 Day 15 of 100 Days of GenAI for DevOps: GenAI on Kubernetes \ud83d\ude80",
+    "desc": "<p>Most people think Kubernetes can automatically use GPUs.It can\u2019t.</p>\n\n<p>Unlike CPUs and memory, Kubernetes has no built-in understandin",
+    "link": "https://dev.to/lakhera2015/day-15-of-100-days-of-genai-for-devops-genai-on-kubernetes-3f08",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "\ud83d\udc0d Mastering Kubernetes interview questions on Python async",
+    "desc": "<h2>\n  \n  \n  \ud83d\ude80 Understanding Async in Python \u2014 Why It <em>Matters</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.",
+    "link": "https://dev.to/ptp2308/mastering-kubernetes-interview-questions-on-python-async-507g",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "ViciDial DEAD Call Status \u2014 Why Agents Get Dead Air & How to Fix It",
+    "desc": "<h1>\n  \n  \n  ViciDial DEAD Call Status \u2014 Why Agents Get Dead Air & How to Fix It\n</h1>\n\n<p><strong>Master the root causes of dead calls in V",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-dead-call-status-why-agents-get-dead-air-how-to-fix-it-12nh",
     "topic": "general"
   },
   {
-    "title": "Field Test Reports #44 & #45 Two NVIDIA NemoClaw PRs opened and Merged Upstream",
-    "desc": "<p>Target: <code>NVIDIA/NemoClaw</code><br /><br />\nField reports: #44 and #45<br /><br />\nPull requests: <br />\n<a href=\"https://github.com",
-    "link": "https://dev.to/scarab-systems/field-test-reports-44-45-two-nvidia-nemoclaw-prs-opened-and-merged-upstream-18d6",
+    "title": "Claude Opus 5: How to Route Production AI Agent Workloads",
+    "desc": "<p>Claude Opus 5 launched on July 24, 2026 at $5 per million input tokens and $25 per million output tokens. That price makes routing discip",
+    "link": "https://dev.to/tran_tienvan_e45fc26d655/claude-opus-5-how-to-route-production-ai-agent-workloads-1p17",
+    "topic": "anthropic"
+  },
+  {
+    "title": "The IaC Supply Chain Nobody's Securing \u2014 Part 1: Modules, SBOMs, and the Visibility Gap",
+    "desc": "<h2>\n  \n  \n  Why IaC Supply Chain Security Matters\n</h2>\n\n<p>Your application's supply chain is visible. You scan npm packages with Snyk, ge",
+    "link": "https://dev.to/avelez/the-iac-supply-chain-nobodys-securing-part-1-modules-sboms-and-the-visibility-gap-836",
     "topic": "general"
   },
   {
-    "title": "Deployment of Python Bot on Koyeb and Heroku using StayPresent",
-    "desc": "<h1>\n  \n  \n  Deploying Python Bots to Koyeb and Heroku with StayPresent\n</h1>\n\n<p>Render and Railway tend to dominate the conversation aroun",
-    "link": "https://dev.to/john_wick_47/deployment-of-python-bot-on-koyeb-and-heroku-using-staypresent-4gd7",
-    "topic": "general"
-  },
-  {
-    "title": "Running Python Bot on Docker and VPS with StayPresent",
-    "desc": "<h1>\n  \n  \n  Deploying Python Bots on Docker and a VPS with StayPresent\n</h1>\n\n<p>Not every bot lives on a managed PaaS. Plenty of developer",
-    "link": "https://dev.to/john_wick_47/running-python-bot-on-docker-and-vps-with-staypresent-jpj",
+    "title": "Useful article on how to containerize your claude code instance",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/ro",
+    "link": "https://dev.to/saheel_acharya_b1eac99389/useful-article-on-how-to-containerize-your-claude-code-instance-35cg",
     "topic": "docker"
   },
   {
-    "title": "How I set up containerized dev environments you can spin up in seconds for Antigravity CLI",
-    "desc": "<p><strong>tl;dr:</strong> I set up a way to spin up containerized dev environments for AI agents with limited, controlled access. They only",
-    "link": "https://dev.to/ykdap/how-i-set-up-containerized-dev-environments-you-can-spin-up-in-seconds-for-antigravity-cli-45lp",
-    "topic": "docker"
+    "title": "The Best Approach to Dependency Vulnerability Scanning in CI Pipelines",
+    "desc": "<h1>\n  \n  \n  The Best Approach to Dependency Vulnerability Scanning in CI Pipelines\n</h1>\n\n<p>Dependency vulnerabilities are the silent kill",
+    "link": "https://dev.to/brino666/the-best-approach-to-dependency-vulnerability-scanning-in-ci-pipelines-4m64",
+    "topic": "secops"
   },
   {
-    "title": "Why your n8n workflow can lose items and still show a green checkmark",
-    "desc": "<p>I spent a while chasing a bug where a scheduled n8n workflow was dropping items \u2014 not crashing, not erroring in a way I noticed, just\u2026 qu",
-    "link": "https://dev.to/marcelo_lang_4be7da2e0bee/why-your-n8n-workflow-can-lose-items-and-still-show-a-green-checkmark-1adh",
-    "topic": "general"
-  },
-  {
-    "title": "AI SRE Agents on SigNoz MCP: Root-Cause Analysis for $0.0013",
-    "desc": "<blockquote>\n<p>\ud83c\udfc6 Built for the <strong>WeMakeDevs \u00d7 Agents of SigNoz Hackathon 2026</strong></p>\n\n<p>\u00b7 <strong>GitHub:</strong> <a href=\"ht",
-    "link": "https://dev.to/harjapan_2005/ai-sre-agents-on-signoz-mcp-root-cause-analysis-for-00013-4ne2",
-    "topic": "general"
-  },
-  {
-    "title": "I Let an Agent Take Over an Account With Every Permission Check Green",
-    "desc": "<p>Clone it. Run it. Tell me where I'm wrong.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>git c",
-    "link": "https://dev.to/kenielzep97/i-let-an-agent-take-over-an-account-with-every-permission-check-green-28g4",
+    "title": "I'll Fix Your Python Bug or Build Your Bot \u2014 Same Day, Pay What You Want",
+    "desc": "<p>Need a Python bug fixed? Bot built? Script automated?</p>\n\n<p>I'm available today. Fast turnaround.</p>\n\n<p><strong>What I do:</strong></",
+    "link": "https://dev.to/kaparovbakay2001wq/ill-fix-your-python-bug-or-build-your-bot-same-day-pay-what-you-want-5ap0",
     "topic": "general"
   }
 ]
