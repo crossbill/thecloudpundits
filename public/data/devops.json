@@ -1,5 +1,41 @@
 [
   {
+    "title": "Replay Packs Make Cron Jobs Easier to Fix",
+    "desc": "<h1>\n  \n  \n  Replay Packs Make Cron Jobs Easier to Fix\n</h1>\n\n<p>I like small automation scripts. They are fast to write, easy to ship, and ",
+    "link": "https://dev.to/mrdapperx/replay-packs-make-cron-jobs-easier-to-fix-4mg8",
+    "topic": "general"
+  },
+  {
+    "title": "# Why Every Engineering Student Should Build Simulators Instead of Solving More Equations",
+    "desc": "<p>During my journey studying computational engineering, I noticed something surprising.</p>\n\n<p>Most textbooks do an excellent job explaini",
+    "link": "https://dev.to/ahmedadawy625/-why-every-engineering-student-should-build-simulators-instead-of-solving-more-equations-378l",
+    "topic": "general"
+  },
+  {
+    "title": "Infrastructure as Code: Terraform and CloudFormation \u2013 The Fellowship of the Cloud",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I was tired of playing \u201cguess the configuration\u201d every time I spun up a new en",
+    "link": "https://dev.to/timevolt/infrastructure-as-code-terraform-and-cloudformation-the-fellowship-of-the-cloud-4kke",
+    "topic": "terraform"
+  },
+  {
+    "title": "One badge that tells your users when your dependencies die",
+    "desc": "<p>Every README makes claims about support. Almost none of them stay true.</p>\n\n<p>\"Requires Node 18+\" \u2014 written in 2023, when Node 18 was t",
+    "link": "https://dev.to/endoflifeai/one-badge-that-tells-your-users-when-your-dependencies-die-1gbj",
+    "topic": "general"
+  },
+  {
+    "title": "What Your Hosting Tier Actually Buys You",
+    "desc": "<p>Hosting is the least interesting line item in most budgets, and one of the few that quietly sets a ceiling on everything above it. Here i",
+    "link": "https://dev.to/paulcrinigan/what-your-hosting-tier-actually-buys-you-bf9",
+    "topic": "general"
+  },
+  {
+    "title": "The MCP spec lands in 48 hours. I scanned 671,693 domains first. The layer under your email agents is rotting.",
+    "desc": "<p>AgentMail. Cloudflare Email Service. Resend's agent SDK. Every AI SDR startup on Product Hunt this month. The pitch is always the same: <",
+    "link": "https://dev.to/livedirectmarketing/the-mcp-spec-lands-in-48-hours-i-scanned-671693-domains-first-the-layer-under-your-email-agents-5914",
+    "topic": "general"
+  },
+  {
     "title": "Multipass + cloud-init \u2601\ufe0f \u2699\ufe0f",
     "desc": "<h2>\n  \n  \n  My reproducible Ubuntu DevOps VM in one command\n</h2>\n\n<p>To avoid a local environment cluttered with manual installations and ",
     "link": "https://dev.to/afr-dt/multipass-cloud-init-1g38",
@@ -9,42 +45,6 @@
     "title": "16-Inch OLED Laptop Expands Globally with Lower Price",
     "desc": "<h2>\n  \n  \n  The Developer Display Revolution Arrives: 16-Inch OLED Laptop Expands Globally at Lower Price\n</h2>\n\n<p><strong>The global expa",
     "link": "https://dev.to/thomas_woodfin_3a4efcd491/16-inch-oled-laptop-expands-globally-with-lower-price-3jan",
-    "topic": "general"
-  },
-  {
-    "title": "Your agent does not need you sitting at the Mac to stay useful",
-    "desc": "<h1>\n  \n  \n  Your agent does not need you sitting at the Mac to stay useful\n</h1>\n\n<p>I run Hermes-class agents on a Mac. The failure mode t",
-    "link": "https://dev.to/igorganapolsky/your-agent-does-not-need-you-sitting-at-the-mac-to-stay-useful-4d35",
-    "topic": "general"
-  },
-  {
-    "title": "OCI vs Oracle Database@Azure: Where Should Your Oracle Database Live?",
-    "desc": "<p>You've decided the database is going to the cloud, and you've <a href=\"https://uptimearchitect.com/blog/oracle-cloud-migration-methods/\" ",
-    "link": "https://dev.to/uptimearchitect/oci-vs-oracle-databaseazure-where-should-your-oracle-database-live-3190",
-    "topic": "azure"
-  },
-  {
-    "title": "Learning DevOps as a Computer Engineering Grad...",
-    "desc": "<p>Late that night which was two weeks to my final year project defense, I stared at the ceiling thinking about life after school.<br />\nAs ",
-    "link": "https://dev.to/sandradev20/learning-devops-as-a-computer-engineering-grad-jk5",
-    "topic": "general"
-  },
-  {
-    "title": "An open-source cPanel alternative for Debian 13",
-    "desc": "<blockquote>\n<p><strong>Originally published at <a href=\"https://jabali-panel.com/blog/cpanel-alternative/\" rel=\"noopener noreferrer\">jabali",
-    "link": "https://dev.to/shuki_vaknin/an-open-source-cpanel-alternative-for-debian-13-3jco",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes for Beginners: Deploy Your First App",
-    "desc": "<h1>\n  \n  \n  Kubernetes for Beginners: Deploy Your First App\n</h1>\n\n<p>tags: kubernetes, docker, devops, tutorial</p>\n\n\n\n\n<p>Imagine being a",
-    "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-3abk",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How to Preview a Website on a New Server Before You Change DNS",
-    "desc": "<p>Every website migration has the same terrifying moment: you flip the DNS record, and for the next few hours you have no idea whether the ",
-    "link": "https://dev.to/shuki_vaknin/how-to-preview-a-website-on-a-new-server-before-you-change-dns-576n",
     "topic": "general"
   }
 ]
