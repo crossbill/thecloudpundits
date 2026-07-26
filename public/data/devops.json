@@ -1,50 +1,50 @@
 [
   {
-    "title": "\ud83d\ude80 Day 15 of 100 Days of GenAI for DevOps: GenAI on Kubernetes \ud83d\ude80",
-    "desc": "<p>Most people think Kubernetes can automatically use GPUs.It can\u2019t.</p>\n\n<p>Unlike CPUs and memory, Kubernetes has no built-in understandin",
-    "link": "https://dev.to/lakhera2015/day-15-of-100-days-of-genai-for-devops-genai-on-kubernetes-3f08",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "\ud83d\udc0d Mastering Kubernetes interview questions on Python async",
-    "desc": "<h2>\n  \n  \n  \ud83d\ude80 Understanding Async in Python \u2014 Why It <em>Matters</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.",
-    "link": "https://dev.to/ptp2308/mastering-kubernetes-interview-questions-on-python-async-507g",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "ViciDial DEAD Call Status \u2014 Why Agents Get Dead Air & How to Fix It",
-    "desc": "<h1>\n  \n  \n  ViciDial DEAD Call Status \u2014 Why Agents Get Dead Air & How to Fix It\n</h1>\n\n<p><strong>Master the root causes of dead calls in V",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-dead-call-status-why-agents-get-dead-air-how-to-fix-it-12nh",
+    "title": "Effective Metrics and Alerts",
+    "desc": "<p>Monitoring your system effectively is crucial for maintaining performance and user satisfaction. Two popular methodologies for choosing w",
+    "link": "https://dev.to/prazian/effective-metrics-and-alerts-2070",
     "topic": "general"
   },
   {
-    "title": "Claude Opus 5: How to Route Production AI Agent Workloads",
-    "desc": "<p>Claude Opus 5 launched on July 24, 2026 at $5 per million input tokens and $25 per million output tokens. That price makes routing discip",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/claude-opus-5-how-to-route-production-ai-agent-workloads-1p17",
-    "topic": "anthropic"
-  },
-  {
-    "title": "The IaC Supply Chain Nobody's Securing \u2014 Part 1: Modules, SBOMs, and the Visibility Gap",
-    "desc": "<h2>\n  \n  \n  Why IaC Supply Chain Security Matters\n</h2>\n\n<p>Your application's supply chain is visible. You scan npm packages with Snyk, ge",
-    "link": "https://dev.to/avelez/the-iac-supply-chain-nobodys-securing-part-1-modules-sboms-and-the-visibility-gap-836",
+    "title": "Mitigating Zero-Day Vulnerabilities: Architectural Patterns for Engineering Leaders",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>As engineering leaders, we are constantly balancing the velocity of feature delivery against the hardeni",
+    "link": "https://dev.to/isuvo/mitigating-zero-day-vulnerabilities-architectural-patterns-for-engineering-leaders-57a",
     "topic": "general"
   },
   {
-    "title": "Useful article on how to containerize your claude code instance",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/ro",
-    "link": "https://dev.to/saheel_acharya_b1eac99389/useful-article-on-how-to-containerize-your-claude-code-instance-35cg",
-    "topic": "docker"
+    "title": "A Browser Click Is Not Proof: Verifying That Web Apps Actually Work",
+    "desc": "<p>A web app can look finished while its most important actions do nothing durable.</p>\n\n<p>RealDone is not a Save-button checker. It discov",
+    "link": "https://dev.to/realdone/a-browser-click-is-not-proof-verifying-that-web-apps-actually-work-1lcp",
+    "topic": "general"
   },
   {
-    "title": "The Best Approach to Dependency Vulnerability Scanning in CI Pipelines",
-    "desc": "<h1>\n  \n  \n  The Best Approach to Dependency Vulnerability Scanning in CI Pipelines\n</h1>\n\n<p>Dependency vulnerabilities are the silent kill",
-    "link": "https://dev.to/brino666/the-best-approach-to-dependency-vulnerability-scanning-in-ci-pipelines-4m64",
-    "topic": "secops"
+    "title": "Fixing n8n Bedrock Automation: Throttling, Duplicates, Cost Blowouts",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/26/fixing-n8n-bedrock-automation-throttling-duplicates-cost-blowouts\"",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/fixing-n8n-bedrock-automation-throttling-duplicates-cost-blowouts-3n74",
+    "topic": "general"
   },
   {
-    "title": "I'll Fix Your Python Bug or Build Your Bot \u2014 Same Day, Pay What You Want",
-    "desc": "<p>Need a Python bug fixed? Bot built? Script automated?</p>\n\n<p>I'm available today. Fast turnaround.</p>\n\n<p><strong>What I do:</strong></",
-    "link": "https://dev.to/kaparovbakay2001wq/ill-fix-your-python-bug-or-build-your-bot-same-day-pay-what-you-want-5ap0",
+    "title": "500 Blog Posts To Learn About Devops",
+    "desc": "<h3>\n  \n  \n  Let's learn about <a href=\"https://hackernoon.com/tagged/devops\" rel=\"noopener noreferrer\">Devops</a> via these 500 free blog p",
+    "link": "https://dev.to/learn_repo/500-blog-posts-to-learn-about-devops-56h0",
+    "topic": "general"
+  },
+  {
+    "title": "Azure Management Tasks Part 5: Keeping an Azure Environment Organized and Protected.",
+    "desc": "<h2>\n  \n  \n  INTRODUCTION\n</h2>\n\n<p>Everything built so far actually works, the VM is on the right network, the storage account holds real f",
+    "link": "https://dev.to/smayowa10/azure-management-tasks-part-5-keeping-an-azure-environment-organized-and-protected-4k8c",
+    "topic": "azure"
+  },
+  {
+    "title": "\"Our emails are going to spam\" \u2014 a sysadmin's triage order",
+    "desc": "<p>The ticket says \"our emails are going to spam.\" It is one of the least actionable reports you will ever receive, because \"spam\" is the ob",
+    "link": "https://dev.to/cannypigeons-pc/our-emails-are-going-to-spam-a-sysadmins-triage-order-55ij",
+    "topic": "general"
+  },
+  {
+    "title": "Building an Autonomy Error Budget Gateway with SigNoz and OpenTelemetry",
+    "desc": "<p>I built an AI agent that's allowed to run database migrations and clean up staging tables on its own. Then I built a second system whose ",
+    "link": "https://dev.to/vaibhav_shukla_20/building-an-autonomy-error-budget-gateway-with-signoz-and-opentelemetry-4ia3",
     "topic": "general"
   }
 ]
