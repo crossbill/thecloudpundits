@@ -1,5 +1,29 @@
 [
   {
+    "title": "I built a discovery layer for AI agents because mine kept getting lost",
+    "desc": "<p>Everyone's building AI agents right now. Almost nobody's building the boring layer underneath them: how do agents find each other?</p>\n\n<",
+    "link": "https://dev.to/mkk2026/i-built-a-discovery-layer-for-ai-agents-because-mine-kept-getting-lost-5bjo",
+    "topic": "general"
+  },
+  {
+    "title": "Field Test Reports #44 & #45 Two NVIDIA NemoClaw PRs opened and Merged Upstream",
+    "desc": "<p>Target: <code>NVIDIA/NemoClaw</code><br /><br />\nField reports: #44 and #45<br /><br />\nPull requests: <br />\n<a href=\"https://github.com",
+    "link": "https://dev.to/scarab-systems/field-test-reports-44-45-two-nvidia-nemoclaw-prs-opened-and-merged-upstream-18d6",
+    "topic": "general"
+  },
+  {
+    "title": "Deployment of Python Bot on Koyeb and Heroku using StayPresent",
+    "desc": "<h1>\n  \n  \n  Deploying Python Bots to Koyeb and Heroku with StayPresent\n</h1>\n\n<p>Render and Railway tend to dominate the conversation aroun",
+    "link": "https://dev.to/john_wick_47/deployment-of-python-bot-on-koyeb-and-heroku-using-staypresent-4gd7",
+    "topic": "general"
+  },
+  {
+    "title": "Running Python Bot on Docker and VPS with StayPresent",
+    "desc": "<h1>\n  \n  \n  Deploying Python Bots on Docker and a VPS with StayPresent\n</h1>\n\n<p>Not every bot lives on a managed PaaS. Plenty of developer",
+    "link": "https://dev.to/john_wick_47/running-python-bot-on-docker-and-vps-with-staypresent-jpj",
+    "topic": "docker"
+  },
+  {
     "title": "How I set up containerized dev environments you can spin up in seconds for Antigravity CLI",
     "desc": "<p><strong>tl;dr:</strong> I set up a way to spin up containerized dev environments for AI agents with limited, controlled access. They only",
     "link": "https://dev.to/ykdap/how-i-set-up-containerized-dev-environments-you-can-spin-up-in-seconds-for-antigravity-cli-45lp",
@@ -21,30 +45,6 @@
     "title": "I Let an Agent Take Over an Account With Every Permission Check Green",
     "desc": "<p>Clone it. Run it. Tell me where I'm wrong.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>git c",
     "link": "https://dev.to/kenielzep97/i-let-an-agent-take-over-an-account-with-every-permission-check-green-28g4",
-    "topic": "general"
-  },
-  {
-    "title": "I kept seeing weird stuff on my VPS, so I built a tool to stop guessing",
-    "desc": "<p>A few weeks ago I noticed some things I couldn't explain on one of my VPS instances \u2014 nothing catastrophic, just enough \"that's not right",
-    "link": "https://dev.to/salamancacm/i-kept-seeing-weird-stuff-on-my-vps-so-i-built-a-tool-to-stop-guessing-2808",
-    "topic": "general"
-  },
-  {
-    "title": "Google made multi-region Cloud Run easier. Cloud Run now supports cross-region failover and failback. https://dev.to/gdg/zero-to",
-    "desc": "<p>Google made multi-region Cloud Run easier. Cloud Run now supports cross-region failover and failback. <a href=\"https://dev.to/gdg/zero-to",
-    "link": "https://dev.to/atheerium/google-made-multi-region-cloud-run-easier-cloud-run-now-supports-cross-region-failover-and-3eb5",
-    "topic": "general"
-  },
-  {
-    "title": "41 percent of engineers admit ignoring alerts and I found out I was one of them",
-    "desc": "<p>Tuesday evening I counted something I had never counted before.</p>\n\n<p>The number of times my own tooling interrupted me in one working ",
-    "link": "https://dev.to/mjmirza/41-percent-of-engineers-admit-ignoring-alerts-and-i-found-out-i-was-one-of-them-fco",
-    "topic": "general"
-  },
-  {
-    "title": "I Built an AI-Agent Guardrail, Then Discovered My Observer Was Watching Itself",
-    "desc": "<p>Reactive AI cost monitoring has an awkward limitation: by the time a chart shows a runaway agent, the tokens are already gone. I wanted t",
-    "link": "https://dev.to/amanm006/i-built-an-ai-agent-guardrail-then-discovered-my-observer-was-watching-itself-3j4d",
     "topic": "general"
   }
 ]
