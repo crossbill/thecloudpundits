@@ -1,50 +1,50 @@
 [
   {
-    "title": "Openship: Your Deployment Tool Shouldn't Compete With Your App for RAM",
-    "desc": "<p>The self-hosted PaaS drawer is not empty. Coolify, Dokploy, CapRover, Dokku, Kamal. If you have wanted a Heroku you actually own, someone",
-    "link": "https://dev.to/arshtechpro/openship-your-deployment-tool-shouldnt-compete-with-your-app-for-ram-5a4k",
+    "title": "I Built KubeAura: An AI-Powered Kubernetes Dashboard (and I'm Open Sourcing It)",
+    "desc": "<p>After months of juggling between kubectl terminals, dashboards, and logs, I finally got fed up. So I built <a href=\"https://github.com/de",
+    "link": "https://dev.to/ganesh_giri/i-built-kubeaura-an-ai-powered-kubernetes-dashboard-and-im-open-sourcing-it-2afn",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Mastering Local Webhook Development: A Pro Guide to Testing and Debugging",
+    "desc": "<h2>\n  \n  \n  The Local Webhook Problem\n</h2>\n\n<p>When you are building integrations with platforms like Stripe, GitHub, or Shopify, your dev",
+    "link": "https://dev.to/devandrew/mastering-local-webhook-development-a-pro-guide-to-testing-and-debugging-1c0b",
     "topic": "general"
   },
   {
-    "title": "Linux Isn't Hard\u2014You're Learning It the Wrong Way",
-    "desc": "<blockquote>\n<p><strong>Stop memorizing commands. Start understanding concepts.</strong></p>\n</blockquote>\n\n<p>Many people believe Linux is ",
-    "link": "https://dev.to/asepsayyad007/linux-isnt-hard-youre-learning-it-the-wrong-way-4hoo",
+    "title": "From AI Proposal to Undo: Tracing Sidechalk\u2019s Trust Boundary End to End with SigNoz",
+    "desc": "<p>An AI that can understand a whiteboard is useful. An AI that can silently rewrite it is dangerous. While building Sidechalk\u2014an AI-powered",
+    "link": "https://dev.to/tyson1234/from-ai-proposal-to-undo-tracing-sidechalks-trust-boundary-end-to-end-with-signoz-1o1l",
     "topic": "general"
   },
   {
-    "title": "I Built a Security Scorer for 213 MCP Servers \u2014 Here's What Made the Difference",
-    "desc": "<p>Every time I wanted to add an MCP server to Claude Desktop or Cursor, I ended up<br />\nwith a dozen browser tabs open, trying to answer o",
-    "link": "https://dev.to/ismail_khouya_4643b00c238/i-built-a-security-scorer-for-213-mcp-servers-heres-what-made-the-difference-2hi4",
+    "title": "Building AI Agents That Actually Investigate Production Incidents: My Journey with TattvaAI and SigNoz",
+    "desc": "<p>Liquid syntax error: Variable '{{service=\\\"{service}' was not properly terminated with regexp: /\\}\\}/</p>",
+    "link": "https://dev.to/animbargi5art/building-ai-agents-that-actually-investigate-production-incidents-my-journey-with-tattvaai-and-414c",
     "topic": "secops"
   },
   {
-    "title": "Deploying AWS DevOps Agent using Terraform",
-    "desc": "<h1>\n  \n  \n  About AWS DevOps Agent\n</h1>\n\n<p>AWS DevOps Agent is an AI-powered operational service designed to investigate production incid",
-    "link": "https://dev.to/haythammostafa/deploying-aws-devops-agent-using-terraform-3l12",
-    "topic": "aws"
-  },
-  {
-    "title": "Blockchain Node as a Service: Key Criteria for Choosing a Provider",
-    "desc": "<p>Blockchain node as a service (also called node-as-a-service or NaaS) lets developers access blockchain nodes without running, syncing, or",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/blockchain-node-as-a-service-key-criteria-for-choosing-a-provider-4c7a",
+    "title": "\"Server Down Hai, Try Later\": What's Actually Happening When a Site Dies",
+    "desc": "<p>How you doin'? </p>\n\n<p>Let's talk about the Iconic thing we heard a lot: \"server down, try later.\" Your daddy said it while trying to bo",
+    "link": "https://dev.to/fuzzykidoo/server-down-hai-try-later-whats-actually-happening-when-a-site-dies-5hjb",
     "topic": "general"
   },
   {
-    "title": "BNB Smart Chain Testnet: RPC Endpoint, Faucet, and Developer Guide",
-    "desc": "<h2>\n  \n  \n  BNB Smart Chain Testnet: Chain Settings, Faucet, and Debugging Tips\n</h2>\n\n<p>The BNB Smart Chain Testnet (also known as BSC Te",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/bnb-smart-chain-testnet-rpc-endpoint-faucet-and-developer-guide-36bc",
+    "title": "TOSS CONFERENCE DAY-2 LEARN",
+    "desc": "<p>WHAT IS OPENTELEMETRY?<br />\nOpenTelemetry (OTel) is an open-source observability framework that helps you collect, process, and export t",
+    "link": "https://dev.to/narmathachandra/toss-conference-day-2-learn-3di0",
     "topic": "general"
   },
   {
-    "title": "Best Crypto Bridge API: Key Evaluation Criteria for Developers",
-    "desc": "<p>A crypto bridge API provides a programmatic interface for moving assets or data across blockchains. While many services offer bridge APIs",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/best-crypto-bridge-api-key-evaluation-criteria-for-developers-12dp",
+    "title": "GitHub Actions: Automate Your Workflow Like a Pro",
+    "desc": "<h1>\n  \n  \n  GitHub Actions: Automate Your Workflow Like a Pro\n</h1>\n\n<p>tags: github, automation, devops, tutorial</p>\n\n\n\n\n<p>tags: github,",
+    "link": "https://dev.to/qingluan/github-actions-automate-your-workflow-like-a-pro-2821",
     "topic": "general"
   },
   {
-    "title": "Enhanced NFT APIs from RPC Providers: What to Look For",
-    "desc": "<h2>\n  \n  \n  Enhanced NFT API Provider Decision Checklist\n</h2>\n\n<p>Before evaluating providers, clarify your NFT data requirements:</p>\n\n<u",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/enhanced-nft-apis-from-rpc-providers-what-to-look-for-2k7k",
+    "title": "Managing Test Cases Doesn't Answer the Real Question",
+    "desc": "<p>Open any modern test management tool and the feature list is genuinely impressive: AI that drafts test cases, automation hooks, requireme",
+    "link": "https://dev.to/srinathy/managing-test-cases-doesnt-answer-the-real-question-nho",
     "topic": "general"
   }
 ]
