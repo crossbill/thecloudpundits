@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026",
-    "desc": "<p>The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026</p>\n\n<p>A major financial transformation is taking plac",
-    "link": "https://dev.to/adeniran_adebayoadekunle/the-silent-wealth-shift-why-millions-are-looking-beyond-traditional-jobs-in-2026-3edb",
-    "topic": "general"
-  },
-  {
-    "title": "Auto-Renewal Wasn\u2019t Enough for SSL Certificates \u2014 So I Built an Independent Monitoring Workflow",
-    "desc": "<p>When I started managing several websites and SaaS projects, I noticed a risk that was easy to ignore:</p>\n\n<p>SSL certificates usually re",
-    "link": "https://dev.to/alex-z/auto-renewal-wasnt-enough-for-ssl-certificates-so-i-built-an-independent-monitoring-workflow-252f",
-    "topic": "general"
-  },
-  {
-    "title": "I thought giving my group chat AI assistant Google Calendar would take 5 minutes, and then OAuth humbled me",
-    "desc": "<p>I went looking for a simple answer to a simple question:</p>\n\n<p>How do you give an agent access to Google Calendar?</p>\n\n<p>Not a demo. ",
-    "link": "https://dev.to/lars_winstand/i-thought-giving-my-group-chat-ai-assistant-google-calendar-would-take-5-minutes-and-then-oauth-93d",
-    "topic": "general"
-  },
-  {
-    "title": "Building a GitHub App That Reviews Its Own Code: Lessons in Security Hardening",
-    "desc": "<p>How I turned 27 silent failures into logged ones, closed three real attack surfaces, and pushed test coverage from 62% to 76% while build",
-    "link": "https://dev.to/shweta_mishra_b3c97874de9/building-a-github-app-that-reviews-its-own-code-lessons-in-security-hardening-4ha7",
-    "topic": "secops"
-  },
-  {
-    "title": "Azure Management Tasks Part 6: Cleaning Up an Azure Environment the Right Way.",
-    "desc": "<h2>\n  \n  \n  INTRODUCTION\n</h2>\n\n<p>Every resource in this series has served its purpose, the VM has run as an FTP server, the storage accou",
-    "link": "https://dev.to/smayowa10/azure-management-tasks-part-6-cleaning-up-an-azure-environment-the-right-way-385d",
-    "topic": "azure"
-  },
-  {
-    "title": "Solon Config & Multi-Environment Management: The Layering Model That Fits in Your Head",
-    "desc": "<p>One thing I never appreciated until I ran the same jar across dev, staging, and prod is how much of \"config pain\" is really \"config layer",
-    "link": "https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c",
-    "topic": "general"
-  },
-  {
-    "title": "Protecting Self Hosted Endpoints with Rate Limiting",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/n8n?utm_source=system3_devto\" rel=\"noopener noreferrer\">n",
-    "link": "https://dev.to/chasebot/protecting-self-hosted-endpoints-with-rate-limiting-33n8",
-    "topic": "general"
-  },
-  {
-    "title": "Docker for Beginners: A Complete Practical Guide",
-    "desc": "<h1>\n  \n  \n  Docker for Beginners: A Complete Practical Guide\n</h1>\n\n<p><em>Generated: 2026-04-29 00:30 | Model: template</em></p>\n\n\n\n\n<h1>\n",
-    "link": "https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-52kj",
+    "title": "A Practical Multi-Stage Docker Build for Python APIs",
+    "desc": "<p>When containerizing Python web applications for production, developers often produce heavy, insecure images containing compilers, headers",
+    "link": "https://dev.to/borino88/a-practical-multi-stage-docker-build-for-python-apis-3p50",
     "topic": "docker"
+  },
+  {
+    "title": "FFmpeg -map Flag Explained: Stream Selection and Multi-Track Audio",
+    "desc": "<p><em>Originally published at <a href=\"https://www.ffmpeg-micro.com/blog/ffmpeg-map-flag-explained\" rel=\"noopener noreferrer\">ffmpeg-micro.",
+    "link": "https://dev.to/javidjamae/ffmpeg-map-flag-explained-stream-selection-and-multi-track-audio-1mho",
+    "topic": "general"
+  },
+  {
+    "title": "AWS S3 \u2014 Versioning, Static Hosting, CORS, Object Lock & More",
+    "desc": "<h1>\n  \n  \n  \ud83d\uddc3\ufe0f AWS S3 \u2014 Extended Concepts\n</h1>\n\n<h3>\n  \n  \n  Versioning Deep Dive \u00b7 Bucket Types \u00b7 Static Hosting \u00b7 CORS \u00b7 Object Lock \u00b7 D",
+    "link": "https://dev.to/tejas_shinkar/aws-s3-versioning-static-hosting-cors-object-lock-more-4m5",
+    "topic": "aws"
+  },
+  {
+    "title": "How I caught a Claude prompt regression before it hit production",
+    "desc": "<p>I changed one line in my system prompt last week. A single word \u2014 \"concisely\" became \"briefly\". I thought nothing of it.</p>\n\n<p>Two hour",
+    "link": "https://dev.to/pawfromoz/how-i-caught-a-claude-prompt-regression-before-it-hit-production-4bmd",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Transitioning from Consultancy to Big Tech: Key Skills and Knowledge for DevOps/SRE Professionals",
+    "desc": "<h2>\n  \n  \n  Introduction: The Big Tech DevOps Landscape\n</h2>\n\n<p>Transitioning from a consultancy role to a DevOps/SRE position at a Big T",
+    "link": "https://dev.to/maricode/transitioning-from-consultancy-to-big-tech-key-skills-and-knowledge-for-devopssre-professionals-335d",
+    "topic": "general"
+  },
+  {
+    "title": "Temporary Is Not a Plan: Fork Discipline for an Adopted LMS",
+    "desc": "<p>Calling a patch temporary is not a plan. A retirement condition written into the commit is.</p>\n\n<p>Every change your fork carries agains",
+    "link": "https://dev.to/jeremy_longshore/temporary-is-not-a-plan-fork-discipline-for-an-adopted-lms-2dp5",
+    "topic": "general"
+  },
+  {
+    "title": "Java Full Stack Developer Roadmap",
+    "desc": "<p>What is a Java Full Stack Developer?</p>\n\n<p>A Java Full Stack Developer is responsible for developing both the frontend (what users see)",
+    "link": "https://dev.to/manish_kumar_java/java-full-stack-developer-roadmap-4bg4",
+    "topic": "general"
+  },
+  {
+    "title": "How to Scope Custom Software Without Overspending",
+    "desc": "<p>The most reliable way to scope a custom software project without overspending is to define the business outcome, narrow the first release",
+    "link": "https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj",
+    "topic": "general"
   }
 ]
