@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Built KubeAura: An AI-Powered Kubernetes Dashboard (and I'm Open Sourcing It)",
-    "desc": "<p>After months of juggling between kubectl terminals, dashboards, and logs, I finally got fed up. So I built <a href=\"https://github.com/de",
-    "link": "https://dev.to/ganesh_giri/i-built-kubeaura-an-ai-powered-kubernetes-dashboard-and-im-open-sourcing-it-2afn",
+    "title": "Your agent does not need you sitting at the Mac to stay useful",
+    "desc": "<h1>\n  \n  \n  Your agent does not need you sitting at the Mac to stay useful\n</h1>\n\n<p>I run Hermes-class agents on a Mac. The failure mode t",
+    "link": "https://dev.to/igorganapolsky/your-agent-does-not-need-you-sitting-at-the-mac-to-stay-useful-4d35",
+    "topic": "general"
+  },
+  {
+    "title": "OCI vs Oracle Database@Azure: Where Should Your Oracle Database Live?",
+    "desc": "<p>You've decided the database is going to the cloud, and you've <a href=\"https://uptimearchitect.com/blog/oracle-cloud-migration-methods/\" ",
+    "link": "https://dev.to/uptimearchitect/oci-vs-oracle-databaseazure-where-should-your-oracle-database-live-3190",
+    "topic": "azure"
+  },
+  {
+    "title": "Learning DevOps as a Computer Engineering Grad...",
+    "desc": "<p>Late that night which was two weeks to my final year project defense, I stared at the ceiling thinking about life after school.<br />\nAs ",
+    "link": "https://dev.to/sandradev20/learning-devops-as-a-computer-engineering-grad-jk5",
+    "topic": "general"
+  },
+  {
+    "title": "An open-source cPanel alternative for Debian 13",
+    "desc": "<blockquote>\n<p><strong>Originally published at <a href=\"https://jabali-panel.com/blog/cpanel-alternative/\" rel=\"noopener noreferrer\">jabali",
+    "link": "https://dev.to/shuki_vaknin/an-open-source-cpanel-alternative-for-debian-13-3jco",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes for Beginners: Deploy Your First App",
+    "desc": "<h1>\n  \n  \n  Kubernetes for Beginners: Deploy Your First App\n</h1>\n\n<p>tags: kubernetes, docker, devops, tutorial</p>\n\n\n\n\n<p>Imagine being a",
+    "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-3abk",
     "topic": "kubernetes"
   },
   {
-    "title": "Mastering Local Webhook Development: A Pro Guide to Testing and Debugging",
-    "desc": "<h2>\n  \n  \n  The Local Webhook Problem\n</h2>\n\n<p>When you are building integrations with platforms like Stripe, GitHub, or Shopify, your dev",
-    "link": "https://dev.to/devandrew/mastering-local-webhook-development-a-pro-guide-to-testing-and-debugging-1c0b",
+    "title": "How to Preview a Website on a New Server Before You Change DNS",
+    "desc": "<p>Every website migration has the same terrifying moment: you flip the DNS record, and for the next few hours you have no idea whether the ",
+    "link": "https://dev.to/shuki_vaknin/how-to-preview-a-website-on-a-new-server-before-you-change-dns-576n",
     "topic": "general"
   },
   {
-    "title": "From AI Proposal to Undo: Tracing Sidechalk\u2019s Trust Boundary End to End with SigNoz",
-    "desc": "<p>An AI that can understand a whiteboard is useful. An AI that can silently rewrite it is dangerous. While building Sidechalk\u2014an AI-powered",
-    "link": "https://dev.to/tyson1234/from-ai-proposal-to-undo-tracing-sidechalks-trust-boundary-end-to-end-with-signoz-1o1l",
+    "title": "What Financial Services Taught Me About Saying No",
+    "desc": "<p>Financial services has a reputation among engineers: it's the place where velocity goes to die. Ask anyone who shipped software at a star",
+    "link": "https://dev.to/todd_linnertz_871a076f68e/what-financial-services-taught-me-about-saying-no-olj",
     "topic": "general"
   },
   {
-    "title": "Building AI Agents That Actually Investigate Production Incidents: My Journey with TattvaAI and SigNoz",
-    "desc": "<p>Liquid syntax error: Variable '{{service=\\\"{service}' was not properly terminated with regexp: /\\}\\}/</p>",
-    "link": "https://dev.to/animbargi5art/building-ai-agents-that-actually-investigate-production-incidents-my-journey-with-tattvaai-and-414c",
-    "topic": "secops"
-  },
-  {
-    "title": "\"Server Down Hai, Try Later\": What's Actually Happening When a Site Dies",
-    "desc": "<p>How you doin'? </p>\n\n<p>Let's talk about the Iconic thing we heard a lot: \"server down, try later.\" Your daddy said it while trying to bo",
-    "link": "https://dev.to/fuzzykidoo/server-down-hai-try-later-whats-actually-happening-when-a-site-dies-5hjb",
-    "topic": "general"
-  },
-  {
-    "title": "TOSS CONFERENCE DAY-2 LEARN",
-    "desc": "<p>WHAT IS OPENTELEMETRY?<br />\nOpenTelemetry (OTel) is an open-source observability framework that helps you collect, process, and export t",
-    "link": "https://dev.to/narmathachandra/toss-conference-day-2-learn-3di0",
-    "topic": "general"
-  },
-  {
-    "title": "GitHub Actions: Automate Your Workflow Like a Pro",
-    "desc": "<h1>\n  \n  \n  GitHub Actions: Automate Your Workflow Like a Pro\n</h1>\n\n<p>tags: github, automation, devops, tutorial</p>\n\n\n\n\n<p>tags: github,",
-    "link": "https://dev.to/qingluan/github-actions-automate-your-workflow-like-a-pro-2821",
-    "topic": "general"
-  },
-  {
-    "title": "Managing Test Cases Doesn't Answer the Real Question",
-    "desc": "<p>Open any modern test management tool and the feature list is genuinely impressive: AI that drafts test cases, automation hooks, requireme",
-    "link": "https://dev.to/srinathy/managing-test-cases-doesnt-answer-the-real-question-nho",
+    "title": "Vom Code zum Car-Sale: Wie man den Autoverkauf dank smarter Automatisierung und Direktankauf entspannt",
+    "desc": "<p>Vom Code zum Car-Sale: Wie man den Autoverkauf dank smarter Automatisierung und Direktankauf entspannt<br />\n\u200bWer als Entwickler oder Tec",
+    "link": "https://dev.to/germanautoexpert_f1777898/vom-code-zum-car-sale-wie-man-den-autoverkauf-dank-smarter-automatisierung-und-direktankauf-58on",
     "topic": "general"
   }
 ]
