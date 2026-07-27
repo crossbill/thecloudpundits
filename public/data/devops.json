@@ -1,50 +1,50 @@
 [
   {
-    "title": "\u2699\ufe0f Setting up Kubernetes HPA for a FastAPI application made easy",
-    "desc": "<h2>\n  \n  \n  \ud83d\udca1 Overview \u2014 Why <em>Scaling</em> Matters\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/i",
-    "link": "https://dev.to/ptp2308/setting-up-kubernetes-hpa-for-a-fastapi-application-made-easy-4ncn",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How I Reduced My OPEX By 99.5% Using Go",
-    "desc": "<p>Previously, I wrote about <a href=\"https://dev.to/andreimerlescu/how-i-processed-666k-pages-of-flattened-pdfs-into-a-full-text-search-eng",
-    "link": "https://dev.to/andreimerlescu/how-i-reduced-my-opex-by-995-using-go-3ff7",
+    "title": "Choosing between a VDS and a dedicated server for your next project?",
+    "desc": "<p>Choosing between a VDS and a dedicated server for your next project?</p>\n\n<p>Quick tip: A VDS balances dedicated resources with flexibili",
+    "link": "https://dev.to/onegbits/choosing-between-a-vds-and-a-dedicated-server-for-your-next-project-lk6",
     "topic": "general"
   },
   {
-    "title": "ViciDial 'Agent Not Available' Error \u2014 Routing & Login Troubleshooting",
-    "desc": "<h1>\n  \n  \n  ViciDial 'Agent Not Available' Error \u2014 Routing & Login Troubleshooting\n</h1>\n\n<p><strong>Learn how to diagnose and fix the \"Age",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-agent-not-available-error-routing-login-troubleshooting-5f8d",
+    "title": "The Algorithm Is the Last Decision You Make in Machine Learning",
+    "desc": "<p>Every delivery manager I've worked with runs a prediction model on Monday morning. It's called dread.</p>\n\n<p>Open the portfolio, scan 30",
+    "link": "https://dev.to/nishant_banginwar_80b7dc5/the-algorithm-is-the-last-decision-you-make-in-machine-learning-p0a",
     "topic": "general"
   },
   {
-    "title": "Browser automation for AI agents, in a single 7 MB binary",
-    "desc": "<p>Kitewright gives LLM agents a real browser \u2014 navigate, screenshot, extract, PDF \u2014 without the Node.js and Playwright weight. Written in R",
-    "link": "https://dev.to/shubham_f98d63c2451d6e035/browser-automation-for-ai-agents-in-a-single-7-mb-binary-1pmm",
+    "title": "\"/usr/bin/env: 'python2': No such file or directory \u2014 Amazon Linux 2023 has no Python 2\"",
+    "desc": "<p>You moved an instance, AMI, or launch template from Amazon Linux 2 to Amazon Linux 2023, and something that used to run cleanly now fails",
+    "link": "https://dev.to/ntoledo319/usrbinenv-python2-no-such-file-or-directory-amazon-linux-2023-has-no-python-2-5h8g",
     "topic": "general"
   },
   {
-    "title": "Cherry-picking your hotfix twice is the real pipeline smell",
-    "desc": "<p>We had a gitflow pipeline that looked clean on paper: develop feeds a release branch, the same build artifact promotes through dev, qa, s",
-    "link": "https://dev.to/webruster/cherry-picking-your-hotfix-twice-is-the-real-pipeline-smell-1i6h",
+    "title": "Operationalizing Zero-Trust Vulnerability Remediation: Bridging Infrastructure Security and Application Platforms",
+    "desc": "<p>The structural tension between accelerating feature delivery and maintaining a secure, resilient production environment is a constant cha",
+    "link": "https://dev.to/isuvo/operationalizing-zero-trust-vulnerability-remediation-bridging-infrastructure-security-and-ah5",
+    "topic": "secops"
+  },
+  {
+    "title": "How to Architect AI Agent Governance: Lessons from Microsoft\u2019s Path to Production",
+    "desc": "<p>On July 27, 2026, Microsoft opened a two-day Azure Tech Community deep-dive on moving agents into production. For developers, the useful ",
+    "link": "https://dev.to/tran_tienvan_e45fc26d655/how-to-architect-ai-agent-governance-lessons-from-microsofts-path-to-production-3558",
+    "topic": "azure"
+  },
+  {
+    "title": "From Commit to Amazon EKS: Building a GitOps Pipeline with Argo CD",
+    "desc": "<p>Deploying an application to Kubernetes is easy to demonstrate with one command:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pr",
+    "link": "https://dev.to/kenzytran/from-commit-to-amazon-eks-building-a-gitops-pipeline-with-argo-cd-3b9e",
     "topic": "general"
   },
   {
-    "title": "Veo 3.0 vs GPT Image 2.0: What I Actually Shipped in 23 Minutes",
-    "desc": "<p><strong>Quick Summary</strong></p>\n\n<ul>\n<li>Reproducing trending visual effects without an animation team is mostly a pipeline problem, ",
-    "link": "https://dev.to/savielyamani_videoai/veo-30-vs-gpt-image-20-what-i-actually-shipped-in-23-minutes-3l50",
-    "topic": "general"
+    "title": "Why Every Developer Should Learn Docker",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/subha_74/why-every-developer-should-learn-docker-5ah3",
+    "topic": "docker"
   },
   {
-    "title": "Building TNP: Why I Built an Enterprise-Realistic DevOps Lab (Part 0)",
-    "desc": "<blockquote>\n<p>\ud83e\udded <strong>This is Part 0 of a 10-part series</strong> documenting a self-built, enterprise-realistic DevOps lab \u2014 modeled af",
-    "link": "https://dev.to/tnptommy/building-tnp-why-i-built-an-enterprise-realistic-devops-lab-part-0-41ie",
-    "topic": "general"
-  },
-  {
-    "title": "BNB Smart Chain RPC Provider: How to Evaluate and Choose",
-    "desc": "<h2>\n  \n  \n  BNB Smart Chain RPC Provider Decision Checklist\n</h2>\n\n<p>Before selecting an RPC provider for BNB Smart Chain (BSC), review th",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/bnb-smart-chain-rpc-provider-how-to-evaluate-and-choose-f8k",
+    "title": "kubectl rollout restart vs delete pod: Which Is Safer?",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/27/kubectl-rollout-restart-vs-delete-pod-which-is-safer\" rel=\"noopene",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/kubectl-rollout-restart-vs-delete-pod-which-is-safer-2k19",
     "topic": "general"
   }
 ]
