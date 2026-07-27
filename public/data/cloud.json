@@ -1,5 +1,11 @@
 [
   {
+    "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+    "desc": "Last week I had the privilege of spending three days in S\u00e3o Paulo with technical builders from across Latin America, brought together for a ",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
+    "topic": "aws"
+  },
+  {
     "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
     "desc": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, ",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
@@ -39,12 +45,6 @@
     "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
     "desc": "Amazon EC2 C9g and C9gd instances, powered by AWS Graviton5, are now generally available. They deliver up to 25% better compute performance ",
     "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
-    "topic": "aws"
-  },
-  {
-    "title": "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager",
-    "desc": "AWS Certificate Manager now supports the ACME protocol for public TLS certificates, enabling automated issuance and renewal through any ACME",
-    "link": "https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/",
     "topic": "aws"
   }
 ]
