@@ -1,5 +1,29 @@
 [
   {
+    "title": "Fix Line-by-Line Text File Diffs Without GUIs or APIs",
+    "desc": "<p>When working with text files in a CI/CD pipeline or version control system, the need to compare files line by line is common. Whether you",
+    "link": "https://dev.to/intellitools/fix-line-by-line-text-file-diffs-without-guis-or-apis-5k8",
+    "topic": "general"
+  },
+  {
+    "title": "CGNAT Broke My Server: Four Ways to Reach a Service Behind Carrier-Grade NAT",
+    "desc": "<p>My home server sat behind a static IP for years. Port forwarding, DDNS, the whole routine \u2014 it worked. Then my ISP migrated me to CGNAT (",
+    "link": "https://dev.to/pstayet/cgnat-broke-my-server-four-ways-to-reach-a-service-behind-carrier-grade-nat-4852",
+    "topic": "general"
+  },
+  {
+    "title": "The 502 That Wasn't the Server",
+    "desc": "<p><strong>We spent over a year blaming the wrong things.</strong></p>\n\n<p>A <code>502 Bad Gateway</code> kept hitting our login route \u2014 abo",
+    "link": "https://dev.to/pedro_furst_53f8c10f2701d/the-502-that-wasnt-the-server-41ca",
+    "topic": "general"
+  },
+  {
+    "title": "AI Didn't Make Your Team Faster. It Moved the Bottleneck.",
+    "desc": "<p>This is publishing in the same month the loudest AI jobs forecasts got walked back by the people who made them. That reversal surprised a",
+    "link": "https://dev.to/_firelinks/i-didnt-make-your-team-faster-it-moved-the-bottleneck-1lj",
+    "topic": "general"
+  },
+  {
     "title": "Buy Walmart Seller Accounts \u2013 Start Selling Fast & Grow",
     "desc": "<p>Buy Verified Walmart Seller Account<br />\n\u25c8{{\u2b50\ufe0f\u2b50\ufe0f}}\u25c8\u27a4 Telegram: @progmbofficial<br />\n\u25c8{{\u2b50\ufe0f\u2b50\ufe0f}}\u25c8\u27a4 WhatsApp: +1 (920) 212-9737<br />\n\u25c8{{\u2b50\ufe0f",
     "link": "https://dev.to/beyax96055/buy-walmart-seller-accounts-start-selling-fast-grow-4dd8",
@@ -22,29 +46,5 @@
     "desc": "<p>When I needed to securely expose an internal service to the outside world, my first thought was always to open a port in the firewall or ",
     "link": "https://dev.to/merbayerp/cloudflare-tunnel-easy-security-or-centralized-dependency-4pd4",
     "topic": "secops"
-  },
-  {
-    "title": "Kubernetes isn't that scary \u2014 you really only need 8 objects (and to read 3 errors)",
-    "desc": "<p>The first time I opened a Kubernetes manifest, I closed my laptop. Pods, ReplicaSets, DaemonSets, StatefulSets, CRDs, operators, service ",
-    "link": "https://dev.to/opscanopy/kubernetes-isnt-that-scary-you-really-only-need-8-objects-and-to-read-3-errors-no6",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "The 12 Linux commands I actually run every day as a DevOps engineer",
-    "desc": "<p>Every Linux tutorial throws a hundred commands at you. <code>tar</code>, <code>sed</code>, <code>cut</code>, <code>xargs</code>, forty fl",
-    "link": "https://dev.to/opscanopy/the-12-linux-commands-i-actually-run-every-day-as-a-devops-engineer-5e55",
-    "topic": "general"
-  },
-  {
-    "title": "14 Docker interview questions I actually got asked in 2026 (and how I'd answer them)",
-    "desc": "<p>I've been on both sides of the table. Some years I'm the one sweating through a Docker round; other years I'm the one asking \"okay, your ",
-    "link": "https://dev.to/opscanopy/14-docker-interview-questions-i-actually-got-asked-in-2026-and-how-id-answer-them-239a",
-    "topic": "docker"
-  },
-  {
-    "title": "How I drive a cloud coding agent from my phone through the browser",
-    "desc": "<p><strong>tl;dr:</strong> I put Google's Identity-Aware Proxy in front of a Cloud Run service<br />\nrunning a coding agent in a web termina",
-    "link": "https://dev.to/ykdap/how-i-drive-a-cloud-coding-agent-from-my-phone-through-the-browser-5cij",
-    "topic": "general"
   }
 ]
