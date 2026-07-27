@@ -1,50 +1,50 @@
 [
   {
-    "title": "GitHub put Shell, Dockerfiles, Terraform and PHP behind a paywall. Here's a free Action that scans them.",
-    "desc": "<p>On <a href=\"https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests/\" rel=\"noopener noreferr",
-    "link": "https://dev.to/booyaka101/github-put-shell-dockerfiles-terraform-and-php-behind-a-paywall-heres-a-free-action-that-scans-46m8",
-    "topic": "docker"
-  },
-  {
-    "title": "Agentic identity qualities: what good agent identity needs \u2014 and how Passport delivers",
-    "desc": "<h1>\n  \n  \n  Agentic identity qualities: what good agent identity needs \u2014 and how Passport delivers\n</h1>\n\n<p>Shared API keys prove a secret",
-    "link": "https://dev.to/discernible-io/agentic-identity-qualities-what-good-agent-identity-needs-and-how-passport-delivers-13ki",
+    "title": "Evaluating AI in DevOps: Strategies to Identify Effective Tools and Mitigate Risks",
+    "desc": "<h2>\n  \n  \n  Introduction: The AI DevOps Divide\n</h2>\n\n<p>A year ago, our team embarked on an aggressive exploration of agentic AI in DevOps",
+    "link": "https://dev.to/maricode/evaluating-ai-in-devops-strategies-to-identify-effective-tools-and-mitigate-risks-35eg",
     "topic": "general"
   },
   {
-    "title": "Branch-Based CI/CD: Quality Gate to Multi-Environment Deploy with GitHub Actions",
-    "desc": "<p>A complete, reusable pattern for wiring a code-quality gate (SonarQube) to Docker<br />\nbuild, image scanning, and SSH-based deployment a",
-    "link": "https://dev.to/saint_vandora/branch-based-cicd-quality-gate-to-multi-environment-deploy-with-github-actions-16jf",
+    "title": "Stop Hardcoding Secrets: Scan Your .env Files in 1 Command",
+    "desc": "<h1>\n  \n  \n  Stop Hardcoding Secrets: Scan Your .env Files in 1 Command\n</h1>\n\n<p>I found 17 exposed API keys in my own codebase this mornin",
+    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/stop-hardcoding-secrets-scan-your-env-files-in-1-command-elo",
     "topic": "general"
   },
   {
-    "title": "Federating clusters for zero-downtime Kubernetes",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/federating-clusters-for-zero-downtime-kubernetes\" rel=\"noopener ",
-    "link": "https://dev.to/rasne/federating-clusters-for-zero-downtime-kubernetes-1emg",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Unlocking Competitive Edge: How AI Labs Keep Pace in a Rapidly Evolving World",
-    "desc": "<h1>\n  \n  \n  Unlocking Competitive Edge: How AI Labs Keep Pace in a Rapidly Evolving World\n</h1>\n\n<p>In the ever-accelerating world of artif",
-    "link": "https://dev.to/fabiosarmento/unlocking-competitive-edge-how-ai-labs-keep-pace-in-a-rapidly-evolving-world-3i64",
+    "title": "The Twenty-Minute Problem",
+    "desc": "<p>It was a Sunday, and Shreyansh had exactly one job: get a new laptop ready for work by lunch.</p>\n\n<p>He opened a terminal, typed <code>g",
+    "link": "https://dev.to/nk2552003/the-twenty-minute-problem-37ja",
     "topic": "general"
   },
   {
-    "title": "Ditch GHCR: A Production-Grade Self-Hosted Docker Registry on a Single DigitalOcean Droplet",
-    "desc": "<p>If you have ever hit the wall on a hosted registry's free private tier a 500 MB cap here, a per-seat charge there and you already run you",
-    "link": "https://dev.to/saint_vandora/ditch-ghcr-a-production-grade-self-hosted-docker-registry-on-a-single-digitalocean-droplet-5bgg",
-    "topic": "docker"
-  },
-  {
-    "title": "Human-in-the-Loop Agentic DevOps: Govern AI Automation in GitHub Issues",
-    "desc": "<h2>\n  \n  \n  Human-in-the-Loop Agentic DevOps: Govern AI Automation in GitHub Issues\n</h2>\n\n<p>The biggest question in agentic DevOps is no ",
-    "link": "https://dev.to/pwd9000/human-in-the-loop-agentic-devops-govern-ai-automation-in-github-issues-472h",
+    "title": "No Ads Home Workout Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/no-ads-home-workout-timer-what-we-learned-building-random-tactical-timer-54ah",
     "topic": "general"
   },
   {
-    "title": "Our OpenClaw backup looked fine right up until the config vanished",
-    "desc": "<h1>\n  \n  \n  Our OpenClaw backup looked fine right up until the config vanished\n</h1>\n\n<p>The scary part isn\u2019t losing a prompt.</p>\n\n<p>It\u2019s",
-    "link": "https://dev.to/lars_winstand/our-openclaw-backup-looked-fine-right-up-until-the-config-vanished-1p4p",
+    "title": "\"Run AI Credit Pools and Hard Limits From One Operations Dashboard\"",
+    "desc": "<p>At 09:10 the shared credit pool is 82% consumed, yet one repository shows no recent task outcomes. At 09:25 an unrelated API project reac",
+    "link": "https://dev.to/odd_background_328/run-ai-credit-pools-and-hard-limits-from-one-operations-dashboard-1bmf",
+    "topic": "general"
+  },
+  {
+    "title": "We\u2019re open sourcing our privacy proxy CLI",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/were-open-sourcing-our-privacy-proxy-cli\" rel=\"noopener noreferr",
+    "link": "https://dev.to/rasne/were-open-sourcing-our-privacy-proxy-cli-4pdd",
+    "topic": "general"
+  },
+  {
+    "title": "Your gRPC stream is \"healthy\" and serving nothing: synthetic monitoring for server-side streams",
+    "desc": "<p><em>By Daniil Romashov \u2014 SRE/DevOps engineer. The tool described here is open source:<br />\n<a href=\"https://github.com/youngpabl0/grpc-s",
+    "link": "https://dev.to/youngpib0dy/your-grpc-stream-is-healthy-and-serving-nothing-synthetic-monitoring-for-server-side-streams-5gcn",
+    "topic": "general"
+  },
+  {
+    "title": "Hybride Contentbeheer: Hoe AI en menselijke controle zorgen voor 99%+ nauwkeurigheid",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/datamondial/hybride-contentbeheer-hoe-ai-en-menselijke-controle-zorgen-voor-99-nauwkeurigheid-1l05",
     "topic": "general"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
+    "desc": "<p>Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days.</",
+    "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
+    "topic": "secops"
+  },
+  {
+    "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
+    "desc": "<p>The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
+    "topic": "secops"
+  },
+  {
+    "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+    "desc": "<p>The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote ac",
+    "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
+    "topic": "general"
+  },
+  {
+    "title": "Nvidia and Tech Giants Launch AI Security Alliance",
+    "desc": "<p>The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+    "topic": "secops"
+  },
+  {
+    "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
+    "desc": "<p>The Anubis cybercrime group has taken credit for the attack and is threatening to leak data.</p>\n<p>The post <a href=\"https://www.securit",
+    "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
+    "topic": "secops"
+  },
+  {
     "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
     "desc": "<p>The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients.</p>\n<p>The post <a hr",
     "link": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
@@ -16,35 +46,5 @@
     "desc": "<p>A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees.</p>\n<p>Th",
     "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
     "topic": "general"
-  },
-  {
-    "title": "Anthropic\u2019s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
-    "desc": "<p>Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5.</p>\n<p>The post <a href=\"https://",
-    "link": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
-    "desc": "<p>In May 2026, hackers stole personal and dental health information from DentaQuest\u2019s computer network.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
-    "topic": "secops"
-  },
-  {
-    "title": "MCBS Data Breach Affects 1.2 Million Individuals",
-    "desc": "<p>The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
-    "topic": "secops"
-  },
-  {
-    "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
-    "desc": "<p>A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
-    "topic": "aws"
-  },
-  {
-    "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espi",
-    "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
-    "topic": "aws"
   }
 ]
