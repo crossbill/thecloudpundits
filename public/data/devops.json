@@ -1,50 +1,50 @@
 [
   {
+    "title": "Managing Monorepos at Scale: Lessons from Meta, AWS, and a 15-Repo Migration",
+    "desc": "<p>Early in my career, I thought polyrepos were the way. Microservices, each in their own repo, independently deployable \u2014 it felt clean and",
+    "link": "https://dev.to/logical_bytes/managing-monorepos-at-scale-lessons-from-meta-aws-and-a-15-repo-migration-o84",
+    "topic": "aws"
+  },
+  {
+    "title": "My coding agent shipped a bug to three pages it wasn't touching",
+    "desc": "<p>The spec was simple: restyle the buy button on the product detail pages. Nothing else. The agent implemented it, I skimmed the diff, it l",
+    "link": "https://dev.to/solo_operator/my-coding-agent-shipped-a-bug-to-three-pages-it-wasnt-touching-3ica",
+    "topic": "general"
+  },
+  {
+    "title": "Why Great AI in Pharma Starts With Better Data Pipelines, Not Better Models",
+    "desc": "<p>Artificial intelligence is becoming a regular topic in pharmaceutical manufacturing.<br />\nPredictive maintenance.<br />\nQuality analytic",
+    "link": "https://dev.to/fajar_babar_e115cc269c69a/why-great-ai-in-pharma-starts-with-better-data-pipelines-not-better-models-4oi0",
+    "topic": "general"
+  },
+  {
+    "title": "Balancing Threat Mitigation and Platform Evolution: The July 2026 Engineering Operations Briefing",
+    "desc": "<p><em>An analytical guide for engineering leaders on balancing urgent CISA security advisories with Google developer platform modernization",
+    "link": "https://dev.to/isuvo/balancing-threat-mitigation-and-platform-evolution-the-july-2026-engineering-operations-briefing-3ah0",
+    "topic": "general"
+  },
+  {
+    "title": "JSON Edge Cases Your Parser Silently Ignores (And How to Fix Them)",
+    "desc": "<p>JSON feels deceptively simple. We use <code>JSON.parse()</code> and <code>JSON.stringify()</code> every day without a second thought. Bec",
+    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/json-edge-cases-your-parser-silently-ignores-and-how-to-fix-them-2mkg",
+    "topic": "general"
+  },
+  {
+    "title": "The one rule that lets me run a company with no employees",
+    "desc": "<p>There's a specific bad day every solo founder running agents pictures at least once: money leaves an account that shouldn't have left it,",
+    "link": "https://dev.to/solo_operator/the-one-rule-that-lets-me-run-a-company-with-no-employees-3kid",
+    "topic": "general"
+  },
+  {
+    "title": "I thought I needed a smarter coding prompt but I actually needed my agent to interrogate me for an hour",
+    "desc": "<p>I kept blaming the model.</p>\n\n<p>If GPT-5 built the wrong thing, I assumed my prompt was weak.<br />\nIf Claude Opus 4.6 missed an edge c",
+    "link": "https://dev.to/lars_winstand/i-thought-i-needed-a-smarter-coding-prompt-but-i-actually-needed-my-agent-to-interrogate-me-for-an-2o1h",
+    "topic": "general"
+  },
+  {
     "title": "Fix Line-by-Line Text File Diffs Without GUIs or APIs",
     "desc": "<p>When working with text files in a CI/CD pipeline or version control system, the need to compare files line by line is common. Whether you",
     "link": "https://dev.to/intellitools/fix-line-by-line-text-file-diffs-without-guis-or-apis-5k8",
     "topic": "general"
-  },
-  {
-    "title": "CGNAT Broke My Server: Four Ways to Reach a Service Behind Carrier-Grade NAT",
-    "desc": "<p>My home server sat behind a static IP for years. Port forwarding, DDNS, the whole routine \u2014 it worked. Then my ISP migrated me to CGNAT (",
-    "link": "https://dev.to/pstayet/cgnat-broke-my-server-four-ways-to-reach-a-service-behind-carrier-grade-nat-4852",
-    "topic": "general"
-  },
-  {
-    "title": "The 502 That Wasn't the Server",
-    "desc": "<p><strong>We spent over a year blaming the wrong things.</strong></p>\n\n<p>A <code>502 Bad Gateway</code> kept hitting our login route \u2014 abo",
-    "link": "https://dev.to/pedro_furst_53f8c10f2701d/the-502-that-wasnt-the-server-41ca",
-    "topic": "general"
-  },
-  {
-    "title": "AI Didn't Make Your Team Faster. It Moved the Bottleneck.",
-    "desc": "<p>This is publishing in the same month the loudest AI jobs forecasts got walked back by the people who made them. That reversal surprised a",
-    "link": "https://dev.to/_firelinks/i-didnt-make-your-team-faster-it-moved-the-bottleneck-1lj",
-    "topic": "general"
-  },
-  {
-    "title": "Buy Walmart Seller Accounts \u2013 Start Selling Fast & Grow",
-    "desc": "<p>Buy Verified Walmart Seller Account<br />\n\u25c8{{\u2b50\ufe0f\u2b50\ufe0f}}\u25c8\u27a4 Telegram: @progmbofficial<br />\n\u25c8{{\u2b50\ufe0f\u2b50\ufe0f}}\u25c8\u27a4 WhatsApp: +1 (920) 212-9737<br />\n\u25c8{{\u2b50\ufe0f",
-    "link": "https://dev.to/beyax96055/buy-walmart-seller-accounts-start-selling-fast-grow-4dd8",
-    "topic": "general"
-  },
-  {
-    "title": "Istio and the Sidecar Pattern: What I Learned About Service Mesh Fundamentals",
-    "desc": "<p>If you work with Kubernetes long enough, you eventually hit a wall that has nothing to do with your application code. Your services are d",
-    "link": "https://dev.to/madhavnakra/istio-and-the-sidecar-pattern-what-i-learned-about-service-mesh-fundamentals-1np6",
-    "topic": "general"
-  },
-  {
-    "title": "I built Docker Stack Builder: A free visual docker-compose.yml generator",
-    "desc": "<p>Hi everyone! </p>\n\n<p>I created Docker Stack Builder to make generating \u201cdocker-compose.yml\u201d files visual, fast, and clean, without writi",
-    "link": "https://dev.to/izxn_martinez_1549e6594d9/i-built-docker-stack-builder-a-free-visual-docker-composeyml-generator-4i6h",
-    "topic": "docker"
-  },
-  {
-    "title": "Cloudflare Tunnel: Easy Security or Centralized Dependency?",
-    "desc": "<p>When I needed to securely expose an internal service to the outside world, my first thought was always to open a port in the firewall or ",
-    "link": "https://dev.to/merbayerp/cloudflare-tunnel-easy-security-or-centralized-dependency-4pd4",
-    "topic": "secops"
   }
 ]
