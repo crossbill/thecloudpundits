@@ -1,5 +1,41 @@
 [
   {
+    "title": "redb 3.4.0: day-two operations for a .NET stack \u2014 replay what failed, hot-patch the framework, lock down the control plane",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/rinat_kozin/redb-340-day-two-operations-for-a-net-stack-replay-what-failed-hot-patch-the-framework-lock-1bm",
+    "topic": "general"
+  },
+  {
+    "title": "Build an Evidence Supply Chain for Tests",
+    "desc": "<p>Most teams think of automated tests as decision machines.</p>\n\n<p>Green means ship. Red means stop.</p>\n\n<p>That model works right up unt",
+    "link": "https://dev.to/randomsquirrel802/build-an-evidence-supply-chain-for-tests-3fej",
+    "topic": "general"
+  },
+  {
+    "title": "Samsung Galaxy Z Fold 8 Passport Design: Next Smartphone Trend",
+    "desc": "<p>*<em>The Samsung Galaxy Z Fold 8 \"Passport\" design isn't just a nostalgic callback-it's a fundamental hardware rethink that will reshape ",
+    "link": "https://dev.to/thomas_woodfin_3a4efcd491/samsung-galaxy-z-fold-8-passport-design-next-smartphone-trend-17pg",
+    "topic": "general"
+  },
+  {
+    "title": "JWT Security Checklist: 12 Things to Verify Before You Ship",
+    "desc": "<p>JWT authentication has more failure modes than most developers realise. Correct signature verification is necessary but far from sufficie",
+    "link": "https://dev.to/swajannn/jwt-security-checklist-12-things-to-verify-before-you-ship-3kp",
+    "topic": "secops"
+  },
+  {
+    "title": "AI Changes the Tools, Not the Fundamentals",
+    "desc": "<p>This may sound counterintuitive, but in the era of AI, less is more. AI can help anyone write code faster, but it can't replace an unders",
+    "link": "https://dev.to/ron_moon_dev/ai-changes-the-tools-not-the-fundamentals-cef",
+    "topic": "general"
+  },
+  {
+    "title": "Day 7/30 AWS System Design Patterns",
+    "desc": "<p>A multi-tenant SaaS platform sends all background notifications \u2014 email, SMS, webhook calls \u2014 through a single SQS Standard queue (messag",
+    "link": "https://dev.to/thejoud1997/day-730-aws-system-design-patterns-dfk",
+    "topic": "aws"
+  },
+  {
     "title": "Managing Monorepos at Scale: Lessons from Meta, AWS, and a 15-Repo Migration",
     "desc": "<p>Early in my career, I thought polyrepos were the way. Microservices, each in their own repo, independently deployable \u2014 it felt clean and",
     "link": "https://dev.to/logical_bytes/managing-monorepos-at-scale-lessons-from-meta-aws-and-a-15-repo-migration-o84",
@@ -9,42 +45,6 @@
     "title": "My coding agent shipped a bug to three pages it wasn't touching",
     "desc": "<p>The spec was simple: restyle the buy button on the product detail pages. Nothing else. The agent implemented it, I skimmed the diff, it l",
     "link": "https://dev.to/solo_operator/my-coding-agent-shipped-a-bug-to-three-pages-it-wasnt-touching-3ica",
-    "topic": "general"
-  },
-  {
-    "title": "Why Great AI in Pharma Starts With Better Data Pipelines, Not Better Models",
-    "desc": "<p>Artificial intelligence is becoming a regular topic in pharmaceutical manufacturing.<br />\nPredictive maintenance.<br />\nQuality analytic",
-    "link": "https://dev.to/fajar_babar_e115cc269c69a/why-great-ai-in-pharma-starts-with-better-data-pipelines-not-better-models-4oi0",
-    "topic": "general"
-  },
-  {
-    "title": "Balancing Threat Mitigation and Platform Evolution: The July 2026 Engineering Operations Briefing",
-    "desc": "<p><em>An analytical guide for engineering leaders on balancing urgent CISA security advisories with Google developer platform modernization",
-    "link": "https://dev.to/isuvo/balancing-threat-mitigation-and-platform-evolution-the-july-2026-engineering-operations-briefing-3ah0",
-    "topic": "general"
-  },
-  {
-    "title": "JSON Edge Cases Your Parser Silently Ignores (And How to Fix Them)",
-    "desc": "<p>JSON feels deceptively simple. We use <code>JSON.parse()</code> and <code>JSON.stringify()</code> every day without a second thought. Bec",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/json-edge-cases-your-parser-silently-ignores-and-how-to-fix-them-2mkg",
-    "topic": "general"
-  },
-  {
-    "title": "The one rule that lets me run a company with no employees",
-    "desc": "<p>There's a specific bad day every solo founder running agents pictures at least once: money leaves an account that shouldn't have left it,",
-    "link": "https://dev.to/solo_operator/the-one-rule-that-lets-me-run-a-company-with-no-employees-3kid",
-    "topic": "general"
-  },
-  {
-    "title": "I thought I needed a smarter coding prompt but I actually needed my agent to interrogate me for an hour",
-    "desc": "<p>I kept blaming the model.</p>\n\n<p>If GPT-5 built the wrong thing, I assumed my prompt was weak.<br />\nIf Claude Opus 4.6 missed an edge c",
-    "link": "https://dev.to/lars_winstand/i-thought-i-needed-a-smarter-coding-prompt-but-i-actually-needed-my-agent-to-interrogate-me-for-an-2o1h",
-    "topic": "general"
-  },
-  {
-    "title": "Fix Line-by-Line Text File Diffs Without GUIs or APIs",
-    "desc": "<p>When working with text files in a CI/CD pipeline or version control system, the need to compare files line by line is common. Whether you",
-    "link": "https://dev.to/intellitools/fix-line-by-line-text-file-diffs-without-guis-or-apis-5k8",
     "topic": "general"
   }
 ]
