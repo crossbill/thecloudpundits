@@ -1,50 +1,50 @@
 [
   {
-    "title": "Choosing between a VDS and a dedicated server for your next project?",
-    "desc": "<p>Choosing between a VDS and a dedicated server for your next project?</p>\n\n<p>Quick tip: A VDS balances dedicated resources with flexibili",
-    "link": "https://dev.to/onegbits/choosing-between-a-vds-and-a-dedicated-server-for-your-next-project-lk6",
-    "topic": "general"
-  },
-  {
-    "title": "The Algorithm Is the Last Decision You Make in Machine Learning",
-    "desc": "<p>Every delivery manager I've worked with runs a prediction model on Monday morning. It's called dread.</p>\n\n<p>Open the portfolio, scan 30",
-    "link": "https://dev.to/nishant_banginwar_80b7dc5/the-algorithm-is-the-last-decision-you-make-in-machine-learning-p0a",
-    "topic": "general"
-  },
-  {
-    "title": "\"/usr/bin/env: 'python2': No such file or directory \u2014 Amazon Linux 2023 has no Python 2\"",
-    "desc": "<p>You moved an instance, AMI, or launch template from Amazon Linux 2 to Amazon Linux 2023, and something that used to run cleanly now fails",
-    "link": "https://dev.to/ntoledo319/usrbinenv-python2-no-such-file-or-directory-amazon-linux-2023-has-no-python-2-5h8g",
-    "topic": "general"
-  },
-  {
-    "title": "Operationalizing Zero-Trust Vulnerability Remediation: Bridging Infrastructure Security and Application Platforms",
-    "desc": "<p>The structural tension between accelerating feature delivery and maintaining a secure, resilient production environment is a constant cha",
-    "link": "https://dev.to/isuvo/operationalizing-zero-trust-vulnerability-remediation-bridging-infrastructure-security-and-ah5",
-    "topic": "secops"
-  },
-  {
-    "title": "How to Architect AI Agent Governance: Lessons from Microsoft\u2019s Path to Production",
-    "desc": "<p>On July 27, 2026, Microsoft opened a two-day Azure Tech Community deep-dive on moving agents into production. For developers, the useful ",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/how-to-architect-ai-agent-governance-lessons-from-microsofts-path-to-production-3558",
-    "topic": "azure"
-  },
-  {
-    "title": "From Commit to Amazon EKS: Building a GitOps Pipeline with Argo CD",
-    "desc": "<p>Deploying an application to Kubernetes is easy to demonstrate with one command:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pr",
-    "link": "https://dev.to/kenzytran/from-commit-to-amazon-eks-building-a-gitops-pipeline-with-argo-cd-3b9e",
-    "topic": "general"
-  },
-  {
-    "title": "Why Every Developer Should Learn Docker",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/subha_74/why-every-developer-should-learn-docker-5ah3",
+    "title": "GitHub put Shell, Dockerfiles, Terraform and PHP behind a paywall. Here's a free Action that scans them.",
+    "desc": "<p>On <a href=\"https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests/\" rel=\"noopener noreferr",
+    "link": "https://dev.to/booyaka101/github-put-shell-dockerfiles-terraform-and-php-behind-a-paywall-heres-a-free-action-that-scans-46m8",
     "topic": "docker"
   },
   {
-    "title": "kubectl rollout restart vs delete pod: Which Is Safer?",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/27/kubectl-rollout-restart-vs-delete-pod-which-is-safer\" rel=\"noopene",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/kubectl-rollout-restart-vs-delete-pod-which-is-safer-2k19",
+    "title": "Agentic identity qualities: what good agent identity needs \u2014 and how Passport delivers",
+    "desc": "<h1>\n  \n  \n  Agentic identity qualities: what good agent identity needs \u2014 and how Passport delivers\n</h1>\n\n<p>Shared API keys prove a secret",
+    "link": "https://dev.to/discernible-io/agentic-identity-qualities-what-good-agent-identity-needs-and-how-passport-delivers-13ki",
+    "topic": "general"
+  },
+  {
+    "title": "Branch-Based CI/CD: Quality Gate to Multi-Environment Deploy with GitHub Actions",
+    "desc": "<p>A complete, reusable pattern for wiring a code-quality gate (SonarQube) to Docker<br />\nbuild, image scanning, and SSH-based deployment a",
+    "link": "https://dev.to/saint_vandora/branch-based-cicd-quality-gate-to-multi-environment-deploy-with-github-actions-16jf",
+    "topic": "general"
+  },
+  {
+    "title": "Federating clusters for zero-downtime Kubernetes",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/federating-clusters-for-zero-downtime-kubernetes\" rel=\"noopener ",
+    "link": "https://dev.to/rasne/federating-clusters-for-zero-downtime-kubernetes-1emg",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Unlocking Competitive Edge: How AI Labs Keep Pace in a Rapidly Evolving World",
+    "desc": "<h1>\n  \n  \n  Unlocking Competitive Edge: How AI Labs Keep Pace in a Rapidly Evolving World\n</h1>\n\n<p>In the ever-accelerating world of artif",
+    "link": "https://dev.to/fabiosarmento/unlocking-competitive-edge-how-ai-labs-keep-pace-in-a-rapidly-evolving-world-3i64",
+    "topic": "general"
+  },
+  {
+    "title": "Ditch GHCR: A Production-Grade Self-Hosted Docker Registry on a Single DigitalOcean Droplet",
+    "desc": "<p>If you have ever hit the wall on a hosted registry's free private tier a 500 MB cap here, a per-seat charge there and you already run you",
+    "link": "https://dev.to/saint_vandora/ditch-ghcr-a-production-grade-self-hosted-docker-registry-on-a-single-digitalocean-droplet-5bgg",
+    "topic": "docker"
+  },
+  {
+    "title": "Human-in-the-Loop Agentic DevOps: Govern AI Automation in GitHub Issues",
+    "desc": "<h2>\n  \n  \n  Human-in-the-Loop Agentic DevOps: Govern AI Automation in GitHub Issues\n</h2>\n\n<p>The biggest question in agentic DevOps is no ",
+    "link": "https://dev.to/pwd9000/human-in-the-loop-agentic-devops-govern-ai-automation-in-github-issues-472h",
+    "topic": "general"
+  },
+  {
+    "title": "Our OpenClaw backup looked fine right up until the config vanished",
+    "desc": "<h1>\n  \n  \n  Our OpenClaw backup looked fine right up until the config vanished\n</h1>\n\n<p>The scary part isn\u2019t losing a prompt.</p>\n\n<p>It\u2019s",
+    "link": "https://dev.to/lars_winstand/our-openclaw-backup-looked-fine-right-up-until-the-config-vanished-1p4p",
     "topic": "general"
   }
 ]
