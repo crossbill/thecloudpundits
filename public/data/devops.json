@@ -1,50 +1,50 @@
 [
   {
-    "title": "Replay Packs Make Cron Jobs Easier to Fix",
-    "desc": "<h1>\n  \n  \n  Replay Packs Make Cron Jobs Easier to Fix\n</h1>\n\n<p>I like small automation scripts. They are fast to write, easy to ship, and ",
-    "link": "https://dev.to/mrdapperx/replay-packs-make-cron-jobs-easier-to-fix-4mg8",
+    "title": "\u2699\ufe0f Setting up Kubernetes HPA for a FastAPI application made easy",
+    "desc": "<h2>\n  \n  \n  \ud83d\udca1 Overview \u2014 Why <em>Scaling</em> Matters\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/i",
+    "link": "https://dev.to/ptp2308/setting-up-kubernetes-hpa-for-a-fastapi-application-made-easy-4ncn",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "How I Reduced My OPEX By 99.5% Using Go",
+    "desc": "<p>Previously, I wrote about <a href=\"https://dev.to/andreimerlescu/how-i-processed-666k-pages-of-flattened-pdfs-into-a-full-text-search-eng",
+    "link": "https://dev.to/andreimerlescu/how-i-reduced-my-opex-by-995-using-go-3ff7",
     "topic": "general"
   },
   {
-    "title": "# Why Every Engineering Student Should Build Simulators Instead of Solving More Equations",
-    "desc": "<p>During my journey studying computational engineering, I noticed something surprising.</p>\n\n<p>Most textbooks do an excellent job explaini",
-    "link": "https://dev.to/ahmedadawy625/-why-every-engineering-student-should-build-simulators-instead-of-solving-more-equations-378l",
+    "title": "ViciDial 'Agent Not Available' Error \u2014 Routing & Login Troubleshooting",
+    "desc": "<h1>\n  \n  \n  ViciDial 'Agent Not Available' Error \u2014 Routing & Login Troubleshooting\n</h1>\n\n<p><strong>Learn how to diagnose and fix the \"Age",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-agent-not-available-error-routing-login-troubleshooting-5f8d",
     "topic": "general"
   },
   {
-    "title": "Infrastructure as Code: Terraform and CloudFormation \u2013 The Fellowship of the Cloud",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I was tired of playing \u201cguess the configuration\u201d every time I spun up a new en",
-    "link": "https://dev.to/timevolt/infrastructure-as-code-terraform-and-cloudformation-the-fellowship-of-the-cloud-4kke",
-    "topic": "terraform"
-  },
-  {
-    "title": "One badge that tells your users when your dependencies die",
-    "desc": "<p>Every README makes claims about support. Almost none of them stay true.</p>\n\n<p>\"Requires Node 18+\" \u2014 written in 2023, when Node 18 was t",
-    "link": "https://dev.to/endoflifeai/one-badge-that-tells-your-users-when-your-dependencies-die-1gbj",
+    "title": "Browser automation for AI agents, in a single 7 MB binary",
+    "desc": "<p>Kitewright gives LLM agents a real browser \u2014 navigate, screenshot, extract, PDF \u2014 without the Node.js and Playwright weight. Written in R",
+    "link": "https://dev.to/shubham_f98d63c2451d6e035/browser-automation-for-ai-agents-in-a-single-7-mb-binary-1pmm",
     "topic": "general"
   },
   {
-    "title": "What Your Hosting Tier Actually Buys You",
-    "desc": "<p>Hosting is the least interesting line item in most budgets, and one of the few that quietly sets a ceiling on everything above it. Here i",
-    "link": "https://dev.to/paulcrinigan/what-your-hosting-tier-actually-buys-you-bf9",
+    "title": "Cherry-picking your hotfix twice is the real pipeline smell",
+    "desc": "<p>We had a gitflow pipeline that looked clean on paper: develop feeds a release branch, the same build artifact promotes through dev, qa, s",
+    "link": "https://dev.to/webruster/cherry-picking-your-hotfix-twice-is-the-real-pipeline-smell-1i6h",
     "topic": "general"
   },
   {
-    "title": "The MCP spec lands in 48 hours. I scanned 671,693 domains first. The layer under your email agents is rotting.",
-    "desc": "<p>AgentMail. Cloudflare Email Service. Resend's agent SDK. Every AI SDR startup on Product Hunt this month. The pitch is always the same: <",
-    "link": "https://dev.to/livedirectmarketing/the-mcp-spec-lands-in-48-hours-i-scanned-671693-domains-first-the-layer-under-your-email-agents-5914",
+    "title": "Veo 3.0 vs GPT Image 2.0: What I Actually Shipped in 23 Minutes",
+    "desc": "<p><strong>Quick Summary</strong></p>\n\n<ul>\n<li>Reproducing trending visual effects without an animation team is mostly a pipeline problem, ",
+    "link": "https://dev.to/savielyamani_videoai/veo-30-vs-gpt-image-20-what-i-actually-shipped-in-23-minutes-3l50",
     "topic": "general"
   },
   {
-    "title": "Multipass + cloud-init \u2601\ufe0f \u2699\ufe0f",
-    "desc": "<h2>\n  \n  \n  My reproducible Ubuntu DevOps VM in one command\n</h2>\n\n<p>To avoid a local environment cluttered with manual installations and ",
-    "link": "https://dev.to/afr-dt/multipass-cloud-init-1g38",
+    "title": "Building TNP: Why I Built an Enterprise-Realistic DevOps Lab (Part 0)",
+    "desc": "<blockquote>\n<p>\ud83e\udded <strong>This is Part 0 of a 10-part series</strong> documenting a self-built, enterprise-realistic DevOps lab \u2014 modeled af",
+    "link": "https://dev.to/tnptommy/building-tnp-why-i-built-an-enterprise-realistic-devops-lab-part-0-41ie",
     "topic": "general"
   },
   {
-    "title": "16-Inch OLED Laptop Expands Globally with Lower Price",
-    "desc": "<h2>\n  \n  \n  The Developer Display Revolution Arrives: 16-Inch OLED Laptop Expands Globally at Lower Price\n</h2>\n\n<p><strong>The global expa",
-    "link": "https://dev.to/thomas_woodfin_3a4efcd491/16-inch-oled-laptop-expands-globally-with-lower-price-3jan",
+    "title": "BNB Smart Chain RPC Provider: How to Evaluate and Choose",
+    "desc": "<h2>\n  \n  \n  BNB Smart Chain RPC Provider Decision Checklist\n</h2>\n\n<p>Before selecting an RPC provider for BNB Smart Chain (BSC), review th",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/bnb-smart-chain-rpc-provider-how-to-evaluate-and-choose-f8k",
     "topic": "general"
   }
 ]
