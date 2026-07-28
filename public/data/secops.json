@@ -1,5 +1,23 @@
 [
   {
+    "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
+    "desc": "<p>Oasis Security recently raised $120 million in Series B funding for its agentic access management platform.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
+    "topic": "secops"
+  },
+  {
+    "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
+    "desc": "<p>Apple announced that dozens of vulnerabilities have been patched in each of its operating systems.</p>\n<p>The post <a href=\"https://www.s",
+    "link": "https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/",
+    "topic": "general"
+  },
+  {
+    "title": "OT Security Startup Frenos Raises $1.52 Million",
+    "desc": "<p>The company will use the fresh investment to grow its customer success and AI R&D teams.</p>\n<p>The post <a href=\"https://www.securitywee",
+    "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
+    "topic": "secops"
+  },
+  {
     "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
     "desc": "<p>The company claims MAI-Cyber-1-Flash tops Anthropic\u2019s Mythos and OpenAI\u2019s GPT-5.6 Sol in CyberGym testing.</p>\n<p>The post <a href=\"https",
     "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
@@ -28,23 +46,5 @@
     "desc": "<p>The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word.</p>\n<p>The post ",
     "link": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
     "topic": "general"
-  },
-  {
-    "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
-    "desc": "<p>The critical remote code execution bug can be exploited without authentication, under the library\u2019s stock default configurations.</p>\n<p>",
-    "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
-    "desc": "<p>Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
-    "topic": "secops"
-  },
-  {
-    "title": "Origin Energy Data Breach Affects 900,000 Australians",
-    "desc": "<p>The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
-    "topic": "secops"
   }
 ]
