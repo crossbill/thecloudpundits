@@ -1,50 +1,50 @@
 [
   {
-    "title": "CI/CD Pipelines: The Automated Path from Code to Production",
-    "desc": "<h1>\n  \n  \n  CI/CD Pipelines: The Automated Path from Code to Production\n</h1>\n\n<p><em>A practical guide to CI/CD \u2014 the discipline and pipel",
-    "link": "https://dev.to/rhuturaj_takle/cicd-pipelines-the-automated-path-from-code-to-production-4dma",
+    "title": "SafeLine vs Cloudflare WAF: An Honest, Detailed Comparison",
+    "desc": "<p>If you're choosing a web application firewall, you've probably narrowed it down to two very different options: Cloudflare WAF, the cloud ",
+    "link": "https://dev.to/lialiago/safeline-vs-cloudflare-waf-an-honest-detailed-comparison-3dga",
     "topic": "general"
   },
   {
-    "title": "Your LLM Is Hallucinating Your Logs (And How MCP Fixs It)",
-    "desc": "<p>I was looking at an error log the other day\u2014standard stuff, just some 403 errors hitting a specific endpoint. I threw the raw HTTP header",
-    "link": "https://dev.to/renato_marinho/your-llm-is-hallucinating-your-logs-and-how-mcp-fixs-it-50f1",
+    "title": "Advance Your Career with In-Demand Technology Skills",
+    "desc": "<p>Technology continues to transform businesses across industries, creating strong demand for professionals with advanced skills in cloud co",
+    "link": "https://dev.to/shehzad_aa295a34ed36ff9bd/advance-your-career-with-in-demand-technology-skills-535k",
     "topic": "general"
   },
   {
-    "title": "How I stop one bad probe from waking you at 3 a.m.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/slima4/how-i-stop-one-bad-probe-from-waking-you-at-3-am-1k7l",
+    "title": "Node.js July 2026 security release: your fast-patch playbook and version matrix",
+    "desc": "<h1>\n  \n  \n  Node.js July 2026 security release: your fast-patch playbook and version matrix\n</h1>\n\n<p><strong>Summary.</strong> On Monday, ",
+    "link": "https://dev.to/mr_manushukla/nodejs-july-2026-security-release-your-fast-patch-playbook-and-version-matrix-n78",
+    "topic": "secops"
+  },
+  {
+    "title": "Exploited at CVSS 10.0 - And the Vendor Never Checked Whether EOL Versions Are Affected",
+    "desc": "<p><em>Originally published at <a href=\"https://endoflife.ai/article-arista-velocloud-eol\" rel=\"noopener noreferrer\">endoflife.ai</a>.</em><",
+    "link": "https://dev.to/endoflifeai/exploited-at-cvss-100-and-the-vendor-never-checked-whether-eol-versions-are-affected-3phg",
     "topic": "general"
   },
   {
-    "title": "OpenTelemetry eBPF Instrumentation: Zero-Code Observability Becomes a Standard",
-    "desc": "<p><strong>TL;DR:</strong> For twenty years, getting distributed traces out of an application meant adding an SDK, a language agent, or a si",
-    "link": "https://dev.to/mannansaood_83/opentelemetry-ebpf-instrumentation-zero-code-observability-becomes-a-standard-26h5",
+    "title": "What Is Temporal? Durable Execution Engine Explained",
+    "desc": "<p><strong>Temporal</strong> is a durable execution engine that makes long-running code crash-proof by automatically persisting its state, s",
+    "link": "https://dev.to/truongandev/what-is-temporal-durable-execution-engine-explained-2h99",
     "topic": "general"
   },
   {
-    "title": "Moving from \"Data Graveyard\" to AI-Driven Inspection: A Developer\u2019s Guide",
-    "desc": "<p>In industrial software engineering, we frequently run into a massive bottleneck: the \"data graveyard.\" Industrial inspection teams deploy",
-    "link": "https://dev.to/techwithunnati/moving-from-data-graveyard-to-ai-driven-inspection-a-developers-guide-1ecf",
+    "title": "Prometheus 3.0: New Features and Should You Upgrade?",
+    "desc": "<p><strong>Prometheus 3.0</strong> is the biggest release in the monitoring project's history, and its headline feature is native OpenTeleme",
+    "link": "https://dev.to/truongandev/prometheus-30-new-features-and-should-you-upgrade-29p8",
     "topic": "general"
   },
   {
-    "title": "EU AI Act Enforcement Starts August 2. Who's Governing Your Agents?",
-    "desc": "<h1>\n  \n  \n  EU AI Act Enforcement Starts August 2. Who's Governing Your Agents?\n</h1>\n\n<p><strong>By Empire Labs Security Division</strong>",
-    "link": "https://dev.to/narko4u/eu-ai-act-enforcement-starts-august-2-whos-governing-your-agents-2ign",
+    "title": "Bluebird by Amex Verified Accounts 100% Ready",
+    "desc": "<p>Bluebird by Amex Verified Accounts 100% Ready<br />\nAre you looking for a reliable way to manage your finances and make secure online tra",
+    "link": "https://dev.to/emmaluna/bluebird-by-amex-verified-accounts-100-ready-3hp2",
     "topic": "general"
   },
   {
-    "title": "We Build a Kubernetes Dashboard. AI Agents Might Make It Obsolete.",
-    "desc": "<p>We build a Kubernetes dashboard, so let me argue against my own product for a minute, because if the argument holds I'd rather hear it fr",
-    "link": "https://dev.to/dovzhikova/we-build-a-kubernetes-dashboard-ai-agents-might-make-it-obsolete-4cm4",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "My 06:30 cron has never once started at 06:30",
-    "desc": "<p>I keep a public repo whose only job is to watch how GitHub Actions treats <code>schedule:</code> triggers. 18 workflows, a few deliberate",
-    "link": "https://dev.to/nicodol/my-0630-cron-has-never-once-started-at-0630-30me",
-    "topic": "general"
+    "title": "AI-Powered Cybersecurity: How AI Is Changing Linux Security Administration",
+    "desc": "<p>Artificial intelligence is changing many areas of technology, and cybersecurity is one of the fields experiencing the biggest transformat",
+    "link": "https://dev.to/cyberbezpieczenstwo/ai-powered-cybersecurity-how-ai-is-changing-linux-security-administration-9dj",
+    "topic": "secops"
   }
 ]
