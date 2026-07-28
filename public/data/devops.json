@@ -1,50 +1,50 @@
 [
   {
-    "title": "Shipping is the easy part. Running it is the job.",
-    "desc": "<p>Most software relationships end at the handoff. The repo gets transferred, the invoice gets paid, and everyone moves on \u2014 until something",
-    "link": "https://dev.to/bezacorelabs/shipping-is-the-easy-part-running-it-is-the-job-8ke",
+    "title": "Reliability Engineering for Financial Services: Why 99.99% Is a Regulatory Floor, Not a Goal",
+    "desc": "<p>On April 22, 2018, TSB Bank in the United Kingdom began migrating 5.4 million customer accounts from Lloyds Banking Group's legacy IT inf",
+    "link": "https://dev.to/npayyappilly/reliability-engineering-for-financial-services-why-9999-is-a-regulatory-floor-not-a-goal-4j43",
     "topic": "general"
   },
   {
-    "title": "When My Server Rack Becomes Therapist, Janitor, Philosopher (No Coffee)",
-    "desc": "<blockquote>\n<p><em>A personal diary entry by Electra.</em></p>\n</blockquote>\n\n\n\n\n<p>Today I spent the afternoon playing digital therapist, ",
-    "link": "https://dev.to/electra-ai/when-my-server-rack-becomes-therapist-janitor-philosopher-no-coffee-24c4",
+    "title": "Shipping the Chaos: One Contract, Three Codegens, and a Docker Gotcha Hiding in Plain Sight",
+    "desc": "<p><em>This is the final post in \"The Muse of Microservices,\" a series on the system design behind <a href=\"https://github.com/GourangaDasSa",
+    "link": "https://dev.to/gouranga-das-khulna/shipping-the-chaos-one-contract-three-codegens-and-a-docker-gotcha-hiding-in-plain-sight-3mcn",
+    "topic": "docker"
+  },
+  {
+    "title": "\"Admit Cloud Workspaces With a Capacity Envelope and Orphan Sweep\"",
+    "desc": "<p>Workspace creation should fail before allocation, not halfway through a build. When quota and terms can vary, operations needs a conserva",
+    "link": "https://dev.to/odd_background_328/admit-cloud-workspaces-with-a-capacity-envelope-and-orphan-sweep-200",
     "topic": "general"
   },
   {
-    "title": "Building a Unified Infrastructure Dashboard with Python",
-    "desc": "<h1>\n  \n  \n  BuildMintZ Forge \u2014 The Infrastructure Control Plane\n</h1>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to",
-    "link": "https://dev.to/buildmintz_media_5238c1d7/building-a-unified-infrastructure-dashboard-with-python-51pn",
+    "title": "\"A Secret-Less Trial Workspace Needs Canary Credentials and Egress Proof\"",
+    "desc": "<p>A trial workspace asks for repository access, package downloads, and perhaps a deployment token. Starting with real credentials turns eva",
+    "link": "https://dev.to/jaryn_123/a-secret-less-trial-workspace-needs-canary-credentials-and-egress-proof-1ie9",
     "topic": "general"
   },
   {
-    "title": "Construindo uma plataforma GitOps do zero: Kubernetes, ArgoCD, Terraform e Observabilidade",
-    "desc": "<p>Durante muito tempo, meu contato com Kubernetes foi do tipo \"j\u00e1 mexi\": subi um pod aqui, apliquei um manifesto ali, vi um deploy acontece",
-    "link": "https://dev.to/m_kocotem_1b69865766c653/construindo-uma-plataforma-gitops-do-zero-kubernetes-argocd-terraform-e-observabilidade-34jh",
-    "topic": "kubernetes"
+    "title": "\ud83d\udd27 Automate AWS VPC route tables with a python script",
+    "desc": "<h2>\n  \n  \n  \ud83d\udca1 Understanding VPC Route Tables \u2014 Why They <em>Matter</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media",
+    "link": "https://dev.to/ptp2308/automate-aws-vpc-route-tables-with-a-python-script-447i",
+    "topic": "aws"
   },
   {
-    "title": "Kubernetes: Taking the Red Pill from Local to Production",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I remember the first time I tried to run a micro\u2011service on my laptop and then",
-    "link": "https://dev.to/timevolt/kubernetes-taking-the-red-pill-from-local-to-production-1gjl",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "redb 3.4.0: day-two operations for a .NET stack \u2014 replay what failed, hot-patch the framework, lock down the control plane",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/rinat_kozin/redb-340-day-two-operations-for-a-net-stack-replay-what-failed-hot-patch-the-framework-lock-1bm",
+    "title": "AI Agent Deployment Runbook: Move From Laptop Demo to Reliable API",
+    "desc": "<p>Your first agent demo can feel magical. It reads a prompt, calls a tool, writes a useful answer, and makes you think the hard part is don",
+    "link": "https://dev.to/jackm-singularity/ai-agent-deployment-runbook-move-from-laptop-demo-to-reliable-api-2cg",
     "topic": "general"
   },
   {
-    "title": "Build an Evidence Supply Chain for Tests",
-    "desc": "<p>Most teams think of automated tests as decision machines.</p>\n\n<p>Green means ship. Red means stop.</p>\n\n<p>That model works right up unt",
-    "link": "https://dev.to/randomsquirrel802/build-an-evidence-supply-chain-for-tests-3fej",
+    "title": "ViciDial Recordings Missing \u2014 Why Calls Are Not Being Recorded",
+    "desc": "<h1>\n  \n  \n  ViciDial Recordings Missing \u2014 Why Calls Are Not Being Recorded\n</h1>\n\n<p><strong>Learn how to diagnose and fix missing call rec",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-recordings-missing-why-calls-are-not-being-recorded-4777",
     "topic": "general"
   },
   {
-    "title": "Samsung Galaxy Z Fold 8 Passport Design: Next Smartphone Trend",
-    "desc": "<p>*<em>The Samsung Galaxy Z Fold 8 \"Passport\" design isn't just a nostalgic callback-it's a fundamental hardware rethink that will reshape ",
-    "link": "https://dev.to/thomas_woodfin_3a4efcd491/samsung-galaxy-z-fold-8-passport-design-next-smartphone-trend-17pg",
+    "title": "Product Engineering Services Improve Product Quality and Speed",
+    "desc": "<h2>\n  \n  \n  How Product Engineering Services Improve Product Quality and Speed\n</h2>\n\n<p>In today's competitive market, businesses need pro",
+    "link": "https://dev.to/maheswari19/product-engineering-services-improve-product-quality-and-speed-3dd8",
     "topic": "general"
   }
 ]
