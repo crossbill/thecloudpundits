@@ -1,5 +1,23 @@
 [
   {
+    "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
+    "desc": "<p>The company claims MAI-Cyber-1-Flash tops Anthropic\u2019s Mythos and OpenAI\u2019s GPT-5.6 Sol in CyberGym testing.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
+    "topic": "azure"
+  },
+  {
+    "title": "Hacker Conversations: Tal Kollander\u2019s Journey From Black Hat to Hack Blocker",
+    "desc": "<p>Tal Kollander\u2019s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
+    "topic": "general"
+  },
+  {
+    "title": "Act Security Emerges from Stealth to Fight the Patch Problem",
+    "desc": "<p>Act Security tackles the spiraling patch problem caused by AI\u2019s ability to find new vulnerabilities in existing cloud environments. </p>\n",
+    "link": "https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/",
+    "topic": "secops"
+  },
+  {
     "title": "Hush Security Raises $30 Million for AI Agent Governance",
     "desc": "<p>The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships.</",
     "link": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
@@ -27,24 +45,6 @@
     "title": "Origin Energy Data Breach Affects 900,000 Australians",
     "desc": "<p>The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems.</p>\n<p>The post <a hr",
     "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
-    "topic": "secops"
-  },
-  {
-    "title": "For Some, So-Called \u2018Skynet Day\u2019 Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
-    "desc": "<p>Decades after it appeared in \u201cThe Terminator,\u201d Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked ",
-    "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
-    "topic": "general"
-  },
-  {
-    "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
-    "desc": "<p>Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days.</",
-    "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
-    "topic": "secops"
-  },
-  {
-    "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
-    "desc": "<p>The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
     "topic": "secops"
   }
 ]
