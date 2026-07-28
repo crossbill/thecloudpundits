@@ -1,50 +1,50 @@
 [
   {
-    "title": "SafeLine vs Cloudflare WAF: An Honest, Detailed Comparison",
-    "desc": "<p>If you're choosing a web application firewall, you've probably narrowed it down to two very different options: Cloudflare WAF, the cloud ",
-    "link": "https://dev.to/lialiago/safeline-vs-cloudflare-waf-an-honest-detailed-comparison-3dga",
+    "title": "Stop Sorting the Patch Queue by CVSS: Exploitation Evidence Should Decide What You Patch First",
+    "desc": "<p>Most enterprise patch programs still run on a rule written a decade ago: criticals and highs inside 30 days, mediums inside 90, lows when",
+    "link": "https://dev.to/adam_lewandowski_59674796/stop-sorting-the-patch-queue-by-cvss-exploitation-evidence-should-decide-what-you-patch-first-455n",
     "topic": "general"
   },
   {
-    "title": "Advance Your Career with In-Demand Technology Skills",
-    "desc": "<p>Technology continues to transform businesses across industries, creating strong demand for professionals with advanced skills in cloud co",
-    "link": "https://dev.to/shehzad_aa295a34ed36ff9bd/advance-your-career-with-in-demand-technology-skills-535k",
+    "title": "Operationalizing Agentic AI: An Engineering Guide to OpenAI Presence",
+    "desc": "<h2>\n  \n  \n  The Operational Reality of Production Agents\n</h2>\n\n<p>For the past several years, engineering teams have struggled to transiti",
+    "link": "https://dev.to/isuvo/operationalizing-agentic-ai-an-engineering-guide-to-openai-presence-3dd7",
+    "topic": "openai"
+  },
+  {
+    "title": "Sync AI Agent Rules Across Repositories with GitHub Actions",
+    "desc": "<p>Your team improves an <code>AGENTS.md</code> instruction in one repository. A week later, another service still has the old rule. Cursor ",
+    "link": "https://dev.to/paladini/sync-ai-agent-rules-across-repositories-with-github-actions-5b9h",
     "topic": "general"
   },
   {
-    "title": "Node.js July 2026 security release: your fast-patch playbook and version matrix",
-    "desc": "<h1>\n  \n  \n  Node.js July 2026 security release: your fast-patch playbook and version matrix\n</h1>\n\n<p><strong>Summary.</strong> On Monday, ",
-    "link": "https://dev.to/mr_manushukla/nodejs-july-2026-security-release-your-fast-patch-playbook-and-version-matrix-n78",
-    "topic": "secops"
+    "title": "Foreman 101: agentic coding as Kubernetes resources",
+    "desc": "<p>Foreman is an agentic coder that runs as Kubernetes resources. You describe work as a Workload, it decomposes into tasks, agents running ",
+    "link": "https://dev.to/defilan/foreman-101-agentic-coding-as-kubernetes-resources-4k33",
+    "topic": "kubernetes"
   },
   {
-    "title": "Exploited at CVSS 10.0 - And the Vendor Never Checked Whether EOL Versions Are Affected",
-    "desc": "<p><em>Originally published at <a href=\"https://endoflife.ai/article-arista-velocloud-eol\" rel=\"noopener noreferrer\">endoflife.ai</a>.</em><",
-    "link": "https://dev.to/endoflifeai/exploited-at-cvss-100-and-the-vendor-never-checked-whether-eol-versions-are-affected-3phg",
+    "title": "A ledger that only bills the dead",
+    "desc": "<p>I run some models locally and some in the cloud. The cloud ones are metered to four decimal<br />\nplaces: tokens in, tokens out, dollars.",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-ledger-that-only-bills-the-dead-31co",
     "topic": "general"
   },
   {
-    "title": "What Is Temporal? Durable Execution Engine Explained",
-    "desc": "<p><strong>Temporal</strong> is a durable execution engine that makes long-running code crash-proof by automatically persisting its state, s",
-    "link": "https://dev.to/truongandev/what-is-temporal-durable-execution-engine-explained-2h99",
+    "title": "AI Does Not Need Another Demo. It Needs an Operating Boundary.",
+    "desc": "<p>The model is important. The system around the model determines whether a company can trust it with real work.</p>\n\n<p>Most AI projects be",
+    "link": "https://dev.to/shawnbure/ai-does-not-need-another-demo-it-needs-an-operating-boundary-2n7p",
     "topic": "general"
   },
   {
-    "title": "Prometheus 3.0: New Features and Should You Upgrade?",
-    "desc": "<p><strong>Prometheus 3.0</strong> is the biggest release in the monitoring project's history, and its headline feature is native OpenTeleme",
-    "link": "https://dev.to/truongandev/prometheus-30-new-features-and-should-you-upgrade-29p8",
+    "title": "A DevOps Perspective on Turning AI Skepticism Into the Right Kind of Productivity",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>A few years ago I would not have believed that an assistant reading from a chat window could become a re",
+    "link": "https://dev.to/kimae/a-devops-perspective-on-turning-ai-skepticism-into-the-right-kind-of-productivity-b5c",
     "topic": "general"
   },
   {
-    "title": "Bluebird by Amex Verified Accounts 100% Ready",
-    "desc": "<p>Bluebird by Amex Verified Accounts 100% Ready<br />\nAre you looking for a reliable way to manage your finances and make secure online tra",
-    "link": "https://dev.to/emmaluna/bluebird-by-amex-verified-accounts-100-ready-3hp2",
+    "title": "Why I Built an AI Server Admin That Runs on a Tiny Go",
+    "desc": "<p>If you manage servers, you probably know the drill: you're jumping between SSH terminals, looking up obscure CLI flags, digging through l",
+    "link": "https://dev.to/bash_7fbf76fb8857b4bd169c/why-i-built-an-ai-server-admin-that-runs-on-a-tiny-go-3cak",
     "topic": "general"
-  },
-  {
-    "title": "AI-Powered Cybersecurity: How AI Is Changing Linux Security Administration",
-    "desc": "<p>Artificial intelligence is changing many areas of technology, and cybersecurity is one of the fields experiencing the biggest transformat",
-    "link": "https://dev.to/cyberbezpieczenstwo/ai-powered-cybersecurity-how-ai-is-changing-linux-security-administration-9dj",
-    "topic": "secops"
   }
 ]
