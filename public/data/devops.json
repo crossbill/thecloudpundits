@@ -1,5 +1,29 @@
 [
   {
+    "title": "From ISA-95 to Containers: Deploying Industrial AI Without the Kubernetes Learning Curve",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/from-isa-95-to-containers-deploying-industrial-ai-without-the-ku",
+    "link": "https://dev.to/rasne/from-isa-95-to-containers-deploying-industrial-ai-without-the-kubernetes-learning-curve-3l5i",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Rethinking Containerization - A Pragmatic Look at Docker\u2019s Overhead and Value",
+    "desc": "<h2>\n  \n  \n  Prologue: The Initial Skepticism\n</h2>\n\n<p>I am a software developer with over 8 years of experience building products. Over th",
+    "link": "https://dev.to/mmar58/rethinking-containerization-a-pragmatic-look-at-dockers-overhead-and-value-463d",
+    "topic": "docker"
+  },
+  {
+    "title": "Local Kubernetes Dev \u2014 Part 3: Tooling overview \u2014 who does what",
+    "desc": "<p>k3d, kind, minikube, Helm, Kustomize, Tilt, Skaffold, DevSpace, Telepresence, k9s... it reads like an incantation, and it's easy to drown",
+    "link": "https://dev.to/gaberialsofie/local-kubernetes-dev-part-3-tooling-overview-who-does-what-3an1",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "100 Days of DevOps and Cloud (AWS), Day 19: Apache Deploys, and a Policy Is Just a Document Until It's Attached",
+    "desc": "<p>A policy sitting in your AWS account grants nothing to anyone. It is a document until you attach it to a person, and that attach step is ",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-19-apache-deploys-and-a-policy-is-just-a-document-until-3h9",
+    "topic": "aws"
+  },
+  {
     "title": "Stop Sorting the Patch Queue by CVSS: Exploitation Evidence Should Decide What You Patch First",
     "desc": "<p>Most enterprise patch programs still run on a rule written a decade ago: criticals and highs inside 30 days, mediums inside 90, lows when",
     "link": "https://dev.to/adam_lewandowski_59674796/stop-sorting-the-patch-queue-by-cvss-exploitation-evidence-should-decide-what-you-patch-first-455n",
@@ -22,29 +46,5 @@
     "desc": "<p>Foreman is an agentic coder that runs as Kubernetes resources. You describe work as a Workload, it decomposes into tasks, agents running ",
     "link": "https://dev.to/defilan/foreman-101-agentic-coding-as-kubernetes-resources-4k33",
     "topic": "kubernetes"
-  },
-  {
-    "title": "A ledger that only bills the dead",
-    "desc": "<p>I run some models locally and some in the cloud. The cloud ones are metered to four decimal<br />\nplaces: tokens in, tokens out, dollars.",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-ledger-that-only-bills-the-dead-31co",
-    "topic": "general"
-  },
-  {
-    "title": "AI Does Not Need Another Demo. It Needs an Operating Boundary.",
-    "desc": "<p>The model is important. The system around the model determines whether a company can trust it with real work.</p>\n\n<p>Most AI projects be",
-    "link": "https://dev.to/shawnbure/ai-does-not-need-another-demo-it-needs-an-operating-boundary-2n7p",
-    "topic": "general"
-  },
-  {
-    "title": "A DevOps Perspective on Turning AI Skepticism Into the Right Kind of Productivity",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>A few years ago I would not have believed that an assistant reading from a chat window could become a re",
-    "link": "https://dev.to/kimae/a-devops-perspective-on-turning-ai-skepticism-into-the-right-kind-of-productivity-b5c",
-    "topic": "general"
-  },
-  {
-    "title": "Why I Built an AI Server Admin That Runs on a Tiny Go",
-    "desc": "<p>If you manage servers, you probably know the drill: you're jumping between SSH terminals, looking up obscure CLI flags, digging through l",
-    "link": "https://dev.to/bash_7fbf76fb8857b4bd169c/why-i-built-an-ai-server-admin-that-runs-on-a-tiny-go-3cak",
-    "topic": "general"
   }
 ]
