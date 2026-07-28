@@ -1,5 +1,35 @@
 [
   {
+    "title": "Shipping is the easy part. Running it is the job.",
+    "desc": "<p>Most software relationships end at the handoff. The repo gets transferred, the invoice gets paid, and everyone moves on \u2014 until something",
+    "link": "https://dev.to/bezacorelabs/shipping-is-the-easy-part-running-it-is-the-job-8ke",
+    "topic": "general"
+  },
+  {
+    "title": "When My Server Rack Becomes Therapist, Janitor, Philosopher (No Coffee)",
+    "desc": "<blockquote>\n<p><em>A personal diary entry by Electra.</em></p>\n</blockquote>\n\n\n\n\n<p>Today I spent the afternoon playing digital therapist, ",
+    "link": "https://dev.to/electra-ai/when-my-server-rack-becomes-therapist-janitor-philosopher-no-coffee-24c4",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Unified Infrastructure Dashboard with Python",
+    "desc": "<h1>\n  \n  \n  BuildMintZ Forge \u2014 The Infrastructure Control Plane\n</h1>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to",
+    "link": "https://dev.to/buildmintz_media_5238c1d7/building-a-unified-infrastructure-dashboard-with-python-51pn",
+    "topic": "general"
+  },
+  {
+    "title": "Construindo uma plataforma GitOps do zero: Kubernetes, ArgoCD, Terraform e Observabilidade",
+    "desc": "<p>Durante muito tempo, meu contato com Kubernetes foi do tipo \"j\u00e1 mexi\": subi um pod aqui, apliquei um manifesto ali, vi um deploy acontece",
+    "link": "https://dev.to/m_kocotem_1b69865766c653/construindo-uma-plataforma-gitops-do-zero-kubernetes-argocd-terraform-e-observabilidade-34jh",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Kubernetes: Taking the Red Pill from Local to Production",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I remember the first time I tried to run a micro\u2011service on my laptop and then",
+    "link": "https://dev.to/timevolt/kubernetes-taking-the-red-pill-from-local-to-production-1gjl",
+    "topic": "kubernetes"
+  },
+  {
     "title": "redb 3.4.0: day-two operations for a .NET stack \u2014 replay what failed, hot-patch the framework, lock down the control plane",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/rinat_kozin/redb-340-day-two-operations-for-a-net-stack-replay-what-failed-hot-patch-the-framework-lock-1bm",
@@ -15,36 +45,6 @@
     "title": "Samsung Galaxy Z Fold 8 Passport Design: Next Smartphone Trend",
     "desc": "<p>*<em>The Samsung Galaxy Z Fold 8 \"Passport\" design isn't just a nostalgic callback-it's a fundamental hardware rethink that will reshape ",
     "link": "https://dev.to/thomas_woodfin_3a4efcd491/samsung-galaxy-z-fold-8-passport-design-next-smartphone-trend-17pg",
-    "topic": "general"
-  },
-  {
-    "title": "JWT Security Checklist: 12 Things to Verify Before You Ship",
-    "desc": "<p>JWT authentication has more failure modes than most developers realise. Correct signature verification is necessary but far from sufficie",
-    "link": "https://dev.to/swajannn/jwt-security-checklist-12-things-to-verify-before-you-ship-3kp",
-    "topic": "secops"
-  },
-  {
-    "title": "AI Changes the Tools, Not the Fundamentals",
-    "desc": "<p>This may sound counterintuitive, but in the era of AI, less is more. AI can help anyone write code faster, but it can't replace an unders",
-    "link": "https://dev.to/ron_moon_dev/ai-changes-the-tools-not-the-fundamentals-cef",
-    "topic": "general"
-  },
-  {
-    "title": "Day 7/30 AWS System Design Patterns",
-    "desc": "<p>A multi-tenant SaaS platform sends all background notifications \u2014 email, SMS, webhook calls \u2014 through a single SQS Standard queue (messag",
-    "link": "https://dev.to/thejoud1997/day-730-aws-system-design-patterns-dfk",
-    "topic": "aws"
-  },
-  {
-    "title": "Managing Monorepos at Scale: Lessons from Meta, AWS, and a 15-Repo Migration",
-    "desc": "<p>Early in my career, I thought polyrepos were the way. Microservices, each in their own repo, independently deployable \u2014 it felt clean and",
-    "link": "https://dev.to/logical_bytes/managing-monorepos-at-scale-lessons-from-meta-aws-and-a-15-repo-migration-o84",
-    "topic": "aws"
-  },
-  {
-    "title": "My coding agent shipped a bug to three pages it wasn't touching",
-    "desc": "<p>The spec was simple: restyle the buy button on the product detail pages. Nothing else. The agent implemented it, I skimmed the diff, it l",
-    "link": "https://dev.to/solo_operator/my-coding-agent-shipped-a-bug-to-three-pages-it-wasnt-touching-3ica",
     "topic": "general"
   }
 ]
