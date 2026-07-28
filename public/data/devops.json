@@ -1,50 +1,50 @@
 [
   {
-    "title": "Reliability Engineering for Financial Services: Why 99.99% Is a Regulatory Floor, Not a Goal",
-    "desc": "<p>On April 22, 2018, TSB Bank in the United Kingdom began migrating 5.4 million customer accounts from Lloyds Banking Group's legacy IT inf",
-    "link": "https://dev.to/npayyappilly/reliability-engineering-for-financial-services-why-9999-is-a-regulatory-floor-not-a-goal-4j43",
+    "title": "I Downgraded My AI Assistant to an Older Version and It Went Insane",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Installed OpenClaw 7.1 beta, didn't like it, downgraded back to 6.6 stable. Then my AI assistant's A",
+    "link": "https://dev.to/cdragon123code/i-downgraded-my-ai-assistant-to-an-older-version-and-it-went-insane-5eda",
     "topic": "general"
   },
   {
-    "title": "Shipping the Chaos: One Contract, Three Codegens, and a Docker Gotcha Hiding in Plain Sight",
-    "desc": "<p><em>This is the final post in \"The Muse of Microservices,\" a series on the system design behind <a href=\"https://github.com/GourangaDasSa",
-    "link": "https://dev.to/gouranga-das-khulna/shipping-the-chaos-one-contract-three-codegens-and-a-docker-gotcha-hiding-in-plain-sight-3mcn",
-    "topic": "docker"
-  },
-  {
-    "title": "\"Admit Cloud Workspaces With a Capacity Envelope and Orphan Sweep\"",
-    "desc": "<p>Workspace creation should fail before allocation, not halfway through a build. When quota and terms can vary, operations needs a conserva",
-    "link": "https://dev.to/odd_background_328/admit-cloud-workspaces-with-a-capacity-envelope-and-orphan-sweep-200",
+    "title": "Adscs Digital Assets Advances Platform Usability Through Continuous Technology Optimization",
+    "desc": "<p>Adscs Digital Assets continues to explore improvements in digital platform experience by focusing on information accessibility, user inte",
+    "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-advances-platform-usability-through-continuous-technology-optimization-1fij",
     "topic": "general"
   },
   {
-    "title": "\"A Secret-Less Trial Workspace Needs Canary Credentials and Egress Proof\"",
-    "desc": "<p>A trial workspace asks for repository access, package downloads, and perhaps a deployment token. Starting with real credentials turns eva",
-    "link": "https://dev.to/jaryn_123/a-secret-less-trial-workspace-needs-canary-credentials-and-egress-proof-1ie9",
+    "title": "Monitoring and Logging: The Matrix of Observability",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night I got paged at 2\u202fa.m. because a user reported that ",
+    "link": "https://dev.to/timevolt/monitoring-and-logging-the-matrix-of-observability-4kon",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udd27 Automate AWS VPC route tables with a python script",
-    "desc": "<h2>\n  \n  \n  \ud83d\udca1 Understanding VPC Route Tables \u2014 Why They <em>Matter</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media",
-    "link": "https://dev.to/ptp2308/automate-aws-vpc-route-tables-with-a-python-script-447i",
-    "topic": "aws"
-  },
-  {
-    "title": "AI Agent Deployment Runbook: Move From Laptop Demo to Reliable API",
-    "desc": "<p>Your first agent demo can feel magical. It reads a prompt, calls a tool, writes a useful answer, and makes you think the hard part is don",
-    "link": "https://dev.to/jackm-singularity/ai-agent-deployment-runbook-move-from-laptop-demo-to-reliable-api-2cg",
+    "title": "\"Failed to start ntpd.service \u2014 Amazon Linux 2023 replaced it with chrony\"",
+    "desc": "<p>You moved an AMI, launch template, or Ansible playbook from Amazon Linux 2 to Amazon Linux 2023, and time-sync provisioning that used to ",
+    "link": "https://dev.to/ntoledo319/failed-to-start-ntpdservice-amazon-linux-2023-replaced-it-with-chrony-16ca",
     "topic": "general"
   },
   {
-    "title": "ViciDial Recordings Missing \u2014 Why Calls Are Not Being Recorded",
-    "desc": "<h1>\n  \n  \n  ViciDial Recordings Missing \u2014 Why Calls Are Not Being Recorded\n</h1>\n\n<p><strong>Learn how to diagnose and fix missing call rec",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-recordings-missing-why-calls-are-not-being-recorded-4777",
+    "title": "Optimizing Edge Model Inference with In-Place Tokenizer Expansion",
+    "desc": "<h2>\n  \n  \n  The Tokenizer Tax on Edge Hardware\n</h2>\n\n<p>When deploying Large Language Models (LLMs) to resource-constrained edge devices\u2014s",
+    "link": "https://dev.to/isuvo/optimizing-edge-model-inference-with-in-place-tokenizer-expansion-ood",
     "topic": "general"
   },
   {
-    "title": "Product Engineering Services Improve Product Quality and Speed",
-    "desc": "<h2>\n  \n  \n  How Product Engineering Services Improve Product Quality and Speed\n</h2>\n\n<p>In today's competitive market, businesses need pro",
-    "link": "https://dev.to/maheswari19/product-engineering-services-improve-product-quality-and-speed-3dd8",
+    "title": "Digital Theodolite Explained for Survey Projects",
+    "desc": "<h2>\n  \n  \n  Digital Theodolite Explained for Survey Projects\n</h2>\n\n<p>Modern surveying demands precision, consistency, and efficiency. Whe",
+    "link": "https://dev.to/bnt_bandung_8524feff9e4aa/digital-theodolite-explained-for-survey-projects-2b2l",
     "topic": "general"
+  },
+  {
+    "title": "NAS Storage Automation: Using APIs and Scripts to Manage Storage at Scale",
+    "desc": "<h2>\n  \n  \n  NAS Storage Automation: How to Manage Enterprise Storage at Scale With APIs and Scripts\n</h2>\n\n<p>The operational model for man",
+    "link": "https://dev.to/nasstorage/nas-storage-automation-using-apis-and-scripts-to-manage-storage-at-scale-5p2",
+    "topic": "general"
+  },
+  {
+    "title": "Certified Kubernetes Security Specialist (CKS) Guide & Best Practices",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/zainab_1201/certified-kubernetes-security-specialist-cks-guide-best-practices-54hk",
+    "topic": "kubernetes"
   }
 ]

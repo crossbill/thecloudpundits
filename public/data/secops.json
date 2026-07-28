@@ -1,5 +1,23 @@
 [
   {
+    "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
+    "desc": "<p>The critical remote code execution bug can be exploited without authentication, under the library\u2019s stock default configurations.</p>\n<p>",
+    "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
+    "desc": "<p>Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
+    "topic": "secops"
+  },
+  {
+    "title": "Origin Energy Data Breach Affects 900,000 Australians",
+    "desc": "<p>The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
+    "topic": "secops"
+  },
+  {
     "title": "For Some, So-Called \u2018Skynet Day\u2019 Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
     "desc": "<p>Decades after it appeared in \u201cThe Terminator,\u201d Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked ",
     "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
@@ -28,23 +46,5 @@
     "desc": "<p>The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents.</p>\n<p>The pos",
     "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
     "topic": "secops"
-  },
-  {
-    "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
-    "desc": "<p>The Anubis cybercrime group has taken credit for the attack and is threatening to leak data.</p>\n<p>The post <a href=\"https://www.securit",
-    "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
-    "desc": "<p>The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
-    "topic": "general"
-  },
-  {
-    "title": "What\u2019s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out",
-    "desc": "<p>The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidde",
-    "link": "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/",
-    "topic": "general"
   }
 ]
