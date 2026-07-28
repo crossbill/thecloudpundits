@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Downgraded My AI Assistant to an Older Version and It Went Insane",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Installed OpenClaw 7.1 beta, didn't like it, downgraded back to 6.6 stable. Then my AI assistant's A",
-    "link": "https://dev.to/cdragon123code/i-downgraded-my-ai-assistant-to-an-older-version-and-it-went-insane-5eda",
+    "title": "Reachability analysis: why most of your dependency CVEs don't matter",
+    "desc": "<p>A lockfile is not an attack surface</p>\n\n<p>Traditional dependency scanning works off the manifest: parse the lockfile, look up every pac",
+    "link": "https://dev.to/ayanmalik_1212/reachability-analysis-why-most-of-your-dependency-cves-dont-matter-3cci",
     "topic": "general"
   },
   {
-    "title": "Adscs Digital Assets Advances Platform Usability Through Continuous Technology Optimization",
-    "desc": "<p>Adscs Digital Assets continues to explore improvements in digital platform experience by focusing on information accessibility, user inte",
-    "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-advances-platform-usability-through-continuous-technology-optimization-1fij",
+    "title": "How Alert Routing & Grouping Power Lean Incident Management Platforms",
+    "desc": "<h4>\n  \n  \n  Quick answer\n</h4>\n\n<p>Modern alert routing & grouping features make incident response smoother by turning scattered system noi",
+    "link": "https://dev.to/mads_quist/how-alert-routing-grouping-power-lean-incident-management-platforms-882",
+    "topic": "secops"
+  },
+  {
+    "title": "AWS DevOps Agent Integrations: Slack, Jira, and GitHub",
+    "desc": "<p><em>This is the second post in our AWS DevOps Agent series.</em> <em><a href=\"https://dev.to/aws-builders/aws-devops-agent-in-practice-se",
+    "link": "https://dev.to/aws-builders/aws-devops-agent-integrations-slack-jira-and-github-879",
+    "topic": "aws"
+  },
+  {
+    "title": "Securing Your App: Lessons from The Matrix",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still cringe when I think about that late\u2011night deploy where I pushed a hard",
+    "link": "https://dev.to/timevolt/securing-your-app-lessons-from-the-matrix-2n98",
     "topic": "general"
   },
   {
-    "title": "Monitoring and Logging: The Matrix of Observability",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night I got paged at 2\u202fa.m. because a user reported that ",
-    "link": "https://dev.to/timevolt/monitoring-and-logging-the-matrix-of-observability-4kon",
+    "title": "LLM-Powered SIEM Alert Triage: Reduce Noise by 80%",
+    "desc": "<p>Your SIEM fires 3,000 alerts on a Tuesday night. Your on-call analyst acknowledges 40 of them. The other 2,960? Noise \u2014 mostly. This is t",
+    "link": "https://dev.to/ayinedjimi-consultants/llm-powered-siem-alert-triage-reduce-noise-by-80-22h7",
     "topic": "general"
   },
   {
-    "title": "\"Failed to start ntpd.service \u2014 Amazon Linux 2023 replaced it with chrony\"",
-    "desc": "<p>You moved an AMI, launch template, or Ansible playbook from Amazon Linux 2 to Amazon Linux 2023, and time-sync provisioning that used to ",
-    "link": "https://dev.to/ntoledo319/failed-to-start-ntpdservice-amazon-linux-2023-replaced-it-with-chrony-16ca",
+    "title": "Build a GitHub Actions Bot That Pays You",
+    "desc": "<h1>\n  \n  \n  Build a GitHub Actions Bot That Pays You\n</h1>\n\n<p>tags: github, automation, money, devops</p>\n\n\n\n\n<p>tags: github, automation,",
+    "link": "https://dev.to/qingluan/build-a-github-actions-bot-that-pays-you-5fe1",
     "topic": "general"
   },
   {
-    "title": "Optimizing Edge Model Inference with In-Place Tokenizer Expansion",
-    "desc": "<h2>\n  \n  \n  The Tokenizer Tax on Edge Hardware\n</h2>\n\n<p>When deploying Large Language Models (LLMs) to resource-constrained edge devices\u2014s",
-    "link": "https://dev.to/isuvo/optimizing-edge-model-inference-with-in-place-tokenizer-expansion-ood",
+    "title": "DSCI series / Rakulang CI",
+    "desc": "<p>In this series I'm going to show how one can use <a href=\"https://github.com/melezhik/DSCI\" rel=\"noopener noreferrer\">DSCI</a> to build C",
+    "link": "https://dev.to/sp1983/dsci-series-rakulang-ci-4472",
     "topic": "general"
   },
   {
-    "title": "Digital Theodolite Explained for Survey Projects",
-    "desc": "<h2>\n  \n  \n  Digital Theodolite Explained for Survey Projects\n</h2>\n\n<p>Modern surveying demands precision, consistency, and efficiency. Whe",
-    "link": "https://dev.to/bnt_bandung_8524feff9e4aa/digital-theodolite-explained-for-survey-projects-2b2l",
+    "title": "Are growing log files consuming your Linux server\u2019s storage? Configure logrotate to automate",
+    "desc": "<p>Are growing log files consuming your Linux server\u2019s storage? Configure logrotate to automate rotation, compression, and retention for rel",
+    "link": "https://dev.to/monovm/are-growing-log-files-consuming-your-linux-servers-storage-configure-logrotate-to-automate-4jf7",
     "topic": "general"
-  },
-  {
-    "title": "NAS Storage Automation: Using APIs and Scripts to Manage Storage at Scale",
-    "desc": "<h2>\n  \n  \n  NAS Storage Automation: How to Manage Enterprise Storage at Scale With APIs and Scripts\n</h2>\n\n<p>The operational model for man",
-    "link": "https://dev.to/nasstorage/nas-storage-automation-using-apis-and-scripts-to-manage-storage-at-scale-5p2",
-    "topic": "general"
-  },
-  {
-    "title": "Certified Kubernetes Security Specialist (CKS) Guide & Best Practices",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/zainab_1201/certified-kubernetes-security-specialist-cks-guide-best-practices-54hk",
-    "topic": "kubernetes"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "title": "Hush Security Raises $30 Million for AI Agent Governance",
+    "desc": "<p>The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships.</",
+    "link": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
+    "topic": "secops"
+  },
+  {
+    "title": "Google Adopts New Threat Actor Naming System",
+    "desc": "<p>The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
+    "topic": "general"
+  },
+  {
     "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
     "desc": "<p>The critical remote code execution bug can be exploited without authentication, under the library\u2019s stock default configurations.</p>\n<p>",
     "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
@@ -33,18 +45,6 @@
     "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
     "desc": "<p>The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication.</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
-    "topic": "secops"
-  },
-  {
-    "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
-    "desc": "<p>The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote ac",
-    "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
-    "topic": "general"
-  },
-  {
-    "title": "Nvidia and Tech Giants Launch AI Security Alliance",
-    "desc": "<p>The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
     "topic": "secops"
   }
 ]
