@@ -1,50 +1,50 @@
 [
   {
-    "title": "My release pipeline was about to ship my private notes",
-    "desc": "<p>sell a small digital product, and the delivery side of it is deliberately<br />\nboring. Push a git tag, a GitHub Action zips up the produ",
-    "link": "https://dev.to/ashton_dutoit_c99f445ceb/my-release-pipeline-was-about-to-ship-my-private-notes-1b4m",
-    "topic": "general"
-  },
-  {
-    "title": "The Real Reason Users Choose One VPN App Over Another",
-    "desc": "<p>The VPN industry has become increasingly competitive. Every provider promises stronger encryption, faster speeds, more server locations, ",
-    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/the-real-reason-users-choose-one-vpn-app-over-another-17en",
-    "topic": "general"
-  },
-  {
-    "title": "Designing a build artifact system a 3-person team can actually navigate",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Filenames can't carry metadata. Stop asking them to \u2014 push the data into the binary and the EAS build rec",
-    "link": "https://dev.to/chris_fa_8fca9f4ba09d963/designing-a-build-artifact-system-a-3-person-team-can-actually-navigate-32gi",
-    "topic": "general"
-  },
-  {
-    "title": "The Third State: When Your Checkout, Image, and Docker Volume All Disagree",
-    "desc": "<p>A rebuild succeeded. Docker reported healthy. The site served the same bytes it had been serving for weeks.</p>\n\n<p>That was July on <cod",
-    "link": "https://dev.to/jeremy_longshore/the-third-state-when-your-checkout-image-and-docker-volume-all-disagree-34m0",
-    "topic": "docker"
-  },
-  {
-    "title": "Good mechanisms are not an architecture until a doctrine names them",
-    "desc": "<p>You can accumulate a dozen genuinely good mechanisms and still not have an architecture.</p>\n\n<p>The estate operating system behind Inten",
-    "link": "https://dev.to/jeremy_longshore/good-mechanisms-are-not-an-architecture-until-a-doctrine-names-them-5aof",
-    "topic": "general"
-  },
-  {
-    "title": "PassExamHub: Trusted IT Certification Study Materials for Exam Success",
-    "desc": "<p>Preparing for an IT certification exam can be challenging, especially when certification providers regularly update exam objectives and i",
-    "link": "https://dev.to/judsonlarkinv567/passexamhub-trusted-it-certification-study-materials-for-exam-success-24il",
-    "topic": "general"
-  },
-  {
-    "title": "Automating Dell PowerProtect Backup on AWS: A Terraform-Based Approach",
-    "desc": "<p>Organizations running Dell PowerProtect backup on AWS face a recurring challenge: the multi-appliance ecosystem \u2014 PPDM (PowerProtect Data",
-    "link": "https://dev.to/alpeshkumbhare/automating-dell-powerprotect-backup-on-aws-a-terraform-based-approach-pac",
+    "title": "I Got a $95 Million AWS Bill Alert at 3am. Here Is How I Triaged It",
+    "desc": "<p>My phone lit up at 3:22 in the morning with a subject line no cloud engineer wants to read half asleep:</p>\n\n<blockquote>\n<p>AWS Cost Man",
+    "link": "https://dev.to/_juliantellez/i-got-a-95-million-aws-bill-alert-at-3am-here-is-how-i-triaged-it-3f94",
     "topic": "aws"
   },
   {
-    "title": "ERPNext on AWS Replaces 5 Business Tools With One Unified Platform",
-    "desc": "<p>ERPNext on AWS replaces five business subscriptions, accounting, inventory, HR and payroll, CRM, and procurement, with one open source ER",
-    "link": "https://dev.to/yobitel/erpnext-on-aws-replaces-5-business-tools-with-one-unified-platform-41o7",
-    "topic": "aws"
+    "title": "Best OIC Online Training | Oracle Integration Institute",
+    "desc": "<p>\ud83d\ude80 \ud835\udde0\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\udde2\ud835\uddff\ud835\uddee\ud835\uddf0\ud835\uddf9\ud835\uddf2 \ud835\udddc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddf4\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddd6\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\uddf1 (\ud835\udde2\ud835\udddc\ud835\uddd6) \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde9\ud835\uddf6\ud835\ude00\ud835\ude02\ud835\uddee\ud835\uddf9\ud835\uddfd\ud835\uddee\ud835\ude01\ud835\uddf5! \u2601\ufe0f</p>\n\n<p>\ud83c\udfaf Kickstart your cloud integration career with Visualpath's Oracle In",
+    "link": "https://dev.to/subahan_fb0145a922ec7b750/best-oic-online-training-oracle-integration-institute-5c65",
+    "topic": "general"
+  },
+  {
+    "title": "A Dead Man's Switch for Your Monitoring Stack",
+    "desc": "<p>Your monitoring catches problems on everything except itself. Here is how an always-firing Watchdog alert plus an external heartbeat chec",
+    "link": "https://dev.to/irinobservability/a-dead-mans-switch-for-your-monitoring-stack-2335",
+    "topic": "general"
+  },
+  {
+    "title": "Blast Radius: What a Leaked Secret Breaks",
+    "desc": "<h1>\n  \n  \n  Why identity-local signals and topology signals are two layers of the same blast radius\n</h1>\n\n<p>The credential with the wides",
+    "link": "https://dev.to/gitguardian/blast-radius-what-a-leaked-secret-breaks-52mk",
+    "topic": "general"
+  },
+  {
+    "title": "Engineering Better SaaS Products Starts with Better Architecture",
+    "desc": "<p>One of the biggest misconceptions in SaaS development is that scalability can be solved simply by adding more servers.</p>\n\n<p>In reality",
+    "link": "https://dev.to/convergesol/engineering-better-saas-products-starts-with-better-architecture-b8n",
+    "topic": "general"
+  },
+  {
+    "title": "Hire Bitrise Developers: Accelerate Mobile CI/CD and App Delivery",
+    "desc": "<p>Mobile application development has become increasingly competitive, making fast, reliable, and automated deployment essential for success",
+    "link": "https://dev.to/betadrix_tech_dd984afdf03/hire-bitrise-developers-accelerate-mobile-cicd-and-app-delivery-2cp1",
+    "topic": "general"
+  },
+  {
+    "title": "Top 12 Developer Metrics Tools in 2026: What Actually Helps Engineering Teams?",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/parinita_kapoor_d76c5fba6/top-12-developer-metrics-tools-in-2026-what-actually-helps-engineering-teams-22g4",
+    "topic": "general"
+  },
+  {
+    "title": "Best Google promotion Services Delhi, India",
+    "desc": "<p>Google Promotion Services constitute a robust and effective digital marketing strategy that allows businesses or individuals to enhance t",
+    "link": "https://dev.to/digi_promotionsolutions_/best-google-promotion-services-delhi-india-3m3g",
+    "topic": "general"
   }
 ]
