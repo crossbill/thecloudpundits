@@ -1,5 +1,29 @@
 [
   {
+    "title": "Joining two Talos Kubernetes clusters with Cilium Cluster Mesh",
+    "desc": "<h2>\n  \n  \n  The setup I started with\n</h2>\n\n<p>My lab ran on a Mac mini with Ubuntu 26.04 x86_64, 4 CPU, 16 GiB of RAM, and<br />\nDocker 29",
+    "link": "https://dev.to/wepaleen/joining-two-talos-kubernetes-clusters-with-cilium-cluster-mesh-2hg0",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Scaling Your App Like Neo: Horizontal vs Vertical (No Spoon Required)",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night our little side\u2011project turned into a midnight pani",
+    "link": "https://dev.to/timevolt/scaling-your-app-like-neo-horizontal-vs-vertical-no-spoon-required-3bl0",
+    "topic": "general"
+  },
+  {
+    "title": "How to Use Terraform with Python for Infrastructure",
+    "desc": "<h1>\n  \n  \n  How to Use Terraform with Python for Infrastructure\n</h1>\n\n<p>tags: python, terraform, devops, tutorial</p>\n\n\n\n\n<p>tags: python",
+    "link": "https://dev.to/qingluan/how-to-use-terraform-with-python-for-infrastructure-3b48",
+    "topic": "terraform"
+  },
+  {
+    "title": "Analyzing CVE-2026-6875: Defending ServiceNow AI Platform Against Active Sandbox Escape Exploits",
+    "desc": "<h2>\n  \n  \n  The Paradigm Shift in Enterprise Attack Surfaces\n</h2>\n\n<p>The integration of autonomous artificial intelligence agents and dyn",
+    "link": "https://dev.to/isuvo/analyzing-cve-2026-6875-defending-servicenow-ai-platform-against-active-sandbox-escape-exploits-1o70",
+    "topic": "general"
+  },
+  {
     "title": "Kubernetes On-Premise: Criando um Registro de Imagens Docker Local",
     "desc": "<p>Em clusters Kubernetes on-premise, nem sempre faz sentido depender do Docker Hub (ou de qualquer registro p\u00fablico na nuvem) para armazena",
     "link": "https://dev.to/celsonery/kubernetes-on-premise-criando-um-registro-de-imagens-docker-local-a89",
@@ -22,29 +46,5 @@
     "desc": "<p>\ud83c\uddfa\ud83c\uddf8 English version coming soon.</p>\n\n<p>Nas partes anteriores, preparamos o ambiente (Parte 1), instalamos o containerd e o Kubernetes (P",
     "link": "https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-4-ingressando-os-nos-workers-nodes-3f6n",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Montando um Cluster Kubernetes On-Premise \u2014 Parte 3: Inicializando o Master",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 English version coming soon.</p>\n\n<p>Nas partes anteriores desta s\u00e9rie, preparamos o ambiente (Parte 1) e instalamos o containerd, o <",
-    "link": "https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-3-inicializando-o-master-42l3",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Montando um Cluster Kubernetes On-Premise \u2014 Parte 2: Instalando Containerd e Kubernetes",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 English version coming soon.</p>\n\n<p>Na Parte 1 desta s\u00e9rie, preparamos o ambiente: definimos o hardware, configuramos o <code>/etc/ho",
-    "link": "https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-2-instalando-containerd-e-kubernetes-ode",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Fixing Observability Pricing for the AI Era",
-    "desc": "<p><em>Authored by Trevor Parsons</em></p>\n\n<p>Today, we're announcing new pricing for Bronto.</p>\n\n<p><strong>TL;DR:</strong></p>\n\n<ul>\n<li",
-    "link": "https://dev.to/bronto_io/fixing-observability-pricing-for-the-ai-era-3gjk",
-    "topic": "general"
-  },
-  {
-    "title": "Trust, Discovery, Context, Consistency: What AWS DevOps Agent Looks For in a Telemetry Layer",
-    "desc": "<p><em>Authored by Stephen Crowley</em></p>\n\n<p>AWS DevOps Agent was built for modern software environments: engineering teams running heter",
-    "link": "https://dev.to/bronto_io/trust-discovery-context-consistency-what-aws-devops-agent-looks-for-in-a-telemetry-layer-7e4",
-    "topic": "aws"
   }
 ]
