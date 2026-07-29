@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Era of Probabilistic Defense Is Over",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/mariatanbobo/the-era-of-probabilistic-defense-is-over-4d0n",
+    "title": "Make dependency updates boring again",
+    "desc": "<p>Dependency updates are one of those things teams keep postponing. Not because they do not care, but because every update feels like a ris",
+    "link": "https://dev.to/prazian/make-dependency-updates-boring-again-3cfm",
     "topic": "general"
   },
   {
-    "title": "I built Devkeg: a desktop control center for your dev tools",
-    "desc": "<p>Setting up a fresh developer machine is death by a thousand commands. You hunt down install<br />\ninstructions, juggle <code>apt</code>, ",
-    "link": "https://dev.to/jaytank/i-built-devkeg-a-desktop-control-center-for-your-dev-tools-mg2",
+    "title": "EOSAI Token Builds Smarter Interaction Frameworks Within Everhayes Omnis System",
+    "desc": "<p>EOSAI Token is strengthening its focus on intelligent system interaction capabilities within the Everhayes Omnis System ecosystem, suppor",
+    "link": "https://dev.to/eosaitoken/eosai-token-builds-smarter-interaction-frameworks-within-everhayes-omnis-system-1bd8",
     "topic": "general"
   },
   {
-    "title": "Your OpenAPI Spec Is Decoration Until CI Enforces It",
-    "desc": "<p>My rule: if an OpenAPI spec is not wired into CI as an executable contract, it is decoration. A spec that no test asserts against will dr",
-    "link": "https://dev.to/speccoding/your-openapi-spec-is-decoration-until-ci-enforces-it-1and",
+    "title": "How to Switch to uv: Replace pip, virtualenv, and Poetry in Your Python Project",
+    "desc": "<p>If you've worked on a Python project for more than a year, you know the drill: pip to install packages, virtualenv or venv to isolate env",
+    "link": "https://dev.to/dev_encyclopedia/how-to-switch-to-uv-replace-pip-virtualenv-and-poetry-in-your-python-project-41p5",
     "topic": "general"
   },
   {
-    "title": "Caching Strategies for High-Traffic Apps",
-    "desc": "<p>Most of the confusion around caching strategies disappears once you look at the trade-offs. There are several layers (browser/CDN, applic",
-    "link": "https://dev.to/acquriotech/caching-strategies-for-high-traffic-apps-1ed8",
+    "title": "\"amazon-linux-extras: command not found \u2014 it's gone on Amazon Linux 2023\"",
+    "desc": "<p>You moved an AMI, Dockerfile, or user-data script from Amazon Linux 2 to Amazon Linux 2023, and a line that used to work now dies immedia",
+    "link": "https://dev.to/ntoledo319/amazon-linux-extras-command-not-found-its-gone-on-amazon-linux-2023-28c7",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udc0d Query Google BigQuery tables with Python pandas made easy",
-    "desc": "<h2>\n  \n  \n  \u2753 Frequently Asked Questions\n</h2>\n\n<h3>\n  \n  \n  How do I avoid loading the entire result set into memory?\n</h3>\n\n<p><a class=\"",
-    "link": "https://dev.to/ptp2308/query-google-bigquery-tables-with-python-pandas-made-easy-2cfo",
+    "title": "ColdFusion with VS Code in 2025: Best Extensions, Debugger Setup, and Productivity Config",
+    "desc": "<p>Visual Studio Code is now the mainstream ColdFusion editor, and in 2025 you have three serious extension choices. Adobe ColdFusion Builde",
+    "link": "https://dev.to/deepak_sir__/coldfusion-with-vs-code-in-2025-best-extensions-debugger-setup-and-productivity-config-k1k",
     "topic": "general"
   },
   {
-    "title": "What Humans Should Approve Is Intent, Not the Diff \u2014 A Decision Table for Agent Approval Gates",
-    "desc": "<blockquote>\n<p><strong>What this article covers</strong>: How to catch drift from your intent <strong>while it's still cheap to undo</stron",
-    "link": "https://dev.to/shimo4228/what-humans-should-approve-is-intent-not-the-diff-a-decision-table-for-agent-approval-gates-1a3j",
+    "title": "Implementing Secure-by-Design Principles in Modern Web and API Architectures",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the modern software engineering landscape, a persistent tension exists between rapid feature delivery",
+    "link": "https://dev.to/isuvo/implementing-secure-by-design-principles-in-modern-web-and-api-architectures-13fl",
     "topic": "general"
   },
   {
-    "title": "I Built an AI That Scans My AWS Account for Zombie Resources Every Week",
-    "desc": "<p>Last week I decided to actually look at what's in my AWS account. Not the bill \u2014 the resources.</p>\n\n<p>My guess was maybe 20 active thin",
-    "link": "https://dev.to/awslearnerdaily/i-built-an-ai-that-scans-my-aws-account-for-zombie-resources-every-week-1bg9",
+    "title": "NAS High Availability: Eliminating Single Points of Failure in Storage Infrastructure",
+    "desc": "<p>Storage infrastructure that can fail is storage infrastructure that will fail. The question isn't whether a drive, controller, or power s",
+    "link": "https://dev.to/nasstorage/nas-high-availability-eliminating-single-points-of-failure-in-storage-infrastructure-3n6j",
+    "topic": "general"
+  },
+  {
+    "title": "Modular AWS Infrastructure With Terraform: 2-Tier VPC, CIS-Hardened EC2, OIDC CI/CD, and a $6 Sprint Model",
+    "desc": "<p><strong>infra-core</strong> is a production-grade AWS infrastructure platform built with Terraform 1.7, Ansible, and GitHub Actions. It p",
+    "link": "https://dev.to/cypher682/modular-aws-infrastructure-with-terraform-2-tier-vpc-cis-hardened-ec2-oidc-cicd-and-a-6-bkj",
     "topic": "aws"
-  },
-  {
-    "title": "Building a Production-Safe AI Remediation Firewall for Amazon EKS",
-    "desc": "<p>Originally published on the AWS Builder Center:<br />\n</p>\n<div class=\"crayons-card c-embed text-styles text-styles--secondary\">\n    <div",
-    "link": "https://dev.to/pradeep_kandepaneni/building-a-production-safe-ai-remediation-firewall-for-amazon-eks-58cn",
-    "topic": "general"
   }
 ]
