@@ -1,5 +1,23 @@
 [
   {
+    "title": "GitHub Actions Getting Expensive? We Cut CI Costs to a Quarter With a One-Line Change",
+    "desc": "<blockquote>\n<p><em>AI assistance disclosure: This article was drafted with the help of Claude. All technical content, design decisions, cod",
+    "link": "https://dev.to/ryantsuji/github-actions-getting-expensive-we-cut-ci-costs-to-a-quarter-with-a-one-line-change-31a4",
+    "topic": "general"
+  },
+  {
+    "title": "TLS Certificate Management Without Tears",
+    "desc": "<p>Expired certificates cause more outages than they should. Every time, the post-mortem says 'we'll monitor expiry dates.' Every time, six ",
+    "link": "https://dev.to/samson_tanimawo/tls-certificate-management-without-tears-5fi1",
+    "topic": "general"
+  },
+  {
+    "title": "A self-hosted n8n that actually matches the 2.x architecture (SQLite + external task runners)",
+    "desc": "<p>If you're self-hosting n8n, you've probably noticed the 2.x line changed more than the version number. The thing that actually matters op",
+    "link": "https://dev.to/greatsage_sh/a-self-hosted-n8n-that-actually-matches-the-2x-architecture-sqlite-external-task-runners-3i2d",
+    "topic": "general"
+  },
+  {
     "title": "Build a Website Health Checker with Python",
     "desc": "<h1>\n  \n  \n  Build a Website Health Checker with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tools</p>\n\n\n\n\n<p>tags: python, devops, m",
     "link": "https://dev.to/qingluan/build-a-website-health-checker-with-python-2men",
@@ -28,23 +46,5 @@
     "desc": "<h2>\n  \n  \n  The setup I started with\n</h2>\n\n<p>My lab ran on a Mac mini with Ubuntu 26.04 x86_64, 4 CPU, 16 GiB of RAM, and<br />\nDocker 29",
     "link": "https://dev.to/wepaleen/joining-two-talos-kubernetes-clusters-with-cilium-cluster-mesh-2hg0",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Scaling Your App Like Neo: Horizontal vs Vertical (No Spoon Required)",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night our little side\u2011project turned into a midnight pani",
-    "link": "https://dev.to/timevolt/scaling-your-app-like-neo-horizontal-vs-vertical-no-spoon-required-3bl0",
-    "topic": "general"
-  },
-  {
-    "title": "How to Use Terraform with Python for Infrastructure",
-    "desc": "<h1>\n  \n  \n  How to Use Terraform with Python for Infrastructure\n</h1>\n\n<p>tags: python, terraform, devops, tutorial</p>\n\n\n\n\n<p>tags: python",
-    "link": "https://dev.to/qingluan/how-to-use-terraform-with-python-for-infrastructure-3b48",
-    "topic": "terraform"
-  },
-  {
-    "title": "Analyzing CVE-2026-6875: Defending ServiceNow AI Platform Against Active Sandbox Escape Exploits",
-    "desc": "<h2>\n  \n  \n  The Paradigm Shift in Enterprise Attack Surfaces\n</h2>\n\n<p>The integration of autonomous artificial intelligence agents and dyn",
-    "link": "https://dev.to/isuvo/analyzing-cve-2026-6875-defending-servicenow-ai-platform-against-active-sandbox-escape-exploits-1o70",
-    "topic": "general"
   }
 ]
