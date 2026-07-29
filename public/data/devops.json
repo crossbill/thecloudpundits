@@ -1,50 +1,50 @@
 [
   {
-    "title": "Make dependency updates boring again",
-    "desc": "<p>Dependency updates are one of those things teams keep postponing. Not because they do not care, but because every update feels like a ris",
-    "link": "https://dev.to/prazian/make-dependency-updates-boring-again-3cfm",
+    "title": "My release pipeline was about to ship my private notes",
+    "desc": "<p>sell a small digital product, and the delivery side of it is deliberately<br />\nboring. Push a git tag, a GitHub Action zips up the produ",
+    "link": "https://dev.to/ashton_dutoit_c99f445ceb/my-release-pipeline-was-about-to-ship-my-private-notes-1b4m",
     "topic": "general"
   },
   {
-    "title": "EOSAI Token Builds Smarter Interaction Frameworks Within Everhayes Omnis System",
-    "desc": "<p>EOSAI Token is strengthening its focus on intelligent system interaction capabilities within the Everhayes Omnis System ecosystem, suppor",
-    "link": "https://dev.to/eosaitoken/eosai-token-builds-smarter-interaction-frameworks-within-everhayes-omnis-system-1bd8",
+    "title": "The Real Reason Users Choose One VPN App Over Another",
+    "desc": "<p>The VPN industry has become increasingly competitive. Every provider promises stronger encryption, faster speeds, more server locations, ",
+    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/the-real-reason-users-choose-one-vpn-app-over-another-17en",
     "topic": "general"
   },
   {
-    "title": "How to Switch to uv: Replace pip, virtualenv, and Poetry in Your Python Project",
-    "desc": "<p>If you've worked on a Python project for more than a year, you know the drill: pip to install packages, virtualenv or venv to isolate env",
-    "link": "https://dev.to/dev_encyclopedia/how-to-switch-to-uv-replace-pip-virtualenv-and-poetry-in-your-python-project-41p5",
+    "title": "Designing a build artifact system a 3-person team can actually navigate",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Filenames can't carry metadata. Stop asking them to \u2014 push the data into the binary and the EAS build rec",
+    "link": "https://dev.to/chris_fa_8fca9f4ba09d963/designing-a-build-artifact-system-a-3-person-team-can-actually-navigate-32gi",
     "topic": "general"
   },
   {
-    "title": "\"amazon-linux-extras: command not found \u2014 it's gone on Amazon Linux 2023\"",
-    "desc": "<p>You moved an AMI, Dockerfile, or user-data script from Amazon Linux 2 to Amazon Linux 2023, and a line that used to work now dies immedia",
-    "link": "https://dev.to/ntoledo319/amazon-linux-extras-command-not-found-its-gone-on-amazon-linux-2023-28c7",
+    "title": "The Third State: When Your Checkout, Image, and Docker Volume All Disagree",
+    "desc": "<p>A rebuild succeeded. Docker reported healthy. The site served the same bytes it had been serving for weeks.</p>\n\n<p>That was July on <cod",
+    "link": "https://dev.to/jeremy_longshore/the-third-state-when-your-checkout-image-and-docker-volume-all-disagree-34m0",
+    "topic": "docker"
+  },
+  {
+    "title": "Good mechanisms are not an architecture until a doctrine names them",
+    "desc": "<p>You can accumulate a dozen genuinely good mechanisms and still not have an architecture.</p>\n\n<p>The estate operating system behind Inten",
+    "link": "https://dev.to/jeremy_longshore/good-mechanisms-are-not-an-architecture-until-a-doctrine-names-them-5aof",
     "topic": "general"
   },
   {
-    "title": "ColdFusion with VS Code in 2025: Best Extensions, Debugger Setup, and Productivity Config",
-    "desc": "<p>Visual Studio Code is now the mainstream ColdFusion editor, and in 2025 you have three serious extension choices. Adobe ColdFusion Builde",
-    "link": "https://dev.to/deepak_sir__/coldfusion-with-vs-code-in-2025-best-extensions-debugger-setup-and-productivity-config-k1k",
+    "title": "PassExamHub: Trusted IT Certification Study Materials for Exam Success",
+    "desc": "<p>Preparing for an IT certification exam can be challenging, especially when certification providers regularly update exam objectives and i",
+    "link": "https://dev.to/judsonlarkinv567/passexamhub-trusted-it-certification-study-materials-for-exam-success-24il",
     "topic": "general"
   },
   {
-    "title": "Implementing Secure-by-Design Principles in Modern Web and API Architectures",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the modern software engineering landscape, a persistent tension exists between rapid feature delivery",
-    "link": "https://dev.to/isuvo/implementing-secure-by-design-principles-in-modern-web-and-api-architectures-13fl",
-    "topic": "general"
+    "title": "Automating Dell PowerProtect Backup on AWS: A Terraform-Based Approach",
+    "desc": "<p>Organizations running Dell PowerProtect backup on AWS face a recurring challenge: the multi-appliance ecosystem \u2014 PPDM (PowerProtect Data",
+    "link": "https://dev.to/alpeshkumbhare/automating-dell-powerprotect-backup-on-aws-a-terraform-based-approach-pac",
+    "topic": "aws"
   },
   {
-    "title": "NAS High Availability: Eliminating Single Points of Failure in Storage Infrastructure",
-    "desc": "<p>Storage infrastructure that can fail is storage infrastructure that will fail. The question isn't whether a drive, controller, or power s",
-    "link": "https://dev.to/nasstorage/nas-high-availability-eliminating-single-points-of-failure-in-storage-infrastructure-3n6j",
-    "topic": "general"
-  },
-  {
-    "title": "Modular AWS Infrastructure With Terraform: 2-Tier VPC, CIS-Hardened EC2, OIDC CI/CD, and a $6 Sprint Model",
-    "desc": "<p><strong>infra-core</strong> is a production-grade AWS infrastructure platform built with Terraform 1.7, Ansible, and GitHub Actions. It p",
-    "link": "https://dev.to/cypher682/modular-aws-infrastructure-with-terraform-2-tier-vpc-cis-hardened-ec2-oidc-cicd-and-a-6-bkj",
+    "title": "ERPNext on AWS Replaces 5 Business Tools With One Unified Platform",
+    "desc": "<p>ERPNext on AWS replaces five business subscriptions, accounting, inventory, HR and payroll, CRM, and procurement, with one open source ER",
+    "link": "https://dev.to/yobitel/erpnext-on-aws-replaces-5-business-tools-with-one-unified-platform-41o7",
     "topic": "aws"
   }
 ]
