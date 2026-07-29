@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Got a $95 Million AWS Bill Alert at 3am. Here Is How I Triaged It",
-    "desc": "<p>My phone lit up at 3:22 in the morning with a subject line no cloud engineer wants to read half asleep:</p>\n\n<blockquote>\n<p>AWS Cost Man",
-    "link": "https://dev.to/_juliantellez/i-got-a-95-million-aws-bill-alert-at-3am-here-is-how-i-triaged-it-3f94",
+    "title": "AWS ECS Terragrunt Boilerplate",
+    "desc": "<p>A production-derived, multi-layer Terraform + Terragrunt setup for running containerized services on AWS ECS Fargate, behind an ALB, with",
+    "link": "https://dev.to/jack_pelorus_379400349092/aws-ecs-terragrunt-boilerplate-31mk",
     "topic": "aws"
   },
   {
-    "title": "Best OIC Online Training | Oracle Integration Institute",
-    "desc": "<p>\ud83d\ude80 \ud835\udde0\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\udde2\ud835\uddff\ud835\uddee\ud835\uddf0\ud835\uddf9\ud835\uddf2 \ud835\udddc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddf4\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddd6\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\uddf1 (\ud835\udde2\ud835\udddc\ud835\uddd6) \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde9\ud835\uddf6\ud835\ude00\ud835\ude02\ud835\uddee\ud835\uddf9\ud835\uddfd\ud835\uddee\ud835\ude01\ud835\uddf5! \u2601\ufe0f</p>\n\n<p>\ud83c\udfaf Kickstart your cloud integration career with Visualpath's Oracle In",
-    "link": "https://dev.to/subahan_fb0145a922ec7b750/best-oic-online-training-oracle-integration-institute-5c65",
+    "title": "Why Webhook Retry Logic Keeps Failing You \u2014 and What Replaces It When Agents Have Addresses",
+    "desc": "<p>Webhooks are the universal glue of modern systems. When an event happens in Service A, it fires an HTTP POST to Service B. Simple enough ",
+    "link": "https://dev.to/pstayet/why-webhook-retry-logic-keeps-failing-you-and-what-replaces-it-when-agents-have-addresses-20n8",
     "topic": "general"
   },
   {
-    "title": "A Dead Man's Switch for Your Monitoring Stack",
-    "desc": "<p>Your monitoring catches problems on everything except itself. Here is how an always-firing Watchdog alert plus an external heartbeat chec",
-    "link": "https://dev.to/irinobservability/a-dead-mans-switch-for-your-monitoring-stack-2335",
+    "title": "Shadow Deployment: How It Works, And Key Considerations",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/shadow-deployment-how-it-works-and-key-considerations\" rel=\"noop",
+    "link": "https://dev.to/rasne/shadow-deployment-how-it-works-and-key-considerations-1j0a",
     "topic": "general"
   },
   {
-    "title": "Blast Radius: What a Leaked Secret Breaks",
-    "desc": "<h1>\n  \n  \n  Why identity-local signals and topology signals are two layers of the same blast radius\n</h1>\n\n<p>The credential with the wides",
-    "link": "https://dev.to/gitguardian/blast-radius-what-a-leaked-secret-breaks-52mk",
+    "title": "Pilot Then Fan Out: Killing Unknown Blockers in 2 Repos First",
+    "desc": "<p>I maintain about a dozen small products that share one homemade framework. Last week I built a conformance linter \u2014 a little tool that sc",
+    "link": "https://dev.to/hideyukimori/pilot-then-fan-out-killing-unknown-blockers-in-2-repos-first-681",
     "topic": "general"
   },
   {
-    "title": "Engineering Better SaaS Products Starts with Better Architecture",
-    "desc": "<p>One of the biggest misconceptions in SaaS development is that scalability can be solved simply by adding more servers.</p>\n\n<p>In reality",
-    "link": "https://dev.to/convergesol/engineering-better-saas-products-starts-with-better-architecture-b8n",
-    "topic": "general"
+    "title": "The Hidden Infrastructure Tax of \"Cheap\" Web Deployments (And Why We Moved to Custom Docker Stacks)",
+    "desc": "<p>Clients often ask me why there is such a massive price discrepancy in web development quotes. They see one agency offering a functional s",
+    "link": "https://dev.to/resul_oztas/the-hidden-infrastructure-tax-of-cheap-web-deployments-and-why-we-moved-to-custom-docker-stacks-5epj",
+    "topic": "docker"
   },
   {
-    "title": "Hire Bitrise Developers: Accelerate Mobile CI/CD and App Delivery",
-    "desc": "<p>Mobile application development has become increasingly competitive, making fast, reliable, and automated deployment essential for success",
-    "link": "https://dev.to/betadrix_tech_dd984afdf03/hire-bitrise-developers-accelerate-mobile-cicd-and-app-delivery-2cp1",
-    "topic": "general"
-  },
-  {
-    "title": "Top 12 Developer Metrics Tools in 2026: What Actually Helps Engineering Teams?",
+    "title": "Skalierbarkeit im Web: Wie wir regionale Plattformen f\u00fcr den KFZ-Ankauf in Wilhelmshaven technisch optimieren",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/parinita_kapoor_d76c5fba6/top-12-developer-metrics-tools-in-2026-what-actually-helps-engineering-teams-22g4",
+    "link": "https://dev.to/germanautoexpert_f1777898/skalierbarkeit-im-web-wie-wir-regionale-plattformen-fur-den-kfz-ankauf-in-wilhelmshaven-technisch-m10",
     "topic": "general"
   },
   {
-    "title": "Best Google promotion Services Delhi, India",
-    "desc": "<p>Google Promotion Services constitute a robust and effective digital marketing strategy that allows businesses or individuals to enhance t",
-    "link": "https://dev.to/digi_promotionsolutions_/best-google-promotion-services-delhi-india-3m3g",
+    "title": "Manjaro i3: Essential Shortcut Commands for Ultimate Productivity",
+    "desc": "<p><em>Originally published on <a href=\"https://tamiz.pro/insights/manjaro-i3-essential-shortcut-commands\" rel=\"noopener noreferrer\">tamiz.p",
+    "link": "https://dev.to/tamizuddin/manjaro-i3-essential-shortcut-commands-for-ultimate-productivity-h4n",
+    "topic": "general"
+  },
+  {
+    "title": "Building the Full LGTM Observability Stack from Scratch: Metrics, Logs, Traces, and Alerting",
+    "desc": "<p><strong>observability-platform</strong> is a full LGTM (Loki, Grafana, Tempo, Prometheus) observability stack built from scratch \u2014 contai",
+    "link": "https://dev.to/cypher682/building-the-full-lgtm-observability-stack-from-scratch-metrics-logs-traces-and-alerting-2l9f",
     "topic": "general"
   }
 ]
