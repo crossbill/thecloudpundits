@@ -1,5 +1,29 @@
 [
   {
+    "title": "Build a Website Health Checker with Python",
+    "desc": "<h1>\n  \n  \n  Build a Website Health Checker with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tools</p>\n\n\n\n\n<p>tags: python, devops, m",
+    "link": "https://dev.to/qingluan/build-a-website-health-checker-with-python-2men",
+    "topic": "general"
+  },
+  {
+    "title": "Top 10 Kubernetes Interview Questions for 2026 (With Answers)",
+    "desc": "<p>The 10 Kubernetes interview questions you are most likely to be asked in 2026 with clear, senior-level answers covering pods, deployments",
+    "link": "https://dev.to/devopslesson/top-10-kubernetes-interview-questions-for-2026-with-answers-2e3c",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Seu code review n\u00e3o precisa discutir espa\u00e7amento",
+    "desc": "<h2>\n  \n  \n  O pull request com 14 coment\u00e1rios (13 s\u00e3o sobre v\u00edrgula)\n</h2>\n\n<p>Voc\u00ea abre o PR do colega. Quarenta arquivos alterados, uma f",
+    "link": "https://dev.to/denisgusto1/seu-code-review-nao-precisa-discutir-espacamento-1ild",
+    "topic": "general"
+  },
+  {
+    "title": "Unraid OS 7.2.8 Now Available",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/unraid-os-728-now-available\" rel=\"noopener noreferrer\">Unraid OS",
+    "link": "https://dev.to/rasne/unraid-os-728-now-available-28gi",
+    "topic": "general"
+  },
+  {
     "title": "Joining two Talos Kubernetes clusters with Cilium Cluster Mesh",
     "desc": "<h2>\n  \n  \n  The setup I started with\n</h2>\n\n<p>My lab ran on a Mac mini with Ubuntu 26.04 x86_64, 4 CPU, 16 GiB of RAM, and<br />\nDocker 29",
     "link": "https://dev.to/wepaleen/joining-two-talos-kubernetes-clusters-with-cilium-cluster-mesh-2hg0",
@@ -22,29 +46,5 @@
     "desc": "<h2>\n  \n  \n  The Paradigm Shift in Enterprise Attack Surfaces\n</h2>\n\n<p>The integration of autonomous artificial intelligence agents and dyn",
     "link": "https://dev.to/isuvo/analyzing-cve-2026-6875-defending-servicenow-ai-platform-against-active-sandbox-escape-exploits-1o70",
     "topic": "general"
-  },
-  {
-    "title": "Kubernetes On-Premise: Criando um Registro de Imagens Docker Local",
-    "desc": "<p>Em clusters Kubernetes on-premise, nem sempre faz sentido depender do Docker Hub (ou de qualquer registro p\u00fablico na nuvem) para armazena",
-    "link": "https://dev.to/celsonery/kubernetes-on-premise-criando-um-registro-de-imagens-docker-local-a89",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Montando um Cluster Kubernetes On-Premise \u2014 Parte 6: Deploy, Atualiza\u00e7\u00e3o e Escalabilidade de uma Aplica\u00e7\u00e3o Pr\u00f3pria",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 English version coming soon.</p>\n\n<p>Na Parte 5 desta s\u00e9rie, validamos o cluster de ponta a ponta fazendo o deploy do Nginx. Agora vam",
-    "link": "https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-6-deploy-atualizacao-e-escalabilidade-de-uma-588g",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Montando um Cluster Kubernetes On-Premise \u2014 Parte 5: Fazendo o Deploy do Primeiro Container",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 English version coming soon.</p>\n\n<p>Nas partes anteriores desta s\u00e9rie, constru\u00edmos o cluster do zero: preparamos o ambiente (Parte 1)",
-    "link": "https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-5-fazendo-o-deploy-do-primeiro-container-3dm1",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Montando um Cluster Kubernetes On-Premise \u2014 Parte 4: Ingressando os N\u00f3s Workers Nodes",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 English version coming soon.</p>\n\n<p>Nas partes anteriores, preparamos o ambiente (Parte 1), instalamos o containerd e o Kubernetes (P",
-    "link": "https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-4-ingressando-os-nos-workers-nodes-3f6n",
-    "topic": "kubernetes"
   }
 ]
