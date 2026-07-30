@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Run n8n Open Source Workflow Automation Self-Hosted Engine",
-    "desc": "<p>For years, the standard platforms have been Zapier and Make, with costs increasing in parallel with usage volume. More developers and sys",
-    "link": "https://dev.to/proxy-seller/how-to-run-n8n-open-source-workflow-automation-self-hosted-engine-5hlo",
+    "title": "AI In Investment Management: Seven Pitfalls to Avoid",
+    "desc": "<h1>\n  \n  \n  Lessons from Moving Investment AI into Production\n</h1>\n\n<p>Investment AI pilots often look convincing because the demonstratio",
+    "link": "https://dev.to/edith_heroux_aca4c9046ef5/ai-in-investment-management-seven-pitfalls-to-avoid-1mdi",
     "topic": "general"
   },
   {
-    "title": "I built a local-first control plane for the Mac that stays on in my home lab",
-    "desc": "<p>My always-on Mac mini runs the unglamorous parts of my setup: development services, Docker containers, scheduled jobs, and a few experime",
-    "link": "https://dev.to/chentao1006/i-built-a-local-first-control-plane-for-the-mac-that-stays-on-in-my-home-lab-1iaa",
+    "title": "What Actually Happens After You Send a Webhook",
+    "desc": "<p>The first version of a webhook is always the same four lines:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight",
+    "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
     "topic": "general"
   },
   {
-    "title": "Docker Compose 5.3 init containers: run setup before your app starts (2026 guide)",
-    "desc": "<h1>\n  \n  \n  Docker Compose 5.3 init containers: run setup before your app starts (2026 guide)\n</h1>\n\n<p><strong>Summary.</strong> Docker Co",
-    "link": "https://dev.to/mr_manushukla/docker-compose-53-init-containers-run-setup-before-your-app-starts-2026-guide-30ce",
-    "topic": "docker"
+    "title": "Stop Switching Between AWS Console, GCP Console, and DBeaver",
+    "desc": "<p>If you manage databases across AWS and GCP, your daily routine probably looks something like this:</p>\n\n<ol>\n<li>Open AWS Console \u2192 navig",
+    "link": "https://dev.to/abda_net/stop-switching-between-aws-console-gcp-console-and-dbeaver-3bke",
+    "topic": "aws"
   },
   {
-    "title": "Bitpanda Capital Markets Advances Visual Data Tools for Clearer Market Understanding",
-    "desc": "<p>As digital finance continues to evolve, the ability to understand market information quickly and clearly has become increasingly importan",
-    "link": "https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-advances-visual-data-tools-for-clearer-market-understanding-57ad",
+    "title": "AI Use Cases in Construction: Seven Pitfalls to Avoid",
+    "desc": "<h1>\n  \n  \n  Why Promising Construction AI Pilots Fail in Production\n</h1>\n\n<p>Construction AI rarely fails because a model cannot produce a",
+    "link": "https://dev.to/edith_heroux_aca4c9046ef5/ai-use-cases-in-construction-seven-pitfalls-to-avoid-1p4i",
     "topic": "general"
   },
   {
-    "title": "TurboFieldfare: Gemma 4 26B corre en 2 GB de RAM en cualquier Mac M",
-    "desc": "<p>Correr un modelo de <strong>26.000 millones de par\u00e1metros</strong> en una laptop de 8 GB suena a contradicci\u00f3n. La cuenta no cierra: ese ",
-    "link": "https://dev.to/lu1tr0n/turbofieldfare-gemma-4-26b-corre-en-2-gb-de-ram-en-cualquier-mac-m-584",
+    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
+    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
+    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-1kf0",
     "topic": "general"
   },
   {
-    "title": "The Slow Death of an Unmaintained Website (a Timeline)",
-    "desc": "<p>Most small-business websites get built, launched, invoiced \u2014 and then nobody touches them again. As developers we know entropy doesn't ca",
-    "link": "https://dev.to/acessio/the-slow-death-of-an-unmaintained-website-a-timeline-ik7",
+    "title": "Day 1 of Learning Go: Variables, Data Types, and My First Impressions",
+    "desc": "<p>I've decided to start learning Go.</p>\n\n<p>My goal isn't just to learn another programming language\u2014it's to become a better backend devel",
+    "link": "https://dev.to/dhruv_mevada_dev/day-1-of-learning-go-variables-data-types-and-my-first-impressions-35p0",
     "topic": "general"
   },
   {
-    "title": "Building Self Hosted AI Agents with Python",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<p>To follow this tutorial, you will need the following infrastructure and services:</p>\n\n<ul>\n<li>\n<a ",
-    "link": "https://dev.to/chasebot/building-self-hosted-ai-agents-with-python-45cc",
+    "title": "How to Handle Kasada Bot Protection in Web Scraping\uff1f",
+    "desc": "<p>In the ongoing technical battle between web scraping and anti-bot systems, Kasada has always held a reputation as a hard nut to crack. Fo",
+    "link": "https://dev.to/ipfoxy/how-to-handle-kasada-bot-protection-in-web-scraping-440k",
     "topic": "general"
   },
   {
-    "title": "Getting Started with Infrastructure as Code Using Terraform",
-    "desc": "<h2>\n  \n  \n  What is Infrastructure as Code?\n</h2>\n\n<p>Infrastructure as Code (IaC) is the practice of managing and provisioning infrastruct",
-    "link": "https://dev.to/cloudfrontier/getting-started-with-infrastructure-as-code-using-terraform-5hjm",
-    "topic": "terraform"
+    "title": "Why your incident bot closes tickets but doesn't fix systems",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong> A green dashboard is not evidence of a healthy system. It is evidence that your automation closed the",
+    "link": "https://dev.to/zop_8abedcc7e12/why-your-incident-bot-closes-tickets-but-doesnt-fix-systems-1kpo",
+    "topic": "secops"
   }
 ]
