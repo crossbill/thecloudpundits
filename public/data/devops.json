@@ -1,50 +1,50 @@
 [
   {
-    "title": "Future of industrial technology isn't about collecting more data\u2014it's about making that data useful",
-    "desc": "<p>AIoT is changing the way businesses operate by connecting AI with IoT devices to deliver real-time insights, smarter automation, and bett",
-    "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/future-of-industrial-technology-isnt-about-collecting-more-data-its-about-making-that-data-useful-1o50",
+    "title": "Scheduling Tasks on Linux with Systemd Timers",
+    "desc": "<p>\ud83c\udde7\ud83c\uddf7 <a href=\"https://dev.to/celsonery/agendando-tarefas-no-linux-com-systemd-timer-47i5\">Leia a vers\u00e3o em portugu\u00eas aqui.</a></p>\n\n<p>Rout",
+    "link": "https://dev.to/celsonery/scheduling-tasks-on-linux-with-systemd-timers-2o0h",
     "topic": "general"
   },
   {
-    "title": "Kubernetes: Visualizando M\u00e9tricas com Grafana",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>O Prometheus (visto no artigo anterior desta s\u00e9rie d",
-    "link": "https://dev.to/celsonery/kubernetes-visualizando-metricas-com-grafana-21kk",
-    "topic": "kubernetes"
+    "title": "WHOIS is gone, RDAP replaced it, and a 404 does not mean what you think",
+    "desc": "<p>If you last touched domain lookups a few years ago, the thing you remember is<br />\nWHOIS: a plaintext protocol on port 43 that returned ",
+    "link": "https://dev.to/glitchbound/whois-is-gone-rdap-replaced-it-and-a-404-does-not-mean-what-you-think-3alh",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes: Monitorando o Cluster com Prometheus",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Depois que um cluster Kubernetes est\u00e1 em opera\u00e7\u00e3o, m",
-    "link": "https://dev.to/celsonery/kubernetes-monitorando-o-cluster-com-prometheus-35ng",
-    "topic": "kubernetes"
+    "title": "Agendando Tarefas no Linux com Systemd Timer",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/celsonery/scheduling-tasks-on-linux-with-systemd-timers-2o0h\">English version here</a>.</p>\n\n<p>Rotinas como b",
+    "link": "https://dev.to/celsonery/agendando-tarefas-no-linux-com-systemd-timer-47i5",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes: Configurando um Ingress Controller (NGINX)",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>At\u00e9 aqui, para expor uma aplica\u00e7\u00e3o fora do cluster, ",
-    "link": "https://dev.to/celsonery/kubernetes-configurando-um-ingress-controller-nginx-1cjd",
-    "topic": "kubernetes"
+    "title": "Free TLS Certificates with Let's Encrypt and Certbot",
+    "desc": "<p>\ud83c\udde7\ud83c\uddf7 <a href=\"https://dev.to/celsonery/certificados-tls-gratuitos-com-lets-encrypt-e-certbot-2iii\">Leia a vers\u00e3o em portugu\u00eas aqui.</a></p>",
+    "link": "https://dev.to/celsonery/free-tls-certificates-with-lets-encrypt-and-certbot-gg9",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes: Automatizando Certificados TLS com Cert-Manager",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Com o Ingress Controller j\u00e1 configurado (veja o arti",
-    "link": "https://dev.to/celsonery/kubernetes-automatizando-certificados-tls-com-cert-manager-56em",
-    "topic": "kubernetes"
+    "title": "Certificados TLS Gratuitos com Let's Encrypt e Certbot",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/celsonery/free-tls-certificates-with-lets-encrypt-and-certbot-gg9\">English version here</a>.</p>\n\n<p>Em servid",
+    "link": "https://dev.to/celsonery/certificados-tls-gratuitos-com-lets-encrypt-e-certbot-2iii",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes On-Premise: Renovando Certificados Expirados",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Em instala\u00e7\u00f5es on-premise do Kubernetes feitas com <",
-    "link": "https://dev.to/celsonery/kubernetes-on-premise-renovando-certificados-expirados-41k5",
-    "topic": "kubernetes"
+    "title": "IP Reputation WAF Rules: Fields, Thresholds, Actions",
+    "desc": "<p>An IP reputation API is only useful in a WAF rule if you can see why a request got blocked. Cloudflare's threat score returns 0 now. AWS ",
+    "link": "https://dev.to/abdullah_afzal/ip-reputation-waf-rules-fields-thresholds-actions-1d9d",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes: Instalando o Metrics Server para Monitorar N\u00f3s e Pods",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Comandos como <code>kubectl top nodes</code> ou <cod",
-    "link": "https://dev.to/celsonery/kubernetes-instalando-o-metrics-server-para-monitorar-nos-e-pods-1p59",
-    "topic": "kubernetes"
+    "title": "\ud83d\udd10 SSH Essentials Every DevOps Engineer Should Know",
+    "desc": "<p>If you're learning DevOps, Cloud Computing, or System Administration, SSH is one of the most important skills you'll ever learn.</p>\n\n<p>",
+    "link": "https://dev.to/themdmohiuddin/ssh-essentials-every-devops-engineer-should-know-2k5n",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes On-Premise: Adicionando um Novo N\u00f3 ao Cluster j\u00e1 em Produ\u00e7\u00e3o",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Depois que um cluster Kubernetes on-premise est\u00e1 de ",
-    "link": "https://dev.to/celsonery/kubernetes-on-premise-adicionando-um-novo-no-ao-cluster-ja-em-producao-48l9",
-    "topic": "kubernetes"
+    "title": "My 7/7 Gate Fell to One Admin Capability. A Second Witness Only Moved the Wall.",
+    "desc": "<p>On 27 July 2026 I published a suite for sequence-composition attacks with two predictions frozen in a dated file, and asked people to bre",
+    "link": "https://dev.to/kenielzep97/my-77-gate-fell-to-one-admin-capability-a-second-witness-only-moved-the-wall-329o",
+    "topic": "general"
   }
 ]
