@@ -1,50 +1,50 @@
 [
   {
-    "title": "Free Boxing Drills: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/free-boxing-drills-what-we-learned-building-random-tactical-timer-2edg",
+    "title": "Future of industrial technology isn't about collecting more data\u2014it's about making that data useful",
+    "desc": "<p>AIoT is changing the way businesses operate by connecting AI with IoT devices to deliver real-time insights, smarter automation, and bett",
+    "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/future-of-industrial-technology-isnt-about-collecting-more-data-its-about-making-that-data-useful-1o50",
     "topic": "general"
   },
   {
-    "title": "Staff Augmentation: The Smart Way to Build High-Performing Teams",
-    "desc": "<p>In today's competitive business environment, companies need skilled professionals who can contribute immediately without the delays assoc",
-    "link": "https://dev.to/johansafred/staff-augmentation-the-smart-way-to-build-high-performing-teams-cn2",
-    "topic": "general"
-  },
-  {
-    "title": "Scaling On-Call When You Only Have 5 Engineers",
-    "desc": "<p>On-call is brutal at small scale. Every engineer takes 1 week in 5. You get woken up once a week. Burnout is weeks away.</p>\n\n<p>Here's w",
-    "link": "https://dev.to/samson_tanimawo/scaling-on-call-when-you-only-have-5-engineers-507f",
-    "topic": "general"
-  },
-  {
-    "title": "The Kubernetes Weekend That Humbled Me \u2014 Part 1: Just Getting a VM to Boot",
-    "desc": "<h1>\n  \n  \n  I had a simple plan. Spin up a couple of VMs, run <code>kubeadm init</code>, join a worker, deploy nginx, post about it. That p",
-    "link": "https://dev.to/oyebobs/the-kubernetes-weekend-that-humbled-me-part-1-just-getting-a-vm-to-boot-71k",
+    "title": "Kubernetes: Visualizando M\u00e9tricas com Grafana",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>O Prometheus (visto no artigo anterior desta s\u00e9rie d",
+    "link": "https://dev.to/celsonery/kubernetes-visualizando-metricas-com-grafana-21kk",
     "topic": "kubernetes"
   },
   {
-    "title": "Google Ads Demand Gen: Engineering a Control Plane for Direct Checkout",
-    "desc": "<p>Nine new markets now have access to Checkout Links that bypass a product page, while Google\u2019s upgraded Target ROAS bidding starts less ca",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/google-ads-demand-gen-engineering-a-control-plane-for-direct-checkout-mma",
-    "topic": "general"
+    "title": "Kubernetes: Monitorando o Cluster com Prometheus",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Depois que um cluster Kubernetes est\u00e1 em opera\u00e7\u00e3o, m",
+    "link": "https://dev.to/celsonery/kubernetes-monitorando-o-cluster-com-prometheus-35ng",
+    "topic": "kubernetes"
   },
   {
-    "title": "Dogfooding at scale: migrating cdnjs to Cloudflare\u2019s Developer Platform",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/dogfooding-at-scale-migrating-cdnjs-to-cloudflares-developer-pla",
-    "link": "https://dev.to/rasne/dogfooding-at-scale-migrating-cdnjs-to-cloudflares-developer-platform-144a",
-    "topic": "general"
+    "title": "Kubernetes: Configurando um Ingress Controller (NGINX)",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>At\u00e9 aqui, para expor uma aplica\u00e7\u00e3o fora do cluster, ",
+    "link": "https://dev.to/celsonery/kubernetes-configurando-um-ingress-controller-nginx-1cjd",
+    "topic": "kubernetes"
   },
   {
-    "title": "CI/CD Pipeline With GitHub Actions: The Complete Production Setup",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-04-15-github-actions-cicd-full-guide\" rel=\"noopen",
-    "link": "https://dev.to/devtocash/cicd-pipeline-with-github-actions-the-complete-production-setup-4ln8",
-    "topic": "general"
+    "title": "Kubernetes: Automatizando Certificados TLS com Cert-Manager",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Com o Ingress Controller j\u00e1 configurado (veja o arti",
+    "link": "https://dev.to/celsonery/kubernetes-automatizando-certificados-tls-com-cert-manager-56em",
+    "topic": "kubernetes"
   },
   {
-    "title": "Day 115: Blue-Green Deployment - AI System Design in Seconds",
-    "desc": "<p>  \n  \n</p>\n\n<h1>\n  \n  \n  Blue-Green Deployment: Zero-Downtime Releases Made Simple\n</h1>\n\n<p>Zero-downtime deployments sound like a dream",
-    "link": "https://dev.to/matt_frank_usa/day-115-blue-green-deployment-ai-system-design-in-seconds-ab7",
-    "topic": "general"
+    "title": "Kubernetes On-Premise: Renovando Certificados Expirados",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Em instala\u00e7\u00f5es on-premise do Kubernetes feitas com <",
+    "link": "https://dev.to/celsonery/kubernetes-on-premise-renovando-certificados-expirados-41k5",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Kubernetes: Instalando o Metrics Server para Monitorar N\u00f3s e Pods",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Comandos como <code>kubectl top nodes</code> ou <cod",
+    "link": "https://dev.to/celsonery/kubernetes-instalando-o-metrics-server-para-monitorar-nos-e-pods-1p59",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Kubernetes On-Premise: Adicionando um Novo N\u00f3 ao Cluster j\u00e1 em Produ\u00e7\u00e3o",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version coming soon</a>.</p>\n\n<p>Depois que um cluster Kubernetes on-premise est\u00e1 de ",
+    "link": "https://dev.to/celsonery/kubernetes-on-premise-adicionando-um-novo-no-ao-cluster-ja-em-producao-48l9",
+    "topic": "kubernetes"
   }
 ]
