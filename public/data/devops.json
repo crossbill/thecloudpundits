@@ -1,50 +1,50 @@
 [
   {
-    "title": "AI In Investment Management: Seven Pitfalls to Avoid",
-    "desc": "<h1>\n  \n  \n  Lessons from Moving Investment AI into Production\n</h1>\n\n<p>Investment AI pilots often look convincing because the demonstratio",
-    "link": "https://dev.to/edith_heroux_aca4c9046ef5/ai-in-investment-management-seven-pitfalls-to-avoid-1mdi",
+    "title": "Free Boxing Drills: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/free-boxing-drills-what-we-learned-building-random-tactical-timer-2edg",
     "topic": "general"
   },
   {
-    "title": "What Actually Happens After You Send a Webhook",
-    "desc": "<p>The first version of a webhook is always the same four lines:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight",
-    "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
+    "title": "Staff Augmentation: The Smart Way to Build High-Performing Teams",
+    "desc": "<p>In today's competitive business environment, companies need skilled professionals who can contribute immediately without the delays assoc",
+    "link": "https://dev.to/johansafred/staff-augmentation-the-smart-way-to-build-high-performing-teams-cn2",
     "topic": "general"
   },
   {
-    "title": "Stop Switching Between AWS Console, GCP Console, and DBeaver",
-    "desc": "<p>If you manage databases across AWS and GCP, your daily routine probably looks something like this:</p>\n\n<ol>\n<li>Open AWS Console \u2192 navig",
-    "link": "https://dev.to/abda_net/stop-switching-between-aws-console-gcp-console-and-dbeaver-3bke",
-    "topic": "aws"
-  },
-  {
-    "title": "AI Use Cases in Construction: Seven Pitfalls to Avoid",
-    "desc": "<h1>\n  \n  \n  Why Promising Construction AI Pilots Fail in Production\n</h1>\n\n<p>Construction AI rarely fails because a model cannot produce a",
-    "link": "https://dev.to/edith_heroux_aca4c9046ef5/ai-use-cases-in-construction-seven-pitfalls-to-avoid-1p4i",
+    "title": "Scaling On-Call When You Only Have 5 Engineers",
+    "desc": "<p>On-call is brutal at small scale. Every engineer takes 1 week in 5. You get woken up once a week. Burnout is weeks away.</p>\n\n<p>Here's w",
+    "link": "https://dev.to/samson_tanimawo/scaling-on-call-when-you-only-have-5-engineers-507f",
     "topic": "general"
   },
   {
-    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
-    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
-    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-1kf0",
+    "title": "The Kubernetes Weekend That Humbled Me \u2014 Part 1: Just Getting a VM to Boot",
+    "desc": "<h1>\n  \n  \n  I had a simple plan. Spin up a couple of VMs, run <code>kubeadm init</code>, join a worker, deploy nginx, post about it. That p",
+    "link": "https://dev.to/oyebobs/the-kubernetes-weekend-that-humbled-me-part-1-just-getting-a-vm-to-boot-71k",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Google Ads Demand Gen: Engineering a Control Plane for Direct Checkout",
+    "desc": "<p>Nine new markets now have access to Checkout Links that bypass a product page, while Google\u2019s upgraded Target ROAS bidding starts less ca",
+    "link": "https://dev.to/tran_tienvan_e45fc26d655/google-ads-demand-gen-engineering-a-control-plane-for-direct-checkout-mma",
     "topic": "general"
   },
   {
-    "title": "Day 1 of Learning Go: Variables, Data Types, and My First Impressions",
-    "desc": "<p>I've decided to start learning Go.</p>\n\n<p>My goal isn't just to learn another programming language\u2014it's to become a better backend devel",
-    "link": "https://dev.to/dhruv_mevada_dev/day-1-of-learning-go-variables-data-types-and-my-first-impressions-35p0",
+    "title": "Dogfooding at scale: migrating cdnjs to Cloudflare\u2019s Developer Platform",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/dogfooding-at-scale-migrating-cdnjs-to-cloudflares-developer-pla",
+    "link": "https://dev.to/rasne/dogfooding-at-scale-migrating-cdnjs-to-cloudflares-developer-platform-144a",
     "topic": "general"
   },
   {
-    "title": "How to Handle Kasada Bot Protection in Web Scraping\uff1f",
-    "desc": "<p>In the ongoing technical battle between web scraping and anti-bot systems, Kasada has always held a reputation as a hard nut to crack. Fo",
-    "link": "https://dev.to/ipfoxy/how-to-handle-kasada-bot-protection-in-web-scraping-440k",
+    "title": "CI/CD Pipeline With GitHub Actions: The Complete Production Setup",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-04-15-github-actions-cicd-full-guide\" rel=\"noopen",
+    "link": "https://dev.to/devtocash/cicd-pipeline-with-github-actions-the-complete-production-setup-4ln8",
     "topic": "general"
   },
   {
-    "title": "Why your incident bot closes tickets but doesn't fix systems",
-    "desc": "<blockquote>\n<p><strong>TL;DR</strong> A green dashboard is not evidence of a healthy system. It is evidence that your automation closed the",
-    "link": "https://dev.to/zop_8abedcc7e12/why-your-incident-bot-closes-tickets-but-doesnt-fix-systems-1kpo",
-    "topic": "secops"
+    "title": "Day 115: Blue-Green Deployment - AI System Design in Seconds",
+    "desc": "<p>  \n  \n</p>\n\n<h1>\n  \n  \n  Blue-Green Deployment: Zero-Downtime Releases Made Simple\n</h1>\n\n<p>Zero-downtime deployments sound like a dream",
+    "link": "https://dev.to/matt_frank_usa/day-115-blue-green-deployment-ai-system-design-in-seconds-ab7",
+    "topic": "general"
   }
 ]
