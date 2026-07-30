@@ -1,50 +1,50 @@
 [
   {
-    "title": "GitHub Actions Getting Expensive? We Cut CI Costs to a Quarter With a One-Line Change",
-    "desc": "<blockquote>\n<p><em>AI assistance disclosure: This article was drafted with the help of Claude. All technical content, design decisions, cod",
-    "link": "https://dev.to/ryantsuji/github-actions-getting-expensive-we-cut-ci-costs-to-a-quarter-with-a-one-line-change-31a4",
+    "title": "Backup Restore Database Using Percona Xtrabackup",
+    "desc": "<p>Pada postingan kali ini kita akan membahas bagaimana cara cepat untuk backup dan restore mysql dengan metode lebih cepat. Sebelumnya saya",
+    "link": "https://dev.to/seno21/backup-restore-database-using-percona-xtrabackup-40fe",
     "topic": "general"
   },
   {
-    "title": "TLS Certificate Management Without Tears",
-    "desc": "<p>Expired certificates cause more outages than they should. Every time, the post-mortem says 'we'll monitor expiry dates.' Every time, six ",
-    "link": "https://dev.to/samson_tanimawo/tls-certificate-management-without-tears-5fi1",
+    "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
+    "desc": "<p>You push your code. A few minutes later, it is live for real users.</p>\n\n<p>Between those two moments runs a long chain of machinery: bui",
+    "link": "https://dev.to/manishmshiva/what-happens-during-a-production-deployment-a-behind-the-scenes-guide-4nod",
     "topic": "general"
   },
   {
-    "title": "A self-hosted n8n that actually matches the 2.x architecture (SQLite + external task runners)",
-    "desc": "<p>If you're self-hosting n8n, you've probably noticed the 2.x line changed more than the version number. The thing that actually matters op",
-    "link": "https://dev.to/greatsage_sh/a-self-hosted-n8n-that-actually-matches-the-2x-architecture-sqlite-external-task-runners-3i2d",
+    "title": "David Stark: Top High-Paying Roles",
+    "desc": "<h3>\n  \n  \n  \ud83d\udc4b Hello Architects & Elite Engineers,\n</h3>\n\n<p>The market is shifting. We are seeing a surge in <strong>DEVOPS</strong> roles ",
+    "link": "https://dev.to/devpulse/david-stark-top-high-paying-roles-1d62",
     "topic": "general"
   },
   {
-    "title": "Build a Website Health Checker with Python",
-    "desc": "<h1>\n  \n  \n  Build a Website Health Checker with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tools</p>\n\n\n\n\n<p>tags: python, devops, m",
-    "link": "https://dev.to/qingluan/build-a-website-health-checker-with-python-2men",
+    "title": "Stop letting your AI agents hallucinate test failures",
+    "desc": "<p>I've seen enough CI pipelines die in an infinite loop of 'fix, retry, fail' to last a lifetime.</p>\n\n<p>You know the pattern. An agent-dr",
+    "link": "https://dev.to/renato_marinho/stop-letting-your-ai-agents-hallucinate-test-failures-22h8",
     "topic": "general"
   },
   {
-    "title": "Top 10 Kubernetes Interview Questions for 2026 (With Answers)",
-    "desc": "<p>The 10 Kubernetes interview questions you are most likely to be asked in 2026 with clear, senior-level answers covering pods, deployments",
-    "link": "https://dev.to/devopslesson/top-10-kubernetes-interview-questions-for-2026-with-answers-2e3c",
-    "topic": "kubernetes"
+    "title": "Docker Compose vs C\u00e0i Tr\u1ef1c Ti\u1ebfp: T\u1ed1i \u01afu PostgreSQL & Redis C\u1ee5c B\u1ed9",
+    "desc": "<p>Vi\u1ec7c duy tr\u00ec hi\u1ec7u su\u1ea5t l\u1eadp tr\u00ecnh \u1ed5n \u0111\u1ecbnh tr\u00ean c\u00e1c c\u1ea5u h\u00ecnh m\u00e1y t\u00ednh c\u1eadn trung c\u1ea5p th\u01b0\u1eddng v\u1ea5p ph\u1ea3i m\u1ed9t r\u00e0o c\u1ea3n v\u00f4 h\u00ecnh: s\u1ef1 qu\u00e1 t\u1ea3i t\u00e0i ngu",
+    "link": "https://dev.to/hungphatlaptop/docker-compose-vs-cai-truc-tiep-toi-uu-postgresql-redis-cuc-bo-1174",
+    "topic": "docker"
   },
   {
-    "title": "Seu code review n\u00e3o precisa discutir espa\u00e7amento",
-    "desc": "<h2>\n  \n  \n  O pull request com 14 coment\u00e1rios (13 s\u00e3o sobre v\u00edrgula)\n</h2>\n\n<p>Voc\u00ea abre o PR do colega. Quarenta arquivos alterados, uma f",
-    "link": "https://dev.to/denisgusto1/seu-code-review-nao-precisa-discutir-espacamento-1ild",
+    "title": "Scroll RPC Provider: Key Criteria for Production dApps",
+    "desc": "<h2>\n  \n  \n  Scroll RPC Provider Decision Checklist\n</h2>\n\n<p>Before selecting a Scroll RPC provider, evaluate these factors:</p>\n\n<div clas",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/scroll-rpc-provider-key-criteria-for-production-dapps-4gj0",
     "topic": "general"
   },
   {
-    "title": "Unraid OS 7.2.8 Now Available",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/unraid-os-728-now-available\" rel=\"noopener noreferrer\">Unraid OS",
-    "link": "https://dev.to/rasne/unraid-os-728-now-available-28gi",
+    "title": "Moonbeam RPC List: Endpoints, Chain ID, and Provider Options",
+    "desc": "<h2>\n  \n  \n  Moonbeam RPC Decision Checklist\n</h2>\n\n<p>Before connecting your dApp to Moonbeam, verify these key items:</p>\n\n<ul>\n<li>\n<stro",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/moonbeam-rpc-list-endpoints-chain-id-and-provider-options-1km",
     "topic": "general"
   },
   {
-    "title": "Joining two Talos Kubernetes clusters with Cilium Cluster Mesh",
-    "desc": "<h2>\n  \n  \n  The setup I started with\n</h2>\n\n<p>My lab ran on a Mac mini with Ubuntu 26.04 x86_64, 4 CPU, 16 GiB of RAM, and<br />\nDocker 29",
-    "link": "https://dev.to/wepaleen/joining-two-talos-kubernetes-clusters-with-cilium-cluster-mesh-2hg0",
-    "topic": "kubernetes"
+    "title": "Ethereum API Reference: Methods, Endpoints, and Provider Selection",
+    "desc": "<h2>\n  \n  \n  Ethereum API decision checklist\n</h2>\n\n<p>Before you start building with the Ethereum API, consider these decision points:</p>\n",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/ethereum-api-reference-methods-endpoints-and-provider-selection-2bff",
+    "topic": "general"
   }
 ]
