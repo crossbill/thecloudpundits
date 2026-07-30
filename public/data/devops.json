@@ -1,50 +1,50 @@
 [
   {
-    "title": "NVIDIA BlueField Flaw Lets Hackers Hijack Cloud Servers",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/nvidia-bluefield-flaw-lets-hackers-hijack-cloud-servers-2i4c",
+    "title": "How to Run n8n Open Source Workflow Automation Self-Hosted Engine",
+    "desc": "<p>For years, the standard platforms have been Zapier and Make, with costs increasing in parallel with usage volume. More developers and sys",
+    "link": "https://dev.to/proxy-seller/how-to-run-n8n-open-source-workflow-automation-self-hosted-engine-5hlo",
     "topic": "general"
   },
   {
-    "title": "What Happens During a Production Deployment?",
-    "desc": "<h2>\n  \n  \n  Introduction.\n</h2>\n\n<p>Every time you order food online, stream your favorite show, check your bank balance, or shop on an e-c",
-    "link": "https://dev.to/jeevi_academy_123b85dc89a/what-happens-during-a-production-deployment-5bga",
+    "title": "I built a local-first control plane for the Mac that stays on in my home lab",
+    "desc": "<p>My always-on Mac mini runs the unglamorous parts of my setup: development services, Docker containers, scheduled jobs, and a few experime",
+    "link": "https://dev.to/chentao1006/i-built-a-local-first-control-plane-for-the-mac-that-stays-on-in-my-home-lab-1iaa",
     "topic": "general"
   },
   {
-    "title": "Best Self-Hosted WAFs on GitHub: 5 Tools Compared",
-    "desc": "<p>GitHub is where WAF projects prove themselves in production. Stars, commits, releases, issue resolution \u2014 the public record tells you mor",
-    "link": "https://dev.to/lialiago/best-self-hosted-wafs-on-github-5-tools-compared-jc2",
+    "title": "Docker Compose 5.3 init containers: run setup before your app starts (2026 guide)",
+    "desc": "<h1>\n  \n  \n  Docker Compose 5.3 init containers: run setup before your app starts (2026 guide)\n</h1>\n\n<p><strong>Summary.</strong> Docker Co",
+    "link": "https://dev.to/mr_manushukla/docker-compose-53-init-containers-run-setup-before-your-app-starts-2026-guide-30ce",
+    "topic": "docker"
+  },
+  {
+    "title": "Bitpanda Capital Markets Advances Visual Data Tools for Clearer Market Understanding",
+    "desc": "<p>As digital finance continues to evolve, the ability to understand market information quickly and clearly has become increasingly importan",
+    "link": "https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-advances-visual-data-tools-for-clearer-market-understanding-57ad",
     "topic": "general"
   },
   {
-    "title": "SafeLine WAF Behind Cloudflare and Nginx Proxy Manager",
-    "desc": "<p>A production stack that combines Cloudflare's edge with SafeLine's detection:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre ",
-    "link": "https://dev.to/lialiago/safeline-waf-behind-cloudflare-and-nginx-proxy-manager-58gh",
+    "title": "TurboFieldfare: Gemma 4 26B corre en 2 GB de RAM en cualquier Mac M",
+    "desc": "<p>Correr un modelo de <strong>26.000 millones de par\u00e1metros</strong> en una laptop de 8 GB suena a contradicci\u00f3n. La cuenta no cierra: ese ",
+    "link": "https://dev.to/lu1tr0n/turbofieldfare-gemma-4-26b-corre-en-2-gb-de-ram-en-cualquier-mac-m-584",
     "topic": "general"
   },
   {
-    "title": "GitHub vs Bitbucket vs GitLab: Complete Comparison Guide",
-    "desc": "<p>GitHub vs Bitbucket vs GitLab is one of the most common comparisons developers make when choosing a Git hosting platform. If you\u2019ve spent",
-    "link": "https://dev.to/serveravatar/github-vs-bitbucket-vs-gitlab-complete-comparison-guide-4n6b",
+    "title": "The Slow Death of an Unmaintained Website (a Timeline)",
+    "desc": "<p>Most small-business websites get built, launched, invoiced \u2014 and then nobody touches them again. As developers we know entropy doesn't ca",
+    "link": "https://dev.to/acessio/the-slow-death-of-an-unmaintained-website-a-timeline-ik7",
     "topic": "general"
   },
   {
-    "title": "The Browser-Testing Tool Landscape, Surveyed",
-    "desc": "<p>A browser test rarely fails in an exciting way. More often, a button shifts ten pixels, a waiting spinner hangs for two seconds longer th",
-    "link": "https://dev.to/graceholloway_/the-browser-testing-tool-landscape-surveyed-3pc5",
+    "title": "Building Self Hosted AI Agents with Python",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<p>To follow this tutorial, you will need the following infrastructure and services:</p>\n\n<ul>\n<li>\n<a ",
+    "link": "https://dev.to/chasebot/building-self-hosted-ai-agents-with-python-45cc",
     "topic": "general"
   },
   {
-    "title": "What Is Forex Broker House Development? A Complete Beginner's Guide (2026)",
-    "desc": "<p>The global forex trading industry continues to grow rapidly, attracting millions of traders and investors worldwide. As more businesses e",
-    "link": "https://dev.to/upwork_floatinginfotech_/what-is-forex-broker-house-development-a-complete-beginners-guide-2026-a76",
-    "topic": "general"
-  },
-  {
-    "title": "I Love S3-Compatible Storage. But I Hated Sharing Files Until I Found S3Drop",
-    "desc": "<p>If you've worked with object storage, you've probably used at least one of these:</p>\n\n<p>Amazon S3<br />\nCloudflare R2<br />\nBackblaze B",
-    "link": "https://dev.to/theape/i-love-s3-compatible-storage-but-i-hated-sharing-files-until-i-found-s3drop-2o7d",
-    "topic": "general"
+    "title": "Getting Started with Infrastructure as Code Using Terraform",
+    "desc": "<h2>\n  \n  \n  What is Infrastructure as Code?\n</h2>\n\n<p>Infrastructure as Code (IaC) is the practice of managing and provisioning infrastruct",
+    "link": "https://dev.to/cloudfrontier/getting-started-with-infrastructure-as-code-using-terraform-5hjm",
+    "topic": "terraform"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
+    "desc": "<p>Claroty has analyzed 750,000 cyber-physical systems across some of the world\u2019s largest data center facilities.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
+    "topic": "secops"
+  },
+  {
+    "title": "US and Allies Update SBOM Guidance",
+    "desc": "<p>Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
+    "topic": "general"
+  },
+  {
+    "title": "Chrome 151 Patches 370 Vulnerabilities",
+    "desc": "<p>The major browser update resolves roughly 80 critical- and high-severity security defects.</p>\n<p>The post <a href=\"https://www.securityw",
+    "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+    "desc": "<p>The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices.\u00a0</p>\n<p>",
+    "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+    "topic": "general"
+  },
+  {
     "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
     "desc": "<p>The agency said imports of advanced robots pose cybersecurity and other national security risks.</p>\n<p>The post <a href=\"https://www.sec",
     "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
@@ -22,29 +46,5 @@
     "desc": "<p>A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.</p>\n<p>The post <a href=\"https://www.",
     "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
     "topic": "secops"
-  },
-  {
-    "title": "US, Australia Release OT Isolation Guidance for Critical Infrastructure",
-    "desc": "<p>The guidance details steps organizations can take to isolate vital OT and supporting systems, and operate in isolation for an extended pe",
-    "link": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/",
-    "topic": "general"
-  },
-  {
-    "title": "OpenAI\u2019s Rogue AI Ventured Beyond Hugging Face",
-    "desc": "<p>Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
-    "topic": "openai"
-  },
-  {
-    "title": "Spur Raises $200 Million for IP Intelligence Platform",
-    "desc": "<p>The IP intelligence company will use the fresh investment to accelerate and scale its operations.</p>\n<p>The post <a href=\"https://www.se",
-    "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
-    "topic": "general"
-  },
-  {
-    "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-    "desc": "<p>The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given.</p>\n<p>The post <a href=\"ht",
-    "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-    "topic": "openai"
   }
 ]
