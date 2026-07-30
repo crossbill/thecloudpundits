@@ -1,50 +1,50 @@
 [
   {
-    "title": "Scheduling Tasks on Linux with Systemd Timers",
-    "desc": "<p>\ud83c\udde7\ud83c\uddf7 <a href=\"https://dev.to/celsonery/agendando-tarefas-no-linux-com-systemd-timer-47i5\">Leia a vers\u00e3o em portugu\u00eas aqui.</a></p>\n\n<p>Rout",
-    "link": "https://dev.to/celsonery/scheduling-tasks-on-linux-with-systemd-timers-2o0h",
+    "title": "How to Spot the Next NRC Before It Crashes",
+    "desc": "<p>How to Spot the Next NRC Before It Crashes<br />\nIn July 2026, thousands of Nigerians woke up to the same painful headline: National Read",
+    "link": "https://dev.to/adeniran_adebayoadekunle/how-to-spot-the-next-nrc-before-it-crashes-1kbe",
     "topic": "general"
   },
   {
-    "title": "WHOIS is gone, RDAP replaced it, and a 404 does not mean what you think",
-    "desc": "<p>If you last touched domain lookups a few years ago, the thing you remember is<br />\nWHOIS: a plaintext protocol on port 43 that returned ",
-    "link": "https://dev.to/glitchbound/whois-is-gone-rdap-replaced-it-and-a-404-does-not-mean-what-you-think-3alh",
+    "title": "The Future of Agentic AI Depends on Openness and Trust. That\u2019s Why Docker Is Joining Nvidia\u2019s Open Secure AI Alliance.",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/the-future-of-agentic-ai-depends-on-openness-and-trust-thats-why",
+    "link": "https://dev.to/rasne/the-future-of-agentic-ai-depends-on-openness-and-trust-thats-why-docker-is-joining-nvidias-open-i3m",
+    "topic": "docker"
+  },
+  {
+    "title": "A Dead-Man's Switch for Scheduled Jobs (Because Silent Failures Rot Data)",
+    "desc": "<p>A scheduled job has two failure modes. The loud one throws an error and your alerting catches it. The quiet one just stops running, and n",
+    "link": "https://dev.to/jenatechio/a-dead-mans-switch-for-scheduled-jobs-because-silent-failures-rot-data-3nmh",
     "topic": "general"
   },
   {
-    "title": "Agendando Tarefas no Linux com Systemd Timer",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/celsonery/scheduling-tasks-on-linux-with-systemd-timers-2o0h\">English version here</a>.</p>\n\n<p>Rotinas como b",
-    "link": "https://dev.to/celsonery/agendando-tarefas-no-linux-com-systemd-timer-47i5",
+    "title": "Technische Architektur und Local SEO f\u00fcr Automotive-Plattformen",
+    "desc": "<p>Die Entwicklung und Verwaltung skalierbarer Webseiten im Bereich der regionalen Automobilvermarktung stellt Entwickler und SEO-Manager vo",
+    "link": "https://dev.to/germanautoexpert_f1777898/technische-architektur-und-local-seo-fur-automotive-plattformen-3365",
     "topic": "general"
   },
   {
-    "title": "Free TLS Certificates with Let's Encrypt and Certbot",
-    "desc": "<p>\ud83c\udde7\ud83c\uddf7 <a href=\"https://dev.to/celsonery/certificados-tls-gratuitos-com-lets-encrypt-e-certbot-2iii\">Leia a vers\u00e3o em portugu\u00eas aqui.</a></p>",
-    "link": "https://dev.to/celsonery/free-tls-certificates-with-lets-encrypt-and-certbot-gg9",
+    "title": "Why Hypervisors Are Bottlenecking Your AI Inference Spikes",
+    "desc": "<p>The hidden reason why virtualized cloud nodes struggle with stable token generation, and why bare-metal dedicated servers are the solutio",
+    "link": "https://dev.to/sadaf_botanist/why-hypervisors-are-bottlenecking-your-ai-inference-spikes-1jab",
     "topic": "general"
   },
   {
-    "title": "Certificados TLS Gratuitos com Let's Encrypt e Certbot",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/celsonery/free-tls-certificates-with-lets-encrypt-and-certbot-gg9\">English version here</a>.</p>\n\n<p>Em servid",
-    "link": "https://dev.to/celsonery/certificados-tls-gratuitos-com-lets-encrypt-e-certbot-2iii",
+    "title": "Choosing the Right Infrastructure for BGP Routing and Development Environments",
+    "desc": "<p>Setting up advanced network configurations like Bring Your Own IP (BYOIP) or BGP sessions requires precise control over your hosting infr",
+    "link": "https://dev.to/sadaf_botanist/choosing-the-right-infrastructure-for-bgp-routing-and-development-environments-m9e",
     "topic": "general"
   },
   {
-    "title": "IP Reputation WAF Rules: Fields, Thresholds, Actions",
-    "desc": "<p>An IP reputation API is only useful in a WAF rule if you can see why a request got blocked. Cloudflare's threat score returns 0 now. AWS ",
-    "link": "https://dev.to/abdullah_afzal/ip-reputation-waf-rules-fields-thresholds-actions-1d9d",
+    "title": "Laravel Herd vs Sail in 2026: Which Environment Holds Up for AI Workloads?",
+    "desc": "<p>When developers search \u201cLaravel Herd vs Sail 2026,\u201d they are not asking which tool boots faster. The real question is: which local enviro",
+    "link": "https://dev.to/dewaldhugo/laravel-herd-vs-sail-in-2026-which-environment-holds-up-for-ai-workloads-4a7a",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udd10 SSH Essentials Every DevOps Engineer Should Know",
-    "desc": "<p>If you're learning DevOps, Cloud Computing, or System Administration, SSH is one of the most important skills you'll ever learn.</p>\n\n<p>",
-    "link": "https://dev.to/themdmohiuddin/ssh-essentials-every-devops-engineer-should-know-2k5n",
-    "topic": "general"
-  },
-  {
-    "title": "My 7/7 Gate Fell to One Admin Capability. A Second Witness Only Moved the Wall.",
-    "desc": "<p>On 27 July 2026 I published a suite for sequence-composition attacks with two predictions frozen in a dated file, and asked people to bre",
-    "link": "https://dev.to/kenielzep97/my-77-gate-fell-to-one-admin-capability-a-second-witness-only-moved-the-wall-329o",
+    "title": "Top MCP Gateway Options for Managing AI Tool Connections",
+    "desc": "<p><em>A comparison of the leading MCP gateways for teams building agentic AI. This review covers the most capable options for centralizing ",
+    "link": "https://dev.to/kuldeep_paul/top-mcp-gateway-options-for-managing-ai-tool-connections-1pc2",
     "topic": "general"
   }
 ]
