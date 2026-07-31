@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Couldn't Find a Set-and-Forget Monitoring API, So I Built One With Webhook Alerts",
-    "desc": "<p>Hi,</p>\n\n<p>I recently wanted to integrate automated domain and SSL monitoring into a couple of my personal projects. I checked RapidAPI ",
-    "link": "https://dev.to/gustavo1500/i-couldnt-find-a-set-and-forget-monitoring-api-so-i-built-one-with-webhook-alerts-2ob2",
+    "title": "peaq Network RPC Endpoint: Chain Settings, Tips, and Debugging",
+    "desc": "<p>The peaq network RPC is the endpoint that applications use to read and write data on the peaq blockchain, an EVM-compatible Layer-1 for d",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/peaq-network-rpc-endpoint-chain-settings-tips-and-debugging-2hi8",
     "topic": "general"
   },
   {
-    "title": "The Five Ideals of DevOps: os Cinco Ideais que Sustentam a Transforma\u00e7\u00e3o DevOps",
-    "desc": "<p>Toda organiza\u00e7\u00e3o que tenta \"fazer DevOps\" acaba, cedo ou tarde, comprando um Jenkins, adotando Kubernetes e escrevendo Terraform e mesmo ",
-    "link": "https://dev.to/luiscruzcwb/the-five-ideals-of-devops-os-cinco-ideais-que-sustentam-a-transformacao-devops-c24",
+    "title": "Moonbeam Uptime: How to Evaluate RPC Reliability",
+    "desc": "<p>Moonbeam's RPC uptime is one of those numbers that matters most when it stops being 100%. A down or unresponsive endpoint can freeze your",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/moonbeam-uptime-how-to-evaluate-rpc-reliability-5coh",
     "topic": "general"
   },
   {
-    "title": "Where you host your MCP server decides whether it still works in three months",
-    "desc": "<p>I probed every remote MCP server listed in the official registry \u2014 10,716 endpoints \u2014 and then asked a question the aggregate numbers hid",
-    "link": "https://dev.to/theopslog/where-you-host-your-mcp-server-decides-whether-it-still-works-in-three-months-1hg1",
+    "title": "Integritee RPC Endpoints: Chain Settings and Migration Path",
+    "desc": "<h2>\n  \n  \n  Integritee RPC decision checklist\n</h2>\n\n<p>Before you point a wallet, indexer, or dApp at an Integritee node, confirm four thi",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/integritee-rpc-endpoints-chain-settings-and-migration-path-552n",
     "topic": "general"
   },
   {
-    "title": "The Database Backup Quest: A Hero's Journey (Inspired by The Matrix)",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Picture this: it\u2019s 2\u202fa.m., the pager screeches, and the monitoring dashboard is flashing",
-    "link": "https://dev.to/timevolt/the-database-backup-quest-a-heros-journey-inspired-by-the-matrix-3j2f",
+    "title": "Binance Smart Chain Nodes: Full, Archive, and RPC Options",
+    "desc": "<p>Running a BNB Smart Chain node used to be a checklist item for serious BSC projects. Today you have three options: run your own node from",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/binance-smart-chain-nodes-full-archive-and-rpc-options-4kdg",
     "topic": "general"
   },
   {
-    "title": "The Reliability Roadmap: A 90-Day Plan for New SRE Teams",
-    "desc": "<p>New SRE team at your company? Here's a 90-day plan I've used twice. It works because it balances 'show immediate value' with 'build for t",
-    "link": "https://dev.to/samson_tanimawo/the-reliability-roadmap-a-90-day-plan-for-new-sre-teams-3af9",
+    "title": "Sui RPC Network: Endpoints, Methods, and Debugging",
+    "desc": "<h2>\n  \n  \n  Sui RPC decision checklist\n</h2>\n\n<p>Before you connect an app to the Sui RPC network, run through this checklist:</p>\n\n<ul>\n<l",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/sui-rpc-network-endpoints-methods-and-debugging-3dkf",
     "topic": "general"
   },
   {
-    "title": "Learning AWS CloudFormation: A Practical Introduction",
-    "desc": "<p>AWS CloudFormation lets you manage your AWS infrastructure using code. Instead of setting up resources by hand, you write a template in J",
-    "link": "https://dev.to/arash_zand/learning-aws-cloudformation-a-practical-introduction-26om",
-    "topic": "aws"
-  },
-  {
-    "title": "Two Agents Can't Reach Each Other? Here's the Debugging Checklist I Use",
-    "desc": "<p>You write Agent A, deploy it on a cloud VM. You write Agent B, run it on your laptop. Agent A sends a message. Nothing comes back. No err",
-    "link": "https://dev.to/pstayet/two-agents-cant-reach-each-other-heres-the-debugging-checklist-i-use-4hi",
+    "title": "Unichain RPC Endpoint: Chain Settings and How to Connect",
+    "desc": "<h2>\n  \n  \n  Unichain RPC decision checklist\n</h2>\n\n<p>Before you point a wallet, indexer, or dApp at Unichain, confirm these details:</p>\n\n",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/unichain-rpc-endpoint-chain-settings-and-how-to-connect-3a6g",
     "topic": "general"
   },
   {
-    "title": "Your AI Pilot Did Not Fail. Nobody Owned the Workflow.",
-    "desc": "<p>One morning a system of mine filed a report I had learned to like: nothing to do. Zero items flagged. Zero actions needed. A clean, quiet",
-    "link": "https://dev.to/danmercede/your-ai-pilot-did-not-fail-nobody-owned-the-workflow-14c1",
+    "title": "Moonbeam RPC Endpoint: Chain Settings, Faucet, and Debugging",
+    "desc": "<p>Moonbeam is an Ethereum-compatible smart contract parachain in the Polkadot ecosystem. A Moonbeam RPC endpoint is the URL your wallet, dA",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/moonbeam-rpc-endpoint-chain-settings-faucet-and-debugging-2h16",
+    "topic": "general"
+  },
+  {
+    "title": "BNB Smart Chain Endpoint: RPC URLs, Chain Settings, Debugging",
+    "desc": "<h2>\n  \n  \n  BNB Smart Chain endpoint decision checklist\n</h2>\n\n<p>A BNB Smart Chain endpoint is the HTTP or WebSocket URL your app uses to ",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/bnb-smart-chain-endpoint-rpc-urls-chain-settings-debugging-1f5f",
     "topic": "general"
   }
 ]
