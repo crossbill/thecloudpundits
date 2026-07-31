@@ -1,50 +1,50 @@
 [
   {
-    "title": "My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore",
-    "desc": "<p>Ciao Amici \ud83d\udc4b</p>\n\n<p>Grab your chai, because the robot accountant is back, and this time we have a moving-day story. If you read my last ",
-    "link": "https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo",
+    "title": "The First Home AI I\u2019d Trust Is a Boring 6am Incident Bot",
+    "desc": "<p>I keep coming back to one test whenever someone pitches me \u201cAI for the smart home.\u201d</p>\n\n<p>Would I trust it at <strong>6am</strong>, hal",
+    "link": "https://dev.to/lars_winstand/the-first-home-ai-id-trust-is-a-boring-6am-incident-bot-2bc6",
+    "topic": "secops"
+  },
+  {
+    "title": "Cloud Security Architecture: From Shared Responsibility to Zero Trust",
+    "desc": "<p>Cloud security incidents that make news are rarely the result of a novel attack technique. They are the result of misconfiguration, over-",
+    "link": "https://dev.to/aloknecessary/cloud-security-architecture-from-shared-responsibility-to-zero-trust-4jc7",
+    "topic": "secops"
+  },
+  {
+    "title": "Interaction-Layer vs Perimeter Security: Where AI Risk Actually Lives",
+    "desc": "<p><em>If you've ever tried to explain to a security team why their SIEM didn't flag a prompt injection attempt, this is the underlying arch",
+    "link": "https://dev.to/sunychoudhary/interaction-layer-vs-perimeter-security-where-ai-risk-actually-lives-3c1a",
+    "topic": "secops"
+  },
+  {
+    "title": "Building Self-Healing Microservices with Kubernetes and Service Mesh",
+    "desc": "<p>A container crashing is usually the easiest failure you'll deal with.</p>\n\n<p>The harder ones are when every pod is healthy, every readin",
+    "link": "https://dev.to/naveens16/building-self-healing-microservices-with-kubernetes-and-service-mesh-j4h",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Build a Real-Time Log Viewer with Python",
+    "desc": "<h1>\n  \n  \n  Build a Real-Time Log Viewer with Python\n</h1>\n\n<p>tags: python, websockets, dashboard, tutorial</p>\n\n\n\n\n<p>tags: python, webso",
+    "link": "https://dev.to/qingluan/build-a-real-time-log-viewer-with-python-1cjb",
     "topic": "general"
   },
   {
-    "title": "Automated Deploy Pipelines: Cutting Release Time From Three Days to Forty Minutes",
-    "desc": "<p>For the first year of Edilec, shipping a release meant blocking out an afternoon and hoping nothing else came up. A deploy was: SSH into ",
-    "link": "https://dev.to/krishnamm/automated-deploy-pipelines-cutting-release-time-from-three-days-to-forty-minutes-1766",
+    "title": "What Payments Infrastructure Taught Me About Building Systems That Don't Break",
+    "desc": "<p><strong>Idempotency, vendor failure, monitoring that catches the invisible outages, and the tradeoffs nobody warns you about, lessons fro",
+    "link": "https://dev.to/mtsammy40/what-payments-infrastructure-taught-me-about-building-systems-that-dont-break-kjo",
     "topic": "general"
   },
   {
-    "title": "\"The AWS runtime-upgrade error map: which errors you'll hit, in what order, for each migration path\"",
-    "desc": "<p>Every deprecated-runtime migration produces the same shape of pain: you bump one version number, redeploy, and get hit with errors that l",
-    "link": "https://dev.to/ntoledo319/the-aws-runtime-upgrade-error-map-which-errors-youll-hit-in-what-order-for-each-migration-path-55d5",
+    "title": "AWS VPC Extended \u2014 Route Tables, Blackhole Routes, Flow Logs, VPC Endpoints & Transit Gateway",
+    "desc": "<blockquote>\n<p>Part of my AWS learning journey \u2014 transitioning from Systems Engineer to Cloud/DevOps. This builds directly on the previous ",
+    "link": "https://dev.to/tejas_shinkar/aws-vpc-extended-route-tables-blackhole-routes-flow-logs-vpc-endpoints-transit-gateway-og4",
     "topic": "aws"
   },
   {
-    "title": "Kimi K3 vs Opus 5 vs GPT-5.6 Sol: Practical Model Routing",
-    "desc": "<p>Claude Opus 5 fits difficult repository work, GPT-5.6 Sol fits math-heavy Codex work, and Kimi K3 fits lower-cost, open-weight volume.</p",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/kimi-k3-vs-opus-5-vs-gpt-56-sol-practical-model-routing-646",
-    "topic": "general"
-  },
-  {
-    "title": "OLSOL Exchange (Obsidian Ledger Solutions) Advances Scalable Cloud Architecture for Digital Infrastructure Stability",
-    "desc": "<p>As digital infrastructure becomes more complex, cloud computing has become one of the most important foundations for platform stability, ",
-    "link": "https://dev.to/olsolexchange/olsol-exchange-obsidian-ledger-solutions-advances-scalable-cloud-architecture-for-digital-4m8n",
-    "topic": "general"
-  },
-  {
-    "title": "Why Every Cloud Engineer Should Learn Terraform",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/subha_74/why-every-cloud-engineer-should-learn-terraform-29i3",
-    "topic": "terraform"
-  },
-  {
-    "title": "Helm Values Staging vs Prod: 3 Mistakes That Broke Uptime",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/31/helm-values-staging-vs-prod-3-mistakes-that-broke-uptime\" rel=\"noo",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/helm-values-staging-vs-prod-3-mistakes-that-broke-uptime-2295",
-    "topic": "general"
-  },
-  {
-    "title": "What Is Infrastructure as Code (IaC)?",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/subha_74/what-is-infrastructure-as-code-iac-3l00",
+    "title": "Beyond Task Execution: Designing Secure Enterprise Scheduling Systems",
+    "desc": "<h2>\n  \n  \n  What I learned about identity, access control, and operational resilience\n</h2>\n\n<p>When people think about workload scheduling",
+    "link": "https://dev.to/weeli_632477a9c141395/beyond-task-execution-designing-secure-enterprise-scheduling-systems-4l0b",
     "topic": "general"
   }
 ]

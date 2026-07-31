@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
+    "desc": "<p>The internet giant has built an agent harness to find vulnerabilities across Chrome\u2019s codebase.</p>\n<p>The post <a href=\"https://www.secu",
+    "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
+    "topic": "general"
+  },
+  {
+    "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
+    "desc": "<p>A security company\u2019s systems were hacked after it installed a malicious Python package deployed by Claude.\u00a0</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
+    "topic": "openai"
+  },
+  {
+    "title": "Critical Flaw Led to Azure Cosmos DB Pwnage",
+    "desc": "<p>Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
+    "topic": "azure"
+  },
+  {
+    "title": "CareCloud Data Breach Impacts Over 350,000",
+    "desc": "<p>In March 2026, hackers stole personal, financial, and medical information from the company\u2019s AWS environment.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
+    "topic": "secops"
+  },
+  {
     "title": "Critical Code Execution Vulnerability Patched in TeamCity",
     "desc": "<p>Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.</p>\n<p>The post <a",
     "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
@@ -22,29 +46,5 @@
     "desc": "<p>The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete mo",
     "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
     "topic": "general"
-  },
-  {
-    "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
-    "desc": "<p>The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, ",
-    "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
-    "topic": "general"
-  },
-  {
-    "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
-    "desc": "<p>The company will accelerate investments in R&D and product innovation to expand its agentic data control plane.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
-    "topic": "general"
-  },
-  {
-    "title": "Cantina Emerges From Stealth With $8 Million in Funding",
-    "desc": "<p>The startup\u2019s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities.</p>\n<p>T",
-    "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
-    "topic": "general"
-  },
-  {
-    "title": "Discern Security Raises $13 Million in Series A Funding",
-    "desc": "<p>The company will invest in accelerating the development and adoption of its agentic platform.</p>\n<p>The post <a href=\"https://www.securi",
-    "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
-    "topic": "secops"
   }
 ]
