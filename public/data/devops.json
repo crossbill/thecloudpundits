@@ -1,50 +1,50 @@
 [
   {
+    "title": "I Couldn't Find a Set-and-Forget Monitoring API, So I Built One With Webhook Alerts",
+    "desc": "<p>Hi,</p>\n\n<p>I recently wanted to integrate automated domain and SSL monitoring into a couple of my personal projects. I checked RapidAPI ",
+    "link": "https://dev.to/gustavo1500/i-couldnt-find-a-set-and-forget-monitoring-api-so-i-built-one-with-webhook-alerts-2ob2",
+    "topic": "general"
+  },
+  {
+    "title": "The Five Ideals of DevOps: os Cinco Ideais que Sustentam a Transforma\u00e7\u00e3o DevOps",
+    "desc": "<p>Toda organiza\u00e7\u00e3o que tenta \"fazer DevOps\" acaba, cedo ou tarde, comprando um Jenkins, adotando Kubernetes e escrevendo Terraform e mesmo ",
+    "link": "https://dev.to/luiscruzcwb/the-five-ideals-of-devops-os-cinco-ideais-que-sustentam-a-transformacao-devops-c24",
+    "topic": "general"
+  },
+  {
+    "title": "Where you host your MCP server decides whether it still works in three months",
+    "desc": "<p>I probed every remote MCP server listed in the official registry \u2014 10,716 endpoints \u2014 and then asked a question the aggregate numbers hid",
+    "link": "https://dev.to/theopslog/where-you-host-your-mcp-server-decides-whether-it-still-works-in-three-months-1hg1",
+    "topic": "general"
+  },
+  {
+    "title": "The Database Backup Quest: A Hero's Journey (Inspired by The Matrix)",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Picture this: it\u2019s 2\u202fa.m., the pager screeches, and the monitoring dashboard is flashing",
+    "link": "https://dev.to/timevolt/the-database-backup-quest-a-heros-journey-inspired-by-the-matrix-3j2f",
+    "topic": "general"
+  },
+  {
+    "title": "The Reliability Roadmap: A 90-Day Plan for New SRE Teams",
+    "desc": "<p>New SRE team at your company? Here's a 90-day plan I've used twice. It works because it balances 'show immediate value' with 'build for t",
+    "link": "https://dev.to/samson_tanimawo/the-reliability-roadmap-a-90-day-plan-for-new-sre-teams-3af9",
+    "topic": "general"
+  },
+  {
+    "title": "Learning AWS CloudFormation: A Practical Introduction",
+    "desc": "<p>AWS CloudFormation lets you manage your AWS infrastructure using code. Instead of setting up resources by hand, you write a template in J",
+    "link": "https://dev.to/arash_zand/learning-aws-cloudformation-a-practical-introduction-26om",
+    "topic": "aws"
+  },
+  {
+    "title": "Two Agents Can't Reach Each Other? Here's the Debugging Checklist I Use",
+    "desc": "<p>You write Agent A, deploy it on a cloud VM. You write Agent B, run it on your laptop. Agent A sends a message. Nothing comes back. No err",
+    "link": "https://dev.to/pstayet/two-agents-cant-reach-each-other-heres-the-debugging-checklist-i-use-4hi",
+    "topic": "general"
+  },
+  {
     "title": "Your AI Pilot Did Not Fail. Nobody Owned the Workflow.",
     "desc": "<p>One morning a system of mine filed a report I had learned to like: nothing to do. Zero items flagged. Zero actions needed. A clean, quiet",
     "link": "https://dev.to/danmercede/your-ai-pilot-did-not-fail-nobody-owned-the-workflow-14c1",
-    "topic": "general"
-  },
-  {
-    "title": "The Approve Button That Wasn't Attached to Anything",
-    "desc": "<p>A common safety story follows AI agents into production: a human approves everything before it goes out.</p>\n\n<p>I use that pattern too. ",
-    "link": "https://dev.to/danmercede/the-approve-button-that-wasnt-attached-to-anything-5eln",
-    "topic": "general"
-  },
-  {
-    "title": "Why Most AI Governance Starts Too Late",
-    "desc": "<p><strong>Policies, dashboards, and audit logs make AI systems observable. They do not make them governable. Once an agent can change state",
-    "link": "https://dev.to/danmercede/why-most-ai-governance-starts-too-late-1jcg",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Do My AI Coding Agents Actually Learn? I Built a Way to Measure It",
-    "desc": "<p>I fingerprinted a year of review findings across ~40 repos. 22% recurred. What unsettled me wasn't the number. It was realizing I had no ",
-    "link": "https://dev.to/danmercede/do-my-ai-coding-agents-actually-learn-i-built-a-way-to-measure-it-2j4e",
-    "topic": "general"
-  },
-  {
-    "title": "I checked every MCP server in the official registry. About 1 in 10 is broken.",
-    "desc": "<p>There is a number going around that roughly half of all remote MCP servers are dead.</p>\n\n<p>I had repeated it myself, in the README of a",
-    "link": "https://dev.to/theopslog/i-checked-every-mcp-server-in-the-official-registry-about-1-in-10-is-broken-1ehj",
-    "topic": "general"
-  },
-  {
-    "title": "Runtime Supply Chain Verification using the Node Resource Interface (NRI)",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/runtime-supply-chain-verification-using-the-node-resource-interf",
-    "link": "https://dev.to/rasne/runtime-supply-chain-verification-using-the-node-resource-interface-nri-2a5n",
-    "topic": "general"
-  },
-  {
-    "title": "Debugging inbound webhooks locally without a tunnel",
-    "desc": "<p>Testing an inbound webhook is annoying in a way that's out of proportion to the problem.</p>\n\n<p>A provider \u2014 Stripe, GitHub, Shopify, wh",
-    "link": "https://dev.to/indiesquadtools/debugging-inbound-webhooks-locally-without-a-tunnel-3n43",
-    "topic": "general"
-  },
-  {
-    "title": "OpenTelemetry Is Becoming the Linux of Observability.",
-    "desc": "<p>There was a time when observability was fragmented.</p>\n\n<p>Metrics came from one system. Logs from another. Tracing required a completel",
-    "link": "https://dev.to/kubeha_18/opentelemetry-is-becoming-the-linux-of-observability-3ln2",
     "topic": "general"
   }
 ]
