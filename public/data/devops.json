@@ -1,50 +1,50 @@
 [
   {
-    "title": "The First Home AI I\u2019d Trust Is a Boring 6am Incident Bot",
-    "desc": "<p>I keep coming back to one test whenever someone pitches me \u201cAI for the smart home.\u201d</p>\n\n<p>Would I trust it at <strong>6am</strong>, hal",
-    "link": "https://dev.to/lars_winstand/the-first-home-ai-id-trust-is-a-boring-6am-incident-bot-2bc6",
-    "topic": "secops"
+    "title": "Why Career Upskilling Matters More Than Ever in the AI Era",
+    "desc": "<p>Artificial Intelligence is changing the way people work. </p>\n\n<p>It is helping professionals write faster, summarize information, analyz",
+    "link": "https://dev.to/brillius/why-career-upskilling-matters-more-than-ever-in-the-ai-era-3hhi",
+    "topic": "general"
   },
   {
-    "title": "Cloud Security Architecture: From Shared Responsibility to Zero Trust",
-    "desc": "<p>Cloud security incidents that make news are rarely the result of a novel attack technique. They are the result of misconfiguration, over-",
-    "link": "https://dev.to/aloknecessary/cloud-security-architecture-from-shared-responsibility-to-zero-trust-4jc7",
-    "topic": "secops"
+    "title": "Automate Onboarding for Success",
+    "desc": "<p>Don't let onboarding be a bottleneck. Automate with clear documentation and tools to ensure new team members hit the ground running and f",
+    "link": "https://dev.to/fabiosarmento/automate-onboarding-for-success-2gfd",
+    "topic": "general"
   },
   {
-    "title": "Interaction-Layer vs Perimeter Security: Where AI Risk Actually Lives",
-    "desc": "<p><em>If you've ever tried to explain to a security team why their SIEM didn't flag a prompt injection attempt, this is the underlying arch",
-    "link": "https://dev.to/sunychoudhary/interaction-layer-vs-perimeter-security-where-ai-risk-actually-lives-3c1a",
-    "topic": "secops"
+    "title": "AI Should Not Be Your Quality Gate: A Safer Pattern for Agentic QA",
+    "desc": "<p>Adding an AI call to a CI/CD pipeline is easy.</p>\n\n<p>Giving that AI the correct amount of authority is the hard part.</p>\n\n<p>An AI mod",
+    "link": "https://dev.to/giscarunir/ai-should-not-be-your-quality-gate-a-safer-pattern-for-agentic-qa-2n88",
+    "topic": "general"
   },
   {
-    "title": "Building Self-Healing Microservices with Kubernetes and Service Mesh",
-    "desc": "<p>A container crashing is usually the easiest failure you'll deal with.</p>\n\n<p>The harder ones are when every pod is healthy, every readin",
-    "link": "https://dev.to/naveens16/building-self-healing-microservices-with-kubernetes-and-service-mesh-j4h",
+    "title": "Deploying ImgProxy \u2013 Process, Resize, Convert Images on the Fly",
+    "desc": "<p>ImgProxy is an open-source image-processing server \u2014 resize, convert, and transform images on the fly via URL parameters, ideal as a cach",
+    "link": "https://dev.to/vultr/deploying-imgproxy-process-resize-convert-images-on-the-fly-5ab0",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying code-server for VS Code on Ubuntu 24.04",
+    "desc": "<p>code-server is the open-source project that runs full VS Code including extensions, integrated terminal, Git, IntelliSense \u2014 on a remote ",
+    "link": "https://dev.to/vultr/deploying-code-server-for-vs-code-on-ubuntu-2404-4o9e",
+    "topic": "general"
+  },
+  {
+    "title": "Getting Started on MOCO Part 2: Backup and Restore to MinIO (and the davfs2 Bug That Broke It)",
+    "desc": "<p>A 74GB dump finished in 1h23m without a single warning. Then the upload to MinIO died with <code>IncompleteBody</code>, every time, on ev",
+    "link": "https://dev.to/mucheru/getting-started-on-moco-part-2-backup-and-restore-to-minio-and-the-davfs2-bug-that-broke-it-31il",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying Metabase on Kubernetes",
+    "desc": "<p>Metabase is an open-source BI tool for building charts and dashboards over MySQL, PostgreSQL, MongoDB, Redshift, and more. This guide dep",
+    "link": "https://dev.to/vultr/deploying-metabase-on-kubernetes-48gh",
     "topic": "kubernetes"
   },
   {
-    "title": "Build a Real-Time Log Viewer with Python",
-    "desc": "<h1>\n  \n  \n  Build a Real-Time Log Viewer with Python\n</h1>\n\n<p>tags: python, websockets, dashboard, tutorial</p>\n\n\n\n\n<p>tags: python, webso",
-    "link": "https://dev.to/qingluan/build-a-real-time-log-viewer-with-python-1cjb",
-    "topic": "general"
-  },
-  {
-    "title": "What Payments Infrastructure Taught Me About Building Systems That Don't Break",
-    "desc": "<p><strong>Idempotency, vendor failure, monitoring that catches the invisible outages, and the tradeoffs nobody warns you about, lessons fro",
-    "link": "https://dev.to/mtsammy40/what-payments-infrastructure-taught-me-about-building-systems-that-dont-break-kjo",
-    "topic": "general"
-  },
-  {
-    "title": "AWS VPC Extended \u2014 Route Tables, Blackhole Routes, Flow Logs, VPC Endpoints & Transit Gateway",
-    "desc": "<blockquote>\n<p>Part of my AWS learning journey \u2014 transitioning from Systems Engineer to Cloud/DevOps. This builds directly on the previous ",
-    "link": "https://dev.to/tejas_shinkar/aws-vpc-extended-route-tables-blackhole-routes-flow-logs-vpc-endpoints-transit-gateway-og4",
+    "title": "Amazon DVA-C02 Certification: Complete Guide to AWS Certified Developer \u2013 Associate",
+    "desc": "<p>Cloud-native application development has become an essential skill for modern software engineers. Organizations increasingly rely on Amaz",
+    "link": "https://dev.to/sam762161/amazon-dva-c02-certification-complete-guide-to-aws-certified-developer-associate-4j62",
     "topic": "aws"
-  },
-  {
-    "title": "Beyond Task Execution: Designing Secure Enterprise Scheduling Systems",
-    "desc": "<h2>\n  \n  \n  What I learned about identity, access control, and operational resilience\n</h2>\n\n<p>When people think about workload scheduling",
-    "link": "https://dev.to/weeli_632477a9c141395/beyond-task-execution-designing-secure-enterprise-scheduling-systems-4l0b",
-    "topic": "general"
   }
 ]
