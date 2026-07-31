@@ -1,50 +1,50 @@
 [
   {
-    "title": "Herdr is tmux for coding agents",
-    "desc": "<p>Most AI coding tools still assume one human watching one agent do one thing. That is useful, but it is not where the interesting leverage",
-    "link": "https://dev.to/pvgomes/herdr-is-tmux-for-coding-agents-3h2a",
+    "title": "Kubernetes earned its security badge in 2017 and never came back",
+    "desc": "<p>Kubernetes has an <a href=\"https://www.bestpractices.dev/projects/569\" rel=\"noopener noreferrer\">OpenSSF Best Practices badge</a>. It ear",
+    "link": "https://dev.to/svyatov/kubernetes-earned-its-security-badge-in-2017-and-never-came-back-58eh",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Recovering lost work with git reflog",
+    "desc": "<p>If you're like me when I started, you've done a <code>git reset --hard</code> at least once and immediately felt that specific kind of dr",
+    "link": "https://dev.to/fj_palacios/recovering-lost-work-with-git-reflog-4j2o",
     "topic": "general"
   },
   {
-    "title": "Dev Platform: Teaching AWS to Trust My Cluster",
-    "desc": "<p><em>Milestone 2, part one: IRSA without the magic \u2014 OIDC from first principles, and hosting my own OpenID provider on an S3 bucket</em></",
-    "link": "https://dev.to/denesbeck/dev-platform-teaching-aws-to-trust-my-cluster-4cbl",
-    "topic": "aws"
-  },
-  {
-    "title": "A big win for Android interoperability",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/a-big-win-for-android-interoperability\" rel=\"noopener noreferrer",
-    "link": "https://dev.to/rasne/a-big-win-for-android-interoperability-5128",
+    "title": "Nine Seconds",
+    "desc": "<p>How \u201cAI erases human knowledge\u201d stopped being science fiction, and why the real version looks nothing like the movie.</p>\n\n<p>For about f",
+    "link": "https://dev.to/mainulspace/nine-seconds-13jb",
     "topic": "general"
   },
   {
-    "title": "AI-Assisted Code Reviews: Your New Pair Programmer",
-    "desc": "<h1>\n  \n  \n  AI-Assisted Code Reviews: Your New Pair Programmer\n</h1>\n\n<p>Let's be real\u2014code reviews are necessary but tedious. You're alrea",
-    "link": "https://dev.to/learnairesource/ai-assisted-code-reviews-your-new-pair-programmer-2mf4",
+    "title": "Productionizing an MCP-Based AI Agent with Docker, Kubernetes, CI/CD, and Observability",
+    "desc": "<p>Building an AI agent locally is an exciting first step. Running that same agent reliably in production is a different challenge.</p>\n\n<p>",
+    "link": "https://dev.to/sushyam_n/productionizing-an-mcp-based-ai-agent-with-docker-kubernetes-cicd-and-observability-5gkn",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Debian in the Cloud-Native Era: Why the \"Old Reliable\" Still Rules in 2026",
+    "desc": "<p>When we think of Debian, what usually comes to mind is rock-solid stability, servers running uninterrupted for years, and an unwavering c",
+    "link": "https://dev.to/sirfritz/debian-in-the-cloud-native-era-why-the-old-reliable-still-rules-in-2026-783",
     "topic": "general"
   },
   {
-    "title": "How to Automatically Restart a Python Script When It Crashes",
-    "desc": "<blockquote>\n<p>Several ways to auto restart python script on crash \u2014 a bash while loop, systemd, and StayPresent \u2014 with tradeoffs for each.",
-    "link": "https://dev.to/codenamew/how-to-automatically-restart-a-python-script-when-it-crashes-4mjl",
+    "title": "Docker OIDC connections for GitHub Actions available for Docker Orgs",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/docker-oidc-connections-for-github-actions-available-for-docker-",
+    "link": "https://dev.to/rasne/docker-oidc-connections-for-github-actions-available-for-docker-orgs-46m2",
+    "topic": "docker"
+  },
+  {
+    "title": "Who Provides the Best E-commerce Website Development Services?",
+    "desc": "<p>Finding the right company for an online store can make a big difference. The best providers of <a href=\"https://acelan.ai/services/web-de",
+    "link": "https://dev.to/jacobfoster21/who-provides-the-best-e-commerce-website-development-services-2fa",
     "topic": "general"
   },
   {
-    "title": "Vigilmon vs Grafana Cloud: Focused Uptime vs Full Observability Platform",
-    "desc": "<h1>\n  \n  \n  Vigilmon vs Grafana Cloud: External Uptime Monitoring vs. Full Observability Stack\n</h1>\n\n<p>There's a setup story that plays o",
-    "link": "https://dev.to/vigilmon/vigilmon-vs-grafana-cloud-focused-uptime-vs-full-observability-platform-76",
-    "topic": "general"
-  },
-  {
-    "title": "Vigilmon vs Prometheus: When You Need Uptime Monitoring vs Metrics Collection",
-    "desc": "<h1>\n  \n  \n  Vigilmon vs Prometheus: External Uptime Monitoring vs Pull-Based Metrics\n</h1>\n\n<p>Prometheus is one of the most widely adopted",
-    "link": "https://dev.to/vigilmon/vigilmon-vs-prometheus-when-you-need-uptime-monitoring-vs-metrics-collection-4epn",
-    "topic": "general"
-  },
-  {
-    "title": "Vigilmon vs PagerDuty: Uptime Monitoring vs. Incident Management",
-    "desc": "<h1>\n  \n  \n  Vigilmon vs PagerDuty: Uptime Monitoring vs. Incident Management\n</h1>\n\n<p>A common moment in a growing engineering team: your ",
-    "link": "https://dev.to/vigilmon/vigilmon-vs-pagerduty-uptime-monitoring-vs-incident-management-5djp",
-    "topic": "secops"
+    "title": "Name a container port, then expose it with a NodePort Service (CKA)",
+    "desc": "<h2>\n  \n  \n  Name a container port, then expose it with a NodePort Service (CKA)\n</h2>\n\n<p>This is a two minute question. In the exam you sh",
+    "link": "https://dev.to/thecybersidekick/name-a-container-port-then-expose-it-with-a-nodeport-service-cka-44do",
+    "topic": "docker"
   }
 ]
