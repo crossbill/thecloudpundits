@@ -1,50 +1,50 @@
 [
   {
-    "title": "Model Context Protocol 2.0: Architecting Stateless, Enterprise-Scale Agent Infrastructure",
-    "desc": "<h2>\n  \n  \n  The Architectural Shift: From Stateful Sessions to a Stateless Core\n</h2>\n\n<p>When the Model Context Protocol (MCP) was first i",
-    "link": "https://dev.to/isuvo/model-context-protocol-20-architecting-stateless-enterprise-scale-agent-infrastructure-3in5",
+    "title": "Benchmark",
+    "desc": "",
+    "link": "https://dev.to/tosiiko/benchmark-26nf",
     "topic": "general"
   },
   {
-    "title": "How I Put My Agent in CI to Automate Release Notes",
-    "desc": "<p>When I joined Entire, I noticed my boss spending a chunk of time every week writing detailed release notes, called Dispatches at Entire. ",
-    "link": "https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h",
+    "title": "SRE: correos de cambio con contexto verificable",
+    "desc": "<p>En muchas guardias el correo operativo se trata como un detalle menor. Hasta que deja de serlo. Un cambio sale bien, la app responde, los",
+    "link": "https://dev.to/alexcarteruk/sre-correos-de-cambio-con-contexto-verificable-138c",
     "topic": "general"
   },
   {
-    "title": "From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon",
-    "desc": "<h2>\n  \n  \n  The Situation\n</h2>\n\n<p>Our team's CI/CD pipeline on <strong>Azure DevOps</strong> was taking <strong>15 minutes</strong> to co",
-    "link": "https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523",
+    "title": "Zero-Downtime Deploy to a VPS with GitHub Actions",
+    "desc": "<p>Managed deployment services like Laravel Forge and Envoyer are excellent and I use them on larger client projects. But you don't need the",
+    "link": "https://dev.to/dineshstack/zero-downtime-deploy-to-a-vps-with-github-actions-15a9",
     "topic": "general"
   },
   {
-    "title": "How to identify which customers are affected by API failures",
-    "desc": "<p>Most API monitoring starts with endpoints:</p>\n\n<ul>\n<li>Which route is failing?</li>\n<li>What is the error rate?</li>\n<li>Did latency in",
-    "link": "https://dev.to/pavel_rznar_06f7017c4f33/how-to-identify-which-customers-are-affected-by-api-failures-2m4d",
+    "title": "The C2 Channel Is a Headless Browser",
+    "desc": "<p>Cisco Talos published analysis on July 23 of a Rust-based RAT they've named msaRAT, attributed to the Chaos ransomware group. The interes",
+    "link": "https://dev.to/kkierii/the-c2-channel-is-a-headless-browser-30j7",
     "topic": "general"
   },
   {
-    "title": "Modern Automotive Data Pipelines: Processing Used and Damaged Car Acquisitions at Scale",
+    "title": "The Bus Factor Is a Documentation Problem",
+    "desc": "<p>Every small team has a number it doesn't like to say out loud: how many people can get hit by a bus before the project dies. For a lot of",
+    "link": "https://dev.to/oskarreyesdev/the-bus-factor-is-a-documentation-problem-21ic",
+    "topic": "general"
+  },
+  {
+    "title": "The Drills Passed. Reality Did Not.",
+    "desc": "<p>A question at 00:36 about Nostr got a flat no. Two minutes later, a question about Buzz got a qualified yes. By 23:31 there was a product",
+    "link": "https://dev.to/jeremy_longshore/the-drills-passed-reality-did-not-1agc",
+    "topic": "general"
+  },
+  {
+    "title": "What is a virtual MCP server? Curating tools across MCP servers",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> A virtual MCP server combines tools from several real MCP servers into one curated server your app c",
+    "link": "https://dev.to/sahajmeet_kaur_/what-is-a-virtual-mcp-server-curating-tools-across-mcp-servers-28lh",
+    "topic": "general"
+  },
+  {
+    "title": "31 Ways to Bridge Ethereum Using Advanced Routing Systems",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/germanautoexpert_f1777898/modern-automotive-data-pipelines-processing-used-and-damaged-car-acquisitions-at-scale-18j0",
+    "link": "https://dev.to/angil_bray_e6e3d30d148d51/31-ways-to-bridge-ethereum-using-advanced-routing-systems-249a",
     "topic": "general"
-  },
-  {
-    "title": "Tailscale didn't stop the Hugging Face intrusion",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/tailscale-didnt-stop-the-hugging-face-intrusion\" rel=\"noopener n",
-    "link": "https://dev.to/rasne/tailscale-didnt-stop-the-hugging-face-intrusion-2dc0",
-    "topic": "huggingface"
-  },
-  {
-    "title": "How to Deploy Self-Hosted n8n on a \u20ac3.99/mo European VPS",
-    "desc": "<p>Step-by-step Docker Compose deployment for n8n automation.<br />\n<a href=\"https://cloudhoste.eu/n8n-hosting.html\" rel=\"noopener noreferre",
-    "link": "https://dev.to/cloudhoste/how-to-deploy-self-hosted-n8n-on-a-eu399mo-european-vps-28cl",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes v1.37 Sneak Peek",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/kubernetes-v137-sneak-peek\" rel=\"noopener noreferrer\">Kubernetes",
-    "link": "https://dev.to/rasne/kubernetes-v137-sneak-peek-13hn",
-    "topic": "kubernetes"
   }
 ]
