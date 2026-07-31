@@ -1,50 +1,50 @@
 [
   {
-    "title": "peaq Network RPC Endpoint: Chain Settings, Tips, and Debugging",
-    "desc": "<p>The peaq network RPC is the endpoint that applications use to read and write data on the peaq blockchain, an EVM-compatible Layer-1 for d",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/peaq-network-rpc-endpoint-chain-settings-tips-and-debugging-2hi8",
+    "title": "My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore",
+    "desc": "<p>Ciao Amici \ud83d\udc4b</p>\n\n<p>Grab your chai, because the robot accountant is back, and this time we have a moving-day story. If you read my last ",
+    "link": "https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo",
     "topic": "general"
   },
   {
-    "title": "Moonbeam Uptime: How to Evaluate RPC Reliability",
-    "desc": "<p>Moonbeam's RPC uptime is one of those numbers that matters most when it stops being 100%. A down or unresponsive endpoint can freeze your",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/moonbeam-uptime-how-to-evaluate-rpc-reliability-5coh",
+    "title": "Automated Deploy Pipelines: Cutting Release Time From Three Days to Forty Minutes",
+    "desc": "<p>For the first year of Edilec, shipping a release meant blocking out an afternoon and hoping nothing else came up. A deploy was: SSH into ",
+    "link": "https://dev.to/krishnamm/automated-deploy-pipelines-cutting-release-time-from-three-days-to-forty-minutes-1766",
     "topic": "general"
   },
   {
-    "title": "Integritee RPC Endpoints: Chain Settings and Migration Path",
-    "desc": "<h2>\n  \n  \n  Integritee RPC decision checklist\n</h2>\n\n<p>Before you point a wallet, indexer, or dApp at an Integritee node, confirm four thi",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/integritee-rpc-endpoints-chain-settings-and-migration-path-552n",
+    "title": "\"The AWS runtime-upgrade error map: which errors you'll hit, in what order, for each migration path\"",
+    "desc": "<p>Every deprecated-runtime migration produces the same shape of pain: you bump one version number, redeploy, and get hit with errors that l",
+    "link": "https://dev.to/ntoledo319/the-aws-runtime-upgrade-error-map-which-errors-youll-hit-in-what-order-for-each-migration-path-55d5",
+    "topic": "aws"
+  },
+  {
+    "title": "Kimi K3 vs Opus 5 vs GPT-5.6 Sol: Practical Model Routing",
+    "desc": "<p>Claude Opus 5 fits difficult repository work, GPT-5.6 Sol fits math-heavy Codex work, and Kimi K3 fits lower-cost, open-weight volume.</p",
+    "link": "https://dev.to/tran_tienvan_e45fc26d655/kimi-k3-vs-opus-5-vs-gpt-56-sol-practical-model-routing-646",
     "topic": "general"
   },
   {
-    "title": "Binance Smart Chain Nodes: Full, Archive, and RPC Options",
-    "desc": "<p>Running a BNB Smart Chain node used to be a checklist item for serious BSC projects. Today you have three options: run your own node from",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/binance-smart-chain-nodes-full-archive-and-rpc-options-4kdg",
+    "title": "OLSOL Exchange (Obsidian Ledger Solutions) Advances Scalable Cloud Architecture for Digital Infrastructure Stability",
+    "desc": "<p>As digital infrastructure becomes more complex, cloud computing has become one of the most important foundations for platform stability, ",
+    "link": "https://dev.to/olsolexchange/olsol-exchange-obsidian-ledger-solutions-advances-scalable-cloud-architecture-for-digital-4m8n",
     "topic": "general"
   },
   {
-    "title": "Sui RPC Network: Endpoints, Methods, and Debugging",
-    "desc": "<h2>\n  \n  \n  Sui RPC decision checklist\n</h2>\n\n<p>Before you connect an app to the Sui RPC network, run through this checklist:</p>\n\n<ul>\n<l",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/sui-rpc-network-endpoints-methods-and-debugging-3dkf",
+    "title": "Why Every Cloud Engineer Should Learn Terraform",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/subha_74/why-every-cloud-engineer-should-learn-terraform-29i3",
+    "topic": "terraform"
+  },
+  {
+    "title": "Helm Values Staging vs Prod: 3 Mistakes That Broke Uptime",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/07/31/helm-values-staging-vs-prod-3-mistakes-that-broke-uptime\" rel=\"noo",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/helm-values-staging-vs-prod-3-mistakes-that-broke-uptime-2295",
     "topic": "general"
   },
   {
-    "title": "Unichain RPC Endpoint: Chain Settings and How to Connect",
-    "desc": "<h2>\n  \n  \n  Unichain RPC decision checklist\n</h2>\n\n<p>Before you point a wallet, indexer, or dApp at Unichain, confirm these details:</p>\n\n",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/unichain-rpc-endpoint-chain-settings-and-how-to-connect-3a6g",
-    "topic": "general"
-  },
-  {
-    "title": "Moonbeam RPC Endpoint: Chain Settings, Faucet, and Debugging",
-    "desc": "<p>Moonbeam is an Ethereum-compatible smart contract parachain in the Polkadot ecosystem. A Moonbeam RPC endpoint is the URL your wallet, dA",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/moonbeam-rpc-endpoint-chain-settings-faucet-and-debugging-2h16",
-    "topic": "general"
-  },
-  {
-    "title": "BNB Smart Chain Endpoint: RPC URLs, Chain Settings, Debugging",
-    "desc": "<h2>\n  \n  \n  BNB Smart Chain endpoint decision checklist\n</h2>\n\n<p>A BNB Smart Chain endpoint is the HTTP or WebSocket URL your app uses to ",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/bnb-smart-chain-endpoint-rpc-urls-chain-settings-debugging-1f5f",
+    "title": "What Is Infrastructure as Code (IaC)?",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/subha_74/what-is-infrastructure-as-code-iac-3l00",
     "topic": "general"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "title": "Critical Code Execution Vulnerability Patched in TeamCity",
+    "desc": "<p>Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
+    "topic": "secops"
+  },
+  {
     "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
     "desc": "<p>CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota sy",
     "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
@@ -39,12 +45,6 @@
     "title": "Discern Security Raises $13 Million in Series A Funding",
     "desc": "<p>The company will invest in accelerating the development and adoption of its agentic platform.</p>\n<p>The post <a href=\"https://www.securi",
     "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
-    "topic": "secops"
-  },
-  {
-    "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
-    "desc": "<p>The Series B funding round brings the total raised by Onyx Security to $153 million.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.c",
-    "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
     "topic": "secops"
   }
 ]
