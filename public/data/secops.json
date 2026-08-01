@@ -1,5 +1,11 @@
 [
   {
+    "title": "Ruby on Rails Patches Critical Vulnerability",
+    "desc": "<p>The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE).</p>\n<",
+    "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
     "desc": "<p>Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Educa",
     "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
@@ -39,12 +45,6 @@
     "title": "CareCloud Data Breach Impacts Over 350,000",
     "desc": "<p>In March 2026, hackers stole personal, financial, and medical information from the company\u2019s AWS environment.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
-    "topic": "secops"
-  },
-  {
-    "title": "Critical Code Execution Vulnerability Patched in TeamCity",
-    "desc": "<p>Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
     "topic": "secops"
   }
 ]
