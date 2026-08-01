@@ -1,50 +1,50 @@
 [
   {
-    "title": "Top 10 Sites to Buy Verified PayPal Accounts In 2026",
-    "desc": "<p>Buy Verified Payoneer Account\u00a0</p>\n\n<p>\ud83d\udcab\ud83d\udc8e\ud83d\udcb2\ud83d\udcab\ud83c\udf10\u2728\ud83d\udc8eFast & Reliable 24/7 Customer Support</p>\n\n<p>\ud83d\udcab\ud83d\udc8e\ud83d\udcb2\ud83d\udcab\ud83c\udf10\u2728\ud83d\udc8eWhatsApp :+1 (506) 541-7768</p>\n\n<p>\ud83d\udcab\ud83d\udc8e",
-    "link": "https://dev.to/sofiedixon4soh7/top-10-sites-to-buy-verified-paypal-accounts-in-2026-29mf",
+    "title": "Go 1.28: container/set, ordered.Map y heap/v2 llegan a la stdlib",
+    "desc": "<p>Go lleva 17 a\u00f1os sin un tipo set nativo en su librer\u00eda est\u00e1ndar: los desarrolladores todav\u00eda escriben map[T]bool o map[T]struct{} cada ve",
+    "link": "https://dev.to/lu1tr0n/go-128-containerset-orderedmap-y-heapv2-llegan-a-la-stdlib-2jm0",
+    "topic": "docker"
+  },
+  {
+    "title": "SRE: correos de incidentes sin ruido operativo",
+    "desc": "<p>En muchos equipos SRE el correo de incidentes sigue siendo un artefacto secundario: sale tarde, resume poco y obliga a abrir cinco tabs p",
+    "link": "https://dev.to/alexcarteruk/sre-correos-de-incidentes-sin-ruido-operativo-5bc6",
+    "topic": "secops"
+  },
+  {
+    "title": "How to Run Two Python Bots on a Single Render or Railway Service",
+    "desc": "<blockquote>\n<p>How to run two bots one dyno style on Render, Railway, or any single-service PaaS deployment without paying for two separate",
+    "link": "https://dev.to/codenamew/how-to-run-two-python-bots-on-a-single-render-or-railway-service-a7p",
     "topic": "general"
   },
   {
-    "title": "AWS CI/CD Explained for Beginners | Understanding AWS CodeCommit, CodePipeline, CodeBuild & CodeDeploy",
-    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Over the past few articles, we have learned how to create AWS infrastructure manually using services lik",
-    "link": "https://dev.to/kadhamvj23/aws-cicd-explained-for-beginners-understanding-aws-codecommit-codepipeline-codebuild--1j3e",
+    "title": "FixingModuleNotFoundError: No module named 'waitress'",
+    "desc": "<blockquote>\n<p>What causes ModuleNotFoundError waitress in a python flask app, and how to fix it properly for production deployment.</p>\n</",
+    "link": "https://dev.to/codenamew/fixingmodulenotfounderror-no-module-named-waitress-2pdd",
+    "topic": "general"
+  },
+  {
+    "title": "Data Consistency in Microservices \u2014 Saga Pattern",
+    "desc": "<blockquote>\n<p><strong>One-liner:</strong> In microservices, you can't use a single database transaction across services \u2014 the Saga pattern",
+    "link": "https://dev.to/gouranga-das-khulna/data-consistency-in-microservices-saga-pattern-4b4d",
+    "topic": "general"
+  },
+  {
+    "title": "Reviving K6's StatsD Extension for Datadog Observability",
+    "desc": "<p>A lot gets said about how data can help us with observability, but much less gets said about how much we can shape the collection itself ",
+    "link": "https://dev.to/osnibjunior/reviving-k6s-statsd-extension-for-datadog-observability-299m",
+    "topic": "general"
+  },
+  {
+    "title": "10 Terraform Mistakes That Break the AWS Well-Architected Framework (And How to Fix Them)",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Terraform has become one of the most widely adopted Infrastructure as Code (IaC) tools for provisioning ",
+    "link": "https://dev.to/haythammostafa/10-terraform-mistakes-that-break-the-aws-well-architected-framework-and-how-to-fix-them-11af",
     "topic": "aws"
   },
   {
-    "title": "Cost Attribution in Shared Infrastructure",
-    "desc": "<p>Your shared Kubernetes cluster costs $80k/month. Which team owes what? If your answer is 'I don't know,' you have a finops problem that's",
-    "link": "https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-h7p",
+    "title": "You warmed the domain up right and reputation held. Six months on it started sliding again. It was the list.",
+    "desc": "<p>The last two posts were about dragging a self-hosted sending domain to the inbox. Auth first, then the slow warm-up. Mine got there, and ",
+    "link": "https://dev.to/basictechnology/you-warmed-the-domain-up-right-and-reputation-held-six-months-on-it-started-sliding-again-it-was-hj5",
     "topic": "general"
-  },
-  {
-    "title": "Your robots.txt decides whether ChatGPT can cite you. Here's the 5-minute check.",
-    "desc": "<p>More and more answers reach your readers through ChatGPT, Claude and Perplexity instead of a blue link. Whether those answers can ever ci",
-    "link": "https://dev.to/siccscha/your-robotstxt-decides-whether-chatgpt-can-cite-you-heres-the-5-minute-check-185l",
-    "topic": "openai"
-  },
-  {
-    "title": "Cost Attribution in Shared Infrastructure",
-    "desc": "<p>Your shared Kubernetes cluster costs $80k/month. Which team owes what? If your answer is 'I don't know,' you have a finops problem that's",
-    "link": "https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-5eei",
-    "topic": "general"
-  },
-  {
-    "title": "\"Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill\"",
-    "desc": "<h1>\n  \n  \n  Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill\n</h1>\n\n<p>Kubernetes interviews often fail when they ",
-    "link": "https://dev.to/da-li-at-pl/kubernetes-interviews-are-broken-when-trivia-matters-more-than-real-skill-40po",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How to Calculate an IPv4 Subnet Range From Any IP Address",
-    "desc": "<h1>\n  \n  \n  How to Calculate an IPv4 Subnet Range From Any IP Address\n</h1>\n\n<p>A CIDR value such as:<br />\n</p>\n\n<div class=\"highlight js-",
-    "link": "https://dev.to/kaifi_azam_21/how-to-calculate-an-ipv4-subnet-range-from-any-ip-address-1518",
-    "topic": "general"
-  },
-  {
-    "title": "I built a tool to check if ChatGPT recommends your business, and found a genuinely interesting LLM quirk along the way",
-    "desc": "<h2>\n  \n  \n  The idea\n</h2>\n\n<p>I kept running into the same thing while researching AI visibility tools. Agencies have basically no idea wh",
-    "link": "https://dev.to/cliff_martin_7c7492171322/i-built-a-tool-to-check-if-chatgpt-recommends-your-business-and-found-a-genuinely-interesting-llm-3lj1",
-    "topic": "openai"
   }
 ]
