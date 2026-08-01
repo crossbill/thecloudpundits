@@ -1,50 +1,50 @@
 [
   {
+    "title": "Warum der Unfallwagenkauf Chefsache ist: Wie Sie besch\u00e4digte Fahrzeuge in Heidenheim unkompliziert zu Geld machen",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/germanautoexpert_f1777898/warum-der-unfallwagenkauf-chefsache-ist-wie-sie-beschadigte-fahrzeuge-in-heidenheim-unkompliziert-30lg",
+    "topic": "general"
+  },
+  {
+    "title": "The marker behind Word's embedded OLE objects",
+    "desc": "<h1>\n  \n  \n  The marker behind Word's embedded OLE objects\n</h1>\n\n<p>An embedded-object relationship or payload says useful things about pac",
+    "link": "https://dev.to/sybilgambleyyu/the-marker-behind-words-embedded-ole-objects-1jeg",
+    "topic": "general"
+  },
+  {
+    "title": "I Keep Forgetting to Delete My AWS Test Resources, So I'm Building a Tool to Yell at Me Instead",
+    "desc": "<p>We've all done it.</p>\n\n<p>You spin up an RDS instance to test something on a Friday afternoon. You attach an EBS volume to a t3.micro th",
+    "link": "https://dev.to/temalcode3/i-keep-forgetting-to-delete-my-aws-test-resources-so-im-building-a-tool-to-yell-at-me-instead-39og",
+    "topic": "aws"
+  },
+  {
+    "title": "Herdr is tmux for coding agents",
+    "desc": "<p>The useful version of the AI productivity story is still boring: throughput goes up when more independent work can happen at the same tim",
+    "link": "https://dev.to/pvgomes/herdr-is-tmux-for-coding-agents-3ai0",
+    "topic": "general"
+  },
+  {
+    "title": "WordPress erreur 502 Bad Gateway : le diagnostic qui marche",
+    "desc": "<p><em>Cet article est une version condens\u00e9e du guide complet publi\u00e9 sur <a href=\"https://wpadminlab.com/wordpress-erreur-502-bad-gateway/\" ",
+    "link": "https://dev.to/wpadminlab/wordpress-erreur-502-bad-gateway-le-diagnostic-qui-marche-3d5b",
+    "topic": "general"
+  },
+  {
+    "title": "The anchors behind Word's embedded controls",
+    "desc": "<h1>\n  \n  \n  The anchors behind Word's embedded controls\n</h1>\n\n<p>\u201cThis Word package contains ActiveX parts\u201d and \u201cthis document has a direc",
+    "link": "https://dev.to/sybilgambleyyu/the-anchors-behind-words-embedded-controls-2734",
+    "topic": "general"
+  },
+  {
+    "title": "One-Shot Drafts Make Cron Writers Safer",
+    "desc": "<p>Scheduled publishing sounds easy until the writer and the publisher start doing each other's job. I learned this the boring way: once a c",
+    "link": "https://dev.to/mrdapperx/one-shot-drafts-make-cron-writers-safer-566l",
+    "topic": "general"
+  },
+  {
     "title": "Herdr and the throughput model of coding agents",
     "desc": "<p>Most AI coding tools are still discussed as if the unit of productivity is one engineer paired with one agent. That is useful for demos, ",
     "link": "https://dev.to/pvgomes/herdr-and-the-throughput-model-of-coding-agents-4mo0",
-    "topic": "general"
-  },
-  {
-    "title": "Word\u2019s other linked-object marker",
-    "desc": "<h1>\n  \n  \n  Word's other linked-object marker\n</h1>\n\n<p>WordprocessingML has a linked-object marker that is easy to blur into a broad<br />",
-    "link": "https://dev.to/sybilgambleyyu/words-other-linked-object-marker-3j6f",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Chaos Engineering CLI Taught Me Why \"It Recovered\" Isn't Enough",
-    "desc": "<p>After building <code>ledger-sentinel</code>, a payment system focused on correctness under concurrent load, I wanted to go one level deep",
-    "link": "https://dev.to/0xkikiola/building-a-chaos-engineering-cli-taught-me-why-it-recovered-isnt-enough-2mh3",
-    "topic": "general"
-  },
-  {
-    "title": "How to evaluate an LLM agent: evals, golden sets, and LLM-as-judge",
-    "desc": "<p><strong>Short answer</strong></p>\n\n<p><strong>You can't unit-test an LLM to correctness, because the same input can take a different path",
-    "link": "https://dev.to/aiarch_wibo/how-to-evaluate-an-llm-agent-evals-golden-sets-and-llm-as-judge-1e2g",
-    "topic": "general"
-  },
-  {
-    "title": "No Ads Hiit Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/no-ads-hiit-timer-what-we-learned-building-random-tactical-timer-3k0f",
-    "topic": "general"
-  },
-  {
-    "title": "The linked Word object hiding in a legacy VML shape",
-    "desc": "<h1>\n  \n  \n  The linked Word object hiding in a legacy VML shape\n</h1>\n\n<p>A Word document can store a linked spreadsheet, chart, or other O",
-    "link": "https://dev.to/sybilgambleyyu/the-linked-word-object-hiding-in-a-legacy-vml-shape-4j6p",
-    "topic": "general"
-  },
-  {
-    "title": "The Dashboard Audit: Finding and Killing Dead Metrics",
-    "desc": "<p>Your Grafana has 400 dashboards. Your team actively uses about 20. The other 380 are dead \u2014 but they still cost you ingest, storage, and ",
-    "link": "https://dev.to/samson_tanimawo/the-dashboard-audit-finding-and-killing-dead-metrics-2a8d",
-    "topic": "general"
-  },
-  {
-    "title": "Day 117: Artifact Registry - AI System Design in Seconds",
-    "desc": "<p>  \n  \n</p>\n\n<h1>\n  \n  \n  Artifact Registry: Securing Your Supply Chain Without Slowing Down\n</h1>\n\n<p>As your deployment pipeline scales,",
-    "link": "https://dev.to/matt_frank_usa/day-117-artifact-registry-ai-system-design-in-seconds-1bk2",
     "topic": "general"
   }
 ]
