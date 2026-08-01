@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Word link your relationship scan cannot see",
-    "desc": "<h1>\n  \n  \n  The Word link your relationship scan cannot see\n</h1>\n\n<p>A relationship scan is useful, but it is not a complete link inventor",
-    "link": "https://dev.to/sybilgambleyyu/the-word-link-your-relationship-scan-cannot-see-44lo",
+    "title": "Herdr and the throughput model of coding agents",
+    "desc": "<p>Most AI coding tools are still discussed as if the unit of productivity is one engineer paired with one agent. That is useful for demos, ",
+    "link": "https://dev.to/pvgomes/herdr-and-the-throughput-model-of-coding-agents-4mo0",
     "topic": "general"
   },
   {
-    "title": "Reachable Doesn't Mean Exploitable. How to Tell the Difference From Configuration Alone.",
-    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n<h2>\n  \n  \n  The finding that means t",
-    "link": "https://dev.to/bala_paranj_059d338e44e7e/reachable-doesnt-mean-exploitable-how-to-tell-the-difference-from-configuration-alone-45f7",
+    "title": "Word\u2019s other linked-object marker",
+    "desc": "<h1>\n  \n  \n  Word's other linked-object marker\n</h1>\n\n<p>WordprocessingML has a linked-object marker that is easy to blur into a broad<br />",
+    "link": "https://dev.to/sybilgambleyyu/words-other-linked-object-marker-3j6f",
     "topic": "general"
   },
   {
-    "title": "Green CI is not a deploy decision",
-    "desc": "<p>It's 17:40 on a Thursday. Sixty-one commits have landed since the last tag. CI is green. Someone in the release channel types: \"are we go",
-    "link": "https://dev.to/deployconfidence/green-ci-is-not-a-deploy-decision-53lc",
+    "title": "Building a Chaos Engineering CLI Taught Me Why \"It Recovered\" Isn't Enough",
+    "desc": "<p>After building <code>ledger-sentinel</code>, a payment system focused on correctness under concurrent load, I wanted to go one level deep",
+    "link": "https://dev.to/0xkikiola/building-a-chaos-engineering-cli-taught-me-why-it-recovered-isnt-enough-2mh3",
     "topic": "general"
   },
   {
-    "title": "6 Failure Modes to Instrument Before You Ship an AI Agent",
-    "desc": "<p>Before you ship an AI agent to production, you need to know what happens when it breaks silently, and most teams don't find out until a c",
-    "link": "https://dev.to/opsveritas/6-failure-modes-to-instrument-before-you-ship-an-ai-agent-3aoj",
+    "title": "How to evaluate an LLM agent: evals, golden sets, and LLM-as-judge",
+    "desc": "<p><strong>Short answer</strong></p>\n\n<p><strong>You can't unit-test an LLM to correctness, because the same input can take a different path",
+    "link": "https://dev.to/aiarch_wibo/how-to-evaluate-an-llm-agent-evals-golden-sets-and-llm-as-judge-1e2g",
     "topic": "general"
   },
   {
-    "title": "Linux Kernel CVEs: What to Patch by Device (26 Jul \u2013 1 Aug 2026)",
-    "desc": "<blockquote>\n<p>The Linux kernel project published 33 Linux kernel CVEs in the week of 26 July to 1 August 2026. Normal-volume week after la",
-    "link": "https://dev.to/raghu_bharadwaj_404e60eb0c/linux-kernel-cves-what-to-patch-by-device-26-jul-1-aug-2026-54g9",
+    "title": "No Ads Hiit Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/no-ads-hiit-timer-what-we-learned-building-random-tactical-timer-3k0f",
     "topic": "general"
   },
   {
-    "title": "Which job schedulers fire on time? We tested ten.",
-    "desc": "<p>One of the application infrastructure products we built for <a href=\"https://www.smplkit.com\" rel=\"noopener noreferrer\">smplkit</a> is an",
-    "link": "https://dev.to/smplkit/which-job-schedulers-fire-on-time-we-tested-ten-e42",
+    "title": "The linked Word object hiding in a legacy VML shape",
+    "desc": "<h1>\n  \n  \n  The linked Word object hiding in a legacy VML shape\n</h1>\n\n<p>A Word document can store a linked spreadsheet, chart, or other O",
+    "link": "https://dev.to/sybilgambleyyu/the-linked-word-object-hiding-in-a-legacy-vml-shape-4j6p",
     "topic": "general"
   },
   {
-    "title": "One Word image link can be two stored markers",
-    "desc": "<h1>\n  \n  \n  One Word image link can be two stored markers\n</h1>\n\n<p>\u201cThis image has a hyperlink\u201d sounds like one fact. In a Word OOXML pack",
-    "link": "https://dev.to/sybilgambleyyu/one-word-image-link-can-be-two-stored-markers-1pe5",
+    "title": "The Dashboard Audit: Finding and Killing Dead Metrics",
+    "desc": "<p>Your Grafana has 400 dashboards. Your team actively uses about 20. The other 380 are dead \u2014 but they still cost you ingest, storage, and ",
+    "link": "https://dev.to/samson_tanimawo/the-dashboard-audit-finding-and-killing-dead-metrics-2a8d",
     "topic": "general"
   },
   {
-    "title": "The Linux Skills That Separate Junior and Senior DevOps Engineers: A Practical Comparison",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Many people believe that becoming a senior DevOps engineer means<br />\nlearning Kubernetes, Terraform, o",
-    "link": "https://dev.to/asepsayyad007/the-linux-skills-that-separate-junior-and-senior-devops-engineers-a-practical-comparison-40jh",
+    "title": "Day 117: Artifact Registry - AI System Design in Seconds",
+    "desc": "<p>  \n  \n</p>\n\n<h1>\n  \n  \n  Artifact Registry: Securing Your Supply Chain Without Slowing Down\n</h1>\n\n<p>As your deployment pipeline scales,",
+    "link": "https://dev.to/matt_frank_usa/day-117-artifact-registry-ai-system-design-in-seconds-1bk2",
     "topic": "general"
   }
 ]
