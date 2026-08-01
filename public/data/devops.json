@@ -1,50 +1,50 @@
 [
   {
-    "title": "Go 1.28: container/set, ordered.Map y heap/v2 llegan a la stdlib",
-    "desc": "<p>Go lleva 17 a\u00f1os sin un tipo set nativo en su librer\u00eda est\u00e1ndar: los desarrolladores todav\u00eda escriben map[T]bool o map[T]struct{} cada ve",
-    "link": "https://dev.to/lu1tr0n/go-128-containerset-orderedmap-y-heapv2-llegan-a-la-stdlib-2jm0",
-    "topic": "docker"
-  },
-  {
-    "title": "SRE: correos de incidentes sin ruido operativo",
-    "desc": "<p>En muchos equipos SRE el correo de incidentes sigue siendo un artefacto secundario: sale tarde, resume poco y obliga a abrir cinco tabs p",
-    "link": "https://dev.to/alexcarteruk/sre-correos-de-incidentes-sin-ruido-operativo-5bc6",
-    "topic": "secops"
-  },
-  {
-    "title": "How to Run Two Python Bots on a Single Render or Railway Service",
-    "desc": "<blockquote>\n<p>How to run two bots one dyno style on Render, Railway, or any single-service PaaS deployment without paying for two separate",
-    "link": "https://dev.to/codenamew/how-to-run-two-python-bots-on-a-single-render-or-railway-service-a7p",
+    "title": "A Word file can assemble itself from outside the package",
+    "desc": "<h1>\n  \n  \n  A Word file can assemble itself from outside the package\n</h1>\n\n<p>An external relationship is not one thing. A hyperlink is us",
+    "link": "https://dev.to/sybilgambleyyu/a-word-file-can-assemble-itself-from-outside-the-package-1h1h",
     "topic": "general"
   },
   {
-    "title": "FixingModuleNotFoundError: No module named 'waitress'",
-    "desc": "<blockquote>\n<p>What causes ModuleNotFoundError waitress in a python flask app, and how to fix it properly for production deployment.</p>\n</",
-    "link": "https://dev.to/codenamew/fixingmodulenotfounderror-no-module-named-waitress-2pdd",
+    "title": "AI Coding Agent Cost Ledger: Find Expensive Sessions Before They Become Normal",
+    "desc": "<p>A coding agent can look productive while quietly turning every pull request into a mystery invoice.</p>\n\n<p>The dangerous part is not one",
+    "link": "https://dev.to/jackm-singularity/ai-coding-agent-cost-ledger-find-expensive-sessions-before-they-become-normal-2em1",
     "topic": "general"
   },
   {
-    "title": "Data Consistency in Microservices \u2014 Saga Pattern",
-    "desc": "<blockquote>\n<p><strong>One-liner:</strong> In microservices, you can't use a single database transaction across services \u2014 the Saga pattern",
-    "link": "https://dev.to/gouranga-das-khulna/data-consistency-in-microservices-saga-pattern-4b4d",
+    "title": "Visible Word content can have an invisible source of truth",
+    "desc": "<p>A Word content control can look like ordinary text while retaining an XML mapping<br />\nthat tells Word where the value belongs\u2014or where ",
+    "link": "https://dev.to/sybilgambleyyu/visible-word-content-can-have-an-invisible-source-of-truth-20g0",
     "topic": "general"
   },
   {
-    "title": "Reviving K6's StatsD Extension for Datadog Observability",
-    "desc": "<p>A lot gets said about how data can help us with observability, but much less gets said about how much we can shape the collection itself ",
-    "link": "https://dev.to/osnibjunior/reviving-k6s-statsd-extension-for-datadog-observability-299m",
+    "title": "Soul in Motion \u2014 10:27 AM | 2026-08-01",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Tweaking an algorithm to improve performance and logic.</li>\n<li>Building and breaking interface pieces f",
+    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1027-am-2026-08-01-53dl",
     "topic": "general"
   },
   {
-    "title": "10 Terraform Mistakes That Break the AWS Well-Architected Framework (And How to Fix Them)",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Terraform has become one of the most widely adopted Infrastructure as Code (IaC) tools for provisioning ",
-    "link": "https://dev.to/haythammostafa/10-terraform-mistakes-that-break-the-aws-well-architected-framework-and-how-to-fix-them-11af",
-    "topic": "aws"
+    "title": "Stop Trusting Every USB Port: Practical USBGuard Allowlisting on Linux",
+    "desc": "<p>Linux will happily talk to almost any USB device you plug in. That is convenient on a laptop. On a homelab server, a kiosk, a jump host, ",
+    "link": "https://dev.to/lyraalishaikh/stop-trusting-every-usb-port-practical-usbguard-allowlisting-on-linux-1obn",
+    "topic": "general"
   },
   {
-    "title": "You warmed the domain up right and reputation held. Six months on it started sliding again. It was the list.",
-    "desc": "<p>The last two posts were about dragging a self-hosted sending domain to the inbox. Auth first, then the slow warm-up. Mine got there, and ",
-    "link": "https://dev.to/basictechnology/you-warmed-the-domain-up-right-and-reputation-held-six-months-on-it-started-sliding-again-it-was-hj5",
+    "title": "Mail merge is a document dependency, not just a template setting",
+    "desc": "<p>A Word template can look like an ordinary document while retaining enough<br />\nmail-merge state to point at a data source, retain a quer",
+    "link": "https://dev.to/sybilgambleyyu/mail-merge-is-a-document-dependency-not-just-a-template-setting-4480",
+    "topic": "general"
+  },
+  {
+    "title": "Document metadata is a review boundary, not a generic package change",
+    "desc": "<p>Word review workflows can account for visible paragraphs, comments, tracked<br />\nchanges, and embedded files while treating document pro",
+    "link": "https://dev.to/sybilgambleyyu/document-metadata-is-a-review-boundary-not-a-generic-package-change-3ph9",
+    "topic": "general"
+  },
+  {
+    "title": "A Layered Evaluation Strategy for LLM Agents (Google ADK's 12 Criteria)",
+    "desc": "<p>Google's <a href=\"https://adk.dev/evaluate/criteria/\" rel=\"noopener noreferrer\">Agent Development Kit (ADK)</a> ships 12 evaluation crite",
+    "link": "https://dev.to/toyama0919/a-layered-evaluation-strategy-for-llm-agents-google-adks-12-criteria-6cf",
     "topic": "general"
   }
 ]
