@@ -1,5 +1,29 @@
 [
   {
+    "title": "NetBSD 11.0 sale con tres fallos de seguridad abiertos, sin ocultarlos",
+    "desc": "<p>El proyecto NetBSD public\u00f3 oficialmente la versi\u00f3n <strong>11.0</strong> el 1 de agosto de 2026, y lo hizo reconociendo en el mismo anunc",
+    "link": "https://dev.to/lu1tr0n/netbsd-110-sale-con-tres-fallos-de-seguridad-abiertos-sin-ocultarlos-3bdj",
+    "topic": "general"
+  },
+  {
+    "title": "I Broke My Own Serverless App on Purpose, Then Asked AWS DevOps Agent What Happened",
+    "desc": "<p><em>A hands-on field report: real account, real incident, real investigation output \u2014 graded claim by claim against CloudWatch, including",
+    "link": "https://dev.to/aws-builders/i-broke-my-own-serverless-app-on-purpose-then-asked-aws-devops-agent-what-happened-20m3",
+    "topic": "aws"
+  },
+  {
+    "title": "From ClickOps to IaC: Terraform & CloudFormation \u2013 A Journey Like Neo in The Matrix",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to spend Friday nights clicking through the AWS console, spinning up EC",
+    "link": "https://dev.to/timevolt/from-clickops-to-iac-terraform-cloudformation-a-journey-like-neo-in-the-matrix-2h42",
+    "topic": "terraform"
+  },
+  {
+    "title": "Building a Secure MCP Server for AI-Assisted VPS Operations Without Giving the AI a Shell",
+    "desc": "<p>Over the last few months, I have been thinking about a simple but uncomfortable question:</p>\n\n<blockquote>\n<p>If AI tools are becoming p",
+    "link": "https://dev.to/ojo_ilesanmi/building-a-secure-mcp-server-for-ai-assisted-vps-operations-without-giving-the-ai-a-shell-54l3",
+    "topic": "general"
+  },
+  {
     "title": "Architecting Autonomous Security: Engineering Closed-Loop Mitigation with Project Perception and MAI-Cyber-1-Flash",
     "desc": "<h2>\n  \n  \n  The Paradigm Shift: From Human-Triage to Machine-Speed Mitigation\n</h2>\n\n<p>For years, the cybersecurity industry has operated ",
     "link": "https://dev.to/isuvo/architecting-autonomous-security-engineering-closed-loop-mitigation-with-project-perception-and-17l6",
@@ -22,29 +46,5 @@
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/saundra_bailey_74752fda77/7-best-tron-to-ethereum-usdt-bridges-for-2026-transfers-2478",
     "topic": "general"
-  },
-  {
-    "title": "4.4% of MCP servers changed their tool contract in 36 hours",
-    "desc": "<p>Two days ago I catalogued the tool surface of the public MCP registry: a random sample of 500 live servers, 477 inventories captured, eve",
-    "link": "https://dev.to/theopslog/44-of-mcp-servers-changed-their-tool-contract-in-36-hours-i3m",
-    "topic": "general"
-  },
-  {
-    "title": "The Agent Safety Gap Nobody Budgets For",
-    "desc": "<p>When a chatbot hallucinates, a person reads the answer and catches it. When an agent hallucinates, it may have already run the query, sen",
-    "link": "https://dev.to/paulcrinigan/the-agent-safety-gap-nobody-budgets-for-odp",
-    "topic": "general"
-  },
-  {
-    "title": "A safer way to inventory Excel Binary Workbooks",
-    "desc": "<h1>\n  \n  \n  A safer way to inventory Excel Binary Workbooks\n</h1>\n\n<p>Excel Binary Workbook files (<code>.xlsb</code>) are useful for large",
-    "link": "https://dev.to/sybilgambleyyu/a-safer-way-to-inventory-excel-binary-workbooks-2i5l",
-    "topic": "general"
-  },
-  {
-    "title": "k3s \u2013 leichte Kubernetes-Alternative f\u00fcr Produktion: Praxis & Tipps",
-    "desc": "<h1>\n  \n  \n  Hook\u2011Einleitung\n</h1>\n\n<p><em>\u201eWenn Sie noch ein komplettes Kubernetes\u2011Cluster f\u00fcr Ihren Home\u2011Server aufsetzen, verlieren Sie m",
-    "link": "https://dev.to/uhltak/k3s-leichte-kubernetes-alternative-fur-produktion-praxis-tipps-5alf",
-    "topic": "kubernetes"
   }
 ]
