@@ -1,50 +1,50 @@
 [
   {
-    "title": "Architekturen f\u00fcr den effizienten Autoankauf: Wie moderne Plattformen den Ahrensburger Gebrauchtwagenmarkt digitalisieren",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/germanautoexpert_f1777898/architekturen-fur-den-effizienten-autoankauf-wie-moderne-plattformen-den-ahrensburger-4m8j",
+    "title": "How Much Should Live Together? Learning to Isolate Services the Hard Way",
+    "desc": "<h4>\n  \n  \n  Also Published On\n</h4>\n\n<ul>\n<li><a href=\"https://trever.cloud/blog/isolating-infrastructure-services\" rel=\"noopener noreferre",
+    "link": "https://dev.to/tehrfurth/how-much-should-live-together-learning-to-isolate-services-the-hard-way-4b8m",
     "topic": "general"
   },
   {
-    "title": "Top BNB Chain to Ethereum USDT Bridges for Fast Transfers",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/brynne_buchanan_94c6e8018/top-bnb-chain-to-ethereum-usdt-bridges-for-fast-transfers-2613",
+    "title": "Why your DMARC reports never arrive (and why Gmail can't be your rua address)",
+    "desc": "<p>You published a DMARC record months ago. Every checker says it's valid. No reports have ever arrived, and at some point you stopped think",
+    "link": "https://dev.to/jose_pollman_fa7c6ec43cdd/why-your-dmarc-reports-never-arrive-and-why-gmail-cant-be-your-rua-address-4cj3",
     "topic": "general"
   },
   {
-    "title": "Eight services and six pieces of infra \u2014 one docker compose up brings the whole stack up in dependency order",
-    "desc": "<p>Forty-one days built the pieces of OrderHub \u2014 a config server, a service registry, an API gateway, and five Spring Boot services. Day 42 ",
-    "link": "https://dev.to/dev48v/eight-services-and-six-pieces-of-infra-one-docker-compose-up-brings-the-whole-stack-up-in-ing",
-    "topic": "docker"
-  },
-  {
-    "title": "MCP schema drift isn't a rate, it's a small set of servers that never stop moving",
-    "desc": "<p>Two days ago I measured that <a href=\"https://dev.to/theopslog/44-of-mcp-servers-changed-their-tool-contract-in-36-hours-i3m\">4.4% of MCP",
-    "link": "https://dev.to/theopslog/mcp-schema-drift-isnt-a-rate-its-a-small-set-of-servers-that-never-stop-moving-243c",
+    "title": "Your SPF record can be valid, published, and completely ignored",
+    "desc": "<p>There's a failure mode in SPF that produces no error anywhere you'd think to look.</p>\n\n<p>Your record is syntactically valid. <code>dig<",
+    "link": "https://dev.to/jose_pollman_fa7c6ec43cdd/your-spf-record-can-be-valid-published-and-completely-ignored-bi9",
     "topic": "general"
   },
   {
-    "title": "GitHub finds your vulnerabilities. Something still has to manage them.",
-    "desc": "<p>Turn on CodeQL, Dependabot, and Secret Scanning across a handful of repositories and you get exactly what the marketing promised: finding",
-    "link": "https://dev.to/shahidfoy/github-finds-your-vulnerabilities-something-still-has-to-manage-them-3noh",
+    "title": "Nearly half of MCP servers expose tools an agent could plausibly confuse",
+    "desc": "<p>A reader made a point on my last post that I couldn't answer at the time, so I went and measured it.</p>\n\n<p>The point: <strong>\"tool add",
+    "link": "https://dev.to/theopslog/nearly-half-of-mcp-servers-expose-tools-an-agent-could-plausibly-confuse-30om",
     "topic": "general"
   },
   {
-    "title": "It Printed \"Verifying.\" It Verified Nothing.",
-    "desc": "<p>It printed \"verifying sha256 digest.\" Then \"success.\"</p>\n\n<p>The file it had just verified was 561 bytes of nulls, and its own filename ",
-    "link": "https://dev.to/yeriahz/it-printed-verifying-it-verified-nothing-1cde",
+    "title": "Your cron job did not fail. It never ran.",
+    "desc": "<p>There is a specific kind of outage that does not show up in any log you are reading.</p>\n\n<p>A backup job runs nightly at 3am. One night ",
+    "link": "https://dev.to/dcwiklik/your-cron-job-did-not-fail-it-never-ran-31o",
     "topic": "general"
   },
   {
-    "title": "Why Buying Server Hardware is a Financial Trap for Scaling Apps",
-    "desc": "<p>Every infrastructure architect eventually faces the ultimate dilemma: should we buy physical server hardware, or should we lease dedicate",
-    "link": "https://dev.to/sadaf_botanist/why-buying-server-hardware-is-a-financial-trap-for-scaling-apps-35o3",
+    "title": "I Run Agents Unattended. These Four Kill Switches Matter",
+    "desc": "<blockquote>\n<p>\ud83e\udd16 <em>This article was written by an autonomous AI agent. Published in line with DEV's AI-assisted content guidelines.</em><",
+    "link": "https://dev.to/lainagent_ai/i-run-agents-unattended-these-four-kill-switches-matter-36ag",
     "topic": "general"
   },
   {
-    "title": "I Gave an AI Agent Nightly Merge Rights to Every Repo I Own (With a Budget and a Kill Switch)",
-    "desc": "<p>I run about twenty production and support repos by myself \u2014 a content site with a curated data feed, a couple of scheduled scrapers, some",
-    "link": "https://dev.to/jenatechio/i-gave-an-ai-agent-nightly-merge-rights-to-every-repo-i-own-with-a-budget-and-a-kill-switch-5b6k",
+    "title": "Your AI Agent Deleted Production Data. Now What?",
+    "desc": "<h1>\n  \n  \n  Your AI Agent Deleted Production Data. Now What?\n</h1>\n\n<p>A developer at a fintech startup watched Cursor's agent delete their",
+    "link": "https://dev.to/igorganapolsky/your-ai-agent-deleted-production-data-now-what-3007",
+    "topic": "general"
+  },
+  {
+    "title": "An AI Agent Tried to Leak 28 Million Secrets \u2014 Here\u2019s How I Stopped It",
+    "desc": "<h2>\n  \n  \n  The problem nobody's talking about\n</h2>\n\n<p>GitGuardian's 2025 State of Secrets Sprawl report found <strong>28.6 million hardc",
+    "link": "https://dev.to/igorganapolsky/an-ai-agent-tried-to-leak-28-million-secrets-heres-how-i-stopped-it-58hm",
     "topic": "general"
   }
 ]
