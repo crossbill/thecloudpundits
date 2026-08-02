@@ -1,50 +1,50 @@
 [
   {
-    "title": "The silent CI blind spot: when \"diff against HEAD^\" lies to you",
-    "desc": "<p>Most CI quality gates work the same way: diff the PR, check what changed. Simple \u2014 until you run the same tool locally, where there's no ",
-    "link": "https://dev.to/deftoexplore/the-silent-ci-blind-spot-when-diff-against-head-lies-to-you-48il",
+    "title": "How to Mine Bittensor: TAO, Subnets, and RPC Setup",
+    "desc": "<p>Bittensor is not mined with hash power like Bitcoin. Miners on Bittensor run machine-learning workloads \u2014 inference, compute, storage, pr",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/how-to-mine-bittensor-tao-subnets-and-rpc-setup-29c0",
     "topic": "general"
   },
   {
-    "title": "Terraform Vault Secrets: Fix Plaintext State Leaks",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/02/terraform-vault-secrets-fix-plaintext-state-leaks\" rel=\"noopener n",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/terraform-vault-secrets-fix-plaintext-state-leaks-5bof",
-    "topic": "terraform"
-  },
-  {
-    "title": "Your cron expression can be valid and still never run",
-    "desc": "<h1>\n  \n  \n  Your cron expression can be valid and still never run\n</h1>\n\n<p>A cron parser can answer one question\u2014<em>does this have five f",
-    "link": "https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg",
+    "title": "Stellar RPC Provider Comparison: What to Check First",
+    "desc": "<h2>\n  \n  \n  Stellar RPC provider decision checklist\n</h2>\n\n<p>Before you compare vendors, define what your application needs from Stellar R",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/stellar-rpc-provider-comparison-what-to-check-first-2mnc",
     "topic": "general"
   },
   {
-    "title": "Agentic DevOps Security: Old IAM Failures at New Speed",
-    "desc": "<p>I argued previously that agentic AI is reintroducing ClickOps, and I still think that holds. But I made a second claim in that piece I've",
-    "link": "https://dev.to/dortort/agentic-devops-security-old-iam-failures-at-new-speed-3575",
-    "topic": "secops"
+    "title": "peaq Mainnet RPC: Chain Settings and Endpoint Setup",
+    "desc": "<p>peaq is an EVM-compatible Layer-1 blockchain built on Substrate and connected to the Polkadot ecosystem. It is designed for DePIN (decent",
+    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/peaq-mainnet-rpc-chain-settings-and-endpoint-setup-399n",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes Swap Support in 1.35: The Config That Silently Does Nothing",
-    "desc": "<p>Node swap support (KEP-2400) went GA in 1.34 and stable in 1.35. If you've been putting off a decision on this, this is the release where",
-    "link": "https://dev.to/dev_encyclopedia/kubernetes-swap-support-in-135-the-config-that-silently-does-nothing-2deb",
+    "title": "Apache Iceberg Query Performance: A Practical Guide",
+    "desc": "<p>Iceberg is the standard. Snowflake, Databricks, AWS, and every major query engine read and write it natively. The format question is sett",
+    "link": "https://dev.to/jonisar/apache-iceberg-query-performance-a-practical-guide-1pd6",
+    "topic": "general"
+  },
+  {
+    "title": "Halfway Through the MLH Production Engineering Fellowship",
+    "desc": "<p>I'm halfway through the MLH Production Engineering Fellowship, and while I've learned a lot technically\u2014from Linux fundamentals, Docker, ",
+    "link": "https://dev.to/frixumpullum/halfway-through-the-mlh-production-engineering-fellowship-46ol",
+    "topic": "general"
+  },
+  {
+    "title": "Herdr is the throughput layer for coding agents",
+    "desc": "<p>Most AI coding tool discussions still obsess over the agent: model, IDE extension, benchmark, demo.</p>\n\n<p>That is useful, but incomplet",
+    "link": "https://dev.to/pvgomes/herdr-is-the-throughput-layer-for-coding-agents-1ied",
+    "topic": "general"
+  },
+  {
+    "title": "k3d for Local Kubernetes: How We Cut Cluster Startup From 3 Minutes to Under 10 Seconds",
+    "desc": "<p>k3d for local Kubernetes turned \"reset your cluster\" from a coffee-break chore into a one-line reflex. Our onboarding doc had a line I gr",
+    "link": "https://dev.to/mtrnm/k3d-for-local-kubernetes-how-we-cut-cluster-startup-from-3-minutes-to-under-10-seconds-3ba2",
     "topic": "kubernetes"
   },
   {
-    "title": "Stop Ignoring Firmware CVEs: Practical fwupd and LVFS on Linux",
-    "desc": "<p>Your package manager is current. Unattended upgrades are green. Containers rebuild nightly. Then a laptop BIOS advisory lands for a DMA o",
-    "link": "https://dev.to/lyraalishaikh/stop-ignoring-firmware-cves-practical-fwupd-and-lvfs-on-linux-56c7",
-    "topic": "general"
-  },
-  {
-    "title": "What I learned building an agent platform that actually ships",
-    "desc": "<p>I built an agent platform. Not a demo \u2014 an actual platform where every tool call is governed, audited, and scoped to a workspace.</p>\n\n<p",
-    "link": "https://dev.to/gad_ofir_076c468dd15d483b/what-i-learned-building-an-agent-platform-that-actually-ships-5ab7",
-    "topic": "general"
-  },
-  {
-    "title": "AI Won't Replace DevOps Engineers\u2014But These 7 Skills Will Make You Irreplaceable in 2026",
-    "desc": "<blockquote>\n<p>The future of DevOps isn't about competing with AI\u2014it's about learning how to work alongside it.<br />\nArtificial Intelligen",
-    "link": "https://dev.to/yash_sonawane25/ai-wont-replace-devops-engineers-but-these-7-skills-will-make-you-irreplaceable-in-2026-46hh",
-    "topic": "general"
+    "title": "Feature Flags with AWS AppConfig: The Principle of Decoupling Deploy from Release",
+    "desc": "<h2>\n  \n  \n  The problem in context\n</h2>\n\n<p>The pattern is familiar to anyone who has run an incident: a new dashboard looks great in stag",
+    "link": "https://dev.to/mikhail_dorokhovich_0c532/feature-flags-with-aws-appconfig-the-principle-of-decoupling-deploy-from-release-3pdk",
+    "topic": "aws"
   }
 ]
