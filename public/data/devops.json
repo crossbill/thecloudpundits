@@ -1,50 +1,50 @@
 [
   {
-    "title": "Solon Config Vault: ENC() Secrets, @VaultInject, and a Runtime Key \u2014 No Jasypt, No Config Server",
-    "desc": "<p>Every team has that one <code>application.yml</code> with a database password sitting in plain text, committed to a repo that half the co",
-    "link": "https://dev.to/solonjava/solon-config-vault-enc-secrets-vaultinject-and-a-runtime-key-no-jasypt-no-config-server-5hi5",
+    "title": "The silent CI blind spot: when \"diff against HEAD^\" lies to you",
+    "desc": "<p>Most CI quality gates work the same way: diff the PR, check what changed. Simple \u2014 until you run the same tool locally, where there's no ",
+    "link": "https://dev.to/deftoexplore/the-silent-ci-blind-spot-when-diff-against-head-lies-to-you-48il",
     "topic": "general"
   },
   {
-    "title": "Day 1: Understanding Cloud Computing \u2014 Service and Deployment Models Explained with a Biryani Analogy",
-    "desc": "<h2>\n  \n  \n  Yesterday I announced I'm blogging daily on AWS & DevOps. Here's Day 1 \u2014 the fundamentals everything else builds on.\n</h2>\n\n<p>",
-    "link": "https://dev.to/sr-palatasingh/day-1-understanding-cloud-computing-service-and-deployment-models-explained-with-a-biryani-3h8p",
+    "title": "Terraform Vault Secrets: Fix Plaintext State Leaks",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/02/terraform-vault-secrets-fix-plaintext-state-leaks\" rel=\"noopener n",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/terraform-vault-secrets-fix-plaintext-state-leaks-5bof",
+    "topic": "terraform"
+  },
+  {
+    "title": "Your cron expression can be valid and still never run",
+    "desc": "<h1>\n  \n  \n  Your cron expression can be valid and still never run\n</h1>\n\n<p>A cron parser can answer one question\u2014<em>does this have five f",
+    "link": "https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg",
     "topic": "general"
   },
   {
-    "title": "\u2601\ufe0f Mastering aws iam roles with python boto3",
-    "desc": "<h2>\n  \n  \n  \ud83d\udca1 Understanding IAM Roles \u2014 What They <em>Do</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/d",
-    "link": "https://dev.to/ptp2308/mastering-aws-iam-roles-with-python-boto3-2817",
-    "topic": "aws"
+    "title": "Agentic DevOps Security: Old IAM Failures at New Speed",
+    "desc": "<p>I argued previously that agentic AI is reintroducing ClickOps, and I still think that holds. But I made a second claim in that piece I've",
+    "link": "https://dev.to/dortort/agentic-devops-security-old-iam-failures-at-new-speed-3575",
+    "topic": "secops"
   },
   {
-    "title": "ViciDial 'Extension Does Not Match' Error \u2014 Phone Registration Issues",
-    "desc": "<h1>\n  \n  \n  ViciDial 'Extension Does Not Match' Error \u2014 Phone Registration Issues\n</h1>\n\n<p><strong>Learn how to diagnose and resolve the \"",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-extension-does-not-match-error-phone-registration-issues-1574",
-    "topic": "general"
-  },
-  {
-    "title": "My agent wasn\u2019t flaky at all \u2014 it was booting 30-60 seconds before anything was actually ready",
-    "desc": "<p>I keep hearing the same complaint from people running agents 24/7:</p>\n\n<p>\u201cIt's flaky.\u201d</p>\n\n<p>Not dead. Not consistently broken. Just ",
-    "link": "https://dev.to/lars_winstand/my-agent-wasnt-flaky-at-all-it-was-booting-30-60-seconds-before-anything-was-actually-ready-27cm",
-    "topic": "general"
-  },
-  {
-    "title": "T\u1ef1 host d\u1ecbch v\u1ee5 dev b\u1eb1ng Docker: L\u1ef1a ch\u1ecdn t\u1ed1i \u01b0u hi\u1ec7u n\u0103ng c\u1ee5c b\u1ed9",
-    "desc": "<p>Li\u1ec7u vi\u1ec7c chuy\u1ec3n d\u1ecbch h\u1ea1 t\u1ea7ng ph\u00e1t tri\u1ec3n c\u1ee5c b\u1ed9 l\u00ean container c\u00f3 t\u1ed1i \u01b0u h\u00f3a t\u00e0i nguy\u00ean ph\u1ea7n c\u1ee9ng h\u01a1n c\u00e1c gi\u1ea3i ph\u00e1p \u1ea3o h\u00f3a truy\u1ec1n th\u1ed1ng? X",
-    "link": "https://dev.to/hungphatlaptop/tu-host-dich-vu-dev-bang-docker-lua-chon-toi-uu-hieu-nang-cuc-bo-2c8b",
-    "topic": "docker"
-  },
-  {
-    "title": "Kubernetes Upgrades Without Downtime",
-    "desc": "<p>Kubernetes upgrades used to terrify me. Then I learned to do them boringly. Here's the process.</p>\n\n<h2>\n  \n  \n  Before the upgrade\n</h2",
-    "link": "https://dev.to/samson_tanimawo/kubernetes-upgrades-without-downtime-4kc3",
+    "title": "Kubernetes Swap Support in 1.35: The Config That Silently Does Nothing",
+    "desc": "<p>Node swap support (KEP-2400) went GA in 1.34 and stable in 1.35. If you've been putting off a decision on this, this is the release where",
+    "link": "https://dev.to/dev_encyclopedia/kubernetes-swap-support-in-135-the-config-that-silently-does-nothing-2deb",
     "topic": "kubernetes"
   },
   {
-    "title": "Building an Automated SEO Pipeline with GSC API and GitHub Actions",
-    "desc": "<h2>\n  \n  \n  The Need for Automated Indexing\n</h2>\n\n<p>Manual URL submission to Google Search Console (GSC) is inefficient for large website",
-    "link": "https://dev.to/toolsura/building-an-automated-seo-pipeline-with-gsc-api-and-github-actions-3pef",
+    "title": "Stop Ignoring Firmware CVEs: Practical fwupd and LVFS on Linux",
+    "desc": "<p>Your package manager is current. Unattended upgrades are green. Containers rebuild nightly. Then a laptop BIOS advisory lands for a DMA o",
+    "link": "https://dev.to/lyraalishaikh/stop-ignoring-firmware-cves-practical-fwupd-and-lvfs-on-linux-56c7",
+    "topic": "general"
+  },
+  {
+    "title": "What I learned building an agent platform that actually ships",
+    "desc": "<p>I built an agent platform. Not a demo \u2014 an actual platform where every tool call is governed, audited, and scoped to a workspace.</p>\n\n<p",
+    "link": "https://dev.to/gad_ofir_076c468dd15d483b/what-i-learned-building-an-agent-platform-that-actually-ships-5ab7",
+    "topic": "general"
+  },
+  {
+    "title": "AI Won't Replace DevOps Engineers\u2014But These 7 Skills Will Make You Irreplaceable in 2026",
+    "desc": "<blockquote>\n<p>The future of DevOps isn't about competing with AI\u2014it's about learning how to work alongside it.<br />\nArtificial Intelligen",
+    "link": "https://dev.to/yash_sonawane25/ai-wont-replace-devops-engineers-but-these-7-skills-will-make-you-irreplaceable-in-2026-46hh",
     "topic": "general"
   }
 ]
