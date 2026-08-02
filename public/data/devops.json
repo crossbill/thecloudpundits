@@ -1,50 +1,50 @@
 [
   {
+    "title": "Great article for security concepts",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/le",
+    "link": "https://dev.to/le_beltagy/great-article-for-security-concepts-3l7o",
+    "topic": "secops"
+  },
+  {
+    "title": "Securing CI/CD with a Software Architecture Analysis Platform",
+    "desc": "<p>As enterprise software scales, maintaining architectural integrity becomes an exponential challenge. Microservices sprawl, polyglot envir",
+    "link": "https://dev.to/aabid_hussainwani_2bcb6a/securing-cicd-with-a-software-architecture-analysis-platform-51hm",
+    "topic": "general"
+  },
+  {
+    "title": "Your Identity Controls Passed. Your Authorization Chain Failed.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ntctech/your-identity-controls-passed-your-authorization-chain-failed-14fm",
+    "topic": "general"
+  },
+  {
+    "title": "The background process that kept dying without a trace",
+    "desc": "<p>On Windows I kept launching background servers from a task runner and watching them die the instant the launching step finished \u2014 no erro",
+    "link": "https://dev.to/wrencalloway/the-background-process-that-kept-dying-without-a-trace-l3m",
+    "topic": "general"
+  },
+  {
+    "title": "Your scraper isn't blocked \u2014 your proxy is. Stop treating every failure the same way",
+    "desc": "<p>Here's a retry loop. You've written this loop. I've written this loop.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"",
+    "link": "https://dev.to/aethyn_team/your-scraper-isnt-blocked-your-proxy-is-stop-treating-every-failure-the-same-way-330d",
+    "topic": "general"
+  },
+  {
+    "title": "The Ghost in the Catalog",
+    "desc": "<p>Yesterday my blog <a href=\"https://dev.to/blog/after-14-days-of-daily-posts-here-is-what-i-notice/\">published an article auditing itself<",
+    "link": "https://dev.to/jeremy_longshore/the-ghost-in-the-catalog-42m0",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Leaking Secrets into your LLM Context Windows",
+    "desc": "<p>I've seen it happen more than once in production logs: an AI agent, given access to a database or a third-party API via MCP, returns a pa",
+    "link": "https://dev.to/renato_marinho/stop-leaking-secrets-into-your-llm-context-windows-5dm5",
+    "topic": "general"
+  },
+  {
     "title": "Get your FedEx job!",
     "desc": "<p>went youe jobs<br />\n<a href=\"https://www.af9m8trk.com/NQZ113KS/42T1214V/\" rel=\"noopener noreferrer\">https://www.af9m8trk.com/NQZ113KS/42",
     "link": "https://dev.to/al_islam_92240b3be93b2b91/get-your-fedex-job-53na",
-    "topic": "general"
-  },
-  {
-    "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-    "desc": "<h2>\n  \n  \n  The Agentic DevOps Challenge\n</h2>\n\n<p>As enterprise AI adoption matures, organizations are shifting from single-turn chat assi",
-    "link": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-    "topic": "general"
-  },
-  {
-    "title": "My Python Class \u2014 The Golden Rules of Programming",
-    "desc": "<p><strong>1. Never Say \"I Don't Know\" \u2014 Say \"Let Me Try\"</strong></p>\n\n<p>The first rule, and maybe the most important mindset shift. When ",
-    "link": "https://dev.to/karthick_07/my-python-class-the-golden-rules-of-programming-348f",
-    "topic": "general"
-  },
-  {
-    "title": "From Vercel to a \u20ac40 Hetzner box: serving 1M+ Next.js ISR pages without melting the disk",
-    "desc": "<p>We run <a href=\"https://www.hizmetgo.app\" rel=\"noopener noreferrer\">Hizmetgo</a>, a Turkish local-services marketplace (think Thumbtack f",
-    "link": "https://dev.to/ahmet_arslan_9f071826c3ba/from-vercel-to-a-eu40-hetzner-box-serving-1m-nextjs-isr-pages-without-melting-the-disk-10b9",
-    "topic": "general"
-  },
-  {
-    "title": "Docker Engine v29: Fixing \"API Version Mismatch\" Error",
-    "desc": "<p>If you've recently upgraded to <strong>Docker Engine - Community Version 29</strong>, you might have hit a frustrating API version mismat",
-    "link": "https://dev.to/romanpinchuk/docker-engine-v29-fixing-api-version-mismatch-error-15j6",
-    "topic": "docker"
-  },
-  {
-    "title": "Outils IA marketing digital 2026 : lesquels choisir: field controls that hold",
-    "desc": "<p>Outils IA marketing digital 2026 : lesquels choisir should not be treated as filler content. The real risk is not a shortage of ideas; it",
-    "link": "https://dev.to/isabelle_dubuis_d858453d7/outils-ia-marketing-digital-2026-lesquels-choisir-field-controls-that-hold-2aa7",
-    "topic": "general"
-  },
-  {
-    "title": "My OpenClaw agent \u201cfroze\u201d for 20 seconds, and the traces proved it wasn\u2019t Claude",
-    "desc": "<p>I keep seeing the same debugging mistake with OpenClaw.</p>\n\n<p>An agent hangs.<br />\nTelegram goes quiet.<br />\nThe iPhone app disconnec",
-    "link": "https://dev.to/lars_winstand/my-openclaw-agent-froze-for-20-seconds-and-the-traces-proved-it-wasnt-claude-2lah",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Your AI Fallback Chain May Be Quietly Changing the Job",
-    "desc": "<p>A discovery stage needs source tools, a defined reasoning profile, and a way to preserve the evidence it finds. Its terminal artifact mig",
-    "link": "https://dev.to/hefty_69a4c2d631c9dd70724/your-ai-fallback-chain-may-be-quietly-changing-the-job-m5k",
     "topic": "general"
   }
 ]
