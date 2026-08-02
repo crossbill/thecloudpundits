@@ -1,50 +1,50 @@
 [
   {
-    "title": "Great article for security concepts",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/le",
-    "link": "https://dev.to/le_beltagy/great-article-for-security-concepts-3l7o",
-    "topic": "secops"
+    "title": "We scanned our own AWS account before selling audits. It found 3.4%.",
+    "desc": "<h2>\n  \n  \n  We scanned our own AWS account before selling audits. It found 3.4%.\n</h2>\n\n<p>We built an AWS cost scanner. Around 70 checks, ",
+    "link": "https://dev.to/framz/we-scanned-our-own-aws-account-before-selling-audits-it-found-34-6ic",
+    "topic": "aws"
   },
   {
-    "title": "Securing CI/CD with a Software Architecture Analysis Platform",
-    "desc": "<p>As enterprise software scales, maintaining architectural integrity becomes an exponential challenge. Microservices sprawl, polyglot envir",
-    "link": "https://dev.to/aabid_hussainwani_2bcb6a/securing-cicd-with-a-software-architecture-analysis-platform-51hm",
+    "title": "How to Host a Discord Bot for Free with VisiHost",
+    "desc": "<p>How to Host a Discord Bot for Free with VisiHost</p>\n\n<p>If you're looking for a simple way to host your Discord bot for free, VisiHost i",
+    "link": "https://dev.to/visihost/how-to-host-a-discord-bot-for-free-with-visihost-4djf",
     "topic": "general"
   },
   {
-    "title": "Your Identity Controls Passed. Your Authorization Chain Failed.",
+    "title": "Sparring Prep For Beginners: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/sparring-prep-for-beginners-what-we-learned-building-random-tactical-timer-2l6n",
+    "topic": "general"
+  },
+  {
+    "title": "Day 118: Release Management - AI System Design in Seconds",
+    "desc": "<p>  \n  \n</p>\n\n<h1>\n  \n  \n  Release Management: Coordinating Multi-Service Deployments with Confidence\n</h1>\n\n<p>Coordinating the release of",
+    "link": "https://dev.to/matt_frank_usa/day-118-release-management-ai-system-design-in-seconds-56me",
+    "topic": "general"
+  },
+  {
+    "title": "I let an autonomous AI agent try to escape its sandbox. Here is what still reached the internet.",
+    "desc": "<p><em>Disclosure: I build Darkmoon, an autonomous AI pentester. This post is about a failure mode every team shipping agents should test: a",
+    "link": "https://dev.to/darkmoonx/i-let-an-autonomous-ai-agent-try-to-escape-its-sandbox-here-is-what-still-reached-the-internet-3aga",
+    "topic": "general"
+  },
+  {
+    "title": "API Rate Limiting: Patterns That Scale",
+    "desc": "<p>Rate limiting is one of those topics where everyone knows the basics and almost nobody gets it right at scale. Let me walk through the pa",
+    "link": "https://dev.to/samson_tanimawo/api-rate-limiting-patterns-that-scale-41ao",
+    "topic": "general"
+  },
+  {
+    "title": "Top 7 Crypto Loan Without Collateral Choices for Borrowers",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ntctech/your-identity-controls-passed-your-authorization-chain-failed-14fm",
+    "link": "https://dev.to/moyra_browne_5ec3961aaf61/top-7-crypto-loan-without-collateral-choices-for-borrowers-22p5",
     "topic": "general"
   },
   {
-    "title": "The background process that kept dying without a trace",
-    "desc": "<p>On Windows I kept launching background servers from a task runner and watching them die the instant the launching step finished \u2014 no erro",
-    "link": "https://dev.to/wrencalloway/the-background-process-that-kept-dying-without-a-trace-l3m",
-    "topic": "general"
-  },
-  {
-    "title": "Your scraper isn't blocked \u2014 your proxy is. Stop treating every failure the same way",
-    "desc": "<p>Here's a retry loop. You've written this loop. I've written this loop.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"",
-    "link": "https://dev.to/aethyn_team/your-scraper-isnt-blocked-your-proxy-is-stop-treating-every-failure-the-same-way-330d",
-    "topic": "general"
-  },
-  {
-    "title": "The Ghost in the Catalog",
-    "desc": "<p>Yesterday my blog <a href=\"https://dev.to/blog/after-14-days-of-daily-posts-here-is-what-i-notice/\">published an article auditing itself<",
-    "link": "https://dev.to/jeremy_longshore/the-ghost-in-the-catalog-42m0",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Leaking Secrets into your LLM Context Windows",
-    "desc": "<p>I've seen it happen more than once in production logs: an AI agent, given access to a database or a third-party API via MCP, returns a pa",
-    "link": "https://dev.to/renato_marinho/stop-leaking-secrets-into-your-llm-context-windows-5dm5",
-    "topic": "general"
-  },
-  {
-    "title": "Get your FedEx job!",
-    "desc": "<p>went youe jobs<br />\n<a href=\"https://www.af9m8trk.com/NQZ113KS/42T1214V/\" rel=\"noopener noreferrer\">https://www.af9m8trk.com/NQZ113KS/42",
-    "link": "https://dev.to/al_islam_92240b3be93b2b91/get-your-fedex-job-53na",
+    "title": "Building Secure Software in the Age of AI Coding Assistants",
+    "desc": "<p>AI can generate code in seconds. It can't own your security posture.</p>\n\n<p>Introduction</p>\n\n<p>Over the last two years, AI coding assi",
+    "link": "https://dev.to/gopinarayanasw3/building-secure-software-in-the-age-of-ai-coding-assistants-4i7m",
     "topic": "general"
   }
 ]
