@@ -1,5 +1,17 @@
 [
   {
+    "title": "Kubernetes: drenar nodos sin perder contexto",
+    "desc": "<p>En muchos equipos el drenado de nodos se trata como una tarea rutinaria: se agenda, se ejecuta y se da por hecho que todos entienden el i",
+    "link": "https://dev.to/alexcarteruk/kubernetes-drenar-nodos-sin-perder-contexto-m0n",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Monitoring and Logging: The Matrix of Spotting Problems Before Users Do",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think that as long as my app didn\u2019t crash in production, everything ",
+    "link": "https://dev.to/timevolt/monitoring-and-logging-the-matrix-of-spotting-problems-before-users-do-491d",
+    "topic": "general"
+  },
+  {
     "title": "Galaxy S27 Ultra Rumors: Silicon-Carbon Battery May Skip Some Models",
     "desc": "<p>*<em>The <a href=\"https://denvermobileappdeveloper.com/trends/us/unveiling-the-spectacular-samsung-galaxy-s27-ultra-camera-upgrades-disco",
     "link": "https://dev.to/thomas_woodfin_3a4efcd491/galaxy-s27-ultra-rumors-silicon-carbon-battery-may-skip-some-models-2hfe",
@@ -34,17 +46,5 @@
     "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to spend Friday nights clicking through the AWS console, spinning up EC",
     "link": "https://dev.to/timevolt/from-clickops-to-iac-terraform-cloudformation-a-journey-like-neo-in-the-matrix-2h42",
     "topic": "terraform"
-  },
-  {
-    "title": "Building a Secure MCP Server for AI-Assisted VPS Operations Without Giving the AI a Shell",
-    "desc": "<p>Over the last few months, I have been thinking about a simple but uncomfortable question:</p>\n\n<blockquote>\n<p>If AI tools are becoming p",
-    "link": "https://dev.to/ojo_ilesanmi/building-a-secure-mcp-server-for-ai-assisted-vps-operations-without-giving-the-ai-a-shell-54l3",
-    "topic": "general"
-  },
-  {
-    "title": "Architecting Autonomous Security: Engineering Closed-Loop Mitigation with Project Perception and MAI-Cyber-1-Flash",
-    "desc": "<h2>\n  \n  \n  The Paradigm Shift: From Human-Triage to Machine-Speed Mitigation\n</h2>\n\n<p>For years, the cybersecurity industry has operated ",
-    "link": "https://dev.to/isuvo/architecting-autonomous-security-engineering-closed-loop-mitigation-with-project-perception-and-17l6",
-    "topic": "secops"
   }
 ]
