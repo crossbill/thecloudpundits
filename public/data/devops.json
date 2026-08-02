@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes: drenar nodos sin perder contexto",
-    "desc": "<p>En muchos equipos el drenado de nodos se trata como una tarea rutinaria: se agenda, se ejecuta y se da por hecho que todos entienden el i",
-    "link": "https://dev.to/alexcarteruk/kubernetes-drenar-nodos-sin-perder-contexto-m0n",
+    "title": "Solon Config Vault: ENC() Secrets, @VaultInject, and a Runtime Key \u2014 No Jasypt, No Config Server",
+    "desc": "<p>Every team has that one <code>application.yml</code> with a database password sitting in plain text, committed to a repo that half the co",
+    "link": "https://dev.to/solonjava/solon-config-vault-enc-secrets-vaultinject-and-a-runtime-key-no-jasypt-no-config-server-5hi5",
+    "topic": "general"
+  },
+  {
+    "title": "Day 1: Understanding Cloud Computing \u2014 Service and Deployment Models Explained with a Biryani Analogy",
+    "desc": "<h2>\n  \n  \n  Yesterday I announced I'm blogging daily on AWS & DevOps. Here's Day 1 \u2014 the fundamentals everything else builds on.\n</h2>\n\n<p>",
+    "link": "https://dev.to/sr-palatasingh/day-1-understanding-cloud-computing-service-and-deployment-models-explained-with-a-biryani-3h8p",
+    "topic": "general"
+  },
+  {
+    "title": "\u2601\ufe0f Mastering aws iam roles with python boto3",
+    "desc": "<h2>\n  \n  \n  \ud83d\udca1 Understanding IAM Roles \u2014 What They <em>Do</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/d",
+    "link": "https://dev.to/ptp2308/mastering-aws-iam-roles-with-python-boto3-2817",
+    "topic": "aws"
+  },
+  {
+    "title": "ViciDial 'Extension Does Not Match' Error \u2014 Phone Registration Issues",
+    "desc": "<h1>\n  \n  \n  ViciDial 'Extension Does Not Match' Error \u2014 Phone Registration Issues\n</h1>\n\n<p><strong>Learn how to diagnose and resolve the \"",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-extension-does-not-match-error-phone-registration-issues-1574",
+    "topic": "general"
+  },
+  {
+    "title": "My agent wasn\u2019t flaky at all \u2014 it was booting 30-60 seconds before anything was actually ready",
+    "desc": "<p>I keep hearing the same complaint from people running agents 24/7:</p>\n\n<p>\u201cIt's flaky.\u201d</p>\n\n<p>Not dead. Not consistently broken. Just ",
+    "link": "https://dev.to/lars_winstand/my-agent-wasnt-flaky-at-all-it-was-booting-30-60-seconds-before-anything-was-actually-ready-27cm",
+    "topic": "general"
+  },
+  {
+    "title": "T\u1ef1 host d\u1ecbch v\u1ee5 dev b\u1eb1ng Docker: L\u1ef1a ch\u1ecdn t\u1ed1i \u01b0u hi\u1ec7u n\u0103ng c\u1ee5c b\u1ed9",
+    "desc": "<p>Li\u1ec7u vi\u1ec7c chuy\u1ec3n d\u1ecbch h\u1ea1 t\u1ea7ng ph\u00e1t tri\u1ec3n c\u1ee5c b\u1ed9 l\u00ean container c\u00f3 t\u1ed1i \u01b0u h\u00f3a t\u00e0i nguy\u00ean ph\u1ea7n c\u1ee9ng h\u01a1n c\u00e1c gi\u1ea3i ph\u00e1p \u1ea3o h\u00f3a truy\u1ec1n th\u1ed1ng? X",
+    "link": "https://dev.to/hungphatlaptop/tu-host-dich-vu-dev-bang-docker-lua-chon-toi-uu-hieu-nang-cuc-bo-2c8b",
+    "topic": "docker"
+  },
+  {
+    "title": "Kubernetes Upgrades Without Downtime",
+    "desc": "<p>Kubernetes upgrades used to terrify me. Then I learned to do them boringly. Here's the process.</p>\n\n<h2>\n  \n  \n  Before the upgrade\n</h2",
+    "link": "https://dev.to/samson_tanimawo/kubernetes-upgrades-without-downtime-4kc3",
     "topic": "kubernetes"
   },
   {
-    "title": "Monitoring and Logging: The Matrix of Spotting Problems Before Users Do",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think that as long as my app didn\u2019t crash in production, everything ",
-    "link": "https://dev.to/timevolt/monitoring-and-logging-the-matrix-of-spotting-problems-before-users-do-491d",
+    "title": "Building an Automated SEO Pipeline with GSC API and GitHub Actions",
+    "desc": "<h2>\n  \n  \n  The Need for Automated Indexing\n</h2>\n\n<p>Manual URL submission to Google Search Console (GSC) is inefficient for large website",
+    "link": "https://dev.to/toolsura/building-an-automated-seo-pipeline-with-gsc-api-and-github-actions-3pef",
     "topic": "general"
-  },
-  {
-    "title": "Galaxy S27 Ultra Rumors: Silicon-Carbon Battery May Skip Some Models",
-    "desc": "<p>*<em>The <a href=\"https://denvermobileappdeveloper.com/trends/us/unveiling-the-spectacular-samsung-galaxy-s27-ultra-camera-upgrades-disco",
-    "link": "https://dev.to/thomas_woodfin_3a4efcd491/galaxy-s27-ultra-rumors-silicon-carbon-battery-may-skip-some-models-2hfe",
-    "topic": "general"
-  },
-  {
-    "title": "Optimizing Legacy Vehicle Valuation Systems: A Technical Deep Dive into Modern Auto-Ankauf Platforms",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/germanautoexpert_f1777898/optimizing-legacy-vehicle-valuation-systems-a-technical-deep-dive-into-modern-auto-ankauf-platforms-2c0n",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Production-Grade Microservices Platform on AWS EKS",
-    "desc": "<h2>\n  \n  \n  \ud83c\udfaf Introduction\n</h2>\n\n<p>Running microservices in development is easy. Building a <strong>production-grade platform</strong> wi",
-    "link": "https://dev.to/neshan_parvej_bf2aed2f5d8/building-a-production-grade-microservices-platform-on-aws-eks-44jd",
-    "topic": "aws"
-  },
-  {
-    "title": "NetBSD 11.0 sale con tres fallos de seguridad abiertos, sin ocultarlos",
-    "desc": "<p>El proyecto NetBSD public\u00f3 oficialmente la versi\u00f3n <strong>11.0</strong> el 1 de agosto de 2026, y lo hizo reconociendo en el mismo anunc",
-    "link": "https://dev.to/lu1tr0n/netbsd-110-sale-con-tres-fallos-de-seguridad-abiertos-sin-ocultarlos-3bdj",
-    "topic": "general"
-  },
-  {
-    "title": "I Broke My Own Serverless App on Purpose, Then Asked AWS DevOps Agent What Happened",
-    "desc": "<p><em>A hands-on field report: real account, real incident, real investigation output \u2014 graded claim by claim against CloudWatch, including",
-    "link": "https://dev.to/aws-builders/i-broke-my-own-serverless-app-on-purpose-then-asked-aws-devops-agent-what-happened-20m3",
-    "topic": "aws"
-  },
-  {
-    "title": "From ClickOps to IaC: Terraform & CloudFormation \u2013 A Journey Like Neo in The Matrix",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to spend Friday nights clicking through the AWS console, spinning up EC",
-    "link": "https://dev.to/timevolt/from-clickops-to-iac-terraform-cloudformation-a-journey-like-neo-in-the-matrix-2h42",
-    "topic": "terraform"
   }
 ]
