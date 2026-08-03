@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Monitor DigitalOcean App Platform Deployments with Vigilmon",
-    "desc": "<p>DigitalOcean App Platform lets you deploy apps directly from GitHub without managing servers. Like other PaaS platforms, it handles infra",
-    "link": "https://dev.to/vigilmon/how-to-monitor-digitalocean-app-platform-deployments-with-vigilmon-3h1i",
+    "title": "Uptime Monitoring for Microservices: A Practical Guide with Vigilmon",
+    "desc": "<p>Microservices make uptime monitoring more complex than monolith monitoring. Instead of one service to watch, you have dozens of services ",
+    "link": "https://dev.to/vigilmon/uptime-monitoring-for-microservices-a-practical-guide-with-vigilmon-22nc",
     "topic": "general"
   },
   {
-    "title": "Monitoring GraphQL APIs with Vigilmon: Health Checks, Uptime & Alert Setup",
-    "desc": "<p>GraphQL APIs have different monitoring requirements than REST APIs. A single <code>/graphql</code> endpoint handles all queries \u2014 so a 20",
-    "link": "https://dev.to/vigilmon/monitoring-graphql-apis-with-vigilmon-health-checks-uptime-alert-setup-2c",
+    "title": "Green is not evidence. Two of my checks were covering less than I thought.",
+    "desc": "<p>Someone left this on <a href=\"https://dev.to/isamu/i-stopped-reviewing-my-own-code-heres-what-had-to-be-true-first-4nh0\">a post of mine</",
+    "link": "https://dev.to/isamu/green-is-not-evidence-two-of-my-checks-were-covering-less-than-i-thought-j99",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Google Cloud Run Services with Vigilmon (Free External Uptime Checks)",
-    "desc": "<p>Google Cloud Run is a fully managed serverless platform for deploying containerized applications. It scales to zero, handles traffic auto",
-    "link": "https://dev.to/vigilmon/how-to-monitor-google-cloud-run-services-with-vigilmon-free-external-uptime-checks-2m8d",
-    "topic": "gcp"
-  },
-  {
-    "title": "How to Monitor Your Fly.io Application with Vigilmon (Free, Multi-Region)",
-    "desc": "<p>If you deploy on Fly.io, you already benefit from its global edge network. But Fly.io does not include built-in uptime monitoring \u2014 you n",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-flyio-application-with-vigilmon-free-multi-region-jp3",
+    "title": "How to Monitor MySQL Database Health with Vigilmon (Free External Uptime Checks)",
+    "desc": "<p>MySQL powers millions of applications. When it goes down or becomes unreachable, your entire app follows. This guide shows how to monitor",
+    "link": "https://dev.to/vigilmon/how-to-monitor-mysql-database-health-with-vigilmon-free-external-uptime-checks-35h2",
     "topic": "general"
   },
   {
-    "title": "ViciDial Hopper Not Loading Leads \u2014 Troubleshooting the Lead Hopper",
-    "desc": "<h1>\n  \n  \n  ViciDial Hopper Not Loading Leads \u2014 Troubleshooting the Lead Hopper\n</h1>\n\n<p><strong>Learn how to diagnose and fix lead hopper",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-hopper-not-loading-leads-troubleshooting-the-lead-hopper-3jn",
+    "title": "Offshoring versus EU-Nearshoring: De beste keuze voor logistieke backoffice outsourcing",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/datamondial/offshoring-versus-eu-nearshoring-de-beste-keuze-voor-logistieke-backoffice-outsourcing-21nk",
     "topic": "general"
   },
   {
-    "title": "36 Best Website To Buy Telegram Accounts in 2026",
-    "desc": "<p>Buy Old Telegram Accounts\u00a0<br />\n\ud83d\udcab\ud83d\udc8e\ud83d\udcb2\ud83d\udcab\ud83c\udf10\u2728\ud83d\udc8eFast & Reliable 24/7 Customer Support</p>\n\n<p>\ud83d\udcab\ud83d\udc8e\ud83d\udcb2\ud83d\udcab\ud83c\udf10\u2728\ud83d\udc8eWhatsApp :+1 (506) 541-7768</p>\n\n<p>\ud83d\udcab\ud83d\udc8e\ud83d\udcb2\ud83d\udcab\ud83c\udf10\u2728\ud83d\udc8eT",
-    "link": "https://dev.to/tandybellamyfw5oj/36-best-website-to-buy-telegram-accounts-in-2026-fg8",
+    "title": "How to Set Up On-Call Alerting with Vigilmon (Rotations, Escalations, and Alert Rules)",
+    "desc": "<p>On-call rotations are stressful when your alerting setup is noisy or poorly configured. This guide shows how to set up intelligent on-cal",
+    "link": "https://dev.to/vigilmon/how-to-set-up-on-call-alerting-with-vigilmon-rotations-escalations-and-alert-rules-5877",
     "topic": "general"
   },
   {
-    "title": "How We Eliminated Temperature Jitter in Multi-Shot Virtual Character Rendering",
-    "desc": "<p>How We Eliminated Temperature Jitter in Multi-Shot Virtual Character Rendering</p>\n\n<p>When working on virtual character rendering, one o",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/how-we-eliminated-temperature-jitter-in-multi-shot-virtual-character-rendering-4bab",
-    "topic": "general"
+    "title": "Self-Healing Instance Pools on Vultr: A Reconciler Loop for Solo Devs Without Kubernetes",
+    "desc": "<p>Managed Kubernetes gives you self-healing for free: a node dies, the scheduler notices, a replacement pod comes up elsewhere. If you're r",
+    "link": "https://dev.to/mukesh_13/self-healing-instance-pools-on-vultr-a-reconciler-loop-for-solo-devs-without-kubernetes-4k70",
+    "topic": "kubernetes"
   },
   {
-    "title": "Pay-As-You-Go Blockchain Nodes: Usage-Based RPC Pricing",
-    "desc": "<p>Pay-as-you-go blockchain nodes are managed RPC endpoints billed by usage instead of a flat monthly subscription. This model is useful whe",
-    "link": "https://dev.to/zhuoxin_sun_f2354597a82c2/pay-as-you-go-blockchain-nodes-usage-based-rpc-pricing-1aa3",
+    "title": "Smarter Test Splitting in CircleCI: Balancing Parallel Containers with Real Timing Data Instead of Guesswork",
+    "desc": "<p>Most teams turn on <code>parallelism</code> in CircleCI, add <code>circleci tests split</code>, and assume the test-speed problem is solv",
+    "link": "https://dev.to/mukesh_13/smarter-test-splitting-in-circleci-balancing-parallel-containers-with-real-timing-data-instead-of-p7g",
+    "topic": "docker"
+  },
+  {
+    "title": "How to Monitor PostgreSQL Database Health with Vigilmon (Free External Checks)",
+    "desc": "<p>PostgreSQL is the backbone of most production applications. When Postgres goes down or slows down, your entire application grinds to a ha",
+    "link": "https://dev.to/vigilmon/how-to-monitor-postgresql-database-health-with-vigilmon-free-external-checks-e6c",
     "topic": "general"
   }
 ]
