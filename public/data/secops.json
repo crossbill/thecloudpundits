@@ -1,5 +1,29 @@
 [
   {
+    "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
+    "desc": "<p>The physical security firm says its alarm monitoring and system functionality have not been affected.</p>\n<p>The post <a href=\"https://ww",
+    "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
+    "topic": "secops"
+  },
+  {
+    "title": "Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks",
+    "desc": "<p>The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
+    "desc": "<p>Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations.</p>\n<p>The",
+    "link": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
+    "topic": "general"
+  },
+  {
+    "title": "US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States",
+    "desc": "<p>Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers.</",
+    "link": "https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/",
+    "topic": "secops"
+  },
+  {
     "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
     "desc": "<p>The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. </p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
@@ -22,29 +46,5 @@
     "desc": "<p>Iran has the \u201cgeopolitical motivations\u201d and a recent history of targeting water systems, experts pointed out.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
     "topic": "secops"
-  },
-  {
-    "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
-    "desc": "<p>The internet giant has built an agent harness to find vulnerabilities across Chrome\u2019s codebase.</p>\n<p>The post <a href=\"https://www.secu",
-    "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
-    "topic": "general"
-  },
-  {
-    "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
-    "desc": "<p>When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbot",
-    "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
-    "topic": "general"
-  },
-  {
-    "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
-    "desc": "<p>A security company\u2019s systems were hacked after it installed a malicious Python package deployed by Claude.\u00a0</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
-    "topic": "openai"
-  },
-  {
-    "title": "Critical Flaw Allowed to Azure Cosmos DB Pwnage",
-    "desc": "<p>Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
-    "topic": "azure"
   }
 ]
