@@ -1,50 +1,50 @@
 [
   {
-    "title": "Continuous Quality Engineering: Why Modern DevOps Teams Are Replacing Traditional QA",
-    "desc": "<p>Software development has changed dramatically over the past few years. Businesses are expected to release new features faster while maint",
-    "link": "https://dev.to/tarunasdet/continuous-quality-engineering-why-modern-devops-teams-are-replacing-traditional-qa-277m",
+    "title": "Load Testing the Server Before Deploying Your Critical App",
+    "desc": "<p><em>A presales war story about CPU steal time \u2014 the metric almost nobody checks before go-live \u2014 and the full stress-test checklist I now",
+    "link": "https://dev.to/daanial/load-testing-the-server-before-deploying-your-critical-app-34fa",
     "topic": "general"
   },
   {
-    "title": "Virtualization & Containers \u2014 Understanding the Technology That Made Cloud and Docker Possible",
-    "desc": "<p>Before diving into Git, Docker, and Kubernetes, it's worth understanding the technology that made modern cloud computing possible: <stron",
-    "link": "https://dev.to/themdmohiuddin/virtualization-containers-understanding-the-technology-that-made-cloud-and-docker-possible-1h4a",
-    "topic": "docker"
-  },
-  {
-    "title": "Im Not A Full Stack Ten Year Senior... But Who Cares?",
-    "desc": "<p>I'm Not a Full-Stack Developer \u2014 and It Stopped Mattering.</p>\n\n<p>I'll open with the receipt, since that's the currency around here: six",
-    "link": "https://dev.to/xenocoregiger31/im-not-a-full-stack-ten-year-senior-but-who-cares-46ln",
-    "topic": "general"
-  },
-  {
-    "title": "Best UptimeRobot Alternatives in 2026 (Free and Paid)",
-    "desc": "<h1>\n  \n  \n  Best UptimeRobot Alternatives in 2026 (Free and Paid)\n</h1>\n\n<p>UptimeRobot has been a go-to uptime monitoring tool for years, ",
-    "link": "https://dev.to/vigilmon/best-uptimerobot-alternatives-in-2026-free-and-paid-3nld",
-    "topic": "general"
-  },
-  {
-    "title": "How to Monitor MinIO Object Storage with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor MinIO Object Storage with Vigilmon\n</h1>\n\n<p>MinIO is the leading open-source, S3-compatible object storage solu",
-    "link": "https://dev.to/vigilmon/how-to-monitor-minio-object-storage-with-vigilmon-3l7g",
+    "title": "How to Monitor Railway Deployments with Vigilmon",
+    "desc": "<h1>\n  \n  \n  How to Monitor Railway Deployments with Vigilmon\n</h1>\n\n<p><a href=\"https://railway.app/\" rel=\"noopener noreferrer\">Railway</a>",
+    "link": "https://dev.to/vigilmon/how-to-monitor-railway-deployments-with-vigilmon-33po",
     "topic": "general"
   },
   {
     "title": "How to Monitor Your gRPC Services with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor Your gRPC Services with Vigilmon\n</h1>\n\n<p>gRPC is Google's high-performance RPC framework used in microservices",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-grpc-services-with-vigilmon-25f7",
+    "desc": "<h1>\n  \n  \n  How to Monitor Your gRPC Services with Vigilmon\n</h1>\n\n<p>gRPC is the go-to protocol for high-performance microservice communic",
+    "link": "https://dev.to/vigilmon/how-to-monitor-your-grpc-services-with-vigilmon-ip2",
     "topic": "general"
   },
   {
-    "title": "Best Dynatrace Alternatives in 2026 (Free and Paid)",
-    "desc": "<h1>\n  \n  \n  Best Dynatrace Alternatives in 2026 (Free and Paid)\n</h1>\n\n<p>Dynatrace is a powerful full-stack observability platform, but it",
-    "link": "https://dev.to/vigilmon/best-dynatrace-alternatives-in-2026-free-and-paid-4o3d",
+    "title": "Best Freshping Alternatives in 2026 (Free and Paid)",
+    "desc": "<h1>\n  \n  \n  Best Freshping Alternatives in 2026 (Free and Paid)\n</h1>\n\n<p>Freshping (by Freshworks) is a solid uptime monitoring tool \u2014 but",
+    "link": "https://dev.to/vigilmon/best-freshping-alternatives-in-2026-free-and-paid-2ejk",
     "topic": "general"
   },
   {
-    "title": "How to Monitor RabbitMQ with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor RabbitMQ with Vigilmon\n</h1>\n\n<p>RabbitMQ is one of the most popular open-source message brokers in the world. I",
-    "link": "https://dev.to/vigilmon/how-to-monitor-rabbitmq-with-vigilmon-6ij",
+    "title": "Best New Relic Alternatives in 2026 (Free and Paid)",
+    "desc": "<h1>\n  \n  \n  Best New Relic Alternatives in 2026 (Free and Paid)\n</h1>\n\n<p>New Relic is a comprehensive observability platform \u2014 but it's co",
+    "link": "https://dev.to/vigilmon/best-new-relic-alternatives-in-2026-free-and-paid-36l5",
+    "topic": "general"
+  },
+  {
+    "title": "How to Monitor Google Cloud Run with Vigilmon",
+    "desc": "<h1>\n  \n  \n  How to Monitor Google Cloud Run with Vigilmon\n</h1>\n\n<p>Google Cloud Run is a fully managed serverless platform for containeriz",
+    "link": "https://dev.to/vigilmon/how-to-monitor-google-cloud-run-with-vigilmon-5fpl",
+    "topic": "gcp"
+  },
+  {
+    "title": "AI Governance in Financial Services",
+    "desc": "<p>August 2 came and went. That was the date the EU AI Act's high-risk obligations were supposed to take effect, the one compliance teams ha",
+    "link": "https://dev.to/todd_linnertz_871a076f68e/ai-governance-in-financial-services-3f3g",
+    "topic": "guardrails"
+  },
+  {
+    "title": "Operational Parity Is Becoming The Real Virtualization Challenge",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ntctech/operational-parity-is-becoming-the-real-virtualization-challenge-5d1m",
     "topic": "general"
   }
 ]
