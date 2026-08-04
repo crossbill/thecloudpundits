@@ -1,5 +1,17 @@
 [
   {
+    "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
+    "desc": "<p>A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent.</p>\n<p>The",
+    "link": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
+    "topic": "secops"
+  },
+  {
+    "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
+    "desc": "<p>Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
+    "topic": "secops"
+  },
+  {
     "title": "150,000 Impacted by Madera Community Hospital Data Breach",
     "desc": "<p>An extortion group stole personal, financial, and medical information from the hospital\u2019s network.</p>\n<p>The post <a href=\"https://www.s",
     "link": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
@@ -34,17 +46,5 @@
     "desc": "<p>The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing.</p>",
     "link": "https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/",
     "topic": "secops"
-  },
-  {
-    "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
-    "desc": "<p>The bank holding company was hacked in June, but the investigation into the incident continues.</p>\n<p>The post <a href=\"https://www.secu",
-    "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Horizon3 Raises $250 Million to Fund Continuing Growth",
-    "desc": "<p>Venture financing has become an essential factor in growing new business in today\u2019s fast moving economy. Horizon3\u2019s latest funding explai",
-    "link": "https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/",
-    "topic": "general"
   }
 ]
