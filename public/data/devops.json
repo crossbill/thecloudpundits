@@ -1,50 +1,50 @@
 [
   {
-    "title": "Vercel vs Netlify vs Cloudflare Pages: Where Your Side Project Should Actually Live",
-    "desc": "<p>For a side project, the short answer is: <strong>Cloudflare Pages if you want the cheapest ceiling and never think about bandwidth, Verce",
-    "link": "https://dev.to/libme/vercel-vs-netlify-vs-cloudflare-pages-where-your-side-project-should-actually-live-1j30",
+    "title": "AWS SQS Monitoring: Queue Depth, DLQ Alerts, and Consumer Health",
+    "desc": "<h2>\n  \n  \n  AWS SQS Monitoring: Catch Queue Failures Early\n</h2>\n\n<p>SQS queues fail silently. Messages pile up and users experience delays",
+    "link": "https://dev.to/vigilmon/aws-sqs-monitoring-queue-depth-dlq-alerts-and-consumer-health-49f0",
+    "topic": "aws"
+  },
+  {
+    "title": "CockroachDB Monitoring: Node Health, Query Latency, and Cluster Alerts",
+    "desc": "<h2>\n  \n  \n  CockroachDB Monitoring Basics\n</h2>\n\n<p>CockroachDB exposes a node health endpoint:<br />\n</p>\n\n<div class=\"highlight js-code-h",
+    "link": "https://dev.to/vigilmon/cockroachdb-monitoring-node-health-query-latency-and-cluster-alerts-elp",
     "topic": "general"
   },
   {
-    "title": "Most Teams Collect Traces. Very Few Actually Use Them.",
-    "desc": "<p>Distributed tracing was supposed to change everything.</p>\n\n<p>Finally, we could see how a request flows across microservices:<br />\n</p>",
-    "link": "https://dev.to/kubeha_18/most-teams-collect-traces-very-few-actually-use-them-104g",
+    "title": "How to Monitor Firebase in Production",
+    "desc": "<h2>\n  \n  \n  Firebase Monitoring Basics\n</h2>\n\n<p>Firebase is managed but your integration needs observability.</p>\n\n<h2>\n  \n  \n  Firestore ",
+    "link": "https://dev.to/vigilmon/how-to-monitor-firebase-in-production-24bm",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Your Cloudflare R2 Storage with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor Your Cloudflare R2 Storage with Vigilmon\n</h1>\n\n<p>Cloudflare R2 is an S3-compatible object storage service with",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-cloudflare-r2-storage-with-vigilmon-1pn3",
+    "title": "Deep Dive: Optimizing ShadowSocial.io's Likeness Lock v2.4 and Zero-Idle-RAM Queueing for Hyper-Efficient AI Persona Replication",
+    "desc": "<p>Deep Dive: Optimising ShadowSocial.io's Likeness Lock v2.4 and Zero-Idle-RAM Queueing for Hyper-Efficient AI Persona Replication</p>\n\n<p>",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/deep-dive-optimizing-shadowsocialios-likeness-lock-v24-and-zero-idle-ram-queueing-for-47dd",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Your Stripe Webhook Endpoints with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor Your Stripe Webhook Endpoints with Vigilmon\n</h1>\n\n<p>Stripe webhooks are the backbone of payment-driven applica",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-stripe-webhook-endpoints-with-vigilmon-2i2l",
+    "title": "LetsCloud is now part of the Easypanel marketplace",
+    "desc": "<p>LetsCloud is now listed in the official Easypanel documentation as one of the cloud providers available for deploying the platform.</p>\n\n",
+    "link": "https://dev.to/letscloud/letscloud-is-now-part-of-the-easypanel-marketplace-51l0",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Your Postmark Email Service with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor Your Postmark Email Service with Vigilmon\n</h1>\n\n<p>Postmark is built for transactional email delivery with an e",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-postmark-email-service-with-vigilmon-41i4",
+    "title": "\ud83d\ude80 Cron vs Systemd Timers vs daemontools \u2014 Understanding the Evolution of Linux Job Scheduling & Service Management",
+    "desc": "<p>While diving deeper into Linux internals and modern SRE practices, I came across a question that many Linux engineers eventually ask:</p>",
+    "link": "https://dev.to/deekay99/cron-vs-systemd-timers-vs-daemontools-understanding-the-evolution-of-linux-job-scheduling--31mm",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Your Mailgun Email API with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor Your Mailgun Email API with Vigilmon\n</h1>\n\n<p>Mailgun is a developer-focused email API trusted by thousands of ",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-mailgun-email-api-with-vigilmon-2ngg",
+    "title": "How to Monitor Hasura GraphQL Engine: Queries, Subscriptions, and Health",
+    "desc": "<h2>\n  \n  \n  Monitoring Hasura GraphQL Engine\n</h2>\n\n<p>Hasura is a powerful GraphQL engine that auto-generates APIs from your database. In ",
+    "link": "https://dev.to/vigilmon/how-to-monitor-hasura-graphql-engine-queries-subscriptions-and-health-556i",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Your SendGrid Email API with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor Your SendGrid Email API with Vigilmon\n</h1>\n\n<p>SendGrid by Twilio is one of the most widely used transactional ",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-sendgrid-email-api-with-vigilmon-5e9j",
-    "topic": "general"
-  },
-  {
-    "title": "How to Monitor Your Weaviate Vector Search with Vigilmon",
-    "desc": "<h1>\n  \n  \n  How to Monitor Your Weaviate Vector Search with Vigilmon\n</h1>\n\n<p>Weaviate is an open-source vector database with semantic sea",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-weaviate-vector-search-with-vigilmon-4o1m",
+    "title": "How to Monitor WebSocket Connections and Real-Time Apps in 2025",
+    "desc": "<h2>\n  \n  \n  Why Monitor WebSockets?\n</h2>\n\n<p>Real-time applications built on WebSockets introduce unique monitoring challenges. Unlike HTT",
+    "link": "https://dev.to/vigilmon/how-to-monitor-websocket-connections-and-real-time-apps-in-2025-1k4m",
     "topic": "general"
   }
 ]
