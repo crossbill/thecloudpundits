@@ -1,50 +1,50 @@
 [
   {
-    "title": "Open Source Observability Stack: From LGTM to Unified APM",
-    "desc": "<p>Searching for an <strong>open source observability</strong> stack often lands you between two camps \u2014 assemble Grafana LGTM piece by piec",
-    "link": "https://dev.to/logan_zhang_8ca3575087c5b/open-source-observability-stack-from-lgtm-to-unified-apm-49fi",
+    "title": "Uptime Monitoring for GraphQL APIs with Vigilmon",
+    "desc": "<p>GraphQL APIs present unique monitoring challenges compared to REST APIs. A single GraphQL endpoint handles all queries, mutations, and su",
+    "link": "https://dev.to/vigilmon/uptime-monitoring-for-graphql-apis-with-vigilmon-20ac",
     "topic": "general"
   },
   {
-    "title": "Get $1000 in Amazon",
-    "desc": "<p><a href=\"https://sites.google.com/view/islamigstlgf/home\" rel=\"noopener noreferrer\">https://sites.google.com/view/islamigstlgf/home</a><b",
-    "link": "https://dev.to/al_islam_92240b3be93b2b91/get-1000-in-amazon-6pg",
+    "title": "How to Monitor Your Coolify Deployments with Vigilmon",
+    "desc": "<p>Coolify is a popular self-hosted platform for deploying applications, databases, and services on your own infrastructure. If you use Cool",
+    "link": "https://dev.to/vigilmon/how-to-monitor-your-coolify-deployments-with-vigilmon-5hg4",
     "topic": "general"
   },
   {
-    "title": "Stop Chasing 100 Lighthouse Scores. Build E-commerce Websites That Actually Convert.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/princeparmar/stop-chasing-100-lighthouse-scores-build-e-commerce-websites-that-actually-convert-2i6p",
+    "title": "APM vs Uptime Monitoring: Understanding the Difference and Why You Need Both",
+    "desc": "<p>Application Performance Monitoring (APM) tools like SigNoz, Datadog, and New Relic provide deep internal observability - distributed trac",
+    "link": "https://dev.to/vigilmon/apm-vs-uptime-monitoring-understanding-the-difference-and-why-you-need-both-3lhe",
     "topic": "general"
   },
   {
-    "title": "Open Source APM Tools: A Practical Guide for 2026",
-    "desc": "<p>Teams evaluating <strong>open source APM tools</strong> face the same fork: trace-only backends, modular observability stacks, or unified",
-    "link": "https://dev.to/logan_zhang_8ca3575087c5b/open-source-apm-tools-a-practical-guide-for-2026-2f7k",
+    "title": "How to Monitor Your Linode (Akamai Cloud) Applications with Vigilmon",
+    "desc": "<p>Linode, now known as Akamai Cloud, is a trusted cloud hosting provider with a long track record for reliability and developer-friendlines",
+    "link": "https://dev.to/vigilmon/how-to-monitor-your-linode-akamai-cloud-applications-with-vigilmon-345j",
     "topic": "general"
   },
   {
-    "title": "Workflow Orchestration for Enterprise Integration: Temporal, Airflow, and Beyond",
-    "desc": "<p><strong>Why Integration Needs Orchestration</strong></p>\n\n<p>Enterprise integration is not a point-to-point problem. The moment you conne",
-    "link": "https://dev.to/n3xgen/workflow-orchestration-for-enterprise-integration-temporal-airflow-and-beyond-3ecj",
+    "title": "How to Monitor Your Vultr VPS and Applications with Vigilmon",
+    "desc": "<p>Vultr is a popular cloud hosting provider offering VPS instances, bare metal servers, and managed Kubernetes at competitive prices. Thous",
+    "link": "https://dev.to/vigilmon/how-to-monitor-your-vultr-vps-and-applications-with-vigilmon-151k",
     "topic": "general"
   },
   {
-    "title": "Automating Car Valuation and Acquisition Workflows with Modern Web APIs",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/germanautoexpert_f1777898/automating-car-valuation-and-acquisition-workflows-with-modern-web-apis-7nm",
+    "title": "Log Management vs Uptime Monitoring: Why Your Stack Needs Both",
+    "desc": "<p>Log management tools are excellent at collecting, searching, and alerting on application logs. They help you debug issues, track error ra",
+    "link": "https://dev.to/vigilmon/log-management-vs-uptime-monitoring-why-your-stack-needs-both-31i2",
     "topic": "general"
   },
   {
-    "title": "Innovation Isn't About More Ideas - It's About Solving Better Problems",
-    "desc": "<p>The tech world celebrates new ideas every day, but not every idea creates lasting impact.</p>\n\n<p>The real difference lies in how those i",
-    "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/innovation-isnt-about-more-ideas-its-about-solving-better-problems-j4o",
-    "topic": "general"
+    "title": "Azure DevOps and Vigilmon: External Uptime Monitoring for Azure-Deployed Services",
+    "desc": "<p>Azure DevOps is Microsoft's end-to-end DevOps platform covering planning, source control, CI/CD, testing, and artifact management. Teams ",
+    "link": "https://dev.to/vigilmon/azure-devops-and-vigilmon-external-uptime-monitoring-for-azure-deployed-services-3dk0",
+    "topic": "azure"
   },
   {
-    "title": "The Impact of Candidate Experience on Tech Recruitment: Why Every Developer's Journey Matters | Placemeright",
-    "desc": "<p>Hiring great developers has never been easy, but today it is more competitive than ever. Companies spend significant time and money findi",
-    "link": "https://dev.to/placemeright/the-impact-of-candidate-experience-on-tech-recruitment-why-every-developers-journey-matters--16ci",
+    "title": "Bitbucket Pipelines and Vigilmon: Monitor What You Deploy, Not Just the Build",
+    "desc": "<p>Bitbucket Pipelines is Atlassian's built-in CI/CD platform - fast, integrated, and widely used by teams on the Atlassian stack. But runni",
+    "link": "https://dev.to/vigilmon/bitbucket-pipelines-and-vigilmon-monitor-what-you-deploy-not-just-the-build-4dh0",
     "topic": "general"
   }
 ]
