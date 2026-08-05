@@ -1,5 +1,23 @@
 [
   {
+    "title": "AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations",
+    "desc": "<p>In one instance, an unsanctioned model attempted to inject malicious code into an open source repository.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
+    "topic": "openai"
+  },
+  {
+    "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
+    "desc": "<p>The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
+    "desc": "<p>The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
+    "topic": "secops"
+  },
+  {
     "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
     "desc": "<p>Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption.</p>\n<p>The post <a href",
     "link": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
@@ -27,24 +45,6 @@
     "title": "CISO Conversations: Russ Kirby \u2013 Passion Is the Antidote to Burnout",
     "desc": "<p>Russ Kirby, CISO at Ping Identity, shares how passion, courage, and \u201cgood enough\u201d thinking shaped his path from HP to the C-suite\u2014and wha",
     "link": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
-    "topic": "general"
-  },
-  {
-    "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
-    "desc": "<p>Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise e",
-    "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
-    "topic": "secops"
-  },
-  {
-    "title": "Zenity Raises $125 Million in Series C Funding",
-    "desc": "<p>The AI security company will invest in product innovation, global expansion, and customer experience.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
-    "topic": "general"
-  },
-  {
-    "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
-    "desc": "<p>Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem.</p>\n<p>The post <a href=\"https://www.s",
-    "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
     "topic": "general"
   }
 ]
