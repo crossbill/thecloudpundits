@@ -1,50 +1,50 @@
 [
   {
-    "title": "Uptime Monitoring for GraphQL APIs with Vigilmon",
-    "desc": "<p>GraphQL APIs present unique monitoring challenges compared to REST APIs. A single GraphQL endpoint handles all queries, mutations, and su",
-    "link": "https://dev.to/vigilmon/uptime-monitoring-for-graphql-apis-with-vigilmon-20ac",
+    "title": "Laravel Application Monitoring with Vigilmon: Health Checks for PHP Applications",
+    "desc": "<h1>\n  \n  \n  Laravel Application Monitoring with Vigilmon: Health Checks for PHP Applications\n</h1>\n\n<p>Laravel is the most popular PHP fram",
+    "link": "https://dev.to/vigilmon/laravel-application-monitoring-with-vigilmon-health-checks-for-php-applications-2nmf",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Your Coolify Deployments with Vigilmon",
-    "desc": "<p>Coolify is a popular self-hosted platform for deploying applications, databases, and services on your own infrastructure. If you use Cool",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-coolify-deployments-with-vigilmon-5hg4",
+    "title": "Spring Boot Application Monitoring with Vigilmon: Actuator Endpoints and External Health Checks",
+    "desc": "<h1>\n  \n  \n  Spring Boot Application Monitoring with Vigilmon: Actuator Endpoints and External Health Checks\n</h1>\n\n<p>Spring Boot's Actuato",
+    "link": "https://dev.to/vigilmon/spring-boot-application-monitoring-with-vigilmon-actuator-endpoints-and-external-health-checks-a9c",
     "topic": "general"
   },
   {
-    "title": "APM vs Uptime Monitoring: Understanding the Difference and Why You Need Both",
-    "desc": "<p>Application Performance Monitoring (APM) tools like SigNoz, Datadog, and New Relic provide deep internal observability - distributed trac",
-    "link": "https://dev.to/vigilmon/apm-vs-uptime-monitoring-understanding-the-difference-and-why-you-need-both-3lhe",
+    "title": "Best AWS Learning Resources After You Clean Up Your Cloud Bill",
+    "desc": "<p>Cleaning up AWS waste is a great first step, but it also teaches you where your<br />\ncloud knowledge is thin.</p>\n\n<p>When you find an u",
+    "link": "https://dev.to/krembo_vitman_50c3eac5aa6/best-aws-learning-resources-after-you-clean-up-your-cloud-bill-5b0k",
+    "topic": "aws"
+  },
+  {
+    "title": "How to Monitor Airtable APIs with Vigilmon: SaaS Integration Health Monitoring",
+    "desc": "<h1>\n  \n  \n  How to Monitor Airtable APIs with Vigilmon: SaaS Integration Health Monitoring\n</h1>\n\n<p>Airtable has evolved from a simple spr",
+    "link": "https://dev.to/vigilmon/how-to-monitor-airtable-apis-with-vigilmon-saas-integration-health-monitoring-46kc",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Your Linode (Akamai Cloud) Applications with Vigilmon",
-    "desc": "<p>Linode, now known as Akamai Cloud, is a trusted cloud hosting provider with a long track record for reliability and developer-friendlines",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-linode-akamai-cloud-applications-with-vigilmon-345j",
+    "title": "Your interval-triggered agent pays full price for empty runs",
+    "desc": "<p>We run an agent on an interval. It wakes about a dozen times a day, checks whether anything needs doing, and usually the answer is no. Th",
+    "link": "https://dev.to/jacksonxly/your-interval-triggered-agent-pays-full-price-for-empty-runs-adc",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Your Vultr VPS and Applications with Vigilmon",
-    "desc": "<p>Vultr is a popular cloud hosting provider offering VPS instances, bare metal servers, and managed Kubernetes at competitive prices. Thous",
-    "link": "https://dev.to/vigilmon/how-to-monitor-your-vultr-vps-and-applications-with-vigilmon-151k",
+    "title": "GitLab to GitHub migration in 2026: the 7 things GEI will not move",
+    "desc": "<h1>\n  \n  \n  GitLab to GitHub migration in 2026: the 7 things GEI will not move\n</h1>\n\n<p><strong>Summary.</strong> GitHub made GitLab migra",
+    "link": "https://dev.to/mr_manushukla/gitlab-to-github-migration-in-2026-the-7-things-gei-will-not-move-5hbo",
     "topic": "general"
   },
   {
-    "title": "Log Management vs Uptime Monitoring: Why Your Stack Needs Both",
-    "desc": "<p>Log management tools are excellent at collecting, searching, and alerting on application logs. They help you debug issues, track error ra",
-    "link": "https://dev.to/vigilmon/log-management-vs-uptime-monitoring-why-your-stack-needs-both-31i2",
+    "title": "I read 172 official status feeds every 10 minutes. Here is what is quietly broken in them.",
+    "desc": "<p>For the last few weeks I've had a cron job reading the official status feed of 172 cloud and SaaS providers every ten minutes. Not scrapi",
+    "link": "https://dev.to/kerolos_atallah/i-read-172-official-status-feeds-every-10-minutes-here-is-what-is-quietly-broken-in-them-4234",
     "topic": "general"
   },
   {
-    "title": "Azure DevOps and Vigilmon: External Uptime Monitoring for Azure-Deployed Services",
-    "desc": "<p>Azure DevOps is Microsoft's end-to-end DevOps platform covering planning, source control, CI/CD, testing, and artifact management. Teams ",
-    "link": "https://dev.to/vigilmon/azure-devops-and-vigilmon-external-uptime-monitoring-for-azure-deployed-services-3dk0",
-    "topic": "azure"
-  },
-  {
-    "title": "Bitbucket Pipelines and Vigilmon: Monitor What You Deploy, Not Just the Build",
-    "desc": "<p>Bitbucket Pipelines is Atlassian's built-in CI/CD platform - fast, integrated, and widely used by teams on the Atlassian stack. But runni",
-    "link": "https://dev.to/vigilmon/bitbucket-pipelines-and-vigilmon-monitor-what-you-deploy-not-just-the-build-4dh0",
+    "title": "The Network Engineering Flaw Behind Broken Game Launches",
+    "desc": "<p>Every gamer knows the drill on launch day. You wait in a massive virtual queue, hit random connection timeouts, or get disconnected right",
+    "link": "https://dev.to/sadaf_botanist/the-network-engineering-flaw-behind-broken-game-launches-1nok",
     "topic": "general"
   }
 ]
