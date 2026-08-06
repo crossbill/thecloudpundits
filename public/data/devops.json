@@ -1,50 +1,50 @@
 [
   {
-    "title": "How I Stitched Two Kubernetes Clusters Together with Karmada, HAProxy, and Azure Pipelines",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/noushad_hasan_4be85cd12d6/how-i-stitched-two-kubernetes-clusters-together-with-karmada-haproxy-and-azure-pipelines-22la",
+    "title": "The Evidence Layer Must Survive the Framework",
+    "desc": "<p>The first design error was easy to describe after we found it: we had protected command authorization but missed tunnel authorization.</p",
+    "link": "https://dev.to/merbayerp/the-evidence-layer-must-survive-the-framework-41e8",
+    "topic": "general"
+  },
+  {
+    "title": "ShadowSocial.io: Orchestrating Qwen-Max Multi-Modal Synthesis with Likeness Lock v2.4 and Wan 2.1 via Zero-Idle-RAM Queueing on Burstable ECS",
+    "desc": "<p>ShadowSocial.io: Orchestrating Qwen-Max Multi-Modal Synthesis with Likeness Lock v2.4 and Wan 2.1 via Zero-Idle-RAM Queueing on Burstable",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocialio-orchestrating-qwen-max-multi-modal-synthesis-with-likeness-lock-v24-and-wan-21-1hm7",
+    "topic": "general"
+  },
+  {
+    "title": "The Intermediate Representation of Content: Why Your Media Pipeline Needs a Compiler",
+    "desc": "<p>Modern software engineering solved a problem that content operations are only now rediscovering: <strong>you can't maintain one artifact ",
+    "link": "https://dev.to/claudia-ve/the-intermediate-representation-of-content-why-your-media-pipeline-needs-a-compiler-4k3n",
+    "topic": "general"
+  },
+  {
+    "title": "Start Your Digital Marketing Career with the Right Skills",
+    "desc": "<p>India's digital economy continues to expand, creating thousands of opportunities for skilled digital marketing professionals. Every busin",
+    "link": "https://dev.to/intern_asif_6e2ac5f9c780f/start-your-digital-marketing-career-with-the-right-skills-354i",
+    "topic": "general"
+  },
+  {
+    "title": "Master MLOps Training Online | MLOps Course in Hyderabad",
+    "desc": "<p>How to Automate Model Training and Deployment Using MLOps<br />\nIntroduction<br />\nMachine learning helps businesses solve real problems.",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-mlops-training-online-mlops-course-in-hyderabad-290n",
+    "topic": "general"
+  },
+  {
+    "title": "1Password vs Azure Key Vault: The Real Difference Is Scope",
+    "desc": "<p>A secret-backed automation often fails in a way that looks simple: login stopped working. The hard part is figuring out whether the crede",
+    "link": "https://dev.to/anakin_writers/1password-vs-azure-key-vault-the-real-difference-is-scope-34bc",
     "topic": "azure"
   },
   {
-    "title": "Ops Ops everywhere",
-    "desc": "<p>Give a term like \"system administrator\" to the marketing-loving, \"buzzword-loving\" non-technical managers; then you'll get:</p>\n\n<ul>\n<li",
-    "link": "https://dev.to/prazian/ops-ops-everywhere-1kpp",
+    "title": "Top 10 Areas to Buy Property in Islamabad in 2026",
+    "desc": "<p>If you're planning to invest in Islamabad's real estate market, choosing the right location is the key to long-term value and returns. <a",
+    "link": "https://dev.to/4islamabad/top-10-areas-to-buy-property-in-islamabad-in-2026-4ann",
     "topic": "general"
   },
   {
-    "title": "NAS Failover Clustering: What Active-Active Testing Actually Reveals",
-    "desc": "<p>Every storage vendor's spec sheet claims high availability, and most active-active clusters look perfect on paper. Two nodes, synchronize",
-    "link": "https://dev.to/nasstorage/nas-failover-clustering-what-active-active-testing-actually-reveals-116d",
-    "topic": "general"
-  },
-  {
-    "title": "The check that could not fail",
-    "desc": "<h2>\n  \n  \n  Context\n</h2>\n\n<p>There is one cheap way to ask python-semantic-release whether it will write your changelog. It answers <code>",
-    "link": "https://dev.to/nazarii-ahapevych/the-check-that-could-not-fail-55n4",
-    "topic": "general"
-  },
-  {
-    "title": "ColdFusion MVC With ColdBox: Moving From Spaghetti .cfm to Testable, Modular Code",
-    "desc": "<p>ColdBox is the mature, conventions-based HMVC framework for ColdFusion (CFML), built by Ortus Solutions, and it\u2019s the standard path out o",
-    "link": "https://dev.to/deepak_sir__/coldfusion-mvc-with-coldbox-moving-from-spaghetti-cfm-to-testable-modular-code-5g8m",
-    "topic": "general"
-  },
-  {
-    "title": "Hosting a Static Website on AWS S3: A Step-by-Step Walkthrough",
-    "desc": "<p><strong>Introducing Today's Project!</strong></p>\n\n<p><strong>Project overview</strong><br />\nI'm doing this project to learn how S3 stor",
-    "link": "https://dev.to/supremeoverlord/hosting-a-static-website-on-aws-s3-a-step-by-step-walkthrough-30le",
-    "topic": "aws"
-  },
-  {
-    "title": "2026 AI Lead Generation Platform Ranking: Top 10 AI Customer Acquisition Tools for Businesses AI Customer Acquisition Is Entering a New Era",
-    "desc": "<p>Aug 06, 2026</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down",
-    "link": "https://dev.to/zen7/2026-ai-lead-generation-platform-ranking-top-10-ai-customer-acquisition-tools-for-businesses-ai-j9o",
-    "topic": "general"
-  },
-  {
-    "title": "ShadowSocial.io: Architecting Hyper-Personalized AI Avatars with Qwen-Max Modality Fusion, Likeness Lock v2.4, and Caddy Edge Orchestration",
-    "desc": "<p>ShadowSocial.io: Architecting Hyper-Personalized AI Avatars with Qwen-Max Modality Fusion, Likeness Lock v2.4, and Caddy Edge Orchestrati",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocialio-architecting-hyper-personalized-ai-avatars-with-qwen-max-modality-fusion-likeness-2d4j",
+    "title": "Decoupling Qwen-Max Multi-Modal Inference from WAN 2.1 Video Synthesis: A Burstable ECS and Zero-Idle-RAM Queueing Deep Dive on ShadowSocial.io",
+    "desc": "<p>Decoupling Qwen-Max Multi-Modal Inference from WAN 2.1 Video Synthesis: A Burstable ECS and Zero-Idle-RAM Queueing Deep Dive on ShadowSoc",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/decoupling-qwen-max-multi-modal-inference-from-wan-21-video-synthesis-a-burstable-ecs-and-4bc1",
     "topic": "general"
   }
 ]
