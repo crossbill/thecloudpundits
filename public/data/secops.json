@@ -1,5 +1,17 @@
 [
   {
+    "title": "Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities",
+    "desc": "<p>Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+    "desc": "<p>Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
     "desc": "<p>The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications.</p>\n<p>The post <",
     "link": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
@@ -34,17 +46,5 @@
     "desc": "<p>The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations.</p>\n<p>The post <a hr",
     "link": "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/",
     "topic": "secops"
-  },
-  {
-    "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
-    "desc": "<p>AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects.</p>\n<",
-    "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
-    "topic": "secops"
-  },
-  {
-    "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
-    "desc": "<p>The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
-    "topic": "general"
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
-    "title": "\ud83d\udccc Day 16: 100 Days of GenAI for DevOps: - System Design for DevOps Engineers \ud83d\udccc",
-    "desc": "<p>One of the biggest mistakes engineers make while learning system design is treating it as something only developers need.</p>\n\n<p>In real",
-    "link": "https://dev.to/lakhera2015/day-16-100-days-of-genai-for-devops-system-design-for-devops-engineers-2pd",
+    "title": "How I Stitched Two Kubernetes Clusters Together with Karmada, HAProxy, and Azure Pipelines",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/noushad_hasan_4be85cd12d6/how-i-stitched-two-kubernetes-clusters-together-with-karmada-haproxy-and-azure-pipelines-22la",
+    "topic": "azure"
+  },
+  {
+    "title": "Ops Ops everywhere",
+    "desc": "<p>Give a term like \"system administrator\" to the marketing-loving, \"buzzword-loving\" non-technical managers; then you'll get:</p>\n\n<ul>\n<li",
+    "link": "https://dev.to/prazian/ops-ops-everywhere-1kpp",
     "topic": "general"
   },
   {
-    "title": "Caddy's Edge-Fusion: Sub-Millisecond AI Persona Synthesis with Qwen-Max, Likeness Lock v2.4, and Burst ECS Zero-Idle-RAM Queueing",
-    "desc": "<p>Right, so we've been pushing some serious boundaries with our media generation pipeline, and I wanted to share a deep dive on how we're a",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/caddys-edge-fusion-sub-millisecond-ai-persona-synthesis-with-qwen-max-likeness-lock-v24-and-3lfp",
+    "title": "NAS Failover Clustering: What Active-Active Testing Actually Reveals",
+    "desc": "<p>Every storage vendor's spec sheet claims high availability, and most active-active clusters look perfect on paper. Two nodes, synchronize",
+    "link": "https://dev.to/nasstorage/nas-failover-clustering-what-active-active-testing-actually-reveals-116d",
     "topic": "general"
   },
   {
-    "title": "\u2699\ufe0f Crafting an Argo CD application manifest yaml for FastAPI microservices made easy",
-    "desc": "<h2>\n  \n  \n  \ud83c\udfd7 Application Manifest \u2014 Why It <em>Matters</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dy",
-    "link": "https://dev.to/ptp2308/crafting-an-argo-cd-application-manifest-yaml-for-fastapi-microservices-made-easy-2a8g",
+    "title": "The check that could not fail",
+    "desc": "<h2>\n  \n  \n  Context\n</h2>\n\n<p>There is one cheap way to ask python-semantic-release whether it will write your changelog. It answers <code>",
+    "link": "https://dev.to/nazarii-ahapevych/the-check-that-could-not-fail-55n4",
     "topic": "general"
   },
   {
-    "title": "What 2025 Attack Traffic Means for Developers and Security Teams",
-    "desc": "<p>Security reports often lead with large numbers.</p>\n\n<p>Billions of malicious requests. Terabit-scale DDoS attacks. Millions of automated",
-    "link": "https://dev.to/alviny/what-2025-attack-traffic-means-for-developers-and-security-teams-36kg",
-    "topic": "secops"
-  },
-  {
-    "title": "SIP 403 Forbidden Error \u2014 Trunk Authentication Troubleshooting",
-    "desc": "<h1>\n  \n  \n  SIP 403 Forbidden Error \u2014 Trunk Authentication Troubleshooting\n</h1>\n\n<p><strong>Master the complete diagnostic and resolution ",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/sip-403-forbidden-error-trunk-authentication-troubleshooting-5024",
+    "title": "ColdFusion MVC With ColdBox: Moving From Spaghetti .cfm to Testable, Modular Code",
+    "desc": "<p>ColdBox is the mature, conventions-based HMVC framework for ColdFusion (CFML), built by Ortus Solutions, and it\u2019s the standard path out o",
+    "link": "https://dev.to/deepak_sir__/coldfusion-mvc-with-coldbox-moving-from-spaghetti-cfm-to-testable-modular-code-5g8m",
     "topic": "general"
   },
   {
-    "title": "Synthesizing AI Persona: Likeness Lock v2.4 Identity Persistence & Qwen-Max Multimodality via Zero-Idle-RAM Micro-Queueing on Burstable ECS",
-    "desc": "<p>Right, so we've been pushing hard on how we keep AI-generated personas consistent across different interactions and media. It's one thing",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/synthesizing-ai-persona-likeness-lock-v24-identity-persistence-qwen-max-multimodality-via-2jgd",
+    "title": "Hosting a Static Website on AWS S3: A Step-by-Step Walkthrough",
+    "desc": "<p><strong>Introducing Today's Project!</strong></p>\n\n<p><strong>Project overview</strong><br />\nI'm doing this project to learn how S3 stor",
+    "link": "https://dev.to/supremeoverlord/hosting-a-static-website-on-aws-s3-a-step-by-step-walkthrough-30le",
+    "topic": "aws"
+  },
+  {
+    "title": "2026 AI Lead Generation Platform Ranking: Top 10 AI Customer Acquisition Tools for Businesses AI Customer Acquisition Is Entering a New Era",
+    "desc": "<p>Aug 06, 2026</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down",
+    "link": "https://dev.to/zen7/2026-ai-lead-generation-platform-ranking-top-10-ai-customer-acquisition-tools-for-businesses-ai-j9o",
     "topic": "general"
   },
   {
-    "title": "Caddy-Powered Edge-Fusion for Qwen-Max: ShadowSocial's Multi-Modal Orchestration on Burstable ECS with Zero-Idle-RAM Backpressure",
-    "desc": "<p>Right, so we've been running Qwen-Max for our AI media generation on ShadowSocial, and it's been... interesting. The multi-modal stuff, e",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/caddy-powered-edge-fusion-for-qwen-max-shadowsocials-multi-modal-orchestration-on-burstable-ecs-3m6g",
-    "topic": "general"
-  },
-  {
-    "title": "Qwen-Max to Wan 2.1: Architecting ShadowSocial's Hyper-Converged AI Influencer Pipeline with Caddy and Zero-Idle-RAM Burst Orchestration",
-    "desc": "<p>Right, so we've been running Qwen-Max for our influencer media generation for a while now. It's been solid, but scaling it efficiently, e",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-to-wan-21-architecting-shadowsocials-hyper-converged-ai-influencer-pipeline-with-caddy-1ohb",
+    "title": "ShadowSocial.io: Architecting Hyper-Personalized AI Avatars with Qwen-Max Modality Fusion, Likeness Lock v2.4, and Caddy Edge Orchestration",
+    "desc": "<p>ShadowSocial.io: Architecting Hyper-Personalized AI Avatars with Qwen-Max Modality Fusion, Likeness Lock v2.4, and Caddy Edge Orchestrati",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocialio-architecting-hyper-personalized-ai-avatars-with-qwen-max-modality-fusion-likeness-2d4j",
     "topic": "general"
   }
 ]
