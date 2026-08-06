@@ -1,50 +1,50 @@
 [
   {
-    "title": "When Your VPS Never Had the Resources It Was Sold With",
-    "desc": "<p>I needed a VPS to run CyberPanel. Simple enough: 1 vCPU, 1 GB RAM, 10 GB SSD, IPv6 only. CyberPanel needs IPv4, so I upgraded to the next",
-    "link": "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
+    "title": "\ud83d\udccc Day 16: 100 Days of GenAI for DevOps: - System Design for DevOps Engineers \ud83d\udccc",
+    "desc": "<p>One of the biggest mistakes engineers make while learning system design is treating it as something only developers need.</p>\n\n<p>In real",
+    "link": "https://dev.to/lakhera2015/day-16-100-days-of-genai-for-devops-system-design-for-devops-engineers-2pd",
     "topic": "general"
   },
   {
-    "title": "Decoupling AI Influencer Compute: ShadowSocial's Zero-Idle-RAM Queueing with Burstable ECS & Qwen-Max Orchestration",
-    "desc": "<p>Right, let's talk about how we're actually <em>doing</em> this AI influencer stuff at ShadowSocial, specifically around managing the comp",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/decoupling-ai-influencer-compute-shadowsocials-zero-idle-ram-queueing-with-burstable-ecs--4n39",
+    "title": "Caddy's Edge-Fusion: Sub-Millisecond AI Persona Synthesis with Qwen-Max, Likeness Lock v2.4, and Burst ECS Zero-Idle-RAM Queueing",
+    "desc": "<p>Right, so we've been pushing some serious boundaries with our media generation pipeline, and I wanted to share a deep dive on how we're a",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/caddys-edge-fusion-sub-millisecond-ai-persona-synthesis-with-qwen-max-likeness-lock-v24-and-3lfp",
     "topic": "general"
   },
   {
-    "title": "Hyper-Converged AI Influence: ShadowSocial's Caddy-Proxied, Zero-Idle Qwen-Max/Wan 2.1 Micro-Burst Architecture",
-    "desc": "<p>Right, so we've been running into some interesting challenges with AI media generation at ShadowSocial.io. Specifically, getting Qwen-Max",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/hyper-converged-ai-influence-shadowsocials-caddy-proxied-zero-idle-qwen-maxwan-21-micro-burst-4pmf",
+    "title": "\u2699\ufe0f Crafting an Argo CD application manifest yaml for FastAPI microservices made easy",
+    "desc": "<h2>\n  \n  \n  \ud83c\udfd7 Application Manifest \u2014 Why It <em>Matters</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dy",
+    "link": "https://dev.to/ptp2308/crafting-an-argo-cd-application-manifest-yaml-for-fastapi-microservices-made-easy-2a8g",
     "topic": "general"
   },
   {
-    "title": "ShadowSocial's Burstable ECS: Hyper-Optimizing AI Influencer Compute with Zero-Idle-RAM Queueing and Qwen-Max Fusion",
-    "desc": "<p>Right, let's talk about how ShadowSocial handles AI influencer compute. We're dealing with some serious demands for media generation and ",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocials-burstable-ecs-hyper-optimizing-ai-influencer-compute-with-zero-idle-ram-queueing-4njd",
-    "topic": "general"
-  },
-  {
-    "title": "ShadowSocial's Qwen-Max/Wan 2.1 Latency Optimization: Zero-Idle-RAM Queueing for Hyper-Efficient AI Influencer Video Synthesis",
-    "desc": "<p>Right, so we've been pushing hard on the AI video synthesis front, specifically for our influencer platform. The core challenge, as many ",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocials-qwen-maxwan-21-latency-optimization-zero-idle-ram-queueing-for-hyper-efficient-ai-e8f",
-    "topic": "general"
-  },
-  {
-    "title": "Incident Command: The Skills They Don't Teach You",
-    "desc": "<p>Running a production incident is a skill. Most of the skill isn't technical. Here's what nobody told me when I started running incidents.",
-    "link": "https://dev.to/samson_tanimawo/incident-command-the-skills-they-dont-teach-you-4j9l",
+    "title": "What 2025 Attack Traffic Means for Developers and Security Teams",
+    "desc": "<p>Security reports often lead with large numbers.</p>\n\n<p>Billions of malicious requests. Terabit-scale DDoS attacks. Millions of automated",
+    "link": "https://dev.to/alviny/what-2025-attack-traffic-means-for-developers-and-security-teams-36kg",
     "topic": "secops"
   },
   {
-    "title": "When Shipping Gets Cheap, Deciding Gets Expensive: Guardrails for AI-Era Cloud Costs",
-    "desc": "<blockquote>\n<p><em>AI assistance disclosure: This article was drafted with the help of Claude. All technical content, design decisions, cod",
-    "link": "https://dev.to/ryantsuji/when-shipping-gets-cheap-deciding-gets-expensive-guardrails-for-ai-era-cloud-costs-5g95",
-    "topic": "guardrails"
+    "title": "SIP 403 Forbidden Error \u2014 Trunk Authentication Troubleshooting",
+    "desc": "<h1>\n  \n  \n  SIP 403 Forbidden Error \u2014 Trunk Authentication Troubleshooting\n</h1>\n\n<p><strong>Master the complete diagnostic and resolution ",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/sip-403-forbidden-error-trunk-authentication-troubleshooting-5024",
+    "topic": "general"
   },
   {
-    "title": "AI Memory Is Not a Trust Model for Team Knowledge",
-    "desc": "<p>AI memory solves a real problem: every new session starts cold.</p>\n\n<p>An assistant can save facts about a project, retrieve them later,",
-    "link": "https://dev.to/xtsoftwarelabs/ai-memory-is-not-a-trust-model-for-team-knowledge-4j5j",
+    "title": "Synthesizing AI Persona: Likeness Lock v2.4 Identity Persistence & Qwen-Max Multimodality via Zero-Idle-RAM Micro-Queueing on Burstable ECS",
+    "desc": "<p>Right, so we've been pushing hard on how we keep AI-generated personas consistent across different interactions and media. It's one thing",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/synthesizing-ai-persona-likeness-lock-v24-identity-persistence-qwen-max-multimodality-via-2jgd",
+    "topic": "general"
+  },
+  {
+    "title": "Caddy-Powered Edge-Fusion for Qwen-Max: ShadowSocial's Multi-Modal Orchestration on Burstable ECS with Zero-Idle-RAM Backpressure",
+    "desc": "<p>Right, so we've been running Qwen-Max for our AI media generation on ShadowSocial, and it's been... interesting. The multi-modal stuff, e",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/caddy-powered-edge-fusion-for-qwen-max-shadowsocials-multi-modal-orchestration-on-burstable-ecs-3m6g",
+    "topic": "general"
+  },
+  {
+    "title": "Qwen-Max to Wan 2.1: Architecting ShadowSocial's Hyper-Converged AI Influencer Pipeline with Caddy and Zero-Idle-RAM Burst Orchestration",
+    "desc": "<p>Right, so we've been running Qwen-Max for our influencer media generation for a while now. It's been solid, but scaling it efficiently, e",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-to-wan-21-architecting-shadowsocials-hyper-converged-ai-influencer-pipeline-with-caddy-1ohb",
     "topic": "general"
   }
 ]
