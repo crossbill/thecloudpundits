@@ -1,50 +1,50 @@
 [
   {
-    "title": "AWS SQS Monitoring: Queue Depth, DLQ Alerts, and Consumer Health",
-    "desc": "<h2>\n  \n  \n  AWS SQS Monitoring: Catch Queue Failures Early\n</h2>\n\n<p>SQS queues fail silently. Messages pile up and users experience delays",
-    "link": "https://dev.to/vigilmon/aws-sqs-monitoring-queue-depth-dlq-alerts-and-consumer-health-49f0",
-    "topic": "aws"
-  },
-  {
-    "title": "CockroachDB Monitoring: Node Health, Query Latency, and Cluster Alerts",
-    "desc": "<h2>\n  \n  \n  CockroachDB Monitoring Basics\n</h2>\n\n<p>CockroachDB exposes a node health endpoint:<br />\n</p>\n\n<div class=\"highlight js-code-h",
-    "link": "https://dev.to/vigilmon/cockroachdb-monitoring-node-health-query-latency-and-cluster-alerts-elp",
+    "title": "When Your VPS Never Had the Resources It Was Sold With",
+    "desc": "<p>I needed a VPS to run CyberPanel. Simple enough: 1 vCPU, 1 GB RAM, 10 GB SSD, IPv6 only. CyberPanel needs IPv4, so I upgraded to the next",
+    "link": "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Firebase in Production",
-    "desc": "<h2>\n  \n  \n  Firebase Monitoring Basics\n</h2>\n\n<p>Firebase is managed but your integration needs observability.</p>\n\n<h2>\n  \n  \n  Firestore ",
-    "link": "https://dev.to/vigilmon/how-to-monitor-firebase-in-production-24bm",
+    "title": "Decoupling AI Influencer Compute: ShadowSocial's Zero-Idle-RAM Queueing with Burstable ECS & Qwen-Max Orchestration",
+    "desc": "<p>Right, let's talk about how we're actually <em>doing</em> this AI influencer stuff at ShadowSocial, specifically around managing the comp",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/decoupling-ai-influencer-compute-shadowsocials-zero-idle-ram-queueing-with-burstable-ecs--4n39",
     "topic": "general"
   },
   {
-    "title": "Deep Dive: Optimizing ShadowSocial.io's Likeness Lock v2.4 and Zero-Idle-RAM Queueing for Hyper-Efficient AI Persona Replication",
-    "desc": "<p>Deep Dive: Optimising ShadowSocial.io's Likeness Lock v2.4 and Zero-Idle-RAM Queueing for Hyper-Efficient AI Persona Replication</p>\n\n<p>",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/deep-dive-optimizing-shadowsocialios-likeness-lock-v24-and-zero-idle-ram-queueing-for-47dd",
+    "title": "Hyper-Converged AI Influence: ShadowSocial's Caddy-Proxied, Zero-Idle Qwen-Max/Wan 2.1 Micro-Burst Architecture",
+    "desc": "<p>Right, so we've been running into some interesting challenges with AI media generation at ShadowSocial.io. Specifically, getting Qwen-Max",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/hyper-converged-ai-influence-shadowsocials-caddy-proxied-zero-idle-qwen-maxwan-21-micro-burst-4pmf",
     "topic": "general"
   },
   {
-    "title": "LetsCloud is now part of the Easypanel marketplace",
-    "desc": "<p>LetsCloud is now listed in the official Easypanel documentation as one of the cloud providers available for deploying the platform.</p>\n\n",
-    "link": "https://dev.to/letscloud/letscloud-is-now-part-of-the-easypanel-marketplace-51l0",
+    "title": "ShadowSocial's Burstable ECS: Hyper-Optimizing AI Influencer Compute with Zero-Idle-RAM Queueing and Qwen-Max Fusion",
+    "desc": "<p>Right, let's talk about how ShadowSocial handles AI influencer compute. We're dealing with some serious demands for media generation and ",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocials-burstable-ecs-hyper-optimizing-ai-influencer-compute-with-zero-idle-ram-queueing-4njd",
     "topic": "general"
   },
   {
-    "title": "\ud83d\ude80 Cron vs Systemd Timers vs daemontools \u2014 Understanding the Evolution of Linux Job Scheduling & Service Management",
-    "desc": "<p>While diving deeper into Linux internals and modern SRE practices, I came across a question that many Linux engineers eventually ask:</p>",
-    "link": "https://dev.to/deekay99/cron-vs-systemd-timers-vs-daemontools-understanding-the-evolution-of-linux-job-scheduling--31mm",
+    "title": "ShadowSocial's Qwen-Max/Wan 2.1 Latency Optimization: Zero-Idle-RAM Queueing for Hyper-Efficient AI Influencer Video Synthesis",
+    "desc": "<p>Right, so we've been pushing hard on the AI video synthesis front, specifically for our influencer platform. The core challenge, as many ",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocials-qwen-maxwan-21-latency-optimization-zero-idle-ram-queueing-for-hyper-efficient-ai-e8f",
     "topic": "general"
   },
   {
-    "title": "How to Monitor Hasura GraphQL Engine: Queries, Subscriptions, and Health",
-    "desc": "<h2>\n  \n  \n  Monitoring Hasura GraphQL Engine\n</h2>\n\n<p>Hasura is a powerful GraphQL engine that auto-generates APIs from your database. In ",
-    "link": "https://dev.to/vigilmon/how-to-monitor-hasura-graphql-engine-queries-subscriptions-and-health-556i",
-    "topic": "general"
+    "title": "Incident Command: The Skills They Don't Teach You",
+    "desc": "<p>Running a production incident is a skill. Most of the skill isn't technical. Here's what nobody told me when I started running incidents.",
+    "link": "https://dev.to/samson_tanimawo/incident-command-the-skills-they-dont-teach-you-4j9l",
+    "topic": "secops"
   },
   {
-    "title": "How to Monitor WebSocket Connections and Real-Time Apps in 2025",
-    "desc": "<h2>\n  \n  \n  Why Monitor WebSockets?\n</h2>\n\n<p>Real-time applications built on WebSockets introduce unique monitoring challenges. Unlike HTT",
-    "link": "https://dev.to/vigilmon/how-to-monitor-websocket-connections-and-real-time-apps-in-2025-1k4m",
+    "title": "When Shipping Gets Cheap, Deciding Gets Expensive: Guardrails for AI-Era Cloud Costs",
+    "desc": "<blockquote>\n<p><em>AI assistance disclosure: This article was drafted with the help of Claude. All technical content, design decisions, cod",
+    "link": "https://dev.to/ryantsuji/when-shipping-gets-cheap-deciding-gets-expensive-guardrails-for-ai-era-cloud-costs-5g95",
+    "topic": "guardrails"
+  },
+  {
+    "title": "AI Memory Is Not a Trust Model for Team Knowledge",
+    "desc": "<p>AI memory solves a real problem: every new session starts cold.</p>\n\n<p>An assistant can save facts about a project, retrieve them later,",
+    "link": "https://dev.to/xtsoftwarelabs/ai-memory-is-not-a-trust-model-for-team-knowledge-4j5j",
     "topic": "general"
   }
 ]
