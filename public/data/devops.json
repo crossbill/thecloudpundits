@@ -1,50 +1,50 @@
 [
   {
-    "title": "Batch APIs: Half Price if You Can Wait",
-    "desc": "<p>Batch inference endpoints typically offer a substantial discount \u2014 a 50% reduction is the common headline \u2014 in exchange for a completion ",
-    "link": "https://dev.to/multigrid/batch-apis-half-price-if-you-can-wait-3ial",
+    "title": "Shipping a Model Inside a Desktop App: Packaging, Signing, Updates",
+    "desc": "<p>The first real decision when putting a language model inside a desktop application is whether the weights live inside the code-signed bun",
+    "link": "https://dev.to/multigrid/shipping-a-model-inside-a-desktop-app-packaging-signing-updates-5coj",
     "topic": "general"
   },
   {
-    "title": "\ud83d\udea8 We Replaced 20 Microservices with 1 Monolith and Our Cloud Bill Dropped 85%",
-    "desc": "<h1>\n  \n  \n  \ud83d\udea8 We Replaced 20 Microservices with 1 Monolith and Our Cloud Bill Dropped 85%\n</h1>\n\n<p>Have you ever wondered why some softwar",
-    "link": "https://dev.to/chobh1024/we-replaced-20-microservices-with-1-monolith-and-our-cloud-bill-dropped-85-5b3c",
+    "title": "Debugging a Bad Response Six Hours Later",
+    "desc": "<p>A support ticket says the assistant gave a customer bad pricing information yesterday afternoon. You have a name, an approximate time, an",
+    "link": "https://dev.to/multigrid/debugging-a-bad-response-six-hours-later-3mgk",
     "topic": "general"
   },
   {
-    "title": "Apple Silicon for Local Inference: Capacity Against Bandwidth",
-    "desc": "<p>The interesting thing about a unified-memory machine is not that it is fast or slow. It is that it changes the two terms of the decode bo",
-    "link": "https://dev.to/multigrid/apple-silicon-for-local-inference-capacity-against-bandwidth-2e0f",
+    "title": "Defending the Realm: Secrets, SSL, and Firewalls \u2014 A Dev's Quest Inspired by Guardians of the Galaxy",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I was just trying to ship a tiny API for a side\u2011project when I got hit with a ",
+    "link": "https://dev.to/timevolt/defending-the-realm-secrets-ssl-and-firewalls-a-devs-quest-inspired-by-guardians-of-the-galaxy-2m0n",
     "topic": "general"
   },
   {
-    "title": "App Store Review for AI Features",
-    "desc": "<p>Both stores review an app that can generate open-ended text or images roughly as though a stranger had typed that content into it, becaus",
-    "link": "https://dev.to/multigrid/app-store-review-for-ai-features-1g2j",
+    "title": "Comparing Datacentre GPUs for Inference Without Trusting the Spec Sheet",
+    "desc": "<p>Any page that ranks accelerators by name is wrong within a product cycle, and most of them were wrong on publication because they ranked ",
+    "link": "https://dev.to/multigrid/comparing-datacentre-gpus-for-inference-without-trusting-the-spec-sheet-4256",
     "topic": "general"
   },
   {
-    "title": "Model Size Budgets for App Stores: Delivery Without a Rejection",
-    "desc": "<p>A quantised model is <a href=\"https://multigrid.ai/learn/model-file-sizes\" rel=\"noopener noreferrer\">hundreds of megabytes to a few gigab",
-    "link": "https://dev.to/multigrid/model-size-budgets-for-app-stores-delivery-without-a-rejection-11i3",
+    "title": "Cooling, Power Density and the Physical Limits of a Rack",
+    "desc": "<p>A datacentre does no mechanical work and stores no energy, so every watt delivered to a rack leaves it as heat. That conservation stateme",
+    "link": "https://dev.to/multigrid/cooling-power-density-and-the-physical-limits-of-a-rack-3olp",
     "topic": "general"
   },
   {
-    "title": "On-Device AI on Android: Delegates, NPUs and Fragmentation",
-    "desc": "<p>The hard part of on-device AI on Android is not writing the inference call. It is that the same call runs on thousands of system-on-chip ",
-    "link": "https://dev.to/multigrid/on-device-ai-on-android-delegates-npus-and-fragmentation-2o2p",
+    "title": "CUDA and the Software Moat: What It Is Actually Made Of",
+    "desc": "<p>\u201cCUDA is the moat\u201d is repeated so often that it has stopped conveying anything. The useful version names the layers, because they have ve",
+    "link": "https://dev.to/multigrid/cuda-and-the-software-moat-what-it-is-actually-made-of-56d0",
     "topic": "general"
   },
   {
-    "title": "What Happens Between Your Request and the First Token",
-    "desc": "<p>\u201cThe API is slow\u201d is never a diagnosis. Between your process calling <code>fetch</code> and the first byte of content arriving there are ",
-    "link": "https://dev.to/multigrid/what-happens-between-your-request-and-the-first-token-b0e",
+    "title": "Cost Attribution: Which Feature Is Spending Your Budget",
+    "desc": "<p>The provider sends one number. Your application has forty places that call a model, and one of them tripled last month. Attribution is th",
+    "link": "https://dev.to/multigrid/cost-attribution-which-feature-is-spending-your-budget-4n71",
     "topic": "general"
   },
   {
-    "title": "Air-Gapped and Offline Deployments",
-    "desc": "<p>An air-gapped AI deployment is not a normal deployment with the network switched off. Roughly half of a standard stack assumes an outboun",
-    "link": "https://dev.to/multigrid/air-gapped-and-offline-deployments-2mc3",
+    "title": "Core ML and the Apple Neural Engine: Convert, Quantise, Profile",
+    "desc": "<p>Getting a model into Core ML is a converter call. Getting it to run on the Neural Engine is the actual work, and the reason it is work is",
+    "link": "https://dev.to/multigrid/core-ml-and-the-apple-neural-engine-convert-quantise-profile-53jh",
     "topic": "general"
   }
 ]
