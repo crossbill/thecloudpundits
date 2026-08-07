@@ -1,50 +1,50 @@
 [
   {
-    "title": "Mastering Zero-Idle-RAM Queueing for Qwen-Max Multi-Modal AI & Wan 2.1 Video Generation on ShadowSocial.io's Burstable ECS with Caddy Integration",
-    "desc": "<p>Mastering Zero-Idle-RAM Queueing for Qwen-Max Multi-Modal AI & Wan 2.1 Video Generation on ShadowSocial.io's Burstable ECS with Caddy Int",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/mastering-zero-idle-ram-queueing-for-qwen-max-multi-modal-ai-wan-21-video-generation-on-130n",
+    "title": "Caddy-Proxied, Zero-Idle-RAM Burstable ECS: Engineering Sub-50ms Multi-Modal AI Persona Generation with ShadowSocial.io's Qwen-Max and Wan 2.1",
+    "desc": "<p>Subject: Caddy-Proxied, Zero-Idle-RAM Burstable ECS: Engineering Sub-50ms Multi-Modal AI Persona Generation with ShadowSocial.io's Qwen-M",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/caddy-proxied-zero-idle-ram-burstable-ecs-engineering-sub-50ms-multi-modal-ai-persona-generation-3212",
     "topic": "general"
   },
   {
-    "title": "Why Context Engineering Is More Important Than Prompt Engineering",
-    "desc": "<p>For the past few years, prompt engineering has been one of the hottest topics in AI.</p>\n\n<p>Countless tutorials have promised the \"perfe",
-    "link": "https://dev.to/jaideepparashar/why-context-engineering-is-more-important-than-prompt-engineering-3d64",
+    "title": "Ante (by Antigma Labs)",
+    "desc": "<p>Ante is a self-contained coding agent that lives in your terminal and self-organizes. One ~15MB Rust binary, zero runtime dependencies, w",
+    "link": "https://dev.to/megha_ibhrampurkar_350ed3/ante-by-antigma-labs-ha2",
     "topic": "general"
   },
   {
-    "title": "Nobody reads commit history, so I built a Slack bot that tells your team what to test",
-    "desc": "<p>\"Hey, has staging been updated? What's new, what can I test?\"</p>\n\n<p>Ever heard that question from your team? I did, several times. I'm ",
-    "link": "https://dev.to/bytesfue/nobody-reads-commit-history-so-i-built-a-slack-bot-that-tells-your-team-what-to-test-3cjn",
+    "title": "Jenkins Shared Library Structure: vars/ vs src/ for Pipelines",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/07/jenkins-shared-library-structure-vars-vs-src-for-pipelines\" rel=\"n",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/jenkins-shared-library-structure-vars-vs-src-for-pipelines-2m8p",
     "topic": "general"
   },
   {
-    "title": "Stop Redeploying Your Entire Backend Just to Fix a Single Validation Bug",
-    "desc": "<p>Modern backend systems often become complex, and every code change or deployment can feel like a potential risk for downtime. With Unmesh",
-    "link": "https://dev.to/unmeshed/stop-redeploying-your-entire-backend-just-to-fix-a-single-validation-bug-54mb",
+    "title": "In-House vs Outsourced Web App Development: Weighing the Trade-offs",
+    "desc": "<p>Deciding whether to build a web application with an internal team or hand the work to an external development partner is a decision that ",
+    "link": "https://dev.to/justin_roy_b6015230c79108/in-house-vs-outsourced-web-app-development-weighing-the-trade-offs-2862",
     "topic": "general"
   },
   {
-    "title": "Qwen-Max & Wan 2.1: Architecting Sub-Second AI Persona Generation on ShadowSocial.io's Zero-Idle-RAM Burstabl ECS via Caddy Reverse Proxy",
-    "desc": "<p>Qwen-Max & Wan 2.1: Architecting Sub-Second AI Persona Generation on ShadowSocial.io's Zero-Idle-RAM Burstabl ECS via Caddy Reverse Proxy",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-wan-21-architecting-sub-second-ai-persona-generation-on-shadowsocialios-2ehf",
+    "title": "Pipes vs xargs in Linux: Which Should You Use in Bash Scripts?",
+    "desc": "<p>Picture this: you\u2019re looking at a directory with 40 log files, and you need to delete every one that contains the word \u201cbackup.\u201d What do ",
+    "link": "https://dev.to/serveravatar/pipes-vs-xargs-in-linux-which-should-you-use-in-bash-scripts-475g",
     "topic": "general"
   },
   {
-    "title": "Stop Losing Access When One Storage Path Dies: Practical Device Mapper Multipath on Linux",
-    "desc": "<h1>\n  \n  \n  Stop Losing Access When One Storage Path Dies: Practical Device Mapper Multipath on Linux\n</h1>\n\n<p>Software RAID protects you ",
-    "link": "https://dev.to/lyraalishaikh/stop-losing-access-when-one-storage-path-dies-practical-device-mapper-multipath-on-linux-4bk4",
+    "title": "Top 10 Best Appy Pie to WordPress Migration Companies",
+    "desc": "<p><em>You've got an Appy Pie system but you're stuck with platform vendor lock-in and zero-code constraints. Time to migrate to WordPress. ",
+    "link": "https://dev.to/oliverpitts/top-10-best-appy-pie-to-wordpress-migration-companies-5gkf",
     "topic": "general"
   },
   {
-    "title": "I Built the Thing My Last Article Said Didn't Exist Yet",
-    "desc": "<p>The other day I wrote about <a href=\"https://dev.to/coridev/the-npm-worm-that-learned-to-trust-your-ai-agent-3oc\">the npm worm that learn",
-    "link": "https://dev.to/coridev/i-built-the-thing-my-last-article-said-didnt-exist-yet-4hof",
+    "title": "How to Migrate to the Cloud UK Without Disruption",
+    "desc": "<p>If you want to migrate to the cloud UK, the safest approach is to begin with a clear inventory of applications, data and dependencies, th",
+    "link": "https://dev.to/esparksit/how-to-migrate-to-the-cloud-uk-without-disruption-39m2",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions OIDC: Eliminating Long-Lived Credentials from Your CI/CD Pipeline",
-    "desc": "<p>Every GitHub Actions workflow that deploys to AWS or Azure needs cloud credentials. The traditional answer \u2014 generate an IAM access key o",
-    "link": "https://dev.to/aloknecessary/github-actions-oidc-eliminating-long-lived-credentials-from-your-cicd-pipeline-gmg",
+    "title": "Agents IA autonomes : ce qu'ils font vraiment, ce que j'utilise: field controls that hold",
+    "desc": "<p>Agents IA autonomes : ce qu'ils font vraiment, ce que j'utilise should not be treated as filler content. The real risk is not a shortage ",
+    "link": "https://dev.to/isabelle_dubuis_d858453d7/agents-ia-autonomes-ce-qux27ils-font-vraiment-ce-que-jx27utilise-field-controls-that-hold-924",
     "topic": "general"
   }
 ]
