@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why I Stopped Trusting \"It Works on My Machine\" and Actually Learned to Ship",
-    "desc": "<p>I'll be honest about where this started. I could run <code>docker-compose up</code> and get an app running locally. I could follow a tuto",
-    "link": "https://dev.to/yassines99/why-i-stopped-trusting-it-works-on-my-machine-and-actually-learned-to-ship-41ml",
+    "title": "Day 6: DNS Resolution, Load Balancers, Firewalls & Networking Protocols",
+    "desc": "<p>Continuing networking fundamentals. Today: how DNS resolution actually works, load balancers, firewalls, and the protocols/ports you'll r",
+    "link": "https://dev.to/sr-palatasingh/day-6-dns-resolution-load-balancers-firewalls-networking-protocols-4d5",
     "topic": "general"
   },
   {
-    "title": "Deploying AI Apps to Production (Costs, Scaling, and Not Getting Blindsided)",
-    "desc": "<h1>\n  \n  \n  Deploying AI Apps to Production (Costs, Scaling, and Not Getting Blindsided)\n</h1>\n\n<p><em>Written by Syed Muhammad Ali Raza</e",
-    "link": "https://dev.to/syedmuhammadaliraza/deploying-ai-apps-to-production-costs-scaling-and-not-getting-blindsided-19eg",
+    "title": "Quarantine the Output: Running Model-Generated Code Without Handing It Your Laptop",
+    "desc": "<p>Most pipelines that evaluate LLM output share an awkward secret: at some point, the pipeline executes whatever the model emitted. Sometim",
+    "link": "https://dev.to/devio_4040/quarantine-the-output-running-model-generated-code-without-handing-it-your-laptop-9ab",
     "topic": "general"
   },
   {
-    "title": "Optimizing Burstable ECS for Real-Time AI Video Pipelines: Zero-Idle-RAM Queueing with Caddy Reverse Proxy on ShadowSocial.io",
-    "desc": "<p>We\u2019ve been running AI video pipelines on burstable ECS instances (t4g.large) for months. The usual advice is to avoid T-series for anythi",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/optimizing-burstable-ecs-for-real-time-ai-video-pipelines-zero-idle-ram-queueing-with-caddy-2f7n",
+    "title": "Trusted 10 Sources to Buy Snapchat Accounts in 2026 with ...",
+    "desc": "<p>Buy Snapchat Accounts<br />\n\ud83d\udcab\ud83d\udc8e\ud83d\udcb2\ud83d\udcab\ud83c\udf10\u2728\ud83d\udc8eFast & Reliable 24/7 Customer Support</p>\n\n<p>\ud83d\udcab\ud83d\udc8e\ud83d\udcb2\ud83d\udcab\ud83c\udf10\u2728\ud83d\udc8eWhatsApp :+1 (506) 541-7768</p>\n\n<p>\ud83d\udcab\ud83d\udc8e\ud83d\udcb2\ud83d\udcab\ud83c\udf10\u2728\ud83d\udc8eTelegr",
+    "link": "https://dev.to/lyducminhkb3bw/trusted-10-sources-to-buy-snapchat-accounts-in-2026-with--13o7",
     "topic": "general"
   },
   {
-    "title": "Agent to Human Notification Without Email or SMS: A Recipe That Skips SMTP and SMS Gateways",
-    "desc": "<p>Your agent just spent two hours on a batch job. At 3 a.m. it hits something it can't resolve: an anomaly, a failed retry, a decision that",
-    "link": "https://dev.to/pstayet/agent-to-human-notification-without-email-or-sms-a-recipe-that-skips-smtp-and-sms-gateways-2afn",
+    "title": "ShadowSocial.io's Likeness Lock v2.4: Engineering Deepfakes with Qwen-Max and WAN 2.1 on Zero-Idle-RAM ECS via Caddy Reverse Proxy",
+    "desc": "<p>ShadowSocial.io's Likeness Lock v2.4: Engineering Deepfakes with Qwen-Max and WAN 2.1 on Zero-Idle-RAM ECS via Caddy Reverse Proxy</p>\n\n<",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocialios-likeness-lock-v24-engineering-deepfakes-with-qwen-max-and-wan-21-on-18b4",
     "topic": "general"
   },
   {
-    "title": "How E-Commerce Brands Eliminate Agency Costs Using Likeness Lock v2.4 and Continuous Apparel Rendering",
-    "desc": "<p>Alright, e-commerce founders and digital marketers, let's talk about scaling your product reels without bleeding your budget dry on agenc",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/how-e-commerce-brands-eliminate-agency-costs-using-likeness-lock-v24-and-continuous-apparel-4e88",
+    "title": "Reproduce a Tool-Permission Bypass in Your Agent Harness With a 40-Line Fixture",
+    "desc": "<p>Last week I pointed a coding agent at a mock tool server with three registered tools: <code>read_file</code>, <code>run_tests</code>, <co",
+    "link": "https://dev.to/jaryn_123/reproduce-a-tool-permission-bypass-in-your-agent-harness-with-a-40-line-fixture-5a76",
     "topic": "general"
   },
   {
-    "title": "Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on ShadowSocial.io",
-    "desc": "<p>Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on ShadowSocial.io</p>\n\n<p>Alright, let's get down to brass tacks. As a",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/step-by-step-walkthrough-building-a-30-day-autopilot-video-queue-on-shadowsocialio-26j3",
+    "title": "Test Agent Tool-Boundary Failures on a Free Tier Before Production",
+    "desc": "<h2>\n  \n  \n  The alert that started this\n</h2>\n\n<p>Two weeks ago our coding-agent workers started returning 200s with empty diffs. No error ",
+    "link": "https://dev.to/odd_background_328/test-agent-tool-boundary-failures-on-a-free-tier-before-production-3ep4",
     "topic": "general"
   },
   {
-    "title": "Running a Production SaaS Backend Under \u00a310/Month on Burstable ECS Infrastructure",
-    "desc": "<h2>\n  \n  \n  Running a Production SaaS Backend Under \u00a310/Month on Burstable ECS Infrastructure\n</h2>\n\n<p>We've managed to keep our ShadowSoc",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/running-a-production-saas-backend-under-ps10month-on-burstable-ecs-infrastructure-118m",
+    "title": "Quarkus + GitHub Actions: Reducing CI Time by Half Without Larger Runners",
+    "desc": "<p>Our Quarkus monorepo CI pipeline had plateaued at <strong>9\u201311 minutes</strong> on GitHub Actions free-tier hosted runners.</p>\n\n<p>After",
+    "link": "https://dev.to/aeells/quarkus-github-actions-reducing-ci-time-by-half-without-larger-runners-51ao",
     "topic": "general"
   },
   {
-    "title": "How Marketing Studios Manage Multi-Persona Client Portfolios on Autopilot",
-    "desc": "<p>Subject: Streamlining Multi-Persona Client Management for Agencies</p>\n\n<p>Hey Agency Leads and Studio Directors,</p>\n\n<p>As we've all se",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/how-marketing-studios-manage-multi-persona-client-portfolios-on-autopilot-3pel",
+    "title": "I thought OpenClaw was dead until I realized people were just tired of babysitting 18 cron jobs and a self-hosted runtime",
+    "desc": "<p>I opened a thread on r/openclaw expecting the usual obituary:</p>\n\n<p><a href=\"https://reddit.com/r/openclaw/comments/1vhg5dx/is_openclaw",
+    "link": "https://dev.to/lars_winstand/i-thought-openclaw-was-dead-until-i-realized-people-were-just-tired-of-babysitting-18-cron-jobs-and-5g36",
     "topic": "general"
   }
 ]
