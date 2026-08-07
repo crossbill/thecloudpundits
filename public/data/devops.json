@@ -1,50 +1,50 @@
 [
   {
-    "title": "Qwen-Max & Wan 2.1 Synergy: Engineering Sub-50ms AI Persona Generation on ShadowSocial.io's Caddy-Proxied, Zero-Idle-RAM Burstable ECS",
-    "desc": "<p>Qwen-Max & Wan 2.1 Integration: Engineering Sub-50ms AI Persona Generation on ShadowSocial.io's Caddy-Proxied, Zero-Idle-RAM Burstable EC",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-wan-21-synergy-engineering-sub-50ms-ai-persona-generation-on-shadowsocialios-55a8",
+    "title": "Terraform Offline Provider Setup: Zero Downloads & Clean Repos with Local Mirrors",
+    "desc": "<h1>\n  \n  \n  Terraform Offline Provider Setup Guide\n</h1>\n\n<h2>\n  \n  \n  Using <code>.terraformrc</code> + <code>.terraform.d</code> for Zero",
+    "link": "https://dev.to/sys-ronin/terraform-offline-provider-setup-zero-downloads-clean-repos-with-local-mirrors-464o",
+    "topic": "terraform"
+  },
+  {
+    "title": "Package Drift Weekly \u2014 2026-08-07",
+    "desc": "<p><em>Automated weekly digest from <a href=\"https://rapidapi.com/pkgdrift-pkgdrift-default/api/package-drift-vulnerability-intelligence\" re",
+    "link": "https://dev.to/pkgdrift/package-drift-weekly-2026-08-07-411i",
     "topic": "general"
   },
   {
-    "title": "The Gate Everyone Cited and Nobody Enforced: A War Story About Policy-as-Text vs. Policy-as-Code",
-    "desc": "<p>I run an autonomous agent that works a real job. Not a chatbot \u2014 a daemon that picks its own tasks (content, freelance proposals, digital",
-    "link": "https://dev.to/mukesh_13/the-gate-everyone-cited-and-nobody-enforced-a-war-story-about-policy-as-text-vs-policy-as-code-1gbo",
+    "title": "Monitoring and Logging: Leveling Up Like an RPG Boss",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Picture this: it\u2019s 2\u202fa.m., my phone buzzes with a Slack alert, and the on\u2011call channel i",
+    "link": "https://dev.to/timevolt/monitoring-and-logging-leveling-up-like-an-rpg-boss-4km6",
     "topic": "general"
   },
   {
-    "title": "How to Spot the Next NRC Before It Crashes",
-    "desc": "<p>How to Spot the Next NRC Before It Crashes<br />\nIn July 2026, thousands of Nigerians woke up to the same painful headline: National Read",
-    "link": "https://dev.to/adeniran_adebayoadekunle/how-to-spot-the-next-nrc-before-it-crashes-43n5",
+    "title": "Complete OCI Free Tier Infrastructure Guide - Part 03: Compute Layer (AMD & ARM)",
+    "desc": "<p>In <strong>Part 01</strong> and <strong>Part 02</strong> of this series, we configured local API keys, environment variables, created an ",
+    "link": "https://dev.to/sys-ronin/complete-oci-free-tier-infrastructure-guide-part-03-compute-layer-amd-arm-26c",
     "topic": "general"
   },
   {
-    "title": "What 6 months of running a personal AI assistant on a $6 VPS actually costs",
-    "desc": "<p>Every thread about self-hosted AI turns into a privacy argument within three comments. Almost nobody posts the boring part: the invoice.<",
-    "link": "https://dev.to/samadhi_tattoo_7ed1c0d05b/what-6-months-of-running-a-personal-ai-assistant-on-a-6-vps-actually-costs-535a",
+    "title": "Complete OCI Free Tier Infrastructure Guide - Part 02: Shared Architecture Layer",
+    "desc": "<p>In <strong>Part 01</strong> of this guide, we configured local keys, exported shell variables, created an offline provider mirror, and es",
+    "link": "https://dev.to/sys-ronin/complete-oci-free-tier-infrastructure-guide-part-02-shared-architecture-layer-gen",
     "topic": "general"
   },
   {
-    "title": "Build a Service Discovery System with Python",
-    "desc": "<h1>\n  \n  \n  Build a Service Discovery System with Python\n</h1>\n\n<p>tags: python, architecture, tutorial, advanced</p>\n\n\n\n\n<p>tags: python, ",
-    "link": "https://dev.to/qingluan/build-a-service-discovery-system-with-python-17fg",
+    "title": "Architecting the Dedicated AI Gateway: Inside Azure API Management's Model and MCP Governance Tier",
+    "desc": "<h2>\n  \n  \n  \ud83c\udfd7\ufe0f The Architectural Shift: Why Standard API Gateways Fail at AI Workloads\n</h2>\n\n<p>As enterprise adoption of large language m",
+    "link": "https://dev.to/isuvo/architecting-the-dedicated-ai-gateway-inside-azure-api-managements-model-and-mcp-governance-tier-3751",
+    "topic": "azure"
+  },
+  {
+    "title": "Complete OCI Free Tier Infrastructure Guide - Part 01: Setup & Local Provider Mirror",
+    "desc": "<p>Setting up Oracle Cloud Infrastructure (OCI) using Terraform gives you an automated, reproducible \"Always Free\" cloud environment. Howeve",
+    "link": "https://dev.to/sys-ronin/oracle-cloud-free-tier-infrastructure-using-terraform-part-01-5hnc",
     "topic": "general"
   },
   {
-    "title": "How I Caught a Live Attacker With Nothing But tail, grep, and sha256sum",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/how-i-caught-a-live-attacker-with-nothing-but-tail-grep-and-sha256sum-130d",
-    "topic": "secops"
-  },
-  {
-    "title": "Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster",
-    "desc": "<p>Last month I spent more than an hour cutting a release across six Go microservice repos. Tag log, wait for CI. Update sdk's <code>go.mod<",
-    "link": "https://dev.to/singhamandeep007/multi-repo-to-monorepo-how-i-automated-6-go-microservice-releases-and-then-made-it-15x-faster-4e88",
-    "topic": "general"
-  },
-  {
-    "title": "Qwen-Max Multi-Modal Fusion: Engineering Sub-200ms Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS with WAN 2.1 & Caddy",
-    "desc": "<p>Qwen-Max Multi-Modal Fusion: Engineering Sub-200ms Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS with WAN 2.1 & Caddy</p>\n\n<p",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-multi-modal-fusion-engineering-sub-200ms-likeness-lock-v24-on-shadowsocialios-494d",
+    "title": "k6 Load Testing: Turn \"Is It Fast Enough?\" Into a Pass/Fail SLO Gate That Fails Your Build",
+    "desc": "<p>Your pipeline can prove the code is correct (unit tests) and deployable (a green rollout) and still tell you nothing about how it behaves",
+    "link": "https://dev.to/dev48v/k6-load-testing-turn-is-it-fast-enough-into-a-passfail-slo-gate-that-fails-your-build-d5h",
     "topic": "general"
   }
 ]
