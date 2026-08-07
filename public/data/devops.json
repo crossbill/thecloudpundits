@@ -1,5 +1,35 @@
 [
   {
+    "title": "Platform Engineering Is Transforming Enterprise DevOps. Here's Why It Matters in 2026",
+    "desc": "<p>DevOps fundamentally changed how software is built and delivered. It broke down silos between development and operations, introduced CI/C",
+    "link": "https://dev.to/ahana_kumar_/platform-engineering-is-transforming-enterprise-devops-heres-why-it-matters-in-2026-3ood",
+    "topic": "general"
+  },
+  {
+    "title": "The Same Setting, Three Different Answers: Why 0.0.0.0 Isn't Always What You Want",
+    "desc": "<p>There is a line in almost every Python web tutorial that nobody explains:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre clas",
+    "link": "https://dev.to/cicikus_niyazi/the-same-setting-three-different-answers-why-0000-isnt-always-what-you-want-58h5",
+    "topic": "general"
+  },
+  {
+    "title": "Installing SonarQube with PostgreSQL Using Docker on Ubuntu/Linux Introduction",
+    "desc": "<p>While setting up a CI/CD pipeline with Jenkins, Docker, Kubernetes, and ArgoCD, I faced several dependency conflicts while installing Son",
+    "link": "https://dev.to/gopikrishna_chodapaneedi/installing-sonarqube-with-postgresql-using-docker-on-ubuntulinuxintroduction-1pji",
+    "topic": "docker"
+  },
+  {
+    "title": "Kitesurf is an agent\u2011first browser built on V8 isolates. Each browser agent runs in its own isolate for stronger security and be",
+    "desc": "<p>Kitesurf is an agent\u2011first browser built on V8 isolates. Each browser agent runs in its own isolate for stronger security and better perf",
+    "link": "https://dev.to/atheerium/kitesurf-is-an-agent-first-browser-built-on-v8-isolates-each-browser-agent-runs-in-its-own-isolate-2oj2",
+    "topic": "secops"
+  },
+  {
+    "title": "Qwen-Max Fusion & Wan 2.1 Dynamics: Engineering Sub-50ms Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS with Caddy Reverse Proxy",
+    "desc": "<p>Qwen-Max Fusion & Wan 2.1 Dynamics: Engineering Sub-50ms Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS with Caddy Reverse Pro",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-fusion-wan-21-dynamics-engineering-sub-50ms-likeness-lock-v24-on-shadowsocialios-2gn9",
+    "topic": "general"
+  },
+  {
     "title": "Qwen-Max Fusion & Wan 2.1 Dynamics: Engineering Sub-Millisecond AI Avatars with Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS via Caddy",
     "desc": "<p>Qwen-Max Fusion & Wan 2.1 Dynamics: Engineering Sub-Millisecond AI Avatars with Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS",
     "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-fusion-wan-21-dynamics-engineering-sub-millisecond-ai-avatars-with-likeness-lock-v24-2hng",
@@ -16,35 +46,5 @@
     "desc": "<p>There's a specific kind of pain that hits when your side project stops being a side project.</p>\n\n<p>One box was fine. You <code>docker c",
     "link": "https://dev.to/mighty840/youve-outgrown-one-server-you-dont-need-kubernetes-51cn",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Kubernetes Architecture for Beginners: Control Plane vs. Worker Nodes",
-    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://techreactlearning.blogspot.com/2026/08/kubernetes-architecture-beginners.html\" ",
-    "link": "https://dev.to/sachinpatel2026/kubernetes-architecture-for-beginners-control-plane-vs-worker-nodes-78h",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Python Signal Handling: Graceful Shutdowns",
-    "desc": "<h1>\n  \n  \n  Python Signal Handling: Graceful Shutdowns\n</h1>\n\n<p>tags: python, devops, tutorial, programming</p>\n\n\n\n\n<p>tags: python, tutor",
-    "link": "https://dev.to/qingluan/python-signal-handling-graceful-shutdowns-8he",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Zero-Downtime Deployment Pipeline",
-    "desc": "<h1>\n  \n  \n  Build a Zero-Downtime Deployment Pipeline\n</h1>\n\n<p>tags: python, devops, deployment, tutorial</p>\n\n\n\n\n<p>tags: python, devops,",
-    "link": "https://dev.to/qingluan/build-a-zero-downtime-deployment-pipeline-37cg",
-    "topic": "general"
-  },
-  {
-    "title": "The Most-Missed Agent Permission Prompt Looked Completely Routine",
-    "desc": "<p><code>npm run analyze</code> was approved 64.7% of the time in a browser game about reviewing AI coding-agent commands. It was the most-m",
-    "link": "https://dev.to/lucioliu/the-most-missed-agent-permission-prompt-looked-completely-routine-p85",
-    "topic": "general"
-  },
-  {
-    "title": "Highest Rated Bitcoin Backed Loan Providers This Year",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/wendye_hawks_9321c752ef56/highest-rated-bitcoin-backed-loan-providers-this-year-248h",
-    "topic": "general"
   }
 ]
