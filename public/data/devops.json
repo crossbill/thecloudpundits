@@ -1,50 +1,50 @@
 [
   {
-    "title": "Ransomware Recovery and the 3-2-1 Backup Strategy",
-    "desc": "<p>Most organisations never expect ransomware to become their problem. Security awareness training has been completed. Endpoint protection i",
-    "link": "https://dev.to/e_servers/ransomware-recovery-and-the-3-2-1-backup-strategy-5c0i",
+    "title": "n8n Workflow Not Triggering? Work Through It in This Order (2026)",
+    "desc": "<p><em>Originally published at <a href=\"https://noderecipe.com/n8n-workflow-not-triggering\" rel=\"noopener noreferrer\">noderecipe.com</a>.</e",
+    "link": "https://dev.to/ali_ilyas/n8n-workflow-not-triggering-work-through-it-in-this-order-2026-1f7b",
+    "topic": "general"
+  },
+  {
+    "title": "How to Build a Log Parser That Detects Brute Force Attacks",
+    "desc": "<p>Brute force attacks against SSH, web logins, and APIs are constant background noise on any public-facing server. The problem is not <em>k",
+    "link": "https://dev.to/ayinedjimi-consultants/how-to-build-a-log-parser-that-detects-brute-force-attacks-ckh",
     "topic": "secops"
   },
   {
-    "title": "Qwen-Max Fusion & WAN 2.1 Synthesis: Engineering Sub-250ms Likeness Lock v2.4 Avatars on ShadowSocial.io's Zero-Idle-RAM ECS with Caddy",
-    "desc": "<p>Qwen-Max Fusion & WAN 2.1 Synthesis: Engineering Sub-250ms Likeness Lock v2.4 Avatars on ShadowSocial.io's Zero-Idle-RAM ECS with Caddy</",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-fusion-wan-21-synthesis-engineering-sub-250ms-likeness-lock-v24-avatars-on-4p26",
+    "title": "Restart-Safe Browser Agents: Leases, Checkpoints, and Recovery Tests",
+    "desc": "<p>Browser automation agents rarely fail because the model cannot click a button. They fail because the browser, worker, and external side e",
+    "link": "https://dev.to/zira125/restart-safe-browser-agents-leases-checkpoints-and-recovery-tests-58h4",
     "topic": "general"
   },
   {
-    "title": "How to Protect Your REST API with a Free WAF",
-    "desc": "<h3>\n  \n  \n  Why APIs Need Different Protection\n</h3>\n\n<p>Web form attacks (SQLi, XSS) target HTML endpoints. API attacks are different \u2014 th",
-    "link": "https://dev.to/lialiago/how-to-protect-your-rest-api-with-a-free-waf-29eg",
+    "title": "How VMware vSwitches Power Invisible Network Speeds",
+    "desc": "<p>When we think about data center networking, our minds instantly go to physical realities: rows of server racks, flashing link lights, bun",
+    "link": "https://dev.to/swapahire/how-vmware-vswitches-power-invisible-network-speeds-1n43",
     "topic": "general"
   },
   {
-    "title": "Kubernetes for Beginners: From Local to Production \u2013 A Journey Like *The Lord of the Rings*",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \u201cWhy\u201d)\n</h2>\n\n<p>Honestly, I used to feel like I was stuck in the Shire while everyone else was already b",
-    "link": "https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-journey-like-the-lord-of-the-rings-3kj",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "What We Learned Building Enterprise AI Agents: Five Challenges Nobody Talks About",
-    "desc": "<p>We live in an era of AI agents where every conference discussion these days is centered around slides showing robot icons linked by arrow",
-    "link": "https://dev.to/chandni_8b89a0126408ba8e1/what-we-learned-building-enterprise-ai-agents-five-challenges-nobody-talks-about-1i5b",
+    "title": "A Friday systems thinking thread \u2014 worth sitting with:",
+    "desc": "<h1>\n  \n  \n  LinkedIn Draft \u2014 Insight (2026-08-07)\n</h1>\n\n<p>A Friday systems thinking thread \u2014 worth sitting with:</p>\n\n<p><strong>Observab",
+    "link": "https://dev.to/neeraja_khanapure_4a33a5f/a-friday-systems-thinking-thread-worth-sitting-with-1g21",
     "topic": "general"
   },
   {
-    "title": "Scheduling Python Scripts With Systemd On Linux",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<p>Before starting this guide, ensure you have access to the following hosting tools and infrastructure",
-    "link": "https://dev.to/chasebot/scheduling-python-scripts-with-systemd-on-linux-2o2j",
+    "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+    "desc": "<p><strong>Sourced from:</strong> <a href=\"https://docs.cloud.google.com/kubernetes-engine/docs/concepts/machine-learning/agent-sandbox\" rel",
+    "link": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
     "topic": "general"
   },
   {
-    "title": "The Insecure Default Was the Configuration",
-    "desc": "<p>I was moving a pile of automation scripts into version control \u2014 years of accumulated cron jobs that had only ever existed on one machine",
-    "link": "https://dev.to/henry_dan_81513dd35a2f540/the-insecure-default-was-the-configuration-14pp",
+    "title": "Qwen-Max & Wan 2.1 Synergy: Engineering Ultra-Low Latency AI Personas on ShadowSocial.io's Zero-Idle-RAM ECS with Caddy Integration",
+    "desc": "<p>Qwen-Max & Wan 2.1 Integration: Engineering Ultra-Low Latency AI Personas on ShadowSocial.io's Zero-Idle-RAM ECS with Caddy Integration</",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-wan-21-synergy-engineering-ultra-low-latency-ai-personas-on-shadowsocialios-2bai",
     "topic": "general"
   },
   {
-    "title": "Build a Service Mesh Monitor with Python",
-    "desc": "<h1>\n  \n  \n  Build a Service Mesh Monitor with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tutorial</p>\n\n\n\n\n<p>tags: python, socialme",
-    "link": "https://dev.to/qingluan/build-a-service-mesh-monitor-with-python-4eil",
+    "title": "I pointed my link checker at 20 popular docs sites. It accused nearly all of them, and it was wrong.",
+    "desc": "<p>I wrote a script that checks your public pages the way a stranger sees them \u2014 no cookies, no session \u2014 because this week an API told me a",
+    "link": "https://dev.to/marcosgcuenta1/i-pointed-my-link-checker-at-20-popular-docs-sites-it-accused-nearly-all-of-them-and-it-was-wrong-38kl",
     "topic": "general"
   }
 ]
