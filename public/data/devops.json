@@ -1,50 +1,50 @@
 [
   {
-    "title": "Caddy-Proxied, Zero-Idle-RAM Burstable ECS: Engineering Sub-50ms Multi-Modal AI Persona Generation with ShadowSocial.io's Qwen-Max and Wan 2.1",
-    "desc": "<p>Subject: Caddy-Proxied, Zero-Idle-RAM Burstable ECS: Engineering Sub-50ms Multi-Modal AI Persona Generation with ShadowSocial.io's Qwen-M",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/caddy-proxied-zero-idle-ram-burstable-ecs-engineering-sub-50ms-multi-modal-ai-persona-generation-3212",
+    "title": "Ransomware Recovery and the 3-2-1 Backup Strategy",
+    "desc": "<p>Most organisations never expect ransomware to become their problem. Security awareness training has been completed. Endpoint protection i",
+    "link": "https://dev.to/e_servers/ransomware-recovery-and-the-3-2-1-backup-strategy-5c0i",
+    "topic": "secops"
+  },
+  {
+    "title": "Qwen-Max Fusion & WAN 2.1 Synthesis: Engineering Sub-250ms Likeness Lock v2.4 Avatars on ShadowSocial.io's Zero-Idle-RAM ECS with Caddy",
+    "desc": "<p>Qwen-Max Fusion & WAN 2.1 Synthesis: Engineering Sub-250ms Likeness Lock v2.4 Avatars on ShadowSocial.io's Zero-Idle-RAM ECS with Caddy</",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-fusion-wan-21-synthesis-engineering-sub-250ms-likeness-lock-v24-avatars-on-4p26",
     "topic": "general"
   },
   {
-    "title": "Ante (by Antigma Labs)",
-    "desc": "<p>Ante is a self-contained coding agent that lives in your terminal and self-organizes. One ~15MB Rust binary, zero runtime dependencies, w",
-    "link": "https://dev.to/megha_ibhrampurkar_350ed3/ante-by-antigma-labs-ha2",
+    "title": "How to Protect Your REST API with a Free WAF",
+    "desc": "<h3>\n  \n  \n  Why APIs Need Different Protection\n</h3>\n\n<p>Web form attacks (SQLi, XSS) target HTML endpoints. API attacks are different \u2014 th",
+    "link": "https://dev.to/lialiago/how-to-protect-your-rest-api-with-a-free-waf-29eg",
     "topic": "general"
   },
   {
-    "title": "Jenkins Shared Library Structure: vars/ vs src/ for Pipelines",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/07/jenkins-shared-library-structure-vars-vs-src-for-pipelines\" rel=\"n",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/jenkins-shared-library-structure-vars-vs-src-for-pipelines-2m8p",
+    "title": "Kubernetes for Beginners: From Local to Production \u2013 A Journey Like *The Lord of the Rings*",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \u201cWhy\u201d)\n</h2>\n\n<p>Honestly, I used to feel like I was stuck in the Shire while everyone else was already b",
+    "link": "https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-journey-like-the-lord-of-the-rings-3kj",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "What We Learned Building Enterprise AI Agents: Five Challenges Nobody Talks About",
+    "desc": "<p>We live in an era of AI agents where every conference discussion these days is centered around slides showing robot icons linked by arrow",
+    "link": "https://dev.to/chandni_8b89a0126408ba8e1/what-we-learned-building-enterprise-ai-agents-five-challenges-nobody-talks-about-1i5b",
     "topic": "general"
   },
   {
-    "title": "In-House vs Outsourced Web App Development: Weighing the Trade-offs",
-    "desc": "<p>Deciding whether to build a web application with an internal team or hand the work to an external development partner is a decision that ",
-    "link": "https://dev.to/justin_roy_b6015230c79108/in-house-vs-outsourced-web-app-development-weighing-the-trade-offs-2862",
+    "title": "Scheduling Python Scripts With Systemd On Linux",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<p>Before starting this guide, ensure you have access to the following hosting tools and infrastructure",
+    "link": "https://dev.to/chasebot/scheduling-python-scripts-with-systemd-on-linux-2o2j",
     "topic": "general"
   },
   {
-    "title": "Pipes vs xargs in Linux: Which Should You Use in Bash Scripts?",
-    "desc": "<p>Picture this: you\u2019re looking at a directory with 40 log files, and you need to delete every one that contains the word \u201cbackup.\u201d What do ",
-    "link": "https://dev.to/serveravatar/pipes-vs-xargs-in-linux-which-should-you-use-in-bash-scripts-475g",
+    "title": "The Insecure Default Was the Configuration",
+    "desc": "<p>I was moving a pile of automation scripts into version control \u2014 years of accumulated cron jobs that had only ever existed on one machine",
+    "link": "https://dev.to/henry_dan_81513dd35a2f540/the-insecure-default-was-the-configuration-14pp",
     "topic": "general"
   },
   {
-    "title": "Top 10 Best Appy Pie to WordPress Migration Companies",
-    "desc": "<p><em>You've got an Appy Pie system but you're stuck with platform vendor lock-in and zero-code constraints. Time to migrate to WordPress. ",
-    "link": "https://dev.to/oliverpitts/top-10-best-appy-pie-to-wordpress-migration-companies-5gkf",
-    "topic": "general"
-  },
-  {
-    "title": "How to Migrate to the Cloud UK Without Disruption",
-    "desc": "<p>If you want to migrate to the cloud UK, the safest approach is to begin with a clear inventory of applications, data and dependencies, th",
-    "link": "https://dev.to/esparksit/how-to-migrate-to-the-cloud-uk-without-disruption-39m2",
-    "topic": "general"
-  },
-  {
-    "title": "Agents IA autonomes : ce qu'ils font vraiment, ce que j'utilise: field controls that hold",
-    "desc": "<p>Agents IA autonomes : ce qu'ils font vraiment, ce que j'utilise should not be treated as filler content. The real risk is not a shortage ",
-    "link": "https://dev.to/isabelle_dubuis_d858453d7/agents-ia-autonomes-ce-qux27ils-font-vraiment-ce-que-jx27utilise-field-controls-that-hold-924",
+    "title": "Build a Service Mesh Monitor with Python",
+    "desc": "<h1>\n  \n  \n  Build a Service Mesh Monitor with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tutorial</p>\n\n\n\n\n<p>tags: python, socialme",
+    "link": "https://dev.to/qingluan/build-a-service-mesh-monitor-with-python-4eil",
     "topic": "general"
   }
 ]
