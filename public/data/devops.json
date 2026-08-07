@@ -1,50 +1,50 @@
 [
   {
-    "title": "What to Remove from Logs Before Sharing Them",
-    "desc": "<p>A useful debug log can also be a credential bundle.</p>\n\n<p>Authorization headers, session cookies, database URLs, webhook endpoints, API",
-    "link": "https://dev.to/tanya_monoware/what-to-remove-from-logs-before-sharing-them-3n6b",
+    "title": "Qwen-Max Fusion & Wan 2.1 Dynamics: Engineering Sub-Millisecond AI Avatars with Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS via Caddy",
+    "desc": "<p>Qwen-Max Fusion & Wan 2.1 Dynamics: Engineering Sub-Millisecond AI Avatars with Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-fusion-wan-21-dynamics-engineering-sub-millisecond-ai-avatars-with-likeness-lock-v24-2hng",
     "topic": "general"
   },
   {
-    "title": "Serverless Voice Agents on AWS: Production Architecture",
-    "desc": "<p>Amazon Nova Sonic, AWS AppSync Events, and Amazon Bedrock AgentCore Runtime each own a different part of a live voice session.</p>\n\n<p>A ",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/serverless-voice-agents-on-aws-production-architecture-1bfi",
-    "topic": "aws"
-  },
-  {
-    "title": "When Governance Becomes Infrastructure, It Creates New Failure Domains",
-    "desc": "<p>When governance becomes infrastructure, it creates new failure domains \u2014 and most teams don't notice the transition until a policy decisi",
-    "link": "https://dev.to/ntctech/when-governance-becomes-infrastructure-it-creates-new-failure-domains-nnm",
+    "title": "How I Hooked My AI Coding Agent Into CI to Fix Its Own Failing Builds",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>I wired my autonomous coding agent into CI so it watches failing builds and opens fix PRs on its own. It's save",
+    "link": "https://dev.to/yureki_lab/how-i-hooked-my-ai-coding-agent-into-ci-to-fix-its-own-failing-builds-4bnf",
     "topic": "general"
   },
   {
-    "title": "Cloudflare for Developers: What It's Great At, Where It Bites, and How to Actually Use It",
-    "desc": "<p>Cloudflare is best understood not as \"a CDN\" but as a programmable network that sits between your users and your origin, plus a growing p",
-    "link": "https://dev.to/libme/cloudflare-for-developers-what-its-great-at-where-it-bites-and-how-to-actually-use-it-16k6",
+    "title": "You've outgrown one server. You don't need Kubernetes.",
+    "desc": "<p>There's a specific kind of pain that hits when your side project stops being a side project.</p>\n\n<p>One box was fine. You <code>docker c",
+    "link": "https://dev.to/mighty840/youve-outgrown-one-server-you-dont-need-kubernetes-51cn",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Kubernetes Architecture for Beginners: Control Plane vs. Worker Nodes",
+    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://techreactlearning.blogspot.com/2026/08/kubernetes-architecture-beginners.html\" ",
+    "link": "https://dev.to/sachinpatel2026/kubernetes-architecture-for-beginners-control-plane-vs-worker-nodes-78h",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Python Signal Handling: Graceful Shutdowns",
+    "desc": "<h1>\n  \n  \n  Python Signal Handling: Graceful Shutdowns\n</h1>\n\n<p>tags: python, devops, tutorial, programming</p>\n\n\n\n\n<p>tags: python, tutor",
+    "link": "https://dev.to/qingluan/python-signal-handling-graceful-shutdowns-8he",
     "topic": "general"
   },
   {
-    "title": "ThoughtWorks Just Named the Problem. Here's the Structural Fix.",
-    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n<p>The ThoughtWorks Technology Radar ",
-    "link": "https://dev.to/bala_paranj_059d338e44e7e/thoughtworks-just-named-the-problem-heres-the-structural-fix-1hio",
+    "title": "Build a Zero-Downtime Deployment Pipeline",
+    "desc": "<h1>\n  \n  \n  Build a Zero-Downtime Deployment Pipeline\n</h1>\n\n<p>tags: python, devops, deployment, tutorial</p>\n\n\n\n\n<p>tags: python, devops,",
+    "link": "https://dev.to/qingluan/build-a-zero-downtime-deployment-pipeline-37cg",
     "topic": "general"
   },
   {
-    "title": "Using Alibaba Cloud OSS for Cost-Effective Cloud Storage",
-    "desc": "<h1>\n  \n  \n  Using Alibaba Cloud OSS for Cost-Effective Cloud Storage\n</h1>\n\n<p><strong>Object Storage Service (OSS)</strong> is Alibaba Clo",
-    "link": "https://dev.to/fan_li_ee7d84c6203253d041/using-alibaba-cloud-oss-for-cost-effective-cloud-storage-280k",
+    "title": "The Most-Missed Agent Permission Prompt Looked Completely Routine",
+    "desc": "<p><code>npm run analyze</code> was approved 64.7% of the time in a browser game about reviewing AI coding-agent commands. It was the most-m",
+    "link": "https://dev.to/lucioliu/the-most-missed-agent-permission-prompt-looked-completely-routine-p85",
     "topic": "general"
   },
   {
-    "title": "Build a Custom Package Manager with Python",
-    "desc": "<h1>\n  \n  \n  Build a Custom Package Manager with Python\n</h1>\n\n<p>tags: python, tools, devops, tutorial</p>\n\n\n\n\n<p>tags: python, tools, prog",
-    "link": "https://dev.to/qingluan/build-a-custom-package-manager-with-python-49aa",
-    "topic": "general"
-  },
-  {
-    "title": "Understanding Distributed Systems #1 \u2014 Nodes, Networks & Leaky Abstractions",
-    "desc": "<p>When we talk about distributed systems, each _independent machine _or software process participating in the system is called a node. Thes",
-    "link": "https://dev.to/ananya39mehta/understanding-distributed-systems-1-nodes-networks-leaky-abstractions-p7b",
+    "title": "Highest Rated Bitcoin Backed Loan Providers This Year",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/wendye_hawks_9321c752ef56/highest-rated-bitcoin-backed-loan-providers-this-year-248h",
     "topic": "general"
   }
 ]
