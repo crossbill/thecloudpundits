@@ -1,50 +1,50 @@
 [
   {
-    "title": "Cost Allocation Across Teams and Environments",
-    "desc": "<p>Cost allocation fails for one reason: a large share of the bill has no obvious owner. Shared inference capacity, idle GPU hours, a vector",
-    "link": "https://dev.to/multigrid/cost-allocation-across-teams-and-environments-3g55",
+    "title": "Batch APIs: Half Price if You Can Wait",
+    "desc": "<p>Batch inference endpoints typically offer a substantial discount \u2014 a 50% reduction is the common headline \u2014 in exchange for a completion ",
+    "link": "https://dev.to/multigrid/batch-apis-half-price-if-you-can-wait-3ial",
     "topic": "general"
   },
   {
-    "title": "How to Automate Dry-Run Restores for EC2 Stacks & Aurora Clusters Using AWS Backup",
-    "desc": "<p>When preparing for the AWS Certified CloudOps Engineer (SOA-C03) exam, data protection isn't just about taking backups\u2014it\u2019s about proving",
-    "link": "https://dev.to/dar10/how-to-automate-dry-run-restores-for-ec2-stacks-aurora-clusters-using-aws-backup-210b",
-    "topic": "aws"
-  },
-  {
-    "title": "TPUs, Trainium and Custom Accelerators: Where Non-GPU Silicon Wins",
-    "desc": "<p>A GPU is a general parallel computer that happens to be excellent at matrix multiplication. A purpose-built accelerator is a matrix multi",
-    "link": "https://dev.to/multigrid/tpus-trainium-and-custom-accelerators-where-non-gpu-silicon-wins-1258",
+    "title": "\ud83d\udea8 We Replaced 20 Microservices with 1 Monolith and Our Cloud Bill Dropped 85%",
+    "desc": "<h1>\n  \n  \n  \ud83d\udea8 We Replaced 20 Microservices with 1 Monolith and Our Cloud Bill Dropped 85%\n</h1>\n\n<p>Have you ever wondered why some softwar",
+    "link": "https://dev.to/chobh1024/we-replaced-20-microservices-with-1-monolith-and-our-cloud-bill-dropped-85-5b3c",
     "topic": "general"
   },
   {
-    "title": "Why Cloudflare Can Make Your Uptime Monitor Lie to You",
-    "desc": "<p>A \u201cwebsite down\u201d alert does not always mean your server is actually down.</p>\n\n<p>If your site is behind Cloudflare, your monitoring requ",
-    "link": "https://dev.to/webpixie/why-cloudflare-can-make-your-uptime-monitor-lie-to-you-d7g",
+    "title": "Apple Silicon for Local Inference: Capacity Against Bandwidth",
+    "desc": "<p>The interesting thing about a unified-memory machine is not that it is fast or slow. It is that it changes the two terms of the decode bo",
+    "link": "https://dev.to/multigrid/apple-silicon-for-local-inference-capacity-against-bandwidth-2e0f",
     "topic": "general"
   },
   {
-    "title": "Vercel Pros and Cons: When It's the Right Host, and When You'll Regret It",
-    "desc": "<p>Vercel is the fastest path from a Next.js repo to a live URL with previews, and for frontend-heavy apps that's genuinely hard to beat. Th",
-    "link": "https://dev.to/libme/vercel-pros-and-cons-when-its-the-right-host-and-when-youll-regret-it-422h",
+    "title": "App Store Review for AI Features",
+    "desc": "<p>Both stores review an app that can generate open-ended text or images roughly as though a stranger had typed that content into it, becaus",
+    "link": "https://dev.to/multigrid/app-store-review-for-ai-features-1g2j",
     "topic": "general"
   },
   {
-    "title": "Netlify Pros and Cons: When It's the Right Host, and When You'll Outgrow It",
-    "desc": "<p>Netlify is one of the fastest ways to get a frontend from a Git repo to a global CDN with HTTPS, previews, and serverless functions \u2014 and",
-    "link": "https://dev.to/libme/netlify-pros-and-cons-when-its-the-right-host-and-when-youll-outgrow-it-2ka1",
+    "title": "Model Size Budgets for App Stores: Delivery Without a Rejection",
+    "desc": "<p>A quantised model is <a href=\"https://multigrid.ai/learn/model-file-sizes\" rel=\"noopener noreferrer\">hundreds of megabytes to a few gigab",
+    "link": "https://dev.to/multigrid/model-size-budgets-for-app-stores-delivery-without-a-rejection-11i3",
     "topic": "general"
   },
   {
-    "title": "The Quarterly Capacity Review",
-    "desc": "<p>A capacity review is a ninety-minute meeting, once a quarter, that exists to catch the constraints you will hit in the next two quarters ",
-    "link": "https://dev.to/multigrid/the-quarterly-capacity-review-4g01",
+    "title": "On-Device AI on Android: Delegates, NPUs and Fragmentation",
+    "desc": "<p>The hard part of on-device AI on Android is not writing the inference call. It is that the same call runs on thousands of system-on-chip ",
+    "link": "https://dev.to/multigrid/on-device-ai-on-android-delegates-npus-and-fragmentation-2o2p",
     "topic": "general"
   },
   {
-    "title": "AI Coding Agents in CI/CD: Turn Review Gates Into Your First Line of Defense",
-    "desc": "<blockquote>\n<p><strong>Cross-post note:</strong> This is a condensed syndication of the full article published on<br />\n<a href=\"https://ay",
-    "link": "https://dev.to/aymen_benyedder_616fc74f/ai-coding-agents-in-cicd-turn-review-gates-into-your-first-line-of-defense-463j",
+    "title": "What Happens Between Your Request and the First Token",
+    "desc": "<p>\u201cThe API is slow\u201d is never a diagnosis. Between your process calling <code>fetch</code> and the first byte of content arriving there are ",
+    "link": "https://dev.to/multigrid/what-happens-between-your-request-and-the-first-token-b0e",
+    "topic": "general"
+  },
+  {
+    "title": "Air-Gapped and Offline Deployments",
+    "desc": "<p>An air-gapped AI deployment is not a normal deployment with the network switched off. Roughly half of a standard stack assumes an outboun",
+    "link": "https://dev.to/multigrid/air-gapped-and-offline-deployments-2mc3",
     "topic": "general"
   }
 ]
