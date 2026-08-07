@@ -1,50 +1,50 @@
 [
   {
-    "title": "Build a Chaos Engineering Tool with Python",
-    "desc": "<h1>\n  \n  \n  Build a Chaos Engineering Tool with Python\n</h1>\n\n<p>tags: python, devops, testing, tutorial</p>\n\n\n\n\n<p>tags: python, testing, ",
-    "link": "https://dev.to/qingluan/build-a-chaos-engineering-tool-with-python-1gak",
+    "title": "Cost Allocation Across Teams and Environments",
+    "desc": "<p>Cost allocation fails for one reason: a large share of the bill has no obvious owner. Shared inference capacity, idle GPU hours, a vector",
+    "link": "https://dev.to/multigrid/cost-allocation-across-teams-and-environments-3g55",
     "topic": "general"
   },
   {
-    "title": "Terraform Offline Provider Setup: Zero Downloads & Clean Repos with Local Mirrors",
-    "desc": "<h1>\n  \n  \n  Terraform Offline Provider Setup Guide\n</h1>\n\n<h2>\n  \n  \n  Using <code>.terraformrc</code> + <code>.terraform.d</code> for Zero",
-    "link": "https://dev.to/sys-ronin/terraform-offline-provider-setup-zero-downloads-clean-repos-with-local-mirrors-464o",
-    "topic": "terraform"
+    "title": "How to Automate Dry-Run Restores for EC2 Stacks & Aurora Clusters Using AWS Backup",
+    "desc": "<p>When preparing for the AWS Certified CloudOps Engineer (SOA-C03) exam, data protection isn't just about taking backups\u2014it\u2019s about proving",
+    "link": "https://dev.to/dar10/how-to-automate-dry-run-restores-for-ec2-stacks-aurora-clusters-using-aws-backup-210b",
+    "topic": "aws"
   },
   {
-    "title": "Package Drift Weekly \u2014 2026-08-07",
-    "desc": "<p><em>Automated weekly digest from <a href=\"https://rapidapi.com/pkgdrift-pkgdrift-default/api/package-drift-vulnerability-intelligence\" re",
-    "link": "https://dev.to/pkgdrift/package-drift-weekly-2026-08-07-411i",
+    "title": "TPUs, Trainium and Custom Accelerators: Where Non-GPU Silicon Wins",
+    "desc": "<p>A GPU is a general parallel computer that happens to be excellent at matrix multiplication. A purpose-built accelerator is a matrix multi",
+    "link": "https://dev.to/multigrid/tpus-trainium-and-custom-accelerators-where-non-gpu-silicon-wins-1258",
     "topic": "general"
   },
   {
-    "title": "Monitoring and Logging: Leveling Up Like an RPG Boss",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Picture this: it\u2019s 2\u202fa.m., my phone buzzes with a Slack alert, and the on\u2011call channel i",
-    "link": "https://dev.to/timevolt/monitoring-and-logging-leveling-up-like-an-rpg-boss-4km6",
+    "title": "Why Cloudflare Can Make Your Uptime Monitor Lie to You",
+    "desc": "<p>A \u201cwebsite down\u201d alert does not always mean your server is actually down.</p>\n\n<p>If your site is behind Cloudflare, your monitoring requ",
+    "link": "https://dev.to/webpixie/why-cloudflare-can-make-your-uptime-monitor-lie-to-you-d7g",
     "topic": "general"
   },
   {
-    "title": "Complete OCI Free Tier Infrastructure Guide - Part 03: Compute Layer (AMD & ARM)",
-    "desc": "<p>In <strong>Part 01</strong> and <strong>Part 02</strong> of this series, we configured local API keys, environment variables, created an ",
-    "link": "https://dev.to/sys-ronin/complete-oci-free-tier-infrastructure-guide-part-03-compute-layer-amd-arm-26c",
+    "title": "Vercel Pros and Cons: When It's the Right Host, and When You'll Regret It",
+    "desc": "<p>Vercel is the fastest path from a Next.js repo to a live URL with previews, and for frontend-heavy apps that's genuinely hard to beat. Th",
+    "link": "https://dev.to/libme/vercel-pros-and-cons-when-its-the-right-host-and-when-youll-regret-it-422h",
     "topic": "general"
   },
   {
-    "title": "Complete OCI Free Tier Infrastructure Guide - Part 02: Shared Architecture Layer",
-    "desc": "<p>In <strong>Part 01</strong> of this guide, we configured local keys, exported shell variables, created an offline provider mirror, and es",
-    "link": "https://dev.to/sys-ronin/complete-oci-free-tier-infrastructure-guide-part-02-shared-architecture-layer-gen",
+    "title": "Netlify Pros and Cons: When It's the Right Host, and When You'll Outgrow It",
+    "desc": "<p>Netlify is one of the fastest ways to get a frontend from a Git repo to a global CDN with HTTPS, previews, and serverless functions \u2014 and",
+    "link": "https://dev.to/libme/netlify-pros-and-cons-when-its-the-right-host-and-when-youll-outgrow-it-2ka1",
     "topic": "general"
   },
   {
-    "title": "Architecting the Dedicated AI Gateway: Inside Azure API Management's Model and MCP Governance Tier",
-    "desc": "<h2>\n  \n  \n  \ud83c\udfd7\ufe0f The Architectural Shift: Why Standard API Gateways Fail at AI Workloads\n</h2>\n\n<p>As enterprise adoption of large language m",
-    "link": "https://dev.to/isuvo/architecting-the-dedicated-ai-gateway-inside-azure-api-managements-model-and-mcp-governance-tier-3751",
-    "topic": "azure"
+    "title": "The Quarterly Capacity Review",
+    "desc": "<p>A capacity review is a ninety-minute meeting, once a quarter, that exists to catch the constraints you will hit in the next two quarters ",
+    "link": "https://dev.to/multigrid/the-quarterly-capacity-review-4g01",
+    "topic": "general"
   },
   {
-    "title": "Complete OCI Free Tier Infrastructure Guide - Part 01: Setup & Local Provider Mirror",
-    "desc": "<p>Setting up Oracle Cloud Infrastructure (OCI) using Terraform gives you an automated, reproducible \"Always Free\" cloud environment. Howeve",
-    "link": "https://dev.to/sys-ronin/oracle-cloud-free-tier-infrastructure-using-terraform-part-01-5hnc",
+    "title": "AI Coding Agents in CI/CD: Turn Review Gates Into Your First Line of Defense",
+    "desc": "<blockquote>\n<p><strong>Cross-post note:</strong> This is a condensed syndication of the full article published on<br />\n<a href=\"https://ay",
+    "link": "https://dev.to/aymen_benyedder_616fc74f/ai-coding-agents-in-cicd-turn-review-gates-into-your-first-line-of-defense-463j",
     "topic": "general"
   }
 ]
