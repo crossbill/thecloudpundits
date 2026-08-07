@@ -1,5 +1,11 @@
 [
   {
+    "title": "Build a Chaos Engineering Tool with Python",
+    "desc": "<h1>\n  \n  \n  Build a Chaos Engineering Tool with Python\n</h1>\n\n<p>tags: python, devops, testing, tutorial</p>\n\n\n\n\n<p>tags: python, testing, ",
+    "link": "https://dev.to/qingluan/build-a-chaos-engineering-tool-with-python-1gak",
+    "topic": "general"
+  },
+  {
     "title": "Terraform Offline Provider Setup: Zero Downloads & Clean Repos with Local Mirrors",
     "desc": "<h1>\n  \n  \n  Terraform Offline Provider Setup Guide\n</h1>\n\n<h2>\n  \n  \n  Using <code>.terraformrc</code> + <code>.terraform.d</code> for Zero",
     "link": "https://dev.to/sys-ronin/terraform-offline-provider-setup-zero-downloads-clean-repos-with-local-mirrors-464o",
@@ -39,12 +45,6 @@
     "title": "Complete OCI Free Tier Infrastructure Guide - Part 01: Setup & Local Provider Mirror",
     "desc": "<p>Setting up Oracle Cloud Infrastructure (OCI) using Terraform gives you an automated, reproducible \"Always Free\" cloud environment. Howeve",
     "link": "https://dev.to/sys-ronin/oracle-cloud-free-tier-infrastructure-using-terraform-part-01-5hnc",
-    "topic": "general"
-  },
-  {
-    "title": "k6 Load Testing: Turn \"Is It Fast Enough?\" Into a Pass/Fail SLO Gate That Fails Your Build",
-    "desc": "<p>Your pipeline can prove the code is correct (unit tests) and deployable (a green rollout) and still tell you nothing about how it behaves",
-    "link": "https://dev.to/dev48v/k6-load-testing-turn-is-it-fast-enough-into-a-passfail-slo-gate-that-fails-your-build-d5h",
     "topic": "general"
   }
 ]
