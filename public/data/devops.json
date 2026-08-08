@@ -1,5 +1,29 @@
 [
   {
+    "title": "Two AI Agents Shared a Todo File and a Line Vanished",
+    "desc": "<p>A line disappeared from my todo file.</p>\n\n<p>Not corrupted. Not moved to the archive where completed items go. Just absent \u2014 present in ",
+    "link": "https://dev.to/hideyukimori/two-ai-agents-shared-a-todo-file-and-a-line-vanished-22jd",
+    "topic": "general"
+  },
+  {
+    "title": "Configuring Docker Health Checks for VPS Deployments",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
+    "link": "https://dev.to/chasebot/configuring-docker-health-checks-for-vps-deployments-2a95",
+    "topic": "docker"
+  },
+  {
+    "title": "Cutting Cloud Costs with a Few Habits",
+    "desc": "<h2>\n  \n  \n  The Cloud Bill Isn't a Mystery\n</h2>\n\n<p>Every month, the same shock. The cloud bill arrives, and it's higher than expected. I ",
+    "link": "https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-4b3e",
+    "topic": "general"
+  },
+  {
+    "title": "Why Tutorials Are Dead (And How Top Developers Actually Learn in 2026)",
+    "desc": "<blockquote>\n<p>\"The biggest mistake developers make isn't choosing the wrong programming language. It's believing that watching tutorials e",
+    "link": "https://dev.to/yash_sonawane25/why-tutorials-are-dead-and-how-top-developers-actually-learn-in-2026-24c2",
+    "topic": "general"
+  },
+  {
     "title": "My routing policy and my traces disagreed 96 times. Never once on the main thread.",
     "desc": "<p>This is part four of a series about pointing an append-only audit log at things that count tokens. <a href=\"https://dev.to/lizhuojunx86/a",
     "link": "https://dev.to/lizhuojunx86/my-routing-policy-and-my-traces-disagreed-96-times-never-once-on-the-main-thread-ffp",
@@ -22,29 +46,5 @@
     "desc": "<p>How to Connect Salesforce with Azure DevOps Without Middleware</p>\n\n<p>Many organizations use Salesforce to manage customers and Azure De",
     "link": "https://dev.to/irfan_919487b8e28f71030b2/how-to-connect-salesforce-with-azure-devops-without-middleware-5e03",
     "topic": "azure"
-  },
-  {
-    "title": "Claude Code Hooks: The $50k Context-Switch Tax",
-    "desc": "<p>Every developer context-switch costs your team 23 minutes of productivity recovery. For a 15-person engineering team manually triggering ",
-    "link": "https://dev.to/dr_hernani_costa/claude-code-hooks-the-50k-context-switch-tax-4ea6",
-    "topic": "anthropic"
-  },
-  {
-    "title": "NTP Time Synchronization for Cold Storage Monitoring Systems",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/phuc_bach_22e/ntp-time-synchronization-for-cold-storage-monitoring-systems-41ip",
-    "topic": "general"
-  },
-  {
-    "title": "I Tried to Get Roblox Working on University Wifi and Ended Up Learning Infrastructure",
-    "desc": "<p>A few months ago I had one goal: get around my university's wifi restrictions so I could play Roblox at university. What actually happene",
-    "link": "https://dev.to/ailanoor13/i-tried-to-get-roblox-working-on-university-wifi-and-ended-up-learning-infrastructure-33d",
-    "topic": "general"
-  },
-  {
-    "title": "The AI Agents Were Done. The Delivery Clock Wasn\u2019t.",
-    "desc": "<p><em>The metric that stops at generated code hides review, rework, and acceptance \u2014 the work that decides whether the change can ship.</em",
-    "link": "https://dev.to/dmytronasyrov/the-ai-agents-were-done-the-delivery-clock-wasnt-5ah5",
-    "topic": "general"
   }
 ]
