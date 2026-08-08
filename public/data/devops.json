@@ -1,50 +1,50 @@
 [
   {
+    "title": "My routing policy and my traces disagreed 96 times. Never once on the main thread.",
+    "desc": "<p>This is part four of a series about pointing an append-only audit log at things that count tokens. <a href=\"https://dev.to/lizhuojunx86/a",
+    "link": "https://dev.to/lizhuojunx86/my-routing-policy-and-my-traces-disagreed-96-times-never-once-on-the-main-thread-ffp",
+    "topic": "general"
+  },
+  {
+    "title": "The Evolution of Scientific Computing: Why Developers Still Need Dedicated Calculators",
+    "desc": "<p>As developers, we are surrounded by immense computational power. When we need to solve a math problem, our first instinct is often to fir",
+    "link": "https://dev.to/studyhubnetin/the-evolution-of-scientific-computing-why-developers-still-need-dedicated-calculators-3pao",
+    "topic": "general"
+  },
+  {
+    "title": "GitHub Actions Reusable Workflow Environment Protection Checklist",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/08/github-actions-reusable-workflow-environment-protection-checklist\"",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/github-actions-reusable-workflow-environment-protection-checklist-1m7i",
+    "topic": "general"
+  },
+  {
+    "title": "How to Connect Salesforce with Azure DevOps Without Middleware",
+    "desc": "<p>How to Connect Salesforce with Azure DevOps Without Middleware</p>\n\n<p>Many organizations use Salesforce to manage customers and Azure De",
+    "link": "https://dev.to/irfan_919487b8e28f71030b2/how-to-connect-salesforce-with-azure-devops-without-middleware-5e03",
+    "topic": "azure"
+  },
+  {
+    "title": "Claude Code Hooks: The $50k Context-Switch Tax",
+    "desc": "<p>Every developer context-switch costs your team 23 minutes of productivity recovery. For a 15-person engineering team manually triggering ",
+    "link": "https://dev.to/dr_hernani_costa/claude-code-hooks-the-50k-context-switch-tax-4ea6",
+    "topic": "anthropic"
+  },
+  {
+    "title": "NTP Time Synchronization for Cold Storage Monitoring Systems",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/phuc_bach_22e/ntp-time-synchronization-for-cold-storage-monitoring-systems-41ip",
+    "topic": "general"
+  },
+  {
+    "title": "I Tried to Get Roblox Working on University Wifi and Ended Up Learning Infrastructure",
+    "desc": "<p>A few months ago I had one goal: get around my university's wifi restrictions so I could play Roblox at university. What actually happene",
+    "link": "https://dev.to/ailanoor13/i-tried-to-get-roblox-working-on-university-wifi-and-ended-up-learning-infrastructure-33d",
+    "topic": "general"
+  },
+  {
     "title": "The AI Agents Were Done. The Delivery Clock Wasn\u2019t.",
     "desc": "<p><em>The metric that stops at generated code hides review, rework, and acceptance \u2014 the work that decides whether the change can ship.</em",
     "link": "https://dev.to/dmytronasyrov/the-ai-agents-were-done-the-delivery-clock-wasnt-5ah5",
     "topic": "general"
-  },
-  {
-    "title": "Free, unlimited access to frontier computer-use agents",
-    "desc": "<p><a href=\"https://coarena.ai\" rel=\"noopener noreferrer\">https://coarena.ai</a></p>\n\n<p>Hey, I helped build this, so treat this as project ",
-    "link": "https://dev.to/prateek_yj_15603f79cafabc/free-unlimited-access-to-frontier-computer-use-agents-5d1n",
-    "topic": "general"
-  },
-  {
-    "title": "Docker for Beginners: Images, Containers, Ports, and Volumes Explained",
-    "desc": "<h1>\n  \n  \n  Docker for Beginners: Images, Containers, Ports, and Volumes Explained\n</h1>\n\n<p>If you've ever followed a programming tutorial",
-    "link": "https://dev.to/chetancodelrca/docker-for-beginners-images-containers-ports-and-volumes-explained-ee6",
-    "topic": "docker"
-  },
-  {
-    "title": "Your AI Agent Has a Backup. Prove You Can Restore It.",
-    "desc": "<p>A backup is not a recovery plan until a fresh worker can restore it and continue without guessing.</p>\n\n<p>For OpenClaw, coding agents, a",
-    "link": "https://dev.to/zira125/your-ai-agent-has-a-backup-prove-you-can-restore-it-4co2",
-    "topic": "general"
-  },
-  {
-    "title": "What Are Autonomous AI Agents? A Practical Guide for Developers",
-    "desc": "<p>Most AI applications wait for a user to ask a question and then return an answer. <a href=\"https://www.synfinitydynamics.com/blogs/autono",
-    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/what-are-autonomous-ai-agents-a-practical-guide-for-developers-4iki",
-    "topic": "general"
-  },
-  {
-    "title": "Best Facebook Groups for SysAdmins and Developers",
-    "desc": "<p>Here\u2019s what no one tells you when you first start running servers or building production software: the toughest problems rarely come with",
-    "link": "https://dev.to/serveravatar/best-facebook-groups-for-sysadmins-and-developers-hlf",
-    "topic": "general"
-  },
-  {
-    "title": "Our Ollama /LLM Production Setup",
-    "desc": "<h1>\n  \n  \n  Response to Ollama Production Queries to the previous post\n</h1>\n\n<p>Excellent questions \u2014 you've clearly been in the trenches ",
-    "link": "https://dev.to/suresh_devops_ffa0728a190/our-ollama-llm-production-setup-3anf",
-    "topic": "general"
-  },
-  {
-    "title": "How I Update Applications in an AWS Auto Scaling Group Using Golden AMIs",
-    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>If you've ever managed applications running in an Amazon EC2 Auto Scaling Group, you've probably wondere",
-    "link": "https://dev.to/nitish_pandey_c5361afcae9/how-i-update-applications-in-an-aws-auto-scaling-group-using-golden-amis-72g",
-    "topic": "aws"
   }
 ]
