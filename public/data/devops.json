@@ -1,5 +1,29 @@
 [
   {
+    "title": "Best Facebook Groups for SysAdmins and Developers",
+    "desc": "<p>Here\u2019s what no one tells you when you first start running servers or building production software: the toughest problems rarely come with",
+    "link": "https://dev.to/serveravatar/best-facebook-groups-for-sysadmins-and-developers-hlf",
+    "topic": "general"
+  },
+  {
+    "title": "Our Ollama /LLM Production Setup",
+    "desc": "<h1>\n  \n  \n  Response to Ollama Production Queries to the previous post\n</h1>\n\n<p>Excellent questions \u2014 you've clearly been in the trenches ",
+    "link": "https://dev.to/suresh_devops_ffa0728a190/our-ollama-llm-production-setup-3anf",
+    "topic": "general"
+  },
+  {
+    "title": "How I Update Applications in an AWS Auto Scaling Group Using Golden AMIs",
+    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>If you've ever managed applications running in an Amazon EC2 Auto Scaling Group, you've probably wondere",
+    "link": "https://dev.to/nitish_pandey_c5361afcae9/how-i-update-applications-in-an-aws-auto-scaling-group-using-golden-amis-72g",
+    "topic": "aws"
+  },
+  {
+    "title": "Stop Single-NIC Outages: Practical Network Bonding with systemd-networkd on Linux",
+    "desc": "<h1>\n  \n  \n  Stop Single-NIC Outages: Practical Network Bonding with systemd-networkd on Linux\n</h1>\n\n<p>One unplugged cable should not take",
+    "link": "https://dev.to/lyraalishaikh/stop-single-nic-outages-practical-network-bonding-with-systemd-networkd-on-linux-3548",
+    "topic": "general"
+  },
+  {
     "title": "Master anydoc in 5 Mins",
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually converting a complex Word document to Markdown, only to realize I ha",
     "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4m1a",
@@ -21,30 +45,6 @@
     "title": "SIP 408 Request Timeout \u2014 Network & Firewall Troubleshooting",
     "desc": "<h1>\n  \n  \n  SIP 408 Request Timeout \u2014 Network & Firewall Troubleshooting\n</h1>\n\n<p><strong>Master the complete diagnostic and resolution pr",
     "link": "https://dev.to/moisi_trungu_31647b7ac300/sip-408-request-timeout-network-firewall-troubleshooting-44cf",
-    "topic": "general"
-  },
-  {
-    "title": "The Headless Workspace: How Antigravity CLI Lowers the Neovim Learning Curve",
-    "desc": "<p>A GUI IDE is great for local development, but it quickly falls apart when you transition to headless servers, low-power client machines, ",
-    "link": "https://dev.to/alvardev/the-headless-workspace-how-antigravity-cli-lowers-the-neovim-learning-curve-55h5",
-    "topic": "general"
-  },
-  {
-    "title": "C\u1ea5u h\u00ecnh m\u1ea1ng laptop dev: mDNS, Tailscale v\u00e0 Bridged Adapter",
-    "desc": "<p>Khi g\u1eedi m\u00e1y \u0111i s\u1eeda bo m\u1ea1ch hay \u0111\u1ed5i linh ki\u1ec7n t\u1ea1i trung t\u00e2m h\u00e3ng, vi\u1ec7c chuy\u1ec3n m\u00f4i tr\u01b0\u1eddng l\u1eadp tr\u00ecnh sang m\u00e1y t\u1ea1m th\u01b0\u1eddng l\u00e0m g\u00e3y to\u00e0n b\u1ed9 k\u1ebft",
-    "link": "https://dev.to/hung_phatlaptop_a651fc86/cau-hinh-mang-laptop-dev-mdns-tailscale-va-bridged-adapter-mgp",
-    "topic": "general"
-  },
-  {
-    "title": "Day 7: The Complete Request Journey \u2014 DNS, Data Packets, Load Balancers & OSI in Action",
-    "desc": "<p>Yesterday covered DNS resolution, load balancers, and firewalls at a high level. Today: tracing one complete request end-to-end \u2014 from ty",
-    "link": "https://dev.to/sr-palatasingh/day-7-the-complete-request-journey-dns-data-packets-load-balancers-osi-in-action-2mbl",
-    "topic": "general"
-  },
-  {
-    "title": "Drift detection and autoscaling are the same shape: ask the provider, then decide",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Drift detection and autoscaling look like different features. They're the same loop: <strong>observe \u2192 co",
-    "link": "https://dev.to/nasrulhazim/drift-detection-and-autoscaling-are-the-same-shape-ask-the-provider-then-decide-473o",
     "topic": "general"
   }
 ]
