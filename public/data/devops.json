@@ -1,5 +1,35 @@
 [
   {
+    "title": "GitOps: Declarative Delivery with ArgoCD & Flux",
+    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> <strong>GitOps</strong> makes Git the single source of truth and lets a controller reconcile reali",
+    "link": "https://dev.to/sri2614/gitops-declarative-delivery-with-argocd-flux-3121",
+    "topic": "general"
+  },
+  {
+    "title": "BigQuery Data Transfer Service: A Practical Decision Guide",
+    "desc": "<p>A remote MCP Server can make BigQuery Data Transfer Service agent-callable. That does not make create, change, backfill, or delete safe d",
+    "link": "https://dev.to/tran_tienvan_e45fc26d655/bigquery-data-transfer-service-a-practical-decision-guide-1cgm",
+    "topic": "general"
+  },
+  {
+    "title": "Master Copado Training | Salesforce AI DevOps Course",
+    "desc": "<p>\ud83d\ude80 \ud835\uddd4\ud835\uddf1\ud835\ude03\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf2 \ud835\uddec\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\uddf2\ud835\uddf2\ud835\uddff \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde6\ud835\uddee\ud835\uddf9\ud835\uddf2\ud835\ude00\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddf0\ud835\uddf2 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\udde2\ud835\uddfd\ud835\ude00 & \ud835\uddd6\ud835\uddfc\ud835\uddfd\ud835\uddee\ud835\uddf1\ud835\uddfc \ud835\uddd4\ud835\udddc!<br />\n\ud83c\udfaf Upgrade your Salesforce skills with Visualpath! Learn #SalesforceDevOps",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-copado-training-salesforce-ai-devops-course-3jfb",
+    "topic": "general"
+  },
+  {
+    "title": "LuMarcas: Simplifying Healthcare With Reliable Medical and Personal Care Solutions",
+    "desc": "<p>Healthcare is becoming more personal, accessible, and home-focused. Today, many people manage their <a href=\"https://www.lumarcas.ca/cate",
+    "link": "https://dev.to/lumarcus_ca_2fe9adf6252c4/lumarcas-simplifying-healthcare-with-reliable-medical-and-personal-care-solutions-2n7j",
+    "topic": "general"
+  },
+  {
+    "title": "I thought AI agent task completion in email meant better drafts, but this excavation company\u2019s 5% inbox proved me wrong",
+    "desc": "<p>I went into a Reddit thread expecting the usual email automation story:</p>\n\n<ul>\n<li>Gmail gets a new message</li>\n<li>GPT-5 writes a de",
+    "link": "https://dev.to/lars_winstand/i-thought-ai-agent-task-completion-in-email-meant-better-drafts-but-this-excavation-companys-5-4hd",
+    "topic": "general"
+  },
+  {
     "title": "The Golden Rule of API Design: Understanding Idempotency",
     "desc": "<p>Have you ever clicked a \"Submit\" button on a website, experienced a sudden freeze, and wondered if clicking it again would charge your cr",
     "link": "https://dev.to/saurav_tb_pandey/the-golden-rule-of-api-design-understanding-idempotency-2pic",
@@ -15,36 +45,6 @@
     "title": "Platform teams became the new gatekeepers we said we hated",
     "desc": "<p>We killed the ops silo. Then we gave it a golden path and a nicer logo. The platform team was meant to solve our problems. Somehow it bec",
     "link": "https://dev.to/adioof/platform-teams-became-the-new-gatekeepers-we-said-we-hated-2d3o",
-    "topic": "general"
-  },
-  {
-    "title": "Salesforce Data Cloud Training Course | Live Expert Classes",
-    "desc": "<p>What Are Data Streams in Salesforce Data Cloud?<br />\nIntroduction<br />\nCustomer data often exists across many business systems. One sys",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-data-cloud-training-course-live-expert-classes-568k",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Dependency Vulnerability Scanner for Python Projects",
-    "desc": "<p>Most Python projects accumulate dozens of third-party packages before anyone thinks to audit them. Each pinned version is a potential CVE",
-    "link": "https://dev.to/ayinedjimi-consultants/building-a-dependency-vulnerability-scanner-for-python-projects-4kdn",
-    "topic": "secops"
-  },
-  {
-    "title": "Build a Custom Object Storage System with Python",
-    "desc": "<h1>\n  \n  \n  Build a Custom Object Storage System with Python\n</h1>\n\n<p>tags: python, storage, devops, tutorial</p>\n\n\n\n\n<p>tags: python, net",
-    "link": "https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-13cj",
-    "topic": "general"
-  },
-  {
-    "title": "Master anydoc in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually converting a large Word document to Markdown, only to realize I coul",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-35hl",
-    "topic": "general"
-  },
-  {
-    "title": "A 200 From the Wrong System: How Two Pages Stayed Invisible for 17 Days",
-    "desc": "<p>Two pages on my site went live on July 22. On August 8 they had zero impressions in Google. Not low. Zero, across three weekly exports.</",
-    "link": "https://dev.to/visibilityatlas/a-200-from-the-wrong-system-how-two-pages-stayed-invisible-for-17-days-4m8o",
     "topic": "general"
   }
 ]
