@@ -1,5 +1,41 @@
 [
   {
+    "title": "AI Can Write Tests Faster Than Your Team Can Understand Them",
+    "desc": "<p>AI coding tools have solved one problem remarkably well:</p>\n\n<p>They can produce code extremely quickly.</p>\n\n<p>That sounds obviously g",
+    "link": "https://dev.to/mellowthunder735/ai-can-write-tests-faster-than-your-team-can-understand-them-bji",
+    "topic": "general"
+  },
+  {
+    "title": "Agentic Coding: Fix Your Tea!",
+    "desc": "<p>On 25 July 2025, someone posted on 4chan that a dating safety app called Tea was serving its user verification uploads out of a storage b",
+    "link": "https://dev.to/kingkonsole/agentic-coding-fix-your-tea-gln",
+    "topic": "general"
+  },
+  {
+    "title": "Why Normal People Aren\u2019t Using AI Agents - WIRED",
+    "desc": "<p>Last month, I watched a colleague ask Siri to \"book a dinner reservation at a trendy Italian place downtown for 7pm. \" The assistant chee",
+    "link": "https://dev.to/thomas_woodfin_3a4efcd491/why-normal-people-arent-using-ai-agents-wired-2pgl",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes Secrets Are Just Base64 Not Encryption. Here's What That Actually Means",
+    "desc": "<p>If you've run Kubernetes for more than a day, you've seen this:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlig",
+    "link": "https://dev.to/pjanderson/kubernetes-secrets-are-just-base64-not-encryption-heres-what-that-actually-means-35hi",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Automate Agent Onboarding in a Multi-Agent Fleet: Address, Trust, Discovery \u2014 Done Once",
+    "desc": "<p>Onboarding a new agent into a multi-agent fleet is the least-automated part of most agent deployments. You provision the container, insta",
+    "link": "https://dev.to/pstayet/automate-agent-onboarding-in-a-multi-agent-fleet-address-trust-discovery-done-once-2pja",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\udc80 The Most Dangerous Deletions Don't Break the Build. They Break the Deploy. An AI-Assisted Recovery Story \ud83e\udd16",
+    "desc": "<h2>\n  \n  \n  Table of Contents\n</h2>\n\n<ul>\n<li>The PR That Looked Harmless</li>\n<li>Five Minutes to 503</li>\n<li>The Revert That Couldn't La",
+    "link": "https://dev.to/velumal09/the-most-dangerous-deletions-dont-break-the-build-they-break-the-deploy-an-ai-assisted-3bk7",
+    "topic": "general"
+  },
+  {
     "title": "A Guide to Buying Old Gmail Accounts: Cheap&Bulk",
     "desc": "<p>Why Choose usadigitalhub.com for Gmail Accounts?<br />\n\u2728\u00a024/7 Customer Support \u2014 Fast, Reliable & Always Ready</p>\n\n<p>\ud83d\udcf2\u2728\ud83d\udc8e\ud83c\udf10\ud83d\ude80\u2b50 WhatsApp: +",
     "link": "https://dev.to/florribarry0j0zk/a-guide-to-buying-old-gmail-accounts-cheapbulk-48lf",
@@ -9,42 +45,6 @@
     "title": "How to monitor third-party provider outages with two signals",
     "desc": "<p>When production starts failing, one of the first questions is also one of the most expensive to answer badly:</p>\n\n<blockquote>\n<p>Is our",
     "link": "https://dev.to/kerolos_atallah/how-to-monitor-third-party-provider-outages-with-two-signals-1600",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted Compute Boundaries and Cross-Session Coordination: Inside Claude Code v2.1.224",
-    "desc": "<h2>\n  \n  \n  \ud83e\udd16 The Shift to Isolated Agentic Runtimes\n</h2>\n\n<p>As agentic software development transitions from experimental terminal toys ",
-    "link": "https://dev.to/isuvo/self-hosted-compute-boundaries-and-cross-session-coordination-inside-claude-code-v21224-2af4",
-    "topic": "anthropic"
-  },
-  {
-    "title": "One Key for Claude, GPT, and Gemini: the Gateway Pattern",
-    "desc": "<p>The moment an app talks to more than one model provider, the plumbing multiplies. OpenAI wants its key and its SDK. Anthropic wants a dif",
-    "link": "https://dev.to/devopsdaily/one-key-for-claude-gpt-and-gemini-the-gateway-pattern-1319",
-    "topic": "anthropic"
-  },
-  {
-    "title": "A Feature in My AI Agent System Went Unused for 40 Days",
-    "desc": "<p>I had a feature in my AI agent system that looked complete.</p>\n\n<p>The design document existed. The code worked in isolation. The usage ",
-    "link": "https://dev.to/ghostyai_aionexo/a-feature-in-my-ai-agent-system-went-unused-for-40-days-n6o",
-    "topic": "general"
-  },
-  {
-    "title": "9 Best Sites to Buy Old Gmail Accounts for Sellers (PVA&Old)",
-    "desc": "<p>9 Best Sites to Buy Old Gmail Accounts for Sellers  (PVA&Old) <br />\nIf you want to more information contact now.<br />\n24 Hours Reply/Co",
-    "link": "https://dev.to/protopservice54656/9-best-sites-to-buy-old-gmail-accounts-for-sellers-pvaold-21hd",
-    "topic": "general"
-  },
-  {
-    "title": "I shipped a fix. The system recovered. The fix wasn't why.",
-    "desc": "<p>An autonomous system of mine lost access to its execution environment and went into a crash loop. I read the logs, formed a theory, wrote",
-    "link": "https://dev.to/taiwildlab_79c1fbf3cc5/i-shipped-a-fix-the-system-recovered-the-fix-wasnt-why-jc7",
-    "topic": "general"
-  },
-  {
-    "title": "Unlocking Automation's Potential in Mobile Development",
-    "desc": "<p>Imagine slashing hours spent on routine tasks so your developers can focus on innovation. That's the promise of automation in mobile app ",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/unlocking-automations-potential-in-mobile-development-2lp2",
     "topic": "general"
   }
 ]
