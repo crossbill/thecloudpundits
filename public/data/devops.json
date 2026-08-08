@@ -1,50 +1,50 @@
 [
   {
-    "title": "Shipping a Model Inside a Desktop App: Packaging, Signing, Updates",
-    "desc": "<p>The first real decision when putting a language model inside a desktop application is whether the weights live inside the code-signed bun",
-    "link": "https://dev.to/multigrid/shipping-a-model-inside-a-desktop-app-packaging-signing-updates-5coj",
+    "title": "How We Handled Our First Major Outage (And Survived)",
+    "desc": "<p>Three years ago we had our first real outage. Six hours of downtime. Thousands of angry users. Multiple executives on the call. Here's wh",
+    "link": "https://dev.to/samson_tanimawo/how-we-handled-our-first-major-outage-and-survived-3nap",
     "topic": "general"
   },
   {
-    "title": "Debugging a Bad Response Six Hours Later",
-    "desc": "<p>A support ticket says the assistant gave a customer bad pricing information yesterday afternoon. You have a name, an approximate time, an",
-    "link": "https://dev.to/multigrid/debugging-a-bad-response-six-hours-later-3mgk",
+    "title": "The MCP server you choose should pass an exit test",
+    "desc": "<p>The easiest MCP server to adopt can become the hardest one to leave.</p>\n\n<p>The endpoint is not the whole system.</p>\n\n<p>Six months in,",
+    "link": "https://dev.to/mads_hansen_27b33ebfee4c9/the-mcp-server-you-choose-should-pass-an-exit-test-4efb",
     "topic": "general"
   },
   {
-    "title": "Defending the Realm: Secrets, SSL, and Firewalls \u2014 A Dev's Quest Inspired by Guardians of the Galaxy",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I was just trying to ship a tiny API for a side\u2011project when I got hit with a ",
-    "link": "https://dev.to/timevolt/defending-the-realm-secrets-ssl-and-firewalls-a-devs-quest-inspired-by-guardians-of-the-galaxy-2m0n",
+    "title": "Multi-Region AI Serving",
+    "desc": "<p>Multi-region is three different projects wearing one name: reducing latency, satisfying data residency, and surviving a regional failure.",
+    "link": "https://dev.to/multigrid/multi-region-ai-serving-2n2a",
     "topic": "general"
   },
   {
-    "title": "Comparing Datacentre GPUs for Inference Without Trusting the Spec Sheet",
-    "desc": "<p>Any page that ranks accelerators by name is wrong within a product cycle, and most of them were wrong on publication because they ranked ",
-    "link": "https://dev.to/multigrid/comparing-datacentre-gpus-for-inference-without-trusting-the-spec-sheet-4256",
+    "title": "Multi-GPU Inference: Tensor and Pipeline Parallelism",
+    "desc": "<p>Splitting a model across devices is usually described as a way to run bigger models. It is also, in one specific form, the only way to ma",
+    "link": "https://dev.to/multigrid/multi-gpu-inference-tensor-and-pipeline-parallelism-4mfj",
     "topic": "general"
   },
   {
-    "title": "Cooling, Power Density and the Physical Limits of a Rack",
-    "desc": "<p>A datacentre does no mechanical work and stores no energy, so every watt delivered to a rack leaves it as heat. That conservation stateme",
-    "link": "https://dev.to/multigrid/cooling-power-density-and-the-physical-limits-of-a-rack-3olp",
+    "title": "Model Weights in CI/CD",
+    "desc": "<p>Weights are a build artefact that happens to be a thousand times larger than your application. Everything unusual about deploying them fo",
+    "link": "https://dev.to/multigrid/model-weights-in-cicd-13c4",
     "topic": "general"
   },
   {
-    "title": "CUDA and the Software Moat: What It Is Actually Made Of",
-    "desc": "<p>\u201cCUDA is the moat\u201d is repeated so often that it has stopped conveying anything. The useful version names the layers, because they have ve",
-    "link": "https://dev.to/multigrid/cuda-and-the-software-moat-what-it-is-actually-made-of-56d0",
+    "title": "Secrets Management for DevOps AI Agents: Credentials Without Leaks",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-08-secrets-management-devops-ai-agents\" rel=\"n",
+    "link": "https://dev.to/devtocash/secrets-management-for-devops-ai-agents-credentials-without-leaks-5gb3",
     "topic": "general"
   },
   {
-    "title": "Cost Attribution: Which Feature Is Spending Your Budget",
-    "desc": "<p>The provider sends one number. Your application has forty places that call a model, and one of them tripled last month. Attribution is th",
-    "link": "https://dev.to/multigrid/cost-attribution-which-feature-is-spending-your-budget-4n71",
+    "title": "Feature Flags for Models and Prompts",
+    "desc": "<p>Every mitigation in an AI incident runbook is a configuration change: pin the model, roll back the prompt, degrade the feature, cap the s",
+    "link": "https://dev.to/multigrid/feature-flags-for-models-and-prompts-p8h",
     "topic": "general"
   },
   {
-    "title": "Core ML and the Apple Neural Engine: Convert, Quantise, Profile",
-    "desc": "<p>Getting a model into Core ML is a converter call. Getting it to run on the Neural Engine is the actual work, and the reason it is work is",
-    "link": "https://dev.to/multigrid/core-ml-and-the-apple-neural-engine-convert-quantise-profile-53jh",
+    "title": "Canary and Blue-Green Deploys for Model Changes",
+    "desc": "<p>A code deploy either works or throws. A model deploy usually does neither: the new version returns 200s at the same latency and is slight",
+    "link": "https://dev.to/multigrid/canary-and-blue-green-deploys-for-model-changes-3i9c",
     "topic": "general"
   }
 ]
