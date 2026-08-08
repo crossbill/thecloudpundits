@@ -1,50 +1,50 @@
 [
   {
+    "title": "We wired a \u2018cheap\u2019 model into our CRM and accidentally made pricing changes a production risk",
+    "desc": "<p>I keep seeing the same mistake dressed up as optimization.</p>\n\n<p>A team finds a model that looks absurdly cheap. They test it. It works",
+    "link": "https://dev.to/lars_winstand/we-wired-a-cheap-model-into-our-crm-and-accidentally-made-pricing-changes-a-production-risk-1cg7",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Chasing Symptoms: How We Built an Autonomous Root Cause Analysis Engine in Rust \ud83e\udd80",
+    "desc": "<p>It\u2019s 2:15 AM. Your phone buzzes aggressively. \ud83d\udea8</p>\n\n<p>You jump out of bed, open your laptop with half-closed eyes, and join an emergenc",
+    "link": "https://dev.to/muhammad_lutfimuzaki_/stop-chasing-symptoms-how-we-built-an-autonomous-root-cause-analysis-engine-in-rust-2g8d",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Custom Reverse Proxy with Python",
+    "desc": "<h1>\n  \n  \n  Build a Custom Reverse Proxy with Python\n</h1>\n\n<p>tags: python, networking, devops, tutorial</p>\n\n\n\n\n<p>tags: python, networki",
+    "link": "https://dev.to/qingluan/build-a-custom-reverse-proxy-with-python-1034",
+    "topic": "general"
+  },
+  {
+    "title": "How I moved from shared hosting to a private VPS \u2014 and what I learned about who actually knows you're there",
+    "desc": "<p>For a long time I didn't think much about hosting. Picked a shared plan, paid monthly, forgot about it.</p>\n\n<p>Then one day I started re",
+    "link": "https://dev.to/apitala0091/how-i-moved-from-shared-hosting-to-a-private-vps-and-what-i-learned-about-who-actually-knows-37kc",
+    "topic": "general"
+  },
+  {
+    "title": "100 Days of DevOps and Cloud (AWS), Day 24: A Branch Is Just a Pointer, and a Load Balancer Is Three Things",
+    "desc": "<p>Almost everything useful in infrastructure is a layer of indirection. Something points at something else, and the pointing is what buys y",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-24-a-branch-is-just-a-pointer-and-a-load-balancer-is-2j42",
+    "topic": "aws"
+  },
+  {
+    "title": "Your AI Agent Is Not Isolated Until You Test These 7 Escape Paths",
+    "desc": "<p>An agent can run in a container and still have more authority than you intended.</p>\n\n<p>The usual mistake is treating \"the process is in",
+    "link": "https://dev.to/zira125/your-ai-agent-is-not-isolated-until-you-test-these-7-escape-paths-5182",
+    "topic": "general"
+  },
+  {
+    "title": "The App Needed a Real Desktop, Not Just a Real Windows Machine",
+    "desc": "<p>The App Needed a Real Desktop, Not Just a Real Windows Machine</p>\n\n<p>Before any of the debugging stories, gotchas, or architecture argu",
+    "link": "https://dev.to/techwithhari/the-app-needed-a-real-desktop-not-just-a-real-windows-machine-284b",
+    "topic": "general"
+  },
+  {
     "title": "Ninety Lines of Terraform, One Whole AWS Network",
     "desc": "<p><em>How a single folder of config spins up a VPC, two subnets, a gateway, a firewall, and a running server \u2014 and the two small things tha",
     "link": "https://dev.to/joseph_davis_ac8d4e74eced/ninety-lines-of-terraform-one-whole-aws-network-3489",
     "topic": "aws"
-  },
-  {
-    "title": "DNS Explained: The Complete Guide for Founders, Developers, and Modern Businesses",
-    "desc": "<p>Most people don\u2019t think about DNS until something breaks.</p>\n\n<p>A founder launches a new website and suddenly email stops working.</p>\n",
-    "link": "https://dev.to/anik_sikder_313/dns-explained-the-complete-guide-for-founders-developers-and-modern-businesses-93l",
-    "topic": "general"
-  },
-  {
-    "title": "Beginners Don\u2019t Need More Cloud Jargon. They Need a Map.",
-    "desc": "<p>This is why I\u2019m building ChiCloud Academy to teach cloud engineering through stories, diagrams, and real project lessons.</p>\n\n<p>Most be",
-    "link": "https://dev.to/chisom_ejiba/beginners-dont-need-more-cloud-jargon-they-need-a-map-56o3",
-    "topic": "general"
-  },
-  {
-    "title": "BYOC is not just deploy into their cloud. Learn about the spectrum of Bring Your Own Cloud deployments. https://omnistrate.com/b",
-    "desc": "<p>BYOC is not just deploy into their cloud. Learn about the spectrum of Bring Your Own Cloud deployments. <a href=\"https://omnistrate.com/b",
-    "link": "https://dev.to/atheerium/byoc-is-not-just-deploy-into-their-cloud-learn-about-the-spectrum-of-bring-your-own-cloud-5cfk",
-    "topic": "general"
-  },
-  {
-    "title": "5 Easy Ways to Buy Old Gmail Accounts Smartly Start in 2026",
-    "desc": "<p>Introduction<br />\nGmail has become one of the most widely used email platforms for personal communication, professional correspondence, ",
-    "link": "https://dev.to/kirbycardenaskahgv/5-easy-ways-to-buy-old-gmail-accounts-smartly-start-in-2026-4bid",
-    "topic": "general"
-  },
-  {
-    "title": "How to Buying Old Yahoo Accounts With App Pass: A Complete Guide",
-    "desc": "<p>Introduction<br />\nYahoo Mail is widely used for personal communication, professional email, online services, notifications, and everyday",
-    "link": "https://dev.to/kirbycardenaskahgv/how-to-buying-old-yahoo-accounts-with-app-pass-a-complete-guide-2m8g",
-    "topic": "general"
-  },
-  {
-    "title": "Best 10 Sites to Buy Hotmail Accounts (PVA, Bulk &)",
-    "desc": "<p>Introduction<br />\nHotmail has been one of the most familiar names in online email for many years. Although Microsoft's modern email serv",
-    "link": "https://dev.to/kirbycardenaskahgv/best-10-sites-to-buy-hotmail-accounts-pva-bulk-amp-10i6",
-    "topic": "general"
-  },
-  {
-    "title": "From Cron Jobs to Event-Driven: Migrating Scheduled Tasks to Serverless Functions",
-    "desc": "<p>If you have a <code>crontab</code> on a box that nobody wants to reboot, the migration path is usually: move the schedule to a managed sc",
-    "link": "https://dev.to/libme/from-cron-jobs-to-event-driven-migrating-scheduled-tasks-to-serverless-functions-4i0a",
-    "topic": "general"
   }
 ]
