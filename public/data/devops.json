@@ -1,5 +1,29 @@
 [
   {
+    "title": "Master anydoc in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually converting a complex Word document to Markdown, only to realize I ha",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4m1a",
+    "topic": "general"
+  },
+  {
+    "title": "The UDP Buffer Nobody Tunes: How a 256KB Kernel Default Cost Us 30% of Our Packets",
+    "desc": "<h2>\n  \n  \n  The problem\n</h2>\n\n<p>A video platform I worked on wasn't crashing \u2014 it was worse than that. Calls stayed \"up\" but froze every ",
+    "link": "https://dev.to/speed_engineer/the-udp-buffer-nobody-tunes-how-a-256kb-kernel-default-cost-us-30-of-our-packets-map",
+    "topic": "general"
+  },
+  {
+    "title": "The Nixpkgs Core Team Just Disbanded \u2014 What Happens to NixOS Now?",
+    "desc": "<p>The Nixpkgs core team has officially disbanded, as announced on the NixOS discourse forum this week. The story hit the front page of Hack",
+    "link": "https://dev.to/trismegistus/the-nixpkgs-core-team-just-disbanded-what-happens-to-nixos-now-59g8",
+    "topic": "general"
+  },
+  {
+    "title": "SIP 408 Request Timeout \u2014 Network & Firewall Troubleshooting",
+    "desc": "<h1>\n  \n  \n  SIP 408 Request Timeout \u2014 Network & Firewall Troubleshooting\n</h1>\n\n<p><strong>Master the complete diagnostic and resolution pr",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/sip-408-request-timeout-network-firewall-troubleshooting-44cf",
+    "topic": "general"
+  },
+  {
     "title": "The Headless Workspace: How Antigravity CLI Lowers the Neovim Learning Curve",
     "desc": "<p>A GUI IDE is great for local development, but it quickly falls apart when you transition to headless servers, low-power client machines, ",
     "link": "https://dev.to/alvardev/the-headless-workspace-how-antigravity-cli-lowers-the-neovim-learning-curve-55h5",
@@ -22,29 +46,5 @@
     "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Drift detection and autoscaling look like different features. They're the same loop: <strong>observe \u2192 co",
     "link": "https://dev.to/nasrulhazim/drift-detection-and-autoscaling-are-the-same-shape-ask-the-provider-then-decide-473o",
     "topic": "general"
-  },
-  {
-    "title": "Building Smarter Cloud Data Storage",
-    "desc": "<p>Smarter cloud data storage is no longer a nice-to-have for engineering teams; it is the difference between a predictable infrastructure b",
-    "link": "https://dev.to/fuadhusnan_f44f3e13/building-smarter-cloud-data-storage-4jof",
-    "topic": "general"
-  },
-  {
-    "title": "How to Manage AI-Generated Code in Strict Open Source Projects",
-    "desc": "<h2>\n  \n  \n  The challenge of strict AI policies\n</h2>\n\n<p>Oracle recently prohibited AI-generated code from being included in the OpenJDK d",
-    "link": "https://dev.to/robust_true_try/how-to-manage-ai-generated-code-in-strict-open-source-projects-4cg3",
-    "topic": "general"
-  },
-  {
-    "title": "Building an AI Compute Fabric: Architecture, Scheduling, Verification, and the Road to a Decentralized Inference Network",
-    "desc": "<p>What if the next cloud abstraction isn't a bigger data center, but an intelligent fabric that can route every AI workload to the best ava",
-    "link": "https://dev.to/alirezaai/building-an-ai-compute-fabric-architecture-scheduling-verification-and-the-road-to-a-5af1",
-    "topic": "general"
-  },
-  {
-    "title": "S\u1eafm laptop Ryzen AI 9 HX 370 t\u1ef1u tr\u01b0\u1eddng hay ch\u1edd chip m\u1edbi \u0111\u1ec3 ch\u1ea1y Docker",
-    "desc": "<p>D\u1ef1ng m\u00f4i tr\u01b0\u1eddng ph\u00e1t tri\u1ec3n c\u1ee5c b\u1ed9 v\u1edbi PostgreSQL v\u00e0 Redis gi\u00fap l\u1eadp tr\u00ecnh vi\u00ean ki\u1ec3m th\u1eed \u1ee9ng d\u1ee5ng nhanh ch\u00f3ng m\u00e0 kh\u00f4ng ph\u1ee5 thu\u1ed9c v\u00e0o h\u1ea1 t\u1ea7n",
-    "link": "https://dev.to/hungphatlaptop/sam-laptop-ryzen-ai-9-hx-370-tuu-truong-hay-cho-chip-moi-de-chay-docker-35l6",
-    "topic": "docker"
   }
 ]
