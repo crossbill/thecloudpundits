@@ -1,5 +1,41 @@
 [
   {
+    "title": "Build a Log Aggregation System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Log Aggregation System with Python\n</h1>\n\n<p>tags: python, redis, architecture, tutorial</p>\n\n\n\n\n<p>tags: python, archi",
+    "link": "https://dev.to/qingluan/build-a-log-aggregation-system-with-python-417c",
+    "topic": "general"
+  },
+  {
+    "title": "Master anydoc in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 75% of developers struggle to integrate AI-generated code into their workflows, and it",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-5g49",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Is Running. Is It Ready? A 10-Minute Deployment Check",
+    "desc": "<p>A process can be alive, answer a prompt, and still be completely unready for real work.</p>\n\n<p>That is the dangerous middle state for co",
+    "link": "https://dev.to/zira125/your-ai-agent-is-running-is-it-ready-a-10-minute-deployment-check-2agl",
+    "topic": "general"
+  },
+  {
+    "title": "Claude Opus 5 on Google Cloud: A Production Adoption Guide",
+    "desc": "<p>Claude Opus 5 is now available on Google Cloud\u2019s Agent Platform\u2014but a capable model is not a production system.<br />\nFor hours-long work",
+    "link": "https://dev.to/tran_tienvan_e45fc26d655/claude-opus-5-on-google-cloud-a-production-adoption-guide-25cp",
+    "topic": "gcp"
+  },
+  {
+    "title": "Remote DevOps Team vs In-House: Tradeoffs, Timezones, Security, and Cost",
+    "desc": "<h2>\n  \n  \n  Framing the decision correctly\n</h2>\n\n<p>The question is rarely \"remote versus in-house\" in the abstract. It is \"what is the fa",
+    "link": "https://dev.to/instadevops/remote-devops-team-vs-in-house-tradeoffs-timezones-security-and-cost-gjf",
+    "topic": "secops"
+  },
+  {
+    "title": "Toyota Innova Crysta Car Rental in Delhi with Incredible Heritage Tours",
+    "desc": "<p>If you\u2019re looking for a spacious, dependable and comfortable for your next ride, <strong><a href=\"https://incredibleheritagetours.com/inn",
+    "link": "https://dev.to/manishsmo_33/toyota-innova-crysta-car-rental-in-delhi-with-incredible-heritage-tours-1fj2",
+    "topic": "general"
+  },
+  {
     "title": "LangSmith Just Shipped an LLM Gateway. Here's the 3-Year Mess That Made Me Care",
     "desc": "<p>Just found that langsmith has launched gateway feature and I decided to share my experience. It is about how messy real LLM tooling decis",
     "link": "https://dev.to/ailegend/langsmith-just-shipped-an-llm-gateway-heres-the-3-year-mess-that-made-me-care-1bfh",
@@ -10,41 +46,5 @@
     "desc": "<p>Capacity planning sounds like enterprise spreadsheet work. For a startup, it's 'don't get embarrassed when traffic spikes, don't go broke",
     "link": "https://dev.to/samson_tanimawo/capacity-planning-for-startups-1doe",
     "topic": "general"
-  },
-  {
-    "title": "No Ads Boxing Drills: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/no-ads-boxing-drills-what-we-learned-building-random-tactical-timer-1m2o",
-    "topic": "general"
-  },
-  {
-    "title": "Beyond Default: Reclaiming Control Over GitHub Repository Creator Permissions",
-    "desc": "<h2>\n  \n  \n  Beyond Default: Reclaiming Control Over GitHub Repository Creator Permissions\n</h2>\n\n<p>In the fast-paced world of software dev",
-    "link": "https://dev.to/devactivity/beyond-default-reclaiming-control-over-github-repository-creator-permissions-njm",
-    "topic": "general"
-  },
-  {
-    "title": "Working remotely and want a safer way to access company resources? A VPN helps encrypt your",
-    "desc": "<p>Working remotely and want a safer way to access company resources? A VPN helps encrypt your connection and protect sensitive data on publ",
-    "link": "https://dev.to/monovm/working-remotely-and-want-a-safer-way-to-access-company-resources-a-vpn-helps-encrypt-your-29hf",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Copy-Pasting Router Configs: I Built a Browser-Based Network Config Generator",
-    "desc": "<p>Have you ever had to configure 50 routers using almost the same template, but with different IP addresses, interfaces, VLANs, VRFs, or BG",
-    "link": "https://dev.to/dinuka_wijesinghe/stop-copy-pasting-router-configs-i-built-a-browser-based-network-config-generator-b2e",
-    "topic": "general"
-  },
-  {
-    "title": "AWS Route 53 \u2014 DNS Fundamentals, Hosted Zones, Routing Policies & Resolvers",
-    "desc": "<blockquote>\n<p>Part of my AWS learning journey \u2014 transitioning from Systems Engineer to Cloud/DevOps. Route 53 is where networking meets th",
-    "link": "https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727",
-    "topic": "aws"
-  },
-  {
-    "title": "Token budget guardrails: enforcement, not just visibility",
-    "desc": "<p>You've been monitoring your agent's token spend for weeks. Then one run goes wild \u2014 50x the usual token count \u2014 and by the time you notic",
-    "link": "https://dev.to/opsveritas/token-budget-guardrails-enforcement-not-just-visibility-3k89",
-    "topic": "guardrails"
   }
 ]
