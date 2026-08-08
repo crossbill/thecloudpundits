@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Multi-Tenant Virtualization is Choking Your Application Speed",
-    "desc": "<p>When designing a modern application backend or setting up an active staging server, developers almost always focus heavily on initial dep",
-    "link": "https://dev.to/sadaf_botanist/why-multi-tenant-virtualization-is-choking-your-application-speed-3e7m",
+    "title": "The Golden Rule of API Design: Understanding Idempotency",
+    "desc": "<p>Have you ever clicked a \"Submit\" button on a website, experienced a sudden freeze, and wondered if clicking it again would charge your cr",
+    "link": "https://dev.to/saurav_tb_pandey/the-golden-rule-of-api-design-understanding-idempotency-2pic",
     "topic": "general"
   },
   {
-    "title": "Why Growing Infrastructure Teams are Migrating Away From Public Clouds",
-    "desc": "<p>Let\u2019s be completely practical about production infrastructure: your operational overhead directly impacts your engineering velocity. In t",
-    "link": "https://dev.to/sadaf_botanist/why-growing-infrastructure-teams-are-migrating-away-from-public-clouds-4p0i",
+    "title": "Everything Was Working. AWS Wanted $1,665/Month More.",
+    "desc": "<p>Nothing was down.</p>\n\n<p>No alerts were firing. No customers were complaining.</p>\n\n<p>CPU looked normal. Memory looked normal. The appl",
+    "link": "https://dev.to/aws-builders/everything-was-working-aws-wanted-1665month-more-45h",
+    "topic": "aws"
+  },
+  {
+    "title": "Platform teams became the new gatekeepers we said we hated",
+    "desc": "<p>We killed the ops silo. Then we gave it a golden path and a nicer logo. The platform team was meant to solve our problems. Somehow it bec",
+    "link": "https://dev.to/adioof/platform-teams-became-the-new-gatekeepers-we-said-we-hated-2d3o",
     "topic": "general"
   },
   {
-    "title": "The Prompt Versioning Nightmare (And How I Finally Fixed It With PromptOT)",
-    "desc": "<p>If you've shipped anything serious with LLMs, you already know the feeling.</p>\n\n<p>You tweak a prompt. It works better. You commit it. T",
-    "link": "https://dev.to/promptot/the-prompt-versioning-nightmare-and-how-i-finally-fixed-it-with-promptot-5i1",
+    "title": "Salesforce Data Cloud Training Course | Live Expert Classes",
+    "desc": "<p>What Are Data Streams in Salesforce Data Cloud?<br />\nIntroduction<br />\nCustomer data often exists across many business systems. One sys",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-data-cloud-training-course-live-expert-classes-568k",
     "topic": "general"
   },
   {
-    "title": "Two AI Agents Shared a Todo File and a Line Vanished",
-    "desc": "<p>A line disappeared from my todo file.</p>\n\n<p>Not corrupted. Not moved to the archive where completed items go. Just absent \u2014 present in ",
-    "link": "https://dev.to/hideyukimori/two-ai-agents-shared-a-todo-file-and-a-line-vanished-22jd",
+    "title": "Building a Dependency Vulnerability Scanner for Python Projects",
+    "desc": "<p>Most Python projects accumulate dozens of third-party packages before anyone thinks to audit them. Each pinned version is a potential CVE",
+    "link": "https://dev.to/ayinedjimi-consultants/building-a-dependency-vulnerability-scanner-for-python-projects-4kdn",
+    "topic": "secops"
+  },
+  {
+    "title": "Build a Custom Object Storage System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Custom Object Storage System with Python\n</h1>\n\n<p>tags: python, storage, devops, tutorial</p>\n\n\n\n\n<p>tags: python, net",
+    "link": "https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-13cj",
     "topic": "general"
   },
   {
-    "title": "Configuring Docker Health Checks for VPS Deployments",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
-    "link": "https://dev.to/chasebot/configuring-docker-health-checks-for-vps-deployments-2a95",
-    "topic": "docker"
-  },
-  {
-    "title": "Cutting Cloud Costs with a Few Habits",
-    "desc": "<h2>\n  \n  \n  The Cloud Bill Isn't a Mystery\n</h2>\n\n<p>Every month, the same shock. The cloud bill arrives, and it's higher than expected. I ",
-    "link": "https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-4b3e",
+    "title": "Master anydoc in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually converting a large Word document to Markdown, only to realize I coul",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-35hl",
     "topic": "general"
   },
   {
-    "title": "Why Tutorials Are Dead (And How Top Developers Actually Learn in 2026)",
-    "desc": "<blockquote>\n<p>\"The biggest mistake developers make isn't choosing the wrong programming language. It's believing that watching tutorials e",
-    "link": "https://dev.to/yash_sonawane25/why-tutorials-are-dead-and-how-top-developers-actually-learn-in-2026-24c2",
-    "topic": "general"
-  },
-  {
-    "title": "My routing policy and my traces disagreed 96 times. Never once on the main thread.",
-    "desc": "<p>This is part four of a series about pointing an append-only audit log at things that count tokens. <a href=\"https://dev.to/lizhuojunx86/a",
-    "link": "https://dev.to/lizhuojunx86/my-routing-policy-and-my-traces-disagreed-96-times-never-once-on-the-main-thread-ffp",
+    "title": "A 200 From the Wrong System: How Two Pages Stayed Invisible for 17 Days",
+    "desc": "<p>Two pages on my site went live on July 22. On August 8 they had zero impressions in Google. Not low. Zero, across three weekly exports.</",
+    "link": "https://dev.to/visibilityatlas/a-200-from-the-wrong-system-how-two-pages-stayed-invisible-for-17-days-4m8o",
     "topic": "general"
   }
 ]
