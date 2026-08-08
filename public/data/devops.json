@@ -1,5 +1,29 @@
 [
   {
+    "title": "AWS Route 53 \u2014 DNS Fundamentals, Hosted Zones, Routing Policies & Resolvers",
+    "desc": "<blockquote>\n<p>Part of my AWS learning journey \u2014 transitioning from Systems Engineer to Cloud/DevOps. Route 53 is where networking meets th",
+    "link": "https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727",
+    "topic": "aws"
+  },
+  {
+    "title": "Token budget guardrails: enforcement, not just visibility",
+    "desc": "<p>You've been monitoring your agent's token spend for weeks. Then one run goes wild \u2014 50x the usual token count \u2014 and by the time you notic",
+    "link": "https://dev.to/opsveritas/token-budget-guardrails-enforcement-not-just-visibility-3k89",
+    "topic": "guardrails"
+  },
+  {
+    "title": "\ud83c\udf10 Linux for DevOps #3: Understanding Linux Networking Through Hands-On Practice",
+    "desc": "<p>Welcome back to my <strong>DevOps learning journey!</strong> \ud83d\udc4b</p>\n\n<p>For the past two weeks, I've been building my Linux foundation.</p",
+    "link": "https://dev.to/arpit_mungone_0107/linux-for-devops-3-understanding-linux-networking-through-hands-on-practice-3hof",
+    "topic": "general"
+  },
+  {
+    "title": "What AWS VPC Actually Does Under the Hood (I Rebuilt It on Linux to Find Out)",
+    "desc": "<p>If you've worked with AWS for more than a few weeks, you've created a VPC. You've drawn subnets, attached route tables, written security ",
+    "link": "https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif",
+    "topic": "aws"
+  },
+  {
     "title": "GitOps: Declarative Delivery with ArgoCD & Flux",
     "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> <strong>GitOps</strong> makes Git the single source of truth and lets a controller reconcile reali",
     "link": "https://dev.to/sri2614/gitops-declarative-delivery-with-argocd-flux-3121",
@@ -21,30 +45,6 @@
     "title": "LuMarcas: Simplifying Healthcare With Reliable Medical and Personal Care Solutions",
     "desc": "<p>Healthcare is becoming more personal, accessible, and home-focused. Today, many people manage their <a href=\"https://www.lumarcas.ca/cate",
     "link": "https://dev.to/lumarcus_ca_2fe9adf6252c4/lumarcas-simplifying-healthcare-with-reliable-medical-and-personal-care-solutions-2n7j",
-    "topic": "general"
-  },
-  {
-    "title": "I thought AI agent task completion in email meant better drafts, but this excavation company\u2019s 5% inbox proved me wrong",
-    "desc": "<p>I went into a Reddit thread expecting the usual email automation story:</p>\n\n<ul>\n<li>Gmail gets a new message</li>\n<li>GPT-5 writes a de",
-    "link": "https://dev.to/lars_winstand/i-thought-ai-agent-task-completion-in-email-meant-better-drafts-but-this-excavation-companys-5-4hd",
-    "topic": "general"
-  },
-  {
-    "title": "The Golden Rule of API Design: Understanding Idempotency",
-    "desc": "<p>Have you ever clicked a \"Submit\" button on a website, experienced a sudden freeze, and wondered if clicking it again would charge your cr",
-    "link": "https://dev.to/saurav_tb_pandey/the-golden-rule-of-api-design-understanding-idempotency-2pic",
-    "topic": "general"
-  },
-  {
-    "title": "Everything Was Working. AWS Wanted $1,665/Month More.",
-    "desc": "<p>Nothing was down.</p>\n\n<p>No alerts were firing. No customers were complaining.</p>\n\n<p>CPU looked normal. Memory looked normal. The appl",
-    "link": "https://dev.to/aws-builders/everything-was-working-aws-wanted-1665month-more-45h",
-    "topic": "aws"
-  },
-  {
-    "title": "Platform teams became the new gatekeepers we said we hated",
-    "desc": "<p>We killed the ops silo. Then we gave it a golden path and a nicer logo. The platform team was meant to solve our problems. Somehow it bec",
-    "link": "https://dev.to/adioof/platform-teams-became-the-new-gatekeepers-we-said-we-hated-2d3o",
     "topic": "general"
   }
 ]
