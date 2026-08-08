@@ -1,5 +1,41 @@
 [
   {
+    "title": "LangSmith Just Shipped an LLM Gateway. Here's the 3-Year Mess That Made Me Care",
+    "desc": "<p>Just found that langsmith has launched gateway feature and I decided to share my experience. It is about how messy real LLM tooling decis",
+    "link": "https://dev.to/ailegend/langsmith-just-shipped-an-llm-gateway-heres-the-3-year-mess-that-made-me-care-1bfh",
+    "topic": "general"
+  },
+  {
+    "title": "Capacity Planning for Startups",
+    "desc": "<p>Capacity planning sounds like enterprise spreadsheet work. For a startup, it's 'don't get embarrassed when traffic spikes, don't go broke",
+    "link": "https://dev.to/samson_tanimawo/capacity-planning-for-startups-1doe",
+    "topic": "general"
+  },
+  {
+    "title": "No Ads Boxing Drills: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/no-ads-boxing-drills-what-we-learned-building-random-tactical-timer-1m2o",
+    "topic": "general"
+  },
+  {
+    "title": "Beyond Default: Reclaiming Control Over GitHub Repository Creator Permissions",
+    "desc": "<h2>\n  \n  \n  Beyond Default: Reclaiming Control Over GitHub Repository Creator Permissions\n</h2>\n\n<p>In the fast-paced world of software dev",
+    "link": "https://dev.to/devactivity/beyond-default-reclaiming-control-over-github-repository-creator-permissions-njm",
+    "topic": "general"
+  },
+  {
+    "title": "Working remotely and want a safer way to access company resources? A VPN helps encrypt your",
+    "desc": "<p>Working remotely and want a safer way to access company resources? A VPN helps encrypt your connection and protect sensitive data on publ",
+    "link": "https://dev.to/monovm/working-remotely-and-want-a-safer-way-to-access-company-resources-a-vpn-helps-encrypt-your-29hf",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Copy-Pasting Router Configs: I Built a Browser-Based Network Config Generator",
+    "desc": "<p>Have you ever had to configure 50 routers using almost the same template, but with different IP addresses, interfaces, VLANs, VRFs, or BG",
+    "link": "https://dev.to/dinuka_wijesinghe/stop-copy-pasting-router-configs-i-built-a-browser-based-network-config-generator-b2e",
+    "topic": "general"
+  },
+  {
     "title": "AWS Route 53 \u2014 DNS Fundamentals, Hosted Zones, Routing Policies & Resolvers",
     "desc": "<blockquote>\n<p>Part of my AWS learning journey \u2014 transitioning from Systems Engineer to Cloud/DevOps. Route 53 is where networking meets th",
     "link": "https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727",
@@ -10,41 +46,5 @@
     "desc": "<p>You've been monitoring your agent's token spend for weeks. Then one run goes wild \u2014 50x the usual token count \u2014 and by the time you notic",
     "link": "https://dev.to/opsveritas/token-budget-guardrails-enforcement-not-just-visibility-3k89",
     "topic": "guardrails"
-  },
-  {
-    "title": "\ud83c\udf10 Linux for DevOps #3: Understanding Linux Networking Through Hands-On Practice",
-    "desc": "<p>Welcome back to my <strong>DevOps learning journey!</strong> \ud83d\udc4b</p>\n\n<p>For the past two weeks, I've been building my Linux foundation.</p",
-    "link": "https://dev.to/arpit_mungone_0107/linux-for-devops-3-understanding-linux-networking-through-hands-on-practice-3hof",
-    "topic": "general"
-  },
-  {
-    "title": "What AWS VPC Actually Does Under the Hood (I Rebuilt It on Linux to Find Out)",
-    "desc": "<p>If you've worked with AWS for more than a few weeks, you've created a VPC. You've drawn subnets, attached route tables, written security ",
-    "link": "https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif",
-    "topic": "aws"
-  },
-  {
-    "title": "GitOps: Declarative Delivery with ArgoCD & Flux",
-    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> <strong>GitOps</strong> makes Git the single source of truth and lets a controller reconcile reali",
-    "link": "https://dev.to/sri2614/gitops-declarative-delivery-with-argocd-flux-3121",
-    "topic": "general"
-  },
-  {
-    "title": "BigQuery Data Transfer Service: A Practical Decision Guide",
-    "desc": "<p>A remote MCP Server can make BigQuery Data Transfer Service agent-callable. That does not make create, change, backfill, or delete safe d",
-    "link": "https://dev.to/tran_tienvan_e45fc26d655/bigquery-data-transfer-service-a-practical-decision-guide-1cgm",
-    "topic": "general"
-  },
-  {
-    "title": "Master Copado Training | Salesforce AI DevOps Course",
-    "desc": "<p>\ud83d\ude80 \ud835\uddd4\ud835\uddf1\ud835\ude03\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf2 \ud835\uddec\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\uddf2\ud835\uddf2\ud835\uddff \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde6\ud835\uddee\ud835\uddf9\ud835\uddf2\ud835\ude00\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddf0\ud835\uddf2 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\udde2\ud835\uddfd\ud835\ude00 & \ud835\uddd6\ud835\uddfc\ud835\uddfd\ud835\uddee\ud835\uddf1\ud835\uddfc \ud835\uddd4\ud835\udddc!<br />\n\ud83c\udfaf Upgrade your Salesforce skills with Visualpath! Learn #SalesforceDevOps",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-copado-training-salesforce-ai-devops-course-3jfb",
-    "topic": "general"
-  },
-  {
-    "title": "LuMarcas: Simplifying Healthcare With Reliable Medical and Personal Care Solutions",
-    "desc": "<p>Healthcare is becoming more personal, accessible, and home-focused. Today, many people manage their <a href=\"https://www.lumarcas.ca/cate",
-    "link": "https://dev.to/lumarcus_ca_2fe9adf6252c4/lumarcas-simplifying-healthcare-with-reliable-medical-and-personal-care-solutions-2n7j",
-    "topic": "general"
   }
 ]
