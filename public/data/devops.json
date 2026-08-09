@@ -1,5 +1,41 @@
 [
   {
+    "title": "Statistical Gating for Agent Instruction Changes",
+    "desc": "<p>An edit to an agent's instruction file is a deploy, and I stopped letting mine ship on a hunch.<br />\nThe daily tuning job that maintains",
+    "link": "https://dev.to/makaminski1337/statistical-gating-for-agent-instruction-changes-2ln8",
+    "topic": "general"
+  },
+  {
+    "title": "If Chron helped your team, we want to hear from you with a reward in return",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/sirinivask/if-chron-helped-your-team-we-want-to-hear-from-you-with-a-reward-in-return-1i4e",
+    "topic": "general"
+  },
+  {
+    "title": "The Rise of AI-Native Venture Studios: Redefining Software Engineering Economics",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>For over two decades, the software-as-a-service (SaaS) playbook has remained remarkably consistent: rais",
+    "link": "https://dev.to/isuvo/the-rise-of-ai-native-venture-studios-redefining-software-engineering-economics-34e",
+    "topic": "general"
+  },
+  {
+    "title": "Your first enterprise security questionnaire, and you have no SOC 2",
+    "desc": "<p>A deal is going well. Then their security team joins the thread, and you get some version of this:</p>\n\n<blockquote>\n<p>Please complete t",
+    "link": "https://dev.to/plainanswer/your-first-enterprise-security-questionnaire-and-you-have-no-soc-2-19mc",
+    "topic": "secops"
+  },
+  {
+    "title": "Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins",
+    "desc": "<p>Here is a bet that will save you a lot of arguing: pick your durable execution engine on what you have to <em>operate</em>, not on what y",
+    "link": "https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635",
+    "topic": "general"
+  },
+  {
+    "title": "Amazon Bedrock master builds a cross-cloud currency agent with Google ADK over A2A. https://dev.to/gde/amazon-bedrock-agents-orc",
+    "desc": "<p>Amazon Bedrock master builds a cross-cloud currency agent with Google ADK over A2A. <a href=\"https://dev.to/gde/amazon-bedrock-agents-orc",
+    "link": "https://dev.to/atheerium/amazon-bedrock-master-builds-a-cross-cloud-currency-agent-with-google-adk-over-a2a-1onf",
+    "topic": "general"
+  },
+  {
     "title": "Why the CDviz team open-sourced its GitLab, Bitbucket, Jira, and Jenkins integrations",
     "desc": "<h2>\n  \n  \n  GitLab, Bitbucket, Jira, and Jenkins transformers are now open source\n</h2>\n\n<p><em>The <code>transformers-pro</code> repositor",
     "link": "https://dev.to/davidb31/why-the-cdviz-team-open-sourced-its-gitlab-bitbucket-jira-and-jenkins-integrations-m8f",
@@ -10,41 +46,5 @@
     "desc": "<p>When building applications in the cloud, one common requirement is to keep servers such as databases and backend services inside <strong>",
     "link": "https://dev.to/kmsaifullah/jump-host-in-cloud-computing-securely-access-private-servers-in-aws-419j",
     "topic": "aws"
-  },
-  {
-    "title": "Cpynet a pastebin you talk to with curl, that forgets everything you send it",
-    "desc": "<p>A zero-dependency, single-file Go pastebin built for terminals \u2014 burn-after-read by default, two independent encryption layers, and a cur",
-    "link": "https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6",
-    "topic": "general"
-  },
-  {
-    "title": "nereida \u2014 a local multi-cluster Kubernetes client I built because on-call kept beating me",
-    "desc": "<p>It's 2am, an alert fires, and I'm three <code>kubectl config use-context</code> commands deep trying to remember which cluster the broken",
-    "link": "https://dev.to/cyb3rkn1ght/nereida-a-local-multi-cluster-kubernetes-client-i-built-because-on-call-kept-beating-me-22l3",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Boosting Developer Efficiency with Automation Tools",
-    "desc": "<h2>\n  \n  \n  The Impact of Automation on Developer Efficiency\n</h2>\n\n<p>Automation tools are reshaping how we work, turning tedious tasks in",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/boosting-developer-efficiency-with-automation-tools-511j",
-    "topic": "general"
-  },
-  {
-    "title": "A backup you haven't restored isn't a backup",
-    "desc": "<p>Migrating from MongoDB Atlas to a self-hosted replica set bought us control and cut our bill. It also quietly removed something we had st",
-    "link": "https://dev.to/takiuddinahmed/a-backup-you-havent-restored-isnt-a-backup-4lj",
-    "topic": "general"
-  },
-  {
-    "title": "ChronicleOps: Autonomous Chaos Engineering & Self-Healing Telemetry Engine published",
-    "desc": "<h2>\n  \n  \n  What I Built\n</h2>\n\n<p><strong>ChronicleOps</strong> is an autonomous cloud chaos engineering, real-time observability, and sel",
-    "link": "https://dev.to/siddarth_ns_addc7115cec1e/chronicleops-autonomous-chaos-engineering-self-healing-telemetry-enginepublished-2hdm",
-    "topic": "general"
-  },
-  {
-    "title": "Pull Requests, Code Reviews & Git Rebase",
-    "desc": "<p>If you've already learned Git commits, branching, and merging, you've mastered the mechanics of version control. But knowing Git alone do",
-    "link": "https://dev.to/themdmohiuddin/pull-requests-code-reviews-git-rebase-5fe1",
-    "topic": "general"
   }
 ]
