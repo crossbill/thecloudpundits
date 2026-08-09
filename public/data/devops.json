@@ -1,5 +1,29 @@
 [
   {
+    "title": "IPv4 Market Report \u2014 July 2026: Prices Fall to $20.62/IP as 380K IP Addresses Traded",
+    "desc": "<h1>\n  \n  \n  IPv4 Market Report \u2014 July 2026: Prices Fall to $20.62/IP as 380K Addresses Trade\n</h1>\n\n<p>IPv4 may be a decades-old protocol, ",
+    "link": "https://dev.to/menesakdeniz/ipv4-market-report-july-2026-prices-fall-to-2062ip-as-380k-ip-addresses-traded-42jg",
+    "topic": "general"
+  },
+  {
+    "title": "LLM Observability Cost Starts With a Trace Budget",
+    "desc": "<p>LLM observability cost is not a single price per trace. It is the sum of several workload multipliers: requests become traces, traces con",
+    "link": "https://dev.to/dmytronasyrov/llm-observability-cost-starts-with-a-trace-budget-401l",
+    "topic": "general"
+  },
+  {
+    "title": "Your coding agent's summary of its own work is not evidence",
+    "desc": "<p>I spent three days last week doing real work on a production codebase with an agentic coding tool. Small site, live customers, money movi",
+    "link": "https://dev.to/jk27101/your-coding-agents-summary-of-its-own-work-is-not-evidence-46i5",
+    "topic": "general"
+  },
+  {
+    "title": "I Brought rsync to kubectl",
+    "desc": "<p>Over the last few months, I've been working with Kubernetes pods in my development environment. One thing I frequently need to do is tran",
+    "link": "https://dev.to/major1201/i-brought-rsync-to-kubectl-2984",
+    "topic": "general"
+  },
+  {
     "title": "Purple Teaming: Closing the Loop Between Attack and Detection",
     "desc": "<h2>\n  \n  \n  The Problem With Traditional Red Team Reports\n</h2>\n\n<p>A standard red team engagement works like this: the offensive team oper",
     "link": "https://dev.to/sakramen/purple-teaming-closing-the-loop-between-attack-and-detection-1207",
@@ -21,30 +45,6 @@
     "title": "Master anydoc in 5 Mins",
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 87% of developers struggle to integrate AI-generated documentation into their workflow",
     "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4c4b",
-    "topic": "general"
-  },
-  {
-    "title": "Episode 3: Setting Up a Managed PostgreSQL Database on Azure & Connecting Your Express API",
-    "desc": "<p>In Episode 1, we hosted an Express API on Azure App Service, and in Episode 2, we deployed a React frontend to Azure Static Web Apps. Now",
-    "link": "https://dev.to/khuzaima_khalid_f3aae24da/episode-3-setting-up-a-managed-postgresql-database-on-azure-connecting-your-express-api-1caj",
-    "topic": "azure"
-  },
-  {
-    "title": "Pinterest clone",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vijayhiremath/pinterest-clone-1fam",
-    "topic": "general"
-  },
-  {
-    "title": "Docker for Beginners: Containers Made Simple",
-    "desc": "<p>This guide to Docker for beginners exists because containers are the piece of modern infrastructure that finally makes \u201cit works on my ma",
-    "link": "https://dev.to/datanestdigital/docker-for-beginners-containers-made-simple-3onl",
-    "topic": "docker"
-  },
-  {
-    "title": "I Almost Gave Up on QuizRank Because I Thought Render Was Too Small",
-    "desc": "<p><a href=\"https://www.playquizrank.com\" rel=\"noopener noreferrer\">QuizRank</a> has been one of those projects where I've learned almost as",
-    "link": "https://dev.to/gideonadeti/i-almost-gave-up-on-quizrank-because-i-thought-render-was-too-small-1jkd",
     "topic": "general"
   }
 ]
