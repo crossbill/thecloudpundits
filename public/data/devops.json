@@ -1,50 +1,50 @@
 [
   {
-    "title": "Python Best Practices for Production Code",
-    "desc": "<p>The short version, for anyone weighing up python best practices: The essentials are clean style (PEP 8), clear structure, type hints, goo",
-    "link": "https://dev.to/acquriotech/python-best-practices-for-production-code-1fhl",
+    "title": "Free Bjj Rounds: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/free-bjj-rounds-what-we-learned-building-random-tactical-timer-3lg4",
     "topic": "general"
   },
   {
-    "title": "Your Vendor Review Process Never Saw The Real Supplier",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ntctech/your-vendor-review-process-never-saw-the-real-supplier-5ell",
+    "title": "Autonomous Code Review in Healthcare: How AI Agents Ship PRs Without Breaking Production",
+    "desc": "<p>I run AI agents that write code for a healthcare data platform. They pick up tasks from the backlog, write the code, add tests, open a pu",
+    "link": "https://dev.to/christopher_gainus_84f002/autonomous-code-review-in-healthcare-how-ai-agents-ship-prs-without-breaking-production-1c39",
     "topic": "general"
   },
   {
-    "title": "Top Frequently Used AWS Services: A Beginner-Friendly Guide",
-    "desc": "<p>AWS is one of the most popular cloud platforms out there and is used widely. The thing is, AWS comes with <strong>200+ services</strong>,",
-    "link": "https://dev.to/blackwatch021/top-frequently-used-aws-services-a-beginner-friendly-guide-5df1",
-    "topic": "aws"
-  },
-  {
-    "title": "I built kern \u2013 A CLI that replaces Docker with Unikernels (~10ms boot time, no daemon, pure QEMU)",
-    "desc": "<p>I've been building kern \u2014 a CLI that replaces Docker with unikernels.</p>\n\n<p>The idea is simple: instead of packaging your app in a cont",
-    "link": "https://dev.to/kern-project/i-built-kern-a-cli-that-replaces-docker-with-unikernels-10ms-boot-time-no-daemon-pure-qemu-5aa0",
-    "topic": "docker"
-  },
-  {
-    "title": "Kubernetes in Production: Beyond the Tutorial",
-    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Production Kubernetes is everything the tutorial skipped: resource requests and limits, liveness a",
-    "link": "https://dev.to/sri2614/kubernetes-in-production-beyond-the-tutorial-3edd",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Choosing the Red Pill: CI/CD Pipelines that Actually Work",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think CI/CD was just a fancy way to say \u201crun tests on every push\u201d. I",
-    "link": "https://dev.to/timevolt/choosing-the-red-pill-cicd-pipelines-that-actually-work-11a1",
+    "title": "The \"Works on My Machine\" Syndrome (And How to Cure It)",
+    "desc": "<p>\"I don't understand, it literally works perfectly on my machine!\" </p>\n\n<p>Every developer has uttered this phrase. It usually happens ri",
+    "link": "https://dev.to/mealiclay01/the-works-on-my-machine-syndrome-and-how-to-cure-it-44f7",
     "topic": "general"
   },
   {
-    "title": "How I Keep Coding Agents Running When My Laptop Closes",
-    "desc": "<p>My laptop is no longer where most of my coding work runs.</p>\n\n<p>I use remote Linux servers to keep agents working when I close the lid,",
-    "link": "https://dev.to/elie222/how-i-keep-coding-agents-running-when-my-laptop-closes-1a13",
+    "title": "Database Backup and Restore in NEXUS AI: A Complete Guide",
+    "desc": "<p>Every production deployment needs a data recovery plan. NEXUS AI ships built-in backup and restore for all four supported database engine",
+    "link": "https://dev.to/sali_ac161a1b71406354896c/database-backup-and-restore-in-nexus-ai-a-complete-guide-47f4",
     "topic": "general"
   },
   {
-    "title": "The ASN Pivot Playbook: Routes, Upstreams, Downstreams",
-    "desc": "<p>An ASN pivot is the cheapest move in an IP investigation and the easiest one to over-read. One call turns a single address into a network",
-    "link": "https://dev.to/abdullah_afzal/the-asn-pivot-playbook-routes-upstreams-downstreams-3ppk",
+    "title": "Same Version, Different Hash: The SBOM Drift Your Manifest Diff Cannot See",
+    "desc": "<p>A dependency in your pull request keeps the same version while its recorded<br />\nhash changes, and your checks report no dependency chan",
+    "link": "https://dev.to/rezmoss/same-version-different-hash-the-sbom-drift-your-manifest-diff-cannot-see-304i",
     "topic": "general"
+  },
+  {
+    "title": "WHY LINUX IS IMPORTANT FOR DevOps AND SRE ?",
+    "desc": "<h2>\n  \n  \n  FOUNDATION\n</h2>\n\n<p>When people start learning DevOps, they usually jump directly into tools like Docker, Kubernetes, Jenkins,",
+    "link": "https://dev.to/thenoid/why-linux-is-important-for-devops-and-sre--9g8",
+    "topic": "general"
+  },
+  {
+    "title": "Seeking advice: Best way to start learning DevOps?",
+    "desc": "<p>Hi everyone,</p>\n\n<p>I'm a software development student looking to get into DevOps. My current stack is mostly C, C++, Next.js, Laravel, ",
+    "link": "https://dev.to/badrive/seeking-advice-best-way-to-start-learning-devops-4pm1",
+    "topic": "general"
+  },
+  {
+    "title": "Cron Syntax Edge Cases That Break Production Jobs: DST, Field Misalignment, and the Day-of-Month Trap",
+    "desc": "<p>Cron expressions are the invisible backbone of backend infrastructure. From nightly database backups and cache warmups to recurring billi",
+    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/cron-syntax-edge-cases-that-break-production-jobs-dst-field-misalignment-and-the-day-of-month-4jc3",
+    "topic": "guardrails"
   }
 ]
