@@ -1,5 +1,11 @@
 [
   {
+    "title": "Your AI Agent Works in Dev. It Will Fail in Production. Here's the Math.",
+    "desc": "<p>Your AI agent passes every test. It handles edge cases. You demo it to your team and everyone nods.</p>\n\n<p>Then you deploy it. And it br",
+    "link": "https://dev.to/sasajib/your-ai-agent-works-in-dev-it-will-fail-in-production-heres-the-math-4iic",
+    "topic": "general"
+  },
+  {
     "title": "Your Serverless Cron Job Failed Silently at 3AM: Making Event-Driven Jobs Reliable",
     "desc": "<p>Moving scheduled tasks off a cron box and onto serverless functions solves the \"one server, one crontab, one single point of failure\" pro",
     "link": "https://dev.to/libme/your-serverless-cron-job-failed-silently-at-3am-making-event-driven-jobs-reliable-83n",
@@ -40,11 +46,5 @@
     "desc": "<p>Buyer's Guide on Buying Verified Cash App Accounts Safely <br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usa",
     "link": "https://dev.to/bestcashapp83/buyers-guide-on-buying-verified-cashapp-accounts-safely-52lb",
     "topic": "general"
-  },
-  {
-    "title": "Why Linux Permission Bugs Cause Security Incidents (And the Chmod Math Edge Cases Every Developer Misses)",
-    "desc": "<p>Every developer has encountered it: a deployment pipeline fails with <code>Permissions 0644 for '/root/.ssh/id_rsa' are too open</code>, ",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-linux-permission-bugs-cause-security-incidents-and-the-chmod-math-edge-cases-every-developer-3342",
-    "topic": "secops"
   }
 ]
