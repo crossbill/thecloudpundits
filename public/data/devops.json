@@ -1,50 +1,50 @@
 [
   {
-    "title": "RFC 10023 define _for-sale, el registro DNS que anuncia dominios en venta",
-    "desc": "<p>Desde julio de 2026 existe un registro DNS for-sale estandarizado para decir, sin ambig\u00fcedad, que un dominio activo est\u00e1 a la venta: sin ",
-    "link": "https://dev.to/lu1tr0n/rfc-10023-define-for-sale-el-registro-dns-que-anuncia-dominios-en-venta-hil",
+    "title": "When an AI Coding Agent Says 'Done,' What Makes You Believe It?",
+    "desc": "<blockquote>\n<p><strong>Cairness</strong> gives Claude Code and Codex an executable, verifiable, and auditable software-development lifecycl",
+    "link": "https://dev.to/tsing_liu_5256011ee363e16/when-an-ai-coding-agent-says-done-what-makes-you-believe-it-1dk5",
     "topic": "general"
   },
   {
-    "title": "Build a File Watcher and Auto-Deployer with Python",
-    "desc": "<h1>\n  \n  \n  Build a File Watcher and Auto-Deployer with Python\n</h1>\n\n<p>tags: python, devops, automation, tutorial</p>\n\n\n\n\n<p>tags: python",
-    "link": "https://dev.to/qingluan/build-a-file-watcher-and-auto-deployer-with-python-1j4c",
+    "title": "cidx v3.0.0 \u2014 deleting the things that lied",
+    "desc": "<p><strong>cidx is a declarative CI/CD runner I build</strong> (in Go) \u2014 you describe your pipeline once, it runs the same locally and in CI",
+    "link": "https://dev.to/arcker/cidx-v300-deleting-the-things-that-lied-4fb4",
     "topic": "general"
   },
   {
-    "title": "Setting Up PostgreSQL Connection Pooling with PgBouncer",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
-    "link": "https://dev.to/chasebot/setting-up-postgresql-connection-pooling-with-pgbouncer-2a0o",
+    "title": "You're Not Underpaid. You're Under-Documented.",
+    "desc": "<blockquote>\n<p>\"The biggest career mistake developers make isn't lacking skills\u2014it's failing to show the skills they already have.\"</p>\n</b",
+    "link": "https://dev.to/yash_sonawane25/youre-not-underpaid-youre-under-documented-36f0",
     "topic": "general"
   },
   {
-    "title": "Replacing kube-proxy with eBPF: A Production Case Study on Latency Reduction and the Monitoring Pitfalls",
-    "desc": "<p><em>Originally published on <a href=\"https://tamiz.pro/insights/replacing-kube-proxy-with-ebpf-latency-monitoring-pitfalls\" rel=\"noopener",
-    "link": "https://dev.to/tamizuddin/replacing-kube-proxy-with-ebpf-a-production-case-study-on-latency-reduction-and-the-monitoring-4n06",
+    "title": "GGUF vs GPTQ vs AWQ: Which Quantization Format Should You Actually Use?",
+    "desc": "<p>Running open-source Large Language Models (LLMs) used to be a luxury reserved for developers with enterprise-grade server rooms. If you d",
+    "link": "https://dev.to/quantizelab/gguf-vs-gptq-vs-awq-which-quantization-format-should-you-actually-use-5hn9",
     "topic": "general"
   },
   {
-    "title": "Never Let Migration Tooling Guess the Database",
-    "desc": "<p>One of the more dangerous database configuration errors is not a failed connection. It is a successful connection to a database nobody de",
-    "link": "https://dev.to/iqtechsolutions/never-let-migration-tooling-guess-the-database-3ehf",
+    "title": "Cedar could stop one bad tool call. Dogwood stops bad sequences.",
+    "desc": "<p>AWS launched Dogwood this week \u2014 an open-source policy language (Apache 2.0) for AI agent runtime verification. It extends Cedar, AWS's e",
+    "link": "https://dev.to/thegatewayguy/cedar-could-stop-one-bad-tool-call-dogwood-stops-bad-sequences-1jik",
     "topic": "general"
   },
   {
-    "title": "How to Upload and Deploy Your Project on AWS EC2",
-    "desc": "<p>Deploying a project on AWS can seem complicated at first, especially if you are new to cloud computing. However, once you understand the ",
-    "link": "https://dev.to/prashant_patil_49/how-to-upload-and-deploy-your-project-on-aws-ec2-4953",
-    "topic": "aws"
+    "title": "Docker never restarted my database: the price of restart: no",
+    "desc": "<p>Something died in the middle of the night. I found out in the morning, from a user, not from a machine.</p>\n\n<p>The container had exited.",
+    "link": "https://dev.to/jguillaumesio/docker-never-restarted-my-database-the-price-of-restart-no-4hi4",
+    "topic": "docker"
   },
   {
-    "title": "Context-based communication to make LLM as bridge of knowledge transfer",
-    "desc": "<p>It's 14:00, while you're focusing on your task, here's new slack message. \"Hey, can you give 30 minutes to explain how to re-deploy your ",
-    "link": "https://dev.to/kination/context-based-communication-to-make-llm-as-bridge-of-knowledge-transfer-3hja",
-    "topic": "general"
+    "title": "Shipping a SaaS on one VPS with Docker Compose: an honest audit",
+    "desc": "<p>The entire product runs on a single VPS. One machine, one <code>docker-compose.yml</code>, a containerised nginx in front, and a <code>ma",
+    "link": "https://dev.to/jguillaumesio/shipping-a-saas-on-one-vps-with-docker-compose-an-honest-audit-5g81",
+    "topic": "docker"
   },
   {
-    "title": "Can Your Application Be Operated Safely by AI Agents?",
-    "desc": "<p>If your software cannot be used by your agents, it is not ready for the next operating model.</p>\n\n<p>Most companies still build software",
-    "link": "https://dev.to/nexius_labs_d748e1551ced8/can-your-application-be-operated-safely-by-ai-agents-1n1a",
-    "topic": "general"
+    "title": "Docker bypassed my firewall: the database port was open to the internet",
+    "desc": "<p>I had a firewall. I had explicitly blocked the Postgres port on the host. And Postgres was still reachable from the internet.</p>\n\n<p>I f",
+    "link": "https://dev.to/jguillaumesio/docker-bypassed-my-firewall-the-database-port-was-open-to-the-internet-1345",
+    "topic": "docker"
   }
 ]
