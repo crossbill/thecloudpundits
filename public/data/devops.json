@@ -1,5 +1,35 @@
 [
   {
+    "title": "Kubernetes in Production: Beyond the Tutorial",
+    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Production Kubernetes is everything the tutorial skipped: resource requests and limits, liveness a",
+    "link": "https://dev.to/sri2614/kubernetes-in-production-beyond-the-tutorial-3edd",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Choosing the Red Pill: CI/CD Pipelines that Actually Work",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think CI/CD was just a fancy way to say \u201crun tests on every push\u201d. I",
+    "link": "https://dev.to/timevolt/choosing-the-red-pill-cicd-pipelines-that-actually-work-11a1",
+    "topic": "general"
+  },
+  {
+    "title": "How I Keep Coding Agents Running When My Laptop Closes",
+    "desc": "<p>My laptop is no longer where most of my coding work runs.</p>\n\n<p>I use remote Linux servers to keep agents working when I close the lid,",
+    "link": "https://dev.to/elie222/how-i-keep-coding-agents-running-when-my-laptop-closes-1a13",
+    "topic": "general"
+  },
+  {
+    "title": "The ASN Pivot Playbook: Routes, Upstreams, Downstreams",
+    "desc": "<p>An ASN pivot is the cheapest move in an IP investigation and the easiest one to over-read. One call turns a single address into a network",
+    "link": "https://dev.to/abdullah_afzal/the-asn-pivot-playbook-routes-upstreams-downstreams-3ppk",
+    "topic": "general"
+  },
+  {
+    "title": "I thought running OpenClaw from my phone was the goal, then I realized the phone should only say yes or no",
+    "desc": "<p>The first time I saw OpenClaw running through Open WebUI on a phone, my reaction was the same as everyone else's:</p>\n\n<p><strong>this is",
+    "link": "https://dev.to/lars_winstand/i-thought-running-openclaw-from-my-phone-was-the-goal-then-i-realized-the-phone-should-only-say-3o61",
+    "topic": "general"
+  },
+  {
     "title": "Master anydoc in 5 Mins",
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 87% of developers struggle to effectively utilize anydoc in their workflow, resulting ",
     "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4a9h",
@@ -15,36 +45,6 @@
     "title": "Your AI Agent Has a Budget. Can You Explain Every Token and Tool Call?",
     "desc": "<p>An agent can be \u201cwithin budget\u201d while still being impossible to operate: the dashboard shows aggregate tokens, but nobody can answer whic",
     "link": "https://dev.to/zira125/your-ai-agent-has-a-budget-can-you-explain-every-token-and-tool-call-1paf",
-    "topic": "general"
-  },
-  {
-    "title": "AI Didn't Replace My DevOps Workflow. It Shortened the Path to a Hypothesis.",
-    "desc": "<p><em>How an alert, ten browser tabs, and a Slack ping actually get resolved when AI is in the loop \u2014 and where I still don't trust it.</em",
-    "link": "https://dev.to/akhil_anil/ai-didnt-replace-my-devops-workflow-it-shortened-the-path-to-a-hypothesis-47b9",
-    "topic": "general"
-  },
-  {
-    "title": "cidx v3.0.0 \u2014 deleting the things that lied",
-    "desc": "<p><strong>cidx is a declarative CI/CD runner I build</strong> (in Go) \u2014 you describe your pipeline once, it runs the same locally and in CI",
-    "link": "https://dev.to/arcker/cidx-v300-deleting-the-things-that-lied-4fb4",
-    "topic": "general"
-  },
-  {
-    "title": "You're Not Underpaid. You're Under-Documented.",
-    "desc": "<blockquote>\n<p>\"The biggest career mistake developers make isn't lacking skills\u2014it's failing to show the skills they already have.\"</p>\n</b",
-    "link": "https://dev.to/yash_sonawane25/youre-not-underpaid-youre-under-documented-36f0",
-    "topic": "general"
-  },
-  {
-    "title": "GGUF vs GPTQ vs AWQ: Which Quantization Format Should You Actually Use?",
-    "desc": "<p>Running open-source Large Language Models (LLMs) used to be a luxury reserved for developers with enterprise-grade server rooms. If you d",
-    "link": "https://dev.to/quantizelab/gguf-vs-gptq-vs-awq-which-quantization-format-should-you-actually-use-5hn9",
-    "topic": "general"
-  },
-  {
-    "title": "Cedar could stop one bad tool call. Dogwood stops bad sequences.",
-    "desc": "<p>AWS launched Dogwood this week \u2014 an open-source policy language (Apache 2.0) for AI agent runtime verification. It extends Cedar, AWS's e",
-    "link": "https://dev.to/thegatewayguy/cedar-could-stop-one-bad-tool-call-dogwood-stops-bad-sequences-1jik",
     "topic": "general"
   }
 ]
