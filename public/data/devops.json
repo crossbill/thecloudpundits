@@ -1,5 +1,29 @@
 [
   {
+    "title": "Python Best Practices for Production Code",
+    "desc": "<p>The short version, for anyone weighing up python best practices: The essentials are clean style (PEP 8), clear structure, type hints, goo",
+    "link": "https://dev.to/acquriotech/python-best-practices-for-production-code-1fhl",
+    "topic": "general"
+  },
+  {
+    "title": "Your Vendor Review Process Never Saw The Real Supplier",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ntctech/your-vendor-review-process-never-saw-the-real-supplier-5ell",
+    "topic": "general"
+  },
+  {
+    "title": "Top Frequently Used AWS Services: A Beginner-Friendly Guide",
+    "desc": "<p>AWS is one of the most popular cloud platforms out there and is used widely. The thing is, AWS comes with <strong>200+ services</strong>,",
+    "link": "https://dev.to/blackwatch021/top-frequently-used-aws-services-a-beginner-friendly-guide-5df1",
+    "topic": "aws"
+  },
+  {
+    "title": "I built kern \u2013 A CLI that replaces Docker with Unikernels (~10ms boot time, no daemon, pure QEMU)",
+    "desc": "<p>I've been building kern \u2014 a CLI that replaces Docker with unikernels.</p>\n\n<p>The idea is simple: instead of packaging your app in a cont",
+    "link": "https://dev.to/kern-project/i-built-kern-a-cli-that-replaces-docker-with-unikernels-10ms-boot-time-no-daemon-pure-qemu-5aa0",
+    "topic": "docker"
+  },
+  {
     "title": "Kubernetes in Production: Beyond the Tutorial",
     "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Production Kubernetes is everything the tutorial skipped: resource requests and limits, liveness a",
     "link": "https://dev.to/sri2614/kubernetes-in-production-beyond-the-tutorial-3edd",
@@ -21,30 +45,6 @@
     "title": "The ASN Pivot Playbook: Routes, Upstreams, Downstreams",
     "desc": "<p>An ASN pivot is the cheapest move in an IP investigation and the easiest one to over-read. One call turns a single address into a network",
     "link": "https://dev.to/abdullah_afzal/the-asn-pivot-playbook-routes-upstreams-downstreams-3ppk",
-    "topic": "general"
-  },
-  {
-    "title": "I thought running OpenClaw from my phone was the goal, then I realized the phone should only say yes or no",
-    "desc": "<p>The first time I saw OpenClaw running through Open WebUI on a phone, my reaction was the same as everyone else's:</p>\n\n<p><strong>this is",
-    "link": "https://dev.to/lars_winstand/i-thought-running-openclaw-from-my-phone-was-the-goal-then-i-realized-the-phone-should-only-say-3o61",
-    "topic": "general"
-  },
-  {
-    "title": "Master anydoc in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 87% of developers struggle to effectively utilize anydoc in their workflow, resulting ",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4a9h",
-    "topic": "general"
-  },
-  {
-    "title": "Monitoring and Logging: The Force Awakens Your Alerts",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Look, the reality is that I once got paged at 3\u202fa.m. because a user complained that the ",
-    "link": "https://dev.to/timevolt/monitoring-and-logging-the-force-awakens-your-alerts-346j",
-    "topic": "general"
-  },
-  {
-    "title": "Your AI Agent Has a Budget. Can You Explain Every Token and Tool Call?",
-    "desc": "<p>An agent can be \u201cwithin budget\u201d while still being impossible to operate: the dashboard shows aggregate tokens, but nobody can answer whic",
-    "link": "https://dev.to/zira125/your-ai-agent-has-a-budget-can-you-explain-every-token-and-tool-call-1paf",
     "topic": "general"
   }
 ]
