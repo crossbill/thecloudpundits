@@ -1,5 +1,35 @@
 [
   {
+    "title": "RFC 10023 define _for-sale, el registro DNS que anuncia dominios en venta",
+    "desc": "<p>Desde julio de 2026 existe un registro DNS for-sale estandarizado para decir, sin ambig\u00fcedad, que un dominio activo est\u00e1 a la venta: sin ",
+    "link": "https://dev.to/lu1tr0n/rfc-10023-define-for-sale-el-registro-dns-que-anuncia-dominios-en-venta-hil",
+    "topic": "general"
+  },
+  {
+    "title": "Build a File Watcher and Auto-Deployer with Python",
+    "desc": "<h1>\n  \n  \n  Build a File Watcher and Auto-Deployer with Python\n</h1>\n\n<p>tags: python, devops, automation, tutorial</p>\n\n\n\n\n<p>tags: python",
+    "link": "https://dev.to/qingluan/build-a-file-watcher-and-auto-deployer-with-python-1j4c",
+    "topic": "general"
+  },
+  {
+    "title": "Setting Up PostgreSQL Connection Pooling with PgBouncer",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
+    "link": "https://dev.to/chasebot/setting-up-postgresql-connection-pooling-with-pgbouncer-2a0o",
+    "topic": "general"
+  },
+  {
+    "title": "Replacing kube-proxy with eBPF: A Production Case Study on Latency Reduction and the Monitoring Pitfalls",
+    "desc": "<p><em>Originally published on <a href=\"https://tamiz.pro/insights/replacing-kube-proxy-with-ebpf-latency-monitoring-pitfalls\" rel=\"noopener",
+    "link": "https://dev.to/tamizuddin/replacing-kube-proxy-with-ebpf-a-production-case-study-on-latency-reduction-and-the-monitoring-4n06",
+    "topic": "general"
+  },
+  {
+    "title": "Never Let Migration Tooling Guess the Database",
+    "desc": "<p>One of the more dangerous database configuration errors is not a failed connection. It is a successful connection to a database nobody de",
+    "link": "https://dev.to/iqtechsolutions/never-let-migration-tooling-guess-the-database-3ehf",
+    "topic": "general"
+  },
+  {
     "title": "How to Upload and Deploy Your Project on AWS EC2",
     "desc": "<p>Deploying a project on AWS can seem complicated at first, especially if you are new to cloud computing. However, once you understand the ",
     "link": "https://dev.to/prashant_patil_49/how-to-upload-and-deploy-your-project-on-aws-ec2-4953",
@@ -16,35 +46,5 @@
     "desc": "<p>If your software cannot be used by your agents, it is not ready for the next operating model.</p>\n\n<p>Most companies still build software",
     "link": "https://dev.to/nexius_labs_d748e1551ced8/can-your-application-be-operated-safely-by-ai-agents-1n1a",
     "topic": "general"
-  },
-  {
-    "title": "Your AI Agent Costs Too Much Because Its Job Is Undefined",
-    "desc": "<p>Model prices matter, but the largest waste often starts before the first token is billed. Undefined jobs make agents read too much, retai",
-    "link": "https://dev.to/nexius_labs_d748e1551ced8/your-ai-agent-costs-too-much-because-its-job-is-undefined-5e8a",
-    "topic": "general"
-  },
-  {
-    "title": "How to Route AI Work Across Open and Frontier Models",
-    "desc": "<p>A business does not have one AI job. It has many small decisions with different privacy, latency, cost, quality and risk requirements.</p",
-    "link": "https://dev.to/nexius_labs_d748e1551ced8/how-to-route-ai-work-across-open-and-frontier-models-4oj1",
-    "topic": "general"
-  },
-  {
-    "title": "Agent Sandbox gives AI agents their own Linux box, from kubernetes-sigs/agent-sandbox docs. https://dev.to/gde/agent-sandboxes-g",
-    "desc": "<p>Agent Sandbox gives AI agents their own Linux box, from kubernetes-sigs/agent-sandbox docs. <a href=\"https://dev.to/gde/agent-sandboxes-g",
-    "link": "https://dev.to/atheerium/agent-sandbox-gives-ai-agents-their-own-linux-box-from-kubernetes-sigsagent-sandbox-docs-35b3",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Shadow AI in your pipeline is a non-human identity problem, not a chatbot problem",
-    "desc": "<p>Shadow AI \u2014 AI tools in the software lifecycle without approval, ownership, or monitoring \u2014 has a new threat model from CNCF. It's a good",
-    "link": "https://dev.to/thegatewayguy/shadow-ai-in-your-pipeline-is-a-non-human-identity-problem-not-a-chatbot-problem-28oj",
-    "topic": "general"
-  },
-  {
-    "title": "Terraform Is an IBM Product With a Meter Now. Here Is What the IaC Landscape Looks Like",
-    "desc": "<p>Try opening a state file written by OpenTofu with encryption turned on using Terraform 1.5.7. You get <code>Unsupported state file format",
-    "link": "https://dev.to/moksh/terraform-is-an-ibm-product-with-a-meter-now-here-is-what-the-iac-landscape-looks-like-4fof",
-    "topic": "terraform"
   }
 ]
