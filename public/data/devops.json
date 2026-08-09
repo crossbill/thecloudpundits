@@ -1,50 +1,50 @@
 [
   {
-    "title": "Right-Sizing Kubernetes Resource Requests Without Outages",
-    "desc": "<h2>\n  \n  \n  Key takeaways\n</h2>\n\n<ul>\n<li>Right-sizing can reduce resource costs by 30-50%.</li>\n<li>Gradual adjustments prevent service di",
-    "link": "https://dev.to/kapil/right-sizing-kubernetes-resource-requests-without-outages-4c71",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Asterisk Core Dump & Crash Analysis \u2014 Debugging Segfaults",
-    "desc": "<h1>\n  \n  \n  Asterisk Core Dump & Crash Analysis \u2014 Debugging Segfaults\n</h1>\n\n<p><strong>Learn how to capture, analyze, and fix segmentation",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/asterisk-core-dump-crash-analysis-debugging-segfaults-18b5",
+    "title": "Safeguarding Your Systems: An Introduction to the Circuit Breaker Pattern",
+    "desc": "<p>The circuit breaker pattern is a modern software design strategy used to detect failures and prevent an application from repeatedly execu",
+    "link": "https://dev.to/saurav_tb_pandey/safeguarding-your-systems-an-introduction-to-the-circuit-breaker-pattern-5dp",
     "topic": "general"
   },
   {
-    "title": "title: \"120+ Christmas Trivia Questions and Answers for the Ultimate Holiday Quiz (Developer Edition)\" published:",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/trivia_questioners_f2c2a7/title-120-christmas-trivia-questions-and-answers-for-the-ultimate-holiday-quiz-developer-4pfd",
+    "title": "Exploring DeepSeek V4 Flash 0731: A New Frontier in AI Infrastructure",
+    "desc": "<h1>\n  \n  \n  What was released / announced\n</h1>\n\n<p>DeepSeek V4 Flash 0731 is a recently released AI model that has garnered significant at",
+    "link": "https://dev.to/naveenmalothu/exploring-deepseek-v4-flash-0731-a-new-frontier-in-ai-infrastructure-1h28",
     "topic": "general"
   },
   {
-    "title": "Day 8: Complete Q&A Recap \u2014 Cloud, Architecture, Virtualization & Networking + 'nslookup' Command Practical",
-    "desc": "<p>Recap day. Testing everything from Day 0 through Day 7 with quick single-line answers, plus a hands-on nslookup practical to try yourself",
-    "link": "https://dev.to/sr-palatasingh/day-8-complete-qa-recap-cloud-architecture-virtualization-networking-nslookup-command-5b37",
+    "title": "Master anydoc in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually converting a large Word document to Markdown, only to realize that I",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4jjg",
     "topic": "general"
   },
   {
-    "title": "PublicNode Rate Limits: What to Expect & How to Plan",
-    "desc": "<h2>\n  \n  \n  Quick Recommendation: When PublicNode Is Enough and When It Isn't\n</h2>\n\n<p>PublicNode is a free, community-oriented RPC servic",
-    "link": "https://dev.to/onfinality/publicnode-rate-limits-what-to-expect-how-to-plan-418n",
+    "title": "The order to build MLOps in when you have one model, not fifty",
+    "desc": "<p>A five-person team brought me in last month to help ship their first production model, a churn scorer that flags accounts likely to cance",
+    "link": "https://dev.to/sandeepvarma/the-order-to-build-mlops-in-when-you-have-one-model-not-fifty-49c5",
     "topic": "general"
   },
   {
-    "title": "What Is dOrg? A DAO for Web3 Development",
-    "desc": "<h2>\n  \n  \n  Quick Recommendation: When dOrg Makes Sense\n</h2>\n\n<p>Before diving into the details, here's a quick decision guide. dOrg is a ",
-    "link": "https://dev.to/onfinality/what-is-dorg-a-dao-for-web3-development-2h54",
+    "title": "Fastmail Now Offers EU Data Region \u2014 and It's a Bigger Deal Than You Think",
+    "desc": "<p>Fastmail just announced EU data region support, and it hit 339 points on Hacker News with 169 comments. That's a lot of attention for an ",
+    "link": "https://dev.to/trismegistus/fastmail-now-offers-eu-data-region-and-its-a-bigger-deal-than-you-think-3hef",
     "topic": "general"
   },
   {
-    "title": "Sui RPC Providers: How to Choose for Production",
-    "desc": "<h2>\n  \n  \n  Quick recommendation: match provider type to workload\n</h2>\n\n<p>Before comparing vendors, decide which type of Sui RPC access f",
-    "link": "https://dev.to/onfinality/sui-rpc-providers-how-to-choose-for-production-30do",
+    "title": "My Server Is a Phone Now: How One Developer Replaced a VPS With a Rooted Android Phone",
+    "desc": "<p>When a developer posted \"My server is a phone now\" on Hacker News this week, it hit 166 points and 68 comments in five hours. The idea so",
+    "link": "https://dev.to/trismegistus/my-server-is-a-phone-now-how-one-developer-replaced-a-vps-with-a-rooted-android-phone-1ca4",
     "topic": "general"
   },
   {
-    "title": "Metis RPC: Chain Settings, Endpoints, and Provider Selection",
-    "desc": "<h2>\n  \n  \n  Quick recommendation: choose an RPC provider based on your workload\n</h2>\n\n<p>If you are building a production dApp on Metis, t",
-    "link": "https://dev.to/onfinality/metis-rpc-chain-settings-endpoints-and-provider-selection-5cn9",
+    "title": "Monitoring and Logging: The Matrix of Observability",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Look, the reality is that every developer has been woken up by a frantic Slack message a",
+    "link": "https://dev.to/timevolt/monitoring-and-logging-the-matrix-of-observability-58d4",
+    "topic": "general"
+  },
+  {
+    "title": "How to Build a $2500/Month DevOps Consulting Practice",
+    "desc": "<h1>\n  \n  \n  How to Build a $2500/Month DevOps Consulting Practice\n</h1>\n\n<p>tags: consulting, money, freelance, career</p>\n\n\n\n\n<p>tags: con",
+    "link": "https://dev.to/qingluan/how-to-build-a-2500month-devops-consulting-practice-2741",
     "topic": "general"
   }
 ]
