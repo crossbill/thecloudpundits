@@ -1,50 +1,50 @@
 [
   {
-    "title": "IPv4 Market Report \u2014 July 2026: Prices Fall to $20.62/IP as 380K IP Addresses Traded",
-    "desc": "<h1>\n  \n  \n  IPv4 Market Report \u2014 July 2026: Prices Fall to $20.62/IP as 380K Addresses Trade\n</h1>\n\n<p>IPv4 may be a decades-old protocol, ",
-    "link": "https://dev.to/menesakdeniz/ipv4-market-report-july-2026-prices-fall-to-2062ip-as-380k-ip-addresses-traded-42jg",
+    "title": "Why the CDviz team open-sourced its GitLab, Bitbucket, Jira, and Jenkins integrations",
+    "desc": "<h2>\n  \n  \n  GitLab, Bitbucket, Jira, and Jenkins transformers are now open source\n</h2>\n\n<p><em>The <code>transformers-pro</code> repositor",
+    "link": "https://dev.to/davidb31/why-the-cdviz-team-open-sourced-its-gitlab-bitbucket-jira-and-jenkins-integrations-m8f",
     "topic": "general"
   },
   {
-    "title": "LLM Observability Cost Starts With a Trace Budget",
-    "desc": "<p>LLM observability cost is not a single price per trace. It is the sum of several workload multipliers: requests become traces, traces con",
-    "link": "https://dev.to/dmytronasyrov/llm-observability-cost-starts-with-a-trace-budget-401l",
+    "title": "Jump Host in Cloud Computing | Securely Access Private Servers in AWS",
+    "desc": "<p>When building applications in the cloud, one common requirement is to keep servers such as databases and backend services inside <strong>",
+    "link": "https://dev.to/kmsaifullah/jump-host-in-cloud-computing-securely-access-private-servers-in-aws-419j",
+    "topic": "aws"
+  },
+  {
+    "title": "Cpynet a pastebin you talk to with curl, that forgets everything you send it",
+    "desc": "<p>A zero-dependency, single-file Go pastebin built for terminals \u2014 burn-after-read by default, two independent encryption layers, and a cur",
+    "link": "https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6",
     "topic": "general"
   },
   {
-    "title": "Your coding agent's summary of its own work is not evidence",
-    "desc": "<p>I spent three days last week doing real work on a production codebase with an agentic coding tool. Small site, live customers, money movi",
-    "link": "https://dev.to/jk27101/your-coding-agents-summary-of-its-own-work-is-not-evidence-46i5",
+    "title": "nereida \u2014 a local multi-cluster Kubernetes client I built because on-call kept beating me",
+    "desc": "<p>It's 2am, an alert fires, and I'm three <code>kubectl config use-context</code> commands deep trying to remember which cluster the broken",
+    "link": "https://dev.to/cyb3rkn1ght/nereida-a-local-multi-cluster-kubernetes-client-i-built-because-on-call-kept-beating-me-22l3",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Boosting Developer Efficiency with Automation Tools",
+    "desc": "<h2>\n  \n  \n  The Impact of Automation on Developer Efficiency\n</h2>\n\n<p>Automation tools are reshaping how we work, turning tedious tasks in",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/boosting-developer-efficiency-with-automation-tools-511j",
     "topic": "general"
   },
   {
-    "title": "I Brought rsync to kubectl",
-    "desc": "<p>Over the last few months, I've been working with Kubernetes pods in my development environment. One thing I frequently need to do is tran",
-    "link": "https://dev.to/major1201/i-brought-rsync-to-kubectl-2984",
+    "title": "A backup you haven't restored isn't a backup",
+    "desc": "<p>Migrating from MongoDB Atlas to a self-hosted replica set bought us control and cut our bill. It also quietly removed something we had st",
+    "link": "https://dev.to/takiuddinahmed/a-backup-you-havent-restored-isnt-a-backup-4lj",
     "topic": "general"
   },
   {
-    "title": "Purple Teaming: Closing the Loop Between Attack and Detection",
-    "desc": "<h2>\n  \n  \n  The Problem With Traditional Red Team Reports\n</h2>\n\n<p>A standard red team engagement works like this: the offensive team oper",
-    "link": "https://dev.to/sakramen/purple-teaming-closing-the-loop-between-attack-and-detection-1207",
-    "topic": "secops"
-  },
-  {
-    "title": "How Uber's SubmitQueue Keeps Their Monorepo Green at Scale \u2014 and Why It's Open Source",
-    "desc": "<p>If you've ever worked in a large engineering team, you know the pain: pull requests stack up, CI takes forever, and by the time your PR p",
-    "link": "https://dev.to/trismegistus/how-ubers-submitqueue-keeps-their-monorepo-green-at-scale-and-why-its-open-source-43a9",
+    "title": "ChronicleOps: Autonomous Chaos Engineering & Self-Healing Telemetry Engine published",
+    "desc": "<h2>\n  \n  \n  What I Built\n</h2>\n\n<p><strong>ChronicleOps</strong> is an autonomous cloud chaos engineering, real-time observability, and sel",
+    "link": "https://dev.to/siddarth_ns_addc7115cec1e/chronicleops-autonomous-chaos-engineering-self-healing-telemetry-enginepublished-2hdm",
     "topic": "general"
   },
   {
-    "title": "Build a Custom Log Parser and Analyzer",
-    "desc": "<h1>\n  \n  \n  Build a Custom Log Parser and Analyzer\n</h1>\n\n<p>tags: python, devops, tools, tutorial</p>\n\n\n\n\n<p>tags: python, architecture, o",
-    "link": "https://dev.to/qingluan/build-a-custom-log-parser-and-analyzer-47i4",
-    "topic": "general"
-  },
-  {
-    "title": "Master anydoc in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 87% of developers struggle to integrate AI-generated documentation into their workflow",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4c4b",
+    "title": "Pull Requests, Code Reviews & Git Rebase",
+    "desc": "<p>If you've already learned Git commits, branching, and merging, you've mastered the mechanics of version control. But knowing Git alone do",
+    "link": "https://dev.to/themdmohiuddin/pull-requests-code-reviews-git-rebase-5fe1",
     "topic": "general"
   }
 ]
