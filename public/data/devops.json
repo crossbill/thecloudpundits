@@ -1,5 +1,41 @@
 [
   {
+    "title": "The 5-Minute Linux Server Hardening Guide: Secure Your VPS Before It's Too Late",
+    "desc": "<h2>\n  \n  \n  tags: [security, linux, devops, sysadmin]\n</h2>\n\n<p>You just bought a brand new Linux VPS, logged in via SSH as <code>root</cod",
+    "link": "https://dev.to/sadaf_botanist/the-5-minute-linux-server-hardening-guide-secure-your-vps-before-its-too-late-4dhd",
+    "topic": "general"
+  },
+  {
+    "title": "Open Delivery Spec update: AI code shouldn't just pass the gate \u2014 it should leave evidence",
+    "desc": "<p>Three weeks ago I wrote about <a href=\"https://dev.toopen-delivery-spec/\">Open Delivery Spec</a> (ODS): an open-source toolchain that rea",
+    "link": "https://dev.to/shenxianpeng/open-delivery-spec-update-ai-code-shouldnt-just-pass-the-gate-it-should-leave-evidence-195m",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Self-Healing System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Self-Healing System with Python\n</h1>\n\n<p>tags: python, devops, automation, tutorial</p>\n\n\n\n\n<p>tags: python, redis, ar",
+    "link": "https://dev.to/qingluan/build-a-self-healing-system-with-python-3ea4",
+    "topic": "general"
+  },
+  {
+    "title": "Agent Observability Starts With a Run Ledger, Not More Logs",
+    "desc": "<p>An agent can produce thousands of log lines and still leave you unable to answer the only question that matters during an incident: what ",
+    "link": "https://dev.to/zira125/agent-observability-starts-with-a-run-ledger-not-more-logs-j8a",
+    "topic": "general"
+  },
+  {
+    "title": "7 Signs Your Startup Needs DevOps Help (and What to Do About It)",
+    "desc": "<h2>\n  \n  \n  When \"we'll deal with infrastructure later\" stops working\n</h2>\n\n<p>Most startups treat infrastructure as something to figure o",
+    "link": "https://dev.to/instadevops/7-signs-your-startup-needs-devops-help-and-what-to-do-about-it-3654",
+    "topic": "general"
+  },
+  {
+    "title": "Dependency Injection for Observability",
+    "desc": "<p>Want your code to be easy to observe? Use dependency injection for observability concerns. Sounds dry. Hear me out.</p>\n\n<h2>\n  \n  \n  The",
+    "link": "https://dev.to/samson_tanimawo/dependency-injection-for-observability-1iol",
+    "topic": "general"
+  },
+  {
     "title": "Free Bjj Rounds: what we learned building Random Tactical Timer",
     "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
     "link": "https://dev.to/igorganapolsky/free-bjj-rounds-what-we-learned-building-random-tactical-timer-3lg4",
@@ -10,41 +46,5 @@
     "desc": "<p>I run AI agents that write code for a healthcare data platform. They pick up tasks from the backlog, write the code, add tests, open a pu",
     "link": "https://dev.to/christopher_gainus_84f002/autonomous-code-review-in-healthcare-how-ai-agents-ship-prs-without-breaking-production-1c39",
     "topic": "general"
-  },
-  {
-    "title": "The \"Works on My Machine\" Syndrome (And How to Cure It)",
-    "desc": "<p>\"I don't understand, it literally works perfectly on my machine!\" </p>\n\n<p>Every developer has uttered this phrase. It usually happens ri",
-    "link": "https://dev.to/mealiclay01/the-works-on-my-machine-syndrome-and-how-to-cure-it-44f7",
-    "topic": "general"
-  },
-  {
-    "title": "Database Backup and Restore in NEXUS AI: A Complete Guide",
-    "desc": "<p>Every production deployment needs a data recovery plan. NEXUS AI ships built-in backup and restore for all four supported database engine",
-    "link": "https://dev.to/sali_ac161a1b71406354896c/database-backup-and-restore-in-nexus-ai-a-complete-guide-47f4",
-    "topic": "general"
-  },
-  {
-    "title": "Same Version, Different Hash: The SBOM Drift Your Manifest Diff Cannot See",
-    "desc": "<p>A dependency in your pull request keeps the same version while its recorded<br />\nhash changes, and your checks report no dependency chan",
-    "link": "https://dev.to/rezmoss/same-version-different-hash-the-sbom-drift-your-manifest-diff-cannot-see-304i",
-    "topic": "general"
-  },
-  {
-    "title": "WHY LINUX IS IMPORTANT FOR DevOps AND SRE ?",
-    "desc": "<h2>\n  \n  \n  FOUNDATION\n</h2>\n\n<p>When people start learning DevOps, they usually jump directly into tools like Docker, Kubernetes, Jenkins,",
-    "link": "https://dev.to/thenoid/why-linux-is-important-for-devops-and-sre--9g8",
-    "topic": "general"
-  },
-  {
-    "title": "Seeking advice: Best way to start learning DevOps?",
-    "desc": "<p>Hi everyone,</p>\n\n<p>I'm a software development student looking to get into DevOps. My current stack is mostly C, C++, Next.js, Laravel, ",
-    "link": "https://dev.to/badrive/seeking-advice-best-way-to-start-learning-devops-4pm1",
-    "topic": "general"
-  },
-  {
-    "title": "Cron Syntax Edge Cases That Break Production Jobs: DST, Field Misalignment, and the Day-of-Month Trap",
-    "desc": "<p>Cron expressions are the invisible backbone of backend infrastructure. From nightly database backups and cache warmups to recurring billi",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/cron-syntax-edge-cases-that-break-production-jobs-dst-field-misalignment-and-the-day-of-month-4jc3",
-    "topic": "guardrails"
   }
 ]
