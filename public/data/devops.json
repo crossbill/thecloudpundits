@@ -1,5 +1,29 @@
 [
   {
+    "title": "Your Serverless Cron Job Failed Silently at 3AM: Making Event-Driven Jobs Reliable",
+    "desc": "<p>Moving scheduled tasks off a cron box and onto serverless functions solves the \"one server, one crontab, one single point of failure\" pro",
+    "link": "https://dev.to/libme/your-serverless-cron-job-failed-silently-at-3am-making-event-driven-jobs-reliable-83n",
+    "topic": "general"
+  },
+  {
+    "title": "Junior DevOps/Security Pro Seeks Feedback on Project Idea and Recruiter Expectations for Skill Set.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/alitron/junior-devopssecurity-pro-seeks-feedback-on-project-idea-and-recruiter-expectations-for-skill-set-3c67",
+    "topic": "secops"
+  },
+  {
+    "title": "Master anydoc in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually converting a large Word document to Markdown, only to realize I coul",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-5fk4",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Changed Its Config. Can You Roll It Back Safely?",
+    "desc": "<p>A configuration change can be more dangerous than a code deploy when an AI agent can send messages, edit repositories, spend money, or op",
+    "link": "https://dev.to/zira125/your-ai-agent-changed-its-config-can-you-roll-it-back-safely-4abk",
+    "topic": "general"
+  },
+  {
     "title": "Automating the Workflow: My Journey from Jenkins Freestyle Jobs to Declarative Pipelines",
     "desc": "<h3>\n  \n  \n  The Infrastructure: Setting Up Jenkins on AWS\n</h3>\n\n<p>The foundation of this project began by provisioning an Ubuntu EC2 inst",
     "link": "https://dev.to/alafiz/automating-the-workflow-my-journey-from-jenkins-freestyle-jobs-to-declarative-pipelines-4pag",
@@ -22,29 +46,5 @@
     "desc": "<p>Every developer has encountered it: a deployment pipeline fails with <code>Permissions 0644 for '/root/.ssh/id_rsa' are too open</code>, ",
     "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-linux-permission-bugs-cause-security-incidents-and-the-chmod-math-edge-cases-every-developer-3342",
     "topic": "secops"
-  },
-  {
-    "title": "A Postgres Branch Per Learner: Building on Neon",
-    "desc": "<p>Teaching Postgres by showing someone a code block is a waste of everybody's time. They need a database they can break.</p>\n\n<p>That requi",
-    "link": "https://dev.to/devopsdaily/a-postgres-branch-per-learner-building-on-neon-47io",
-    "topic": "general"
-  },
-  {
-    "title": "Soccer API: Features, Use Cases, and How Developers Can Build Better Football Applications",
-    "desc": "<p>Soccer is one of the most data-driven sports in the world. From live match scores and player statistics to league standings, fixtures, tr",
-    "link": "https://dev.to/soccerapi/soccer-api-features-use-cases-and-how-developers-can-build-better-football-applications-3ha1",
-    "topic": "general"
-  },
-  {
-    "title": "AI doesn't make programming easier - It moves the bottleneck to where it cannot see",
-    "desc": "<p><em>Field notes from the Harness Layer.</em></p>\n\n\n\n\n<h2>\n  \n  \n  The guard that killed the run\n</h2>\n\n<p>Last month I watched an agent w",
-    "link": "https://dev.to/azank1/ai-doesnt-make-programming-easier-it-moves-the-bottleneck-to-where-it-cannot-see-3lpo",
-    "topic": "general"
-  },
-  {
-    "title": "Swapping Across 25 Models With One Line",
-    "desc": "<p>Picking a model usually feels like a decision you have to live with. You install that provider's SDK, wire in its key, learn its quirks, ",
-    "link": "https://dev.to/devopsdaily/swapping-across-25-models-with-one-line-3je8",
-    "topic": "general"
   }
 ]
