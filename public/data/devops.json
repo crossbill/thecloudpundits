@@ -1,8 +1,26 @@
 [
   {
-    "title": "When an AI Coding Agent Says 'Done,' What Makes You Believe It?",
-    "desc": "<blockquote>\n<p><strong>Cairness</strong> gives Claude Code and Codex an executable, verifiable, and auditable software-development lifecycl",
-    "link": "https://dev.to/tsing_liu_5256011ee363e16/when-an-ai-coding-agent-says-done-what-makes-you-believe-it-1dk5",
+    "title": "Master anydoc in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 87% of developers struggle to effectively utilize anydoc in their workflow, resulting ",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4a9h",
+    "topic": "general"
+  },
+  {
+    "title": "Monitoring and Logging: The Force Awakens Your Alerts",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Look, the reality is that I once got paged at 3\u202fa.m. because a user complained that the ",
+    "link": "https://dev.to/timevolt/monitoring-and-logging-the-force-awakens-your-alerts-346j",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Has a Budget. Can You Explain Every Token and Tool Call?",
+    "desc": "<p>An agent can be \u201cwithin budget\u201d while still being impossible to operate: the dashboard shows aggregate tokens, but nobody can answer whic",
+    "link": "https://dev.to/zira125/your-ai-agent-has-a-budget-can-you-explain-every-token-and-tool-call-1paf",
+    "topic": "general"
+  },
+  {
+    "title": "AI Didn't Replace My DevOps Workflow. It Shortened the Path to a Hypothesis.",
+    "desc": "<p><em>How an alert, ten browser tabs, and a Slack ping actually get resolved when AI is in the loop \u2014 and where I still don't trust it.</em",
+    "link": "https://dev.to/akhil_anil/ai-didnt-replace-my-devops-workflow-it-shortened-the-path-to-a-hypothesis-47b9",
     "topic": "general"
   },
   {
@@ -28,23 +46,5 @@
     "desc": "<p>AWS launched Dogwood this week \u2014 an open-source policy language (Apache 2.0) for AI agent runtime verification. It extends Cedar, AWS's e",
     "link": "https://dev.to/thegatewayguy/cedar-could-stop-one-bad-tool-call-dogwood-stops-bad-sequences-1jik",
     "topic": "general"
-  },
-  {
-    "title": "Docker never restarted my database: the price of restart: no",
-    "desc": "<p>Something died in the middle of the night. I found out in the morning, from a user, not from a machine.</p>\n\n<p>The container had exited.",
-    "link": "https://dev.to/jguillaumesio/docker-never-restarted-my-database-the-price-of-restart-no-4hi4",
-    "topic": "docker"
-  },
-  {
-    "title": "Shipping a SaaS on one VPS with Docker Compose: an honest audit",
-    "desc": "<p>The entire product runs on a single VPS. One machine, one <code>docker-compose.yml</code>, a containerised nginx in front, and a <code>ma",
-    "link": "https://dev.to/jguillaumesio/shipping-a-saas-on-one-vps-with-docker-compose-an-honest-audit-5g81",
-    "topic": "docker"
-  },
-  {
-    "title": "Docker bypassed my firewall: the database port was open to the internet",
-    "desc": "<p>I had a firewall. I had explicitly blocked the Postgres port on the host. And Postgres was still reachable from the internet.</p>\n\n<p>I f",
-    "link": "https://dev.to/jguillaumesio/docker-bypassed-my-firewall-the-database-port-was-open-to-the-internet-1345",
-    "topic": "docker"
   }
 ]
