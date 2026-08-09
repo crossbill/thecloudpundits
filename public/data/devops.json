@@ -1,5 +1,35 @@
 [
   {
+    "title": "Automating the Workflow: My Journey from Jenkins Freestyle Jobs to Declarative Pipelines",
+    "desc": "<h3>\n  \n  \n  The Infrastructure: Setting Up Jenkins on AWS\n</h3>\n\n<p>The foundation of this project began by provisioning an Ubuntu EC2 inst",
+    "link": "https://dev.to/alafiz/automating-the-workflow-my-journey-from-jenkins-freestyle-jobs-to-declarative-pipelines-4pag",
+    "topic": "general"
+  },
+  {
+    "title": "How to Get a Verified Cash App Account With Bitcoin & Higher Limits",
+    "desc": "<p>How to Get a Verified Cash App Account With Bitcoin & Higher Limits<br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"m",
+    "link": "https://dev.to/bestcashapp83/how-to-get-a-verified-cash-app-account-with-bitcoin-higher-limits-1mb3",
+    "topic": "general"
+  },
+  {
+    "title": "Buyer's Guide On Buying Verified CashApp Accounts safely",
+    "desc": "<p>Buyer's Guide on Buying Verified Cash App Accounts Safely <br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usa",
+    "link": "https://dev.to/bestcashapp83/buyers-guide-on-buying-verified-cashapp-accounts-safely-52lb",
+    "topic": "general"
+  },
+  {
+    "title": "Why Linux Permission Bugs Cause Security Incidents (And the Chmod Math Edge Cases Every Developer Misses)",
+    "desc": "<p>Every developer has encountered it: a deployment pipeline fails with <code>Permissions 0644 for '/root/.ssh/id_rsa' are too open</code>, ",
+    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-linux-permission-bugs-cause-security-incidents-and-the-chmod-math-edge-cases-every-developer-3342",
+    "topic": "secops"
+  },
+  {
+    "title": "A Postgres Branch Per Learner: Building on Neon",
+    "desc": "<p>Teaching Postgres by showing someone a code block is a waste of everybody's time. They need a database they can break.</p>\n\n<p>That requi",
+    "link": "https://dev.to/devopsdaily/a-postgres-branch-per-learner-building-on-neon-47io",
+    "topic": "general"
+  },
+  {
     "title": "Soccer API: Features, Use Cases, and How Developers Can Build Better Football Applications",
     "desc": "<p>Soccer is one of the most data-driven sports in the world. From live match scores and player statistics to league standings, fixtures, tr",
     "link": "https://dev.to/soccerapi/soccer-api-features-use-cases-and-how-developers-can-build-better-football-applications-3ha1",
@@ -15,36 +45,6 @@
     "title": "Swapping Across 25 Models With One Line",
     "desc": "<p>Picking a model usually feels like a decision you have to live with. You install that provider's SDK, wire in its key, learn its quirks, ",
     "link": "https://dev.to/devopsdaily/swapping-across-25-models-with-one-line-3je8",
-    "topic": "general"
-  },
-  {
-    "title": "Per-Branch AI Endpoints: Isolating Model Spend Across Prod, Preview, and CI",
-    "desc": "<p>AI spend is hard to see. In most setups the same gateway credential is used by production, every preview environment, CI, and whatever lo",
-    "link": "https://dev.to/devopsdaily/per-branch-ai-endpoints-isolating-model-spend-across-prod-preview-and-ci-45bn",
-    "topic": "general"
-  },
-  {
-    "title": "Trending Azure Dev Tools & Tutorials: August 2026 Edition",
-    "desc": "<h3>\n  \n  \n  1. .NET Aspire 9.2 + Azure Container Apps One-Click Deploy\n</h3>\n\n<p><strong>What is it?</strong><br /><br />\n.NET Aspire 9.2 i",
-    "link": "https://dev.to/karleeov/trending-azure-dev-tools-tutorials-august-2026-edition-29jd",
-    "topic": "azure"
-  },
-  {
-    "title": "Model Fallback and Routing Without a Provider SDK Each",
-    "desc": "<p>Model providers go down. They rate-limit you, they have capacity blips, a specific model gets deprecated, and sometimes a request just fa",
-    "link": "https://dev.to/devopsdaily/model-fallback-and-routing-without-a-provider-sdk-each-55ep",
-    "topic": "general"
-  },
-  {
-    "title": "Building and Testing an AWS CloudWatch Monitoring Lab",
-    "desc": "<p>Here I'll be setting up an alarm for CPU utilization on an EC2 instance (and taking it down once it worked).</p>\n\n<p>First things first, ",
-    "link": "https://dev.to/travis_c61e9296f9ffc32970/building-and-testing-an-aws-cloudwatch-monitoring-lab-29m",
-    "topic": "aws"
-  },
-  {
-    "title": "GitHub doesn't retry webhooks. So I gave my tunnel a database.",
-    "desc": "<p><em>Built solo over a weekend for the WeMakeDevs \u00d7 Zerops challenge. There's a live gateway you can poke at, and a section near the end a",
-    "link": "https://dev.to/bigachiever/github-doesnt-retry-webhooks-so-i-gave-my-tunnel-a-database-4aa0",
     "topic": "general"
   }
 ]
