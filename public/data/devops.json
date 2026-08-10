@@ -1,50 +1,50 @@
 [
   {
-    "title": "Blockchain Node Infrastructure: Build vs. Rent",
-    "desc": "<h2>\n  \n  \n  Build-versus-buy tradeoffs: the first decision you need to make\n</h2>\n\n<p>Before you evaluate hardware specs or compare provide",
-    "link": "https://dev.to/onfinality/blockchain-node-infrastructure-build-vs-rent-3d8f",
+    "title": "\ud83d\udc0d How to showcase Python projects on GitHub for freshers",
+    "desc": "<h2>\n  \n  \n  \ud83d\udcbb Repositories \u2014 Why They <em>Matter</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/i",
+    "link": "https://dev.to/ptp2308/how-to-showcase-python-projects-on-github-for-freshers-28mi",
     "topic": "general"
   },
   {
-    "title": "I Gave My Agent One Signed Permission It Couldn\u2019t Mint Itself",
-    "desc": "<blockquote>\n<p><strong>Evidence status.</strong> The supervised operator run completed on 2026-08-09. An operator-signed<br />\njob executed",
-    "link": "https://dev.to/kenielzep97/i-gave-my-agent-one-signed-permission-it-couldnt-mint-itself-2lpc",
+    "title": "Managed IT Support Pricing: What's Included and What It Should Cost",
+    "desc": "<p>Cost is driven by the number of users and devices, the support hours and SLA you need, and how much security and compliance work is in sc",
+    "link": "https://dev.to/acquriotech/managed-it-support-pricing-whats-included-and-what-it-should-cost-cj6",
     "topic": "general"
   },
   {
-    "title": "Scroll RPC Endpoint: Chain Settings and Provider Selection",
-    "desc": "<h2>\n  \n  \n  Quick recommendation: what to use for Scroll RPC\n</h2>\n\n<p>If you are building on Scroll, the first decision is whether to use ",
-    "link": "https://dev.to/onfinality/scroll-rpc-endpoint-chain-settings-and-provider-selection-2khc",
+    "title": "Self-Hosted WAF on a $5 VPS: My Budget Security Setup",
+    "desc": "<h3>\n  \n  \n  The $5 Challenge\n</h3>\n\n<p>Can you run a production-grade WAF on the cheapest VPS available? I tested it on a $5/month VPS (1 v",
+    "link": "https://dev.to/lialiago/self-hosted-waf-on-a-5-vps-my-budget-security-setup-1pja",
+    "topic": "secops"
+  },
+  {
+    "title": "WAF Logs Explained: How to Read and Act on Attack Data",
+    "desc": "<h3>\n  \n  \n  The Dashboard Isn't Just Numbers\n</h3>\n\n<p>Your WAF blocks attacks. The Attack Logs tell you what those attacks were, where the",
+    "link": "https://dev.to/lialiago/waf-logs-explained-how-to-read-and-act-on-attack-data-43lj",
+    "topic": "secops"
+  },
+  {
+    "title": "Autoscaling Cold Starts: Maintaining P99 Latency Without Idle Costs",
+    "desc": "<h2>\n  \n  \n  Key takeaways\n</h2>\n\n<ul>\n<li>Optimize cold start strategies to maintain P99 latency.</li>\n<li>Use pre-warming techniques to mi",
+    "link": "https://dev.to/kapil/autoscaling-cold-starts-maintaining-p99-latency-without-idle-costs-3b74",
     "topic": "general"
   },
   {
-    "title": "Astar Network: What It Is and How to Connect via RPC",
-    "desc": "<h2>\n  \n  \n  Quick decision guide: connecting to Astar Network\n</h2>\n\n<p>Before you write your first query, decide which Astar endpoint you ",
-    "link": "https://dev.to/onfinality/astar-network-what-it-is-and-how-to-connect-via-rpc-12nn",
+    "title": "ViciDial VDAD Not Dialing \u2014 AST_VDadapt Process Troubleshooting",
+    "desc": "<h1>\n  \n  \n  ViciDial VDAD Not Dialing \u2014 AST_VDadapt Process Troubleshooting\n</h1>\n\n<p><strong>Learn how to diagnose and fix the AST_VDadapt",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-vdad-not-dialing-astvdadapt-process-troubleshooting-522g",
     "topic": "general"
   },
   {
-    "title": "Acala: What It Is, How It Works, and How to Connect Your dApp",
-    "desc": "<h2>\n  \n  \n  Quick Decision: How to Connect to Acala\n</h2>\n\n<p>Before diving into the details, here's a quick guide to help you decide how t",
-    "link": "https://dev.to/onfinality/acala-what-it-is-how-it-works-and-how-to-connect-your-dapp-31cj",
+    "title": "Bot Protection 101: Block Scrapers and Bad Bots Without Affecting Google",
+    "desc": "<h3>\n  \n  \n  Good Bots vs Bad Bots\n</h3>\n\n<p>Not all bots are created equal.</p>\n\n<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n",
+    "link": "https://dev.to/lialiago/bot-protection-101-block-scrapers-and-bad-bots-without-affecting-google-2bm9",
     "topic": "general"
   },
   {
-    "title": "H100 vs H200 vs B200: How to Choose a GPU for AI Workloads in 2026",
-    "desc": "<p>Choosing a GPU for AI infrastructure is becoming less straightforward.</p>\n\n<p>A few years ago, the question might have been:</p>\n\n<block",
-    "link": "https://dev.to/victor_azubuike_cbe29672b/h100-vs-h200-vs-b200-how-to-choose-a-gpu-for-ai-workloads-in-2026-4410",
-    "topic": "general"
-  },
-  {
-    "title": "Seu time trocou o refinamento pelo plan mode, e ningu\u00e9m mais precisa se falar",
-    "desc": "<p>A <strong>BruLethy</strong> era gerente s\u00eanior de dados numa das maiores empresas de tecnologia do mundo, e pediu demiss\u00e3o depois de oito",
-    "link": "https://dev.to/marcelofpalladino/seu-time-trocou-o-refinamento-pelo-plan-mode-e-ninguem-mais-precisa-se-falar-3d1k",
-    "topic": "general"
-  },
-  {
-    "title": "What Does a Self-Caring Software Look Like? (DataBuff Self-Monitoring & Self-Troubleshooting)",
-    "desc": "<p>When you're on call, the worst thing isn't that your business went down \u2014 it's that <strong>your monitoring platform itself broke and you",
-    "link": "https://dev.to/databufflabs/what-does-a-self-caring-software-look-like-databuff-self-monitoring-self-troubleshooting-4nie",
+    "title": "Geo-Blocking: Block Malicious Traffic from Specific Countries (2-Minute Setup)",
+    "desc": "<h3>\n  \n  \n  Why Geo-Block?\n</h3>\n\n<p>Not every country needs to reach your server. If you run a local business in Brazil, you don't need tr",
+    "link": "https://dev.to/lialiago/geo-blocking-block-malicious-traffic-from-specific-countries-2-minute-setup-h3i",
     "topic": "general"
   }
 ]
