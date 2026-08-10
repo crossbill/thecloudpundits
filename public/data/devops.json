@@ -1,5 +1,17 @@
 [
   {
+    "title": "Kubernetes: alertas de rollback con contexto real",
+    "desc": "<p>Cuando un rollout falla en Kubernetes, casi siempre sobra ruido y falta contexto. Llega una alerta, alguien mira el canal, y en menos de ",
+    "link": "https://dev.to/alexcarteruk/kubernetes-alertas-de-rollback-con-contexto-real-2em2",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "SSHBool: An Open-Source Desktop Workspace for SSH, SFTP and Remote Servers",
+    "desc": "<p>SSHBool: An Open-Source Desktop Workspace for SSH, SFTP and Remote Servers</p>\n\n<p>If you work with Linux servers regularly, you probably",
+    "link": "https://dev.to/omar_senusi/sshbool-an-open-source-desktop-workspace-for-ssh-sftp-and-remote-servers-4dpg",
+    "topic": "general"
+  },
+  {
     "title": "Stop switching tabs to fix your deployments: Giving LLMs hands on Netlify",
     "desc": "<p>I\u2019ve spent enough time in terminal windows and dashboard tabs to know that the most expensive part of modern development isn't the comput",
     "link": "https://dev.to/renato_marinho/stop-switching-tabs-to-fix-your-deployments-giving-llms-hands-on-netlify-14ha",
@@ -34,17 +46,5 @@
     "desc": "<p>You know the ritual.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>terragrunt run <span class=",
     "link": "https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8",
     "topic": "terraform"
-  },
-  {
-    "title": "Five files that go in before the agent writes a line",
-    "desc": "<p>You open an empty folder, type \"build me an app\", and for about two days it's magic.</p>\n\n<p>Then week two arrives. The agent drops a dat",
-    "link": "https://dev.to/mikobuilds/five-files-that-go-in-before-the-agent-writes-a-line-580e",
-    "topic": "general"
-  },
-  {
-    "title": "100 Days of DevOps and Cloud (AWS), Day 25: Git Won't Guess, and an Unconfirmed Alarm Never Rings",
-    "desc": "<p>Quarter of the way in, and Day 25 landed on a theme I did not expect: the last step of both tasks can only be completed by a person. Not ",
-    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-25-git-wont-guess-and-an-unconfirmed-alarm-never-rings-2e3b",
-    "topic": "aws"
   }
 ]
