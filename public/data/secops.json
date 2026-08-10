@@ -1,5 +1,23 @@
 [
   {
+    "title": "OpenAI\u2019s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
+    "desc": "<p>The current GPT-5.6-Sol has been assigned a \u2018high\u2019 cybersecurity threshold, but Astra could reach the maximum \u2018critical\u2019 threshold.\u00a0</p>\n",
+    "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
+    "topic": "openai"
+  },
+  {
+    "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
+    "desc": "<p>The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI ",
+    "link": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
+    "topic": "secops"
+  },
+  {
+    "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
+    "desc": "<p>Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition.</p>\n<p>The post <a href=\"https://w",
+    "link": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
+    "topic": "general"
+  },
+  {
     "title": "\u2018Ghostjacking\u2019 Attack Uses Poisoned Logs to Turn AI Agents Bad",
     "desc": "<p>An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word.</p>\n<p>T",
     "link": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
@@ -27,24 +45,6 @@
     "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
     "desc": "<p>The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands.</p>\n<p>The post <a href=\"https://www.s",
     "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
-    "desc": "<p>Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
-    "desc": "<p>The vulnerabilities affected software used by eight of Belgium\u2019s ten largest banks and over 60 government agencies.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
-    "topic": "aws"
-  },
-  {
-    "title": "Critical One-Click Vulnerability in Atlassian\u2019s Rovo AI Exposed Enterprise Data",
-    "desc": "<p>The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data.</p",
-    "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
     "topic": "secops"
   }
 ]

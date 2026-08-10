@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your Coding Agent Has a Supply Chain, and You Probably Have Not Scoped It",
-    "desc": "<p>We have spent two years arguing about whether AI writes good code. That argument has produced a lot of heat, a reasonable amount of evide",
-    "link": "https://dev.to/_firelinks/your-coding-agent-has-a-supply-chain-and-you-probably-have-not-scoped-it-30j5",
-    "topic": "general"
-  },
-  {
-    "title": "How many npm packages actually run code when you `npm install`? I measured a sample.",
-    "desc": "<p>The npm supply-chain conversation tends to happen without a denominator. \"Install scripts are dangerous\" \u2014 fine, but how many packages ev",
-    "link": "https://dev.to/myzura/how-many-npm-packages-actually-run-code-when-you-npm-install-i-measured-a-sample-45e4",
-    "topic": "general"
-  },
-  {
-    "title": "Catching MCP Command Injection Before It Catches You: 3 Real CVEs, One Detection Demo",
-    "desc": "<h1>\n  \n  \n  Catching MCP Command Injection Before It Catches You: 3 Real CVEs, One Detection Demo\n</h1>\n\n<blockquote>\n<p><strong>Bottom lin",
-    "link": "https://dev.to/correctover/catching-mcp-command-injection-before-it-catches-you-3-real-cves-one-detection-demo-5foa",
-    "topic": "general"
-  },
-  {
-    "title": "Building a DevSecOps Pipeline with Jenkins, SonarCloud, Trivy & Docker Hub, What I Learned the Hard Way",
-    "desc": "<p>If you have ever followed a CI/CD tutorial and had it work perfectly on the first try, this article probably is not for you. This is the ",
-    "link": "https://dev.to/anitaalicloud/building-a-devsecops-pipeline-with-jenkins-sonarcloud-trivy-docker-hub-what-i-learned-the-hard-jo6",
-    "topic": "docker"
-  },
-  {
-    "title": "Three Drifts, Three Catches: Running AI Builders Under a Fail-Closed Protocol",
-    "desc": "<p><em>The protocol, the full case archive, and copy-ready templates referenced here are public: <a href=\"https://github.com/choreoatlas/clo",
-    "link": "https://dev.to/kimi_k3_bot/three-drifts-three-catches-running-ai-builders-under-a-fail-closed-protocol-5ali",
-    "topic": "general"
-  },
-  {
-    "title": "I built a tool that catches AWS \"Free Tier\" surprises before terraform apply",
-    "desc": "<p>A few weeks ago I was learning Terraform on AWS, doing exactly what every<br />\nbeginner does \u2014 following a tutorial, copy-pasting a VPC ",
-    "link": "https://dev.to/nikhil_ganesh_7c32321d04d/i-built-a-tool-that-catches-aws-free-tier-surprises-before-terraform-apply-2jgb",
-    "topic": "aws"
-  },
-  {
-    "title": "Managed IT Infrastructure Services for Reliable, Scalable Business Operations",
+    "title": "When you are working with BIG DATA",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/izen_labs_4fa5a74f2aa0213/managed-it-infrastructure-services-for-reliable-scalable-business-operations-5ac2",
+    "link": "https://dev.to/chaminduperera/when-you-are-working-with-big-data-5a74",
     "topic": "general"
   },
   {
-    "title": "Latest PUBG Mobile Redeem Codes 2025 \u2013 Get Free UC, Skins, and Outfits Instantly",
-    "desc": "<p>Latest PUBG Mobile Redeem Codes 2025 \u2013 Get Free UC, Skins, and Outfits Instantly<br />\nIf you\u2019re looking for genuine ways to unlock PUBG ",
-    "link": "https://dev.to/bhatti_lyrics_514b8814632/latest-pubg-mobile-redeem-codes-2025-get-free-uc-skins-and-outfits-instantly-165m",
+    "title": "My health check passed for weeks while reading nothing",
+    "desc": "<p>One of my monitoring checks reported \"all clear\" on every run for weeks. It was reading an empty list and calling that good news.</p>\n\n<p",
+    "link": "https://dev.to/layercall/my-health-check-passed-for-weeks-while-reading-nothing-2c7f",
+    "topic": "general"
+  },
+  {
+    "title": "Tie Terraform Apply Emails to One Change Set",
+    "desc": "<p>Terraform apply emails are useful right until two pipelines overlap and nobody is sure which message belongs to which infrastructure chan",
+    "link": "https://dev.to/jasonmills94/tie-terraform-apply-emails-to-one-change-set-3i3b",
+    "topic": "terraform"
+  },
+  {
+    "title": "The Invisible Secret: How Brabic Shapewear Transforms Your Wardrobe",
+    "desc": "<p>Every fashion enthusiast knows the secret to a flawless outfit: it is not just about what people see \u2014 it is about what they do not see. ",
+    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/the-invisible-secret-how-brabic-shapewear-transforms-your-wardrobe-3l4m",
+    "topic": "general"
+  },
+  {
+    "title": "In zsh, a second `local` on the same name prints it \u2014 how five bytes faked a six-day database outage",
+    "desc": "<p>For six consecutive mornings, the freshness sweep behind our free directory list failed at the same place. Its preflight gate probes Post",
+    "link": "https://dev.to/kynth/in-zsh-a-second-local-on-the-same-name-prints-it-how-five-bytes-faked-a-six-day-database-outage-366k",
+    "topic": "general"
+  },
+  {
+    "title": "The Silent Failure Detection Framework: Catching Agents That \"Succeed\" and Do Nothing",
+    "desc": "<p>Your LLM agent returned a response. No error, no exception. But did it actually do what you asked?</p>\n\n<p>That's the silent failure prob",
+    "link": "https://dev.to/opsveritas/the-silent-failure-detection-framework-catching-agents-that-succeed-and-do-nothing-ak4",
+    "topic": "general"
+  },
+  {
+    "title": "This One YAML Key Makes GitHub Actions Workflow Runs Easy to Identify",
+    "desc": "<p>** This One YAML Key Makes GitHub Actions Workflow Runs Easy to Identify **</p>\n\n<p>I've been using github actions for years now and rece",
+    "link": "https://dev.to/divyansh_singh_9d308cd60f/this-one-yaml-key-makes-github-actions-workflow-runs-easy-to-identify-53ge",
+    "topic": "general"
+  },
+  {
+    "title": "AI Agent Architecture: Skills, Evals & Dark Factories",
+    "desc": "<p><strong>TL;DR:</strong> AI agents can write incredible code, but they can also write absolute garbage. Because there is no industry stand",
+    "link": "https://dev.to/doogal/ai-agent-architecture-skills-evals-dark-factories-2p8i",
     "topic": "general"
   }
 ]
