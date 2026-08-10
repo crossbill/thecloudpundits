@@ -1,50 +1,50 @@
 [
   {
-    "title": "After the free credits run out, how to transition from startup cloud programs to production pricing without bill shock",
-    "desc": "<blockquote>\n<p><strong>TL;DR</strong> The credit cliff kills runway not because cloud bills grow, but because the pricing environment chang",
-    "link": "https://dev.to/zop_8abedcc7e12/after-the-free-credits-run-out-how-to-transition-from-startup-cloud-programs-to-production-pricing-gjc",
+    "title": "I Built an App to Manage My Servers From My Phone",
+    "desc": "<p>For a while, I noticed that I was doing the same things over and over again when managing my own servers. Whenever I needed to check some",
+    "link": "https://dev.to/fatihkurtl/i-built-an-app-to-manage-my-servers-from-my-phone-5eob",
     "topic": "general"
   },
   {
-    "title": "Static runbooks vs LLM-driven playbooks: what breaks at 3 am",
-    "desc": "<blockquote>\n<p><strong>TL;DR</strong> Static runbooks fail at 3 AM not because engineers write them poorly, but because incidents refuse to",
-    "link": "https://dev.to/zop_8abedcc7e12/static-runbooks-vs-llm-driven-playbooks-what-breaks-at-3-am-1b8b",
-    "topic": "general"
-  },
-  {
-    "title": "Master anydoc in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 87% of developers struggle to effectively integrate AI-generated code into their workf",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-1a8h",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Dropping Established Sessions on Failover: Practical conntrackd State Sync on Linux",
-    "desc": "<h1>\n  \n  \n  Stop Dropping Established Sessions on Failover: Practical conntrackd State Sync on Linux\n</h1>\n\n<p>A floating VIP with keepaliv",
-    "link": "https://dev.to/lyraalishaikh/stop-dropping-established-sessions-on-failover-practical-conntrackd-state-sync-on-linux-2lcn",
-    "topic": "general"
-  },
-  {
-    "title": "Cheap HA in Kubernetes and the cost of the second replica",
-    "desc": "<h2>\n  \n  \n  Field Note\n</h2>\n\n<p>I keep seeing the same tension: everyone wants \"cheap but resilient\", nobody wants to pay for the second r",
-    "link": "https://dev.to/abhinav2001/cheap-ha-in-kubernetes-and-the-cost-of-the-second-replica-3hd",
+    "title": "Docker vs Kubernetes: When You Need One, the Other, or Both",
+    "desc": "<p>Docker and Kubernetes aren't really competitors - Docker packages applications into containers, while Kubernetes orchestrates many contai",
+    "link": "https://dev.to/acquriotech/docker-vs-kubernetes-when-you-need-one-the-other-or-both-k6j",
     "topic": "kubernetes"
   },
   {
-    "title": "What I Learned Building a Production LMS with Node.js, MongoDB & AWS in 2026",
-    "desc": "<p>Building an LMS looks simple at the beginning.</p>\n\n<p>You need users, classes, payments, attendance, recordings, homework, notifications",
-    "link": "https://dev.to/tisankan/what-i-learned-building-a-production-lms-with-nodejs-mongodb-aws-in-2026-26dd",
-    "topic": "aws"
-  },
-  {
-    "title": "\ud83d\udc0d How to showcase Python projects on GitHub for freshers",
-    "desc": "<h2>\n  \n  \n  \ud83d\udcbb Repositories \u2014 Why They <em>Matter</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/i",
-    "link": "https://dev.to/ptp2308/how-to-showcase-python-projects-on-github-for-freshers-28mi",
+    "title": "Bmup Multi-Asset Institute Builds a Stronger Framework for Operational Stability",
+    "desc": "<p>Bmup Multi-Asset Institute is strengthening its business continuity and operational preparedness framework as part of its broader effort ",
+    "link": "https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-builds-a-stronger-framework-for-operational-stability-4pcf",
     "topic": "general"
   },
   {
-    "title": "Managed IT Support Pricing: What's Included and What It Should Cost",
-    "desc": "<p>Cost is driven by the number of users and devices, the support hours and SLA you need, and how much security and compliance work is in sc",
-    "link": "https://dev.to/acquriotech/managed-it-support-pricing-whats-included-and-what-it-should-cost-cj6",
+    "title": "\"401 from 169.254.169.254 \u2014 fixing EC2 instances after the IMDSv2 enforcement deadline\"",
+    "desc": "<p>If your EC2 instance, CI runner, or Kubernetes node started returning credential errors or a bare <code>401</code> from <code>http://169.",
+    "link": "https://dev.to/ntoledo319/401-from-169254169254-fixing-ec2-instances-after-the-imdsv2-enforcement-deadline-1g4m",
+    "topic": "general"
+  },
+  {
+    "title": "What Are the Best AI Certifications You Can Complete Online at Your Own Pace?",
+    "desc": "<p>Artificial intelligence is rapidly becoming an important skill for professionals across technology, finance, marketing, healthcare, and b",
+    "link": "https://dev.to/ailearning/what-are-the-best-ai-certifications-you-can-complete-online-at-your-own-pace-340o",
+    "topic": "general"
+  },
+  {
+    "title": "RDS Backup Restore Testing: 7 Checks Before You Trust It",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/10/rds-backup-restore-testing-7-checks-before-you-trust-it\" rel=\"noop",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/rds-backup-restore-testing-7-checks-before-you-trust-it-oam",
+    "topic": "general"
+  },
+  {
+    "title": "The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026",
+    "desc": "<p>The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026</p>\n\n<p>A major financial transformation is taking plac",
+    "link": "https://dev.to/adeniran_adebayoadekunle/the-silent-wealth-shift-why-millions-are-looking-beyond-traditional-jobs-in-2026-54ji",
+    "topic": "general"
+  },
+  {
+    "title": "S3 Access Denied Troubleshooting: Every Cause and How to Fix It (2026)",
+    "desc": "<p>If you are staring at <code>An error occurred (AccessDenied) when calling the GetObject operation: Access Denied</code>, this guide walks",
+    "link": "https://dev.to/muskan_bandta/s3-access-denied-troubleshooting-every-cause-and-how-to-fix-it-2026-27a2",
     "topic": "general"
   }
 ]
