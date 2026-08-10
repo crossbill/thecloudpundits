@@ -1,5 +1,17 @@
 [
   {
+    "title": "I built a secret detector. GitHub blocked my push for containing secrets.",
+    "desc": "<p>Every rule in a secret scanner needs a fixture \u2014 a value that proves the pattern fires. Mine looked like this:<br />\n</p>\n\n<div class=\"hi",
+    "link": "https://dev.to/henrique_yuri_f42f2fca47a/i-built-a-secret-detector-github-blocked-my-push-for-containing-secrets-29fc",
+    "topic": "general"
+  },
+  {
+    "title": "Deep Dive: Mitigating the Metabase SQL Injection Zero-Day in Cloud and Self-Hosted Environments",
+    "desc": "<h2>\n  \n  \n  \ud83d\udd10 The Architectural Vulnerability of Business Intelligence Layers\n</h2>\n\n<p>As a senior technology editor and systems architect",
+    "link": "https://dev.to/isuvo/deep-dive-mitigating-the-metabase-sql-injection-zero-day-in-cloud-and-self-hosted-environments-ooa",
+    "topic": "general"
+  },
+  {
     "title": "Turn a DevOps API into Governed Agent Skills with NodeJS",
     "desc": "<p>It's 3 AM. A production service is misbehaving, you're on-call, and you'd love an agent that can pull the service's health and tee up a r",
     "link": "https://dev.to/nisa_fatima_bcd75fa085b76/turn-a-devops-api-into-governed-agent-skills-with-nodejs-4f05",
@@ -12,7 +24,7 @@
     "topic": "general"
   },
   {
-    "title": "One GPU, four ways to share it: ten scenarios, and the one number that inverts on your hardware",
+    "title": "One GPU, four ways to share it: ten scenarios, and the headline finding I had to retract",
     "desc": "<p>Everyone running local models eventually has more models than GPUs. There are several answers to that, and until last week I was picking ",
     "link": "https://dev.to/defilan/one-gpu-four-ways-to-share-it-ten-scenarios-and-the-one-number-that-inverts-on-your-hardware-1bih",
     "topic": "general"
@@ -33,18 +45,6 @@
     "title": "From Manual APKs to Automated Play Store Releases: Every Mistake We Made Shipping Two Android Apps From One Codebase",
     "desc": "<p><em>A complete debugging journey through automating a multi-app Android release pipeline \u2014 from local builds burning out a free tier, to ",
     "link": "https://dev.to/cynthizo/from-manual-apks-to-automated-play-store-releases-every-mistake-we-made-shipping-two-android-apps-2l3n",
-    "topic": "general"
-  },
-  {
-    "title": "Catching money bugs with ledger invariants, not error logs",
-    "desc": "<p>A payout that credits the wrong sub-account returns HTTP 200. Nothing throws, the worker acknowledges the message, the error dashboards s",
-    "link": "https://dev.to/shipmindlabs/catching-money-bugs-with-ledger-invariants-not-error-logs-3o4l",
-    "topic": "general"
-  },
-  {
-    "title": "GRR Rapid Response: Free, Open-Source Remote Forensics (CISA-Listed)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/grr-rapid-response-free-open-source-remote-forensics-cisa-listed-11oc",
     "topic": "general"
   }
 ]
