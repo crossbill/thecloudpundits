@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Tech Skill Isn't Enough: 5 Learning Ethics Every Developer Should Build.",
-    "desc": "<p>You can learn JavaScript.</p>\n\n<p>You can learn Python.</p>\n\n<p>You can learn React, cybersecurity, data science, AI or cloud computing.<",
-    "link": "https://dev.to/tech_ng/the-tech-skill-isnt-enough-5-learning-ethics-every-developer-should-build-3nfh",
+    "title": "Your Coding Agent Has a Supply Chain, and You Probably Have Not Scoped It",
+    "desc": "<p>We have spent two years arguing about whether AI writes good code. That argument has produced a lot of heat, a reasonable amount of evide",
+    "link": "https://dev.to/_firelinks/your-coding-agent-has-a-supply-chain-and-you-probably-have-not-scoped-it-30j5",
     "topic": "general"
   },
   {
-    "title": "Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems",
-    "desc": "<h1>\n  \n  \n  Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems\n</h1>\n\n<p>AI agents are getting more p",
-    "link": "https://dev.to/trismegistus/docker-sandboxes-for-ai-agents-why-isolation-is-the-missing-piece-in-autonomous-systems-57kn",
+    "title": "How many npm packages actually run code when you `npm install`? I measured a sample.",
+    "desc": "<p>The npm supply-chain conversation tends to happen without a denominator. \"Install scripts are dangerous\" \u2014 fine, but how many packages ev",
+    "link": "https://dev.to/myzura/how-many-npm-packages-actually-run-code-when-you-npm-install-i-measured-a-sample-45e4",
+    "topic": "general"
+  },
+  {
+    "title": "Catching MCP Command Injection Before It Catches You: 3 Real CVEs, One Detection Demo",
+    "desc": "<h1>\n  \n  \n  Catching MCP Command Injection Before It Catches You: 3 Real CVEs, One Detection Demo\n</h1>\n\n<blockquote>\n<p><strong>Bottom lin",
+    "link": "https://dev.to/correctover/catching-mcp-command-injection-before-it-catches-you-3-real-cves-one-detection-demo-5foa",
+    "topic": "general"
+  },
+  {
+    "title": "Building a DevSecOps Pipeline with Jenkins, SonarCloud, Trivy & Docker Hub, What I Learned the Hard Way",
+    "desc": "<p>If you have ever followed a CI/CD tutorial and had it work perfectly on the first try, this article probably is not for you. This is the ",
+    "link": "https://dev.to/anitaalicloud/building-a-devsecops-pipeline-with-jenkins-sonarcloud-trivy-docker-hub-what-i-learned-the-hard-jo6",
     "topic": "docker"
   },
   {
-    "title": "How to Audit a Mobile App Development Company: An Engineering Manager's Playbook",
-    "desc": "<p>A few years back I sat in on a vendor pitch that had everything - polished slides, a confident VP walking through \"agile delivery,\" a sli",
-    "link": "https://dev.to/charles_wade/how-to-audit-a-mobile-app-development-company-an-engineering-managers-playbook-13g3",
+    "title": "Three Drifts, Three Catches: Running AI Builders Under a Fail-Closed Protocol",
+    "desc": "<p><em>The protocol, the full case archive, and copy-ready templates referenced here are public: <a href=\"https://github.com/choreoatlas/clo",
+    "link": "https://dev.to/kimi_k3_bot/three-drifts-three-catches-running-ai-builders-under-a-fail-closed-protocol-5ali",
     "topic": "general"
   },
   {
-    "title": "Master anydoc in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually integrating AI-generated code into my Rust project, only to realize ",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-ina",
+    "title": "I built a tool that catches AWS \"Free Tier\" surprises before terraform apply",
+    "desc": "<p>A few weeks ago I was learning Terraform on AWS, doing exactly what every<br />\nbeginner does \u2014 following a tutorial, copy-pasting a VPC ",
+    "link": "https://dev.to/nikhil_ganesh_7c32321d04d/i-built-a-tool-that-catches-aws-free-tier-surprises-before-terraform-apply-2jgb",
+    "topic": "aws"
+  },
+  {
+    "title": "Managed IT Infrastructure Services for Reliable, Scalable Business Operations",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/izen_labs_4fa5a74f2aa0213/managed-it-infrastructure-services-for-reliable-scalable-business-operations-5ac2",
     "topic": "general"
   },
   {
-    "title": "ColdFusion Overusing Application Scope: Memory Leaks, Race Conditions, and the Right Fix",
-    "desc": "<p>The application scope is one of ColdFusion's most useful features and one of its most abused. It's a single, server-persistent, shared-ac",
-    "link": "https://dev.to/deepak_sir__/coldfusion-overusing-application-scope-memory-leaks-race-conditions-and-the-right-fix-332g",
-    "topic": "general"
-  },
-  {
-    "title": "Scaling Computer Vision Pipelines: Moving Beyond the \"Data Graveyard\" in Industrial IoT",
-    "desc": "<p>In industrial software engineering, we frequently run into a massive architectural bottleneck: the \"data graveyard.\" Industrial inspectio",
-    "link": "https://dev.to/techwithunnati/scaling-computer-vision-pipelines-moving-beyond-the-data-graveyard-in-industrial-iot-2b3j",
-    "topic": "general"
-  },
-  {
-    "title": "GPT-5.6 Fast mode long context: price the 272K threshold before rollout",
-    "desc": "<h1>\n  \n  \n  GPT-5.6 Fast mode long context: price the 272K threshold before rollout\n</h1>\n\n<h2>\n  \n  \n  Quick answer\n</h2>\n\n<p>OpenAI's Aug",
-    "link": "https://dev.to/ahab_indieseek/gpt-56-fast-mode-long-context-price-the-272k-threshold-before-rollout-5cpe",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Linear Actuator Cycle-Time Calculator in Python",
-    "desc": "<p>When estimating the output of an automated machine, actuator speed alone does not tell the whole story.</p>\n\n<p>A reciprocating axis norm",
-    "link": "https://dev.to/orion_lc/build-a-linear-actuator-cycle-time-calculator-in-python-9ji",
+    "title": "Latest PUBG Mobile Redeem Codes 2025 \u2013 Get Free UC, Skins, and Outfits Instantly",
+    "desc": "<p>Latest PUBG Mobile Redeem Codes 2025 \u2013 Get Free UC, Skins, and Outfits Instantly<br />\nIf you\u2019re looking for genuine ways to unlock PUBG ",
+    "link": "https://dev.to/bhatti_lyrics_514b8814632/latest-pubg-mobile-redeem-codes-2025-get-free-uc-skins-and-outfits-instantly-165m",
     "topic": "general"
   }
 ]
