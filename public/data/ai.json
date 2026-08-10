@@ -1,5 +1,11 @@
 [
   {
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "desc": "",
+    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "topic": "general"
+  },
+  {
     "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
     "desc": "",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "topic": "general"
-  },
-  {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "desc": "",
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "topic": "secops"
   }
 ]

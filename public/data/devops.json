@@ -1,50 +1,50 @@
 [
   {
-    "title": "Adding a \u201cControl de Obra\u201d Module to Ventas\u202f \u202fDesarrollos (NestJS + Next.js)",
-    "desc": "<h1>\n  \n  \n  Adding a \u201cControl de Obra\u201d Module to Ventas\u202f\u2192\u202fDesarrollos (NestJS + Next.js)\n</h1>\n\n<p><strong>TL;DR:</strong> I built a brand\u2011",
-    "link": "https://dev.to/zaerohell/adding-a-control-de-obra-module-to-ventas-desarrollos-nestjs-nextjs-71l",
-    "topic": "general"
-  },
-  {
-    "title": "Shipping MiniMax H3 three days after the weights dropped",
-    "desc": "<p>MiniMax released the open weights for H3, their omni-modal video model, on August 3. By August 6 it was running in production on our own ",
-    "link": "https://dev.to/joul_dev/shipping-minimax-h3-three-days-after-the-weights-dropped-2dp8",
-    "topic": "general"
-  },
-  {
-    "title": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043e\u0442 \u0445\u0430\u043e\u0442\u0438\u0447\u043d\u044b\u0445 API-\u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432 \u043a \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u043c\u0443 \u043a\u043e\u043d\u0442\u0443\u0440\u0443",
-    "desc": "<h2>\n  \n  \n  \u041f\u0440\u043e\u0431\u043b\u0435\u043c\u0430 \u0431\u0435\u0441\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f LLM \u0432 \u043f\u0440\u043e\u0434\u0430\u043a\u0448\u0435\u043d\u0435\n</h2>\n\n<p>\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438 \u0437\u0430\u043f\u0443\u0441\u043a \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u043e\u0432 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f \u0432 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d",
-    "link": "https://dev.to/cambo_com_ec380d18b329e5c/arkhitiektura-korporativnykh-ai-aghientov-ot-khaotichnykh-api-zaprosov-k-izolirovannomu-konturu-31c5",
-    "topic": "general"
-  },
-  {
-    "title": "PHP 8.6 \u2014 mass deprecation vote closes Aug 10",
-    "desc": "<p>PHP 8.6: 35 deprecations just passed \u2014 and it's not as harmless for your prod logs as it looks.</p>\n\n<p>Nothing breaks in 8.6 itself: dep",
-    "link": "https://dev.to/evtenko/php-86-mass-deprecation-vote-closes-aug-10-52o1",
-    "topic": "general"
-  },
-  {
-    "title": "How to vet an AI gateway before you route production traffic through it (we run one \u2014 here's the checklist we grade ourselves against)",
-    "desc": "<p>Routing your LLM traffic through a gateway is handing a stranger two things at once: your prompts and your billing. Discovery is easy \u2014 t",
-    "link": "https://dev.to/yansen_zhu_9b0dae1c4cc0da/how-to-vet-an-ai-gateway-before-you-route-production-traffic-through-it-we-run-one-heres-the-4pj7",
-    "topic": "general"
-  },
-  {
-    "title": "Three Clouds, Three Native Agents",
+    "title": "GRR Rapid Response: Free, Open-Source Remote Forensics (CISA-Listed)",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/aws-builders/three-clouds-three-native-agents-5hda",
+    "link": "https://dev.to/xpert4cyber/grr-rapid-response-free-open-source-remote-forensics-cisa-listed-11oc",
     "topic": "general"
   },
   {
-    "title": "We Ditched MongoDB Atlas for AWS DocumentDB \u2014 Here's Exactly How We Did It",
-    "desc": "<h1>\n  \n  \n  We Ditched MongoDB Atlas for AWS DocumentDB \u2014 Here's Exactly How We Did It\n</h1>\n\n<blockquote>\n<p>One connection string change.",
-    "link": "https://dev.to/elonerajeev1/we-ditched-mongodb-atlas-for-aws-documentdb-heres-exactly-how-we-did-it-with-real-commands-3aak",
-    "topic": "aws"
+    "title": "8 Docker Web UIs Compared in 2026: Portainer is No Longer the Only Answer",
+    "desc": "<p>For years the answer to \"what web UI should I use for Docker?\" was <strong>Portainer</strong>, full stop. In 2026 that answer is more nua",
+    "link": "https://dev.to/vasilipascal/8-docker-web-uis-compared-in-2026-portainer-is-no-longer-the-only-answer-3a2m",
+    "topic": "docker"
   },
   {
-    "title": "When you are working with BIG DATA",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/chaminduperera/when-you-are-working-with-big-data-5a74",
+    "title": "The Alert Tells You Something Is Wrong. FixBugs Tells You, \u201cI\u2019ll Fix It.",
+    "desc": "<p>A production alert fires.</p>\n\n<p>You know something is wrong.</p>\n\n<p>But the alert rarely tells you why.</p>\n\n<p>So the debugging proce",
+    "link": "https://dev.to/robin_thedude_4ce28b7b54/the-alert-tells-you-something-is-wrong-fixbugs-tells-you-ill-fix-it-31fj",
+    "topic": "general"
+  },
+  {
+    "title": "How I run 15 projects with Claude Code without losing the thread",
+    "desc": "<p>Fifteen projects, one person. The obvious failure mode is that you spend your day switching between them, and by evening you have touched",
+    "link": "https://dev.to/martinschenk/how-i-run-15-projects-with-claude-code-without-losing-the-thread-23lb",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Local AI Agents: How to Build a 100% Free Autonomous Coding Assistant on Your Laptop (Zero API Fees)",
+    "desc": "<h1>\n  \n  \n  Local AI Agents: How to Build a 100% Free Autonomous Coding Assistant on Your Laptop (Zero API Fees)\n</h1>\n\n<p>Developers and s",
+    "link": "https://dev.to/lakshanmuruganandam/local-ai-agents-how-to-build-a-100-free-autonomous-coding-assistant-on-your-laptop-zero-api-fees-39fc",
+    "topic": "general"
+  },
+  {
+    "title": "Master anydoc in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours struggling to integrate anydoc with my Rust project, only to realize I was do",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-1iof",
+    "topic": "general"
+  },
+  {
+    "title": "AIoT Isn't About Connecting Everything\u2014It's About Understanding It",
+    "desc": "<p>We've spent years making machines, equipment, assets, and workplaces more connected.</p>\n\n<p>But there's a catch:</p>\n\n<p>More connectivi",
+    "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-isnt-about-connecting-everything-its-about-understanding-it-38ae",
+    "topic": "general"
+  },
+  {
+    "title": "unissh \u2013 a modern and secure, fully open-source SSH client with a built-in sync server",
+    "desc": "<p>Hi everyone!</p>\n\n<p>I'd like to show you <strong>unissh</strong> \u2013 a modern, simple, open source SSH client with a self-hosted zero-know",
+    "link": "https://dev.to/goduni/unissh-a-modern-and-secure-fully-open-source-ssh-client-with-a-built-in-sync-server-14nh",
     "topic": "general"
   }
 ]
