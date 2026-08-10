@@ -1,5 +1,41 @@
 [
   {
+    "title": "After the free credits run out, how to transition from startup cloud programs to production pricing without bill shock",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong> The credit cliff kills runway not because cloud bills grow, but because the pricing environment chang",
+    "link": "https://dev.to/zop_8abedcc7e12/after-the-free-credits-run-out-how-to-transition-from-startup-cloud-programs-to-production-pricing-gjc",
+    "topic": "general"
+  },
+  {
+    "title": "Static runbooks vs LLM-driven playbooks: what breaks at 3 am",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong> Static runbooks fail at 3 AM not because engineers write them poorly, but because incidents refuse to",
+    "link": "https://dev.to/zop_8abedcc7e12/static-runbooks-vs-llm-driven-playbooks-what-breaks-at-3-am-1b8b",
+    "topic": "general"
+  },
+  {
+    "title": "Master anydoc in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 87% of developers struggle to effectively integrate AI-generated code into their workf",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-1a8h",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Dropping Established Sessions on Failover: Practical conntrackd State Sync on Linux",
+    "desc": "<h1>\n  \n  \n  Stop Dropping Established Sessions on Failover: Practical conntrackd State Sync on Linux\n</h1>\n\n<p>A floating VIP with keepaliv",
+    "link": "https://dev.to/lyraalishaikh/stop-dropping-established-sessions-on-failover-practical-conntrackd-state-sync-on-linux-2lcn",
+    "topic": "general"
+  },
+  {
+    "title": "Cheap HA in Kubernetes and the cost of the second replica",
+    "desc": "<h2>\n  \n  \n  Field Note\n</h2>\n\n<p>I keep seeing the same tension: everyone wants \"cheap but resilient\", nobody wants to pay for the second r",
+    "link": "https://dev.to/abhinav2001/cheap-ha-in-kubernetes-and-the-cost-of-the-second-replica-3hd",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "What I Learned Building a Production LMS with Node.js, MongoDB & AWS in 2026",
+    "desc": "<p>Building an LMS looks simple at the beginning.</p>\n\n<p>You need users, classes, payments, attendance, recordings, homework, notifications",
+    "link": "https://dev.to/tisankan/what-i-learned-building-a-production-lms-with-nodejs-mongodb-aws-in-2026-26dd",
+    "topic": "aws"
+  },
+  {
     "title": "\ud83d\udc0d How to showcase Python projects on GitHub for freshers",
     "desc": "<h2>\n  \n  \n  \ud83d\udcbb Repositories \u2014 Why They <em>Matter</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/i",
     "link": "https://dev.to/ptp2308/how-to-showcase-python-projects-on-github-for-freshers-28mi",
@@ -9,42 +45,6 @@
     "title": "Managed IT Support Pricing: What's Included and What It Should Cost",
     "desc": "<p>Cost is driven by the number of users and devices, the support hours and SLA you need, and how much security and compliance work is in sc",
     "link": "https://dev.to/acquriotech/managed-it-support-pricing-whats-included-and-what-it-should-cost-cj6",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted WAF on a $5 VPS: My Budget Security Setup",
-    "desc": "<h3>\n  \n  \n  The $5 Challenge\n</h3>\n\n<p>Can you run a production-grade WAF on the cheapest VPS available? I tested it on a $5/month VPS (1 v",
-    "link": "https://dev.to/lialiago/self-hosted-waf-on-a-5-vps-my-budget-security-setup-1pja",
-    "topic": "secops"
-  },
-  {
-    "title": "WAF Logs Explained: How to Read and Act on Attack Data",
-    "desc": "<h3>\n  \n  \n  The Dashboard Isn't Just Numbers\n</h3>\n\n<p>Your WAF blocks attacks. The Attack Logs tell you what those attacks were, where the",
-    "link": "https://dev.to/lialiago/waf-logs-explained-how-to-read-and-act-on-attack-data-43lj",
-    "topic": "secops"
-  },
-  {
-    "title": "Autoscaling Cold Starts: Maintaining P99 Latency Without Idle Costs",
-    "desc": "<h2>\n  \n  \n  Key takeaways\n</h2>\n\n<ul>\n<li>Optimize cold start strategies to maintain P99 latency.</li>\n<li>Use pre-warming techniques to mi",
-    "link": "https://dev.to/kapil/autoscaling-cold-starts-maintaining-p99-latency-without-idle-costs-3b74",
-    "topic": "general"
-  },
-  {
-    "title": "ViciDial VDAD Not Dialing \u2014 AST_VDadapt Process Troubleshooting",
-    "desc": "<h1>\n  \n  \n  ViciDial VDAD Not Dialing \u2014 AST_VDadapt Process Troubleshooting\n</h1>\n\n<p><strong>Learn how to diagnose and fix the AST_VDadapt",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/vicidial-vdad-not-dialing-astvdadapt-process-troubleshooting-522g",
-    "topic": "general"
-  },
-  {
-    "title": "Bot Protection 101: Block Scrapers and Bad Bots Without Affecting Google",
-    "desc": "<h3>\n  \n  \n  Good Bots vs Bad Bots\n</h3>\n\n<p>Not all bots are created equal.</p>\n\n<div class=\"table-wrapper-paragraph\"><table>\n<thead>\n<tr>\n",
-    "link": "https://dev.to/lialiago/bot-protection-101-block-scrapers-and-bad-bots-without-affecting-google-2bm9",
-    "topic": "general"
-  },
-  {
-    "title": "Geo-Blocking: Block Malicious Traffic from Specific Countries (2-Minute Setup)",
-    "desc": "<h3>\n  \n  \n  Why Geo-Block?\n</h3>\n\n<p>Not every country needs to reach your server. If you run a local business in Brazil, you don't need tr",
-    "link": "https://dev.to/lialiago/geo-blocking-block-malicious-traffic-from-specific-countries-2-minute-setup-h3i",
     "topic": "general"
   }
 ]

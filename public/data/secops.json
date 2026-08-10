@@ -1,5 +1,11 @@
 [
   {
+    "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+    "desc": "<p>The vulnerabilities affected software used by eight of Belgium\u2019s ten largest banks and over 60 government agencies.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+    "topic": "aws"
+  },
+  {
     "title": "Critical One-Click Vulnerability in Atlassian\u2019s Rovo AI Exposed Enterprise Data",
     "desc": "<p>The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data.</p",
     "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
@@ -40,11 +46,5 @@
     "desc": "<p>Hackers stole personal, medical, and health insurance information from a company\u2019s data center.</p>\n<p>The post <a href=\"https://www.secu",
     "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
     "topic": "secops"
-  },
-  {
-    "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
-    "desc": "<p>The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
-    "topic": "general"
   }
 ]
