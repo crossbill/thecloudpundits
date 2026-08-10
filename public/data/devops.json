@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Built an App to Manage My Servers From My Phone",
-    "desc": "<p>For a while, I noticed that I was doing the same things over and over again when managing my own servers. Whenever I needed to check some",
-    "link": "https://dev.to/fatihkurtl/i-built-an-app-to-manage-my-servers-from-my-phone-5eob",
+    "title": "Fix npm --allow-scripts not allowed in project installs",
+    "desc": "<p>Run <code>npm install --allow-scripts=sharp</code> inside a repo on npm 12 and it stops dead: <code>npm error code EALLOWSCRIPTS</code>, ",
+    "link": "https://dev.to/indra_gustiprasetya_a80a/fix-npm-allow-scripts-not-allowed-in-project-installs-4j3h",
     "topic": "general"
   },
   {
-    "title": "Docker vs Kubernetes: When You Need One, the Other, or Both",
-    "desc": "<p>Docker and Kubernetes aren't really competitors - Docker packages applications into containers, while Kubernetes orchestrates many contai",
-    "link": "https://dev.to/acquriotech/docker-vs-kubernetes-when-you-need-one-the-other-or-both-k6j",
+    "title": "Docker Sandboxes in 2026: The Evolution of Secure Code Isolation",
+    "desc": "<h1>\n  \n  \n  Docker Sandboxes in 2026: The Evolution of Secure Code Isolation\n</h1>\n\n<p>If you've scrolled Hacker News this year, you've pro",
+    "link": "https://dev.to/kaixintelligence/docker-sandboxes-in-2026-the-evolution-of-secure-code-isolation-55b8",
+    "topic": "docker"
+  },
+  {
+    "title": "Why Your Multi-Agent AI System Is Probably a Ticking Time Bomb",
+    "desc": "<h2>\n  \n  \n  Why Your Multi-Agent AI System Is Probably a Ticking Time Bomb\n</h2>\n\n<p>You've built a multi-agent AI system. Maybe it's a res",
+    "link": "https://dev.to/icentric/why-your-multi-agent-ai-system-is-probably-a-ticking-time-bomb-3efc",
+    "topic": "general"
+  },
+  {
+    "title": "Giving an AI Coding Agent a Job Without Giving It Your Credentials",
+    "desc": "<p>There's a conversation happening on DEV right now about what happens when AI agents get more tools and the boundaries around those tools ",
+    "link": "https://dev.to/gitlab_3188/giving-an-ai-coding-agent-a-job-without-giving-it-your-credentials-10a4",
+    "topic": "general"
+  },
+  {
+    "title": "5 Key DevOps Practices Transforming Modern Software Delivery",
+    "desc": "<p><a href=\"https://www.pal.tech/devsecops/\" rel=\"noopener noreferrer\">DevOps</a> has fundamentally changed how organizations build, test, d",
+    "link": "https://dev.to/marcom/5-key-devops-practices-transforming-modern-software-delivery-2j7h",
+    "topic": "general"
+  },
+  {
+    "title": "PacketWolf: Bringing eBPF Network Intelligence to Kubernetes and Virtual Machines",
+    "desc": "<p>Modern infrastructure networking has a visibility problem.</p>\n\n<p>We can usually answer questions like:</p>\n\n<ul>\n<li>Which IP talked to",
+    "link": "https://dev.to/ssahani/packetwolf-bringing-ebpf-network-intelligence-to-kubernetes-and-virtual-machines-18ek",
     "topic": "kubernetes"
   },
   {
-    "title": "Bmup Multi-Asset Institute Builds a Stronger Framework for Operational Stability",
-    "desc": "<p>Bmup Multi-Asset Institute is strengthening its business continuity and operational preparedness framework as part of its broader effort ",
-    "link": "https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-builds-a-stronger-framework-for-operational-stability-4pcf",
+    "title": "Before Your AI Coding Agent Gets More Tools, Test Where Its Boundaries Actually Are",
+    "desc": "<p>AI coding agents are quietly gaining more powers: shell access, file writes, package installs, network calls, git push. Each new capabili",
+    "link": "https://dev.to/hackcpp_3619/before-your-ai-coding-agent-gets-more-tools-test-where-its-boundaries-actually-are-42ma",
     "topic": "general"
   },
   {
-    "title": "\"401 from 169.254.169.254 \u2014 fixing EC2 instances after the IMDSv2 enforcement deadline\"",
-    "desc": "<p>If your EC2 instance, CI runner, or Kubernetes node started returning credential errors or a bare <code>401</code> from <code>http://169.",
-    "link": "https://dev.to/ntoledo319/401-from-169254169254-fixing-ec2-instances-after-the-imdsv2-enforcement-deadline-1g4m",
-    "topic": "general"
-  },
-  {
-    "title": "What Are the Best AI Certifications You Can Complete Online at Your Own Pace?",
-    "desc": "<p>Artificial intelligence is rapidly becoming an important skill for professionals across technology, finance, marketing, healthcare, and b",
-    "link": "https://dev.to/ailearning/what-are-the-best-ai-certifications-you-can-complete-online-at-your-own-pace-340o",
-    "topic": "general"
-  },
-  {
-    "title": "RDS Backup Restore Testing: 7 Checks Before You Trust It",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/10/rds-backup-restore-testing-7-checks-before-you-trust-it\" rel=\"noop",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/rds-backup-restore-testing-7-checks-before-you-trust-it-oam",
-    "topic": "general"
-  },
-  {
-    "title": "The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026",
-    "desc": "<p>The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026</p>\n\n<p>A major financial transformation is taking plac",
-    "link": "https://dev.to/adeniran_adebayoadekunle/the-silent-wealth-shift-why-millions-are-looking-beyond-traditional-jobs-in-2026-54ji",
-    "topic": "general"
-  },
-  {
-    "title": "S3 Access Denied Troubleshooting: Every Cause and How to Fix It (2026)",
-    "desc": "<p>If you are staring at <code>An error occurred (AccessDenied) when calling the GetObject operation: Access Denied</code>, this guide walks",
-    "link": "https://dev.to/muskan_bandta/s3-access-denied-troubleshooting-every-cause-and-how-to-fix-it-2026-27a2",
-    "topic": "general"
+    "title": "Claude Code Auto Mode: What Still Needs a Human",
+    "desc": "<p>Starting August 14, <a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\" rel=\"noopener noreferrer\">auto mode becomes the de",
+    "link": "https://dev.to/alberto_arena_25a48484ed5/claude-code-auto-mode-what-still-needs-a-human-kg5",
+    "topic": "anthropic"
   }
 ]
