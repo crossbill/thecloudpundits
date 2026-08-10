@@ -1,5 +1,23 @@
 [
   {
+    "title": "100 Days of DevOps and Cloud (AWS), Day 25: Git Won't Guess, and an Unconfirmed Alarm Never Rings",
+    "desc": "<p>Quarter of the way in, and Day 25 landed on a theme I did not expect: the last step of both tasks can only be completed by a person. Not ",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-25-git-wont-guess-and-an-unconfirmed-alarm-never-rings-2e3b",
+    "topic": "aws"
+  },
+  {
+    "title": "SRE: correos de rollback que si orientan",
+    "desc": "<p>Cuando un despliegue sale mal, el primer correo de rollback suele llegar tarde y con poca sustancia. Dice que hubo un problema, que se re",
+    "link": "https://dev.to/alexcarteruk/sre-correos-de-rollback-que-si-orientan-25fi",
+    "topic": "general"
+  },
+  {
+    "title": "We already learned this with pagers. We're relearning it with agent approvals.",
+    "desc": "<p><em>Written 2026-08-10. Disclosure: I build <a href=\"https://thumbgate.app/\" rel=\"noopener noreferrer\">ThumbGate</a>, an approval gate fo",
+    "link": "https://dev.to/igorganapolsky/we-already-learned-this-with-pagers-were-relearning-it-with-agent-approvals-54ka",
+    "topic": "general"
+  },
+  {
     "title": "I built a secret detector. GitHub blocked my push for containing secrets.",
     "desc": "<p>Every rule in a secret scanner needs a fixture \u2014 a value that proves the pattern fires. Mine looked like this:<br />\n</p>\n\n<div class=\"hi",
     "link": "https://dev.to/henrique_yuri_f42f2fca47a/i-built-a-secret-detector-github-blocked-my-push-for-containing-secrets-29fc",
@@ -27,24 +45,6 @@
     "title": "One GPU, four ways to share it: ten scenarios, and the headline finding I had to retract",
     "desc": "<p>Everyone running local models eventually has more models than GPUs. There are several answers to that, and until last week I was picking ",
     "link": "https://dev.to/defilan/one-gpu-four-ways-to-share-it-ten-scenarios-and-the-one-number-that-inverts-on-your-hardware-1bih",
-    "topic": "general"
-  },
-  {
-    "title": "Stop context-switching to manage your distributed SQL infra",
-    "desc": "<p>I remember the old days of manual scaling. You'd jump into a CLI, check your metrics, realize you needed another node or a capacity adjus",
-    "link": "https://dev.to/renato_marinho/stop-context-switching-to-manage-your-distributed-sql-infra-28dg",
-    "topic": "general"
-  },
-  {
-    "title": "Cloud infrastructure should make your business faster \u2014 not harder to manage.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ridhampokiya2110/cloud-infrastructure-should-make-your-business-faster-not-harder-to-manage-5a3o",
-    "topic": "general"
-  },
-  {
-    "title": "From Manual APKs to Automated Play Store Releases: Every Mistake We Made Shipping Two Android Apps From One Codebase",
-    "desc": "<p><em>A complete debugging journey through automating a multi-app Android release pipeline \u2014 from local builds burning out a free tier, to ",
-    "link": "https://dev.to/cynthizo/from-manual-apks-to-automated-play-store-releases-every-mistake-we-made-shipping-two-android-apps-2l3n",
     "topic": "general"
   }
 ]
