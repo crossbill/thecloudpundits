@@ -1,5 +1,29 @@
 [
   {
+    "title": "Stop switching tabs to fix your deployments: Giving LLMs hands on Netlify",
+    "desc": "<p>I\u2019ve spent enough time in terminal windows and dashboard tabs to know that the most expensive part of modern development isn't the comput",
+    "link": "https://dev.to/renato_marinho/stop-switching-tabs-to-fix-your-deployments-giving-llms-hands-on-netlify-14ha",
+    "topic": "general"
+  },
+  {
+    "title": "Master anydoc in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours debugging a Rust project, only to realize I was using outdated tools. Then I d",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-10il",
+    "topic": "general"
+  },
+  {
+    "title": "Monorepo or Polyrepo for a Three-Person Startup? A Decision Framework",
+    "desc": "<p>For most three-person startups, a single monorepo wins by default \u2014 not because monorepos are architecturally superior, but because at th",
+    "link": "https://dev.to/libme/monorepo-or-polyrepo-for-a-three-person-startup-a-decision-framework-51nd",
+    "topic": "general"
+  },
+  {
+    "title": "An AI-Assisted Code Review Pipeline That Catches What Humans Skim Past",
+    "desc": "<p>Human reviewers are excellent at judgment \u2014 is this the right abstraction, does this belong here, will the next person understand it \u2014 an",
+    "link": "https://dev.to/libme/an-ai-assisted-code-review-pipeline-that-catches-what-humans-skim-past-5hc0",
+    "topic": "general"
+  },
+  {
     "title": "Five other projects have the exact same fake API key in their tests",
     "desc": "<p>GitHub flagged a Google API key in my repository. It was a fixture I had made up \u2014 sequential filler after the <code>AIza</code> prefix, ",
     "link": "https://dev.to/henrique_yuri_f42f2fca47a/five-other-projects-have-the-exact-same-fake-api-key-in-their-tests-2i9b",
@@ -22,29 +46,5 @@
     "desc": "<p>Quarter of the way in, and Day 25 landed on a theme I did not expect: the last step of both tasks can only be completed by a person. Not ",
     "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-25-git-wont-guess-and-an-unconfirmed-alarm-never-rings-2e3b",
     "topic": "aws"
-  },
-  {
-    "title": "SRE: correos de rollback que si orientan",
-    "desc": "<p>Cuando un despliegue sale mal, el primer correo de rollback suele llegar tarde y con poca sustancia. Dice que hubo un problema, que se re",
-    "link": "https://dev.to/alexcarteruk/sre-correos-de-rollback-que-si-orientan-25fi",
-    "topic": "general"
-  },
-  {
-    "title": "We already learned this with pagers. We're relearning it with agent approvals.",
-    "desc": "<p><em>Written 2026-08-10. Disclosure: I build <a href=\"https://thumbgate.app/\" rel=\"noopener noreferrer\">ThumbGate</a>, an approval gate fo",
-    "link": "https://dev.to/igorganapolsky/we-already-learned-this-with-pagers-were-relearning-it-with-agent-approvals-54ka",
-    "topic": "general"
-  },
-  {
-    "title": "I built a secret detector. GitHub blocked my push for containing secrets.",
-    "desc": "<p>Every rule in a secret scanner needs a fixture \u2014 a value that proves the pattern fires. Mine looked like this:<br />\n</p>\n\n<div class=\"hi",
-    "link": "https://dev.to/henrique_yuri_f42f2fca47a/i-built-a-secret-detector-github-blocked-my-push-for-containing-secrets-29fc",
-    "topic": "general"
-  },
-  {
-    "title": "Deep Dive: Mitigating the Metabase SQL Injection Zero-Day in Cloud and Self-Hosted Environments",
-    "desc": "<h2>\n  \n  \n  \ud83d\udd10 The Architectural Vulnerability of Business Intelligence Layers\n</h2>\n\n<p>As a senior technology editor and systems architect",
-    "link": "https://dev.to/isuvo/deep-dive-mitigating-the-metabase-sql-injection-zero-day-in-cloud-and-self-hosted-environments-ooa",
-    "topic": "general"
   }
 ]
