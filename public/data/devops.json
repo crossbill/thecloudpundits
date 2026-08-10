@@ -1,50 +1,50 @@
 [
   {
+    "title": "Adding a \u201cControl de Obra\u201d Module to Ventas\u202f \u202fDesarrollos (NestJS + Next.js)",
+    "desc": "<h1>\n  \n  \n  Adding a \u201cControl de Obra\u201d Module to Ventas\u202f\u2192\u202fDesarrollos (NestJS + Next.js)\n</h1>\n\n<p><strong>TL;DR:</strong> I built a brand\u2011",
+    "link": "https://dev.to/zaerohell/adding-a-control-de-obra-module-to-ventas-desarrollos-nestjs-nextjs-71l",
+    "topic": "general"
+  },
+  {
+    "title": "Shipping MiniMax H3 three days after the weights dropped",
+    "desc": "<p>MiniMax released the open weights for H3, their omni-modal video model, on August 3. By August 6 it was running in production on our own ",
+    "link": "https://dev.to/joul_dev/shipping-minimax-h3-three-days-after-the-weights-dropped-2dp8",
+    "topic": "general"
+  },
+  {
+    "title": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u043e\u0442 \u0445\u0430\u043e\u0442\u0438\u0447\u043d\u044b\u0445 API-\u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432 \u043a \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u043c\u0443 \u043a\u043e\u043d\u0442\u0443\u0440\u0443",
+    "desc": "<h2>\n  \n  \n  \u041f\u0440\u043e\u0431\u043b\u0435\u043c\u0430 \u0431\u0435\u0441\u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f LLM \u0432 \u043f\u0440\u043e\u0434\u0430\u043a\u0448\u0435\u043d\u0435\n</h2>\n\n<p>\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438 \u0437\u0430\u043f\u0443\u0441\u043a \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u043e\u0432 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f \u0432 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d",
+    "link": "https://dev.to/cambo_com_ec380d18b329e5c/arkhitiektura-korporativnykh-ai-aghientov-ot-khaotichnykh-api-zaprosov-k-izolirovannomu-konturu-31c5",
+    "topic": "general"
+  },
+  {
+    "title": "PHP 8.6 \u2014 mass deprecation vote closes Aug 10",
+    "desc": "<p>PHP 8.6: 35 deprecations just passed \u2014 and it's not as harmless for your prod logs as it looks.</p>\n\n<p>Nothing breaks in 8.6 itself: dep",
+    "link": "https://dev.to/evtenko/php-86-mass-deprecation-vote-closes-aug-10-52o1",
+    "topic": "general"
+  },
+  {
+    "title": "How to vet an AI gateway before you route production traffic through it (we run one \u2014 here's the checklist we grade ourselves against)",
+    "desc": "<p>Routing your LLM traffic through a gateway is handing a stranger two things at once: your prompts and your billing. Discovery is easy \u2014 t",
+    "link": "https://dev.to/yansen_zhu_9b0dae1c4cc0da/how-to-vet-an-ai-gateway-before-you-route-production-traffic-through-it-we-run-one-heres-the-4pj7",
+    "topic": "general"
+  },
+  {
+    "title": "Three Clouds, Three Native Agents",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/aws-builders/three-clouds-three-native-agents-5hda",
+    "topic": "general"
+  },
+  {
+    "title": "We Ditched MongoDB Atlas for AWS DocumentDB \u2014 Here's Exactly How We Did It",
+    "desc": "<h1>\n  \n  \n  We Ditched MongoDB Atlas for AWS DocumentDB \u2014 Here's Exactly How We Did It\n</h1>\n\n<blockquote>\n<p>One connection string change.",
+    "link": "https://dev.to/elonerajeev1/we-ditched-mongodb-atlas-for-aws-documentdb-heres-exactly-how-we-did-it-with-real-commands-3aak",
+    "topic": "aws"
+  },
+  {
     "title": "When you are working with BIG DATA",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/chaminduperera/when-you-are-working-with-big-data-5a74",
-    "topic": "general"
-  },
-  {
-    "title": "My health check passed for weeks while reading nothing",
-    "desc": "<p>One of my monitoring checks reported \"all clear\" on every run for weeks. It was reading an empty list and calling that good news.</p>\n\n<p",
-    "link": "https://dev.to/layercall/my-health-check-passed-for-weeks-while-reading-nothing-2c7f",
-    "topic": "general"
-  },
-  {
-    "title": "Tie Terraform Apply Emails to One Change Set",
-    "desc": "<p>Terraform apply emails are useful right until two pipelines overlap and nobody is sure which message belongs to which infrastructure chan",
-    "link": "https://dev.to/jasonmills94/tie-terraform-apply-emails-to-one-change-set-3i3b",
-    "topic": "terraform"
-  },
-  {
-    "title": "The Invisible Secret: How Brabic Shapewear Transforms Your Wardrobe",
-    "desc": "<p>Every fashion enthusiast knows the secret to a flawless outfit: it is not just about what people see \u2014 it is about what they do not see. ",
-    "link": "https://dev.to/yu_yang_f26414a1d7a176c97/the-invisible-secret-how-brabic-shapewear-transforms-your-wardrobe-3l4m",
-    "topic": "general"
-  },
-  {
-    "title": "In zsh, a second `local` on the same name prints it \u2014 how five bytes faked a six-day database outage",
-    "desc": "<p>For six consecutive mornings, the freshness sweep behind our free directory list failed at the same place. Its preflight gate probes Post",
-    "link": "https://dev.to/kynth/in-zsh-a-second-local-on-the-same-name-prints-it-how-five-bytes-faked-a-six-day-database-outage-366k",
-    "topic": "general"
-  },
-  {
-    "title": "The Silent Failure Detection Framework: Catching Agents That \"Succeed\" and Do Nothing",
-    "desc": "<p>Your LLM agent returned a response. No error, no exception. But did it actually do what you asked?</p>\n\n<p>That's the silent failure prob",
-    "link": "https://dev.to/opsveritas/the-silent-failure-detection-framework-catching-agents-that-succeed-and-do-nothing-ak4",
-    "topic": "general"
-  },
-  {
-    "title": "This One YAML Key Makes GitHub Actions Workflow Runs Easy to Identify",
-    "desc": "<p>** This One YAML Key Makes GitHub Actions Workflow Runs Easy to Identify **</p>\n\n<p>I've been using github actions for years now and rece",
-    "link": "https://dev.to/divyansh_singh_9d308cd60f/this-one-yaml-key-makes-github-actions-workflow-runs-easy-to-identify-53ge",
-    "topic": "general"
-  },
-  {
-    "title": "AI Agent Architecture: Skills, Evals & Dark Factories",
-    "desc": "<p><strong>TL;DR:</strong> AI agents can write incredible code, but they can also write absolute garbage. Because there is no industry stand",
-    "link": "https://dev.to/doogal/ai-agent-architecture-skills-evals-dark-factories-2p8i",
     "topic": "general"
   }
 ]
