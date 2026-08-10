@@ -1,50 +1,50 @@
 [
   {
+    "title": "Turn a DevOps API into Governed Agent Skills with NodeJS",
+    "desc": "<p>It's 3 AM. A production service is misbehaving, you're on-call, and you'd love an agent that can pull the service's health and tee up a r",
+    "link": "https://dev.to/nisa_fatima_bcd75fa085b76/turn-a-devops-api-into-governed-agent-skills-with-nodejs-4f05",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Waiting 10 Minutes to Fail: How CDK Comprehensive Validation Catches Misconfigurations Before Deploy",
+    "desc": "<h2>\n  \n  \n  The 10-Minute Tax\n</h2>\n\n<p>For many years, as a CDK developer, I'd run <code>cdk synth</code>, then <code>cdk deploy</code>, a",
+    "link": "https://dev.to/pahud/stop-waiting-10-minutes-to-fail-how-cdk-comprehensive-validation-catches-misconfigurations-before-1907",
+    "topic": "general"
+  },
+  {
+    "title": "One GPU, four ways to share it: ten scenarios, and the one number that inverts on your hardware",
+    "desc": "<p>Everyone running local models eventually has more models than GPUs. There are several answers to that, and until last week I was picking ",
+    "link": "https://dev.to/defilan/one-gpu-four-ways-to-share-it-ten-scenarios-and-the-one-number-that-inverts-on-your-hardware-1bih",
+    "topic": "general"
+  },
+  {
+    "title": "Stop context-switching to manage your distributed SQL infra",
+    "desc": "<p>I remember the old days of manual scaling. You'd jump into a CLI, check your metrics, realize you needed another node or a capacity adjus",
+    "link": "https://dev.to/renato_marinho/stop-context-switching-to-manage-your-distributed-sql-infra-28dg",
+    "topic": "general"
+  },
+  {
+    "title": "Cloud infrastructure should make your business faster \u2014 not harder to manage.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ridhampokiya2110/cloud-infrastructure-should-make-your-business-faster-not-harder-to-manage-5a3o",
+    "topic": "general"
+  },
+  {
+    "title": "From Manual APKs to Automated Play Store Releases: Every Mistake We Made Shipping Two Android Apps From One Codebase",
+    "desc": "<p><em>A complete debugging journey through automating a multi-app Android release pipeline \u2014 from local builds burning out a free tier, to ",
+    "link": "https://dev.to/cynthizo/from-manual-apks-to-automated-play-store-releases-every-mistake-we-made-shipping-two-android-apps-2l3n",
+    "topic": "general"
+  },
+  {
+    "title": "Catching money bugs with ledger invariants, not error logs",
+    "desc": "<p>A payout that credits the wrong sub-account returns HTTP 200. Nothing throws, the worker acknowledges the message, the error dashboards s",
+    "link": "https://dev.to/shipmindlabs/catching-money-bugs-with-ledger-invariants-not-error-logs-3o4l",
+    "topic": "general"
+  },
+  {
     "title": "GRR Rapid Response: Free, Open-Source Remote Forensics (CISA-Listed)",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/xpert4cyber/grr-rapid-response-free-open-source-remote-forensics-cisa-listed-11oc",
-    "topic": "general"
-  },
-  {
-    "title": "8 Docker Web UIs Compared in 2026: Portainer is No Longer the Only Answer",
-    "desc": "<p>For years the answer to \"what web UI should I use for Docker?\" was <strong>Portainer</strong>, full stop. In 2026 that answer is more nua",
-    "link": "https://dev.to/vasilipascal/8-docker-web-uis-compared-in-2026-portainer-is-no-longer-the-only-answer-3a2m",
-    "topic": "docker"
-  },
-  {
-    "title": "The Alert Tells You Something Is Wrong. FixBugs Tells You, \u201cI\u2019ll Fix It.",
-    "desc": "<p>A production alert fires.</p>\n\n<p>You know something is wrong.</p>\n\n<p>But the alert rarely tells you why.</p>\n\n<p>So the debugging proce",
-    "link": "https://dev.to/robin_thedude_4ce28b7b54/the-alert-tells-you-something-is-wrong-fixbugs-tells-you-ill-fix-it-31fj",
-    "topic": "general"
-  },
-  {
-    "title": "How I run 15 projects with Claude Code without losing the thread",
-    "desc": "<p>Fifteen projects, one person. The obvious failure mode is that you spend your day switching between them, and by evening you have touched",
-    "link": "https://dev.to/martinschenk/how-i-run-15-projects-with-claude-code-without-losing-the-thread-23lb",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Local AI Agents: How to Build a 100% Free Autonomous Coding Assistant on Your Laptop (Zero API Fees)",
-    "desc": "<h1>\n  \n  \n  Local AI Agents: How to Build a 100% Free Autonomous Coding Assistant on Your Laptop (Zero API Fees)\n</h1>\n\n<p>Developers and s",
-    "link": "https://dev.to/lakshanmuruganandam/local-ai-agents-how-to-build-a-100-free-autonomous-coding-assistant-on-your-laptop-zero-api-fees-39fc",
-    "topic": "general"
-  },
-  {
-    "title": "Master anydoc in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours struggling to integrate anydoc with my Rust project, only to realize I was do",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-1iof",
-    "topic": "general"
-  },
-  {
-    "title": "AIoT Isn't About Connecting Everything\u2014It's About Understanding It",
-    "desc": "<p>We've spent years making machines, equipment, assets, and workplaces more connected.</p>\n\n<p>But there's a catch:</p>\n\n<p>More connectivi",
-    "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-isnt-about-connecting-everything-its-about-understanding-it-38ae",
-    "topic": "general"
-  },
-  {
-    "title": "unissh \u2013 a modern and secure, fully open-source SSH client with a built-in sync server",
-    "desc": "<p>Hi everyone!</p>\n\n<p>I'd like to show you <strong>unissh</strong> \u2013 a modern, simple, open source SSH client with a self-hosted zero-know",
-    "link": "https://dev.to/goduni/unissh-a-modern-and-secure-fully-open-source-ssh-client-with-a-built-in-sync-server-14nh",
     "topic": "general"
   }
 ]
