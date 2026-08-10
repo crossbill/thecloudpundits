@@ -1,5 +1,17 @@
 [
   {
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "desc": "",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "topic": "general"
+  },
+  {
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "desc": "",
+    "link": "https://huggingface.co/blog/muse-glimmer",
+    "topic": "general"
+  },
+  {
     "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/tutormoments",
@@ -34,17 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "topic": "secops"
-  },
-  {
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "desc": "",
-    "link": "https://huggingface.co/blog/nunchaku-diffusers",
-    "topic": "general"
-  },
-  {
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "desc": "",
-    "link": "https://huggingface.co/blog/grabette",
-    "topic": "general"
   }
 ]

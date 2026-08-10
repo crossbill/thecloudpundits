@@ -1,5 +1,23 @@
 [
   {
+    "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
+    "desc": "<p>The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
+    "topic": "secops"
+  },
+  {
+    "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
+    "desc": "<p>CERT.PL said this appears to be the first instance of a private APN being used as an attack vector.</p>\n<p>The post <a href=\"https://www.",
+    "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
+    "topic": "general"
+  },
+  {
+    "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
+    "desc": "<p>The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands.</p>\n<p>The post <a href=\"https://www.s",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
     "desc": "<p>Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
@@ -28,23 +46,5 @@
     "desc": "<p>Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands.</p>\n<p>The post <a h",
     "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
     "topic": "general"
-  },
-  {
-    "title": "Truck Brake Controller\u2019s Safety Recall Doubled as Hidden Security Fix",
-    "desc": "<p>NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/",
-    "topic": "secops"
-  },
-  {
-    "title": "Black Hat USA 2026 \u2013 Summary of Vendor Announcements (Part 4)",
-    "desc": "<p>Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
-    "topic": "general"
-  },
-  {
-    "title": "Microsoft, Apple Release Fresh Security Updates",
-    "desc": "<p>Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass.<",
-    "link": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
-    "topic": "azure"
   }
 ]
