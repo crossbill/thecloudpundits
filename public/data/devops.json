@@ -1,5 +1,23 @@
 [
   {
+    "title": "Five other projects have the exact same fake API key in their tests",
+    "desc": "<p>GitHub flagged a Google API key in my repository. It was a fixture I had made up \u2014 sequential filler after the <code>AIza</code> prefix, ",
+    "link": "https://dev.to/henrique_yuri_f42f2fca47a/five-other-projects-have-the-exact-same-fake-api-key-in-their-tests-2i9b",
+    "topic": "general"
+  },
+  {
+    "title": "Your terragrunt (or terraform) plan is 4,000 lines. Only two of them matter.",
+    "desc": "<p>You know the ritual.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>terragrunt run <span class=",
+    "link": "https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8",
+    "topic": "terraform"
+  },
+  {
+    "title": "Five files that go in before the agent writes a line",
+    "desc": "<p>You open an empty folder, type \"build me an app\", and for about two days it's magic.</p>\n\n<p>Then week two arrives. The agent drops a dat",
+    "link": "https://dev.to/mikobuilds/five-files-that-go-in-before-the-agent-writes-a-line-580e",
+    "topic": "general"
+  },
+  {
     "title": "100 Days of DevOps and Cloud (AWS), Day 25: Git Won't Guess, and an Unconfirmed Alarm Never Rings",
     "desc": "<p>Quarter of the way in, and Day 25 landed on a theme I did not expect: the last step of both tasks can only be completed by a person. Not ",
     "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-25-git-wont-guess-and-an-unconfirmed-alarm-never-rings-2e3b",
@@ -27,24 +45,6 @@
     "title": "Deep Dive: Mitigating the Metabase SQL Injection Zero-Day in Cloud and Self-Hosted Environments",
     "desc": "<h2>\n  \n  \n  \ud83d\udd10 The Architectural Vulnerability of Business Intelligence Layers\n</h2>\n\n<p>As a senior technology editor and systems architect",
     "link": "https://dev.to/isuvo/deep-dive-mitigating-the-metabase-sql-injection-zero-day-in-cloud-and-self-hosted-environments-ooa",
-    "topic": "general"
-  },
-  {
-    "title": "Turn a DevOps API into Governed Agent Skills with NodeJS",
-    "desc": "<p>It's 3 AM. A production service is misbehaving, you're on-call, and you'd love an agent that can pull the service's health and tee up a r",
-    "link": "https://dev.to/nisa_fatima_bcd75fa085b76/turn-a-devops-api-into-governed-agent-skills-with-nodejs-4f05",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Waiting 10 Minutes to Fail: How CDK Comprehensive Validation Catches Misconfigurations Before Deploy",
-    "desc": "<h2>\n  \n  \n  The 10-Minute Tax\n</h2>\n\n<p>For many years, as a CDK developer, I'd run <code>cdk synth</code>, then <code>cdk deploy</code>, a",
-    "link": "https://dev.to/pahud/stop-waiting-10-minutes-to-fail-how-cdk-comprehensive-validation-catches-misconfigurations-before-1907",
-    "topic": "general"
-  },
-  {
-    "title": "One GPU, four ways to share it: ten scenarios, and the headline finding I had to retract",
-    "desc": "<p>Everyone running local models eventually has more models than GPUs. There are several answers to that, and until last week I was picking ",
-    "link": "https://dev.to/defilan/one-gpu-four-ways-to-share-it-ten-scenarios-and-the-one-number-that-inverts-on-your-hardware-1bih",
     "topic": "general"
   }
 ]
