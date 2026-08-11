@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your Cloud Isn't Compromised. Your Vendor Is. Now What?",
-    "desc": "<p>Third-party cloud access is the thing most breach post-mortems get backwards: they go looking for what broke, and in the Accenture case, ",
-    "link": "https://dev.to/ntctech/your-cloud-isnt-compromised-your-vendor-is-now-what-425m",
+    "title": "Your homelab behind CGNAT is now reachable for free",
+    "desc": "<p>I built <a href=\"https://github.com/javimosch/remotecmd-cli\" rel=\"noopener noreferrer\">rcmd</a> \u2014 a relay-based remote execution tool. Yo",
+    "link": "https://dev.to/javimosch/your-homelab-behind-cgnat-is-now-reachable-for-free-54lg",
     "topic": "general"
   },
   {
-    "title": "DevCloudOps1 Journey Begins...",
-    "desc": "<p>I am currently working as devops intern. Working on linux, networking, terraform, gitlab ci/cd pipeline, AWS, docker, kubernetes, applica",
-    "link": "https://dev.to/devcloudops1/devcloudops1-journey-begins-1d58",
+    "title": "I gave an AI agent my infrastructure instead of my codebase. Every bug was the same bug.",
+    "desc": "<p>A while back I wrote about <a href=\"https://dev.to/vladonemo/making-a-fleet-of-claude-code-agents-talk-to-each-other-over-discord-5ei7\">m",
+    "link": "https://dev.to/vladonemo/i-gave-an-ai-agent-my-infrastructure-instead-of-my-codebase-every-bug-was-the-same-bug-1in",
     "topic": "general"
   },
   {
-    "title": "Your Agent Queue Needs Backpressure, Not Just More Workers",
-    "desc": "<p>Long-running agents rarely fail because a single request is too large. They fail when work arrives faster than the runtime can safely exe",
-    "link": "https://dev.to/zira125/your-agent-queue-needs-backpressure-not-just-more-workers-276i",
+    "title": "The EU AI Act asks AI to identify itself. I checked 30 years of that experiment on my server.",
+    "desc": "<p>Article 50 of the EU AI Act applies as from 2 August 2026. Providers of systems that generate synthetic text, audio, image or video have ",
+    "link": "https://dev.to/akashy/the-eu-ai-act-asks-ai-to-identify-itself-i-checked-30-years-of-that-experiment-on-my-server-21bm",
     "topic": "general"
   },
   {
-    "title": "THE AI BOOM IS HERE - AND IT'S REWRITING EVERYTHING",
-    "desc": "<p>THE AI BOOM IS HERE - AND IT'S REWRITING EVERYTHING<br />\nThe AI Boom Is Here \u2014 And It's Rewriting Everything<br />\nIf you thought the AI",
-    "link": "https://dev.to/adeniran_adebayoadekunle/the-ai-boom-is-here-and-its-rewriting-everything-b1c",
+    "title": "Turning webhook pipes into MCP recipes.",
+    "desc": "<h2>\n  \n  \n  Where transformations stop, why nobody learns your UI, and the catalog that came out of it.\n</h2>\n\n<p>I had just added transfor",
+    "link": "https://dev.to/spillcoffee/turning-webhook-pipes-into-mcp-recipes-10l3",
     "topic": "general"
   },
   {
-    "title": "Building an AI Agent Analytics Pipeline Across Machines: 5 Patterns When a Shared InfluxDB Isn't the Answer",
-    "desc": "<p>Your agents are everywhere. A handful on cloud VMs, a few on on-prem boxes, one or two on laptops that appear and disappear. You need an ",
-    "link": "https://dev.to/pstayet/building-an-ai-agent-analytics-pipeline-across-machines-5-patterns-when-a-shared-influxdb-isnt-24go",
+    "title": "What AI Agents Can Teach Us About NHI Governance",
+    "desc": "<p>Artificial intelligence (AI) is a broad field with many practical applications. Over the past few years, we have seen explosive growth in",
+    "link": "https://dev.to/gitguardian/what-ai-agents-can-teach-us-about-nhi-governance-1546",
     "topic": "general"
   },
   {
-    "title": "eBPF for Cloud-Native Security and Observability",
-    "desc": "<h2>\n  \n  \n  The Problem with Traditional Cloud Security\n</h2>\n\n<p>Securing a Kubernetes cluster has historically meant injecting sidecar co",
-    "link": "https://dev.to/mealiclay01/ebpf-for-cloud-native-security-and-observability-70d",
-    "topic": "secops"
-  },
-  {
-    "title": "The Death of Traditional DevOps: Platform Engineering & IDPs",
-    "desc": "<h2>\n  \n  \n  The Failure of \"You Build It, You Run It\"\n</h2>\n\n<p>The original promise of DevOps was to break down the silos between develope",
-    "link": "https://dev.to/mealiclay01/the-death-of-traditional-devops-platform-engineering-idps-18pf",
+    "title": "The unofficial TPU migration guide: Cloud TPU API to Compute Engine",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/gde/the-unofficial-tpu-migration-guide-cloud-tpu-api-to-compute-engine-2co7",
     "topic": "general"
   },
   {
-    "title": "Data Sovereignty in 2026: Production-Grade Local LLMs",
-    "desc": "<h2>\n  \n  \n  The API Trap\n</h2>\n\n<p>Over the last few years, thousands of startups have built their entire business logic around API calls t",
-    "link": "https://dev.to/mealiclay01/data-sovereignty-in-2026-production-grade-local-llms-3g30",
+    "title": "dev.to + Reddit r/docker (Dockerfile best-practices and hardening lists are highly shareable)",
+    "desc": "<h1>\n  \n  \n  A production Dockerfile for FastAPI: the two mistakes beginners always make\n</h1>\n\n<p>Chapter 6 of a local-Kubernetes series. N",
+    "link": "https://dev.to/mikhail_dorokhovich_0c532/devto-reddit-rdocker-dockerfile-best-practices-and-hardening-lists-are-highly-shareable-1dod",
+    "topic": "docker"
+  },
+  {
+    "title": "Laravel .env changes not reflected after deployment: causes and a safe shared-hosting fallback",
+    "desc": "<p>Changing a production <code>.env</code> file and still seeing the old database host, mail settings, application URL, or feature flag is a",
+    "link": "https://dev.to/codegenie_be/laravel-env-changes-not-reflected-after-deployment-causes-and-a-safe-shared-hosting-fallback-5ec0",
     "topic": "general"
   }
 ]
