@@ -1,5 +1,17 @@
 [
   {
+    "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
+    "desc": "<p>Marcus Hutchins doesn\u2019t personally consider himself a hacker \u2013 but he accepts the epithet because it\u2019s a widely used term for what he onc",
+    "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
+    "topic": "general"
+  },
+  {
+    "title": "OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber",
+    "desc": "<p>OpenAI has also announced the expansion of its Daybreak platform to give more organizations access to its AI.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/",
+    "topic": "openai"
+  },
+  {
     "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
     "desc": "<p>The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.</p>\n<p>The post <a href=",
     "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
@@ -34,17 +46,5 @@
     "desc": "<p>Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states.</p>\n<p>The post <a hr",
     "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
     "topic": "secops"
-  },
-  {
-    "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
-    "desc": "<p>The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
-    "topic": "secops"
-  },
-  {
-    "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
-    "desc": "<p>CERT.PL said this appears to be the first instance of a private APN being used as an attack vector.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
-    "topic": "general"
   }
 ]
