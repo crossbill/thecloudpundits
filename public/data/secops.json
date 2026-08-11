@@ -1,5 +1,11 @@
 [
   {
+    "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
+    "desc": "<p>The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
+    "topic": "general"
+  },
+  {
     "title": "OpenAI\u2019s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
     "desc": "<p>The current GPT-5.6-Sol has been assigned a \u2018high\u2019 cybersecurity threshold, but Astra could reach the maximum \u2018critical\u2019 threshold.\u00a0</p>\n",
     "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
@@ -40,11 +46,5 @@
     "desc": "<p>CERT.PL said this appears to be the first instance of a private APN being used as an attack vector.</p>\n<p>The post <a href=\"https://www.",
     "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
     "topic": "general"
-  },
-  {
-    "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
-    "desc": "<p>The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands.</p>\n<p>The post <a href=\"https://www.s",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
-    "topic": "secops"
   }
 ]
