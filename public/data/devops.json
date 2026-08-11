@@ -1,50 +1,50 @@
 [
   {
-    "title": "Agent Plugins 1.0: The Write-Once Era Begins",
-    "desc": "<p>Five companies agreed on a spec this week. That alone is news.</p>\n\n<p>AWS, Cursor, Microsoft, OpenAI, and Vercel published <strong>Agent",
-    "link": "https://dev.to/agentic_engineer/agent-plugins-10-the-write-once-era-begins-5f05",
+    "title": "Building an AI Agent Analytics Pipeline Across Machines: 5 Patterns When a Shared InfluxDB Isn't the Answer",
+    "desc": "<p>Your agents are everywhere. A handful on cloud VMs, a few on on-prem boxes, one or two on laptops that appear and disappear. You need an ",
+    "link": "https://dev.to/pstayet/building-an-ai-agent-analytics-pipeline-across-machines-5-patterns-when-a-shared-influxdb-isnt-24go",
     "topic": "general"
   },
   {
-    "title": "Saving Plan vs Reserved Plan",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/baraamohamed2311/saving-plan-vs-reserved-plan-1dkg",
+    "title": "eBPF for Cloud-Native Security and Observability",
+    "desc": "<h2>\n  \n  \n  The Problem with Traditional Cloud Security\n</h2>\n\n<p>Securing a Kubernetes cluster has historically meant injecting sidecar co",
+    "link": "https://dev.to/mealiclay01/ebpf-for-cloud-native-security-and-observability-70d",
+    "topic": "secops"
+  },
+  {
+    "title": "The Death of Traditional DevOps: Platform Engineering & IDPs",
+    "desc": "<h2>\n  \n  \n  The Failure of \"You Build It, You Run It\"\n</h2>\n\n<p>The original promise of DevOps was to break down the silos between develope",
+    "link": "https://dev.to/mealiclay01/the-death-of-traditional-devops-platform-engineering-idps-18pf",
     "topic": "general"
   },
   {
-    "title": "Where and How to Buy Aged, Gmail Accounts in the US...",
-    "desc": "<p>Buy Old Gmail Accounts: Account Management, Email Security & Digital Identity Guide (Complete Guide 2026)<br />\n\ud83d\udeaa\ud83d\ude80\ud83d\udcac\ud83d\udcde\ud83d\udce9 We\u2019re always ready ",
-    "link": "https://dev.to/nixiebergz788a/where-and-how-to-buy-aged-gmail-accounts-in-the-us-5h2j",
+    "title": "Data Sovereignty in 2026: Production-Grade Local LLMs",
+    "desc": "<h2>\n  \n  \n  The API Trap\n</h2>\n\n<p>Over the last few years, thousands of startups have built their entire business logic around API calls t",
+    "link": "https://dev.to/mealiclay01/data-sovereignty-in-2026-production-grade-local-llms-3g30",
     "topic": "general"
   },
   {
-    "title": "Master Collaboration Strategy and Digital Workplace Solutions",
-    "desc": "<p>Organisations increasingly depend on digital collaboration platforms to connect employees, streamline communication, and support producti",
-    "link": "https://dev.to/shehzad_aa295a34ed36ff9bd/master-collaboration-strategy-and-digital-workplace-solutions-4nfc",
-    "topic": "general"
-  },
-  {
-    "title": "RBAC & Admission Controllers",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/baraamohamed2311/rbac-admission-controllers-3f51",
-    "topic": "general"
-  },
-  {
-    "title": "Why Terraform Falls Short for Platform Engineering (and Kubernetes Wins)",
-    "desc": "<h3>\n  \n  \n  Key takeaways:\n</h3>\n\n<ul>\n<li>\n<strong>Terraform is not the problem</strong> \u2014 it\u2019s the wrong tool for a self-service platform",
-    "link": "https://dev.to/aroua_kaboubi_82466ca9a52/why-terraform-falls-short-for-platform-engineering-and-kubernetes-wins-26nl",
+    "title": "WebAssembly (WASM) in Kubernetes: The Micro-Edge Revolution",
+    "desc": "<h2>\n  \n  \n  Containers are Heavy. Meet WebAssembly.\n</h2>\n\n<p>Docker revolutionized software delivery by packaging applications with their ",
+    "link": "https://dev.to/mealiclay01/webassembly-wasm-in-kubernetes-the-micro-edge-revolution-2mlp",
     "topic": "kubernetes"
   },
   {
-    "title": "The Future of Developer Experience (DX): AI, Platform Engineering, and Better Developer Workflows",
-    "desc": "<p>Software development is becoming faster, but it is also becoming more complex.</p>\n\n<p>Modern developers work with cloud platforms, APIs,",
-    "link": "https://dev.to/kriti_0f7bace2dcdffcddfad/ai-masterclass-building-the-skills-for-the-ai-powered-developer-era-2jni",
+    "title": "The Rise of Agentic DevOps: How Autonomous AI is Replacing Static CI/CD",
+    "desc": "<h2>\n  \n  \n  The Era of Static CI/CD is Over\n</h2>\n\n<p>For the last decade, CI/CD pipelines have been defined by static, rule-based YAML fil",
+    "link": "https://dev.to/mealiclay01/the-rise-of-agentic-devops-how-autonomous-ai-is-replacing-static-cicd-42ip",
     "topic": "general"
   },
   {
-    "title": "I built a blog engine that publishes itself daily on $0/month in API costs - 120 days of lessons",
-    "desc": "<p>I'm 19. I've been building things that never shipped for two years.</p>\n\n<p>Four months ago I decided to build one thing and refuse to ab",
-    "link": "https://dev.to/chasebot/i-built-a-blog-engine-that-publishes-itself-daily-on-0month-in-api-costs-120-days-of-lessons-4664",
+    "title": "Working out what a site is running \u2014 and where every check lies to you",
+    "desc": "<p>You want to know what some site is built on. Maybe a competitor, maybe a client's old site nobody has the credentials for, maybe you just",
+    "link": "https://dev.to/hammad4june1999/working-out-what-a-site-is-running-and-where-every-check-lies-to-you-167p",
+    "topic": "general"
+  },
+  {
+    "title": "Your n8n workflow stopped three days ago. Nobody noticed.",
+    "desc": "<p>The message always has the same shape: \"Hey, are the leads still coming through? I don't think I've seen one since Tuesday.\"</p>\n\n<p>You ",
+    "link": "https://dev.to/lamas51/your-n8n-workflow-stopped-three-days-ago-nobody-noticed-4noa",
     "topic": "general"
   }
 ]
