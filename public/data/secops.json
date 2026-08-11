@@ -1,5 +1,11 @@
 [
   {
+    "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+    "desc": "<p>A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.</p>\n<p>The post <a href=\"https:/",
+    "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+    "topic": "azure"
+  },
+  {
     "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
     "desc": "<p>The security defects could be exploited for arbitrary code execution and denial-of-service.</p>\n<p>The post <a href=\"https://www.security",
     "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
@@ -39,12 +45,6 @@
     "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
     "desc": "<p>The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.</p>\n<p>The post <a href=\"https:/",
     "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
-    "topic": "general"
-  },
-  {
-    "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
-    "desc": "<p>Marcus Hutchins doesn\u2019t personally consider himself a hacker \u2013 but he accepts the epithet because it\u2019s a widely used term for what he onc",
-    "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
     "topic": "general"
   }
 ]

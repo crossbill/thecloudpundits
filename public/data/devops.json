@@ -1,5 +1,29 @@
 [
   {
+    "title": "Your Cloud Isn't Compromised. Your Vendor Is. Now What?",
+    "desc": "<p>Third-party cloud access is the thing most breach post-mortems get backwards: they go looking for what broke, and in the Accenture case, ",
+    "link": "https://dev.to/ntctech/your-cloud-isnt-compromised-your-vendor-is-now-what-425m",
+    "topic": "general"
+  },
+  {
+    "title": "DevCloudOps1 Journey Begins...",
+    "desc": "<p>I am currently working as devops intern. Working on linux, networking, terraform, gitlab ci/cd pipeline, AWS, docker, kubernetes, applica",
+    "link": "https://dev.to/devcloudops1/devcloudops1-journey-begins-1d58",
+    "topic": "general"
+  },
+  {
+    "title": "Your Agent Queue Needs Backpressure, Not Just More Workers",
+    "desc": "<p>Long-running agents rarely fail because a single request is too large. They fail when work arrives faster than the runtime can safely exe",
+    "link": "https://dev.to/zira125/your-agent-queue-needs-backpressure-not-just-more-workers-276i",
+    "topic": "general"
+  },
+  {
+    "title": "THE AI BOOM IS HERE - AND IT'S REWRITING EVERYTHING",
+    "desc": "<p>THE AI BOOM IS HERE - AND IT'S REWRITING EVERYTHING<br />\nThe AI Boom Is Here \u2014 And It's Rewriting Everything<br />\nIf you thought the AI",
+    "link": "https://dev.to/adeniran_adebayoadekunle/the-ai-boom-is-here-and-its-rewriting-everything-b1c",
+    "topic": "general"
+  },
+  {
     "title": "Building an AI Agent Analytics Pipeline Across Machines: 5 Patterns When a Shared InfluxDB Isn't the Answer",
     "desc": "<p>Your agents are everywhere. A handful on cloud VMs, a few on on-prem boxes, one or two on laptops that appear and disappear. You need an ",
     "link": "https://dev.to/pstayet/building-an-ai-agent-analytics-pipeline-across-machines-5-patterns-when-a-shared-influxdb-isnt-24go",
@@ -21,30 +45,6 @@
     "title": "Data Sovereignty in 2026: Production-Grade Local LLMs",
     "desc": "<h2>\n  \n  \n  The API Trap\n</h2>\n\n<p>Over the last few years, thousands of startups have built their entire business logic around API calls t",
     "link": "https://dev.to/mealiclay01/data-sovereignty-in-2026-production-grade-local-llms-3g30",
-    "topic": "general"
-  },
-  {
-    "title": "WebAssembly (WASM) in Kubernetes: The Micro-Edge Revolution",
-    "desc": "<h2>\n  \n  \n  Containers are Heavy. Meet WebAssembly.\n</h2>\n\n<p>Docker revolutionized software delivery by packaging applications with their ",
-    "link": "https://dev.to/mealiclay01/webassembly-wasm-in-kubernetes-the-micro-edge-revolution-2mlp",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "The Rise of Agentic DevOps: How Autonomous AI is Replacing Static CI/CD",
-    "desc": "<h2>\n  \n  \n  The Era of Static CI/CD is Over\n</h2>\n\n<p>For the last decade, CI/CD pipelines have been defined by static, rule-based YAML fil",
-    "link": "https://dev.to/mealiclay01/the-rise-of-agentic-devops-how-autonomous-ai-is-replacing-static-cicd-42ip",
-    "topic": "general"
-  },
-  {
-    "title": "Working out what a site is running \u2014 and where every check lies to you",
-    "desc": "<p>You want to know what some site is built on. Maybe a competitor, maybe a client's old site nobody has the credentials for, maybe you just",
-    "link": "https://dev.to/hammad4june1999/working-out-what-a-site-is-running-and-where-every-check-lies-to-you-167p",
-    "topic": "general"
-  },
-  {
-    "title": "Your n8n workflow stopped three days ago. Nobody noticed.",
-    "desc": "<p>The message always has the same shape: \"Hey, are the leads still coming through? I don't think I've seen one since Tuesday.\"</p>\n\n<p>You ",
-    "link": "https://dev.to/lamas51/your-n8n-workflow-stopped-three-days-ago-nobody-noticed-4noa",
     "topic": "general"
   }
 ]
