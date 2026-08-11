@@ -1,5 +1,17 @@
 [
   {
+    "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
+    "desc": "<p>Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant\u2019s machine.</p>\n<p>T",
+    "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "The AI Governance Gap Is a Leadership Problem: Waiting Won\u2019t Close It",
+    "desc": "<p>Organizations are rushing to implement AI without fully grasping where its legal protections begin and end.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
+    "topic": "guardrails"
+  },
+  {
     "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
     "desc": "<p>SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
@@ -33,18 +45,6 @@
     "title": "OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber",
     "desc": "<p>OpenAI has also announced the expansion of its Daybreak platform to give more organizations access to its AI.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/",
-    "topic": "openai"
-  },
-  {
-    "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
-    "desc": "<p>The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
-    "topic": "general"
-  },
-  {
-    "title": "OpenAI\u2019s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
-    "desc": "<p>The current GPT-5.6-Sol has been assigned a \u2018high\u2019 cybersecurity threshold, but Astra could reach the maximum \u2018critical\u2019 threshold.\u00a0</p>\n",
-    "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
     "topic": "openai"
   }
 ]
