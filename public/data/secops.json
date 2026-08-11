@@ -1,5 +1,17 @@
 [
   {
+    "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
+    "desc": "<p>SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "US Water Systems Get Cyber Boost From New Senate Bill and \u2018Water Watch Center\u2019",
+    "desc": "<p>The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
+    "topic": "secops"
+  },
+  {
     "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
     "desc": "<p>Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue.</p>\n<p>The post <a href=\"https://www.secu",
     "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
@@ -34,17 +46,5 @@
     "desc": "<p>The current GPT-5.6-Sol has been assigned a \u2018high\u2019 cybersecurity threshold, but Astra could reach the maximum \u2018critical\u2019 threshold.\u00a0</p>\n",
     "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
     "topic": "openai"
-  },
-  {
-    "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
-    "desc": "<p>The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI ",
-    "link": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
-    "topic": "secops"
-  },
-  {
-    "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
-    "desc": "<p>Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition.</p>\n<p>The post <a href=\"https://w",
-    "link": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
-    "topic": "general"
   }
 ]
