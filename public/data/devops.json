@@ -1,50 +1,50 @@
 [
   {
-    "title": "FloodCRM Explained: How Email, SMS, and Call Flooding Attacks Work and How to Respond",
-    "desc": "<p>An inbox can go from normal to nearly unusable in a matter of minutes.</p>\n\n<p>Hundreds of newsletter confirmations arrive at once. Passw",
-    "link": "https://dev.to/debrah/floodcrm-explained-how-email-sms-and-call-flooding-attacks-work-and-how-to-respond-opd",
-    "topic": "secops"
-  },
-  {
-    "title": "Build a Canary Analysis Agent: An LLM Judge for Argo Rollouts Promotions",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-11-canary-analysis-llm-judge-argo-rollouts\" re",
-    "link": "https://dev.to/devtocash/build-a-canary-analysis-agent-an-llm-judge-for-argo-rollouts-promotions-dkd",
+    "title": "Cut Redundant US Stock API Calls With Tiered Caching",
+    "desc": "<h2>\n  \n  \n  Intro: A Common Pain Point In Student Quant Backtesting\n</h2>\n\n<p>I run fintech quantitative training labs where learners build",
+    "link": "https://dev.to/sam_choi_aff94225f397c27c/cut-redundant-us-stock-api-calls-with-tiered-caching-36el",
     "topic": "general"
   },
   {
-    "title": "5 Linux Terminal Combos Every Developer Should Know (Plus Automation Scripts)",
-    "desc": "<p>Hey everyone! Over the last few years managing production servers and developer workstations, I noticed developers frequently waste time ",
-    "link": "https://dev.to/astrosss/5-linux-terminal-combos-every-developer-should-know-plus-automation-scripts-1d12",
+    "title": "The Idle-Resource Audit: Uncovering Hidden Cloud Costs",
+    "desc": "<h2>\n  \n  \n  Key takeaways\n</h2>\n\n<ul>\n<li>Identify and eliminate idle resources to save up to 30% on cloud bills.</li>\n<li>Use tooling like",
+    "link": "https://dev.to/kapil/the-idle-resource-audit-uncovering-hidden-cloud-costs-4hm3",
     "topic": "general"
   },
   {
-    "title": "The Real Cost Structure of an AI Agent",
-    "desc": "<p>Almost every cost discussion about AI agents opens with a model price per million tokens, which is the one number that tells you the leas",
-    "link": "https://dev.to/paulcrinigan/the-real-cost-structure-of-an-ai-agent-m5j",
+    "title": "How to Add an Agent in ViciDial \u2014 User Setup & Phone Config",
+    "desc": "<h1>\n  \n  \n  How to Add an Agent in ViciDial \u2014 User Setup & Phone Config\n</h1>\n\n<p><strong>Master the complete process of creating and confi",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-add-an-agent-in-vicidial-user-setup-phone-config-19be",
     "topic": "general"
   },
   {
-    "title": "Secure Boot's October 2026 Deadline: Two Years' Notice Wasn't Enough",
-    "desc": "<h2>\n  \n  \n  The deadline nobody missed\n</h2>\n\n<p>Every expiry story we've written here has the same shape. A certificate lapses, nobody was",
-    "link": "https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64",
+    "title": "Self-Managed VPS vs Managed: The Decision Comes Down to Your Restore Time",
+    "desc": "<p>As developers we default to raw VPS \u2014 it's cheaper and we can obviously manage a server. Sometimes that's right. But after doing 2am inci",
+    "link": "https://dev.to/suewang/self-managed-vps-vs-managed-the-decision-comes-down-to-your-restore-time-107g",
     "topic": "general"
   },
   {
-    "title": "Re-architecting AWS to Proxmox LXC: Saving 70% on Cloud Costs",
-    "desc": "<h2>\n  \n  \n  The VMware Exodus\n</h2>\n\n<p>With Broadcom's acquisition of VMware causing massive licensing fee hikes, enterprise companies are",
-    "link": "https://dev.to/mealiclay01/re-architecting-aws-to-proxmox-lxc-saving-70-on-cloud-costs-4pch",
-    "topic": "aws"
+    "title": "Publishing a Spring Cloud starter to Maven Central in 2026",
+    "desc": "<p>Half the guides still point at a JIRA board that no longer exists.</p>\n\n<p>If you search for how to publish to Maven Central, you will fi",
+    "link": "https://dev.to/danzizhangdev/publishing-a-spring-cloud-starter-to-maven-central-in-2026-1fp6",
+    "topic": "general"
   },
   {
-    "title": "Building a Zero-Trust Kubernetes Cluster from Scratch",
-    "desc": "<h2>\n  \n  \n  The Illusion of Internal Security\n</h2>\n\n<p>Many organizations treat their Kubernetes cluster like a medieval castle: heavy def",
-    "link": "https://dev.to/mealiclay01/building-a-zero-trust-kubernetes-cluster-from-scratch-2l74",
-    "topic": "kubernetes"
+    "title": "The Kernel Trick Is the Oldest Move in Engineering",
+    "desc": "<p><em>Classic Machine Learning Through the Eyes of an SRE \u2014 Part 4</em></p>\n\n<p>When a computation is too hard, don't compute harder. Chang",
+    "link": "https://dev.to/nishant_banginwar_80b7dc5/the-kernel-trick-is-the-oldest-move-in-engineering-4ij5",
+    "topic": "general"
   },
   {
-    "title": "Automating Enterprise Workflows with n8n and Local LLMs (Ollama)",
-    "desc": "<h2>\n  \n  \n  The Privacy Dilemma in AI Automation\n</h2>\n\n<p>Companies want the power of AI to automate document parsing, lead scoring, and i",
-    "link": "https://dev.to/mealiclay01/automating-enterprise-workflows-with-n8n-and-local-llms-ollama-4l11",
+    "title": "Stellar RPC Server: What It Is and How to Connect",
+    "desc": "<h2>\n  \n  \n  Quick decision guide: run your own or use a provider?\n</h2>\n\n<p>Before you dig into endpoints and methods, decide how you want ",
+    "link": "https://dev.to/onfinality/stellar-rpc-server-what-it-is-and-how-to-connect-56pj",
+    "topic": "general"
+  },
+  {
+    "title": "Asset Hub Network: RPC Endpoints and Developer Guide",
+    "desc": "<h2>\n  \n  \n  Quick recommendation: when to use Asset Hub RPC\n</h2>\n\n<p>If you are building a wallet, indexer, or DeFi application that needs",
+    "link": "https://dev.to/onfinality/asset-hub-network-rpc-endpoints-and-developer-guide-3ohe",
     "topic": "general"
   }
 ]
