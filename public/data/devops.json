@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bethesda's Inflatable Rat Marks Developer Experience Failure",
+    "desc": "<p>When a 15-foot inflatable rat outside Bethesda's Maryland office becomes the most honest status indicator of a $2. 3 trillion gaming ecos",
+    "link": "https://dev.to/thomas_woodfin_3a4efcd491/bethesdas-inflatable-rat-marks-developer-experience-failure-34g3",
+    "topic": "general"
+  },
+  {
+    "title": "100 Days of DevOps and Cloud (AWS), Day 26: Origin Is Just a Nickname, and Localhost Tells the Truth",
+    "desc": "<p>A lot of confusion in this field comes from taking a name at face value. <code>origin</code> sounds like it means something. A server tha",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-26-origin-is-just-a-nickname-and-localhost-tells-the-1il1",
+    "topic": "aws"
+  },
+  {
+    "title": "Your CI is not flaky. Your cache expires every seven days.",
+    "desc": "<p><em>CI timeouts</em></p>\n\n<p>A pull request that changed one blog page turned the build red. The lint job it broke had found zero problem",
+    "link": "https://dev.to/heinrichneb/your-ci-is-not-flaky-your-cache-expires-every-seven-days-703",
+    "topic": "general"
+  },
+  {
+    "title": "CDN Explained: How Content Delivery Networks Work \u2014 A Complete Beginner's Guide",
+    "desc": "<p>If you've ever wondered how websites deliver content quickly to users around the world, a Content Delivery Network (CDN) is a big part of",
+    "link": "https://dev.to/saipraveen446/cdn-explained-how-content-delivery-networks-work-a-complete-beginners-guide-3pkp",
+    "topic": "general"
+  },
+  {
     "title": "AdventureWorks SQL Server with DBeaver Keystore Helper",
     "desc": "<p>I needed a local SQL Server with the AdventureWorks2022 sample database. Sounds like a 10-minute job, right? Run a container, restore a <",
     "link": "https://dev.to/sys-ronin/adventureworks-sql-server-with-dbeaver-keystore-helper-3e8f",
@@ -22,29 +46,5 @@
     "desc": "<p>I've been playing with <a href=\"https://kiro.dev/docs/crew/installation/\" rel=\"noopener noreferrer\">Kiro Crew</a> recently, and when I we",
     "link": "https://dev.to/techwithmatheus/running-kiro-crew-in-docker-on-windows-19j6",
     "topic": "docker"
-  },
-  {
-    "title": "Soul in Motion \u2014 10:09 PM | 2026-08-12",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Successfully migrated auto-upload pipeline to new Instagram handle @trendpulse77 using Claude.</li>\n<li>O",
-    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1009-pm-2026-08-12-56ei",
-    "topic": "general"
-  },
-  {
-    "title": "Buy Verified PayPal Account New/old, Personal/business",
-    "desc": "<p>Buy Verified PayPal Account New/Old, Personal/Business<br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usamark",
-    "link": "https://dev.to/paypalacc84/buy-verified-paypal-account-newold-personalbusiness-51kl",
-    "topic": "general"
-  },
-  {
-    "title": "Deploy Grafana to Azure with Azure CLI : From Local Docker to Durable Dashboards",
-    "desc": "<p>Grafana turns data from sources such as PostgreSQL, Prometheus, and Azure Monitor into shared dashboards, charts, and alerts. While it qu",
-    "link": "https://dev.to/khanh_nguyen_04b1205f5a91/deploy-grafana-to-azure-with-azure-cli-from-local-docker-to-durable-dashboards-5f0l",
-    "topic": "azure"
-  },
-  {
-    "title": "Treat Every `.gitlab-ci.yml` Edit as a Graph Change, Not a Text Diff",
-    "desc": "<p>A dangerous GitLab CI change rarely looks dangerous in a merge request. The YAML diff is small: one <code>rules:</code> block becomes <co",
-    "link": "https://dev.to/gitlab_3188/treat-every-gitlab-ciyml-edit-as-a-graph-change-not-a-text-diff-4j7f",
-    "topic": "general"
   }
 ]
