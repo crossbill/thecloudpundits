@@ -1,14 +1,26 @@
 [
   {
-    "title": "How to Actually Read Linux Logs When Something's Broken",
-    "desc": "<p>It's 3am, a service is down, and you have exactly one clue: something logged an error somewhere. This is the part of the job nobody teach",
-    "link": "https://dev.to/alex_mitu_e264ef6e0d71197/how-to-actually-read-linux-logs-when-somethings-broken-2mhb",
+    "title": "Reproducible AI Development Environments With devenv",
+    "desc": "<p>In our July Quito Lambda session, Stack Builders Senior Software Developer Cristhian Motoche explores a practical question: how can teams",
+    "link": "https://dev.to/stack_builders/reproducible-ai-development-environments-with-devenv-e17",
     "topic": "general"
   },
   {
-    "title": "AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306f\u3042\u306a\u305f\u306e secrets \u3092\u8aad\u3081\u308b\u2014\u2014\u305d\u3057\u3066 commit \u3067\u304d\u308b\u3002\u672c\u756a\u3067\u6570\u30f6\u6708\u904b\u7528\u3057\u3066\u3044\u308b\u30de\u30fc\u30b8\u30b2\u30fc\u30c8\u306e\u8a71",
-    "desc": "<p>2026\u5e744\u6708\u3001Cursor \u4e0a\u3067\u52d5\u304f\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\uff08Claude Opus 4.6\uff09\u304c\u3001staging \u4f5c\u696d\u4e2d\u306b\u8a8d\u8a3c\u30a8\u30e9\u30fc\u306b\u3076\u3064\u304b\u308a\u307e\u3057\u305f\u3002\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306f\u305d\u308c\u3092\u81ea\u5206\u3067\u300c\u4fee\u6b63\u300d\u3057\u3088\u3046\u3068\u3057\u307e\u3059\u3002\u305d\u3057\u3066\u4f5c\u696d\u3068\u306f\u7121\u95a2\u4fc2\u306a\u30d5\u30a1\u30a4\u30eb\u306e\u4e2d\u306b\u3001Railway \u306e\u30c8\u30fc\u30af\u30f3\u3092\u898b\u3064\u3051",
-    "link": "https://dev.to/zanshindev/aiezientohaanatano-secrets-wodu-meru-sosite-commit-dekiru-ben-fan-deshu-keyue-yun-yong-siteirumazigetonohua-2jb4",
+    "title": "OCI Cost Anomaly Detection",
+    "desc": "<p>Chega de esperar at\u00e9 o final do m\u00eas para saber quanto a nuvem gastou ou vigiar todo dia em busca de picos de gastos. O OCI Cost Anomaly D",
+    "link": "https://dev.to/cesar_augusto_devops/oci-cost-anomaly-detection-ci",
+    "topic": "general"
+  },
+  {
+    "title": "Building Self-Healing Infrastructure on AWS: A Hands-On Guide",
+    "desc": "<blockquote>\n<p>Ever wondered what actually happens when a server crashes in production? Not in theory, but for real. Does your app just die",
+    "link": "https://dev.to/adedejicloud/building-self-healing-infrastructure-on-aws-a-hands-on-guide-23io",
+    "topic": "aws"
+  },
+  {
+    "title": "How to Actually Read Linux Logs When Something's Broken",
+    "desc": "<p>It's 3am, a service is down, and you have exactly one clue: something logged an error somewhere. This is the part of the job nobody teach",
+    "link": "https://dev.to/alex_mitu_e264ef6e0d71197/how-to-actually-read-linux-logs-when-somethings-broken-2mhb",
     "topic": "general"
   },
   {
@@ -33,18 +45,6 @@
     "title": "The Future of SRE: What the Next 5 Years Look Like",
     "desc": "<p>Where is SRE going? I've been watching the trends closely. Here's my best guess for the next 5 years.</p>\n\n<h2>\n  \n  \n  Trend 1: AI becom",
     "link": "https://dev.to/samson_tanimawo/the-future-of-sre-what-the-next-5-years-look-like-3706",
-    "topic": "general"
-  },
-  {
-    "title": "The Startup DevOps Pre-Launch Checklist: What You Actually Need Before Day One",
-    "desc": "<h2>\n  \n  \n  Ship carefully, not perfectly\n</h2>\n\n<p>Before a launch, it is easy to either over-engineer infrastructure you will never need ",
-    "link": "https://dev.to/instadevops/the-startup-devops-pre-launch-checklist-what-you-actually-need-before-day-one-11ai",
-    "topic": "general"
-  },
-  {
-    "title": "Free Hiit Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/free-hiit-timer-what-we-learned-building-random-tactical-timer-57md",
     "topic": "general"
   }
 ]
