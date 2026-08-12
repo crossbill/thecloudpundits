@@ -1,50 +1,50 @@
 [
   {
-    "title": ".NET and Azure: What Enterprise Buyers Need to Know About Cloud-Native Development",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/rohitmeta750/net-and-azure-what-enterprise-buyers-need-to-know-about-cloud-native-development-40ng",
-    "topic": "azure"
+    "title": "Observability: Metrics, Logs & Traces (The Three Pillars)",
+    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Walk away able to instrument a service the right way: wire up metrics, logs, and traces, watch the",
+    "link": "https://dev.to/sri2614/observability-metrics-logs-traces-the-three-pillars-2gh3",
+    "topic": "general"
   },
   {
-    "title": "50 Docker Commands That Will Make You Unstoppable in 2026 \ud83d\udc33\u26a1",
-    "desc": "<p>You've googled <em>\"docker command to remove stopped containers\"</em> at 2 AM. This post ends that cycle \u2014 with diagrams, not just a wall",
-    "link": "https://dev.to/padhmenipriya/50-docker-commands-that-will-make-you-unstoppable-in-2026-4gcb",
+    "title": "How to Think Like a System Administrator: The Practical Interview Playbook",
+    "desc": "<p>At 11:00 PM, the phone rings.</p>\n\n<p>A client says:</p>\n\n<blockquote>\n<p>\u201cThe website is down.\u201d</p>\n</blockquote>\n\n<p>This is where a ju",
+    "link": "https://dev.to/yashvikothari/how-to-think-like-a-system-administrator-the-practical-interview-playbook-2ppc",
+    "topic": "general"
+  },
+  {
+    "title": "Docker Commands Every DevOps Engineer Should Know",
+    "desc": "<blockquote>\n<p>Learning Docker isn't just about running containers\u2014it's about becoming fluent in the commands you'll use every day in real-",
+    "link": "https://dev.to/themdmohiuddin/docker-commands-every-devops-engineer-should-know-55bp",
     "topic": "docker"
   },
   {
-    "title": "Por que todo neg\u00f3cio online deveria usar um n\u00famero virtual dedicado",
-    "desc": "<p>Se voc\u00ea trabalha construindo produtos digitais \u2014 seja um SaaS, um marketplace, um app ou at\u00e9 um projeto paralelo que j\u00e1 gera receita \u2014 pr",
-    "link": "https://dev.to/kairox_940d8228041f8f941b/por-que-todo-negocio-online-deveria-usar-um-numero-virtual-dedicado-49el",
+    "title": "The workflow you turned off is still a load-bearing part of your system",
+    "desc": "<p>A month ago I disabled a GitHub Actions workflow. It was the right call and I made it in about ninety seconds.</p>\n\n<p>The workflow pre-r",
+    "link": "https://dev.to/jk27101/the-workflow-you-turned-off-is-still-a-load-bearing-part-of-your-system-1i9b",
     "topic": "general"
   },
   {
-    "title": "DevOpsConsulting: Building a Stronger Foundation for Modern Software Delivery",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/anuj1/devopsconsulting-building-a-stronger-foundation-for-modern-software-delivery-3bdc",
+    "title": "Tailwind CSS Just-In-Time Compilation in Monorepos: Why Your Build Times Explode With Shared Component",
+    "desc": "<h1>\n  \n  \n  Tailwind CSS Just-In-Time Compilation in Monorepos: Why Your Build Times Explode With Shared Components\n</h1>\n\n<p>I built Citiz",
+    "link": "https://dev.to/uaslimcreate/tailwind-css-just-in-time-compilation-in-monorepos-why-your-build-times-explode-with-shared-1fh0",
     "topic": "general"
   },
   {
-    "title": "Laravel Development Process: From Idea to Production",
-    "desc": "<p>Building a Laravel application involves much more than writing PHP code. A production application needs to solve a real business problem,",
-    "link": "https://dev.to/robert_saylor_c9db74549e2/laravel-development-process-from-idea-to-production-219a",
+    "title": "What Developers Really Want From the Hiring Experience |Placemeright",
+    "desc": "<p><strong>What Developers Really Want From the Hiring Experience</strong></p>\n\n<p>Hiring developers has changed. A good salary and a fancy ",
+    "link": "https://dev.to/placemeright/what-developers-really-want-from-the-hiring-experience-placemeright-71d",
     "topic": "general"
   },
   {
-    "title": "Building an Open Source Session Border Controller with Kamailio and RTPengine",
-    "desc": "<p>If you run VoIP at any real scale, you eventually need something sitting at the edge of your network doing the unglamorous work. Securing",
-    "link": "https://dev.to/jackmorris10/building-an-open-source-session-border-controller-with-kamailio-and-rtpengine-57o8",
+    "title": "Apache vs Nginx: Linux Web Server Administration Guide",
+    "desc": "<p>Apache vs Nginx: Which Web Server Should a DevOps Engineer Learn?</p>\n\n<p>Most people learning DevOps jump straight into Docker, Kubernet",
+    "link": "https://dev.to/yashvikothari/apache-vs-nginx-linux-web-server-administration-guide-2k36",
     "topic": "general"
   },
   {
-    "title": "Docker - O Que \u00c9, Para Que Serve e Conceitos Iniciais",
-    "desc": "<h2>\n  \n  \n  1. O Problema que o Docker Resolve\n</h2>\n\n<p>\"Na minha m\u00e1quina funciona.\" Poucas frases resumem t\u00e3o bem um problema que atormen",
-    "link": "https://dev.to/apsis-cc/docker-o-que-e-para-que-serve-e-conceitos-iniciais-18g6",
-    "topic": "docker"
-  },
-  {
-    "title": "Why your LLM shouldn't touch JD Cloud credentials directly",
-    "desc": "<p>I\u2019ve seen this play out too many times. You want your AI agent to help troubleshoot a performance dip in your cloud environment. You thin",
-    "link": "https://dev.to/renato_marinho/why-your-llm-shouldnt-touch-jd-cloud-credentials-directly-3e24",
+    "title": "AI agents are shadow AI's more dangerous sequel",
+    "desc": "<p>The last two years of shadow AI were mostly about employees pasting things into chatbots. Risky, but bounded. A person can only copy so m",
+    "link": "https://dev.to/nodevguy/ai-agents-are-shadow-ais-more-dangerous-sequel-32j6",
     "topic": "general"
   }
 ]

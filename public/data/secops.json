@@ -1,5 +1,17 @@
 [
   {
+    "title": "Ceva Logistics Operations Disrupted by Cyberattack",
+    "desc": "<p>Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers.</p",
+    "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
+    "topic": "secops"
+  },
+  {
+    "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
+    "desc": "<p>Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution.</",
+    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
+    "topic": "general"
+  },
+  {
     "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
     "desc": "<p>LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
@@ -34,17 +46,5 @@
     "desc": "<p>CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.</p>\n<p>The post <a href=\"htt",
     "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
     "topic": "secops"
-  },
-  {
-    "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
-    "desc": "<p>A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.</p>\n<p>The post <a href=\"https:/",
-    "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
-    "topic": "azure"
-  },
-  {
-    "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-    "desc": "<p>The security defects could be exploited for arbitrary code execution and denial-of-service.</p>\n<p>The post <a href=\"https://www.security",
-    "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-    "topic": "aws"
   }
 ]
