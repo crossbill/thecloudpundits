@@ -1,9 +1,27 @@
 [
   {
+    "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
+    "desc": "<p>The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
+    "topic": "secops"
+  },
+  {
+    "title": "Mindgard Raises $30 Million to Protect AI Systems",
+    "desc": "<p>The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
+    "topic": "general"
+  },
+  {
     "title": "WhatsApp Unveils New Scam Alert Feature",
     "desc": "<p>Signal has also made a security announcement: an automatic key verification feature to complement its safety number system.</p>\n<p>The po",
     "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
     "topic": "general"
+  },
+  {
+    "title": "Stealthy \u2018City-Forum\u2019 Attacks Target Salesforce and ServiceNow With Custom Toolset",
+    "desc": "<p>Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from bot",
+    "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
+    "topic": "secops"
   },
   {
     "title": "Ceva Logistics Operations Disrupted by Cyberattack",
@@ -28,23 +46,5 @@
     "desc": "<p>The bug allowed attackers to gain full control of the victims\u2019 systems and deploy the ForestTiger backdoor.</p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
     "topic": "secops"
-  },
-  {
-    "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
-    "desc": "<p>The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
-    "topic": "aws"
-  },
-  {
-    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
-    "desc": "<p>CISA has also published several advisories describing vulnerabilities in ICS and other OT products.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
-    "topic": "general"
-  },
-  {
-    "title": "SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform",
-    "desc": "<p>The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/",
-    "topic": "general"
   }
 ]
