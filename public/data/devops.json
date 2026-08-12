@@ -1,50 +1,50 @@
 [
   {
-    "title": "Infrastructure as Code for AI Stacks",
-    "desc": "<p>Terraform for an AI stack differs from Terraform for a web stack in two specific ways, and both cause the same symptom \u2014 a plan that want",
-    "link": "https://dev.to/multigrid/infrastructure-as-code-for-ai-stacks-3koh",
+    "title": "53.9% of AI Security Patches Are Flawed \u2014 and \"Requires Human Review\" Only Counts When It's Enforced",
+    "desc": "<p>On August 6, 1Password's new security research team, Off-by-1 Labs, published the results of its inaugural study: what happens when front",
+    "link": "https://dev.to/waxell/539-of-ai-security-patches-are-flawed-and-requires-human-review-only-counts-when-its-enforced-3jcf",
+    "topic": "secops"
+  },
+  {
+    "title": "Coolify with Self-Host PaaS Setup: A Current Approach",
+    "desc": "<p>The command <code>curl -fsSL https://cdn.coollabs.io/coolify/install.sh | bash</code> installs a fully functional PaaS (Platform as a Ser",
+    "link": "https://dev.to/merbayerp/coolify-with-self-host-paas-setup-a-current-approach-27ja",
     "topic": "general"
   },
   {
-    "title": "Auto mode escalates to the human. Where is the human?",
-    "desc": "<p>This week Claude Code's auto mode becomes the default for most Claude Code users. I think that's the right call \u2014 and the number Anthropi",
-    "link": "https://dev.to/igorganapolsky/auto-mode-escalates-to-the-human-where-is-the-human-54dl",
+    "title": "Your AI agent writes migrations that look safe. Here's what they actually do to Postgres.",
+    "desc": "<p>You've seen the headlines by now. An agent in Cursor wiped a company's production database, backups and all, in about nine seconds. Repli",
+    "link": "https://dev.to/mickelsamuel/your-ai-agent-writes-migrations-that-look-safe-heres-what-they-actually-do-to-postgres-27a7",
     "topic": "general"
   },
   {
-    "title": "Streaming Responses: SSE, Chunks and Backpressure",
-    "desc": "<p>Streaming a completion looks like a five-line loop and is not. The transport is a text protocol whose framing does not respect your chunk",
-    "link": "https://dev.to/multigrid/streaming-responses-sse-chunks-and-backpressure-d61",
+    "title": "Detecting Drift in Infrastructure as Code",
+    "desc": "<h3>\n  \n  \n  The Problem: Drift Detection in Infrastructure-as-Code\n</h3>\n\n<p>In production environments, infrastructure-as-code (IaC) tools",
+    "link": "https://dev.to/vprachi360/detecting-drift-in-infrastructure-as-code-1ke5",
     "topic": "general"
   },
   {
-    "title": "Spot and Preemptible GPUs Without Losing Work",
-    "desc": "<p>Spot capacity is cheaper because it can be taken back. Whether that trade is worth making is not a matter of opinion: it is a short piece",
-    "link": "https://dev.to/multigrid/spot-and-preemptible-gpus-without-losing-work-38oe",
+    "title": "The npm Worm Does Not Start With Malicious Code",
+    "desc": "<p>Every package security tool on the market reads the artifact. Socket, Snyk, Aikido, Endor: they<br />\nfetch the tarball, look at what the",
+    "link": "https://dev.to/relaysh_aea8bcf38177/the-npm-worm-does-not-start-with-malicious-code-4a7g",
     "topic": "general"
   },
   {
-    "title": "Speculative Decoding: Two Models, One Output",
-    "desc": "<p>Decode is memory-bound: the hardware spends its time streaming weights, not computing. Speculative decoding exploits that idle arithmetic",
-    "link": "https://dev.to/multigrid/speculative-decoding-two-models-one-output-58jm",
+    "title": "Cloudflare Pages Redirects: What Nobody Tells You About the Free Plan Limit",
+    "desc": "<p>If you run a site on Cloudflare Pages and maintain a large <code>_redirects</code> file, this one is for you \u2014 because the documented lim",
+    "link": "https://dev.to/review_viewgameing/cloudflare-pages-redirects-what-nobody-tells-you-about-the-free-plan-limit-2g19",
     "topic": "general"
   },
   {
-    "title": "Silent Model Updates: Detecting a Behaviour Change",
-    "desc": "<p>\u201cThey changed the model\u201d is the first explanation offered for any unexplained quality drop, and it is right often enough to be worth actu",
-    "link": "https://dev.to/multigrid/silent-model-updates-detecting-a-behaviour-change-3hfo",
+    "title": "Top 56 Sites for Buying Verified Airbnb Accounts in 2026",
+    "desc": "<p>Buy Verified Airbnb Accounts \u2013 Safe, Fast, and Affordable<br />\n\u25c8{{\ud83c\udfc6\ud83c\udfc6}}\u25c8\u27a4Fast Reply 24/7 | Instant Support \ud83d\ude80<br />\n\u25c8{{\ud83c\udfc6\ud83c\udfc6}}\u25c8\u27a4Telegram: @pr",
+    "link": "https://dev.to/jolenehopkinsujgdp/top-56-sites-for-buying-verified-airbnb-accounts-in-2026-404i",
     "topic": "general"
   },
   {
-    "title": "Shadow Traffic: Testing a New Model on Real Requests",
-    "desc": "<p>Shadow traffic answers a question no offline eval can: how would the candidate model handle the requests your users actually send, in the",
-    "link": "https://dev.to/multigrid/shadow-traffic-testing-a-new-model-on-real-requests-55mk",
-    "topic": "general"
-  },
-  {
-    "title": "I turned remote AI machines into conversations",
-    "desc": "<p>Running an AI coding agent on one computer is straightforward. Running several<br />\nagents across a laptop, a build machine, and a home ",
-    "link": "https://dev.to/markin/i-turned-remote-ai-machines-into-conversations-2n46",
+    "title": "Why GPUs and Not CPUs",
+    "desc": "<p>\u201cGPUs are parallel\u201d is the usual answer and it is only half right. Parallelism is why a GPU can do the arithmetic at all; bandwidth is wh",
+    "link": "https://dev.to/multigrid/why-gpus-and-not-cpus-40ao",
     "topic": "general"
   }
 ]
