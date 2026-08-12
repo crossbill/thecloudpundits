@@ -1,5 +1,11 @@
 [
   {
+    "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+    "desc": "<p>CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+    "topic": "secops"
+  },
+  {
     "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
     "desc": "<p>A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.</p>\n<p>The post <a href=\"https:/",
     "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
@@ -40,11 +46,5 @@
     "desc": "<p>Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue.</p>\n<p>The post <a href=\"https://www.secu",
     "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
     "topic": "secops"
-  },
-  {
-    "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
-    "desc": "<p>The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.</p>\n<p>The post <a href=\"https:/",
-    "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
-    "topic": "general"
   }
 ]

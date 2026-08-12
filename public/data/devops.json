@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to report a wrong transaction in ICICI Bank 09170-1685-95.",
-    "desc": "<p>To recover money from a wrong transaction with ICICI Bank, immediately call customer care at 1800 1080 / 09170168595. or log into the iMo",
-    "link": "https://dev.to/anmol_rooy_f6242f1ba6e5ab/how-to-report-a-wrong-transaction-in-icici-bank-09170-1685-95-3mb3",
+    "title": "Your Agent Finished the Job. Did the Email Actually Leave?",
+    "desc": "<p>An agent run can be complete while its outbound side effect is still unknown.</p>\n\n<p>That distinction matters for email, GitHub comments",
+    "link": "https://dev.to/zira125/your-agent-finished-the-job-did-the-email-actually-leave-5cm1",
     "topic": "general"
   },
   {
-    "title": "Your EOL Risk List Is Probably Sorted Wrong",
-    "desc": "<p>Every \"upgrade this now\" list I have seen ranks end-of-life software the same way:<br />\ncount the CVEs published since the version stopp",
-    "link": "https://dev.to/endoflifeorg/your-eol-risk-list-is-probably-sorted-wrong-1po7",
+    "title": "Copilot CLI 'Backed Up' Its Own Log With a Hardlink, Then Destroyed Both Copies",
+    "desc": "<p>ln events.jsonl events.jsonl.bak-20260624<br />\n: > events.jsonl</p>",
+    "link": "https://dev.to/ramdai_bista/copilot-cli-backed-up-its-own-log-with-a-hardlink-then-destroyed-both-copies-b5e",
     "topic": "general"
   },
   {
-    "title": "\"Oops, I Forgot to Tell You That's Dangerous\": Claude Code Watched Me Wipe Production Redis - Then Helped Carve It Back Off the Disk\"",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> I enabled Redis AOF persistence by editing <code>redis.conf</code> and restarting the service. On th",
-    "link": "https://dev.to/vadim_albarov/oops-i-forgot-to-tell-you-thats-dangerous-claude-code-watched-me-wipe-production-redis-then-300h",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Optimizing Committed-Use Savings Plans: Startup Edition",
-    "desc": "<h2>\n  \n  \n  Key takeaways\n</h2>\n\n<ul>\n<li>Understanding baseline commitments can save 20-50% in cloud costs.</li>\n<li>Careful forecasting i",
-    "link": "https://dev.to/kapil/optimizing-committed-use-savings-plans-startup-edition-2k1p",
+    "title": "5 Signs Your Business Has Outgrown Its Current Software",
+    "desc": "<p>Business software often starts as a simple solution to an immediate problem. A spreadsheet may be enough for a small inventory, a basic C",
+    "link": "https://dev.to/nativeclusters_b695bf2918/5-signs-your-business-has-outgrown-its-current-software-3n3l",
     "topic": "general"
   },
   {
-    "title": "How to Change Campaign Dial Speed in ViciDial",
-    "desc": "<h1>\n  \n  \n  How to Change Campaign Dial Speed in ViciDial\n</h1>\n\n<p><strong>Master dial speed adjustments for ViciDial campaigns to optimiz",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-change-campaign-dial-speed-in-vicidial-p4n",
+    "title": "Accelerating Software Delivery and Cloud Modernization with Expert DevOps Solutions",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/komal-kumari/accelerating-software-delivery-and-cloud-modernization-with-expert-devops-solutions-3fp0",
     "topic": "general"
   },
   {
-    "title": "I Wrote Thirteen Posts Looking for the Line Between DevOps and AI Governance. There Isn't One.",
-    "desc": "<p>Thirteen posts ago I went looking for a seam.</p>\n\n<p>Somewhere between the pipeline work I did for twenty years and the AI governance wo",
-    "link": "https://dev.to/todd_linnertz_871a076f68e/i-wrote-thirteen-posts-looking-for-the-line-between-devops-and-ai-governance-there-isnt-one-5h01",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Reserve KV Cache for the Output You Promised, Not Just the Prompt You Received",
-    "desc": "<p>If your self-hosted LLM server checks admission against the prompt length alone, it will still OOM \u2014 because a short prompt with a large ",
-    "link": "https://dev.to/libme/reserve-kv-cache-for-the-output-you-promised-not-just-the-prompt-you-received-oko",
+    "title": "When Remote Infrastructure Becomes a Daily Productivity Problem",
+    "desc": "<p>Remote infrastructure is usually discussed in terms of security, networking, and reliability.</p>\n\n<p>But there is another problem that b",
+    "link": "https://dev.to/nicho/when-remote-infrastructure-becomes-a-daily-productivity-problem-2fm3",
     "topic": "general"
   },
   {
-    "title": "Day 11: AWS Service Categories \u2014 Compute, Storage, Database, Security & How to Access AWS",
-    "desc": "<p>Wrapping up AWS fundamentals. Today: a tour of AWS's major service categories, and the three ways you can actually access and manage AWS ",
-    "link": "https://dev.to/sr-palatasingh/day-11-aws-service-categories-compute-storage-database-security-how-to-access-aws-5dp6",
-    "topic": "aws"
+    "title": "Canary Releases: How to Stop Deploying Broken Code to Everyone",
+    "desc": "<h2>\n  \n  \n  What is a Canary Release?\n</h2>\n\n<p>A canary release is a modern software deployment strategy where a newly developed version o",
+    "link": "https://dev.to/saurav_tb_pandey/canary-releases-how-to-stop-deploying-broken-code-to-everyone-c03",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Leaking Between VLANs: Practical VLAN-Aware Bridges with systemd-networkd",
+    "desc": "<h1>\n  \n  \n  Stop Leaking Between VLANs: Practical VLAN-Aware Bridges with systemd-networkd\n</h1>\n\n<p>A plain Linux bridge is a software swi",
+    "link": "https://dev.to/lyraalishaikh/stop-leaking-between-vlans-practical-vlan-aware-bridges-with-systemd-networkd-33nb",
+    "topic": "general"
+  },
+  {
+    "title": "7 Reasons Why Java Frameworks are Used for API Development",
+    "desc": "<p>There's no shortage of options for building an API in 2026 \u2014 Node, Go, FastAPI, Kotlin, Rust, all legitimate, all with passionate fans. A",
+    "link": "https://dev.to/sahil_khurana_486f374ecf2/7-reasons-why-java-frameworks-are-used-for-api-development-ee6",
+    "topic": "general"
   }
 ]
