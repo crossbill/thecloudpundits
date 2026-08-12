@@ -1,50 +1,50 @@
 [
   {
-    "title": "AWS Lambda MicroVMs : bastions serverless, sandboxes IA et Cloud9 DIY avec VS Code OSS + EFS",
+    "title": ".NET and Azure: What Enterprise Buyers Need to Know About Cloud-Native Development",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/aws-builders/aws-lambda-microvms-bastions-serverless-sandboxes-ia-et-cloud9-diy-avec-vs-code-oss-efs-3pa7",
-    "topic": "aws"
-  },
-  {
-    "title": "How to migrate Laravel 13 + Next.js to Zero-Downtime VPS Releases",
-    "desc": "<p><strong>Part 9 of the CI/CD for Laravel Developers series.</strong></p>\n<p>Migrate Laravel 13 + Next.js to zero-downtime VPS releases in ",
-    "link": "https://dev.to/dineshstack/how-to-migrate-laravel-13-nextjs-to-zero-downtime-vps-releases-17i3",
-    "topic": "general"
-  },
-  {
-    "title": "The Boring Stack Manifesto: Why Your Startup Probably Doesn't Need Kubernetes",
-    "desc": "<p>If you are a small team shipping a web app, you almost certainly do not need Kubernetes yet. A single container image deployed to a manag",
-    "link": "https://dev.to/libme/the-boring-stack-manifesto-why-your-startup-probably-doesnt-need-kubernetes-55bo",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Configuring Centralized Log Aggregation with Grafana Loki",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
-    "link": "https://dev.to/chasebot/configuring-centralized-log-aggregation-with-grafana-loki-44bk",
-    "topic": "general"
-  },
-  {
-    "title": "Docker for Beginners: A Complete Practical Guide",
-    "desc": "<h1>\n  \n  \n  Docker for Beginners: A Complete Practical Guide\n</h1>\n\n<p><em>Generated: 2026-04-29 00:30 | Model: template</em></p>\n\n\n\n\n<h1>\n",
-    "link": "https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-108j",
-    "topic": "docker"
-  },
-  {
-    "title": "Enterprise-Grade Static Website Hosting on Azure: Deploy, Secure with SSL, and Connect a Custom Domain",
-    "desc": "<p><strong>Project Overview</strong></p>\n\n<p><em><strong>Introduction</strong></em></p>\n\n<p>Today more and more organizations are using serv",
-    "link": "https://dev.to/olakunle_makanjuola_92754/enterprise-grade-static-website-hosting-on-azure-deploy-secure-with-ssl-and-connect-a-custom-3gd0",
+    "link": "https://dev.to/rohitmeta750/net-and-azure-what-enterprise-buyers-need-to-know-about-cloud-native-development-40ng",
     "topic": "azure"
   },
   {
-    "title": "Why So Many Automation Projects Quietly Fail",
-    "desc": "<p>Most automation projects do not explode in a dramatic outage. They fade. A workflow that looked solid in a demo starts missing edge cases",
-    "link": "https://dev.to/daniel_reade123/why-so-many-automation-projects-quietly-fail-3151",
+    "title": "50 Docker Commands That Will Make You Unstoppable in 2026 \ud83d\udc33\u26a1",
+    "desc": "<p>You've googled <em>\"docker command to remove stopped containers\"</em> at 2 AM. This post ends that cycle \u2014 with diagrams, not just a wall",
+    "link": "https://dev.to/padhmenipriya/50-docker-commands-that-will-make-you-unstoppable-in-2026-4gcb",
+    "topic": "docker"
+  },
+  {
+    "title": "Por que todo neg\u00f3cio online deveria usar um n\u00famero virtual dedicado",
+    "desc": "<p>Se voc\u00ea trabalha construindo produtos digitais \u2014 seja um SaaS, um marketplace, um app ou at\u00e9 um projeto paralelo que j\u00e1 gera receita \u2014 pr",
+    "link": "https://dev.to/kairox_940d8228041f8f941b/por-que-todo-negocio-online-deveria-usar-um-numero-virtual-dedicado-49el",
     "topic": "general"
   },
   {
-    "title": "Investigating Code Changes Line by Line with git blame",
-    "desc": "<p>You've been there. You're staring at a file with a 50-line function that makes zero sense. Nobody on the team knows what it does. The per",
-    "link": "https://dev.to/fj_palacios/investigating-code-changes-line-by-line-with-git-blame-nbk",
+    "title": "DevOpsConsulting: Building a Stronger Foundation for Modern Software Delivery",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/anuj1/devopsconsulting-building-a-stronger-foundation-for-modern-software-delivery-3bdc",
+    "topic": "general"
+  },
+  {
+    "title": "Laravel Development Process: From Idea to Production",
+    "desc": "<p>Building a Laravel application involves much more than writing PHP code. A production application needs to solve a real business problem,",
+    "link": "https://dev.to/robert_saylor_c9db74549e2/laravel-development-process-from-idea-to-production-219a",
+    "topic": "general"
+  },
+  {
+    "title": "Building an Open Source Session Border Controller with Kamailio and RTPengine",
+    "desc": "<p>If you run VoIP at any real scale, you eventually need something sitting at the edge of your network doing the unglamorous work. Securing",
+    "link": "https://dev.to/jackmorris10/building-an-open-source-session-border-controller-with-kamailio-and-rtpengine-57o8",
+    "topic": "general"
+  },
+  {
+    "title": "Docker - O Que \u00c9, Para Que Serve e Conceitos Iniciais",
+    "desc": "<h2>\n  \n  \n  1. O Problema que o Docker Resolve\n</h2>\n\n<p>\"Na minha m\u00e1quina funciona.\" Poucas frases resumem t\u00e3o bem um problema que atormen",
+    "link": "https://dev.to/apsis-cc/docker-o-que-e-para-que-serve-e-conceitos-iniciais-18g6",
+    "topic": "docker"
+  },
+  {
+    "title": "Why your LLM shouldn't touch JD Cloud credentials directly",
+    "desc": "<p>I\u2019ve seen this play out too many times. You want your AI agent to help troubleshoot a performance dip in your cloud environment. You thin",
+    "link": "https://dev.to/renato_marinho/why-your-llm-shouldnt-touch-jd-cloud-credentials-directly-3e24",
     "topic": "general"
   }
 ]
