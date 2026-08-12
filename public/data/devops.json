@@ -1,50 +1,50 @@
 [
   {
-    "title": "Reproducible AI Development Environments With devenv",
-    "desc": "<p>In our July Quito Lambda session, Stack Builders Senior Software Developer Cristhian Motoche explores a practical question: how can teams",
-    "link": "https://dev.to/stack_builders/reproducible-ai-development-environments-with-devenv-e17",
+    "title": "Infrastructure as Code for AI Stacks",
+    "desc": "<p>Terraform for an AI stack differs from Terraform for a web stack in two specific ways, and both cause the same symptom \u2014 a plan that want",
+    "link": "https://dev.to/multigrid/infrastructure-as-code-for-ai-stacks-3koh",
     "topic": "general"
   },
   {
-    "title": "OCI Cost Anomaly Detection",
-    "desc": "<p>Chega de esperar at\u00e9 o final do m\u00eas para saber quanto a nuvem gastou ou vigiar todo dia em busca de picos de gastos. O OCI Cost Anomaly D",
-    "link": "https://dev.to/cesar_augusto_devops/oci-cost-anomaly-detection-ci",
+    "title": "Auto mode escalates to the human. Where is the human?",
+    "desc": "<p>This week Claude Code's auto mode becomes the default for most Claude Code users. I think that's the right call \u2014 and the number Anthropi",
+    "link": "https://dev.to/igorganapolsky/auto-mode-escalates-to-the-human-where-is-the-human-54dl",
     "topic": "general"
   },
   {
-    "title": "Building Self-Healing Infrastructure on AWS: A Hands-On Guide",
-    "desc": "<blockquote>\n<p>Ever wondered what actually happens when a server crashes in production? Not in theory, but for real. Does your app just die",
-    "link": "https://dev.to/adedejicloud/building-self-healing-infrastructure-on-aws-a-hands-on-guide-23io",
-    "topic": "aws"
-  },
-  {
-    "title": "How to Actually Read Linux Logs When Something's Broken",
-    "desc": "<p>It's 3am, a service is down, and you have exactly one clue: something logged an error somewhere. This is the part of the job nobody teach",
-    "link": "https://dev.to/alex_mitu_e264ef6e0d71197/how-to-actually-read-linux-logs-when-somethings-broken-2mhb",
+    "title": "Streaming Responses: SSE, Chunks and Backpressure",
+    "desc": "<p>Streaming a completion looks like a five-line loop and is not. The transport is a text protocol whose framing does not respect your chunk",
+    "link": "https://dev.to/multigrid/streaming-responses-sse-chunks-and-backpressure-d61",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent Can Read \u2014 and Commit \u2014 Your Secrets. Here's the Merge Gate I've Run in Production for Months",
-    "desc": "<p>In April 2026, a coding agent running on Cursor (Claude Opus 4.6) hit an authentication error while working on a staging task. It tried t",
-    "link": "https://dev.to/zanshindev/your-ai-agent-can-read-and-commit-your-secrets-heres-the-merge-gate-ive-run-in-production-5f7k",
+    "title": "Spot and Preemptible GPUs Without Losing Work",
+    "desc": "<p>Spot capacity is cheaper because it can be taken back. Whether that trade is worth making is not a matter of opinion: it is a short piece",
+    "link": "https://dev.to/multigrid/spot-and-preemptible-gpus-without-losing-work-38oe",
     "topic": "general"
   },
   {
-    "title": "Why LinkShift\u2019s simulator is not the same as live traffic",
-    "desc": "<p>I built LinkShift to help people avoid breaking links during migration.</p>\n\n<p>One thing I had to make very explicit in the product is t",
-    "link": "https://dev.to/p-zielinski/why-linkshifts-simulator-is-not-the-same-as-live-traffic-3g4b",
+    "title": "Speculative Decoding: Two Models, One Output",
+    "desc": "<p>Decode is memory-bound: the hardware spends its time streaming weights, not computing. Speculative decoding exploits that idle arithmetic",
+    "link": "https://dev.to/multigrid/speculative-decoding-two-models-one-output-58jm",
     "topic": "general"
   },
   {
-    "title": "I built a Free Cover Letter Generator for Job Seekers",
-    "desc": "<p>From Job Description to a Better Cover Letter: A Simple Free Tool I Built<br />\nWriting a good cover letter for every job application can",
-    "link": "https://dev.to/gnlassi/i-built-a-free-cover-letter-for-job-seekers-37pe",
+    "title": "Silent Model Updates: Detecting a Behaviour Change",
+    "desc": "<p>\u201cThey changed the model\u201d is the first explanation offered for any unexplained quality drop, and it is right often enough to be worth actu",
+    "link": "https://dev.to/multigrid/silent-model-updates-detecting-a-behaviour-change-3hfo",
     "topic": "general"
   },
   {
-    "title": "The Future of SRE: What the Next 5 Years Look Like",
-    "desc": "<p>Where is SRE going? I've been watching the trends closely. Here's my best guess for the next 5 years.</p>\n\n<h2>\n  \n  \n  Trend 1: AI becom",
-    "link": "https://dev.to/samson_tanimawo/the-future-of-sre-what-the-next-5-years-look-like-3706",
+    "title": "Shadow Traffic: Testing a New Model on Real Requests",
+    "desc": "<p>Shadow traffic answers a question no offline eval can: how would the candidate model handle the requests your users actually send, in the",
+    "link": "https://dev.to/multigrid/shadow-traffic-testing-a-new-model-on-real-requests-55mk",
+    "topic": "general"
+  },
+  {
+    "title": "I turned remote AI machines into conversations",
+    "desc": "<p>Running an AI coding agent on one computer is straightforward. Running several<br />\nagents across a laptop, a build machine, and a home ",
+    "link": "https://dev.to/markin/i-turned-remote-ai-machines-into-conversations-2n46",
     "topic": "general"
   }
 ]
