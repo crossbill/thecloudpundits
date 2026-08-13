@@ -1,5 +1,23 @@
 [
   {
+    "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
+    "desc": "<p>Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements.</p>\n<p>The p",
+    "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
+    "topic": "secops"
+  },
+  {
+    "title": "Critical VMware vCenter Vulnerability in Attackers\u2019 Crosshairs",
+    "desc": "<p>Tracked as CVE-2026\u201359310, the directory traversal bug allows remote attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
+    "topic": "secops"
+  },
+  {
+    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit \u2018ShieldBreak\u2019",
+    "desc": "<p>Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges.</p>\n<p>The post <a href=\"https://www.secur",
+    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
+    "topic": "general"
+  },
+  {
     "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
     "desc": "<p>The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild.</p>\n<p>The post <a h",
     "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
@@ -27,24 +45,6 @@
     "title": "Ceva Logistics Operations Disrupted by Cyberattack",
     "desc": "<p>Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers.</p",
     "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
-    "desc": "<p>Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution.</",
-    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
-    "topic": "general"
-  },
-  {
-    "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
-    "desc": "<p>LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
-    "desc": "<p>The bug allowed attackers to gain full control of the victims\u2019 systems and deploy the ForestTiger backdoor.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
     "topic": "secops"
   }
 ]

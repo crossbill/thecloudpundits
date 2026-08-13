@@ -1,50 +1,50 @@
 [
   {
-    "title": "Five things I disabled before installing a vendor's agent runtime",
-    "desc": "<p>Two services I connected recently both call the thing they ship a \"skill\". One is a hosted endpoint. The other is a zip file. The review ",
-    "link": "https://dev.to/zackchew/five-things-i-disabled-before-installing-a-vendors-agent-runtime-1djo",
+    "title": "Choose the Right DevOps Trainer: A Practical Guide to Cloud, CI/CD, Kubernetes and SRE",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/zainab_1201/choose-the-right-devops-trainer-a-practical-guide-to-cloud-cicd-kubernetes-and-sre-1amm",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Deploying Microservices with Docker and Kubernetes: A Complete Guide to Building Scalable, Reliable, and Cloud-Native Applications",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/okoye_ndidiamaka_5e3b7d30/deploying-microservices-with-docker-and-kubernetes-a-complete-guide-to-building-scalable-114d",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "What Shipping a Paid MCP Server Taught Me About Ownership",
+    "desc": "<h2>\n  \n  \n  A small, honest system\n</h2>\n\n<p>A few weeks ago I put a paid tool on the public internet. It scores how resilient a web domain",
+    "link": "https://dev.to/feranor/what-shipping-a-paid-mcp-server-taught-me-about-ownership-3370",
     "topic": "general"
   },
   {
-    "title": "How to Get Alerted Before Your Users Notice Your Site Is Down",
-    "desc": "<p>Most developers find out their site is down the same way: a Slack message from a coworker, or worse, a customer email. By then it's alrea",
-    "link": "https://dev.to/waleed_alikhan_35632f8e8/how-to-get-alerted-before-your-users-notice-your-site-is-down-4eo7",
+    "title": "10 Platform Engineering Trends Shaping Modern Software Delivery",
+    "desc": "<p>Imagine you're building a house. Instead of every carpenter, plumber, and electrician having to build their own tools from scratch for ev",
+    "link": "https://dev.to/scottsteppe/10-platform-engineering-trends-shaping-modern-software-delivery-3045",
     "topic": "general"
   },
   {
-    "title": "Nginx + Python: The Perfect Production Setup",
-    "desc": "<h1>\n  \n  \n  Nginx + Python: The Perfect Production Setup\n</h1>\n\n<p>tags: nginx, python, devops, tutorial</p>\n\n\n\n\n<p>tags: nginx, python, de",
-    "link": "https://dev.to/qingluan/nginx-python-the-perfect-production-setup-1aig",
+    "title": "GCP Cloud Logging takes so much cost and how to disable it",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong> GCP Cloud Logging charges accumulate silently because default configurations opt every resource into ",
+    "link": "https://dev.to/zop_8abedcc7e12/gcp-cloud-logging-takes-so-much-cost-and-how-to-disable-it-6p2",
+    "topic": "gcp"
+  },
+  {
+    "title": "DataOps vs DevOps: How These Twin Disciplines Shape Digital Transformation",
+    "desc": "<p>DataOps and DevOps share common principles but solve different challenges. Discover their differences and roles in digital transformation",
+    "link": "https://dev.to/divyanshi_kulkarni_633311/dataops-vs-devops-how-these-twin-disciplines-shape-digital-transformation-3hol",
     "topic": "general"
   },
   {
-    "title": "How to Deploy Your Python App on a $5/Month Server",
-    "desc": "<h1>\n  \n  \n  How to Deploy Your Python App on a $5/Month Server\n</h1>\n\n<p>tags: python, deployment, devops, money</p>\n\n\n\n\n<p>tags: python, d",
-    "link": "https://dev.to/qingluan/how-to-deploy-your-python-app-on-a-5month-server-f1p",
-    "topic": "general"
+    "title": "AWS Observability in 2026: The Complete Stack \u2014 CloudWatch, X-Ray, OpenTelemetry, and Application Signals",
+    "desc": "<p>You can't fix what you can't see. As systems grow more distributed \u2014 microservices, serverless functions, event-driven flows \u2014 the gap be",
+    "link": "https://dev.to/alpeshkumbhare/aws-observability-in-2026-the-complete-stack-cloudwatch-x-ray-opentelemetry-and-application-1ek",
+    "topic": "aws"
   },
   {
-    "title": "The runner that was busy on someone else's job",
-    "desc": "<p>My CI pipeline sat pending for ten minutes. The runner was healthy. So was every other pipeline in the queue. The default setting was the",
-    "link": "https://dev.to/captkay/the-runner-that-was-busy-on-someone-elses-job-3ag3",
-    "topic": "general"
-  },
-  {
-    "title": "5 Easy Ways to Buy Old Yahoo Accounts Smartly ...",
-    "desc": "<p>Why Should You Buy Gmail Accounts? from usadigitalhub.com<br />\n\ud83d\udcac \ud83d\udd39 24/7 Support Is Always Available<br />\n\ud83d\udcf1 \ud83d\udd39 WhatsApp: +1 (506) 541-776",
-    "link": "https://dev.to/hedymontgomery328sv/5-easy-ways-to-buy-old-yahoo-accounts-smartly--2m1h",
-    "topic": "general"
-  },
-  {
-    "title": "Hermes Soul, Copilot Shell: Inline Editing in VS Code with Your Hermes Agent",
-    "desc": "<h1>\n  \n  \n  Hermes Soul, Copilot Shell: Inline Editing in VS Code with Your Hermes Agent\n</h1>\n\n<p>I got tired of the choice. Copilot has t",
-    "link": "https://dev.to/milkyway008/hermes-soul-copilot-shell-inline-editing-in-vs-code-with-your-hermes-agent-30di",
-    "topic": "general"
-  },
-  {
-    "title": "Monitoring Mixins, Observability Libraries, and the Signal Pattern: A Practitioner's Guide",
-    "desc": "<p>A few months ago, I completed a significant revamp of our metrics and monitoring implementation. That work meant taking a hard look at ho",
-    "link": "https://dev.to/krishanthisera/monitoring-mixins-observability-libraries-and-the-signal-pattern-a-practitioners-guide-5505",
-    "topic": "general"
+    "title": "The 40-Minute Supply Chain Attack That Leaked Microsoft, Amazon and Cisco Secrets",
+    "desc": "<p>A 40-minute window in March was all it took. In that span, a poisoned version of LiteLLM, an open source AI proxy gateway, sat on PyPI, t",
+    "link": "https://dev.to/jamilxt/the-40-minute-supply-chain-attack-that-leaked-microsoft-amazon-and-cisco-secrets-2mkf",
+    "topic": "azure"
   }
 ]
