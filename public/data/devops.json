@@ -1,5 +1,17 @@
 [
   {
+    "title": "Freeze CLI Inputs Before Cron Runs",
+    "desc": "<p>Cron-driven CLI jobs often look stable right until they get one retry, one stale config read, or one helper script that quietly changes t",
+    "link": "https://dev.to/mrdapperx/freeze-cli-inputs-before-cron-runs-33m2",
+    "topic": "general"
+  },
+  {
+    "title": "5 Terraform Infrastructure Risks That Can Survive `terraform plan`",
+    "desc": "<p>Terraform makes infrastructure reproducible.</p>\n\n<p>But a successful <code>terraform plan</code> does not necessarily mean that an infra",
+    "link": "https://dev.to/guilhermemarochio/5-terraform-infrastructure-risks-that-can-survive-terraform-plan-2m6p",
+    "topic": "terraform"
+  },
+  {
     "title": "Master deepseek-harness in 5 Mins",
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours integrating an AI-generated code into my project, only to realize I was using",
     "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-356m",
@@ -34,17 +46,5 @@
     "desc": "<p>Most Kubernetes advice assumes you have a platform team: specialists who own upgrades, ingress, security policies, and the 2 a.m. pages.<",
     "link": "https://dev.to/kestrion/the-kubernetes-checklist-for-teams-without-a-platform-team-1ian",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Your AI agents need Skill permissions and routing",
-    "desc": "<p>Skills give AI agents reusable instructions and files for specific tasks. But giving every agent every Skill exposes sensitive procedures",
-    "link": "https://dev.to/abewheeler/your-ai-agents-need-skill-permissions-and-routing-152c",
-    "topic": "general"
-  },
-  {
-    "title": "TestFleet: A self-hosted, multi-step API testing tool",
-    "desc": "<h2>\n  \n  \n  What is TestFleet?\n</h2>\n\n<p>Think of it like a Postman collection you can run on a schedule, with actual assertions to validat",
-    "link": "https://dev.to/raghiba/testfleet-a-self-hosted-multi-step-api-testing-tool-3ikk",
-    "topic": "general"
   }
 ]
