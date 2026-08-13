@@ -1,5 +1,23 @@
 [
   {
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours integrating an AI-generated code into my project, only to realize I was using",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-356m",
+    "topic": "general"
+  },
+  {
+    "title": "Optimizing LLM Fine-Tuning Costs: Infrastructure & Engineering Guidelines",
+    "desc": "<p>When moving LLM fine-tuning from prototype notebooks to production pipelines, compute cost is rarely the only financial hurdle. Engineeri",
+    "link": "https://dev.to/abdulrahman_maslmany/optimizing-llm-fine-tuning-costs-infrastructure-engineering-guidelines-43ai",
+    "topic": "general"
+  },
+  {
+    "title": "I thought this OpenClaw outage story was hype until I read how it actually worked",
+    "desc": "<p>A thread on r/openclaw with 134 upvotes and 62 comments got my attention because the agent didn\u2019t just summarize an outage email.</p>\n\n<p",
+    "link": "https://dev.to/lars_winstand/i-thought-this-openclaw-outage-story-was-hype-until-i-read-how-it-actually-worked-8jf",
+    "topic": "general"
+  },
+  {
     "title": "Nmap for Authorized Infrastructure Validation (Not Hacking)",
     "desc": "<p>Every deploy makes a promise about the network: \"this box only exposes SSH and HTTPS,\" \"the database is never reachable from outside the ",
     "link": "https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6",
@@ -28,23 +46,5 @@
     "desc": "<h2>\n  \n  \n  What is TestFleet?\n</h2>\n\n<p>Think of it like a Postman collection you can run on a schedule, with actual assertions to validat",
     "link": "https://dev.to/raghiba/testfleet-a-self-hosted-multi-step-api-testing-tool-3ikk",
     "topic": "general"
-  },
-  {
-    "title": "Top 5 Enterprise AI Gateways for Production LLM Workloads",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/top-5-enterprise-ai-gateways-for-production-llm-workloads-p8k",
-    "topic": "general"
-  },
-  {
-    "title": "Vercel AI Gateway Alternatives for Self-Hosted LLM Infra",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/vercel-ai-gateway-alternatives-for-self-hosted-llm-infra-2coj",
-    "topic": "general"
-  },
-  {
-    "title": "Implementing Enterprise AI Guardrails for Company Policies and Compliance",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/implementing-enterprise-ai-guardrails-for-company-policies-and-compliance-1a6a",
-    "topic": "guardrails"
   }
 ]
