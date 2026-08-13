@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Death of Middleware: What Replaces ESBs, iPaaS, and Integration Brokers",
-    "desc": "<h2>A Brief Eulogy for the Enterprise Service Bus</h2>\n\n<p>The Enterprise Service Bus had a good run. From its emergence in the early 2000s ",
-    "link": "https://dev.to/n3xgen/the-death-of-middleware-what-replaces-esbs-ipaas-and-integration-brokers-dp5",
+    "title": "But it works on my machine!\" \u2014 How to Fix Production Environment Drift",
+    "desc": "<p>It is the ultimate developer clich\u00e9. <br />\nYou write your code, spin up your local server, run your test suites, and everything passes f",
+    "link": "https://dev.to/sadaf_botanist/but-it-works-on-my-machine-how-to-fix-production-environment-drift-3eml",
     "topic": "general"
   },
   {
-    "title": "i started holyclaude back in march. 2.4k stars later i'm building the hosted version of it",
-    "desc": "<p>i started holyclaude in march. a web ui for running claude on your own machine, built because i wanted one and the options at the time di",
-    "link": "https://dev.to/coderluii/i-started-holyclaude-back-in-march-24k-stars-later-im-building-the-hosted-version-of-it-28cc",
-    "topic": "anthropic"
+    "title": "Why Your Web Scraper Keeps Getting Blocked (And How to Fix It",
+    "desc": "<p>Every backend developer has been there. You write a beautiful Python script using BeautifulSoup or Playwright, test it locally on 50 page",
+    "link": "https://dev.to/sadaf_botanist/why-your-web-scraper-keeps-getting-blocked-and-how-to-fix-it-2dmd",
+    "topic": "general"
   },
   {
-    "title": "Claude Code's Worktree-Isolated Subagents Deleted a Repo's .git Directory Entirely",
-    "desc": "<p>fatal: not a git repository (or any of the parent directories): .git</p>",
-    "link": "https://dev.to/ramdai_bista/claude-codes-worktree-isolated-subagents-deleted-a-repos-git-directory-entirely-2in2",
-    "topic": "anthropic"
+    "title": "CI/CD Pipelines that Actually Work: The Quest for the Holy Grail",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \u201cWhy\u201d)\n</h2>\n\n<p>Honestly, I was tired of watching my teammates stare at a red \u201cfailed\u201d badge on every pu",
+    "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-the-quest-for-the-holy-grail-a40",
+    "topic": "general"
   },
   {
-    "title": "Claude Desktop on Microsoft Foundry: Third-Party Inference Mode, Entra ID Sign-In, and What Claude Design Cannot Do",
-    "desc": "<p>After getting <a href=\"https://naveenneog.github.io/AI4Good/2026/08/13/claude-code-on-microsoft-foundry/\" rel=\"noopener noreferrer\">Claud",
-    "link": "https://dev.to/naveenneog/claude-desktop-on-microsoft-foundry-third-party-inference-mode-entra-id-sign-in-and-what-claude-33lo",
-    "topic": "azure"
+    "title": "Your DDoS protection is provisioned. I checked whether it was actually in the path.",
+    "desc": "<p>A managed edge defends the requests that pass through it. That is the entire contract, and it is easy to read past.</p>\n\n<p>Anything reac",
+    "link": "https://dev.to/blackneuron/your-ddos-protection-is-provisioned-i-checked-whether-it-was-actually-in-the-path-e4b",
+    "topic": "general"
   },
   {
-    "title": "Cloud TCO Starts With Ownership: A Practical Cloud Cost Model for AWS, Azure, and GCP",
-    "desc": "<p>The cloud cost conversation often begins after a number moves in the wrong direction. The bill is higher than forecast, finance wants an ",
-    "link": "https://dev.to/seo_optimization_591fad6c/cloud-tco-starts-with-ownership-a-practical-cloud-cost-model-for-aws-azure-and-gcp-5c99",
+    "title": "How I Made My Own AWS For Students To Learn Cloud",
+    "desc": "<p>Cloud computing is one of the most important skills for developers today, but I noticed that many students learn it mostly through theory",
+    "link": "https://dev.to/johngithiyon/how-i-made-my-own-aws-for-students-to-learn-cloud-1pb6",
     "topic": "aws"
   },
   {
-    "title": "Remote Diagnostics for Low-Power IoT Devices: Stop Treating Them Like Servers",
-    "desc": "<p>The hardest failures in low-power IoT are often not total silence. They show up as partial signals: battery voltage drifting down, RSSI g",
-    "link": "https://dev.to/zediot/remote-diagnostics-for-low-power-iot-devices-stop-treating-them-like-servers-37j8",
+    "title": "Zero-Trust Security for Cloud Native Microservices: SPIFFE/SPIRE Implementation Guide",
+    "desc": "<h1>\n  \n  \n  Zero-Trust Security for Cloud Native Microservices: SPIFFE/SPIRE Implementation Guide\n</h1>\n\n<p>In legacy infrastructure, micro",
+    "link": "https://dev.to/lakshanmuruganandam/zero-trust-security-for-cloud-native-microservices-spiffespire-implementation-guide-167c",
+    "topic": "secops"
+  },
+  {
+    "title": "33 tests proved the tool was correct. None asked whether it runs.",
+    "desc": "<p><em>Acceptance gaps</em></p>\n\n<p>Your monitoring tool has 33 tests. Every one of them passes. It has also never executed, not once, and n",
+    "link": "https://dev.to/heinrichneb/33-tests-proved-the-tool-was-correct-none-asked-whether-it-runs-2ldd",
     "topic": "general"
   },
   {
-    "title": "\u0986\u09aa\u09a8\u09be\u09b0 \u0995\u09be\u09b8\u09cd\u099f\u09ae\u09be\u09b0 \u0995\u09bf \u0986\u09aa\u09a8\u09be\u0995\u09c7 \u0985\u09a8\u09b2\u09be\u0987\u09a8\u09c7 \u0996\u09c1\u0981\u099c\u09c7 \u09aa\u09be\u099a\u09cd\u099b\u09c7? \ud83e\udd14",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/devsahatech/aapnaar-kaasttmaar-ki-aapnaake-anlaaine-khunje-paacche-6lb",
+    "title": "The monitoring bug that turned out not to be a bug",
+    "desc": "<p>I spent the last couple of days debugging what looked like a fairly nasty problem in PulseWatch, the dead-man\u2019s-switch monitoring tool I\u2019",
+    "link": "https://dev.to/chriscompiles/the-monitoring-bug-that-turned-out-not-to-be-a-bug-103e",
     "topic": "general"
-  },
-  {
-    "title": "Terraform vs OpenTofu: What Changed and How to Migrate Safely",
-    "desc": "<h2>\n  \n  \n  Why there are suddenly two Terraforms\n</h2>\n\n<p>In August 2023 HashiCorp relicensed Terraform from the Mozilla Public License t",
-    "link": "https://dev.to/instadevops/terraform-vs-opentofu-what-changed-and-how-to-migrate-safely-36kf",
-    "topic": "terraform"
   }
 ]
