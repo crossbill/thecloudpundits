@@ -1,5 +1,41 @@
 [
   {
+    "title": "I Shrank My Docker Image From 1.11GB to 133MB, and That Was the Easy Part",
+    "desc": "<p>My first Docker image was 1.11GB. The app inside it was a tiny delivery tracker that could<br />\nhave fit in a fraction of that. By the e",
+    "link": "https://dev.to/vivian_okose/i-shrank-my-docker-image-from-111gb-to-133mb-and-that-was-the-easy-part-463f",
+    "topic": "docker"
+  },
+  {
+    "title": "Triage Open-Source Issues With a Model That Only Reads Public Text",
+    "desc": "<p>When you maintain an open-source project, the issue tracker can turn into a second full-time job. Most reports are useful, but a meaningf",
+    "link": "https://dev.to/gitlab_3188/triage-open-source-issues-with-a-model-that-only-reads-public-text-be5",
+    "topic": "general"
+  },
+  {
+    "title": "Tracking 200+ Hours: Automated Pipeline Infrastructure for 100% Heartbeat Acceptance",
+    "desc": "<h2>\n  \n  \n  Overview\n</h2>\n\n<p>Achieving 100% coding activity heartbeat acceptance across 9 repositories required building a 24/7 automated",
+    "link": "https://dev.to/3ni8ma/tracking-200-hours-automated-pipeline-infrastructure-for-100-heartbeat-acceptance-279d",
+    "topic": "general"
+  },
+  {
+    "title": "We Health-Checked 86 Public MCP Servers. Not One Uses the Legacy Transport.",
+    "desc": "<p>We keep a <a href=\"https://merlonix.com/mcp-directory/\" rel=\"noopener noreferrer\">directory of public remote MCP servers</a> and re-check",
+    "link": "https://dev.to/merlonix/we-health-checked-86-public-mcp-servers-not-one-uses-the-legacy-transport-74n",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Is Restarting in a Loop. Stop Treating It Like a Health Check",
+    "desc": "<p>A process that is alive is not necessarily an agent that is healthy.</p>\n\n<p>A supervisor can report \u201crunning\u201d while the worker is crashi",
+    "link": "https://dev.to/zira125/your-ai-agent-is-restarting-in-a-loop-stop-treating-it-like-a-health-check-18h6",
+    "topic": "general"
+  },
+  {
+    "title": "1.Setting up my first Linux server on a Mac, and the scary messages that are actually fine",
+    "desc": "<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>I set up a real Ubuntu Server VM on an Apple Silicon Mac using UTM, as step one toward platform engi",
+    "link": "https://dev.to/anvaysingh/1setting-up-my-first-linux-server-on-a-mac-and-the-scary-messages-that-are-actually-fine-3lph",
+    "topic": "general"
+  },
+  {
     "title": "The Backup Awakens: A Star Wars Story",
     "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think backups were the boring chores you did after a long day of cod",
     "link": "https://dev.to/timevolt/the-backup-awakens-a-star-wars-story-1616",
@@ -9,42 +45,6 @@
     "title": "Trustworthy Vendor To Buy Verified CashApp Account Online",
     "desc": "<p>Trustworthy Vendor To Buy Verified CashApp Account Online<br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usam",
     "link": "https://dev.to/bestcashapp85/trustworthy-vendor-to-buy-verified-cashapp-account-online-5cjp",
-    "topic": "general"
-  },
-  {
-    "title": "Microsoft Now Rejects Unauthenticated Email. Here Is the DNS That Fixes It.",
-    "desc": "<p>Since May 5, 2025, Microsoft has been refusing mail that cannot prove where it came from. Outlook.com, Hotmail and Live.com, somewhere ar",
-    "link": "https://dev.to/moksh/microsoft-now-rejects-unauthenticated-email-here-is-the-dns-that-fixes-it-233o",
-    "topic": "azure"
-  },
-  {
-    "title": "Votre inventaire API est probablement faux et le CRA du 11 septembre 2026 va l'exposer",
-    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Posez cette question \u00e0 votre \u00e9quipe :</p>\n\n<blockquote>\n<p>\"Combien d'APIs avez-vous exactement <br />\ne",
-    "link": "https://dev.to/lhoren972971/votre-inventaire-api-est-probablement-faux-et-le-cra-du-11-septembre-2026-va-lexposer-2o4l",
-    "topic": "general"
-  },
-  {
-    "title": "EKS: alertas de cambios con contexto real",
-    "desc": "<p>En muchos equipos, una alerta de cambio en EKS llega demasiado tecnica para quien esta de guardia y demasiado vaga para quien necesita de",
-    "link": "https://dev.to/alexcarteruk/eks-alertas-de-cambios-con-contexto-real-2iji",
-    "topic": "general"
-  },
-  {
-    "title": "Top 14 Recommended Platforms to Buy Twitter Followers in World",
-    "desc": "<ul>\n<li>Buy Twitter Accounts</li>\n</ul>\n\n<p>\u25c8{{\ud83c\udfaf\ud83c\udfaf}}\u25c8\u27a4Fast Reply 24/7 | Instant Support \ud83d\ude80</p>\n\n<p>\u25c8{{\ud83c\udfaf\ud83c\udfaf}}\u25c8\u27a4Telegram: @progmbofficial</p>\n\n<p",
-    "link": "https://dev.to/norrievictordmbxz/top-14-recommended-platforms-to-buy-twitter-followers-in-world-50hi",
-    "topic": "general"
-  },
-  {
-    "title": "737 Fake VPN Chrome Extensions Caught Hijacking Traffic via SOCKS5 Proxy",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/737-fake-vpn-chrome-extensions-caught-hijacking-traffic-via-socks5-proxy-198k",
-    "topic": "general"
-  },
-  {
-    "title": "A Five-Minute Probe Before You Point a Side Project at a Free Model Endpoint",
-    "desc": "<p>Every model release seems to arrive with a free tier now. The problem isn't finding a free endpoint; it's deciding whether that endpoint ",
-    "link": "https://dev.to/rivera123/a-five-minute-probe-before-you-point-a-side-project-at-a-free-model-endpoint-5bp3",
     "topic": "general"
   }
 ]
