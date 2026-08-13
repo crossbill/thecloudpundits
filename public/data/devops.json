@@ -1,50 +1,50 @@
 [
   {
-    "title": "nginx is not the bug. Two lines of your config are. CVE-2026-42945 on a live stand",
-    "desc": "<p>A critical nginx vulnerability, 9.2 on CVSS, sat in the code for eighteen years. It was found not by a human but by an AI agent, and six ",
-    "link": "https://dev.to/cynepmyx/nginx-is-not-the-bug-two-lines-of-your-config-are-cve-2026-42945-on-a-live-stand-5fc8",
+    "title": "The Death of Middleware: What Replaces ESBs, iPaaS, and Integration Brokers",
+    "desc": "<h2>A Brief Eulogy for the Enterprise Service Bus</h2>\n\n<p>The Enterprise Service Bus had a good run. From its emergence in the early 2000s ",
+    "link": "https://dev.to/n3xgen/the-death-of-middleware-what-replaces-esbs-ipaas-and-integration-brokers-dp5",
     "topic": "general"
   },
   {
-    "title": "From Hardware to Software: Rethinking DR Networking in the Cloud Era",
-    "desc": "<h1>\n  \n  \n  From Hardware to Software: Rethinking DR Networking in the Cloud Era\n</h1>\n\n<p>In our previous article, we proposed a core thes",
-    "link": "https://dev.to/seagaruda/from-hardware-to-software-rethinking-dr-networking-in-the-cloud-era-2hl3",
+    "title": "i started holyclaude back in march. 2.4k stars later i'm building the hosted version of it",
+    "desc": "<p>i started holyclaude in march. a web ui for running claude on your own machine, built because i wanted one and the options at the time di",
+    "link": "https://dev.to/coderluii/i-started-holyclaude-back-in-march-24k-stars-later-im-building-the-hosted-version-of-it-28cc",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Claude Code's Worktree-Isolated Subagents Deleted a Repo's .git Directory Entirely",
+    "desc": "<p>fatal: not a git repository (or any of the parent directories): .git</p>",
+    "link": "https://dev.to/ramdai_bista/claude-codes-worktree-isolated-subagents-deleted-a-repos-git-directory-entirely-2in2",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Claude Desktop on Microsoft Foundry: Third-Party Inference Mode, Entra ID Sign-In, and What Claude Design Cannot Do",
+    "desc": "<p>After getting <a href=\"https://naveenneog.github.io/AI4Good/2026/08/13/claude-code-on-microsoft-foundry/\" rel=\"noopener noreferrer\">Claud",
+    "link": "https://dev.to/naveenneog/claude-desktop-on-microsoft-foundry-third-party-inference-mode-entra-id-sign-in-and-what-claude-33lo",
+    "topic": "azure"
+  },
+  {
+    "title": "Cloud TCO Starts With Ownership: A Practical Cloud Cost Model for AWS, Azure, and GCP",
+    "desc": "<p>The cloud cost conversation often begins after a number moves in the wrong direction. The bill is higher than forecast, finance wants an ",
+    "link": "https://dev.to/seo_optimization_591fad6c/cloud-tco-starts-with-ownership-a-practical-cloud-cost-model-for-aws-azure-and-gcp-5c99",
+    "topic": "aws"
+  },
+  {
+    "title": "Remote Diagnostics for Low-Power IoT Devices: Stop Treating Them Like Servers",
+    "desc": "<p>The hardest failures in low-power IoT are often not total silence. They show up as partial signals: battery voltage drifting down, RSSI g",
+    "link": "https://dev.to/zediot/remote-diagnostics-for-low-power-iot-devices-stop-treating-them-like-servers-37j8",
     "topic": "general"
   },
   {
-    "title": "I need one picture that shows where the money goes",
-    "desc": "<p>Someone in every company eventually says this out loud. Usually it's the CFO. Sometimes it's a VP of engineering, or the unlucky engineer",
-    "link": "https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258",
+    "title": "\u0986\u09aa\u09a8\u09be\u09b0 \u0995\u09be\u09b8\u09cd\u099f\u09ae\u09be\u09b0 \u0995\u09bf \u0986\u09aa\u09a8\u09be\u0995\u09c7 \u0985\u09a8\u09b2\u09be\u0987\u09a8\u09c7 \u0996\u09c1\u0981\u099c\u09c7 \u09aa\u09be\u099a\u09cd\u099b\u09c7? \ud83e\udd14",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/devsahatech/aapnaar-kaasttmaar-ki-aapnaake-anlaaine-khunje-paacche-6lb",
     "topic": "general"
   },
   {
-    "title": "KEDA 3.0 Scale-to-Zero: How We Cut Intermittent Kubernetes Workload Costs to Almost Nothing",
-    "desc": "<p>KEDA 3.0 just landed, and the headline feature is the one I care about most as someone who watches a cloud bill: event-driven autoscaling",
-    "link": "https://dev.to/muskan_bandta/keda-30-scale-to-zero-how-we-cut-intermittent-kubernetes-workload-costs-to-almost-nothing-2egn",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems",
-    "desc": "<h1>\n  \n  \n  Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems\n</h1>\n\n<p>AI agents are getting more p",
-    "link": "https://dev.to/trismegistus/docker-sandboxes-for-ai-agents-why-isolation-is-the-missing-piece-in-autonomous-systems-561m",
-    "topic": "docker"
-  },
-  {
-    "title": "Termius Alternatives in 2026: What I Learned Testing 6 SSH Clients",
-    "desc": "<p>Last month, our staging server threw a 502. I had Termius open, connected to the right box, and started debugging. Fifteen minutes in, I ",
-    "link": "https://dev.to/hirenkalariya/termius-alternatives-in-2026-what-i-learned-testing-6-ssh-clients-p02",
-    "topic": "general"
-  },
-  {
-    "title": "tmux cannot tell you which of your AI agents stopped, and here is the one command that proves it",
-    "desc": "<p>I put three agents in three tmux panes and asked tmux which one had stopped.</p>\n\n<p>It could not tell me. That is not a bug, it is the d",
-    "link": "https://dev.to/hassekf/tmux-cannot-tell-you-which-of-your-ai-agents-stopped-and-here-is-the-one-command-that-proves-it-2f8n",
-    "topic": "general"
-  },
-  {
-    "title": "Virtualization Sprawl: When Every Team Owns A Different Infrastructure Reality",
-    "desc": "<p>Virtualization sprawl isn't caused by a team failing to own its platform. It's caused by every team owning its platform correctly, on its",
-    "link": "https://dev.to/ntctech/virtualization-sprawl-when-every-team-owns-a-different-infrastructure-reality-68h",
-    "topic": "general"
+    "title": "Terraform vs OpenTofu: What Changed and How to Migrate Safely",
+    "desc": "<h2>\n  \n  \n  Why there are suddenly two Terraforms\n</h2>\n\n<p>In August 2023 HashiCorp relicensed Terraform from the Mozilla Public License t",
+    "link": "https://dev.to/instadevops/terraform-vs-opentofu-what-changed-and-how-to-migrate-safely-36kf",
+    "topic": "terraform"
   }
 ]
