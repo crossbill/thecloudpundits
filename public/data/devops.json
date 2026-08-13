@@ -1,50 +1,50 @@
 [
   {
-    "title": "Build Wide, Ship Narrow: How AI Changed the Economics of Code Review",
-    "desc": "<h2>\n  \n  \n  The Old Way: Decide Boundaries Before You Build\n</h2>\n\n<p>Good engineers plan before they build. The traditional workflow goes:",
-    "link": "https://dev.to/trismegistus/build-wide-ship-narrow-how-ai-changed-the-economics-of-code-review-11p2",
+    "title": "Five things I disabled before installing a vendor's agent runtime",
+    "desc": "<p>Two services I connected recently both call the thing they ship a \"skill\". One is a hosted endpoint. The other is a zip file. The review ",
+    "link": "https://dev.to/zackchew/five-things-i-disabled-before-installing-a-vendors-agent-runtime-1djo",
     "topic": "general"
   },
   {
-    "title": "When There Is No API: Driving Chrome With the DevTools Protocol, and When Not To",
-    "desc": "<p>Every scheduled agent we run has eventually hit the same wall: the data is on a page, and there is no API behind the page. A freelance ma",
-    "link": "https://dev.to/pickuma/when-there-is-no-api-driving-chrome-with-the-devtools-protocol-and-when-not-to-1mob",
+    "title": "How to Get Alerted Before Your Users Notice Your Site Is Down",
+    "desc": "<p>Most developers find out their site is down the same way: a Slack message from a coworker, or worse, a customer email. By then it's alrea",
+    "link": "https://dev.to/waleed_alikhan_35632f8e8/how-to-get-alerted-before-your-users-notice-your-site-is-down-4eo7",
     "topic": "general"
   },
   {
-    "title": "Securing AI agents: the part the tutorials skip",
-    "desc": "<p>Every agent tutorial ends in the same place. You wire up a model, give it a couple of tools, watch it query a database or book a meeting,",
-    "link": "https://dev.to/nodevguy/securing-ai-agents-the-part-the-tutorials-skip-f9g",
+    "title": "Nginx + Python: The Perfect Production Setup",
+    "desc": "<h1>\n  \n  \n  Nginx + Python: The Perfect Production Setup\n</h1>\n\n<p>tags: nginx, python, devops, tutorial</p>\n\n\n\n\n<p>tags: nginx, python, de",
+    "link": "https://dev.to/qingluan/nginx-python-the-perfect-production-setup-1aig",
     "topic": "general"
   },
   {
-    "title": "DevOps Support Services in Production: Architecture, Incident Workflows, and Operational Best Practices",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>A critical production alert fires in PagerDuty: <code>HTTP 502 Bad Gateway</code> across your primary AP",
-    "link": "https://dev.to/zainab_1201/devops-support-services-in-production-architecture-incident-workflows-and-operational-best-26k1",
-    "topic": "secops"
-  },
-  {
-    "title": "Legacy Systems Are Becoming the Biggest Bottleneck for Real-Time AI",
-    "desc": "<p>AI models are getting faster. Cloud infrastructure is getting cheaper. Event-driven architectures are becoming easier to build.</p>\n\n<p>Y",
-    "link": "https://dev.to/hraj_07/legacy-systems-are-becoming-the-biggest-bottleneck-for-real-time-ai-183",
+    "title": "How to Deploy Your Python App on a $5/Month Server",
+    "desc": "<h1>\n  \n  \n  How to Deploy Your Python App on a $5/Month Server\n</h1>\n\n<p>tags: python, deployment, devops, money</p>\n\n\n\n\n<p>tags: python, d",
+    "link": "https://dev.to/qingluan/how-to-deploy-your-python-app-on-a-5month-server-f1p",
     "topic": "general"
   },
   {
-    "title": "ColdFusion N+1 Query Problem: Detection, Diagnosis, and Fixing ORM Over-Fetching",
-    "desc": "<p>The N+1 query problem is the most common performance killer in ColdFusion ORM applications: you run one query to load a list of parent en",
-    "link": "https://dev.to/deepak_sir__/coldfusion-n1-query-problem-detection-diagnosis-and-fixing-orm-over-fetching-38f0",
+    "title": "The runner that was busy on someone else's job",
+    "desc": "<p>My CI pipeline sat pending for ten minutes. The runner was healthy. So was every other pipeline in the queue. The default setting was the",
+    "link": "https://dev.to/captkay/the-runner-that-was-busy-on-someone-elses-job-3ag3",
     "topic": "general"
   },
   {
-    "title": "Your Browser Agent Needs a Session Boundary, Not Just a Login",
-    "desc": "<p>Browser automation turns a normal login into a long-lived capability. That is useful for an agent, but it also creates a failure mode tha",
-    "link": "https://dev.to/zira125/your-browser-agent-needs-a-session-boundary-not-just-a-login-4g38",
+    "title": "5 Easy Ways to Buy Old Yahoo Accounts Smartly ...",
+    "desc": "<p>Why Should You Buy Gmail Accounts? from usadigitalhub.com<br />\n\ud83d\udcac \ud83d\udd39 24/7 Support Is Always Available<br />\n\ud83d\udcf1 \ud83d\udd39 WhatsApp: +1 (506) 541-776",
+    "link": "https://dev.to/hedymontgomery328sv/5-easy-ways-to-buy-old-yahoo-accounts-smartly--2m1h",
     "topic": "general"
   },
   {
-    "title": "How to Create Website Backups with ServerAvatar for Disaster Recovery",
-    "desc": "<p>You have heard that Website Backup is important multiple times. And yet, talking to developers and sysadmins even years into their career",
-    "link": "https://dev.to/serveravatar/how-to-create-website-backups-with-serveravatar-for-disaster-recovery-4bgg",
+    "title": "Hermes Soul, Copilot Shell: Inline Editing in VS Code with Your Hermes Agent",
+    "desc": "<h1>\n  \n  \n  Hermes Soul, Copilot Shell: Inline Editing in VS Code with Your Hermes Agent\n</h1>\n\n<p>I got tired of the choice. Copilot has t",
+    "link": "https://dev.to/milkyway008/hermes-soul-copilot-shell-inline-editing-in-vs-code-with-your-hermes-agent-30di",
+    "topic": "general"
+  },
+  {
+    "title": "Monitoring Mixins, Observability Libraries, and the Signal Pattern: A Practitioner's Guide",
+    "desc": "<p>A few months ago, I completed a significant revamp of our metrics and monitoring implementation. That work meant taking a hard look at ho",
+    "link": "https://dev.to/krishanthisera/monitoring-mixins-observability-libraries-and-the-signal-pattern-a-practitioners-guide-5505",
     "topic": "general"
   }
 ]
