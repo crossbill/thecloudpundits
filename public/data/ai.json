@@ -1,5 +1,17 @@
 [
   {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "desc": "",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "topic": "huggingface"
+  },
+  {
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "desc": "",
+    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "topic": "general"
+  },
+  {
     "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
@@ -33,18 +45,6 @@
     "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
     "desc": "",
     "link": "https://huggingface.co/blog/muse-glimmer",
-    "topic": "general"
-  },
-  {
-    "title": "Baseten on Hugging Face Inference Providers \ud83d\udd25",
-    "desc": "",
-    "link": "https://huggingface.co/blog/baseten",
-    "topic": "huggingface"
-  },
-  {
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "desc": "",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "topic": "general"
   }
 ]
