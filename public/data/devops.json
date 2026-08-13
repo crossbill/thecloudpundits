@@ -1,50 +1,50 @@
 [
   {
-    "title": "Oxide lanza integraciones oficiales de Kubernetes: Rancher, Omni y CAPI",
-    "desc": "<p>En su primera semana como ingeniero de soluciones en Oxide Computer, a fines de 2024, Matthew Sanabria recibi\u00f3 dos documentos para arranc",
-    "link": "https://dev.to/lu1tr0n/oxide-lanza-integraciones-oficiales-de-kubernetes-rancher-omni-y-capi-5ace",
+    "title": "Nmap for Authorized Infrastructure Validation (Not Hacking)",
+    "desc": "<p>Every deploy makes a promise about the network: \"this box only exposes SSH and HTTPS,\" \"the database is never reachable from outside the ",
+    "link": "https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6",
+    "topic": "general"
+  },
+  {
+    "title": "End-to-End Containerised Deployment: AWS EC2 Docker Docker Hub Kubernetes",
+    "desc": "<p>\ud83d\ude80 My First End-to-End Containerised Deployment: AWS EC2 \u2192 Docker \u2192 Docker Hub \u2192 Kubernetes</p>\n\n<p>I recently completed a hands-on DevOps",
+    "link": "https://dev.to/amankhan/end-to-end-containerised-deployment-aws-ec2-docker-docker-hub-kubernetes-j90",
+    "topic": "aws"
+  },
+  {
+    "title": "The Kubernetes Checklist for Teams Without a Platform Team",
+    "desc": "<p>Most Kubernetes advice assumes you have a platform team: specialists who own upgrades, ingress, security policies, and the 2 a.m. pages.<",
+    "link": "https://dev.to/kestrion/the-kubernetes-checklist-for-teams-without-a-platform-team-1ian",
     "topic": "kubernetes"
   },
   {
-    "title": "Governing Enterprise AI: Virtual Keys, Budgets, and RBAC",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/governing-enterprise-ai-virtual-keys-budgets-and-rbac-2mna",
+    "title": "Your AI agents need Skill permissions and routing",
+    "desc": "<p>Skills give AI agents reusable instructions and files for specific tasks. But giving every agent every Skill exposes sensitive procedures",
+    "link": "https://dev.to/abewheeler/your-ai-agents-need-skill-permissions-and-routing-152c",
     "topic": "general"
   },
   {
-    "title": "Top Enterprise AI Governance Platforms for LLM Traffic",
+    "title": "TestFleet: A self-hosted, multi-step API testing tool",
+    "desc": "<h2>\n  \n  \n  What is TestFleet?\n</h2>\n\n<p>Think of it like a Postman collection you can run on a schedule, with actual assertions to validat",
+    "link": "https://dev.to/raghiba/testfleet-a-self-hosted-multi-step-api-testing-tool-3ikk",
+    "topic": "general"
+  },
+  {
+    "title": "Top 5 Enterprise AI Gateways for Production LLM Workloads",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/top-enterprise-ai-governance-platforms-for-llm-traffic-4m2d",
+    "link": "https://dev.to/kuldeep_paul/top-5-enterprise-ai-gateways-for-production-llm-workloads-p8k",
+    "topic": "general"
+  },
+  {
+    "title": "Vercel AI Gateway Alternatives for Self-Hosted LLM Infra",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/vercel-ai-gateway-alternatives-for-self-hosted-llm-infra-2coj",
+    "topic": "general"
+  },
+  {
+    "title": "Implementing Enterprise AI Guardrails for Company Policies and Compliance",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/implementing-enterprise-ai-guardrails-for-company-policies-and-compliance-1a6a",
     "topic": "guardrails"
-  },
-  {
-    "title": "5 Enterprise MCP Gateways for Finance and Healthcare Industries",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/5-enterprise-mcp-gateways-for-finance-and-healthcare-industries-bdc",
-    "topic": "general"
-  },
-  {
-    "title": "Best Enterprise MCP Gateway for Low Latency High Throughput Use Cases",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/best-enterprise-mcp-gateway-for-low-latency-high-throughput-use-cases-2kic",
-    "topic": "general"
-  },
-  {
-    "title": "Best Enterprise MCP Gateways for Claude Code in 2026",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/best-enterprise-mcp-gateways-for-claude-code-in-2026-572o",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Applying LLM Guardrails at the Gateway Layer",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/applying-llm-guardrails-at-the-gateway-layer-4n67",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Beyond the Switchover: Using RDS Snapshots to Safely Test MySQL 8.4 Compatibility Before Your Blue/Green Cutover",
-    "desc": "<h2>\n  \n  \n  AWS RDS Blue/Green deployment is a powerful zero-downtime tool, but its Green environment is read-only by design. Here is how t",
-    "link": "https://dev.to/sammy_cloud/beyond-the-switchover-using-rds-snapshots-to-safely-test-mysql-84-compatibility-before-your-2991",
-    "topic": "general"
   }
 ]
