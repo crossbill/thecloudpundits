@@ -1,50 +1,50 @@
 [
   {
-    "title": "Treat Every \u201cCheap and Great\u201d Model Release as a Hypothesis: A Reproducible LLM Cost-Quality Router",
-    "desc": "<p>A new model drops, the timeline says it is \u201ccheap and insane,\u201d and someone posts a screenshot where it solves one prompt beautifully. Tha",
-    "link": "https://dev.to/techlab_7968/treat-every-cheap-and-great-model-release-as-a-hypothesis-a-reproducible-llm-cost-quality-router-2jfe",
+    "title": "Build Wide, Ship Narrow: How AI Changed the Economics of Code Review",
+    "desc": "<h2>\n  \n  \n  The Old Way: Decide Boundaries Before You Build\n</h2>\n\n<p>Good engineers plan before they build. The traditional workflow goes:",
+    "link": "https://dev.to/trismegistus/build-wide-ship-narrow-how-ai-changed-the-economics-of-code-review-11p2",
     "topic": "general"
   },
   {
-    "title": "\u2601\ufe0f OCI vs GCP compute pricing for Docker \u2014 which one should you use?",
-    "desc": "<h2>\n  \n  \n  \ud83d\udcb0 Compute Models \u2014 How They <em>Charge</em>\n</h2>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic",
-    "link": "https://dev.to/ptp2308/oci-vs-gcp-compute-pricing-for-docker-which-one-should-you-use-4k6p",
-    "topic": "gcp"
-  },
-  {
-    "title": "Navigating Data Egress Fees: A Cloud Cost Blind Spot",
-    "desc": "<h2>\n  \n  \n  Key takeaways\n</h2>\n\n<ul>\n<li>Data egress fees can account for 20-30% of cloud costs.</li>\n<li>Understanding data transfer patt",
-    "link": "https://dev.to/kapil/navigating-data-egress-fees-a-cloud-cost-blind-spot-6dk",
+    "title": "When There Is No API: Driving Chrome With the DevTools Protocol, and When Not To",
+    "desc": "<p>Every scheduled agent we run has eventually hit the same wall: the data is on a page, and there is no API behind the page. A freelance ma",
+    "link": "https://dev.to/pickuma/when-there-is-no-api-driving-chrome-with-the-devtools-protocol-and-when-not-to-1mob",
     "topic": "general"
   },
   {
-    "title": "How to Upload a Lead List to ViciDial \u2014 CSV Format & Mapping",
-    "desc": "<h1>\n  \n  \n  How to Upload a Lead List to ViciDial \u2014 CSV Format & Mapping\n</h1>\n\n<p><strong>Master the complete process of importing lead li",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-upload-a-lead-list-to-vicidial-csv-format-mapping-14c3",
+    "title": "Securing AI agents: the part the tutorials skip",
+    "desc": "<p>Every agent tutorial ends in the same place. You wire up a model, give it a couple of tools, watch it query a database or book a meeting,",
+    "link": "https://dev.to/nodevguy/securing-ai-agents-the-part-the-tutorials-skip-f9g",
     "topic": "general"
   },
   {
-    "title": "Building Strong B2B Customer Relationships",
-    "desc": "<p>Successful <strong><a href=\"https://seoenhancers.com/b2b-seo-services-trichy/\" rel=\"noopener noreferrer\">B2B businesses</a></strong> focu",
-    "link": "https://dev.to/elllsa/building-strong-b2b-customer-relationships-5621",
+    "title": "DevOps Support Services in Production: Architecture, Incident Workflows, and Operational Best Practices",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>A critical production alert fires in PagerDuty: <code>HTTP 502 Bad Gateway</code> across your primary AP",
+    "link": "https://dev.to/zainab_1201/devops-support-services-in-production-architecture-incident-workflows-and-operational-best-26k1",
+    "topic": "secops"
+  },
+  {
+    "title": "Legacy Systems Are Becoming the Biggest Bottleneck for Real-Time AI",
+    "desc": "<p>AI models are getting faster. Cloud infrastructure is getting cheaper. Event-driven architectures are becoming easier to build.</p>\n\n<p>Y",
+    "link": "https://dev.to/hraj_07/legacy-systems-are-becoming-the-biggest-bottleneck-for-real-time-ai-183",
     "topic": "general"
   },
   {
-    "title": "A Lower Price Tag Is Not a Migration Plan: Quarantining New Models Before They Touch Your Agent",
-    "desc": "<p>Last month a model I'd been watching dropped its token price by half, and three people sent me the announcement within an hour. The impli",
-    "link": "https://dev.to/hackjs_8688/a-lower-price-tag-is-not-a-migration-plan-quarantining-new-models-before-they-touch-your-agent-2n0f",
+    "title": "ColdFusion N+1 Query Problem: Detection, Diagnosis, and Fixing ORM Over-Fetching",
+    "desc": "<p>The N+1 query problem is the most common performance killer in ColdFusion ORM applications: you run one query to load a list of parent en",
+    "link": "https://dev.to/deepak_sir__/coldfusion-n1-query-problem-detection-diagnosis-and-fixing-orm-over-fetching-38f0",
     "topic": "general"
   },
   {
-    "title": "Sliding Window Pattern to Remove Static Correlation Bias",
-    "desc": "<h2>\n  \n  \n  Intro\n</h2>\n\n<p>I lead cloud-hosted quantitative coding labs focused on forex algorithmic trading, and one recurring pain point",
-    "link": "https://dev.to/sam_choi_aff94225f397c27c/sliding-window-pattern-to-remove-static-correlation-bias-3ood",
+    "title": "Your Browser Agent Needs a Session Boundary, Not Just a Login",
+    "desc": "<p>Browser automation turns a normal login into a long-lived capability. That is useful for an agent, but it also creates a failure mode tha",
+    "link": "https://dev.to/zira125/your-browser-agent-needs-a-session-boundary-not-just-a-login-4g38",
     "topic": "general"
   },
   {
-    "title": "Day 12: Creating an AWS Free Tier Account + Q&A Recap (Days 9-11)",
-    "desc": "<p>Time to get hands-on. Today: how to create an AWS Free Tier account, plus a quick Q&A recap covering everything from Days 9-11.</p>\n\n<h2>",
-    "link": "https://dev.to/sr-palatasingh/day-12-creating-an-aws-free-tier-account-qa-recap-days-9-11-1f2l",
-    "topic": "aws"
+    "title": "How to Create Website Backups with ServerAvatar for Disaster Recovery",
+    "desc": "<p>You have heard that Website Backup is important multiple times. And yet, talking to developers and sysadmins even years into their career",
+    "link": "https://dev.to/serveravatar/how-to-create-website-backups-with-serveravatar-for-disaster-recovery-4bgg",
+    "topic": "general"
   }
 ]
