@@ -1,50 +1,50 @@
 [
   {
-    "title": "Connect marketing data to AI agents: a guide for dev teams",
-    "desc": "<p>Connecting marketing data to AI agents solves a growing pain for engineering, product, and finance teams that need up-to-date insights wi",
-    "link": "https://dev.to/shio_c0be3f51f0f/connect-marketing-data-to-ai-agents-a-guide-for-dev-teams-3fpd",
+    "title": "nginx is not the bug. Two lines of your config are. CVE-2026-42945 on a live stand",
+    "desc": "<p>A critical nginx vulnerability, 9.2 on CVSS, sat in the code for eighteen years. It was found not by a human but by an AI agent, and six ",
+    "link": "https://dev.to/cynepmyx/nginx-is-not-the-bug-two-lines-of-your-config-are-cve-2026-42945-on-a-live-stand-5fc8",
     "topic": "general"
   },
   {
-    "title": "MCP Went Stateless. Your Recovery Logic Didn't.",
-    "desc": "<p>The 2026-07-28 MCP revision removed the initialization handshake and protocol-level sessions. That makes a remote server easier to route ",
-    "link": "https://dev.to/dmytronasyrov/mcp-went-stateless-your-recovery-logic-didnt-3l79",
+    "title": "From Hardware to Software: Rethinking DR Networking in the Cloud Era",
+    "desc": "<h1>\n  \n  \n  From Hardware to Software: Rethinking DR Networking in the Cloud Era\n</h1>\n\n<p>In our previous article, we proposed a core thes",
+    "link": "https://dev.to/seagaruda/from-hardware-to-software-rethinking-dr-networking-in-the-cloud-era-2hl3",
     "topic": "general"
   },
   {
-    "title": "Every Fix Failed in the Shape of the Bug It Fixed",
-    "desc": "<p>The restore drill was right to fail and wrong about why.</p>\n\n<p>It was newly added by <code>decision-log/050</code>, and the first snaps",
-    "link": "https://dev.to/jeremy_longshore/every-fix-failed-in-the-shape-of-the-bug-it-fixed-28d6",
+    "title": "I need one picture that shows where the money goes",
+    "desc": "<p>Someone in every company eventually says this out loud. Usually it's the CFO. Sometimes it's a VP of engineering, or the unlucky engineer",
+    "link": "https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258",
     "topic": "general"
   },
   {
-    "title": "Prompt Caching in LLMs, Measured on Our Own Bill",
-    "desc": "<p>The token report for one pipeline run landed in front of me and the first number I saw was 7,300,000. One topic. Seven pieces of content.",
-    "link": "https://dev.to/jula-markova/prompt-caching-in-llms-measured-on-our-own-bill-o85",
+    "title": "KEDA 3.0 Scale-to-Zero: How We Cut Intermittent Kubernetes Workload Costs to Almost Nothing",
+    "desc": "<p>KEDA 3.0 just landed, and the headline feature is the one I care about most as someone who watches a cloud bill: event-driven autoscaling",
+    "link": "https://dev.to/muskan_bandta/keda-30-scale-to-zero-how-we-cut-intermittent-kubernetes-workload-costs-to-almost-nothing-2egn",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems",
+    "desc": "<h1>\n  \n  \n  Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems\n</h1>\n\n<p>AI agents are getting more p",
+    "link": "https://dev.to/trismegistus/docker-sandboxes-for-ai-agents-why-isolation-is-the-missing-piece-in-autonomous-systems-561m",
+    "topic": "docker"
+  },
+  {
+    "title": "Termius Alternatives in 2026: What I Learned Testing 6 SSH Clients",
+    "desc": "<p>Last month, our staging server threw a 502. I had Termius open, connected to the right box, and started debugging. Fifteen minutes in, I ",
+    "link": "https://dev.to/hirenkalariya/termius-alternatives-in-2026-what-i-learned-testing-6-ssh-clients-p02",
     "topic": "general"
   },
   {
-    "title": "Best 25 Places Buy Verified PNC Bank Accounts with Full ...",
-    "desc": "<p>Buy Verified PNC Bank Accounts<br />\n\u25c8{{\ud83c\udfc6\ud83c\udfc6}}\u25c8\u27a4Fast Reply 24/7 | Instant Support \ud83d\ude80<br />\n\u25c8{{\ud83c\udfc6\ud83c\udfc6}}\u25c8\u27a4Telegram: @progmbofficial<br />\n\u25c8{{\ud83c\udfc6\ud83c\udfc6}}\u25c8",
-    "link": "https://dev.to/jolenehopkinsujgdp/best-25-places-buy-verified-pnc-bank-accounts-with-full--2l56",
+    "title": "tmux cannot tell you which of your AI agents stopped, and here is the one command that proves it",
+    "desc": "<p>I put three agents in three tmux panes and asked tmux which one had stopped.</p>\n\n<p>It could not tell me. That is not a bug, it is the d",
+    "link": "https://dev.to/hassekf/tmux-cannot-tell-you-which-of-your-ai-agents-stopped-and-here-is-the-one-command-that-proves-it-2f8n",
     "topic": "general"
   },
   {
-    "title": "How to Set Up a Persistent Webhook Endpoint URL That Doesn't Change on Restart",
-    "desc": "<p>You restart your app and the webhook URL is different again. The provider dashboard that pointed Stripe \u2014 or GitHub, or Slack \u2014 at <code>",
-    "link": "https://dev.to/pstayet/how-to-set-up-a-persistent-webhook-endpoint-url-that-doesnt-change-on-restart-4mig",
-    "topic": "general"
-  },
-  {
-    "title": "Buy Verified Monzo Accounts - 100% secure Accounts now",
-    "desc": "<p>Buy Verified Monzo Accounts<br />\n\u25c8{{\ud83c\udfc6\ud83c\udfc6}}\u25c8\u27a4Fast Reply 24/7 | Instant Support \ud83d\ude80<br />\n\u25c8{{\ud83c\udfc6\ud83c\udfc6}}\u25c8\u27a4Telegram: @progmbofficial<br />\n\u25c8{{\ud83c\udfc6\ud83c\udfc6}}\u25c8\u27a4Wh",
-    "link": "https://dev.to/jolenehopkinsujgdp/buy-verified-monzo-accounts-100-secure-accounts-now-2fgo",
-    "topic": "general"
-  },
-  {
-    "title": "How to resolve merge conflicts in Git",
-    "desc": "<p>You run <code>git merge feature/auth-improvements</code> and instead of the clean one-liner you were hoping for, your terminal dumps this",
-    "link": "https://dev.to/fj_palacios/how-to-resolve-merge-conflicts-in-git-3862",
+    "title": "Virtualization Sprawl: When Every Team Owns A Different Infrastructure Reality",
+    "desc": "<p>Virtualization sprawl isn't caused by a team failing to own its platform. It's caused by every team owning its platform correctly, on its",
+    "link": "https://dev.to/ntctech/virtualization-sprawl-when-every-team-owns-a-different-infrastructure-reality-68h",
     "topic": "general"
   }
 ]
