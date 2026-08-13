@@ -1,50 +1,50 @@
 [
   {
-    "title": "Microsoft's 100 Trillion Token Milestone: What 5x YoY AI Token Growth Reveals About the Real Unit Economics of Enterprise AI at Scale",
-    "desc": "<p>Processing 100 trillion tokens in a quarter requires elite infrastructure execution Microsoft recently demonstrated 1.1 million tokens/se",
-    "link": "https://dev.to/starykingtbl/microsofts-100-trillion-token-milestone-what-5x-yoy-ai-token-growth-reveals-about-the-real-unit-15hj",
-    "topic": "azure"
-  },
-  {
-    "title": "KCX - DevLog #1",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Hello!!!</p>\n\n<p>So I decided to learn a bit more about CI/CD pipelines, and what better way to learn ab",
-    "link": "https://dev.to/ymerzouka/kcx-devlog-1-3a9f",
+    "title": "Guia Pr\u00e1tico e Cheatsheet: Desenvolvimento de APIs REST com Django Rest Framework",
+    "desc": "<p>Ol\u00e1, comunidade! \ud83d\ude80</p>\n\n<p>Acabei de produzir um material focado em <strong>Desenvolvimento de APIs REST com Django Rest Framework</stron",
+    "link": "https://dev.to/digitalzgld/guia-pratico-e-cheatsheet-desenvolvimento-de-apis-rest-com-django-rest-framework-6ih",
     "topic": "general"
   },
   {
-    "title": "Agent Governance Isn't Just About Runtime \u2014 It's About Skill Lifecycle Management",
-    "desc": "<p>Today's GitHub Trending reveals a shift that's been building for weeks: the community has stopped asking \"can agents think?\" and started ",
-    "link": "https://dev.to/fenju_fu/agent-governance-isnt-just-about-runtime-its-about-skill-lifecycle-management-20ib",
+    "title": "OpsMate vs BetterStack: Latency, Status Pages, and Alerting for Global SaaS",
+    "desc": "<p>Choosing the right monitoring stack for your SaaS is like choosing a co-founder: get it wrong, and you'll lose sleep, customers, and reve",
+    "link": "https://dev.to/yanlong_wang/opsmate-vs-betterstack-latency-status-pages-and-alerting-for-global-saas-34g8",
     "topic": "general"
   },
   {
-    "title": "A Zero-Meeting Deployment Workflow: Trunk-Based Development and Feature Flags",
-    "desc": "<p>If your team schedules a meeting to decide when code goes to production, the meeting is a symptom, not a process. The fix is to separate ",
-    "link": "https://dev.to/libme/a-zero-meeting-deployment-workflow-trunk-based-development-and-feature-flags-e1b",
+    "title": "Homelab barato en Jap\u00f3n 2026",
+    "desc": "<p>La pregunta que m\u00e1s me hacen cuando hablo de montar un servidor en casa no es t\u00e9cnica: es \u201c\u00bfy cu\u00e1nto cuesta empezar?\u201d. La respuesta hones",
+    "link": "https://dev.to/kilydev/homelab-barato-en-japon-2026-1pb9",
     "topic": "general"
   },
   {
-    "title": "My start of session checklist grew to 26 steps and became the longest task in the session",
-    "desc": "<p>I open every work session with the same script. It backs up my notes, checks that my tooling still<br />\nparses, counts what I published ",
-    "link": "https://dev.to/blueticks/my-start-of-session-checklist-grew-to-26-steps-and-became-the-longest-task-in-the-session-4a38",
+    "title": "Claude Code 2.1.229: Keep Vertex and Bedrock Gateway Streams Alive",
+    "desc": "<h1>\n  \n  \n  Claude Code 2.1.229: keep Vertex and Bedrock gateway streams alive during long thinking\n</h1>\n\n<h2>\n  \n  \n  Quick answer\n</h2>\n",
+    "link": "https://dev.to/ahab_indieseek/claude-code-21229-keep-vertex-and-bedrock-gateway-streams-alive-1f9n",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Build a CVE Triage Agent: Turn Noisy Container Scans into a Ranked Fix List",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-13-cve-triage-ai-agent-container-scanning\" rel",
+    "link": "https://dev.to/devtocash/build-a-cve-triage-agent-turn-noisy-container-scans-into-a-ranked-fix-list-1mg7",
+    "topic": "docker"
+  },
+  {
+    "title": "Why Does My Windows PC Keep Waking Up by Itself?",
+    "desc": "<p>Have you ever put your Windows PC to sleep, walked away, and then noticed that it was awake again?</p>\n\n<p>You put the computer to sleep.",
+    "link": "https://dev.to/darkssel/why-does-my-windows-pc-keep-waking-up-by-itself-471e",
     "topic": "general"
   },
   {
-    "title": "Bethesda's Inflatable Rat Marks Developer Experience Failure",
-    "desc": "<p>When a 15-foot inflatable rat outside Bethesda's Maryland office becomes the most honest status indicator of a $2. 3 trillion gaming ecos",
-    "link": "https://dev.to/thomas_woodfin_3a4efcd491/bethesdas-inflatable-rat-marks-developer-experience-failure-34g3",
+    "title": "Postgres Connection Pooling in 2026: PgBouncer vs Supavisor vs Driver-Side Pools",
+    "desc": "<p>Postgres does not have a connection problem. It has a process problem. Every connection forks a dedicated backend process on the server, ",
+    "link": "https://dev.to/pickuma/postgres-connection-pooling-in-2026-pgbouncer-vs-supavisor-vs-driver-side-pools-2jph",
     "topic": "general"
   },
   {
-    "title": "100 Days of DevOps and Cloud (AWS), Day 26: Origin Is Just a Nickname, and Localhost Tells the Truth",
-    "desc": "<p>A lot of confusion in this field comes from taking a name at face value. <code>origin</code> sounds like it means something. A server tha",
-    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-26-origin-is-just-a-nickname-and-localhost-tells-the-1il1",
-    "topic": "aws"
-  },
-  {
-    "title": "Your CI is not flaky. Your cache expires every seven days.",
-    "desc": "<p><em>CI timeouts</em></p>\n\n<p>A pull request that changed one blog page turned the build red. The lint job it broke had found zero problem",
-    "link": "https://dev.to/heinrichneb/your-ci-is-not-flaky-your-cache-expires-every-seven-days-703",
+    "title": "Object Storage Lifecycle Policies: Cutting Storage and Egress Cost Without Losing Data You Need",
+    "desc": "<p>An object storage bill has four line items that behave nothing alike: storage per GB-month, request counts, retrieval fees, and data tran",
+    "link": "https://dev.to/pickuma/object-storage-lifecycle-policies-cutting-storage-and-egress-cost-without-losing-data-you-need-4hme",
     "topic": "general"
   }
 ]
