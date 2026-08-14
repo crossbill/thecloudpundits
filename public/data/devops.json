@@ -1,50 +1,50 @@
 [
   {
-    "title": "Choose Boring Technology: The 11-Year-Old Essay Still Saving Engineering Teams in 2026",
-    "desc": "<p>An 11-year-old essay by Dan McKinley just hit 377 points on Hacker News with 201 comments \u2014 and it's more relevant in 2026 than it was wh",
-    "link": "https://dev.to/trismegistus/choose-boring-technology-the-11-year-old-essay-still-saving-engineering-teams-in-2026-12mi",
+    "title": "Why Developer-Focused Content Still Needs Good Storytelling",
+    "desc": "<h3>\n  \n  \n  The best technical writing doesn't just explain code. It makes readers feel something about the problem it solves.\n</h3>\n\n<p>I ",
+    "link": "https://dev.to/chizurumchidimma/why-developer-focused-content-still-needs-good-storytelling-4hmp",
     "topic": "general"
   },
   {
-    "title": "Are Azure Resource Groups Just Folders?",
-    "desc": "<h2>\n  \n  \n  The Foundation of Every Azure Deployment\n</h2>\n\n<p>In this article, we'll explore what Resource Groups are and, more importantl",
-    "link": "https://dev.to/chethanraj/are-azure-resource-groups-just-folders-4p9m",
-    "topic": "azure"
-  },
-  {
-    "title": "Why C-Suite Leaders Struggle With AI Consumption Pricing",
-    "desc": "<p>AI consumption pricing broke the model executives used to govern infrastructure spend. One-third of business leaders \u2014 33%, according to ",
-    "link": "https://dev.to/ntctech/why-c-suite-leaders-struggle-with-ai-consumption-pricing-34n0",
+    "title": "The Difference Between Technical Writing and Content That Actually Sells",
+    "desc": "<h3>\n  \n  \n  Why knowing your subject isn't the same as knowing your reader\n</h3>\n\n<p>I once spent three days editing a piece for a SaaS fou",
+    "link": "https://dev.to/chizurumchidimma/the-difference-between-technical-writing-and-content-that-actually-sells-1fak",
     "topic": "general"
   },
   {
-    "title": "Docker Networking & Volumes: Connecting Containers and Persisting Data",
-    "desc": "<blockquote>\n<p>Learn how containers communicate with each other and how to keep data alive even after containers are removed.</p>\n</blockqu",
-    "link": "https://dev.to/themdmohiuddin/docker-networking-volumes-connecting-containers-and-persisting-data-56fn",
+    "title": "Docker Essentials: Containerizing Your First App \u2013 A Journey Like in *The Matrix*",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I tried to show a friend my cool Node.js API a",
+    "link": "https://dev.to/timevolt/docker-essentials-containerizing-your-first-app-a-journey-like-in-the-matrix-31oj",
     "topic": "docker"
   },
   {
-    "title": "Rehearse Agent Rollbacks on a Free Server Before You Approve Real Commands",
-    "desc": "<p>I almost let a design agent edit our staging environment last Tuesday.</p>\n\n<p>I didn't suddenly trust it. I was just tired of copying fi",
-    "link": "https://dev.to/haaaaaley/rehearse-agent-rollbacks-on-a-free-server-before-you-approve-real-commands-3k9n",
+    "title": "Your data pipeline isn't idempotent until you prove it breaks and recovers",
+    "desc": "<p>The \"Exactly Once\" myth is the most expensive fairy tale in data engineering. We tell ourselves that if we just buy a high-end orchestrat",
+    "link": "https://dev.to/aniketsoni/your-data-pipeline-isnt-idempotent-until-you-prove-it-breaks-and-recovers-13od",
     "topic": "general"
   },
   {
-    "title": "Gate a New Model on Reproducibility Before You Pay for Confidence",
-    "desc": "<p>The first number that separates a usable model route from a demo is exact-match agreement across five identical calls with temperature 0.",
-    "link": "https://dev.to/kongkong1/gate-a-new-model-on-reproducibility-before-you-pay-for-confidence-meh",
+    "title": "Build a Budget Watchdog for a Free Model Endpoint Before It Goes Quiet",
+    "desc": "<p>Why this is worth reading: a free model endpoint and a free server are easy to adopt, but the failure that actually wakes you up is not t",
+    "link": "https://dev.to/rivera123/build-a-budget-watchdog-for-a-free-model-endpoint-before-it-goes-quiet-36a5",
     "topic": "general"
   },
   {
-    "title": "Pin Free Inference Before You Trust It: A Golden Hash Gate",
-    "desc": "<p>A free model endpoint is only trustworthy if you can prove that the same input still produces the same output. A golden hash gate gives y",
-    "link": "https://dev.to/hackrs_6393/pin-free-inference-before-you-trust-it-a-golden-hash-gate-5eok",
+    "title": "Put a JSON Contract in Front of a Free Model Route Before Your CI Ever Calls It",
+    "desc": "<p>07:42. The GitLab job fails at <code>risk not found</code>. I open the raw log. The model returned <code>{ \"output\": \"low\" }</code>. My p",
+    "link": "https://dev.to/gitlab_3188/put-a-json-contract-in-front-of-a-free-model-route-before-your-ci-ever-calls-it-34l2",
     "topic": "general"
   },
   {
-    "title": "Build a Disposable Model-Eval Loop Without a Paid API Key",
-    "desc": "<p>A free model endpoint plus a free server is enough for a disposable eval loop. It is not enough for production traffic.</p>\n\n<h2>\n  \n  \n ",
-    "link": "https://dev.to/codehub_1304/build-a-disposable-model-eval-loop-without-a-paid-api-key-3db4",
+    "title": "The WebSocket session that was dead for 10 days - and my dashboard said 'healthy'",
+    "desc": "<p><em>This is part of a series on building <a href=\"https://github.com/mighty840/orca\" rel=\"noopener noreferrer\">Orca</a>, a single-binary ",
+    "link": "https://dev.to/mighty840/the-websocket-session-that-was-dead-for-10-days-and-my-dashboard-said-healthy-4oom",
+    "topic": "general"
+  },
+  {
+    "title": "Build an MCP Server in Go (Part 2): Building the MCP tool layer",
+    "desc": "<p><a href=\"https://dev.to/ferztyle/build-an-mcp-server-in-go-part-1-designing-a-diagnostic-grade-kubernetes-client-49a2\"><em>Part 1</em></a",
+    "link": "https://dev.to/ferztyle/build-an-mcp-server-in-go-part-2-building-the-mcp-tool-layer-4l3m",
     "topic": "general"
   }
 ]
