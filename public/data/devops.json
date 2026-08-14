@@ -1,50 +1,50 @@
 [
   {
-    "title": "Agent Connectivity Best Practices: 6 Failure Modes That Make Agents Unreachable \u2014 and What Prevents Them",
-    "desc": "<p>Your agent was reachable this morning. You deployed it, tested it end to end, and closed the laptop. This morning it's gone \u2014 not the cod",
-    "link": "https://dev.to/pstayet/agent-connectivity-best-practices-6-failure-modes-that-make-agents-unreachable-and-what-prevents-3ng6",
-    "topic": "general"
-  },
-  {
-    "title": "CI wasn\u2019t built for coding agents. Here\u2019s what comes next.",
-    "desc": "<p><em>Originally published on <a href=\"https://thenewstack.io/ci-for-coding-agents/\" rel=\"noopener noreferrer\">The New Stack</a>.</em></p>\n",
-    "link": "https://dev.to/signadot/ci-wasnt-built-for-coding-agents-heres-what-comes-next-1pjn",
-    "topic": "general"
-  },
-  {
-    "title": "Is Railway PostgreSQL Reliable Enough for Production?",
-    "desc": "<p><a href=\"https://docs.railway.com/databases/postgresql\" rel=\"noopener noreferrer\">Railway PostgreSQL</a> makes it easy to provision a dat",
-    "link": "https://dev.to/thecloudexpert/railway-postgresql-reliability-4k07",
-    "topic": "general"
-  },
-  {
-    "title": "\ud83d\uded1 Graceful Shutdown in Node.js \u2014 Why Your Server Needs It!",
-    "desc": "<p>You've deployed your Node.js API. Everything is running smoothly. Then you need to restart the server.</p>\n\n<p>You hit Ctrl+C or process.",
-    "link": "https://dev.to/mdfahim18/graceful-shutdown-in-nodejs-why-your-server-needs-it-68",
-    "topic": "general"
-  },
-  {
-    "title": "Embrace Automation for AI Development Success",
-    "desc": "<h2>\n  \n  \n  Understanding Automation in AI Development\n</h2>\n\n<p>Automation isn't just a buzzword; it's the lifeline for effective AI work.",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/embrace-automation-for-ai-development-success-3ga6",
-    "topic": "general"
-  },
-  {
-    "title": "How I Built a Linux Threat Detection Engine That Explains Why It Fired",
-    "desc": "<p>Security alerts are easy to generate.<br />\nUseful security alerts are much harder.<br />\nAfter dealing with enough alerts that turned ou",
-    "link": "https://dev.to/alsops/how-i-built-a-linux-threat-detection-engine-that-explains-why-it-fired-1ng2",
-    "topic": "general"
-  },
-  {
-    "title": "How Kubernetes Decides Which Nodes Run What: Control Plane vs Worker Nodes",
-    "desc": "<h1>\n  \n  \n  Who's the Boss: Master vs Workers node in Kubernetes\n</h1>\n\n<p>So you\u2019re learning Kubernetes (why? just kidding) and have watch",
-    "link": "https://dev.to/abhishek_writes/how-kubernetes-decides-which-nodes-run-what-control-plane-vs-worker-nodes-45d7",
+    "title": "Kubernetes OOMKilled \u2014 diagnose with a plan, not a wall of kubectl",
+    "desc": "<p>OOMKilled is a classic day-2 rabbit hole: events, limits, restarts, then a risky scale or edit. kprompt turns the investigation prompt in",
+    "link": "https://dev.to/muhtalipdede/kubernetes-oomkilled-diagnose-with-a-plan-not-a-wall-of-kubectl-4997",
     "topic": "kubernetes"
   },
   {
-    "title": "How AIOps Transforms Software Engineering",
-    "desc": "<h2>\n  \n  \n  The Role of AI Innovation in Software Engineering\n</h2>\n\n<p>AI innovation is revolutionizing software engineering, and AIOps is",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-aiops-transforms-software-engineering-2pkk",
+    "title": "An intent compiler for Kubernetes \u2014 not another chat REPL",
+    "desc": "<p>Chat CLIs optimize for turn-taking. Operators need a reviewable artifact before mutate.</p>\n\n<p>kprompt is built as an intent compiler: N",
+    "link": "https://dev.to/muhtalipdede/an-intent-compiler-for-kubernetes-not-another-chat-repl-3abh",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "kprompt vs kubectl-ai: plan-before-apply vs NL kubectl",
+    "desc": "<p>If you are shopping for a \u201ckubectl-ai alternative,\u201d you are already in the right lane: local kubeconfig + BYOK + natural language. The fo",
+    "link": "https://dev.to/muhtalipdede/kprompt-vs-kubectl-ai-plan-before-apply-vs-nl-kubectl-5ggk",
+    "topic": "general"
+  },
+  {
+    "title": "I Wrote a Doctor for My Docker",
+    "desc": "<p><em>Because for months I didn't really know what was running on my machine.</em></p>\n\n<p>One evening, at the end of a long day, I typed <",
+    "link": "https://dev.to/iamcanturk/i-wrote-a-doctor-for-my-docker-2o9k",
+    "topic": "docker"
+  },
+  {
+    "title": "176 Guard Rules, 0 Employees: How I Built an AI-Operated Business",
+    "desc": "<p>Last week, at 2:47 AM, my system blocked a deployment.</p>\n\n<p>Not because a test failed. Not because CI was red. Because a guard rule de",
+    "link": "https://dev.to/frederikvonderheyden/176-guard-rules-0-employees-how-i-built-an-ai-operated-business-42p5",
+    "topic": "general"
+  },
+  {
+    "title": "If You Never Fetched It, You Never Researched It",
+    "desc": "<p><strong>TL;DR:</strong> A citation can look researched without proving anyone opened it. Fetch the source bytes, record them, and say wha",
+    "link": "https://dev.to/anthonygarces/if-you-never-fetched-it-you-never-researched-it-pl7",
+    "topic": "general"
+  },
+  {
+    "title": "Top 18 Best Marketplaces to Buy Verified Walmart Seller 2026-2027",
+    "desc": "<p>Buy Verified Walmart Seller Account</p>\n\n<p>\u25c8{{\ud83c\udfaf\ud83c\udfaf}}\u25c8\u27a4Fast Reply 24/7 | Instant Support \ud83d\ude80</p>\n\n<p>\u25c8{{\ud83c\udfaf\ud83c\udfaf}}\u25c8\u27a4Telegram: @progmbofficial</p>\n\n",
+    "link": "https://dev.to/norrievictordmbxz/top-18-best-marketplaces-to-buy-verified-walmart-seller-2026-2027-31a7",
+    "topic": "general"
+  },
+  {
+    "title": "Agent Connectivity Best Practices: 6 Failure Modes That Make Agents Unreachable \u2014 and What Prevents Them",
+    "desc": "<p>Your agent was reachable this morning. You deployed it, tested it end to end, and closed the laptop. This morning it's gone \u2014 not the cod",
+    "link": "https://dev.to/pstayet/agent-connectivity-best-practices-6-failure-modes-that-make-agents-unreachable-and-what-prevents-3ng6",
     "topic": "general"
   }
 ]
