@@ -1,50 +1,50 @@
 [
   {
-    "title": "How AIOps Transforms Software Engineering",
-    "desc": "<h2>\n  \n  \n  The Role of AI Innovation in Software Engineering\n</h2>\n\n<p>AI innovation is revolutionizing software engineering, and AIOps is",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-aiops-transforms-software-engineering-2pkk",
+    "title": "Agent Connectivity Best Practices: 6 Failure Modes That Make Agents Unreachable \u2014 and What Prevents Them",
+    "desc": "<p>Your agent was reachable this morning. You deployed it, tested it end to end, and closed the laptop. This morning it's gone \u2014 not the cod",
+    "link": "https://dev.to/pstayet/agent-connectivity-best-practices-6-failure-modes-that-make-agents-unreachable-and-what-prevents-3ng6",
     "topic": "general"
   },
   {
-    "title": "Learning Docker: A Beginner Guide",
-    "desc": "<p>Have you ever experienced this classic scenario? You write code on your laptop, and everything runs perfectly. But the moment you hand it",
-    "link": "https://dev.to/dowithsudo/learning-docker-a-beginner-guide-2n08",
-    "topic": "docker"
-  },
-  {
-    "title": "Docker Complete Guide: From Beginner to Production",
-    "desc": "<p>I have walked into too many server rooms where the answer to every problem was \"reinstall it.\" I have also watched teams burn entire week",
-    "link": "https://dev.to/dowithsudo/docker-complete-guide-from-beginner-to-production-5aee",
-    "topic": "docker"
-  },
-  {
-    "title": "Top Tips To Buy LinkedIn Accounts: What Makes A Good Account",
-    "desc": "<p>Top Tips To Buy LinkedIn Accounts: What Makes A Good Account<br />\nLearn what to buy a strong LinkedIn account by examining professional ",
-    "link": "https://dev.to/onaccshop44/top-tips-to-buy-linkedin-accounts-what-makes-a-good-account-4787",
+    "title": "CI wasn\u2019t built for coding agents. Here\u2019s what comes next.",
+    "desc": "<p><em>Originally published on <a href=\"https://thenewstack.io/ci-for-coding-agents/\" rel=\"noopener noreferrer\">The New Stack</a>.</em></p>\n",
+    "link": "https://dev.to/signadot/ci-wasnt-built-for-coding-agents-heres-what-comes-next-1pjn",
     "topic": "general"
   },
   {
-    "title": "A Closer Look To Buy LinkedIn Account: What To Consider",
-    "desc": "<p>A Closer Look To Buy LinkedIn Account: What To Consider<br />\nBuy a closer look at the factors behind LinkedIn account marketplace claims",
-    "link": "https://dev.to/onaccshop44/a-closer-look-to-buy-linkedin-account-what-to-consider-516m",
+    "title": "Is Railway PostgreSQL Reliable Enough for Production?",
+    "desc": "<p><a href=\"https://docs.railway.com/databases/postgresql\" rel=\"noopener noreferrer\">Railway PostgreSQL</a> makes it easy to provision a dat",
+    "link": "https://dev.to/thecloudexpert/railway-postgresql-reliability-4k07",
     "topic": "general"
   },
   {
-    "title": "Your Agent Logs Need a Secret Boundary, Not Just Redaction",
-    "desc": "<p>An AI agent can have correct tool authorization and still leak a credential through its observability stack.</p>\n\n<p>The usual advice is ",
-    "link": "https://dev.to/zira125/your-agent-logs-need-a-secret-boundary-not-just-redaction-804",
+    "title": "\ud83d\uded1 Graceful Shutdown in Node.js \u2014 Why Your Server Needs It!",
+    "desc": "<p>You've deployed your Node.js API. Everything is running smoothly. Then you need to restart the server.</p>\n\n<p>You hit Ctrl+C or process.",
+    "link": "https://dev.to/mdfahim18/graceful-shutdown-in-nodejs-why-your-server-needs-it-68",
     "topic": "general"
   },
   {
-    "title": "Build a Kubernetes Operator with Python",
-    "desc": "<h1>\n  \n  \n  Build a Kubernetes Operator with Python\n</h1>\n\n<p>tags: python, kubernetes, devops, tutorial</p>\n\n\n\n\n<p>tags: python, kubernete",
-    "link": "https://dev.to/qingluan/build-a-kubernetes-operator-with-python-1o2p",
+    "title": "Embrace Automation for AI Development Success",
+    "desc": "<h2>\n  \n  \n  Understanding Automation in AI Development\n</h2>\n\n<p>Automation isn't just a buzzword; it's the lifeline for effective AI work.",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/embrace-automation-for-ai-development-success-3ga6",
+    "topic": "general"
+  },
+  {
+    "title": "How I Built a Linux Threat Detection Engine That Explains Why It Fired",
+    "desc": "<p>Security alerts are easy to generate.<br />\nUseful security alerts are much harder.<br />\nAfter dealing with enough alerts that turned ou",
+    "link": "https://dev.to/alsops/how-i-built-a-linux-threat-detection-engine-that-explains-why-it-fired-1ng2",
+    "topic": "general"
+  },
+  {
+    "title": "How Kubernetes Decides Which Nodes Run What: Control Plane vs Worker Nodes",
+    "desc": "<h1>\n  \n  \n  Who's the Boss: Master vs Workers node in Kubernetes\n</h1>\n\n<p>So you\u2019re learning Kubernetes (why? just kidding) and have watch",
+    "link": "https://dev.to/abhishek_writes/how-kubernetes-decides-which-nodes-run-what-control-plane-vs-worker-nodes-45d7",
     "topic": "kubernetes"
   },
   {
-    "title": "A Read-Only Gate for Model-Generated SQL on Free Compute",
-    "desc": "<p>Never run model-generated SQL against real data first. Use a throwaway database on free compute to catch syntax errors, wrong shapes, and",
-    "link": "https://dev.to/hackrs_6393/a-read-only-gate-for-model-generated-sql-on-free-compute-3iaj",
+    "title": "How AIOps Transforms Software Engineering",
+    "desc": "<h2>\n  \n  \n  The Role of AI Innovation in Software Engineering\n</h2>\n\n<p>AI innovation is revolutionizing software engineering, and AIOps is",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-aiops-transforms-software-engineering-2pkk",
     "topic": "general"
   }
 ]
