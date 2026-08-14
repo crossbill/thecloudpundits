@@ -1,50 +1,50 @@
 [
   {
+    "title": "A Read-Only Gate for Model-Generated SQL on Free Compute",
+    "desc": "<p>Never run model-generated SQL against real data first. Use a throwaway database on free compute to catch syntax errors, wrong shapes, and",
+    "link": "https://dev.to/hackrs_6393/a-read-only-gate-for-model-generated-sql-on-free-compute-3iaj",
+    "topic": "general"
+  },
+  {
+    "title": "AI-Generated Shell Commands: Test in a Throwaway Container",
+    "desc": "<p>A disposable container will not make an AI-generated shell command safe, but it gives you a cheap, repeatable early warning before that c",
+    "link": "https://dev.to/codepy_1473/ai-generated-shell-commands-test-in-a-throwaway-container-1fmc",
+    "topic": "docker"
+  },
+  {
+    "title": "Two npm worms shipped with valid provenance this year",
+    "desc": "<p>I spent most of this year believing a green provenance check on npm meant something stronger than it does. Two incidents fixed that, and ",
+    "link": "https://dev.to/booyaka101/two-npm-worms-shipped-with-valid-provenance-this-year-22io",
+    "topic": "general"
+  },
+  {
+    "title": "Free Model Explanations Are Just Another Build Input. So I Gave Them a Replay Cache.",
+    "desc": "<p>Finley stared at the same C++ build failure for the third time. The template error had not changed. The free model summary above it had. ",
+    "link": "https://dev.to/datacpp_8185/free-model-explanations-are-just-another-build-input-so-i-gave-them-a-replay-cache-2ae4",
+    "topic": "general"
+  },
+  {
+    "title": "An email from your own address: spoof or hack? How to actually tell",
+    "desc": "<p>The call every MSP dreads. A customer forwards you an email that shows their own address in the From line, and they're sure the account i",
+    "link": "https://dev.to/milkyway008/an-email-from-your-own-address-spoof-or-hack-how-to-actually-tell-2p9",
+    "topic": "general"
+  },
+  {
+    "title": "14 Simple Guide For Buy LinkedIn Account: First-Time Buyers",
+    "desc": "<p>14 Simple Guide For Buy LinkedIn Account: First-Time Buyers<br />\nA beginner-friendly educational guide to Buying LinkedIn account market",
+    "link": "https://dev.to/onaccshop44/14-simple-guide-for-buy-linkedin-account-first-time-buyers-62e",
+    "topic": "general"
+  },
+  {
+    "title": "One-Command VPS Reinstall: Two Things Worth Knowing",
+    "desc": "<h1>\n  \n  \n  One-Command VPS Reinstall: Two Things Worth Knowing\n</h1>\n\n<p>There's a tool called restage that reinstalls a Linux VPS over th",
+    "link": "https://dev.to/schiff_heimlich/one-command-vps-reinstall-two-things-worth-knowing-2f8j",
+    "topic": "general"
+  },
+  {
     "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
     "desc": "<p>The open-source ecosystem is full of architectural masterpieces that\u2014due to corporate pivots, lack of maintainers, or shifting market foc",
     "link": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
     "topic": "docker"
-  },
-  {
-    "title": "Master deepseek-harness in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 87% of developers struggle to effectively integrate AI-powered tools into their workfl",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-2h61",
-    "topic": "general"
-  },
-  {
-    "title": "1TB Migrated in 33 Minutes. The Agent Didn't Even Need Coffee.",
-    "desc": "<p>In a recent demo, our team migrated one terabyte of production data from Elasticsearch 7.10 running on Amazon OpenSearch Service to OpenS",
-    "link": "https://dev.to/jon_handler_9bb3e6b4a2fd0/1tb-migrated-in-33-minutes-the-agent-didnt-even-need-coffee-5gbe",
-    "topic": "general"
-  },
-  {
-    "title": "Building Ranex in the Open: What Gating My Own Code Actually Caught",
-    "desc": "<p><strong>Your build is green. Do you know what that green light proved?</strong></p>\n\n<p>Not \u201cdid the tests pass\u201d \u2014 did the thing that say",
-    "link": "https://dev.to/anthonygarces/building-ranex-in-the-open-what-gating-my-own-code-actually-caught-5d15",
-    "topic": "general"
-  },
-  {
-    "title": "Day -1: Building the Foundation for My AWS DevOps Journey",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/syed_kashifali_2a9fe52dd/day-1-building-the-foundation-for-my-aws-devops-journey-49fk",
-    "topic": "aws"
-  },
-  {
-    "title": "OpenSandbox, Alibaba \u0e40\u0e1b\u0e34\u0e14 Open-Source Sandbox \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a AI Agents, #1 GitHub Trending, 12.7K Stars, Apache 2.0, SDKs 5 \u0e20\u0e32\u0e29\u0e32",
-    "desc": "<h1>\n  \n  \n  OpenSandbox, Alibaba \u0e40\u0e1b\u0e34\u0e14 Open-Source Sandbox \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a AI Agents, #1 GitHub Trending, 12.7K Stars, Apache 2.0, SDKs 5 \u0e20\u0e32\u0e29\u0e32\n</h1>\n",
-    "link": "https://dev.to/sarantoon/opensandbox-alibaba-epid-open-source-sandbox-samhrab-ai-agents-1-github-trending-127k-stars-3dk3",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Trusting AI-Written GitLab CI: 12 Checks to Gate It",
-    "desc": "<p>I stopped trusting AI-written GitLab CI files after I watched a model delete <code>environment: production</code> from a deploy job and s",
-    "link": "https://dev.to/gitlab_3188/stop-trusting-ai-written-gitlab-ci-12-checks-to-gate-it-10fp",
-    "topic": "general"
-  },
-  {
-    "title": "He Turned a Use-After-Free Into a Hypothesis Queue. A Free Server Did the Voting.",
-    "desc": "<p>He Turned a Use-After-Free Into a Hypothesis Queue. A Free Server Did the Voting.</p>\n\n<h2>\n  \n  \n  The crash that would not reproduce\n</",
-    "link": "https://dev.to/datacpp_8185/he-turned-a-use-after-free-into-a-hypothesis-queue-a-free-server-did-the-voting-181n",
-    "topic": "general"
   }
 ]
