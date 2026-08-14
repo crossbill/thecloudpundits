@@ -1,50 +1,50 @@
 [
   {
-    "title": "Freeze CLI Inputs Before Cron Runs",
-    "desc": "<p>Cron-driven CLI jobs often look stable right until they get one retry, one stale config read, or one helper script that quietly changes t",
-    "link": "https://dev.to/mrdapperx/freeze-cli-inputs-before-cron-runs-33m2",
+    "title": "The Hidden Costs of Serverless: What Your First Big Bill Teaches You",
+    "desc": "<p>The compute you pay for in serverless is almost never the part that hurts. Your first surprising bill is usually made of data transfer, p",
+    "link": "https://dev.to/libme/the-hidden-costs-of-serverless-what-your-first-big-bill-teaches-you-5d3d",
     "topic": "general"
   },
   {
-    "title": "5 Terraform Infrastructure Risks That Can Survive `terraform plan`",
-    "desc": "<p>Terraform makes infrastructure reproducible.</p>\n\n<p>But a successful <code>terraform plan</code> does not necessarily mean that an infra",
-    "link": "https://dev.to/guilhermemarochio/5-terraform-infrastructure-risks-that-can-survive-terraform-plan-2m6p",
-    "topic": "terraform"
+    "title": "Published Persistent: What an Account Wipe Taught Us About Security Outreach",
+    "desc": "<p>\"Published\" feels like a durable fact. You write a comment, the API returns 200, a screenshot captures the rendered page, and you move on",
+    "link": "https://dev.to/correctover/published-persistent-what-an-account-wipe-taught-us-about-security-outreach-40ak",
+    "topic": "secops"
   },
   {
-    "title": "Master deepseek-harness in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours integrating an AI-generated code into my project, only to realize I was using",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-356m",
+    "title": "The Indie SaaS Monitoring Stack: Uptime + Server Metrics + Status Page in One",
+    "desc": "<p>Meta Description: Tired of stitching together three different tools for uptime, server metrics, and status pages? We compare all-in-one m",
+    "link": "https://dev.to/yanlong_wang/the-indie-saas-monitoring-stack-uptime-server-metrics-status-page-in-one-1m5k",
     "topic": "general"
   },
   {
-    "title": "Optimizing LLM Fine-Tuning Costs: Infrastructure & Engineering Guidelines",
-    "desc": "<p>When moving LLM fine-tuning from prototype notebooks to production pipelines, compute cost is rarely the only financial hurdle. Engineeri",
-    "link": "https://dev.to/abdulrahman_maslmany/optimizing-llm-fine-tuning-costs-infrastructure-engineering-guidelines-43ai",
+    "title": "Runbook Hygiene: Why Yours Are Lying to You",
+    "desc": "<p>Your runbooks are out of date. I don't know your team, but I'd bet money on it. Most teams write runbooks once, in a panic after an outag",
+    "link": "https://dev.to/samson_tanimawo/runbook-hygiene-why-yours-are-lying-to-you-4f80",
     "topic": "general"
   },
   {
-    "title": "I thought this OpenClaw outage story was hype until I read how it actually worked",
-    "desc": "<p>A thread on r/openclaw with 134 upvotes and 62 comments got my attention because the agent didn\u2019t just summarize an outage email.</p>\n\n<p",
-    "link": "https://dev.to/lars_winstand/i-thought-this-openclaw-outage-story-was-hype-until-i-read-how-it-actually-worked-8jf",
+    "title": "Moonbeam Node: Run Your Own or Use a Managed RPC?",
+    "desc": "<h2>\n  \n  \n  Quick decision: run your own Moonbeam node or use a managed RPC?\n</h2>\n\n<p>Before you provision hardware or start syncing, deci",
+    "link": "https://dev.to/onfinality/moonbeam-node-run-your-own-or-use-a-managed-rpc-14pm",
     "topic": "general"
   },
   {
-    "title": "Nmap for Authorized Infrastructure Validation (Not Hacking)",
-    "desc": "<p>Every deploy makes a promise about the network: \"this box only exposes SSH and HTTPS,\" \"the database is never reachable from outside the ",
-    "link": "https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6",
+    "title": "Klaytn API: RPC, KAS, and Node Infrastructure Guide",
+    "desc": "<p>Klaytn, now rebranded as Kaia, is an EVM-compatible Layer 1 blockchain designed for high throughput and immediate finality. If you are bu",
+    "link": "https://dev.to/onfinality/klaytn-api-rpc-kas-and-node-infrastructure-guide-44ap",
     "topic": "general"
   },
   {
-    "title": "End-to-End Containerised Deployment: AWS EC2 Docker Docker Hub Kubernetes",
-    "desc": "<p>\ud83d\ude80 My First End-to-End Containerised Deployment: AWS EC2 \u2192 Docker \u2192 Docker Hub \u2192 Kubernetes</p>\n\n<p>I recently completed a hands-on DevOps",
-    "link": "https://dev.to/amankhan/end-to-end-containerised-deployment-aws-ec2-docker-docker-hub-kubernetes-j90",
-    "topic": "aws"
+    "title": "Gnosis RPC List: Endpoints, Chain Settings, and Provider Tips",
+    "desc": "<h2>\n  \n  \n  Quick recommendation: how to pick a Gnosis RPC endpoint\n</h2>\n\n<p>If you are prototyping or testing a wallet connection, a publ",
+    "link": "https://dev.to/onfinality/gnosis-rpc-list-endpoints-chain-settings-and-provider-tips-45k5",
+    "topic": "general"
   },
   {
-    "title": "The Kubernetes Checklist for Teams Without a Platform Team",
-    "desc": "<p>Most Kubernetes advice assumes you have a platform team: specialists who own upgrades, ingress, security policies, and the 2 a.m. pages.<",
-    "link": "https://dev.to/kestrion/the-kubernetes-checklist-for-teams-without-a-platform-team-1ian",
-    "topic": "kubernetes"
+    "title": "ETH RPC Node: How to Connect to Ethereum",
+    "desc": "<h2>\n  \n  \n  Quick Answer: What Is an ETH RPC Node?\n</h2>\n\n<p>An ETH RPC node is a server that runs Ethereum client software and exposes the",
+    "link": "https://dev.to/onfinality/eth-rpc-node-how-to-connect-to-ethereum-2d2h",
+    "topic": "general"
   }
 ]
