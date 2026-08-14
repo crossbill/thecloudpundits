@@ -1,5 +1,35 @@
 [
   {
+    "title": "Free Tier Traps: How Hobby Plans Are Designed and When They Flip to Paid",
+    "desc": "<p>A free tier is a marketing budget with a shutoff valve, and the valve is placed on whatever metric grows when your project starts working",
+    "link": "https://dev.to/libme/free-tier-traps-how-hobby-plans-are-designed-and-when-they-flip-to-paid-450e",
+    "topic": "general"
+  },
+  {
+    "title": "How I Built 172 Guards After My AI Agent Tried to Delete Production Data",
+    "desc": "<h2>\n  \n  \n  2:47 AM, one <code>DELETE</code>, 23 databases\n</h2>\n\n<p>My AI coding agent was debugging a slow query. It found the table, dec",
+    "link": "https://dev.to/frederikvonderheyden/how-i-built-172-guards-after-my-ai-agent-tried-to-delete-production-data-3664",
+    "topic": "general"
+  },
+  {
+    "title": "Synthetic Data for CI/CD: Seed Fresh, Valid Rows on Every Run",
+    "desc": "<p>Every CI pipeline that touches a database needs rows to run against, and there are only three ways to get them: restore a copy of product",
+    "link": "https://dev.to/mikh-shytsko/synthetic-data-for-cicd-seed-fresh-valid-rows-on-every-run-2fe8",
+    "topic": "general"
+  },
+  {
+    "title": "ALTER TABLE, 5 Million Rows, and the Deploy That Took Down the Site",
+    "desc": "<p><em>A migration that takes 50ms on your dev database can lock a production table for 20 minutes, and running it against production-scale ",
+    "link": "https://dev.to/mikh-shytsko/alter-table-5-million-rows-and-the-deploy-that-took-down-the-site-1fk5",
+    "topic": "general"
+  },
+  {
+    "title": "One docker compose up, One Seeded Postgres",
+    "desc": "<p>Docker Compose made your dev database reproducible, one command bringing up the same Postgres for the whole team, down to the version and",
+    "link": "https://dev.to/mikh-shytsko/one-docker-compose-up-one-seeded-postgres-14jh",
+    "topic": "docker"
+  },
+  {
     "title": "The Reality of Working as a DevOps Engineer in Cameroon",
     "desc": "<p>Most \"how to become a DevOps engineer\" posts are written from places where electricity and internet<br />\nare background assumptions. Min",
     "link": "https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l",
@@ -15,36 +45,6 @@
     "title": "Master deepseek-harness in 5 Mins",
     "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours struggling to integrate AI-generated code into my project, only to realize th",
     "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-1jin",
-    "topic": "general"
-  },
-  {
-    "title": "How My AI Agents' Mistakes Become Permanent Rules (And Why I Want Them to Fail)",
-    "desc": "<p>I run SaaS products for German golf clubs. Solo founder. 85 containers, 24 databases, one server. No team.</p>\n\n<p>My AI agents handle de",
-    "link": "https://dev.to/frederikvonderheyden/how-my-ai-agents-mistakes-become-permanent-rules-and-why-i-want-them-to-fail-4moi",
-    "topic": "general"
-  },
-  {
-    "title": "I Run 85 Docker Containers as a Solo Founder. Here's the Bash That Keeps It Alive.",
-    "desc": "<p>85 containers. 24 PostgreSQL databases. 67 domains. 232 cron jobs. One developer. 120 EUR/month in Hetzner bills.</p>\n\n<p>This is not a s",
-    "link": "https://dev.to/frederikvonderheyden/i-run-85-docker-containers-as-a-solo-founder-heres-the-bash-that-keeps-it-alive-4k2n",
-    "topic": "docker"
-  },
-  {
-    "title": "YAML to JSON in your browser \u2014 a converter that never uploads your configs",
-    "desc": "<h1>\n  \n  \n  YAML to JSON in your browser \u2014 a converter that never uploads your configs\n</h1>\n\n<p>YAML is the lingua franca of config files ",
-    "link": "https://dev.to/tooly-work/yaml-to-json-in-your-browser-a-converter-that-never-uploads-your-configs-5h40",
-    "topic": "general"
-  },
-  {
-    "title": "The Workspace Should Be Disposable. The Data Shouldn't Be.",
-    "desc": "<p>There's a pattern that developers internalised years ago and that the rest of computing is only now catching up to: <strong>the environme",
-    "link": "https://dev.to/infosaic_technologies_374/the-workspace-should-be-disposable-the-data-shouldnt-be-4n8g",
-    "topic": "general"
-  },
-  {
-    "title": "A Free Model Endpoint Returned 200 With an Empty Body. The Fix Was a Lease, Not a Retry.",
-    "desc": "<p>A realistic failure mode starts with a team that runs a nightly triage job on a small free server. The job groups stack traces from three",
-    "link": "https://dev.to/datacpp_8185/a-free-model-endpoint-returned-200-with-an-empty-body-the-fix-was-a-lease-not-a-retry-45ei",
     "topic": "general"
   }
 ]
