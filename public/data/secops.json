@@ -1,5 +1,17 @@
 [
   {
+    "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
+    "desc": "<p>The security defect is described as an SQL injection that could allow attackers to achieve remote code execution.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
+    "topic": "general"
+  },
+  {
+    "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
+    "desc": "<p>The Rust-based macOS infostealer harvests users\u2019 passwords, keychain information, Chromium-based browser data, and Safari cookies.</p>\n<p",
+    "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
+    "topic": "general"
+  },
+  {
     "title": "Cybersecurity M&A Roundup: 21 Deals Announced in July 2026",
     "desc": "<p>Significant cybersecurity M&A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm.</p>\n<p>The post <",
     "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
@@ -34,17 +46,5 @@
     "desc": "<p>Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements.</p>\n<p>The p",
     "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
     "topic": "secops"
-  },
-  {
-    "title": "Critical VMware vCenter Vulnerability in Attackers\u2019 Crosshairs",
-    "desc": "<p>Tracked as CVE-2026\u201359310, the directory traversal bug allows remote attackers to execute arbitrary code.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
-    "topic": "secops"
-  },
-  {
-    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit \u2018ShieldBreak\u2019",
-    "desc": "<p>Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges.</p>\n<p>The post <a href=\"https://www.secur",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
-    "topic": "general"
   }
 ]
