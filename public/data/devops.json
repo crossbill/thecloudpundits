@@ -1,5 +1,35 @@
 [
   {
+    "title": "The Reality of Working as a DevOps Engineer in Cameroon",
+    "desc": "<p>Most \"how to become a DevOps engineer\" posts are written from places where electricity and internet<br />\nare background assumptions. Min",
+    "link": "https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l",
+    "topic": "general"
+  },
+  {
+    "title": "I thought OpenClaw was slow, but the real problem was the 5 seconds before the model ever ran",
+    "desc": "<p>I went looking for model-latency advice and found a much more useful debugging lesson.</p>\n\n<p>While digging through OpenClaw discussions",
+    "link": "https://dev.to/lars_winstand/i-thought-openclaw-was-slow-but-the-real-problem-was-the-5-seconds-before-the-model-ever-ran-5o0",
+    "topic": "general"
+  },
+  {
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours struggling to integrate AI-generated code into my project, only to realize th",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-1jin",
+    "topic": "general"
+  },
+  {
+    "title": "How My AI Agents' Mistakes Become Permanent Rules (And Why I Want Them to Fail)",
+    "desc": "<p>I run SaaS products for German golf clubs. Solo founder. 85 containers, 24 databases, one server. No team.</p>\n\n<p>My AI agents handle de",
+    "link": "https://dev.to/frederikvonderheyden/how-my-ai-agents-mistakes-become-permanent-rules-and-why-i-want-them-to-fail-4moi",
+    "topic": "general"
+  },
+  {
+    "title": "I Run 85 Docker Containers as a Solo Founder. Here's the Bash That Keeps It Alive.",
+    "desc": "<p>85 containers. 24 PostgreSQL databases. 67 domains. 232 cron jobs. One developer. 120 EUR/month in Hetzner bills.</p>\n\n<p>This is not a s",
+    "link": "https://dev.to/frederikvonderheyden/i-run-85-docker-containers-as-a-solo-founder-heres-the-bash-that-keeps-it-alive-4k2n",
+    "topic": "docker"
+  },
+  {
     "title": "YAML to JSON in your browser \u2014 a converter that never uploads your configs",
     "desc": "<h1>\n  \n  \n  YAML to JSON in your browser \u2014 a converter that never uploads your configs\n</h1>\n\n<p>YAML is the lingua franca of config files ",
     "link": "https://dev.to/tooly-work/yaml-to-json-in-your-browser-a-converter-that-never-uploads-your-configs-5h40",
@@ -15,36 +45,6 @@
     "title": "A Free Model Endpoint Returned 200 With an Empty Body. The Fix Was a Lease, Not a Retry.",
     "desc": "<p>A realistic failure mode starts with a team that runs a nightly triage job on a small free server. The job groups stack traces from three",
     "link": "https://dev.to/datacpp_8185/a-free-model-endpoint-returned-200-with-an-empty-body-the-fix-was-a-lease-not-a-retry-45ei",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes OOMKilled \u2014 diagnose with a plan, not a wall of kubectl",
-    "desc": "<p>OOMKilled is a classic day-2 rabbit hole: events, limits, restarts, then a risky scale or edit. kprompt turns the investigation prompt in",
-    "link": "https://dev.to/muhtalipdede/kubernetes-oomkilled-diagnose-with-a-plan-not-a-wall-of-kubectl-4997",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "An intent compiler for Kubernetes \u2014 not another chat REPL",
-    "desc": "<p>Chat CLIs optimize for turn-taking. Operators need a reviewable artifact before mutate.</p>\n\n<p>kprompt is built as an intent compiler: N",
-    "link": "https://dev.to/muhtalipdede/an-intent-compiler-for-kubernetes-not-another-chat-repl-3abh",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "kprompt vs kubectl-ai: plan-before-apply vs NL kubectl",
-    "desc": "<p>If you are shopping for a \u201ckubectl-ai alternative,\u201d you are already in the right lane: local kubeconfig + BYOK + natural language. The fo",
-    "link": "https://dev.to/muhtalipdede/kprompt-vs-kubectl-ai-plan-before-apply-vs-nl-kubectl-5ggk",
-    "topic": "general"
-  },
-  {
-    "title": "I Wrote a Doctor for My Docker",
-    "desc": "<p><em>Because for months I didn't really know what was running on my machine.</em></p>\n\n<p>One evening, at the end of a long day, I typed <",
-    "link": "https://dev.to/iamcanturk/i-wrote-a-doctor-for-my-docker-2o9k",
-    "topic": "docker"
-  },
-  {
-    "title": "176 Guard Rules, 0 Employees: How I Built an AI-Operated Business",
-    "desc": "<p>Last week, at 2:47 AM, my system blocked a deployment.</p>\n\n<p>Not because a test failed. Not because CI was red. Because a guard rule de",
-    "link": "https://dev.to/frederikvonderheyden/176-guard-rules-0-employees-how-i-built-an-ai-operated-business-42p5",
     "topic": "general"
   }
 ]
