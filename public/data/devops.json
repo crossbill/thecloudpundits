@@ -1,50 +1,50 @@
 [
   {
-    "title": "Scalability Principles: Stateless, Horizontal & Decoupled",
-    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> The lever that lets you add servers instead of buying bigger ones is <strong>statelessness</strong",
-    "link": "https://dev.to/sri2614/scalability-principles-stateless-horizontal-decoupled-319m",
+    "title": "Choose Boring Technology: The 11-Year-Old Essay Still Saving Engineering Teams in 2026",
+    "desc": "<p>An 11-year-old essay by Dan McKinley just hit 377 points on Hacker News with 201 comments \u2014 and it's more relevant in 2026 than it was wh",
+    "link": "https://dev.to/trismegistus/choose-boring-technology-the-11-year-old-essay-still-saving-engineering-teams-in-2026-12mi",
     "topic": "general"
   },
   {
-    "title": "The Free-Model Agreement Test for AI Code Generation",
-    "desc": "<p>Liquid syntax error: Unknown tag 'endraw'</p>",
-    "link": "https://dev.to/github_7727/the-free-model-agreement-test-for-ai-code-generation-31op",
+    "title": "Are Azure Resource Groups Just Folders?",
+    "desc": "<h2>\n  \n  \n  The Foundation of Every Azure Deployment\n</h2>\n\n<p>In this article, we'll explore what Resource Groups are and, more importantl",
+    "link": "https://dev.to/chethanraj/are-azure-resource-groups-just-folders-4p9m",
+    "topic": "azure"
+  },
+  {
+    "title": "Why C-Suite Leaders Struggle With AI Consumption Pricing",
+    "desc": "<p>AI consumption pricing broke the model executives used to govern infrastructure spend. One-third of business leaders \u2014 33%, according to ",
+    "link": "https://dev.to/ntctech/why-c-suite-leaders-struggle-with-ai-consumption-pricing-34n0",
     "topic": "general"
   },
   {
-    "title": "A Free-Server Regression Job for LLM-Generated SQL",
-    "desc": "<p>LLM-generated SQL breaks in ways that ordinary unit tests miss. A model can return a syntactically valid query against a schema it has ne",
-    "link": "https://dev.to/dataio_4921/a-free-server-regression-job-for-llm-generated-sql-4g55",
+    "title": "Docker Networking & Volumes: Connecting Containers and Persisting Data",
+    "desc": "<blockquote>\n<p>Learn how containers communicate with each other and how to keep data alive even after containers are removed.</p>\n</blockqu",
+    "link": "https://dev.to/themdmohiuddin/docker-networking-volumes-connecting-containers-and-persisting-data-56fn",
+    "topic": "docker"
+  },
+  {
+    "title": "Rehearse Agent Rollbacks on a Free Server Before You Approve Real Commands",
+    "desc": "<p>I almost let a design agent edit our staging environment last Tuesday.</p>\n\n<p>I didn't suddenly trust it. I was just tired of copying fi",
+    "link": "https://dev.to/haaaaaley/rehearse-agent-rollbacks-on-a-free-server-before-you-approve-real-commands-3k9n",
     "topic": "general"
   },
   {
-    "title": "Our checker did not catch the wrong number. It enforced it.",
-    "desc": "<p><em>Single source of truth</em></p>\n\n<p>One number described your product. It appeared in five places with five different values. The too",
-    "link": "https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7",
+    "title": "Gate a New Model on Reproducibility Before You Pay for Confidence",
+    "desc": "<p>The first number that separates a usable model route from a demo is exact-match agreement across five identical calls with temperature 0.",
+    "link": "https://dev.to/kongkong1/gate-a-new-model-on-reproducibility-before-you-pay-for-confidence-meh",
     "topic": "general"
   },
   {
-    "title": "Best French Universities for International Students in 2026: What You Should Know Before Applying",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/simplyfrench/best-french-universities-for-international-students-in-2026-what-you-should-know-before-applying-3kmh",
+    "title": "Pin Free Inference Before You Trust It: A Golden Hash Gate",
+    "desc": "<p>A free model endpoint is only trustworthy if you can prove that the same input still produces the same output. A golden hash gate gives y",
+    "link": "https://dev.to/hackrs_6393/pin-free-inference-before-you-trust-it-a-golden-hash-gate-5eok",
     "topic": "general"
   },
   {
-    "title": "A Tiered Verification Gate for Cheap Model-Generated C++ Patches",
-    "desc": "<p>A freshly released coding model can generate several C++ patch candidates in the time it takes to write a code review. When generation is",
-    "link": "https://dev.to/devcpp_268/a-tiered-verification-gate-for-cheap-model-generated-c-patches-2kbc",
-    "topic": "general"
-  },
-  {
-    "title": "Building Safer Code: A Simple Guide to Modern Security and Career Growth",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/komal-kumari/building-safer-code-a-simple-guide-to-modern-security-and-career-growth-dh0",
-    "topic": "secops"
-  },
-  {
-    "title": "MiniMax H3 Hype? Run This 20-Minute Free-Tier Test First",
-    "desc": "<p>Sunday night. My group chat kept pasting the same model name.</p>\n\n<p>MiniMax H3.</p>\n\n<p>Benchmark screenshots. \"Game changer.\" \"Better ",
-    "link": "https://dev.to/codejs_6920/minimax-h3-hype-run-this-20-minute-free-tier-test-first-mmn",
+    "title": "Build a Disposable Model-Eval Loop Without a Paid API Key",
+    "desc": "<p>A free model endpoint plus a free server is enough for a disposable eval loop. It is not enough for production traffic.</p>\n\n<h2>\n  \n  \n ",
+    "link": "https://dev.to/codehub_1304/build-a-disposable-model-eval-loop-without-a-paid-api-key-3db4",
     "topic": "general"
   }
 ]
