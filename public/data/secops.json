@@ -1,5 +1,17 @@
 [
   {
+    "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
+    "desc": "<p>The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build art",
+    "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
+    "desc": "<p>Hackers stole the customers\u2019 shipping information, including names, addresses, email addresses, and phone numbers.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
+    "topic": "secops"
+  },
+  {
     "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
     "desc": "<p>The security defect is described as an SQL injection that could allow attackers to achieve remote code execution.</p>\n<p>The post <a href",
     "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
@@ -34,17 +46,5 @@
     "desc": "<p>The Israeli company has nearly $2 billion in total assets under management since 2014.</p>\n<p>The post <a href=\"https://www.securityweek.",
     "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
     "topic": "general"
-  },
-  {
-    "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
-    "desc": "<p>The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
-    "topic": "aws"
-  },
-  {
-    "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
-    "desc": "<p>Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
-    "topic": "secops"
   }
 ]
