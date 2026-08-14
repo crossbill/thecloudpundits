@@ -1,5 +1,23 @@
 [
   {
+    "title": "YAML to JSON in your browser \u2014 a converter that never uploads your configs",
+    "desc": "<h1>\n  \n  \n  YAML to JSON in your browser \u2014 a converter that never uploads your configs\n</h1>\n\n<p>YAML is the lingua franca of config files ",
+    "link": "https://dev.to/tooly-work/yaml-to-json-in-your-browser-a-converter-that-never-uploads-your-configs-5h40",
+    "topic": "general"
+  },
+  {
+    "title": "The Workspace Should Be Disposable. The Data Shouldn't Be.",
+    "desc": "<p>There's a pattern that developers internalised years ago and that the rest of computing is only now catching up to: <strong>the environme",
+    "link": "https://dev.to/infosaic_technologies_374/the-workspace-should-be-disposable-the-data-shouldnt-be-4n8g",
+    "topic": "general"
+  },
+  {
+    "title": "A Free Model Endpoint Returned 200 With an Empty Body. The Fix Was a Lease, Not a Retry.",
+    "desc": "<p>A realistic failure mode starts with a team that runs a nightly triage job on a small free server. The job groups stack traces from three",
+    "link": "https://dev.to/datacpp_8185/a-free-model-endpoint-returned-200-with-an-empty-body-the-fix-was-a-lease-not-a-retry-45ei",
+    "topic": "general"
+  },
+  {
     "title": "Kubernetes OOMKilled \u2014 diagnose with a plan, not a wall of kubectl",
     "desc": "<p>OOMKilled is a classic day-2 rabbit hole: events, limits, restarts, then a risky scale or edit. kprompt turns the investigation prompt in",
     "link": "https://dev.to/muhtalipdede/kubernetes-oomkilled-diagnose-with-a-plan-not-a-wall-of-kubectl-4997",
@@ -27,24 +45,6 @@
     "title": "176 Guard Rules, 0 Employees: How I Built an AI-Operated Business",
     "desc": "<p>Last week, at 2:47 AM, my system blocked a deployment.</p>\n\n<p>Not because a test failed. Not because CI was red. Because a guard rule de",
     "link": "https://dev.to/frederikvonderheyden/176-guard-rules-0-employees-how-i-built-an-ai-operated-business-42p5",
-    "topic": "general"
-  },
-  {
-    "title": "If You Never Fetched It, You Never Researched It",
-    "desc": "<p><strong>TL;DR:</strong> A citation can look researched without proving anyone opened it. Fetch the source bytes, record them, and say wha",
-    "link": "https://dev.to/anthonygarces/if-you-never-fetched-it-you-never-researched-it-pl7",
-    "topic": "general"
-  },
-  {
-    "title": "Top 18 Best Marketplaces to Buy Verified Walmart Seller 2026-2027",
-    "desc": "<p>Buy Verified Walmart Seller Account</p>\n\n<p>\u25c8{{\ud83c\udfaf\ud83c\udfaf}}\u25c8\u27a4Fast Reply 24/7 | Instant Support \ud83d\ude80</p>\n\n<p>\u25c8{{\ud83c\udfaf\ud83c\udfaf}}\u25c8\u27a4Telegram: @progmbofficial</p>\n\n",
-    "link": "https://dev.to/norrievictordmbxz/top-18-best-marketplaces-to-buy-verified-walmart-seller-2026-2027-31a7",
-    "topic": "general"
-  },
-  {
-    "title": "Agent Connectivity Best Practices: 6 Failure Modes That Make Agents Unreachable \u2014 and What Prevents Them",
-    "desc": "<p>Your agent was reachable this morning. You deployed it, tested it end to end, and closed the laptop. This morning it's gone \u2014 not the cod",
-    "link": "https://dev.to/pstayet/agent-connectivity-best-practices-6-failure-modes-that-make-agents-unreachable-and-what-prevents-3ng6",
     "topic": "general"
   }
 ]
