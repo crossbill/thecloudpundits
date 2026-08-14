@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenSandbox, Alibaba \u0e40\u0e1b\u0e34\u0e14 Open-Source Sandbox \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a AI Agents, #1 GitHub Trending, 12.7K Stars, Apache 2.0, SDKs 5 \u0e20\u0e32\u0e29\u0e32",
+    "desc": "<h1>\n  \n  \n  OpenSandbox, Alibaba \u0e40\u0e1b\u0e34\u0e14 Open-Source Sandbox \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a AI Agents, #1 GitHub Trending, 12.7K Stars, Apache 2.0, SDKs 5 \u0e20\u0e32\u0e29\u0e32\n</h1>\n",
+    "link": "https://dev.to/sarantoon/opensandbox-alibaba-epid-open-source-sandbox-samhrab-ai-agents-1-github-trending-127k-stars-3dk3",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Trusting AI-Written GitLab CI: 12 Checks to Gate It",
+    "desc": "<p>I stopped trusting AI-written GitLab CI files after I watched a model delete <code>environment: production</code> from a deploy job and s",
+    "link": "https://dev.to/gitlab_3188/stop-trusting-ai-written-gitlab-ci-12-checks-to-gate-it-10fp",
+    "topic": "general"
+  },
+  {
+    "title": "He Turned a Use-After-Free Into a Hypothesis Queue. A Free Server Did the Voting.",
+    "desc": "<p>He Turned a Use-After-Free Into a Hypothesis Queue. A Free Server Did the Voting.</p>\n\n<h2>\n  \n  \n  The crash that would not reproduce\n</",
+    "link": "https://dev.to/datacpp_8185/he-turned-a-use-after-free-into-a-hypothesis-queue-a-free-server-did-the-voting-181n",
+    "topic": "general"
+  },
+  {
+    "title": "Free Model Endpoint? Run a Nightly Drift Ledger Before Production",
+    "desc": "<p>Liquid syntax error: Unknown tag 'endraw'</p>",
+    "link": "https://dev.to/bestbee/free-model-endpoint-run-a-nightly-drift-ledger-before-production-3efa",
+    "topic": "general"
+  },
+  {
+    "title": "Treat AI-Suggested Shell Commands Like a Merge Request, Not a Copy-Paste",
+    "desc": "<p>The riskiest output from an AI coding session is not the function it wrote; it is the shell command you run in your terminal because it l",
+    "link": "https://dev.to/codepy_1473/treat-ai-suggested-shell-commands-like-a-merge-request-not-a-copy-paste-5bbp",
+    "topic": "general"
+  },
+  {
     "title": "Why Developer-Focused Content Still Needs Good Storytelling",
     "desc": "<h3>\n  \n  \n  The best technical writing doesn't just explain code. It makes readers feel something about the problem it solves.\n</h3>\n\n<p>I ",
     "link": "https://dev.to/chizurumchidimma/why-developer-focused-content-still-needs-good-storytelling-4hmp",
@@ -16,35 +46,5 @@
     "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I tried to show a friend my cool Node.js API a",
     "link": "https://dev.to/timevolt/docker-essentials-containerizing-your-first-app-a-journey-like-in-the-matrix-31oj",
     "topic": "docker"
-  },
-  {
-    "title": "Your data pipeline isn't idempotent until you prove it breaks and recovers",
-    "desc": "<p>The \"Exactly Once\" myth is the most expensive fairy tale in data engineering. We tell ourselves that if we just buy a high-end orchestrat",
-    "link": "https://dev.to/aniketsoni/your-data-pipeline-isnt-idempotent-until-you-prove-it-breaks-and-recovers-13od",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Budget Watchdog for a Free Model Endpoint Before It Goes Quiet",
-    "desc": "<p>Why this is worth reading: a free model endpoint and a free server are easy to adopt, but the failure that actually wakes you up is not t",
-    "link": "https://dev.to/rivera123/build-a-budget-watchdog-for-a-free-model-endpoint-before-it-goes-quiet-36a5",
-    "topic": "general"
-  },
-  {
-    "title": "Put a JSON Contract in Front of a Free Model Route Before Your CI Ever Calls It",
-    "desc": "<p>07:42. The GitLab job fails at <code>risk not found</code>. I open the raw log. The model returned <code>{ \"output\": \"low\" }</code>. My p",
-    "link": "https://dev.to/gitlab_3188/put-a-json-contract-in-front-of-a-free-model-route-before-your-ci-ever-calls-it-34l2",
-    "topic": "general"
-  },
-  {
-    "title": "The WebSocket session that was dead for 10 days - and my dashboard said 'healthy'",
-    "desc": "<p><em>This is part of a series on building <a href=\"https://github.com/mighty840/orca\" rel=\"noopener noreferrer\">Orca</a>, a single-binary ",
-    "link": "https://dev.to/mighty840/the-websocket-session-that-was-dead-for-10-days-and-my-dashboard-said-healthy-4oom",
-    "topic": "general"
-  },
-  {
-    "title": "Build an MCP Server in Go (Part 2): Building the MCP tool layer",
-    "desc": "<p><a href=\"https://dev.to/ferztyle/build-an-mcp-server-in-go-part-1-designing-a-diagnostic-grade-kubernetes-client-49a2\"><em>Part 1</em></a",
-    "link": "https://dev.to/ferztyle/build-an-mcp-server-in-go-part-2-building-the-mcp-tool-layer-4l3m",
-    "topic": "general"
   }
 ]
