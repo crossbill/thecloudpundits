@@ -1,5 +1,23 @@
 [
   {
+    "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
+    "desc": "<p>Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published.</p>\n<p>The post <a href=\"https://ww",
+    "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
+    "topic": "general"
+  },
+  {
+    "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
+    "desc": "<p>Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028.</p>\n<p>The",
+    "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
+    "topic": "gcp"
+  },
+  {
+    "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
+    "desc": "<p>The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers.</p>\n<p>The post <",
+    "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+    "topic": "secops"
+  },
+  {
     "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
     "desc": "<p>The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build art",
     "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
@@ -28,23 +46,5 @@
     "desc": "<p>Significant cybersecurity M&A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm.</p>\n<p>The post <",
     "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
     "topic": "secops"
-  },
-  {
-    "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
-    "desc": "<p>The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
-    "topic": "general"
-  },
-  {
-    "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
-    "desc": "<p>Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files.</p>\n<p>The post <a href=\"ht",
-    "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "Venture Firm Team8 Secures Additional $365 Million",
-    "desc": "<p>The Israeli company has nearly $2 billion in total assets under management since 2014.</p>\n<p>The post <a href=\"https://www.securityweek.",
-    "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
-    "topic": "general"
   }
 ]
