@@ -1,5 +1,35 @@
 [
   {
+    "title": "Build a Billing Reconciliation Harness for Chinese AI Model Routers",
+    "desc": "<h1>\n  \n  \n  Build a Billing Reconciliation Harness for Chinese AI Model Routers\n</h1>\n\n<p>Chinese AI APIs are moving fast enough that a sta",
+    "link": "https://dev.to/aiwave/build-a-billing-reconciliation-harness-for-chinese-ai-model-routers-4ce7",
+    "topic": "general"
+  },
+  {
+    "title": "Load Testing With an Empty Database? Here's Your Problem",
+    "desc": "<p><em>You can polish the k6 scripts, tune every Gatling scenario, and arm the Locust swarm, but with only 47 rows in the database behind th",
+    "link": "https://dev.to/mikh-shytsko/load-testing-with-an-empty-database-heres-your-problem-54pb",
+    "topic": "general"
+  },
+  {
+    "title": "A Regression Gate for Free Model Endpoints",
+    "desc": "<p>The cheapest way to trust a free model endpoint is not to ask it more questions; it is to record what it returned when you last accepted ",
+    "link": "https://dev.to/codepy_1473/a-regression-gate-for-free-model-endpoints-con",
+    "topic": "general"
+  },
+  {
+    "title": "Your Agent Doesn't Need Labels. It Needs a World to Act On.",
+    "desc": "<p>Picture a team standing up an evaluation harness for a support agent \u2014 the kind that reads an inbox, opens the CRM, and works a queue of ",
+    "link": "https://dev.to/mikh-shytsko/your-agent-doesnt-need-labels-it-needs-a-world-to-act-on-5cc4",
+    "topic": "general"
+  },
+  {
+    "title": "Drei Fehler, bevor es lief",
+    "desc": "<h1>\n  \n  \n  Mein KI-System hat 871 E-Mails verschickt. Ohne Freigabe. Was ich daraus gelernt habe.\n</h1>\n\n<p>Drei Wochen lief alles perfekt",
+    "link": "https://dev.to/frederikvonderheyden/drei-fehler-bevor-es-lief-5bme",
+    "topic": "general"
+  },
+  {
     "title": "Why Your Postgres Migration Locked the Whole Table (and the Pattern That Doesn't)",
     "desc": "<p>The ALTER TABLE itself is usually not slow \u2014 the outage comes from Postgres queueing every other query behind the lock it is waiting for.",
     "link": "https://dev.to/libme/why-your-postgres-migration-locked-the-whole-table-and-the-pattern-that-doesnt-38k4",
@@ -16,35 +46,5 @@
     "desc": "<h1>\n  \n  \n  How Alibaba Cloud CDN Accelerates Your Global Applications\n</h1>\n\n<p>If your users are in Asia, <strong>Alibaba Cloud CDN</stro",
     "link": "https://dev.to/fan_li_ee7d84c6203253d041/how-alibaba-cloud-cdn-accelerates-your-global-applications-nmp",
     "topic": "general"
-  },
-  {
-    "title": "KRISHI MITRA AI",
-    "desc": "<h1>\n  \n  \n  \ud83c\udf3e KrishiMitra AI: Building a Voice AI Assistant for Smarter Farming\n</h1>\n\n<blockquote>\n<p>From a simple voice assistant to a m",
-    "link": "https://dev.to/shreya_patel_02/krishi-mitra-ai-j74",
-    "topic": "general"
-  },
-  {
-    "title": "Docker for Beginners: A Complete Practical Guide",
-    "desc": "<h1>\n  \n  \n  Docker for Beginners: A Complete Practical Guide\n</h1>\n\n<p><em>Generated: 2026-04-29 00:30 | Model: template</em></p>\n\n\n\n\n<h1>\n",
-    "link": "https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-2bd0",
-    "topic": "docker"
-  },
-  {
-    "title": "Preparing financial records for tax reporting without last-minute panic.",
-    "desc": "<p>Tax season is stressful when records are scattered. One-click data exports make sharing reports with accountants painless.</p>\n\n<p>SME Sm",
-    "link": "https://dev.to/sakeekhan/preparing-financial-records-for-tax-reporting-without-last-minute-panic-24fh",
-    "topic": "general"
-  },
-  {
-    "title": "Connecting UAE and China: Where Investment, Technology and Global Networks Converge",
-    "desc": "<p>Digital transformation has changed how companies communicate, transact and scale internationally.</p>\n\n<p>But technology alone does not c",
-    "link": "https://dev.to/myneogroup/connecting-uae-and-china-where-investment-technology-and-global-networks-converge-1kfe",
-    "topic": "general"
-  },
-  {
-    "title": "83 Security Solutions per Organization. What if Verification Required Zero?",
-    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n\n\n\n<p>Alan Shimel has been walking th",
-    "link": "https://dev.to/bala_paranj_059d338e44e7e/83-security-solutions-per-organization-what-if-verification-required-zero-4id0",
-    "topic": "secops"
   }
 ]
