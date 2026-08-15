@@ -1,50 +1,50 @@
 [
   {
+    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
+    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
+    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-2khh",
+    "topic": "general"
+  },
+  {
+    "title": "My checker scored one component compliant and another deviant. Neither had a rule behind it.",
+    "desc": "<p>This is a follow-up to <a href=\"https://dev.to/lizhuojunx86/my-routing-policy-and-my-traces-disagreed-96-times-never-once-on-the-main-thr",
+    "link": "https://dev.to/lizhuojunx86/my-checker-scored-one-component-compliant-and-another-deviant-neither-had-a-rule-behind-it-299a",
+    "topic": "general"
+  },
+  {
+    "title": "The refactor that made every validation build pass without validating anything",
+    "desc": "<p>Short one. A bug I introduced, caught by reading the diff rather than by any<br />\ntest, and the reason no test could have caught it.</p>",
+    "link": "https://dev.to/vedaforge_eng/the-refactor-that-made-every-validation-build-pass-without-validating-anything-50gd",
+    "topic": "general"
+  },
+  {
+    "title": "Your Fabric deployment failed and it is probably not your code",
+    "desc": "<p>I wrote a deployment script for Microsoft Fabric. It is a thin wrapper around<br />\nthe <code>fabric-cicd</code> library. Maybe 150 lines",
+    "link": "https://dev.to/vedaforge_eng/your-fabric-deployment-failed-and-it-is-probably-not-your-code-1hi2",
+    "topic": "general"
+  },
+  {
+    "title": "Flexible PCB Assembly and Reliability: A Complete Guide to Component Integration, Testing, Failure Analysis, and Long-Term Performance",
+    "desc": "<p>Introduction</p>\n\n<p>Flexible printed circuit boards have become an essential technology in modern electronics. Their ability to bend, fo",
+    "link": "https://dev.to/pcb_manufacturer/flexible-pcb-assembly-and-reliability-a-complete-guide-to-component-integration-testing-failure-37jh",
+    "topic": "general"
+  },
+  {
+    "title": "The DevOps Course That Actually Gets You Hired in 2026: A Practitioner's Comparison",
+    "desc": "<blockquote>\n<p>\ud83d\udccc <strong>This article was originally published on <a href=\"https://elearning.sherdil.org/pages/devops-course-pakistan-hirin",
+    "link": "https://dev.to/elearning_sherdil_783bbb/the-devops-course-that-actually-gets-you-hired-in-2026-a-practitioners-comparison-1cic",
+    "topic": "general"
+  },
+  {
+    "title": "Three Silent Failures in Two Weeks: What My Agent Pipeline Never Told Me",
+    "desc": "<h2>\n  \n  \n  One person, one pipeline, no ops team\n</h2>\n\n<p>I run a small digital-products business where an agent pipeline does most of th",
+    "link": "https://dev.to/robswierk/three-silent-failures-in-two-weeks-what-my-agent-pipeline-never-told-me-443m",
+    "topic": "general"
+  },
+  {
     "title": "Judge an AI-Generated Health Check by the Failures It Catches",
     "desc": "<p>You should judge an AI-generated health check by the failures it catches, not by how much it reads like a page from an SRE runbook. A scr",
     "link": "https://dev.to/codepy_1473/judge-an-ai-generated-health-check-by-the-failures-it-catches-3mnf",
-    "topic": "general"
-  },
-  {
-    "title": "Scaling Your App: The Matrix of Horizontal vs Vertical",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night our API started choking under a sudden traffic spik",
-    "link": "https://dev.to/timevolt/scaling-your-app-the-matrix-of-horizontal-vs-vertical-551i",
-    "topic": "general"
-  },
-  {
-    "title": "Free Server, Untrusted Model: Diff the Filesystem Before You Trust the Exit Code",
-    "desc": "<p>Exit code 0 is not a clean run. It is only the last number the process printed.</p>\n\n<h2>\n  \n  \n  The failure mode\n</h2>\n\n<p>A model-gene",
-    "link": "https://dev.to/hackrs_6393/free-server-untrusted-model-diff-the-filesystem-before-you-trust-the-exit-code-5ao2",
-    "topic": "general"
-  },
-  {
-    "title": "A Known-Answer Canary Is the Safety Rail for Free Model Endpoints",
-    "desc": "<p>Liquid syntax error: Unknown tag 'endraw'</p>",
-    "link": "https://dev.to/datacpp_8185/a-known-answer-canary-is-the-safety-rail-for-free-model-endpoints-4d4c",
-    "topic": "general"
-  },
-  {
-    "title": "Master deepseek-harness in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that over 70% of developers are now using AI-generated code, but many are still struggling ",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-59mg",
-    "topic": "general"
-  },
-  {
-    "title": "ever-better: 13 commands that make a codebase only able to get better",
-    "desc": "<p>Adding a strict linter to an existing repository produces four thousand errors and gets reverted. The usual workaround \u2014 set everything t",
-    "link": "https://dev.to/isamu/ever-better-13-commands-that-make-a-codebase-only-able-to-get-better-35d0",
-    "topic": "general"
-  },
-  {
-    "title": "AI Agent Swarm Deployment: Addressing, Discovery, and Trust Between Members",
-    "desc": "<p>Your swarm deploys cleanly. The orchestrator spins up ten agents, assigns them roles, wires the prompt pipeline. Then the first real run ",
-    "link": "https://dev.to/pstayet/ai-agent-swarm-deployment-addressing-discovery-and-trust-between-members-4218",
-    "topic": "general"
-  },
-  {
-    "title": "How to provide shared file storage for company offices",
-    "desc": "<p>In this article, we will share the process of providing shared file storage for company offices dispersed in different locations to ease ",
-    "link": "https://dev.to/enoghasejeremiah/how-to-provide-shared-file-storage-for-company-offices-lpj",
     "topic": "general"
   }
 ]
