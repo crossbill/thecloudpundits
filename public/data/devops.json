@@ -1,50 +1,50 @@
 [
   {
+    "title": "Still stuck choosing the right AI program?",
+    "desc": "<p>If you are<a href=\"https://dev.tourl\"></a> trying to level up into AI Ops but feel torn between cost, time, and real job outcomes, you ar",
+    "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-stuck-choosing-the-right-ai-program-e23",
+    "topic": "general"
+  },
+  {
+    "title": "Day 14: AWS Compute \u2014 Managed & Serverless",
+    "desc": "<p>We started the compute layer on Day 13 with EC2, ELB, and Auto Scaling \u2014 where you launch and manage everything yourself. Today we move o",
+    "link": "https://dev.to/sr-palatasingh/day-14-aws-compute-managed-serverless-4foi",
+    "topic": "aws"
+  },
+  {
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually integrating AI-generated code into my workflow, only to realize that",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-2708",
+    "topic": "general"
+  },
+  {
+    "title": "Build a System Monitor Dashboard with Python",
+    "desc": "<h1>\n  \n  \n  Build a System Monitor Dashboard with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tutorial</p>\n\n\n\n\n<p>tags: python, devo",
+    "link": "https://dev.to/qingluan/build-a-system-monitor-dashboard-with-python-221l",
+    "topic": "general"
+  },
+  {
+    "title": "Container Image Signing & SLSA Provenance Verification with Sigstore Cosign",
+    "desc": "<h1>\n  \n  \n  Container Image Signing & SLSA Provenance Verification with Sigstore Cosign\n</h1>\n\n<blockquote>\n<p>Supply chain security guide ",
+    "link": "https://dev.to/aomiqaza/container-image-signing-slsa-provenance-verification-with-sigstore-cosign-56ce",
+    "topic": "docker"
+  },
+  {
+    "title": "Eliminating Password Sharing: A Guide to Secure Social Media Management with OAuth 2.0",
+    "desc": "<p>In the early days of social media management, teams often relied on shared credentials\u2014a single username and password passed around via s",
+    "link": "https://dev.to/mediacreator/eliminating-password-sharing-a-guide-to-secure-social-media-management-with-oauth-20-12dc",
+    "topic": "general"
+  },
+  {
+    "title": "How to Create Custom ViciDial Reports with SQL Queries",
+    "desc": "<h1>\n  \n  \n  How to Create Custom ViciDial Reports with SQL Queries\n</h1>\n\n<p><strong>Master the art of building production-grade custom rep",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-create-custom-vicidial-reports-with-sql-queries-5hm5",
+    "topic": "general"
+  },
+  {
     "title": "Defining Credential Hygiene for WhatsApp Registration Status API Integrations",
     "desc": "<p>In high-volume B2B lead qualification pipelines, the security of your integration layer is as critical as the data itself. When building ",
     "link": "https://dev.to/walookup/defining-credential-hygiene-for-whatsapp-registration-status-api-integrations-3614",
     "topic": "general"
-  },
-  {
-    "title": "What Did That Free-Model Setup Script Actually Do? Audit It With Honeypot Files and Syscall Traces",
-    "desc": "<p>Here is why this article is worth your time: you cannot tell what a generated setup script does by reading the diff. A diff shows you the",
-    "link": "https://dev.to/github_7727/what-did-that-free-model-setup-script-actually-do-audit-it-with-honeypot-files-and-syscall-traces-4eg1",
-    "topic": "general"
-  },
-  {
-    "title": "VMware to Proxmox Migration: The Technical Checklist Before the First VM",
-    "desc": "<p>The first step in a VMware-to-Proxmox migration should not be qemu-img convert.</p>\n\n<p>It should be an inventory.</p>\n\n<p>Before touchin",
-    "link": "https://dev.to/sistro_networks/vmware-to-proxmox-migration-the-technical-checklist-before-the-first-vm-e4f",
-    "topic": "general"
-  },
-  {
-    "title": "How do I know my build actually contains the code I just changed?",
-    "desc": "<p>I rebuilt the same commit and got a different image. That is still the part I can't explain.</p>\n\n<p>The first build was tagged from curr",
-    "link": "https://dev.to/yotta-fish/how-do-i-know-my-build-actually-contains-the-code-i-just-changed-2olc",
-    "topic": "general"
-  },
-  {
-    "title": "OpsMate vs Datadog: Why Solo Developers Don't Need Enterprise Overkill",
-    "desc": "<p>Datadog is the undisputed heavyweight champion of monitoring, but it's also a heavyweight in price, complexity, and time commitment. For ",
-    "link": "https://dev.to/yanlong_wang/opsmate-vs-datadog-why-solo-developers-dont-need-enterprise-overkill-30gb",
-    "topic": "general"
-  },
-  {
-    "title": "Top Ten Technology Trends for 2026",
-    "desc": "<p>Observing technology trends through the lens of analysts, research organizations, thought leaders, and personal research creates awarenes",
-    "link": "https://dev.to/ankurkumarz/top-ten-technology-trends-for-2026-524",
-    "topic": "general"
-  },
-  {
-    "title": "Chaos Engineering Is Theater Without These Three Things",
-    "desc": "<p>Chaos engineering has a credibility problem. Half the teams that adopt it are doing it because it's fashionable, not because it makes the",
-    "link": "https://dev.to/samson_tanimawo/chaos-engineering-is-theater-without-these-three-things-2ebm",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Kubernetes Upgrade Readiness Agent: Deprecated APIs, Add-on Checks, and a Migration PR",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-15-kubernetes-upgrade-readiness-ai-agent\" rel=",
-    "link": "https://dev.to/devtocash/build-a-kubernetes-upgrade-readiness-agent-deprecated-apis-add-on-checks-and-a-migration-pr-47lh",
-    "topic": "kubernetes"
   }
 ]
