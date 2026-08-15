@@ -1,5 +1,23 @@
 [
   {
+    "title": "Taming Kafka Lag Spikes with KEDA Scale-to-Zero",
+    "desc": "<p><em>How we turned always-on Kafka sinks into on-demand workers that shrug off nightly bombardments \u2014 by scaling on the right signal, tuni",
+    "link": "https://dev.to/iamajeeth/taming-kafka-lag-spikes-with-keda-scale-to-zero-epa",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes: alertas utiles para CronJobs",
+    "desc": "<p>Los CronJobs de Kubernetes suelen fallar de maneras bastante poco dramaticas: una imagen no existe, un secreto expiro, un endpoint extern",
+    "link": "https://dev.to/alexcarteruk/kubernetes-alertas-utiles-para-cronjobs-1dfc",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Mastering GitHub Security Campaigns: Scaling Remediation Across Hundreds of Repositories",
+    "desc": "<p>Mastering Git Hub Security Campaigns Scaling Remediation Across Hundreds of Repositories<br />\nBack to blog<br />\nWhat Is a GitHub Securi",
+    "link": "https://dev.to/instasla/mastering-github-security-campaigns-scaling-remediation-across-hundreds-of-repositories-5eop",
+    "topic": "secops"
+  },
+  {
     "title": "DeepSeek V4 Flash on 50 Real Pull Requests: Two Harnesses, One Ceiling",
     "desc": "<p>Two harnesses. Same model. Two tasks apart.</p>\n\n<p>We ran deepseek-v4-flash through octomind and opencode on 50 real-PR tasks \u2014 same mod",
     "link": "https://dev.to/donk8r/deepseek-v4-flash-on-50-real-pull-requests-two-harnesses-one-ceiling-38be",
@@ -19,7 +37,7 @@
   },
   {
     "title": "Software Updates Are a Security Trap \u2014 Here's the Framework Designed to Fix That",
-    "desc": "<h2>\n  \n  \n  The Attacks That Actually Happened\n</h2>\n\n<p>Before looking at any solution, it's worth establishing that this threat isn't the",
+    "desc": "<p>You probably updated your phone or laptop this week. You clicked install without thinking twice. And if you're a developer, your tools up",
     "link": "https://dev.to/bladeharper_ec7070d6e28be/software-updates-are-a-security-trap-heres-the-framework-designed-to-fix-that-2n79",
     "topic": "secops"
   },
@@ -27,24 +45,6 @@
     "title": "Your pipeline deleted its own alarm (two greps to check)",
     "desc": "<p><em>Silent failures</em></p>\n\n<p>Your daily report stopped arriving two days ago. Nobody noticed, because a message that does not arrive ",
     "link": "https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m",
-    "topic": "general"
-  },
-  {
-    "title": "Daily Dose of DevOps \u2014 GitHub Actions basics for DevOps",
-    "desc": "<h1>\n  \n  \n  GitHub Actions Basics for DevOps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>GitHub Actions is a powerful CI/CD platform that in",
-    "link": "https://dev.to/marco13moo/daily-dose-of-devops-github-actions-basics-for-devops-1h5j",
-    "topic": "general"
-  },
-  {
-    "title": "Python Functions, Arguments & Scope: The Details That Start to Matter",
-    "desc": "<p>Python's function syntax looks simple until you start writing reusable libraries, decorators, callbacks, configurable utilities, or APIs.",
-    "link": "https://dev.to/heyabdullahbruh/python-functions-arguments-scope-the-details-that-start-to-matter-536j",
-    "topic": "general"
-  },
-  {
-    "title": "Treat Runbook Status as Cached Data",
-    "desc": "<p>The most dangerous runbook is not completely wrong. It is mostly right.</p>\n\n<p>Completely broken documentation earns suspicion. A mostly",
-    "link": "https://dev.to/iqtechsolutions/treat-runbook-status-as-cached-data-1ne7",
     "topic": "general"
   }
 ]
