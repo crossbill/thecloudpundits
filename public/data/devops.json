@@ -1,5 +1,35 @@
 [
   {
+    "title": "Your pipeline deleted its own alarm (two greps to check)",
+    "desc": "<p><em>Silent failures</em></p>\n\n<p>Your daily report stopped arriving two days ago. Nobody noticed, because a message that does not arrive ",
+    "link": "https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m",
+    "topic": "general"
+  },
+  {
+    "title": "Python Functions, Arguments & Scope: The Details That Start to Matter",
+    "desc": "<p>Python's function syntax looks simple until you start writing reusable libraries, decorators, callbacks, configurable utilities, or APIs.",
+    "link": "https://dev.to/heyabdullahbruh/python-functions-arguments-scope-the-details-that-start-to-matter-536j",
+    "topic": "general"
+  },
+  {
+    "title": "Treat Runbook Status as Cached Data",
+    "desc": "<p>The most dangerous runbook is not completely wrong. It is mostly right.</p>\n\n<p>Completely broken documentation earns suspicion. A mostly",
+    "link": "https://dev.to/iqtechsolutions/treat-runbook-status-as-cached-data-1ne7",
+    "topic": "general"
+  },
+  {
+    "title": "S3 Lifecycle Policy Mistakes That Quietly Inflate Your AWS Bill",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/15/s3-lifecycle-policy-mistakes-that-quietly-inflate-your-aws-bill\" r",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/s3-lifecycle-policy-mistakes-that-quietly-inflate-your-aws-bill-2mjg",
+    "topic": "aws"
+  },
+  {
+    "title": "Build a Read-Only Android Package Registration Gate",
+    "desc": "<p>An Android registration gate should answer two different questions in sequence: \u201cIs this package name registered to any verified develope",
+    "link": "https://dev.to/kun_shen_eedb57cc827955f5/build-a-read-only-android-package-registration-gate-58da",
+    "topic": "general"
+  },
+  {
     "title": "Free Servers Should Never See Your Real Credentials",
     "desc": "<p>Cheap generated code is still untrusted code. Run it on a free server with no real credentials before you spend review time arguing about",
     "link": "https://dev.to/hackrs_6393/free-servers-should-never-see-your-real-credentials-42c7",
@@ -12,39 +42,9 @@
     "topic": "general"
   },
   {
-    "title": "Kubernetes Networking [Level-0: Linux Networking Basics for Kubernetes]",
-    "desc": "<p>If you've ever opened a Kubernetes networking doc and seen words like <strong>CNI</strong>, <strong>veth</strong>, <strong>network namesp",
-    "link": "https://dev.to/iadiraj/kubernetes-networking-level-0-linux-networking-basics-for-kubernetes-3429",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Kubernetes Networking [Level-1: Pod Networking]",
-    "desc": "<p>This is <strong>Level 1</strong> of our Kubernetes networking series. In Level 0, we built a foundation of core Linux networking concepts",
-    "link": "https://dev.to/iadiraj/kubernetes-networking-level-1-pod-networking-3agp",
-    "topic": "kubernetes"
-  },
-  {
     "title": "How to Set Up Amazon Lightsail Server with ServerAvatar",
     "desc": "<p>If you have been poking around AWS to host a website or web application, you\u2019ve probably heard of Amazon Lightsail. An Amazon Lightsail S",
     "link": "https://dev.to/serveravatar/how-to-set-up-amazon-lightsail-server-with-serveravatar-2pk8",
-    "topic": "general"
-  },
-  {
-    "title": "Dry-Run AI-Generated Shell Commands in a No-Network Sandbox Before They Touch a Real Host",
-    "desc": "<p><strong>Why this is worth reading:</strong> a generated <code>curl | bash</code> style command that passes a quick syntax check can still",
-    "link": "https://dev.to/github_7727/dry-run-ai-generated-shell-commands-in-a-no-network-sandbox-before-they-touch-a-real-host-2apo",
-    "topic": "general"
-  },
-  {
-    "title": "Why AI-Built Software Needs an Accountability Apparatus",
-    "desc": "<p><strong>When you hire an architect, you don\u2019t rely on them being good. You rely on licensure, liability insurance, building codes, and in",
-    "link": "https://dev.to/anthonygarces/why-ai-built-software-needs-an-accountability-apparatus-1m03",
-    "topic": "general"
-  },
-  {
-    "title": "How Ranex Judges AI-Written Code: The Kernel, Explained",
-    "desc": "<p><strong>Your agent reports \u201cdone \u2014 all tests pass.\u201d Do you believe it?</strong></p>\n\n<p>Nothing in that sentence is evidence, and the cos",
-    "link": "https://dev.to/anthonygarces/how-ranex-judges-ai-written-code-the-kernel-explained-3d8",
     "topic": "general"
   }
 ]
