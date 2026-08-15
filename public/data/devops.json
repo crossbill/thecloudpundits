@@ -1,8 +1,38 @@
 [
   {
+    "title": "DeepSeek V4 Flash on 50 Real Pull Requests: Two Harnesses, One Ceiling",
+    "desc": "<p>Two harnesses. Same model. Two tasks apart.</p>\n\n<p>We ran deepseek-v4-flash through octomind and opencode on 50 real-PR tasks \u2014 same mod",
+    "link": "https://dev.to/donk8r/deepseek-v4-flash-on-50-real-pull-requests-two-harnesses-one-ceiling-38be",
+    "topic": "general"
+  },
+  {
+    "title": "Configuring Nginx Reverse Proxy with Certbot SSL",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
+    "link": "https://dev.to/chasebot/configuring-nginx-reverse-proxy-with-certbot-ssl-2d5c",
+    "topic": "general"
+  },
+  {
+    "title": "100 Days of DevOps and Cloud (AWS), Day 27: Undo Isn't a Switch, and Neither Is Public",
+    "desc": "<p>Two of the most common requests in this job are \"undo that\" and \"make it public.\" Both sound like a single action. Neither one is. Day 27",
+    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-27-undo-isnt-a-switch-and-neither-is-public-1b7l",
+    "topic": "aws"
+  },
+  {
+    "title": "Software Updates Are a Security Trap \u2014 Here's the Framework Designed to Fix That",
+    "desc": "<h2>\n  \n  \n  The Attacks That Actually Happened\n</h2>\n\n<p>Before looking at any solution, it's worth establishing that this threat isn't the",
+    "link": "https://dev.to/bladeharper_ec7070d6e28be/software-updates-are-a-security-trap-heres-the-framework-designed-to-fix-that-2n79",
+    "topic": "secops"
+  },
+  {
     "title": "Your pipeline deleted its own alarm (two greps to check)",
     "desc": "<p><em>Silent failures</em></p>\n\n<p>Your daily report stopped arriving two days ago. Nobody noticed, because a message that does not arrive ",
     "link": "https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m",
+    "topic": "general"
+  },
+  {
+    "title": "Daily Dose of DevOps \u2014 GitHub Actions basics for DevOps",
+    "desc": "<h1>\n  \n  \n  GitHub Actions Basics for DevOps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>GitHub Actions is a powerful CI/CD platform that in",
+    "link": "https://dev.to/marco13moo/daily-dose-of-devops-github-actions-basics-for-devops-1h5j",
     "topic": "general"
   },
   {
@@ -15,36 +45,6 @@
     "title": "Treat Runbook Status as Cached Data",
     "desc": "<p>The most dangerous runbook is not completely wrong. It is mostly right.</p>\n\n<p>Completely broken documentation earns suspicion. A mostly",
     "link": "https://dev.to/iqtechsolutions/treat-runbook-status-as-cached-data-1ne7",
-    "topic": "general"
-  },
-  {
-    "title": "S3 Lifecycle Policy Mistakes That Quietly Inflate Your AWS Bill",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/15/s3-lifecycle-policy-mistakes-that-quietly-inflate-your-aws-bill\" r",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/s3-lifecycle-policy-mistakes-that-quietly-inflate-your-aws-bill-2mjg",
-    "topic": "aws"
-  },
-  {
-    "title": "Build a Read-Only Android Package Registration Gate",
-    "desc": "<p>An Android registration gate should answer two different questions in sequence: \u201cIs this package name registered to any verified develope",
-    "link": "https://dev.to/kun_shen_eedb57cc827955f5/build-a-read-only-android-package-registration-gate-58da",
-    "topic": "general"
-  },
-  {
-    "title": "Free Servers Should Never See Your Real Credentials",
-    "desc": "<p>Cheap generated code is still untrusted code. Run it on a free server with no real credentials before you spend review time arguing about",
-    "link": "https://dev.to/hackrs_6393/free-servers-should-never-see-your-real-credentials-42c7",
-    "topic": "general"
-  },
-  {
-    "title": "A Free Server Caught the GUI Fallback a Model Buried in a CLI",
-    "desc": "<p>A small team shipped a CSV validation service. It passed on a workstation. It died three seconds after starting on a free server.</p>\n\n<p",
-    "link": "https://dev.to/datacpp_8185/a-free-server-caught-the-gui-fallback-a-model-buried-in-a-cli-70e",
-    "topic": "general"
-  },
-  {
-    "title": "How to Set Up Amazon Lightsail Server with ServerAvatar",
-    "desc": "<p>If you have been poking around AWS to host a website or web application, you\u2019ve probably heard of Amazon Lightsail. An Amazon Lightsail S",
-    "link": "https://dev.to/serveravatar/how-to-set-up-amazon-lightsail-server-with-serveravatar-2pk8",
     "topic": "general"
   }
 ]
