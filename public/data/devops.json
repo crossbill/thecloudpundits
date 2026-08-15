@@ -1,5 +1,23 @@
 [
   {
+    "title": "Stop Saturating One CPU Core: Practical RSS, RPS, RFS, and XPS Packet Steering on Linux",
+    "desc": "<h1>\n  \n  \n  Stop Saturating One CPU Core: Practical RSS, RPS, RFS, and XPS Packet Steering on Linux\n</h1>\n\n<p>You upgraded the NIC. Through",
+    "link": "https://dev.to/lyraalishaikh/stop-saturating-one-cpu-core-practical-rss-rps-rfs-and-xps-packet-steering-on-linux-mij",
+    "topic": "general"
+  },
+  {
+    "title": "AI Agent Architecture Patterns That Actually Survive Production",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Production agents work because their autonomy is contained, not because it is unlimited. Put agentic",
+    "link": "https://dev.to/numb_code_07/ai-agent-architecture-patterns-that-actually-survive-production-15a5",
+    "topic": "general"
+  },
+  {
+    "title": "Still stuck choosing the right AI program?",
+    "desc": "<p>If you are trying to level up into AI Ops but feel torn between cost, time, and real job outcomes, you are not alone. Many learners start",
+    "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-stuck-choosing-the-right-ai-program-fa3",
+    "topic": "general"
+  },
+  {
     "title": "Still stuck choosing the right AI program?",
     "desc": "<p>If you are<a href=\"https://dev.tourl\"></a> trying to level up into AI Ops but feel torn between cost, time, and real job outcomes, you ar",
     "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-stuck-choosing-the-right-ai-program-e23",
@@ -28,23 +46,5 @@
     "desc": "<h1>\n  \n  \n  Container Image Signing & SLSA Provenance Verification with Sigstore Cosign\n</h1>\n\n<blockquote>\n<p>Supply chain security guide ",
     "link": "https://dev.to/aomiqaza/container-image-signing-slsa-provenance-verification-with-sigstore-cosign-56ce",
     "topic": "docker"
-  },
-  {
-    "title": "Eliminating Password Sharing: A Guide to Secure Social Media Management with OAuth 2.0",
-    "desc": "<p>In the early days of social media management, teams often relied on shared credentials\u2014a single username and password passed around via s",
-    "link": "https://dev.to/mediacreator/eliminating-password-sharing-a-guide-to-secure-social-media-management-with-oauth-20-12dc",
-    "topic": "general"
-  },
-  {
-    "title": "How to Create Custom ViciDial Reports with SQL Queries",
-    "desc": "<h1>\n  \n  \n  How to Create Custom ViciDial Reports with SQL Queries\n</h1>\n\n<p><strong>Master the art of building production-grade custom rep",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-create-custom-vicidial-reports-with-sql-queries-5hm5",
-    "topic": "general"
-  },
-  {
-    "title": "Defining Credential Hygiene for WhatsApp Registration Status API Integrations",
-    "desc": "<p>In high-volume B2B lead qualification pipelines, the security of your integration layer is as critical as the data itself. When building ",
-    "link": "https://dev.to/walookup/defining-credential-hygiene-for-whatsapp-registration-status-api-integrations-3614",
-    "topic": "general"
   }
 ]
