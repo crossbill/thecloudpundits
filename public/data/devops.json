@@ -1,50 +1,50 @@
 [
   {
-    "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
-    "desc": "<p>We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us.</p>\n\n<h2>\n  \n  \n  Less",
-    "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-2khh",
+    "title": "Why Your Postgres Migration Locked the Whole Table (and the Pattern That Doesn't)",
+    "desc": "<p>The ALTER TABLE itself is usually not slow \u2014 the outage comes from Postgres queueing every other query behind the lock it is waiting for.",
+    "link": "https://dev.to/libme/why-your-postgres-migration-locked-the-whole-table-and-the-pattern-that-doesnt-38k4",
     "topic": "general"
   },
   {
-    "title": "My checker scored one component compliant and another deviant. Neither had a rule behind it.",
-    "desc": "<p>This is a follow-up to <a href=\"https://dev.to/lizhuojunx86/my-routing-policy-and-my-traces-disagreed-96-times-never-once-on-the-main-thr",
-    "link": "https://dev.to/lizhuojunx86/my-checker-scored-one-component-compliant-and-another-deviant-neither-had-a-rule-behind-it-299a",
+    "title": "My AI Agent Tried to Delete Every Customer Record. Here's What Stopped It.",
+    "desc": "<p>Last Tuesday, 2:47 AM.</p>\n\n<p>I was asleep. My AI coding agent was not. It had been running autonomously for hours, working through a ba",
+    "link": "https://dev.to/frederikvonderheyden/my-ai-agent-tried-to-delete-every-customer-record-heres-what-stopped-it-39ip",
     "topic": "general"
   },
   {
-    "title": "The refactor that made every validation build pass without validating anything",
-    "desc": "<p>Short one. A bug I introduced, caught by reading the diff rather than by any<br />\ntest, and the reason no test could have caught it.</p>",
-    "link": "https://dev.to/vedaforge_eng/the-refactor-that-made-every-validation-build-pass-without-validating-anything-50gd",
+    "title": "How Alibaba Cloud CDN Accelerates Your Global Applications",
+    "desc": "<h1>\n  \n  \n  How Alibaba Cloud CDN Accelerates Your Global Applications\n</h1>\n\n<p>If your users are in Asia, <strong>Alibaba Cloud CDN</stro",
+    "link": "https://dev.to/fan_li_ee7d84c6203253d041/how-alibaba-cloud-cdn-accelerates-your-global-applications-nmp",
     "topic": "general"
   },
   {
-    "title": "Your Fabric deployment failed and it is probably not your code",
-    "desc": "<p>I wrote a deployment script for Microsoft Fabric. It is a thin wrapper around<br />\nthe <code>fabric-cicd</code> library. Maybe 150 lines",
-    "link": "https://dev.to/vedaforge_eng/your-fabric-deployment-failed-and-it-is-probably-not-your-code-1hi2",
+    "title": "KRISHI MITRA AI",
+    "desc": "<h1>\n  \n  \n  \ud83c\udf3e KrishiMitra AI: Building a Voice AI Assistant for Smarter Farming\n</h1>\n\n<blockquote>\n<p>From a simple voice assistant to a m",
+    "link": "https://dev.to/shreya_patel_02/krishi-mitra-ai-j74",
     "topic": "general"
   },
   {
-    "title": "Flexible PCB Assembly and Reliability: A Complete Guide to Component Integration, Testing, Failure Analysis, and Long-Term Performance",
-    "desc": "<p>Introduction</p>\n\n<p>Flexible printed circuit boards have become an essential technology in modern electronics. Their ability to bend, fo",
-    "link": "https://dev.to/pcb_manufacturer/flexible-pcb-assembly-and-reliability-a-complete-guide-to-component-integration-testing-failure-37jh",
+    "title": "Docker for Beginners: A Complete Practical Guide",
+    "desc": "<h1>\n  \n  \n  Docker for Beginners: A Complete Practical Guide\n</h1>\n\n<p><em>Generated: 2026-04-29 00:30 | Model: template</em></p>\n\n\n\n\n<h1>\n",
+    "link": "https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-2bd0",
+    "topic": "docker"
+  },
+  {
+    "title": "Preparing financial records for tax reporting without last-minute panic.",
+    "desc": "<p>Tax season is stressful when records are scattered. One-click data exports make sharing reports with accountants painless.</p>\n\n<p>SME Sm",
+    "link": "https://dev.to/sakeekhan/preparing-financial-records-for-tax-reporting-without-last-minute-panic-24fh",
     "topic": "general"
   },
   {
-    "title": "The DevOps Course That Actually Gets You Hired in 2026: A Practitioner's Comparison",
-    "desc": "<blockquote>\n<p>\ud83d\udccc <strong>This article was originally published on <a href=\"https://elearning.sherdil.org/pages/devops-course-pakistan-hirin",
-    "link": "https://dev.to/elearning_sherdil_783bbb/the-devops-course-that-actually-gets-you-hired-in-2026-a-practitioners-comparison-1cic",
+    "title": "Connecting UAE and China: Where Investment, Technology and Global Networks Converge",
+    "desc": "<p>Digital transformation has changed how companies communicate, transact and scale internationally.</p>\n\n<p>But technology alone does not c",
+    "link": "https://dev.to/myneogroup/connecting-uae-and-china-where-investment-technology-and-global-networks-converge-1kfe",
     "topic": "general"
   },
   {
-    "title": "Three Silent Failures in Two Weeks: What My Agent Pipeline Never Told Me",
-    "desc": "<h2>\n  \n  \n  One person, one pipeline, no ops team\n</h2>\n\n<p>I run a small digital-products business where an agent pipeline does most of th",
-    "link": "https://dev.to/robswierk/three-silent-failures-in-two-weeks-what-my-agent-pipeline-never-told-me-443m",
-    "topic": "general"
-  },
-  {
-    "title": "Judge an AI-Generated Health Check by the Failures It Catches",
-    "desc": "<p>You should judge an AI-generated health check by the failures it catches, not by how much it reads like a page from an SRE runbook. A scr",
-    "link": "https://dev.to/codepy_1473/judge-an-ai-generated-health-check-by-the-failures-it-catches-3mnf",
-    "topic": "general"
+    "title": "83 Security Solutions per Organization. What if Verification Required Zero?",
+    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n\n\n\n<p>Alan Shimel has been walking th",
+    "link": "https://dev.to/bala_paranj_059d338e44e7e/83-security-solutions-per-organization-what-if-verification-required-zero-4id0",
+    "topic": "secops"
   }
 ]
