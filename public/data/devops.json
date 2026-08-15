@@ -1,5 +1,23 @@
 [
   {
+    "title": "Turn a Free Token Quota Into a Rejection Rate Before You Merge the Route",
+    "desc": "<p>30 million free tokens sounds like capacity. The number that actually changes your architecture is how many of those tokens you can pull ",
+    "link": "https://dev.to/kongkong1/turn-a-free-token-quota-into-a-rejection-rate-before-you-merge-the-route-5a66",
+    "topic": "general"
+  },
+  {
+    "title": "Google Indexed 1 of Our 43 Pages. DuckDuckGo Sent More Visitors.",
+    "desc": "<p>Search Console has 43 of our URLs on record. 1 is indexed. Meanwhile DuckDuckGo has sent 38 visits to Google's 10.</p>\n\n<p>Almost every a",
+    "link": "https://dev.to/kimcomplete/google-indexed-1-of-our-43-pages-duckduckgo-sent-more-visitors-277",
+    "topic": "general"
+  },
+  {
+    "title": "A Contract Probe for Free Model Endpoints That Drift",
+    "desc": "<p>A model endpoint is stable only if you keep checking the JSON contract, not the output's tone.</p>\n\n<h2>\n  \n  \n  The problem\n</h2>\n\n<p>A ",
+    "link": "https://dev.to/hackrs_6393/a-contract-probe-for-free-model-endpoints-that-drift-38j",
+    "topic": "general"
+  },
+  {
     "title": "Free Tier Traps: How Hobby Plans Are Designed and When They Flip to Paid",
     "desc": "<p>A free tier is a marketing budget with a shutoff valve, and the valve is placed on whatever metric grows when your project starts working",
     "link": "https://dev.to/libme/free-tier-traps-how-hobby-plans-are-designed-and-when-they-flip-to-paid-450e",
@@ -28,23 +46,5 @@
     "desc": "<p>Docker Compose made your dev database reproducible, one command bringing up the same Postgres for the whole team, down to the version and",
     "link": "https://dev.to/mikh-shytsko/one-docker-compose-up-one-seeded-postgres-14jh",
     "topic": "docker"
-  },
-  {
-    "title": "The Reality of Working as a DevOps Engineer in Cameroon",
-    "desc": "<p>Most \"how to become a DevOps engineer\" posts are written from places where electricity and internet<br />\nare background assumptions. Min",
-    "link": "https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l",
-    "topic": "general"
-  },
-  {
-    "title": "I thought OpenClaw was slow, but the real problem was the 5 seconds before the model ever ran",
-    "desc": "<p>I went looking for model-latency advice and found a much more useful debugging lesson.</p>\n\n<p>While digging through OpenClaw discussions",
-    "link": "https://dev.to/lars_winstand/i-thought-openclaw-was-slow-but-the-real-problem-was-the-5-seconds-before-the-model-ever-ran-5o0",
-    "topic": "general"
-  },
-  {
-    "title": "Master deepseek-harness in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours struggling to integrate AI-generated code into my project, only to realize th",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-1jin",
-    "topic": "general"
   }
 ]
