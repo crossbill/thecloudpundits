@@ -1,50 +1,50 @@
 [
   {
-    "title": "Build a Billing Reconciliation Harness for Chinese AI Model Routers",
-    "desc": "<h1>\n  \n  \n  Build a Billing Reconciliation Harness for Chinese AI Model Routers\n</h1>\n\n<p>Chinese AI APIs are moving fast enough that a sta",
-    "link": "https://dev.to/aiwave/build-a-billing-reconciliation-harness-for-chinese-ai-model-routers-4ce7",
+    "title": "Postgres Says \"Too Many Clients Already\": Diagnose It Before You Add a Pooler",
+    "desc": "<p><code>FATAL: sorry, too many clients already</code> almost never means your database is out of capacity. It means something in your stack",
+    "link": "https://dev.to/libme/postgres-says-too-many-clients-already-diagnose-it-before-you-add-a-pooler-5dbb",
     "topic": "general"
   },
   {
-    "title": "Load Testing With an Empty Database? Here's Your Problem",
-    "desc": "<p><em>You can polish the k6 scripts, tune every Gatling scenario, and arm the Locust swarm, but with only 47 rows in the database behind th",
-    "link": "https://dev.to/mikh-shytsko/load-testing-with-an-empty-database-heres-your-problem-54pb",
+    "title": "Flexible PCB Prototyping: A Complete Guide to Design Validation, Rapid Development, Material Selection, Testing, and Production Optimization",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/pcb_manufacturer/flexible-pcb-prototyping-a-complete-guide-to-design-validation-rapid-development-material-31c6",
     "topic": "general"
   },
   {
-    "title": "A Regression Gate for Free Model Endpoints",
-    "desc": "<p>The cheapest way to trust a free model endpoint is not to ask it more questions; it is to record what it returned when you last accepted ",
-    "link": "https://dev.to/codepy_1473/a-regression-gate-for-free-model-endpoints-con",
+    "title": "That 67-upvote OpenClaw thread wasn\u2019t really about the release",
+    "desc": "<p>A 67-upvote post on r/openclaw about the upcoming OpenClaw release looked like a normal progress update.</p>\n\n<p>It wasn\u2019t.</p>\n\n<p>The m",
+    "link": "https://dev.to/lars_winstand/that-67-upvote-openclaw-thread-wasnt-really-about-the-release-4p43",
     "topic": "general"
   },
   {
-    "title": "Your Agent Doesn't Need Labels. It Needs a World to Act On.",
-    "desc": "<p>Picture a team standing up an evaluation harness for a support agent \u2014 the kind that reads an inbox, opens the CRM, and works a queue of ",
-    "link": "https://dev.to/mikh-shytsko/your-agent-doesnt-need-labels-it-needs-a-world-to-act-on-5cc4",
+    "title": "The On-Call Schedule Math Nobody Does",
+    "desc": "<p>Most on-call schedules are designed in a slack thread, in 20 minutes, by whoever drew the short straw. Then the team lives with it for ye",
+    "link": "https://dev.to/samson_tanimawo/the-on-call-schedule-math-nobody-does-5h53",
     "topic": "general"
   },
   {
-    "title": "Drei Fehler, bevor es lief",
-    "desc": "<h1>\n  \n  \n  Mein KI-System hat 871 E-Mails verschickt. Ohne Freigabe. Was ich daraus gelernt habe.\n</h1>\n\n<p>Drei Wochen lief alles perfekt",
-    "link": "https://dev.to/frederikvonderheyden/drei-fehler-bevor-es-lief-5bme",
+    "title": "How to Choose a DevOps as a Service Provider: A 2026 Buyer's Checklist",
+    "desc": "<h2>\n  \n  \n  How to Choose a DevOps as a Service Provider: A 2026 Buyer's Checklist\n</h2>\n\n<p>Hiring a full-time DevOps engineer takes month",
+    "link": "https://dev.to/instadevops/how-to-choose-a-devops-as-a-service-provider-a-2026-buyers-checklist-2i7g",
     "topic": "general"
   },
   {
-    "title": "Why Your Postgres Migration Locked the Whole Table (and the Pattern That Doesn't)",
-    "desc": "<p>The ALTER TABLE itself is usually not slow \u2014 the outage comes from Postgres queueing every other query behind the lock it is waiting for.",
-    "link": "https://dev.to/libme/why-your-postgres-migration-locked-the-whole-table-and-the-pattern-that-doesnt-38k4",
+    "title": "AWS for DevOps Engineers: The Core Services You Actually Need",
+    "desc": "<p>A focused, interview-ready guide built for a developer moving into DevOps. Depth on the services that actually show up in DevOps work and",
+    "link": "https://dev.to/opscanopy/aws-for-devops-engineers-the-core-services-you-actually-need-59a5",
+    "topic": "aws"
+  },
+  {
+    "title": "Built a Tool to Turn Cloud Architecture Ideas Into Diagrams",
+    "desc": "<p>Ever had an idea for a cloud architecture but didn't want to spend 30 minutes dragging boxes around just to visualize it?</p>\n\n<p>That wa",
+    "link": "https://dev.to/akash_bbd00909785cede7143/built-a-tool-to-turn-cloud-architecture-ideas-into-diagrams-1lb0",
     "topic": "general"
   },
   {
-    "title": "My AI Agent Tried to Delete Every Customer Record. Here's What Stopped It.",
-    "desc": "<p>Last Tuesday, 2:47 AM.</p>\n\n<p>I was asleep. My AI coding agent was not. It had been running autonomously for hours, working through a ba",
-    "link": "https://dev.to/frederikvonderheyden/my-ai-agent-tried-to-delete-every-customer-record-heres-what-stopped-it-39ip",
-    "topic": "general"
-  },
-  {
-    "title": "How Alibaba Cloud CDN Accelerates Your Global Applications",
-    "desc": "<h1>\n  \n  \n  How Alibaba Cloud CDN Accelerates Your Global Applications\n</h1>\n\n<p>If your users are in Asia, <strong>Alibaba Cloud CDN</stro",
-    "link": "https://dev.to/fan_li_ee7d84c6203253d041/how-alibaba-cloud-cdn-accelerates-your-global-applications-nmp",
+    "title": "Pinning an agent harness is harder than pinning its package",
+    "desc": "<p>DeepSeek shipped its own agent harness this week. MIT, developer preview, and the architecture is the interesting part: everything in it ",
+    "link": "https://dev.to/zackchew/pinning-an-agent-harness-is-harder-than-pinning-its-package-nhd",
     "topic": "general"
   }
 ]
