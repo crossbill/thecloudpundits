@@ -1,50 +1,50 @@
 [
   {
-    "title": "Migrating Console Logging to Structured Observability & Adding Theme Support in CrmShellCondos (v2.0.0)",
-    "desc": "<h1>\n  \n  \n  Migrating Console Logging to Structured Observability & Adding Theme Support in CrmShellCondos (v2.0.0)\n</h1>\n\n<p><strong>TL;DR",
-    "link": "https://dev.to/zaerohell/migrating-console-logging-to-structured-observability-adding-theme-support-in-crmshellcondos-2lnh",
+    "title": "Docker Images Without the Bloat",
+    "desc": "<h2>\n  \n  \n  Why Size Matters\n</h2>\n\n<p>When I started with Docker, I treated images like VMs: install everything, run everything, ship it. ",
+    "link": "https://dev.to/cloudfrontier/docker-images-without-the-bloat-15jd",
+    "topic": "docker"
+  },
+  {
+    "title": "Kubernetes for Beginners: From Local to Production \u2013 May the Pods Be With You",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>I remember the first time I tried to take a weekend side\u2011project from my laptop to somet",
+    "link": "https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-may-the-pods-be-with-you-4i4n",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Linux Command Line Tricks Every Developer Must Know",
+    "desc": "<h1>\n  \n  \n  Linux Command Line Tricks Every Developer Must Know\n</h1>\n\n<p>tags: linux, terminal, productivity, devops</p>\n\n\n\n\n<p>tags: linu",
+    "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-2o4e",
     "topic": "general"
   },
   {
-    "title": "Rollback-Safe Pricing Rules with Simple API Flags and Percentage Targeting",
-    "desc": "<p>Short answer: use a server-side feature flag and a percentage rollout for the new pricing rule, but make rollback a single flag evaluatio",
-    "link": "https://dev.to/crimsonwave9361502/rollback-safe-pricing-rules-with-simple-api-flags-and-percentage-targeting-2g1d",
+    "title": "Resolve Pod Deployment Issue",
+    "desc": "<p>A junior DevOps team member encountered difficulties deploying a stack on the Kubernetes cluster. The pod fails to start, presenting erro",
+    "link": "https://dev.to/janak0ff/resolve-pod-deployment-issue-1c4i",
     "topic": "general"
   },
   {
-    "title": "Enterprise feature flag platforms for progressive delivery in 2026",
-    "desc": "<p>Enterprise buyers often receive a stale category summary: LaunchDarkly for enterprise, Unleash for self-hosting, and Harness for release ",
-    "link": "https://dev.to/agentanalytics/enterprise-feature-flag-platforms-for-progressive-delivery-in-2026-25gp",
+    "title": "Your drive says SMART PASSED and is already failing: the 5 attributes that actually predict it",
+    "desc": "<p>A drive that SMART calls <strong>PASSED</strong> can already be losing your data. The overall<br />\nself-assessment is a manufacturer thr",
+    "link": "https://dev.to/ricco020/your-drive-says-smart-passed-and-is-already-failing-the-5-attributes-that-actually-predict-it-6g",
     "topic": "general"
   },
   {
-    "title": "What Does a Production AI Transport Layer Need to Support? A Spec-Style Checklist",
-    "desc": "<p>You're putting agents into production. Orchestration is figured out, prompts are tuned, the eval suite passes. Then two agents on differe",
-    "link": "https://dev.to/pstayet/what-does-a-production-ai-transport-layer-need-to-support-a-spec-style-checklist-4la6",
+    "title": "Overlaying a design on a live page: four things that bit me",
+    "desc": "<p>I spent the last few weeks building a Chrome extension that puts a design frame on top of a running web page so you can see where the imp",
+    "link": "https://dev.to/ss2/overlaying-a-design-on-a-live-page-four-things-that-bit-me-5h10",
     "topic": "general"
   },
   {
-    "title": "Measuring the real concurrency ceiling of an LLM agent runner",
-    "desc": "<p>I wanted to raise the concurrency limits on my local AI agent runner. The UI now supports multiple terminal panes running in flight, and ",
-    "link": "https://dev.to/arti0/measuring-the-real-concurrency-ceiling-of-an-llm-agent-runner-53cb",
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours manually integrating AI-generated code into my TypeScript project, only to re",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-4496",
     "topic": "general"
   },
   {
-    "title": "Can your verify gate actually fail?",
-    "desc": "<p>I let Claude Code commit directly to my repositories. I don't review the diffs. I didn't think I needed to, because I built a determinist",
-    "link": "https://dev.to/arti0/can-your-verify-gate-actually-fail-3ib4",
-    "topic": "general"
-  },
-  {
-    "title": "Where the time actually goes in an AI coding-agent job",
-    "desc": "<p>I run an agent-orchestration platform: it takes a ticket, spins up a git worktree, lets a Claude Code agent build the feature, and runs a",
-    "link": "https://dev.to/arti0/where-the-time-actually-goes-in-an-ai-coding-agent-job-13ei",
-    "topic": "general"
-  },
-  {
-    "title": "Postgres Says \"Too Many Clients Already\": Diagnose It Before You Add a Pooler",
-    "desc": "<p><code>FATAL: sorry, too many clients already</code> almost never means your database is out of capacity. It means something in your stack",
-    "link": "https://dev.to/libme/postgres-says-too-many-clients-already-diagnose-it-before-you-add-a-pooler-5dbb",
-    "topic": "general"
+    "title": "Install CH-Ops in 10 Minutes: Docker, Binary, or Source",
+    "desc": "<p>Getting started with a new database operations tool shouldn't take hours of setup.</p>\n\n<p><strong>CH-Ops</strong> gives you three instal",
+    "link": "https://dev.to/kanishga_subramani_49ad73/install-ch-ops-in-10-minutes-docker-binary-or-source-56cj",
+    "topic": "docker"
   }
 ]
