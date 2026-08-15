@@ -1,5 +1,35 @@
 [
   {
+    "title": "How do I know my build actually contains the code I just changed?",
+    "desc": "<p>I rebuilt the same commit and got a different image. That is still the part I can't explain.</p>\n\n<p>The first build was tagged from curr",
+    "link": "https://dev.to/yotta-fish/how-do-i-know-my-build-actually-contains-the-code-i-just-changed-2olc",
+    "topic": "general"
+  },
+  {
+    "title": "OpsMate vs Datadog: Why Solo Developers Don't Need Enterprise Overkill",
+    "desc": "<p>Datadog is the undisputed heavyweight champion of monitoring, but it's also a heavyweight in price, complexity, and time commitment. For ",
+    "link": "https://dev.to/yanlong_wang/opsmate-vs-datadog-why-solo-developers-dont-need-enterprise-overkill-30gb",
+    "topic": "general"
+  },
+  {
+    "title": "Top Ten Technology Trends for 2026",
+    "desc": "<p>Observing technology trends through the lens of analysts, research organizations, thought leaders, and personal research creates awarenes",
+    "link": "https://dev.to/ankurkumarz/top-ten-technology-trends-for-2026-524",
+    "topic": "general"
+  },
+  {
+    "title": "Chaos Engineering Is Theater Without These Three Things",
+    "desc": "<p>Chaos engineering has a credibility problem. Half the teams that adopt it are doing it because it's fashionable, not because it makes the",
+    "link": "https://dev.to/samson_tanimawo/chaos-engineering-is-theater-without-these-three-things-2ebm",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Kubernetes Upgrade Readiness Agent: Deprecated APIs, Add-on Checks, and a Migration PR",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-15-kubernetes-upgrade-readiness-ai-agent\" rel=",
+    "link": "https://dev.to/devtocash/build-a-kubernetes-upgrade-readiness-agent-deprecated-apis-add-on-checks-and-a-migration-pr-47lh",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Turn a Free Token Quota Into a Rejection Rate Before You Merge the Route",
     "desc": "<p>30 million free tokens sounds like capacity. The number that actually changes your architecture is how many of those tokens you can pull ",
     "link": "https://dev.to/kongkong1/turn-a-free-token-quota-into-a-rejection-rate-before-you-merge-the-route-5a66",
@@ -16,35 +46,5 @@
     "desc": "<p>A model endpoint is stable only if you keep checking the JSON contract, not the output's tone.</p>\n\n<h2>\n  \n  \n  The problem\n</h2>\n\n<p>A ",
     "link": "https://dev.to/hackrs_6393/a-contract-probe-for-free-model-endpoints-that-drift-38j",
     "topic": "general"
-  },
-  {
-    "title": "Free Tier Traps: How Hobby Plans Are Designed and When They Flip to Paid",
-    "desc": "<p>A free tier is a marketing budget with a shutoff valve, and the valve is placed on whatever metric grows when your project starts working",
-    "link": "https://dev.to/libme/free-tier-traps-how-hobby-plans-are-designed-and-when-they-flip-to-paid-450e",
-    "topic": "general"
-  },
-  {
-    "title": "How I Built 172 Guards After My AI Agent Tried to Delete Production Data",
-    "desc": "<h2>\n  \n  \n  2:47 AM, one <code>DELETE</code>, 23 databases\n</h2>\n\n<p>My AI coding agent was debugging a slow query. It found the table, dec",
-    "link": "https://dev.to/frederikvonderheyden/how-i-built-172-guards-after-my-ai-agent-tried-to-delete-production-data-3664",
-    "topic": "general"
-  },
-  {
-    "title": "Synthetic Data for CI/CD: Seed Fresh, Valid Rows on Every Run",
-    "desc": "<p>Every CI pipeline that touches a database needs rows to run against, and there are only three ways to get them: restore a copy of product",
-    "link": "https://dev.to/mikh-shytsko/synthetic-data-for-cicd-seed-fresh-valid-rows-on-every-run-2fe8",
-    "topic": "general"
-  },
-  {
-    "title": "ALTER TABLE, 5 Million Rows, and the Deploy That Took Down the Site",
-    "desc": "<p><em>A migration that takes 50ms on your dev database can lock a production table for 20 minutes, and running it against production-scale ",
-    "link": "https://dev.to/mikh-shytsko/alter-table-5-million-rows-and-the-deploy-that-took-down-the-site-1fk5",
-    "topic": "general"
-  },
-  {
-    "title": "One docker compose up, One Seeded Postgres",
-    "desc": "<p>Docker Compose made your dev database reproducible, one command bringing up the same Postgres for the whole team, down to the version and",
-    "link": "https://dev.to/mikh-shytsko/one-docker-compose-up-one-seeded-postgres-14jh",
-    "topic": "docker"
   }
 ]
