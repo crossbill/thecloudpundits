@@ -1,50 +1,50 @@
 [
   {
-    "title": "Taming Kafka Lag Spikes with KEDA Scale-to-Zero",
-    "desc": "<p><em>How we turned always-on Kafka sinks into on-demand workers that shrug off nightly bombardments \u2014 by scaling on the right signal, tuni",
-    "link": "https://dev.to/iamajeeth/taming-kafka-lag-spikes-with-keda-scale-to-zero-epa",
+    "title": "Judge an AI-Generated Health Check by the Failures It Catches",
+    "desc": "<p>You should judge an AI-generated health check by the failures it catches, not by how much it reads like a page from an SRE runbook. A scr",
+    "link": "https://dev.to/codepy_1473/judge-an-ai-generated-health-check-by-the-failures-it-catches-3mnf",
     "topic": "general"
   },
   {
-    "title": "Kubernetes: alertas utiles para CronJobs",
-    "desc": "<p>Los CronJobs de Kubernetes suelen fallar de maneras bastante poco dramaticas: una imagen no existe, un secreto expiro, un endpoint extern",
-    "link": "https://dev.to/alexcarteruk/kubernetes-alertas-utiles-para-cronjobs-1dfc",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Mastering GitHub Security Campaigns: Scaling Remediation Across Hundreds of Repositories",
-    "desc": "<p>Mastering Git Hub Security Campaigns Scaling Remediation Across Hundreds of Repositories<br />\nBack to blog<br />\nWhat Is a GitHub Securi",
-    "link": "https://dev.to/instasla/mastering-github-security-campaigns-scaling-remediation-across-hundreds-of-repositories-5eop",
-    "topic": "secops"
-  },
-  {
-    "title": "DeepSeek V4 Flash on 50 Real Pull Requests: Two Harnesses, One Ceiling",
-    "desc": "<p>Two harnesses. Same model. Two tasks apart.</p>\n\n<p>We ran deepseek-v4-flash through octomind and opencode on 50 real-PR tasks \u2014 same mod",
-    "link": "https://dev.to/donk8r/deepseek-v4-flash-on-50-real-pull-requests-two-harnesses-one-ceiling-38be",
+    "title": "Scaling Your App: The Matrix of Horizontal vs Vertical",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night our API started choking under a sudden traffic spik",
+    "link": "https://dev.to/timevolt/scaling-your-app-the-matrix-of-horizontal-vs-vertical-551i",
     "topic": "general"
   },
   {
-    "title": "Configuring Nginx Reverse Proxy with Certbot SSL",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
-    "link": "https://dev.to/chasebot/configuring-nginx-reverse-proxy-with-certbot-ssl-2d5c",
+    "title": "Free Server, Untrusted Model: Diff the Filesystem Before You Trust the Exit Code",
+    "desc": "<p>Exit code 0 is not a clean run. It is only the last number the process printed.</p>\n\n<h2>\n  \n  \n  The failure mode\n</h2>\n\n<p>A model-gene",
+    "link": "https://dev.to/hackrs_6393/free-server-untrusted-model-diff-the-filesystem-before-you-trust-the-exit-code-5ao2",
     "topic": "general"
   },
   {
-    "title": "100 Days of DevOps and Cloud (AWS), Day 27: Undo Isn't a Switch, and Neither Is Public",
-    "desc": "<p>Two of the most common requests in this job are \"undo that\" and \"make it public.\" Both sound like a single action. Neither one is. Day 27",
-    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-27-undo-isnt-a-switch-and-neither-is-public-1b7l",
-    "topic": "aws"
+    "title": "A Known-Answer Canary Is the Safety Rail for Free Model Endpoints",
+    "desc": "<p>Liquid syntax error: Unknown tag 'endraw'</p>",
+    "link": "https://dev.to/datacpp_8185/a-known-answer-canary-is-the-safety-rail-for-free-model-endpoints-4d4c",
+    "topic": "general"
   },
   {
-    "title": "Software Updates Are a Security Trap \u2014 Here's the Framework Designed to Fix That",
-    "desc": "<p>You probably updated your phone or laptop this week. You clicked install without thinking twice. And if you're a developer, your tools up",
-    "link": "https://dev.to/bladeharper_ec7070d6e28be/software-updates-are-a-security-trap-heres-the-framework-designed-to-fix-that-2n79",
-    "topic": "secops"
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that over 70% of developers are now using AI-generated code, but many are still struggling ",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-59mg",
+    "topic": "general"
   },
   {
-    "title": "Your pipeline deleted its own alarm (two greps to check)",
-    "desc": "<p><em>Silent failures</em></p>\n\n<p>Your daily report stopped arriving two days ago. Nobody noticed, because a message that does not arrive ",
-    "link": "https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m",
+    "title": "ever-better: 13 commands that make a codebase only able to get better",
+    "desc": "<p>Adding a strict linter to an existing repository produces four thousand errors and gets reverted. The usual workaround \u2014 set everything t",
+    "link": "https://dev.to/isamu/ever-better-13-commands-that-make-a-codebase-only-able-to-get-better-35d0",
+    "topic": "general"
+  },
+  {
+    "title": "AI Agent Swarm Deployment: Addressing, Discovery, and Trust Between Members",
+    "desc": "<p>Your swarm deploys cleanly. The orchestrator spins up ten agents, assigns them roles, wires the prompt pipeline. Then the first real run ",
+    "link": "https://dev.to/pstayet/ai-agent-swarm-deployment-addressing-discovery-and-trust-between-members-4218",
+    "topic": "general"
+  },
+  {
+    "title": "How to provide shared file storage for company offices",
+    "desc": "<p>In this article, we will share the process of providing shared file storage for company offices dispersed in different locations to ease ",
+    "link": "https://dev.to/enoghasejeremiah/how-to-provide-shared-file-storage-for-company-offices-lpj",
     "topic": "general"
   }
 ]
