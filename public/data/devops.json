@@ -1,5 +1,23 @@
 [
   {
+    "title": "Defining Credential Hygiene for WhatsApp Registration Status API Integrations",
+    "desc": "<p>In high-volume B2B lead qualification pipelines, the security of your integration layer is as critical as the data itself. When building ",
+    "link": "https://dev.to/walookup/defining-credential-hygiene-for-whatsapp-registration-status-api-integrations-3614",
+    "topic": "general"
+  },
+  {
+    "title": "What Did That Free-Model Setup Script Actually Do? Audit It With Honeypot Files and Syscall Traces",
+    "desc": "<p>Here is why this article is worth your time: you cannot tell what a generated setup script does by reading the diff. A diff shows you the",
+    "link": "https://dev.to/github_7727/what-did-that-free-model-setup-script-actually-do-audit-it-with-honeypot-files-and-syscall-traces-4eg1",
+    "topic": "general"
+  },
+  {
+    "title": "VMware to Proxmox Migration: The Technical Checklist Before the First VM",
+    "desc": "<p>The first step in a VMware-to-Proxmox migration should not be qemu-img convert.</p>\n\n<p>It should be an inventory.</p>\n\n<p>Before touchin",
+    "link": "https://dev.to/sistro_networks/vmware-to-proxmox-migration-the-technical-checklist-before-the-first-vm-e4f",
+    "topic": "general"
+  },
+  {
     "title": "How do I know my build actually contains the code I just changed?",
     "desc": "<p>I rebuilt the same commit and got a different image. That is still the part I can't explain.</p>\n\n<p>The first build was tagged from curr",
     "link": "https://dev.to/yotta-fish/how-do-i-know-my-build-actually-contains-the-code-i-just-changed-2olc",
@@ -28,23 +46,5 @@
     "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-15-kubernetes-upgrade-readiness-ai-agent\" rel=",
     "link": "https://dev.to/devtocash/build-a-kubernetes-upgrade-readiness-agent-deprecated-apis-add-on-checks-and-a-migration-pr-47lh",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Turn a Free Token Quota Into a Rejection Rate Before You Merge the Route",
-    "desc": "<p>30 million free tokens sounds like capacity. The number that actually changes your architecture is how many of those tokens you can pull ",
-    "link": "https://dev.to/kongkong1/turn-a-free-token-quota-into-a-rejection-rate-before-you-merge-the-route-5a66",
-    "topic": "general"
-  },
-  {
-    "title": "Google Indexed 1 of Our 43 Pages. DuckDuckGo Sent More Visitors.",
-    "desc": "<p>Search Console has 43 of our URLs on record. 1 is indexed. Meanwhile DuckDuckGo has sent 38 visits to Google's 10.</p>\n\n<p>Almost every a",
-    "link": "https://dev.to/kimcomplete/google-indexed-1-of-our-43-pages-duckduckgo-sent-more-visitors-277",
-    "topic": "general"
-  },
-  {
-    "title": "A Contract Probe for Free Model Endpoints That Drift",
-    "desc": "<p>A model endpoint is stable only if you keep checking the JSON contract, not the output's tone.</p>\n\n<h2>\n  \n  \n  The problem\n</h2>\n\n<p>A ",
-    "link": "https://dev.to/hackrs_6393/a-contract-probe-for-free-model-endpoints-that-drift-38j",
-    "topic": "general"
   }
 ]
