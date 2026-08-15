@@ -1,5 +1,29 @@
 [
   {
+    "title": "Kubernetes for Beginners: Deploy Your First App",
+    "desc": "<h1>\n  \n  \n  Kubernetes for Beginners: Deploy Your First App\n</h1>\n\n<p>tags: kubernetes, docker, devops, tutorial</p>\n\n\n\n\n<p>tags: kubernete",
+    "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-2p70",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 93% of developers struggle to effectively harness AI-powered tools, resulting in waste",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-1j8b",
+    "topic": "general"
+  },
+  {
+    "title": "Leveling Up CI/CD: Automated Versioning and the Leap to AWS",
+    "desc": "<p>This week has been all about refining the continuous integration and continuous deployment (CI/CD) pipeline. After successfully container",
+    "link": "https://dev.to/alafiz/leveling-up-cicd-automated-versioning-and-the-leap-to-aws-4oc8",
+    "topic": "aws"
+  },
+  {
+    "title": "How to Back Up and Restore Self-Hosted n8n",
+    "desc": "<blockquote>\n<p>A workflow export is not a full instance backup. Protect the database, encryption key, deployment configuration, and binary ",
+    "link": "https://dev.to/floxolab/how-to-back-up-and-restore-self-hosted-n8n-1co0",
+    "topic": "general"
+  },
+  {
     "title": "The Developer's Guide to Sleep: Why Your Brain Needs More Than 8 Hours",
     "desc": "<p>You've read the productivity blogs. You know sleep matters. You're getting your eight hours.</p>\n\n<p>And you're still waking up tired.</p",
     "link": "https://dev.to/nemynai/the-developers-guide-to-sleep-why-your-brain-needs-more-than-8-hours-43kk",
@@ -21,30 +45,6 @@
     "title": "The New Octopus for Agent Fleets: Open Interfaces or Locked Dashboards",
     "desc": "<p>Cross-post inspired by Garry's List: <a href=\"https://garryslist.org/posts/the-new-octopus\" rel=\"noopener noreferrer\">The New Octopus</a>",
     "link": "https://dev.to/igorganapolsky/the-new-octopus-for-agent-fleets-open-interfaces-or-locked-dashboards-3lag",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes: alertas utiles para readiness flapping",
-    "desc": "<h1>\n  \n  \n  Kubernetes: alertas utiles para readiness flapping\n</h1>\n\n<p>Cuando un pod entra y sale de <code>Ready</code> varias veces en p",
-    "link": "https://dev.to/alexcarteruk/kubernetes-alertas-utiles-para-readiness-flapping-1bi1",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How to Write a Professional README",
-    "desc": "<h2>\n  \n  \n  Table of Contents\n</h2>\n\n<ul>\n<li>\ud83d\udca1 Why write a README?</li>\n<li>\ud83d\udee0\ufe0f Prerequisites</li>\n<li>\ud83d\udcda Understand Markdown Formatting Syn",
-    "link": "https://dev.to/tjasper/how-to-write-a-professional-readme-12of",
-    "topic": "general"
-  },
-  {
-    "title": "Complete CI/CD Pipeline Integration for Automated Playwright Test Suites",
-    "desc": "<p>Complete CI/CD Pipeline Integration for Automated Playwright Test Suites</p>\n\n<h2>\n  \n  \n  1. Introduction & Workflow Architecture\n</h2>\n",
-    "link": "https://dev.to/shefali_qa/complete-cicd-pipeline-integration-for-automated-playwright-test-suites-22h3",
-    "topic": "general"
-  },
-  {
-    "title": "Inject Model Failures on a Free AI Endpoint Before They Find You in Production",
-    "desc": "<p>Recent DEV threads debated AI tool permissions and watermarking, but both debates skip an earlier question: what does your application do",
-    "link": "https://dev.to/bestbee/inject-model-failures-on-a-free-ai-endpoint-before-they-find-you-in-production-48gi",
     "topic": "general"
   }
 ]
