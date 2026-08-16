@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Your Docker Build Takes 11 Minutes in CI When It Takes 20 Seconds Locally",
-    "desc": "<p>If your Docker build is fast locally and slow in CI, the base image is almost never the problem. CI runners are ephemeral, so they start ",
-    "link": "https://dev.to/libme/why-your-docker-build-takes-11-minutes-in-ci-when-it-takes-20-seconds-locally-3foe",
+    "title": "Flutter CI/CD with GitHub Actions and Fastlane: A Real Pipeline",
+    "desc": "<p>Flutter CI/CD stops being optional the moment you ship to two stores from one codebase and a manual release eats half a day. In this post",
+    "link": "https://dev.to/bimal-py/flutter-cicd-with-github-actions-and-fastlane-a-real-pipeline-4do4",
+    "topic": "general"
+  },
+  {
+    "title": "Testing Money Paths: Four Tests Our Review Gate Requires",
+    "desc": "<p>A payment service can pass every unit test it has and still lose money. The failures that matter in production are not about one request ",
+    "link": "https://dev.to/shipmindlabs/testing-money-paths-four-tests-our-review-gate-requires-11gl",
+    "topic": "general"
+  },
+  {
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours debugging my TypeScript project, only to realize that I was using an outdated ",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-2c9n",
+    "topic": "general"
+  },
+  {
+    "title": "A Change Ledger for AI-Edited Server Configs That Puts Rollback Before Merge",
+    "desc": "<p><strong>Why this is worth reading:</strong> You can already see what an AI patch changed with a diff. What a diff does not tell you is wh",
+    "link": "https://dev.to/github_7727/a-change-ledger-for-ai-edited-server-configs-that-puts-rollback-before-merge-2b1n",
+    "topic": "general"
+  },
+  {
+    "title": "A Free Model Endpoint Said the C++ Lock Was Hot. The Race Detector Disagreed.",
+    "desc": "<p>One afternoon, a developer opened a one-line review comment on a small C++ service. The comment said the mutex was unnecessary. The reaso",
+    "link": "https://dev.to/datacpp_8185/a-free-model-endpoint-said-the-c-lock-was-hot-the-race-detector-disagreed-4n9e",
+    "topic": "general"
+  },
+  {
+    "title": "Docker for DevOps: A Deep Dive into Images, Layers, and Compose",
+    "desc": "<p>Docker is the tool that finally made \"it works on my machine\" a non-excuse. By packaging an application together with its exact dependenc",
+    "link": "https://dev.to/opscanopy/docker-for-devops-a-deep-dive-into-images-layers-and-compose-1a6c",
     "topic": "docker"
   },
   {
-    "title": "Zero-Cost Uptime Monitoring + Status Page on Cloudflare's Free Tier",
-    "desc": "<h1>\n  \n  \n  Zero-Cost Uptime Monitoring + Status Page on Cloudflare's Free Tier\n</h1>\n\n<p>Monitoring your websites shouldn't cost money or ",
-    "link": "https://dev.to/xusteve/zero-cost-uptime-monitoring-status-page-on-cloudflares-free-tier-cak",
+    "title": "Measure a Free Token Server by Its Tail Latency, Not Its Ceiling",
+    "desc": "<p>A 30M-token allowance sounds enormous until you divide it by your observed output length. At 200 tokens per generated response the ceilin",
+    "link": "https://dev.to/kongkong1/measure-a-free-token-server-by-its-tail-latency-not-its-ceiling-2pob",
     "topic": "general"
   },
   {
-    "title": "Sandboxing Agent Apps at Runtime: The Security Model Behind Trusting Code You Didn't Write",
-    "desc": "<p>Your agent's tool loop is a supply chain now. Every <code>install</code> adds code you didn't write to a runtime you're responsible for, ",
-    "link": "https://dev.to/pstayet/sandboxing-agent-apps-at-runtime-the-security-model-behind-trusting-code-you-didnt-write-peb",
-    "topic": "secops"
-  },
-  {
-    "title": "SkillGuard: Scan AI Agent Skills for Prompt Injection Before They Run",
-    "desc": "<p>A Skill is a folder with a <code>SKILL.md</code> file \u2014 instructions that tell Claude, Cursor, or similar agents how to behave. Some incl",
-    "link": "https://dev.to/ag1rin/skillguard-scan-ai-agent-skills-for-prompt-injection-before-they-run-8k2",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Your Keras model config can contain a marshalled Python code object",
-    "desc": "<p>Most conversations about malicious ML artifacts stop at pickle. That's understandable \u2014 <code>torch.load</code> calling <code>__reduce__<",
-    "link": "https://dev.to/aisbom/your-keras-model-config-can-contain-a-marshalled-python-code-object-5885",
+    "title": "Guide to Circuit Architecture, Performance, Manufacturing, and Industry Applications",
+    "desc": "<p><strong>Introduction</strong><br />\n<a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2",
+    "link": "https://dev.to/pcb_manufacturer/guide-to-circuit-architecture-performance-manufacturing-and-industry-applications-3a54",
     "topic": "general"
-  },
-  {
-    "title": "I Rotated the Same 5 API Keys Twice. Then I Wrote a Hook So I'd Never Have To Again.",
-    "desc": "<p>Three times now, a Claude Code session has read a file full of live credentials straight into its own conversation transcript. Not malici",
-    "link": "https://dev.to/coridev/i-rotated-the-same-5-api-keys-twice-then-i-wrote-a-hook-so-id-never-have-to-again-1ke",
-    "topic": "general"
-  },
-  {
-    "title": "DevOps Engineer Salary vs Retainer: The Real 2026 Cost Comparison",
-    "desc": "<h2>\n  \n  \n  DevOps Engineer Salary vs Retainer: The Real 2026 Cost Comparison\n</h2>\n\n<p>When founders price out DevOps, they anchor on one ",
-    "link": "https://dev.to/instadevops/devops-engineer-salary-vs-retainer-the-real-2026-cost-comparison-425j",
-    "topic": "general"
-  },
-  {
-    "title": "Building an End-to-End CI/CD Pipeline with Jenkins, Docker & Kubernetes",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/abhishek_jha_4360f0e5d4c4/building-an-end-to-end-cicd-pipeline-with-jenkins-docker-kubernetes-3hod",
-    "topic": "kubernetes"
   }
 ]
