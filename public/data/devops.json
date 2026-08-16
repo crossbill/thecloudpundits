@@ -1,5 +1,17 @@
 [
   {
+    "title": "Why Your Docker Build Takes 11 Minutes in CI When It Takes 20 Seconds Locally",
+    "desc": "<p>If your Docker build is fast locally and slow in CI, the base image is almost never the problem. CI runners are ephemeral, so they start ",
+    "link": "https://dev.to/libme/why-your-docker-build-takes-11-minutes-in-ci-when-it-takes-20-seconds-locally-3foe",
+    "topic": "docker"
+  },
+  {
+    "title": "Zero-Cost Uptime Monitoring + Status Page on Cloudflare's Free Tier",
+    "desc": "<h1>\n  \n  \n  Zero-Cost Uptime Monitoring + Status Page on Cloudflare's Free Tier\n</h1>\n\n<p>Monitoring your websites shouldn't cost money or ",
+    "link": "https://dev.to/xusteve/zero-cost-uptime-monitoring-status-page-on-cloudflares-free-tier-cak",
+    "topic": "general"
+  },
+  {
     "title": "Sandboxing Agent Apps at Runtime: The Security Model Behind Trusting Code You Didn't Write",
     "desc": "<p>Your agent's tool loop is a supply chain now. Every <code>install</code> adds code you didn't write to a runtime you're responsible for, ",
     "link": "https://dev.to/pstayet/sandboxing-agent-apps-at-runtime-the-security-model-behind-trusting-code-you-didnt-write-peb",
@@ -34,17 +46,5 @@
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/abhishek_jha_4360f0e5d4c4/building-an-end-to-end-cicd-pipeline-with-jenkins-docker-kubernetes-3hod",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams",
-    "desc": "<h2>\n  \n  \n  Hey, I'm Samson \u2014 and I built Nova AI Ops because I was tired of being paged at 3 AM.\n</h2>\n\n<p>For years, I watched SRE teams ",
-    "link": "https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-hb",
-    "topic": "general"
-  },
-  {
-    "title": "The Health Check That Watched the Wrong Thing",
-    "desc": "<p>The last post ended on a promise: background workers fall into the same correlated-failure trap as request services, from a different ang",
-    "link": "https://dev.to/michal-izewski/the-health-check-that-watched-the-wrong-thing-26db",
-    "topic": "general"
   }
 ]
