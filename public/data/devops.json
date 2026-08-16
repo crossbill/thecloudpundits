@@ -1,5 +1,41 @@
 [
   {
+    "title": "Build a 45-Minute Demand Probe Before You Trust a 30M-Token Free Server",
+    "desc": "<p>Why this is worth reading: a free tier with 30 million tokens and a free server sounds like a default yes, but free infrastructure become",
+    "link": "https://dev.to/rivera123/build-a-45-minute-demand-probe-before-you-trust-a-30m-token-free-server-4i1l",
+    "topic": "general"
+  },
+  {
+    "title": "AGENTS.md was supposed to end the sprawl. I counted the files on one laptop.",
+    "desc": "<p>AGENTS.md solved the format argument. Codex CLI, GitHub Copilot, Cursor, Windsurf, Amp and Devin<br />\nall read the same file now. Claude",
+    "link": "https://dev.to/untactit/agentsmd-was-supposed-to-end-the-sprawl-i-counted-the-files-on-one-laptop-5e4l",
+    "topic": "general"
+  },
+  {
+    "title": "Right-Size an Internal Model Route by Requests per User Before You Provision the Server",
+    "desc": "<p>30,000,000 tokens breaks down to 1,000,000 tokens per day. At a routed generation of 2,800 tokens, that is 357 requests per day. Assign t",
+    "link": "https://dev.to/kongkong1/right-size-an-internal-model-route-by-requests-per-user-before-you-provision-the-server-5hm1",
+    "topic": "general"
+  },
+  {
+    "title": "I looked into AI habit trackers and realized 1 fixed cron + markdown beats agent-generated UX",
+    "desc": "<p>I spent some time looking at AI habit trackers, and I came away with a pretty unsexy opinion:</p>\n\n<p><strong>Most of them are solving th",
+    "link": "https://dev.to/lars_winstand/i-looked-into-ai-habit-trackers-and-realized-1-fixed-cron-markdown-beats-agent-generated-ux-2a7b",
+    "topic": "general"
+  },
+  {
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours debugging an AI-generated code snippet, only to realize it was a simple confi",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-2382",
+    "topic": "general"
+  },
+  {
+    "title": "CI/CD Pipelines That Actually Work: Lessons from The Lord of the Rings",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \u201cWhy\u201d)\n</h2>\n\n<p>Honestly, I used to dread Monday mornings because my CI pipeline felt like a broken cart",
+    "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-lessons-from-the-lord-of-the-rings-5h58",
+    "topic": "general"
+  },
+  {
     "title": "A green test is not a running reflex, and a running one is not a placed one",
     "desc": "<p>We run about 283 scheduled jobs across a handful of machines. Each one is a shell script that<br />\ndeclares its own schedule in a header",
     "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-green-test-is-not-a-running-reflex-and-a-running-one-is-not-a-placed-one-2cl2",
@@ -9,42 +45,6 @@
     "title": "From Chaos to Clarity: How We Transformed a Brownfield Multi-Repo Project with AI Agents, OpenCode & SpecKit",
     "desc": "<blockquote>\n<p>Come abbiamo trasformato un progetto brownfield multi-repo in un workflow di sviluppo agentico con OpenCode e SpecKit \u2014 senz",
     "link": "https://dev.to/andrea_schiona/from-chaos-to-clarity-how-we-transformed-a-brownfield-multi-repo-project-with-ai-agents-opencode-38ke",
-    "topic": "general"
-  },
-  {
-    "title": "From Manual Clicking to Infrastructure as Code: My Terraform & CloudFormation Journey \u2014 Like Leveling Up in Zelda",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to feel like I was stuck in a never\u2011ending tutorial level. Every time w",
-    "link": "https://dev.to/timevolt/from-manual-clicking-to-infrastructure-as-code-my-terraform-cloudformation-journey-like-47no",
-    "topic": "terraform"
-  },
-  {
-    "title": "AIOps Is More Than Just a Chatbot",
-    "desc": "<h2>\n  \n  \n  It started with a Discord\u00a0bot\n</h2>\n\n<p><strong><a href=\"https://github.com/react-chatbotify\" rel=\"noopener noreferrer\">React C",
-    "link": "https://dev.to/tjtanjin/aiops-is-more-than-just-a-chatbot-2kam",
-    "topic": "general"
-  },
-  {
-    "title": "How to Handle O365 Shared Mailboxes in CI/CD Test Automation",
-    "desc": "<p>Testing email workflows\u2014like OTP verification, password resets, or automated notifications\u2014is a core requirement for robust end-to-end (E",
-    "link": "https://dev.to/shell_qa/how-to-handle-o365-shared-mailboxes-in-cicd-test-automation-pfa",
-    "topic": "general"
-  },
-  {
-    "title": "Audit the Declared Capability Surface of an AI-Generated Service Before It Binds a Port",
-    "desc": "<p>Why this is worth reading: A generated service can pass a smoke test, log \u201cok\u201d, and still bind a port, keep a capability, or mount a home",
-    "link": "https://dev.to/github_7727/audit-the-declared-capability-surface-of-an-ai-generated-service-before-it-binds-a-port-2744",
-    "topic": "general"
-  },
-  {
-    "title": "A Beginner's Guide to Performance Testing with Apache JMeter",
-    "desc": "<p>Performance testing is essential for ensuring your applications can handle expected user loads without bottlenecks or failures. Apache JM",
-    "link": "https://dev.to/shell_qa/a-beginners-guide-to-performance-testing-with-apache-jmeter-3on9",
-    "topic": "general"
-  },
-  {
-    "title": "I Was GitOps's Biggest Advocate. Then I Watched Auto-Sync Roll Back a Good Deploy at 3 AM",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/aymen_benyedder_616fc74f/i-was-gitopss-biggest-advocate-then-i-watched-auto-sync-roll-back-a-good-deploy-at-3-am-1ga8",
     "topic": "general"
   }
 ]
