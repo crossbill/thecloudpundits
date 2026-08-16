@@ -1,5 +1,29 @@
 [
   {
+    "title": "Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs",
+    "desc": "<p>Losing your job costs you a paycheck. What I didn't expect was to spend that same afternoon discovering that half the automation propping",
+    "link": "https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02",
+    "topic": "general"
+  },
+  {
+    "title": "How To Update and Maintain Azure Resources",
+    "desc": "<p>In this article, we will learn about the process of updating and managing Azure Resources, which includes Networks, Virtual Machines, and",
+    "link": "https://dev.to/enoghasejeremiah/how-to-update-and-maintain-azure-resources-3lbj",
+    "topic": "azure"
+  },
+  {
+    "title": "K8s: The Affinity Club",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you have fiddled with Kubernetes long enough to worry about which node your Pods are actually running",
+    "link": "https://dev.to/thegm26/k8s-the-affinity-club-4c2",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Building UniFi Reactor: state-driven network automation for my Kubernetes homelab",
+    "desc": "<p>A few weeks ago I added a UPS and backup internet to my homelab. That solved one class of problem, but it made another one more obvious.<",
+    "link": "https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Still paying 4 years for a tech career?",
     "desc": "<p>If you are juggling tuition, a full-time job, and the pressure to \"pick the right degree,\" you are not alone. Most people want a faster, ",
     "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-paying-4-years-for-a-tech-career-2a7h",
@@ -22,29 +46,5 @@
     "desc": "<p>I set up AWS DevOps Agent a while back across our AWS Organizations environment \u2014 a central account running the Agent Space, with develop",
     "link": "https://dev.to/akhil_anil/how-to-set-up-aws-devops-agent-agent-space-iam-and-multi-account-access-b11",
     "topic": "aws"
-  },
-  {
-    "title": "119 Tests Passed. The One Named After the Bug Passed Too.",
-    "desc": "<p>My test suite came back green. 119 passed, 3 skipped, under a second.</p>\n\n<p>At that exact moment, my tool was telling people to do the ",
-    "link": "https://dev.to/yeriahz/119-tests-passed-the-one-named-after-the-bug-passed-too-1iim",
-    "topic": "general"
-  },
-  {
-    "title": "Trend: Amodei predicts 1-person billion-dollar company",
-    "desc": "<h2>\n  \n  \n  Dario Amodei Is Right. But He Is Missing the Hard Part.\n</h2>\n\n<p>Dario Amodei said the first billion-dollar company with one e",
-    "link": "https://dev.to/frederikvonderheyden/trend-amodei-predicts-1-person-billion-dollar-company-53oa",
-    "topic": "general"
-  },
-  {
-    "title": "C\u00f3mo solucionar `docker run` con `Exited (1)` en Raspberry Pi",
-    "desc": "<h1>\n  \n  \n  C\u00f3mo solucionar <code>docker run</code> con <code>Exited (1)</code> en Raspberry Pi\n</h1>\n\n<h2>\n  \n  \n  \u00bfPor qu\u00e9 ocurre este er",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exited-1-en-raspberry-pi-2jk5",
-    "topic": "docker"
-  },
-  {
-    "title": "Trend: Forbes Solo-Founder AI Playbook",
-    "desc": "<h2>\n  \n  \n  Forbes Called It a Playbook. I Call It a Production Log.\n</h2>\n\n<p>Forbes published a piece recently calling AI agent startups ",
-    "link": "https://dev.to/frederikvonderheyden/trend-forbes-solo-founder-ai-playbook-38fj",
-    "topic": "general"
   }
 ]
