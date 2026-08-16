@@ -1,5 +1,29 @@
 [
   {
+    "title": "Capacity Planning Without ML: The 80/20 Approach",
+    "desc": "<p>There's a small industry of vendors that want to sell you machine learning capacity planning. For 95% of teams, you don't need it. You ne",
+    "link": "https://dev.to/samson_tanimawo/capacity-planning-without-ml-the-8020-approach-e52",
+    "topic": "general"
+  },
+  {
+    "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
+    "desc": "<p>I spent three months and roughly $500 on hardware trying to self-host my own large language model. It was a glorious, humiliating, and ex",
+    "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-4ekf",
+    "topic": "general"
+  },
+  {
+    "title": "When a build breaks, the bug fixes itself",
+    "desc": "<p><strong>When a build breaks, the bug fixes itself</strong></p>\n\n<p>We stopped babysitting CI failures. Now a red build files its own bug ",
+    "link": "https://dev.to/shipeasy/when-a-build-breaks-the-bug-fixes-itself-3nmm",
+    "topic": "general"
+  },
+  {
+    "title": "Gate your CI on a dollar ceiling, not a percentage \u2014 the number your finance team actually asks for",
+    "desc": "<h1>\n  \n  \n  Gate your CI on a dollar ceiling, not a percentage \u2014 the number your finance team actually asks for\n</h1>\n\n<p>Most cost gates f",
+    "link": "https://dev.to/wartzarbee/gate-your-ci-on-a-dollar-ceiling-not-a-percentage-the-number-your-finance-team-actually-asks-for-45mi",
+    "topic": "general"
+  },
+  {
     "title": "I let my servers fix themselves. The hard part was teaching them to say no",
     "desc": "<p>RemotePower is a free, MIT licensed, self-hosted fleet manager: monitoring, alerting, a CMDB, CVE scanning, patching and remote managemen",
     "link": "https://dev.to/tyxak/i-let-my-servers-fix-themselves-the-hard-part-was-teaching-them-to-say-no-5g01",
@@ -21,30 +45,6 @@
     "title": "A Default-Deny Shell Is Not a Default-Deny Network: Probe What a Free Model Server Can Reach",
     "desc": "<p>A default-deny shell policy is not a default-deny network. Before you let a model-generated process run on a free server, know what the h",
     "link": "https://dev.to/hackrs_6393/a-default-deny-shell-is-not-a-default-deny-network-probe-what-a-free-model-server-can-reach-12g0",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes for Beginners: Deploy Your First App",
-    "desc": "<h1>\n  \n  \n  Kubernetes for Beginners: Deploy Your First App\n</h1>\n\n<p>tags: kubernetes, docker, devops, tutorial</p>\n\n\n\n\n<p>tags: kubernete",
-    "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-2p70",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Master deepseek-harness in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Did you know that 93% of developers struggle to effectively harness AI-powered tools, resulting in waste",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-1j8b",
-    "topic": "general"
-  },
-  {
-    "title": "Leveling Up CI/CD: Automated Versioning and the Leap to AWS",
-    "desc": "<p>This week has been all about refining the continuous integration and continuous deployment (CI/CD) pipeline. After successfully container",
-    "link": "https://dev.to/alafiz/leveling-up-cicd-automated-versioning-and-the-leap-to-aws-4oc8",
-    "topic": "aws"
-  },
-  {
-    "title": "How to Back Up and Restore Self-Hosted n8n",
-    "desc": "<blockquote>\n<p>A workflow export is not a full instance backup. Protect the database, encryption key, deployment configuration, and binary ",
-    "link": "https://dev.to/floxolab/how-to-back-up-and-restore-self-hosted-n8n-1co0",
     "topic": "general"
   }
 ]
