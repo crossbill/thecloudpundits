@@ -1,50 +1,50 @@
 [
   {
+    "title": "Still paying 4 years for a tech career?",
+    "desc": "<p>If you are juggling tuition, a full-time job, and the pressure to \"pick the right degree,\" you are not alone. Most people want a faster, ",
+    "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-paying-4-years-for-a-tech-career-2a7h",
+    "topic": "general"
+  },
+  {
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours debugging AI-generated code, only to realize that I was missing a crucial ste",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-4405",
+    "topic": "general"
+  },
+  {
+    "title": "Docker Compose - orquestrando m\u00faltiplos containers",
+    "desc": "<h2>\n  \n  \n  1. Retomando: do <code>docker run</code> repetido a um arquivo \u00fanico\n</h2>\n\n<p>No artigo anterior, subir uma API e um Postgres ",
+    "link": "https://dev.to/apsis-cc/docker-compose-orquestrando-multiplos-containers-27hd",
+    "topic": "docker"
+  },
+  {
+    "title": "How to Set Up AWS DevOps Agent: Agent Space, IAM, and Multi-Account Access",
+    "desc": "<p>I set up AWS DevOps Agent a while back across our AWS Organizations environment \u2014 a central account running the Agent Space, with develop",
+    "link": "https://dev.to/akhil_anil/how-to-set-up-aws-devops-agent-agent-space-iam-and-multi-account-access-b11",
+    "topic": "aws"
+  },
+  {
+    "title": "119 Tests Passed. The One Named After the Bug Passed Too.",
+    "desc": "<p>My test suite came back green. 119 passed, 3 skipped, under a second.</p>\n\n<p>At that exact moment, my tool was telling people to do the ",
+    "link": "https://dev.to/yeriahz/119-tests-passed-the-one-named-after-the-bug-passed-too-1iim",
+    "topic": "general"
+  },
+  {
+    "title": "Trend: Amodei predicts 1-person billion-dollar company",
+    "desc": "<h2>\n  \n  \n  Dario Amodei Is Right. But He Is Missing the Hard Part.\n</h2>\n\n<p>Dario Amodei said the first billion-dollar company with one e",
+    "link": "https://dev.to/frederikvonderheyden/trend-amodei-predicts-1-person-billion-dollar-company-53oa",
+    "topic": "general"
+  },
+  {
+    "title": "C\u00f3mo solucionar `docker run` con `Exited (1)` en Raspberry Pi",
+    "desc": "<h1>\n  \n  \n  C\u00f3mo solucionar <code>docker run</code> con <code>Exited (1)</code> en Raspberry Pi\n</h1>\n\n<h2>\n  \n  \n  \u00bfPor qu\u00e9 ocurre este er",
+    "link": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exited-1-en-raspberry-pi-2jk5",
+    "topic": "docker"
+  },
+  {
     "title": "Trend: Forbes Solo-Founder AI Playbook",
     "desc": "<h2>\n  \n  \n  Forbes Called It a Playbook. I Call It a Production Log.\n</h2>\n\n<p>Forbes published a piece recently calling AI agent startups ",
     "link": "https://dev.to/frederikvonderheyden/trend-forbes-solo-founder-ai-playbook-38fj",
-    "topic": "general"
-  },
-  {
-    "title": "Move Your Free-Model Health Check Out of Every Pipeline",
-    "desc": "<p>A few branches failed with the same missing <code>label</code> field.<br />\nI almost blamed my retry logic.<br />\nThen I looked at the ra",
-    "link": "https://dev.to/gitlab_3188/move-your-free-model-health-check-out-of-every-pipeline-58i7",
-    "topic": "general"
-  },
-  {
-    "title": "Make Free Model Requests Idempotent Before You Add Retries",
-    "desc": "<p>Add retries only after the request knows what it already did. Free model endpoints and free servers fail in the worst place: after the wo",
-    "link": "https://dev.to/hackrs_6393/make-free-model-requests-idempotent-before-you-add-retries-3mi2",
-    "topic": "general"
-  },
-  {
-    "title": "Flexible PCB: A Complete Guide to Materials, Design, Manufacturing.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/pcb_manufacturer/flexible-pcb-a-complete-guide-to-materials-design-manufacturing-47hj",
-    "topic": "general"
-  },
-  {
-    "title": "Setting Up Fail2ban to Protect Linux Cloud Servers",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>A cloud server running Ubuntu 22.04 or Debian 12 hosted on a reliable provider such as <a href",
-    "link": "https://dev.to/chasebot/setting-up-fail2ban-to-protect-linux-cloud-servers-15ph",
-    "topic": "general"
-  },
-  {
-    "title": "Your Coding Agent's Supply Chain Is a Mess. Here's How to Harden It.",
-    "desc": "<p>In March, a backdoored version of LiteLLM sat on PyPI for about three hours. It got downloaded roughly 47,000 times in that window.</p>\n\n",
-    "link": "https://dev.to/nodevguy/your-coding-agents-supply-chain-is-a-mess-heres-how-to-harden-it-40fa",
-    "topic": "general"
-  },
-  {
-    "title": "Beyond the Hype: Selecting the Ideal Minecraft Server Provider for Developers",
-    "desc": "<p>When navigating the crowded landscape of Minecraft server hosting, developers and server admins are bombarded by the same industry buzzwo",
-    "link": "https://dev.to/lightningdev123/beyond-the-hype-selecting-the-ideal-minecraft-server-provider-for-developers-3c38",
-    "topic": "general"
-  },
-  {
-    "title": "Multi-cloud management platform: a guide for cloud teams",
-    "desc": "<p>Multi-cloud environments create hidden cost spikes, fragmented security controls, and operational blind spots that overwhelm enterprise c",
-    "link": "https://dev.to/shio_c0be3f51f0f/multi-cloud-management-platform-a-guide-for-cloud-teams-4ef8",
     "topic": "general"
   }
 ]
