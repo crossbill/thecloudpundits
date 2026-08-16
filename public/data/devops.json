@@ -1,50 +1,50 @@
 [
   {
+    "title": "Transforming Software Development with Generative AI",
+    "desc": "<h2>\n  \n  \n  How Generative AI Tools Accelerate Software Development\n</h2>\n\n<p>Generative AI tools are revolutionizing software development,",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/transforming-software-development-with-generative-ai-1361",
+    "topic": "general"
+  },
+  {
+    "title": "A Practical Guide to jq in Shell Scripts",
+    "desc": "<h2>\n  \n  \n  A Practical Guide to jq in Shell Scripts\n</h2>\n\n<p>While building <code>sykd</code> (a system health monitor daemon for linux s",
+    "link": "https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6",
+    "topic": "general"
+  },
+  {
+    "title": "Virtual Machines Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Aug 09 \u2013 Aug 15, 2026",
+    "desc": "<h2>\n  \n  \n  \ud83d\udda5\ufe0f Virtual Machines \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Aug 09 \u2013 Aug 15, 2026 | <strong>Total r",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-aug-09-aug-15-2026-184g",
+    "topic": "aws"
+  },
+  {
+    "title": "Dockerfiles: Build Your Own Images",
+    "desc": "<blockquote>\n<p>Running Docker images is useful. Building your own images is where you start becoming a real Docker practitioner.</p>\n</bloc",
+    "link": "https://dev.to/themdmohiuddin/dockerfiles-build-your-own-images-2l6m",
+    "topic": "docker"
+  },
+  {
+    "title": "Kubernetes: correos utiles en cambios de red",
+    "desc": "<p>Cuando un cambio de <code>NetworkPolicy</code> sale bien en el cluster pero el correo de aviso deja dudas, el riesgo no desaparece. Solo ",
+    "link": "https://dev.to/alexcarteruk/kubernetes-correos-utiles-en-cambios-de-red-36c8",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "\u2601\ufe0f Day 2 of Learning Cloud Computing: Cloud Deployment Models - Public, Private, Hybrid & Cross Cloud",
+    "desc": "<p>In my previous article, I explained what cloud computing is, along with concepts such as AWS, virtual machines, containers, IaaS, PaaS, a",
+    "link": "https://dev.to/poushmita_paul_fddcbe1a2f/day-2-of-learning-cloud-computing-cloud-deployment-models-public-private-hybrid-cross-493b",
+    "topic": "general"
+  },
+  {
+    "title": "Introducing Vulnfy: A Lightweight, Multi-Ecosystem Vulnerability Scanner for Your CI/CD Pipeline",
+    "desc": "<p>Hey DEV community!\ud83d\udc4b<br />\nAs developers, we all know how crucial dependency and container security is. But let's be honest - sometimes he",
+    "link": "https://dev.to/wreakdev/introducing-vulnfy-a-lightweight-multi-ecosystem-vulnerability-scanner-for-your-cicd-pipeline-no4",
+    "topic": "secops"
+  },
+  {
     "title": "Building a Secure Enterprise AI Assistant: A Complete Architecture & Usage Guide",
     "desc": "<p>Integrating generative AI into internal workflows requires a strict balance between user accessibility and enterprise data privacy. Below",
     "link": "https://dev.to/shell_qa/building-a-secure-enterprise-ai-assistant-a-complete-architecture-usage-guide-1gd3",
-    "topic": "general"
-  },
-  {
-    "title": "A Detector That Only Ever Says \"Clean\" Proves Nothing",
-    "desc": "<p>A few days ago I asked my agent to count how many of my tooling scripts carry a self-test. It grepped and answered: 12 of 13.</p>\n\n<p>The",
-    "link": "https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii",
-    "topic": "general"
-  },
-  {
-    "title": "5 Things I Check First When a Linux Server Goes Down",
-    "desc": "<blockquote>\n<p>When a production machine drops offline or stops responding, guessing wastes precious minutes. Here is the exact five-step t",
-    "link": "https://dev.to/asepsayyad007/5-things-i-check-first-when-a-linux-server-goes-down-3e0i",
-    "topic": "general"
-  },
-  {
-    "title": "Goodbye YAML? My First Month with Pkl (Apple's Configuration Language)",
-    "desc": "<p>YAML has been the configuration language of the cloud-native era by default, not by design. It is whitespace-sensitive in ways that cause",
-    "link": "https://dev.to/actocodes/goodbye-yaml-my-first-month-with-pkl-apples-configuration-language-m7l",
-    "topic": "general"
-  },
-  {
-    "title": "Residential proxies aren't the top tier: what 4 marketplace scrapers taught us",
-    "desc": "<p><strong>Short version:</strong> the proxy tier that gets you into one marketplace will get you thrown out of the next one. We shipped fou",
-    "link": "https://dev.to/devil_scrapes/residential-proxies-arent-the-top-tier-what-4-marketplace-scrapers-taught-us-4di9",
-    "topic": "general"
-  },
-  {
-    "title": "Supercharging Test Automation with Custom AI Agents and Secure GPT",
-    "desc": "<h3>\n  \n  \n  Introduction\n</h3>\n\n<p>As software applications grow in complexity, traditional test design and automation engineering often be",
-    "link": "https://dev.to/shell_qa/supercharging-test-automation-with-custom-ai-agents-and-sgpt-30jb",
-    "topic": "general"
-  },
-  {
-    "title": "A check that cannot fail is not a check",
-    "desc": "<p>Two of my guardrails reported clean for weeks. Neither of them was capable of reporting anything else.</p>\n\n<p>That is a different failur",
-    "link": "https://dev.to/dosai/a-check-that-cannot-fail-is-not-a-check-9dl",
-    "topic": "general"
-  },
-  {
-    "title": "Flutter CI/CD with GitHub Actions and Fastlane: A Real Pipeline",
-    "desc": "<p>Flutter CI/CD stops being optional the moment you ship to two stores from one codebase and a manual release eats half a day. In this post",
-    "link": "https://dev.to/bimal-py/flutter-cicd-with-github-actions-and-fastlane-a-real-pipeline-4do4",
     "topic": "general"
   }
 ]
