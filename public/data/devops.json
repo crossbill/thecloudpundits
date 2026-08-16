@@ -1,50 +1,50 @@
 [
   {
-    "title": "Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs",
-    "desc": "<p>Losing your job costs you a paycheck. What I didn't expect was to spend that same afternoon discovering that half the automation propping",
-    "link": "https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02",
+    "title": "pass vs Bitwarden for AI agent credentials: which works with agents",
+    "desc": "<p>When you decide to stop putting API keys in <code>.env</code> files and start keeping<br />\nthem in a real secret store, the first questi",
+    "link": "https://dev.to/ikkun1222/pass-vs-bitwarden-for-ai-agent-credentials-which-works-with-agents-54cf",
     "topic": "general"
   },
   {
-    "title": "How To Update and Maintain Azure Resources",
-    "desc": "<p>In this article, we will learn about the process of updating and managing Azure Resources, which includes Networks, Virtual Machines, and",
-    "link": "https://dev.to/enoghasejeremiah/how-to-update-and-maintain-azure-resources-3lbj",
-    "topic": "azure"
-  },
-  {
-    "title": "K8s: The Affinity Club",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you have fiddled with Kubernetes long enough to worry about which node your Pods are actually running",
-    "link": "https://dev.to/thegm26/k8s-the-affinity-club-4c2",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Building UniFi Reactor: state-driven network automation for my Kubernetes homelab",
-    "desc": "<p>A few weeks ago I added a UPS and backup internet to my homelab. That solved one class of problem, but it made another one more obvious.<",
-    "link": "https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Still paying 4 years for a tech career?",
-    "desc": "<p>If you are juggling tuition, a full-time job, and the pressure to \"pick the right degree,\" you are not alone. Most people want a faster, ",
-    "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-paying-4-years-for-a-tech-career-2a7h",
-    "topic": "general"
-  },
-  {
-    "title": "Master deepseek-harness in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week, I spent 3 hours debugging AI-generated code, only to realize that I was missing a crucial ste",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-4405",
-    "topic": "general"
-  },
-  {
-    "title": "Docker Compose - orquestrando m\u00faltiplos containers",
-    "desc": "<h2>\n  \n  \n  1. Retomando: do <code>docker run</code> repetido a um arquivo \u00fanico\n</h2>\n\n<p>No artigo anterior, subir uma API e um Postgres ",
-    "link": "https://dev.to/apsis-cc/docker-compose-orquestrando-multiplos-containers-27hd",
-    "topic": "docker"
-  },
-  {
-    "title": "How to Set Up AWS DevOps Agent: Agent Space, IAM, and Multi-Account Access",
-    "desc": "<p>I set up AWS DevOps Agent a while back across our AWS Organizations environment \u2014 a central account running the Agent Space, with develop",
-    "link": "https://dev.to/akhil_anil/how-to-set-up-aws-devops-agent-agent-space-iam-and-multi-account-access-b11",
+    "title": "My First Time Putting an App on AWS (A Beginner's Story)",
+    "desc": "<p>Today I did something I've wanted to do for a while \u2014 I took an app running on my own laptop and put it \"live\" on the internet using AWS.",
+    "link": "https://dev.to/xcl1br/my-first-time-putting-an-app-on-aws-a-beginners-story-41d3",
     "topic": "aws"
+  },
+  {
+    "title": "Compliant Test Data: Why Generated Beats Masked",
+    "desc": "<p>A <strong>compliant test data tool</strong> generates rows directly from your database schema, so no production PII is ever copied or mas",
+    "link": "https://dev.to/mikh-shytsko/compliant-test-data-why-generated-beats-masked-hl3",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Shouldn't Touch Production. Seed It a Postgres Instead.",
+    "desc": "<p>On June 4, 2026, Supabase used its Series F announcement to report that more than half of all new Supabase databases are now deployed by ",
+    "link": "https://dev.to/mikh-shytsko/your-ai-agent-shouldnt-touch-production-seed-it-a-postgres-instead-2a5c",
+    "topic": "general"
+  },
+  {
+    "title": "Your Staging Database Is a Compliance Violation Waiting to Happen",
+    "desc": "<p><em>Why production data doesn't belong in staging, and how to run staging without production data by generating it fresh from your schema",
+    "link": "https://dev.to/mikh-shytsko/your-staging-database-is-a-compliance-violation-waiting-to-happen-1bgl",
+    "topic": "general"
+  },
+  {
+    "title": "Database Seed File Maintenance: Stop Patching seed.sql",
+    "desc": "<p><em>Why your team quietly stopped running seed.sql months ago. A practical guide for PostgreSQL, MySQL, and ORM-based projects, not torre",
+    "link": "https://dev.to/mikh-shytsko/database-seed-file-maintenance-stop-patching-seedsql-4oln",
+    "topic": "general"
+  },
+  {
+    "title": "Review SQL Migrations in 30 Seconds: Seed, Migrate, Compare",
+    "desc": "<p><em>When you review application code, the tests show what it does. A migration arrives as raw SQL that reads fine and gets approved, righ",
+    "link": "https://dev.to/mikh-shytsko/review-sql-migrations-in-30-seconds-seed-migrate-compare-86i",
+    "topic": "general"
+  },
+  {
+    "title": "How to Fill 5 Databases That Reference Each Other",
+    "desc": "<p><em>Where the monolith needed one seed script, your microservices spread across five databases held together by three implicit ID contrac",
+    "link": "https://dev.to/mikh-shytsko/how-to-fill-5-databases-that-reference-each-other-e6l",
+    "topic": "general"
   }
 ]
