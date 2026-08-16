@@ -1,50 +1,50 @@
 [
   {
+    "title": "Building a Secure Enterprise AI Assistant: A Complete Architecture & Usage Guide",
+    "desc": "<p>Integrating generative AI into internal workflows requires a strict balance between user accessibility and enterprise data privacy. Below",
+    "link": "https://dev.to/shell_qa/building-a-secure-enterprise-ai-assistant-a-complete-architecture-usage-guide-1gd3",
+    "topic": "general"
+  },
+  {
+    "title": "A Detector That Only Ever Says \"Clean\" Proves Nothing",
+    "desc": "<p>A few days ago I asked my agent to count how many of my tooling scripts carry a self-test. It grepped and answered: 12 of 13.</p>\n\n<p>The",
+    "link": "https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii",
+    "topic": "general"
+  },
+  {
+    "title": "5 Things I Check First When a Linux Server Goes Down",
+    "desc": "<blockquote>\n<p>When a production machine drops offline or stops responding, guessing wastes precious minutes. Here is the exact five-step t",
+    "link": "https://dev.to/asepsayyad007/5-things-i-check-first-when-a-linux-server-goes-down-3e0i",
+    "topic": "general"
+  },
+  {
+    "title": "Goodbye YAML? My First Month with Pkl (Apple's Configuration Language)",
+    "desc": "<p>YAML has been the configuration language of the cloud-native era by default, not by design. It is whitespace-sensitive in ways that cause",
+    "link": "https://dev.to/actocodes/goodbye-yaml-my-first-month-with-pkl-apples-configuration-language-m7l",
+    "topic": "general"
+  },
+  {
+    "title": "Residential proxies aren't the top tier: what 4 marketplace scrapers taught us",
+    "desc": "<p><strong>Short version:</strong> the proxy tier that gets you into one marketplace will get you thrown out of the next one. We shipped fou",
+    "link": "https://dev.to/devil_scrapes/residential-proxies-arent-the-top-tier-what-4-marketplace-scrapers-taught-us-4di9",
+    "topic": "general"
+  },
+  {
+    "title": "Supercharging Test Automation with Custom AI Agents and Secure GPT",
+    "desc": "<h3>\n  \n  \n  Introduction\n</h3>\n\n<p>As software applications grow in complexity, traditional test design and automation engineering often be",
+    "link": "https://dev.to/shell_qa/supercharging-test-automation-with-custom-ai-agents-and-sgpt-30jb",
+    "topic": "general"
+  },
+  {
+    "title": "A check that cannot fail is not a check",
+    "desc": "<p>Two of my guardrails reported clean for weeks. Neither of them was capable of reporting anything else.</p>\n\n<p>That is a different failur",
+    "link": "https://dev.to/dosai/a-check-that-cannot-fail-is-not-a-check-9dl",
+    "topic": "general"
+  },
+  {
     "title": "Flutter CI/CD with GitHub Actions and Fastlane: A Real Pipeline",
     "desc": "<p>Flutter CI/CD stops being optional the moment you ship to two stores from one codebase and a manual release eats half a day. In this post",
     "link": "https://dev.to/bimal-py/flutter-cicd-with-github-actions-and-fastlane-a-real-pipeline-4do4",
-    "topic": "general"
-  },
-  {
-    "title": "Testing Money Paths: Four Tests Our Review Gate Requires",
-    "desc": "<p>A payment service can pass every unit test it has and still lose money. The failures that matter in production are not about one request ",
-    "link": "https://dev.to/shipmindlabs/testing-money-paths-four-tests-our-review-gate-requires-11gl",
-    "topic": "general"
-  },
-  {
-    "title": "Master deepseek-harness in 5 Mins",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours debugging my TypeScript project, only to realize that I was using an outdated ",
-    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-2c9n",
-    "topic": "general"
-  },
-  {
-    "title": "A Change Ledger for AI-Edited Server Configs That Puts Rollback Before Merge",
-    "desc": "<p><strong>Why this is worth reading:</strong> You can already see what an AI patch changed with a diff. What a diff does not tell you is wh",
-    "link": "https://dev.to/github_7727/a-change-ledger-for-ai-edited-server-configs-that-puts-rollback-before-merge-2b1n",
-    "topic": "general"
-  },
-  {
-    "title": "A Free Model Endpoint Said the C++ Lock Was Hot. The Race Detector Disagreed.",
-    "desc": "<p>One afternoon, a developer opened a one-line review comment on a small C++ service. The comment said the mutex was unnecessary. The reaso",
-    "link": "https://dev.to/datacpp_8185/a-free-model-endpoint-said-the-c-lock-was-hot-the-race-detector-disagreed-4n9e",
-    "topic": "general"
-  },
-  {
-    "title": "Docker for DevOps: A Deep Dive into Images, Layers, and Compose",
-    "desc": "<p>Docker is the tool that finally made \"it works on my machine\" a non-excuse. By packaging an application together with its exact dependenc",
-    "link": "https://dev.to/opscanopy/docker-for-devops-a-deep-dive-into-images-layers-and-compose-1a6c",
-    "topic": "docker"
-  },
-  {
-    "title": "Measure a Free Token Server by Its Tail Latency, Not Its Ceiling",
-    "desc": "<p>A 30M-token allowance sounds enormous until you divide it by your observed output length. At 200 tokens per generated response the ceilin",
-    "link": "https://dev.to/kongkong1/measure-a-free-token-server-by-its-tail-latency-not-its-ceiling-2pob",
-    "topic": "general"
-  },
-  {
-    "title": "Guide to Circuit Architecture, Performance, Manufacturing, and Industry Applications",
-    "desc": "<p><strong>Introduction</strong><br />\n<a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2",
-    "link": "https://dev.to/pcb_manufacturer/guide-to-circuit-architecture-performance-manufacturing-and-industry-applications-3a54",
     "topic": "general"
   }
 ]
