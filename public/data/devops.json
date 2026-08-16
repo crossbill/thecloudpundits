@@ -1,50 +1,50 @@
 [
   {
+    "title": "Focus Drills For Beginners: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/focus-drills-for-beginners-what-we-learned-building-random-tactical-timer-1n2",
+    "topic": "general"
+  },
+  {
+    "title": "Auditing AI agent activity: structured logs for credential access",
+    "desc": "<p>AI coding agents are the most privileged new user on developer machines in a<br />\ndecade: they read source, run commands, and access cre",
+    "link": "https://dev.to/ikkun1222/auditing-ai-agent-activity-structured-logs-for-credential-access-1b1b",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Pricing Change Runbook for OpenAI-Compatible Chinese AI SDKs",
+    "desc": "<h1>\n  \n  \n  Build a Pricing Change Runbook for OpenAI-Compatible Chinese AI SDKs\n</h1>\n\n<p>Chinese model APIs are now changing quickly enou",
+    "link": "https://dev.to/aiwave/build-a-pricing-change-runbook-for-openai-compatible-chinese-ai-sdks-24k0",
+    "topic": "openai"
+  },
+  {
+    "title": "Silent Failure: My AI Agent's Guardrail Died for 4 Hours and Said Nothing About It",
+    "desc": "<p>Who's watching the watcher?</p>\n\n<p>On the same day, I ran into two incidents with the same underlying failure pattern. Both times, somet",
+    "link": "https://dev.to/nomurasan/silent-failure-my-ai-agents-guardrail-died-for-4-hours-and-said-nothing-about-it-31h8",
+    "topic": "general"
+  },
+  {
+    "title": "A State-Sponsored Campaign Is Exploiting Unpatched University Mail Servers",
+    "desc": "<p>University mail servers just gave a suspected China-aligned state-sponsored group the better part of a year of open access to physics and",
+    "link": "https://dev.to/ntctech/a-state-sponsored-campaign-is-exploiting-unpatched-university-mail-servers-40fg",
+    "topic": "general"
+  },
+  {
+    "title": "Solve It Once: Kelsey Hightower's Talk Applied to Security Verification",
+    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n\n\n\n<p>Kelsey Hightower gave a talk at",
+    "link": "https://dev.to/bala_paranj_059d338e44e7e/solve-it-once-what-kelsey-hightowers-talk-taught-me-about-security-verification-2i0p",
+    "topic": "secops"
+  },
+  {
+    "title": "Leveling Up Your App: A Scaling Quest Inspired by 'The Matrix'",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night our little API started choking under traffic. We\u2019d ",
+    "link": "https://dev.to/timevolt/leveling-up-your-app-a-scaling-quest-inspired-by-the-matrix-2bi8",
+    "topic": "general"
+  },
+  {
     "title": "pass vs Bitwarden for AI agent credentials: which works with agents",
     "desc": "<p>When you decide to stop putting API keys in <code>.env</code> files and start keeping<br />\nthem in a real secret store, the first questi",
     "link": "https://dev.to/ikkun1222/pass-vs-bitwarden-for-ai-agent-credentials-which-works-with-agents-54cf",
-    "topic": "general"
-  },
-  {
-    "title": "My First Time Putting an App on AWS (A Beginner's Story)",
-    "desc": "<p>Today I did something I've wanted to do for a while \u2014 I took an app running on my own laptop and put it \"live\" on the internet using AWS.",
-    "link": "https://dev.to/xcl1br/my-first-time-putting-an-app-on-aws-a-beginners-story-41d3",
-    "topic": "aws"
-  },
-  {
-    "title": "Compliant Test Data: Why Generated Beats Masked",
-    "desc": "<p>A <strong>compliant test data tool</strong> generates rows directly from your database schema, so no production PII is ever copied or mas",
-    "link": "https://dev.to/mikh-shytsko/compliant-test-data-why-generated-beats-masked-hl3",
-    "topic": "general"
-  },
-  {
-    "title": "Your AI Agent Shouldn't Touch Production. Seed It a Postgres Instead.",
-    "desc": "<p>On June 4, 2026, Supabase used its Series F announcement to report that more than half of all new Supabase databases are now deployed by ",
-    "link": "https://dev.to/mikh-shytsko/your-ai-agent-shouldnt-touch-production-seed-it-a-postgres-instead-2a5c",
-    "topic": "general"
-  },
-  {
-    "title": "Your Staging Database Is a Compliance Violation Waiting to Happen",
-    "desc": "<p><em>Why production data doesn't belong in staging, and how to run staging without production data by generating it fresh from your schema",
-    "link": "https://dev.to/mikh-shytsko/your-staging-database-is-a-compliance-violation-waiting-to-happen-1bgl",
-    "topic": "general"
-  },
-  {
-    "title": "Database Seed File Maintenance: Stop Patching seed.sql",
-    "desc": "<p><em>Why your team quietly stopped running seed.sql months ago. A practical guide for PostgreSQL, MySQL, and ORM-based projects, not torre",
-    "link": "https://dev.to/mikh-shytsko/database-seed-file-maintenance-stop-patching-seedsql-4oln",
-    "topic": "general"
-  },
-  {
-    "title": "Review SQL Migrations in 30 Seconds: Seed, Migrate, Compare",
-    "desc": "<p><em>When you review application code, the tests show what it does. A migration arrives as raw SQL that reads fine and gets approved, righ",
-    "link": "https://dev.to/mikh-shytsko/review-sql-migrations-in-30-seconds-seed-migrate-compare-86i",
-    "topic": "general"
-  },
-  {
-    "title": "How to Fill 5 Databases That Reference Each Other",
-    "desc": "<p><em>Where the monolith needed one seed script, your microservices spread across five databases held together by three implicit ID contrac",
-    "link": "https://dev.to/mikh-shytsko/how-to-fill-5-databases-that-reference-each-other-e6l",
     "topic": "general"
   }
 ]
