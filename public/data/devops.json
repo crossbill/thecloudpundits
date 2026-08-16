@@ -1,50 +1,50 @@
 [
   {
-    "title": "Capacity Planning Without ML: The 80/20 Approach",
-    "desc": "<p>There's a small industry of vendors that want to sell you machine learning capacity planning. For 95% of teams, you don't need it. You ne",
-    "link": "https://dev.to/samson_tanimawo/capacity-planning-without-ml-the-8020-approach-e52",
+    "title": "GitHub Actions' free macOS minutes, explained",
+    "desc": "<p>GitHub Actions is GitHub's built-in CI/CD system \u2014 it spins up a fresh virtual machine, runs whatever commands you tell it to, and tears ",
+    "link": "https://dev.to/maclessdev/github-actions-free-macos-minutes-explained-33p7",
     "topic": "general"
   },
   {
-    "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
-    "desc": "<p>I spent three months and roughly $500 on hardware trying to self-host my own large language model. It was a glorious, humiliating, and ex",
-    "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-4ekf",
+    "title": "Context Is a Platform Capability Now",
+    "desc": "<p>Watch a developer start an agent session on real enterprise work and you will see a ritual. Before the first useful prompt, they gather. ",
+    "link": "https://dev.to/vscarpenter/context-is-a-platform-capability-now-2c7n",
     "topic": "general"
   },
   {
-    "title": "When a build breaks, the bug fixes itself",
-    "desc": "<p><strong>When a build breaks, the bug fixes itself</strong></p>\n\n<p>We stopped babysitting CI failures. Now a red build files its own bug ",
-    "link": "https://dev.to/shipeasy/when-a-build-breaks-the-bug-fixes-itself-3nmm",
+    "title": "Member of the AWS Educate Emerging Talent Community!",
+    "desc": "<p>\u2601\ufe0f A New Step in My AWS & DevOps Journey \ud83d\ude80</p>\n\n<p>I\u2019m excited to share that I\u2019ve joined the AWS Educate Emerging Talent Community as a m",
+    "link": "https://dev.to/vishal_patil_aws/member-of-the-aws-educate-emerging-talent-community-1mc1",
+    "topic": "aws"
+  },
+  {
+    "title": "Polygon Nodes: Types, Setup, and RPC Connection Guide",
+    "desc": "<h2>\n  \n  \n  Quick decision: run your own Polygon node or use an RPC provider?\n</h2>\n\n<p>Before diving into node architecture, decide how yo",
+    "link": "https://dev.to/onfinality/polygon-nodes-types-setup-and-rpc-connection-guide-1dpn",
     "topic": "general"
   },
   {
-    "title": "Gate your CI on a dollar ceiling, not a percentage \u2014 the number your finance team actually asks for",
-    "desc": "<h1>\n  \n  \n  Gate your CI on a dollar ceiling, not a percentage \u2014 the number your finance team actually asks for\n</h1>\n\n<p>Most cost gates f",
-    "link": "https://dev.to/wartzarbee/gate-your-ci-on-a-dollar-ceiling-not-a-percentage-the-number-your-finance-team-actually-asks-for-45mi",
+    "title": "Give a Free Model a Latency Budget Before You Let It Into CI",
+    "desc": "<p>I keep hitting the same failure pattern. A merge request passes every test. Then the pipeline stalls. Nothing in the diff changed. The fr",
+    "link": "https://dev.to/gitlab_3188/give-a-free-model-a-latency-budget-before-you-let-it-into-ci-29b2",
     "topic": "general"
   },
   {
-    "title": "I let my servers fix themselves. The hard part was teaching them to say no",
-    "desc": "<p>RemotePower is a free, MIT licensed, self-hosted fleet manager: monitoring, alerting, a CMDB, CVE scanning, patching and remote managemen",
-    "link": "https://dev.to/tyxak/i-let-my-servers-fix-themselves-the-hard-part-was-teaching-them-to-say-no-5g01",
+    "title": "Optimism RPC List: Endpoints, Chain Settings, and Providers",
+    "desc": "<h2>\n  \n  \n  Quick decision guide: which Optimism RPC should you use?\n</h2>\n\n<p>If you are prototyping, testing, or building a proof-of-conc",
+    "link": "https://dev.to/onfinality/optimism-rpc-list-endpoints-chain-settings-and-providers-49ag",
     "topic": "general"
   },
   {
-    "title": "Frontend DevOps: mi mapa de recursos",
-    "desc": "<p>Pasar de Frontend Engineer a DevOps Engineer implica aprender un mont\u00f3n de cosas nuevas: infraestructura, redes, contenedores, CI/CD, y u",
-    "link": "https://dev.to/aws-builders/frontend-devops-mi-mapa-de-recursos-1fm7",
+    "title": "Optimism Endpoint: Chain Settings, Connection, and Debugging",
+    "desc": "<p>When you search for \"Optimism endpoint,\" you usually need one of two things: the exact chain settings to configure a wallet or dApp, or a",
+    "link": "https://dev.to/onfinality/optimism-endpoint-chain-settings-connection-and-debugging-4ngd",
     "topic": "general"
   },
   {
-    "title": "DevOps services company: 3 cloud fees that decide your 2026 budget",
-    "desc": "<h1>\n  \n  \n  DevOps services company: 3 cloud fees that decide your 2026 budget\n</h1>\n\n<p><strong>Summary.</strong> Amazon EKS charges $0.10",
-    "link": "https://dev.to/mr_manushukla/devops-services-company-3-cloud-fees-that-decide-your-2026-budget-31ka",
-    "topic": "general"
-  },
-  {
-    "title": "A Default-Deny Shell Is Not a Default-Deny Network: Probe What a Free Model Server Can Reach",
-    "desc": "<p>A default-deny shell policy is not a default-deny network. Before you let a model-generated process run on a free server, know what the h",
-    "link": "https://dev.to/hackrs_6393/a-default-deny-shell-is-not-a-default-deny-network-probe-what-a-free-model-server-can-reach-12g0",
+    "title": "A Deny-by-Default Manifest for AI-Generated Services on a Free Server",
+    "desc": "<p>Why this is worth reading: a free model can hand you a working service in one prompt, and a free server can publish it before you have re",
+    "link": "https://dev.to/github_7727/a-deny-by-default-manifest-for-ai-generated-services-on-a-free-server-49ko",
     "topic": "general"
   }
 ]
