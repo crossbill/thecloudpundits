@@ -1,5 +1,23 @@
 [
   {
+    "title": "Trend: Forbes Solo-Founder AI Playbook",
+    "desc": "<h2>\n  \n  \n  Forbes Called It a Playbook. I Call It a Production Log.\n</h2>\n\n<p>Forbes published a piece recently calling AI agent startups ",
+    "link": "https://dev.to/frederikvonderheyden/trend-forbes-solo-founder-ai-playbook-38fj",
+    "topic": "general"
+  },
+  {
+    "title": "Move Your Free-Model Health Check Out of Every Pipeline",
+    "desc": "<p>A few branches failed with the same missing <code>label</code> field.<br />\nI almost blamed my retry logic.<br />\nThen I looked at the ra",
+    "link": "https://dev.to/gitlab_3188/move-your-free-model-health-check-out-of-every-pipeline-58i7",
+    "topic": "general"
+  },
+  {
+    "title": "Make Free Model Requests Idempotent Before You Add Retries",
+    "desc": "<p>Add retries only after the request knows what it already did. Free model endpoints and free servers fail in the worst place: after the wo",
+    "link": "https://dev.to/hackrs_6393/make-free-model-requests-idempotent-before-you-add-retries-3mi2",
+    "topic": "general"
+  },
+  {
     "title": "Flexible PCB: A Complete Guide to Materials, Design, Manufacturing.",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/pcb_manufacturer/flexible-pcb-a-complete-guide-to-materials-design-manufacturing-47hj",
@@ -27,24 +45,6 @@
     "title": "Multi-cloud management platform: a guide for cloud teams",
     "desc": "<p>Multi-cloud environments create hidden cost spikes, fragmented security controls, and operational blind spots that overwhelm enterprise c",
     "link": "https://dev.to/shio_c0be3f51f0f/multi-cloud-management-platform-a-guide-for-cloud-teams-4ef8",
-    "topic": "general"
-  },
-  {
-    "title": "Daily Dose of DevOps \u2014 What is CI/CD and why it matters",
-    "desc": "<h1>\n  \n  \n  CI/CD as a Control System: From Commit Entropy to Production Evidence\n</h1>\n\n<p>CI/CD is often reduced to automation, but its d",
-    "link": "https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-3ohj",
-    "topic": "general"
-  },
-  {
-    "title": "Own Your Workflow: An Open Source Automated Proxy Generation and Cold Storage Tiering MAM",
-    "desc": "<p>.</p>\n\n<p>For creative teams, shared storage has always been a compromise. Local NAS appliances deliver performance but make remote colla",
-    "link": "https://dev.to/coldstorage/own-your-workflow-an-open-source-automated-proxy-generation-and-cold-storage-tiering-mam-1p1m",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Leaving Throughput on the Table: Practical TCP BBR Congestion Control on Linux",
-    "desc": "<h1>\n  \n  \n  Stop Leaving Throughput on the Table: Practical TCP BBR Congestion Control on Linux\n</h1>\n\n<p>Most Linux hosts still ship <stro",
-    "link": "https://dev.to/lyraalishaikh/stop-leaving-throughput-on-the-table-practical-tcp-bbr-congestion-control-on-linux-20le",
     "topic": "general"
   }
 ]
