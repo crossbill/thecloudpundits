@@ -1,5 +1,23 @@
 [
   {
+    "title": "A green test is not a running reflex, and a running one is not a placed one",
+    "desc": "<p>We run about 283 scheduled jobs across a handful of machines. Each one is a shell script that<br />\ndeclares its own schedule in a header",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-green-test-is-not-a-running-reflex-and-a-running-one-is-not-a-placed-one-2cl2",
+    "topic": "general"
+  },
+  {
+    "title": "From Chaos to Clarity: How We Transformed a Brownfield Multi-Repo Project with AI Agents, OpenCode & SpecKit",
+    "desc": "<blockquote>\n<p>Come abbiamo trasformato un progetto brownfield multi-repo in un workflow di sviluppo agentico con OpenCode e SpecKit \u2014 senz",
+    "link": "https://dev.to/andrea_schiona/from-chaos-to-clarity-how-we-transformed-a-brownfield-multi-repo-project-with-ai-agents-opencode-38ke",
+    "topic": "general"
+  },
+  {
+    "title": "From Manual Clicking to Infrastructure as Code: My Terraform & CloudFormation Journey \u2014 Like Leveling Up in Zelda",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to feel like I was stuck in a never\u2011ending tutorial level. Every time w",
+    "link": "https://dev.to/timevolt/from-manual-clicking-to-infrastructure-as-code-my-terraform-cloudformation-journey-like-47no",
+    "topic": "terraform"
+  },
+  {
     "title": "AIOps Is More Than Just a Chatbot",
     "desc": "<h2>\n  \n  \n  It started with a Discord\u00a0bot\n</h2>\n\n<p><strong><a href=\"https://github.com/react-chatbotify\" rel=\"noopener noreferrer\">React C",
     "link": "https://dev.to/tjtanjin/aiops-is-more-than-just-a-chatbot-2kam",
@@ -27,24 +45,6 @@
     "title": "I Was GitOps's Biggest Advocate. Then I Watched Auto-Sync Roll Back a Good Deploy at 3 AM",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
     "link": "https://dev.to/aymen_benyedder_616fc74f/i-was-gitopss-biggest-advocate-then-i-watched-auto-sync-roll-back-a-good-deploy-at-3-am-1ga8",
-    "topic": "general"
-  },
-  {
-    "title": "Setting Up Playwright & Cucumber UI Tests in Azure DevOps with LambdaTest",
-    "desc": "<p>Here is a step-by-step guide to configuring your Playwright/Cucumber test suite to run on LambdaTest Cloud via Azure DevOps pipelines, re",
-    "link": "https://dev.to/shell_qa/setting-up-playwright-cucumber-ui-tests-in-azure-devops-with-lambdatest-2cld",
-    "topic": "azure"
-  },
-  {
-    "title": "The Ultimate Code Review Checklist for Data Validation Frameworks",
-    "desc": "<p>A comprehensive, production-ready checklist for reviewing data validation, ETL testing, and automated reconciliation codebases.</p>\n\n<p>C",
-    "link": "https://dev.to/shell_qa/the-ultimate-code-review-checklist-for-data-validation-frameworks-4ola",
-    "topic": "general"
-  },
-  {
-    "title": "Transforming Software Development with Generative AI",
-    "desc": "<h2>\n  \n  \n  How Generative AI Tools Accelerate Software Development\n</h2>\n\n<p>Generative AI tools are revolutionizing software development,",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/transforming-software-development-with-generative-ai-1361",
     "topic": "general"
   }
 ]
