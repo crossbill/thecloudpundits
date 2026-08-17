@@ -1,50 +1,50 @@
 [
   {
+    "title": "SES Deploy Gates Need SQS Receipts",
+    "desc": "<p>I stopped trusting deploy checks that only say \"email arrived\" a while ago. In real CI/CD pipelines, that line hides too much: which depl",
+    "link": "https://dev.to/jasonmills94/ses-deploy-gates-need-sqs-receipts-39k",
+    "topic": "general"
+  },
+  {
+    "title": "No More wait To Buy Verified Chime Account Online",
+    "desc": "<p>No More Wait to Buy Verified Chime Account Online<br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usamarketit@",
+    "link": "https://dev.to/bestchime85/no-more-wait-to-buy-verified-chime-account-online-14ah",
+    "topic": "general"
+  },
+  {
+    "title": "Feature Flags and Continuous Delivery: Ship It Like You Mean It",
+    "desc": "<p>Continuous delivery means shipping code to production frequently \u2014 ideally on every merge to <code>main</code>. Feature flags are what ma",
+    "link": "https://dev.to/avlcodemonkey-industries/feature-flags-and-continuous-delivery-ship-it-like-you-mean-it-2hn6",
+    "topic": "general"
+  },
+  {
+    "title": "Feature Flag Pitfalls: How to Turn Your Codebase Into a Haunted House",
+    "desc": "<p>Feature flags are easy to add and hard to remove. That asymmetry is where the trouble starts.</p>\n\n<p>Used properly, feature flags give y",
+    "link": "https://dev.to/avlcodemonkey-industries/feature-flag-pitfalls-how-to-turn-your-codebase-into-a-haunted-house-1b1m",
+    "topic": "general"
+  },
+  {
+    "title": "Feature Flags in the Real World: Use Cases That Won't Get You Fired",
+    "desc": "<p>Why do teams use feature flags?</p>\n\n<p>Because <strong>\"move fast and break things\"</strong> is only fun until you break prod.</p>\n\n<p>F",
+    "link": "https://dev.to/avlcodemonkey-industries/feature-flags-in-the-real-world-use-cases-that-wont-get-you-fired-20j2",
+    "topic": "general"
+  },
+  {
+    "title": "Unlocking the Power of Feature Flags",
+    "desc": "<p>So, you shipped a new feature.</p>\n\n<p>Congrats! \ud83c\udf89</p>\n\n<p>Now the app's acting weird.</p>\n\n<p>Do you nuke the whole release?</p>\n\n<p><st",
+    "link": "https://dev.to/avlcodemonkey-industries/unlocking-the-power-of-feature-flags-1fg7",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Should Pin Tool Contracts, Not Just Tool Names",
+    "desc": "<p>A tool name is not an API contract.</p>\n\n<p>If an agent calls <code>send_invoice</code>, the name alone does not tell you which input sch",
+    "link": "https://dev.to/zira125/your-ai-agent-should-pin-tool-contracts-not-just-tool-names-15m4",
+    "topic": "general"
+  },
+  {
     "title": "Managing the Psychological Shift of the Final 10%: The Playbook for Engineering Managers Landing Projects Well",
     "desc": "<h2>\n  \n  \n  The Mechanics of the \"Last Mile\" Bottleneck\n</h2>\n\n<p>Every seasoned engineering manager knows the unsettling quiet of a projec",
     "link": "https://dev.to/isuvo/managing-the-psychological-shift-of-the-final-10-the-playbook-for-engineering-managers-landing-44pm",
-    "topic": "general"
-  },
-  {
-    "title": "Harnessing Automation for Mobile Development",
-    "desc": "<h2>\n  \n  \n  Harnessing Automation for Mobile Development\n</h2>\n\n<p>Automation in mobile app development isn't just a nice-to-have; it's a m",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/harnessing-automation-for-mobile-development-59l",
-    "topic": "general"
-  },
-  {
-    "title": "The Worker Kept Hitting the Old Database After the Config Was Changed",
-    "desc": "<p>The failure I keep on a throwaway server has no traceback. The API reports the new database, the background job writes to the old databas",
-    "link": "https://dev.to/codepy_1473/the-worker-kept-hitting-the-old-database-after-the-config-was-changed-23dh",
-    "topic": "general"
-  },
-  {
-    "title": "Understanding chmod Without Memorizing Numbers",
-    "desc": "<blockquote>\n<p>How Linux file permissions actually work under the hood, why symbolic mode is your best friend, and how to stop blindly typi",
-    "link": "https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h",
-    "topic": "general"
-  },
-  {
-    "title": "Harnessing AI Agents in Software Development",
-    "desc": "<h2>\n  \n  \n  What Are AI Agents in Software Development?\n</h2>\n\n<p>AI agents are transforming how we code, automating tasks that typically r",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/harnessing-ai-agents-in-software-development-2noa",
-    "topic": "general"
-  },
-  {
-    "title": "CI/CD ohne YAML\u2011H\u00f6lle: Dagger.io erkl\u00e4rt Pipelines als Code",
-    "desc": "<h1>\n  \n  \n  CI/CD ohne YAML\u2011H\u00f6lle \u2013 Warum Dagger.io die Zukunft schreibt\n</h1>\n\n<p><em>\"Wenn du deinen Build\u2011Job noch immer in einer 200\u2011Ze",
-    "link": "https://dev.to/uhltak/cicd-ohne-yaml-holle-daggerio-erklart-pipelines-als-code-4g26",
-    "topic": "general"
-  },
-  {
-    "title": "The Agent Permission Question Nobody Answers Before Shipping",
-    "desc": "<p>Every agent project eventually stalls on the same review meeting. Security asks what the agent is allowed to do, and nobody in the room c",
-    "link": "https://dev.to/paulcrinigan/the-agent-permission-question-nobody-answers-before-shipping-48l3",
-    "topic": "general"
-  },
-  {
-    "title": "What is Adaptive Load Balancing, and why AI needs it",
-    "desc": "<p>Five identical servers sitting behind one load balancer, each getting exactly one-fifth of the requests. So why is one of them pinned at ",
-    "link": "https://dev.to/swapnoneel123/what-is-adaptive-load-balancing-and-why-ai-needs-it-440f",
     "topic": "general"
   }
 ]
