@@ -1,50 +1,50 @@
 [
   {
-    "title": "Unified Secrets Security with GitGuardian and AWS Secrets Manager",
-    "desc": "<p><em>By: Pierre Le Clezio, Lead Product Manager \u2013 GitGuardian; Nic Gumina, Senior Security Consultant \u2013 AWS; Manu Chandrasekhar, Senior De",
-    "link": "https://dev.to/gitguardian/unified-secrets-security-with-gitguardian-and-aws-secrets-manager-416",
-    "topic": "aws"
-  },
-  {
-    "title": "Replay Your Last Ten Bugfixes Before You Trust a New Coding Model",
-    "desc": "<p>Consider a small team that sees two model releases in the same week. One is DeepSeek-V4-Pro-0813, described as cheap and good at code. An",
-    "link": "https://dev.to/appjs_7055/replay-your-last-ten-bugfixes-before-you-trust-a-new-coding-model-kl8",
+    "title": "The SRE's Guide to Surviving Tool Sprawl",
+    "desc": "<h2>\n  \n  \n  14 Tools, Zero Visibility\n</h2>\n\n<p>I joined a startup last year that had 14 different monitoring and observability tools. Data",
+    "link": "https://dev.to/samson_tanimawo/the-sres-guide-to-surviving-tool-sprawl-38c7",
     "topic": "general"
   },
   {
-    "title": "AI Agent Testing & Evaluation in 2026: Tracing, Hallucination Benchmarks & Evals",
-    "desc": "<h1>\n  \n  \n  AI Agent Testing & Evaluation in 2026: Tracing, Hallucination Benchmarks & Evals\n</h1>\n\n<p>Testing deterministic software is we",
-    "link": "https://dev.to/agdex_ai/ai-agent-testing-evaluation-in-2026-tracing-hallucination-benchmarks-evals-2jcc",
+    "title": "No Ads Mma Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/no-ads-mma-timer-what-we-learned-building-random-tactical-timer-3ndb",
     "topic": "general"
   },
   {
-    "title": "Your Access Log Is a Location Database",
-    "desc": "<p>Nobody decides to build a movement-tracking dataset. You install a web server, it writes its default log format, and eighteen months late",
-    "link": "https://dev.to/havenmessenger/your-access-log-is-a-location-database-eo7",
+    "title": "Why I Chose Kuberns as a Render Alternative for My Django App",
+    "desc": "<p>Deploying a basic Django project is usually straightforward. The deployment becomes more demanding when that project grows into a real ap",
+    "link": "https://dev.to/charan_19/why-i-chose-kuberns-as-a-render-alternative-for-my-django-app-1afk",
     "topic": "general"
   },
   {
-    "title": "A tiny TypeError. A 3-day cloud bill. Three bugs hiding in plain sight.",
-    "desc": "<p><em>This is a submission for <a href=\"https://dev.to/bugsmash\">DEV's Summer Bug Smash: Smash Stories</a> powered by <a href=\"https://sent",
-    "link": "https://dev.to/codecrack01/a-tiny-typeerror-a-3-day-cloud-bill-three-bugs-hiding-in-plain-sight-1mfj",
+    "title": "AI Generates Faster Than You Review. Properties Replace the Reviewer.",
+    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n\n\n\n<p>The pull request model worked f",
+    "link": "https://dev.to/bala_paranj_059d338e44e7e/ai-generates-faster-than-you-review-properties-replace-the-reviewer-o7j",
     "topic": "general"
   },
   {
-    "title": "A Model-Suggested C++ Fix Should Earn Its Way Through the Build Log",
-    "desc": "<p>Compiler warnings are cheap to ignore until a model-generated patch trades a signed/unsigned comparison for an integer cast that silences",
-    "link": "https://dev.to/datacpp_8185/a-model-suggested-c-fix-should-earn-its-way-through-the-build-log-3dej",
+    "title": "Build an Admission Controller for Chinese AI API Gateways",
+    "desc": "<h1>\n  \n  \n  Build an Admission Controller for Chinese AI API Gateways\n</h1>\n\n<p>OpenAI-compatible gateways make Chinese model adoption easi",
+    "link": "https://dev.to/aiwave/build-an-admission-controller-for-chinese-ai-api-gateways-2mli",
     "topic": "general"
   },
   {
-    "title": "What Building a Port Scanner Taught Me About Trust in Networks",
-    "desc": "<p>A few weeks into building my port scanner, I hit a moment that had nothing to do with syntax and everything to do with judgment.</p>\n\n<p>",
-    "link": "https://dev.to/rjeff-sudo/what-building-a-port-scanner-taught-me-about-trust-in-networks-4c0i",
+    "title": "Your Laravel scheduler failed at 3 AM. When would you find out?",
+    "desc": "<p>Every Laravel app accumulates scheduled jobs: backups, report emails, cache<br />\nwarmups, cleanup tasks, data syncs. And every one of th",
+    "link": "https://dev.to/mihailz/your-laravel-scheduler-failed-at-3-am-when-would-you-find-out-4nph",
     "topic": "general"
   },
   {
-    "title": "How a Silent Python TypeError Left Our Cloud Worker Running for 3 Days",
-    "desc": "<p>I thought our cloud cleanup worker was working.</p>\n\n<p><strong>It wasn't.</strong></p>\n\n<p>A small Python \"TypeError\" caused one of our ",
-    "link": "https://dev.to/codecrack01/how-a-silent-python-typeerror-left-our-cloud-worker-running-for-3-days-32d9",
+    "title": "Give AI-Generated systemd Services a Resource Ceiling Before You Enable Them",
+    "desc": "<p>AI-generated systemd services often pass a smoke test because the unit is syntactically valid, but they fail later because the model forg",
+    "link": "https://dev.to/github_7727/give-ai-generated-systemd-services-a-resource-ceiling-before-you-enable-them-1b7i",
     "topic": "general"
+  },
+  {
+    "title": "Containing the Autonomous Blast Radius: Runtime AI Safety with Docker and LLM Judges",
+    "desc": "<p>A lot of AI safety work has focused on what models produce: harmful content, misinformation, bias, and other failures visible in their ou",
+    "link": "https://dev.to/karanverma/containing-the-autonomous-blast-radius-runtime-ai-safety-with-docker-and-llm-judges-ogf",
+    "topic": "docker"
   }
 ]
