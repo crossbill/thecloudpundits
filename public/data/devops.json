@@ -1,50 +1,50 @@
 [
   {
-    "title": "Postmortems that don't suck: the template we actually use (steal it)",
-    "desc": "<p>I've read a lot of postmortems. Most of them are written for an audience that doesn't exist.</p>\n\n<p>They're five pages long. They have a",
-    "link": "https://dev.to/kushagra-devs/postmortems-that-dont-suck-the-template-we-actually-use-steal-it-d8p",
+    "title": "I gave my coding agent its own computer",
+    "desc": "<p>I run coding agents with shell access all day, and for a long time there was a low-grade dread underneath it. The permission prompts get ",
+    "link": "https://dev.to/deland/i-gave-my-coding-agent-its-own-computer-4l99",
     "topic": "general"
   },
   {
-    "title": "How I Bulid SEO-Friendly Business website from Scratch",
-    "desc": "<p>Building a business <a href=\"https://wings.design/web-development-company-in-uk\" rel=\"noopener noreferrer\">website</a> isn't just about m",
-    "link": "https://dev.to/pixel_mosaic/how-i-bulid-seo-friendly-business-website-from-scratch-54cg",
+    "title": "Alibaba Open-Sourced the Sandbox Every AI Agent Needed: Why OpenSandbox Is Real Infrastructure, Not Another Toy",
+    "desc": "<h1>\n  \n  \n  Alibaba Open-Sourced the Sandbox Every AI Agent Needed: Why OpenSandbox Is Real Infrastructure, Not Another Toy\n</h1>\n\n<p><em>\u0e42",
+    "link": "https://dev.to/sarantoon/alibaba-open-sourced-the-sandbox-every-ai-agent-needed-why-opensandbox-is-real-infrastructure-not-3hmi",
     "topic": "general"
   },
   {
-    "title": "Building a Real-Time Temperature & Humidity Monitoring System with Modbus and SCADA",
-    "desc": "<p>Temperature and humidity monitoring is a common requirement in factories, warehouses, data centers, laboratories, pharmaceutical faciliti",
-    "link": "https://dev.to/phuc_bach_22e/building-a-real-time-temperature-humidity-monitoring-system-with-modbus-and-scada-4fj4",
+    "title": "Test the AI-Generated Test in a Throwaway Two-Version Server",
+    "desc": "<p>The cheapest way to evaluate an AI-generated integration test is not to read it carefully; it is to run it against two versions of your s",
+    "link": "https://dev.to/codepy_1473/test-the-ai-generated-test-in-a-throwaway-two-version-server-5017",
     "topic": "general"
   },
   {
-    "title": "Our proxy pool reported 0 available IPs. It was lying \u2014 for weeks.",
-    "desc": "<p><strong>Short version:</strong> our proxy pool reported <code>availableCount: 0</code>. We believed it, wrote that belief into our QA too",
-    "link": "https://dev.to/devil_scrapes/our-proxy-pool-reported-0-available-ips-it-was-lying-for-weeks-op1",
+    "title": "Free Models Love YAML: Add a Schema Diff Before You Merge Their Patches",
+    "desc": "<p>A model-generated config patch can be syntactically valid, pass a linter, and still break a deploy if the diff changes a type, removes a ",
+    "link": "https://dev.to/hackrs_6393/free-models-love-yaml-add-a-schema-diff-before-you-merge-their-patches-4hn6",
     "topic": "general"
   },
   {
-    "title": "Your approval gate is not judgment \u2014 it is a lookup you never automated",
-    "desc": "<p>We spent two weeks believing our agent org couldn't publish because it lacked the <em>capability</em>. Today we measured it. The capabili",
-    "link": "https://dev.to/unmannedops/your-approval-gate-is-not-judgment-it-is-a-lookup-you-never-automated-160h",
+    "title": "A Free 16-Week Cloud and DevOps Syllabus for Karachi (2026)",
+    "desc": "<p>Every free resource you need to go from zero to a genuinely hireable cloud or DevOps skill set already exists, and most of it is free. Th",
+    "link": "https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n",
     "topic": "general"
   },
   {
-    "title": "Our Experience Migrating from AWS ECS to EKS: 4x Faster Releases on a 1-Day SDLC",
-    "desc": "<p>This is a technical breakdown of a migration we ran for a global B2B service (strict NDA, so no names). The setup was unusual: a release ",
-    "link": "https://dev.to/alpacked/our-experience-migrating-from-aws-ecs-to-eks-4x-faster-releases-on-a-1-day-sdlc-1g7k",
+    "title": "Your AI agent's logs are lying to you (or don't exist)",
+    "desc": "<p>Ship an agent to production, have something go wrong, and try to answer a simple question: what did it actually do? For a lot of agent se",
+    "link": "https://dev.to/nodevguy/your-ai-agents-logs-are-lying-to-you-or-dont-exist-27j3",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Serverless Netflix Data Analytics Platform with AWS Glue, Athena and QuickSight.",
+    "desc": "<p><strong>Quick Data & Cloud Engineering project</strong></p>\n\n<p>Hey Guys, Today we'll be building a serverless data analytics platform us",
+    "link": "https://dev.to/israeldotcom/building-a-serverless-netflix-data-analytics-platform-with-aws-glue-athena-and-quicksight-d1d",
     "topic": "aws"
   },
   {
-    "title": "ColdFusion Robust Exception Information Enabled: How to Find and Fix This Production Risk",
-    "desc": "<p>Robust Exception Information is a ColdFusion debugging setting that, when enabled, makes error pages display a dangerous amount of intern",
-    "link": "https://dev.to/deepak_sir__/coldfusion-robust-exception-information-enabled-how-to-find-and-fix-this-production-risk-2jbn",
-    "topic": "general"
-  },
-  {
-    "title": "How to Fix Too Many Authentication Failures Error in SSH",
-    "desc": "<p>Picture this: you\u2019re in the middle of a deployment, and suddenly your SSH connection refuses to connect. The server returns a Too Many Au",
-    "link": "https://dev.to/serveravatar/how-to-fix-too-many-authentication-failures-error-in-ssh-57m0",
+    "title": "Build a GitHub Actions Bot That Pays You",
+    "desc": "<h1>\n  \n  \n  Build a GitHub Actions Bot That Pays You\n</h1>\n\n<p>tags: github, automation, money, devops</p>\n\n\n\n\n<p>tags: github, automation,",
+    "link": "https://dev.to/qingluan/build-a-github-actions-bot-that-pays-you-1j23",
     "topic": "general"
   }
 ]

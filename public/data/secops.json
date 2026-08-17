@@ -1,5 +1,11 @@
 [
   {
+    "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
+    "desc": "<p>The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
+    "topic": "secops"
+  },
+  {
     "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
     "desc": "<p>A threat actor is claiming the exfiltration of millions of records from McDonald\u2019s, TCS, Vodafone, and other large organizations.</p>\n<p>",
     "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
@@ -40,11 +46,5 @@
     "desc": "<p>Hackers stole the customers\u2019 shipping information, including names, addresses, email addresses, and phone numbers.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
     "topic": "secops"
-  },
-  {
-    "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
-    "desc": "<p>The security defect is described as an SQL injection that could allow attackers to achieve remote code execution.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-    "topic": "general"
   }
 ]
