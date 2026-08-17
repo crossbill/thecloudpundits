@@ -1,50 +1,50 @@
 [
   {
+    "title": "Understanding chmod Without Memorizing Numbers",
+    "desc": "<blockquote>\n<p>How Linux file permissions actually work under the hood, why symbolic mode is your best friend, and how to stop blindly typi",
+    "link": "https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h",
+    "topic": "general"
+  },
+  {
+    "title": "Harnessing AI Agents in Software Development",
+    "desc": "<h2>\n  \n  \n  What Are AI Agents in Software Development?\n</h2>\n\n<p>AI agents are transforming how we code, automating tasks that typically r",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/harnessing-ai-agents-in-software-development-2noa",
+    "topic": "general"
+  },
+  {
+    "title": "CI/CD ohne YAML\u2011H\u00f6lle: Dagger.io erkl\u00e4rt Pipelines als Code",
+    "desc": "<h1>\n  \n  \n  CI/CD ohne YAML\u2011H\u00f6lle \u2013 Warum Dagger.io die Zukunft schreibt\n</h1>\n\n<p><em>\"Wenn du deinen Build\u2011Job noch immer in einer 200\u2011Ze",
+    "link": "https://dev.to/uhltak/cicd-ohne-yaml-holle-daggerio-erklart-pipelines-als-code-4g26",
+    "topic": "general"
+  },
+  {
+    "title": "The Agent Permission Question Nobody Answers Before Shipping",
+    "desc": "<p>Every agent project eventually stalls on the same review meeting. Security asks what the agent is allowed to do, and nobody in the room c",
+    "link": "https://dev.to/paulcrinigan/the-agent-permission-question-nobody-answers-before-shipping-48l3",
+    "topic": "general"
+  },
+  {
+    "title": "What is Adaptive Load Balancing, and why AI needs it",
+    "desc": "<p>Five identical servers sitting behind one load balancer, each getting exactly one-fifth of the requests. So why is one of them pinned at ",
+    "link": "https://dev.to/swapnoneel123/what-is-adaptive-load-balancing-and-why-ai-needs-it-440f",
+    "topic": "general"
+  },
+  {
+    "title": "The 05 Sites Guide to Buying Old Yahoo Accounts In ...",
+    "desc": "<p>\u00a0<br />\nMeta Description: Discover a complete guide to Yahoo Accounts including security protection, privacy settings, recovery options, ",
+    "link": "https://dev.to/karylinodomlb113/the-05-sites-guide-to-buying-old-yahoo-accounts-in--17n7",
+    "topic": "general"
+  },
+  {
+    "title": "Behind the $43k Low-Ball: A Technical Audit of Mobile App Development Proposals Published",
+    "desc": "<p>Every engineering lead and technical founder has watched this scenario play out. A startup pulls together an early-stage product brief\u2014so",
+    "link": "https://dev.to/kajol_shah/behind-the-43k-low-ball-a-technical-audit-of-mobile-app-development-proposalspublished-52la",
+    "topic": "general"
+  },
+  {
     "title": "Shadow Traffic Is the Only Honest Free Model Evaluation",
     "desc": "<p>The demo replay played in the dim glow of a conference room, and everyone agreed the free model sounded good. The same four prompts produ",
     "link": "https://dev.to/kongkong1/shadow-traffic-is-the-only-honest-free-model-evaluation-14ja",
-    "topic": "general"
-  },
-  {
-    "title": "The 10 Sites Guide to Buying Old Yahoo Accounts ...",
-    "desc": "<p>Meta Description: Learn how to manage Yahoo accounts safely with security protection, privacy settings, recovery options, email organizat",
-    "link": "https://dev.to/karylinodomlb113/the-10-sites-guide-to-buying-old-yahoo-accounts--2ppp",
-    "topic": "general"
-  },
-  {
-    "title": "Guerrilla DevOps: How We Escaped to GitHub Actions",
-    "desc": "<p>In large companies, processes eventually take on a life of their own and start calling the shots. For us, the stumbling block was documen",
-    "link": "https://dev.to/flude_team/guerrilla-devops-how-we-escaped-to-github-actions-19k5",
-    "topic": "general"
-  },
-  {
-    "title": "The Dangerous Docker Firewall Bypass (And How to Fix It Using UFW)",
-    "desc": "<p>Every backend engineer and systems administrator knows the importance of running a solid firewall. You boot up a clean Ubuntu server inst",
-    "link": "https://dev.to/sadaf_botanist/the-dangerous-docker-firewall-bypass-and-how-to-fix-it-using-ufw-59h1",
-    "topic": "docker"
-  },
-  {
-    "title": "100 Days of DevOps and Cloud (AWS), Day 28: Cherry-Pick Takes One Commit, and the Tag Is the Address",
-    "desc": "<p>Both of today's tasks came down to being precise about exactly what you are moving and exactly where it is going. In one, the answer is a",
-    "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-28-cherry-pick-takes-one-commit-and-the-tag-is-the-address-k33",
-    "topic": "aws"
-  },
-  {
-    "title": "Stop Opening Port 5432: Master SSH Port Forwarding Like a DevOps Pro",
-    "desc": "<p>Every junior backend developer has done this at least once. </p>\n\n<p>You deploy a PostgreSQL or MySQL database inside a remote production",
-    "link": "https://dev.to/sadaf_botanist/stop-opening-port-5432-master-ssh-port-forwarding-like-a-devops-pro-4nae",
-    "topic": "general"
-  },
-  {
-    "title": "Read Your AI Agent's Mind. OpenSearch Observability for LLM Traces.",
-    "desc": "<p>You shipped your AI agent. It answers questions, calls tools, retrieves documents, and mostly does the right thing. Mostly. When it does ",
-    "link": "https://dev.to/jon_handler_9bb3e6b4a2fd0/read-your-ai-agents-mind-opensearch-observability-for-llm-traces-2ll",
-    "topic": "general"
-  },
-  {
-    "title": "Your Fargate Tasks Are Probably Bigger Than They Need to Be",
-    "desc": "<h2>\n  \n  \n  How to detect over-provisioned ECS/Fargate services and right-size them to actual load\n</h2>\n\n<p>AWS Fargate made it easy to st",
-    "link": "https://dev.to/spidgorny/your-fargate-tasks-are-probably-bigger-than-they-need-to-be-4hgo",
     "topic": "general"
   }
 ]
