@@ -1,50 +1,50 @@
 [
   {
-    "title": "2026 GEO Service Providers for Small and Mid-Sized Brands: Choosing Between Low-Barrier Testing and Long-Term Growth",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/zen7/2026-geo-service-providers-for-small-and-mid-sized-brands-choosing-between-low-barrier-testing-and-1pdl",
+    "title": "Postmortems that don't suck: the template we actually use (steal it)",
+    "desc": "<p>I've read a lot of postmortems. Most of them are written for an audience that doesn't exist.</p>\n\n<p>They're five pages long. They have a",
+    "link": "https://dev.to/kushagra-devs/postmortems-that-dont-suck-the-template-we-actually-use-steal-it-d8p",
     "topic": "general"
   },
   {
-    "title": "How Developers Are Testing AI-Generated Code in 2026",
-    "desc": "<p>AI coding assistants now write a large share of the code that ends up in production. Estimates from late 2025 put AI-authored code at rou",
-    "link": "https://dev.to/ail_akram_dcc5063c428734b/how-developers-are-testing-ai-generated-code-in-2026-3aal",
+    "title": "How I Bulid SEO-Friendly Business website from Scratch",
+    "desc": "<p>Building a business <a href=\"https://wings.design/web-development-company-in-uk\" rel=\"noopener noreferrer\">website</a> isn't just about m",
+    "link": "https://dev.to/pixel_mosaic/how-i-bulid-seo-friendly-business-website-from-scratch-54cg",
     "topic": "general"
   },
   {
-    "title": "How to Read a Stress Test Report: Metrics That Actually Matter",
-    "desc": "<h2>\n  \n  \n  The Stress Test Report Is Lying to You\n</h2>\n\n<p>Most stress testing panels generate a report after each run. Throughput in Gbp",
-    "link": "https://dev.to/zerodawnipstress/how-to-read-a-stress-test-report-metrics-that-actually-matter-33jn",
+    "title": "Building a Real-Time Temperature & Humidity Monitoring System with Modbus and SCADA",
+    "desc": "<p>Temperature and humidity monitoring is a common requirement in factories, warehouses, data centers, laboratories, pharmaceutical faciliti",
+    "link": "https://dev.to/phuc_bach_22e/building-a-real-time-temperature-humidity-monitoring-system-with-modbus-and-scada-4fj4",
     "topic": "general"
   },
   {
-    "title": "Building One Enterprise SaaS Ecosystem: A Technical Approach to Connected Business Systems",
-    "desc": "<p>Most enterprises today don\u2019t struggle with a lack of software.</p>\n\n<p>They struggle with too much disconnected software.</p>\n\n<p>ERP run",
-    "link": "https://dev.to/axixtech/building-one-enterprise-saas-ecosystem-a-technical-approach-to-connected-business-systems-1ke2",
+    "title": "Our proxy pool reported 0 available IPs. It was lying \u2014 for weeks.",
+    "desc": "<p><strong>Short version:</strong> our proxy pool reported <code>availableCount: 0</code>. We believed it, wrote that belief into our QA too",
+    "link": "https://dev.to/devil_scrapes/our-proxy-pool-reported-0-available-ips-it-was-lying-for-weeks-op1",
     "topic": "general"
   },
   {
-    "title": "Monitor Your Server Health with Python and Telegram",
-    "desc": "<h1>\n  \n  \n  Monitor Your Server Health with Python and Telegram\n</h1>\n\n<p>tags: python, devops, monitoring, telegram</p>\n\n\n\n\n<p>tags: pytho",
-    "link": "https://dev.to/qingluan/monitor-your-server-health-with-python-and-telegram-46n7",
+    "title": "Your approval gate is not judgment \u2014 it is a lookup you never automated",
+    "desc": "<p>We spent two weeks believing our agent org couldn't publish because it lacked the <em>capability</em>. Today we measured it. The capabili",
+    "link": "https://dev.to/unmannedops/your-approval-gate-is-not-judgment-it-is-a-lookup-you-never-automated-160h",
     "topic": "general"
   },
   {
-    "title": "DevSecOps Certified Professional DSOCP: The Ultimate Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/komal-kumari/devsecops-certified-professional-dsocp-the-ultimate-guide-20oo",
+    "title": "Our Experience Migrating from AWS ECS to EKS: 4x Faster Releases on a 1-Day SDLC",
+    "desc": "<p>This is a technical breakdown of a migration we ran for a global B2B service (strict NDA, so no names). The setup was unusual: a release ",
+    "link": "https://dev.to/alpacked/our-experience-migrating-from-aws-ecs-to-eks-4x-faster-releases-on-a-1-day-sdlc-1g7k",
+    "topic": "aws"
+  },
+  {
+    "title": "ColdFusion Robust Exception Information Enabled: How to Find and Fix This Production Risk",
+    "desc": "<p>Robust Exception Information is a ColdFusion debugging setting that, when enabled, makes error pages display a dangerous amount of intern",
+    "link": "https://dev.to/deepak_sir__/coldfusion-robust-exception-information-enabled-how-to-find-and-fix-this-production-risk-2jbn",
     "topic": "general"
   },
   {
-    "title": "My OpenClaw agent stopped being chaos when I split it into 3 separate channels",
-    "desc": "<p>I kept seeing the same OpenClaw complaint framed as a UI problem:</p>\n\n<ul>\n<li>cleaner project views</li>\n<li>better session management<",
-    "link": "https://dev.to/lars_winstand/my-openclaw-agent-stopped-being-chaos-when-i-split-it-into-3-separate-channels-3d2f",
-    "topic": "general"
-  },
-  {
-    "title": "A Complete Look at Smart Vending Machine Development",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/himanshudada123/a-complete-look-at-smart-vending-machine-development-3pjc",
+    "title": "How to Fix Too Many Authentication Failures Error in SSH",
+    "desc": "<p>Picture this: you\u2019re in the middle of a deployment, and suddenly your SSH connection refuses to connect. The server returns a Too Many Au",
+    "link": "https://dev.to/serveravatar/how-to-fix-too-many-authentication-failures-error-in-ssh-57m0",
     "topic": "general"
   }
 ]
