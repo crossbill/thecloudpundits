@@ -1,50 +1,50 @@
 [
   {
-    "title": "Hands-On Lab Guide: L1 Support Engineer Skills",
-    "desc": "<h1>\n  \n  \n  \ud83d\udee0\ufe0f Hands-On Lab Guide: L1 Support Engineer Skills\n</h1>\n\n\n\n\n<h2>\n  \n  \n  Lab 1: Windows Server + IIS Setup (Core L1 Skill)\n</h2",
-    "link": "https://dev.to/yashvikothari/hands-on-lab-guide-l1-support-engineer-skills-3pi7",
+    "title": "Why I don\u2019t want AI agents executing code in someone else\u2019s cloud",
+    "desc": "<p>AI agents are getting access to increasingly powerful tools.</p>\n\n<p>They can execute code, query databases, call APIs, work with files, ",
+    "link": "https://dev.to/030dev/why-i-dont-want-ai-agents-executing-code-in-someone-elses-cloud-flf",
     "topic": "general"
   },
   {
-    "title": "Playwright Automation Quick-Start Runbook: Setup, Execution, and Environment Config",
-    "desc": "<p>Having a clear runbook speeds up onboarding for new team members and provides a standardized execution reference for CI/CD environments.<",
-    "link": "https://dev.to/shell_qa/playwright-automation-quick-start-runbook-setup-execution-and-environment-config-3ndm",
-    "topic": "general"
-  },
-  {
-    "title": "Understanding the CIA Triad in Cybersecurity \ud83d\udee1\ufe0f",
-    "desc": "<p>Understanding the CIA Triad in Cybersecurity \ud83d\udee1\ufe0f<br />\nEvery security policy\u2014whether in Active Directory, Cloud Infrastructure, or Network",
-    "link": "https://dev.to/yash-infra/understanding-the-cia-triad-in-cybersecurity-2455",
+    "title": "How to Detect Credential Stuffing Attacks in Nginx Logs",
+    "desc": "<p>Credential stuffing is one of the most common attacks hitting web applications today. Attackers take breached username/password pairs \u2014 b",
+    "link": "https://dev.to/ayinedjimi-consultants/how-to-detect-credential-stuffing-attacks-in-nginx-logs-391i",
     "topic": "secops"
   },
   {
-    "title": "How to use AI Quality Auditor for AI teams",
-    "desc": "<p><strong>Auditing AI Agents Before Production: A Crucial Step to Avoid Costly Mistakes</strong></p>\n\n<h2>\n  \n  \n  The Manual Way\n</h2>\n\n<p",
-    "link": "https://dev.to/xavvyness/how-to-use-ai-quality-auditor-for-ai-teams-5f5i",
-    "topic": "general"
-  },
-  {
-    "title": "Docker avan\u00e7ado - multi-stage builds, seguran\u00e7a e CI/CD",
-    "desc": "<h2>\n  \n  \n  1. Retomando: da aplica\u00e7\u00e3o funcionando ao container pronto para produ\u00e7\u00e3o\n</h2>\n\n<p>Esta s\u00e9rie cobriu, at\u00e9 aqui, o suficiente pa",
-    "link": "https://dev.to/apsis-cc/docker-avancado-multi-stage-builds-seguranca-e-cicd-113j",
-    "topic": "docker"
-  },
-  {
-    "title": "Taming Test Flakiness: A Practical Guide to Retries, Parallelism, and Stability Thresholds",
-    "desc": "<p>Flaky tests degrade confidence in CI/CD pipelines, delay releases, and waste engineering cycles. Managing retries, test isolation, and wo",
-    "link": "https://dev.to/shell_qa/taming-test-flakiness-a-practical-guide-to-retries-parallelism-and-stability-thresholds-40dm",
-    "topic": "general"
-  },
-  {
-    "title": "Definition of Done for Automated Testing: A Practical Checklist for Engineering Teams",
-    "desc": "<p>In fast-paced software development, declaring a test script \"done\" simply because it passes locally isn't enough. Without a clear Definit",
-    "link": "https://dev.to/shell_qa/definition-of-done-for-automated-testing-a-practical-checklist-for-engineering-teams-582b",
-    "topic": "general"
-  },
-  {
-    "title": "Running AI Workloads on Kubernetes: GPUs, Scheduling, Scaling, and Model Serving",
-    "desc": "<p>In Part 1 of <strong>AI Infrastructure for Cloud Engineers</strong>, we looked at why Kubernetes is becoming an important foundation for ",
-    "link": "https://dev.to/sushyam_nagallapati/running-ai-workloads-on-kubernetes-gpus-scheduling-scaling-and-model-serving-5edh",
+    "title": "Kubernetes ETCD Backup And Restore",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you are learning Kubernetes, you will eventually hear a simple but important statement:</p>\n\n<p><stro",
+    "link": "https://dev.to/oyebobs/kubernetes-etcd-backup-and-restore-54ij",
     "topic": "kubernetes"
+  },
+  {
+    "title": "A Packaging Bug I Found in Homebrew Redis 8.10.0",
+    "desc": "<p>I recently installed Redis 8.10.0 with Homebrew for local development:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"",
+    "link": "https://dev.to/_b6417cbb54ddfef4c4fd0/a-packaging-bug-i-found-in-homebrew-redis-8100-411n",
+    "topic": "general"
+  },
+  {
+    "title": "How I Moved a Live Laravel SaaS to a New Server With 2 Minutes of Downtime",
+    "desc": "<blockquote>\n<p><strong>Originally published at <a href=\"https://hafiz.dev/blog/live-laravel-saas-server-migration-2-minutes-downtime\" rel=\"",
+    "link": "https://dev.to/hafiz619/how-i-moved-a-live-laravel-saas-to-a-new-server-with-2-minutes-of-downtime-bf2",
+    "topic": "general"
+  },
+  {
+    "title": "CI/CD Pipelines That Actually Work: Lessons from The Matrix",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \u201cWhy\u201d)\n</h2>\n\n<p>Honestly, I used to stare at my CI/CD yaml files like they were ancient runes. Every pus",
+    "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-lessons-from-the-matrix-295i",
+    "topic": "general"
+  },
+  {
+    "title": "Your CI Agent Should Not Have Write Access Yet",
+    "desc": "<p>An agent in your pipeline does not fail the way a script fails. A script fails the same way every time. An agent fails creatively, and th",
+    "link": "https://dev.to/teamvoy/your-ci-agent-should-not-have-write-access-yet-30em",
+    "topic": "general"
+  },
+  {
+    "title": "Secrets Management for Test Automation: Handling Credentials Locally and in CI/CD Pipelines",
+    "desc": "<p>Hard-coding credentials, API keys, or access tokens in automated test suites is one of the most common security risks in software enginee",
+    "link": "https://dev.to/shell_qa/secrets-management-for-test-automation-handling-credentials-locally-and-in-cicd-pipelines-4pg",
+    "topic": "general"
   }
 ]
