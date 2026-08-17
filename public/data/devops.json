@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI Crawlers Changed the Traffic Mix. Your Scraping Governance Should Change Too.",
+    "desc": "<p>Cloudflare reported in July 2026 that AI training represented 52% of the crawler requests it identified in June, up from 22% in spring 20",
+    "link": "https://dev.to/98ip/ai-crawlers-changed-the-traffic-mix-your-scraping-governance-should-change-too-38ep",
+    "topic": "general"
+  },
+  {
+    "title": "Master deepseek-harness in 5 Mins",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Last week I spent 3 hours trying to debug an issue with my TypeScript project, only to realize that I wa",
+    "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-5635",
+    "topic": "general"
+  },
+  {
+    "title": "Day 16: AWS Networking \u2014 Connectivity & Delivery",
+    "desc": "<h1>\n  \n  \n  Day 16: AWS Networking \u2014 Connectivity & Delivery\n</h1>\n\n<p>Day 15 covered VPC and Route 53 \u2014 how your infrastructure is structu",
+    "link": "https://dev.to/sr-palatasingh/day-16-aws-networking-connectivity-delivery-3h1",
+    "topic": "aws"
+  },
+  {
+    "title": "Elasticsearch cmds",
+    "desc": "<p>Query for 1 record in an index<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>curl <span class=",
+    "link": "https://dev.to/leroykayanda/elasticsearch-cmds-4fkp",
+    "topic": "general"
+  },
+  {
     "title": "\u2601\ufe0f Estimate GCP free tier costs with Python scripts made easy",
     "desc": "<p>Two ways to retrieve Google Cloud Platform usage produce distinct results: a raw <code>gcloud</code> command that exports CSV data, and a",
     "link": "https://dev.to/ptp2308/estimate-gcp-free-tier-costs-with-python-scripts-made-easy-5c9h",
@@ -21,30 +45,6 @@
     "title": "Monitoring and Logging: The Force Awakens Your System's Health",
     "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>I still remember the night our checkout service went dark. Users started tweeting about ",
     "link": "https://dev.to/timevolt/monitoring-and-logging-the-force-awakens-your-systems-health-13i4",
-    "topic": "general"
-  },
-  {
-    "title": "I thought backing up Supabase was just pg_dump + rclone. It wasn't.",
-    "desc": "<p>A few days ago somebody on Reddit asked how to make proper backups of a Supabase project.</p>\n\n<p>My first answer was pretty straightforw",
-    "link": "https://dev.to/mkpdigital/i-thought-backing-up-supabase-was-just-pgdump-rclone-it-wasnt-1lbl",
-    "topic": "general"
-  },
-  {
-    "title": "Dev Log: 2026-08-13 \u2014 machines that state their own identity, and four fakes that certified nothing",
-    "desc": "<p>Twenty-six commits across six repos, and the day had one accidental theme running through it: <strong>things that were green and shouldn'",
-    "link": "https://dev.to/nasrulhazim/dev-log-2026-08-13-machines-that-state-their-own-identity-and-four-fakes-that-certified-nothing-2onn",
-    "topic": "general"
-  },
-  {
-    "title": "Ask the machine what it is before you change it",
-    "desc": "<p>I spent today on a control plane that provisions plain VMs over SSH \u2014 the kind of app where a wrong answer doesn't render badly, it reins",
-    "link": "https://dev.to/nasrulhazim/ask-the-machine-what-it-is-before-you-change-it-54k6",
-    "topic": "general"
-  },
-  {
-    "title": "Workers KV's 60-Second Consistency Window: What It Actually Costs You",
-    "desc": "<p>Cloudflare's Workers KV documentation gives you a number: a write may take up to 60 seconds to become visible in other locations. That nu",
-    "link": "https://dev.to/pickuma/workers-kvs-60-second-consistency-window-what-it-actually-costs-you-4i6b",
     "topic": "general"
   }
 ]
