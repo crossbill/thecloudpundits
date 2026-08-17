@@ -1,5 +1,41 @@
 [
   {
+    "title": "Velocity Micro Raptor Z55i (2026): Compact Dev Rig Review",
+    "desc": "<p>*<em>The Velocity Micro Raptor Z55i proves that a small form factor desktop doesn't have to sacrifice thermal headroom for compile-heavy ",
+    "link": "https://dev.to/thomas_woodfin_3a4efcd491/velocity-micro-raptor-z55i-2026-compact-dev-rig-review-1cp9",
+    "topic": "general"
+  },
+  {
+    "title": "Deploy Your Angular App with AWS S3 & CloudFront: A Fast, Cost-Effective Guide",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Deploying your Angular application to the cloud is a crucial step in sharing your work with the world. A",
+    "link": "https://dev.to/juhisri02/deploy-your-angular-app-with-aws-s3-cloudfront-a-fast-cost-effective-guide-35if",
+    "topic": "aws"
+  },
+  {
+    "title": "How I Trained a 193K-Pair MoE Model on a 4-Core Laptop Without a GPU (Introducing QNME-Omega)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/susantabanik/how-i-trained-a-193k-pair-moe-model-on-a-4-core-laptop-without-a-gpu-introducing-qnme-omega-1ipp",
+    "topic": "general"
+  },
+  {
+    "title": "My best-looking GitHub Actions run shipped zero installs",
+    "desc": "<p><em>Quick take</em></p>\n\n<p>Your publish job is green. That proves you sent the file. It does not prove anyone can install it.</p>\n\n<p>Ev",
+    "link": "https://dev.to/heinrichneb/my-best-looking-github-actions-run-shipped-zero-installs-1ee8",
+    "topic": "general"
+  },
+  {
+    "title": "Your CI is not flaky. It fails every 7 days.",
+    "desc": "<p><em>Quick take</em></p>\n\n<p>Before you label a failing test flaky, write down the dates it failed. Flaky has no rhythm. Yours might.</p>\n",
+    "link": "https://dev.to/heinrichneb/your-ci-is-not-flaky-it-fails-every-7-days-4ljd",
+    "topic": "general"
+  },
+  {
+    "title": "Has your GitHub Actions gate ever said no?",
+    "desc": "<p><em>Quick take</em></p>\n\n<p>Quick question. That guard you added to CI last month \u2014 have you ever watched it refuse anything?</p>\n\n<p>Mos",
+    "link": "https://dev.to/heinrichneb/has-your-github-actions-gate-ever-said-no-dj2",
+    "topic": "general"
+  },
+  {
     "title": "SES Deploy Gates Need SQS Receipts",
     "desc": "<p>I stopped trusting deploy checks that only say \"email arrived\" a while ago. In real CI/CD pipelines, that line hides too much: which depl",
     "link": "https://dev.to/jasonmills94/ses-deploy-gates-need-sqs-receipts-39k",
@@ -9,42 +45,6 @@
     "title": "No More wait To Buy Verified Chime Account Online",
     "desc": "<p>No More Wait to Buy Verified Chime Account Online<br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usamarketit@",
     "link": "https://dev.to/bestchime85/no-more-wait-to-buy-verified-chime-account-online-14ah",
-    "topic": "general"
-  },
-  {
-    "title": "Feature Flags and Continuous Delivery: Ship It Like You Mean It",
-    "desc": "<p>Continuous delivery means shipping code to production frequently \u2014 ideally on every merge to <code>main</code>. Feature flags are what ma",
-    "link": "https://dev.to/avlcodemonkey-industries/feature-flags-and-continuous-delivery-ship-it-like-you-mean-it-2hn6",
-    "topic": "general"
-  },
-  {
-    "title": "Feature Flag Pitfalls: How to Turn Your Codebase Into a Haunted House",
-    "desc": "<p>Feature flags are easy to add and hard to remove. That asymmetry is where the trouble starts.</p>\n\n<p>Used properly, feature flags give y",
-    "link": "https://dev.to/avlcodemonkey-industries/feature-flag-pitfalls-how-to-turn-your-codebase-into-a-haunted-house-1b1m",
-    "topic": "general"
-  },
-  {
-    "title": "Feature Flags in the Real World: Use Cases That Won't Get You Fired",
-    "desc": "<p>Why do teams use feature flags?</p>\n\n<p>Because <strong>\"move fast and break things\"</strong> is only fun until you break prod.</p>\n\n<p>F",
-    "link": "https://dev.to/avlcodemonkey-industries/feature-flags-in-the-real-world-use-cases-that-wont-get-you-fired-20j2",
-    "topic": "general"
-  },
-  {
-    "title": "Unlocking the Power of Feature Flags",
-    "desc": "<p>So, you shipped a new feature.</p>\n\n<p>Congrats! \ud83c\udf89</p>\n\n<p>Now the app's acting weird.</p>\n\n<p>Do you nuke the whole release?</p>\n\n<p><st",
-    "link": "https://dev.to/avlcodemonkey-industries/unlocking-the-power-of-feature-flags-1fg7",
-    "topic": "general"
-  },
-  {
-    "title": "Your AI Agent Should Pin Tool Contracts, Not Just Tool Names",
-    "desc": "<p>A tool name is not an API contract.</p>\n\n<p>If an agent calls <code>send_invoice</code>, the name alone does not tell you which input sch",
-    "link": "https://dev.to/zira125/your-ai-agent-should-pin-tool-contracts-not-just-tool-names-15m4",
-    "topic": "general"
-  },
-  {
-    "title": "Managing the Psychological Shift of the Final 10%: The Playbook for Engineering Managers Landing Projects Well",
-    "desc": "<h2>\n  \n  \n  The Mechanics of the \"Last Mile\" Bottleneck\n</h2>\n\n<p>Every seasoned engineering manager knows the unsettling quiet of a projec",
-    "link": "https://dev.to/isuvo/managing-the-psychological-shift-of-the-final-10-the-playbook-for-engineering-managers-landing-44pm",
     "topic": "general"
   }
 ]
