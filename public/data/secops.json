@@ -1,5 +1,11 @@
 [
   {
+    "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
+    "desc": "<p>A threat actor is claiming the exfiltration of millions of records from McDonald\u2019s, TCS, Vodafone, and other large organizations.</p>\n<p>",
+    "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+    "topic": "azure"
+  },
+  {
     "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
     "desc": "<p>Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches f",
     "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
@@ -39,12 +45,6 @@
     "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
     "desc": "<p>The security defect is described as an SQL injection that could allow attackers to achieve remote code execution.</p>\n<p>The post <a href",
     "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-    "topic": "general"
-  },
-  {
-    "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
-    "desc": "<p>The Rust-based macOS infostealer harvests users\u2019 passwords, keychain information, Chromium-based browser data, and Safari cookies.</p>\n<p",
-    "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
     "topic": "general"
   }
 ]
