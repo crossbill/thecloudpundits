@@ -1,50 +1,50 @@
 [
   {
-    "title": "I gave my coding agent its own computer",
-    "desc": "<p>I run coding agents with shell access all day, and for a long time there was a low-grade dread underneath it. The permission prompts get ",
-    "link": "https://dev.to/deland/i-gave-my-coding-agent-its-own-computer-4l99",
+    "title": "Hands-On Lab Guide: L1 Support Engineer Skills",
+    "desc": "<h1>\n  \n  \n  \ud83d\udee0\ufe0f Hands-On Lab Guide: L1 Support Engineer Skills\n</h1>\n\n\n\n\n<h2>\n  \n  \n  Lab 1: Windows Server + IIS Setup (Core L1 Skill)\n</h2",
+    "link": "https://dev.to/yashvikothari/hands-on-lab-guide-l1-support-engineer-skills-3pi7",
     "topic": "general"
   },
   {
-    "title": "Alibaba Open-Sourced the Sandbox Every AI Agent Needed: Why OpenSandbox Is Real Infrastructure, Not Another Toy",
-    "desc": "<h1>\n  \n  \n  Alibaba Open-Sourced the Sandbox Every AI Agent Needed: Why OpenSandbox Is Real Infrastructure, Not Another Toy\n</h1>\n\n<p><em>\u0e42",
-    "link": "https://dev.to/sarantoon/alibaba-open-sourced-the-sandbox-every-ai-agent-needed-why-opensandbox-is-real-infrastructure-not-3hmi",
+    "title": "Playwright Automation Quick-Start Runbook: Setup, Execution, and Environment Config",
+    "desc": "<p>Having a clear runbook speeds up onboarding for new team members and provides a standardized execution reference for CI/CD environments.<",
+    "link": "https://dev.to/shell_qa/playwright-automation-quick-start-runbook-setup-execution-and-environment-config-3ndm",
     "topic": "general"
   },
   {
-    "title": "Test the AI-Generated Test in a Throwaway Two-Version Server",
-    "desc": "<p>The cheapest way to evaluate an AI-generated integration test is not to read it carefully; it is to run it against two versions of your s",
-    "link": "https://dev.to/codepy_1473/test-the-ai-generated-test-in-a-throwaway-two-version-server-5017",
+    "title": "Understanding the CIA Triad in Cybersecurity \ud83d\udee1\ufe0f",
+    "desc": "<p>Understanding the CIA Triad in Cybersecurity \ud83d\udee1\ufe0f<br />\nEvery security policy\u2014whether in Active Directory, Cloud Infrastructure, or Network",
+    "link": "https://dev.to/yash-infra/understanding-the-cia-triad-in-cybersecurity-2455",
+    "topic": "secops"
+  },
+  {
+    "title": "How to use AI Quality Auditor for AI teams",
+    "desc": "<p><strong>Auditing AI Agents Before Production: A Crucial Step to Avoid Costly Mistakes</strong></p>\n\n<h2>\n  \n  \n  The Manual Way\n</h2>\n\n<p",
+    "link": "https://dev.to/xavvyness/how-to-use-ai-quality-auditor-for-ai-teams-5f5i",
     "topic": "general"
   },
   {
-    "title": "Free Models Love YAML: Add a Schema Diff Before You Merge Their Patches",
-    "desc": "<p>A model-generated config patch can be syntactically valid, pass a linter, and still break a deploy if the diff changes a type, removes a ",
-    "link": "https://dev.to/hackrs_6393/free-models-love-yaml-add-a-schema-diff-before-you-merge-their-patches-4hn6",
+    "title": "Docker avan\u00e7ado - multi-stage builds, seguran\u00e7a e CI/CD",
+    "desc": "<h2>\n  \n  \n  1. Retomando: da aplica\u00e7\u00e3o funcionando ao container pronto para produ\u00e7\u00e3o\n</h2>\n\n<p>Esta s\u00e9rie cobriu, at\u00e9 aqui, o suficiente pa",
+    "link": "https://dev.to/apsis-cc/docker-avancado-multi-stage-builds-seguranca-e-cicd-113j",
+    "topic": "docker"
+  },
+  {
+    "title": "Taming Test Flakiness: A Practical Guide to Retries, Parallelism, and Stability Thresholds",
+    "desc": "<p>Flaky tests degrade confidence in CI/CD pipelines, delay releases, and waste engineering cycles. Managing retries, test isolation, and wo",
+    "link": "https://dev.to/shell_qa/taming-test-flakiness-a-practical-guide-to-retries-parallelism-and-stability-thresholds-40dm",
     "topic": "general"
   },
   {
-    "title": "A Free 16-Week Cloud and DevOps Syllabus for Karachi (2026)",
-    "desc": "<p>Every free resource you need to go from zero to a genuinely hireable cloud or DevOps skill set already exists, and most of it is free. Th",
-    "link": "https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n",
+    "title": "Definition of Done for Automated Testing: A Practical Checklist for Engineering Teams",
+    "desc": "<p>In fast-paced software development, declaring a test script \"done\" simply because it passes locally isn't enough. Without a clear Definit",
+    "link": "https://dev.to/shell_qa/definition-of-done-for-automated-testing-a-practical-checklist-for-engineering-teams-582b",
     "topic": "general"
   },
   {
-    "title": "Your AI agent's logs are lying to you (or don't exist)",
-    "desc": "<p>Ship an agent to production, have something go wrong, and try to answer a simple question: what did it actually do? For a lot of agent se",
-    "link": "https://dev.to/nodevguy/your-ai-agents-logs-are-lying-to-you-or-dont-exist-27j3",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Serverless Netflix Data Analytics Platform with AWS Glue, Athena and QuickSight.",
-    "desc": "<p><strong>Quick Data & Cloud Engineering project</strong></p>\n\n<p>Hey Guys, Today we'll be building a serverless data analytics platform us",
-    "link": "https://dev.to/israeldotcom/building-a-serverless-netflix-data-analytics-platform-with-aws-glue-athena-and-quicksight-d1d",
-    "topic": "aws"
-  },
-  {
-    "title": "Build a GitHub Actions Bot That Pays You",
-    "desc": "<h1>\n  \n  \n  Build a GitHub Actions Bot That Pays You\n</h1>\n\n<p>tags: github, automation, money, devops</p>\n\n\n\n\n<p>tags: github, automation,",
-    "link": "https://dev.to/qingluan/build-a-github-actions-bot-that-pays-you-1j23",
-    "topic": "general"
+    "title": "Running AI Workloads on Kubernetes: GPUs, Scheduling, Scaling, and Model Serving",
+    "desc": "<p>In Part 1 of <strong>AI Infrastructure for Cloud Engineers</strong>, we looked at why Kubernetes is becoming an important foundation for ",
+    "link": "https://dev.to/sushyam_nagallapati/running-ai-workloads-on-kubernetes-gpus-scheduling-scaling-and-model-serving-5edh",
+    "topic": "kubernetes"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "title": "40,000 Impacted by SafePal Data Breach",
+    "desc": "<p>Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
+    "desc": "<p>Threat actors gained root access to the vulnerable systems and deployed a Monero miner.</p>\n<p>The post <a href=\"https://www.securityweek",
+    "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
+    "topic": "secops"
+  },
+  {
     "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
     "desc": "<p>The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components.</p>\n<p>The pos",
     "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
@@ -33,18 +45,6 @@
     "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
     "desc": "<p>The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers.</p>\n<p>The post <",
     "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-    "topic": "secops"
-  },
-  {
-    "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
-    "desc": "<p>The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build art",
-    "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
-    "topic": "secops"
-  },
-  {
-    "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
-    "desc": "<p>Hackers stole the customers\u2019 shipping information, including names, addresses, email addresses, and phone numbers.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
     "topic": "secops"
   }
 ]
