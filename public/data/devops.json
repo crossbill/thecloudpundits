@@ -1,5 +1,11 @@
 [
   {
+    "title": "Self-Healing Software Development: Automating Code Generation, Testing, and Fixing with Solon AI Loop Engine",
+    "desc": "<p>Software agents are transitioning from stateless assistants to autonomous, loop-driven operators. While generating boilerplate code is ea",
+    "link": "https://dev.to/solonjava/self-healing-software-development-automating-code-generation-testing-and-fixing-with-solon-ai-856",
+    "topic": "general"
+  },
+  {
     "title": "Static Review Is Not a Runtime Guarantee: Diff the Shape of an AI-Managed Server Before You Accept It",
     "desc": "<p>The position I want to argue is unambiguous: when an AI model writes or edits a systemd service on a Linux server, reviewing the generate",
     "link": "https://dev.to/github_7727/static-review-is-not-a-runtime-guarantee-diff-the-shape-of-an-ai-managed-server-before-you-accept-m2j",
@@ -39,12 +45,6 @@
     "title": "My best-looking GitHub Actions run shipped zero installs",
     "desc": "<p><em>Quick take</em></p>\n\n<p>Your publish job is green. That proves you sent the file. It does not prove anyone can install it.</p>\n\n<p>Ev",
     "link": "https://dev.to/heinrichneb/my-best-looking-github-actions-run-shipped-zero-installs-1ee8",
-    "topic": "general"
-  },
-  {
-    "title": "Your CI is not flaky. It fails every 7 days.",
-    "desc": "<p><em>Quick take</em></p>\n\n<p>Before you label a failing test flaky, write down the dates it failed. Flaky has no rhythm. Yours might.</p>\n",
-    "link": "https://dev.to/heinrichneb/your-ci-is-not-flaky-it-fails-every-7-days-4ljd",
     "topic": "general"
   }
 ]
