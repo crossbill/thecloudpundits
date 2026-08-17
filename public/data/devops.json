@@ -1,5 +1,23 @@
 [
   {
+    "title": "\u2601\ufe0f Estimate GCP free tier costs with Python scripts made easy",
+    "desc": "<p>Two ways to retrieve Google Cloud Platform usage produce distinct results: a raw <code>gcloud</code> command that exports CSV data, and a",
+    "link": "https://dev.to/ptp2308/estimate-gcp-free-tier-costs-with-python-scripts-made-easy-5c9h",
+    "topic": "gcp"
+  },
+  {
+    "title": "How to Configure ViciDial Answering Machine Detection (AMD)",
+    "desc": "<h1>\n  \n  \n  How to Configure ViciDial Answering Machine Detection (AMD)\n</h1>\n\n<p><strong>Master Asterisk's built-in AMD engine and impleme",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-configure-vicidial-answering-machine-detection-amd-591a",
+    "topic": "general"
+  },
+  {
+    "title": "Before You Claim AI Made Your Team Faster, Measure It",
+    "desc": "<p>Every few months, I find myself in some version of the same conversation.</p>\n\n<p>A team has been using AI coding tools for a while. The ",
+    "link": "https://dev.to/navjyotnishant/before-you-claim-ai-made-your-team-faster-measure-it-1o9b",
+    "topic": "general"
+  },
+  {
     "title": "Monitoring and Logging: The Force Awakens Your System's Health",
     "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>I still remember the night our checkout service went dark. Users started tweeting about ",
     "link": "https://dev.to/timevolt/monitoring-and-logging-the-force-awakens-your-systems-health-13i4",
@@ -28,23 +46,5 @@
     "desc": "<p>Cloudflare's Workers KV documentation gives you a number: a write may take up to 60 seconds to become visible in other locations. That nu",
     "link": "https://dev.to/pickuma/workers-kvs-60-second-consistency-window-what-it-actually-costs-you-4i6b",
     "topic": "general"
-  },
-  {
-    "title": "Production App Logging Explained: 4 Hosted API Comparisons for Express",
-    "desc": "<p>Short answer: for simple production logging in a Node/Express app, keep Pino emitting structured events, use a hosted log API for central",
-    "link": "https://dev.to/svennilsson228/production-app-logging-explained-4-hosted-api-comparisons-for-express-1oi",
-    "topic": "general"
-  },
-  {
-    "title": "DeepSeek Harness Hit 126k Stars \u2014 What Self-Evolution Means for Software (and Observability)",
-    "desc": "<p>A repo on GitHub has been exploding lately. DeepSeek open-sourced an agent framework called <strong>deepseek-harness</strong> (often shor",
-    "link": "https://dev.to/databufflabs/deepseek-harness-hit-126k-stars-what-self-evolution-means-for-software-and-observability-506j",
-    "topic": "general"
-  },
-  {
-    "title": "SSH into your servers from your phone: keys, Tailscale, and an AI safety net",
-    "desc": "<p>Every on-call engineer has lived this: an alert fires, you're not at your desk, and all you have is your phone. The laptop-and-VPN scramb",
-    "link": "https://dev.to/chen_zong_43c81f1a65b1a54/ssh-into-your-servers-from-your-phone-keys-tailscale-and-an-ai-safety-net-271h",
-    "topic": "guardrails"
   }
 ]
