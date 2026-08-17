@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why I don\u2019t want AI agents executing code in someone else\u2019s cloud",
-    "desc": "<p>AI agents are getting access to increasingly powerful tools.</p>\n\n<p>They can execute code, query databases, call APIs, work with files, ",
-    "link": "https://dev.to/030dev/why-i-dont-want-ai-agents-executing-code-in-someone-elses-cloud-flf",
+    "title": "AI is writing more of our code every day. But are we paying close attention to what happens when that code quietly fails?",
+    "desc": "<p>AI is writing more of our code every day. But are we paying close attention to what happens when that code quietly fails?</p>\n\n<p>\u2192 Silen",
+    "link": "https://dev.to/cloudnestle/ai-is-writing-more-of-our-code-every-day-but-are-we-paying-close-attention-to-what-happens-when-185f",
     "topic": "general"
   },
   {
-    "title": "How to Detect Credential Stuffing Attacks in Nginx Logs",
-    "desc": "<p>Credential stuffing is one of the most common attacks hitting web applications today. Attackers take breached username/password pairs \u2014 b",
-    "link": "https://dev.to/ayinedjimi-consultants/how-to-detect-credential-stuffing-attacks-in-nginx-logs-391i",
-    "topic": "secops"
+    "title": "What Is beacon.min.js? Cloudflare's Auto-Injected Analytics, and How to Turn It Off (2026)",
+    "desc": "<p>Short answer: <code>beacon.min.js</code> is Cloudflare's Real User Measurement script. If your domain is on a <strong>free</strong> Cloud",
+    "link": "https://dev.to/pavel-hostim/what-is-beaconminjs-cloudflares-auto-injected-analytics-and-how-to-turn-it-off-2026-10g2",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes ETCD Backup And Restore",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you are learning Kubernetes, you will eventually hear a simple but important statement:</p>\n\n<p><stro",
-    "link": "https://dev.to/oyebobs/kubernetes-etcd-backup-and-restore-54ij",
+    "title": "How to find who created a resource in AWS CloudTrail: resource owners and orphan accountability",
+    "desc": "<h2>\n  \n  \n  The Orphan Problem: Why AWS Resource Ownership Disappears\n</h2>\n\n<p>Orphaned AWS resources accumulate silently because ownershi",
+    "link": "https://dev.to/zop_8abedcc7e12/how-to-find-who-created-a-resource-in-aws-cloudtrail-resource-owners-and-orphan-accountability-57gk",
+    "topic": "aws"
+  },
+  {
+    "title": "AWS Resource Explorer vs Azure Resource Graph vs GCP Cloud Asset Inventory: what each one finds and why none of them show cost",
+    "desc": "<h2>\n  \n  \n  The Inventory Illusion: What Cloud Discovery Tools Actually Show You\n</h2>\n\n<p>AWS Resource Explorer, Azure Resource Graph, and",
+    "link": "https://dev.to/zop_8abedcc7e12/aws-resource-explorer-vs-azure-resource-graph-vs-gcp-cloud-asset-inventory-what-each-one-finds-and-3b1a",
+    "topic": "aws"
+  },
+  {
+    "title": "AWS Cost Anomaly Detection vs Budgets: The Exact Thresholds a Cloud Cost Anomaly Detector Should Use",
+    "desc": "<p>Here's a postmortem that gets written every month somewhere: a misconfigured NAT gateway (or a recursive Lambda, or a debug-level log gro",
+    "link": "https://dev.to/zop_8abedcc7e12/aws-cost-anomaly-detection-vs-budgets-the-exact-thresholds-a-cloud-cost-anomaly-detector-should-use-43h8",
+    "topic": "aws"
+  },
+  {
+    "title": "Blood in Vomit: Causes, Warning Signs & When It Could Be Esophageal Cancer",
+    "desc": "<p>Blood in vomit can be frightening, but it does not always mean cancer. There are several possible causes, including stomach ulcers, gastr",
+    "link": "https://dev.to/dr_harshvardhanatreya_18/blood-in-vomit-causes-warning-signs-when-it-could-be-esophageal-cancer-2a38",
+    "topic": "general"
+  },
+  {
+    "title": "What Happens When You Create a Pod in Kubernetes?",
+    "desc": "<p>So, like when you type:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>kubectl apply <span clas",
+    "link": "https://dev.to/naveens16/what-happens-when-you-create-a-pod-in-kubernetes-5p8",
     "topic": "kubernetes"
   },
   {
-    "title": "A Packaging Bug I Found in Homebrew Redis 8.10.0",
-    "desc": "<p>I recently installed Redis 8.10.0 with Homebrew for local development:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"",
-    "link": "https://dev.to/_b6417cbb54ddfef4c4fd0/a-packaging-bug-i-found-in-homebrew-redis-8100-411n",
-    "topic": "general"
-  },
-  {
-    "title": "How I Moved a Live Laravel SaaS to a New Server With 2 Minutes of Downtime",
-    "desc": "<blockquote>\n<p><strong>Originally published at <a href=\"https://hafiz.dev/blog/live-laravel-saas-server-migration-2-minutes-downtime\" rel=\"",
-    "link": "https://dev.to/hafiz619/how-i-moved-a-live-laravel-saas-to-a-new-server-with-2-minutes-of-downtime-bf2",
-    "topic": "general"
-  },
-  {
-    "title": "CI/CD Pipelines That Actually Work: Lessons from The Matrix",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \u201cWhy\u201d)\n</h2>\n\n<p>Honestly, I used to stare at my CI/CD yaml files like they were ancient runes. Every pus",
-    "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-lessons-from-the-matrix-295i",
-    "topic": "general"
-  },
-  {
-    "title": "Your CI Agent Should Not Have Write Access Yet",
-    "desc": "<p>An agent in your pipeline does not fail the way a script fails. A script fails the same way every time. An agent fails creatively, and th",
-    "link": "https://dev.to/teamvoy/your-ci-agent-should-not-have-write-access-yet-30em",
-    "topic": "general"
-  },
-  {
-    "title": "Secrets Management for Test Automation: Handling Credentials Locally and in CI/CD Pipelines",
-    "desc": "<p>Hard-coding credentials, API keys, or access tokens in automated test suites is one of the most common security risks in software enginee",
-    "link": "https://dev.to/shell_qa/secrets-management-for-test-automation-handling-credentials-locally-and-in-cicd-pipelines-4pg",
+    "title": "Keep the Database. Close the Port.",
+    "desc": "<h1>\n  \n  \n  Keep the Database. Close the Port.\n</h1>\n\n<p>Why 2026 security, FinOps, and edge-runtime facts all point at the access layer \u2014 ",
+    "link": "https://dev.to/zedgi/keep-the-database-close-the-port-39gb",
     "topic": "general"
   }
 ]
