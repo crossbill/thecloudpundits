@@ -1,50 +1,50 @@
 [
   {
-    "title": "AI is writing more of our code every day. But are we paying close attention to what happens when that code quietly fails?",
-    "desc": "<p>AI is writing more of our code every day. But are we paying close attention to what happens when that code quietly fails?</p>\n\n<p>\u2192 Silen",
-    "link": "https://dev.to/cloudnestle/ai-is-writing-more-of-our-code-every-day-but-are-we-paying-close-attention-to-what-happens-when-185f",
-    "topic": "general"
-  },
-  {
-    "title": "What Is beacon.min.js? Cloudflare's Auto-Injected Analytics, and How to Turn It Off (2026)",
-    "desc": "<p>Short answer: <code>beacon.min.js</code> is Cloudflare's Real User Measurement script. If your domain is on a <strong>free</strong> Cloud",
-    "link": "https://dev.to/pavel-hostim/what-is-beaconminjs-cloudflares-auto-injected-analytics-and-how-to-turn-it-off-2026-10g2",
-    "topic": "general"
-  },
-  {
-    "title": "How to find who created a resource in AWS CloudTrail: resource owners and orphan accountability",
-    "desc": "<h2>\n  \n  \n  The Orphan Problem: Why AWS Resource Ownership Disappears\n</h2>\n\n<p>Orphaned AWS resources accumulate silently because ownershi",
-    "link": "https://dev.to/zop_8abedcc7e12/how-to-find-who-created-a-resource-in-aws-cloudtrail-resource-owners-and-orphan-accountability-57gk",
+    "title": "Unified Secrets Security with GitGuardian and AWS Secrets Manager",
+    "desc": "<p><em>By: Pierre Le Clezio, Lead Product Manager \u2013 GitGuardian; Nic Gumina, Senior Security Consultant \u2013 AWS; Manu Chandrasekhar, Senior De",
+    "link": "https://dev.to/gitguardian/unified-secrets-security-with-gitguardian-and-aws-secrets-manager-416",
     "topic": "aws"
   },
   {
-    "title": "AWS Resource Explorer vs Azure Resource Graph vs GCP Cloud Asset Inventory: what each one finds and why none of them show cost",
-    "desc": "<h2>\n  \n  \n  The Inventory Illusion: What Cloud Discovery Tools Actually Show You\n</h2>\n\n<p>AWS Resource Explorer, Azure Resource Graph, and",
-    "link": "https://dev.to/zop_8abedcc7e12/aws-resource-explorer-vs-azure-resource-graph-vs-gcp-cloud-asset-inventory-what-each-one-finds-and-3b1a",
-    "topic": "aws"
-  },
-  {
-    "title": "AWS Cost Anomaly Detection vs Budgets: The Exact Thresholds a Cloud Cost Anomaly Detector Should Use",
-    "desc": "<p>Here's a postmortem that gets written every month somewhere: a misconfigured NAT gateway (or a recursive Lambda, or a debug-level log gro",
-    "link": "https://dev.to/zop_8abedcc7e12/aws-cost-anomaly-detection-vs-budgets-the-exact-thresholds-a-cloud-cost-anomaly-detector-should-use-43h8",
-    "topic": "aws"
-  },
-  {
-    "title": "Blood in Vomit: Causes, Warning Signs & When It Could Be Esophageal Cancer",
-    "desc": "<p>Blood in vomit can be frightening, but it does not always mean cancer. There are several possible causes, including stomach ulcers, gastr",
-    "link": "https://dev.to/dr_harshvardhanatreya_18/blood-in-vomit-causes-warning-signs-when-it-could-be-esophageal-cancer-2a38",
+    "title": "Replay Your Last Ten Bugfixes Before You Trust a New Coding Model",
+    "desc": "<p>Consider a small team that sees two model releases in the same week. One is DeepSeek-V4-Pro-0813, described as cheap and good at code. An",
+    "link": "https://dev.to/appjs_7055/replay-your-last-ten-bugfixes-before-you-trust-a-new-coding-model-kl8",
     "topic": "general"
   },
   {
-    "title": "What Happens When You Create a Pod in Kubernetes?",
-    "desc": "<p>So, like when you type:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>kubectl apply <span clas",
-    "link": "https://dev.to/naveens16/what-happens-when-you-create-a-pod-in-kubernetes-5p8",
-    "topic": "kubernetes"
+    "title": "AI Agent Testing & Evaluation in 2026: Tracing, Hallucination Benchmarks & Evals",
+    "desc": "<h1>\n  \n  \n  AI Agent Testing & Evaluation in 2026: Tracing, Hallucination Benchmarks & Evals\n</h1>\n\n<p>Testing deterministic software is we",
+    "link": "https://dev.to/agdex_ai/ai-agent-testing-evaluation-in-2026-tracing-hallucination-benchmarks-evals-2jcc",
+    "topic": "general"
   },
   {
-    "title": "Keep the Database. Close the Port.",
-    "desc": "<h1>\n  \n  \n  Keep the Database. Close the Port.\n</h1>\n\n<p>Why 2026 security, FinOps, and edge-runtime facts all point at the access layer \u2014 ",
-    "link": "https://dev.to/zedgi/keep-the-database-close-the-port-39gb",
+    "title": "Your Access Log Is a Location Database",
+    "desc": "<p>Nobody decides to build a movement-tracking dataset. You install a web server, it writes its default log format, and eighteen months late",
+    "link": "https://dev.to/havenmessenger/your-access-log-is-a-location-database-eo7",
+    "topic": "general"
+  },
+  {
+    "title": "A tiny TypeError. A 3-day cloud bill. Three bugs hiding in plain sight.",
+    "desc": "<p><em>This is a submission for <a href=\"https://dev.to/bugsmash\">DEV's Summer Bug Smash: Smash Stories</a> powered by <a href=\"https://sent",
+    "link": "https://dev.to/codecrack01/a-tiny-typeerror-a-3-day-cloud-bill-three-bugs-hiding-in-plain-sight-1mfj",
+    "topic": "general"
+  },
+  {
+    "title": "A Model-Suggested C++ Fix Should Earn Its Way Through the Build Log",
+    "desc": "<p>Compiler warnings are cheap to ignore until a model-generated patch trades a signed/unsigned comparison for an integer cast that silences",
+    "link": "https://dev.to/datacpp_8185/a-model-suggested-c-fix-should-earn-its-way-through-the-build-log-3dej",
+    "topic": "general"
+  },
+  {
+    "title": "What Building a Port Scanner Taught Me About Trust in Networks",
+    "desc": "<p>A few weeks into building my port scanner, I hit a moment that had nothing to do with syntax and everything to do with judgment.</p>\n\n<p>",
+    "link": "https://dev.to/rjeff-sudo/what-building-a-port-scanner-taught-me-about-trust-in-networks-4c0i",
+    "topic": "general"
+  },
+  {
+    "title": "How a Silent Python TypeError Left Our Cloud Worker Running for 3 Days",
+    "desc": "<p>I thought our cloud cleanup worker was working.</p>\n\n<p><strong>It wasn't.</strong></p>\n\n<p>A small Python \"TypeError\" caused one of our ",
+    "link": "https://dev.to/codecrack01/how-a-silent-python-typeerror-left-our-cloud-worker-running-for-3-days-32d9",
     "topic": "general"
   }
 ]
