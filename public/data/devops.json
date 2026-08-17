@@ -1,50 +1,50 @@
 [
   {
-    "title": "How Actively Are Self-Hosted Analytics Tools Maintained? How to Check for Yourself",
-    "desc": "<p>A practical guide to judging whether a self-hosted analytics project is still actively developed, using the public signals every open-sou",
-    "link": "https://dev.to/kimcomplete/how-actively-are-self-hosted-analytics-tools-maintained-how-to-check-for-yourself-54ho",
+    "title": "Monitoring and Logging: The Force Awakens Your System's Health",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>I still remember the night our checkout service went dark. Users started tweeting about ",
+    "link": "https://dev.to/timevolt/monitoring-and-logging-the-force-awakens-your-systems-health-13i4",
     "topic": "general"
   },
   {
-    "title": "I Reduced Our Alert Volume by 90% \u2014 Here's the Playbook",
-    "desc": "<h2>\n  \n  \n  The Night I Almost Quit\n</h2>\n\n<p>Three months into my SRE role, I was averaging 47 alerts per on-call shift. Most were noise. ",
-    "link": "https://dev.to/samson_tanimawo/i-reduced-our-alert-volume-by-90-heres-the-playbook-3j1n",
+    "title": "I thought backing up Supabase was just pg_dump + rclone. It wasn't.",
+    "desc": "<p>A few days ago somebody on Reddit asked how to make proper backups of a Supabase project.</p>\n\n<p>My first answer was pretty straightforw",
+    "link": "https://dev.to/mkpdigital/i-thought-backing-up-supabase-was-just-pgdump-rclone-it-wasnt-1lbl",
     "topic": "general"
   },
   {
-    "title": "Best 33.3 Places to Buy a Old Naver Accounts Securely in Bulk",
-    "desc": "<p>\u00a0Buy South Korean Old Naver Accounts \u2013 Secure Naver Account Management | USA Digital Hub<br />\nMeta Description: Learn about South Korean",
-    "link": "https://dev.to/prudencebelloeegkk/best-333-places-to-buy-a-old-naver-accounts-securely-in-bulk-15bo",
+    "title": "Dev Log: 2026-08-13 \u2014 machines that state their own identity, and four fakes that certified nothing",
+    "desc": "<p>Twenty-six commits across six repos, and the day had one accidental theme running through it: <strong>things that were green and shouldn'",
+    "link": "https://dev.to/nasrulhazim/dev-log-2026-08-13-machines-that-state-their-own-identity-and-four-fakes-that-certified-nothing-2onn",
     "topic": "general"
   },
   {
-    "title": "One terminal, two trust levels \u2014 running Claude Code against a real subscription and a cheap proxy",
-    "desc": "<p><em>Part of an ongoing series on model routing and trust tiering for agentic coding tools. This one's the boring, working half \u2014 no bug h",
-    "link": "https://dev.to/mediblacksand_f0ea36c53fb/one-terminal-two-trust-levels-running-claude-code-against-a-real-subscription-and-a-cheap-proxy-5c02",
-    "topic": "anthropic"
-  },
-  {
-    "title": "How to Scale a Python App to Handle 1 Million Requests",
-    "desc": "<h1>\n  \n  \n  How to Scale a Python App to Handle 1 Million Requests\n</h1>\n\n<p>tags: python, scaling, performance, devops</p>\n\n\n\n\n<p>tags: py",
-    "link": "https://dev.to/qingluan/how-to-scale-a-python-app-to-handle-1-million-requests-agi",
+    "title": "Ask the machine what it is before you change it",
+    "desc": "<p>I spent today on a control plane that provisions plain VMs over SSH \u2014 the kind of app where a wrong answer doesn't render badly, it reins",
+    "link": "https://dev.to/nasrulhazim/ask-the-machine-what-it-is-before-you-change-it-54k6",
     "topic": "general"
   },
   {
-    "title": "Top 03 Sites To Buy, Old telegram Accounts In This Year ...",
-    "desc": "<p>Buy Old Telegram Accounts\u00a0<br />\n\ud83c\udf1f\ud83d\udcac 24/7 Premium Support \u2014 Always Here for You! \ud83e\udd1d\u2728<br />\n\ud83d\udcf1\ud83d\udc8e WhatsApp: +1 (506) 541-7768<br />\n\u2708\ufe0f\ud83d\ude80 Telegra",
-    "link": "https://dev.to/prudencebelloeegkk/top-03-sites-to-buy-old-telegram-accounts-in-this-year--57li",
+    "title": "Workers KV's 60-Second Consistency Window: What It Actually Costs You",
+    "desc": "<p>Cloudflare's Workers KV documentation gives you a number: a write may take up to 60 seconds to become visible in other locations. That nu",
+    "link": "https://dev.to/pickuma/workers-kvs-60-second-consistency-window-what-it-actually-costs-you-4i6b",
     "topic": "general"
   },
   {
-    "title": "AI infrastructure and inference platforms pricing compared (2026-08) - 18 tools, tracked daily",
-    "desc": "<p>Lowest published plan price for <strong>18 AI infrastructure and inference platforms</strong>, read directly from each company's live pri",
-    "link": "https://dev.to/pricingdiff/ai-infrastructure-and-inference-platforms-pricing-compared-2026-08-18-tools-tracked-daily-432c",
+    "title": "Production App Logging Explained: 4 Hosted API Comparisons for Express",
+    "desc": "<p>Short answer: for simple production logging in a Node/Express app, keep Pino emitting structured events, use a hosted log API for central",
+    "link": "https://dev.to/svennilsson228/production-app-logging-explained-4-hosted-api-comparisons-for-express-1oi",
     "topic": "general"
   },
   {
-    "title": "Top 7.3 Reliable Websites for Buying Gmail Accounts With 2FA",
-    "desc": "<p>Buy Old Gmail Accounts With 2FA \u2013 Secure Account Management | USA Digital Hub<br />\n\ud83c\udf1f\ud83d\udcac 24/7 Premium Support \u2014 Always Here for You! \ud83e\udd1d\u2728<br ",
-    "link": "https://dev.to/prudencebelloeegkk/top-73-reliable-websites-for-buying-gmail-accounts-with-2fa-3fpi",
+    "title": "DeepSeek Harness Hit 126k Stars \u2014 What Self-Evolution Means for Software (and Observability)",
+    "desc": "<p>A repo on GitHub has been exploding lately. DeepSeek open-sourced an agent framework called <strong>deepseek-harness</strong> (often shor",
+    "link": "https://dev.to/databufflabs/deepseek-harness-hit-126k-stars-what-self-evolution-means-for-software-and-observability-506j",
     "topic": "general"
+  },
+  {
+    "title": "SSH into your servers from your phone: keys, Tailscale, and an AI safety net",
+    "desc": "<p>Every on-call engineer has lived this: an alert fires, you're not at your desk, and all you have is your phone. The laptop-and-VPN scramb",
+    "link": "https://dev.to/chen_zong_43c81f1a65b1a54/ssh-into-your-servers-from-your-phone-keys-tailscale-and-an-ai-safety-net-271h",
+    "topic": "guardrails"
   }
 ]
