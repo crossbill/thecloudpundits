@@ -1,5 +1,29 @@
 [
   {
+    "title": "How to Configure Parallel Execution in TestNG vs. Custom Excel Allocator",
+    "desc": "<p>Optimizing test execution speed is essential for keeping build pipelines lean. Depending on how your framework is structured, you can ach",
+    "link": "https://dev.to/shell_qa/how-to-configure-parallel-execution-in-testng-vs-custom-excel-allocator-4lo2",
+    "topic": "general"
+  },
+  {
+    "title": "Treat Prompts Like Code: Versioning and Rollbacks in Production",
+    "desc": "<p>A prompt that runs in production is code. It belongs in version control, it gets a version id that shows up in your logs, it passes a reg",
+    "link": "https://dev.to/sagar_jain4010/treat-prompts-like-code-versioning-and-rollbacks-in-production-2cai",
+    "topic": "general"
+  },
+  {
+    "title": "Why platform standardization is your real secret weapon \ud83d\udee0\ufe0f",
+    "desc": "<p>Hiring more senior engineers or DevOps leads will not save your slipping roadmap if you are still fighting the \"hidden factory\". Develope",
+    "link": "https://dev.to/upsun/why-platform-standardization-is-your-real-secret-weapon-1p3",
+    "topic": "general"
+  },
+  {
+    "title": "Transparency log witnesses: how cosigned checkpoints make a log tamper-evident",
+    "desc": "<p>On 17 August 2026, at 14:17:40 UTC, an independent witness operated by <a href=\"https://witness.markovianprotocol.com/checkpoints\" rel=\"n",
+    "link": "https://dev.to/traceseal/transparency-log-witnesses-how-cosigned-checkpoints-make-a-log-tamper-evident-2c4n",
+    "topic": "general"
+  },
+  {
     "title": "Everhayes Academy (Everhayes Omnis Academy) Supports Modern Learners Through Structured Financial Education",
     "desc": "<p>Everhayes Academy (Everhayes Omnis Academy) is building a learner-centered financial education framework designed to support clearer unde",
     "link": "https://dev.to/everhayesomnis/everhayes-academy-everhayes-omnis-academy-supports-modern-learners-through-structured-financial-1j5h",
@@ -21,30 +45,6 @@
     "title": "Synced, Healthy, Running, Wrong",
     "desc": "<p>Two days after <a href=\"https://dev.to/jeromefromhk/the-twenty-hour-fuse-4lcl\">The Twenty-Hour Fuse</a>, I had seven new alert rules on a",
     "link": "https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2",
-    "topic": "general"
-  },
-  {
-    "title": "SSH keys on your phone: generate, import, and use them without leaking the private key",
-    "desc": "<p>Password SSH from a phone is a bad habit waiting to bite you: it's phishable, brute-forceable, and painful to type on a touch keyboard. K",
-    "link": "https://dev.to/chen_zong_43c81f1a65b1a54/ssh-keys-on-your-phone-generate-import-and-use-them-without-leaking-the-private-key-5d89",
-    "topic": "general"
-  },
-  {
-    "title": "I Used Claude to Fill Inspection Forms by Voice, Without Building a Voice Stack",
-    "desc": "<h1>\n  \n  \n  I Used Claude to Fill Inspection Forms by Voice, Without Building a Voice Stack\n</h1>\n\n<p>I just added voice form fill to Groun",
-    "link": "https://dev.to/toddsullivan/i-used-claude-to-fill-inspection-forms-by-voice-without-building-a-voice-stack-3ha",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Deploying Self-Hosted PocketBase on Cloud Servers",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<p>Before launching your production PocketBase instance, you will need the following resources:</p>\n\n<u",
-    "link": "https://dev.to/chasebot/deploying-self-hosted-pocketbase-on-cloud-servers-225j",
-    "topic": "general"
-  },
-  {
-    "title": "Treat Prompts Like Code: Versioning and Rollbacks in Production",
-    "desc": "<p>A prompt that runs in production is code. It belongs in version control, it gets a version id that shows up in your logs, it passes a reg",
-    "link": "https://dev.to/sagar_jain4010/treat-prompts-like-code-versioning-and-rollbacks-in-production-77m",
     "topic": "general"
   }
 ]

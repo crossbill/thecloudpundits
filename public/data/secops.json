@@ -1,5 +1,17 @@
 [
   {
+    "title": "Heights Finance Data Breach Impacts at Least 1.2 Million Individuals",
+    "desc": "<p>Hackers stole names, addresses, phone numbers, Social Security numbers, and financial information from a third-party platform.</p>\n<p>The",
+    "link": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
+    "topic": "secops"
+  },
+  {
+    "title": "GitLab Patches Critical Code Injection Vulnerability",
+    "desc": "<p>The security defect allows unauthenticated attackers to modify or delete user data and public projects.</p>\n<p>The post <a href=\"https://",
+    "link": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
     "desc": "<p>The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data.</p>\n<p>The pos",
     "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
@@ -34,17 +46,5 @@
     "desc": "<p>Threat actors gained root access to the vulnerable systems and deployed a Monero miner.</p>\n<p>The post <a href=\"https://www.securityweek",
     "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
     "topic": "secops"
-  },
-  {
-    "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
-    "desc": "<p>The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
-    "topic": "secops"
-  },
-  {
-    "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
-    "desc": "<p>A threat actor is claiming the exfiltration of millions of records from McDonald\u2019s, TCS, Vodafone, and other large organizations.</p>\n<p>",
-    "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
-    "topic": "azure"
   }
 ]
