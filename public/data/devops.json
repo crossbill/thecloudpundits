@@ -1,50 +1,50 @@
 [
   {
-    "title": "Cost Governance for AI Agents: From Detection to Enforcement",
-    "desc": "<p>Your AI agent is burning money. It hasn't crashed, it's running fine, and the only way you find out is when the bill shows up.</p>\n\n<p>He",
-    "link": "https://dev.to/opsveritas/cost-governance-for-ai-agents-from-detection-to-enforcement-42mp",
+    "title": "I Turned My Self-Hosting Setup Into 20 Battle-Tested Docker Compose Templates",
+    "desc": "<h1>\n  \n  \n  I Turned My Self-Hosting Setup Into 20 Battle-Tested Docker Compose Templates\n</h1>\n\n<p>Every self-hoster I know has the same r",
+    "link": "https://dev.to/agentchip/i-turned-my-self-hosting-setup-into-20-battle-tested-docker-compose-templates-3gb6",
+    "topic": "docker"
+  },
+  {
+    "title": "How Network Namespaces Let You Build an Entire Network on One Linux Host",
+    "desc": "<p>A Linux network namespace is an independent network stack. Give several namespaces interfaces, addresses, routes, and virtual Ethernet co",
+    "link": "https://dev.to/subnetica/how-network-namespaces-let-you-build-an-entire-network-on-one-linux-host-95",
     "topic": "general"
   },
   {
-    "title": "Why You Should Drop Managed Kubernetes and Go Back to a Bare-Metal VPS",
-    "desc": "<p>Modern deployment culture has a massive over-engineering problem. </p>\n\n<p>We have been systematically conditioned by giant cloud monopol",
-    "link": "https://dev.to/arthur_luca/why-you-should-drop-managed-kubernetes-and-go-back-to-a-bare-metal-vps-4d03",
+    "title": "Build a Website Health Checker with Python",
+    "desc": "<h1>\n  \n  \n  Build a Website Health Checker with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tools</p>\n\n\n\n\n<p>tags: python, devops, m",
+    "link": "https://dev.to/qingluan/build-a-website-health-checker-with-python-11f9",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Needs a Deadline Budget, Not Just a Timeout",
+    "desc": "<p>A timeout answers one question: how long may this process wait?</p>\n\n<p>An agent needs to answer a harder question: how much time is left",
+    "link": "https://dev.to/zira125/your-ai-agent-needs-a-deadline-budget-not-just-a-timeout-bcj",
+    "topic": "general"
+  },
+  {
+    "title": "One infrastructure definition, many targets",
+    "desc": "<p>I built an open-source DSL that compiles a single .infra file to Kubernetes, Helm, Docker Compose, Terraform, or GitHub Actions.</p>",
+    "link": "https://dev.to/kakukpl/one-infrastructure-definition-many-targets-3lom",
+    "topic": "general"
+  },
+  {
+    "title": "Silencing an Alert from Grafana",
+    "desc": "<p><strong>Silencing an Alert</strong></p>\n\n<p>After completing the project i was still receiving alert. Wanted to silence it.</p>\n\n<p><a cl",
+    "link": "https://dev.to/bala_audu_musa/silencing-an-alert-from-grafana-108p",
+    "topic": "general"
+  },
+  {
+    "title": "Why Multi-Tenant Cloud VPS is Killing Your Database Performance",
+    "desc": "<p>If you are running a production database like PostgreSQL, MySQL, or a real-time caching engine like Redis, you already know that performa",
+    "link": "https://dev.to/arthur_luca/why-multi-tenant-cloud-vps-is-killing-your-database-performance-5bba",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes in 2026: The Complete Guide for DevOps Teams",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/kubernetes-complete-guide/\" rel=\"noopener noreferrer\">DevToolHub</a>",
+    "link": "https://dev.to/amareswer/kubernetes-in-2026-the-complete-guide-for-devops-teams-2hgf",
     "topic": "kubernetes"
-  },
-  {
-    "title": "How AI Agents Revolutionize Software Engineering Workflows",
-    "desc": "<p>In the rapidly evolving landscape of software engineering, AI agents are transforming workflows and redefining how developers approach ta",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-ai-agents-revolutionize-software-engineering-workflows-3gd4",
-    "topic": "general"
-  },
-  {
-    "title": "The Best 17 Places To Buy Twitter Accounts (PVA & Bulk).2026-2027",
-    "desc": "<p>Buy Twitter Accounts</p>\n\n<p>\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Telegram \u2500\u2500 @Getsmmzoneofficial<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4WhatsApp \u2500\u2500 +1 (352) 828-5265<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Email \u2500",
-    "link": "https://dev.to/livviegentry8d3l2/the-best-17-places-to-buy-twitter-accounts-pva-bulk2026-2027-15hb",
-    "topic": "general"
-  },
-  {
-    "title": ".NET 10 dotnet tool exec: Pin the Version and Feed in CI",
-    "desc": "<p>A CI step that says <code>dotnet tool exec Some.Tool</code> looks isolated, but it is not fully reproducible. Without a version, the comm",
-    "link": "https://dev.to/ssukhpinder/net-10-dotnet-tool-exec-pin-the-version-and-feed-in-ci-2jgl",
-    "topic": "general"
-  },
-  {
-    "title": "A Wildfire Just Exposed the Geographic Redundancy Problem in Mission-Critical Infrastructure",
-    "desc": "<p>Geographic redundancy is the architectural claim most mission-critical infrastructure makes and the one most rarely tested \u2014 and on Augus",
-    "link": "https://dev.to/ntctech/a-wildfire-just-exposed-the-geographic-redundancy-problem-in-mission-critical-infrastructure-43pn",
-    "topic": "general"
-  },
-  {
-    "title": "Hello World \u2764\ufe0f",
-    "desc": "",
-    "link": "https://dev.to/haya_alhosain/hello-world-3po9",
-    "topic": "general"
-  },
-  {
-    "title": "Top 15 Places to Purchase Aged GitHub Accounts 2026",
-    "desc": "<p>Buy Aged GitHub Account</p>\n\n<p>\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Telegram \u2500\u2500 @Getsmmzoneofficial<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4WhatsApp \u2500\u2500 +1 (352) 828-5265<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Emai",
-    "link": "https://dev.to/livviegentry8d3l2/top-15-places-to-purchase-aged-github-accounts-2026-4opa",
-    "topic": "general"
   }
 ]
