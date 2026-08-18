@@ -1,50 +1,50 @@
 [
   {
-    "title": "Reducing SaaS Sprawl: A Technical Approach to Building Connected Enterprise Systems",
-    "desc": "<p>Enterprise software environments rarely become complex because of one bad technology decision.</p>\n\n<p>They become complex because organi",
-    "link": "https://dev.to/axixtech/reducing-saas-sprawl-a-technical-approach-to-building-connected-enterprise-systems-1j95",
+    "title": "Stop Writing JSON-to-CSV Code: Use This API Instead",
+    "desc": "<p><strong>API URL:</strong> <a href=\"https://boogeyman-unknowing-amenity.ngrok-free.dev\" rel=\"noopener noreferrer\">https://boogeyman-unknow",
+    "link": "https://dev.to/yojimbo/stop-writing-json-to-csv-code-use-this-api-instead-2jhd",
     "topic": "general"
   },
   {
-    "title": "Why Your Cloud Cost Report Never Matches the Invoice: Blended vs Unblended vs Amortized, Reconciled",
-    "desc": "<p>It's the same meeting everywhere. Finance opens the invoice: $84,210. Engineering opens the cost dashboard: $80,905. The gap is 4%, nobod",
-    "link": "https://dev.to/zop_8abedcc7e12/why-your-cloud-cost-report-never-matches-the-invoice-blended-vs-unblended-vs-amortized-reconciled-342j",
+    "title": "How to Turn Your Website into a Powerful Lead Generation Tool",
+    "desc": "<p>In today\u2019s digital world, your website is more than just an online presence. It can become one of your most powerful tools for attracting",
+    "link": "https://dev.to/upwork_floatinginfotech_/how-to-turn-your-website-into-a-powerful-lead-generation-tool-22p9",
     "topic": "general"
   },
   {
-    "title": "Azure Cost Management Reader vs Billing Reader: The Exact Read-Only Permissions a Cost Tool Needs",
-    "desc": "<p>Somewhere in every Azure cost-tool onboarding, a security engineer is staring at two built-in roles with nearly identical names: <strong>",
-    "link": "https://dev.to/zop_8abedcc7e12/azure-cost-management-reader-vs-billing-reader-the-exact-read-only-permissions-a-cost-tool-needs-3h0o",
-    "topic": "azure"
-  },
-  {
-    "title": "From Read-Only Connect to Your First Cloud Waste Report in Five Minutes",
-    "desc": "<p>Cost tool evaluations die of two opposite diseases. The first is the security stall: three weeks of review before anyone grants a single ",
-    "link": "https://dev.to/zop_8abedcc7e12/from-read-only-connect-to-your-first-cloud-waste-report-in-five-minutes-2nd4",
+    "title": "Test NO_PROXY as Routing Logic, Not Just a String",
+    "desc": "<p><code>NO_PROXY</code> is executable routing policy. One overbroad entry can silently send traffic direct even when your proxy variables l",
+    "link": "https://dev.to/98ip/test-noproxy-as-routing-logic-not-just-a-string-2jki",
     "topic": "general"
   },
   {
-    "title": "How to Benchmark Complex AI Pipelines Without PII: Designing a 200+ Synthetic Scenario Test Suite",
-    "desc": "<p>Testing production AI applications in high-stakes domains, such as health insurance, legal tech, or financial services, presents a severe",
-    "link": "https://dev.to/sharma-sugurthi/how-to-benchmark-complex-ai-pipelines-without-pii-designing-a-200-synthetic-scenario-test-suite-987",
+    "title": "Real-Time Temperature and Production Monitoring in Industrial Factories",
+    "desc": "<p>In manufacturing, production performance and operating conditions are both important. Operators need to see current temperature condition",
+    "link": "https://dev.to/phuc_bach_22e/real-time-temperature-and-production-monitoring-in-industrial-factories-3eeo",
     "topic": "general"
   },
   {
-    "title": "AI Observability Explained: What It Is and How It Works",
-    "desc": "<p>Traditional monitoring rests on one quiet assumption that nobody ever writes down: the same input gives you the same output. Something br",
-    "link": "https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487",
+    "title": "How Much Transcoding Headroom Does a Plex Server Really Need? Quick Sync vs NVENC vs CPU for 4K HDR",
+    "desc": "<p>Size your Plex server for the streams that actually transcode, not for the number of people you host. A single Intel CPU with a recent Qu",
+    "link": "https://dev.to/john_182319291/how-much-transcoding-headroom-does-a-plex-server-really-need-quick-sync-vs-nvenc-vs-cpu-for-4k-hdr-52cd",
     "topic": "general"
   },
   {
-    "title": "[Technical Discussion] IPC Message Queue Tuning for WLOADCTL on Linux",
-    "desc": "<p>WLOADCTL is built as a distributed scheduling platform composed of multiple cooperating processes.</p>\n\n<p>Communication between differen",
-    "link": "https://dev.to/weeli_632477a9c141395/technical-discussion-ipc-message-queue-tuning-for-wloadctl-on-linux-3pe5",
+    "title": "From IT Technician to Cloud & DevOps: My Journey Has Just Begun",
+    "desc": "<h1>\n  \n  \n  From IT Technician to Cloud & DevOps: My Journey Has Just Begun\n</h1>\n\n<p>Hi DEV Community! </p>\n\n<p>This is my very first post",
+    "link": "https://dev.to/ishukushwah/from-it-technician-to-cloud-devops-my-journey-has-just-begun-flh",
     "topic": "general"
   },
   {
-    "title": "Best Digital Marketing Agency: A Smart Guide to Online Growth in 2026",
-    "desc": "<p>Introduction</p>\n\n<p>In a digital-first marketplace, customers can discover a business through Google, social media, online reviews, maps",
-    "link": "https://dev.to/vision_click360_f38b44b0/best-digital-marketing-agency-a-smart-guide-to-online-growth-in-2026-m75",
+    "title": "Debugging curl Proxy Authentication Without Leaking Credentials",
+    "desc": "<p>A <code>407 Proxy Authentication Required</code> response is a useful routing checkpoint. It normally means the client reached a proxy, b",
+    "link": "https://dev.to/98ip/debugging-curl-proxy-authentication-without-leaking-credentials-1ok2",
     "topic": "general"
+  },
+  {
+    "title": "Terraform Compliance Scanning in GitLab CI: 3 Mistakes We Made",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/18/terraform-compliance-scanning-in-gitlab-ci-3-mistakes-we-made\" rel",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/terraform-compliance-scanning-in-gitlab-ci-3-mistakes-we-made-23j9",
+    "topic": "terraform"
   }
 ]
