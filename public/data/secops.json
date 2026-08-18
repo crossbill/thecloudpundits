@@ -1,5 +1,11 @@
 [
   {
+    "title": "Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks",
+    "desc": "<p>Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it\u2019s time to rethink prevention a",
+    "link": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
+    "topic": "secops"
+  },
+  {
     "title": "CISO Conversations: Nico Waisman \u2013 From Self-Taught Hacker to AI-Driven Offensive Security at XBOW",
     "desc": "<p>With no formal training and no career plan, Waisman built a path from Argentina's early hacking scene to leading security at an AI-powere",
     "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
@@ -39,12 +45,6 @@
     "title": "GitLab Patches Critical Code Injection Vulnerability",
     "desc": "<p>The security defect allows unauthenticated attackers to modify or delete user data and public projects.</p>\n<p>The post <a href=\"https://",
     "link": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
-    "desc": "<p>The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
     "topic": "secops"
   }
 ]
