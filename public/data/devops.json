@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Real Cost of Running a Developer Platform",
-    "desc": "<p>The cross-posting engine was the reason ZyVOP existed. It was also the reason I had to leave Vercel.</p>\n\n<p>Vercel charges for edge func",
-    "link": "https://dev.to/sanjay_singh_1/the-real-cost-of-running-a-developer-platform-56f0",
+    "title": "AI Robots.txt vs Standard Robots.txt: What Modern Webmasters Must Know in 2026",
+    "desc": "<p>For nearly 30 years, the <strong>Robots Exclusion Protocol (<code>robots.txt</code>)</strong> was simple: you allowed <code>Googlebot</co",
+    "link": "https://dev.to/willsun/ai-robotstxt-vs-standard-robotstxt-what-modern-webmasters-must-know-in-2026-351o",
     "topic": "general"
   },
   {
-    "title": "Boosting Productivity with Software Automation Strategies",
-    "desc": "<h2>\n  \n  \n  Automation: The Game Changer in Software Engineering\n</h2>\n\n<p>If you\u2019re still relying on manual processes, you might be holdin",
-    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/boosting-productivity-with-software-automation-strategies-37ip",
+    "title": "Stop Betting on One Path: Practical Multipath TCP (MPTCP) on Linux",
+    "desc": "<h1>\n  \n  \n  Stop Betting on One Path: Practical Multipath TCP (MPTCP) on Linux\n</h1>\n\n<p>Most Linux TCP sessions still die with the path th",
+    "link": "https://dev.to/lyraalishaikh/stop-betting-on-one-path-practical-multipath-tcp-mptcp-on-linux-133j",
     "topic": "general"
   },
   {
-    "title": "OIDC Authentication with Keycloak (and Auth0, Okta, Azure AD)",
-    "desc": "<p>If your team already runs an identity provider, the last thing you want is a second login system. You want your apps to trust the identit",
-    "link": "https://dev.to/lialiago/oidc-authentication-with-keycloak-and-auth0-okta-azure-ad-140g",
-    "topic": "azure"
-  },
-  {
-    "title": "GitHub Copilot Agent Plugins 1.0: Build Once, Run Across Agent Clients",
-    "desc": "<h2>\n  \n  \n  Article Summary\n</h2>\n\n<p>On August 12, 2026, GitHub announced general support for Agent Plugins 1.0 in VS Code, Copilot CLI, t",
-    "link": "https://dev.to/cheng_zhang_45ee857b979b0/github-copilot-agent-plugins-10-build-once-run-across-agent-clients-39bj",
+    "title": "5 Content Lanes, One Watchdog: How I Stopped Wondering If My Automation Still Runs",
+    "desc": "<p>Every morning I used to open my logs and ask the same question: did it actually run last night? The scripts always reported success. The ",
+    "link": "https://dev.to/bokuwalily/5-content-lanes-one-watchdog-how-i-stopped-wondering-if-my-automation-still-runs-3fh1",
     "topic": "general"
   },
   {
-    "title": "DBSCAN Has No Loss Function. That's Not a Bug.",
-    "desc": "<p><em>Classic Machine Learning Through the Eyes of an SRE \u2014 Part 6</em></p>\n\n<p>DBSCAN was the first algorithm in my study set that optimiz",
-    "link": "https://dev.to/nishant_banginwar_80b7dc5/dbscan-has-no-loss-function-thats-not-a-bug-39gd",
+    "title": "Opinion: Free Model Access Should Make systemd Drafts Disposable",
+    "desc": "<p>Free model access and a free server change the economics of infrastructure automation in one specific way: the cost of producing a draft ",
+    "link": "https://dev.to/github_7727/opinion-free-model-access-should-make-systemd-drafts-disposable-4474",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent Health Check Is Lying: Probe the Work Path, Not Just the Process",
-    "desc": "<p>A process can be alive while an AI agent is unable to do useful work.</p>\n\n<p>That happens when the event loop is running but the state s",
-    "link": "https://dev.to/zira125/your-ai-agent-health-check-is-lying-probe-the-work-path-not-just-the-process-8po",
+    "title": "Which Blockchain Certification Is Best for Beginners Without a Programming Background?",
+    "desc": "<p>Blockchain technology has expanded far beyond cryptocurrency. Today, professionals in finance, business, consulting, compliance, project ",
+    "link": "https://dev.to/georgiaweston/which-blockchain-certification-is-best-for-beginners-without-a-programming-background-1lmg",
     "topic": "general"
   },
   {
-    "title": "How to Use ViciDial Admin Utilities \u2014 Archive, Cleanup & Maintenance",
-    "desc": "<h1>\n  \n  \n  How to Use ViciDial Admin Utilities \u2014 Archive, Cleanup & Maintenance\n</h1>\n\n<p><strong>Master production ViciDial database main",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-use-vicidial-admin-utilities-archive-cleanup-maintenance-22id",
+    "title": "\"Your cron job isn't broken. It never even started.\"",
+    "desc": "<p>You've spent 40 minutes staring at a crontab line that <em>looks</em> perfect. The command works when you paste it into the terminal. But",
+    "link": "https://dev.to/developer_tech/your-cron-job-isnt-broken-it-never-even-started-4ag9",
     "topic": "general"
   },
   {
-    "title": "Designing Local Fixtures for Telegram Registration Validation",
-    "desc": "<p>When building integrations that rely on external validation services, the difference between a frustrated operator and an efficient one o",
-    "link": "https://dev.to/tgvalidatorofficial/designing-local-fixtures-for-telegram-registration-validation-b53",
+    "title": "Your proxy returned 200 OK and the wrong country's data",
+    "desc": "<p>The worst scraping bug we have shipped did not throw an exception. It returned HTTP 200, a full page of well-formed listings, every field",
+    "link": "https://dev.to/devil_scrapes/your-proxy-returned-200-ok-and-the-wrong-countrys-data-n4g",
+    "topic": "general"
+  },
+  {
+    "title": "decentralized universal computer: every machine is a folder under /",
+    "desc": "<p><a href=\"https://github.com/Skills03/c9\" rel=\"noopener noreferrer\"></a></p>\n\n<p>Every folder is a computer. cd into a folder is the same ",
+    "link": "https://dev.to/rishabh_kharyal_5d4e2610b/decentralized-universal-computer-every-machine-is-a-folder-under--3bco",
     "topic": "general"
   }
 ]
