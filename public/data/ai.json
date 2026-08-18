@@ -1,5 +1,11 @@
 [
   {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "desc": "",
+    "link": "https://huggingface.co/blog/multi-vector-encoder",
+    "topic": "general"
+  },
+  {
     "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
     "desc": "",
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
@@ -39,12 +45,6 @@
     "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "topic": "general"
-  },
-  {
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "desc": "",
-    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
     "topic": "general"
   }
 ]
