@@ -1,50 +1,50 @@
 [
   {
-    "title": "Self-Healing Software Development: Automating Code Generation, Testing, and Fixing with Solon AI Loop Engine",
-    "desc": "<p>Software agents are transitioning from stateless assistants to autonomous, loop-driven operators. While generating boilerplate code is ea",
-    "link": "https://dev.to/solonjava/self-healing-software-development-automating-code-generation-testing-and-fixing-with-solon-ai-856",
+    "title": "Your backup is not a backup until you have restored it",
+    "desc": "<blockquote>\n<p>This is an English write-up of a post from my Japanese dev diary. Original: <a href=\"https://saas-diary.com/tech-log/backup-",
+    "link": "https://dev.to/ryuji_saas/your-backup-is-not-a-backup-until-you-have-restored-it-4p9n",
     "topic": "general"
   },
   {
-    "title": "Static Review Is Not a Runtime Guarantee: Diff the Shape of an AI-Managed Server Before You Accept It",
-    "desc": "<p>The position I want to argue is unambiguous: when an AI model writes or edits a systemd service on a Linux server, reviewing the generate",
-    "link": "https://dev.to/github_7727/static-review-is-not-a-runtime-guarantee-diff-the-shape-of-an-ai-managed-server-before-you-accept-m2j",
+    "title": "25% of Requests to Our New Site Probed for Software and Files We Do Not Have",
+    "desc": "<p>We logged 30,644 requests to a static site over 28 days. 7,567 of them asked for WordPress, .env files and PHP shells that have never exi",
+    "link": "https://dev.to/kimcomplete/25-of-requests-to-our-new-site-probed-for-software-and-files-we-do-not-have-ji0",
     "topic": "general"
   },
   {
-    "title": "Your duplicate check cannot prove absence. Ours returned 404 for the post we had just published.",
-    "desc": "<p>Twenty-three minutes before the measurement below, we published a piece arguing that a human approval gate is usually not judgment. It is",
-    "link": "https://dev.to/unmannedops/your-duplicate-check-cannot-prove-absence-ours-returned-404-for-the-post-we-had-just-published-2ao7",
+    "title": "I built a lie-detector for my AI coding agent. Its first run caught me.",
+    "desc": "<p>Your coding agent says \"Done! All tests pass.\"</p>\n\n<p>Did anyone check?</p>\n\n<p>Not the summary it wrote \u2014 the actual exit code. Because",
+    "link": "https://dev.to/aurumflux20/i-built-a-lie-detector-for-my-ai-coding-agent-its-first-run-caught-me-5a98",
     "topic": "general"
   },
   {
-    "title": "5 Top 8 Sites to Buy old Gmail Accounts (Aged or New) in ...",
-    "desc": "<p>Buy Old Naver Accounts: Complete Security, Privacy & Account Management Guide<br />\n\ud83c\udf1f\ud83d\udcac 24/7 Premium Support \u2014 Always Here for You! \ud83e\udd1d\u2728<br ",
-    "link": "https://dev.to/lexiebrandtys83m/5-top-8-sites-to-buy-old-gmail-accounts-aged-or-new-in--2824",
+    "title": "Stop manually babysitting your automation flows",
+    "desc": "<p>If you've ever managed a fleet of workflows in a tool like Activepieces, you know the drill. A flow fails at 3 AM. You get a webhook noti",
+    "link": "https://dev.to/renato_marinho/stop-manually-babysitting-your-automation-flows-bc8",
     "topic": "general"
   },
   {
-    "title": "Velocity Micro Raptor Z55i (2026): Compact Dev Rig Review",
-    "desc": "<p>*<em>The Velocity Micro Raptor Z55i proves that a small form factor desktop doesn't have to sacrifice thermal headroom for compile-heavy ",
-    "link": "https://dev.to/thomas_woodfin_3a4efcd491/velocity-micro-raptor-z55i-2026-compact-dev-rig-review-1cp9",
-    "topic": "general"
-  },
-  {
-    "title": "Deploy Your Angular App with AWS S3 & CloudFront: A Fast, Cost-Effective Guide",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Deploying your Angular application to the cloud is a crucial step in sharing your work with the world. A",
-    "link": "https://dev.to/juhisri02/deploy-your-angular-app-with-aws-s3-cloudfront-a-fast-cost-effective-guide-35if",
-    "topic": "aws"
-  },
-  {
-    "title": "How I Trained a 193K-Pair MoE Model on a 4-Core Laptop Without a GPU (Introducing QNME-Omega)",
+    "title": "Simple Easy Voice Assistant using Raspberry Pi 1",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/susantabanik/how-i-trained-a-193k-pair-moe-model-on-a-4-core-laptop-without-a-gpu-introducing-qnme-omega-1ipp",
+    "link": "https://dev.to/teij04/simple-easy-voice-assistant-using-raspberry-pi-1-3ech",
     "topic": "general"
   },
   {
-    "title": "My best-looking GitHub Actions run shipped zero installs",
-    "desc": "<p><em>Quick take</em></p>\n\n<p>Your publish job is green. That proves you sent the file. It does not prove anyone can install it.</p>\n\n<p>Ev",
-    "link": "https://dev.to/heinrichneb/my-best-looking-github-actions-run-shipped-zero-installs-1ee8",
+    "title": "A 46GB Compressed-Memory Leak RSS Monitoring Can't See \u2014 and the 10-Minute Guard That Reclaims It",
+    "desc": "<p>Every automated posting lane on my machine sat at zero for an entire day, and <code>top -o mem</code> swore nothing was wrong. Swap was a",
+    "link": "https://dev.to/bokuwalily/a-46gb-compressed-memory-leak-rss-monitoring-cant-see-and-the-10-minute-guard-that-reclaims-it-33bc",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Kubernetes Operator with Python",
+    "desc": "<h1>\n  \n  \n  Build a Kubernetes Operator with Python\n</h1>\n\n<p>tags: python, kubernetes, devops, tutorial</p>\n\n\n\n\n<p>tags: python, kubernete",
+    "link": "https://dev.to/qingluan/build-a-kubernetes-operator-with-python-4ic7",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Your AI Agent Is Alive but Stuck: Add Progress Tokens, Not Just Heartbeats",
+    "desc": "<p>A process heartbeat can tell you that an agent runtime is still responding. It cannot tell you that the run is making progress.</p>\n\n<p>T",
+    "link": "https://dev.to/zira125/your-ai-agent-is-alive-but-stuck-add-progress-tokens-not-just-heartbeats-872",
     "topic": "general"
   }
 ]
