@@ -1,50 +1,50 @@
 [
   {
-    "title": "AI Robots.txt vs Standard Robots.txt: What Modern Webmasters Must Know in 2026",
-    "desc": "<p>For nearly 30 years, the <strong>Robots Exclusion Protocol (<code>robots.txt</code>)</strong> was simple: you allowed <code>Googlebot</co",
-    "link": "https://dev.to/willsun/ai-robotstxt-vs-standard-robotstxt-what-modern-webmasters-must-know-in-2026-351o",
+    "title": "Reducing SaaS Sprawl: A Technical Approach to Building Connected Enterprise Systems",
+    "desc": "<p>Enterprise software environments rarely become complex because of one bad technology decision.</p>\n\n<p>They become complex because organi",
+    "link": "https://dev.to/axixtech/reducing-saas-sprawl-a-technical-approach-to-building-connected-enterprise-systems-1j95",
     "topic": "general"
   },
   {
-    "title": "Stop Betting on One Path: Practical Multipath TCP (MPTCP) on Linux",
-    "desc": "<h1>\n  \n  \n  Stop Betting on One Path: Practical Multipath TCP (MPTCP) on Linux\n</h1>\n\n<p>Most Linux TCP sessions still die with the path th",
-    "link": "https://dev.to/lyraalishaikh/stop-betting-on-one-path-practical-multipath-tcp-mptcp-on-linux-133j",
+    "title": "Why Your Cloud Cost Report Never Matches the Invoice: Blended vs Unblended vs Amortized, Reconciled",
+    "desc": "<p>It's the same meeting everywhere. Finance opens the invoice: $84,210. Engineering opens the cost dashboard: $80,905. The gap is 4%, nobod",
+    "link": "https://dev.to/zop_8abedcc7e12/why-your-cloud-cost-report-never-matches-the-invoice-blended-vs-unblended-vs-amortized-reconciled-342j",
     "topic": "general"
   },
   {
-    "title": "5 Content Lanes, One Watchdog: How I Stopped Wondering If My Automation Still Runs",
-    "desc": "<p>Every morning I used to open my logs and ask the same question: did it actually run last night? The scripts always reported success. The ",
-    "link": "https://dev.to/bokuwalily/5-content-lanes-one-watchdog-how-i-stopped-wondering-if-my-automation-still-runs-3fh1",
+    "title": "Azure Cost Management Reader vs Billing Reader: The Exact Read-Only Permissions a Cost Tool Needs",
+    "desc": "<p>Somewhere in every Azure cost-tool onboarding, a security engineer is staring at two built-in roles with nearly identical names: <strong>",
+    "link": "https://dev.to/zop_8abedcc7e12/azure-cost-management-reader-vs-billing-reader-the-exact-read-only-permissions-a-cost-tool-needs-3h0o",
+    "topic": "azure"
+  },
+  {
+    "title": "From Read-Only Connect to Your First Cloud Waste Report in Five Minutes",
+    "desc": "<p>Cost tool evaluations die of two opposite diseases. The first is the security stall: three weeks of review before anyone grants a single ",
+    "link": "https://dev.to/zop_8abedcc7e12/from-read-only-connect-to-your-first-cloud-waste-report-in-five-minutes-2nd4",
     "topic": "general"
   },
   {
-    "title": "Opinion: Free Model Access Should Make systemd Drafts Disposable",
-    "desc": "<p>Free model access and a free server change the economics of infrastructure automation in one specific way: the cost of producing a draft ",
-    "link": "https://dev.to/github_7727/opinion-free-model-access-should-make-systemd-drafts-disposable-4474",
+    "title": "How to Benchmark Complex AI Pipelines Without PII: Designing a 200+ Synthetic Scenario Test Suite",
+    "desc": "<p>Testing production AI applications in high-stakes domains, such as health insurance, legal tech, or financial services, presents a severe",
+    "link": "https://dev.to/sharma-sugurthi/how-to-benchmark-complex-ai-pipelines-without-pii-designing-a-200-synthetic-scenario-test-suite-987",
     "topic": "general"
   },
   {
-    "title": "Which Blockchain Certification Is Best for Beginners Without a Programming Background?",
-    "desc": "<p>Blockchain technology has expanded far beyond cryptocurrency. Today, professionals in finance, business, consulting, compliance, project ",
-    "link": "https://dev.to/georgiaweston/which-blockchain-certification-is-best-for-beginners-without-a-programming-background-1lmg",
+    "title": "AI Observability Explained: What It Is and How It Works",
+    "desc": "<p>Traditional monitoring rests on one quiet assumption that nobody ever writes down: the same input gives you the same output. Something br",
+    "link": "https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487",
     "topic": "general"
   },
   {
-    "title": "\"Your cron job isn't broken. It never even started.\"",
-    "desc": "<p>You've spent 40 minutes staring at a crontab line that <em>looks</em> perfect. The command works when you paste it into the terminal. But",
-    "link": "https://dev.to/developer_tech/your-cron-job-isnt-broken-it-never-even-started-4ag9",
+    "title": "[Technical Discussion] IPC Message Queue Tuning for WLOADCTL on Linux",
+    "desc": "<p>WLOADCTL is built as a distributed scheduling platform composed of multiple cooperating processes.</p>\n\n<p>Communication between differen",
+    "link": "https://dev.to/weeli_632477a9c141395/technical-discussion-ipc-message-queue-tuning-for-wloadctl-on-linux-3pe5",
     "topic": "general"
   },
   {
-    "title": "Your proxy returned 200 OK and the wrong country's data",
-    "desc": "<p>The worst scraping bug we have shipped did not throw an exception. It returned HTTP 200, a full page of well-formed listings, every field",
-    "link": "https://dev.to/devil_scrapes/your-proxy-returned-200-ok-and-the-wrong-countrys-data-n4g",
-    "topic": "general"
-  },
-  {
-    "title": "decentralized universal computer: every machine is a folder under /",
-    "desc": "<p><a href=\"https://github.com/Skills03/c9\" rel=\"noopener noreferrer\"></a></p>\n\n<p>Every folder is a computer. cd into a folder is the same ",
-    "link": "https://dev.to/rishabh_kharyal_5d4e2610b/decentralized-universal-computer-every-machine-is-a-folder-under--3bco",
+    "title": "Best Digital Marketing Agency: A Smart Guide to Online Growth in 2026",
+    "desc": "<p>Introduction</p>\n\n<p>In a digital-first marketplace, customers can discover a business through Google, social media, online reviews, maps",
+    "link": "https://dev.to/vision_click360_f38b44b0/best-digital-marketing-agency-a-smart-guide-to-online-growth-in-2026-m75",
     "topic": "general"
   }
 ]
