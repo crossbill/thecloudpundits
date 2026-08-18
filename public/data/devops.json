@@ -1,5 +1,35 @@
 [
   {
+    "title": "Three Ways to Monitor Prepaid API Balances (Excel, Python + Cron, Power Automate)",
+    "desc": "<p>If you run a platform that depends on prepaid APIs, SMS gateways, identity verification, and airtime, you already know the failure mode. ",
+    "link": "https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja",
+    "topic": "general"
+  },
+  {
+    "title": "The 6 security headers your launch is probably missing \u2014 and the one-line fix for each",
+    "desc": "<p>I run a passive launch-readiness scan on freshly launched products every day. Public response headers and homepage HTML only \u2014 exactly wh",
+    "link": "https://dev.to/amitfeldman/the-6-security-headers-your-launch-is-probably-missing-and-the-one-line-fix-for-each-3lkc",
+    "topic": "secops"
+  },
+  {
+    "title": "5 Pitfalls in a Morning Repo Audit: launchd, bash 3.2, and Silent Failures on macOS",
+    "desc": "<p>I got laid off, and my monthly revenue went to zero overnight. All I had left was a handful of personal repositories. Six months later th",
+    "link": "https://dev.to/bokuwalily/5-pitfalls-in-a-morning-repo-audit-launchd-bash-32-and-silent-failures-on-macos-1l2e",
+    "topic": "general"
+  },
+  {
+    "title": "One repo, one day: 4 CI guards that were green and blind",
+    "desc": "<p><em>Guards that stopped guarding</em></p>\n\n<p>Your test suite proves your code works. Nothing in your repository proves your checks still",
+    "link": "https://dev.to/heinrichneb/one-repo-one-day-4-ci-guards-that-were-green-and-blind-oge",
+    "topic": "general"
+  },
+  {
+    "title": "Evaluate the Exit, Not the Entry: Auditing Hosting Platforms by What It Costs to Leave",
+    "desc": "<p>Every hosting comparison I've ever read \u2014 including ones I've written \u2014 is organized around the cost of arriving. Monthly price, included",
+    "link": "https://dev.to/suewang/evaluate-the-exit-not-the-entry-auditing-hosting-platforms-by-what-it-costs-to-leave-4g1i",
+    "topic": "general"
+  },
+  {
     "title": "Why Network Detection and Response (NDR) Matters in Modern Security Operations",
     "desc": "<p>Modern attacks don't always look like attacks.</p>\n\n<p>An attacker can use valid credentials, legitimate administrative tools, normal net",
     "link": "https://dev.to/eternal_3301/why-network-detection-and-response-ndr-matters-in-modern-security-operations-4c5d",
@@ -16,35 +46,5 @@
     "desc": "<p>Most Kubernetes clusters ship with insecure defaults that nobody touches until something goes wrong. A misconfigured Pod security context",
     "link": "https://dev.to/ayinedjimi-consultants/building-a-kubernetes-security-audit-tool-with-go-4dnm",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Build a System Monitor Dashboard with Python",
-    "desc": "<h1>\n  \n  \n  Build a System Monitor Dashboard with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tutorial</p>\n\n\n\n\n<p>tags: python, devo",
-    "link": "https://dev.to/qingluan/build-a-system-monitor-dashboard-with-python-5bof",
-    "topic": "general"
-  },
-  {
-    "title": "Observability for AI Infrastructure: What to Monitor Beyond CPU and Memory",
-    "desc": "<p>Thanks for taking the time to read. If you\u2019ve worked with AI infrastructure or observability, I\u2019d love to hear your experience in the com",
-    "link": "https://dev.to/sushyam_nagallapati/observability-for-ai-infrastructure-what-to-monitor-beyond-cpu-and-memory-2o4j",
-    "topic": "general"
-  },
-  {
-    "title": "Getting Started with Linux Foundation Certifications: Key Insights & Study Strategies published: true",
-    "desc": "<p>Over the past few years, the infrastructure landscape has undergone a massive shift toward cloud-native architectures and containerized w",
-    "link": "https://dev.to/dylanhayesit/getting-started-with-linux-foundation-certifications-key-insights-study-strategies-published-13li",
-    "topic": "general"
-  },
-  {
-    "title": "Checklist: Onboarding End-to-End Automation Frameworks to Harness CI",
-    "desc": "<p>Successfully onboarding an automated test suite to <strong>Harness CI</strong> requires configuring infrastructure placeholders, secrets,",
-    "link": "https://dev.to/shell_qa/checklist-onboarding-end-to-end-automation-frameworks-to-harness-ci-2jmb",
-    "topic": "general"
-  },
-  {
-    "title": "How to Launch a VPN Brand That Doesn\u2019t Feel Like Another Generic App",
-    "desc": "<p>Launching a VPN application is easier than it once was. WireGuard and OpenVPN are mature, cloud infrastructure is accessible, and modern ",
-    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/how-to-launch-a-vpn-brand-that-doesnt-feel-like-another-generic-app-o6c",
-    "topic": "general"
   }
 ]
