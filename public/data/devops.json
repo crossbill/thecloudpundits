@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Real Cost of Running a Developer Platform",
+    "desc": "<p>The cross-posting engine was the reason ZyVOP existed. It was also the reason I had to leave Vercel.</p>\n\n<p>Vercel charges for edge func",
+    "link": "https://dev.to/sanjay_singh_1/the-real-cost-of-running-a-developer-platform-56f0",
+    "topic": "general"
+  },
+  {
+    "title": "Boosting Productivity with Software Automation Strategies",
+    "desc": "<h2>\n  \n  \n  Automation: The Game Changer in Software Engineering\n</h2>\n\n<p>If you\u2019re still relying on manual processes, you might be holdin",
+    "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/boosting-productivity-with-software-automation-strategies-37ip",
+    "topic": "general"
+  },
+  {
+    "title": "OIDC Authentication with Keycloak (and Auth0, Okta, Azure AD)",
+    "desc": "<p>If your team already runs an identity provider, the last thing you want is a second login system. You want your apps to trust the identit",
+    "link": "https://dev.to/lialiago/oidc-authentication-with-keycloak-and-auth0-okta-azure-ad-140g",
+    "topic": "azure"
+  },
+  {
+    "title": "GitHub Copilot Agent Plugins 1.0: Build Once, Run Across Agent Clients",
+    "desc": "<h2>\n  \n  \n  Article Summary\n</h2>\n\n<p>On August 12, 2026, GitHub announced general support for Agent Plugins 1.0 in VS Code, Copilot CLI, t",
+    "link": "https://dev.to/cheng_zhang_45ee857b979b0/github-copilot-agent-plugins-10-build-once-run-across-agent-clients-39bj",
+    "topic": "general"
+  },
+  {
     "title": "DBSCAN Has No Loss Function. That's Not a Bug.",
     "desc": "<p><em>Classic Machine Learning Through the Eyes of an SRE \u2014 Part 6</em></p>\n\n<p>DBSCAN was the first algorithm in my study set that optimiz",
     "link": "https://dev.to/nishant_banginwar_80b7dc5/dbscan-has-no-loss-function-thats-not-a-bug-39gd",
@@ -21,30 +45,6 @@
     "title": "Designing Local Fixtures for Telegram Registration Validation",
     "desc": "<p>When building integrations that rely on external validation services, the difference between a frustrated operator and an efficient one o",
     "link": "https://dev.to/tgvalidatorofficial/designing-local-fixtures-for-telegram-registration-validation-b53",
-    "topic": "general"
-  },
-  {
-    "title": "Bmup Multi-Asset Institute Enhances Public Recognition With a Clearer Brand Strategy",
-    "desc": "<p>Bmup Multi-Asset Institute is strengthening its brand recognition by placing greater emphasis on clear positioning, consistent communicat",
-    "link": "https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-enhances-public-recognition-with-a-clearer-brand-strategy-5791",
-    "topic": "general"
-  },
-  {
-    "title": "Docker Compose Isn't What I Thought It Was",
-    "desc": "<blockquote>\n<p><em><strong>post 7:</strong></em></p>\n</blockquote>\n\n<p><em>A practical guide to understanding Docker Compose\u2014what it is, ho",
-    "link": "https://dev.to/sreekanth_kuruba_91721e5d/docker-compose-isnt-what-i-thought-it-was-1pjg",
-    "topic": "docker"
-  },
-  {
-    "title": "A Security Fix Should Show Where the Attack Stopped",
-    "desc": "<h2>\n  \n  \n  The concrete problem\n</h2>\n\n<p>A security pull request can be green for the wrong reason. Unit tests may pass, the vulnerable e",
-    "link": "https://dev.to/demivalerith/a-security-fix-should-show-where-the-attack-stopped-3kgh",
-    "topic": "secops"
-  },
-  {
-    "title": "Windmill's Audit Log Is Now a PostHog Table. Nobody Asked If That's Where It Should Live.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/jasondevlab/windmills-audit-log-is-now-a-posthog-table-nobody-asked-if-thats-where-it-should-live-514j",
     "topic": "general"
   }
 ]
