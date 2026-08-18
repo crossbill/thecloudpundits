@@ -1,50 +1,50 @@
 [
   {
-    "title": "OSI Model Explained \u2014 Understanding How Network Communication Works",
-    "desc": "<h1>\n  \n  \n  \ud83c\udf10 OSI Model Explained\n</h1>\n\n<h3>\n  \n  \n  Understanding How Network Communication Works\n</h3>\n\n\n\n\n<blockquote>\n<p><strong>Serie",
-    "link": "https://dev.to/tejas_shinkar/osi-model-explained-understanding-how-network-communication-works-kn5",
+    "title": "DBSCAN Has No Loss Function. That's Not a Bug.",
+    "desc": "<p><em>Classic Machine Learning Through the Eyes of an SRE \u2014 Part 6</em></p>\n\n<p>DBSCAN was the first algorithm in my study set that optimiz",
+    "link": "https://dev.to/nishant_banginwar_80b7dc5/dbscan-has-no-loss-function-thats-not-a-bug-39gd",
     "topic": "general"
   },
   {
-    "title": "OmniRoute: The Free LLM Gateway With a Terms-of-Service Catch",
-    "desc": "<p>If you run Claude Code, Cursor and Cline against different accounts, you already know the failure mode: one provider hits a quota mid-tas",
-    "link": "https://dev.to/moksh/omniroute-the-free-llm-gateway-with-a-terms-of-service-catch-374o",
+    "title": "Your AI Agent Health Check Is Lying: Probe the Work Path, Not Just the Process",
+    "desc": "<p>A process can be alive while an AI agent is unable to do useful work.</p>\n\n<p>That happens when the event loop is running but the state s",
+    "link": "https://dev.to/zira125/your-ai-agent-health-check-is-lying-probe-the-work-path-not-just-the-process-8po",
     "topic": "general"
   },
   {
-    "title": "Fantom RPC Provider: How to Choose for Production",
-    "desc": "<h2>\n  \n  \n  Quick recommendation: public endpoint or dedicated node?\n</h2>\n\n<p>Before you compare providers, decide which deployment model ",
-    "link": "https://dev.to/onfinality/fantom-rpc-provider-how-to-choose-for-production-1k02",
+    "title": "How to Use ViciDial Admin Utilities \u2014 Archive, Cleanup & Maintenance",
+    "desc": "<h1>\n  \n  \n  How to Use ViciDial Admin Utilities \u2014 Archive, Cleanup & Maintenance\n</h1>\n\n<p><strong>Master production ViciDial database main",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-use-vicidial-admin-utilities-archive-cleanup-maintenance-22id",
     "topic": "general"
   },
   {
-    "title": "Bluesky usa un campo de texto seguro para mostrar su logo en capturas",
-    "desc": "<p>Cuando tom\u00e1s una captura de pantalla de un post en Bluesky, en la esquina superior derecha aparece la mariposa que es el <strong>logo de ",
-    "link": "https://dev.to/lu1tr0n/bluesky-usa-un-campo-de-texto-seguro-para-mostrar-su-logo-en-capturas-159n",
+    "title": "Designing Local Fixtures for Telegram Registration Validation",
+    "desc": "<p>When building integrations that rely on external validation services, the difference between a frustrated operator and an efficient one o",
+    "link": "https://dev.to/tgvalidatorofficial/designing-local-fixtures-for-telegram-registration-validation-b53",
     "topic": "general"
   },
   {
-    "title": "Choosing an SFTP Workflow on Mac: CLI, Finder Mount, or Dual-Pane Client?",
-    "desc": "<p>Moving a file to a Linux server from a Mac sounds like a one-command task. In practice, the right workflow depends on what happens around",
-    "link": "https://dev.to/nexusshell/choosing-an-sftp-workflow-on-mac-cli-finder-mount-or-dual-pane-client-l87",
+    "title": "Bmup Multi-Asset Institute Enhances Public Recognition With a Clearer Brand Strategy",
+    "desc": "<p>Bmup Multi-Asset Institute is strengthening its brand recognition by placing greater emphasis on clear positioning, consistent communicat",
+    "link": "https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-enhances-public-recognition-with-a-clearer-brand-strategy-5791",
     "topic": "general"
   },
   {
-    "title": "Do you really need all of this to build a website?",
-    "desc": "<p>You need to build a site.<br /><br />\nSo you install a CMS, and then:</p>\n\n<p>\u2022 You need an SEO plugin<br /><br />\n\u2022 Then another plugin ",
-    "link": "https://dev.to/wellingtonpragidi/do-you-really-need-all-of-this-to-build-a-website-3lp8",
-    "topic": "general"
+    "title": "Docker Compose Isn't What I Thought It Was",
+    "desc": "<blockquote>\n<p><em><strong>post 7:</strong></em></p>\n</blockquote>\n\n<p><em>A practical guide to understanding Docker Compose\u2014what it is, ho",
+    "link": "https://dev.to/sreekanth_kuruba_91721e5d/docker-compose-isnt-what-i-thought-it-was-1pjg",
+    "topic": "docker"
   },
   {
-    "title": "Declarative Server with NixOS: A Reproducible Infrastructure",
-    "desc": "<h2>\n  \n  \n  NixOS's Declarative Model\n</h2>\n\n<p>NixOS is a Linux distribution that defines package management and system configuration with",
-    "link": "https://dev.to/merbayerp/declarative-server-with-nixos-a-reproducible-infrastructure-53ci",
-    "topic": "general"
+    "title": "A Security Fix Should Show Where the Attack Stopped",
+    "desc": "<h2>\n  \n  \n  The concrete problem\n</h2>\n\n<p>A security pull request can be green for the wrong reason. Unit tests may pass, the vulnerable e",
+    "link": "https://dev.to/demivalerith/a-security-fix-should-show-where-the-attack-stopped-3kgh",
+    "topic": "secops"
   },
   {
-    "title": "I ran a GPU inference app for a month on Azure serverless GPU. Here's the actual bill.",
-    "desc": "<p>I run a small internal speech-synthesis service on an NVIDIA T4 via Azure Container Apps' serverless GPU, with <code>min-replicas=0</code",
-    "link": "https://dev.to/aco_dog_32627df9d920ffba4/i-ran-a-gpu-inference-app-for-a-month-on-azure-serverless-gpu-heres-the-actual-bill-i35",
-    "topic": "azure"
+    "title": "Windmill's Audit Log Is Now a PostHog Table. Nobody Asked If That's Where It Should Live.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/jasondevlab/windmills-audit-log-is-now-a-posthog-table-nobody-asked-if-thats-where-it-should-live-514j",
+    "topic": "general"
   }
 ]
