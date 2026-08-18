@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your backup is not a backup until you have restored it",
-    "desc": "<blockquote>\n<p>This is an English write-up of a post from my Japanese dev diary. Original: <a href=\"https://saas-diary.com/tech-log/backup-",
-    "link": "https://dev.to/ryuji_saas/your-backup-is-not-a-backup-until-you-have-restored-it-4p9n",
+    "title": "OSI Model Explained \u2014 Understanding How Network Communication Works",
+    "desc": "<h1>\n  \n  \n  \ud83c\udf10 OSI Model Explained\n</h1>\n\n<h3>\n  \n  \n  Understanding How Network Communication Works\n</h3>\n\n\n\n\n<blockquote>\n<p><strong>Serie",
+    "link": "https://dev.to/tejas_shinkar/osi-model-explained-understanding-how-network-communication-works-kn5",
     "topic": "general"
   },
   {
-    "title": "25% of Requests to Our New Site Probed for Software and Files We Do Not Have",
-    "desc": "<p>We logged 30,644 requests to a static site over 28 days. 7,567 of them asked for WordPress, .env files and PHP shells that have never exi",
-    "link": "https://dev.to/kimcomplete/25-of-requests-to-our-new-site-probed-for-software-and-files-we-do-not-have-ji0",
+    "title": "OmniRoute: The Free LLM Gateway With a Terms-of-Service Catch",
+    "desc": "<p>If you run Claude Code, Cursor and Cline against different accounts, you already know the failure mode: one provider hits a quota mid-tas",
+    "link": "https://dev.to/moksh/omniroute-the-free-llm-gateway-with-a-terms-of-service-catch-374o",
     "topic": "general"
   },
   {
-    "title": "I built a lie-detector for my AI coding agent. Its first run caught me.",
-    "desc": "<p>Your coding agent says \"Done! All tests pass.\"</p>\n\n<p>Did anyone check?</p>\n\n<p>Not the summary it wrote \u2014 the actual exit code. Because",
-    "link": "https://dev.to/aurumflux20/i-built-a-lie-detector-for-my-ai-coding-agent-its-first-run-caught-me-5a98",
+    "title": "Fantom RPC Provider: How to Choose for Production",
+    "desc": "<h2>\n  \n  \n  Quick recommendation: public endpoint or dedicated node?\n</h2>\n\n<p>Before you compare providers, decide which deployment model ",
+    "link": "https://dev.to/onfinality/fantom-rpc-provider-how-to-choose-for-production-1k02",
     "topic": "general"
   },
   {
-    "title": "Stop manually babysitting your automation flows",
-    "desc": "<p>If you've ever managed a fleet of workflows in a tool like Activepieces, you know the drill. A flow fails at 3 AM. You get a webhook noti",
-    "link": "https://dev.to/renato_marinho/stop-manually-babysitting-your-automation-flows-bc8",
+    "title": "Bluesky usa un campo de texto seguro para mostrar su logo en capturas",
+    "desc": "<p>Cuando tom\u00e1s una captura de pantalla de un post en Bluesky, en la esquina superior derecha aparece la mariposa que es el <strong>logo de ",
+    "link": "https://dev.to/lu1tr0n/bluesky-usa-un-campo-de-texto-seguro-para-mostrar-su-logo-en-capturas-159n",
     "topic": "general"
   },
   {
-    "title": "Simple Easy Voice Assistant using Raspberry Pi 1",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/teij04/simple-easy-voice-assistant-using-raspberry-pi-1-3ech",
+    "title": "Choosing an SFTP Workflow on Mac: CLI, Finder Mount, or Dual-Pane Client?",
+    "desc": "<p>Moving a file to a Linux server from a Mac sounds like a one-command task. In practice, the right workflow depends on what happens around",
+    "link": "https://dev.to/nexusshell/choosing-an-sftp-workflow-on-mac-cli-finder-mount-or-dual-pane-client-l87",
     "topic": "general"
   },
   {
-    "title": "A 46GB Compressed-Memory Leak RSS Monitoring Can't See \u2014 and the 10-Minute Guard That Reclaims It",
-    "desc": "<p>Every automated posting lane on my machine sat at zero for an entire day, and <code>top -o mem</code> swore nothing was wrong. Swap was a",
-    "link": "https://dev.to/bokuwalily/a-46gb-compressed-memory-leak-rss-monitoring-cant-see-and-the-10-minute-guard-that-reclaims-it-33bc",
+    "title": "Do you really need all of this to build a website?",
+    "desc": "<p>You need to build a site.<br /><br />\nSo you install a CMS, and then:</p>\n\n<p>\u2022 You need an SEO plugin<br /><br />\n\u2022 Then another plugin ",
+    "link": "https://dev.to/wellingtonpragidi/do-you-really-need-all-of-this-to-build-a-website-3lp8",
     "topic": "general"
   },
   {
-    "title": "Build a Kubernetes Operator with Python",
-    "desc": "<h1>\n  \n  \n  Build a Kubernetes Operator with Python\n</h1>\n\n<p>tags: python, kubernetes, devops, tutorial</p>\n\n\n\n\n<p>tags: python, kubernete",
-    "link": "https://dev.to/qingluan/build-a-kubernetes-operator-with-python-4ic7",
-    "topic": "kubernetes"
+    "title": "Declarative Server with NixOS: A Reproducible Infrastructure",
+    "desc": "<h2>\n  \n  \n  NixOS's Declarative Model\n</h2>\n\n<p>NixOS is a Linux distribution that defines package management and system configuration with",
+    "link": "https://dev.to/merbayerp/declarative-server-with-nixos-a-reproducible-infrastructure-53ci",
+    "topic": "general"
   },
   {
-    "title": "Your AI Agent Is Alive but Stuck: Add Progress Tokens, Not Just Heartbeats",
-    "desc": "<p>A process heartbeat can tell you that an agent runtime is still responding. It cannot tell you that the run is making progress.</p>\n\n<p>T",
-    "link": "https://dev.to/zira125/your-ai-agent-is-alive-but-stuck-add-progress-tokens-not-just-heartbeats-872",
-    "topic": "general"
+    "title": "I ran a GPU inference app for a month on Azure serverless GPU. Here's the actual bill.",
+    "desc": "<p>I run a small internal speech-synthesis service on an NVIDIA T4 via Azure Container Apps' serverless GPU, with <code>min-replicas=0</code",
+    "link": "https://dev.to/aco_dog_32627df9d920ffba4/i-ran-a-gpu-inference-app-for-a-month-on-azure-serverless-gpu-heres-the-actual-bill-i35",
+    "topic": "azure"
   }
 ]
