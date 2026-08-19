@@ -1,50 +1,50 @@
 [
   {
-    "title": "A successful pg_dump is not a recovery test",
-    "desc": "<p>A nightly <code>pg_dump</code> exits zero. That proves a backup command ran\u2014not that the system is recoverable.</p>\n\n<p>A useful restore-",
-    "link": "https://dev.to/mads_hansen_27b33ebfee4c9/a-successful-pgdump-is-not-a-recovery-test-3c14",
+    "title": "Shipping a Gumroad Clone to Production",
+    "desc": "<p>This is a walkthrough of the deployment setup behind my Gumroad clone: an EC2 box, Docker Compose, Nginx as the front door, and a GitHub ",
+    "link": "https://dev.to/goose2585/shipping-a-gumroad-clone-to-production-58b1",
     "topic": "general"
   },
   {
-    "title": "Feature Flags vs Load Balancer: One Splits Versions, the Other Splits People",
-    "desc": "<blockquote>\n<p>\ud83d\udcfa Prefer to watch? <a href=\"https://youtube.com/shorts/6AM-h5Rasa8\" rel=\"noopener noreferrer\">90-second YouTube Short</a> \u00b7 ",
-    "link": "https://dev.to/vahid_aghajani_60ce9dbec9/feature-flags-vs-load-balancer-one-splits-versions-the-other-splits-people-mlp",
+    "title": "Pass, Fail, and the Third State Your QA Tool Is Missing",
+    "desc": "<p>Our release gate told us to ship a build it had never successfully looked at. Every one of the six checks had crashed. The report underne",
+    "link": "https://dev.to/shipguarde/pass-fail-and-the-third-state-your-qa-tool-is-missing-221c",
     "topic": "general"
   },
   {
-    "title": "Implementing Secure Configuration Management with Vault and Go",
-    "desc": "<p>Most Go services ship with secrets spread across environment variables, config files, and the occasional hardcoded constant nobody rememb",
-    "link": "https://dev.to/ayinedjimi-consultants/implementing-secure-configuration-management-with-vault-and-go-1ell",
+    "title": "Why Unified Billing Matters When Upstream Pricing Is Volatile",
+    "desc": "<h1>\n  \n  \n  Why Unified Billing Matters When Upstream Pricing Is Volatile\n</h1>\n\n<p>Show how a single all-day rate changes forecasting, whi",
+    "link": "https://dev.to/aiwave/why-unified-billing-matters-when-upstream-pricing-is-volatile-5cfp",
     "topic": "general"
   },
   {
-    "title": "The Complete Guide to Cloud Cost Optimization: Learning FinOps with FinOpsSchool.com",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/komal-kumari/the-complete-guide-to-cloud-cost-optimization-learning-finops-with-finopsschoolcom-370j",
-    "topic": "finops"
+    "title": "Multi-Model Routing with an OpenAI-Compatible API",
+    "desc": "<h1>\n  \n  \n  Multi-Model Routing with an OpenAI-Compatible API\n</h1>\n\n<p>Build a small policy router that selects DeepSeek, Kimi, GLM, or Qw",
+    "link": "https://dev.to/aiwave/multi-model-routing-with-an-openai-compatible-api-3i38",
+    "topic": "openai"
   },
   {
-    "title": "Salesforce DevOps AI Online Training | Salesforce AI Course",
-    "desc": "<p>Top AI Tools for Salesforce DevOps Automation in 2026<br />\nIntroduction<br />\nSalesforce DevOps helps teams build, test, and release Sal",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-ai-online-training-salesforce-ai-course-emn",
+    "title": "DeepSeek V4 Cache Economics After Peak and Off-Peak Pricing",
+    "desc": "<h1>\n  \n  \n  DeepSeek V4 Cache Economics After Peak and Off-Peak Pricing\n</h1>\n\n<p>Explain how peak windows and cache-hit accounting affect ",
+    "link": "https://dev.to/aiwave/deepseek-v4-cache-economics-after-peak-and-off-peak-pricing-149f",
     "topic": "general"
   },
   {
-    "title": "GitOps Repo Structure and Application Patterns: App-of-Apps, ApplicationSets, and AppProjects",
-    "desc": "<p>Once you have ArgoCD running across clusters \u2014 hub-and-spoke or per-cluster \u2014 the next question is how to organize what it deploys. How s",
-    "link": "https://dev.to/aloknecessary/gitops-repo-structure-and-application-patterns-app-of-apps-applicationsets-and-appprojects-2ae4",
+    "title": "Enterprise Cloud Platforms: Building a Scalable and AI-Ready Business Infrastructure",
+    "desc": "<p>As businesses grow, their technology environment often becomes harder to manage.</p>\n\n<p>What starts as a few applications and spreadshee",
+    "link": "https://dev.to/axixtech/enterprise-cloud-platforms-building-a-scalable-and-ai-ready-business-infrastructure-2bak",
     "topic": "general"
   },
   {
-    "title": "Cloud Storage Basics: Block, File, and Object Storage",
-    "desc": "<p>When working with cloud platforms such as <strong>AWS, Azure, or Google Cloud</strong>, you'll encounter several different types of stora",
-    "link": "https://dev.to/hrrydgls/cloud-storage-basics-block-file-and-object-storage-474m",
+    "title": "Stopping the silent creep of environment drift \ud83d\uded1",
+    "desc": "<p>Ever spent hours debugging a production bug that refuses to reproduce in staging? Environment drift is the quiet killer of developer velo",
+    "link": "https://dev.to/upsun/stopping-the-silent-creep-of-environment-drift-2709",
     "topic": "general"
   },
   {
-    "title": "One slash in a client's name silently sent their files to the wrong folder",
-    "desc": "<p>I built a client-onboarding workflow in n8n: one intake form in, six artifacts out \u2014 a client folder, a welcome doc, a contract from a te",
-    "link": "https://dev.to/shipsitself/one-slash-in-a-clients-name-silently-sent-their-files-to-the-wrong-folder-18d8",
+    "title": "When a perfect audit was too hard to use",
+    "desc": "<p>There are tasks in the database world that engineers genuinely enjoy: query optimization, petabyte-scale sharding, or designing highly av",
+    "link": "https://dev.to/islamov/when-a-perfect-audit-was-too-hard-to-use-hjb",
     "topic": "general"
   }
 ]
