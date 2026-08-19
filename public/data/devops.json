@@ -1,5 +1,35 @@
 [
   {
+    "title": "Five agent engineering problems, with the numbers behind them",
+    "desc": "<p>The agent conversation on Reddit and in GitHub issues has moved. A year ago it was \"what can agents do\". Now it is \"why does mine call th",
+    "link": "https://dev.to/akashdas/five-agent-engineering-problems-with-the-numbers-behind-them-3ol7",
+    "topic": "general"
+  },
+  {
+    "title": "Day 29: A Pull Request Needs Two People, and Peering Needs Two Routes",
+    "desc": "<p>Some things cannot be finished alone, by design. A change that only you have seen is not reviewed. A network connection that only works i",
+    "link": "https://dev.to/ndcodes/a-pull-request-needs-two-people-and-peering-needs-two-routes-5emj",
+    "topic": "general"
+  },
+  {
+    "title": "How to set up a lightweight SMTP relay for your apps in seconds",
+    "desc": "<p>If you are running local applications, internal microservices, or custom scripts, you often just need a simple way to send email notifica",
+    "link": "https://dev.to/wizard_0ac4371d77f3efd763/how-to-set-up-a-lightweight-smtp-relay-for-your-apps-in-seconds-32l1",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Needs a Cancellation Contract, Not Just a Stop Button",
+    "desc": "<p>A stop button is not a cancellation protocol.</p>\n\n<p>In a toy agent, \u201cstop\u201d can mean setting a boolean and waiting for the loop to exit.",
+    "link": "https://dev.to/zira125/your-ai-agent-needs-a-cancellation-contract-not-just-a-stop-button-4k8n",
+    "topic": "general"
+  },
+  {
+    "title": "I looked at the GitHub Actions bill and built a CI + security base at home",
+    "desc": "<p>In late June 2026, my org's GitHub Actions stopped at the billing cap. Every PR (pull request) CI (continuous integration; a system that ",
+    "link": "https://dev.to/uehara/i-looked-at-the-github-actions-bill-and-built-a-ci-security-base-at-home-3h2b",
+    "topic": "secops"
+  },
+  {
     "title": "Answered leads that still looked untouched",
     "desc": "<p><em>Originally published on <a href=\"https://aideazz.xyz/blog/stage-never-moved-field-note\" rel=\"noopener noreferrer\">AIdeazz</a> \u2014 cross",
     "link": "https://dev.to/elenarevicheva/answered-leads-that-still-looked-untouched-1ki6",
@@ -15,36 +45,6 @@
     "title": "Free Model vs. 40 Lines of Python: Who Reads Build Logs Better?",
     "desc": "<p>The build failed at 2:14 AM. The CI log was 41,000 lines long. My first grep found an error on line 12. The real failure lived on line 12",
     "link": "https://dev.to/rivera123/free-model-vs-40-lines-of-python-who-reads-build-logs-better-516c",
-    "topic": "general"
-  },
-  {
-    "title": "Idle load balancers: the ~$16/month each you forgot to delete\"",
-    "desc": "<p><strong>Short version:</strong> An Application or Network Load Balancer costs <strong>~$0.0225/hour, about $16/month, just to exist</stro",
-    "link": "https://dev.to/jorelfermin/idle-load-balancers-the-16month-each-you-forgot-to-delete-548f",
-    "topic": "general"
-  },
-  {
-    "title": "Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan",
-    "desc": "<p>A rollback plan tells you how to undo an AI change, but not what breaks first when the change stays in place. Most production incidents d",
-    "link": "https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1",
-    "topic": "general"
-  },
-  {
-    "title": "Fault Tolerance Is the Layer Most AI Agent Stacks Are Missing",
-    "desc": "<p>An AI agent that works in a demo and one that works in production are different pieces of software. The demo runs on clean inputs against",
-    "link": "https://dev.to/paulcrinigan/fault-tolerance-is-the-layer-most-ai-agent-stacks-are-missing-2al",
-    "topic": "general"
-  },
-  {
-    "title": "Exchange CU1 Delay: When AI Finds Flaws Faster Than Humans Can Validate",
-    "desc": "<p>On August 13, Microsoft's Exchange team published a post titled \"Where is Exchange SE CU1 anyway?\" \u2014 an unusual public accounting of why ",
-    "link": "https://dev.to/waxell/exchange-cu1-delay-when-ai-finds-flaws-faster-than-humans-can-validate-50bj",
-    "topic": "aws"
-  },
-  {
-    "title": "Flaky Tests: O Problema N\u00e3o S\u00e3o os Testes, \u00c9 a Confian\u00e7a",
-    "desc": "<h1>\n  \n  \n  Flaky Tests: O Problema N\u00e3o S\u00e3o os Testes, \u00c9 a Confian\u00e7a\n</h1>\n\n<p>Um desenvolvedor aperta \"merge\". O pipeline fica vermelho. E",
-    "link": "https://dev.to/victorholiveira/flaky-tests-o-problema-nao-sao-os-testes-e-a-confianca-b8l",
     "topic": "general"
   }
 ]
