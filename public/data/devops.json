@@ -1,50 +1,50 @@
 [
   {
-    "title": "Part 3: Persisting Data with Volumes",
-    "desc": "<p>\ud83c\udde7\ud83c\uddf7 <a href=\"https://dev.to/celsonery/parte-3-persistindo-dados-com-volumes-1mk4\">Artigo em portugu\u00eas aqui</a></p>\n\n<h1>\n  \n  \n  Using Doc",
-    "link": "https://dev.to/celsonery/part-3-persisting-data-with-volumes-1ig3",
+    "title": "Every Number On Our Site Was Typed Once",
+    "desc": "<p>Our homepage said this:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>Your agents discover",
+    "link": "https://dev.to/minia2a/every-number-on-our-site-was-typed-once-2oe8",
     "topic": "general"
   },
   {
-    "title": "Part 2: Essential CLI Commands",
-    "desc": "<p>\ud83c\udde7\ud83c\uddf7 <a href=\"https://dev.to/celsonery/parte-2-comandos-essenciais-da-cli-i3a\">Artigo em portugu\u00eas aqui</a></p>\n\n<h1>\n  \n  \n  Using Docker ",
-    "link": "https://dev.to/celsonery/part-2-essential-cli-commands-41c1",
+    "title": "C\u00f3mo mantener siempre disponibles las sesiones de tu agente de c\u00f3digo remoto (parte 2)",
+    "desc": "<p>La Parte 1 construy\u00f3 una caja siempre encendida para una sesi\u00f3n de <code>remote-control</code> de Claude Code y termin\u00f3 con una alarma qu",
+    "link": "https://dev.to/aws-builders/mover-un-agente-de-ia-siempre-encendido-de-un-vps-de-24-a-fargate-spot-pt-2-o4f",
     "topic": "general"
   },
   {
-    "title": "Part 1: Installing on Debian",
-    "desc": "<p>\ud83c\udde7\ud83c\uddf7 <a href=\"https://dev.to/celsonery/docker-para-desenvolvedores-j48\">Artigo em portugu\u00eas aqui</a></p>\n\n<h1>\n  \n  \n  Docker for Devs \u2014 Pa",
-    "link": "https://dev.to/celsonery/part-1-installing-on-debian-480h",
+    "title": "Runbook Automation: From 45-Minute Fixes to 90-Second Recoveries",
+    "desc": "<h2>\n  \n  \n  The Runbook Nobody Reads\n</h2>\n\n<p>We had runbooks. Beautiful, detailed, Google-Docs runbooks. 47 pages long. Nobody read them ",
+    "link": "https://dev.to/samson_tanimawo/runbook-automation-from-45-minute-fixes-to-90-second-recoveries-8ak",
     "topic": "general"
   },
   {
-    "title": "The ledger said 763 assets. The platforms said about 400.",
-    "desc": "<p>A sync ledger fails silently. Ours said 763 assets. When we stopped trusting it and counted by hand \u2014 opening 21 AI platforms in browser ",
-    "link": "https://dev.to/untactit/the-ledger-said-763-assets-the-platforms-said-about-400-a03",
+    "title": "Wiz's Red Agent Cracked Snowflake's Jira in 5 Days \u2014 After Two Other AI Tools Signed Off on the Bug",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/jasondevlab/wizs-red-agent-cracked-snowflakes-jira-in-5-days-after-two-other-ai-tools-signed-off-on-the-bug-1hhk",
     "topic": "general"
   },
   {
-    "title": "Parte 6: Orquestrando com Docker Compose",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version comming soon</a></p>\n\n<h1>\n  \n  \n  Docker para Desenvolvedores \u2014 Parte 6: Orq",
-    "link": "https://dev.to/celsonery/parte-6-orquestrando-com-docker-compose-3545",
-    "topic": "docker"
-  },
-  {
-    "title": "K501-Technical Prototype Roadmap v1.1 \u2014 Dev.to Edition",
-    "desc": "<h2>\n  \n  \n  K501-Technical Prototype Roadmap v1.1 \u2014 Dev.to Edition\n</h2>\n\n<p><strong>K501-AIONARC</strong></p>\n\n<p><strong>Proof before Sta",
-    "link": "https://dev.to/k501is/k501-technical-prototype-roadmap-v11-devto-edition-2ihl",
+    "title": "Opinion: A Disposable Server Turns Free Model Mistakes Into Rollback Data",
+    "desc": "<p>A developer who tests an AI-written server change often asks a single question: did the service start without errors? That question hides",
+    "link": "https://dev.to/github_7727/opinion-a-disposable-server-turns-free-model-mistakes-into-rollback-data-1ec",
     "topic": "general"
   },
   {
-    "title": "Parte 5: Gerenciando Imagens",
-    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/feed/tag/devops\">English version comming soon</a></p>\n\n<h1>\n  \n  \n  Docker para Desenvolvedores \u2014 Parte 5: Ger",
-    "link": "https://dev.to/celsonery/parte-5-gerenciando-imagens-ble",
+    "title": "Opinion: A Disposable Server Turns Free Model Mistakes Into Rollback Data",
+    "desc": "<p>A developer who tests an AI-written server change often asks a single question: did the service start without errors? That question hides",
+    "link": "https://dev.to/github_7727/opinion-a-disposable-server-turns-free-model-mistakes-into-rollback-data-34j8",
     "topic": "general"
   },
   {
-    "title": "Parte 4: Trabalhando com Redes",
-    "desc": "<h1>\n  \n  \n  Docker para Desenvolvedores \u2014 Parte 4: Trabalhando com Redes\n</h1>\n\n<p>Na Parte 3 desta s\u00e9rie, vimos como persistir dados com v",
-    "link": "https://dev.to/celsonery/docker-para-desenvolvedores-parte-4-trabalhando-com-redes-2c70",
+    "title": "A Dead PID Held My Lock for 2 Hours: One Missing Line, Zero Output, exit 0 Every Time",
+    "desc": "<p>For 30 straight days as a college student earning \u00a5100k/month, I posted to Instagram by hand, and then I burned out and stopped. Today th",
+    "link": "https://dev.to/bokuwalily/a-dead-pid-held-my-lock-for-2-hours-one-missing-line-zero-output-exit-0-every-time-370c",
+    "topic": "general"
+  },
+  {
+    "title": "Relicensing yantrikdb took 57 minutes and I got two things wrong",
+    "desc": "<p>On 2026-08-18 I moved yantrikdb from AGPL-3.0 to Apache-2.0. The engine commit landed at 22:32:31 UTC. The server pull request merged at ",
+    "link": "https://dev.to/spranab/relicensing-yantrikdb-took-57-minutes-and-i-got-two-things-wrong-12ad",
     "topic": "general"
   }
 ]
