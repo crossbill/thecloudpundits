@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Built a 40-Minute Evaluation for Free Model Endpoints. Here's the Scorecard.",
-    "desc": "<p>Free model endpoints are seductive. Zero cost. Zero setup. Zero reason to trust them. I don't trust demos. I trust failure modes. So I bu",
-    "link": "https://dev.to/gitlab_3188/i-built-a-40-minute-evaluation-for-free-model-endpoints-heres-the-scorecard-44c1",
+    "title": "How I Organize and Ship Small Open\u2011Source Projects",
+    "desc": "<h2>\n  \n  \n  Practical habits, repo structure, and workflows that keep small projects healthy and approachable\n</h2>\n\n<p>Why small projects ",
+    "link": "https://dev.to/fmeso/how-i-organize-and-ship-small-open-source-projects-iaf",
     "topic": "general"
   },
   {
-    "title": "Opinion: The Diff Is a Claim, the Probe Is the Proof",
-    "desc": "<h1>\n  \n  \n  Opinion: The Diff Is a Claim, the Probe Is the Proof\n</h1>\n\n<p>A generated patch is a claim about how a system should behave, a",
-    "link": "https://dev.to/github_7727/opinion-the-diff-is-a-claim-the-probe-is-the-proof-5l3",
+    "title": "Free Combat Conditioning: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/free-combat-conditioning-what-we-learned-building-random-tactical-timer-4dh0",
     "topic": "general"
   },
   {
-    "title": "What The Update Framework Assumes Will Go Wrong",
-    "desc": "<p>Most software update systems have a signing key and a repository, and the security argument stops there: the package is signed, the signa",
-    "link": "https://dev.to/havenmessenger/what-the-update-framework-assumes-will-go-wrong-2p07",
+    "title": "Queue Topology: One Broker, Several Queues, No Shared Pool",
+    "desc": "<p>A single task queue served by a single worker pool works until the day a bulk job \u2014 a catalog scrape, a translation batch, a re-notificat",
+    "link": "https://dev.to/shipmindlabs/queue-topology-one-broker-several-queues-no-shared-pool-9fm",
     "topic": "general"
   },
   {
-    "title": "Cloud Cost Per Customer: Unit Economics Without Rebuilding Your Data Warehouse",
-    "desc": "<p>At some point a board deck needs a number nobody has: what it costs to serve customer X. Or its sharper cousin: which ten customers have ",
-    "link": "https://dev.to/zop_8abedcc7e12/cloud-cost-per-customer-unit-economics-without-rebuilding-your-data-warehouse-5do0",
+    "title": "Build Customer-Facing Model Cards for Chinese AI APIs",
+    "desc": "<h1>\n  \n  \n  Build Customer-Facing Model Cards for Chinese AI APIs\n</h1>\n\n<p>Most teams start an AI gateway with a simple model list. The fi",
+    "link": "https://dev.to/aiwave/build-customer-facing-model-cards-for-chinese-ai-apis-4h81",
     "topic": "general"
   },
   {
-    "title": "When GitHub Went Dark: What Broke and Why It Matters",
-    "desc": "<p>For nearly eight hours, GitHub vanished from the workflows of millions of developers. Pull requests stalled, Actions jobs hung, and Copil",
-    "link": "https://dev.to/adilaidev/when-github-went-dark-what-broke-and-why-it-matters-349o",
+    "title": "S3 Lifecycle Policies: How to Cut Your Storage Bill 40% (With the Actual Arithmetic)",
+    "desc": "<p>An S3 lifecycle policy moves objects between storage classes on a schedule, or deletes them. The '40%' people quote is real, but only for",
+    "link": "https://dev.to/ethan-carter/s3-lifecycle-policies-how-to-cut-your-storage-bill-40-with-the-actual-arithmetic-4lnk",
     "topic": "general"
   },
   {
-    "title": "Master MLOps Online Training | MLOps & AIOps Course",
-    "desc": "<p>\ud83d\ude80 \ud835\udde0\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\udde0\ud835\udddf\ud835\udde2\ud835\uddfd\ud835\ude00 & \ud835\uddd4\ud835\udddc\ud835\udde2\ud835\uddfd\ud835\ude00 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde9\ud835\uddf6\ud835\ude00\ud835\ude02\ud835\uddee\ud835\uddf9\ud835\uddfd\ud835\uddee\ud835\ude01\ud835\uddf5 \u2014 \ud835\uddd5\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddd9\ud835\ude02\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\uddfc\ud835\uddf3 \ud835\uddd4\ud835\udddc!<br />\n\ud83c\udfaf Build practical #MLOps & #AIOps skills to develop, automate, dep",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-mlops-online-training-mlops-aiops-course-26d2",
+    "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
+    "desc": "<p>Search for how to learn DevOps and you get two kinds of result.</p>\n\n<p>The first is vendor content. It is often excellent, and it will t",
+    "link": "https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p",
     "topic": "general"
   },
   {
-    "title": "Don't Log the Thing You're Protecting",
-    "desc": "<p>You encrypted it in the database.<br />\nYou guarded it in transit.<br />\nThen you printed it to a log file<br />\nin plain text, forever.<",
-    "link": "https://dev.to/sergueyasaelshinder/dont-log-the-thing-youre-protecting-5h5j",
+    "title": "Post-Mortem Best Practices That Actually Drive Change",
+    "desc": "<h2>\n  \n  \n  The Post-Mortem Nobody Learns From\n</h2>\n\n<p>I've sat through hundreds of post-mortems. Most follow the same pattern: something",
+    "link": "https://dev.to/samson_tanimawo/post-mortem-best-practices-that-actually-drive-change-2fn5",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent Backup Is Not Recovery Until You Test a Restore",
-    "desc": "<p>A backup job can be green while your agent is still unrecoverable.</p>\n\n<p>That happens when the backup contains files but not the state ",
-    "link": "https://dev.to/zira125/your-ai-agent-backup-is-not-recovery-until-you-test-a-restore-epi",
+    "title": "Why features pass QA and still break in production \ud83d\udee0\ufe0f",
+    "desc": "<p>Ever run a database migration that passes local tests in milliseconds, only to watch it lock a production table with millions of rows for",
+    "link": "https://dev.to/upsun/why-features-pass-qa-and-still-break-in-production-3fml",
     "topic": "general"
   }
 ]
