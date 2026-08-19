@@ -1,50 +1,50 @@
 [
   {
-    "title": "How I Organize and Ship Small Open\u2011Source Projects",
-    "desc": "<h2>\n  \n  \n  Practical habits, repo structure, and workflows that keep small projects healthy and approachable\n</h2>\n\n<p>Why small projects ",
-    "link": "https://dev.to/fmeso/how-i-organize-and-ship-small-open-source-projects-iaf",
+    "title": "Building an On-Premise Kubernetes Cluster \u2014 Part 7: Essential Production Features",
+    "desc": "<p>\ud83c\udde7\ud83c\uddf7 <a href=\"https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-7-recursos-essenciais-para-producao-5fpp\">Vers\u00e3o em ",
+    "link": "https://dev.to/celsonery/building-an-on-premise-kubernetes-cluster-part-7-essential-production-features-446i",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Montando um Cluster Kubernetes On-Premise \u2014 Parte 7: Recursos Essenciais para Produ\u00e7\u00e3o",
+    "desc": "<p>\ud83c\uddfa\ud83c\uddf8 <a href=\"https://dev.to/celsonery/building-an-on-premise-kubernetes-cluster-part-7-essential-production-features-446i\">English version",
+    "link": "https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-7-recursos-essenciais-para-producao-5fpp",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Stop Deploying Manually: Why Your First Dockerfile is a Security Risk",
+    "desc": "<p>Over at <strong><a href=\"https://codingmacaw.com\" rel=\"noopener noreferrer\">Coding Macaw</a></strong>, we audit a lot of junior engineeri",
+    "link": "https://dev.to/codingmacawbootcamp/stop-deploying-manually-why-your-first-dockerfile-is-a-security-risk-8ff",
+    "topic": "docker"
+  },
+  {
+    "title": "Installation and configuration of HermitMQ",
+    "desc": "<p>I will show you how to deploy HermitMQ and integrate clients. The broker comes as a ready package for Debian and Ubuntu systems. Download",
+    "link": "https://dev.to/erkin_khidirov_e1a1d8dc51/installation-and-configuration-of-hermitmq-22lp",
     "topic": "general"
   },
   {
-    "title": "Free Combat Conditioning: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/free-combat-conditioning-what-we-learned-building-random-tactical-timer-4dh0",
+    "title": "Dockerfile Best Practices: Layer Caching and Efficiency",
+    "desc": "<p>You change one line in your app. Save. Run <code>docker build</code>. And wait. And wait.</p>\n\n<p>Two and a half minutes for a one-line c",
+    "link": "https://dev.to/fj_palacios/dockerfile-best-practices-layer-caching-and-efficiency-iep",
+    "topic": "docker"
+  },
+  {
+    "title": "Agentic AI Vocabulary for DevOps: 12 Terms You Already Operate Under Another Name",
+    "desc": "<p>There is a genre of infographic doing the rounds at the moment: twelve must-know agentic AI terms, a leader's guide to the language of ag",
+    "link": "https://dev.to/devopsdaily/agentic-ai-vocabulary-for-devops-12-terms-you-already-operate-under-another-name-4la7",
     "topic": "general"
   },
   {
-    "title": "Queue Topology: One Broker, Several Queues, No Shared Pool",
-    "desc": "<p>A single task queue served by a single worker pool works until the day a bulk job \u2014 a catalog scrape, a translation batch, a re-notificat",
-    "link": "https://dev.to/shipmindlabs/queue-topology-one-broker-several-queues-no-shared-pool-9fm",
+    "title": "Deploying SigNoz in 2026: A Survival Guide to ClickHouse v25+ and OTel Gotchas",
+    "desc": "<p>Hello, fellow developers! \ud83e\uddd1\u200d\ud83d\udcbb</p>\n\n<p>When building a modern B2B SaaS ecosystem, bulletproof observability isn't a luxury\u2014it's a strict s",
+    "link": "https://dev.to/zhukmax/deploying-signoz-in-2026-a-survival-guide-to-clickhouse-v25-and-otel-gotchas-3pec",
     "topic": "general"
   },
   {
-    "title": "Build Customer-Facing Model Cards for Chinese AI APIs",
-    "desc": "<h1>\n  \n  \n  Build Customer-Facing Model Cards for Chinese AI APIs\n</h1>\n\n<p>Most teams start an AI gateway with a simple model list. The fi",
-    "link": "https://dev.to/aiwave/build-customer-facing-model-cards-for-chinese-ai-apis-4h81",
-    "topic": "general"
-  },
-  {
-    "title": "S3 Lifecycle Policies: How to Cut Your Storage Bill 40% (With the Actual Arithmetic)",
-    "desc": "<p>An S3 lifecycle policy moves objects between storage classes on a schedule, or deletes them. The '40%' people quote is real, but only for",
-    "link": "https://dev.to/ethan-carter/s3-lifecycle-policies-how-to-cut-your-storage-bill-40-with-the-actual-arithmetic-4lnk",
-    "topic": "general"
-  },
-  {
-    "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
-    "desc": "<p>Search for how to learn DevOps and you get two kinds of result.</p>\n\n<p>The first is vendor content. It is often excellent, and it will t",
-    "link": "https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p",
-    "topic": "general"
-  },
-  {
-    "title": "Post-Mortem Best Practices That Actually Drive Change",
-    "desc": "<h2>\n  \n  \n  The Post-Mortem Nobody Learns From\n</h2>\n\n<p>I've sat through hundreds of post-mortems. Most follow the same pattern: something",
-    "link": "https://dev.to/samson_tanimawo/post-mortem-best-practices-that-actually-drive-change-2fn5",
-    "topic": "general"
-  },
-  {
-    "title": "Why features pass QA and still break in production \ud83d\udee0\ufe0f",
-    "desc": "<p>Ever run a database migration that passes local tests in milliseconds, only to watch it lock a production table with millions of rows for",
-    "link": "https://dev.to/upsun/why-features-pass-qa-and-still-break-in-production-3fml",
+    "title": "I stopped chasing the cheapest API and built a local LLM fallback instead",
+    "desc": "<p>I used to treat LLM cost control like bargain hunting.</p>\n\n<p>Switch from OpenAI to DeepSeek. Then maybe to Gemini. Then maybe route thr",
+    "link": "https://dev.to/lars_winstand/i-stopped-chasing-the-cheapest-api-and-built-a-local-llm-fallback-instead-4oc9",
     "topic": "general"
   }
 ]
