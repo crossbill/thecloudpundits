@@ -1,5 +1,11 @@
 [
   {
+    "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
+    "desc": "<p>The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure.</p>\n<p>The post <a href=\"https:/",
+    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "CareCloud Data Breach Impact Grows to 3.7 Million Individuals",
     "desc": "<p>The data breach was initially believed to affect roughly 350,000 people, but the HHS breach tracker shows a far bigger impact.</p>\n<p>The",
     "link": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
@@ -40,11 +46,5 @@
     "desc": "<p>Tracked as CVE-2026-15748, the arbitrary file upload bug allows unauthenticated attackers to upload executable files.</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/",
     "topic": "general"
-  },
-  {
-    "title": "Heights Finance Data Breach Impacts at Least 1.2 Million Individuals",
-    "desc": "<p>Hackers stole names, addresses, phone numbers, Social Security numbers, and financial information from a third-party platform.</p>\n<p>The",
-    "link": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
-    "topic": "secops"
   }
 ]

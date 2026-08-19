@@ -1,5 +1,41 @@
 [
   {
+    "title": "Terraform: drift de IAM con contexto util",
+    "desc": "<p>El drift de IAM rara vez empieza como un gran incidente. Normalmente aparece como una duda pequena: un permiso que ya no coincide, un rol",
+    "link": "https://dev.to/alexcarteruk/terraform-drift-de-iam-con-contexto-util-4aj7",
+    "topic": "terraform"
+  },
+  {
+    "title": "KYBCR Exchange (Kyberon Core Group) Expands User Education on Compliance and Digital Safety",
+    "desc": "<p>As digital finance continues to evolve, compliance education and risk awareness are becoming increasingly important for building a more r",
+    "link": "https://dev.to/kybcrexchange/kybcr-exchange-kyberon-core-group-expands-user-education-on-compliance-and-digital-safety-dfi",
+    "topic": "general"
+  },
+  {
+    "title": "Securing your database connection: TLS, SSH tunnels, and IAM, from the ground up",
+    "desc": "<p>Open a database client, type a host and a password, click connect. In that one action you are trusting the network between you and the se",
+    "link": "https://dev.to/flextabledev/securing-your-database-connection-tls-ssh-tunnels-and-iam-from-the-ground-up-3pk8",
+    "topic": "secops"
+  },
+  {
+    "title": "There are 755 static-analysis tools. Only 42 are open-source security scanners.",
+    "desc": "<p>If you run a linter on your code today, you have a lot of choices. If you want one that actually looks for <em>security</em> bugs \u2014 and i",
+    "link": "https://dev.to/hamelin123/there-are-755-static-analysis-tools-only-42-are-open-source-security-scanners-3256",
+    "topic": "secops"
+  },
+  {
+    "title": "Build a Dependency Vulnerability Scanner with Python",
+    "desc": "<h1>\n  \n  \n  Build a Dependency Vulnerability Scanner with Python\n</h1>\n\n<p>tags: python, security, devops, tools</p>\n\n\n\n\n<p>tags: python, s",
+    "link": "https://dev.to/qingluan/build-a-dependency-vulnerability-scanner-with-python-274n",
+    "topic": "secops"
+  },
+  {
+    "title": "Your AI Agent Approval Is Stale Until You Bind It to a Version",
+    "desc": "<p>An approval is not a permanent yes. In an AI-agent system, it is a short-lived authorization decision over a specific request, policy ver",
+    "link": "https://dev.to/zira125/your-ai-agent-approval-is-stale-until-you-bind-it-to-a-version-16a7",
+    "topic": "general"
+  },
+  {
     "title": "Astro middleware can't serve 410 Gone under output: 'static' \u2014 the catch-all route that can",
     "desc": "<p>On 2026-08-17 we deleted 434 articles from this site. Search Console was reporting 633 pages as \"Crawled \u2014 currently not indexed\" against",
     "link": "https://dev.to/pickuma/astro-middleware-cant-serve-410-gone-under-output-static-the-catch-all-route-that-can-5gge",
@@ -9,42 +45,6 @@
     "title": "How to Open, Extract and Create RAR Files in Linux",
     "desc": "<p>Picture this: You\u2019ve been handed SSH access to a client\u2019s production server. Your job is to pull logs, create RAR Files in Linux, and bri",
     "link": "https://dev.to/serveravatar/how-to-open-extract-and-create-rar-files-in-linux-h63",
-    "topic": "general"
-  },
-  {
-    "title": "Prompt Injection Is a Permissions Problem, Not a Model Problem",
-    "desc": "<p>Every mitigation that treats injection as a text-filtering problem eventually fails. Here's the capability-based version that doesn't dep",
-    "link": "https://dev.to/msmyaqoob25/prompt-injection-is-a-permissions-problem-not-a-model-problem-59fk",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Daily Dose of DevOps \u2014 GitHub Actions basics for DevOps",
-    "desc": "<h1>\n  \n  \n  GitHub Actions Basics for DevOps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>GitHub Actions is a powerful automation platform in",
-    "link": "https://dev.to/marco13moo/daily-dose-of-devops-github-actions-basics-for-devops-48b9",
-    "topic": "general"
-  },
-  {
-    "title": "IndexNow Batch Mode: The lastmod Diff That Took 286 URLs Per Publish Down to 0",
-    "desc": "<p>Bing Webmaster Tools put a banner on our IndexNow page: <strong>\"IndexNow is in batch mode.\"</strong> The recommendation underneath was t",
-    "link": "https://dev.to/pickuma/indexnow-batch-mode-the-lastmod-diff-that-took-286-urls-per-publish-down-to-0-5832",
-    "topic": "general"
-  },
-  {
-    "title": "Full Stack Developer Roadmap 2026: The Complete Step-by-Step Guide (With Projects)",
-    "desc": "<h1>\n  \n  \n  Full Stack Developer Roadmap 2026: The Complete Step-by-Step Guide\n</h1>\n\n<p>The tech industry in 2026 demands more than just w",
-    "link": "https://dev.to/rk_9581d940b9d4a392df0588/full-stack-developer-roadmap-2026-the-complete-step-by-step-guide-with-projects-19l3",
-    "topic": "general"
-  },
-  {
-    "title": "5 Istio misconfigurations that istioctl analyze won't catch",
-    "desc": "<p><code>istioctl analyze</code> is the go-to tool for validating Istio configuration. It catches unknown hosts, missing Services, malformed",
-    "link": "https://dev.to/n0rm4l/5-istio-misconfigurations-that-istioctl-analyze-wont-catch-3h9j",
-    "topic": "general"
-  },
-  {
-    "title": "Top 10 Best AEM to WordPress Migration Companies",
-    "desc": "<p><em>You've got an AEM system but you're stuck with expensive enterprise overhead and complex Java architecture. Time to migrate to WordPr",
-    "link": "https://dev.to/oliverpitts/top-10-best-aem-to-wordpress-migration-companies-4439",
     "topic": "general"
   }
 ]
