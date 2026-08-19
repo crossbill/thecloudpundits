@@ -1,50 +1,50 @@
 [
   {
-    "title": "Every Number On Our Site Was Typed Once",
-    "desc": "<p>Our homepage said this:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>Your agents discover",
-    "link": "https://dev.to/minia2a/every-number-on-our-site-was-typed-once-2oe8",
+    "title": "Grafana's LGTM Stack \u2014 Tempo and Loki Are Starting to Feel Dated",
+    "desc": "<p>Same slow checkout: four hops from metrics to Tempo to Loki. DataBuff drills down from the service list, then you can ask the AI and chec",
+    "link": "https://dev.to/databufflabs/grafanas-lgtm-stack-tempo-and-loki-are-starting-to-feel-dated-5b94",
     "topic": "general"
   },
   {
-    "title": "C\u00f3mo mantener siempre disponibles las sesiones de tu agente de c\u00f3digo remoto (parte 2)",
-    "desc": "<p>La Parte 1 construy\u00f3 una caja siempre encendida para una sesi\u00f3n de <code>remote-control</code> de Claude Code y termin\u00f3 con una alarma qu",
-    "link": "https://dev.to/aws-builders/mover-un-agente-de-ia-siempre-encendido-de-un-vps-de-24-a-fargate-spot-pt-2-o4f",
+    "title": "Dev ch\u1ea1y ch\u1ee5c container tr\u00ean macOS Tahoe c\u1ea7n l\u01b0u \u00fd g\u00ec",
+    "desc": "<p>Nhi\u1ec1u ng\u01b0\u1eddi cho r\u1eb1ng c\u1ee9 g\u00e1n t\u1ed1i \u0111a dung l\u01b0\u1ee3ng RAM cho m\u00e1y \u1ea3o Linux l\u00e0 c\u1ee5m 8\u201310 microservice s\u1ebd v\u1eadn h\u00e0nh m\u01b0\u1ee3t m\u00e0 tr\u00ean macOS. Th\u1ef1c t\u1ebf, c\u01a1 c",
+    "link": "https://dev.to/hungphatlaptop/dev-chay-chuc-container-tren-macos-tahoe-can-luu-y-gi-3hk5",
+    "topic": "docker"
+  },
+  {
+    "title": "DigitalOcean Postgres Has a Firewall Trap. We Walked Right Into It.",
+    "desc": "<blockquote>\n<p><em>This article was originally published on <a href=\"https://jo4.io/blog/digitalocean-postgres-firewall-enforcement-trap/\" ",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/digitalocean-postgres-has-a-firewall-trap-we-walked-right-into-it-3inf",
     "topic": "general"
   },
   {
-    "title": "Runbook Automation: From 45-Minute Fixes to 90-Second Recoveries",
-    "desc": "<h2>\n  \n  \n  The Runbook Nobody Reads\n</h2>\n\n<p>We had runbooks. Beautiful, detailed, Google-Docs runbooks. 47 pages long. Nobody read them ",
-    "link": "https://dev.to/samson_tanimawo/runbook-automation-from-45-minute-fixes-to-90-second-recoveries-8ak",
+    "title": "A cost gate that fails your build should tell you where, not just that",
+    "desc": "<p>Most teams that gate agent cost in CI eventually hit the same wall. You wire up a check that fails the PR when the token/compute cost of ",
+    "link": "https://dev.to/wartzarbee/a-cost-gate-that-fails-your-build-should-tell-you-where-not-just-that-gm9",
     "topic": "general"
   },
   {
-    "title": "Wiz's Red Agent Cracked Snowflake's Jira in 5 Days \u2014 After Two Other AI Tools Signed Off on the Bug",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/jasondevlab/wizs-red-agent-cracked-snowflakes-jira-in-5-days-after-two-other-ai-tools-signed-off-on-the-bug-1hhk",
-    "topic": "general"
+    "title": "Pointing Claude Code at an AI gateway: what actually breaks (and the 4 env vars that fix it)",
+    "desc": "<p>Disclosure: I work on ApiFlux, an AI router with native Anthropic, OpenAI and Gemini endpoints. Everything below applies to any gateway t",
+    "link": "https://dev.to/yansen_zhu_9b0dae1c4cc0da/pointing-claude-code-at-an-ai-gateway-what-actually-breaks-and-the-4-env-vars-that-fix-it-2knp",
+    "topic": "anthropic"
   },
   {
-    "title": "Opinion: A Disposable Server Turns Free Model Mistakes Into Rollback Data",
-    "desc": "<p>A developer who tests an AI-written server change often asks a single question: did the service start without errors? That question hides",
-    "link": "https://dev.to/github_7727/opinion-a-disposable-server-turns-free-model-mistakes-into-rollback-data-1ec",
-    "topic": "general"
+    "title": "Designing High-Availability Architecture for Google Cloud: Real-World GCP Architect Insights",
+    "desc": "<p>Designing enterprise applications on Google Cloud Platform (GCP) requires moving beyond theoretical product features and addressing real-",
+    "link": "https://dev.to/packetsnifferben/designing-high-availability-architecture-for-google-cloud-real-world-gcp-architect-insights-4ekd",
+    "topic": "gcp"
   },
   {
-    "title": "Opinion: A Disposable Server Turns Free Model Mistakes Into Rollback Data",
-    "desc": "<p>A developer who tests an AI-written server change often asks a single question: did the service start without errors? That question hides",
-    "link": "https://dev.to/github_7727/opinion-a-disposable-server-turns-free-model-mistakes-into-rollback-data-34j8",
-    "topic": "general"
+    "title": "Engineering Build Notes #2: When an Idle Kubernetes Cluster Still Couldn't Consolidate",
+    "desc": "<p>How Kubernetes resource requests became a scheduling constraint in an Amazon EKS cluster.</p>\n\n<blockquote>\n<p><strong>Engineering Build ",
+    "link": "https://dev.to/damola12345/engineering-build-notes-2-when-an-idle-kubernetes-cluster-still-couldnt-consolidate-1dfj",
+    "topic": "kubernetes"
   },
   {
-    "title": "A Dead PID Held My Lock for 2 Hours: One Missing Line, Zero Output, exit 0 Every Time",
-    "desc": "<p>For 30 straight days as a college student earning \u00a5100k/month, I posted to Instagram by hand, and then I burned out and stopped. Today th",
-    "link": "https://dev.to/bokuwalily/a-dead-pid-held-my-lock-for-2-hours-one-missing-line-zero-output-exit-0-every-time-370c",
-    "topic": "general"
-  },
-  {
-    "title": "Relicensing yantrikdb took 57 minutes and I got two things wrong",
-    "desc": "<p>On 2026-08-18 I moved yantrikdb from AGPL-3.0 to Apache-2.0. The engine commit landed at 22:32:31 UTC. The server pull request merged at ",
-    "link": "https://dev.to/spranab/relicensing-yantrikdb-took-57-minutes-and-i-got-two-things-wrong-12ad",
+    "title": "The best Android SSH client in 2026, honestly compared",
+    "desc": "<h2>\n  \n  \n  The short answer\n</h2>\n\n<p>The best SSH client for Android in 2026 is <strong>TermAI</strong> for most people \u2014 it's phone-firs",
+    "link": "https://dev.to/chen_zong_43c81f1a65b1a54/the-best-android-ssh-client-in-2026-honestly-compared-4p5b",
     "topic": "general"
   }
 ]
