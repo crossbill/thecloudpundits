@@ -1,5 +1,41 @@
 [
   {
+    "title": "A successful pg_dump is not a recovery test",
+    "desc": "<p>A nightly <code>pg_dump</code> exits zero. That proves a backup command ran\u2014not that the system is recoverable.</p>\n\n<p>A useful restore-",
+    "link": "https://dev.to/mads_hansen_27b33ebfee4c9/a-successful-pgdump-is-not-a-recovery-test-3c14",
+    "topic": "general"
+  },
+  {
+    "title": "Feature Flags vs Load Balancer: One Splits Versions, the Other Splits People",
+    "desc": "<blockquote>\n<p>\ud83d\udcfa Prefer to watch? <a href=\"https://youtube.com/shorts/6AM-h5Rasa8\" rel=\"noopener noreferrer\">90-second YouTube Short</a> \u00b7 ",
+    "link": "https://dev.to/vahid_aghajani_60ce9dbec9/feature-flags-vs-load-balancer-one-splits-versions-the-other-splits-people-mlp",
+    "topic": "general"
+  },
+  {
+    "title": "Implementing Secure Configuration Management with Vault and Go",
+    "desc": "<p>Most Go services ship with secrets spread across environment variables, config files, and the occasional hardcoded constant nobody rememb",
+    "link": "https://dev.to/ayinedjimi-consultants/implementing-secure-configuration-management-with-vault-and-go-1ell",
+    "topic": "general"
+  },
+  {
+    "title": "The Complete Guide to Cloud Cost Optimization: Learning FinOps with FinOpsSchool.com",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/komal-kumari/the-complete-guide-to-cloud-cost-optimization-learning-finops-with-finopsschoolcom-370j",
+    "topic": "finops"
+  },
+  {
+    "title": "Salesforce DevOps AI Online Training | Salesforce AI Course",
+    "desc": "<p>Top AI Tools for Salesforce DevOps Automation in 2026<br />\nIntroduction<br />\nSalesforce DevOps helps teams build, test, and release Sal",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-ai-online-training-salesforce-ai-course-emn",
+    "topic": "general"
+  },
+  {
+    "title": "GitOps Repo Structure and Application Patterns: App-of-Apps, ApplicationSets, and AppProjects",
+    "desc": "<p>Once you have ArgoCD running across clusters \u2014 hub-and-spoke or per-cluster \u2014 the next question is how to organize what it deploys. How s",
+    "link": "https://dev.to/aloknecessary/gitops-repo-structure-and-application-patterns-app-of-apps-applicationsets-and-appprojects-2ae4",
+    "topic": "general"
+  },
+  {
     "title": "Cloud Storage Basics: Block, File, and Object Storage",
     "desc": "<p>When working with cloud platforms such as <strong>AWS, Azure, or Google Cloud</strong>, you'll encounter several different types of stora",
     "link": "https://dev.to/hrrydgls/cloud-storage-basics-block-file-and-object-storage-474m",
@@ -9,42 +45,6 @@
     "title": "One slash in a client's name silently sent their files to the wrong folder",
     "desc": "<p>I built a client-onboarding workflow in n8n: one intake form in, six artifacts out \u2014 a client folder, a welcome doc, a contract from a te",
     "link": "https://dev.to/shipsitself/one-slash-in-a-clients-name-silently-sent-their-files-to-the-wrong-folder-18d8",
-    "topic": "general"
-  },
-  {
-    "title": "Are you deploying microservices the right way? One practical tip: containerize each service",
-    "desc": "<p>Are you deploying microservices the right way? One practical tip: containerize each service independently to simplify scaling, updates, a",
-    "link": "https://dev.to/monovm/are-you-deploying-microservices-the-right-way-one-practical-tip-containerize-each-service-3079",
-    "topic": "docker"
-  },
-  {
-    "title": "Designing Application Configuration Across Environments",
-    "desc": "<p>Most applications begin on a developer's machine. You build the application, run the services it depends on, connect it to a database, an",
-    "link": "https://dev.to/madhanz0/designing-application-configuration-across-environments-3ko5",
-    "topic": "general"
-  },
-  {
-    "title": "SQLazy: Fill Field Values by Sequence Across Sub-Groups",
-    "desc": "<h2>\n  \n  \n  Problem Description\n</h2>\n\n<p>A table contains Group1 and Group2 as grouping fields, LineID as the sequence number within each ",
-    "link": "https://dev.to/esproc_spl/sqlazy-fill-field-values-by-sequence-across-sub-groups-3576",
-    "topic": "general"
-  },
-  {
-    "title": "How a 12% Flaky Test Suite Got Approved Twice",
-    "desc": "<p><strong>TL;DR:</strong> A green report is not evidence until its command is rerun against the artifact on disk; here, that exposed two fa",
-    "link": "https://dev.to/anthonygarces/how-a-12-flaky-test-suite-got-approved-twice-44j3",
-    "topic": "general"
-  },
-  {
-    "title": "From AI Agents to an AI Organization: Who Thinks, Who Acts, and Who Is Accountable?",
-    "desc": "<h1>\n  \n  \n  From AI Agents to an AI Organization: Who Thinks, Who Acts, and Who Is Accountable?\n</h1>\n\n<p>The useful future of AI at work i",
-    "link": "https://dev.to/martinhavel/from-ai-agents-to-an-ai-organization-who-thinks-who-acts-and-who-is-accountable-48pc",
-    "topic": "general"
-  },
-  {
-    "title": "CI/CD with GitHub Actions: A Practical Setup for Small Teams",
-    "desc": "<p>Our deployment used to be: local build, SCP to server, SSH to restart. 15 minutes per deploy, with production incidents from forgotten en",
-    "link": "https://dev.to/alan_529cf536b9cf0f88ec8c/cicd-with-github-actions-a-practical-setup-for-small-teams-507m",
     "topic": "general"
   }
 ]
