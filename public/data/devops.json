@@ -1,5 +1,41 @@
 [
   {
+    "title": "Answered leads that still looked untouched",
+    "desc": "<p><em>Originally published on <a href=\"https://aideazz.xyz/blog/stage-never-moved-field-note\" rel=\"noopener noreferrer\">AIdeazz</a> \u2014 cross",
+    "link": "https://dev.to/elenarevicheva/answered-leads-that-still-looked-untouched-1ki6",
+    "topic": "general"
+  },
+  {
+    "title": "Democratizing Production-Grade Agentic Tokenomics: Inside NVIDIA's NeMo Switchyard and Kong AI Gateway Integration",
+    "desc": "<h2>\n  \n  \n  \ud83e\udd16 The Crisis of Agentic Tokenomics\n</h2>\n\n<p>As a senior technology editor and architect, I have watched the narrative around L",
+    "link": "https://dev.to/isuvo/democratizing-production-grade-agentic-tokenomics-inside-nvidias-nemo-switchyard-and-kong-ai-5bld",
+    "topic": "general"
+  },
+  {
+    "title": "Free Model vs. 40 Lines of Python: Who Reads Build Logs Better?",
+    "desc": "<p>The build failed at 2:14 AM. The CI log was 41,000 lines long. My first grep found an error on line 12. The real failure lived on line 12",
+    "link": "https://dev.to/rivera123/free-model-vs-40-lines-of-python-who-reads-build-logs-better-516c",
+    "topic": "general"
+  },
+  {
+    "title": "Idle load balancers: the ~$16/month each you forgot to delete\"",
+    "desc": "<p><strong>Short version:</strong> An Application or Network Load Balancer costs <strong>~$0.0225/hour, about $16/month, just to exist</stro",
+    "link": "https://dev.to/jorelfermin/idle-load-balancers-the-16month-each-you-forgot-to-delete-548f",
+    "topic": "general"
+  },
+  {
+    "title": "Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan",
+    "desc": "<p>A rollback plan tells you how to undo an AI change, but not what breaks first when the change stays in place. Most production incidents d",
+    "link": "https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1",
+    "topic": "general"
+  },
+  {
+    "title": "Fault Tolerance Is the Layer Most AI Agent Stacks Are Missing",
+    "desc": "<p>An AI agent that works in a demo and one that works in production are different pieces of software. The demo runs on clean inputs against",
+    "link": "https://dev.to/paulcrinigan/fault-tolerance-is-the-layer-most-ai-agent-stacks-are-missing-2al",
+    "topic": "general"
+  },
+  {
     "title": "Exchange CU1 Delay: When AI Finds Flaws Faster Than Humans Can Validate",
     "desc": "<p>On August 13, Microsoft's Exchange team published a post titled \"Where is Exchange SE CU1 anyway?\" \u2014 an unusual public accounting of why ",
     "link": "https://dev.to/waxell/exchange-cu1-delay-when-ai-finds-flaws-faster-than-humans-can-validate-50bj",
@@ -9,42 +45,6 @@
     "title": "Flaky Tests: O Problema N\u00e3o S\u00e3o os Testes, \u00c9 a Confian\u00e7a",
     "desc": "<h1>\n  \n  \n  Flaky Tests: O Problema N\u00e3o S\u00e3o os Testes, \u00c9 a Confian\u00e7a\n</h1>\n\n<p>Um desenvolvedor aperta \"merge\". O pipeline fica vermelho. E",
     "link": "https://dev.to/victorholiveira/flaky-tests-o-problema-nao-sao-os-testes-e-a-confianca-b8l",
-    "topic": "general"
-  },
-  {
-    "title": "FRRouting and the Linux Routing Table: How Routes Reach the Kernel",
-    "desc": "<p>FRRouting does not forward packets by itself. Its protocol daemons learn and evaluate routes; Zebra coordinates the selected result with ",
-    "link": "https://dev.to/subnetica/frrouting-and-the-linux-routing-table-how-routes-reach-the-kernel-4gpp",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Database Migration Tool with Python",
-    "desc": "<h1>\n  \n  \n  Build a Database Migration Tool with Python\n</h1>\n\n<p>tags: python, database, devops, tutorial</p>\n\n\n\n\n<p>tags: python, databas",
-    "link": "https://dev.to/qingluan/build-a-database-migration-tool-with-python-3i80",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Real-Time Log Viewer with Python",
-    "desc": "<h1>\n  \n  \n  Build a Real-Time Log Viewer with Python\n</h1>\n\n<p>tags: python, devops, tools, tutorial</p>\n\n\n\n\n<p>tags: python, devops, tools",
-    "link": "https://dev.to/qingluan/build-a-real-time-log-viewer-with-python-14ik",
-    "topic": "general"
-  },
-  {
-    "title": "Bestest Vendor To Buy Verified MEXC Account Online",
-    "desc": "<p>Bestest Vendor To Buy Verified MEXC Account Online<br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usamarketit",
-    "link": "https://dev.to/mexcaccount182/bestest-vendor-to-buy-verified-mexc-account-online-ndi",
-    "topic": "general"
-  },
-  {
-    "title": "The webhook that returned 200 while switched off",
-    "desc": "<p><em>Originally published on <a href=\"https://aideazz.xyz/blog/ack-trap-field-note\" rel=\"noopener noreferrer\">AIdeazz</a> \u2014 cross-posted h",
-    "link": "https://dev.to/elenarevicheva/the-webhook-that-returned-200-while-switched-off-3ldn",
-    "topic": "general"
-  },
-  {
-    "title": "The lead pipeline that answered nobody for four days",
-    "desc": "<p><em>Originally published on <a href=\"https://aideazz.xyz/blog/concierge-outage-field-note\" rel=\"noopener noreferrer\">AIdeazz</a> \u2014 cross-",
-    "link": "https://dev.to/elenarevicheva/the-lead-pipeline-that-answered-nobody-for-four-days-28lb",
     "topic": "general"
   }
 ]
