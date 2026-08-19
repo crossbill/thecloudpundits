@@ -1,50 +1,50 @@
 [
   {
-    "title": "Shipping a Gumroad Clone to Production",
-    "desc": "<p>This is a walkthrough of the deployment setup behind my Gumroad clone: an EC2 box, Docker Compose, Nginx as the front door, and a GitHub ",
-    "link": "https://dev.to/goose2585/shipping-a-gumroad-clone-to-production-58b1",
+    "title": "I Built a 40-Minute Evaluation for Free Model Endpoints. Here's the Scorecard.",
+    "desc": "<p>Free model endpoints are seductive. Zero cost. Zero setup. Zero reason to trust them. I don't trust demos. I trust failure modes. So I bu",
+    "link": "https://dev.to/gitlab_3188/i-built-a-40-minute-evaluation-for-free-model-endpoints-heres-the-scorecard-44c1",
     "topic": "general"
   },
   {
-    "title": "Pass, Fail, and the Third State Your QA Tool Is Missing",
-    "desc": "<p>Our release gate told us to ship a build it had never successfully looked at. Every one of the six checks had crashed. The report underne",
-    "link": "https://dev.to/shipguarde/pass-fail-and-the-third-state-your-qa-tool-is-missing-221c",
+    "title": "Opinion: The Diff Is a Claim, the Probe Is the Proof",
+    "desc": "<h1>\n  \n  \n  Opinion: The Diff Is a Claim, the Probe Is the Proof\n</h1>\n\n<p>A generated patch is a claim about how a system should behave, a",
+    "link": "https://dev.to/github_7727/opinion-the-diff-is-a-claim-the-probe-is-the-proof-5l3",
     "topic": "general"
   },
   {
-    "title": "Why Unified Billing Matters When Upstream Pricing Is Volatile",
-    "desc": "<h1>\n  \n  \n  Why Unified Billing Matters When Upstream Pricing Is Volatile\n</h1>\n\n<p>Show how a single all-day rate changes forecasting, whi",
-    "link": "https://dev.to/aiwave/why-unified-billing-matters-when-upstream-pricing-is-volatile-5cfp",
+    "title": "What The Update Framework Assumes Will Go Wrong",
+    "desc": "<p>Most software update systems have a signing key and a repository, and the security argument stops there: the package is signed, the signa",
+    "link": "https://dev.to/havenmessenger/what-the-update-framework-assumes-will-go-wrong-2p07",
     "topic": "general"
   },
   {
-    "title": "Multi-Model Routing with an OpenAI-Compatible API",
-    "desc": "<h1>\n  \n  \n  Multi-Model Routing with an OpenAI-Compatible API\n</h1>\n\n<p>Build a small policy router that selects DeepSeek, Kimi, GLM, or Qw",
-    "link": "https://dev.to/aiwave/multi-model-routing-with-an-openai-compatible-api-3i38",
-    "topic": "openai"
-  },
-  {
-    "title": "DeepSeek V4 Cache Economics After Peak and Off-Peak Pricing",
-    "desc": "<h1>\n  \n  \n  DeepSeek V4 Cache Economics After Peak and Off-Peak Pricing\n</h1>\n\n<p>Explain how peak windows and cache-hit accounting affect ",
-    "link": "https://dev.to/aiwave/deepseek-v4-cache-economics-after-peak-and-off-peak-pricing-149f",
+    "title": "Cloud Cost Per Customer: Unit Economics Without Rebuilding Your Data Warehouse",
+    "desc": "<p>At some point a board deck needs a number nobody has: what it costs to serve customer X. Or its sharper cousin: which ten customers have ",
+    "link": "https://dev.to/zop_8abedcc7e12/cloud-cost-per-customer-unit-economics-without-rebuilding-your-data-warehouse-5do0",
     "topic": "general"
   },
   {
-    "title": "Enterprise Cloud Platforms: Building a Scalable and AI-Ready Business Infrastructure",
-    "desc": "<p>As businesses grow, their technology environment often becomes harder to manage.</p>\n\n<p>What starts as a few applications and spreadshee",
-    "link": "https://dev.to/axixtech/enterprise-cloud-platforms-building-a-scalable-and-ai-ready-business-infrastructure-2bak",
+    "title": "When GitHub Went Dark: What Broke and Why It Matters",
+    "desc": "<p>For nearly eight hours, GitHub vanished from the workflows of millions of developers. Pull requests stalled, Actions jobs hung, and Copil",
+    "link": "https://dev.to/adilaidev/when-github-went-dark-what-broke-and-why-it-matters-349o",
     "topic": "general"
   },
   {
-    "title": "Stopping the silent creep of environment drift \ud83d\uded1",
-    "desc": "<p>Ever spent hours debugging a production bug that refuses to reproduce in staging? Environment drift is the quiet killer of developer velo",
-    "link": "https://dev.to/upsun/stopping-the-silent-creep-of-environment-drift-2709",
+    "title": "Master MLOps Online Training | MLOps & AIOps Course",
+    "desc": "<p>\ud83d\ude80 \ud835\udde0\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\udde0\ud835\udddf\ud835\udde2\ud835\uddfd\ud835\ude00 & \ud835\uddd4\ud835\udddc\ud835\udde2\ud835\uddfd\ud835\ude00 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde9\ud835\uddf6\ud835\ude00\ud835\ude02\ud835\uddee\ud835\uddf9\ud835\uddfd\ud835\uddee\ud835\ude01\ud835\uddf5 \u2014 \ud835\uddd5\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddd9\ud835\ude02\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\uddfc\ud835\uddf3 \ud835\uddd4\ud835\udddc!<br />\n\ud83c\udfaf Build practical #MLOps & #AIOps skills to develop, automate, dep",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-mlops-online-training-mlops-aiops-course-26d2",
     "topic": "general"
   },
   {
-    "title": "When a perfect audit was too hard to use",
-    "desc": "<p>There are tasks in the database world that engineers genuinely enjoy: query optimization, petabyte-scale sharding, or designing highly av",
-    "link": "https://dev.to/islamov/when-a-perfect-audit-was-too-hard-to-use-hjb",
+    "title": "Don't Log the Thing You're Protecting",
+    "desc": "<p>You encrypted it in the database.<br />\nYou guarded it in transit.<br />\nThen you printed it to a log file<br />\nin plain text, forever.<",
+    "link": "https://dev.to/sergueyasaelshinder/dont-log-the-thing-youre-protecting-5h5j",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Backup Is Not Recovery Until You Test a Restore",
+    "desc": "<p>A backup job can be green while your agent is still unrecoverable.</p>\n\n<p>That happens when the backup contains files but not the state ",
+    "link": "https://dev.to/zira125/your-ai-agent-backup-is-not-recovery-until-you-test-a-restore-epi",
     "topic": "general"
   }
 ]
