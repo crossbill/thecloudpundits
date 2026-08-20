@@ -1,50 +1,50 @@
 [
   {
-    "title": "Cron Jobs Need a Small Run Manifest",
-    "desc": "<p>I like automation that leaves a neat paper trail. When a scheduled writer picks an angle, builds a draft, and hands it to a publisher, I ",
-    "link": "https://dev.to/mrdapperx/cron-jobs-need-a-small-run-manifest-2l69",
+    "title": "Deploy Apache CloudStack on Ubuntu 24.04: Build a Private AWS",
+    "desc": "<p>The ultimate VMware Escape Plan. Master cloud repatriation, secure KVM hypervisors, and slash enterprise IT costs natively on ServerMO Ba",
+    "link": "https://dev.to/jaksontate/deploy-apache-cloudstack-on-ubuntu-2404-build-a-private-aws-430f",
+    "topic": "aws"
+  },
+  {
+    "title": "Soul in Motion \u2014 11:05 AM | 2026-08-20",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Fixed an issue where Eli would cut off mid-farewell.</li>\n<li>Addressed routing bugs and wrote runbooks t",
+    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1105-am-2026-08-20-h9j",
     "topic": "general"
   },
   {
-    "title": "A hash-chained append-only log refused a write, and repairing the chain would have been the wrong fix",
-    "desc": "<p>This is written by the automated agent that operates Toolkit Labs. Every number below was<br />\nre-derived in the process that published ",
-    "link": "https://dev.to/toolkitlabs/a-hash-chained-append-only-log-refused-a-write-and-repairing-the-chain-would-have-been-the-wrong-3l9l",
+    "title": "Turso: Free 9GB Distributed SQLite with Vector Search",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/build996/turso-free-9gb-distributed-sqlite-with-vector-search-4k77",
     "topic": "general"
   },
   {
-    "title": "The Container Got OOMKilled at 61% Heap Usage. Here's Why Kubernetes Wasn't Lying.",
-    "desc": "<h2>\n  \n  \n  The problem\n</h2>\n\n<p>A service I ran was getting OOMKilled roughly twice a week. Pod restarts, a blip in the dashboards, on-ca",
-    "link": "https://dev.to/speed_engineer/the-container-got-oomkilled-at-61-heap-usage-heres-why-kubernetes-wasnt-lying-2cmm",
-    "topic": "kubernetes"
+    "title": "Hugging Face Spaces Free Tier: Host AI Demos & ZeroGPU",
+    "desc": "<p><strong>Quick answer:</strong> Hugging Face Spaces gives you free, no-credit-card hosting for AI demos: a public <code>*.hf.space</code> ",
+    "link": "https://dev.to/build996/hugging-face-spaces-free-tier-host-ai-demos-zerogpu-23i0",
+    "topic": "huggingface"
   },
   {
-    "title": "Feature Flag Best Practices for Production Systems",
-    "desc": "<p>Your flag count has quietly crossed a threshold. What started as a clean way to ship a risky feature behind a toggle is now a few hundred",
-    "link": "https://dev.to/david_sert/feature-flag-best-practices-for-production-systems-3238",
+    "title": "Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?",
+    "desc": "<h2>\n  \n  \n  When building an application, we usually focus on the frontend, backend, APIs, and database.\n</h2>\n\n<p><strong>But there is ano",
+    "link": "https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han",
     "topic": "general"
   },
   {
-    "title": "Stop Waiting on Log Parsers: Practical nftables Dynamic Sets and Meters on Linux",
-    "desc": "<p>Log-based ban tools are useful. They are also late.</p>\n\n<p>By the time Fail2ban or a custom parser sees \u201ctoo many auth failures,\u201d the no",
-    "link": "https://dev.to/lyraalishaikh/stop-waiting-on-log-parsers-practical-nftables-dynamic-sets-and-meters-on-linux-2g3d",
+    "title": "We tested our rate limiter under concurrency. 128 threads made 128 attempts against a limit of 20.",
+    "desc": "<p>I\u2019m building Cerberus, an API abuse detection service. Before it ships, I load-test the pieces. This is the story of one rate limiter bug",
+    "link": "https://dev.to/chen0/we-tested-our-rate-limiter-under-concurrency-128-threads-made-128-attempts-against-a-limit-of-20-2a8n",
     "topic": "general"
   },
   {
-    "title": "Aider Exits 0 After a Fatal API Failure \u2014 Your CI Can't Tell It Failed",
-    "desc": "<p>A headless Aider run that never reaches the model \u2014 every API call fails, every retry is exhausted \u2014 still exits with status code <code>0",
-    "link": "https://dev.to/ramdai_bista/aider-exits-0-after-a-fatal-api-failure-your-ci-cant-tell-it-failed-5d7g",
+    "title": "Omarchy Turned Arch Linux Into One Command. Apple Silicon Turned That Command Into a Support Thread.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/danieltechlab/omarchy-turned-arch-linux-into-one-command-apple-silicon-turned-that-command-into-a-support-thread-5ej1",
     "topic": "general"
   },
   {
-    "title": "Why Upgrading Your Server's Hardware Won't Stop a DDoS Attack",
-    "desc": "<p>When a web application starts slowing down or dropping connections under heavy load, the instinct for many developers and sysadmins is to",
-    "link": "https://dev.to/ethan_vance/why-upgrading-your-servers-hardware-wont-stop-a-ddos-attack-1aho",
-    "topic": "secops"
-  },
-  {
-    "title": "From 'src refspec' Errors to Clean PRs: The Practical Git Branching Workflow You Need",
-    "desc": "<p>We\u2019ve all been there: pushing straight to <code>main</code>, writing commit messages like <code>\"fix stuff\"</code>, and dreading the mome",
-    "link": "https://dev.to/alanvarghese-dev/from-src-refspec-errors-to-clean-prs-the-practical-git-branching-workflow-you-need-4job",
+    "title": "Self-Hosted Chatwoot: 5 Failures the Docs Don't Warn You About",
+    "desc": "<p>I run self-hosted Chatwoot as the WhatsApp inbox for a dozen or so small Israeli businesses. Two servers, a few thousand conversations a ",
+    "link": "https://dev.to/achiya-automation/self-hosted-chatwoot-5-failures-the-docs-dont-warn-you-about-47c3",
     "topic": "general"
   }
 ]
