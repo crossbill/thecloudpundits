@@ -1,50 +1,50 @@
 [
   {
-    "title": "Identity Infrastructure: Why Credentials Are the Layer Directories Don't Secure",
-    "desc": "<p>\ud83d\udc49 <strong>TL;DR:</strong> Identity infrastructure is the foundation of enterprise security: the directories, identity providers, access m",
-    "link": "https://dev.to/gitguardian/identity-infrastructure-why-credentials-are-the-layer-directories-dont-secure-21gm",
+    "title": "Stop a Malicious postinstall Script Cold With One CircleCI Config Change",
+    "desc": "<p>Every <code>npm install</code> you run in CI trusts every dependency, and every one of <em>their</em> dependencies, to execute arbitrary ",
+    "link": "https://dev.to/mukesh_13/stop-a-malicious-postinstall-script-cold-with-one-circleci-config-change-4168",
     "topic": "general"
   },
   {
-    "title": "AWS EC2 Hands-On Practicals",
-    "desc": "<h1>\n  \n  \n  \u2601\ufe0f AWS EC2 Hands-On Practicals\n</h1>\n\n<h3>\n  \n  \n  EC2, IAM Roles, EBS, AMIs, Snapshots, CLI and Boto3\n</h3>\n\n<blockquote>\n<p>P",
-    "link": "https://dev.to/tejas_shinkar/aws-ec2-hands-on-practicals-1jh",
-    "topic": "aws"
-  },
-  {
-    "title": "I Built an Interactive 365-Day Linux & SOC Analyst Master Platform (with Live In-Browser Labs & Threat Intel) \ud83d\ude80",
-    "desc": "<p>Learning Linux and transitioning into defensive cybersecurity (Blue Team / SOC Analyst) can be overwhelming. </p>\n\n<p>Most tutorials stop",
-    "link": "https://dev.to/dwivedula_samrudh_e8cad8d/i-built-an-interactive-365-day-linux-soc-analyst-master-platform-with-live-in-browser-labs--4fm3",
+    "title": "Best Enterprise LLM Gateway for Budgets and Cost Control",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/best-enterprise-llm-gateway-for-budgets-and-cost-control-115h",
     "topic": "general"
   },
   {
-    "title": "How Enterprise Informatica Support Services Maintain Zero-Downtime Data Pipelines",
-    "desc": "<p>Operating enterprise data integration architectures requires balancing continuous pipeline availability with routine software maintenance",
-    "link": "https://dev.to/jhon_smith/how-enterprise-informatica-support-services-maintain-zero-downtime-data-pipelines-15mo",
+    "title": "One request per document: sync-mode API design",
+    "desc": "<p>Most document-extraction APIs work like this: upload \u2192 get a task ID \u2192 poll \u2192 poll \u2192 poll. Four to six requests per document, and your au",
+    "link": "https://dev.to/docforge/one-request-per-document-sync-mode-api-design-5108",
     "topic": "general"
   },
   {
-    "title": "A Matching Checksum Doesn't Prove What You Think: Integrity vs Authenticity",
-    "desc": "<p>Last week I downloaded a CLI release and saw the familiar pair of links: a binary and its <code>SHA256SUMS</code> file. I hashed the bina",
-    "link": "https://dev.to/orthogonalinfo/a-matching-checksum-doesnt-prove-what-you-think-integrity-vs-authenticity-502b",
+    "title": "Best Enterprise AI Gateway to Reduce Your LLM Token Cost in 2026",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/best-enterprise-ai-gateway-to-reduce-your-llm-token-cost-in-2026-126p",
     "topic": "general"
   },
   {
-    "title": "How Does Software Testing Differ From Software Quality Assurance?",
-    "desc": "<p>When it comes to building reliable software, <strong>software testing</strong> and <strong><a href=\"https://acelan.ai/services/software-q",
-    "link": "https://dev.to/allenrichard12/how-does-software-testing-differ-from-software-quality-assurance-pa4",
+    "title": "Your agent isn't reckless. It just can't see the blast radius.",
+    "desc": "<p>I've been running Claude Code as a daily driver for about three months now. It writes<br />\nAnsible I'd have taken a week to write. It re",
+    "link": "https://dev.to/rabih_jabr_29/your-agent-isnt-reckless-it-just-cant-see-the-blast-radius-1lkj",
     "topic": "general"
   },
   {
-    "title": "The Modern PWA Blueprint [Part 3]: Developer Velocity, Architecture & CI/CD",
-    "desc": "<h2>\n  \n  \n  Developer Velocity: Why PWAs Ship Significantly Faster\n</h2>\n\n<h3>\n  \n  \n  Rapid Iteration: Modern Tooling, HMR & Unified Codeb",
-    "link": "https://dev.to/albertoboffi/the-modern-pwa-blueprint-part-3-developer-velocity-architecture-cicd-4bnd",
+    "title": "OpenSparrow v3.3 \u2014 Click Statistics, Production Readiness Check, and Deployment Hardening",
+    "desc": "<p><strong>OpenSparrow v3.3 is a stability\u2011focused and deployment\u2011focused release that brings real\u2011world operational visibility, a productio",
+    "link": "https://dev.to/wrobeltomasz/opensparrow-v33-click-statistics-production-readiness-check-and-deployment-hardening-170h",
     "topic": "general"
   },
   {
-    "title": "3 Ways to Manage Files in CloudShell",
-    "desc": "<p>So you've probably had to open <a href=\"https://aws.amazon.com/cloudshell/?trk=02c7b25c-78f4-4968-8fa2-241bdf0bcf97&sc_channel=el\" rel=\"n",
-    "link": "https://dev.to/aws/3-ways-to-manage-files-in-cloudshell-3j8n",
+    "title": "Vercel AI Gateway Alternatives for Enterprise AI Traffic",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/vercel-ai-gateway-alternatives-for-enterprise-ai-traffic-1701",
+    "topic": "general"
+  },
+  {
+    "title": "Shadow AI Explained: What It Is and How to Detect It",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/shadow-ai-explained-what-it-is-and-how-to-detect-it-12i",
     "topic": "general"
   }
 ]
