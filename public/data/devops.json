@@ -1,50 +1,50 @@
 [
   {
-    "title": "Deploy Apache CloudStack on Ubuntu 24.04: Build a Private AWS",
-    "desc": "<p>The ultimate VMware Escape Plan. Master cloud repatriation, secure KVM hypervisors, and slash enterprise IT costs natively on ServerMO Ba",
-    "link": "https://dev.to/jaksontate/deploy-apache-cloudstack-on-ubuntu-2404-build-a-private-aws-430f",
-    "topic": "aws"
-  },
-  {
-    "title": "Soul in Motion \u2014 11:05 AM | 2026-08-20",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Fixed an issue where Eli would cut off mid-farewell.</li>\n<li>Addressed routing bugs and wrote runbooks t",
-    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1105-am-2026-08-20-h9j",
+    "title": "Server Infrastructure Analysis",
+    "desc": "<p>The purpose is to understand how different server components work together to provide services to users. A server plays an important role",
+    "link": "https://dev.to/abisha_berci04/server-infrastructure-analysis-114f",
     "topic": "general"
   },
   {
-    "title": "Turso: Free 9GB Distributed SQLite with Vector Search",
+    "title": "I Taught a Free Model to Read 10,000 Log Lines So I Could Sleep",
+    "desc": "<p>My side project's log file hit 40MB on a Tuesday night.</p>\n\n<p>I hadn't opened it in three weeks. The errors were buried under framework",
+    "link": "https://dev.to/rivera123/i-taught-a-free-model-to-read-10000-log-lines-so-i-could-sleep-3eoh",
+    "topic": "general"
+  },
+  {
+    "title": "Appwrite: Free Open-Source Backend (Firebase Alternative)",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/build996/turso-free-9gb-distributed-sqlite-with-vector-search-4k77",
+    "link": "https://dev.to/build996/appwrite-free-open-source-backend-firebase-alternative-4b97",
     "topic": "general"
   },
   {
-    "title": "Hugging Face Spaces Free Tier: Host AI Demos & ZeroGPU",
-    "desc": "<p><strong>Quick answer:</strong> Hugging Face Spaces gives you free, no-credit-card hosting for AI demos: a public <code>*.hf.space</code> ",
-    "link": "https://dev.to/build996/hugging-face-spaces-free-tier-host-ai-demos-zerogpu-23i0",
-    "topic": "huggingface"
-  },
-  {
-    "title": "Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?",
-    "desc": "<h2>\n  \n  \n  When building an application, we usually focus on the frontend, backend, APIs, and database.\n</h2>\n\n<p><strong>But there is ano",
-    "link": "https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han",
+    "title": "SaaS Sprawl Is an Architecture Problem: Rethinking the Modern Enterprise Stack",
+    "desc": "<p>Enterprises rarely wake up one morning with hundreds of SaaS applications.</p>\n\n<p>It usually happens gradually.</p>\n\n<p>A team needs a C",
+    "link": "https://dev.to/axixtech/saas-sprawl-is-an-architecture-problem-rethinking-the-modern-enterprise-stack-57ok",
     "topic": "general"
   },
   {
-    "title": "We tested our rate limiter under concurrency. 128 threads made 128 attempts against a limit of 20.",
-    "desc": "<p>I\u2019m building Cerberus, an API abuse detection service. Before it ships, I load-test the pieces. This is the story of one rate limiter bug",
-    "link": "https://dev.to/chen0/we-tested-our-rate-limiter-under-concurrency-128-threads-made-128-attempts-against-a-limit-of-20-2a8n",
-    "topic": "general"
+    "title": "The 2 AM Incident: When a Free Model Endpoint Returned 200 and Lied",
+    "desc": "<h1>\n  \n  \n  The 2 AM Incident: When a Free Model Endpoint Returned 200 and Lied\n</h1>\n\n<p>The alert fired at 2:14 AM. Error rate: 0%. Laten",
+    "link": "https://dev.to/hackrs_6393/the-2-am-incident-when-a-free-model-endpoint-returned-200-and-lied-2483",
+    "topic": "secops"
   },
   {
-    "title": "Omarchy Turned Arch Linux Into One Command. Apple Silicon Turned That Command Into a Support Thread.",
+    "title": "Coolify: Free Self-Hosted App Hosting (Your Own Heroku)",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/danieltechlab/omarchy-turned-arch-linux-into-one-command-apple-silicon-turned-that-command-into-a-support-thread-5ej1",
+    "link": "https://dev.to/build996/coolify-free-self-hosted-app-hosting-your-own-heroku-5dca",
     "topic": "general"
   },
   {
-    "title": "Self-Hosted Chatwoot: 5 Failures the Docs Don't Warn You About",
-    "desc": "<p>I run self-hosted Chatwoot as the WhatsApp inbox for a dozen or so small Israeli businesses. Two servers, a few thousand conversations a ",
-    "link": "https://dev.to/achiya-automation/self-hosted-chatwoot-5-failures-the-docs-dont-warn-you-about-47c3",
+    "title": "Opinion: Your Review Gate Is Untested Code \u2014 Feed It Known-Bad Patches on the Free Server",
+    "desc": "<p>Your review gate for AI-generated patches is code, and most teams have never run a single test against it. A gate that cannot catch a pat",
+    "link": "https://dev.to/github_7727/opinion-your-review-gate-is-untested-code-feed-it-known-bad-patches-on-the-free-server-15d3",
+    "topic": "general"
+  },
+  {
+    "title": "ArgoCD Game Server Deployment: 7 Tips for Agones Fleets",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/20/argocd-game-server-deployment-7-tips-for-agones-fleets\" rel=\"noope",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/argocd-game-server-deployment-7-tips-for-agones-fleets-571h",
     "topic": "general"
   }
 ]
