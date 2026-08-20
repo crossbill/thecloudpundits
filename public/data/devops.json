@@ -1,50 +1,50 @@
 [
   {
+    "title": "When It Breaks, Fail Closed",
+    "desc": "<p>Everything fails eventually.<br />\nThe question is which way.</p>\n\n<p>The auth check times out.<br />\nThe permission service is down.<br ",
+    "link": "https://dev.to/sergueyasaelshinder/when-it-breaks-fail-closed-110j",
+    "topic": "general"
+  },
+  {
+    "title": "Die 30-Tage-Blaupause",
+    "desc": "<h2>\n  \n  \n  Mein erstes Guard-Skript war drei Zeilen lang\n</h2>\n\n\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><",
+    "link": "https://dev.to/frederikvonderheyden/die-30-tage-blaupause-5a60",
+    "topic": "general"
+  },
+  {
+    "title": "Das System bei Nacht",
+    "desc": "<h2>\n  \n  \n  3:47 Uhr: Was passiert, wenn dein System arbeitet, w\u00e4hrend du schl\u00e4fst\n</h2>\n\n<p>Es war ein Dienstagmorgen. Mein Telefon vibrie",
+    "link": "https://dev.to/frederikvonderheyden/das-system-bei-nacht-59kl",
+    "topic": "general"
+  },
+  {
+    "title": "I built an MCP memory server for one user (me, for six weeks)",
+    "desc": "<p><em>Building in public</em></p>\n\n<p>You explain your deploy setup to your assistant. It helps. Tomorrow you explain the same setup again.",
+    "link": "https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh",
+    "topic": "general"
+  },
+  {
+    "title": "Solving Gradle metadata and Renovate integration",
+    "desc": "<p>My current company has settled on using Gradle. It doesn't make me <a href=\"https://blog.frankel.ch/final-take-gradle/\" rel=\"noopener nor",
+    "link": "https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a",
+    "topic": "general"
+  },
+  {
+    "title": "When Should You Move Off Managed Hosting to Kubernetes? The Thresholds That Actually Matter",
+    "desc": "<p>If you are trying to decide whether it is finally time to run a cluster, the honest answer is that request volume is almost never the tri",
+    "link": "https://dev.to/libme/when-should-you-move-off-managed-hosting-to-kubernetes-the-thresholds-that-actually-matter-5bbl",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "How Spamhaus blocklisted my SMTP verifier \u2014 a server that never sent an email",
+    "desc": "<p>In short: I'm building an email verification service that works via live SMTP probing. One day iCloud started rejecting my server with 55",
+    "link": "https://dev.to/oleggg1/how-spamhaus-blocklisted-my-smtp-verifier-a-server-that-never-sent-an-email-4335",
+    "topic": "general"
+  },
+  {
     "title": "How to Evaluate a 5G Router Manufacturer for Global Industrial Deployments",
     "desc": "<p>A 5G router can pass a pilot in one country and still be the wrong choice for a global rollout.<br />\nThe pilot may use a known operator,",
     "link": "https://dev.to/robustel/how-to-evaluate-a-5g-router-manufacturer-for-global-industrial-deployments-eej",
-    "topic": "general"
-  },
-  {
-    "title": "Four silent failures in my AI automations. All four ran green.",
-    "desc": "<p>Every one of these ran green. No exception, no failed execution, nothing in the log. Each one was found by going and looking at something",
-    "link": "https://dev.to/shipsitself/four-silent-failures-in-my-ai-automations-all-four-ran-green-47lb",
-    "topic": "general"
-  },
-  {
-    "title": "The Windows Evidence Gap",
-    "desc": "<p>The Windows agent was online. It rejected unauthorized tunnel requests. Its binary matched the release we had tested.</p>\n\n<p>And we coul",
-    "link": "https://dev.to/merbayerp/the-windows-evidence-gap-3f1h",
-    "topic": "general"
-  },
-  {
-    "title": "Notable Open-Source Weight Models: August 2026 Version",
-    "desc": "<p>2026\u201308\u201320 Open-Source LLM Ecosystem Major Update \u2014 Many developers are still using outdated model lists from the first half of the year,",
-    "link": "https://dev.to/roxanaye/notable-open-source-weight-models-august-2026-version-e90",
-    "topic": "general"
-  },
-  {
-    "title": "Production-Grade CI/CD for Databricks: The Gatekeeping Strategy Real Teams Use",
-    "desc": "<p>A \"push code \u2192 deploy\" pipeline is a demo, not a production strategy. What separates a toy CI/CD setup from one that survives a real data",
-    "link": "https://dev.to/anshul_02/production-grade-cicd-for-databricks-the-gatekeeping-strategy-real-teams-use-2c7a",
-    "topic": "general"
-  },
-  {
-    "title": "Verification vs Validation in Software Testing: A Practical Breakdown",
-    "desc": "<p>A few years back I worked on a reporting feature that hit every acceptance criterion in the ticket. Every field matched the spec, every c",
-    "link": "https://dev.to/marxjenes/verification-vs-validation-in-software-testing-a-practical-breakdown-2o9p",
-    "topic": "general"
-  },
-  {
-    "title": "How to Schedule Python Scripts With Systemd",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
-    "link": "https://dev.to/chasebot/how-to-schedule-python-scripts-with-systemd-1ipe",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Git Hook System with Python",
-    "desc": "<h1>\n  \n  \n  Build a Git Hook System with Python\n</h1>\n\n<p>tags: python, git, devops, tools</p>\n\n\n\n\n<p>tags: python, git, devops, tools</p>\n",
-    "link": "https://dev.to/qingluan/build-a-git-hook-system-with-python-2pna",
     "topic": "general"
   }
 ]

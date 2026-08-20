@@ -1,5 +1,11 @@
 [
   {
+    "title": "Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler",
+    "desc": "<p>Remote, unauthenticated attackers could exploit the critical-severity flaw without user interaction.</p>\n<p>The post <a href=\"https://www",
+    "link": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
+    "topic": "general"
+  },
+  {
     "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
     "desc": "<p>CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data.</p>\n<p>The post <a href=\"https:",
     "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
@@ -40,11 +46,5 @@
     "desc": "<p>The flaws can be exploited for remote code execution, authentication bypass, and device takeover.</p>\n<p>The post <a href=\"https://www.se",
     "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
     "topic": "azure"
-  },
-  {
-    "title": "943 Patches Rolled Out With Oracle\u2019s August 2026 Security Update",
-    "desc": "<p>The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
-    "topic": "secops"
   }
 ]
