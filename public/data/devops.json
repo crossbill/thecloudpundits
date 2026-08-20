@@ -1,5 +1,35 @@
 [
   {
+    "title": "Puppet Core 9.0 and 8.21 Released: Ruby 4.0, OpenSSL 3.5, Platform Changes, and Security Hardening",
+    "desc": "<p>Did you know there's a new major version in town for Puppet Core? You might have heard about it through the grapevine or in the <a href=\"",
+    "link": "https://dev.to/puppet/puppet-core-90-and-821-released-ruby-40-openssl-35-platform-changes-and-security-hardening-4294",
+    "topic": "secops"
+  },
+  {
+    "title": "Why Japanese Enterprises Buy Differently: The RFP-to-Contract Cycle for Tech Vendors",
+    "desc": "<h2>\n  \n  \n  Key Points\n</h2>\n\n<ul>\n<li>Japanese enterprise sales cycles for foreign vendors without local presence run 6\u201318 months, against",
+    "link": "https://dev.to/brywritescode/why-japanese-enterprises-buy-differently-the-rfp-to-contract-cycle-for-tech-vendors-1pnm",
+    "topic": "general"
+  },
+  {
+    "title": "The auth check I decided not to write, and the test that keeps it unwritten",
+    "desc": "<p>I have a tool that mints unforgeable capability tokens. HMAC-SHA256, a one-way subset<br />\nratchet on the rights, a depth limit so deleg",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/the-auth-check-i-decided-not-to-write-and-the-test-that-keeps-it-unwritten-4nai",
+    "topic": "general"
+  },
+  {
+    "title": "Physical Server vs Cloud Server: What I Learned About Infrastructure",
+    "desc": "<p>When we build an application, we often focus on the frontend, backend, APIs, and databases.</p>\n\n<p>But there is another important questi",
+    "link": "https://dev.to/beny_2005/physical-server-vs-cloud-server-what-i-learned-about-infrastructure-2905",
+    "topic": "general"
+  },
+  {
+    "title": "I built our internal developer platform (twice)",
+    "desc": "<p><em>From a six-month SRE internship (March to August 2026) at a B2B SaaS company that provisions a dedicated environment per customer on ",
+    "link": "https://dev.to/clement_s/i-built-our-internal-developer-platform-twice-17pc",
+    "topic": "general"
+  },
+  {
     "title": "How to Send GitHub Push Notifications to Discord Without Managing a Server",
     "desc": "<p>GitHub webhooks are great for repository automation, but getting useful push notifications into Discord often becomes more work than expe",
     "link": "https://dev.to/qdoraemon/how-to-send-github-push-notifications-to-discord-without-managing-a-server-2mgd",
@@ -16,35 +46,5 @@
     "desc": "<blockquote>\n<p>The architectural differences between the root account and sudo delegation, how the SUID bit works, why visudo saves product",
     "link": "https://dev.to/asepsayyad007/sudo-vs-root-whats-the-difference-901",
     "topic": "general"
-  },
-  {
-    "title": "Are CompTIA Certifications Worth It in 2026? Industry Trends & Business Value Analysis",
-    "desc": "<p>In 2026, enterprise IT infrastructures operate in hyper-complex environments defined by multi-cloud deployments, AI-driven automation, an",
-    "link": "https://dev.to/ryancooperops/are-comptia-certifications-worth-it-in-2026-industry-trends-business-value-analysis-3bbp",
-    "topic": "general"
-  },
-  {
-    "title": "A Slow Task Runner Is Not a Dead Task Runner",
-    "desc": "<p>One line in the n8n 2.35.5 release notes carries a useful lesson for every workflow and agent runtime: task runners should not be restart",
-    "link": "https://dev.to/lucioliu/a-slow-task-runner-is-not-a-dead-task-runner-1hb7",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Health Check Endpoint with Best Practices",
-    "desc": "<h1>\n  \n  \n  Build a Health Check Endpoint with Best Practices\n</h1>\n\n<p>tags: python, devops, api, tutorial</p>\n\n\n\n\n<p>tags: python, devops",
-    "link": "https://dev.to/qingluan/build-a-health-check-endpoint-with-best-practices-58mi",
-    "topic": "general"
-  },
-  {
-    "title": "The ChatGPT Prompts I'd Use If I Had to Make My First $100 Online",
-    "desc": "<h3>\n  \n  \n  A practical, no-fluff walkthrough of the exact prompts I'd type into ChatGPT if I woke up broke and had to earn my first hundre",
-    "link": "https://dev.to/chizurumchidimma/the-chatgpt-prompts-id-use-if-i-had-to-make-my-first-100-online-10kh",
-    "topic": "openai"
-  },
-  {
-    "title": "Terraform Cloud Workspaces: Team Collaboration & Remote State",
-    "desc": "<h2>\n  \n  \n  Terraform Cloud and Workspaces: Remote Execution, Policy Enforcement, and Team Workflows\n</h2>\n\n<p>Terraform Cloud transforms T",
-    "link": "https://dev.to/instadevops/terraform-cloud-workspaces-team-collaboration-remote-state-1okn",
-    "topic": "terraform"
   }
 ]
