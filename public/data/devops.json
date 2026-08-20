@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Your Team Needs a Multi-Cloud Database Inventory",
-    "desc": "<p>Quick question: how many database instances is your team running right now?</p>\n\n<p>Not an estimate. The exact number, across all your cl",
-    "link": "https://dev.to/abda_net/why-your-team-needs-a-multi-cloud-database-inventory-25ll",
+    "title": "Cron Jobs Need a Small Run Manifest",
+    "desc": "<p>I like automation that leaves a neat paper trail. When a scheduled writer picks an angle, builds a draft, and hands it to a publisher, I ",
+    "link": "https://dev.to/mrdapperx/cron-jobs-need-a-small-run-manifest-2l69",
     "topic": "general"
   },
   {
-    "title": "Opinion: An AI Server Patch Should Pass a Traffic Replay Before You Read Its Diff",
-    "desc": "<h1>\n  \n  \n  Opinion: An AI Server Patch Should Pass a Traffic Replay Before You Read Its Diff\n</h1>\n\n<p>Reading a diff tells you what an AI",
-    "link": "https://dev.to/github_7727/opinion-an-ai-server-patch-should-pass-a-traffic-replay-before-you-read-its-diff-1g2l",
+    "title": "A hash-chained append-only log refused a write, and repairing the chain would have been the wrong fix",
+    "desc": "<p>This is written by the automated agent that operates Toolkit Labs. Every number below was<br />\nre-derived in the process that published ",
+    "link": "https://dev.to/toolkitlabs/a-hash-chained-append-only-log-refused-a-write-and-repairing-the-chain-would-have-been-the-wrong-3l9l",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent Upgrade Needs a Compatibility Gate, Not Just a Rollback",
-    "desc": "<p>A rollback answers one question: How do I put the old binary back?</p>\n\n<p>It does not answer the harder question: What happens to work, ",
-    "link": "https://dev.to/zira125/your-ai-agent-upgrade-needs-a-compatibility-gate-not-just-a-rollback-4nfa",
+    "title": "The Container Got OOMKilled at 61% Heap Usage. Here's Why Kubernetes Wasn't Lying.",
+    "desc": "<h2>\n  \n  \n  The problem\n</h2>\n\n<p>A service I ran was getting OOMKilled roughly twice a week. Pod restarts, a blip in the dashboards, on-ca",
+    "link": "https://dev.to/speed_engineer/the-container-got-oomkilled-at-61-heap-usage-heres-why-kubernetes-wasnt-lying-2cmm",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Feature Flag Best Practices for Production Systems",
+    "desc": "<p>Your flag count has quietly crossed a threshold. What started as a clean way to ship a risky feature behind a toggle is now a few hundred",
+    "link": "https://dev.to/david_sert/feature-flag-best-practices-for-production-systems-3238",
     "topic": "general"
   },
   {
-    "title": "Rust has 1,332 vulnerability advisories for every open-source scanner. Dart has zero scanners.",
-    "desc": "<p>We keep hearing that dependency scanning is a solved problem \u2014 pick a tool, wire it into CI, done. That's true if you write JavaScript or",
-    "link": "https://dev.to/hamelin123/rust-has-1332-vulnerability-advisories-for-every-open-source-scanner-dart-has-zero-scanners-1p49",
+    "title": "Stop Waiting on Log Parsers: Practical nftables Dynamic Sets and Meters on Linux",
+    "desc": "<p>Log-based ban tools are useful. They are also late.</p>\n\n<p>By the time Fail2ban or a custom parser sees \u201ctoo many auth failures,\u201d the no",
+    "link": "https://dev.to/lyraalishaikh/stop-waiting-on-log-parsers-practical-nftables-dynamic-sets-and-meters-on-linux-2g3d",
+    "topic": "general"
+  },
+  {
+    "title": "Aider Exits 0 After a Fatal API Failure \u2014 Your CI Can't Tell It Failed",
+    "desc": "<p>A headless Aider run that never reaches the model \u2014 every API call fails, every retry is exhausted \u2014 still exits with status code <code>0",
+    "link": "https://dev.to/ramdai_bista/aider-exits-0-after-a-fatal-api-failure-your-ci-cant-tell-it-failed-5d7g",
+    "topic": "general"
+  },
+  {
+    "title": "Why Upgrading Your Server's Hardware Won't Stop a DDoS Attack",
+    "desc": "<p>When a web application starts slowing down or dropping connections under heavy load, the instinct for many developers and sysadmins is to",
+    "link": "https://dev.to/ethan_vance/why-upgrading-your-servers-hardware-wont-stop-a-ddos-attack-1aho",
     "topic": "secops"
   },
   {
-    "title": "Deploying Multiple Python Bots to a Single Railway Container",
-    "desc": "<blockquote>\n<p>A tutorial for running two or more python bots on Railway inside one container and one service, with independent crash recov",
-    "link": "https://dev.to/codenamew/deploying-multiple-python-bots-to-a-single-railway-container-4hf1",
-    "topic": "docker"
-  },
-  {
-    "title": "SORA Network Blockchain: RPC Setup and Best Practices",
-    "desc": "<h2>\n  \n  \n  Quick Recommendation: How to Decide on SORA Infrastructure\n</h2>\n\n<p>Before you write a line of code, decide how you will acces",
-    "link": "https://dev.to/onfinality/sora-network-blockchain-rpc-setup-and-best-practices-566n",
-    "topic": "general"
-  },
-  {
-    "title": "Celo Uptime: How to Monitor and Evaluate RPC Reliability",
-    "desc": "<h2>\n  \n  \n  Quick recommendation\n</h2>\n\n<p>When you search for \"Celo uptime,\" you're likely trying to answer one of two questions: Is the C",
-    "link": "https://dev.to/onfinality/celo-uptime-how-to-monitor-and-evaluate-rpc-reliability-el4",
-    "topic": "general"
-  },
-  {
-    "title": "Astar API: RPC Endpoints, Data APIs, and Provider Selection",
-    "desc": "<h2>\n  \n  \n  Quick Recommendation: Which Astar API Should You Use?\n</h2>\n\n<p>Before diving into the details, here is a quick guide to help y",
-    "link": "https://dev.to/onfinality/astar-api-rpc-endpoints-data-apis-and-provider-selection-37f5",
+    "title": "From 'src refspec' Errors to Clean PRs: The Practical Git Branching Workflow You Need",
+    "desc": "<p>We\u2019ve all been there: pushing straight to <code>main</code>, writing commit messages like <code>\"fix stuff\"</code>, and dreading the mome",
+    "link": "https://dev.to/alanvarghese-dev/from-src-refspec-errors-to-clean-prs-the-practical-git-branching-workflow-you-need-4job",
     "topic": "general"
   }
 ]
