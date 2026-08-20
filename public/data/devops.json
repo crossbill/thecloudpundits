@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why is my Linux server slow? A practical checklist",
-    "desc": "<p>A no-nonsense order of operations for finding what\u2019s actually slowing a Linux box down \u2014 CPU, memory, disk, I/O, or something noisier.</p",
-    "link": "https://dev.to/opservo/why-is-my-linux-server-slow-a-practical-checklist-225e",
+    "title": "Free Focus Drills: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/free-focus-drills-what-we-learned-building-random-tactical-timer-289j",
     "topic": "general"
   },
   {
-    "title": "Cloud Concentration Risk Has a Price Tag Now",
-    "desc": "<p>Cloud concentration risk has always existed \u2014 what's new is that it's starting to show up denominated in currency instead of uptime perce",
-    "link": "https://dev.to/ntctech/cloud-concentration-risk-has-a-price-tag-now-3a47",
+    "title": "How to Sandbox AI Agents Before Letting Them Execute Code",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>If an AI agent can execute shell commands, install packages, edit files, or run generated code, treat that exec",
+    "link": "https://dev.to/krutika_shah/how-to-sandbox-ai-agents-before-letting-them-execute-code-3cle",
     "topic": "general"
   },
   {
-    "title": "You've Configured a Reverse Proxy, But Can You Explain Why It Works? (Part 1)",
-    "desc": "<p>You wrote <code>proxy_pass http://localhost:3000;</code>, checked it in the browser, saw it working, and called it done. But you couldn't",
-    "link": "https://dev.to/shinagawa-web/youve-configured-a-reverse-proxy-but-can-you-explain-why-it-works-part-1-1lpf",
+    "title": "Who Can Join a MERN Full Stack Course?",
+    "desc": "<h1>\n  \n  \n  Who Can Join a MERN Full Stack Course?\n</h1>\n\n<p>A <strong>MERN Full Stack Course</strong> is suitable for anyone who wants to ",
+    "link": "https://dev.to/webdevcommunity/who-can-join-a-mern-full-stack-course-5fb7",
     "topic": "general"
   },
   {
-    "title": "10 Linux Server Disasters & Open-Source SRE Cures",
-    "desc": "<p>When a production server goes down at 2 AM, standard beginner advice fails. Running <code>df -h</code>, staring blindly at <code>top</cod",
-    "link": "https://dev.to/jaksontate/10-linux-server-disasters-open-source-sre-cures-13dj",
+    "title": "Build a Pricing Source-of-Truth Gate for AI Agent SDKs",
+    "desc": "<h1>\n  \n  \n  Build a Pricing Source-of-Truth Gate for AI Agent SDKs\n</h1>\n\n<p>AI agent SDKs often hide pricing in the wrong place.</p>\n\n<p>T",
+    "link": "https://dev.to/aiwave/build-a-pricing-source-of-truth-gate-for-ai-agent-sdks-59f9",
     "topic": "general"
   },
   {
-    "title": "Our EKS Node Crashed and Four Auto-Recovery Mechanisms All Failed. Here's Why.",
-    "desc": "<blockquote>\n<p>\u26a1 TL;DR: An EKS worker node running 30+ pods crashed at 08:43 IST on Aug 16. EC2 Auto Scaling didn't act. EKS Node Auto Repa",
-    "link": "https://dev.to/prateek_srivastava_6a5661/our-eks-node-crashed-and-four-auto-recovery-mechanisms-all-failed-heres-why-93l",
+    "title": "Safeguarding Your GitHub Automation: Navigating API Rate Limits and Protecting Your GitHub KPIs",
+    "desc": "<h2>\n  \n  \n  The Hidden Cost of Aggressive Automation: Navigating GitHub API Rate Limits to Safeguard Your GitHub KPIs\n</h2>\n\n<p>In the purs",
+    "link": "https://dev.to/devactivity/safeguarding-your-github-automation-navigating-api-rate-limits-and-protecting-your-github-kpis-3il8",
     "topic": "general"
   },
   {
-    "title": "Self-Hosted CI Runners: CircleCI vs GitHub Actions vs GitLab \u2014 When Bring-Your-Own-Compute Actually Pays Off",
-    "desc": "<p>Every CI conversation eventually arrives at the same fork: keep paying per-minute for hosted runners, or stand up your own compute and ea",
-    "link": "https://dev.to/mukesh_13/self-hosted-ci-runners-circleci-vs-github-actions-vs-gitlab-when-bring-your-own-compute-actually-1edn",
+    "title": "Claude Code Hooks Fire in 8 Places: The Agent Lifecycle Diagram Anthropic Never Shipped",
+    "desc": "<p>The Claude Code hooks reference has ballooned to 30+ events in 2026. <code>PostToolUseFailure</code>, <code>WorktreeCreate</code>, <code>",
+    "link": "https://dev.to/kenimo49/claude-code-hooks-fire-in-8-places-the-agent-lifecycle-diagram-anthropic-never-shipped-25c4",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Your Secrets Manager Ends at process.env: Where Secrets Actually Leak at Runtime",
+    "desc": "<p>Whichever secrets store you pick \u2014 a cloud provider's secret manager, Doppler, 1Password, Vault, or encrypted files in git \u2014 almost all o",
+    "link": "https://dev.to/libme/your-secrets-manager-ends-at-processenv-where-secrets-actually-leak-at-runtime-3b8b",
     "topic": "general"
   },
   {
-    "title": "AWS Highly Available Web Application \u2014 ALB, Auto Scaling & Self-Healing",
-    "desc": "<h1>\n  \n  \n  AWS Highly Available Web Application\n</h1>\n\n<h3>\n  \n  \n  ALB + EC2 + Auto Scaling + Multi-AZ + Self-Healing\n</h3>\n\n<p>A hands-o",
-    "link": "https://dev.to/tejas_shinkar/aws-highly-available-web-application-alb-auto-scaling-self-healing-2je7",
-    "topic": "aws"
-  },
-  {
-    "title": "A container per job, without a daemon",
-    "desc": "<p>Some workloads want an image each. A build that needs a specific toolchain, a test that needs a specific database client, a task whose de",
-    "link": "https://dev.to/amartyadev/a-container-per-job-without-a-daemon-1l7c",
-    "topic": "docker"
+    "title": "Top Platforms to Purchase Aged Gmail Accounts in the USA",
+    "desc": "<p>Buy Gmail Accounts</p>\n\n<p>\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2726 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e</p>\n\n<p>GETSMMZONE \u2022 CONTACT</p>\n\n<p>\u2570\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2726 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256f</",
+    "link": "https://dev.to/carissacreechsp1ef/top-platforms-to-purchase-aged-gmail-accounts-in-the-usa-3nh",
+    "topic": "general"
   }
 ]
