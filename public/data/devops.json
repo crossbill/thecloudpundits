@@ -1,5 +1,29 @@
 [
   {
+    "title": "I blamed the URL. The variable was which seat asked.",
+    "desc": "<p>Three days ago I published a rule I had measured myself. It was wrong in a way that only showed up when I ran it from a different chair.<",
+    "link": "https://dev.to/unmannedops/i-blamed-the-url-the-variable-was-which-seat-asked-f92",
+    "topic": "general"
+  },
+  {
+    "title": "Seven days of HTTP 200 while the page rendered blank",
+    "desc": "<p>I shipped a landing page on August 13. For the next seven days every request to it<br />\nreturned <code>HTTP 200</code>. Analytics showed",
+    "link": "https://dev.to/vouch/seven-days-of-http-200-while-the-page-rendered-blank-10jc",
+    "topic": "general"
+  },
+  {
+    "title": "Two thirds of VPN vendors ship no Content-Security-Policy. Including, sort of, us.",
+    "desc": "<p>I scanned the public homepages of thirty commercial VPN vendors for the six HTTP response headers<br />\nthat browsers actually act on. On",
+    "link": "https://dev.to/ricco020/two-thirds-of-vpn-vendors-ship-no-content-security-policy-including-sort-of-us-i8",
+    "topic": "secops"
+  },
+  {
+    "title": "Exit Code 137 Was the Only Clue: My Free Server Had a Memory Ceiling I Never Measured",
+    "desc": "<p>Last week my batch processor died three times in one night, and every death looked identical: no traceback, no error log, no restart mess",
+    "link": "https://dev.to/codepy_1473/exit-code-137-was-the-only-clue-my-free-server-had-a-memory-ceiling-i-never-measured-4856",
+    "topic": "general"
+  },
+  {
     "title": "Opinion: A Free Server Is a Failure Rehearsal Room, Not a Demo Stage",
     "desc": "<h2>\n  \n  \n  Opinion: A Free Server Is a Failure Rehearsal Room, Not a Demo Stage\n</h2>\n\n<p>Your free server is the most underused environme",
     "link": "https://dev.to/github_7727/opinion-a-free-server-is-a-failure-rehearsal-room-not-a-demo-stage-5h72",
@@ -21,30 +45,6 @@
     "title": "Build a Service Mesh Monitor with Python",
     "desc": "<h1>\n  \n  \n  Build a Service Mesh Monitor with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tutorial</p>\n\n\n\n\n<p>tags: python, devops, ",
     "link": "https://dev.to/qingluan/build-a-service-mesh-monitor-with-python-1ki1",
-    "topic": "general"
-  },
-  {
-    "title": "Un Space Invaders en ECS Express Mode con anti-cheat server-side",
-    "desc": "<p>Dej\u00e9 un juego de Space Invaders corriendo en AWS y lo que m\u00e1s me cost\u00f3 no fue el juego. Fue que un l\u00edder de ranking con el servidor confi",
-    "link": "https://dev.to/roxsross/un-space-invaders-en-ecs-express-mode-con-anti-cheat-server-side-4pn",
-    "topic": "general"
-  },
-  {
-    "title": "The Complete Buyer's Guide to Mobile App Development Services: What You Need to Know",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The mobile app development industry has matured significantly over the past decade, yet selecting the ri",
-    "link": "https://dev.to/helen_mirren_55/the-complete-buyers-guide-to-mobile-app-development-services-what-you-need-to-know-1joa",
-    "topic": "general"
-  },
-  {
-    "title": "I Turned a $7 Lightsail VM Into a Staging Server",
-    "desc": "<p>My side projects had a staging gap.</p>\n\n<p>Local Docker was useful for checking an application before a release, but it still ran on my ",
-    "link": "https://dev.to/lbagga/i-turned-a-7-lightsail-vm-into-a-staging-server-43n5",
-    "topic": "general"
-  },
-  {
-    "title": "Safe Ways to Buy a Verified Wise Account in 2026",
-    "desc": "<p>Safe Ways to Buy a Verified Wise Account in 2026<br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usamarketit@g",
-    "link": "https://dev.to/wiseaccount55/safe-ways-to-buy-a-verified-wise-account-in-2026-1mgl",
     "topic": "general"
   }
 ]
