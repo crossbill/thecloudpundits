@@ -1,50 +1,50 @@
 [
   {
-    "title": "David Stark: Top High-Paying Roles",
-    "desc": "<h3>\n  \n  \n  \ud83d\udc4b Hello Architects & Elite Engineers,\n</h3>\n\n<p>The market is shifting. We are seeing a surge in <strong>DEVOPS</strong> roles ",
-    "link": "https://dev.to/devpulse/david-stark-top-high-paying-roles-217",
+    "title": "Rust has 1,332 vulnerability advisories for every open-source scanner. Dart has zero scanners.",
+    "desc": "<p>We keep hearing that dependency scanning is a solved problem \u2014 pick a tool, wire it into CI, done. That's true if you write JavaScript or",
+    "link": "https://dev.to/hamelin123/rust-has-1332-vulnerability-advisories-for-every-open-source-scanner-dart-has-zero-scanners-1p49",
+    "topic": "secops"
+  },
+  {
+    "title": "Deploying Multiple Python Bots to a Single Railway Container",
+    "desc": "<blockquote>\n<p>A tutorial for running two or more python bots on Railway inside one container and one service, with independent crash recov",
+    "link": "https://dev.to/codenamew/deploying-multiple-python-bots-to-a-single-railway-container-4hf1",
+    "topic": "docker"
+  },
+  {
+    "title": "SORA Network Blockchain: RPC Setup and Best Practices",
+    "desc": "<h2>\n  \n  \n  Quick Recommendation: How to Decide on SORA Infrastructure\n</h2>\n\n<p>Before you write a line of code, decide how you will acces",
+    "link": "https://dev.to/onfinality/sora-network-blockchain-rpc-setup-and-best-practices-566n",
     "topic": "general"
   },
   {
-    "title": "SonoNav: Turning Affordable Medical Imaging Devices into AI-Guided Diagnostic Instruments",
-    "desc": "<p><strong>What if the future of medical imaging isn't a more expensive machine\u2014but an intelligence layer that makes affordable machines dra",
-    "link": "https://dev.to/alirezaai/sononav-turning-affordable-medical-imaging-devices-into-ai-guided-diagnostic-instruments-1dj8",
+    "title": "Celo Uptime: How to Monitor and Evaluate RPC Reliability",
+    "desc": "<h2>\n  \n  \n  Quick recommendation\n</h2>\n\n<p>When you search for \"Celo uptime,\" you're likely trying to answer one of two questions: Is the C",
+    "link": "https://dev.to/onfinality/celo-uptime-how-to-monitor-and-evaluate-rpc-reliability-el4",
     "topic": "general"
   },
   {
-    "title": "Gu\u00eda Completa de Observabilidad",
-    "desc": "<h1>\n  \n  \n  Observabilidad Microservicios: Gu\u00eda Completa para DevOps 2025\n</h1>\n\n<p><strong>La observabilidad microservicios es la capacida",
-    "link": "https://dev.to/devopsfreelance_pro/guia-completa-de-observabilidad-28n3",
+    "title": "Astar API: RPC Endpoints, Data APIs, and Provider Selection",
+    "desc": "<h2>\n  \n  \n  Quick Recommendation: Which Astar API Should You Use?\n</h2>\n\n<p>Before diving into the details, here is a quick guide to help y",
+    "link": "https://dev.to/onfinality/astar-api-rpc-endpoints-data-apis-and-provider-selection-37f5",
     "topic": "general"
   },
   {
-    "title": "What Actually Breaks When You Ship AI Into A Real Business",
-    "desc": "<p>Most of the AI content on this site is about models, prompts and frameworks. This one is about the layer underneath all of that, the part",
-    "link": "https://dev.to/paulcrinigan/what-actually-breaks-when-you-ship-ai-into-a-real-business-3han",
+    "title": "Gnosis Uptime: How to Check and What It Means",
+    "desc": "<h2>\n  \n  \n  Quick recommendation: what to monitor and how to react\n</h2>\n\n<p>When you search for \"Gnosis uptime,\" you are likely trying to ",
+    "link": "https://dev.to/onfinality/gnosis-uptime-how-to-check-and-what-it-means-29nf",
     "topic": "general"
   },
   {
-    "title": "Qu\u00e9 es un Runbook: Gu\u00eda Pr\u00e1ctica + Plantillas Gratis (2026)",
-    "desc": "<h1>\n  \n  \n  \u00bfQu\u00e9 es un Runbook? Definici\u00f3n, Tipos y C\u00f3mo Automatizarlo\n</h1>\n\n<p>Un <strong>runbook</strong> es un documento operativo que ",
-    "link": "https://dev.to/devopsfreelance_pro/que-es-un-runbook-guia-practica-plantillas-gratis-2026-9h8",
+    "title": "qData Professional Edition: Full-Link Data Lineage Now Connects Database Sync, Data Development, and API Nodes",
+    "desc": "<p>As enterprise data scales and pipelines grow more complex, data flows are becoming increasingly difficult to track. </p>\n\n<p>Business dat",
+    "link": "https://dev.to/tongwu/qdata-professional-edition-full-link-data-lineage-now-connects-database-sync-data-development-1mi9",
     "topic": "general"
   },
   {
-    "title": "Build a Load Testing Tool with Python and asyncio",
-    "desc": "<h1>\n  \n  \n  Build a Load Testing Tool with Python and asyncio\n</h1>\n\n<p>tags: python, testing, devops, tutorial</p>\n\n\n\n\n<p>tags: python, te",
-    "link": "https://dev.to/qingluan/build-a-load-testing-tool-with-python-and-asyncio-2dh8",
-    "topic": "general"
-  },
-  {
-    "title": "Env Checker: Find Undefined Environment Variables in Shell Scripts Using Pure Python",
-    "desc": "<h1>\n  \n  \n  Env Checker: Detect Undefined Environment Variables in Shell Scripts\n</h1>\n\n<p>Shell scripts with undefined environment variabl",
-    "link": "https://dev.to/poolion/env-checker-find-undefined-environment-variables-in-shell-scripts-using-pure-python-3",
-    "topic": "general"
-  },
-  {
-    "title": "Config-Linter: Python CLI Tool for JSON/YAML Config Validation Without External Dependencies",
-    "desc": "<h1>\n  \n  \n  Config Linter: JSON/YAML Config Validation in Pure Python\n</h1>\n\n<p>Configuration files are deceptively fragile. A trailing com",
-    "link": "https://dev.to/poolion/config-linter-python-cli-tool-for-jsonyaml-config-validation-without-external-dependencies-46jp",
+    "title": "Battling Typhoon \"White Dolphin\": Real-World Applications of Water AI and Digital Twins Behind the Smart Defense Line",
+    "desc": "<p>Every typhoon landfall serves as a comprehensive test for a river basin's flood control system. </p>\n\n<p>Heavy rainfall brings not only s",
+    "link": "https://dev.to/tongwu/battling-typhoon-white-dolphin-real-world-applications-of-water-ai-and-digital-twins-behind-the-4daa",
     "topic": "general"
   }
 ]
