@@ -1,5 +1,23 @@
 [
   {
+    "title": "Why Your Team Needs a Multi-Cloud Database Inventory",
+    "desc": "<p>Quick question: how many database instances is your team running right now?</p>\n\n<p>Not an estimate. The exact number, across all your cl",
+    "link": "https://dev.to/abda_net/why-your-team-needs-a-multi-cloud-database-inventory-25ll",
+    "topic": "general"
+  },
+  {
+    "title": "Opinion: An AI Server Patch Should Pass a Traffic Replay Before You Read Its Diff",
+    "desc": "<h1>\n  \n  \n  Opinion: An AI Server Patch Should Pass a Traffic Replay Before You Read Its Diff\n</h1>\n\n<p>Reading a diff tells you what an AI",
+    "link": "https://dev.to/github_7727/opinion-an-ai-server-patch-should-pass-a-traffic-replay-before-you-read-its-diff-1g2l",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Upgrade Needs a Compatibility Gate, Not Just a Rollback",
+    "desc": "<p>A rollback answers one question: How do I put the old binary back?</p>\n\n<p>It does not answer the harder question: What happens to work, ",
+    "link": "https://dev.to/zira125/your-ai-agent-upgrade-needs-a-compatibility-gate-not-just-a-rollback-4nfa",
+    "topic": "general"
+  },
+  {
     "title": "Rust has 1,332 vulnerability advisories for every open-source scanner. Dart has zero scanners.",
     "desc": "<p>We keep hearing that dependency scanning is a solved problem \u2014 pick a tool, wire it into CI, done. That's true if you write JavaScript or",
     "link": "https://dev.to/hamelin123/rust-has-1332-vulnerability-advisories-for-every-open-source-scanner-dart-has-zero-scanners-1p49",
@@ -27,24 +45,6 @@
     "title": "Astar API: RPC Endpoints, Data APIs, and Provider Selection",
     "desc": "<h2>\n  \n  \n  Quick Recommendation: Which Astar API Should You Use?\n</h2>\n\n<p>Before diving into the details, here is a quick guide to help y",
     "link": "https://dev.to/onfinality/astar-api-rpc-endpoints-data-apis-and-provider-selection-37f5",
-    "topic": "general"
-  },
-  {
-    "title": "Gnosis Uptime: How to Check and What It Means",
-    "desc": "<h2>\n  \n  \n  Quick recommendation: what to monitor and how to react\n</h2>\n\n<p>When you search for \"Gnosis uptime,\" you are likely trying to ",
-    "link": "https://dev.to/onfinality/gnosis-uptime-how-to-check-and-what-it-means-29nf",
-    "topic": "general"
-  },
-  {
-    "title": "qData Professional Edition: Full-Link Data Lineage Now Connects Database Sync, Data Development, and API Nodes",
-    "desc": "<p>As enterprise data scales and pipelines grow more complex, data flows are becoming increasingly difficult to track. </p>\n\n<p>Business dat",
-    "link": "https://dev.to/tongwu/qdata-professional-edition-full-link-data-lineage-now-connects-database-sync-data-development-1mi9",
-    "topic": "general"
-  },
-  {
-    "title": "Battling Typhoon \"White Dolphin\": Real-World Applications of Water AI and Digital Twins Behind the Smart Defense Line",
-    "desc": "<p>Every typhoon landfall serves as a comprehensive test for a river basin's flood control system. </p>\n\n<p>Heavy rainfall brings not only s",
-    "link": "https://dev.to/tongwu/battling-typhoon-white-dolphin-real-world-applications-of-water-ai-and-digital-twins-behind-the-4daa",
     "topic": "general"
   }
 ]
