@@ -1,5 +1,11 @@
 [
   {
+    "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
+    "desc": "<p>CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
+    "topic": "general"
+  },
+  {
     "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
     "desc": "<p>A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies.</p>\n<p>The post",
     "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
@@ -40,11 +46,5 @@
     "desc": "<p>The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs.</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
     "topic": "secops"
-  },
-  {
-    "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
-    "desc": "<p>The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure.</p>\n<p>The post <a href=\"https:/",
-    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
-    "topic": "general"
   }
 ]

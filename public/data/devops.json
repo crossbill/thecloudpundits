@@ -1,50 +1,50 @@
 [
   {
-    "title": "Server Infrastructure Analysis",
-    "desc": "<p>The purpose is to understand how different server components work together to provide services to users. A server plays an important role",
-    "link": "https://dev.to/abisha_berci04/server-infrastructure-analysis-114f",
+    "title": "How to Evaluate a 5G Router Manufacturer for Global Industrial Deployments",
+    "desc": "<p>A 5G router can pass a pilot in one country and still be the wrong choice for a global rollout.<br />\nThe pilot may use a known operator,",
+    "link": "https://dev.to/robustel/how-to-evaluate-a-5g-router-manufacturer-for-global-industrial-deployments-eej",
     "topic": "general"
   },
   {
-    "title": "I Taught a Free Model to Read 10,000 Log Lines So I Could Sleep",
-    "desc": "<p>My side project's log file hit 40MB on a Tuesday night.</p>\n\n<p>I hadn't opened it in three weeks. The errors were buried under framework",
-    "link": "https://dev.to/rivera123/i-taught-a-free-model-to-read-10000-log-lines-so-i-could-sleep-3eoh",
+    "title": "Four silent failures in my AI automations. All four ran green.",
+    "desc": "<p>Every one of these ran green. No exception, no failed execution, nothing in the log. Each one was found by going and looking at something",
+    "link": "https://dev.to/shipsitself/four-silent-failures-in-my-ai-automations-all-four-ran-green-47lb",
     "topic": "general"
   },
   {
-    "title": "Appwrite: Free Open-Source Backend (Firebase Alternative)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/build996/appwrite-free-open-source-backend-firebase-alternative-4b97",
+    "title": "The Windows Evidence Gap",
+    "desc": "<p>The Windows agent was online. It rejected unauthorized tunnel requests. Its binary matched the release we had tested.</p>\n\n<p>And we coul",
+    "link": "https://dev.to/merbayerp/the-windows-evidence-gap-3f1h",
     "topic": "general"
   },
   {
-    "title": "SaaS Sprawl Is an Architecture Problem: Rethinking the Modern Enterprise Stack",
-    "desc": "<p>Enterprises rarely wake up one morning with hundreds of SaaS applications.</p>\n\n<p>It usually happens gradually.</p>\n\n<p>A team needs a C",
-    "link": "https://dev.to/axixtech/saas-sprawl-is-an-architecture-problem-rethinking-the-modern-enterprise-stack-57ok",
+    "title": "Notable Open-Source Weight Models: August 2026 Version",
+    "desc": "<p>2026\u201308\u201320 Open-Source LLM Ecosystem Major Update \u2014 Many developers are still using outdated model lists from the first half of the year,",
+    "link": "https://dev.to/roxanaye/notable-open-source-weight-models-august-2026-version-e90",
     "topic": "general"
   },
   {
-    "title": "The 2 AM Incident: When a Free Model Endpoint Returned 200 and Lied",
-    "desc": "<h1>\n  \n  \n  The 2 AM Incident: When a Free Model Endpoint Returned 200 and Lied\n</h1>\n\n<p>The alert fired at 2:14 AM. Error rate: 0%. Laten",
-    "link": "https://dev.to/hackrs_6393/the-2-am-incident-when-a-free-model-endpoint-returned-200-and-lied-2483",
-    "topic": "secops"
-  },
-  {
-    "title": "Coolify: Free Self-Hosted App Hosting (Your Own Heroku)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/build996/coolify-free-self-hosted-app-hosting-your-own-heroku-5dca",
+    "title": "Production-Grade CI/CD for Databricks: The Gatekeeping Strategy Real Teams Use",
+    "desc": "<p>A \"push code \u2192 deploy\" pipeline is a demo, not a production strategy. What separates a toy CI/CD setup from one that survives a real data",
+    "link": "https://dev.to/anshul_02/production-grade-cicd-for-databricks-the-gatekeeping-strategy-real-teams-use-2c7a",
     "topic": "general"
   },
   {
-    "title": "Opinion: Your Review Gate Is Untested Code \u2014 Feed It Known-Bad Patches on the Free Server",
-    "desc": "<p>Your review gate for AI-generated patches is code, and most teams have never run a single test against it. A gate that cannot catch a pat",
-    "link": "https://dev.to/github_7727/opinion-your-review-gate-is-untested-code-feed-it-known-bad-patches-on-the-free-server-15d3",
+    "title": "Verification vs Validation in Software Testing: A Practical Breakdown",
+    "desc": "<p>A few years back I worked on a reporting feature that hit every acceptance criterion in the ticket. Every field matched the spec, every c",
+    "link": "https://dev.to/marxjenes/verification-vs-validation-in-software-testing-a-practical-breakdown-2o9p",
     "topic": "general"
   },
   {
-    "title": "ArgoCD Game Server Deployment: 7 Tips for Agones Fleets",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/20/argocd-game-server-deployment-7-tips-for-agones-fleets\" rel=\"noope",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/argocd-game-server-deployment-7-tips-for-agones-fleets-571h",
+    "title": "How to Schedule Python Scripts With Systemd",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
+    "link": "https://dev.to/chasebot/how-to-schedule-python-scripts-with-systemd-1ipe",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Git Hook System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Git Hook System with Python\n</h1>\n\n<p>tags: python, git, devops, tools</p>\n\n\n\n\n<p>tags: python, git, devops, tools</p>\n",
+    "link": "https://dev.to/qingluan/build-a-git-hook-system-with-python-2pna",
     "topic": "general"
   }
 ]
