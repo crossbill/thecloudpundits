@@ -1,5 +1,23 @@
 [
   {
+    "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
+    "desc": "<p>The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
+    "desc": "<p>The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
+    "topic": "secops"
+  },
+  {
+    "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
+    "desc": "<p>The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks.</p>\n<p>The post <a href=\"https://www.",
+    "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking",
     "desc": "<p>Atalanta's Argo product is now being used to prove the resilience of Viasat\u2019s satellite communications network.</p>\n<p>The post <a href=\"",
     "link": "https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/",
@@ -27,24 +45,6 @@
     "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
     "desc": "<p>A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies.</p>\n<p>The post",
     "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
-    "topic": "general"
-  },
-  {
-    "title": "Virtual Event Today: CodeSecCon \u2013 Secure Your Code and Applications",
-    "desc": "<p>CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way application",
-    "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
-    "topic": "general"
-  },
-  {
-    "title": "Prevalent AI Raises $22 Million to Expand Data Fabric Platform",
-    "desc": "<p>The previously bootstrapped company helps organizations securely and reliably operate AI agents at scale.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/",
-    "topic": "general"
-  },
-  {
-    "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
-    "desc": "<p>The 17 members of the Mabna Institute targeted hundreds of universities and organizations in the US and abroad.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
     "topic": "general"
   }
 ]

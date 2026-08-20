@@ -1,50 +1,50 @@
 [
   {
-    "title": "From Prototype to Production: Deploying NeoMind on Edge Hardware",
-    "desc": "<p>Getting an edge AI demo to run on your desk is the easy part. Keeping it alive on a $100 gateway in a factory cabinet, surviving power cu",
-    "link": "https://dev.to/mingming_shen_85ea2348fec/from-prototype-to-production-deploying-neomind-on-edge-hardware-3654",
+    "title": "Why is my Linux server slow? A practical checklist",
+    "desc": "<p>A no-nonsense order of operations for finding what\u2019s actually slowing a Linux box down \u2014 CPU, memory, disk, I/O, or something noisier.</p",
+    "link": "https://dev.to/opservo/why-is-my-linux-server-slow-a-practical-checklist-225e",
     "topic": "general"
   },
   {
-    "title": "Top API Breakthroughs: Defining the Infrastructure of July 2026",
-    "desc": "<h1>\n  \n  \n  The API Landscape of July 2026\n</h1>\n\n<p>As we navigate the mid year point of 2026, the API ecosystem is undergoing a massive t",
-    "link": "https://dev.to/productwatch/top-api-breakthroughs-defining-the-infrastructure-of-july-2026-2a3d",
+    "title": "Cloud Concentration Risk Has a Price Tag Now",
+    "desc": "<p>Cloud concentration risk has always existed \u2014 what's new is that it's starting to show up denominated in currency instead of uptime perce",
+    "link": "https://dev.to/ntctech/cloud-concentration-risk-has-a-price-tag-now-3a47",
     "topic": "general"
   },
   {
-    "title": "24 Top Sites to Buy old Gmail Accounts (Aged or New) in ...",
-    "desc": "<p>Why Choose usadigitalhub.com for Gmail Accounts?<br />\n\ud83c\udf1f\ud83d\udcac 24/7 Premium Support \u2014 Always Here for You! \ud83e\udd1d\u2728<br />\n\ud83d\udcf1\ud83d\udc8e WhatsApp: +1 (506) 541-",
-    "link": "https://dev.to/celinkapittman3zl21/24-top-sites-to-buy-old-gmail-accounts-aged-or-new-in--276m",
+    "title": "You've Configured a Reverse Proxy, But Can You Explain Why It Works? (Part 1)",
+    "desc": "<p>You wrote <code>proxy_pass http://localhost:3000;</code>, checked it in the browser, saw it working, and called it done. But you couldn't",
+    "link": "https://dev.to/shinagawa-web/youve-configured-a-reverse-proxy-but-can-you-explain-why-it-works-part-1-1lpf",
     "topic": "general"
   },
   {
-    "title": "Security Advantages of Bespoke Software in 2026: Why Custom-Built Wins Against Cyber Threats",
-    "desc": "<p>Nobody gets breached and immediately thinks: <em>we should have bought better antivirus.</em></p>\n\n<p>What they actually think \u2014 usually ",
-    "link": "https://dev.to/sahil_khurana_486f374ecf2/security-advantages-of-bespoke-software-in-2026-why-custom-built-wins-against-cyber-threats-4o2b",
-    "topic": "secops"
-  },
-  {
-    "title": "The $11k cloud bill was mostly the tools you added to watch the cloud bill",
-    "desc": "<p>A startup with only six engineers calculated the cost of their monthly cloud bill to be $11,847. The majority of the data generated was n",
-    "link": "https://dev.to/adioof/the-11k-cloud-bill-was-mostly-the-tools-you-added-to-watch-the-cloud-bill-3oec",
+    "title": "10 Linux Server Disasters & Open-Source SRE Cures",
+    "desc": "<p>When a production server goes down at 2 AM, standard beginner advice fails. Running <code>df -h</code>, staring blindly at <code>top</cod",
+    "link": "https://dev.to/jaksontate/10-linux-server-disasters-open-source-sre-cures-13dj",
     "topic": "general"
   },
   {
-    "title": "Your CI stack ships four YAML parsers and half of them are still on the 2009 spec",
-    "desc": "<p>Everyone knows the Norway problem. <code>country: NO</code> becomes <code>false</code>, ha ha, quote your strings.</p>\n\n<p>What gets skip",
-    "link": "https://dev.to/webgaudi/your-ci-stack-ships-four-yaml-parsers-and-half-of-them-are-still-on-the-2009-spec-15hf",
+    "title": "Our EKS Node Crashed and Four Auto-Recovery Mechanisms All Failed. Here's Why.",
+    "desc": "<blockquote>\n<p>\u26a1 TL;DR: An EKS worker node running 30+ pods crashed at 08:43 IST on Aug 16. EC2 Auto Scaling didn't act. EKS Node Auto Repa",
+    "link": "https://dev.to/prateek_srivastava_6a5661/our-eks-node-crashed-and-four-auto-recovery-mechanisms-all-failed-heres-why-93l",
     "topic": "general"
   },
   {
-    "title": "5 Best Sites to Buy Old Gmail Accounts In US",
-    "desc": "<p>Buy Old Gmail Accounts \u2013 Complete Guide to Security, Privacy, 2FA & Account Management<br />\n\ud83c\udf1f\ud83d\udcac 24/7 Premium Support \u2014 Always Here for Yo",
-    "link": "https://dev.to/celinkapittman3zl21/5-best-sites-to-buy-old-gmail-accounts-in-us-54cj",
+    "title": "Self-Hosted CI Runners: CircleCI vs GitHub Actions vs GitLab \u2014 When Bring-Your-Own-Compute Actually Pays Off",
+    "desc": "<p>Every CI conversation eventually arrives at the same fork: keep paying per-minute for hosted runners, or stand up your own compute and ea",
+    "link": "https://dev.to/mukesh_13/self-hosted-ci-runners-circleci-vs-github-actions-vs-gitlab-when-bring-your-own-compute-actually-1edn",
     "topic": "general"
   },
   {
-    "title": "Top 33 Best Platforms to Buy Aged Gmail Accounts in Bulk ...",
-    "desc": "<p>Meta Description: Learn about old Gmail accounts, including account security, privacy, recovery, 2FA, inbox organization, storage managem",
-    "link": "https://dev.to/celinkapittman3zl21/top-33-best-platforms-to-buy-aged-gmail-accounts-in-bulk--268h",
-    "topic": "general"
+    "title": "AWS Highly Available Web Application \u2014 ALB, Auto Scaling & Self-Healing",
+    "desc": "<h1>\n  \n  \n  AWS Highly Available Web Application\n</h1>\n\n<h3>\n  \n  \n  ALB + EC2 + Auto Scaling + Multi-AZ + Self-Healing\n</h3>\n\n<p>A hands-o",
+    "link": "https://dev.to/tejas_shinkar/aws-highly-available-web-application-alb-auto-scaling-self-healing-2je7",
+    "topic": "aws"
+  },
+  {
+    "title": "A container per job, without a daemon",
+    "desc": "<p>Some workloads want an image each. A build that needs a specific toolchain, a test that needs a specific database client, a task whose de",
+    "link": "https://dev.to/amartyadev/a-container-per-job-without-a-daemon-1l7c",
+    "topic": "docker"
   }
 ]
