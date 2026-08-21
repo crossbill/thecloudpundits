@@ -1,5 +1,17 @@
 [
   {
+    "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
+    "desc": "<p>Researchers say the new \u2018Cryptographic Context Injection\u2019 technique conceals malicious instructions until they are decrypted inside a tru",
+    "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+    "topic": "guardrails"
+  },
+  {
+    "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
+    "desc": "<p>Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and",
+    "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+    "topic": "general"
+  },
+  {
     "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
     "desc": "<p>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process.</p>\n<p>The post <a href=\"https://www",
     "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
@@ -33,18 +45,6 @@
     "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
     "desc": "<p>Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland\u2019s CERT Polska.</p>\n<p>The post <a href=",
     "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-    "topic": "general"
-  },
-  {
-    "title": "Surveillance \u2013 Everything You Wanted to Know, But Were Afraid to Ask",
-    "desc": "<p>We all know they\u2019re watching us. But we don\u2019t know who they are, nor why nor how they are doing it.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-    "topic": "general"
-  },
-  {
-    "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
-    "desc": "<p>Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
     "topic": "general"
   }
 ]
