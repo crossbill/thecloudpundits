@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why a Coding Agent Is Not the Same as a Debugging Agent",
-    "desc": "<p>AI coding agents are getting very good at writing code.</p>\n\n<p>But production debugging does not begin with code.</p>\n\n<p>A coding task ",
-    "link": "https://dev.to/robin_thedude_4ce28b7b54/why-a-coding-agent-is-not-the-same-as-a-debugging-agent-51n3",
+    "title": "MCP servers won't start on Windows: the 'C:\\Program' space-in-path fix",
+    "desc": "<p>You follow all the setup steps. Node is installed the normal way, on the default path. You drop an MCP server into your Claude Desktop co",
+    "link": "https://dev.to/milkyway008/mcp-servers-wont-start-on-windows-the-cprogram-space-in-path-fix-2daa",
     "topic": "general"
   },
   {
-    "title": "MCP Server Hosting: Where to Actually Deploy in 2026",
-    "desc": "<p>Model Context Protocol went from \"Anthropic curiosity\" to \"thing every AI tooling vendor implements\" in roughly twelve months. If you bui",
-    "link": "https://dev.to/hostingsift/mcp-server-hosting-where-to-actually-deploy-in-2026-279e",
+    "title": "Distributed Job Schedulers: Running the Right Work at the Right Time",
+    "desc": "<h1>\n  \n  \n  Distributed Job Schedulers: Running the Right Work at the Right Time\n</h1>\n\n<p>Scheduling one function on one server is easy: a",
+    "link": "https://dev.to/r4hul/distributed-job-schedulers-running-the-right-work-at-the-right-time-448f",
     "topic": "general"
   },
   {
-    "title": "Why ITIL 4 & PeopleCert Certifications Drive Enterprise Value in 2026: Trends, Focus Areas, and Real-World Impact",
-    "desc": "<p>In 2026, IT departments are no longer treated simply as back-office cost centers\u2014they are direct engines of revenue, dynamic product deli",
-    "link": "https://dev.to/jordancarterdev/why-itil-4-peoplecert-certifications-drive-enterprise-value-in-2026-trends-focus-areas-and-51l",
+    "title": "Smart MCP Proxy \u2014 Hot-Swap MCP Aggregation + AI Concierge",
+    "desc": "<h1>\n  \n  \n  Smart MCP Proxy \u2014 Hot-Swap MCP Aggregation + AI Concierge\n</h1>\n\n<p>I got tired of restarting my agent every time I added an MC",
+    "link": "https://dev.to/milkyway008/smart-mcp-proxy-hot-swap-mcp-aggregation-ai-concierge-59fj",
     "topic": "general"
   },
   {
-    "title": "Why Most Enterprise Digitalization Fails \u2014 and the Only Way Out",
-    "desc": "<h1>\n  \n  \n  Why Most Enterprise Digitalization Fails \u2014 and the Only Way Out\n</h1>\n\n<p>An enterprise spends millions deploying ERP, OA, and ",
-    "link": "https://dev.to/seagaruda/why-most-enterprise-digitalization-fails-and-the-only-way-out-ap4",
+    "title": "Kubernetes for Beginners: From Local to Production \u2013 A Quest Worth the Ring (Lord of the Rings)",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I tried to ship a tiny Node.js API to a cloud ",
+    "link": "https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-quest-worth-the-ring-lord-of-the-rings-18hi",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Self-Hosted Security Stack: Hardening Docker with CrowdSec, Traefik & Authentik",
+    "desc": "<p>Exposing self-hosted applications to the public internet can be daunting. Bot scanners, credential stuffers, and automated zero-day explo",
+    "link": "https://dev.to/enfernandes/self-hosted-security-stack-hardening-docker-with-crowdsec-traefik-authentik-1d6b",
+    "topic": "docker"
+  },
+  {
+    "title": "Self-Hosted Email in 2026: Ditch Mailchimp & SendGrid with Listmonk + Stalwart",
+    "desc": "<p>If you run a SaaS, newsletter, or growing e-commerce project, you already know the SaaS email tax:</p>\n\n<ul>\n<li>\n<strong>Mailchimp:</str",
+    "link": "https://dev.to/enfernandes/self-hosted-email-in-2026-ditch-mailchimp-sendgrid-with-listmonk-stalwart-2ef4",
     "topic": "general"
   },
   {
-    "title": "5 Sites to Buy Gmail Accounts: PVA & Aged for World 2027",
-    "desc": "<p>Buy Gmail Accounts</p>\n\n<p>\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Telegram \u2500\u2500 @Getsmmzoneofficial<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4WhatsApp \u2500\u2500 +1 (352) 828-5265<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Email \u2500\u2500 ",
-    "link": "https://dev.to/karelleclwzr/5-sites-to-buy-gmail-accounts-pva-aged-for-world-2027-35i6",
+    "title": "Why Visitors Leave Your Website Without Taking Action",
+    "desc": "<p>Your Website Isn't Confusing Because It Looks Bad. It's Confusing Because It Makes People Think.</p>\n\n<p>A website can look beautiful, lo",
+    "link": "https://dev.to/chesea_dev/why-visitors-leave-your-website-without-taking-action-43lk",
     "topic": "general"
   },
   {
-    "title": "Eight checks lied to me in one day, and none of them threw an error",
-    "desc": "<p>In one working day I wrote or relied on eight checks that were wrong. <strong>Not one of them threw an<br />\nerror.</strong> Every single",
-    "link": "https://dev.to/ricco020/eight-checks-lied-to-me-in-one-day-and-none-of-them-threw-an-error-18m1",
-    "topic": "general"
-  },
-  {
-    "title": "The SRE Leadership Operating System: 7 Mechanisms That Make Reliability Scale",
-    "desc": "<p>Reliability doesn't scale simply because an organization hires more SREs.</p>\n\n<p>It scales when reliability becomes part of how the orga",
-    "link": "https://dev.to/lalithaprr/the-sre-leadership-operating-system-7-mechanisms-that-make-reliability-scale-2a1o",
-    "topic": "general"
-  },
-  {
-    "title": "FinOps for AI: Understanding GPU, Token, and Inference Costs",
-    "desc": "<p>Thanks for taking the time to read. If you\u2019ve worked with AI infrastructure or cloud cost optimization, I\u2019d love to hear what has been ha",
-    "link": "https://dev.to/sushyam_nagallapati/finops-for-ai-understanding-gpu-token-and-inference-costs-1967",
-    "topic": "finops"
+    "title": "AWS Backups for Everyone",
+    "desc": "<p>A few days ago, I was poking around AWS Organizations and came across backup policies. I've written plenty of backup plans and schedules ",
+    "link": "https://dev.to/rosesecurity/aws-backups-for-everyone-1ngg",
+    "topic": "aws"
   }
 ]
