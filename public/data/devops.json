@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Find Large Files and Directories in Linux",
-    "desc": "<p>Disk space doesn\u2019t vanish, it accumulates. One day your server is fine; the next, find large files and directories in Linux to uncover wh",
-    "link": "https://dev.to/serveravatar/how-to-find-large-files-and-directories-in-linux-3kp2",
+    "title": "Introducing OneEnv \u2014 One Shared Change, One Notification, Every Service Approves",
+    "desc": "<p>If you've worked on a system with more than two or three services, you already know this pain: someone adds an environment variable, and ",
+    "link": "https://dev.to/support_oneenv_f39d053638/introducing-oneenv-one-shared-change-one-notification-every-service-approves-4513",
     "topic": "general"
   },
   {
-    "title": "Model Context Protocol: Setup MCP Server on Bare Metal",
-    "desc": "<p>Integrating Large Language Models (LLMs) with enterprise databases using custom REST APIs requires constant glue-code maintenance. The <s",
-    "link": "https://dev.to/jaksontate/model-context-protocol-setup-mcp-server-on-bare-metal-1hdj",
+    "title": "Stop Breaking Prod With a One-Line Env Var Change \u2014 Meet OneEnv",
+    "desc": "<p>Every team has a version of this story.</p>\n\n<p>Someone renames an environment variable. Or drops a \"deprecated\" API route. Or tightens a",
+    "link": "https://dev.to/support_oneenv_f39d053638/stop-breaking-prod-with-a-one-line-env-var-change-meet-oneenv-4nm7",
     "topic": "general"
   },
   {
-    "title": "How Much Does It Cost to Develop an Education App?",
-    "desc": "<p>Education has changed significantly with the rise of smartphones, online learning, digital classrooms, and artificial intelligence. Today",
-    "link": "https://dev.to/upwork_floatinginfotech_/how-much-does-it-cost-to-develop-an-education-app-55gl",
+    "title": "Your Laravel queue worker count is a guess. Here is the math that replaces it.",
+    "desc": "<p>Every Laravel deployment I have seen has a line like this somewhere:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"hi",
+    "link": "https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba",
     "topic": "general"
   },
   {
-    "title": "5 Control-M Alternatives in 2026",
-    "desc": "<p>Control-M, developed by BMC, is a traditional <strong>Enterprise Workload Automation (WLA)</strong> solution designed to orchestrate comp",
-    "link": "https://dev.to/weeli_632477a9c141395/5-control-m-alternatives-in-2026-4i85",
+    "title": "Connecting an Industrial Product Counter to SCADA for Real-Time Production Monitoring",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/phuc_bach_22e/connecting-an-industrial-product-counter-to-scada-for-real-time-production-monitoring-2icd",
     "topic": "general"
   },
   {
-    "title": "ETHENEA (ETHENEA Americas LLC) Advances a More Consistent Professional Service Experience",
-    "desc": "<p>In today\u2019s financial services environment, professional service is shaped not only by expertise, but also by how clearly, consistently, a",
-    "link": "https://dev.to/etheneaamericasinsights/ethenea-ethenea-americas-llc-advances-a-more-consistent-professional-service-experience-4emc",
+    "title": "Automating TRACES Establishment Checks With an API",
+    "desc": "<h2>\n  \n  \n  <strong>What Manual Checking Actually Costs</strong>\n</h2>\n\n<p>A person searching the TRACES portal, reading the result and re-",
+    "link": "https://dev.to/clara-edward/automating-traces-establishment-checks-with-an-api-2i6",
     "topic": "general"
   },
   {
-    "title": "ColdFusion N+1 Query Problem With ORM: Detection, Hibernate Tuning, and Eager Loading",
-    "desc": "<p>ColdFusion ORM is Hibernate under the hood, so the N+1 query problem \u2014 one query to load a list of parents, then N more queries to load e",
-    "link": "https://dev.to/deepak_sir__/coldfusion-n1-query-problem-with-orm-detection-hibernate-tuning-and-eager-loading-2ak2",
+    "title": "How to Set Up RAID on a Bare Metal Server: Hardware vs. Software RAID (2026 Guide)",
+    "desc": "<p>In the enterprise landscape, data integrity and uptime are non-negotiable. When deploying <a href=\"https://www.eservers.uk/bare-metal-ser",
+    "link": "https://dev.to/e_servers/how-to-set-up-raid-on-a-bare-metal-server-hardware-vs-software-raid-2026-guide-593a",
     "topic": "general"
   },
   {
-    "title": "26% of my Claude Code tokens came from subagents I never looked at",
-    "desc": "<p><em>Written and published by an autonomous AI agent. The measurements below are real and come from this machine; the code runs and I ran ",
-    "link": "https://dev.to/_a19fa01082c562be97184/26-of-my-claude-code-tokens-came-from-subagents-i-never-looked-at-297p",
+    "title": "Piaskownica w Claude Code - komenda /sandbox i bezpieczna autonomia AI",
+    "desc": "<p>Chcesz dac agentowi AI wieksza swobode dzialania, ale bez ryzyka dla systemu produkcyjnego? Komenda /sandbox i pakiet @anthropic-ai/sandb",
+    "link": "https://dev.to/andrzej_klusiewicz_08588c/piaskownica-w-claude-code-komenda-sandbox-i-bezpieczna-autonomia-ai-147h",
     "topic": "anthropic"
   },
   {
-    "title": "Top 10 Best Polopoly to WordPress Migration Companies",
-    "desc": "<p><em>You've got a Polopoly site but you're stuck with legacy CMS complexity and shrinking developer ecosystem. Time to migrate to WordPres",
-    "link": "https://dev.to/oliverpitts/top-10-best-polopoly-to-wordpress-migration-companies-3ndn",
+    "title": "Bitpanda Capital Markets Strengthens User Education Through Smarter Onboarding",
+    "desc": "<p>As digital finance continues to develop, user onboarding has become an important part of platform experience and long-term user trust. Fo",
+    "link": "https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-strengthens-user-education-through-smarter-onboarding-knf",
     "topic": "general"
   }
 ]
