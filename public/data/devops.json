@@ -1,5 +1,11 @@
 [
   {
+    "title": "The Local LLM Stack in 2026: What Actually Works",
+    "desc": "<p>Running a language model locally used to be a hobbyist experiment. In 2026, it's a viable engineering decision for a growing slice of rea",
+    "link": "https://dev.to/thegatewayguy/the-local-llm-stack-in-2026-what-actually-works-ib1",
+    "topic": "general"
+  },
+  {
     "title": "MCP servers won't start on Windows: the 'C:\\Program' space-in-path fix",
     "desc": "<p>You follow all the setup steps. Node is installed the normal way, on the default path. You drop an MCP server into your Claude Desktop co",
     "link": "https://dev.to/milkyway008/mcp-servers-wont-start-on-windows-the-cprogram-space-in-path-fix-2daa",
@@ -40,11 +46,5 @@
     "desc": "<p>Your Website Isn't Confusing Because It Looks Bad. It's Confusing Because It Makes People Think.</p>\n\n<p>A website can look beautiful, lo",
     "link": "https://dev.to/chesea_dev/why-visitors-leave-your-website-without-taking-action-43lk",
     "topic": "general"
-  },
-  {
-    "title": "AWS Backups for Everyone",
-    "desc": "<p>A few days ago, I was poking around AWS Organizations and came across backup policies. I've written plenty of backup plans and schedules ",
-    "link": "https://dev.to/rosesecurity/aws-backups-for-everyone-1ngg",
-    "topic": "aws"
   }
 ]
