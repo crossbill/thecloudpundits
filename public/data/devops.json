@@ -1,5 +1,29 @@
 [
   {
+    "title": "Critical Outage SMS Alerts in 2026 \u2014 Polling, Retry, Cancellation, and Template Ownership",
+    "desc": "<p>Short answer: an SMS API is a workable choice for critical US and EU app outage alerts when the backend can poll delivery status and owns",
+    "link": "https://dev.to/thalion51/critical-outage-sms-alerts-in-2026-polling-retry-cancellation-and-template-ownership-92e",
+    "topic": "general"
+  },
+  {
+    "title": "Chrome Can Now Measure Your SPA's Core Web Vitals. Google's Ranking Data Still Can't See Them.",
+    "desc": "<p>Chrome 151 went stable on July 28. Three weeks later, most of the coverage of that release has already moved on, but one change in it des",
+    "link": "https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f",
+    "topic": "general"
+  },
+  {
+    "title": "Microsoft PowerToys v0.101 Preview \u2014 Command Palette System Actions and AI Release Agent",
+    "desc": "<p><em>Originally published at <a href=\"https://tekmag.thsite.top/microsoft-powertoys-v0-101-preview-command-palette-system-actions-and-ai-r",
+    "link": "https://dev.to/tekmag/microsoft-powertoys-v0101-preview-command-palette-system-actions-and-ai-release-agent-179f",
+    "topic": "azure"
+  },
+  {
+    "title": "The only thing my Kubernetes agent can do is write a git commit",
+    "desc": "<p>Every AI SRE tool will read your cluster and tell you what is wrong. Almost none<br />\nof them are trusted to <em>act</em>, and the reaso",
+    "link": "https://dev.to/srivatsa_kamballa/the-only-thing-my-kubernetes-agent-can-do-is-write-a-git-commit-ma4",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Build a Custom Linux Distro in Hours with OpenFactory AI",
     "desc": "<p><em>Photo by <a href=\"https://unsplash.com/@microsoftcopilot?utm_source=10x_magazine&utm_medium=referral\" rel=\"noopener noreferrer\">Micro",
     "link": "https://dev.to/10x/build-a-custom-linux-distro-in-hours-with-openfactory-ai-1if5",
@@ -21,30 +45,6 @@
     "title": "Opinion: An AI Feature Should Pass a Model Swap Test Before It Touches Production",
     "desc": "<p>Your AI feature is coupled to a specific model, and most teams never test that coupling until the provider changes something. The moment ",
     "link": "https://dev.to/github_7727/opinion-an-ai-feature-should-pass-a-model-swap-test-before-it-touches-production-4l75",
-    "topic": "general"
-  },
-  {
-    "title": "Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.",
-    "desc": "<p>You scan your application code. You scan your dependencies. You scan your containers.</p>\n\n<p>You have never scanned the thing that has a",
-    "link": "https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm",
-    "topic": "general"
-  },
-  {
-    "title": "Run Your Own MTProto Proxy on a $4 VPS",
-    "desc": "<h1>\n  \n  \n  Run Your Own MTProto Proxy on a $4 VPS\n</h1>\n\n<p>Yes, a $4 per month VPS is enough to run a single-user MTProto proxy for Teleg",
-    "link": "https://dev.to/humja_jaan_fca09049ae97d5/run-your-own-mtproto-proxy-on-a-4-vps-iem",
-    "topic": "general"
-  },
-  {
-    "title": "Self-hosted CI/CD deployments with Forgejo Runner",
-    "desc": "<p>Have you ever heard that you can easily set up a fully self-hosted CI/CD pipeline with a fully customized personal git instance? If your ",
-    "link": "https://dev.to/demianbuilderdev/self-hosted-cicd-deployments-with-forgejo-runner-47i0",
-    "topic": "general"
-  },
-  {
-    "title": "Vercel now bills Deployment Storage at $0.10 per GB-month, and the default keeps production a year",
-    "desc": "<h1>\n  \n  \n  Vercel now bills Deployment Storage at $0.10 per GB-month, and the default keeps production a year\n</h1>\n\n<p><strong>Summary.</",
-    "link": "https://dev.to/mr_manushukla/vercel-now-bills-deployment-storage-at-010-per-gb-month-and-the-default-keeps-production-a-year-5fk3",
     "topic": "general"
   }
 ]
