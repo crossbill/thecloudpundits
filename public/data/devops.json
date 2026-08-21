@@ -1,5 +1,41 @@
 [
   {
+    "title": "I benchmarked CognoDB against four other graph databases. The most interesting result had nothing to do with CognoDB.",
+    "desc": "<p>I was asked to benchmark CognoDB Cloud, a managed graph database, against four other graph platforms on the same hardware, the same datas",
+    "link": "https://dev.to/sachin_meru/i-benchmarked-cognodb-against-four-other-graph-databases-the-most-interesting-result-had-nothing-4ha6",
+    "topic": "general"
+  },
+  {
+    "title": "I Deployed Google's Online Boutique on AWS EKS \u2014 Full Production Setup, Zero App Code Changes",
+    "desc": "<h2>\n  \n  \n  The Setup\n</h2>\n\n<p>Google's Online Boutique is an open-source 11-service e-commerce demo \u2014 Go, Python, Node.js, C#, and Java, ",
+    "link": "https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal",
+    "topic": "aws"
+  },
+  {
+    "title": "The Reshaping of Software Delivery: Why AI Won't Replace Project Managers But Will Redefine Leadership",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>For years, the software industry has been flooded with predictions about the automation of engineering r",
+    "link": "https://dev.to/isuvo/the-reshaping-of-software-delivery-why-ai-wont-replace-project-managers-but-will-redefine-2na2",
+    "topic": "general"
+  },
+  {
+    "title": "I Managed Kubernetes Across AWS, Azure, and GCP Simultaneously \u2014 Here's What Nobody Tells You",
+    "desc": "<p>The day the same Helm chart behaved differently on three clouds in the same hour was the day I stopped trusting \"cloud-agnostic\" as a rea",
+    "link": "https://dev.to/prateek_srivastava_6a5661/i-managed-kubernetes-across-aws-azure-and-gcp-simultaneously-heres-what-nobody-tells-you-2g69",
+    "topic": "aws"
+  },
+  {
+    "title": "100% Local AI Meets Self-Hosting: From GitHub Repo to Production Container Stack Without Cloud APIs",
+    "desc": "<p>Self-hosting is all about data sovereignty, privacy, and full control over your digital infrastructure. Yet, onboarding newly discovered ",
+    "link": "https://dev.to/henk_van_hoek/100-local-ai-meets-self-hosting-from-github-repo-to-production-container-stack-without-cloud-apis-30dj",
+    "topic": "docker"
+  },
+  {
+    "title": "Best Postgres hosting providers for startups in 2026: 8 managed PostgreSQL options compared",
+    "desc": "<p>As a startup grows, the same application data that powers transactions begins powering usage dashboards, <a href=\"https://clickhouse.com/",
+    "link": "https://dev.to/dataengineeringguide/postgres-hosting-startups-2026-3i3b",
+    "topic": "general"
+  },
+  {
     "title": "The Local LLM Stack in 2026: What Actually Works",
     "desc": "<p>Running a language model locally used to be a hobbyist experiment. In 2026, it's a viable engineering decision for a growing slice of rea",
     "link": "https://dev.to/thegatewayguy/the-local-llm-stack-in-2026-what-actually-works-ib1",
@@ -9,42 +45,6 @@
     "title": "MCP servers won't start on Windows: the 'C:\\Program' space-in-path fix",
     "desc": "<p>You follow all the setup steps. Node is installed the normal way, on the default path. You drop an MCP server into your Claude Desktop co",
     "link": "https://dev.to/milkyway008/mcp-servers-wont-start-on-windows-the-cprogram-space-in-path-fix-2daa",
-    "topic": "general"
-  },
-  {
-    "title": "Distributed Job Schedulers: Running the Right Work at the Right Time",
-    "desc": "<h1>\n  \n  \n  Distributed Job Schedulers: Running the Right Work at the Right Time\n</h1>\n\n<p>Scheduling one function on one server is easy: a",
-    "link": "https://dev.to/r4hul/distributed-job-schedulers-running-the-right-work-at-the-right-time-448f",
-    "topic": "general"
-  },
-  {
-    "title": "Smart MCP Proxy \u2014 Hot-Swap MCP Aggregation + AI Concierge",
-    "desc": "<h1>\n  \n  \n  Smart MCP Proxy \u2014 Hot-Swap MCP Aggregation + AI Concierge\n</h1>\n\n<p>I got tired of restarting my agent every time I added an MC",
-    "link": "https://dev.to/milkyway008/smart-mcp-proxy-hot-swap-mcp-aggregation-ai-concierge-59fj",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes for Beginners: From Local to Production \u2013 A Quest Worth the Ring (Lord of the Rings)",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I tried to ship a tiny Node.js API to a cloud ",
-    "link": "https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-quest-worth-the-ring-lord-of-the-rings-18hi",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Self-Hosted Security Stack: Hardening Docker with CrowdSec, Traefik & Authentik",
-    "desc": "<p>Exposing self-hosted applications to the public internet can be daunting. Bot scanners, credential stuffers, and automated zero-day explo",
-    "link": "https://dev.to/enfernandes/self-hosted-security-stack-hardening-docker-with-crowdsec-traefik-authentik-1d6b",
-    "topic": "docker"
-  },
-  {
-    "title": "Self-Hosted Email in 2026: Ditch Mailchimp & SendGrid with Listmonk + Stalwart",
-    "desc": "<p>If you run a SaaS, newsletter, or growing e-commerce project, you already know the SaaS email tax:</p>\n\n<ul>\n<li>\n<strong>Mailchimp:</str",
-    "link": "https://dev.to/enfernandes/self-hosted-email-in-2026-ditch-mailchimp-sendgrid-with-listmonk-stalwart-2ef4",
-    "topic": "general"
-  },
-  {
-    "title": "Why Visitors Leave Your Website Without Taking Action",
-    "desc": "<p>Your Website Isn't Confusing Because It Looks Bad. It's Confusing Because It Makes People Think.</p>\n\n<p>A website can look beautiful, lo",
-    "link": "https://dev.to/chesea_dev/why-visitors-leave-your-website-without-taking-action-43lk",
     "topic": "general"
   }
 ]
