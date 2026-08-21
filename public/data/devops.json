@@ -1,50 +1,50 @@
 [
   {
-    "title": "Introducing OneEnv \u2014 One Shared Change, One Notification, Every Service Approves",
-    "desc": "<p>If you've worked on a system with more than two or three services, you already know this pain: someone adds an environment variable, and ",
-    "link": "https://dev.to/support_oneenv_f39d053638/introducing-oneenv-one-shared-change-one-notification-every-service-approves-4513",
+    "title": "Defense in Depth Beats a Perfect Wall",
+    "desc": "<p>There is no one perfect wall.</p>\n\n<p>Every wall has a day<br />\nsomeone finds the gap.</p>\n\n<p>So don't bet everything<br />\non a single",
+    "link": "https://dev.to/sergueyasaelshinder/defense-in-depth-beats-a-perfect-wall-4dgb",
     "topic": "general"
   },
   {
-    "title": "Stop Breaking Prod With a One-Line Env Var Change \u2014 Meet OneEnv",
-    "desc": "<p>Every team has a version of this story.</p>\n\n<p>Someone renames an environment variable. Or drops a \"deprecated\" API route. Or tightens a",
-    "link": "https://dev.to/support_oneenv_f39d053638/stop-breaking-prod-with-a-one-line-env-var-change-meet-oneenv-4nm7",
+    "title": "Schema Markup Guide: Types, Benefits & How to Add It in 2026",
+    "desc": "<p>If you've ever wondered how search engines understand whether a webpage is an article, product, business, or course, schema markup is par",
+    "link": "https://dev.to/khati_bhai_e900d86b205533/schema-markup-guide-types-benefits-how-to-add-it-in-2026-51ek",
     "topic": "general"
   },
   {
-    "title": "Your Laravel queue worker count is a guess. Here is the math that replaces it.",
-    "desc": "<p>Every Laravel deployment I have seen has a line like this somewhere:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"hi",
-    "link": "https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba",
-    "topic": "general"
-  },
-  {
-    "title": "Connecting an Industrial Product Counter to SCADA for Real-Time Production Monitoring",
+    "title": "Why Seceon Looks at Security Differently for MSSPs",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/phuc_bach_22e/connecting-an-industrial-product-counter-to-scada-for-real-time-production-monitoring-2icd",
+    "link": "https://dev.to/anuragseceon/why-seceon-looks-at-security-differently-for-mssps-3m82",
+    "topic": "secops"
+  },
+  {
+    "title": "Zero-code PII redaction for OpenTelemetry Collector logs in Kubernetes",
+    "desc": "<p><strong>TL;DR:</strong> the Collector's <code>redaction</code> processor governs structured attributes, but free-text log bodies still de",
+    "link": "https://dev.to/aragossa/zero-code-pii-redaction-for-opentelemetry-collector-logs-in-kubernetes-3c77",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Zero-code PII sanitization for Fluentd and Fluent Bit in Kubernetes",
+    "desc": "<p><strong>TL;DR:</strong> send app logs through a PII-Shield sidecar before Fluentd or Fluent Bit read them, then collect only masked ident",
+    "link": "https://dev.to/aragossa/zero-code-pii-sanitization-for-fluentd-and-fluent-bit-in-kubernetes-1i1g",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Configuring Docker Compose Container Health Checks",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
+    "link": "https://dev.to/chasebot/configuring-docker-compose-container-health-checks-212",
+    "topic": "docker"
+  },
+  {
+    "title": "Build a Service Discovery System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Service Discovery System with Python\n</h1>\n\n<p>tags: python, microservices, devops, tutorial</p>\n\n\n\n\n<p>tags: python, m",
+    "link": "https://dev.to/qingluan/build-a-service-discovery-system-with-python-2oo5",
     "topic": "general"
   },
   {
-    "title": "Automating TRACES Establishment Checks With an API",
-    "desc": "<h2>\n  \n  \n  <strong>What Manual Checking Actually Costs</strong>\n</h2>\n\n<p>A person searching the TRACES portal, reading the result and re-",
-    "link": "https://dev.to/clara-edward/automating-traces-establishment-checks-with-an-api-2i6",
-    "topic": "general"
-  },
-  {
-    "title": "How to Set Up RAID on a Bare Metal Server: Hardware vs. Software RAID (2026 Guide)",
-    "desc": "<p>In the enterprise landscape, data integrity and uptime are non-negotiable. When deploying <a href=\"https://www.eservers.uk/bare-metal-ser",
-    "link": "https://dev.to/e_servers/how-to-set-up-raid-on-a-bare-metal-server-hardware-vs-software-raid-2026-guide-593a",
-    "topic": "general"
-  },
-  {
-    "title": "Piaskownica w Claude Code - komenda /sandbox i bezpieczna autonomia AI",
-    "desc": "<p>Chcesz dac agentowi AI wieksza swobode dzialania, ale bez ryzyka dla systemu produkcyjnego? Komenda /sandbox i pakiet @anthropic-ai/sandb",
-    "link": "https://dev.to/andrzej_klusiewicz_08588c/piaskownica-w-claude-code-komenda-sandbox-i-bezpieczna-autonomia-ai-147h",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Bitpanda Capital Markets Strengthens User Education Through Smarter Onboarding",
-    "desc": "<p>As digital finance continues to develop, user onboarding has become an important part of platform experience and long-term user trust. Fo",
-    "link": "https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-strengthens-user-education-through-smarter-onboarding-knf",
+    "title": "Why Your AI Coding Agent Should Never See Your .env",
+    "desc": "<h1>\n  \n  \n  Why Your AI Coding Agent Should Never See Your .env\n</h1>\n\n<blockquote>\n<p>Your AI agent uses your API keys. It NEVER sees them",
+    "link": "https://dev.to/z-150/why-your-ai-coding-agent-should-never-see-your-env-18h4",
     "topic": "general"
   }
 ]
