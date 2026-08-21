@@ -1,5 +1,17 @@
 [
   {
+    "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
+    "desc": "<p>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
+    "topic": "secops"
+  },
+  {
+    "title": "Contractors\u2019 CMMC Confidence Rises as Ability to Prove It Falls Behind",
+    "desc": "<p>Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
+    "topic": "general"
+  },
+  {
     "title": "Microsoft Rolls Out 22 Fresh Security Patches",
     "desc": "<p>Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities.</p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
@@ -33,18 +45,6 @@
     "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
     "desc": "<p>The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-    "desc": "<p>The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-    "topic": "secops"
-  },
-  {
-    "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
-    "desc": "<p>The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
     "topic": "general"
   }
 ]
