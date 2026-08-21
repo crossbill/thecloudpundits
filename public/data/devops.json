@@ -1,50 +1,50 @@
 [
   {
-    "title": "The 12-Factor App, The Rulebook Behind Every Cloud-Native Deploy",
-    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Understand the twelve factors behind every cloud-native deploy, why Kubernetes was built around th",
-    "link": "https://dev.to/sri2614/the-12-factor-app-the-rulebook-behind-every-cloud-native-deploy-51k9",
+    "title": "Something that's easy to miss: cost tooling and observability data can feed into the same loop, not two separate concerns",
+    "desc": "<p>CloudCostTree reads your Terraform/CloudFormation/Pulumi and shows a cost tree from static config alone. That's useful before deploy, but",
+    "link": "https://dev.to/cloudcosttree/something-thats-easy-to-miss-cost-tooling-and-observability-data-can-feed-into-the-same-loop-not-25f3",
     "topic": "general"
   },
   {
-    "title": "Master the AI Skills Shaping the Future of Careers with Visualpath",
-    "desc": "<p>\ud83d\ude80 \ud835\uddd4\ud835\udddc \ud835\udddc\ud835\ude00 \ud835\udde5\ud835\uddf2\ud835\uddf1\ud835\uddf2\ud835\uddf3\ud835\uddf6\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddd9\ud835\ude02\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\uddfc\ud835\uddf3 \ud835\uddea\ud835\uddfc\ud835\uddff\ud835\uddf8 \u2014 \ud835\uddd4\ud835\uddff\ud835\uddf2 \ud835\uddec\ud835\uddfc\ud835\ude02 \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\ude06 \ud835\ude01\ud835\uddfc \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddd6\ud835\uddf5\ud835\uddee\ud835\uddfb\ud835\uddf4\ud835\uddf2?<br />\n\ud83c\udfaf Build in-demand AI skills with Visualpath and prepare f",
-    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-the-ai-skills-shaping-the-future-of-careers-with-visualpath-2f26",
+    "title": "Governance, die sich selbst erzwingt",
+    "desc": "<h2>\n  \n  \n  96 % meiner KI-Schutzregeln erzwingen sich selbst. So habe ich das gebaut.\n</h2>\n\n<p>Vor 14 Monaten habe ich eine Entscheidung ",
+    "link": "https://dev.to/frederikvonderheyden/governance-die-sich-selbst-erzwingt-471m",
     "topic": "general"
   },
   {
-    "title": "Day 20: AWS Database \u2014 NoSQL, Warehouse & Cache (DynamoDB, Redshift, ElastiCache)",
-    "desc": "<p>Day 19 covered RDS and DMS \u2014 the relational side of AWS databases. Today we cover three services that each solve a problem relational dat",
-    "link": "https://dev.to/sr-palatasingh/day-20-aws-database-nosql-warehouse-cache-dynamodb-redshift-elasticache-3i6b",
-    "topic": "aws"
+    "title": "Amazon S3 Hands-On Practicals",
+    "desc": "<p>I recently worked through a hands-on Amazon S3 practical series covering the features I would actually expect to use while working with A",
+    "link": "https://dev.to/tejas_shinkar/amazon-s3-hands-on-practicals-5f72",
+    "topic": "general"
   },
   {
-    "title": "\u2699\ufe0f Designing a Data Bus for Uneven Logistics Workloads",
+    "title": "Best Small Business Loans for Entrepreneurs: Top Funding Choices",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/evrone/designing-a-data-bus-for-uneven-logistics-workloads-24ki",
+    "link": "https://dev.to/matilda_bruce_ce4f12d7c39/best-small-business-loans-for-entrepreneurs-top-funding-choices-55hm",
     "topic": "general"
   },
   {
-    "title": "The Future Awaits: How DevOps Training in BTM Prepares You for Tomorrow's Tech Landscape",
-    "desc": "<p>The Future Awaits: How <a href=\"https://learnmoretech.in/devops-training-in-btm/\" rel=\"noopener noreferrer\">DevOps Training in BTM</a> Pr",
-    "link": "https://dev.to/lm_pg_ae695f1a4c717f/the-future-awaits-how-devops-training-in-btm-prepares-you-for-tomorrows-tech-landscape-375g",
+    "title": "OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow (and what I built)",
+    "desc": "<p>Last year I renamed a field in an API response. <code>customer_id</code> became <code>customerId</code>, matching the rest of the codebas",
+    "link": "https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an",
     "topic": "general"
   },
   {
-    "title": "Unleash Your Career Potential: The Game-Changing Impact of DevOps Training in BTM for Future Innovators",
-    "desc": "<p>Unleash Your Career Potential: The Game-Changing Impact of <a href=\"https://learnmoretech.in/devops-training-in-btm/\" rel=\"noopener noref",
-    "link": "https://dev.to/h2_lmt_318f611464212f9336/unleash-your-career-potential-the-game-changing-impact-of-devops-training-in-btm-for-future-2kia",
+    "title": "Infrastructure Already Has an Authority Layer. HCP Terraform Is Just Proving It First.",
+    "desc": "<p>Every agentic system that touches infrastructure eventually needs an <strong>authority layer</strong> \u2014 a system of record that can say y",
+    "link": "https://dev.to/ntctech/infrastructure-already-has-an-authority-layer-hcp-terraform-is-just-proving-it-first-3hl2",
+    "topic": "terraform"
+  },
+  {
+    "title": "Build a Configuration Management System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Configuration Management System with Python\n</h1>\n\n<p>tags: python, devops, architecture, tutorial</p>\n\n\n\n\n<p>tags: pyt",
+    "link": "https://dev.to/qingluan/build-a-configuration-management-system-with-python-58ka",
     "topic": "general"
   },
   {
-    "title": "Unlocking Your Potential: How DevOps Training in BTM Can Revolutionize Your 2026 Career Path",
-    "desc": "<p>Unlocking Your Potential: How <a href=\"https://learnmoretech.in/devops-training-in-btm/\" rel=\"noopener noreferrer\">DevOps Training in BTM",
-    "link": "https://dev.to/lmt_new_5ff6b33c7/unlocking-your-potential-how-devops-training-in-btm-can-revolutionize-your-2026-career-path-28fb",
-    "topic": "general"
-  },
-  {
-    "title": "Mastering Modern Development: The Advantages of DevOps Training in BTM for Tomorrow's Leaders",
-    "desc": "<p>Mastering Modern Development: The Advantages of <a href=\"https://learnmoretech.in/devops-training-in-btm/\" rel=\"noopener noreferrer\">DevO",
-    "link": "https://dev.to/h1_lmt_582a030968e32867be/mastering-modern-development-the-advantages-of-devops-training-in-btm-for-tomorrows-leaders-1fak",
+    "title": "Gen AI Course in Hyderabad with Real-Time Case Studies",
+    "desc": "<p>Top Benefits of Generative AI for Businesses: A Complete Guide<br />\nWhat Is Generative AI?<br />\nGenerative AI is a type of artificial i",
+    "link": "https://dev.to/kalyan_visualpath_42cb693/gen-ai-course-in-hyderabad-with-real-time-case-studies-4b0",
     "topic": "general"
   }
 ]

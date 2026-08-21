@@ -1,5 +1,11 @@
 [
   {
+    "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
+    "desc": "<p>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process.</p>\n<p>The post <a href=\"https://www",
+    "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+    "topic": "secops"
+  },
+  {
     "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
     "desc": "<p>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server.</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
@@ -12,7 +18,7 @@
     "topic": "general"
   },
   {
-    "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+    "title": "Microsoft Patches Exploited Entra ID Vulnerability",
     "desc": "<p>Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities.</p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
     "topic": "azure"
@@ -39,12 +45,6 @@
     "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
     "desc": "<p>Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks.</p>\n<p>The post <a",
     "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
-    "topic": "general"
-  },
-  {
-    "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-    "desc": "<p>The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.</p>\n<p>The post <a href=\"ht",
-    "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
     "topic": "general"
   }
 ]
