@@ -1,5 +1,29 @@
 [
   {
+    "title": "Opinion: An AI Patch That Can't Undo Itself Isn't Done",
+    "desc": "<p>Every AI patch is tested for the path it takes, never for the path it leaves behind. CI pipelines apply the patch, run the probes, and ca",
+    "link": "https://dev.to/github_7727/opinion-an-ai-patch-that-cant-undo-itself-isnt-done-48bl",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosted Team Wikis & Docs in 2026: Outline vs Docmost vs Wiki.js vs BookStack",
+    "desc": "<h1>\n  \n  \n  Self-Hosted Team Wikis & Docs in 2026: Outline vs Docmost vs Wiki.js vs BookStack\n</h1>\n\n<p>Cloud workspace tools like Notion, ",
+    "link": "https://dev.to/enfernandes/self-hosted-team-wikis-docs-in-2026-outline-vs-docmost-vs-wikijs-vs-bookstack-4he",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosted Vector Databases in 2026: Qdrant vs pgvector vs Milvus vs Chroma for Production AI",
+    "desc": "<h1>\n  \n  \n  Self-Hosted Vector Databases in 2026: Qdrant vs pgvector vs Milvus vs Chroma for Production AI\n</h1>\n\n<p>Managed vector databas",
+    "link": "https://dev.to/enfernandes/self-hosted-vector-databases-in-2026-qdrant-vs-pgvector-vs-milvus-vs-chroma-for-production-ai-1j32",
+    "topic": "general"
+  },
+  {
+    "title": "Supercharging Dev VMs with Vagrant and Ansible (2014)",
+    "desc": "<p><em>Archival repost \u2014 originally published on my old blog on April 30, 2014. Already in English, lightly cleaned up for dev.to (fixed a f",
+    "link": "https://dev.to/hamdi_laadhari/supercharging-dev-vms-with-vagrant-and-ansible-2014-4c58",
+    "topic": "general"
+  },
+  {
     "title": "Critical Outage SMS Alerts in 2026 \u2014 Polling, Retry, Cancellation, and Template Ownership",
     "desc": "<p>Short answer: an SMS API is a workable choice for critical US and EU app outage alerts when the backend can poll delivery status and owns",
     "link": "https://dev.to/thalion51/critical-outage-sms-alerts-in-2026-polling-retry-cancellation-and-template-ownership-92e",
@@ -22,29 +46,5 @@
     "desc": "<p>Every AI SRE tool will read your cluster and tell you what is wrong. Almost none<br />\nof them are trusted to <em>act</em>, and the reaso",
     "link": "https://dev.to/srivatsa_kamballa/the-only-thing-my-kubernetes-agent-can-do-is-write-a-git-commit-ma4",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Build a Custom Linux Distro in Hours with OpenFactory AI",
-    "desc": "<p><em>Photo by <a href=\"https://unsplash.com/@microsoftcopilot?utm_source=10x_magazine&utm_medium=referral\" rel=\"noopener noreferrer\">Micro",
-    "link": "https://dev.to/10x/build-a-custom-linux-distro-in-hours-with-openfactory-ai-1if5",
-    "topic": "general"
-  },
-  {
-    "title": "How Environment Variables Work Across Shells (And How to Set Them Right)",
-    "desc": "<p>Environment variables are dynamic flags set outside an application that the application then reacts to. Applications and libraries like R",
-    "link": "https://dev.to/reprise_software/how-environment-variables-work-across-shells-and-how-to-set-them-right-1869",
-    "topic": "general"
-  },
-  {
-    "title": "Managed Cloud Databases with Aiven: Multi-Cloud Resilience, Infrastructure as Code, and Cost Optimization",
-    "desc": "<p>Running production databases on cloud infrastructure presents a persistent engineering tradeoff. Managed database services provided by ma",
-    "link": "https://dev.to/jamilxt/managed-cloud-databases-with-aiven-multi-cloud-resilience-infrastructure-as-code-and-cost-3f5e",
-    "topic": "finops"
-  },
-  {
-    "title": "Opinion: An AI Feature Should Pass a Model Swap Test Before It Touches Production",
-    "desc": "<p>Your AI feature is coupled to a specific model, and most teams never test that coupling until the provider changes something. The moment ",
-    "link": "https://dev.to/github_7727/opinion-an-ai-feature-should-pass-a-model-swap-test-before-it-touches-production-4l75",
-    "topic": "general"
   }
 ]
