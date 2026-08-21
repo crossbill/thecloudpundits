@@ -1,50 +1,50 @@
 [
   {
-    "title": "VRP Is Ready for External Validation \u2014 One Company Can Be the First to Pilot It",
-    "desc": "<h1>\n  \n  \n  VRP Is Ready for External Validation \u2014 Who Will Be the First to Pilot It?\n</h1>\n\n<p>My name is Vitalijus Riabovas.</p>\n\n<p>I am",
-    "link": "https://dev.to/jumping_vpn_fcb498eb2c7e1/vrp-is-ready-for-external-validation-one-company-can-be-the-first-to-pilot-it-4l0g",
+    "title": "Make the Guard Prove It Can Fail",
+    "desc": "<h2>\n  \n  \n  The defect class\n</h2>\n\n<p>A gate you have never seen go red is a gate you have not tested. On 2026-08-18, four gates across tw",
+    "link": "https://dev.to/jeremy_longshore/make-the-guard-prove-it-can-fail-2e29",
     "topic": "general"
   },
   {
-    "title": "176 Regeln, die kein Mensch geschrieben hat",
-    "desc": "<h2>\n  \n  \n  Um 02:47 Uhr stoppte mein System ein Deployment. Kein Mensch war wach.\n</h2>\n\n<p>Es war ein Dienstagmorgen, als mein Guard-Syst",
-    "link": "https://dev.to/frederikvonderheyden/176-regeln-die-kein-mensch-geschrieben-hat-f6b",
+    "title": "Self-Hosted PaaS: Coolify vs Dokku vs CapRover vs Kamal for 2026",
+    "desc": "<h1>\n  \n  \n  Self-Hosted PaaS: Coolify vs Dokku vs CapRover vs Kamal for 2026\n</h1>\n\n<p>Modern cloud PaaS platforms like Heroku, Render, Fly",
+    "link": "https://dev.to/enfernandes/self-hosted-paas-coolify-vs-dokku-vs-caprover-vs-kamal-for-2026-3nge",
     "topic": "general"
   },
   {
-    "title": "The System at Night",
-    "desc": "<h2>\n  \n  \n  My System Fixed a Bug at 3:47 AM While I Was Asleep\n</h2>\n\n<p>I woke up to a notification. Not an alert. Not a page. A report.<",
-    "link": "https://dev.to/frederikvonderheyden/the-system-at-night-36h7",
+    "title": "Self-Hosted S3 Object Storage: Garage vs MinIO vs SeaweedFS for Production",
+    "desc": "<h1>\n  \n  \n  Self-Hosted S3 Object Storage: Garage vs MinIO vs SeaweedFS for Production\n</h1>\n\n<p>AWS S3 is the industry standard for unstru",
+    "link": "https://dev.to/enfernandes/self-hosted-s3-object-storage-garage-vs-minio-vs-seaweedfs-for-production-ei4",
     "topic": "general"
   },
   {
-    "title": "What Config Drift Costs You: CloudWatch Log Retention, S3 Lifecycle Policies and RDS Multi-AZ, Priced",
-    "desc": "<p>Config drift usually gets discussed as a correctness problem: the running state no longer matches the intended one. But three specific dr",
-    "link": "https://dev.to/zop_8abedcc7e12/what-config-drift-costs-you-cloudwatch-log-retention-s3-lifecycle-policies-and-rds-multi-az-4064",
+    "title": "The Ultimate Self-Hosted Observability Stack: Prometheus + Grafana + Loki + Uptime Kuma",
+    "desc": "<h1>\n  \n  \n  The Ultimate Self-Hosted Observability Stack: Prometheus + Grafana + Loki + Uptime Kuma\n</h1>\n\n<p>Vendor lock-in on APM and mon",
+    "link": "https://dev.to/enfernandes/the-ultimate-self-hosted-observability-stack-prometheus-grafana-loki-uptime-kuma-4bmc",
     "topic": "general"
   },
   {
-    "title": "123 Things Wrong With Your Kubernetes Cluster Right Now: Single Replicas, Pinned HPAs and Missing Probes",
-    "desc": "<p>Here's an uncomfortable exercise: pick any production Kubernetes cluster older than a year and audit every workload against a full checkl",
-    "link": "https://dev.to/zop_8abedcc7e12/123-things-wrong-with-your-kubernetes-cluster-right-now-single-replicas-pinned-hpas-and-missing-2p7f",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Adopting an Autoscaling Policy You Didn't Write: ECS, ASG, VMSS and MIG Without Silent Overwrites",
-    "desc": "<p>Every team eventually inherits autoscaling configuration it didn't write. The author left, the Terraform was half-applied, someone tuned ",
-    "link": "https://dev.to/zop_8abedcc7e12/adopting-an-autoscaling-policy-you-didnt-write-ecs-asg-vmss-and-mig-without-silent-overwrites-1he4",
+    "title": "Your Timeout Is a Guess. Here's the 20-Minute Calibration for Free Model Servers.",
+    "desc": "<p>Thirty seconds. That was my timeout. Why? It felt safe. It was not.</p>\n\n<p>I watched a batch job die twice. First, requests failed befor",
+    "link": "https://dev.to/gitlab_3188/your-timeout-is-a-guess-heres-the-20-minute-calibration-for-free-model-servers-3a5g",
     "topic": "general"
   },
   {
-    "title": "Adscs Digital Assets Builds a Broader Digital Learning and Knowledge Platform",
-    "desc": "<p>Adscs Digital Assets is expanding its digital knowledge-sharing program with a stronger focus on accessible technology content, practical",
-    "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-builds-a-broader-digital-learning-and-knowledge-platform-20lk",
+    "title": "How We Replaced 1Password & HashiCorp Vault with Self-Hosted Vaultwarden + Infisical",
+    "desc": "<h1>\n  \n  \n  How We Replaced 1Password & HashiCorp Vault with Self-Hosted Vaultwarden + Infisical\n</h1>\n\n<p>For small teams and developers, ",
+    "link": "https://dev.to/enfernandes/how-we-replaced-1password-hashicorp-vault-with-self-hosted-vaultwarden-infisical-1hl",
     "topic": "general"
   },
   {
-    "title": "The empty folder that would have emptied a production workspace",
-    "desc": "<p>Deployment tools that support cleanup usually work out what to remove by<br />\ncomparison: anything present in the target but absent from",
-    "link": "https://dev.to/vedaforge_eng/the-empty-folder-that-would-have-emptied-a-production-workspace-31oj",
+    "title": "Stop Exposing Ports: The Zero-Trust Self-Hosting Guide (Tailscale, Headscale, and Cloudflare Tunnels)",
+    "desc": "<h1>\n  \n  \n  Stop Exposing Ports: The Zero-Trust Self-Hosting Guide (Tailscale, Headscale, and Cloudflare Tunnels)\n</h1>\n\n<p>Opening ports 8",
+    "link": "https://dev.to/enfernandes/stop-exposing-ports-the-zero-trust-self-hosting-guide-tailscale-headscale-and-cloudflare-486f",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosted CI/CD in 2026: Ditch GitHub Actions Minute Caps with Woodpecker CI & Gitea Actions",
+    "desc": "<h1>\n  \n  \n  Self-Hosted CI/CD in 2026: Ditch GitHub Actions Minute Caps with Woodpecker CI & Gitea Actions\n</h1>\n\n<p>If your team runs auto",
+    "link": "https://dev.to/enfernandes/self-hosted-cicd-in-2026-ditch-github-actions-minute-caps-with-woodpecker-ci-gitea-actions-29gl",
     "topic": "general"
   }
 ]
