@@ -1,50 +1,50 @@
 [
   {
-    "title": "Cloudflare Web Analytics via GraphQL: the siteTag Filter and the Dimensions That Split Bot Traffic",
-    "desc": "<p>The Cloudflare Web Analytics dashboard reported 11,760 pageviews for this site over the 30 days ending 2026-08-21. The number we record i",
-    "link": "https://dev.to/pickuma/cloudflare-web-analytics-via-graphql-the-sitetag-filter-and-the-dimensions-that-split-bot-traffic-1p1b",
+    "title": "I Thought you should Know",
+    "desc": "<p>Sometimes this happens! <br />\nA lambda function is erroneously directed to save a processed thumbnail back into the origin/source bucket",
+    "link": "https://dev.to/eliuz/i-thought-you-should-know-3g6c",
     "topic": "general"
   },
   {
-    "title": "The Bing Webmaster API's 100-URL Daily Cap: 289 URLs Took Three Days and GetQueryStats Was Still Empty",
-    "desc": "<p>We verified pickuma.com in Bing Webmaster Tools on 2026-08-18 by serving <code>BingSiteAuth.xml</code>, added the <code>msvalidate.01</co",
-    "link": "https://dev.to/pickuma/the-bing-webmaster-apis-100-url-daily-cap-289-urls-took-three-days-and-getquerystats-was-still-5058",
+    "title": "How the Circuit Breaker Pattern Keeps Your Apps from Crashing Under Pressure",
+    "desc": "<h3>\n  \n  \n  What is the Circuit Breaker Pattern?\n</h3>\n\n<p>The Circuit Breaker pattern is a software design safety mechanism used to preven",
+    "link": "https://dev.to/saurav_tb_pandey/how-the-circuit-breaker-pattern-keeps-your-apps-from-crashing-under-pressure-47kl",
     "topic": "general"
   },
   {
-    "title": "The Google File System Explained: How Google Built Storage That Expects to Fail",
-    "desc": "<p>In 2003, three Google engineers \u2014 Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung \u2014 published a paper describing the storage system t",
-    "link": "https://dev.to/vatul16/the-google-file-system-explained-how-google-built-storage-that-expects-to-fail-4741",
+    "title": "Why Self-Heal Loops Need a Canary Gate",
+    "desc": "<h1>\n  \n  \n  Why Your Self-Heal Loop Needs a Canary Gate\n</h1>\n\n<p>The alert came in at 1:47 AM. The kind I had trained a system to handle. ",
+    "link": "https://dev.to/praveenlavu/why-self-heal-loops-need-a-canary-gate-45mf",
     "topic": "general"
   },
   {
-    "title": "Your Cargo.lock Diff Is Also a Permission Diff",
-    "desc": "<h2>\n  \n  \n  The concrete problem\n</h2>\n\n<p>A Rust dependency change looks deceptively tidy in review. The pull request shows a few lines in",
-    "link": "https://dev.to/demivalerith/your-cargolock-diff-is-also-a-permission-diff-3bg",
+    "title": "Why We Skipped Packaging for Production",
+    "desc": "<h1>\n  \n  \n  Why We Source-Deployed a Production Salesforce App Before Packaging It\n</h1>\n\n<p>There is a question that comes up the moment y",
+    "link": "https://dev.to/praveenlavu/why-we-skipped-packaging-for-production-5gi4",
     "topic": "general"
   },
   {
-    "title": "Build a Zero-Downtime Deployment Pipeline",
-    "desc": "<h1>\n  \n  \n  Build a Zero-Downtime Deployment Pipeline\n</h1>\n\n<p>tags: python, devops, deployment, tutorial</p>\n\n\n\n\n<p>tags: python, devops,",
-    "link": "https://dev.to/qingluan/build-a-zero-downtime-deployment-pipeline-1phc",
+    "title": "When UTC and Business Hours Don't Agree",
+    "desc": "<h1>\n  \n  \n  The Deploy That Ran at Noon\n</h1>\n\n<p>The deploy was scheduled for eleven in the morning. It ran at noon. Nobody touched the co",
+    "link": "https://dev.to/praveenlavu/when-utc-and-business-hours-dont-agree-3l63",
     "topic": "general"
   },
   {
-    "title": "+134 Billion Reach Offcial at CL40 World and (Chico Loco 40)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/cl40world/134-billion-reach-offcial-at-cl40-world-and-chico-loco-40-k9p",
+    "title": "I got tired of LLM drift breaking my apps, so I built an open-source fix",
+    "desc": "<p>If you have been building with Large Language Models over the last year, you have probably hit the same wall I did: <strong>LLM Drift.</s",
+    "link": "https://dev.to/gary_zavaleta_feddd55f2a0/i-got-tired-of-llm-drift-breaking-my-apps-so-i-built-an-open-source-fix-22ee",
     "topic": "general"
   },
   {
-    "title": "The Golden Signals: A Practical Implementation Guide",
-    "desc": "<h2>\n  \n  \n  Four Metrics to Rule Them All\n</h2>\n\n<p>Google's SRE book introduced the four golden signals: Latency, Traffic, Errors, and Sat",
-    "link": "https://dev.to/samson_tanimawo/the-golden-signals-a-practical-implementation-guide-2190",
+    "title": "Push vs Pull: When to Use Webhooks Instead of API Polling",
+    "desc": "<p>Every integration that needs to react to another system's events comes down to one of two designs: keep asking \"did anything change yet?\"",
+    "link": "https://dev.to/moksh/push-vs-pull-when-to-use-webhooks-instead-of-api-polling-3519",
     "topic": "general"
   },
   {
-    "title": "Build a Postgres MCP Server: Safe Database Diagnostics for AI Agents",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-21-postgres-mcp-server-safe-database-diagnosti",
-    "link": "https://dev.to/devtocash/build-a-postgres-mcp-server-safe-database-diagnostics-for-ai-agents-22o2",
+    "title": "Build a Request Tracing System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Request Tracing System with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tutorial</p>\n\n\n\n\n<p>tags: python, devops",
+    "link": "https://dev.to/qingluan/build-a-request-tracing-system-with-python-2jh2",
     "topic": "general"
   }
 ]
