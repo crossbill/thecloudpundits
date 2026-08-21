@@ -1,50 +1,50 @@
 [
   {
-    "title": "I benchmarked CognoDB against four other graph databases. The most interesting result had nothing to do with CognoDB.",
-    "desc": "<p>I was asked to benchmark CognoDB Cloud, a managed graph database, against four other graph platforms on the same hardware, the same datas",
-    "link": "https://dev.to/sachin_meru/i-benchmarked-cognodb-against-four-other-graph-databases-the-most-interesting-result-had-nothing-4ha6",
+    "title": "Managed Cloud Databases with Aiven: Multi-Cloud Resilience, Infrastructure as Code, and Cost Optimization",
+    "desc": "<p>Running production databases on cloud infrastructure presents a persistent engineering tradeoff. Managed database services provided by ma",
+    "link": "https://dev.to/jamilxt/managed-cloud-databases-with-aiven-multi-cloud-resilience-infrastructure-as-code-and-cost-3f5e",
+    "topic": "finops"
+  },
+  {
+    "title": "Opinion: An AI Feature Should Pass a Model Swap Test Before It Touches Production",
+    "desc": "<p>Your AI feature is coupled to a specific model, and most teams never test that coupling until the provider changes something. The moment ",
+    "link": "https://dev.to/github_7727/opinion-an-ai-feature-should-pass-a-model-swap-test-before-it-touches-production-4l75",
     "topic": "general"
   },
   {
-    "title": "I Deployed Google's Online Boutique on AWS EKS \u2014 Full Production Setup, Zero App Code Changes",
-    "desc": "<h2>\n  \n  \n  The Setup\n</h2>\n\n<p>Google's Online Boutique is an open-source 11-service e-commerce demo \u2014 Go, Python, Node.js, C#, and Java, ",
-    "link": "https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal",
-    "topic": "aws"
-  },
-  {
-    "title": "The Reshaping of Software Delivery: Why AI Won't Replace Project Managers But Will Redefine Leadership",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>For years, the software industry has been flooded with predictions about the automation of engineering r",
-    "link": "https://dev.to/isuvo/the-reshaping-of-software-delivery-why-ai-wont-replace-project-managers-but-will-redefine-2na2",
+    "title": "Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.",
+    "desc": "<p>You scan your application code. You scan your dependencies. You scan your containers.</p>\n\n<p>You have never scanned the thing that has a",
+    "link": "https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm",
     "topic": "general"
   },
   {
-    "title": "I Managed Kubernetes Across AWS, Azure, and GCP Simultaneously \u2014 Here's What Nobody Tells You",
-    "desc": "<p>The day the same Helm chart behaved differently on three clouds in the same hour was the day I stopped trusting \"cloud-agnostic\" as a rea",
-    "link": "https://dev.to/prateek_srivastava_6a5661/i-managed-kubernetes-across-aws-azure-and-gcp-simultaneously-heres-what-nobody-tells-you-2g69",
-    "topic": "aws"
-  },
-  {
-    "title": "100% Local AI Meets Self-Hosting: From GitHub Repo to Production Container Stack Without Cloud APIs",
-    "desc": "<p>Self-hosting is all about data sovereignty, privacy, and full control over your digital infrastructure. Yet, onboarding newly discovered ",
-    "link": "https://dev.to/henk_van_hoek/100-local-ai-meets-self-hosting-from-github-repo-to-production-container-stack-without-cloud-apis-30dj",
-    "topic": "docker"
-  },
-  {
-    "title": "Best Postgres hosting providers for startups in 2026: 8 managed PostgreSQL options compared",
-    "desc": "<p>As a startup grows, the same application data that powers transactions begins powering usage dashboards, <a href=\"https://clickhouse.com/",
-    "link": "https://dev.to/dataengineeringguide/postgres-hosting-startups-2026-3i3b",
+    "title": "Run Your Own MTProto Proxy on a $4 VPS",
+    "desc": "<h1>\n  \n  \n  Run Your Own MTProto Proxy on a $4 VPS\n</h1>\n\n<p>Yes, a $4 per month VPS is enough to run a single-user MTProto proxy for Teleg",
+    "link": "https://dev.to/humja_jaan_fca09049ae97d5/run-your-own-mtproto-proxy-on-a-4-vps-iem",
     "topic": "general"
   },
   {
-    "title": "The Local LLM Stack in 2026: What Actually Works",
-    "desc": "<p>Running a language model locally used to be a hobbyist experiment. In 2026, it's a viable engineering decision for a growing slice of rea",
-    "link": "https://dev.to/thegatewayguy/the-local-llm-stack-in-2026-what-actually-works-ib1",
+    "title": "Self-hosted CI/CD deployments with Forgejo Runner",
+    "desc": "<p>Have you ever heard that you can easily set up a fully self-hosted CI/CD pipeline with a fully customized personal git instance? If your ",
+    "link": "https://dev.to/demianbuilderdev/self-hosted-cicd-deployments-with-forgejo-runner-47i0",
     "topic": "general"
   },
   {
-    "title": "MCP servers won't start on Windows: the 'C:\\Program' space-in-path fix",
-    "desc": "<p>You follow all the setup steps. Node is installed the normal way, on the default path. You drop an MCP server into your Claude Desktop co",
-    "link": "https://dev.to/milkyway008/mcp-servers-wont-start-on-windows-the-cprogram-space-in-path-fix-2daa",
+    "title": "Vercel now bills Deployment Storage at $0.10 per GB-month, and the default keeps production a year",
+    "desc": "<h1>\n  \n  \n  Vercel now bills Deployment Storage at $0.10 per GB-month, and the default keeps production a year\n</h1>\n\n<p><strong>Summary.</",
+    "link": "https://dev.to/mr_manushukla/vercel-now-bills-deployment-storage-at-010-per-gb-month-and-the-default-keeps-production-a-year-5fk3",
+    "topic": "general"
+  },
+  {
+    "title": "Platform Engineering starts before Kubernetes",
+    "desc": "<p><em>Why the right question isn't \"where do I start with Kubernetes\", but \"what problem am I actually solving\".</em></p>\n\n<h2>\n  \n  \n  The",
+    "link": "https://dev.to/rogeroliveira86/platform-engineering-starts-before-kubernetes-3ja1",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Your AI Assistant Ships Insecure Code Almost Half the Time. Catching It in Review Is Too Late.",
+    "desc": "<p><em>By Sangyeon Park \u2014 creator of <a href=\"https://github.com/cencurity/cencurity\" rel=\"noopener noreferrer\">Cencurity</a>, an open-sourc",
+    "link": "https://dev.to/sangyeonpark/your-ai-assistant-ships-insecure-code-almost-half-the-time-catching-it-in-review-is-too-late-4ml",
     "topic": "general"
   }
 ]
