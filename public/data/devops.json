@@ -1,5 +1,41 @@
 [
   {
+    "title": "Cloudflare Web Analytics via GraphQL: the siteTag Filter and the Dimensions That Split Bot Traffic",
+    "desc": "<p>The Cloudflare Web Analytics dashboard reported 11,760 pageviews for this site over the 30 days ending 2026-08-21. The number we record i",
+    "link": "https://dev.to/pickuma/cloudflare-web-analytics-via-graphql-the-sitetag-filter-and-the-dimensions-that-split-bot-traffic-1p1b",
+    "topic": "general"
+  },
+  {
+    "title": "The Bing Webmaster API's 100-URL Daily Cap: 289 URLs Took Three Days and GetQueryStats Was Still Empty",
+    "desc": "<p>We verified pickuma.com in Bing Webmaster Tools on 2026-08-18 by serving <code>BingSiteAuth.xml</code>, added the <code>msvalidate.01</co",
+    "link": "https://dev.to/pickuma/the-bing-webmaster-apis-100-url-daily-cap-289-urls-took-three-days-and-getquerystats-was-still-5058",
+    "topic": "general"
+  },
+  {
+    "title": "The Google File System Explained: How Google Built Storage That Expects to Fail",
+    "desc": "<p>In 2003, three Google engineers \u2014 Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung \u2014 published a paper describing the storage system t",
+    "link": "https://dev.to/vatul16/the-google-file-system-explained-how-google-built-storage-that-expects-to-fail-4741",
+    "topic": "general"
+  },
+  {
+    "title": "Your Cargo.lock Diff Is Also a Permission Diff",
+    "desc": "<h2>\n  \n  \n  The concrete problem\n</h2>\n\n<p>A Rust dependency change looks deceptively tidy in review. The pull request shows a few lines in",
+    "link": "https://dev.to/demivalerith/your-cargolock-diff-is-also-a-permission-diff-3bg",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Zero-Downtime Deployment Pipeline",
+    "desc": "<h1>\n  \n  \n  Build a Zero-Downtime Deployment Pipeline\n</h1>\n\n<p>tags: python, devops, deployment, tutorial</p>\n\n\n\n\n<p>tags: python, devops,",
+    "link": "https://dev.to/qingluan/build-a-zero-downtime-deployment-pipeline-1phc",
+    "topic": "general"
+  },
+  {
+    "title": "+134 Billion Reach Offcial at CL40 World and (Chico Loco 40)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/cl40world/134-billion-reach-offcial-at-cl40-world-and-chico-loco-40-k9p",
+    "topic": "general"
+  },
+  {
     "title": "The Golden Signals: A Practical Implementation Guide",
     "desc": "<h2>\n  \n  \n  Four Metrics to Rule Them All\n</h2>\n\n<p>Google's SRE book introduced the four golden signals: Latency, Traffic, Errors, and Sat",
     "link": "https://dev.to/samson_tanimawo/the-golden-signals-a-practical-implementation-guide-2190",
@@ -10,41 +46,5 @@
     "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-21-postgres-mcp-server-safe-database-diagnosti",
     "link": "https://dev.to/devtocash/build-a-postgres-mcp-server-safe-database-diagnostics-for-ai-agents-22o2",
     "topic": "general"
-  },
-  {
-    "title": "I Built a Self-Deploying Dashboard That Watches Its Own CI/CD Pipeline (Real EC2, Real Jenkins, Real Bugs)",
-    "desc": "<p>TL;DR</p>\n\n<p>I built CloudPulse \u2014 a dashboard that shows the live status of its own deployment pipeline. Push a commit to main, and with",
-    "link": "https://dev.to/irfanpasha/i-built-a-self-deploying-dashboard-that-watches-its-own-cicd-pipeline-real-ec2-real-jenkins-3cob",
-    "topic": "general"
-  },
-  {
-    "title": "Keep Every LangSmith Trace Without the 10 Retention Bill",
-    "desc": "<p>LangSmith is excellent for debugging live AI systems. But keeping every trace in its extended-retention tier can turn observability into ",
-    "link": "https://dev.to/aviadr1/keep-every-langsmith-trace-without-the-10x-retention-bill-2gl1",
-    "topic": "general"
-  },
-  {
-    "title": "Which Open-Source Notion Alternatives Are Actually Being Developed? AppFlowy vs AFFiNE (2026)",
-    "desc": "<p>A practical look at two of the most-starred open-source Notion alternatives, AppFlowy and AFFiNE, and how to read their public GitHub sig",
-    "link": "https://dev.to/kimcomplete/which-open-source-notion-alternatives-are-actually-being-developed-appflowy-vs-affine-2026-3h03",
-    "topic": "general"
-  },
-  {
-    "title": "iCloud Silently Evicted 69 Article Files and Killed 4 Days of Publishing: EDEADLK and a read_text_resilient Design",
-    "desc": "<p>Every one of my publishing lanes went dark for four days, and every script involved exited with status 0. Nothing had crashed. The files ",
-    "link": "https://dev.to/bokuwalily/icloud-silently-evicted-69-article-files-and-killed-4-days-of-publishing-edeadlk-and-a-1n6i",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Custom Package Manager with Python",
-    "desc": "<h1>\n  \n  \n  Build a Custom Package Manager with Python\n</h1>\n\n<p>tags: python, tools, devops, tutorial</p>\n\n\n\n\n<p>tags: python, tools, devo",
-    "link": "https://dev.to/qingluan/build-a-custom-package-manager-with-python-5ddo",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes: rota secretos sin reinicios ciegos",
-    "desc": "<p>La rotacion de secretos en Kubernetes casi nunca falla de forma elegante. Lo normal es algo mas incomodo: un token vence, un pod sigue vi",
-    "link": "https://dev.to/alexcarteruk/kubernetes-rota-secretos-sin-reinicios-ciegos-1a7c",
-    "topic": "kubernetes"
   }
 ]
