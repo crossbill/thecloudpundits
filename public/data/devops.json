@@ -1,50 +1,50 @@
 [
   {
-    "title": "Make the Guard Prove It Can Fail",
-    "desc": "<h2>\n  \n  \n  The defect class\n</h2>\n\n<p>A gate you have never seen go red is a gate you have not tested. On 2026-08-18, four gates across tw",
-    "link": "https://dev.to/jeremy_longshore/make-the-guard-prove-it-can-fail-2e29",
+    "title": "The 12-Factor App, The Rulebook Behind Every Cloud-Native Deploy",
+    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Understand the twelve factors behind every cloud-native deploy, why Kubernetes was built around th",
+    "link": "https://dev.to/sri2614/the-12-factor-app-the-rulebook-behind-every-cloud-native-deploy-51k9",
     "topic": "general"
   },
   {
-    "title": "Self-Hosted PaaS: Coolify vs Dokku vs CapRover vs Kamal for 2026",
-    "desc": "<h1>\n  \n  \n  Self-Hosted PaaS: Coolify vs Dokku vs CapRover vs Kamal for 2026\n</h1>\n\n<p>Modern cloud PaaS platforms like Heroku, Render, Fly",
-    "link": "https://dev.to/enfernandes/self-hosted-paas-coolify-vs-dokku-vs-caprover-vs-kamal-for-2026-3nge",
+    "title": "Master the AI Skills Shaping the Future of Careers with Visualpath",
+    "desc": "<p>\ud83d\ude80 \ud835\uddd4\ud835\udddc \ud835\udddc\ud835\ude00 \ud835\udde5\ud835\uddf2\ud835\uddf1\ud835\uddf2\ud835\uddf3\ud835\uddf6\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddd9\ud835\ude02\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\uddfc\ud835\uddf3 \ud835\uddea\ud835\uddfc\ud835\uddff\ud835\uddf8 \u2014 \ud835\uddd4\ud835\uddff\ud835\uddf2 \ud835\uddec\ud835\uddfc\ud835\ude02 \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\ude06 \ud835\ude01\ud835\uddfc \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddd6\ud835\uddf5\ud835\uddee\ud835\uddfb\ud835\uddf4\ud835\uddf2?<br />\n\ud83c\udfaf Build in-demand AI skills with Visualpath and prepare f",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-the-ai-skills-shaping-the-future-of-careers-with-visualpath-2f26",
     "topic": "general"
   },
   {
-    "title": "Self-Hosted S3 Object Storage: Garage vs MinIO vs SeaweedFS for Production",
-    "desc": "<h1>\n  \n  \n  Self-Hosted S3 Object Storage: Garage vs MinIO vs SeaweedFS for Production\n</h1>\n\n<p>AWS S3 is the industry standard for unstru",
-    "link": "https://dev.to/enfernandes/self-hosted-s3-object-storage-garage-vs-minio-vs-seaweedfs-for-production-ei4",
+    "title": "Day 20: AWS Database \u2014 NoSQL, Warehouse & Cache (DynamoDB, Redshift, ElastiCache)",
+    "desc": "<p>Day 19 covered RDS and DMS \u2014 the relational side of AWS databases. Today we cover three services that each solve a problem relational dat",
+    "link": "https://dev.to/sr-palatasingh/day-20-aws-database-nosql-warehouse-cache-dynamodb-redshift-elasticache-3i6b",
+    "topic": "aws"
+  },
+  {
+    "title": "\u2699\ufe0f Designing a Data Bus for Uneven Logistics Workloads",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/evrone/designing-a-data-bus-for-uneven-logistics-workloads-24ki",
     "topic": "general"
   },
   {
-    "title": "The Ultimate Self-Hosted Observability Stack: Prometheus + Grafana + Loki + Uptime Kuma",
-    "desc": "<h1>\n  \n  \n  The Ultimate Self-Hosted Observability Stack: Prometheus + Grafana + Loki + Uptime Kuma\n</h1>\n\n<p>Vendor lock-in on APM and mon",
-    "link": "https://dev.to/enfernandes/the-ultimate-self-hosted-observability-stack-prometheus-grafana-loki-uptime-kuma-4bmc",
+    "title": "The Future Awaits: How DevOps Training in BTM Prepares You for Tomorrow's Tech Landscape",
+    "desc": "<p>The Future Awaits: How <a href=\"https://learnmoretech.in/devops-training-in-btm/\" rel=\"noopener noreferrer\">DevOps Training in BTM</a> Pr",
+    "link": "https://dev.to/lm_pg_ae695f1a4c717f/the-future-awaits-how-devops-training-in-btm-prepares-you-for-tomorrows-tech-landscape-375g",
     "topic": "general"
   },
   {
-    "title": "Your Timeout Is a Guess. Here's the 20-Minute Calibration for Free Model Servers.",
-    "desc": "<p>Thirty seconds. That was my timeout. Why? It felt safe. It was not.</p>\n\n<p>I watched a batch job die twice. First, requests failed befor",
-    "link": "https://dev.to/gitlab_3188/your-timeout-is-a-guess-heres-the-20-minute-calibration-for-free-model-servers-3a5g",
+    "title": "Unleash Your Career Potential: The Game-Changing Impact of DevOps Training in BTM for Future Innovators",
+    "desc": "<p>Unleash Your Career Potential: The Game-Changing Impact of <a href=\"https://learnmoretech.in/devops-training-in-btm/\" rel=\"noopener noref",
+    "link": "https://dev.to/h2_lmt_318f611464212f9336/unleash-your-career-potential-the-game-changing-impact-of-devops-training-in-btm-for-future-2kia",
     "topic": "general"
   },
   {
-    "title": "How We Replaced 1Password & HashiCorp Vault with Self-Hosted Vaultwarden + Infisical",
-    "desc": "<h1>\n  \n  \n  How We Replaced 1Password & HashiCorp Vault with Self-Hosted Vaultwarden + Infisical\n</h1>\n\n<p>For small teams and developers, ",
-    "link": "https://dev.to/enfernandes/how-we-replaced-1password-hashicorp-vault-with-self-hosted-vaultwarden-infisical-1hl",
+    "title": "Unlocking Your Potential: How DevOps Training in BTM Can Revolutionize Your 2026 Career Path",
+    "desc": "<p>Unlocking Your Potential: How <a href=\"https://learnmoretech.in/devops-training-in-btm/\" rel=\"noopener noreferrer\">DevOps Training in BTM",
+    "link": "https://dev.to/lmt_new_5ff6b33c7/unlocking-your-potential-how-devops-training-in-btm-can-revolutionize-your-2026-career-path-28fb",
     "topic": "general"
   },
   {
-    "title": "Stop Exposing Ports: The Zero-Trust Self-Hosting Guide (Tailscale, Headscale, and Cloudflare Tunnels)",
-    "desc": "<h1>\n  \n  \n  Stop Exposing Ports: The Zero-Trust Self-Hosting Guide (Tailscale, Headscale, and Cloudflare Tunnels)\n</h1>\n\n<p>Opening ports 8",
-    "link": "https://dev.to/enfernandes/stop-exposing-ports-the-zero-trust-self-hosting-guide-tailscale-headscale-and-cloudflare-486f",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted CI/CD in 2026: Ditch GitHub Actions Minute Caps with Woodpecker CI & Gitea Actions",
-    "desc": "<h1>\n  \n  \n  Self-Hosted CI/CD in 2026: Ditch GitHub Actions Minute Caps with Woodpecker CI & Gitea Actions\n</h1>\n\n<p>If your team runs auto",
-    "link": "https://dev.to/enfernandes/self-hosted-cicd-in-2026-ditch-github-actions-minute-caps-with-woodpecker-ci-gitea-actions-29gl",
+    "title": "Mastering Modern Development: The Advantages of DevOps Training in BTM for Tomorrow's Leaders",
+    "desc": "<p>Mastering Modern Development: The Advantages of <a href=\"https://learnmoretech.in/devops-training-in-btm/\" rel=\"noopener noreferrer\">DevO",
+    "link": "https://dev.to/h1_lmt_582a030968e32867be/mastering-modern-development-the-advantages-of-devops-training-in-btm-for-tomorrows-leaders-1fak",
     "topic": "general"
   }
 ]
