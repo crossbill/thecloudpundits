@@ -1,50 +1,50 @@
 [
   {
-    "title": "I blamed the URL. The variable was which seat asked.",
-    "desc": "<p>Three days ago I published a rule I had measured myself. It was wrong in a way that only showed up when I ran it from a different chair.<",
-    "link": "https://dev.to/unmannedops/i-blamed-the-url-the-variable-was-which-seat-asked-f92",
+    "title": "The Golden Signals: A Practical Implementation Guide",
+    "desc": "<h2>\n  \n  \n  Four Metrics to Rule Them All\n</h2>\n\n<p>Google's SRE book introduced the four golden signals: Latency, Traffic, Errors, and Sat",
+    "link": "https://dev.to/samson_tanimawo/the-golden-signals-a-practical-implementation-guide-2190",
     "topic": "general"
   },
   {
-    "title": "Seven days of HTTP 200 while the page rendered blank",
-    "desc": "<p>I shipped a landing page on August 13. For the next seven days every request to it<br />\nreturned <code>HTTP 200</code>. Analytics showed",
-    "link": "https://dev.to/vouch/seven-days-of-http-200-while-the-page-rendered-blank-10jc",
+    "title": "Build a Postgres MCP Server: Safe Database Diagnostics for AI Agents",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-21-postgres-mcp-server-safe-database-diagnosti",
+    "link": "https://dev.to/devtocash/build-a-postgres-mcp-server-safe-database-diagnostics-for-ai-agents-22o2",
     "topic": "general"
   },
   {
-    "title": "Two thirds of VPN vendors ship no Content-Security-Policy. Including, sort of, us.",
-    "desc": "<p>I scanned the public homepages of thirty commercial VPN vendors for the six HTTP response headers<br />\nthat browsers actually act on. On",
-    "link": "https://dev.to/ricco020/two-thirds-of-vpn-vendors-ship-no-content-security-policy-including-sort-of-us-i8",
-    "topic": "secops"
-  },
-  {
-    "title": "Exit Code 137 Was the Only Clue: My Free Server Had a Memory Ceiling I Never Measured",
-    "desc": "<p>Last week my batch processor died three times in one night, and every death looked identical: no traceback, no error log, no restart mess",
-    "link": "https://dev.to/codepy_1473/exit-code-137-was-the-only-clue-my-free-server-had-a-memory-ceiling-i-never-measured-4856",
+    "title": "I Built a Self-Deploying Dashboard That Watches Its Own CI/CD Pipeline (Real EC2, Real Jenkins, Real Bugs)",
+    "desc": "<p>TL;DR</p>\n\n<p>I built CloudPulse \u2014 a dashboard that shows the live status of its own deployment pipeline. Push a commit to main, and with",
+    "link": "https://dev.to/irfanpasha/i-built-a-self-deploying-dashboard-that-watches-its-own-cicd-pipeline-real-ec2-real-jenkins-3cob",
     "topic": "general"
   },
   {
-    "title": "Opinion: A Free Server Is a Failure Rehearsal Room, Not a Demo Stage",
-    "desc": "<h2>\n  \n  \n  Opinion: A Free Server Is a Failure Rehearsal Room, Not a Demo Stage\n</h2>\n\n<p>Your free server is the most underused environme",
-    "link": "https://dev.to/github_7727/opinion-a-free-server-is-a-failure-rehearsal-room-not-a-demo-stage-5h72",
+    "title": "Keep Every LangSmith Trace Without the 10 Retention Bill",
+    "desc": "<p>LangSmith is excellent for debugging live AI systems. But keeping every trace in its extended-retention tier can turn observability into ",
+    "link": "https://dev.to/aviadr1/keep-every-langsmith-trace-without-the-10x-retention-bill-2gl1",
     "topic": "general"
   },
   {
-    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Aug 13 \u2013 Aug 19, 2026",
-    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Aug 13 \u2013 Aug 19, 2026 | <strong>Tot",
-    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-aug-13-aug-19-2026-j0p",
-    "topic": "aws"
-  },
-  {
-    "title": "The Strategic Importance of Geographic Location in Mobile App Development: A Market Analysis",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The geographic location of your mobile app development partner has become increasingly significant in to",
-    "link": "https://dev.to/bisma_ali_4/the-strategic-importance-of-geographic-location-in-mobile-app-development-a-market-analysis-237",
+    "title": "Which Open-Source Notion Alternatives Are Actually Being Developed? AppFlowy vs AFFiNE (2026)",
+    "desc": "<p>A practical look at two of the most-starred open-source Notion alternatives, AppFlowy and AFFiNE, and how to read their public GitHub sig",
+    "link": "https://dev.to/kimcomplete/which-open-source-notion-alternatives-are-actually-being-developed-appflowy-vs-affine-2026-3h03",
     "topic": "general"
   },
   {
-    "title": "Build a Service Mesh Monitor with Python",
-    "desc": "<h1>\n  \n  \n  Build a Service Mesh Monitor with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tutorial</p>\n\n\n\n\n<p>tags: python, devops, ",
-    "link": "https://dev.to/qingluan/build-a-service-mesh-monitor-with-python-1ki1",
+    "title": "iCloud Silently Evicted 69 Article Files and Killed 4 Days of Publishing: EDEADLK and a read_text_resilient Design",
+    "desc": "<p>Every one of my publishing lanes went dark for four days, and every script involved exited with status 0. Nothing had crashed. The files ",
+    "link": "https://dev.to/bokuwalily/icloud-silently-evicted-69-article-files-and-killed-4-days-of-publishing-edeadlk-and-a-1n6i",
     "topic": "general"
+  },
+  {
+    "title": "Build a Custom Package Manager with Python",
+    "desc": "<h1>\n  \n  \n  Build a Custom Package Manager with Python\n</h1>\n\n<p>tags: python, tools, devops, tutorial</p>\n\n\n\n\n<p>tags: python, tools, devo",
+    "link": "https://dev.to/qingluan/build-a-custom-package-manager-with-python-5ddo",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes: rota secretos sin reinicios ciegos",
+    "desc": "<p>La rotacion de secretos en Kubernetes casi nunca falla de forma elegante. Lo normal es algo mas incomodo: un token vence, un pod sigue vi",
+    "link": "https://dev.to/alexcarteruk/kubernetes-rota-secretos-sin-reinicios-ciegos-1a7c",
+    "topic": "kubernetes"
   }
 ]
