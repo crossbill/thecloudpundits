@@ -1,5 +1,11 @@
 [
   {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "desc": "",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "topic": "general"
+  },
+  {
     "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
     "desc": "",
     "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
@@ -39,12 +45,6 @@
     "title": "What We Learned by Reproducing 2,200 papers from ICML",
     "desc": "",
     "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "topic": "general"
-  },
-  {
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "desc": "",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
     "topic": "general"
   }
 ]

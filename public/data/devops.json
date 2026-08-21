@@ -1,50 +1,50 @@
 [
   {
-    "title": "Something that's easy to miss: cost tooling and observability data can feed into the same loop, not two separate concerns",
-    "desc": "<p>CloudCostTree reads your Terraform/CloudFormation/Pulumi and shows a cost tree from static config alone. That's useful before deploy, but",
-    "link": "https://dev.to/cloudcosttree/something-thats-easy-to-miss-cost-tooling-and-observability-data-can-feed-into-the-same-loop-not-25f3",
+    "title": "gitignore is not a security control",
+    "desc": "<p>A <code>.env</code> file in <code>.gitignore</code> tells you one thing: the file is not in your git history. It tells you nothing about ",
+    "link": "https://dev.to/veristria/gitignore-is-not-a-security-control-2gok",
+    "topic": "secops"
+  },
+  {
+    "title": "Your AI Agent Returned HTTP 200. Why Did the Workflow Still Fail?",
+    "desc": "<p>A successful HTTP response is not a successful agent run.</p>\n\n<p>A recent practitioner report from a 58-day deployment of 78 agents reco",
+    "link": "https://dev.to/zira125/your-ai-agent-returned-http-200-why-did-the-workflow-still-fail-452o",
     "topic": "general"
   },
   {
-    "title": "Governance, die sich selbst erzwingt",
-    "desc": "<h2>\n  \n  \n  96 % meiner KI-Schutzregeln erzwingen sich selbst. So habe ich das gebaut.\n</h2>\n\n<p>Vor 14 Monaten habe ich eine Entscheidung ",
-    "link": "https://dev.to/frederikvonderheyden/governance-die-sich-selbst-erzwingt-471m",
+    "title": "Mma Timer For Beginners: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/mma-timer-for-beginners-what-we-learned-building-random-tactical-timer-2k77",
     "topic": "general"
   },
   {
-    "title": "Amazon S3 Hands-On Practicals",
-    "desc": "<p>I recently worked through a hands-on Amazon S3 practical series covering the features I would actually expect to use while working with A",
-    "link": "https://dev.to/tejas_shinkar/amazon-s3-hands-on-practicals-5f72",
+    "title": "A Daily Commit Digest on Free LLM Credits: A Case Study in Low-Stakes Automation",
+    "desc": "<h1>\n  \n  \n  A Daily Commit Digest on Free LLM Credits: A Case Study in Low-Stakes Automation\n</h1>\n\n<p>Free-tier LLM access is enough for a",
+    "link": "https://dev.to/codego_3211/a-daily-commit-digest-on-free-llm-credits-a-case-study-in-low-stakes-automation-3d2a",
     "topic": "general"
   },
   {
-    "title": "Best Small Business Loans for Entrepreneurs: Top Funding Choices",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/matilda_bruce_ce4f12d7c39/best-small-business-loans-for-entrepreneurs-top-funding-choices-55hm",
+    "title": "The Free-Tier Trap: A Framework for Choosing Model Access",
+    "desc": "<p>Free model access is a trap only when you treat it as a default instead of a decision. Most teams pick between a free tier, a paid API, a",
+    "link": "https://dev.to/hackrs_3352/the-free-tier-trap-a-framework-for-choosing-model-access-4kj8",
     "topic": "general"
   },
   {
-    "title": "OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow (and what I built)",
-    "desc": "<p>Last year I renamed a field in an API response. <code>customer_id</code> became <code>customerId</code>, matching the rest of the codebas",
-    "link": "https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an",
+    "title": "Case Study: Turning Commit Noise into a Release Digest on a Free Stack",
+    "desc": "<p>A 300-line pipeline can turn a messy commit history into a release digest people actually read. This case study walks one small project e",
+    "link": "https://dev.to/codecpp_5026/case-study-turning-commit-noise-into-a-release-digest-on-a-free-stack-2jod",
     "topic": "general"
   },
   {
-    "title": "Infrastructure Already Has an Authority Layer. HCP Terraform Is Just Proving It First.",
-    "desc": "<p>Every agentic system that touches infrastructure eventually needs an <strong>authority layer</strong> \u2014 a system of record that can say y",
-    "link": "https://dev.to/ntctech/infrastructure-already-has-an-authority-layer-hcp-terraform-is-just-proving-it-first-3hl2",
-    "topic": "terraform"
-  },
-  {
-    "title": "Build a Configuration Management System with Python",
-    "desc": "<h1>\n  \n  \n  Build a Configuration Management System with Python\n</h1>\n\n<p>tags: python, devops, architecture, tutorial</p>\n\n\n\n\n<p>tags: pyt",
-    "link": "https://dev.to/qingluan/build-a-configuration-management-system-with-python-58ka",
+    "title": "Your .env file is not the problem",
+    "desc": "<h1>\n  \n  \n  Your .env file is not the problem\n</h1>\n\n<blockquote>\n<p>Originally published on <a href=\"https://keydrift.dev/blog/why-your-en",
+    "link": "https://dev.to/veristria/your-env-file-is-not-the-problem-45fp",
     "topic": "general"
   },
   {
-    "title": "Gen AI Course in Hyderabad with Real-Time Case Studies",
-    "desc": "<p>Top Benefits of Generative AI for Businesses: A Complete Guide<br />\nWhat Is Generative AI?<br />\nGenerative AI is a type of artificial i",
-    "link": "https://dev.to/kalyan_visualpath_42cb693/gen-ai-course-in-hyderabad-with-real-time-case-studies-4b0",
+    "title": "Distributed Tracing: The Missing Piece of Your Observability Stack",
+    "desc": "<h2>\n  \n  \n  When Logs and Metrics Aren't Enough\n</h2>\n\n<p>You have great dashboards. Your log aggregation is solid. But when a user reports",
+    "link": "https://dev.to/samson_tanimawo/distributed-tracing-the-missing-piece-of-your-observability-stack-2e4c",
     "topic": "general"
   }
 ]
