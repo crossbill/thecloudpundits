@@ -1,5 +1,23 @@
 [
   {
+    "title": "Kubernetes Basics for DevOps Engineers",
+    "desc": "<p><strong>Introduction:</strong><br />\nKubernetes can feel overwhelming when you first hear terms like Pods, Services, and Deployments thro",
+    "link": "https://dev.to/tejas_kp/kubernetes-basics-for-devops-engineers-3ml9",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "How to Add AI to Your Existing SaaS Application: A Practical Guide for 2026",
+    "desc": "<p>\"Should we add AI to our product?\" isn't really the right question anymore. Most SaaS founders and product teams have moved past whether ",
+    "link": "https://dev.to/amar74/how-to-add-ai-to-your-existing-saas-application-a-practical-guide-for-2026-22ej",
+    "topic": "general"
+  },
+  {
+    "title": "Hey Dev Community \u2014 New Here!",
+    "desc": "<p>Hey Dev Community! \ud83d\udc4b</p>\n\n<p>I\u2019m Tejas, a DevOps Engineer from Bangalore, new to this platform. I work mostly with AWS, Kubernetes, Terra",
+    "link": "https://dev.to/tejas_kp/hey-dev-community-new-here-34kj",
+    "topic": "general"
+  },
+  {
     "title": "Differential Fuzzing: The AI Patch Gate That Doesn't Trust Your Tests",
     "desc": "<p>AI patches usually break behavior that your test suite never exercises, because tests encode the assumptions you already hold about the s",
     "link": "https://dev.to/github_7727/differential-fuzzing-the-ai-patch-gate-that-doesnt-trust-your-tests-4p7a",
@@ -27,24 +45,6 @@
     "title": "Shipping a Python desktop app to real users: everything that breaks after PyInstaller succeeds",
     "desc": "<p>I built a desktop app in Python (PySide6 + MediaPipe + ONNX, ~33k lines) and shipped it to real beta users on macOS and Windows. Building",
     "link": "https://dev.to/shipyourpythonapp/shipping-a-python-desktop-app-to-real-users-everything-that-breaks-after-pyinstaller-succeeds-118f",
-    "topic": "general"
-  },
-  {
-    "title": "DevOps to MLOps Transition: Navigating Career Growth Amid AI/ML Opportunities and DevOps Stagnation",
-    "desc": "<h2>\n  \n  \n  Introduction: Navigating the DevOps to MLOps Crossroads\n</h2>\n\n<p>The tech landscape is shifting, and with it, the careers of D",
-    "link": "https://dev.to/maricode/devops-to-mlops-transition-navigating-career-growth-amid-aiml-opportunities-and-devops-stagnation-ol7",
-    "topic": "general"
-  },
-  {
-    "title": "Supabase vs Firebase: How the Two Backends Compare (2026)",
-    "desc": "<p>A feature-by-feature and pricing comparison of two hosted app backends, based on each vendor's own documentation as of July 29, 2026.</p>",
-    "link": "https://dev.to/kimcomplete/supabase-vs-firebase-how-the-two-backends-compare-2026-3m3p",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Custom Object Storage System with Python",
-    "desc": "<h1>\n  \n  \n  Build a Custom Object Storage System with Python\n</h1>\n\n<p>tags: python, storage, devops, tutorial</p>\n\n\n\n\n<p>tags: python, sto",
-    "link": "https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-3eme",
     "topic": "general"
   }
 ]
