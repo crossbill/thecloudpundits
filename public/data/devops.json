@@ -1,5 +1,41 @@
 [
   {
+    "title": "npm trust github Fails with 400 Bad Request: The Missing Permission Flag",
+    "desc": "<p>We published a JavaScript client to npm this week, and wiring up <strong>trusted publishing</strong> cost three failed attempts and two w",
+    "link": "https://dev.to/koraykoylu/npm-trust-github-fails-with-400-bad-request-the-missing-permission-flag-4j5f",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes Shared Volumes: A Comprehensive Guide",
+    "desc": "<h1>\n  \n  \n  Kubernetes Shared Volumes: A Comprehensive Guide\n</h1>\n\n<h2>\n  \n  \n  Table of Contents\n</h2>\n\n<ol>\n<li>Prerequisites</li>\n<li>I",
+    "link": "https://dev.to/bansikah/kubernetes-shared-volumes-a-comprehensive-guide-1e05",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Two AI Agents Read One Row. How to Stop the Lost Update",
+    "desc": "<p>A version check is not automatically optimistic concurrency control.</p>\n\n<p>If an agent reads a row, reasons for a few seconds, and then",
+    "link": "https://dev.to/zira125/two-ai-agents-read-one-row-how-to-stop-the-lost-update-1025",
+    "topic": "general"
+  },
+  {
+    "title": "A C++ Config Validator for a Server That May Skip Your Job",
+    "desc": "<p>A free server will not tell you when it skips your job. It will simply not run it. That is not a bug in the platform; it is the contract ",
+    "link": "https://dev.to/datacpp_8185/a-c-config-validator-for-a-server-that-may-skip-your-job-29kj",
+    "topic": "general"
+  },
+  {
+    "title": "Opinion: If Your AI Patch Gate Costs Money, You'll Skip It on the Riskiest PRs",
+    "desc": "<p>AI patch review gates usually fail for an economic reason before a technical one. Every run costs money, so teams run them selectively, a",
+    "link": "https://dev.to/github_7727/opinion-if-your-ai-patch-gate-costs-money-youll-skip-it-on-the-riskiest-prs-3b9o",
+    "topic": "general"
+  },
+  {
+    "title": "Buy Old Gmail Accounts: A Step-by-Step Guide In 2026",
+    "desc": "<p>How to Buy Gmail Accounts \u2013 Step-by-Step Guide<br />\n\u26a1\ufe0f\ud83d\ude80 24/7 Fast & Reliable Support<br />\n\ud83d\udcf1\ud83d\udcac WhatsApp: +1 (506) 541-7768<br />\n\ud83d\udcac\ud83d\udd37 Teleg",
+    "link": "https://dev.to/megenharveyfztgu/buy-old-gmail-accounts-a-step-by-step-guide-in-2026-4f28",
+    "topic": "general"
+  },
+  {
     "title": "Does AI Really Make Developers Faster? What the Research Says - and Why You Have to Measure",
     "desc": "<p>Ask two engineering leaders whether AI coding assistants make their teams faster, and you will often get two opposite answers. Both can p",
     "link": "https://dev.to/devprism/does-ai-really-make-developers-faster-what-the-research-says-and-why-you-have-to-measure-5300",
@@ -10,41 +46,5 @@
     "desc": "<p>I Built a Capability-Based Security Layer for AI Agents \u2014 Here's Why It Matters</p>\n\n<p>The Problem Nobody's Talking About</p>\n\n<p>AI age",
     "link": "https://dev.to/shubhbhangoo/i-built-a-capability-based-security-layer-for-ai-agents-heres-why-it-matters-4kfc",
     "topic": "secops"
-  },
-  {
-    "title": "The Badge Was Issued, but the Goal Wasn't Achieved.",
-    "desc": "<p>A couple of years ago, users of the <a href=\"http://labs.isovalent.com/\" rel=\"noopener noreferrer\">Isovalent Labs platform</a> regularly ",
-    "link": "https://dev.to/raphink/the-badge-was-issued-but-the-goal-wasnt-achieved-41l3",
-    "topic": "general"
-  },
-  {
-    "title": "How to Build a $2500/Month DevOps Consulting Practice",
-    "desc": "<h1>\n  \n  \n  How to Build a $2500/Month DevOps Consulting Practice\n</h1>\n\n<p>tags: devops, money, consulting, career</p>\n\n\n\n\n<p>tags: devops",
-    "link": "https://dev.to/qingluan/how-to-build-a-2500month-devops-consulting-practice-p6a",
-    "topic": "general"
-  },
-  {
-    "title": "How to Build an iOS App on Windows in 2026. Let Xcode Cloud Be Your Mac",
-    "desc": "<blockquote>\n<p>A practical Windows-first iOS workflow using GitHub, Vercel, Neon, Capacitor, App Store Connect CLI, Xcode Cloud and TestFli",
-    "link": "https://dev.to/shovan/build-ios-app-on-windows-xcode-cloud-2h09",
-    "topic": "general"
-  },
-  {
-    "title": "Stop chasing fads. Operate Claude like a startup founder.",
-    "desc": "<p>I am running an AI-native startup. Early on though, I would spend so much time staying ahead of every new AI hot take that I lost focus o",
-    "link": "https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Merged Is Not Shipped: Why a Year-Old Fix Never Reached You",
-    "desc": "<p>There is a version of a bug that is more frustrating than an unfixed one. It is a bug that was fixed, correctly, and then sat behind glas",
-    "link": "https://dev.to/harrisonsec/merged-is-not-shipped-why-a-year-old-fix-never-reached-you-1nda",
-    "topic": "general"
-  },
-  {
-    "title": "I made my test suite flaky on purpose",
-    "desc": "<p>I am building a dashboard for observing test suite health. It shows how often tests pass, which ones are unstable, and what's slowing the",
-    "link": "https://dev.to/anushka_srivastava_6ba849/i-made-my-test-suite-flaky-on-purpose-5c6",
-    "topic": "general"
   }
 ]
