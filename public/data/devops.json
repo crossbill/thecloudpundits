@@ -1,5 +1,41 @@
 [
   {
+    "title": "How to Set Up PostgreSQL Logical Replication",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
+    "link": "https://dev.to/chasebot/how-to-set-up-postgresql-logical-replication-13cf",
+    "topic": "general"
+  },
+  {
+    "title": "The First 30 Days After Go-Live Decide If the Client Comes Back",
+    "desc": "<p>The month after go-live is when a client decides whether to trust you with the next thing, and it is exactly when most vendors go quiet. ",
+    "link": "https://dev.to/sonaljain_si/the-first-30-days-after-go-live-decide-if-the-client-comes-back-53hk",
+    "topic": "general"
+  },
+  {
+    "title": "Dev Log: 2026-08-21 \u2014 Native Deploys, Masked Env Vars, and Two Migration Papercuts",
+    "desc": "<p><strong>TL;DR</strong> \u2014 A long day across five repos. The theme that kept repeating: <em>the failure that looks like success</em>. A dep",
+    "link": "https://dev.to/nasrulhazim/dev-log-2026-08-21-native-deploys-masked-env-vars-and-two-migration-papercuts-58in",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying Without Docker: Model the Native Build as a Recipe, Not a Dockerfile",
+    "desc": "<p><strong>TL;DR</strong> \u2014 I spent the day teaching a deployment control plane to build apps <strong>natively on a plain VM</strong> \u2014 no D",
+    "link": "https://dev.to/nasrulhazim/deploying-without-docker-model-the-native-build-as-a-recipe-not-a-dockerfile-1eai",
+    "topic": "docker"
+  },
+  {
+    "title": "How to Build a Zero-Downtime CI/CD Pipeline with an AI Pair",
+    "desc": "<p>Part 4 of a 5-part series on using Claude AI to run, secure, and ship a real production server. The server is now secure (Parts 1\u20133). Tim",
+    "link": "https://dev.to/dineshstack/how-to-build-a-zero-downtime-cicd-pipeline-with-an-ai-pair-2b3c",
+    "topic": "general"
+  },
+  {
+    "title": "skillvet: scan AI agent skills before you run them",
+    "desc": "<h1>\n  \n  \n  skillvet: scan AI agent skills before you run them\n</h1>\n\n<p>You dropped a random <code>SKILL.md</code> folder into your agent ",
+    "link": "https://dev.to/zenovis2create/skillvet-scan-ai-agent-skills-before-you-run-them-29ii",
+    "topic": "general"
+  },
+  {
     "title": "Running the Claude CLI as a production backend when the API won't take your token",
     "desc": "<p>If you pay for a Claude Max subscription and try to reuse that OAuth token against<br />\n<code>api.anthropic.com</code>, you get a 404. N",
     "link": "https://dev.to/guestarai/running-the-claude-cli-as-a-production-backend-when-the-api-wont-take-your-token-2lh3",
@@ -10,41 +46,5 @@
     "desc": "<p>\ud83d\ude80 \ud835\udde6\ud835\uddee\ud835\uddf9\ud835\uddf2\ud835\ude00\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddf0\ud835\uddf2 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\udde2\ud835\uddfd\ud835\ude00 + \ud835\uddd6\ud835\uddfc\ud835\uddfd\ud835\uddee\ud835\uddf1\ud835\uddfc \ud835\uddd4\ud835\udddc = \ud835\udde6\ud835\uddfa\ud835\uddee\ud835\uddff\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\uddd7\ud835\uddf2\ud835\uddfd\ud835\uddf9\ud835\uddfc\ud835\ude06\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00!<br />\n\ud83c\udfaf Learn modern #SalesforceDevOps with Visualpath and gain practical experien",
     "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-ai-devops-course-salesforce-ai-training-138m",
     "topic": "general"
-  },
-  {
-    "title": "The 2026 Skill Most Website Owners Are Still Ignoring",
-    "desc": "<p>Hi everyone, I\u2019m the author, and in this blog, I want to tell you about a skill that I think is really useful in 2026: <strong>VPS optimi",
-    "link": "https://dev.to/arthur_luca/the-2026-skill-most-website-owners-are-still-ignoring-bfk",
-    "topic": "general"
-  },
-  {
-    "title": "Hubs Community Edition backup and restore: what npm run backup captures, what it misses, and how long recovery takes",
-    "desc": "<p>The bundled scripts in Hubs Community Edition back up two things: the PostgreSQL database and the Reticulum file store that holds uploade",
-    "link": "https://dev.to/john_182319291/hubs-community-edition-backup-and-restore-what-npm-run-backup-captures-what-it-misses-and-how-13of",
-    "topic": "general"
-  },
-  {
-    "title": "Fix Lambda S3 Trigger Error Handling Before It Loses Events",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/22/fix-lambda-s3-trigger-error-handling-before-it-loses-events\" rel=\"",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-lambda-s3-trigger-error-handling-before-it-loses-events-58b4",
-    "topic": "general"
-  },
-  {
-    "title": "AI Agents vs. Chatbots: Why Developers Need to Know the Difference in 2026",
-    "desc": "<p>Artificial Intelligence in 2026 is no longer just about generating text. Businesses are rapidly moving away from basic chatbots and adopt",
-    "link": "https://dev.to/omni_fys/ai-agents-vs-chatbots-why-developers-need-to-know-the-difference-in-2026-1b2a",
-    "topic": "general"
-  },
-  {
-    "title": "How to Fix HTTP 503 Service Unavailable Error (Complete 2026 Guide)",
-    "desc": "<p>You refresh your website. Instead of loading, you get a blank white page with four words: HTTP 503 Service Unavailable Error. No explanat",
-    "link": "https://dev.to/serveravatar/how-to-fix-http-503-service-unavailable-error-complete-2026-guide-mf3",
-    "topic": "general"
-  },
-  {
-    "title": "I got tired of juggling htop and lazydocker, so I built a unified Terminal Dashboard in Rust \ud83e\udd80",
-    "desc": "<p>Let me know if this sounds familiar:</p>\n\n<p>You're trying to debug why your local development stack is suddenly crawling. You open a ter",
-    "link": "https://dev.to/yash_ambaskar_c13cc5c5f10/nman-novitas-manager-10n5",
-    "topic": "docker"
   }
 ]
