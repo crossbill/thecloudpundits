@@ -1,5 +1,35 @@
 [
   {
+    "title": "Free Mental Readiness: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/free-mental-readiness-what-we-learned-building-random-tactical-timer-1d2b",
+    "topic": "general"
+  },
+  {
+    "title": "Your Scheduled Agent Says Success. It Did Nothing. Here's Why.",
+    "desc": "<p>A green status from a scheduled agent run tells you exactly one thing: the process started and exited without an infrastructure error. Th",
+    "link": "https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3",
+    "topic": "general"
+  },
+  {
+    "title": "Build an Error Taxonomy for Multi-Model AI API Gateways",
+    "desc": "<h1>\n  \n  \n  Build an Error Taxonomy for Multi-Model AI API Gateways\n</h1>\n\n<p>Most AI gateway failures are not mysterious. They become expe",
+    "link": "https://dev.to/aiwave/build-an-error-taxonomy-for-multi-model-ai-api-gateways-13",
+    "topic": "general"
+  },
+  {
+    "title": "PostgreSQL Performance Tuning: Fix Slow Queries in Production Without Downtime",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-04-09-postgresql-performance-tuning-production\" r",
+    "link": "https://dev.to/devtocash/postgresql-performance-tuning-fix-slow-queries-in-production-without-downtime-48a7",
+    "topic": "general"
+  },
+  {
+    "title": "Top 5 AI Agent Governance Platforms in 2026",
+    "desc": "<p>Most teams shopping for AI agent governance in 2026 end up buying a dashboard, and then find out six months later that their actual probl",
+    "link": "https://dev.to/swapnoneel123/top-5-ai-agent-governance-platforms-in-2026-4i3c",
+    "topic": "general"
+  },
+  {
     "title": "Branch naming conventions in Git",
     "desc": "<p>You join a new project. Clone the repo. Run <code>git branch -a</code> to get a feel for the landscape. This is what you find:<br />\n</p>",
     "link": "https://dev.to/fj_palacios/branch-naming-conventions-in-git-4jid",
@@ -16,35 +46,5 @@
     "desc": "<p>On August 20, Microsoft disclosed <strong>CVE-2026-69836</strong> \u2014 a remote code execution flaw in <strong>Entra ID</strong> (formerly A",
     "link": "https://dev.to/stanleya/cve-2026-69836-entra-id-cvss-100-rce-what-business-owners-should-know-lcc",
     "topic": "general"
-  },
-  {
-    "title": "Hermes Agent System Requirements \u2014 RAM, CPU, Disk, Python, OS 2026",
-    "desc": "<p>Hermes Agent runs comfortably on modest hardware for chat-only workloads, but the browser toolset and large model contexts push memory an",
-    "link": "https://dev.to/zackchew/hermes-agent-system-requirements-ram-cpu-disk-python-os-2026-56mp",
-    "topic": "general"
-  },
-  {
-    "title": "Top 13 Places to Buy Old edu email Accounts in the World 2027",
-    "desc": "<p>Buy Edu Emails</p>\n\n<p>\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Telegram \u2500\u2500 @Getsmmzoneofficial<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4WhatsApp \u2500\u2500 +1 (352) 828-5265<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Email \u2500\u2500 <a h",
-    "link": "https://dev.to/karelleclwzr/top-13-places-to-buy-old-edu-email-accounts-in-the-world-2027-1dfe",
-    "topic": "general"
-  },
-  {
-    "title": "A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline",
-    "desc": "<p>On July 30, 2026, JFrog's security team published something that should worry anyone whose build pipeline opens tickets automatically fro",
-    "link": "https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151",
-    "topic": "general"
-  },
-  {
-    "title": "Using Alibaba Cloud OSS for Cost-Effective Cloud Storage",
-    "desc": "<h1>\n  \n  \n  Using Alibaba Cloud OSS for Cost-Effective Cloud Storage\n</h1>\n\n<p><strong>Object Storage Service (OSS)</strong> is Alibaba Clo",
-    "link": "https://dev.to/fan_li_ee7d84c6203253d041/using-alibaba-cloud-oss-for-cost-effective-cloud-storage-5bo6",
-    "topic": "general"
-  },
-  {
-    "title": "AWS IAM role manager shipped on 12 August 2026 attaching PowerUserAccess to four of six consoles",
-    "desc": "<h1>\n  \n  \n  AWS IAM role manager shipped on 12 August 2026 attaching PowerUserAccess to four of six consoles\n</h1>\n\n<p><strong>Summary.</st",
-    "link": "https://dev.to/mr_manushukla/aws-iam-role-manager-shipped-on-12-august-2026-attaching-poweruseraccess-to-four-of-six-consoles-3agh",
-    "topic": "aws"
   }
 ]
