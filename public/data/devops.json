@@ -1,50 +1,50 @@
 [
   {
-    "title": "Free Mental Readiness: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/free-mental-readiness-what-we-learned-building-random-tactical-timer-1d2b",
+    "title": "Stand Up an Agent Decision Ledger on Free Infrastructure: A Verified Walkthrough",
+    "desc": "<p>Your agent decided something at 09:14. By 09:16 it forgot. It asked the model the same question again. You paid twice for the same answer",
+    "link": "https://dev.to/odd_background_328/stand-up-an-agent-decision-ledger-on-free-infrastructure-a-verified-walkthrough-d1e",
     "topic": "general"
   },
   {
-    "title": "Your Scheduled Agent Says Success. It Did Nothing. Here's Why.",
-    "desc": "<p>A green status from a scheduled agent run tells you exactly one thing: the process started and exited without an infrastructure error. Th",
-    "link": "https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3",
+    "title": "agent handoffs need contracts, not vibes",
+    "desc": "<p>A2A joining the Agentic AI Foundation is one of those announcements that can look boring if you only read the protocol names.</p>\n\n<p>Ano",
+    "link": "https://dev.to/pvgomes/agent-handoffs-need-contracts-not-vibes-2l8h",
     "topic": "general"
   },
   {
-    "title": "Build an Error Taxonomy for Multi-Model AI API Gateways",
-    "desc": "<h1>\n  \n  \n  Build an Error Taxonomy for Multi-Model AI API Gateways\n</h1>\n\n<p>Most AI gateway failures are not mysterious. They become expe",
-    "link": "https://dev.to/aiwave/build-an-error-taxonomy-for-multi-model-ai-api-gateways-13",
+    "title": "Python os and shutil: File Operations Masterclass",
+    "desc": "<h1>\n  \n  \n  Python os and shutil: File Operations Masterclass\n</h1>\n\n<p>tags: python, devops, tutorial, beginners</p>\n\n\n\n\n<p>tags: python, ",
+    "link": "https://dev.to/qingluan/python-os-and-shutil-file-operations-masterclass-1kg5",
     "topic": "general"
   },
   {
-    "title": "PostgreSQL Performance Tuning: Fix Slow Queries in Production Without Downtime",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-04-09-postgresql-performance-tuning-production\" r",
-    "link": "https://dev.to/devtocash/postgresql-performance-tuning-fix-slow-queries-in-production-without-downtime-48a7",
+    "title": "When did you last check who is actually calling your API?",
+    "desc": "<p>Here is a question worth being uncomfortable about: if one of your API keys leaked right now, how would you find out?</p>\n\n<p>Not \"how wo",
+    "link": "https://dev.to/layercall/when-did-you-last-check-who-is-actually-calling-your-api-im1",
     "topic": "general"
   },
   {
-    "title": "Top 5 AI Agent Governance Platforms in 2026",
-    "desc": "<p>Most teams shopping for AI agent governance in 2026 end up buying a dashboard, and then find out six months later that their actual probl",
-    "link": "https://dev.to/swapnoneel123/top-5-ai-agent-governance-platforms-in-2026-4i3c",
+    "title": "Your AI Feature's Staging Environment Should Be a Free Server",
+    "desc": "<p>Every week there is a new agent framework, a new reasoning model, and a new benchmark that claims to settle the argument forever. Last mo",
+    "link": "https://dev.to/kongkong1/your-ai-features-staging-environment-should-be-a-free-server-13bm",
     "topic": "general"
   },
   {
-    "title": "Branch naming conventions in Git",
-    "desc": "<p>You join a new project. Clone the repo. Run <code>git branch -a</code> to get a feel for the landscape. This is what you find:<br />\n</p>",
-    "link": "https://dev.to/fj_palacios/branch-naming-conventions-in-git-4jid",
+    "title": "From Dev to Ops Meetup!\ud83d\ude80",
+    "desc": "<p>\ud83d\ude80 A Great Learning Experience at the From Dev to Ops Meetup!</p>\n\n<p>Today, I had the opportunity to attend the From Dev to Ops Meetup, c",
+    "link": "https://dev.to/kamalesh_ar_6252544786997/from-dev-to-ops-meetup-57l9",
     "topic": "general"
   },
   {
-    "title": "The Help Desk Is Becoming The New Initial Access Broker",
-    "desc": "<p>Help desk social engineering doesn't defeat the identity platform, MFA, or privileged access controls \u2014 it bypasses the moment those syst",
-    "link": "https://dev.to/ntctech/the-help-desk-is-becoming-the-new-initial-access-broker-5h6k",
+    "title": "Locked out of your VPS by ufw? Get back in without a reinstall",
+    "desc": "<p>There's a rite of passage for anyone new to running their own server: you decide to set up a firewall, you type a few ufw commands, you h",
+    "link": "https://dev.to/eqvps/locked-out-of-your-vps-by-ufw-get-back-in-without-a-reinstall-3i3",
     "topic": "general"
   },
   {
-    "title": "CVE-2026-69836: Entra ID CVSS 10.0 RCE \u2014 What Business Owners Should Know",
-    "desc": "<p>On August 20, Microsoft disclosed <strong>CVE-2026-69836</strong> \u2014 a remote code execution flaw in <strong>Entra ID</strong> (formerly A",
-    "link": "https://dev.to/stanleya/cve-2026-69836-entra-id-cvss-100-rce-what-business-owners-should-know-lcc",
+    "title": "Expand and Contract: Changing a Payments Column Without Downtime",
+    "desc": "<p>Changing the shape of a payments table is trivial in a migration file and hard in production. The rows are being written to while the mig",
+    "link": "https://dev.to/shipmindlabs/expand-and-contract-changing-a-payments-column-without-downtime-3ll1",
     "topic": "general"
   }
 ]
