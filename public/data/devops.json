@@ -1,50 +1,50 @@
 [
   {
-    "title": "Trend: Agenten sind bei einem Red-Team-Test aus ihrer Sandbox ausge",
-    "desc": "<h2>\n  \n  \n  Ein Agent bricht aus. Was das wirklich bedeutet.\n</h2>\n\n<p>Vor einigen Monaten passierte etwas, das mich mehr besch\u00e4ftigt hat a",
-    "link": "https://dev.to/frederikvonderheyden/trend-agenten-sind-bei-einem-red-team-test-aus-ihrer-sandbox-ausge-461p",
+    "title": "I Was Called \u201cAspiring\u201d \u2014 Then I Realized I Had Already Started Becoming",
+    "desc": "<p>I Was Called \u201cAspiring\u201d \u2014 Then I Realized I Had Already Started Becoming<br />\nA small comment on LinkedIn made me question how I see mys",
+    "link": "https://dev.to/off_limit001/i-was-called-aspiring-then-i-realized-i-had-already-started-becoming-2nah",
     "topic": "general"
   },
   {
-    "title": "Das System, das sich selbst verbessert",
-    "desc": "<h2>\n  \n  \n  Was passiert, wenn KI-Systeme Erfahrung speichern\n</h2>\n\n<p>Vor vier Monaten hat mein System einen Fehler gemacht. Ein Agent ha",
-    "link": "https://dev.to/frederikvonderheyden/das-system-das-sich-selbst-verbessert-2c72",
+    "title": "From Red to Green: Building a Jenkins Pipeline That Actually Ships Code",
+    "desc": "<p>There is a particular kind of satisfaction that comes from watching a pipeline go fully green after an entire day of failures. This is th",
+    "link": "https://dev.to/awter12/from-red-to-green-building-a-jenkins-pipeline-that-actually-ships-code-5748",
     "topic": "general"
   },
   {
-    "title": "85 Container. 1 Entwickler.",
-    "desc": "<h2>\n  \n  \n  85 Container, 24 Datenbanken, 232 Cron-Jobs \u2014 und ein Gr\u00fcnder\n</h2>\n\n<p>Wenn ich jemandem sage, dass ich alleine arbeite, kommt",
-    "link": "https://dev.to/frederikvonderheyden/85-container-1-entwickler-13g6",
-    "topic": "docker"
-  },
-  {
-    "title": "How to Set Up GoDaddy Microsoft 365 SPF, DKIM & DMARC",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Free Tool Notice:</strong> Validate your domain's live SPF, DKIM (2048-bit), and DMARC alignment records in sub-50",
-    "link": "https://dev.to/rajatfulwa/how-to-set-up-godaddy-microsoft-365-spf-dkim-dmarc-1bnl",
-    "topic": "azure"
-  },
-  {
-    "title": "How to Fix SPF PermError: Too Many DNS Lookups (RFC 7208)",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Free Tool Notice:</strong> Validate your domain's live SPF, DKIM (2048-bit), and DMARC alignment records in sub-50",
-    "link": "https://dev.to/rajatfulwa/how-to-fix-spf-permerror-too-many-dns-lookups-rfc-7208-3ljk",
+    "title": "The integrity check you already have skips your paid extensions",
+    "desc": "<p>WP-CLI ships a real integrity check. It compares installed plugin files against the checksums published by wordpress.org:<br />\n</p>\n\n<di",
+    "link": "https://dev.to/cifi/the-integrity-check-you-already-have-skips-your-paid-extensions-21ff",
     "topic": "general"
   },
   {
-    "title": "How to Configure Full Parallel Execution in TestNG via Maven (with Dynamic Thread Control)",
-    "desc": "<p>Running automation test suites sequentially can quickly become a bottleneck in CI/CD pipelines. To optimize execution efficiency, you can",
-    "link": "https://dev.to/shell_qa/how-to-configure-full-parallel-execution-in-testng-via-maven-with-dynamic-thread-control-o86",
+    "title": "Implementing Zero-Trust Network Access (ZTNA) Concepts in Code",
+    "desc": "<p>Traditional perimeter security operates on a dangerous assumption: if you're inside the network, you're trusted. This model worked when \"",
+    "link": "https://dev.to/ayinedjimi-consultants/implementing-zero-trust-network-access-ztna-concepts-in-code-2cbf",
     "topic": "general"
   },
   {
-    "title": "Put Your Docker Images on a Diet with Alpine Linux (2015)",
-    "desc": "<p><em>Archival repost \u2014 originally published on my old blog on June 21, 2015, back when Alpine was still a dark-horse pick rather than the ",
-    "link": "https://dev.to/hamdi_laadhari/put-your-docker-images-on-a-diet-with-alpine-linux-2015-jg",
-    "topic": "docker"
+    "title": "Cancer Screening Tests: A Complete Guide to Early Detection and Prevention",
+    "desc": "<p>When it comes to human health, few phrases carry as much weight as \"early detection saves lives.\" It is a statement repeated in doctor\u2019s ",
+    "link": "https://dev.to/reathal/cancer-screening-tests-a-complete-guide-to-early-detection-and-prevention-2ogk",
+    "topic": "general"
   },
   {
-    "title": "How to Configure DMARC & DKIM for Microsoft 365 (Office 365) & Exchange Online",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Free Tool Notice:</strong> Validate your domain's live SPF, DKIM (2048-bit), and DMARC alignment records in sub-50",
-    "link": "https://dev.to/rajatfulwa/how-to-configure-dmarc-dkim-for-microsoft-365-office-365-exchange-online-395g",
-    "topic": "azure"
+    "title": "AWS Portfolio Projects That Actually Teach Real Infrastructure",
+    "desc": "<p>Some AWS portfolio projects look good in a README but do not teach much about<br />\nproduction infrastructure.</p>\n\n<p>The better project",
+    "link": "https://dev.to/krembo_vitman_50c3eac5aa6/aws-portfolio-projects-that-actually-teach-real-infrastructure-n2d",
+    "topic": "aws"
+  },
+  {
+    "title": "GetKhojo: Security and VoIP Testing Tools Built for Indian Businesses",
+    "desc": "<p>GetKhojo is an Indian security and infrastructure tooling company, founded in 2026, that builds three products on one shared engine: <str",
+    "link": "https://dev.to/getkhojo/getkhojo-security-and-voip-testing-tools-built-for-indian-businesses-3p91",
+    "topic": "secops"
+  },
+  {
+    "title": "Teaching a Container to Heal Itself: A Real Kubernetes Deployment Story",
+    "desc": "<p>There is a moment in every Kubernetes journey where the concept stops being theoretical. It happens the instant you delete a running pod ",
+    "link": "https://dev.to/awter12/teaching-a-container-to-heal-itself-a-real-kubernetes-deployment-story-1c7f",
+    "topic": "kubernetes"
   }
 ]
