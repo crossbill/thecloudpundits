@@ -1,50 +1,50 @@
 [
   {
+    "title": "How to Build an iOS App on Windows in 2026. Let Xcode Cloud Be Your Mac",
+    "desc": "<blockquote>\n<p>A practical Windows-first iOS workflow using GitHub, Vercel, Neon, Capacitor, App Store Connect CLI, Xcode Cloud and TestFli",
+    "link": "https://dev.to/shovan/build-ios-app-on-windows-xcode-cloud-2h09",
+    "topic": "general"
+  },
+  {
+    "title": "Stop chasing fads. Operate Claude like a startup founder.",
+    "desc": "<p>I am running an AI-native startup. Early on though, I would spend so much time staying ahead of every new AI hot take that I lost focus o",
+    "link": "https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Merged Is Not Shipped: Why a Year-Old Fix Never Reached You",
+    "desc": "<p>There is a version of a bug that is more frustrating than an unfixed one. It is a bug that was fixed, correctly, and then sat behind glas",
+    "link": "https://dev.to/harrisonsec/merged-is-not-shipped-why-a-year-old-fix-never-reached-you-1nda",
+    "topic": "general"
+  },
+  {
+    "title": "I made my test suite flaky on purpose",
+    "desc": "<p>I am building a dashboard for observing test suite health. It shows how often tests pass, which ones are unstable, and what's slowing the",
+    "link": "https://dev.to/anushka_srivastava_6ba849/i-made-my-test-suite-flaky-on-purpose-5c6",
+    "topic": "general"
+  },
+  {
+    "title": "Free IP Stresser & Booter Tools 2026: What Actually Works",
+    "desc": "<p>Every week, thousands of people search for a <strong>free IP stresser</strong> or a <strong>free booter panel</strong> that actually work",
+    "link": "https://dev.to/zerodawnipstress/free-ip-stresser-booter-tools-2026-what-actually-works-1bo0",
+    "topic": "general"
+  },
+  {
+    "title": "The Free Server's Clock Was 47 Seconds Fast, and Every Token Expired Early",
+    "desc": "<p>It started at 2:14 AM with a cron job that had run cleanly for over a week. The job was supposed to call a free model endpoint from a fre",
+    "link": "https://dev.to/codepy_1473/the-free-servers-clock-was-47-seconds-fast-and-every-token-expired-early-1l5b",
+    "topic": "general"
+  },
+  {
+    "title": "A Month of Building Real Infrastructure as Code \u2014 Terraform, Packer, and Ansible",
+    "desc": "<h1>\n  \n  \n  A Month of Building Real Infrastructure as Code \u2014 Terraform, Packer, and Ansible, No Shortcuts\n</h1>\n\n<p>At the start of this m",
+    "link": "https://dev.to/tanayjdev/a-month-of-building-real-infrastructure-as-code-terraform-packer-and-ansible-2li0",
+    "topic": "terraform"
+  },
+  {
     "title": "Server Security Audit Checklist: What Actually Gets Checked",
     "desc": "<p>A server security audit is a systematic review of a server's exposure and configuration to find where an attacker could get in and what t",
     "link": "https://dev.to/mecanik-dev/server-security-audit-checklist-what-actually-gets-checked-4oko",
-    "topic": "secops"
-  },
-  {
-    "title": "Azure App Service: 4-Step Guide to Deploy and Secure Web Apps",
-    "desc": "<p>Deploying web applications in production requires security, automated scaling, and zero-downtime release pipelines. <strong>Azure App Ser",
-    "link": "https://dev.to/devstackhubtech/azure-app-service-4-step-guide-to-deploy-and-secure-web-apps-2b7c",
-    "topic": "azure"
-  },
-  {
-    "title": "What Are DevOps Consulting Services? Explained!",
-    "desc": "<p>Modern businesses need to release software quickly, maintain reliable applications, and keep their infrastructure secure. As applications",
-    "link": "https://dev.to/edwardsinclair/what-are-devops-consulting-services-explained-2ckm",
-    "topic": "general"
-  },
-  {
-    "title": "EKS Rollbacks Need Signal Routing",
-    "desc": "<p>Rollback automation is usually treated like a deployment concern, but the alert path matters just as much. In one EKS environment I worke",
-    "link": "https://dev.to/jasonmills94/eks-rollbacks-need-signal-routing-3ccg",
-    "topic": "general"
-  },
-  {
-    "title": "Ditching Airtable: Complete Guide to Self-Hosted No-Code Databases (NocoDB vs Baserow vs Grist)",
-    "desc": "<p>Airtable's enterprise pricing ($20\u2013$45/user/month) and strict 50k\u2013100k record limits per base make scaling internal operations painfully ",
-    "link": "https://dev.to/enfernandes/ditching-airtable-complete-guide-to-self-hosted-no-code-databases-nocodb-vs-baserow-vs-grist-3ibj",
-    "topic": "general"
-  },
-  {
-    "title": "Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate",
-    "desc": "<h1>\n  \n  \n  Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate\n</h1>\n\n<p>Most teams start with a direct OpenAI (or Anthropic)",
-    "link": "https://dev.to/victor_garca_a9d07ddc486/agent-gateway-in-60-seconds-governed-llm-traffic-with-trustgate-2dac",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted Cloud Storage in 2026: Nextcloud vs OwnCloud Infinite Scale vs Seafile vs FileBrowser",
-    "desc": "<p>Public cloud storage pricing keeps creeping up, accompanied by aggressive AI training clauses and telemetry scanning. For engineering tea",
-    "link": "https://dev.to/enfernandes/self-hosted-cloud-storage-in-2026-nextcloud-vs-owncloud-infinite-scale-vs-seafile-vs-filebrowser-175n",
-    "topic": "general"
-  },
-  {
-    "title": "Your Developer Toolchain Is a Supply Chain Attack Surface \u2014 Here's How I Hardened Mine",
-    "desc": "<p><em>A practical guide to applying SLSA, Sigstore, and SBOM-based verification to the tools on your local machine.</em></p>\n\n\n\n\n<h2>\n  \n  ",
-    "link": "https://dev.to/prasannavarshan/your-developer-toolchain-is-a-supply-chain-attack-surface-heres-how-i-hardened-mine-4ghm",
     "topic": "secops"
   }
 ]
