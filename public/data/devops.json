@@ -1,50 +1,50 @@
 [
   {
-    "title": "Stand Up an Agent Decision Ledger on Free Infrastructure: A Verified Walkthrough",
-    "desc": "<p>Your agent decided something at 09:14. By 09:16 it forgot. It asked the model the same question again. You paid twice for the same answer",
-    "link": "https://dev.to/odd_background_328/stand-up-an-agent-decision-ledger-on-free-infrastructure-a-verified-walkthrough-d1e",
+    "title": "Case Study: An Incident Postmortem Generator on a $0 Budget",
+    "desc": "<p>Every week, another article promises that AI agents will fix your operations. Most of them describe platforms with enterprise pricing. Th",
+    "link": "https://dev.to/codecpp_5026/case-study-an-incident-postmortem-generator-on-a-0-budget-57d0",
+    "topic": "secops"
+  },
+  {
+    "title": "\ud83d\udc4b Introducing Myself to the Community",
+    "desc": "<p><strong>\ud83d\ude80 My Developer Journey Starts Here</strong></p>\n\n<p>Hey everyone! \ud83d\udc4b</p>\n\n<p>I\u2019m Amani Jordan dev, a front-end developer who is pa",
+    "link": "https://dev.to/amanijordandev45/introducing-myself-to-the-community-2ll5",
     "topic": "general"
   },
   {
-    "title": "agent handoffs need contracts, not vibes",
-    "desc": "<p>A2A joining the Agentic AI Foundation is one of those announcements that can look boring if you only read the protocol names.</p>\n\n<p>Ano",
-    "link": "https://dev.to/pvgomes/agent-handoffs-need-contracts-not-vibes-2l8h",
+    "title": "Your PRs Deserve a Second Reviewer That Costs Nothing: A Webhook Architecture",
+    "desc": "<p>Every PR review cycle has the same shape: a human waits, a human reads, a human points out the same three categories of issues. What if t",
+    "link": "https://dev.to/hackjs_7468/your-prs-deserve-a-second-reviewer-that-costs-nothing-a-webhook-architecture-45af",
     "topic": "general"
   },
   {
-    "title": "Python os and shutil: File Operations Masterclass",
-    "desc": "<h1>\n  \n  \n  Python os and shutil: File Operations Masterclass\n</h1>\n\n<p>tags: python, devops, tutorial, beginners</p>\n\n\n\n\n<p>tags: python, ",
-    "link": "https://dev.to/qingluan/python-os-and-shutil-file-operations-masterclass-1kg5",
+    "title": "DNS, HTTP/1.1, HTTP/2, HTTP/3, CORS \u2014 A Beginner's Deep Dive",
+    "desc": "<h2>\n  \n  \n  What is DNS and why we need it?\n</h2>\n\n<p>DNS stand for Domain Name System, and it's main job is to translate domain name into ",
+    "link": "https://dev.to/dharam_in/dns-http11-http2-http3-cors-a-beginners-deep-dive-28h6",
     "topic": "general"
   },
   {
-    "title": "When did you last check who is actually calling your API?",
-    "desc": "<p>Here is a question worth being uncomfortable about: if one of your API keys leaked right now, how would you find out?</p>\n\n<p>Not \"how wo",
-    "link": "https://dev.to/layercall/when-did-you-last-check-who-is-actually-calling-your-api-im1",
+    "title": "Mutation Testing on a Free Server: Do AI-Generated Tests Actually Kill Bugs?",
+    "desc": "<p>A test suite passed with 94% coverage. The bug still shipped. Coverage numbers lied. The missing piece was mutation testing. It measures ",
+    "link": "https://dev.to/codejs_6920/mutation-testing-on-a-free-server-do-ai-generated-tests-actually-kill-bugs-3218",
     "topic": "general"
   },
   {
-    "title": "Your AI Feature's Staging Environment Should Be a Free Server",
-    "desc": "<p>Every week there is a new agent framework, a new reasoning model, and a new benchmark that claims to settle the argument forever. Last mo",
-    "link": "https://dev.to/kongkong1/your-ai-features-staging-environment-should-be-a-free-server-13bm",
+    "title": "The Case of the 3 a.m. Outage Nobody Saw",
+    "desc": "<p>A small server ran three small services. A status page, an RSS digest fed by cron, and an API that one mobile app depended on. Nothing cr",
+    "link": "https://dev.to/applab_8831/the-case-of-the-3-am-outage-nobody-saw-1plo",
     "topic": "general"
   },
   {
-    "title": "From Dev to Ops Meetup!\ud83d\ude80",
-    "desc": "<p>\ud83d\ude80 A Great Learning Experience at the From Dev to Ops Meetup!</p>\n\n<p>Today, I had the opportunity to attend the From Dev to Ops Meetup, c",
-    "link": "https://dev.to/kamalesh_ar_6252544786997/from-dev-to-ops-meetup-57l9",
+    "title": "The Quota Cliff: A Failover Pattern for When Your Free Agent Server Runs Dry",
+    "desc": "<h2>\n  \n  \n  The Saturday that ended on Sunday\n</h2>\n\n<p>A small team \u2014 three developers, one shared codebase \u2014 spent a weekend building a p",
+    "link": "https://dev.to/appjs_7055/the-quota-cliff-a-failover-pattern-for-when-your-free-agent-server-runs-dry-5c4i",
     "topic": "general"
   },
   {
-    "title": "Locked out of your VPS by ufw? Get back in without a reinstall",
-    "desc": "<p>There's a rite of passage for anyone new to running their own server: you decide to set up a firewall, you type a few ufw commands, you h",
-    "link": "https://dev.to/eqvps/locked-out-of-your-vps-by-ufw-get-back-in-without-a-reinstall-3i3",
-    "topic": "general"
-  },
-  {
-    "title": "Expand and Contract: Changing a Payments Column Without Downtime",
-    "desc": "<p>Changing the shape of a payments table is trivial in a migration file and hard in production. The rows are being written to while the mig",
-    "link": "https://dev.to/shipmindlabs/expand-and-contract-changing-a-payments-column-without-downtime-3ll1",
+    "title": "Quota Exhaustion Date: A Capacity Calculator for Free Model Quotas",
+    "desc": "<p>A team deploys on a free tier. Day one, everything works. Day twelve, the quota is gone. Users see errors. The team checks the dashboard.",
+    "link": "https://dev.to/hackjs_8688/quota-exhaustion-date-a-capacity-calculator-for-free-model-quotas-2khk",
     "topic": "general"
   }
 ]
