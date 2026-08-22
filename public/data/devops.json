@@ -1,5 +1,29 @@
 [
   {
+    "title": "Zero-Downtime Deployments in Laravel",
+    "desc": "<h2>The Unacceptable Cost of Maintenance Mode</h2>\n\n<p>In the early days of a startup, deploying new code to a Laravel application is a rela",
+    "link": "https://dev.to/iprajapatiparesh/zero-downtime-deployments-in-laravel-7bi",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Log Aggregation System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Log Aggregation System with Python\n</h1>\n\n<p>tags: python, devops, logging, tutorial</p>\n\n\n\n\n<p>tags: python, redis, ar",
+    "link": "https://dev.to/qingluan/build-a-log-aggregation-system-with-python-cea",
+    "topic": "general"
+  },
+  {
+    "title": "78ms Is All Untrusted Agent Code Needs: Sandboxes Compared for 2026",
+    "desc": "<p>Letting a model write code is now routine. Letting that code run on the machine holding your credentials is the part nobody measured unti",
+    "link": "https://dev.to/moksh/78ms-is-all-untrusted-agent-code-needs-sandboxes-compared-for-2026-m7o",
+    "topic": "general"
+  },
+  {
+    "title": "Fine-Grained Authorization in 2026: OpenFGA, SpiceDB, Cerbos and Cedar Compared",
+    "desc": "<p>The <code>role</code> column works. It works for a year, sometimes two. Then a customer wants their contractor to open one folder without",
+    "link": "https://dev.to/moksh/fine-grained-authorization-in-2026-openfga-spicedb-cerbos-and-cedar-compared-4l04",
+    "topic": "general"
+  },
+  {
     "title": "Kubernetes Basics for DevOps Engineers",
     "desc": "<p><strong>Introduction:</strong><br />\nKubernetes can feel overwhelming when you first hear terms like Pods, Services, and Deployments thro",
     "link": "https://dev.to/tejas_kp/kubernetes-basics-for-devops-engineers-3ml9",
@@ -21,30 +45,6 @@
     "title": "Differential Fuzzing: The AI Patch Gate That Doesn't Trust Your Tests",
     "desc": "<p>AI patches usually break behavior that your test suite never exercises, because tests encode the assumptions you already hold about the s",
     "link": "https://dev.to/github_7727/differential-fuzzing-the-ai-patch-gate-that-doesnt-trust-your-tests-4p7a",
-    "topic": "general"
-  },
-  {
-    "title": "4 Non-obvious learnings from working with alerts",
-    "desc": "<p>Alerting is a details game. Nobody gets paged by their intent \u2014 they get paged by the exact query they wrote. If you want to sleep throug",
-    "link": "https://dev.to/harishteens/4-non-obvious-learnings-from-working-with-alerts-ba5",
-    "topic": "general"
-  },
-  {
-    "title": "Secure Your Phone Before Crossing the Border",
-    "desc": "<p>You\u2019re about to board a flight to a conference in Europe. Your phone holds months of client code, API keys, and personal notes. When the ",
-    "link": "https://dev.to/robust_true_try/secure-your-phone-before-crossing-the-border-5738",
-    "topic": "general"
-  },
-  {
-    "title": "Cursor Origin, \u0e41\u0e1e\u0e25\u0e15\u0e1f\u0e2d\u0e23\u0e4c\u0e21\u0e42\u0e2e\u0e2a\u0e15\u0e4c\u0e42\u0e04\u0e49\u0e14\u0e17\u0e35\u0e48\u0e17\u0e49\u0e32\u0e0a\u0e19 GitHub \u0e41\u0e25\u0e30\u0e04\u0e33\u0e16\u0e32\u0e21 '\u0e43\u0e04\u0e23\u0e16\u0e37\u0e2d source code \u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13'",
-    "desc": "<h1>\n  \n  \n  Cursor Origin, \u0e41\u0e1e\u0e25\u0e15\u0e1f\u0e2d\u0e23\u0e4c\u0e21\u0e42\u0e2e\u0e2a\u0e15\u0e4c\u0e42\u0e04\u0e49\u0e14\u0e17\u0e35\u0e48\u0e17\u0e49\u0e32\u0e0a\u0e19 GitHub \u0e41\u0e25\u0e30\u0e04\u0e33\u0e16\u0e32\u0e21 \"\u0e43\u0e04\u0e23\u0e16\u0e37\u0e2d source code \u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\"\n</h1>\n\n<p><em>\u0e42\u0e14\u0e22 Nokka (\u0e19\u0e01-\u0e01\u0e32) | 22 \u0e2a\u0e34\u0e07\u0e2b",
-    "link": "https://dev.to/sarantoon/cursor-origin-aephltfrmohstokhdthiithaachn-github-aelakhamthaam-aikhrthuue-source-code-khngkhun-80i",
-    "topic": "general"
-  },
-  {
-    "title": "Shipping a Python desktop app to real users: everything that breaks after PyInstaller succeeds",
-    "desc": "<p>I built a desktop app in Python (PySide6 + MediaPipe + ONNX, ~33k lines) and shipped it to real beta users on macOS and Windows. Building",
-    "link": "https://dev.to/shipyourpythonapp/shipping-a-python-desktop-app-to-real-users-everything-that-breaks-after-pyinstaller-succeeds-118f",
     "topic": "general"
   }
 ]
