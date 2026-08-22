@@ -1,5 +1,35 @@
 [
   {
+    "title": "Self-Hosted AI Workflows & Automation in 2026: n8n vs Activepieces vs Dify vs Flowise (Full Production Docker Guide)",
+    "desc": "<h1>\n  \n  \n  Self-Hosted AI Workflows & Automation in 2026: n8n vs Activepieces vs Dify vs Flowise\n</h1>\n\n<p>Cloud automation platforms like",
+    "link": "https://dev.to/enfernandes/self-hosted-ai-workflows-automation-in-2026-n8n-vs-activepieces-vs-dify-vs-flowise-full-39og",
+    "topic": "docker"
+  },
+  {
+    "title": "Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability",
+    "desc": "<p>Thanks for taking the time to read. If you\u2019ve worked on AI platforms, cloud infrastructure, or platform engineering, I\u2019d love to hear how",
+    "link": "https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Console-to-Code reached 32 AWS services on 17 August 2026, and the guide contradicts the cross-tab claim",
+    "desc": "<h1>\n  \n  \n  Console-to-Code reached 32 AWS services on 17 August 2026, and the guide contradicts the cross-tab claim\n</h1>\n\n<p><strong>Summ",
+    "link": "https://dev.to/mr_manushukla/console-to-code-reached-32-aws-services-on-17-august-2026-and-the-guide-contradicts-the-cross-tab-2g0o",
+    "topic": "aws"
+  },
+  {
+    "title": "From a Local Docker App to AWS EKS: My DevOps Project",
+    "desc": "<p>I recently worked on a DevOps project with a simple starting point: an application that worked perfectly fine on my local machine.</p>\n\n<",
+    "link": "https://dev.to/amira_abidi/from-a-local-docker-app-to-aws-eks-my-devops-project-3om5",
+    "topic": "aws"
+  },
+  {
+    "title": "The DevOps Roadmap I Wish Someone Had Handed Me on Day One",
+    "desc": "<p>I'm a software engineering student, about 16 months out from graduation, and somewhere in the last year \"learn DevOps\" quietly turned fro",
+    "link": "https://dev.to/dehemi_fabio/the-devops-roadmap-i-wish-someone-had-handed-me-on-day-one-332m",
+    "topic": "general"
+  },
+  {
     "title": "I Was Called \u201cAspiring\u201d \u2014 Then I Realized I Had Already Started Becoming",
     "desc": "<p>I Was Called \u201cAspiring\u201d \u2014 Then I Realized I Had Already Started Becoming<br />\nA small comment on LinkedIn made me question how I see mys",
     "link": "https://dev.to/off_limit001/i-was-called-aspiring-then-i-realized-i-had-already-started-becoming-2nah",
@@ -16,35 +46,5 @@
     "desc": "<p>WP-CLI ships a real integrity check. It compares installed plugin files against the checksums published by wordpress.org:<br />\n</p>\n\n<di",
     "link": "https://dev.to/cifi/the-integrity-check-you-already-have-skips-your-paid-extensions-21ff",
     "topic": "general"
-  },
-  {
-    "title": "Implementing Zero-Trust Network Access (ZTNA) Concepts in Code",
-    "desc": "<p>Traditional perimeter security operates on a dangerous assumption: if you're inside the network, you're trusted. This model worked when \"",
-    "link": "https://dev.to/ayinedjimi-consultants/implementing-zero-trust-network-access-ztna-concepts-in-code-2cbf",
-    "topic": "general"
-  },
-  {
-    "title": "Cancer Screening Tests: A Complete Guide to Early Detection and Prevention",
-    "desc": "<p>When it comes to human health, few phrases carry as much weight as \"early detection saves lives.\" It is a statement repeated in doctor\u2019s ",
-    "link": "https://dev.to/reathal/cancer-screening-tests-a-complete-guide-to-early-detection-and-prevention-2ogk",
-    "topic": "general"
-  },
-  {
-    "title": "AWS Portfolio Projects That Actually Teach Real Infrastructure",
-    "desc": "<p>Some AWS portfolio projects look good in a README but do not teach much about<br />\nproduction infrastructure.</p>\n\n<p>The better project",
-    "link": "https://dev.to/krembo_vitman_50c3eac5aa6/aws-portfolio-projects-that-actually-teach-real-infrastructure-n2d",
-    "topic": "aws"
-  },
-  {
-    "title": "GetKhojo: Security and VoIP Testing Tools Built for Indian Businesses",
-    "desc": "<p>GetKhojo is an Indian security and infrastructure tooling company, founded in 2026, that builds three products on one shared engine: <str",
-    "link": "https://dev.to/getkhojo/getkhojo-security-and-voip-testing-tools-built-for-indian-businesses-3p91",
-    "topic": "secops"
-  },
-  {
-    "title": "Teaching a Container to Heal Itself: A Real Kubernetes Deployment Story",
-    "desc": "<p>There is a moment in every Kubernetes journey where the concept stops being theoretical. It happens the instant you delete a running pod ",
-    "link": "https://dev.to/awter12/teaching-a-container-to-heal-itself-a-real-kubernetes-deployment-story-1c7f",
-    "topic": "kubernetes"
   }
 ]
