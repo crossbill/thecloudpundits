@@ -1,50 +1,50 @@
 [
   {
-    "title": "Self-Hosted AI Workflows & Automation in 2026: n8n vs Activepieces vs Dify vs Flowise (Full Production Docker Guide)",
-    "desc": "<h1>\n  \n  \n  Self-Hosted AI Workflows & Automation in 2026: n8n vs Activepieces vs Dify vs Flowise\n</h1>\n\n<p>Cloud automation platforms like",
-    "link": "https://dev.to/enfernandes/self-hosted-ai-workflows-automation-in-2026-n8n-vs-activepieces-vs-dify-vs-flowise-full-39og",
-    "topic": "docker"
+    "title": "Branch naming conventions in Git",
+    "desc": "<p>You join a new project. Clone the repo. Run <code>git branch -a</code> to get a feel for the landscape. This is what you find:<br />\n</p>",
+    "link": "https://dev.to/fj_palacios/branch-naming-conventions-in-git-4jid",
+    "topic": "general"
   },
   {
-    "title": "Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability",
-    "desc": "<p>Thanks for taking the time to read. If you\u2019ve worked on AI platforms, cloud infrastructure, or platform engineering, I\u2019d love to hear how",
-    "link": "https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732",
-    "topic": "kubernetes"
+    "title": "The Help Desk Is Becoming The New Initial Access Broker",
+    "desc": "<p>Help desk social engineering doesn't defeat the identity platform, MFA, or privileged access controls \u2014 it bypasses the moment those syst",
+    "link": "https://dev.to/ntctech/the-help-desk-is-becoming-the-new-initial-access-broker-5h6k",
+    "topic": "general"
   },
   {
-    "title": "Console-to-Code reached 32 AWS services on 17 August 2026, and the guide contradicts the cross-tab claim",
-    "desc": "<h1>\n  \n  \n  Console-to-Code reached 32 AWS services on 17 August 2026, and the guide contradicts the cross-tab claim\n</h1>\n\n<p><strong>Summ",
-    "link": "https://dev.to/mr_manushukla/console-to-code-reached-32-aws-services-on-17-august-2026-and-the-guide-contradicts-the-cross-tab-2g0o",
+    "title": "CVE-2026-69836: Entra ID CVSS 10.0 RCE \u2014 What Business Owners Should Know",
+    "desc": "<p>On August 20, Microsoft disclosed <strong>CVE-2026-69836</strong> \u2014 a remote code execution flaw in <strong>Entra ID</strong> (formerly A",
+    "link": "https://dev.to/stanleya/cve-2026-69836-entra-id-cvss-100-rce-what-business-owners-should-know-lcc",
+    "topic": "general"
+  },
+  {
+    "title": "Hermes Agent System Requirements \u2014 RAM, CPU, Disk, Python, OS 2026",
+    "desc": "<p>Hermes Agent runs comfortably on modest hardware for chat-only workloads, but the browser toolset and large model contexts push memory an",
+    "link": "https://dev.to/zackchew/hermes-agent-system-requirements-ram-cpu-disk-python-os-2026-56mp",
+    "topic": "general"
+  },
+  {
+    "title": "Top 13 Places to Buy Old edu email Accounts in the World 2027",
+    "desc": "<p>Buy Edu Emails</p>\n\n<p>\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Telegram \u2500\u2500 @Getsmmzoneofficial<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4WhatsApp \u2500\u2500 +1 (352) 828-5265<br />\n\u25c8{{\ud83e\udd8b\ud83e\udd8b}}\u25c8\u27a4Email \u2500\u2500 <a h",
+    "link": "https://dev.to/karelleclwzr/top-13-places-to-buy-old-edu-email-accounts-in-the-world-2027-1dfe",
+    "topic": "general"
+  },
+  {
+    "title": "A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline",
+    "desc": "<p>On July 30, 2026, JFrog's security team published something that should worry anyone whose build pipeline opens tickets automatically fro",
+    "link": "https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151",
+    "topic": "general"
+  },
+  {
+    "title": "Using Alibaba Cloud OSS for Cost-Effective Cloud Storage",
+    "desc": "<h1>\n  \n  \n  Using Alibaba Cloud OSS for Cost-Effective Cloud Storage\n</h1>\n\n<p><strong>Object Storage Service (OSS)</strong> is Alibaba Clo",
+    "link": "https://dev.to/fan_li_ee7d84c6203253d041/using-alibaba-cloud-oss-for-cost-effective-cloud-storage-5bo6",
+    "topic": "general"
+  },
+  {
+    "title": "AWS IAM role manager shipped on 12 August 2026 attaching PowerUserAccess to four of six consoles",
+    "desc": "<h1>\n  \n  \n  AWS IAM role manager shipped on 12 August 2026 attaching PowerUserAccess to four of six consoles\n</h1>\n\n<p><strong>Summary.</st",
+    "link": "https://dev.to/mr_manushukla/aws-iam-role-manager-shipped-on-12-august-2026-attaching-poweruseraccess-to-four-of-six-consoles-3agh",
     "topic": "aws"
-  },
-  {
-    "title": "From a Local Docker App to AWS EKS: My DevOps Project",
-    "desc": "<p>I recently worked on a DevOps project with a simple starting point: an application that worked perfectly fine on my local machine.</p>\n\n<",
-    "link": "https://dev.to/amira_abidi/from-a-local-docker-app-to-aws-eks-my-devops-project-3om5",
-    "topic": "aws"
-  },
-  {
-    "title": "The DevOps Roadmap I Wish Someone Had Handed Me on Day One",
-    "desc": "<p>I'm a software engineering student, about 16 months out from graduation, and somewhere in the last year \"learn DevOps\" quietly turned fro",
-    "link": "https://dev.to/dehemi_fabio/the-devops-roadmap-i-wish-someone-had-handed-me-on-day-one-332m",
-    "topic": "general"
-  },
-  {
-    "title": "I Was Called \u201cAspiring\u201d \u2014 Then I Realized I Had Already Started Becoming",
-    "desc": "<p>I Was Called \u201cAspiring\u201d \u2014 Then I Realized I Had Already Started Becoming<br />\nA small comment on LinkedIn made me question how I see mys",
-    "link": "https://dev.to/off_limit001/i-was-called-aspiring-then-i-realized-i-had-already-started-becoming-2nah",
-    "topic": "general"
-  },
-  {
-    "title": "From Red to Green: Building a Jenkins Pipeline That Actually Ships Code",
-    "desc": "<p>There is a particular kind of satisfaction that comes from watching a pipeline go fully green after an entire day of failures. This is th",
-    "link": "https://dev.to/awter12/from-red-to-green-building-a-jenkins-pipeline-that-actually-ships-code-5748",
-    "topic": "general"
-  },
-  {
-    "title": "The integrity check you already have skips your paid extensions",
-    "desc": "<p>WP-CLI ships a real integrity check. It compares installed plugin files against the checksums published by wordpress.org:<br />\n</p>\n\n<di",
-    "link": "https://dev.to/cifi/the-integrity-check-you-already-have-skips-your-paid-extensions-21ff",
-    "topic": "general"
   }
 ]
