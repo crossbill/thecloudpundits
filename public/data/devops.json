@@ -1,50 +1,50 @@
 [
   {
-    "title": "Zero-Downtime Deployments in Laravel",
-    "desc": "<h2>The Unacceptable Cost of Maintenance Mode</h2>\n\n<p>In the early days of a startup, deploying new code to a Laravel application is a rela",
-    "link": "https://dev.to/iprajapatiparesh/zero-downtime-deployments-in-laravel-7bi",
+    "title": "Production-Ready PostgreSQL on a VPS: Automated Backups with pgBackRest, Patroni HA, and Docker",
+    "desc": "<h1>\n  \n  \n  Production-Ready PostgreSQL on a VPS: Automated Backups with pgBackRest, Patroni HA, and Docker\n</h1>\n\n<p>Managed database clou",
+    "link": "https://dev.to/enfernandes/production-ready-postgresql-on-a-vps-automated-backups-with-pgbackrest-patroni-ha-and-docker-2d13",
+    "topic": "docker"
+  },
+  {
+    "title": "Top 5 Real-Time AI Usage Tracking and Cost Metering Tools published",
+    "desc": "<p>Most AI startups do not lose money because the product is bad. They lose it because they cannot see their costs while the costs are happe",
+    "link": "https://dev.to/flexprice_8116ed925/top-5-real-time-ai-usage-tracking-and-cost-metering-tools-published-1g01",
     "topic": "general"
   },
   {
-    "title": "Build a Log Aggregation System with Python",
-    "desc": "<h1>\n  \n  \n  Build a Log Aggregation System with Python\n</h1>\n\n<p>tags: python, devops, logging, tutorial</p>\n\n\n\n\n<p>tags: python, redis, ar",
-    "link": "https://dev.to/qingluan/build-a-log-aggregation-system-with-python-cea",
+    "title": "Self-Hosted Git & Code Collaboration in 2026: Forgejo vs Gitea vs GitLab CE vs OneDev",
+    "desc": "<h1>\n  \n  \n  Self-Hosted Git & Code Collaboration in 2026: Forgejo vs Gitea vs GitLab CE vs OneDev\n</h1>\n\n<p>As GitHub Actions runner minute",
+    "link": "https://dev.to/enfernandes/self-hosted-git-code-collaboration-in-2026-forgejo-vs-gitea-vs-gitlab-ce-vs-onedev-ina",
     "topic": "general"
   },
   {
-    "title": "78ms Is All Untrusted Agent Code Needs: Sandboxes Compared for 2026",
-    "desc": "<p>Letting a model write code is now routine. Letting that code run on the machine holding your credentials is the part nobody measured unti",
-    "link": "https://dev.to/moksh/78ms-is-all-untrusted-agent-code-needs-sandboxes-compared-for-2026-m7o",
+    "title": "Building a Factory Time Synchronization System with NTP and Industrial LED Clocks",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/phuc_bach_22e/building-a-factory-time-synchronization-system-with-ntp-and-industrial-led-clocks-51n1",
     "topic": "general"
   },
   {
-    "title": "Fine-Grained Authorization in 2026: OpenFGA, SpiceDB, Cerbos and Cedar Compared",
-    "desc": "<p>The <code>role</code> column works. It works for a year, sometimes two. Then a customer wants their contractor to open one folder without",
-    "link": "https://dev.to/moksh/fine-grained-authorization-in-2026-openfga-spicedb-cerbos-and-cedar-compared-4l04",
+    "title": "Stop Spinning Up Full VMs for Every Test Lab: Practical systemd-nspawn Containers on Linux",
+    "desc": "<h1>\n  \n  \n  Stop Spinning Up Full VMs for Every Test Lab: Practical systemd-nspawn Containers on Linux\n</h1>\n\n<p>You need a throwaway Debia",
+    "link": "https://dev.to/lyraalishaikh/stop-spinning-up-full-vms-for-every-test-lab-practical-systemd-nspawn-containers-on-linux-pgn",
+    "topic": "docker"
+  },
+  {
+    "title": "My Cost Monitor Said $234 When the Real Bill Was $48. Then set -e Made It Go Silent for a Week.",
+    "desc": "<p>A monitoring script that dies quietly is worse than no monitoring at all. Mine proved it twice: first it reported a 7-day spend of <stron",
+    "link": "https://dev.to/bokuwalily/my-cost-monitor-said-234-when-the-real-bill-was-48-then-set-e-made-it-go-silent-for-a-week-475j",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Basics for DevOps Engineers",
-    "desc": "<p><strong>Introduction:</strong><br />\nKubernetes can feel overwhelming when you first hear terms like Pods, Services, and Deployments thro",
-    "link": "https://dev.to/tejas_kp/kubernetes-basics-for-devops-engineers-3ml9",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How to Add AI to Your Existing SaaS Application: A Practical Guide for 2026",
-    "desc": "<p>\"Should we add AI to our product?\" isn't really the right question anymore. Most SaaS founders and product teams have moved past whether ",
-    "link": "https://dev.to/amar74/how-to-add-ai-to-your-existing-saas-application-a-practical-guide-for-2026-22ej",
+    "title": "Why our liveness probe timed out even though /healthCheck never touched Redis",
+    "desc": "<p>The alert looked like a dependency outage. Readiness and liveness on our Java service were failing in bursts \u2014 <code>context deadline exc",
+    "link": "https://dev.to/mridul_it_is/why-our-liveness-probe-timed-out-even-though-healthcheck-never-touched-redis-404j",
     "topic": "general"
   },
   {
-    "title": "Hey Dev Community \u2014 New Here!",
-    "desc": "<p>Hey Dev Community! \ud83d\udc4b</p>\n\n<p>I\u2019m Tejas, a DevOps Engineer from Bangalore, new to this platform. I work mostly with AWS, Kubernetes, Terra",
-    "link": "https://dev.to/tejas_kp/hey-dev-community-new-here-34kj",
-    "topic": "general"
-  },
-  {
-    "title": "Differential Fuzzing: The AI Patch Gate That Doesn't Trust Your Tests",
-    "desc": "<p>AI patches usually break behavior that your test suite never exercises, because tests encode the assumptions you already hold about the s",
-    "link": "https://dev.to/github_7727/differential-fuzzing-the-ai-patch-gate-that-doesnt-trust-your-tests-4p7a",
+    "title": "AI code review and agent verification are not the same",
+    "desc": "<p>AI code review and coding-agent verification solve related problems, but they do not produce the same kind of evidence.</p>\n\n<p>Review se",
+    "link": "https://dev.to/sarthakagrawal927/ai-code-review-and-agent-verification-are-not-the-same-2mmg",
     "topic": "general"
   }
 ]
