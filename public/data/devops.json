@@ -1,5 +1,41 @@
 [
   {
+    "title": "The Docker Layer Duplication Penalty: Why Modifying Files in Old Layers Costs You Twice",
+    "desc": "<p>As modern backend developers, we all know the drill: <strong>Never run your containers as root.</strong> It's a massive security hazard.<",
+    "link": "https://dev.to/amishkumar1211/the-docker-layer-duplication-penalty-why-modifying-files-in-old-layers-costs-you-twice-2bli",
+    "topic": "docker"
+  },
+  {
+    "title": "Build a Custom Metrics Collection System",
+    "desc": "<h1>\n  \n  \n  Build a Custom Metrics Collection System\n</h1>\n\n<p>tags: python, monitoring, devops, tutorial</p>\n\n\n\n\n<p>tags: python, monitori",
+    "link": "https://dev.to/qingluan/build-a-custom-metrics-collection-system-1fgf",
+    "topic": "general"
+  },
+  {
+    "title": "Free AI Tokens Are a Trap: An Opinionated Cost Gate for Model Experiments",
+    "desc": "<p>Free AI tokens are a trap, and teams that treat a free quota as genuinely free pay later in migration and rework. A free allowance only h",
+    "link": "https://dev.to/gitgo_1900/free-ai-tokens-are-a-trap-an-opinionated-cost-gate-for-model-experiments-2947",
+    "topic": "general"
+  },
+  {
+    "title": "From Zero to Running: A Free-Tier AI Coding Loop with MonkeyCode",
+    "desc": "<h1>\n  \n  \n  From Zero to Running: A Free-Tier AI Coding Loop with MonkeyCode\n</h1>\n\n<p>You do not need a GPU to try AI coding tools. You do",
+    "link": "https://dev.to/devgo_7763/from-zero-to-running-a-free-tier-ai-coding-loop-with-monkeycode-f8a",
+    "topic": "general"
+  },
+  {
+    "title": "Free AI Coding Tier or Self-Hosted Stack: A Four-Constraint Decision Framework",
+    "desc": "<p>The cheapest AI coding setup is rarely the cheapest. Free tiers look like a gift until a deadline collides with a rate limit, and self-ho",
+    "link": "https://dev.to/hackcpp_3619/free-ai-coding-tier-or-self-hosted-stack-a-four-constraint-decision-framework-mgl",
+    "topic": "general"
+  },
+  {
+    "title": "I got tired of AI code assistants breaking our project architecture, so I built ArchSentry",
+    "desc": "<p>Hey everyone,</p>\n\n<p>Lately my team has been using Cursor and Copilot a lot. While it writes code super fast, I kept noticing that it qu",
+    "link": "https://dev.to/comerade2134/i-got-tired-of-ai-code-assistants-breaking-our-project-architecture-so-i-built-archsentry-f9h",
+    "topic": "general"
+  },
+  {
     "title": "Case Study: An Incident Postmortem Generator on a $0 Budget",
     "desc": "<p>Every week, another article promises that AI agents will fix your operations. Most of them describe platforms with enterprise pricing. Th",
     "link": "https://dev.to/codecpp_5026/case-study-an-incident-postmortem-generator-on-a-0-budget-57d0",
@@ -9,42 +45,6 @@
     "title": "\ud83d\udc4b Introducing Myself to the Community",
     "desc": "<p><strong>\ud83d\ude80 My Developer Journey Starts Here</strong></p>\n\n<p>Hey everyone! \ud83d\udc4b</p>\n\n<p>I\u2019m Amani Jordan dev, a front-end developer who is pa",
     "link": "https://dev.to/amanijordandev45/introducing-myself-to-the-community-2ll5",
-    "topic": "general"
-  },
-  {
-    "title": "Your PRs Deserve a Second Reviewer That Costs Nothing: A Webhook Architecture",
-    "desc": "<p>Every PR review cycle has the same shape: a human waits, a human reads, a human points out the same three categories of issues. What if t",
-    "link": "https://dev.to/hackjs_7468/your-prs-deserve-a-second-reviewer-that-costs-nothing-a-webhook-architecture-45af",
-    "topic": "general"
-  },
-  {
-    "title": "DNS, HTTP/1.1, HTTP/2, HTTP/3, CORS \u2014 A Beginner's Deep Dive",
-    "desc": "<h2>\n  \n  \n  What is DNS and why we need it?\n</h2>\n\n<p>DNS stand for Domain Name System, and it's main job is to translate domain name into ",
-    "link": "https://dev.to/dharam_in/dns-http11-http2-http3-cors-a-beginners-deep-dive-28h6",
-    "topic": "general"
-  },
-  {
-    "title": "Mutation Testing on a Free Server: Do AI-Generated Tests Actually Kill Bugs?",
-    "desc": "<p>A test suite passed with 94% coverage. The bug still shipped. Coverage numbers lied. The missing piece was mutation testing. It measures ",
-    "link": "https://dev.to/codejs_6920/mutation-testing-on-a-free-server-do-ai-generated-tests-actually-kill-bugs-3218",
-    "topic": "general"
-  },
-  {
-    "title": "The Case of the 3 a.m. Outage Nobody Saw",
-    "desc": "<p>A small server ran three small services. A status page, an RSS digest fed by cron, and an API that one mobile app depended on. Nothing cr",
-    "link": "https://dev.to/applab_8831/the-case-of-the-3-am-outage-nobody-saw-1plo",
-    "topic": "general"
-  },
-  {
-    "title": "The Quota Cliff: A Failover Pattern for When Your Free Agent Server Runs Dry",
-    "desc": "<h2>\n  \n  \n  The Saturday that ended on Sunday\n</h2>\n\n<p>A small team \u2014 three developers, one shared codebase \u2014 spent a weekend building a p",
-    "link": "https://dev.to/appjs_7055/the-quota-cliff-a-failover-pattern-for-when-your-free-agent-server-runs-dry-5c4i",
-    "topic": "general"
-  },
-  {
-    "title": "Quota Exhaustion Date: A Capacity Calculator for Free Model Quotas",
-    "desc": "<p>A team deploys on a free tier. Day one, everything works. Day twelve, the quota is gone. Users see errors. The team checks the dashboard.",
-    "link": "https://dev.to/hackjs_8688/quota-exhaustion-date-a-capacity-calculator-for-free-model-quotas-2khk",
     "topic": "general"
   }
 ]
