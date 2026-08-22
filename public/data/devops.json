@@ -1,5 +1,35 @@
 [
   {
+    "title": "Supabase vs Firebase: How the Two Backends Compare (2026)",
+    "desc": "<p>A feature-by-feature and pricing comparison of two hosted app backends, based on each vendor's own documentation as of July 29, 2026.</p>",
+    "link": "https://dev.to/kimcomplete/supabase-vs-firebase-how-the-two-backends-compare-2026-3m3p",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Custom Object Storage System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Custom Object Storage System with Python\n</h1>\n\n<p>tags: python, storage, devops, tutorial</p>\n\n\n\n\n<p>tags: python, sto",
+    "link": "https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-3eme",
+    "topic": "general"
+  },
+  {
+    "title": "Azure Cost Optimization: How I Cut a Production Bill by 41% with Cosmos DB Serverless",
+    "desc": "<p>A production Azure workload I manage was heading toward a monthly cost of approximately <strong>\u20b997,000</strong>, excluding tax.</p>\n\n<p>",
+    "link": "https://dev.to/starkprince/azure-cost-optimization-how-i-cut-a-production-bill-by-41-with-cosmos-db-serverless-9i4",
+    "topic": "azure"
+  },
+  {
+    "title": "Three guards to add before you let an agent run unattended",
+    "desc": "<p>An agent running in front of you needs no guardrails, because you are the guardrail. You see the plan, you see the diff, and you stop it ",
+    "link": "https://dev.to/fewparts/three-guards-to-add-before-you-let-an-agent-run-unattended-2oml",
+    "topic": "general"
+  },
+  {
+    "title": "Terraform: alertas de drift con contexto",
+    "desc": "<p>Las alertas de drift en Terraform suelen fallar de una forma muy discreta. El detector corre, encuentra diferencia entre el estado y la r",
+    "link": "https://dev.to/alexcarteruk/terraform-alertas-de-drift-con-contexto-514k",
+    "topic": "terraform"
+  },
+  {
     "title": "Opinion: An AI Patch That Can't Undo Itself Isn't Done",
     "desc": "<p>Every AI patch is tested for the path it takes, never for the path it leaves behind. CI pipelines apply the patch, run the probes, and ca",
     "link": "https://dev.to/github_7727/opinion-an-ai-patch-that-cant-undo-itself-isnt-done-48bl",
@@ -16,35 +46,5 @@
     "desc": "<h1>\n  \n  \n  Self-Hosted Vector Databases in 2026: Qdrant vs pgvector vs Milvus vs Chroma for Production AI\n</h1>\n\n<p>Managed vector databas",
     "link": "https://dev.to/enfernandes/self-hosted-vector-databases-in-2026-qdrant-vs-pgvector-vs-milvus-vs-chroma-for-production-ai-1j32",
     "topic": "general"
-  },
-  {
-    "title": "Supercharging Dev VMs with Vagrant and Ansible (2014)",
-    "desc": "<p><em>Archival repost \u2014 originally published on my old blog on April 30, 2014. Already in English, lightly cleaned up for dev.to (fixed a f",
-    "link": "https://dev.to/hamdi_laadhari/supercharging-dev-vms-with-vagrant-and-ansible-2014-4c58",
-    "topic": "general"
-  },
-  {
-    "title": "Critical Outage SMS Alerts in 2026 \u2014 Polling, Retry, Cancellation, and Template Ownership",
-    "desc": "<p>Short answer: an SMS API is a workable choice for critical US and EU app outage alerts when the backend can poll delivery status and owns",
-    "link": "https://dev.to/thalion51/critical-outage-sms-alerts-in-2026-polling-retry-cancellation-and-template-ownership-92e",
-    "topic": "general"
-  },
-  {
-    "title": "Chrome Can Now Measure Your SPA's Core Web Vitals. Google's Ranking Data Still Can't See Them.",
-    "desc": "<p>Chrome 151 went stable on July 28. Three weeks later, most of the coverage of that release has already moved on, but one change in it des",
-    "link": "https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f",
-    "topic": "general"
-  },
-  {
-    "title": "Microsoft PowerToys v0.101 Preview \u2014 Command Palette System Actions and AI Release Agent",
-    "desc": "<p><em>Originally published at <a href=\"https://tekmag.thsite.top/microsoft-powertoys-v0-101-preview-command-palette-system-actions-and-ai-r",
-    "link": "https://dev.to/tekmag/microsoft-powertoys-v0101-preview-command-palette-system-actions-and-ai-release-agent-179f",
-    "topic": "azure"
-  },
-  {
-    "title": "The only thing my Kubernetes agent can do is write a git commit",
-    "desc": "<p>Every AI SRE tool will read your cluster and tell you what is wrong. Almost none<br />\nof them are trusted to <em>act</em>, and the reaso",
-    "link": "https://dev.to/srivatsa_kamballa/the-only-thing-my-kubernetes-agent-can-do-is-write-a-git-commit-ma4",
-    "topic": "kubernetes"
   }
 ]
