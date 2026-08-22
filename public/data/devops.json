@@ -1,5 +1,41 @@
 [
   {
+    "title": "Your Developer Toolchain Is a Supply Chain Attack Surface \u2014 Here's How I Hardened Mine",
+    "desc": "<p><em>A practical guide to applying SLSA, Sigstore, and SBOM-based verification to the tools on your local machine.</em></p>\n\n\n\n\n<h2>\n  \n  ",
+    "link": "https://dev.to/prasannavarshan/your-developer-toolchain-is-a-supply-chain-attack-surface-heres-how-i-hardened-mine-4ghm",
+    "topic": "secops"
+  },
+  {
+    "title": "\"Decide Later\" Is Not an Architecture Strategy",
+    "desc": "<p>Azure VMware Solution is putting a useful architectural lesson on display: postponing a platform decision can feel like preserving option",
+    "link": "https://dev.to/ntctech/decide-later-is-not-an-architecture-strategy-5d19",
+    "topic": "general"
+  },
+  {
+    "title": "Why Ollama runs on CPU after an update: the missing sm_86 CUDA kernels",
+    "desc": "<h1>\n  \n  \n  Why Ollama runs on CPU after an update: the missing sm_86 CUDA kernels\n</h1>\n\n<p>You update Ollama, pull the model you use ever",
+    "link": "https://dev.to/milkyway008/why-ollama-runs-on-cpu-after-an-update-the-missing-sm86-cuda-kernels-39bn",
+    "topic": "general"
+  },
+  {
+    "title": "3 Tier Application On EKS",
+    "desc": "<p>I built a 3-tier application running on Amazon EKS, deployed by a GitHub Actions pipeline that runs on every merge to <code>main</code>. ",
+    "link": "https://dev.to/mayankthakur001/3-tier-application-on-eks-oc7",
+    "topic": "general"
+  },
+  {
+    "title": "The Linux head Command Every Sysadmin and SOC Analyst Should Know",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/xpert4cyber/the-linux-head-command-every-sysadmin-and-soc-analyst-should-know-3d1d",
+    "topic": "general"
+  },
+  {
+    "title": "Reordering an overflowing job queue does not shrink it. Splitting it does.",
+    "desc": "<h2>\n  \n  \n  Background\n</h2>\n\n<p>I run about 20 small sites and update them automatically. A batch runs four times a day, decides which sit",
+    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/reordering-an-overflowing-job-queue-does-not-shrink-it-splitting-it-does-5131",
+    "topic": "general"
+  },
+  {
     "title": "The Docker Layer Duplication Penalty: Why Modifying Files in Old Layers Costs You Twice",
     "desc": "<p>As modern backend developers, we all know the drill: <strong>Never run your containers as root.</strong> It's a massive security hazard.<",
     "link": "https://dev.to/amishkumar1211/the-docker-layer-duplication-penalty-why-modifying-files-in-old-layers-costs-you-twice-2bli",
@@ -9,42 +45,6 @@
     "title": "Build a Custom Metrics Collection System",
     "desc": "<h1>\n  \n  \n  Build a Custom Metrics Collection System\n</h1>\n\n<p>tags: python, monitoring, devops, tutorial</p>\n\n\n\n\n<p>tags: python, monitori",
     "link": "https://dev.to/qingluan/build-a-custom-metrics-collection-system-1fgf",
-    "topic": "general"
-  },
-  {
-    "title": "Free AI Tokens Are a Trap: An Opinionated Cost Gate for Model Experiments",
-    "desc": "<p>Free AI tokens are a trap, and teams that treat a free quota as genuinely free pay later in migration and rework. A free allowance only h",
-    "link": "https://dev.to/gitgo_1900/free-ai-tokens-are-a-trap-an-opinionated-cost-gate-for-model-experiments-2947",
-    "topic": "general"
-  },
-  {
-    "title": "From Zero to Running: A Free-Tier AI Coding Loop with MonkeyCode",
-    "desc": "<h1>\n  \n  \n  From Zero to Running: A Free-Tier AI Coding Loop with MonkeyCode\n</h1>\n\n<p>You do not need a GPU to try AI coding tools. You do",
-    "link": "https://dev.to/devgo_7763/from-zero-to-running-a-free-tier-ai-coding-loop-with-monkeycode-f8a",
-    "topic": "general"
-  },
-  {
-    "title": "Free AI Coding Tier or Self-Hosted Stack: A Four-Constraint Decision Framework",
-    "desc": "<p>The cheapest AI coding setup is rarely the cheapest. Free tiers look like a gift until a deadline collides with a rate limit, and self-ho",
-    "link": "https://dev.to/hackcpp_3619/free-ai-coding-tier-or-self-hosted-stack-a-four-constraint-decision-framework-mgl",
-    "topic": "general"
-  },
-  {
-    "title": "I got tired of AI code assistants breaking our project architecture, so I built ArchSentry",
-    "desc": "<p>Hey everyone,</p>\n\n<p>Lately my team has been using Cursor and Copilot a lot. While it writes code super fast, I kept noticing that it qu",
-    "link": "https://dev.to/comerade2134/i-got-tired-of-ai-code-assistants-breaking-our-project-architecture-so-i-built-archsentry-f9h",
-    "topic": "general"
-  },
-  {
-    "title": "Case Study: An Incident Postmortem Generator on a $0 Budget",
-    "desc": "<p>Every week, another article promises that AI agents will fix your operations. Most of them describe platforms with enterprise pricing. Th",
-    "link": "https://dev.to/codecpp_5026/case-study-an-incident-postmortem-generator-on-a-0-budget-57d0",
-    "topic": "secops"
-  },
-  {
-    "title": "\ud83d\udc4b Introducing Myself to the Community",
-    "desc": "<p><strong>\ud83d\ude80 My Developer Journey Starts Here</strong></p>\n\n<p>Hey everyone! \ud83d\udc4b</p>\n\n<p>I\u2019m Amani Jordan dev, a front-end developer who is pa",
-    "link": "https://dev.to/amanijordandev45/introducing-myself-to-the-community-2ll5",
     "topic": "general"
   }
 ]
