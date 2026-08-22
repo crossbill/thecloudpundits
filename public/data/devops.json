@@ -1,50 +1,50 @@
 [
   {
+    "title": "Server Security Audit Checklist: What Actually Gets Checked",
+    "desc": "<p>A server security audit is a systematic review of a server's exposure and configuration to find where an attacker could get in and what t",
+    "link": "https://dev.to/mecanik-dev/server-security-audit-checklist-what-actually-gets-checked-4oko",
+    "topic": "secops"
+  },
+  {
+    "title": "Azure App Service: 4-Step Guide to Deploy and Secure Web Apps",
+    "desc": "<p>Deploying web applications in production requires security, automated scaling, and zero-downtime release pipelines. <strong>Azure App Ser",
+    "link": "https://dev.to/devstackhubtech/azure-app-service-4-step-guide-to-deploy-and-secure-web-apps-2b7c",
+    "topic": "azure"
+  },
+  {
+    "title": "What Are DevOps Consulting Services? Explained!",
+    "desc": "<p>Modern businesses need to release software quickly, maintain reliable applications, and keep their infrastructure secure. As applications",
+    "link": "https://dev.to/edwardsinclair/what-are-devops-consulting-services-explained-2ckm",
+    "topic": "general"
+  },
+  {
+    "title": "EKS Rollbacks Need Signal Routing",
+    "desc": "<p>Rollback automation is usually treated like a deployment concern, but the alert path matters just as much. In one EKS environment I worke",
+    "link": "https://dev.to/jasonmills94/eks-rollbacks-need-signal-routing-3ccg",
+    "topic": "general"
+  },
+  {
+    "title": "Ditching Airtable: Complete Guide to Self-Hosted No-Code Databases (NocoDB vs Baserow vs Grist)",
+    "desc": "<p>Airtable's enterprise pricing ($20\u2013$45/user/month) and strict 50k\u2013100k record limits per base make scaling internal operations painfully ",
+    "link": "https://dev.to/enfernandes/ditching-airtable-complete-guide-to-self-hosted-no-code-databases-nocodb-vs-baserow-vs-grist-3ibj",
+    "topic": "general"
+  },
+  {
+    "title": "Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate",
+    "desc": "<h1>\n  \n  \n  Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate\n</h1>\n\n<p>Most teams start with a direct OpenAI (or Anthropic)",
+    "link": "https://dev.to/victor_garca_a9d07ddc486/agent-gateway-in-60-seconds-governed-llm-traffic-with-trustgate-2dac",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosted Cloud Storage in 2026: Nextcloud vs OwnCloud Infinite Scale vs Seafile vs FileBrowser",
+    "desc": "<p>Public cloud storage pricing keeps creeping up, accompanied by aggressive AI training clauses and telemetry scanning. For engineering tea",
+    "link": "https://dev.to/enfernandes/self-hosted-cloud-storage-in-2026-nextcloud-vs-owncloud-infinite-scale-vs-seafile-vs-filebrowser-175n",
+    "topic": "general"
+  },
+  {
     "title": "Your Developer Toolchain Is a Supply Chain Attack Surface \u2014 Here's How I Hardened Mine",
     "desc": "<p><em>A practical guide to applying SLSA, Sigstore, and SBOM-based verification to the tools on your local machine.</em></p>\n\n\n\n\n<h2>\n  \n  ",
     "link": "https://dev.to/prasannavarshan/your-developer-toolchain-is-a-supply-chain-attack-surface-heres-how-i-hardened-mine-4ghm",
     "topic": "secops"
-  },
-  {
-    "title": "\"Decide Later\" Is Not an Architecture Strategy",
-    "desc": "<p>Azure VMware Solution is putting a useful architectural lesson on display: postponing a platform decision can feel like preserving option",
-    "link": "https://dev.to/ntctech/decide-later-is-not-an-architecture-strategy-5d19",
-    "topic": "general"
-  },
-  {
-    "title": "Why Ollama runs on CPU after an update: the missing sm_86 CUDA kernels",
-    "desc": "<h1>\n  \n  \n  Why Ollama runs on CPU after an update: the missing sm_86 CUDA kernels\n</h1>\n\n<p>You update Ollama, pull the model you use ever",
-    "link": "https://dev.to/milkyway008/why-ollama-runs-on-cpu-after-an-update-the-missing-sm86-cuda-kernels-39bn",
-    "topic": "general"
-  },
-  {
-    "title": "3 Tier Application On EKS",
-    "desc": "<p>I built a 3-tier application running on Amazon EKS, deployed by a GitHub Actions pipeline that runs on every merge to <code>main</code>. ",
-    "link": "https://dev.to/mayankthakur001/3-tier-application-on-eks-oc7",
-    "topic": "general"
-  },
-  {
-    "title": "The Linux head Command Every Sysadmin and SOC Analyst Should Know",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/the-linux-head-command-every-sysadmin-and-soc-analyst-should-know-3d1d",
-    "topic": "general"
-  },
-  {
-    "title": "Reordering an overflowing job queue does not shrink it. Splitting it does.",
-    "desc": "<h2>\n  \n  \n  Background\n</h2>\n\n<p>I run about 20 small sites and update them automatically. A batch runs four times a day, decides which sit",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/reordering-an-overflowing-job-queue-does-not-shrink-it-splitting-it-does-5131",
-    "topic": "general"
-  },
-  {
-    "title": "The Docker Layer Duplication Penalty: Why Modifying Files in Old Layers Costs You Twice",
-    "desc": "<p>As modern backend developers, we all know the drill: <strong>Never run your containers as root.</strong> It's a massive security hazard.<",
-    "link": "https://dev.to/amishkumar1211/the-docker-layer-duplication-penalty-why-modifying-files-in-old-layers-costs-you-twice-2bli",
-    "topic": "docker"
-  },
-  {
-    "title": "Build a Custom Metrics Collection System",
-    "desc": "<h1>\n  \n  \n  Build a Custom Metrics Collection System\n</h1>\n\n<p>tags: python, monitoring, devops, tutorial</p>\n\n\n\n\n<p>tags: python, monitori",
-    "link": "https://dev.to/qingluan/build-a-custom-metrics-collection-system-1fgf",
-    "topic": "general"
   }
 ]
