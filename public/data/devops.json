@@ -1,5 +1,29 @@
 [
   {
+    "title": "Magento 2 Linux Server Tuning: Kernel, Filesystem & I/O Settings That Actually Matter",
+    "desc": "<p>Most Magento 2 performance work stops at the application layer: PHP-FPM pools, Nginx config, MySQL buffers, Redis, Varnish. That's where ",
+    "link": "https://dev.to/magevanta/magento-2-linux-server-tuning-kernel-filesystem-io-settings-that-actually-matter-481c",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83d\ude80 DG Develops Code Challenge: Get Exciting Rewards",
+    "desc": "<h2>\n  \n  \n  \ud83d\udd25 Why These Challenges?\n</h2>\n\n<p>DG AI and DG Encoder were built to break barriers and empower devs. Now it\u2019s time to push tha",
+    "link": "https://dev.to/daivik_dagar_f88cb5415125/dg-ai-code-challenge-become-senior-dev-unlock-exclusive-perks-56gc",
+    "topic": "general"
+  },
+  {
+    "title": "Linux Security Checklist for Production Servers",
+    "desc": "<blockquote>\n<p>A step-by-step practical guide to locking down SSH, configuring firewalls, enforcing least privilege, hardening the kernel, ",
+    "link": "https://dev.to/asepsayyad007/linux-security-checklist-for-production-servers-1p12",
+    "topic": "secops"
+  },
+  {
+    "title": "The enum value that had never been written",
+    "desc": "<p>I found 27 workflow branches that were being skipped while every run still finished as <code>COMPLETED</code>.</p>\n\n<p>The condition on t",
+    "link": "https://dev.to/aghassis/the-enum-value-that-had-never-been-written-2j7c",
+    "topic": "general"
+  },
+  {
     "title": "Your Uptime Monitor Says 200. Your Contact Form Has Been Dead for Three Days.",
     "desc": "<p>The contact form on a company site I look after stopped producing leads. Not \"fewer leads\" \u2014 zero, for three days. No alert fired. The up",
     "link": "https://dev.to/mahmut_gndzalp_c736ac4b/your-uptime-monitor-says-200-your-contact-form-has-been-dead-for-three-days-1n1p",
@@ -21,30 +45,6 @@
     "title": "The best harness is the one you can't see",
     "desc": "<p>Agent tooling keeps trying to give me a better seat in front of the factory. I don't want a better seat. I want no seat.</p>\n\n<p>Six tool",
     "link": "https://dev.to/generalist_dev/the-best-harness-is-the-one-you-cant-see-4g3c",
-    "topic": "general"
-  },
-  {
-    "title": "The HTTP 429 That Turned Seven Minutes Into Zero Work",
-    "desc": "<p><em>This is a submission for <a href=\"https://dev.to/bugsmash\">DEV's Summer Bug Smash: Smash Stories</a> powered by <a href=\"https://sent",
-    "link": "https://dev.to/jblaz6335/the-http-429-that-turned-seven-minutes-into-zero-work-3ppl",
-    "topic": "general"
-  },
-  {
-    "title": "How Maintenance KPIs Improve Equipment Reliability",
-    "desc": "<p>Equipment reliability rarely improves through guesswork. Maintenance teams need clear evidence to understand what is working, where probl",
-    "link": "https://dev.to/julia_frost_0fb0aeda1cac5/how-maintenance-kpis-improve-equipment-reliability-pj8",
-    "topic": "general"
-  },
-  {
-    "title": "Dev Log: 2026-08-22 \u2014 Driver Seams, Apply-Then-Store, and Credentials That Retire",
-    "desc": "<p><strong>TL;DR</strong> \u2014 A heavy day across a deployment platform and a CRM. The thread running through most of it: <strong>the order in ",
-    "link": "https://dev.to/nasrulhazim/dev-log-2026-08-22-driver-seams-apply-then-store-and-credentials-that-retire-564p",
-    "topic": "general"
-  },
-  {
-    "title": "How to Add a Human Review Gate to an n8n Lead Intake Workflow",
-    "desc": "<p>Most lead intake automations work on the happy path. A form arrives, the workflow sends an email, and the lead appears in a CRM.</p>\n\n<p>",
-    "link": "https://dev.to/jblaz6335/how-to-add-a-human-review-gate-to-an-n8n-lead-intake-workflow-2f8o",
     "topic": "general"
   }
 ]
