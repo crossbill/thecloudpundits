@@ -1,50 +1,50 @@
 [
   {
-    "title": "BF16 vs FP8 vs INT4: The Quantization Bakeoff That Explains Why Your Local AI Agent Breaks",
-    "desc": "<p>The tool call was perfect for the first 40 minutes. Your local agent, running a 27B model you quantized to fit your GPU, was reading a lo",
-    "link": "https://dev.to/jamilxt/bf16-vs-fp8-vs-int4-the-quantization-bakeoff-that-explains-why-your-local-ai-agent-breaks-48af",
+    "title": "Four products passed their tests. Then I tested them.",
+    "desc": "<p>Every one of these had a green suite. 147 tests on the portfolio, 77 on the budget proxy, 53 on the<br />\nconformance checker, 78 on the ",
+    "link": "https://dev.to/raghubuilds/four-products-passed-their-tests-then-i-tested-them-1cp",
     "topic": "general"
   },
   {
-    "title": "Building a Custom Kubernetes Scheduler(with Simple ShellScripts): A Hands-On Lab Journey",
-    "desc": "<p>As Kubernetes continues to dominate container orchestration, understanding how its scheduler works becomes crucial for any DevOps enginee",
-    "link": "https://dev.to/hardik_arora999/building-a-custom-kubernetes-scheduler-a-hands-on-lab-journey-be8",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Self-Hosted Electronic Signatures: DocuSeal vs Documenso vs OpenSign (Ditch DocuSign Envelopes)",
-    "desc": "<h1>\n  \n  \n  Self-Hosted Electronic Signatures in 2026: DocuSeal vs Documenso vs OpenSign (Replace DocuSign & PandaDoc)\n</h1>\n\n<p>In B2B sal",
-    "link": "https://dev.to/enfernandes/self-hosted-electronic-signatures-docuseal-vs-documenso-vs-opensign-ditch-docusign-envelopes-7k1",
+    "title": "Build a Pricing-Aware Request Queue for AI Gateways",
+    "desc": "<h1>\n  \n  \n  Build a Pricing-Aware Request Queue for AI Gateways\n</h1>\n\n<p>Most AI cost controls are added after dispatch. A request enters ",
+    "link": "https://dev.to/aiwave/build-a-pricing-aware-request-queue-for-ai-gateways-27n1",
     "topic": "general"
   },
   {
-    "title": "Self-Hosted Scheduling Infrastructure in 2026: Cal.com vs Easy!Appointments vs Calendly",
-    "desc": "<h1>\n  \n  \n  Self-Hosted Scheduling Infrastructure in 2026: Cal.com vs Easy!Appointments (Ditch Calendly Per-Seat Pricing)\n</h1>\n\n<p>For mod",
-    "link": "https://dev.to/enfernandes/self-hosted-scheduling-infrastructure-in-2026-calcom-vs-easyappointments-vs-calendly-19o",
+    "title": "The wall was on the page, not the data",
+    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/wall-on-the-page-field-note\" rel=\"noopener noreferrer\">aideazz.xyz</a> \u2014 cross-",
+    "link": "https://dev.to/elenarevicheva/the-wall-was-on-the-page-not-the-data-55ih",
     "topic": "general"
   },
   {
-    "title": "What a Skipped Check Is Worth in CI",
-    "desc": "<p>A gate runner has three verdicts and only two of them are honest. PASS means the check ran and the code was fine. BLOCK means the check r",
-    "link": "https://dev.to/jeremy_longshore/what-a-skipped-check-is-worth-in-ci-4l3",
+    "title": "Platform Engineering Explained: Building an Internal Developer Platform",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/platform-engineering-guide-2026\" rel=\"noopener norefer",
+    "link": "https://dev.to/devtocash/platform-engineering-explained-building-an-internal-developer-platform-2mah",
     "topic": "general"
   },
   {
-    "title": "Git Workflows That Actually Work at Scale",
-    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> GitFlow, GitHub Flow, or trunk-based? The real enemy is long-lived branches. Learn which workflow ",
-    "link": "https://dev.to/sri2614/git-workflows-that-actually-work-at-scale-4hpn",
-    "topic": "general"
-  },
-  {
-    "title": "The Return of the Jedi: Leveling Up Your Database Backup & Disaster Recovery Game",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think backups were that boring checkbox you tick at the end of a spr",
-    "link": "https://dev.to/timevolt/the-return-of-the-jedi-leveling-up-your-database-backup-disaster-recovery-game-5532",
-    "topic": "general"
-  },
-  {
-    "title": "Top AWS Services Every DevOps Engineer Should Know",
-    "desc": "<p>Today I learnt about the AWS services that come up again and again in DevOps work \u2014 and also in DevOps interviews.One thing the video I w",
-    "link": "https://dev.to/xcl1br/top-aws-services-every-devops-engineer-should-know-3hg9",
+    "title": "Day 22: AWS Monitoring & Management \u2014 Trusted Advisor, Inspector, CloudWatch, CloudTrail, Config",
+    "desc": "<p>Day 21 covered who can access what (IAM) and how multiple accounts are governed (Organizations). Today's five services answer a different",
+    "link": "https://dev.to/sr-palatasingh/day-22-aws-monitoring-management-trusted-advisor-inspector-cloudwatch-cloudtrail-config-1hbk",
     "topic": "aws"
+  },
+  {
+    "title": "Your AI Wrote the App in a Weekend. Who's Watching It Now?",
+    "desc": "<p>Most security tools for AI-generated code stop at the scan. Here's the gap that leaves open, and why it costs you after you ship, not bef",
+    "link": "https://dev.to/one_fancyapps_71e15a2dea/your-ai-wrote-the-app-in-a-weekend-whos-watching-it-now-3kjd",
+    "topic": "general"
+  },
+  {
+    "title": "Mobile CMMS for Manufacturing \u2013 Simplify Maintenance",
+    "desc": "<p>Mobile CMMS for Manufacturing \u2013 Simplify Maintenance</p>\n\n<p>Manufacturing and facilities teams often struggle with fragmented maintenanc",
+    "link": "https://dev.to/shio_c0be3f51f0f/mobile-cmms-for-manufacturing-simplify-maintenance-1h58",
+    "topic": "general"
+  },
+  {
+    "title": "Scaling Like a Jedi: Horizontal vs Vertical",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night my side\u2011project went from \u201ccool demo\u201d to \u201coh\u2011no\u2011the",
+    "link": "https://dev.to/timevolt/scaling-like-a-jedi-horizontal-vs-vertical-3mkf",
+    "topic": "general"
   }
 ]
