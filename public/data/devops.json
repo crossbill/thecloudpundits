@@ -1,5 +1,35 @@
 [
   {
+    "title": "No More Midnight Deploys: The Magic of Blue-Green Deployments",
+    "desc": "<h1>\n  \n  \n  No More Midnight Deploys: The Magic of Blue-Green Deployments\n</h1>\n\n<p>Imagine trying to upgrade the engine of a commercial ai",
+    "link": "https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Self-Healing System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Self-Healing System with Python\n</h1>\n\n<p>tags: python, devops, automation, tutorial</p>\n\n\n\n\n<p>tags: python, devops, a",
+    "link": "https://dev.to/qingluan/build-a-self-healing-system-with-python-4ghf",
+    "topic": "general"
+  },
+  {
+    "title": "Bridging the Gap Between DevOps Reliability and Digital Marketing Growth",
+    "desc": "<p>Bridging the Gap Between DevOps Reliability and Digital Marketing Growth</p>\n\n<p>When early-stage startups try to scale, they usually hit",
+    "link": "https://dev.to/loopio24/bridging-the-gap-between-devops-reliability-and-digital-marketing-growth-2j36",
+    "topic": "general"
+  },
+  {
+    "title": "Implementing Pre-Flight Balance Checks for Verification Pipelines",
+    "desc": "<p>When building high-volume verification services, one of the most common pitfalls is initiating large-scale jobs only to have them stall o",
+    "link": "https://dev.to/checknumber/implementing-pre-flight-balance-checks-for-verification-pipelines-1501",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes Architecture",
+    "desc": "<p><strong>Control Plane (Master) & Worker Nodes</strong></p>\n\n<p><strong>Control Plane components:</strong></p>\n\n<ul>\n<li>API Server</li>\n<",
+    "link": "https://dev.to/tejas_kp/kubernetes-architecture-32c9",
+    "topic": "kubernetes"
+  },
+  {
     "title": "Historia real: un admin migr\u00f3 29 servidores de Windows a NetBSD 2.0.2",
     "desc": "<p>En septiembre de 2005, un administrador de redes del Reino Unido escribi\u00f3 a la lista de correo <em>netbsd-advocacy</em> para contar algo ",
     "link": "https://dev.to/lu1tr0n/historia-real-un-admin-migro-29-servidores-de-windows-a-netbsd-202-4i4g",
@@ -16,35 +46,5 @@
     "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-23-kubernetes-rbac-ai-agents-least-privilege\" ",
     "link": "https://dev.to/devtocash/kubernetes-rbac-for-ai-agents-least-privilege-serviceaccounts-done-right-1308",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Never let a model take the irreversible step",
-    "desc": "<p>I had an agent draft a customer update once, and I let it send. It sent. To everyone. The copy was fine. The problem was that \"fine\" and ",
-    "link": "https://dev.to/academy_agineai/never-let-a-model-take-the-irreversible-step-5e8n",
-    "topic": "general"
-  },
-  {
-    "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
-    "desc": "<p>I spent three months and roughly $500 trying to make self-hosted LLMs work. I was the guy in every thread arguing that \"real developers\" ",
-    "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-3e0m",
-    "topic": "general"
-  },
-  {
-    "title": "The Impact Receipt: Carbon Should Travel With Every AI Request",
-    "desc": "<p>Latency and tokens already travel with an AI request.</p>\n\n<p>Carbon usually does not.</p>\n\n<p>It remains trapped inside a provider dashb",
-    "link": "https://dev.to/carbonlayer/the-impact-receipt-carbon-should-travel-with-every-ai-request-d99",
-    "topic": "general"
-  },
-  {
-    "title": "How I Cut an Azure Bill by 55%",
-    "desc": "<p>Last year, I moved to a new project in my company. After some months, we deployed new services to Azure, but something was off. The cost ",
-    "link": "https://dev.to/scaique/how-i-cut-an-azure-bill-by-55-4l65",
-    "topic": "azure"
-  },
-  {
-    "title": "Cheap VPS in 2026: DigitalOcean and Vultr compared, with our value picks",
-    "desc": "<p>Two well-documented clouds, judged on entry price, billing transparency, product range and trial terms \u2014 plus how to keep a low-cost VPS ",
-    "link": "https://dev.to/kimcomplete/cheap-vps-in-2026-digitalocean-and-vultr-compared-with-our-value-picks-40bm",
-    "topic": "general"
   }
 ]
