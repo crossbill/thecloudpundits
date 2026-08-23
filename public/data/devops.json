@@ -1,50 +1,50 @@
 [
   {
+    "title": "Start Secured Before You Scale",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/__b94d6050abd1d8f/start-secured-before-you-scale-27p3",
+    "topic": "general"
+  },
+  {
+    "title": "What Actually Happens When Linux Runs Out of Memory: Inside the OOM Killer",
+    "desc": "<p>Your process didn't crash. There's no stack trace, no exception, no core dump. One second it's running; the next, <code>dmesg</code> show",
+    "link": "https://dev.to/mukesh_13/what-actually-happens-when-linux-runs-out-of-memory-inside-the-oom-killer-3j27",
+    "topic": "general"
+  },
+  {
+    "title": "A Windows Service is Down. Now What?",
+    "desc": "<p>It doesn't matter if it's SQL Server, IIS, a background agent, or a custom app \u2014 when a Windows service goes down, the investigation is a",
+    "link": "https://dev.to/prateek_srivastava_6a5661/a-windows-service-is-down-now-what-2gh9",
+    "topic": "general"
+  },
+  {
+    "title": "Opinion: AI Review Comments Are Ephemeral \u2014 Keep the Ledger Instead",
+    "desc": "<h1>\n  \n  \n  Opinion: AI Review Comments Are Ephemeral \u2014 Keep the Ledger Instead\n</h1>\n\n<p>AI code review produces its real value only after",
+    "link": "https://dev.to/github_7727/opinion-ai-review-comments-are-ephemeral-keep-the-ledger-instead-2bd3",
+    "topic": "general"
+  },
+  {
+    "title": "36 Best Sites For Buying Aged Gmail Accounts Safely",
+    "desc": "<p>Why Choose usadigitalhub.com for Gmail Accounts?<br />\n\u26a1\ufe0f\ud83d\ude80 24/7 Fast & Reliable Support<br />\n\ud83d\udcf1\ud83d\udcac WhatsApp: +1 (506) 541-7768<br />\n\ud83d\udcac\ud83d\udd37 Tel",
+    "link": "https://dev.to/sadyeestrada04p9c/36-best-sites-for-buying-aged-gmail-accounts-safely-fhh",
+    "topic": "general"
+  },
+  {
+    "title": "10 Best Sites For Buying Aged Gmail Accounts In Bulk...",
+    "desc": "<p>Buy verified Gmail Accounts from usadigitalhub.com \u2013 Fresh, Phone Verified (PVA), and Aged Gmail accounts at the best price. Enjoy instan",
+    "link": "https://dev.to/sadyeestrada04p9c/10-best-sites-for-buying-aged-gmail-accounts-in-bulk-clc",
+    "topic": "general"
+  },
+  {
+    "title": "Defending Distributed AI Environments Against Active Exploitation of the Ray Code Injection Vulnerability (CVE-2025-62593)",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Distributed computing frameworks have become the bedrock of modern artificial intelligence and machine l",
+    "link": "https://dev.to/isuvo/defending-distributed-ai-environments-against-active-exploitation-of-the-ray-code-injection-27e3",
+    "topic": "secops"
+  },
+  {
     "title": "\ud83e\uddd0 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform",
     "desc": "<h2>\n  \n  \n  Hola Amigos \ud83d\udc4b\n</h2>\n\n<p>Welcome to the world of Cloud and Automation!</p>\n\n<p>AWS launched <strong>ECS Express Mode</strong> in",
     "link": "https://dev.to/aws-builders/ecs-express-mode-vs-traditional-ecs-a-hands-on-comparison-with-terraform-cnp",
-    "topic": "terraform"
-  },
-  {
-    "title": "Shared vs VPS vs Cloud Hosting: Which Do You Actually Need?",
-    "desc": "<h1>\n  \n  \n  Shared vs VPS vs Cloud Hosting: Which Do You Actually Need?\n</h1>\n\n<p>We've deployed 50+ websites across different hosting prov",
-    "link": "https://dev.to/astap/shared-vs-vps-vs-cloud-hosting-which-do-you-actually-need-2hn8",
-    "topic": "general"
-  },
-  {
-    "title": "Terraform vs AWS CDK: Why I Chose CDK for Autowired.ai (And When I Wouldn't)",
-    "desc": "<p>I've used both tools in production. Terraform for different platforms \u2014 multi-team, multi-cloud, years of accumulated state. AWS CDK with",
-    "link": "https://dev.to/yogieee/terraform-vs-aws-cdk-why-i-chose-cdk-for-autowiredai-and-when-i-wouldnt-13fb",
-    "topic": "aws"
-  },
-  {
-    "title": "How I Built Smart Scraper M2M: A Fast ~30ms Scraper API for AI Agents",
-    "desc": "<p>Building AI Agents with frameworks like CrewAI or LangChain often hits a bottleneck: <strong>heavy, slow web scraping</strong> that bloat",
-    "link": "https://dev.to/hasna_dev2/how-i-built-smart-scraper-m2m-a-fast-30ms-scraper-api-for-ai-agents-1k9f",
-    "topic": "general"
-  },
-  {
-    "title": "Your Mobile Suite Isn't Slow, It's Serial",
-    "desc": "<p>A 400-test Appium suite that takes 90 minutes is not usually 90 minutes of slow tests. It's 90 minutes of one device doing 400 things in ",
-    "link": "https://dev.to/krish_pavuluri/your-mobile-suite-isnt-slow-its-serial-5aom",
-    "topic": "general"
-  },
-  {
-    "title": "Flaky Mobile Tests: A Triage Order That Actually Converges",
-    "desc": "<p>Most teams don't fix flakiness. They add a retry, watch the suite go green, and move on \u2014 and six months later nobody trusts a red build,",
-    "link": "https://dev.to/krish_pavuluri/flaky-mobile-tests-a-triage-order-that-actually-converges-29ho",
-    "topic": "general"
-  },
-  {
-    "title": "Virtual Machines Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Aug 16 \u2013 Aug 22, 2026",
-    "desc": "<h2>\n  \n  \n  \ud83d\udda5\ufe0f Virtual Machines \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Aug 16 \u2013 Aug 22, 2026 | <strong>Total r",
-    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-aug-16-aug-22-2026-2n5o",
-    "topic": "aws"
-  },
-  {
-    "title": "I Built an AI That Fixes Terraform Drift Automatically",
-    "desc": "<p>I Built an AI That Fixes Terraform Drift Automatically</p>\n\n<p>If you've worked with Terraform long enough, you know the feeling. You run",
-    "link": "https://dev.to/sudarshan_thakur_1e141b99/i-built-an-ai-that-fixes-terraform-drift-automatically-p97",
     "topic": "terraform"
   }
 ]
