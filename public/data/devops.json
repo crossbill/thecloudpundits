@@ -1,5 +1,17 @@
 [
   {
+    "title": "Import Error Tracking \u2014 Scheduled API Checks Send Critical Slack and Email Alerts",
+    "desc": "<p>Short answer: run a cron poll for recent unresolved critical errors, keep a durable watermark, and let your application send Slack, email",
+    "link": "https://dev.to/apexz69/import-error-tracking-scheduled-api-checks-send-critical-slack-and-email-alerts-3ifp",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Confusing Snapshots with Backups: Practical btrfs send/receive on Linux",
+    "desc": "<p>Local Btrfs snapshots feel like backups until the disk dies.</p>\n\n<p>They are fast, space-efficient, and perfect for \u201cundo that upgrade.\u201d",
+    "link": "https://dev.to/lyraalishaikh/stop-confusing-snapshots-with-backups-practical-btrfs-sendreceive-on-linux-43io",
+    "topic": "general"
+  },
+  {
     "title": "No More Midnight Deploys: The Magic of Blue-Green Deployments",
     "desc": "<h1>\n  \n  \n  No More Midnight Deploys: The Magic of Blue-Green Deployments\n</h1>\n\n<p>Imagine trying to upgrade the engine of a commercial ai",
     "link": "https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29",
@@ -34,17 +46,5 @@
     "desc": "<p>En septiembre de 2005, un administrador de redes del Reino Unido escribi\u00f3 a la lista de correo <em>netbsd-advocacy</em> para contar algo ",
     "link": "https://dev.to/lu1tr0n/historia-real-un-admin-migro-29-servidores-de-windows-a-netbsd-202-4i4g",
     "topic": "general"
-  },
-  {
-    "title": "Utility to Find Gitlab Credit Usage",
-    "desc": "<p>Through this article, we're going to explore the <a href=\"https://docs.gitlab.com/cli/\" rel=\"noopener noreferrer\">GitLab CLI (glab)</a><b",
-    "link": "https://dev.to/brettryan/utility-to-find-gitlab-credit-usage-59j4",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes RBAC for AI Agents: Least-Privilege ServiceAccounts Done Right",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-23-kubernetes-rbac-ai-agents-least-privilege\" ",
-    "link": "https://dev.to/devtocash/kubernetes-rbac-for-ai-agents-least-privilege-serviceaccounts-done-right-1308",
-    "topic": "kubernetes"
   }
 ]
