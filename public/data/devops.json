@@ -1,50 +1,50 @@
 [
   {
-    "title": "I deleted a queue and my own CLI told me a resource had been added",
-    "desc": "<p>Last week I finally did something I'd been putting off for months: I pointed my AWS drift detector at a <strong>fake AWS</strong>.</p>\n\n<",
-    "link": "https://dev.to/hitoshi1964/i-deleted-a-queue-and-my-own-cli-told-me-a-resource-had-been-added-38h",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted AI Coding Agent: Sandboxed Prompt-to-Deploy for $25/mo",
-    "desc": "<p><strong>A self-hosted AI coding agent</strong> is an autonomous code-generation stack running on your own hardware with structural isolat",
-    "link": "https://dev.to/umesh_malik/self-hosted-ai-coding-agent-sandboxed-prompt-to-deploy-for-25mo-3oj7",
-    "topic": "general"
-  },
-  {
-    "title": "npm trust github Fails with 400 Bad Request: The Missing Permission Flag",
-    "desc": "<p>We published a JavaScript client to npm this week, and wiring up <strong>trusted publishing</strong> cost three failed attempts and two w",
-    "link": "https://dev.to/koraykoylu/npm-trust-github-fails-with-400-bad-request-the-missing-permission-flag-4j5f",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes Shared Volumes: A Comprehensive Guide",
-    "desc": "<h1>\n  \n  \n  Kubernetes Shared Volumes: A Comprehensive Guide\n</h1>\n\n<h2>\n  \n  \n  Table of Contents\n</h2>\n\n<ol>\n<li>Prerequisites</li>\n<li>I",
-    "link": "https://dev.to/bansikah/kubernetes-shared-volumes-a-comprehensive-guide-1e05",
+    "title": "Kubernetes RBAC for AI Agents: Least-Privilege ServiceAccounts Done Right",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-23-kubernetes-rbac-ai-agents-least-privilege\" ",
+    "link": "https://dev.to/devtocash/kubernetes-rbac-for-ai-agents-least-privilege-serviceaccounts-done-right-1308",
     "topic": "kubernetes"
   },
   {
-    "title": "Two AI Agents Read One Row. How to Stop the Lost Update",
-    "desc": "<p>A version check is not automatically optimistic concurrency control.</p>\n\n<p>If an agent reads a row, reasons for a few seconds, and then",
-    "link": "https://dev.to/zira125/two-ai-agents-read-one-row-how-to-stop-the-lost-update-1025",
+    "title": "Never let a model take the irreversible step",
+    "desc": "<p>I had an agent draft a customer update once, and I let it send. It sent. To everyone. The copy was fine. The problem was that \"fine\" and ",
+    "link": "https://dev.to/academy_agineai/never-let-a-model-take-the-irreversible-step-5e8n",
     "topic": "general"
   },
   {
-    "title": "A C++ Config Validator for a Server That May Skip Your Job",
-    "desc": "<p>A free server will not tell you when it skips your job. It will simply not run it. That is not a bug in the platform; it is the contract ",
-    "link": "https://dev.to/datacpp_8185/a-c-config-validator-for-a-server-that-may-skip-your-job-29kj",
+    "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
+    "desc": "<p>I spent three months and roughly $500 trying to make self-hosted LLMs work. I was the guy in every thread arguing that \"real developers\" ",
+    "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-3e0m",
     "topic": "general"
   },
   {
-    "title": "Opinion: If Your AI Patch Gate Costs Money, You'll Skip It on the Riskiest PRs",
-    "desc": "<p>AI patch review gates usually fail for an economic reason before a technical one. Every run costs money, so teams run them selectively, a",
-    "link": "https://dev.to/github_7727/opinion-if-your-ai-patch-gate-costs-money-youll-skip-it-on-the-riskiest-prs-3b9o",
+    "title": "The Impact Receipt: Carbon Should Travel With Every AI Request",
+    "desc": "<p>Latency and tokens already travel with an AI request.</p>\n\n<p>Carbon usually does not.</p>\n\n<p>It remains trapped inside a provider dashb",
+    "link": "https://dev.to/carbonlayer/the-impact-receipt-carbon-should-travel-with-every-ai-request-d99",
     "topic": "general"
   },
   {
-    "title": "Buy Old Gmail Accounts: A Step-by-Step Guide In 2026",
-    "desc": "<p>How to Buy Gmail Accounts \u2013 Step-by-Step Guide<br />\n\u26a1\ufe0f\ud83d\ude80 24/7 Fast & Reliable Support<br />\n\ud83d\udcf1\ud83d\udcac WhatsApp: +1 (506) 541-7768<br />\n\ud83d\udcac\ud83d\udd37 Teleg",
-    "link": "https://dev.to/megenharveyfztgu/buy-old-gmail-accounts-a-step-by-step-guide-in-2026-4f28",
+    "title": "How I Cut an Azure Bill by 55%",
+    "desc": "<p>Last year, I moved to a new project in my company. After some months, we deployed new services to Azure, but something was off. The cost ",
+    "link": "https://dev.to/sarupy/how-i-cut-an-azure-bill-by-55-4l65",
+    "topic": "azure"
+  },
+  {
+    "title": "Cheap VPS in 2026: DigitalOcean and Vultr compared, with our value picks",
+    "desc": "<p>Two well-documented clouds, judged on entry price, billing transparency, product range and trial terms \u2014 plus how to keep a low-cost VPS ",
+    "link": "https://dev.to/kimcomplete/cheap-vps-in-2026-digitalocean-and-vultr-compared-with-our-value-picks-40bm",
+    "topic": "general"
+  },
+  {
+    "title": "Cutting Cloud Costs with a Few Habits",
+    "desc": "<h2>\n  \n  \n  The Silent Budget Killer\n</h2>\n\n<p>Cloud bills creep up. You start with a small instance, add a database, enable logging, and b",
+    "link": "https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-4lbn",
+    "topic": "general"
+  },
+  {
+    "title": "Build a File Watcher and Auto-Deployer with Python",
+    "desc": "<h1>\n  \n  \n  Build a File Watcher and Auto-Deployer with Python\n</h1>\n\n<p>tags: python, devops, automation, tutorial</p>\n\n\n\n\n<p>tags: python",
+    "link": "https://dev.to/qingluan/build-a-file-watcher-and-auto-deployer-with-python-45pp",
     "topic": "general"
   }
 ]
