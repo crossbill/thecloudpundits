@@ -1,5 +1,29 @@
 [
   {
+    "title": "Running the AWS CLI Against Your Own Hardware",
+    "desc": "<p>The AWS CLI is on almost every developer's machine. Once you've built habits around commands like <code>aws ec2 describe-instances</code>",
+    "link": "https://dev.to/toddyholiday/running-the-aws-cli-against-your-own-hardware-11i2",
+    "topic": "aws"
+  },
+  {
+    "title": "The Matrix of CI/CD: Neo's Journey with GitHub Actions, GitLab, and Jenkins",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Look, the reality is that setting up CI/CD used to feel like trying to solve a Rubik's c",
+    "link": "https://dev.to/timevolt/the-matrix-of-cicd-neos-journey-with-github-actions-gitlab-and-jenkins-3kna",
+    "topic": "general"
+  },
+  {
+    "title": "Automating Attack Surface Assessment for fintechs: 10+ vectors, zero manual effort",
+    "desc": "<p>Your last pentest was 6 months ago. Since then, your team has deployed 47 times, spun up 3 new subdomains, and someone left a <code>.env<",
+    "link": "https://dev.to/mediavox/automating-attack-surface-assessment-for-fintechs-10-vectors-zero-manual-effort-125n",
+    "topic": "secops"
+  },
+  {
+    "title": "Your 'Deleted' Private Key Is Still in Your Git History",
+    "desc": "<p>You removed the secret from your code. You pushed the fix. You're safe.</p>\n\n<p>You're not.</p>\n\n<p>The key still lives in your git histo",
+    "link": "https://dev.to/ezequiellich/your-deleted-private-key-is-still-in-your-git-history-3cg4",
+    "topic": "general"
+  },
+  {
     "title": "A session that closes has to prove it cleaned up",
     "desc": "<p>The process monitor said the audio daemon was at 340% CPU. That was the whole symptom, hours after the session that caused it had closed,",
     "link": "https://dev.to/alkisyuv/a-session-that-closes-has-to-prove-it-cleaned-up-cij",
@@ -21,30 +45,6 @@
     "title": "Everything you ever committed is the product",
     "desc": "<p>I audited three of my repos before making things public. The audit was after one class of thing, anything that tied the code to the priva",
     "link": "https://dev.to/alkisyuv/everything-you-ever-committed-is-the-product-3pao",
-    "topic": "general"
-  },
-  {
-    "title": "My agents kept overwriting each other, so I gave them claims",
-    "desc": "<p>I run several agent sessions in parallel, each in its own project, all on the same machine. For a while I believed that was safe because ",
-    "link": "https://dev.to/alkisyuv/my-agents-kept-overwriting-each-other-so-i-gave-them-claims-2h8k",
-    "topic": "general"
-  },
-  {
-    "title": "Every hole in the gate is signed",
-    "desc": "<p>A routine commit in my hub repo tripped the content screen last week on text that had been fine for weeks. <a href=\"https://dev.yuv.run/w",
-    "link": "https://dev.to/alkisyuv/every-hole-in-the-gate-is-signed-3a43",
-    "topic": "general"
-  },
-  {
-    "title": "62 Best Website to Buy Old Telegram Accounts in Bulk & PVA",
-    "desc": "<p>Buy Old Telegram Accounts\u00a0<br />\n\ud83d\udeaa\ud83d\ude80\ud83d\udcac\ud83d\udcde\ud83d\udce9 We\u2019re always ready to help you 24/7!\u00a0<br />\n\u27a5\ud83c\udf81\u2714\ufe0f\ud83d\udcbc \u27a5\ud83c\udf81\u2714\ufe0f\ud83d\udcbc Telegram: @getpvatop\u00a0<br />\n\u27a5\ud83c\udf81\u2714\ufe0f\ud83d\udcbc \u27a5\ud83c\udf81\u2714\ufe0f\ud83d\udcbc Wh",
-    "link": "https://dev.to/ealasaidwithersghrn5/62-best-website-to-buy-old-telegram-accounts-in-bulk-pva-52o0",
-    "topic": "general"
-  },
-  {
-    "title": "The graph that failed by staying quiet",
-    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/silent-graph-field-note\" rel=\"noopener noreferrer\">aideazz.xyz</a> \u2014 cross-post",
-    "link": "https://dev.to/elenarevicheva/the-graph-that-failed-by-staying-quiet-19mm",
     "topic": "general"
   }
 ]
