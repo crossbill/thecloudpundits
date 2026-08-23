@@ -1,5 +1,29 @@
 [
   {
+    "title": "Virtual Machines Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Aug 16 \u2013 Aug 22, 2026",
+    "desc": "<h2>\n  \n  \n  \ud83d\udda5\ufe0f Virtual Machines \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Aug 16 \u2013 Aug 22, 2026 | <strong>Total r",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-aug-16-aug-22-2026-2n5o",
+    "topic": "aws"
+  },
+  {
+    "title": "I Built an AI That Fixes Terraform Drift Automatically",
+    "desc": "<p>I Built an AI That Fixes Terraform Drift Automatically</p>\n\n<p>If you've worked with Terraform long enough, you know the feeling. You run",
+    "link": "https://dev.to/sudarshan_thakur_1e141b99/i-built-an-ai-that-fixes-terraform-drift-automatically-p97",
+    "topic": "terraform"
+  },
+  {
+    "title": "Ditching Retool: Self-Hosted Low-Code & Internal Tool Platforms in 2026 (Appsmith vs ToolJet vs Budibase)",
+    "desc": "<h1>\n  \n  \n  Self-Hosted Low-Code & Internal Tools in 2026: Appsmith vs ToolJet vs Budibase (Replace Retool & Superblocks)\n</h1>\n\n<p>Every e",
+    "link": "https://dev.to/enfernandes/ditching-retool-self-hosted-low-code-internal-tool-platforms-in-2026-appsmith-vs-tooljet-vs-2oge",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosted Document Management in 2026: Paperless-ngx vs Docspell vs Mayan EDMS",
+    "desc": "<h1>\n  \n  \n  Self-Hosted Document Management & OCR in 2026: Paperless-ngx vs Docspell vs Mayan EDMS\n</h1>\n\n<p>Businesses and individuals gen",
+    "link": "https://dev.to/enfernandes/self-hosted-document-management-in-2026-paperless-ngx-vs-docspell-vs-mayan-edms-njm",
+    "topic": "general"
+  },
+  {
     "title": "Your internet is capped at ~95 Mbps on a gigabit plan \u2014 the 100Mbps negotiation trap",
     "desc": "<p>I've seen this exact post a hundred times: \"I pay for 500 Mbps fiber and I only get 80.\" Usually the ISP gets blamed, sometimes the route",
     "link": "https://dev.to/milkyway008/your-internet-is-capped-at-95-mbps-on-a-gigabit-plan-the-100mbps-negotiation-trap-4pim",
@@ -21,30 +45,6 @@
     "title": "Free AI Infrastructure Isn't a Compromise. It's a Constraint Class.",
     "desc": "<h1>\n  \n  \n  Free AI Infrastructure Isn't a Compromise. It's a Constraint Class.\n</h1>\n\n<p>Here's the conclusion up front: free AI infrastru",
     "link": "https://dev.to/hackjs_7468/free-ai-infrastructure-isnt-a-compromise-its-a-constraint-class-15md",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Token-Budgeted LLM Service on a Free Server: A Step-by-Step Tutorial",
-    "desc": "<p>Last month, a side project died at the API checkout. The code worked. The credit card did not.</p>\n\n<p>The fix is not a bigger budget. Th",
-    "link": "https://dev.to/apprs_6334/build-a-token-budgeted-llm-service-on-a-free-server-a-step-by-step-tutorial-1oo9",
-    "topic": "general"
-  },
-  {
-    "title": "I built a watchdog for AI agents. It spent two weeks catching its own bugs.",
-    "desc": "<p>My coding agents kept failing in ways nothing reported. Not crashes \u2014 crashes announce themselves. The expensive failures were silent: a ",
-    "link": "https://dev.to/minjong212121/i-built-a-watchdog-for-ai-agents-it-spent-two-weeks-catching-its-own-bugs-3kgg",
-    "topic": "general"
-  },
-  {
-    "title": "8 safe-by-default MCP servers for infra \u2014 and the governance model behind them",
-    "desc": "<p>Giving an AI agent access to production infrastructure is a great way to move fast \u2014 and a great way to have it drop a database because a",
-    "link": "https://dev.to/dockndevai/8-safe-by-default-mcp-servers-formcp-ai-devops-opensource-infra-and-the-governance-model-4gi8",
-    "topic": "general"
-  },
-  {
-    "title": "Why Most ML Firewalls Fail (And How We Fixed It with a Honeypot Feedback Loop)",
-    "desc": "<p>Deploying Machine Learning directly inline to block malicious network traffic sounds great on paper until you run into the <strong>Base R",
-    "link": "https://dev.to/mrvenom17/why-most-ml-firewalls-fail-and-how-we-fixed-it-with-a-honeypot-feedback-loop-7p6",
     "topic": "general"
   }
 ]
