@@ -1,5 +1,35 @@
 [
   {
+    "title": "BF16 vs FP8 vs INT4: The Quantization Bakeoff That Explains Why Your Local AI Agent Breaks",
+    "desc": "<p>The tool call was perfect for the first 40 minutes. Your local agent, running a 27B model you quantized to fit your GPU, was reading a lo",
+    "link": "https://dev.to/jamilxt/bf16-vs-fp8-vs-int4-the-quantization-bakeoff-that-explains-why-your-local-ai-agent-breaks-48af",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Custom Kubernetes Scheduler(with Simple ShellScripts): A Hands-On Lab Journey",
+    "desc": "<p>As Kubernetes continues to dominate container orchestration, understanding how its scheduler works becomes crucial for any DevOps enginee",
+    "link": "https://dev.to/hardik_arora999/building-a-custom-kubernetes-scheduler-a-hands-on-lab-journey-be8",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Self-Hosted Electronic Signatures: DocuSeal vs Documenso vs OpenSign (Ditch DocuSign Envelopes)",
+    "desc": "<h1>\n  \n  \n  Self-Hosted Electronic Signatures in 2026: DocuSeal vs Documenso vs OpenSign (Replace DocuSign & PandaDoc)\n</h1>\n\n<p>In B2B sal",
+    "link": "https://dev.to/enfernandes/self-hosted-electronic-signatures-docuseal-vs-documenso-vs-opensign-ditch-docusign-envelopes-7k1",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosted Scheduling Infrastructure in 2026: Cal.com vs Easy!Appointments vs Calendly",
+    "desc": "<h1>\n  \n  \n  Self-Hosted Scheduling Infrastructure in 2026: Cal.com vs Easy!Appointments (Ditch Calendly Per-Seat Pricing)\n</h1>\n\n<p>For mod",
+    "link": "https://dev.to/enfernandes/self-hosted-scheduling-infrastructure-in-2026-calcom-vs-easyappointments-vs-calendly-19o",
+    "topic": "general"
+  },
+  {
+    "title": "What a Skipped Check Is Worth in CI",
+    "desc": "<p>A gate runner has three verdicts and only two of them are honest. PASS means the check ran and the code was fine. BLOCK means the check r",
+    "link": "https://dev.to/jeremy_longshore/what-a-skipped-check-is-worth-in-ci-4l3",
+    "topic": "general"
+  },
+  {
     "title": "Git Workflows That Actually Work at Scale",
     "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> GitFlow, GitHub Flow, or trunk-based? The real enemy is long-lived branches. Learn which workflow ",
     "link": "https://dev.to/sri2614/git-workflows-that-actually-work-at-scale-4hpn",
@@ -16,35 +46,5 @@
     "desc": "<p>Today I learnt about the AWS services that come up again and again in DevOps work \u2014 and also in DevOps interviews.One thing the video I w",
     "link": "https://dev.to/xcl1br/top-aws-services-every-devops-engineer-should-know-3hg9",
     "topic": "aws"
-  },
-  {
-    "title": "Buy Old Gmail Accounts | Verified Aged & PVA ...",
-    "desc": "<p>Top 3 Sites to Buy Old Gmail Accounts In <br />\nComplete Guide </p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to",
-    "link": "https://dev.to/smmusapva197/buy-old-gmail-accounts-verified-aged-pva--58ij",
-    "topic": "general"
-  },
-  {
-    "title": "Automating DevOps/SRE Tasks with AI Agents: Real-World Use Cases and Free Open-Source Tools",
-    "desc": "<h2>\n  \n  \n  Introduction: Unleashing AI Agents in DevOps/SRE Workflows\n</h2>\n\n<p>In the trenches of DevOps and Site Reliability Engineering",
-    "link": "https://dev.to/maricode/automating-devopssre-tasks-with-ai-agents-real-world-use-cases-and-free-open-source-tools-2eg1",
-    "topic": "general"
-  },
-  {
-    "title": "Dockerizing Your First App: A Hero's Journey Like in The Matrix",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I tried to share a Node.js API with a teammate",
-    "link": "https://dev.to/timevolt/dockerizing-your-first-app-a-heros-journey-like-in-the-matrix-20f6",
-    "topic": "docker"
-  },
-  {
-    "title": "Magento 2 Linux Server Tuning: Kernel, Filesystem & I/O Settings That Actually Matter",
-    "desc": "<p>Most Magento 2 performance work stops at the application layer: PHP-FPM pools, Nginx config, MySQL buffers, Redis, Varnish. That's where ",
-    "link": "https://dev.to/magevanta/magento-2-linux-server-tuning-kernel-filesystem-io-settings-that-actually-matter-481c",
-    "topic": "general"
-  },
-  {
-    "title": "\ud83d\ude80 DG Develops Code Challenge: Get Exciting Rewards",
-    "desc": "<h2>\n  \n  \n  \ud83d\udd25 Why These Challenges?\n</h2>\n\n<p>DG AI and DG Encoder were built to break barriers and empower devs. Now it\u2019s time to push tha",
-    "link": "https://dev.to/daivik_dagar_f88cb5415125/dg-ai-code-challenge-become-senior-dev-unlock-exclusive-perks-56gc",
-    "topic": "general"
   }
 ]
