@@ -1,5 +1,35 @@
 [
   {
+    "title": "Are We Treating Cybersecurity as an Afterthought?",
+    "desc": "<p>As developers, we spend so much time optimizing features that security architecture often becomes an afterthought. I was reading a recent",
+    "link": "https://dev.to/omni_fys/are-we-treating-cybersecurity-as-an-afterthought-b3o",
+    "topic": "secops"
+  },
+  {
+    "title": "Build a Custom Log Parser and Analyzer",
+    "desc": "<h1>\n  \n  \n  Build a Custom Log Parser and Analyzer\n</h1>\n\n<p>tags: python, devops, tools, tutorial</p>\n\n\n\n\n<p>tags: python, devops, tools, ",
+    "link": "https://dev.to/qingluan/build-a-custom-log-parser-and-analyzer-5440",
+    "topic": "general"
+  },
+  {
+    "title": "Top 23 Sites to Buy old Gmail Accounts PVA Bulk in 2026",
+    "desc": "<p>Buy Old Gmail Accounts? A Complete Guide to Gmail Security, Privacy & Digital Identity Protection (2026)<br />\n\ud83d\udeaa\ud83d\ude80\ud83d\udcac\ud83d\udcde\ud83d\udce9 We\u2019re always ready t",
+    "link": "https://dev.to/shirleyspd3f5/top-23-sites-to-buy-old-gmail-accounts-pva-bulk-in-2026-1c2m",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosted LLM Inference & Serving in 2026: vLLM vs Ollama vs LocalAI vs TGI (+ Open WebUI)",
+    "desc": "<p>Sending confidential company data, source code, and customer records to commercial LLM APIs exposes organizations to privacy breaches, un",
+    "link": "https://dev.to/enfernandes/self-hosted-llm-inference-serving-in-2026-vllm-vs-ollama-vs-localai-vs-tgi-open-webui-mpd",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosted Container Management UIs: Portainer vs Dockge vs Yacht vs Komodo (2026 Comparison)",
+    "desc": "<p>Managing Docker containers purely from the command line is great for CI/CD pipelines, but visual management dashboards provide immediate ",
+    "link": "https://dev.to/enfernandes/self-hosted-container-management-uis-portainer-vs-dockge-vs-yacht-vs-komodo-2026-comparison-19je",
+    "topic": "docker"
+  },
+  {
     "title": "Import Error Tracking \u2014 Scheduled API Checks Send Critical Slack and Email Alerts",
     "desc": "<p>Short answer: run a cron poll for recent unresolved critical errors, keep a durable watermark, and let your application send Slack, email",
     "link": "https://dev.to/apexz69/import-error-tracking-scheduled-api-checks-send-critical-slack-and-email-alerts-3ifp",
@@ -15,36 +45,6 @@
     "title": "No More Midnight Deploys: The Magic of Blue-Green Deployments",
     "desc": "<h1>\n  \n  \n  No More Midnight Deploys: The Magic of Blue-Green Deployments\n</h1>\n\n<p>Imagine trying to upgrade the engine of a commercial ai",
     "link": "https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Self-Healing System with Python",
-    "desc": "<h1>\n  \n  \n  Build a Self-Healing System with Python\n</h1>\n\n<p>tags: python, devops, automation, tutorial</p>\n\n\n\n\n<p>tags: python, devops, a",
-    "link": "https://dev.to/qingluan/build-a-self-healing-system-with-python-4ghf",
-    "topic": "general"
-  },
-  {
-    "title": "Bridging the Gap Between DevOps Reliability and Digital Marketing Growth",
-    "desc": "<p>Bridging the Gap Between DevOps Reliability and Digital Marketing Growth</p>\n\n<p>When early-stage startups try to scale, they usually hit",
-    "link": "https://dev.to/loopio24/bridging-the-gap-between-devops-reliability-and-digital-marketing-growth-2j36",
-    "topic": "general"
-  },
-  {
-    "title": "Implementing Pre-Flight Balance Checks for Verification Pipelines",
-    "desc": "<p>When building high-volume verification services, one of the most common pitfalls is initiating large-scale jobs only to have them stall o",
-    "link": "https://dev.to/checknumber/implementing-pre-flight-balance-checks-for-verification-pipelines-1501",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes Architecture",
-    "desc": "<p><strong>Control Plane (Master) & Worker Nodes</strong></p>\n\n<p><strong>Control Plane components:</strong></p>\n\n<ul>\n<li>API Server</li>\n<",
-    "link": "https://dev.to/tejas_kp/kubernetes-architecture-32c9",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Historia real: un admin migr\u00f3 29 servidores de Windows a NetBSD 2.0.2",
-    "desc": "<p>En septiembre de 2005, un administrador de redes del Reino Unido escribi\u00f3 a la lista de correo <em>netbsd-advocacy</em> para contar algo ",
-    "link": "https://dev.to/lu1tr0n/historia-real-un-admin-migro-29-servidores-de-windows-a-netbsd-202-4i4g",
     "topic": "general"
   }
 ]
