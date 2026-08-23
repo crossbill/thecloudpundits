@@ -1,7 +1,43 @@
 [
   {
+    "title": "My Postgres AI automation stopped acting haunted when I added 7 boring database guardrails",
+    "desc": "<p>I knew we had a real problem when an agent \u201csuccessfully\u201d updated a customer record that was not, in any useful sense, the customer it wa",
+    "link": "https://dev.to/lars_winstand/my-postgres-ai-automation-stopped-acting-haunted-when-i-added-7-boring-database-guardrails-43fp",
+    "topic": "guardrails"
+  },
+  {
+    "title": "Log Management at Scale: How We Cut Costs 70% Without Losing Signal",
+    "desc": "<h2>\n  \n  \n  $12,000/Month for Logs Nobody Reads\n</h2>\n\n<p>Our logging bill was $12,000/month. We were ingesting 2TB/day. When I asked the t",
+    "link": "https://dev.to/samson_tanimawo/log-management-at-scale-how-we-cut-costs-70-without-losing-signal-3i8g",
+    "topic": "general"
+  },
+  {
+    "title": "SSH Survival Guide: Your Server Is Already Being Scanned",
+    "desc": "<p>If you run a server exposed to the Internet, there is one thing you should probably accept:</p>\n\n<p><strong>Your server is being scanned.",
+    "link": "https://dev.to/rentierdigital/ssh-survival-guide-your-server-is-already-being-scanned-4i3g",
+    "topic": "general"
+  },
+  {
+    "title": "Scrum Myths We Retired After Thursday Spillover",
+    "desc": "<p><em>What our platform team learned when sprint planning met production work.</em></p>\n\n<p>By 15:17 on Thursday, six of the nine cards we ",
+    "link": "https://dev.to/devops_oasis/scrum-myths-we-retired-after-thursday-spillover-5095",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes NetworkPolicy Rules We Can Actually Prove",
+    "desc": "<p><em>Build a locked-down namespace, then test every allowed connection ourselves.</em></p>\n\n<p>The <code>orders-api</code> namespace was a",
+    "link": "https://dev.to/devops_oasis/kubernetes-networkpolicy-rules-we-can-actually-prove-1od1",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Muay Thai Timer For Beginners: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/muay-thai-timer-for-beginners-what-we-learned-building-random-tactical-timer-26ac",
+    "topic": "general"
+  },
+  {
     "title": "Four products passed their tests. Then I tested them.",
-    "desc": "<p>Every one of these had a green suite. 147 tests on the portfolio, 77 on the budget proxy, 53 on the<br />\nconformance checker, 78 on the ",
+    "desc": "<p>Every one of these had a green suite. 161 tests on the portfolio, 77 on the budget proxy, 53 on the<br />\nconformance checker, 78 on the ",
     "link": "https://dev.to/raghubuilds/four-products-passed-their-tests-then-i-tested-them-1cp",
     "topic": "general"
   },
@@ -9,42 +45,6 @@
     "title": "Build a Pricing-Aware Request Queue for AI Gateways",
     "desc": "<h1>\n  \n  \n  Build a Pricing-Aware Request Queue for AI Gateways\n</h1>\n\n<p>Most AI cost controls are added after dispatch. A request enters ",
     "link": "https://dev.to/aiwave/build-a-pricing-aware-request-queue-for-ai-gateways-27n1",
-    "topic": "general"
-  },
-  {
-    "title": "The wall was on the page, not the data",
-    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/wall-on-the-page-field-note\" rel=\"noopener noreferrer\">aideazz.xyz</a> \u2014 cross-",
-    "link": "https://dev.to/elenarevicheva/the-wall-was-on-the-page-not-the-data-55ih",
-    "topic": "general"
-  },
-  {
-    "title": "Platform Engineering Explained: Building an Internal Developer Platform",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/platform-engineering-guide-2026\" rel=\"noopener norefer",
-    "link": "https://dev.to/devtocash/platform-engineering-explained-building-an-internal-developer-platform-2mah",
-    "topic": "general"
-  },
-  {
-    "title": "Day 22: AWS Monitoring & Management \u2014 Trusted Advisor, Inspector, CloudWatch, CloudTrail, Config",
-    "desc": "<p>Day 21 covered who can access what (IAM) and how multiple accounts are governed (Organizations). Today's five services answer a different",
-    "link": "https://dev.to/sr-palatasingh/day-22-aws-monitoring-management-trusted-advisor-inspector-cloudwatch-cloudtrail-config-1hbk",
-    "topic": "aws"
-  },
-  {
-    "title": "Your AI Wrote the App in a Weekend. Who's Watching It Now?",
-    "desc": "<p>Most security tools for AI-generated code stop at the scan. Here's the gap that leaves open, and why it costs you after you ship, not bef",
-    "link": "https://dev.to/one_fancyapps_71e15a2dea/your-ai-wrote-the-app-in-a-weekend-whos-watching-it-now-3kjd",
-    "topic": "general"
-  },
-  {
-    "title": "Mobile CMMS for Manufacturing \u2013 Simplify Maintenance",
-    "desc": "<p>Mobile CMMS for Manufacturing \u2013 Simplify Maintenance</p>\n\n<p>Manufacturing and facilities teams often struggle with fragmented maintenanc",
-    "link": "https://dev.to/shio_c0be3f51f0f/mobile-cmms-for-manufacturing-simplify-maintenance-1h58",
-    "topic": "general"
-  },
-  {
-    "title": "Scaling Like a Jedi: Horizontal vs Vertical",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night my side\u2011project went from \u201ccool demo\u201d to \u201coh\u2011no\u2011the",
-    "link": "https://dev.to/timevolt/scaling-like-a-jedi-horizontal-vs-vertical-3mkf",
     "topic": "general"
   }
 ]
