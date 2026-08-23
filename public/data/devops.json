@@ -1,5 +1,29 @@
 [
   {
+    "title": "kubectl Ran on the Wrong Cluster? Fix Your Context Switching",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/23/kubectl-ran-on-the-wrong-cluster-fix-your-context-switching\" rel=\"",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/kubectl-ran-on-the-wrong-cluster-fix-your-context-switching-47le",
+    "topic": "general"
+  },
+  {
+    "title": "How to Wire API Uptime, Endpoint Healthchecks, and Cron Monitoring (Without SDK Sprawl)",
+    "desc": "<p>Short answer: put public API uptime checks in UptimeRobot or Pingdom, put cron heartbeats in Healthchecks, and keep internal logs, errors",
+    "link": "https://dev.to/rivenor85/how-to-wire-api-uptime-endpoint-healthchecks-and-cron-monitoring-without-sdk-sprawl-53l3",
+    "topic": "general"
+  },
+  {
+    "title": "5 VPS Mistakes Developers Make That Quietly Slow Down Their Applications",
+    "desc": "<p>I am Arthur, and in this blog I want to talk about something many developers learn only after running a real application on a <strong>VPS",
+    "link": "https://dev.to/arthur_luca/5-vps-mistakes-developers-make-that-quietly-slow-down-their-applications-4icd",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying My First Web Server with Nginx",
+    "desc": "<p>Today I worked on a simple but important DevOps task: <strong>deploying a web server using Nginx on Ubuntu.</strong></p>\n\n<p>Instead of o",
+    "link": "https://dev.to/beny_2005/deploying-my-first-web-server-with-nginx-3phf",
+    "topic": "general"
+  },
+  {
     "title": "Are We Treating Cybersecurity as an Afterthought?",
     "desc": "<p>As developers, we spend so much time optimizing features that security architecture often becomes an afterthought. I was reading a recent",
     "link": "https://dev.to/omni_fys/are-we-treating-cybersecurity-as-an-afterthought-b3o",
@@ -21,30 +45,6 @@
     "title": "Self-Hosted LLM Inference & Serving in 2026: vLLM vs Ollama vs LocalAI vs TGI (+ Open WebUI)",
     "desc": "<p>Sending confidential company data, source code, and customer records to commercial LLM APIs exposes organizations to privacy breaches, un",
     "link": "https://dev.to/enfernandes/self-hosted-llm-inference-serving-in-2026-vllm-vs-ollama-vs-localai-vs-tgi-open-webui-mpd",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted Container Management UIs: Portainer vs Dockge vs Yacht vs Komodo (2026 Comparison)",
-    "desc": "<p>Managing Docker containers purely from the command line is great for CI/CD pipelines, but visual management dashboards provide immediate ",
-    "link": "https://dev.to/enfernandes/self-hosted-container-management-uis-portainer-vs-dockge-vs-yacht-vs-komodo-2026-comparison-19je",
-    "topic": "docker"
-  },
-  {
-    "title": "Import Error Tracking \u2014 Scheduled API Checks Send Critical Slack and Email Alerts",
-    "desc": "<p>Short answer: run a cron poll for recent unresolved critical errors, keep a durable watermark, and let your application send Slack, email",
-    "link": "https://dev.to/apexz69/import-error-tracking-scheduled-api-checks-send-critical-slack-and-email-alerts-3ifp",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Confusing Snapshots with Backups: Practical btrfs send/receive on Linux",
-    "desc": "<p>Local Btrfs snapshots feel like backups until the disk dies.</p>\n\n<p>They are fast, space-efficient, and perfect for \u201cundo that upgrade.\u201d",
-    "link": "https://dev.to/lyraalishaikh/stop-confusing-snapshots-with-backups-practical-btrfs-sendreceive-on-linux-43io",
-    "topic": "general"
-  },
-  {
-    "title": "No More Midnight Deploys: The Magic of Blue-Green Deployments",
-    "desc": "<h1>\n  \n  \n  No More Midnight Deploys: The Magic of Blue-Green Deployments\n</h1>\n\n<p>Imagine trying to upgrade the engine of a commercial ai",
-    "link": "https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29",
     "topic": "general"
   }
 ]
