@@ -1,5 +1,35 @@
 [
   {
+    "title": "Git Workflows That Actually Work at Scale",
+    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> GitFlow, GitHub Flow, or trunk-based? The real enemy is long-lived branches. Learn which workflow ",
+    "link": "https://dev.to/sri2614/git-workflows-that-actually-work-at-scale-4hpn",
+    "topic": "general"
+  },
+  {
+    "title": "The Return of the Jedi: Leveling Up Your Database Backup & Disaster Recovery Game",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think backups were that boring checkbox you tick at the end of a spr",
+    "link": "https://dev.to/timevolt/the-return-of-the-jedi-leveling-up-your-database-backup-disaster-recovery-game-5532",
+    "topic": "general"
+  },
+  {
+    "title": "Top AWS Services Every DevOps Engineer Should Know",
+    "desc": "<p>Today I learnt about the AWS services that come up again and again in DevOps work \u2014 and also in DevOps interviews.One thing the video I w",
+    "link": "https://dev.to/xcl1br/top-aws-services-every-devops-engineer-should-know-3hg9",
+    "topic": "aws"
+  },
+  {
+    "title": "Buy Old Gmail Accounts | Verified Aged & PVA ...",
+    "desc": "<p>Top 3 Sites to Buy Old Gmail Accounts In <br />\nComplete Guide </p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to",
+    "link": "https://dev.to/smmusapva197/buy-old-gmail-accounts-verified-aged-pva--58ij",
+    "topic": "general"
+  },
+  {
+    "title": "Automating DevOps/SRE Tasks with AI Agents: Real-World Use Cases and Free Open-Source Tools",
+    "desc": "<h2>\n  \n  \n  Introduction: Unleashing AI Agents in DevOps/SRE Workflows\n</h2>\n\n<p>In the trenches of DevOps and Site Reliability Engineering",
+    "link": "https://dev.to/maricode/automating-devopssre-tasks-with-ai-agents-real-world-use-cases-and-free-open-source-tools-2eg1",
+    "topic": "general"
+  },
+  {
     "title": "Dockerizing Your First App: A Hero's Journey Like in The Matrix",
     "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I tried to share a Node.js API with a teammate",
     "link": "https://dev.to/timevolt/dockerizing-your-first-app-a-heros-journey-like-in-the-matrix-20f6",
@@ -16,35 +46,5 @@
     "desc": "<h2>\n  \n  \n  \ud83d\udd25 Why These Challenges?\n</h2>\n\n<p>DG AI and DG Encoder were built to break barriers and empower devs. Now it\u2019s time to push tha",
     "link": "https://dev.to/daivik_dagar_f88cb5415125/dg-ai-code-challenge-become-senior-dev-unlock-exclusive-perks-56gc",
     "topic": "general"
-  },
-  {
-    "title": "Linux Security Checklist for Production Servers",
-    "desc": "<blockquote>\n<p>A step-by-step practical guide to locking down SSH, configuring firewalls, enforcing least privilege, hardening the kernel, ",
-    "link": "https://dev.to/asepsayyad007/linux-security-checklist-for-production-servers-1p12",
-    "topic": "secops"
-  },
-  {
-    "title": "The enum value that had never been written",
-    "desc": "<p>I found 27 workflow branches that were being skipped while every run still finished as <code>COMPLETED</code>.</p>\n\n<p>The condition on t",
-    "link": "https://dev.to/aghassis/the-enum-value-that-had-never-been-written-2j7c",
-    "topic": "general"
-  },
-  {
-    "title": "Your Uptime Monitor Says 200. Your Contact Form Has Been Dead for Three Days.",
-    "desc": "<p>The contact form on a company site I look after stopped producing leads. Not \"fewer leads\" \u2014 zero, for three days. No alert fired. The up",
-    "link": "https://dev.to/mahmut_gndzalp_c736ac4b/your-uptime-monitor-says-200-your-contact-form-has-been-dead-for-three-days-1n1p",
-    "topic": "general"
-  },
-  {
-    "title": "AI Agent Governance & Bounded Autonomy: The 2026 Developer Guide",
-    "desc": "<p>As artificial intelligence agents transition from experimental assistants to autonomous systems making critical decisions, a massive engi",
-    "link": "https://dev.to/codebit26/ai-agent-governance-bounded-autonomy-the-2026-developer-guide-41ne",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying Self Hosted Telegram Bots with Docker",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<p>Before we dive into building and deploying our containerized bot, here is what you need in your stac",
-    "link": "https://dev.to/chasebot/deploying-self-hosted-telegram-bots-with-docker-2kl9",
-    "topic": "docker"
   }
 ]
