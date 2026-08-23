@@ -1,5 +1,41 @@
 [
   {
+    "title": "\ud83e\uddd0 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform",
+    "desc": "<h2>\n  \n  \n  Hola Amigos \ud83d\udc4b\n</h2>\n\n<p>Welcome to the world of Cloud and Automation!</p>\n\n<p>AWS launched <strong>ECS Express Mode</strong> in",
+    "link": "https://dev.to/aws-builders/ecs-express-mode-vs-traditional-ecs-a-hands-on-comparison-with-terraform-cnp",
+    "topic": "terraform"
+  },
+  {
+    "title": "Shared vs VPS vs Cloud Hosting: Which Do You Actually Need?",
+    "desc": "<h1>\n  \n  \n  Shared vs VPS vs Cloud Hosting: Which Do You Actually Need?\n</h1>\n\n<p>We've deployed 50+ websites across different hosting prov",
+    "link": "https://dev.to/astap/shared-vs-vps-vs-cloud-hosting-which-do-you-actually-need-2hn8",
+    "topic": "general"
+  },
+  {
+    "title": "Terraform vs AWS CDK: Why I Chose CDK for Autowired.ai (And When I Wouldn't)",
+    "desc": "<p>I've used both tools in production. Terraform for different platforms \u2014 multi-team, multi-cloud, years of accumulated state. AWS CDK with",
+    "link": "https://dev.to/yogieee/terraform-vs-aws-cdk-why-i-chose-cdk-for-autowiredai-and-when-i-wouldnt-13fb",
+    "topic": "aws"
+  },
+  {
+    "title": "How I Built Smart Scraper M2M: A Fast ~30ms Scraper API for AI Agents",
+    "desc": "<p>Building AI Agents with frameworks like CrewAI or LangChain often hits a bottleneck: <strong>heavy, slow web scraping</strong> that bloat",
+    "link": "https://dev.to/hasna_dev2/how-i-built-smart-scraper-m2m-a-fast-30ms-scraper-api-for-ai-agents-1k9f",
+    "topic": "general"
+  },
+  {
+    "title": "Your Mobile Suite Isn't Slow, It's Serial",
+    "desc": "<p>A 400-test Appium suite that takes 90 minutes is not usually 90 minutes of slow tests. It's 90 minutes of one device doing 400 things in ",
+    "link": "https://dev.to/krish_pavuluri/your-mobile-suite-isnt-slow-its-serial-5aom",
+    "topic": "general"
+  },
+  {
+    "title": "Flaky Mobile Tests: A Triage Order That Actually Converges",
+    "desc": "<p>Most teams don't fix flakiness. They add a retry, watch the suite go green, and move on \u2014 and six months later nobody trusts a red build,",
+    "link": "https://dev.to/krish_pavuluri/flaky-mobile-tests-a-triage-order-that-actually-converges-29ho",
+    "topic": "general"
+  },
+  {
     "title": "Virtual Machines Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Aug 16 \u2013 Aug 22, 2026",
     "desc": "<h2>\n  \n  \n  \ud83d\udda5\ufe0f Virtual Machines \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Aug 16 \u2013 Aug 22, 2026 | <strong>Total r",
     "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-aug-16-aug-22-2026-2n5o",
@@ -10,41 +46,5 @@
     "desc": "<p>I Built an AI That Fixes Terraform Drift Automatically</p>\n\n<p>If you've worked with Terraform long enough, you know the feeling. You run",
     "link": "https://dev.to/sudarshan_thakur_1e141b99/i-built-an-ai-that-fixes-terraform-drift-automatically-p97",
     "topic": "terraform"
-  },
-  {
-    "title": "Ditching Retool: Self-Hosted Low-Code & Internal Tool Platforms in 2026 (Appsmith vs ToolJet vs Budibase)",
-    "desc": "<h1>\n  \n  \n  Self-Hosted Low-Code & Internal Tools in 2026: Appsmith vs ToolJet vs Budibase (Replace Retool & Superblocks)\n</h1>\n\n<p>Every e",
-    "link": "https://dev.to/enfernandes/ditching-retool-self-hosted-low-code-internal-tool-platforms-in-2026-appsmith-vs-tooljet-vs-2oge",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted Document Management in 2026: Paperless-ngx vs Docspell vs Mayan EDMS",
-    "desc": "<h1>\n  \n  \n  Self-Hosted Document Management & OCR in 2026: Paperless-ngx vs Docspell vs Mayan EDMS\n</h1>\n\n<p>Businesses and individuals gen",
-    "link": "https://dev.to/enfernandes/self-hosted-document-management-in-2026-paperless-ngx-vs-docspell-vs-mayan-edms-njm",
-    "topic": "general"
-  },
-  {
-    "title": "Your internet is capped at ~95 Mbps on a gigabit plan \u2014 the 100Mbps negotiation trap",
-    "desc": "<p>I've seen this exact post a hundred times: \"I pay for 500 Mbps fiber and I only get 80.\" Usually the ISP gets blamed, sometimes the route",
-    "link": "https://dev.to/milkyway008/your-internet-is-capped-at-95-mbps-on-a-gigabit-plan-the-100mbps-negotiation-trap-4pim",
-    "topic": "general"
-  },
-  {
-    "title": "The sudoers.d Trap That'll Waste an Hour of Your Life",
-    "desc": "<h1>\n  \n  \n  The Sudoers.d Trap That'll Waste an Hour of Your Life\n</h1>\n\n<p>If you've ever dropped a file into <code>/etc/sudoers.d/</code>",
-    "link": "https://dev.to/schiff_heimlich/the-sudoersd-trap-thatll-waste-an-hour-of-your-life-42ck",
-    "topic": "general"
-  },
-  {
-    "title": "Silence Is a Feature",
-    "desc": "<p>Originally published at <a href=\"https://aradar.top/posts/silence-is-a-feature/\" rel=\"noopener noreferrer\">aradar.top.</a></p>\n\n<p>The se",
-    "link": "https://dev.to/aradar46/silence-is-a-feature-2om5",
-    "topic": "general"
-  },
-  {
-    "title": "Free AI Infrastructure Isn't a Compromise. It's a Constraint Class.",
-    "desc": "<h1>\n  \n  \n  Free AI Infrastructure Isn't a Compromise. It's a Constraint Class.\n</h1>\n\n<p>Here's the conclusion up front: free AI infrastru",
-    "link": "https://dev.to/hackjs_7468/free-ai-infrastructure-isnt-a-compromise-its-a-constraint-class-15md",
-    "topic": "general"
   }
 ]
