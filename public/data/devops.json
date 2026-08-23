@@ -1,50 +1,50 @@
 [
   {
-    "title": "My Postgres AI automation stopped acting haunted when I added 7 boring database guardrails",
-    "desc": "<p>I knew we had a real problem when an agent \u201csuccessfully\u201d updated a customer record that was not, in any useful sense, the customer it wa",
-    "link": "https://dev.to/lars_winstand/my-postgres-ai-automation-stopped-acting-haunted-when-i-added-7-boring-database-guardrails-43fp",
+    "title": "The Self-Hosted LLM Breakeven Point Isn't 2M Tokens a Day. It's a Ratio.",
+    "desc": "<p>Self-hosting an LLM is not automatically cheaper. This is the single most common mistake in these calculations: people price the GPU, com",
+    "link": "https://dev.to/alpacked/the-self-hosted-llm-breakeven-point-isnt-2m-tokens-a-day-its-a-ratio-5geh",
+    "topic": "general"
+  },
+  {
+    "title": "The blog that invented its own infrastructure",
+    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/blog-invented-its-stack-field-note\" rel=\"noopener noreferrer\">aideazz.xyz</a> \u2014",
+    "link": "https://dev.to/elenarevicheva/the-blog-that-invented-its-own-infrastructure-2e95",
+    "topic": "general"
+  },
+  {
+    "title": "MCP Gateways for Governed Access: The Top 5 Platforms in 2026",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/mcp-gateways-for-governed-access-the-top-5-platforms-in-2026-ief",
+    "topic": "general"
+  },
+  {
+    "title": "Enterprise MCP Gateways: Top Solutions for MCP Authentication",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/enterprise-mcp-gateways-top-solutions-for-mcp-authentication-4fco",
+    "topic": "general"
+  },
+  {
+    "title": "Best Enterprise AI Gateway to Reduce LLM Token Cost in 2026",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/best-enterprise-ai-gateway-to-reduce-llm-token-cost-in-2026-423e",
+    "topic": "general"
+  },
+  {
+    "title": "Best Enterprise LLM Gateway to Control LLM Cost",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/best-enterprise-llm-gateway-to-control-llm-cost-43ol",
+    "topic": "general"
+  },
+  {
+    "title": "Top 5 Vercel AI Gateway Alternatives for Enterprise AI Governance",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/top-5-vercel-ai-gateway-alternatives-for-enterprise-ai-governance-5alb",
     "topic": "guardrails"
   },
   {
-    "title": "Log Management at Scale: How We Cut Costs 70% Without Losing Signal",
-    "desc": "<h2>\n  \n  \n  $12,000/Month for Logs Nobody Reads\n</h2>\n\n<p>Our logging bill was $12,000/month. We were ingesting 2TB/day. When I asked the t",
-    "link": "https://dev.to/samson_tanimawo/log-management-at-scale-how-we-cut-costs-70-without-losing-signal-3i8g",
-    "topic": "general"
-  },
-  {
-    "title": "SSH Survival Guide: Your Server Is Already Being Scanned",
-    "desc": "<p>If you run a server exposed to the Internet, there is one thing you should probably accept:</p>\n\n<p><strong>Your server is being scanned.",
-    "link": "https://dev.to/rentierdigital/ssh-survival-guide-your-server-is-already-being-scanned-4i3g",
-    "topic": "general"
-  },
-  {
-    "title": "Scrum Myths We Retired After Thursday Spillover",
-    "desc": "<p><em>What our platform team learned when sprint planning met production work.</em></p>\n\n<p>By 15:17 on Thursday, six of the nine cards we ",
-    "link": "https://dev.to/devops_oasis/scrum-myths-we-retired-after-thursday-spillover-5095",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes NetworkPolicy Rules We Can Actually Prove",
-    "desc": "<p><em>Build a locked-down namespace, then test every allowed connection ourselves.</em></p>\n\n<p>The <code>orders-api</code> namespace was a",
-    "link": "https://dev.to/devops_oasis/kubernetes-networkpolicy-rules-we-can-actually-prove-1od1",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Muay Thai Timer For Beginners: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/muay-thai-timer-for-beginners-what-we-learned-building-random-tactical-timer-26ac",
-    "topic": "general"
-  },
-  {
-    "title": "Four products passed their tests. Then I tested them.",
-    "desc": "<p>Every one of these had a green suite. 161 tests on the portfolio, 77 on the budget proxy, 53 on the<br />\nconformance checker, 78 on the ",
-    "link": "https://dev.to/raghubuilds/four-products-passed-their-tests-then-i-tested-them-1cp",
-    "topic": "general"
-  },
-  {
-    "title": "Build a Pricing-Aware Request Queue for AI Gateways",
-    "desc": "<h1>\n  \n  \n  Build a Pricing-Aware Request Queue for AI Gateways\n</h1>\n\n<p>Most AI cost controls are added after dispatch. A request enters ",
-    "link": "https://dev.to/aiwave/build-a-pricing-aware-request-queue-for-ai-gateways-27n1",
+    "title": "Top 5 Cloudflare AI Gateway Alternatives for Enterprises in 2026",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/top-5-cloudflare-ai-gateway-alternatives-for-enterprises-in-2026-5h96",
     "topic": "general"
   }
 ]
