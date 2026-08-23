@@ -1,5 +1,11 @@
 [
   {
+    "title": "Dockerizing Your First App: A Hero's Journey Like in The Matrix",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I tried to share a Node.js API with a teammate",
+    "link": "https://dev.to/timevolt/dockerizing-your-first-app-a-heros-journey-like-in-the-matrix-20f6",
+    "topic": "docker"
+  },
+  {
     "title": "Magento 2 Linux Server Tuning: Kernel, Filesystem & I/O Settings That Actually Matter",
     "desc": "<p>Most Magento 2 performance work stops at the application layer: PHP-FPM pools, Nginx config, MySQL buffers, Redis, Varnish. That's where ",
     "link": "https://dev.to/magevanta/magento-2-linux-server-tuning-kernel-filesystem-io-settings-that-actually-matter-481c",
@@ -40,11 +46,5 @@
     "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<p>Before we dive into building and deploying our containerized bot, here is what you need in your stac",
     "link": "https://dev.to/chasebot/deploying-self-hosted-telegram-bots-with-docker-2kl9",
     "topic": "docker"
-  },
-  {
-    "title": "The best harness is the one you can't see",
-    "desc": "<p>Agent tooling keeps trying to give me a better seat in front of the factory. I don't want a better seat. I want no seat.</p>\n\n<p>Six tool",
-    "link": "https://dev.to/generalist_dev/the-best-harness-is-the-one-you-cant-see-4g3c",
-    "topic": "general"
   }
 ]
