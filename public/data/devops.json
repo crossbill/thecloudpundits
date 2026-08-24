@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building a Secure Self-Hosted Observability Pipeline for an AI Evaluation Platform",
-    "desc": "<p>When building an AI evaluation platform, it is tempting to begin with dashboards, models, and scoring frameworks.</p>\n\n<p>We started with",
-    "link": "https://dev.to/starkprince/building-a-secure-self-hosted-observability-pipeline-for-an-ai-evaluation-platform-53b0",
+    "title": "Template Ownership for Node.js Welcome Emails: Evaluating Resend and Postmark",
+    "desc": "<p>Short answer: for the easiest Node.js setup, choose the provider whose template ownership matches your deployment model; keep templates i",
+    "link": "https://dev.to/mitchellcross2134/template-ownership-for-nodejs-welcome-emails-evaluating-resend-and-postmark-5a22",
     "topic": "general"
   },
   {
-    "title": "Vercel's comments CLI (20 Aug 2026) drops the delete prompt in JSON mode, and its doc is dated 2018",
-    "desc": "<h1>\n  \n  \n  Vercel's comments CLI (20 Aug 2026) drops the delete prompt in JSON mode, and its doc is dated 2018\n</h1>\n\n<p><strong>Summary.<",
-    "link": "https://dev.to/mr_manushukla/vercels-comments-cli-20-aug-2026-drops-the-delete-prompt-in-json-mode-and-its-doc-is-dated-2018-bm6",
+    "title": "Kusama Migration: Update Your RPC Endpoints Now",
+    "desc": "<h2>\n  \n  \n  Quick Migration Checkpoints\n</h2>\n\n<p>If you are a developer or infrastructure operator on Kusama, the migration to Asset Hub c",
+    "link": "https://dev.to/onfinality/kusama-migration-update-your-rpc-endpoints-now-4foh",
     "topic": "general"
   },
   {
-    "title": "Vercel CLI's August 2026 project and domain commands block CI: 8 prompts have no skip flag",
-    "desc": "<h1>\n  \n  \n  Vercel CLI's August 2026 project and domain commands block CI: 8 prompts have no skip flag\n</h1>\n\n<p><strong>Summary.</strong> ",
-    "link": "https://dev.to/mr_manushukla/vercel-clis-august-2026-project-and-domain-commands-block-ci-8-prompts-have-no-skip-flag-28aa",
+    "title": "Composable RPC: Endpoints, Dedicated Nodes & Integration",
+    "desc": "<h2>\n  \n  \n  Quick Recommendation: Public Endpoint or Dedicated Node?\n</h2>\n\n<p>Before diving into the technical details, decide which Compo",
+    "link": "https://dev.to/onfinality/composable-rpc-endpoints-dedicated-nodes-integration-11l1",
     "topic": "general"
   },
   {
-    "title": "Stop manually auditing IAM: Bringing Identity Management into the LLM loop",
-    "desc": "<p>Most of our time as engineers isn't spent building core logic. It's spent on the plumbing\u2014managing user lifecycles, fixing permission dri",
-    "link": "https://dev.to/renato_marinho/stop-manually-auditing-iam-bringing-identity-management-into-the-llm-loop-9g9",
-    "topic": "secops"
-  },
-  {
-    "title": "LangGraph: Orchestrate a Swarm of AI Agents with One Graph",
-    "desc": "<p>A single AI assistant is already standard in many teams: ask a question, get an answer, like chatting with a seasoned hand. But the momen",
-    "link": "https://dev.to/databufflabs/langgraph-orchestrate-a-swarm-of-ai-agents-with-one-graph-4b1f",
+    "title": "Sonic Network RPC: Chain Settings, Endpoints & Providers",
+    "desc": "<h2>\n  \n  \n  Quick decision guide: which Sonic RPC should you use?\n</h2>\n\n<p>Before diving into the chain settings, decide which type of Son",
+    "link": "https://dev.to/onfinality/sonic-network-rpc-chain-settings-endpoints-providers-4l75",
     "topic": "general"
   },
   {
-    "title": "Fix Terraform Deposed Object Panic in readDiff on 1.15",
-    "desc": "<p>On Terraform 1.15.x, <code>terraform apply</code> can end in a Go stack trace rather than a diagnostic: <code>panic: runtime error: inval",
-    "link": "https://dev.to/indra_gustiprasetya_a80a/fix-terraform-deposed-object-panic-in-readdiff-on-115-581e",
-    "topic": "terraform"
+    "title": "Polygon MATIC API: RPC, SDKs, and Endpoints",
+    "desc": "<h2>\n  \n  \n  Quick Decision Guide: Which Polygon API Do You Need?\n</h2>\n\n<p>Before diving into endpoints and SDKs, it helps to map the Polyg",
+    "link": "https://dev.to/onfinality/polygon-matic-api-rpc-sdks-and-endpoints-5fpo",
+    "topic": "general"
   },
   {
-    "title": "Fix Terraform \"The deprecation originates from\" Warnings",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Terraform 1.15 reports a deprecated attribute you never referenced because deprecation rides inside ",
-    "link": "https://dev.to/indra_gustiprasetya_a80a/fix-terraform-the-deprecation-originates-from-warnings-2545",
-    "topic": "terraform"
+    "title": "Crust Network Staking: GPoS, Validators, and RPC Monitoring",
+    "desc": "<h2>\n  \n  \n  Quick decision guide: what to check before staking CRU\n</h2>\n\n<p>Before you stake CRU, you need to decide whether you want to r",
+    "link": "https://dev.to/onfinality/crust-network-staking-gpos-validators-and-rpc-monitoring-d16",
+    "topic": "general"
   },
   {
-    "title": "Your Agent Gateway Needs Failure-Domain Tests, Not Just a Health Check",
-    "desc": "<p>A green health check can coexist with a broken agent.</p>\n\n<p>The process may be listening, the dashboard may say \"healthy\", and yet:</p>",
-    "link": "https://dev.to/zira125/your-agent-gateway-needs-failure-domain-tests-not-just-a-health-check-54fc",
+    "title": "Acala RPC Endpoints: Chain Settings, EVM+ & Dedicated Nodes",
+    "desc": "<h2>\n  \n  \n  Quick Decision Guide: Which Acala RPC Setup Should You Use?\n</h2>\n\n<p>Before diving into endpoint lists, decide what your workl",
+    "link": "https://dev.to/onfinality/acala-rpc-endpoints-chain-settings-evm-dedicated-nodes-5ih",
+    "topic": "general"
+  },
+  {
+    "title": "The Software Craftsman\u2019s Day One: Why My First Week of Startup Life Had No Business Logic",
+    "desc": "<p>Being made redundant from a position where I defined patterns and practices for a high-performance team, I decided to take the leap to cr",
+    "link": "https://dev.to/brettryan/the-software-craftsmans-day-one-why-my-first-week-of-startup-life-had-no-business-logic-d2g",
     "topic": "general"
   }
 ]
