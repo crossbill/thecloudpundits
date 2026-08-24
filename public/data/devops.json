@@ -1,5 +1,41 @@
 [
   {
+    "title": "Free vs Paid IP Stresser: What You Are Actually Paying For",
+    "desc": "<h2>\n  \n  \n  The Real Gap Between Free and Paid IP Stressers\n</h2>\n\n<p>Everyone wants free. The keyword \"free DDoS\" gets more search volume ",
+    "link": "https://dev.to/zerodawnipstress/free-vs-paid-ip-stresser-what-you-are-actually-paying-for-2h54",
+    "topic": "general"
+  },
+  {
+    "title": "Opinion: The Deleted Lines in Your Diff Are the Riskiest Code You Merge",
+    "desc": "<p>The riskiest code in any pull request is not the code you added; it is the code you removed. Reviewers spend their attention on the green",
+    "link": "https://dev.to/github_7727/opinion-the-deleted-lines-in-your-diff-are-the-riskiest-code-you-merge-23o3",
+    "topic": "general"
+  },
+  {
+    "title": "AWS IAM Security Best Practices: Enforcing Least Privilege via CLI",
+    "desc": "<p>Identity and Access Management (IAM) is the backbone of AWS security. However, misconfigured IAM policies often grant excessive permissio",
+    "link": "https://dev.to/maxin_fc5ef26718835f32fde/aws-iam-security-best-practices-enforcing-least-privilege-via-cli-42ck",
+    "topic": "aws"
+  },
+  {
+    "title": "groq/llama-3.3-70b-versatile is not on Groq's model list anymore",
+    "desc": "<p>Groq's model lineup rotated \u2014 the current chat models are gpt-oss-120b, gpt-oss-20b and qwen3.6-27b, and the Llama-era IDs that every Lit",
+    "link": "https://dev.to/build996/groqllama-33-70b-versatile-is-not-on-groqs-model-list-anymore-1gef",
+    "topic": "general"
+  },
+  {
+    "title": "We Restored the Docker Cache. The Build Still Started From Scratch.",
+    "desc": "<p>** We Restored the Docker Cache. The Build Still Started From Scratch. **</p>\n\n<p>\ud83d\udc49 <a href=\"https://www.kubeblogs.com/we-restored-the-do",
+    "link": "https://dev.to/divyansh_singh_9d308cd60f/we-restored-the-docker-cache-the-build-still-started-from-scratch-2b2",
+    "topic": "docker"
+  },
+  {
+    "title": "Azure RBAC: Owner vs Contributor vs Reader (and when to use each)",
+    "desc": "<p>There are hundreds of built-in Azure roles, but three cover most of what you do \u2014 and the difference between two of them is the single mo",
+    "link": "https://dev.to/kloudcaptain/azure-rbac-owner-vs-contributor-vs-reader-and-when-to-use-each-8b9",
+    "topic": "azure"
+  },
+  {
     "title": "How to bring static analysis into your project: a practical guide for managers",
     "desc": "<p>Static code analysis stopped being a tool just for developers a long time ago. For product managers, technical directors, and information",
     "link": "https://dev.to/pvsdev/how-to-bring-static-analysis-into-your-project-a-practical-guide-for-managers-36i",
@@ -9,42 +45,6 @@
     "title": "Brabic Shapewear: The Ultimate Guide to Choosing Your Perfect Body Shaper",
     "desc": "<p>Brabic has emerged as a trusted name in the shapewear industry, serving over 130,000 satisfied customers worldwide. With a commitment to ",
     "link": "https://dev.to/yu_yang_f26414a1d7a176c97/brabic-shapewear-the-ultimate-guide-to-choosing-your-perfect-body-shaper-11ol",
-    "topic": "general"
-  },
-  {
-    "title": "Shape Your Style: The Nebility Story of Innovation and Empowerment",
-    "desc": "<p>In the competitive world of shapewear, one brand has distinguished itself through a relentless commitment to technology, innovation, and ",
-    "link": "https://dev.to/ersajay/shape-your-style-the-nebility-story-of-innovation-and-empowerment-5c0k",
-    "topic": "general"
-  },
-  {
-    "title": "No Ads Combat Conditioning: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/no-ads-combat-conditioning-what-we-learned-building-random-tactical-timer-3kf",
-    "topic": "general"
-  },
-  {
-    "title": "Backing up a homelab with restic",
-    "desc": "<p>I have written a lot here about running things at home and almost nothing about not losing them, which is a strange gap for someone who k",
-    "link": "https://dev.to/peculiarengineer/backing-up-a-homelab-with-restic-ldi",
-    "topic": "general"
-  },
-  {
-    "title": "Enrich Elasticsearch Logs With GeoIP at Ingest",
-    "desc": "<p>An access log full of raw IPs can't answer where a traffic spike came from. Elasticsearch GeoIP fixes that at write time, enriching publi",
-    "link": "https://dev.to/abdullah_afzal/enrich-elasticsearch-logs-with-geoip-at-ingest-5h03",
-    "topic": "general"
-  },
-  {
-    "title": "Monitoring Costs Are Out of Control \u2014 Here's How to Fix It",
-    "desc": "<h2>\n  \n  \n  The $50K/Month Monitoring Bill\n</h2>\n\n<p>I audited our monitoring stack last quarter. The total cost across all tools: $52,000/",
-    "link": "https://dev.to/samson_tanimawo/monitoring-costs-are-out-of-control-heres-how-to-fix-it-47fa",
-    "topic": "general"
-  },
-  {
-    "title": "How to Turn an AI-Generated Daily Executive Report Into Context for Tomorrow\u2019s Decisions",
-    "desc": "<p>The numbers already exist.</p>\n\n<p>They are in BigQuery, GA4, Sentry, and Google Sheets. The recurring work is collecting yesterday\u2019s dat",
-    "link": "https://dev.to/yuichi-tanaka/how-to-turn-an-ai-generated-daily-executive-report-into-context-for-tomorrows-decisions-3g5h",
     "topic": "general"
   }
 ]
