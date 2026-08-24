@@ -1,50 +1,50 @@
 [
   {
-    "title": "SPF, DKIM, and DMARC: Why \u201cValid\u201d Records Still Let Your Domain Be Spoofed",
-    "desc": "<p><em>Originally published on the <a href=\"https://merlonix.com/blog/spf-dkim-dmarc-valid-but-spoofable/\" rel=\"noopener noreferrer\">Merloni",
-    "link": "https://dev.to/merlonix/spf-dkim-and-dmarc-why-valid-records-still-let-your-domain-be-spoofed-5hg8",
+    "title": ".NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets",
+    "desc": "<p>.NET 10 NU1510 package pruning can turn an SDK upgrade into a failed restore when a repository promotes warnings to errors. The tempting ",
+    "link": "https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd",
     "topic": "general"
   },
   {
-    "title": "The Fellowship of Secure Code: Secrets, SSL, and Firewalls",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think security was something you bolted on after the fun part\u2014writin",
-    "link": "https://dev.to/timevolt/the-fellowship-of-secure-code-secrets-ssl-and-firewalls-42fp",
+    "title": "Every Metric Needs A Set Point, Or It Is Just A Number",
+    "desc": "<p>Human physiology has been running production monitoring for a few hundred million years, and it does one thing that most engineering dash",
+    "link": "https://dev.to/paulcrinigan/every-metric-needs-a-set-point-or-it-is-just-a-number-3gel",
     "topic": "general"
   },
   {
-    "title": "Fix CORS Errors in Node.js Fast \u2013 Complete Guide for Developers",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Cross\u2011Origin Resource Sharing (CORS) errors are a common hurdle when building fast APIs with Node.js. Th",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-cors-errors-in-nodejs-fast-complete-guide-for-developers-1743",
+    "title": "# The AI Stack Is Getting Thicker \u2014 And We Are Building Around the Wrong Abstraction",
+    "desc": "<p>Over the last few years, the conversation around AI infrastructure has been dominated by a relatively simple question: who has the most c",
+    "link": "https://dev.to/t474r0b07/-the-ai-stack-is-getting-thicker-and-we-are-building-around-the-wrong-abstraction-4f90",
     "topic": "general"
   },
   {
-    "title": "Structured Data for AI Answer Engines: Why JSON-LD Decides Whether You Get Cited",
-    "desc": "<p><em>Originally published on the <a href=\"https://merlonix.com/blog/json-ld-structured-data-for-ai-answer-engines/\" rel=\"noopener noreferr",
-    "link": "https://dev.to/merlonix/structured-data-for-ai-answer-engines-why-json-ld-decides-whether-you-get-cited-4mad",
+    "title": "You Found the ERROR. The Cause Is in the Lines Before It",
+    "desc": "<p>A real incident investigation starts the moment you find the ERROR line. <strong>The ERROR is the result \u2014 the cause is usually upstream.",
+    "link": "https://dev.to/_156a59a8566fe532e165/you-found-the-error-the-cause-is-in-the-lines-before-it-1ij2",
     "topic": "general"
   },
   {
-    "title": "Day 31: Stash Keeps What Status Won't Show, and Private Is a Flag, Not a Subnet",
-    "desc": "<p>Both of today's tasks involved something real that the interface never mentions. Git keeps work in a place that <code>git status</code> w",
-    "link": "https://dev.to/ndcodes/day-31-stash-keeps-what-status-wont-show-and-private-is-a-flag-not-a-subnet-1hkc",
+    "title": "Is Your CDN Actually Caching? Audit Hit Ratio and Asset Fan-Out Before You Migrate Buckets",
+    "desc": "<p>Before you move a bucket to escape egress fees, measure two things: your <strong>byte-weighted cache hit ratio</strong> and your <strong>",
+    "link": "https://dev.to/libme/is-your-cdn-actually-caching-audit-hit-ratio-and-asset-fan-out-before-you-migrate-buckets-4ef5",
     "topic": "general"
   },
   {
-    "title": "llms.txt Explained: What It Is, Whether AI Answer Engines Read It, and How to Write One",
-    "desc": "<p><em>Originally published on the <a href=\"https://merlonix.com/blog/what-is-llms-txt/\" rel=\"noopener noreferrer\">Merlonix blog</a>.</em></",
-    "link": "https://dev.to/merlonix/llmstxt-explained-what-it-is-whether-ai-answer-engines-read-it-and-how-to-write-one-5gof",
+    "title": "Cheapest App Log Management for Startups in Europe and the US",
+    "desc": "<p>Short answer: the cheapest log management choice is the one that preserves enough structured context to reconstruct a failed checkout, wh",
+    "link": "https://dev.to/yancysterling6529/cheapest-app-log-management-for-startups-in-europe-and-the-us-1i9d",
     "topic": "general"
   },
   {
-    "title": "From Zero to Deployed: Build a CI Failure Explainer Bot With Free Model Access",
-    "desc": "<p>AI agents write more code every week. The debate about whether that is good is all over DEV right now. The practical problem is quieter: ",
-    "link": "https://dev.to/airs_6907/from-zero-to-deployed-build-a-ci-failure-explainer-bot-with-free-model-access-50b6",
+    "title": "Why .env.example Gets Out of Sync \u2014 and What Actually Fixes It",
+    "desc": "<h2>\n  \n  \n  Quick answer\n</h2>\n\n<p><code>.env.example</code> goes out of sync because it's a plain text file with no way to enforce that it",
+    "link": "https://dev.to/rabbilyasar/why-envexample-gets-out-of-sync-and-what-actually-fixes-it-1a76",
     "topic": "general"
   },
   {
-    "title": "Your Free AI Server Has a Load Ceiling. Probe It.",
-    "desc": "<p>Free tokens get the headlines. The free server is where the promise actually breaks. Load-test it before you trust it with real work.</p>",
-    "link": "https://dev.to/codepro_4664/your-free-ai-server-has-a-load-ceiling-probe-it-2if2",
+    "title": "How to Choose the Right Tech Stack in 2026: A Practical Framework",
+    "desc": "<p>Every few months, a founder, product manager, or engineering team asks:</p>\n\n<p>\"What technology stack should we use?\"</p>\n\n<p>It sounds ",
+    "link": "https://dev.to/mtayyab/how-to-choose-the-right-tech-stack-in-2026-a-practical-framework-220b",
     "topic": "general"
   }
 ]
