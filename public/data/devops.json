@@ -1,50 +1,50 @@
 [
   {
-    "title": "Opinion: The Most Dangerous Regression Is the One Inside Your Review Tool",
-    "desc": "<p>You track regressions in your application, your dependencies, and your CI pipeline, but the AI reviewer that gates your pull requests is ",
-    "link": "https://dev.to/github_7727/opinion-the-most-dangerous-regression-is-the-one-inside-your-review-tool-g7b",
+    "title": "What the OpenAI Sandbox Escape Teaches Us About Isolating Agentic Systems",
+    "desc": "<p>If you're building anything with agentic AI right now tool-calling, code execution, autonomous multi-step tasks the OpenAI\u2013Hugging Face i",
+    "link": "https://dev.to/diginatives-llc/what-the-openai-sandbox-escape-teaches-us-about-isolating-agentic-systems-3mmd",
+    "topic": "openai"
+  },
+  {
+    "title": "CMMC Compliance for Dev Teams What a Registered Practitioner Actually Checks",
+    "desc": "<p>If your engineering team ships software or handles data for a defense contractor, at some point \"CMMC\" is going to land on your roadmap w",
+    "link": "https://dev.to/diginatives-llc/cmmc-compliance-for-dev-teams-what-a-registered-practitioner-actually-checks-4dcc",
     "topic": "general"
   },
   {
-    "title": "Challenges of Implementing AI in Healthcare",
-    "desc": "<h1>\n  \n  \n  Challenges of Implementing AI in Healthcare\n</h1>\n\n<p>Artificial intelligence is changing how healthcare organizations manage d",
-    "link": "https://dev.to/alex_sebastian/challenges-of-implementing-ai-in-healthcare-39kp",
+    "title": "Cloud Migration vs. Cloud Modernization: Which Strategy Is Right for Your Business?",
+    "desc": "<p>Moving to the cloud is no longer just an infrastructure decision. For growing businesses, it can affect application performance, scalabil",
+    "link": "https://dev.to/sanskar_bhavsar/cloud-migration-vs-cloud-modernization-which-strategy-is-right-for-your-business-epo",
     "topic": "general"
   },
   {
-    "title": "Corporate Training for DevOps, Cloud & AI Engineering Skills",
-    "desc": "<p>\ud83d\ude80 Build the Future with Next-Gen DevOps, Cloud & AI Engineering! \u2601\ufe0f\ud83e\udd16<br />\nTake your technical career to the next level with Visualpath C",
-    "link": "https://dev.to/kalyan_visualpath_42cb693/corporate-training-for-devops-cloud-ai-engineering-skills-3h4g",
+    "title": "Tetragon now documents when it ships a new version",
+    "desc": "<p>Tetragon is an eBPF tool for watching processes, files, and network activity on a Linux node, and for enforcing policies at runtime. A lo",
+    "link": "https://dev.to/kazuru_73322ef9a7d6ed2b18/tetragon-now-documents-when-it-ships-a-new-version-3f0n",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Quest: From Localhost to Production (A Lord of the Rings Tale)",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think \u201cjust run <code>docker run</code> and call it a day.\u201d I\u2019d spin",
-    "link": "https://dev.to/timevolt/kubernetes-quest-from-localhost-to-production-a-lord-of-the-rings-tale-20j5",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Modern World and Technology",
-    "desc": "",
-    "link": "https://dev.to/isurusahanjaya18/modern-world-and-technology-55h9",
+    "title": "DevSecOps by Design: How to Build Secure Cloud Architectures from Day One",
+    "desc": "<p>Modern cloud architecture is no longer only about scalability, availability, performance, and cost.</p>\n\n<p>Security has to be part of th",
+    "link": "https://dev.to/umaid777/devsecops-by-design-how-to-build-secure-cloud-architectures-from-day-one-2d47",
     "topic": "general"
   },
   {
-    "title": "Which platforms will be most popular in LLM gateways in 2026?",
-    "desc": "<p>LLM Gateways Are Gaining Traction in 2026.On one side, model supply is exploding and prices change daily; on the other, business teams ju",
-    "link": "https://dev.to/roxanaye/which-platforms-will-be-most-popular-in-llm-gateways-in-2026-ohh",
+    "title": "99 Best Site for How to Purchase Old Telegram Accounts ...",
+    "desc": "<p>Buy Old Telegram Accounts\u00a0<br />\n\ud83d\udcac\ud83d\udcde WE\u2019RE ONLINE & READY TO ASSIST YOU 24/7! \ud83d\udcde\ud83d\udcac<br />\n\u27a5 \ud83d\udd25\ud83d\udcf2 Telegram: @getpvatop<br />\n\u27a5 \u26a1\ud83d\udcac WhatsApp: +1 (",
+    "link": "https://dev.to/biddymoses757r6/99-best-site-for-how-to-purchase-old-telegram-accounts--h3j",
     "topic": "general"
   },
   {
-    "title": "From Zero to First Migration: How Much Setup Do Flyway, Liquibase, and Bytebase Require?",
-    "desc": "<p>Starting with a fresh PostgreSQL database, what does it actually take a beginner to complete their first managed schema migration?</p>\n\n<",
-    "link": "https://dev.to/adela_bytebase/from-zero-to-first-migration-how-much-setup-do-flyway-liquibase-and-bytebase-require-1p6g",
+    "title": "Building an Offline-Capable Android System with NFC and POS Integration",
+    "desc": "<p>Modern business applications sometimes need to operate in environments where a permanent internet connection cannot be guaranteed.</p>\n\n<",
+    "link": "https://dev.to/xapps/building-an-offline-capable-android-system-with-nfc-and-pos-integration-59bd",
     "topic": "general"
   },
   {
-    "title": "Git Flow: a workflow for managing releases",
-    "desc": "<p>It's 4 PM and the PM just posted in the team chat: \"can we ship version 2.1 today?\" You open the repository to check. Feature A is half-d",
-    "link": "https://dev.to/fj_palacios/git-flow-a-workflow-for-managing-releases-2a31",
-    "topic": "general"
+    "title": "Day 23: AWS Security \u2014 Encryption (ACM/KMS), Secrets Manager, AWS Backup, WAF, and Shield",
+    "desc": "<p>Day 22 covered how you observe and audit your environment. Today closes out the original 11-day service tour with the layer that actually",
+    "link": "https://dev.to/sr-palatasingh/aws-security-encryption-acmkms-secrets-manager-aws-backup-waf-and-shield-21lo",
+    "topic": "aws"
   }
 ]
