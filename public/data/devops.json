@@ -1,5 +1,23 @@
 [
   {
+    "title": "How to Resolve SSL/TLS Certificate Handshake Failures \u2013 Troubleshooting Guide for Developers",
+    "desc": "<h1>\n  \n  \n  How to Resolve SSL/TLS Certificate Handshake Failures \u2013 Troubleshooting Guide for Developers\n</h1>\n\n<h2>\n  \n  \n  Overview\n</h2>",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-troubleshooting-guide-for-developers-1beo",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Putting Secrets in Plaintext",
+    "desc": "<p>Most local dev setups end up with some secret \u2014 an API key, a cloud credential, a database password \u2014 sitting in a plaintext file on disk",
+    "link": "https://dev.to/alizaminj/stop-putting-secrets-in-plaintext-4khd",
+    "topic": "general"
+  },
+  {
+    "title": "From Zero to Hero: Kubernetes for Beginners \u2013 A Journey Like 'The Matrix'",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I tried to run a micro\u2011service locally with <c",
+    "link": "https://dev.to/timevolt/from-zero-to-hero-kubernetes-for-beginners-a-journey-like-the-matrix-c1h",
+    "topic": "kubernetes"
+  },
+  {
     "title": ".NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets",
     "desc": "<p>.NET 10 NU1510 package pruning can turn an SDK upgrade into a failed restore when a repository promotes warnings to errors. The tempting ",
     "link": "https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd",
@@ -27,24 +45,6 @@
     "title": "Is Your CDN Actually Caching? Audit Hit Ratio and Asset Fan-Out Before You Migrate Buckets",
     "desc": "<p>Before you move a bucket to escape egress fees, measure two things: your <strong>byte-weighted cache hit ratio</strong> and your <strong>",
     "link": "https://dev.to/libme/is-your-cdn-actually-caching-audit-hit-ratio-and-asset-fan-out-before-you-migrate-buckets-4ef5",
-    "topic": "general"
-  },
-  {
-    "title": "Cheapest App Log Management for Startups in Europe and the US",
-    "desc": "<p>Short answer: the cheapest log management choice is the one that preserves enough structured context to reconstruct a failed checkout, wh",
-    "link": "https://dev.to/yancysterling6529/cheapest-app-log-management-for-startups-in-europe-and-the-us-1i9d",
-    "topic": "general"
-  },
-  {
-    "title": "Why .env.example Gets Out of Sync \u2014 and What Actually Fixes It",
-    "desc": "<h2>\n  \n  \n  Quick answer\n</h2>\n\n<p><code>.env.example</code> goes out of sync because it's a plain text file with no way to enforce that it",
-    "link": "https://dev.to/rabbilyasar/why-envexample-gets-out-of-sync-and-what-actually-fixes-it-1a76",
-    "topic": "general"
-  },
-  {
-    "title": "How to Choose the Right Tech Stack in 2026: A Practical Framework",
-    "desc": "<p>Every few months, a founder, product manager, or engineering team asks:</p>\n\n<p>\"What technology stack should we use?\"</p>\n\n<p>It sounds ",
-    "link": "https://dev.to/mtayyab/how-to-choose-the-right-tech-stack-in-2026-a-practical-framework-220b",
     "topic": "general"
   }
 ]
