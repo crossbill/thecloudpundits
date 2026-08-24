@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building ML Gatekeeper: Automated Pipeline Governance with Multi-Agent Systems and GitLab CI/CD",
-    "desc": "<h2>\n  \n  \n  1. Architectural Overview\n</h2>\n\n<p>Traditional CI/CD pipelines rely on static assertion scripts that fail silently on dynamic ",
-    "link": "https://dev.to/nikhil_ramank_152ca48266/building-ml-gatekeeper-automated-pipeline-governance-with-multi-agent-systems-and-gitlab-cicd-al9",
+    "title": "How I standardized PySpark deployments with multi-stage Docker builds",
+    "desc": "<blockquote>\n<p><strong>Why I chose this topic:</strong> I\u2019ve spent too many 2:00 AM outages debugging \"it works on my machine\" failures cau",
+    "link": "https://dev.to/aniketsoni/how-i-standardized-pyspark-deployments-with-multi-stage-docker-builds-281j",
+    "topic": "docker"
+  },
+  {
+    "title": "NET::ERR_CERT_AUTHORITY_INVALID: When the Root Itself Is Not Trusted",
+    "desc": "<p>The hostname matches. The chain is complete \u2014 every intermediate is present, each certificate signs the next, and it all leads up to a si",
+    "link": "https://dev.to/merlonix/neterrcertauthorityinvalid-when-the-root-itself-is-not-trusted-4c18",
     "topic": "general"
   },
   {
-    "title": "Building Multi-Region Consensus Checks with Cloudflare Durable Objects",
-    "desc": "<p>Every uptime monitor I've used has woken me up for an outage that never happened.</p>\n\n<p>The mechanism is always the same, and it isn't ",
-    "link": "https://dev.to/alex_gutscher_2ab0d3cf4c3/building-multi-region-consensus-checks-with-cloudflare-durable-objects-3381",
+    "title": "SSL Certificate Name Mismatch: NET::ERR_CERT_COMMON_NAME_INVALID",
+    "desc": "<p>The certificate is real. It's signed by a genuine CA, it's nowhere near expiry, and the chain is complete. And the browser still slams th",
+    "link": "https://dev.to/merlonix/ssl-certificate-name-mismatch-neterrcertcommonnameinvalid-5ak4",
     "topic": "general"
   },
   {
-    "title": "Turn a missed cron into a GitHub or Linear ticket",
-    "desc": "<p>Email is a bad place for \u201cthe backup never ran.\u201d</p>\n\n<p>You get the Down ping, maybe a Slack message, then it scrolls off. The job that ",
-    "link": "https://dev.to/makgabri/turn-a-missed-cron-into-a-github-or-linear-ticket-6i7",
+    "title": "Docker Engine Internals: \u09a1\u0995\u09be\u09b0 \u0987\u099e\u09cd\u099c\u09bf\u09a8 \u09ad\u09c7\u0999\u09c7 \u099a\u09c1\u09b0\u09ae\u09be\u09b0\u2014dockerd, containerd \u098f\u09ac\u0982 runc \u0995\u09c0\u09ad\u09be\u09ac\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7?",
+    "desc": "<p>\u0986\u0997\u09c7\u09b0 \u09aa\u09b0\u09cd\u09ac\u09c7 \u0986\u09ae\u09b0\u09be \u09a6\u09c7\u0996\u09c7\u099b\u09bf \u0995\u09a8\u09cd\u099f\u09c7\u0987\u09a8\u09be\u09b0 \u0995\u09c0\u09ad\u09be\u09ac\u09c7 \u09b9\u09cb\u09b8\u09cd\u099f \u0995\u09be\u09b0\u09cd\u09a8\u09c7\u09b2 \u09b6\u09c7\u09df\u09be\u09b0 \u0995\u09b0\u09c7 \u09b0\u09be\u09a8 \u0995\u09b0\u09c7\u0964 \u0986\u099c \u0986\u09ae\u09b0\u09be \u09aa\u09c1\u09b0\u09cb <strong>\u09a1\u0995\u09be\u09b0 \u0987\u099e\u09cd\u099c\u09bf\u09a8 (Docker Engine)</strong>-\u0995\u09c7 \u09ad\u09c7\u0999",
+    "link": "https://dev.to/ragib_hasan_aa9eeb5bf6a82/docker-engine-internals-ddkaar-inyjin-bhenge-curmaar-dockerd-containerd-ebn-runc-kiibhaabe-kaaj-kre-2f98",
+    "topic": "docker"
+  },
+  {
+    "title": "Virtual Machine (VM) vs Container: Architecture \u098f\u09ac\u0982 Docker Engine \u0995\u09c0\u09ad\u09be\u09ac\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7?",
+    "desc": "<p>\u09b8\u09ab\u099f\u0993\u09df\u09cd\u09af\u09be\u09b0 \u09a1\u09bf\u09aa\u09cd\u09b2\u09df\u09ae\u09c7\u09a8\u09cd\u099f\u09c7 <strong>Virtual Machine (VM)</strong> \u098f\u09ac\u0982 <strong>Container</strong>\u2014\u09a6\u09c1\u099f\u09bf\u0987 \u09ac\u09cd\u09af\u09be\u09aa\u0995\u09ad\u09be\u09ac\u09c7 \u09ac\u09cd\u09af\u09ac\u09b9\u09c3\u09a4 \u09b9\u09df\u0964</p>\n\n<p>\u09ac\u09be\u0987\u09b0\u09c7 \u09a5\u09c7",
+    "link": "https://dev.to/ragib_hasan_aa9eeb5bf6a82/virtual-machine-vm-vs-container-architecture-ebn-docker-engine-kiibhaabe-kaaj-kre-4ofh",
+    "topic": "docker"
+  },
+  {
+    "title": "Opinion: Pin Your AI Review Configuration Like a Dependency",
+    "desc": "<h1>\n  \n  \n  Opinion: Pin Your AI Review Configuration Like a Dependency\n</h1>\n\n<p>AI-assisted code review only earns trust when the exact m",
+    "link": "https://dev.to/github_7727/opinion-pin-your-ai-review-configuration-like-a-dependency-1o5b",
     "topic": "general"
   },
   {
-    "title": "I Built Hybrid DNS Between AWS and My On-Prem Linux Server -- Here's What Finally Made Route 53 Resolver Click",
-    "desc": "<h3>\n  \n  \n  Why I built this?\n</h3>\n\n<p>I wanted to actually build a hybrid DNS environment and see the DNS queries travel between an on-pr",
-    "link": "https://dev.to/ashish_nair_d9b10ba4f8126/i-built-hybrid-dns-between-aws-and-my-on-prem-linux-server-heres-what-finally-made-route-53-i7l",
-    "topic": "aws"
+    "title": "Taming Kubernetes Cost Sprawl: A FinOps Blueprint for Executives",
+    "desc": "<h2>\n  \n  \n  Introduction & Industry Context\n</h2>\n\n<p>As organizations increasingly embrace cloud-native architectures, Kubernetes has beco",
+    "link": "https://dev.to/mtahir27/taming-kubernetes-cost-sprawl-a-finops-blueprint-for-executives-1d62",
+    "topic": "kubernetes"
   },
   {
-    "title": "DevOps for Series A Startups: What to Build First",
-    "desc": "<h2>\n  \n  \n  DevOps for Series A Startups: What to Build First\n</h2>\n\n<p>A Series A changes the shape of your engineering problems before it",
-    "link": "https://dev.to/instadevops/devops-for-series-a-startups-what-to-build-first-5efl",
-    "topic": "general"
-  },
-  {
-    "title": "Cline Kills Long-Running Commands at 30 Seconds: Here's the Fix",
-    "desc": "<p>You're running a long command in Cline's Background Console, something like <code>bit create</code> or a big vitest suite, and right at t",
-    "link": "https://dev.to/milkyway008/cline-kills-long-running-commands-at-30-seconds-heres-the-fix-5ho1",
-    "topic": "general"
-  },
-  {
-    "title": "Building DrScore: A Practical Way to Measure Disaster Recovery Readiness",
-    "desc": "<p><a href=\"https://github.com/UsmanQT\" rel=\"noopener noreferrer\">GitHub Repo</a></p>\n\n<p>The checkbox that wasn't real</p>\n\n<p>A few months",
-    "link": "https://dev.to/iusmanq/building-drscore-a-practical-way-to-measure-disaster-recovery-readiness-42d1",
-    "topic": "general"
-  },
-  {
-    "title": "That time YAML silently broke your config because of Norway",
-    "desc": "<p>A colleague pinged me last week with a config issue that had him chasing his tail for an afternoon. Turns out he was setting <code>countr",
-    "link": "https://dev.to/schiff_heimlich/that-time-yaml-silently-broke-your-config-because-of-norway-43dj",
+    "title": "CI/CD Pipelines That Actually Work: A Journey Through the Matrix",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to stare at my CI/CD yaml files and feel like Neo stuck in the loading ",
+    "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-a-journey-through-the-matrix-3fkd",
     "topic": "general"
   }
 ]
