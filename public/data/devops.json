@@ -1,50 +1,50 @@
 [
   {
-    "title": "How I standardized PySpark deployments with multi-stage Docker builds",
-    "desc": "<blockquote>\n<p><strong>Why I chose this topic:</strong> I\u2019ve spent too many 2:00 AM outages debugging \"it works on my machine\" failures cau",
-    "link": "https://dev.to/aniketsoni/how-i-standardized-pyspark-deployments-with-multi-stage-docker-builds-281j",
-    "topic": "docker"
-  },
-  {
-    "title": "NET::ERR_CERT_AUTHORITY_INVALID: When the Root Itself Is Not Trusted",
-    "desc": "<p>The hostname matches. The chain is complete \u2014 every intermediate is present, each certificate signs the next, and it all leads up to a si",
-    "link": "https://dev.to/merlonix/neterrcertauthorityinvalid-when-the-root-itself-is-not-trusted-4c18",
+    "title": "Automating Oracle's Always-Free ARM Instance (So You Don't Have To Babysit It)",
+    "desc": "<p>As a developer who likes free compute, I frequently found myself caught in a tedious cycle: trying to provision an Always-Free ARM instan",
+    "link": "https://dev.to/garsetayusuf/automating-oracles-always-free-arm-instance-so-you-dont-have-to-babysit-it-76",
     "topic": "general"
   },
   {
-    "title": "SSL Certificate Name Mismatch: NET::ERR_CERT_COMMON_NAME_INVALID",
-    "desc": "<p>The certificate is real. It's signed by a genuine CA, it's nowhere near expiry, and the chain is complete. And the browser still slams th",
-    "link": "https://dev.to/merlonix/ssl-certificate-name-mismatch-neterrcertcommonnameinvalid-5ak4",
+    "title": "The 3 AM Job That Never Ran: Taming Sleep Mode on a Free Server",
+    "desc": "<p>At 3:00 AM, the log file should have shown a new entry, but it did not. The next night, the same silence appeared again. I had scheduled ",
+    "link": "https://dev.to/datars_7274/the-3-am-job-that-never-ran-taming-sleep-mode-on-a-free-server-40n0",
     "topic": "general"
   },
   {
-    "title": "Docker Engine Internals: \u09a1\u0995\u09be\u09b0 \u0987\u099e\u09cd\u099c\u09bf\u09a8 \u09ad\u09c7\u0999\u09c7 \u099a\u09c1\u09b0\u09ae\u09be\u09b0\u2014dockerd, containerd \u098f\u09ac\u0982 runc \u0995\u09c0\u09ad\u09be\u09ac\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7?",
-    "desc": "<p>\u0986\u0997\u09c7\u09b0 \u09aa\u09b0\u09cd\u09ac\u09c7 \u0986\u09ae\u09b0\u09be \u09a6\u09c7\u0996\u09c7\u099b\u09bf \u0995\u09a8\u09cd\u099f\u09c7\u0987\u09a8\u09be\u09b0 \u0995\u09c0\u09ad\u09be\u09ac\u09c7 \u09b9\u09cb\u09b8\u09cd\u099f \u0995\u09be\u09b0\u09cd\u09a8\u09c7\u09b2 \u09b6\u09c7\u09df\u09be\u09b0 \u0995\u09b0\u09c7 \u09b0\u09be\u09a8 \u0995\u09b0\u09c7\u0964 \u0986\u099c \u0986\u09ae\u09b0\u09be \u09aa\u09c1\u09b0\u09cb <strong>\u09a1\u0995\u09be\u09b0 \u0987\u099e\u09cd\u099c\u09bf\u09a8 (Docker Engine)</strong>-\u0995\u09c7 \u09ad\u09c7\u0999",
-    "link": "https://dev.to/ragib_hasan_aa9eeb5bf6a82/docker-engine-internals-ddkaar-inyjin-bhenge-curmaar-dockerd-containerd-ebn-runc-kiibhaabe-kaaj-kre-2f98",
-    "topic": "docker"
-  },
-  {
-    "title": "Virtual Machine (VM) vs Container: Architecture \u098f\u09ac\u0982 Docker Engine \u0995\u09c0\u09ad\u09be\u09ac\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7?",
-    "desc": "<p>\u09b8\u09ab\u099f\u0993\u09df\u09cd\u09af\u09be\u09b0 \u09a1\u09bf\u09aa\u09cd\u09b2\u09df\u09ae\u09c7\u09a8\u09cd\u099f\u09c7 <strong>Virtual Machine (VM)</strong> \u098f\u09ac\u0982 <strong>Container</strong>\u2014\u09a6\u09c1\u099f\u09bf\u0987 \u09ac\u09cd\u09af\u09be\u09aa\u0995\u09ad\u09be\u09ac\u09c7 \u09ac\u09cd\u09af\u09ac\u09b9\u09c3\u09a4 \u09b9\u09df\u0964</p>\n\n<p>\u09ac\u09be\u0987\u09b0\u09c7 \u09a5\u09c7",
-    "link": "https://dev.to/ragib_hasan_aa9eeb5bf6a82/virtual-machine-vm-vs-container-architecture-ebn-docker-engine-kiibhaabe-kaaj-kre-4ofh",
-    "topic": "docker"
-  },
-  {
-    "title": "Opinion: Pin Your AI Review Configuration Like a Dependency",
-    "desc": "<h1>\n  \n  \n  Opinion: Pin Your AI Review Configuration Like a Dependency\n</h1>\n\n<p>AI-assisted code review only earns trust when the exact m",
-    "link": "https://dev.to/github_7727/opinion-pin-your-ai-review-configuration-like-a-dependency-1o5b",
+    "title": "MonkeyCode's Free Tier vs. Self-Hosting: A Decision Matrix and Probe Script",
+    "desc": "<p>Every small team reaches the same fork eventually. The managed AI coding tier works. Commits get generated, the agent runs on a free serv",
+    "link": "https://dev.to/appjs_7055/monkeycodes-free-tier-vs-self-hosting-a-decision-matrix-and-probe-script-2055",
     "topic": "general"
   },
   {
-    "title": "Taming Kubernetes Cost Sprawl: A FinOps Blueprint for Executives",
-    "desc": "<h2>\n  \n  \n  Introduction & Industry Context\n</h2>\n\n<p>As organizations increasingly embrace cloud-native architectures, Kubernetes has beco",
-    "link": "https://dev.to/mtahir27/taming-kubernetes-cost-sprawl-a-finops-blueprint-for-executives-1d62",
-    "topic": "kubernetes"
+    "title": "I Deployed an AI App on a Free Server and It Broke in 5 Ways",
+    "desc": "<p>Last month, I moved a small AI-powered tool from my laptop to a free server. The tool accepted a prompt, called a free model endpoint, an",
+    "link": "https://dev.to/devx_6522/i-deployed-an-ai-app-on-a-free-server-and-it-broke-in-5-ways-1836",
+    "topic": "general"
   },
   {
-    "title": "CI/CD Pipelines That Actually Work: A Journey Through the Matrix",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to stare at my CI/CD yaml files and feel like Neo stuck in the loading ",
-    "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-a-journey-through-the-matrix-3fkd",
+    "title": "Domain Expiry vs SSL Expiry: Two Clocks, Two Very Different Outages",
+    "desc": "<p>Two things on your website have expiration dates, they sound almost identical, and they are completely unrelated. One is the <strong>SSL/",
+    "link": "https://dev.to/merlonix/domain-expiry-vs-ssl-expiry-two-clocks-two-very-different-outages-ee3",
+    "topic": "general"
+  },
+  {
+    "title": "Crash-Proof Batch LLM Processing: A SQLite Job Queue on a Free Server",
+    "desc": "<p>Three thousand lines in, the process died. Not with a Python traceback \u2014 with a silent OOM kill. The input file was untouched. The 3,000 ",
+    "link": "https://dev.to/byteio_501/crash-proof-batch-llm-processing-a-sqlite-job-queue-on-a-free-server-2ijg",
+    "topic": "general"
+  },
+  {
+    "title": "Production-Grade CI/CD with GitHub Actions: Multi-Stage Testing & Zero-Downtime Deployment",
+    "desc": "<blockquote>\n<p><em>Originally published on <a href=\"https://devstackhub.tech/github-actions-cicd-guide/\" rel=\"noopener noreferrer\">DevStack",
+    "link": "https://dev.to/devstackhubtech/production-grade-cicd-with-github-actions-multi-stage-testing-zero-downtime-deployment-5101",
+    "topic": "general"
+  },
+  {
+    "title": "Free, Self-Hosted, or Paid: Score Your Constraints First",
+    "desc": "<p>You spent last weekend renting a GPU box, pulling a quantized model, and watching it refuse to load. By Sunday night it was running. By M",
+    "link": "https://dev.to/devio_4040/free-self-hosted-or-paid-score-your-constraints-first-bl5",
     "topic": "general"
   }
 ]
