@@ -1,50 +1,50 @@
 [
   {
-    "title": "Automating Oracle's Always-Free ARM Instance (So You Don't Have To Babysit It)",
-    "desc": "<p>As a developer who likes free compute, I frequently found myself caught in a tedious cycle: trying to provision an Always-Free ARM instan",
-    "link": "https://dev.to/garsetayusuf/automating-oracles-always-free-arm-instance-so-you-dont-have-to-babysit-it-76",
+    "title": "Structured Data for AI Answer Engines: Why JSON-LD Decides Whether You Get Cited",
+    "desc": "<p><em>Originally published on the <a href=\"https://merlonix.com/blog/json-ld-structured-data-for-ai-answer-engines/\" rel=\"noopener noreferr",
+    "link": "https://dev.to/merlonix/structured-data-for-ai-answer-engines-why-json-ld-decides-whether-you-get-cited-4mad",
     "topic": "general"
   },
   {
-    "title": "The 3 AM Job That Never Ran: Taming Sleep Mode on a Free Server",
-    "desc": "<p>At 3:00 AM, the log file should have shown a new entry, but it did not. The next night, the same silence appeared again. I had scheduled ",
-    "link": "https://dev.to/datars_7274/the-3-am-job-that-never-ran-taming-sleep-mode-on-a-free-server-40n0",
+    "title": "Day 31: Stash Keeps What Status Won't Show, and Private Is a Flag, Not a Subnet",
+    "desc": "<p>Both of today's tasks involved something real that the interface never mentions. Git keeps work in a place that <code>git status</code> w",
+    "link": "https://dev.to/ndcodes/day-31-stash-keeps-what-status-wont-show-and-private-is-a-flag-not-a-subnet-1hkc",
     "topic": "general"
   },
   {
-    "title": "MonkeyCode's Free Tier vs. Self-Hosting: A Decision Matrix and Probe Script",
-    "desc": "<p>Every small team reaches the same fork eventually. The managed AI coding tier works. Commits get generated, the agent runs on a free serv",
-    "link": "https://dev.to/appjs_7055/monkeycodes-free-tier-vs-self-hosting-a-decision-matrix-and-probe-script-2055",
+    "title": "llms.txt Explained: What It Is, Whether AI Answer Engines Read It, and How to Write One",
+    "desc": "<p><em>Originally published on the <a href=\"https://merlonix.com/blog/what-is-llms-txt/\" rel=\"noopener noreferrer\">Merlonix blog</a>.</em></",
+    "link": "https://dev.to/merlonix/llmstxt-explained-what-it-is-whether-ai-answer-engines-read-it-and-how-to-write-one-5gof",
     "topic": "general"
   },
   {
-    "title": "I Deployed an AI App on a Free Server and It Broke in 5 Ways",
-    "desc": "<p>Last month, I moved a small AI-powered tool from my laptop to a free server. The tool accepted a prompt, called a free model endpoint, an",
-    "link": "https://dev.to/devx_6522/i-deployed-an-ai-app-on-a-free-server-and-it-broke-in-5-ways-1836",
+    "title": "From Zero to Deployed: Build a CI Failure Explainer Bot With Free Model Access",
+    "desc": "<p>AI agents write more code every week. The debate about whether that is good is all over DEV right now. The practical problem is quieter: ",
+    "link": "https://dev.to/airs_6907/from-zero-to-deployed-build-a-ci-failure-explainer-bot-with-free-model-access-50b6",
     "topic": "general"
   },
   {
-    "title": "Domain Expiry vs SSL Expiry: Two Clocks, Two Very Different Outages",
-    "desc": "<p>Two things on your website have expiration dates, they sound almost identical, and they are completely unrelated. One is the <strong>SSL/",
-    "link": "https://dev.to/merlonix/domain-expiry-vs-ssl-expiry-two-clocks-two-very-different-outages-ee3",
+    "title": "Your Free AI Server Has a Load Ceiling. Probe It.",
+    "desc": "<p>Free tokens get the headlines. The free server is where the promise actually breaks. Load-test it before you trust it with real work.</p>",
+    "link": "https://dev.to/codepro_4664/your-free-ai-server-has-a-load-ceiling-probe-it-2if2",
     "topic": "general"
   },
   {
-    "title": "Crash-Proof Batch LLM Processing: A SQLite Job Queue on a Free Server",
-    "desc": "<p>Three thousand lines in, the process died. Not with a Python traceback \u2014 with a silent OOM kill. The input file was untouched. The 3,000 ",
-    "link": "https://dev.to/byteio_501/crash-proof-batch-llm-processing-a-sqlite-job-queue-on-a-free-server-2ijg",
+    "title": "Free AI Tokens Are Only Half the Deal \u2014 the Free Server Is the Other Half",
+    "desc": "<p>Free model tokens are now the easiest AI resource to obtain, and free compute that can actually execute the generated code is the scarcer",
+    "link": "https://dev.to/devrs_9381/free-ai-tokens-are-only-half-the-deal-the-free-server-is-the-other-half-jkf",
     "topic": "general"
   },
   {
-    "title": "Production-Grade CI/CD with GitHub Actions: Multi-Stage Testing & Zero-Downtime Deployment",
-    "desc": "<blockquote>\n<p><em>Originally published on <a href=\"https://devstackhub.tech/github-actions-cicd-guide/\" rel=\"noopener noreferrer\">DevStack",
-    "link": "https://dev.to/devstackhubtech/production-grade-cicd-with-github-actions-multi-stage-testing-zero-downtime-deployment-5101",
-    "topic": "general"
+    "title": "Docker for Beginners: A Complete Practical Guide",
+    "desc": "<h1>\n  \n  \n  Docker for Beginners: A Complete Practical Guide\n</h1>\n\n<p><em>Generated: 2026-04-29 00:30 | Model: template</em></p>\n\n\n\n\n<h1>\n",
+    "link": "https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-4g0n",
+    "topic": "docker"
   },
   {
-    "title": "Free, Self-Hosted, or Paid: Score Your Constraints First",
-    "desc": "<p>You spent last weekend renting a GPU box, pulling a quantized model, and watching it refuse to load. By Sunday night it was running. By M",
-    "link": "https://dev.to/devio_4040/free-self-hosted-or-paid-score-your-constraints-first-bl5",
+    "title": "Stop Tuning Prompts. Start Tuning the Loop.",
+    "desc": "<p>There's a recurring argument on DEV right now that constraints make you a better engineer, and I think the AI coding discussion keeps ign",
+    "link": "https://dev.to/codejs_1959/stop-tuning-prompts-start-tuning-the-loop-21m3",
     "topic": "general"
   }
 ]
