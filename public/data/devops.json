@@ -1,50 +1,50 @@
 [
   {
-    "title": "Distributed Tracing in ASP.NET Core: From HTTP to the Queue with OpenTelemetry",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/adrianbailador/distributed-tracing-in-aspnet-core-from-http-to-the-queue-with-opentelemetry-10e8",
+    "title": "Building ML Gatekeeper: Automated Pipeline Governance with Multi-Agent Systems and GitLab CI/CD",
+    "desc": "<h2>\n  \n  \n  1. Architectural Overview\n</h2>\n\n<p>Traditional CI/CD pipelines rely on static assertion scripts that fail silently on dynamic ",
+    "link": "https://dev.to/nikhil_ramank_152ca48266/building-ml-gatekeeper-automated-pipeline-governance-with-multi-agent-systems-and-gitlab-cicd-al9",
     "topic": "general"
   },
   {
-    "title": "From Chat to Pipeline: Running Octomind Non-Interactively in CI and Scripts",
-    "desc": "<p>How to take an AI agent out of the terminal and into automation \u2013 non-interactive runs, JSON Lines output, structured output with JSON Sc",
-    "link": "https://dev.to/donk8r/from-chat-to-pipeline-running-octomind-non-interactively-in-ci-and-scripts-93",
+    "title": "Building Multi-Region Consensus Checks with Cloudflare Durable Objects",
+    "desc": "<p>Every uptime monitor I've used has woken me up for an outage that never happened.</p>\n\n<p>The mechanism is always the same, and it isn't ",
+    "link": "https://dev.to/alex_gutscher_2ab0d3cf4c3/building-multi-region-consensus-checks-with-cloudflare-durable-objects-3381",
     "topic": "general"
   },
   {
-    "title": "H100 Hour, Four Prices: Modal, Baseten, Replicate and Together AI Compared",
-    "desc": "<p>Sooner or later a product stops being happy with somebody else's hosted API. A fine-tune, an open-weights LLM, a vision pipeline nobody s",
-    "link": "https://dev.to/moksh/h100-hour-four-prices-modal-baseten-replicate-and-together-ai-compared-3j5i",
+    "title": "Turn a missed cron into a GitHub or Linear ticket",
+    "desc": "<p>Email is a bad place for \u201cthe backup never ran.\u201d</p>\n\n<p>You get the Down ping, maybe a Slack message, then it scrolls off. The job that ",
+    "link": "https://dev.to/makgabri/turn-a-missed-cron-into-a-github-or-linear-ticket-6i7",
     "topic": "general"
   },
   {
-    "title": "How Do I Secure an AI Pipeline in Production?",
-    "desc": "<p>What the IBM 2026 report and the Hugging Face incident actually say, and which of the three defenses a runtime can give you.</p>\n\n<h2>\n  ",
-    "link": "https://dev.to/mithilesh_gaurihar/how-do-i-secure-an-ai-pipeline-in-production-3pml",
+    "title": "I Built Hybrid DNS Between AWS and My On-Prem Linux Server -- Here's What Finally Made Route 53 Resolver Click",
+    "desc": "<h3>\n  \n  \n  Why I built this?\n</h3>\n\n<p>I wanted to actually build a hybrid DNS environment and see the DNS queries travel between an on-pr",
+    "link": "https://dev.to/ashish_nair_d9b10ba4f8126/i-built-hybrid-dns-between-aws-and-my-on-prem-linux-server-heres-what-finally-made-route-53-i7l",
+    "topic": "aws"
+  },
+  {
+    "title": "DevOps for Series A Startups: What to Build First",
+    "desc": "<h2>\n  \n  \n  DevOps for Series A Startups: What to Build First\n</h2>\n\n<p>A Series A changes the shape of your engineering problems before it",
+    "link": "https://dev.to/instadevops/devops-for-series-a-startups-what-to-build-first-5efl",
     "topic": "general"
   },
   {
-    "title": "UC San Diego probar\u00e1 una nueva tecnolog\u00eda de energ\u00eda para IA",
-    "desc": "<p>UC San Diego anunci\u00f3 que probar\u00e1 una tecnolog\u00eda de energ\u00eda experimental pensada espec\u00edficamente para centros de datos de IA, seg\u00fan report",
-    "link": "https://dev.to/lu1tr0n/uc-san-diego-probara-una-nueva-tecnologia-de-energia-para-ia-2gfi",
+    "title": "Cline Kills Long-Running Commands at 30 Seconds: Here's the Fix",
+    "desc": "<p>You're running a long command in Cline's Background Console, something like <code>bit create</code> or a big vitest suite, and right at t",
+    "link": "https://dev.to/milkyway008/cline-kills-long-running-commands-at-30-seconds-heres-the-fix-5ho1",
     "topic": "general"
   },
   {
-    "title": "You Can't Monitor Your Cloudflare App From Cloudflare",
-    "desc": "<p>Our app runs on Cloudflare \u2014 Workers for the API, Pages for the marketing site and the dashboard. It exposes the two endpoints you'd expe",
-    "link": "https://dev.to/merlonix/you-cant-monitor-your-cloudflare-app-from-cloudflare-4698",
+    "title": "Building DrScore: A Practical Way to Measure Disaster Recovery Readiness",
+    "desc": "<p><a href=\"https://github.com/UsmanQT\" rel=\"noopener noreferrer\">GitHub Repo</a></p>\n\n<p>The checkbox that wasn't real</p>\n\n<p>A few months",
+    "link": "https://dev.to/iusmanq/building-drscore-a-practical-way-to-measure-disaster-recovery-readiness-42d1",
     "topic": "general"
   },
   {
-    "title": "Reordering an overflowing job queue does not shrink it. Splitting it does.",
-    "desc": "<h2>\n  \n  \n  Background\n</h2>\n\n<p>I run about 20 small sites and update them automatically. A batch runs four times a day, decides which sit",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/reordering-an-overflowing-job-queue-does-not-shrink-it-splitting-it-does-jp6",
+    "title": "That time YAML silently broke your config because of Norway",
+    "desc": "<p>A colleague pinged me last week with a config issue that had him chasing his tail for an afternoon. Turns out he was setting <code>countr",
+    "link": "https://dev.to/schiff_heimlich/that-time-yaml-silently-broke-your-config-because-of-norway-43dj",
     "topic": "general"
-  },
-  {
-    "title": "HPA vs KEDA vs VPA: A Quantitative Framework for Autoscaling Strategy Selection in Kubernetes",
-    "desc": "<p>The Kubernetes autoscaling landscape is one where most decisions are made by convention rather than derivation. Teams use HPA because it ",
-    "link": "https://dev.to/npayyappilly/hpa-vs-keda-vs-vpa-a-quantitative-framework-for-autoscaling-strategy-selection-in-kubernetes-5fch",
-    "topic": "kubernetes"
   }
 ]
