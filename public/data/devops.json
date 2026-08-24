@@ -1,50 +1,50 @@
 [
   {
-    "title": "Every Page Returned 200. There Was No Database.",
-    "desc": "<p>My travel site was completely non-functional for about four hours today and never once went down.</p>\n\n<p>That is not wordplay. Every rou",
-    "link": "https://dev.to/henry_dan_81513dd35a2f540/every-page-returned-200-there-was-no-database-jb3",
+    "title": "Distributed Tracing in ASP.NET Core: From HTTP to the Queue with OpenTelemetry",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/adrianbailador/distributed-tracing-in-aspnet-core-from-http-to-the-queue-with-opentelemetry-10e8",
     "topic": "general"
   },
   {
-    "title": "How We Cut AWS Staging Costs by 87% With EventBridge Scheduler (Zero Code Changes)",
-    "desc": "<h1>\n  \n  \n  How We Cut AWS Staging Costs by 87% With EventBridge Scheduler\n</h1>\n\n<blockquote>\n<p>No code changes. No Lambda functions. No ",
-    "link": "https://dev.to/elonerajeev1/how-we-cut-aws-staging-costs-by-87-with-eventbridge-scheduler-zero-code-changes-2k3c",
-    "topic": "aws"
+    "title": "From Chat to Pipeline: Running Octomind Non-Interactively in CI and Scripts",
+    "desc": "<p>How to take an AI agent out of the terminal and into automation \u2013 non-interactive runs, JSON Lines output, structured output with JSON Sc",
+    "link": "https://dev.to/donk8r/from-chat-to-pipeline-running-octomind-non-interactively-in-ci-and-scripts-93",
+    "topic": "general"
   },
   {
-    "title": "Czym jest DevOps i jakich narz\u0119dzi u\u017cywa (Git, Docker, Kubernetes, Prometheus, Grafana)",
-    "desc": "<p>DevOps to nie jedno narz\u0119dzie, tylko ca\u0142a p\u0119tla i stos: Git, Docker, Kubernetes, Terraform, Ansible, Prometheus i Grafana. Pokazujemy je ",
-    "link": "https://dev.to/andrzej_klusiewicz_08588c/czym-jest-devops-i-jakich-narzedzi-uzywa-git-docker-kubernetes-prometheus-grafana-1i0h",
+    "title": "H100 Hour, Four Prices: Modal, Baseten, Replicate and Together AI Compared",
+    "desc": "<p>Sooner or later a product stops being happy with somebody else's hosted API. A fine-tune, an open-weights LLM, a vision pipeline nobody s",
+    "link": "https://dev.to/moksh/h100-hour-four-prices-modal-baseten-replicate-and-together-ai-compared-3j5i",
+    "topic": "general"
+  },
+  {
+    "title": "How Do I Secure an AI Pipeline in Production?",
+    "desc": "<p>What the IBM 2026 report and the Hugging Face incident actually say, and which of the three defenses a runtime can give you.</p>\n\n<h2>\n  ",
+    "link": "https://dev.to/mithilesh_gaurihar/how-do-i-secure-an-ai-pipeline-in-production-3pml",
+    "topic": "general"
+  },
+  {
+    "title": "UC San Diego probar\u00e1 una nueva tecnolog\u00eda de energ\u00eda para IA",
+    "desc": "<p>UC San Diego anunci\u00f3 que probar\u00e1 una tecnolog\u00eda de energ\u00eda experimental pensada espec\u00edficamente para centros de datos de IA, seg\u00fan report",
+    "link": "https://dev.to/lu1tr0n/uc-san-diego-probara-una-nueva-tecnologia-de-energia-para-ia-2gfi",
+    "topic": "general"
+  },
+  {
+    "title": "You Can't Monitor Your Cloudflare App From Cloudflare",
+    "desc": "<p>Our app runs on Cloudflare \u2014 Workers for the API, Pages for the marketing site and the dashboard. It exposes the two endpoints you'd expe",
+    "link": "https://dev.to/merlonix/you-cant-monitor-your-cloudflare-app-from-cloudflare-4698",
+    "topic": "general"
+  },
+  {
+    "title": "Reordering an overflowing job queue does not shrink it. Splitting it does.",
+    "desc": "<h2>\n  \n  \n  Background\n</h2>\n\n<p>I run about 20 small sites and update them automatically. A batch runs four times a day, decides which sit",
+    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/reordering-an-overflowing-job-queue-does-not-shrink-it-splitting-it-does-jp6",
+    "topic": "general"
+  },
+  {
+    "title": "HPA vs KEDA vs VPA: A Quantitative Framework for Autoscaling Strategy Selection in Kubernetes",
+    "desc": "<p>The Kubernetes autoscaling landscape is one where most decisions are made by convention rather than derivation. Teams use HPA because it ",
+    "link": "https://dev.to/npayyappilly/hpa-vs-keda-vs-vpa-a-quantitative-framework-for-autoscaling-strategy-selection-in-kubernetes-5fch",
     "topic": "kubernetes"
-  },
-  {
-    "title": "Grafana vs Kibana - kiedy u\u017cywa\u0107 kt\u00f3rego (praktyczne por\u00f3wnanie)",
-    "desc": "<p>Grafana czy Kibana? Zamiast marketingowego be\u0142kotu pokazujemy r\u00f3\u017cnice na \u017cywych przyk\u0142adach i m\u00f3wimy wprost, kt\u00f3r\u0105 wybra\u0107 do czego. Pe\u0142na",
-    "link": "https://dev.to/andrzej_klusiewicz_08588c/grafana-vs-kibana-kiedy-uzywac-ktorego-praktyczne-porownanie-3gcf",
-    "topic": "general"
-  },
-  {
-    "title": "Co to jest Prometheus? Kompletny przewodnik dla pocz\u0105tkuj\u0105cych",
-    "desc": "<p>Prometheus i Grafana to najcz\u0119stsza para w monitoringu. W tym tek\u015bcie t\u0142umaczymy Prometheus od zera, na prawdziwych zrzutach z dzia\u0142aj\u0105ce",
-    "link": "https://dev.to/andrzej_klusiewicz_08588c/co-to-jest-prometheus-kompletny-przewodnik-dla-poczatkujacych-54kb",
-    "topic": "general"
-  },
-  {
-    "title": "Co to jest Grafana? Kompletny przewodnik dla pocz\u0105tkuj\u0105cych",
-    "desc": "<p>Ten przewodnik po Grafanie napisali\u015bmy od zera i pokazujemy w nim wszystko na prawdziwych zrzutach z dzia\u0142aj\u0105cej instalacji, kt\u00f3r\u0105 postaw",
-    "link": "https://dev.to/andrzej_klusiewicz_08588c/co-to-jest-grafana-kompletny-przewodnik-dla-poczatkujacych-1igj",
-    "topic": "general"
-  },
-  {
-    "title": "A disposable Hetzner lab with OpenTofu: real Ubuntu box, run a script, destroy it",
-    "desc": "<p>Most of what I write here is Ubuntu, and I write it on a Mac. That gap is a problem. A Docker container is not a machine: it shares my ke",
-    "link": "https://dev.to/peculiarengineer/a-disposable-hetzner-lab-with-opentofu-real-ubuntu-box-run-a-script-destroy-it-1522",
-    "topic": "general"
-  },
-  {
-    "title": "Our build wave shipped four scrapers that scraped nothing",
-    "desc": "<h2>\n  \n  \n  Quick answer\n</h2>\n\n<p>Cameo doesn't publish a talent API. But cameo.com's own search box calls one internally \u2014 a POST to <cod",
-    "link": "https://dev.to/devil_scrapes/our-build-wave-shipped-four-scrapers-that-scraped-nothing-cdk",
-    "topic": "general"
   }
 ]
