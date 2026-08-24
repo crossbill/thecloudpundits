@@ -1,5 +1,17 @@
 [
   {
+    "title": "Personal Information Exposed in Apollo Global Data Breach",
+    "desc": "<p>The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "Rethinking Application Security for the AI Era",
+    "desc": "<p>As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce appli",
+    "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
+    "topic": "secops"
+  },
+  {
     "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
     "desc": "<p>The attack caused real-world operational disruption and raised concerns about the resilience of Britain\u2019s distributed energy infrastructu",
     "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
@@ -34,17 +46,5 @@
     "desc": "<p>Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier ",
     "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
     "topic": "secops"
-  },
-  {
-    "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
-    "desc": "<p>Researchers say the new \u2018Cryptographic Context Injection\u2019 technique conceals malicious instructions until they are decrypted inside a tru",
-    "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
-    "topic": "guardrails"
-  },
-  {
-    "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
-    "desc": "<p>Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and",
-    "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
-    "topic": "general"
   }
 ]
