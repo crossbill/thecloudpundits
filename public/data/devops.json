@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI Just Paused Its Own Model for Being Too Good at Finding Zero-Days. Read That Again.",
+    "desc": "<p>The AI story this week that should stop you mid-scroll is not another benchmark or price cut. It is that OpenAI reportedly paused interna",
+    "link": "https://dev.to/muskan_bandta/openai-just-paused-its-own-model-for-being-too-good-at-finding-zero-days-read-that-again-3ejp",
+    "topic": "openai"
+  },
+  {
+    "title": "ChatGPT and Gemini Both Crossed a Billion Users. The Infrastructure Story Is the One Nobody's Telling",
+    "desc": "<p>The headline this week is the round number: ChatGPT reportedly crossed a billion weekly users, Gemini is in the same territory within wee",
+    "link": "https://dev.to/muskan_bandta/chatgpt-and-gemini-both-crossed-a-billion-users-the-infrastructure-story-is-the-one-nobodys-25k7",
+    "topic": "openai"
+  },
+  {
+    "title": "How to Reduce Mean Time to Resolution (MTTR) with AI Without Losing Control",
+    "desc": "<p>An incident comes in. Someone in sales, ops, or finance notices something is broken and writes a message: 'the invoice export is wrong ag",
+    "link": "https://dev.to/shahrozkhan/how-to-reduce-mean-time-to-resolution-mttr-with-ai-without-losing-control-30m6",
+    "topic": "general"
+  },
+  {
+    "title": "Publicly Accessible RDS and Unrestricted Security Groups: The Cost Side of Risky Cloud Config",
+    "desc": "<p>Security findings and cost findings are usually filed by different teams into different tools, and treated as different kinds of problem.",
+    "link": "https://dev.to/zop_8abedcc7e12/publicly-accessible-rds-and-unrestricted-security-groups-the-cost-side-of-risky-cloud-config-4379",
+    "topic": "secops"
+  },
+  {
+    "title": "2026 DevOps Maturity Survey: Platform Engineering Emerges as New Focus",
+    "desc": "<h2>\n  \n  \n  Survey Overview\n</h2>\n\n<p>The survey covered DevOps practices across 5,000 global enterprises. Key findings: 78% have implement",
+    "link": "https://dev.to/alan_529cf536b9cf0f88ec8c/2026-devops-maturity-survey-platform-engineering-emerges-as-new-focus-3lci",
+    "topic": "general"
+  },
+  {
     "title": "Template Ownership for Node.js Welcome Emails: Evaluating Resend and Postmark",
     "desc": "<p>Short answer: for the easiest Node.js setup, choose the provider whose template ownership matches your deployment model; keep templates i",
     "link": "https://dev.to/mitchellcross2134/template-ownership-for-nodejs-welcome-emails-evaluating-resend-and-postmark-5a22",
@@ -15,36 +45,6 @@
     "title": "Composable RPC: Endpoints, Dedicated Nodes & Integration",
     "desc": "<h2>\n  \n  \n  Quick Recommendation: Public Endpoint or Dedicated Node?\n</h2>\n\n<p>Before diving into the technical details, decide which Compo",
     "link": "https://dev.to/onfinality/composable-rpc-endpoints-dedicated-nodes-integration-11l1",
-    "topic": "general"
-  },
-  {
-    "title": "Sonic Network RPC: Chain Settings, Endpoints & Providers",
-    "desc": "<h2>\n  \n  \n  Quick decision guide: which Sonic RPC should you use?\n</h2>\n\n<p>Before diving into the chain settings, decide which type of Son",
-    "link": "https://dev.to/onfinality/sonic-network-rpc-chain-settings-endpoints-providers-4l75",
-    "topic": "general"
-  },
-  {
-    "title": "Polygon MATIC API: RPC, SDKs, and Endpoints",
-    "desc": "<h2>\n  \n  \n  Quick Decision Guide: Which Polygon API Do You Need?\n</h2>\n\n<p>Before diving into endpoints and SDKs, it helps to map the Polyg",
-    "link": "https://dev.to/onfinality/polygon-matic-api-rpc-sdks-and-endpoints-5fpo",
-    "topic": "general"
-  },
-  {
-    "title": "Crust Network Staking: GPoS, Validators, and RPC Monitoring",
-    "desc": "<h2>\n  \n  \n  Quick decision guide: what to check before staking CRU\n</h2>\n\n<p>Before you stake CRU, you need to decide whether you want to r",
-    "link": "https://dev.to/onfinality/crust-network-staking-gpos-validators-and-rpc-monitoring-d16",
-    "topic": "general"
-  },
-  {
-    "title": "Acala RPC Endpoints: Chain Settings, EVM+ & Dedicated Nodes",
-    "desc": "<h2>\n  \n  \n  Quick Decision Guide: Which Acala RPC Setup Should You Use?\n</h2>\n\n<p>Before diving into endpoint lists, decide what your workl",
-    "link": "https://dev.to/onfinality/acala-rpc-endpoints-chain-settings-evm-dedicated-nodes-5ih",
-    "topic": "general"
-  },
-  {
-    "title": "The Software Craftsman\u2019s Day One: Why My First Week of Startup Life Had No Business Logic",
-    "desc": "<p>Being made redundant from a position where I defined patterns and practices for a high-performance team, I decided to take the leap to cr",
-    "link": "https://dev.to/brettryan/the-software-craftsmans-day-one-why-my-first-week-of-startup-life-had-no-business-logic-d2g",
     "topic": "general"
   }
 ]
