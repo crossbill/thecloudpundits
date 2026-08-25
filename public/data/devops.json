@@ -1,5 +1,35 @@
 [
   {
+    "title": "What belongs in a coding-agent verification evidence bundle?",
+    "desc": "<p>A verification evidence bundle is the portable record behind a verdict. It should let a person, a CI system, or a later evaluation unders",
+    "link": "https://dev.to/sarthakagrawal927/what-belongs-in-a-coding-agent-verification-evidence-bundle-4402",
+    "topic": "general"
+  },
+  {
+    "title": "DNSSEC Fails Closed: A Broken Signature Is a SERVFAIL, Not a Warning",
+    "desc": "<p>Almost every security control on your stack fails <em>open</em>. Let an HSTS header lapse and the site still loads. Let a CSP go stale an",
+    "link": "https://dev.to/merlonix/dnssec-fails-closed-a-broken-signature-is-a-servfail-not-a-warning-48i",
+    "topic": "general"
+  },
+  {
+    "title": "GitHub Actions: Automate Your Workflow Like a Pro",
+    "desc": "<h1>\n  \n  \n  GitHub Actions: Automate Your Workflow Like a Pro\n</h1>\n\n<p>tags: github, automation, devops, tutorial</p>\n\n\n\n\n<p>tags: github,",
+    "link": "https://dev.to/qingluan/github-actions-automate-your-workflow-like-a-pro-2aen",
+    "topic": "general"
+  },
+  {
+    "title": "I built an agentless deploy CLI in Go because every PaaS wanted to own my server",
+    "desc": "<p>Everything I run in production lives on one inexpensive ARM VM: a headless CMS, a club management app, two Umbraco package demos, a job p",
+    "link": "https://dev.to/baryo_dev/i-built-an-agentless-deploy-cli-in-go-because-every-paas-wanted-to-own-my-server-3da",
+    "topic": "general"
+  },
+  {
+    "title": "Build an Argo CD MCP Server: Safe GitOps Status, Diff, and Rollback for AI Agents",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-25-argocd-mcp-server-gitops-ai-agents\" rel=\"no",
+    "link": "https://dev.to/devtocash/build-an-argo-cd-mcp-server-safe-gitops-status-diff-and-rollback-for-ai-agents-4h23",
+    "topic": "general"
+  },
+  {
     "title": "The MCP server you approved is not the one running tomorrow",
     "desc": "<p>I approve an MCP server the way most people do: read the README, skim the tool list, into the config, on with my day.</p>\n\n<p>What I had ",
     "link": "https://dev.to/norviqdev/the-mcp-server-you-approved-is-not-the-one-running-tomorrow-27g1",
@@ -15,36 +45,6 @@
     "title": "Automating Kubernetes Pod Scaling Issues \u2013 Boost Performance with HPA & GitOps",
     "desc": "<h1>\n  \n  \n  Automating Kubernetes Pod Scaling Issues\n</h1>\n\n<p>Scaling Kubernetes pods should be seamless, but in real\u2011world clusters you o",
     "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/automating-kubernetes-pod-scaling-issues-boost-performance-with-hpa-gitops-2d61",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "My Validation Layer Was Correctly Deleting 16% of My Good Data",
-    "desc": "<p><em>Originally published at <a href=\"https://ai.bedvibe.studio/observation-time/\" rel=\"noopener noreferrer\">ai.bedvibe.studio</a>.</em></",
-    "link": "https://dev.to/bedvibe_studios/my-validation-layer-was-correctly-deleting-16-of-my-good-data-1fpj",
-    "topic": "general"
-  },
-  {
-    "title": "App Logging: How to Compare Self-Hosted and Hosted Setup Costs",
-    "desc": "<p>Short answer: For a junior developer running a small-business app, start with a hosted logging API when fast setup and incident reconstru",
-    "link": "https://dev.to/felixhoffmann556/app-logging-how-to-compare-self-hosted-and-hosted-setup-costs-3j7e",
-    "topic": "general"
-  },
-  {
-    "title": "DevOps Lab: CI/CD Deployment to AWS ECS",
-    "desc": "<h2>\n  \n  \n  Scenario\n</h2>\n\n<p>You are the <strong>DevOps Engineer</strong>.</p>\n\n<p>Jules is your <strong>Software Developer</strong>.</p>",
-    "link": "https://dev.to/jumptotech/devops-lab-cicd-deployment-to-aws-ecs-166p",
-    "topic": "aws"
-  },
-  {
-    "title": "Someone Can Get an SSL Certificate for Your Domain. CT Logs Are How You Find Out.",
-    "desc": "<p>Here is a failure your monitoring is built to miss. Somebody \u2014 an attacker who briefly controlled your DNS, a subdomain you forgot you de",
-    "link": "https://dev.to/merlonix/someone-can-get-an-ssl-certificate-for-your-domain-ct-logs-are-how-you-find-out-43nf",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes: senales utiles para CronJobs fragiles",
-    "desc": "<p>Los CronJobs en Kubernetes suelen parecer simples hasta que fallan de forma intermitente. El contenedor termina, vuelve a correr mas tard",
-    "link": "https://dev.to/alexcarteruk/kubernetes-senales-utiles-para-cronjobs-fragiles-59n",
     "topic": "kubernetes"
   }
 ]
