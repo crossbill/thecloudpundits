@@ -1,50 +1,50 @@
 [
   {
+    "title": "CVE-2026-19478: GitLab's CVSS 9.4 GraphQL Flaw Was Exploited Within Days \u2014 Patch Now",
+    "desc": "<p>GitLab shipped an <strong>out-of-band emergency release on August 17, 2026</strong> fixing <strong>CVE-2026-19478</strong> \u2014 a code injec",
+    "link": "https://dev.to/stanleya/cve-2026-19478-gitlabs-cvss-94-graphql-flaw-was-exploited-within-days-patch-now-1n01",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes Demystified: Kubectl & YAML Configuration",
+    "desc": "<p>Part 2, we covered the architecture - Control Plane and Worker Nodes. Now let's look at how you actually manage Kubernetes components: th",
+    "link": "https://dev.to/tejas_kp/kubernetes-demystified-kubectl-yaml-configuration-427k",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Mastering Git Merge Conflict Resolution in CI/CD Pipelines \u2013 Boost Your DevOps Efficiency",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Git merge conflicts can halt your CI/CD pipeline, causing delays and frustrated developers. This guide s",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/mastering-git-merge-conflict-resolution-in-cicd-pipelines-boost-your-devops-efficiency-3c68",
+    "topic": "general"
+  },
+  {
+    "title": "HD-101 \u2014 The first pull request",
+    "desc": "<h1>\n  \n  \n  HD-101 \u2014 The first pull request\n</h1>\n\n<p><strong>Builds:</strong> nothing. <strong>Teaches:</strong> why the next six tickets ",
+    "link": "https://dev.to/nazmur96/hd-101-the-first-pull-request-2fep",
+    "topic": "general"
+  },
+  {
+    "title": "Linux Turns 35: Just a Hobby That Runs the World",
+    "desc": "<p>\ud83d\udcd6 A new article on CodeHelper!</p>\n\n<p>Happy 35th birthday, Linux. Still just a hobby, still not big and professional like GNU, and still",
+    "link": "https://dev.to/codehelper/linux-turns-35-just-a-hobby-that-runs-the-world-4p2a",
+    "topic": "general"
+  },
+  {
+    "title": "Staging Environments Are a Deployment Problem, Not an Infrastructure Problem",
+    "desc": "<p>This isn't an argument against testing before production. It's an argument against treating a long-lived shared staging environment as yo",
+    "link": "https://dev.to/codecraft_diary_3d13677fb/staging-environments-are-a-deployment-problem-not-an-infrastructure-problem-1g04",
+    "topic": "general"
+  },
+  {
+    "title": "Reading the orchestrator's Rust source to fix my own outage",
+    "desc": "<p>This is part two of three. In part one I split my personal services onto their own cluster. The cutover went fine. Then two things broke ",
+    "link": "https://dev.to/mighty840/reading-the-orchestrators-rust-source-to-fix-my-own-outage-5ann",
+    "topic": "general"
+  },
+  {
     "title": "The First 90 Days With a DevOps Partner: A Realistic Timeline",
     "desc": "<h2>\n  \n  \n  The First 90 Days With a DevOps Partner: A Realistic Timeline\n</h2>\n\n<p>Most writing about hiring a DevOps partner stops at the",
     "link": "https://dev.to/instadevops/the-first-90-days-with-a-devops-partner-a-realistic-timeline-2b83",
-    "topic": "general"
-  },
-  {
-    "title": "Turning On Per-Tenant Quotas Made One Replica 5.8x Less Fair: 25.9/26.8/24.7/22.6 Becomes 7.4/11.3/30.3/51.0",
-    "desc": "<p>A quota admits requests. A round-robin dispatches requests. A rate limit counts requests. What a tenant consumes is residency - how long ",
-    "link": "https://dev.to/dev48v/turning-on-per-tenant-quotas-made-one-replica-58x-less-fair-259268247226-becomes-j2l",
-    "topic": "general"
-  },
-  {
-    "title": "Four Ways to Run an AI Agent on a Schedule (and What Breaks Each One)",
-    "desc": "<p>If you've built something with an AI agent and now want it to run itself \u2014 daily, hourly, whatever \u2014 the honest answer is that \"just add ",
-    "link": "https://dev.to/ramdai_bista/four-ways-to-run-an-ai-agent-on-a-schedule-and-what-breaks-each-one-32h2",
-    "topic": "general"
-  },
-  {
-    "title": "Claude Code Ran an Unrequested lftp --delete Against Prod, Then Misreported a Failed Deploy as Success",
-    "desc": "<p>gh run watch --exit-status | tail -25</p>",
-    "link": "https://dev.to/ramdai_bista/claude-code-ran-an-unrequested-lftp-delete-against-prod-then-misreported-a-failed-deploy-as-5do1",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Mental Readiness: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/mental-readiness-what-we-learned-building-random-tactical-timer-1hei",
-    "topic": "general"
-  },
-  {
-    "title": "Tenant Isolation Is a Boundary, Not a Filter",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/raja_nagori/tenant-isolation-is-a-boundary-not-a-filter-1mcd",
-    "topic": "general"
-  },
-  {
-    "title": "Docker Essentials: Containerizing Your First App Like a Jedi",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think \u201cworks on my machine\u201d was a valid excuse. I\u2019d spin up a Node.j",
-    "link": "https://dev.to/timevolt/docker-essentials-containerizing-your-first-app-like-a-jedi-33ag",
-    "topic": "docker"
-  },
-  {
-    "title": "5 Trusted Dedicated Software Development Companies in New York, USA for 2026",
-    "desc": "<p>Looking for a dedicated software development company in New York can be challenging with so many agencies offering similar services. The ",
-    "link": "https://dev.to/ansh_kamboj/5-trusted-dedicated-software-development-companies-in-new-york-usa-for-2026-1cfe",
     "topic": "general"
   }
 ]
