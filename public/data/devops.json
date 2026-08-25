@@ -1,50 +1,50 @@
 [
   {
-    "title": "AIoT Explained: Connecting IoT Data With AI for Smarter Industrial Systems",
-    "desc": "<p>IoT systems are very good at collecting data.</p>\n\n<p>Sensors can measure temperature, vibration, location, pressure, equipment status, e",
-    "link": "https://dev.to/techwithunnati/aiot-explained-connecting-iot-data-with-ai-for-smarter-industrial-systems-hfe",
+    "title": "The First 90 Days With a DevOps Partner: A Realistic Timeline",
+    "desc": "<h2>\n  \n  \n  The First 90 Days With a DevOps Partner: A Realistic Timeline\n</h2>\n\n<p>Most writing about hiring a DevOps partner stops at the",
+    "link": "https://dev.to/instadevops/the-first-90-days-with-a-devops-partner-a-realistic-timeline-2b83",
     "topic": "general"
   },
   {
-    "title": "The MVP Budget-Killer Checklist (For Devs Who Get Handed Vague Specs)",
-    "desc": "<p>If you've ever built an MVP and thought \"why are we building this,\" this one's for you. Founders don't blow MVP budgets on hosting or too",
-    "link": "https://dev.to/multisyn_tech_e2ff85bf9e7/the-mvp-budget-killer-checklist-for-devs-who-get-handed-vague-specs-jcb",
+    "title": "Turning On Per-Tenant Quotas Made One Replica 5.8x Less Fair: 25.9/26.8/24.7/22.6 Becomes 7.4/11.3/30.3/51.0",
+    "desc": "<p>A quota admits requests. A round-robin dispatches requests. A rate limit counts requests. What a tenant consumes is residency - how long ",
+    "link": "https://dev.to/dev48v/turning-on-per-tenant-quotas-made-one-replica-58x-less-fair-259268247226-becomes-j2l",
     "topic": "general"
   },
   {
-    "title": "I Gave an AI Agent Root Access. Nothing Broke.",
-    "desc": "<p>How I sandbox LLM agents in disposable Firecracker microVMs on Krova Cloud \u2014 no public IP, one-command lifecycle, and why containers were",
-    "link": "https://dev.to/dhruv_malaviya_cdcc71e595/i-gave-an-ai-agent-root-access-nothing-broke-3hmc",
+    "title": "Four Ways to Run an AI Agent on a Schedule (and What Breaks Each One)",
+    "desc": "<p>If you've built something with an AI agent and now want it to run itself \u2014 daily, hourly, whatever \u2014 the honest answer is that \"just add ",
+    "link": "https://dev.to/ramdai_bista/four-ways-to-run-an-ai-agent-on-a-schedule-and-what-breaks-each-one-32h2",
     "topic": "general"
   },
   {
-    "title": "Cloud Hit $900B in 2026, Here's What Actually Changed for Engineering Teams",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Global cloud spend crossed <strong>$900B in 2026</strong>, public cloud specifically is at <strong>$",
-    "link": "https://dev.to/sherdilcloud/cloud-hit-900b-in-2026-heres-what-actually-changed-for-engineering-teams-364d",
+    "title": "Claude Code Ran an Unrequested lftp --delete Against Prod, Then Misreported a Failed Deploy as Success",
+    "desc": "<p>gh run watch --exit-status | tail -25</p>",
+    "link": "https://dev.to/ramdai_bista/claude-code-ran-an-unrequested-lftp-delete-against-prod-then-misreported-a-failed-deploy-as-5do1",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Mental Readiness: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/mental-readiness-what-we-learned-building-random-tactical-timer-1hei",
     "topic": "general"
   },
   {
-    "title": "Configuration vs Runtime: Where Determinism Ends",
-    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n\n\n\n<p>A security group rule allowing ",
-    "link": "https://dev.to/bala_paranj_059d338e44e7e/configuration-vs-runtime-where-determinism-ends-35l0",
+    "title": "Tenant Isolation Is a Boundary, Not a Filter",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/raja_nagori/tenant-isolation-is-a-boundary-not-a-filter-1mcd",
     "topic": "general"
   },
   {
-    "title": "A Dead-Man's Switch That Pages Once and Goes Quiet Is Worse Than None. Ours Went Silent for 43 Days.",
-    "desc": "<p>Most monitoring watches for something bad to appear: a 500, a timeout, an expired certificate, a slow response. A heartbeat monitor does ",
-    "link": "https://dev.to/merlonix/a-dead-mans-switch-that-pages-once-and-goes-quiet-is-worse-than-none-ours-went-silent-for-43-days-1f0n",
-    "topic": "general"
+    "title": "Docker Essentials: Containerizing Your First App Like a Jedi",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I used to think \u201cworks on my machine\u201d was a valid excuse. I\u2019d spin up a Node.j",
+    "link": "https://dev.to/timevolt/docker-essentials-containerizing-your-first-app-like-a-jedi-33ag",
+    "topic": "docker"
   },
   {
-    "title": "H100 Pricing in 2026: CoreWeave vs Lambda vs RunPod, GPU-Hour by GPU-Hour",
-    "desc": "<p>If you have shopped for GPU rentals lately, you have probably noticed the same H100 costs wildly different amounts depending on where you",
-    "link": "https://dev.to/moksh/h100-pricing-in-2026-coreweave-vs-lambda-vs-runpod-gpu-hour-by-gpu-hour-ei0",
-    "topic": "general"
-  },
-  {
-    "title": "The Rate Limit Racket: Why Your API Gateway Costs 30x More Than Self-Hosted",
-    "desc": "<p>--</p>\n\n<p>Cloud pricing pages lead with the exact same headline number: <strong>$1.00 to $3.50 per million requests</strong>[cite: 1].</",
-    "link": "https://dev.to/christopher123/the-rate-limit-racket-why-your-api-gateway-costs-30x-more-than-self-hosted-1d2h",
+    "title": "5 Trusted Dedicated Software Development Companies in New York, USA for 2026",
+    "desc": "<p>Looking for a dedicated software development company in New York can be challenging with so many agencies offering similar services. The ",
+    "link": "https://dev.to/ansh_kamboj/5-trusted-dedicated-software-development-companies-in-new-york-usa-for-2026-1cfe",
     "topic": "general"
   }
 ]
