@@ -1,5 +1,35 @@
 [
   {
+    "title": "Someone Can Get an SSL Certificate for Your Domain. CT Logs Are How You Find Out.",
+    "desc": "<p>Here is a failure your monitoring is built to miss. Somebody \u2014 an attacker who briefly controlled your DNS, a subdomain you forgot you de",
+    "link": "https://dev.to/merlonix/someone-can-get-an-ssl-certificate-for-your-domain-ct-logs-are-how-you-find-out-43nf",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes: senales utiles para CronJobs fragiles",
+    "desc": "<p>Los CronJobs en Kubernetes suelen parecer simples hasta que fallan de forma intermitente. El contenedor termina, vuelve a correr mas tard",
+    "link": "https://dev.to/alexcarteruk/kubernetes-senales-utiles-para-cronjobs-fragiles-59n",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "The Same Bug, Four Times, Three of Them Mine",
+    "desc": "<p><em>Originally published at <a href=\"https://ai.bedvibe.studio/notchecked/\" rel=\"noopener noreferrer\">ai.bedvibe.studio</a>.</em></p>\n\n<p",
+    "link": "https://dev.to/bedvibe_studios/the-same-bug-four-times-three-of-them-mine-4b78",
+    "topic": "general"
+  },
+  {
+    "title": "A Hundred Per Cent Success Rate and One Usable Answer",
+    "desc": "<p><em>Originally published at <a href=\"https://ai.bedvibe.studio/success-rate/\" rel=\"noopener noreferrer\">ai.bedvibe.studio</a>.</em></p>\n\n",
+    "link": "https://dev.to/bedvibe_studios/a-hundred-per-cent-success-rate-and-one-usable-answer-3aj6",
+    "topic": "general"
+  },
+  {
+    "title": "Nobody has shipped an LLM that grades its own draft without a human in the loop",
+    "desc": "<p>We went looking for prior art on a specific combination: a runner generates a draft with an LLM, a deterministic gate checks it, and \u2014 wi",
+    "link": "https://dev.to/unmannedops/nobody-has-shipped-an-llm-that-grades-its-own-draft-without-a-human-in-the-loop-3c04",
+    "topic": "general"
+  },
+  {
     "title": "Plugin Supply Chain Security: What Every Team Should Enforce",
     "desc": "<p>--<br />\ntitle: \"Plugin Supply Chain Security: What Every Team Should Enforce\"<br />\ndescription: \"Every DSH plugin install is a trust de",
     "link": "https://dev.to/ahmed_isam_752b775a50fd90/plugin-supply-chain-security-what-every-team-should-enforce-3o72",
@@ -16,35 +46,5 @@
     "desc": "<h2>\n  \n  \n  Every Vendor Claims AI Magic\n</h2>\n\n<p>Open any monitoring vendor's website and you'll see: \"AI-powered incident detection!\" \"M",
     "link": "https://dev.to/samson_tanimawo/ai-in-incident-response-hype-vs-reality-in-2024-3m2e",
     "topic": "secops"
-  },
-  {
-    "title": "Running a Public Status Page for Your MCP Server",
-    "desc": "<p><em>Originally published on the <a href=\"https://merlonix.com/blog/mcp-server-status-page-for-your-users/\" rel=\"noopener noreferrer\">Merl",
-    "link": "https://dev.to/merlonix/running-a-public-status-page-for-your-mcp-server-38mj",
-    "topic": "general"
-  },
-  {
-    "title": "Opinion: Free-Tier AI Review Is the Correct Default for CI",
-    "desc": "<h1>\n  \n  \n  Opinion: Free-Tier AI Review Is the Correct Default for CI\n</h1>\n\n<p>The correct default for AI-assisted code review is a free ",
-    "link": "https://dev.to/github_7727/opinion-free-tier-ai-review-is-the-correct-default-for-ci-1k33",
-    "topic": "general"
-  },
-  {
-    "title": "Case Study: A Free Model Triage of 1,400 C++ Warnings \u2014 the First 12 Were Wrong",
-    "desc": "<p>Compiler warnings are cheap to produce and expensive to read. Last week, one legacy translation unit emitted 1,400 of them in a single bu",
-    "link": "https://dev.to/datacpp_8185/case-study-a-free-model-triage-of-1400-c-warnings-the-first-12-were-wrong-237i",
-    "topic": "general"
-  },
-  {
-    "title": "A Simple CI/CD Pipeline That Actually Works",
-    "desc": "<h2>\n  \n  \n  The Problem with Most CI/CD Tutorials\n</h2>\n\n<p>Most tutorials show you a pipeline that deploys a \"hello world\" app to a free H",
-    "link": "https://dev.to/cloudfrontier/a-simple-cicd-pipeline-that-actually-works-17p2",
-    "topic": "general"
-  },
-  {
-    "title": "Linux Command Line Tricks Every Developer Must Know",
-    "desc": "<h1>\n  \n  \n  Linux Command Line Tricks Every Developer Must Know\n</h1>\n\n<p>tags: linux, terminal, productivity, devops</p>\n\n\n\n\n<p>tags: linu",
-    "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-3lmk",
-    "topic": "general"
   }
 ]
