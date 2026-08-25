@@ -1,5 +1,35 @@
 [
   {
+    "title": "GitHub Pages Silently Fails to Provision SSL \u2014 and the \u201cEnforce HTTPS\u201d Checkbox Stays Checked Anyway",
+    "desc": "<p>You point a custom domain at GitHub Pages, tick <strong>Enforce HTTPS</strong>, wait, and come back to a checkbox that is still ticked an",
+    "link": "https://dev.to/merlonix/github-pages-silently-fails-to-provision-ssl-and-the-enforce-https-checkbox-stays-checked-anyway-5gh4",
+    "topic": "general"
+  },
+  {
+    "title": "Release notes are not release documentation: a reader-task coverage method",
+    "desc": "<p>A release note can be completely accurate and still leave an integrator unable to use the release.</p>\n\n<p>\u201cWebhook retries now use expon",
+    "link": "https://dev.to/hdd_igh_5e3c0bdaa0f7a2ef5/release-notes-are-not-release-documentation-a-reader-task-coverage-method-475d",
+    "topic": "general"
+  },
+  {
+    "title": "Top 6 Website To Buy Yahoo Accounts in 2027 (PVA",
+    "desc": "<p>Top 6 Website To Buy Yahoo Accounts in 2027 (PVA </p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image",
+    "link": "https://dev.to/smmusapva199/top-6-website-to-buy-yahoo-accounts-in-2027-pva-44k4",
+    "topic": "general"
+  },
+  {
+    "title": "Docker Web UI Security in 2026: Who Actually Publishes a Threat Model",
+    "desc": "<p>Recently I posted a comparison of 10 Docker web UIs on r/selfhosted. A commenter asked a question I hadn't answered in the original artic",
+    "link": "https://dev.to/vasilipascal/docker-web-ui-security-in-2026-who-actually-publishes-a-threat-model-2h07",
+    "topic": "docker"
+  },
+  {
+    "title": "Day 56: Deploy Nginx Web Server on Kubernetes Cluster",
+    "desc": "<p>Some of the Nautilus team developers are developing a static website and they want to deploy it on Kubernetes cluster. They want it to be",
+    "link": "https://dev.to/janak0ff/day-56-deploy-nginx-web-server-on-kubernetes-cluster-180e",
+    "topic": "kubernetes"
+  },
+  {
     "title": "From \"Merge is Deploy\" to Release Engineering with GitHub Actions",
     "desc": "<p>Have you ever stopped to think about the risk of having a pipeline where any merge into the main branch deploys straight to production wi",
     "link": "https://dev.to/victorlisbronzo/from-merge-is-deploy-to-release-engineering-with-github-actions-3h19",
@@ -15,36 +45,6 @@
     "title": "I Gave an AI Agent Unrestricted Shell Access. Here's What Happened Next.",
     "desc": "<p><em>James Coombs is a design engineer who built a 3-layer safety architecture for AI code agents after running into 4 agent bypasses and ",
     "link": "https://dev.to/james-coombs/i-gave-an-ai-agent-unrestricted-shell-access-heres-what-happened-next-an9",
-    "topic": "general"
-  },
-  {
-    "title": "Connection refused\" has three different root causes here's how to tell them apart with evidence",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/rogeroliveira86/connection-refused-has-three-different-root-causes-heres-how-to-tell-them-apart-with-evidence-166f",
-    "topic": "general"
-  },
-  {
-    "title": "Your Certificate Is Valid and Your Site Loads Fine \u2014 and Your TLS Still Grades Weak",
-    "desc": "<p>Certificate monitoring answers one question well: is the cert expired, and is it the cert you expect? An expiry monitor watches <code>not",
-    "link": "https://dev.to/merlonix/your-certificate-is-valid-and-your-site-loads-fine-and-your-tls-still-grades-weak-2pl",
-    "topic": "general"
-  },
-  {
-    "title": "\u26a0\ufe0f What is a Cyber Threat?",
-    "desc": "<p>\u26a0\ufe0f What is a Cyber Threat?<br />\nWhen securing infrastructure, every defense strategy starts with one simple question: What are we defend",
-    "link": "https://dev.to/yash-infra/what-is-a-cyber-threat-5cec",
-    "topic": "secops"
-  },
-  {
-    "title": "Stop Opening Files Manually: 10 Faster Ways to Work in Linux",
-    "desc": "<blockquote>\n<p>Opening text editors just to check a port, replace a string, or read a log wastes precious time. Here are 10 faster ways to ",
-    "link": "https://dev.to/asepsayyad007/stop-opening-files-manually-10-faster-ways-to-work-in-linux-311a",
-    "topic": "general"
-  },
-  {
-    "title": "CVE-2026-19478: GitLab's CVSS 9.4 GraphQL Flaw Was Exploited Within Days \u2014 Patch Now",
-    "desc": "<p>GitLab shipped an <strong>out-of-band emergency release on August 17, 2026</strong> fixing <strong>CVE-2026-19478</strong> \u2014 a code injec",
-    "link": "https://dev.to/stanleya/cve-2026-19478-gitlabs-cvss-94-graphql-flaw-was-exploited-within-days-patch-now-1n01",
     "topic": "general"
   }
 ]
