@@ -1,9 +1,21 @@
 [
   {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "desc": "",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "topic": "general"
+  },
+  {
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
     "desc": "",
     "link": "https://huggingface.co/blog/gradio-workflow-guide",
     "topic": "general"
+  },
+  {
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "desc": "",
+    "link": "https://huggingface.co/blog/pwc-search",
+    "topic": "huggingface"
   },
   {
     "title": "Measuring benchmark optimization in speech recognition",
@@ -34,17 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
     "topic": "general"
-  },
-  {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "desc": "",
-    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "topic": "general"
-  },
-  {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "desc": "",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "topic": "huggingface"
   }
 ]

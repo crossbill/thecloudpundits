@@ -1,50 +1,50 @@
 [
   {
-    "title": "Google Cloud Professional Cloud DevOps Engineer: Skills, Tools, CI/CD, Kubernetes and Career Roadmap",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/zainab_1201/google-cloud-professional-cloud-devops-engineer-skills-tools-cicd-kubernetes-and-career-roadmap-16d4",
-    "topic": "gcp"
-  },
-  {
-    "title": "How to Deploy AWS EKS With Open-Source Terraform Modules",
-    "desc": "<p>Deploying Amazon EKS by hand means composing AWS, IAM, Kubernetes, Helm, networking, and autoscaling resources yourself. This guide takes",
-    "link": "https://dev.to/mattia_vercelli/how-to-deploy-aws-eks-with-open-source-terraform-modules-2gdj",
-    "topic": "aws"
-  },
-  {
-    "title": "How to Fix Docker Container CrashLoopBackOff \u2013 Step\u2011by\u2011Step Guide for DevOps",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you\u2019ve ever seen a pod stuck in <strong>CrashLoopBackOff</strong>, you know the frustration. This gui",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-docker-container-crashloopbackoff-step-by-step-guide-for-devops-52p7",
-    "topic": "docker"
-  },
-  {
-    "title": "How I Automated cPanel Hosting Management Using APIs",
-    "desc": "<h1>\n  \n  \n  How I Automated cPanel Hosting Management Using APIs\n</h1>\n\n<p>Managing hosting accounts manually works when you have a few cus",
-    "link": "https://dev.to/nitinmehta/how-i-automated-cpanel-hosting-management-using-apis-1pnj",
+    "title": "AIoT Explained: Connecting IoT Data With AI for Smarter Industrial Systems",
+    "desc": "<p>IoT systems are very good at collecting data.</p>\n\n<p>Sensors can measure temperature, vibration, location, pressure, equipment status, e",
+    "link": "https://dev.to/techwithunnati/aiot-explained-connecting-iot-data-with-ai-for-smarter-industrial-systems-hfe",
     "topic": "general"
   },
   {
-    "title": "How to Reduce Nginx 502 and 504 Gateway Errors",
-    "desc": "<p>Practical steps to diagnose and fix nginx 502 and 504 errors \u2014 from upstream timeouts to worker limits \u2014 before they wake you up at 3am.<",
-    "link": "https://dev.to/opservo/how-to-reduce-nginx-502-and-504-gateway-errors-3m6i",
+    "title": "The MVP Budget-Killer Checklist (For Devs Who Get Handed Vague Specs)",
+    "desc": "<p>If you've ever built an MVP and thought \"why are we building this,\" this one's for you. Founders don't blow MVP budgets on hosting or too",
+    "link": "https://dev.to/multisyn_tech_e2ff85bf9e7/the-mvp-budget-killer-checklist-for-devs-who-get-handed-vague-specs-jcb",
     "topic": "general"
   },
   {
-    "title": "Best Corporate Training with Expert Trainer Support",
-    "desc": "<p>Corporate Training Roadmap for Digital Transformation<br />\nIntroduction<br />\nDigital transformation is changing how businesses operate,",
-    "link": "https://dev.to/kalyan_visualpath_42cb693/best-corporate-training-with-expert-trainer-support-k0a",
+    "title": "I Gave an AI Agent Root Access. Nothing Broke.",
+    "desc": "<p>How I sandbox LLM agents in disposable Firecracker microVMs on Krova Cloud \u2014 no public IP, one-command lifecycle, and why containers were",
+    "link": "https://dev.to/dhruv_malaviya_cdcc71e595/i-gave-an-ai-agent-root-access-nothing-broke-3hmc",
     "topic": "general"
   },
   {
-    "title": "Dockerfile Best Practices: Security",
-    "desc": "<p>Run this against your current containers:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>docker",
-    "link": "https://dev.to/fj_palacios/dockerfile-best-practices-security-2p5g",
-    "topic": "docker"
+    "title": "Cloud Hit $900B in 2026, Here's What Actually Changed for Engineering Teams",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Global cloud spend crossed <strong>$900B in 2026</strong>, public cloud specifically is at <strong>$",
+    "link": "https://dev.to/sherdilcloud/cloud-hit-900b-in-2026-heres-what-actually-changed-for-engineering-teams-364d",
+    "topic": "general"
   },
   {
-    "title": "pg_cancel_backend() returned true. The queue didn't move.",
-    "desc": "<p>Ten sessions are stuck. You skip the slow-query hunt, do the hard part properly, and find the one session at the front of the queue \u2014 the",
-    "link": "https://dev.to/hitoshi1964/pgcancelbackend-returned-true-the-queue-didnt-move-4921",
+    "title": "Configuration vs Runtime: Where Determinism Ends",
+    "desc": "<blockquote>\n<p>\u2713 Human-authored analysis; AI used for formatting and proofreading.</p>\n</blockquote>\n\n\n\n\n<p>A security group rule allowing ",
+    "link": "https://dev.to/bala_paranj_059d338e44e7e/configuration-vs-runtime-where-determinism-ends-35l0",
+    "topic": "general"
+  },
+  {
+    "title": "A Dead-Man's Switch That Pages Once and Goes Quiet Is Worse Than None. Ours Went Silent for 43 Days.",
+    "desc": "<p>Most monitoring watches for something bad to appear: a 500, a timeout, an expired certificate, a slow response. A heartbeat monitor does ",
+    "link": "https://dev.to/merlonix/a-dead-mans-switch-that-pages-once-and-goes-quiet-is-worse-than-none-ours-went-silent-for-43-days-1f0n",
+    "topic": "general"
+  },
+  {
+    "title": "H100 Pricing in 2026: CoreWeave vs Lambda vs RunPod, GPU-Hour by GPU-Hour",
+    "desc": "<p>If you have shopped for GPU rentals lately, you have probably noticed the same H100 costs wildly different amounts depending on where you",
+    "link": "https://dev.to/moksh/h100-pricing-in-2026-coreweave-vs-lambda-vs-runpod-gpu-hour-by-gpu-hour-ei0",
+    "topic": "general"
+  },
+  {
+    "title": "The Rate Limit Racket: Why Your API Gateway Costs 30x More Than Self-Hosted",
+    "desc": "<p>--</p>\n\n<p>Cloud pricing pages lead with the exact same headline number: <strong>$1.00 to $3.50 per million requests</strong>[cite: 1].</",
+    "link": "https://dev.to/christopher123/the-rate-limit-racket-why-your-api-gateway-costs-30x-more-than-self-hosted-1d2h",
     "topic": "general"
   }
 ]
