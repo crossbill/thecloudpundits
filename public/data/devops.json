@@ -1,50 +1,50 @@
 [
   {
+    "title": "A Port Check Has Three Answers, Not Two \u2014 \u2018Open\u2019, \u2018Closed\u2019, and \u2018I Don\u2019t Know\u2019",
+    "desc": "<p>Checking whether a port is open looks like the most binary thing in monitoring. You open a TCP connection; either it succeeds or it doesn",
+    "link": "https://dev.to/merlonix/a-port-check-has-three-answers-not-two-open-closed-and-i-dont-know-2pdp",
+    "topic": "general"
+  },
+  {
+    "title": "Free-Tier CI Triage: One Small Bot, End to End",
+    "desc": "<p>The useful AI story this month is not a new benchmark. It is that small, scheduled agent tasks have become cheap enough to run for free. ",
+    "link": "https://dev.to/aiio_6471/free-tier-ci-triage-one-small-bot-end-to-end-ebd",
+    "topic": "general"
+  },
+  {
+    "title": "Schedule the Free Model for 2 AM",
+    "desc": "<p>Liquid syntax error: Unknown tag 'endraw'</p>",
+    "link": "https://dev.to/apppro_5726/schedule-the-free-model-for-2-am-3a71",
+    "topic": "general"
+  },
+  {
+    "title": "From Markdown to Guarded Automation: Build Your First GitHub Agentic Workflow",
+    "desc": "<h2>\n  \n  \n  From Markdown to Guarded Automation: Build Your First GitHub Agentic Workflow\n</h2>\n\n<p>GitHub Agentic Workflows bring natural-",
+    "link": "https://dev.to/pwd9000/from-markdown-to-guarded-automation-build-your-first-github-agentic-workflow-3gbd",
+    "topic": "general"
+  },
+  {
+    "title": "Chaos for the Cost-Conscious: Fault-Injecting Your LLM Pipeline on Free Hardware",
+    "desc": "<p>Free infrastructure is unpredictable. That is not a bug \u2014 it is a testing opportunity. Chaos engineering is usually described as a luxury",
+    "link": "https://dev.to/hackrs_3352/chaos-for-the-cost-conscious-fault-injecting-your-llm-pipeline-on-free-hardware-5244",
+    "topic": "general"
+  },
+  {
+    "title": "I Scanned 40 Public Agent Skills Before Installation. Here's What the Scorecard Found",
+    "desc": "<p>Agent skills are becoming a package format for behavior.</p>\n\n<p>A <code>SKILL.md</code> file can teach an agent how to review code, oper",
+    "link": "https://dev.to/sunnhappy/i-scanned-40-public-agent-skills-before-installation-heres-what-the-scorecard-found-56g2",
+    "topic": "general"
+  },
+  {
+    "title": "Which Commit Made the API Slow? A $0 Performance Detective",
+    "desc": "<h1>\n  \n  \n  Which Commit Made the API Slow? A $0 Performance Detective\n</h1>\n\n<p>Performance regressions are the quiet failures. The API st",
+    "link": "https://dev.to/codecpp_5026/which-commit-made-the-api-slow-a-0-performance-detective-19i7",
+    "topic": "general"
+  },
+  {
     "title": "How Healthcare Software Product Development Turns Ideas Into Market-Ready Digital Health Products",
     "desc": "<p>Healthcare organizations and healthtech startups are under pressure to launch digital products that solve real clinical and operational p",
     "link": "https://dev.to/shwetankd/how-healthcare-software-product-development-turns-ideas-into-market-ready-digital-health-products-4b8",
-    "topic": "general"
-  },
-  {
-    "title": "How to Choose the Best Nepal Recruitment Agency for Construction Workers",
-    "desc": "<p>Global Recruit Experts Pvt. Ltd. is one of the most trustworthy manpower agencies in Nepal and India, offering skilled, semi-skilled, and",
-    "link": "https://dev.to/_global_recruit_expe/how-to-choose-the-best-nepal-recruitment-agency-for-construction-workers-40km",
-    "topic": "general"
-  },
-  {
-    "title": "Free vs. Paid AI Infrastructure: A Decision Framework That Survives Production",
-    "desc": "<p>Here's the short version: most teams ask the wrong question about free AI infrastructure. They ask, \"Is it good enough?\" The better quest",
-    "link": "https://dev.to/hackjs_7468/free-vs-paid-ai-infrastructure-a-decision-framework-that-survives-production-23mc",
-    "topic": "general"
-  },
-  {
-    "title": "why your ai agent fails: it is a harness problem, not a prompt problem",
-    "desc": "<p>The most common mistake in agent development is believing the prompt is the product.</p>\n\n<p>An agent gets stuck in a loop. The team edit",
-    "link": "https://dev.to/pvgomes/why-your-ai-agent-fails-it-is-a-harness-problem-not-a-prompt-problem-548b",
-    "topic": "general"
-  },
-  {
-    "title": "Your security.txt Has an Expiry Date \u2014 and It Is Probably Already Stale",
-    "desc": "<p>You added a <code>security.txt</code> file the way you were supposed to. Dropped it at <code>/.well-known/security.txt</code>, listed a <",
-    "link": "https://dev.to/merlonix/your-securitytxt-has-an-expiry-date-and-it-is-probably-already-stale-3kan",
-    "topic": "secops"
-  },
-  {
-    "title": "The Complete Guide to Coil Nails: Types, Uses & How to Pick the Right One",
-    "desc": "<p>If you work in construction, packaging, or woodworking, you have seen <a href=\"https://sitplindia.com/coil-nails/\" rel=\"noopener noreferr",
-    "link": "https://dev.to/sitplindia_de0f7acb883dd0/the-complete-guide-to-coil-nails-types-uses-how-to-pick-the-right-one-2pig",
-    "topic": "general"
-  },
-  {
-    "title": "From Log Sprawl to a Two-Sentence Morning Report",
-    "desc": "<p>The application server wrote 2.3 GB of logs last night. The team ignored them, because reading them would take three hours. Then a paymen",
-    "link": "https://dev.to/applab_8831/from-log-sprawl-to-a-two-sentence-morning-report-5cb6",
-    "topic": "general"
-  },
-  {
-    "title": "Why US Companies Are Choosing to Hire Dedicated Remote Developers",
-    "desc": "<h2>\n  \n  \n  The Shift Is Already Happening\n</h2>\n\n<p>The conversation among US technology leaders has changed. A few years ago, the debate ",
-    "link": "https://dev.to/hiddenbrainsinfotech/why-us-companies-are-choosing-to-hire-dedicated-remote-developers-4n56",
     "topic": "general"
   }
 ]
