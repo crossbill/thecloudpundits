@@ -1,5 +1,29 @@
 [
   {
+    "title": "Diagnose Proxy Failures with a Four-Route Control Matrix",
+    "desc": "<p>When an automation job fails, the visible symptom rarely identifies the failing layer. A timeout may come from the proxy, the target, the",
+    "link": "https://dev.to/98ip/diagnose-proxy-failures-with-a-four-route-control-matrix-3jb",
+    "topic": "general"
+  },
+  {
+    "title": "Most Kubernetes clusters can't tell you what their GPUs cost",
+    "desc": "<p>I built a small tool to answer one question: how many GPU-hours is a cluster paying for and not using?</p>\n\n<p>Then I pointed it at real ",
+    "link": "https://dev.to/dgotlieb/most-kubernetes-clusters-cant-tell-you-what-their-gpus-cost-1ghl",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Tab is whitespace, so your TSV parser is not one",
+    "desc": "<p>TSV is the format shell speaks. <code>jq -r @tsv</code>, <code>git for-each-ref --format</code>, <code>ps --format</code>,<br />\nanything",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/tab-is-whitespace-so-your-tsv-parser-is-not-one-3bj8",
+    "topic": "general"
+  },
+  {
+    "title": "How to Resolve SSL/TLS Certificate Handshake Failures \u2013 Debugging TLS Errors for DevOps",
+    "desc": "<h1>\n  \n  \n  How to Resolve SSL/TLS Certificate Handshake Failures\n</h1>\n\n<p><strong>Audience:</strong> Software developers, engineers, and ",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-debugging-tls-errors-for-devops-2d10",
+    "topic": "general"
+  },
+  {
     "title": "MTTR Optimization: The 7 Levers That Actually Move the Needle",
     "desc": "<h2>\n  \n  \n  MTTR Is a Lagging Indicator\n</h2>\n\n<p>Everyone tracks Mean Time to Resolve. Few understand what actually drives it.</p>\n\n<p>MTT",
     "link": "https://dev.to/samson_tanimawo/mttr-optimization-the-7-levers-that-actually-move-the-needle-144b",
@@ -21,30 +45,6 @@
     "title": "I got banned from GitHub for 2 weeks. Here's what I learned about single-platform dependency.",
     "desc": "<p>Two weeks ago, GitHub flagged my account. No warning, no explanation, no timeline. 55 public repos instantly returned HTTP 404 to anonymo",
     "link": "https://dev.to/edison_flores_6d2cd381b13/i-got-banned-from-github-for-2-weeks-heres-what-i-learned-about-single-platform-dependency-gn7",
-    "topic": "general"
-  },
-  {
-    "title": "Fix CORS Errors in Node.js Fast: A Complete Guide",
-    "desc": "<h1>\n  \n  \n  Fix CORS Errors in Node.js Fast: A Complete Guide\n</h1>\n\n<p>Cross\u2011Origin Resource Sharing (CORS) errors are one of the most com",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-cors-errors-in-nodejs-fast-a-complete-guide-41c3",
-    "topic": "general"
-  },
-  {
-    "title": "The First 10 Things I Would Check in a Messy Kubernetes Cluster",
-    "desc": "<p><em>A practical first-pass assessment for an undocumented Kubernetes cluster\u2014focused on risk, cost, recoverability, and ownership.</em></",
-    "link": "https://dev.to/kestrion/the-first-10-things-i-would-check-in-a-messy-kubernetes-cluster-7bi",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Buy Aged GitHub Account \u2013 Trusted Service In USA",
-    "desc": "<p>Buy Aged GitHub Account<br />\n\u25c8{{\u269c\ufe0f\u269c\ufe0f}}\u25c8\u27a4Telegram:@Getsmmzoneofficial<br />\n\u25c8{{\u269c\ufe0f\u269c\ufe0f}}\u25c8\u27a4WhatsApp:+1 (352) 828-5265<br />\n\u25c8{{\u269c\ufe0f\u269c\ufe0f}}\u25c8\u27a4Telegr",
-    "link": "https://dev.to/jessebol/buy-aged-github-account-trusted-service-in-usa-4c07",
-    "topic": "general"
-  },
-  {
-    "title": "12 Trusted Places to Buy & Sell Aged GitHub Accounts",
-    "desc": "<p>Buy Aged GitHub Account<br />\n\u25c8{{\u269c\ufe0f\u269c\ufe0f}}\u25c8\u27a4Telegram:@Getsmmzoneofficial<br />\n\u25c8{{\u269c\ufe0f\u269c\ufe0f}}\u25c8\u27a4WhatsApp:+1 (352) 828-5265<br />\n\u25c8{{\u269c\ufe0f\u269c\ufe0f}}\u25c8\u27a4Telegr",
-    "link": "https://dev.to/jessebol/12-trusted-places-to-buy-sell-aged-github-accounts-nb",
     "topic": "general"
   }
 ]
