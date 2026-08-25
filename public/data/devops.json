@@ -1,50 +1,50 @@
 [
   {
-    "title": "Token Forensics: Finding the Process That Ate Your Free Allowance",
-    "desc": "<p>Three in the morning is when a free tier starts lying to you. Your dashboard shows two hundred requests today, yet the token counter says",
-    "link": "https://dev.to/devrs_886/token-forensics-finding-the-process-that-ate-your-free-allowance-2i69",
+    "title": "Common network bottlenecks and how to actually find them",
+    "desc": "<p>The network is slow\" is one of the least useful problem reports there is, because slow can come from half a dozen very different places, ",
+    "link": "https://dev.to/nodevguy/common-network-bottlenecks-and-how-to-actually-find-them-43kd",
     "topic": "general"
   },
   {
-    "title": "Designing Sub-20ms Physical Event Access: Edge-Computed RFID vs Cloud APIs",
-    "desc": "<p>Why scaling event access to 10,000+ concurrent attendees requires replacing cloud API roundtrips with local edge nodes, SQLite caching, a",
-    "link": "https://dev.to/stampiq/designing-sub-20ms-physical-event-access-edge-computed-rfid-vs-cloud-apis-31ee",
+    "title": "Network redundancy: the difference between a blip and an outage",
+    "desc": "<p>Everyone agrees redundancy matters right up until they look at the bill, and then it becomes \"do we really need two of everything?\" The h",
+    "link": "https://dev.to/nodevguy/network-redundancy-the-difference-between-a-blip-and-an-outage-3458",
     "topic": "general"
   },
   {
-    "title": "The Fit Score: When a Free AI Coding Server Earns Its Place in Your Repo",
-    "desc": "<p>Picture a team that wired a free AI coding server into its review loop. Two weeks later, the sprint stalls. The quota resets on a Tuesday",
-    "link": "https://dev.to/devpro_9167/the-fit-score-when-a-free-ai-coding-server-earns-its-place-in-your-repo-3kmh",
+    "title": "Microservices by Default: The Organizational Constraints Nobody Puts in the Architecture Diagram",
+    "desc": "<p>\"We're moving to microservices\" has been the architectural ambition of engineering teams for a decade. More than 40% of organisations now",
+    "link": "https://dev.to/aloknecessary/microservices-by-default-the-organizational-constraints-nobody-puts-in-the-architecture-diagram-258l",
     "topic": "general"
   },
   {
-    "title": "Treat Your Agent's Free Server Like a Compromised Machine",
-    "desc": "<p>Last week a developer I know ran a routine refactor through a coding agent on a free remote server. The agent finished, the diff looked c",
-    "link": "https://dev.to/webx_2736/treat-your-agents-free-server-like-a-compromised-machine-34j0",
+    "title": "Opinion: Per-Commit AI Review Is Impossible Until the Marginal Cost Is Zero",
+    "desc": "<p>AI review belongs on every commit, not just on every pull request, because the cheapest defect is the one caught in the session that wrot",
+    "link": "https://dev.to/github_7727/opinion-per-commit-ai-review-is-impossible-until-the-marginal-cost-is-zero-3j5o",
     "topic": "general"
   },
   {
-    "title": "Your Tests Passed. That Still Doesn\u2019t Mean You Should Release.",
-    "desc": "<p>Your tests passed.</p>\n\n<p>CI is green.</p>\n\n<p>The build succeeded.</p>\n\n<p>So you release.</p>\n\n<p>Seems reasonable, right?</p>\n\n<p>Not",
-    "link": "https://dev.to/dulvarn/your-tests-passed-that-still-doesnt-mean-you-should-release-184o",
+    "title": "Kubernetes for Beginners: Deploy Your First App",
+    "desc": "<h1>\n  \n  \n  Kubernetes for Beginners: Deploy Your First App\n</h1>\n\n<p>tags: kubernetes, docker, devops, tutorial</p>\n\n\n\n\n<p>tags: kubernete",
+    "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-1mfe",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "The Tests Are Green. The Architecture Is Not: Why I Built Archfit",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/alexeiled/the-tests-are-green-the-architecture-is-not-why-i-built-archfit-565f",
     "topic": "general"
   },
   {
-    "title": "What I learned rolling out Claude Code across a company full of legacy systems",
-    "desc": "<p>I maintain the internal systems of a mid-size manufacturer in Japan: pre-framework PHP that predates Composer, VB.NET ClickOnce apps nobo",
-    "link": "https://dev.to/runathicku/what-i-learned-rolling-out-claude-code-across-a-company-full-of-legacy-systems-4j1d",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Sandbox First: Why Free Servers Beat Token Grants for Agent Evaluation",
-    "desc": "<p>A developer on a coding-agent trial received a fresh token grant last month, pasted a failing integration test into the chat, and watched",
-    "link": "https://dev.to/applab_743/sandbox-first-why-free-servers-beat-token-grants-for-agent-evaluation-872",
+    "title": "How to Resolve SSL/TLS Certificate Handshake Failures \u2013 Quick DevOps Guide",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Handshake failures are one of the most common pain points when working with secure services. Whether you",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-quick-devops-guide-26ij",
     "topic": "general"
   },
   {
-    "title": "From Prompt to Live Endpoint on Free Tiers",
-    "desc": "<p>A developer notices a pattern. Their side project fails at 3 AM. The logs are silent. The users are asleep. The next morning, the dashboa",
-    "link": "https://dev.to/devgo_5325/from-prompt-to-live-endpoint-on-free-tiers-12ek",
+    "title": "Database Transaction Management in ColdFusion: cftransaction, Isolation Levels, and Deadlocks",
+    "desc": "<p>ColdFusion manages database transactions with the cftransaction tag, which groups multiple queries into one atomic unit so they all commi",
+    "link": "https://dev.to/deepak_sir__/database-transaction-management-in-coldfusion-cftransaction-isolation-levels-and-deadlocks-3o00",
     "topic": "general"
   }
 ]
