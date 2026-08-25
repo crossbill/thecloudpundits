@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Resolve SSL/TLS Certificate Handshake Failures \u2013 Troubleshooting Guide for Developers",
-    "desc": "<h1>\n  \n  \n  How to Resolve SSL/TLS Certificate Handshake Failures \u2013 Troubleshooting Guide for Developers\n</h1>\n\n<h2>\n  \n  \n  Overview\n</h2>",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-troubleshooting-guide-for-developers-1beo",
+    "title": "Plugin Supply Chain Security: What Every Team Should Enforce",
+    "desc": "<p>--<br />\ntitle: \"Plugin Supply Chain Security: What Every Team Should Enforce\"<br />\ndescription: \"Every DSH plugin install is a trust de",
+    "link": "https://dev.to/ahmed_isam_752b775a50fd90/plugin-supply-chain-security-what-every-team-should-enforce-3o72",
+    "topic": "secops"
+  },
+  {
+    "title": "Your AI Agent Has Bash Access. Who's Watching the Logs?",
+    "desc": "<p>If you run Claude Code, Cursor, Copilot, or any agent with terminal access, you've granted a machine the power to run arbitrary commands ",
+    "link": "https://dev.to/agentchip/your-ai-agent-has-bash-access-whos-watching-the-logs-3ecp",
     "topic": "general"
   },
   {
-    "title": "Stop Putting Secrets in Plaintext",
-    "desc": "<p>Most local dev setups end up with some secret \u2014 an API key, a cloud credential, a database password \u2014 sitting in a plaintext file on disk",
-    "link": "https://dev.to/alizaminj/stop-putting-secrets-in-plaintext-4khd",
+    "title": "AI in Incident Response: Hype vs. Reality in 2024",
+    "desc": "<h2>\n  \n  \n  Every Vendor Claims AI Magic\n</h2>\n\n<p>Open any monitoring vendor's website and you'll see: \"AI-powered incident detection!\" \"M",
+    "link": "https://dev.to/samson_tanimawo/ai-in-incident-response-hype-vs-reality-in-2024-3m2e",
+    "topic": "secops"
+  },
+  {
+    "title": "Running a Public Status Page for Your MCP Server",
+    "desc": "<p><em>Originally published on the <a href=\"https://merlonix.com/blog/mcp-server-status-page-for-your-users/\" rel=\"noopener noreferrer\">Merl",
+    "link": "https://dev.to/merlonix/running-a-public-status-page-for-your-mcp-server-38mj",
     "topic": "general"
   },
   {
-    "title": "From Zero to Hero: Kubernetes for Beginners \u2013 A Journey Like 'The Matrix'",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the first time I tried to run a micro\u2011service locally with <c",
-    "link": "https://dev.to/timevolt/from-zero-to-hero-kubernetes-for-beginners-a-journey-like-the-matrix-c1h",
-    "topic": "kubernetes"
-  },
-  {
-    "title": ".NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets",
-    "desc": "<p>.NET 10 NU1510 package pruning can turn an SDK upgrade into a failed restore when a repository promotes warnings to errors. The tempting ",
-    "link": "https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd",
+    "title": "Opinion: Free-Tier AI Review Is the Correct Default for CI",
+    "desc": "<h1>\n  \n  \n  Opinion: Free-Tier AI Review Is the Correct Default for CI\n</h1>\n\n<p>The correct default for AI-assisted code review is a free ",
+    "link": "https://dev.to/github_7727/opinion-free-tier-ai-review-is-the-correct-default-for-ci-1k33",
     "topic": "general"
   },
   {
-    "title": "Every Metric Needs A Set Point, Or It Is Just A Number",
-    "desc": "<p>Human physiology has been running production monitoring for a few hundred million years, and it does one thing that most engineering dash",
-    "link": "https://dev.to/paulcrinigan/every-metric-needs-a-set-point-or-it-is-just-a-number-3gel",
+    "title": "Case Study: A Free Model Triage of 1,400 C++ Warnings \u2014 the First 12 Were Wrong",
+    "desc": "<p>Compiler warnings are cheap to produce and expensive to read. Last week, one legacy translation unit emitted 1,400 of them in a single bu",
+    "link": "https://dev.to/datacpp_8185/case-study-a-free-model-triage-of-1400-c-warnings-the-first-12-were-wrong-237i",
     "topic": "general"
   },
   {
-    "title": "# The AI Stack Is Getting Thicker \u2014 And We Are Building Around the Wrong Abstraction",
-    "desc": "<p>Over the last few years, the conversation around AI infrastructure has been dominated by a relatively simple question: who has the most c",
-    "link": "https://dev.to/t474r0b07/-the-ai-stack-is-getting-thicker-and-we-are-building-around-the-wrong-abstraction-4f90",
+    "title": "A Simple CI/CD Pipeline That Actually Works",
+    "desc": "<h2>\n  \n  \n  The Problem with Most CI/CD Tutorials\n</h2>\n\n<p>Most tutorials show you a pipeline that deploys a \"hello world\" app to a free H",
+    "link": "https://dev.to/cloudfrontier/a-simple-cicd-pipeline-that-actually-works-17p2",
     "topic": "general"
   },
   {
-    "title": "You Found the ERROR. The Cause Is in the Lines Before It",
-    "desc": "<p>A real incident investigation starts the moment you find the ERROR line. <strong>The ERROR is the result \u2014 the cause is usually upstream.",
-    "link": "https://dev.to/_156a59a8566fe532e165/you-found-the-error-the-cause-is-in-the-lines-before-it-1ij2",
-    "topic": "general"
-  },
-  {
-    "title": "Is Your CDN Actually Caching? Audit Hit Ratio and Asset Fan-Out Before You Migrate Buckets",
-    "desc": "<p>Before you move a bucket to escape egress fees, measure two things: your <strong>byte-weighted cache hit ratio</strong> and your <strong>",
-    "link": "https://dev.to/libme/is-your-cdn-actually-caching-audit-hit-ratio-and-asset-fan-out-before-you-migrate-buckets-4ef5",
+    "title": "Linux Command Line Tricks Every Developer Must Know",
+    "desc": "<h1>\n  \n  \n  Linux Command Line Tricks Every Developer Must Know\n</h1>\n\n<p>tags: linux, terminal, productivity, devops</p>\n\n\n\n\n<p>tags: linu",
+    "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-3lmk",
     "topic": "general"
   }
 ]
