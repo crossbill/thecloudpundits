@@ -1,5 +1,11 @@
 [
   {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "desc": "",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "topic": "general"
+  },
+  {
     "title": "Measuring benchmark optimization in speech recognition",
     "desc": "",
     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "topic": "huggingface"
-  },
-  {
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "desc": "",
-    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "topic": "general"
   }
 ]

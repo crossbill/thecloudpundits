@@ -1,5 +1,41 @@
 [
   {
+    "title": "The MCP server you approved is not the one running tomorrow",
+    "desc": "<p>I approve an MCP server the way most people do: read the README, skim the tool list, into the config, on with my day.</p>\n\n<p>What I had ",
+    "link": "https://dev.to/norviqdev/the-mcp-server-you-approved-is-not-the-one-running-tomorrow-27g1",
+    "topic": "general"
+  },
+  {
+    "title": "How to Effectively Engage Support for Your TG Validator Integration",
+    "desc": "<p>When building high-volume workflows with the TG Validator API, technical friction can occasionally occur. Whether you are hitting unexpec",
+    "link": "https://dev.to/tgvalidatorofficial/how-to-effectively-engage-support-for-your-tg-validator-integration-480l",
+    "topic": "general"
+  },
+  {
+    "title": "Automating Kubernetes Pod Scaling Issues \u2013 Boost Performance with HPA & GitOps",
+    "desc": "<h1>\n  \n  \n  Automating Kubernetes Pod Scaling Issues\n</h1>\n\n<p>Scaling Kubernetes pods should be seamless, but in real\u2011world clusters you o",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/automating-kubernetes-pod-scaling-issues-boost-performance-with-hpa-gitops-2d61",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "My Validation Layer Was Correctly Deleting 16% of My Good Data",
+    "desc": "<p><em>Originally published at <a href=\"https://ai.bedvibe.studio/observation-time/\" rel=\"noopener noreferrer\">ai.bedvibe.studio</a>.</em></",
+    "link": "https://dev.to/bedvibe_studios/my-validation-layer-was-correctly-deleting-16-of-my-good-data-1fpj",
+    "topic": "general"
+  },
+  {
+    "title": "App Logging: How to Compare Self-Hosted and Hosted Setup Costs",
+    "desc": "<p>Short answer: For a junior developer running a small-business app, start with a hosted logging API when fast setup and incident reconstru",
+    "link": "https://dev.to/felixhoffmann556/app-logging-how-to-compare-self-hosted-and-hosted-setup-costs-3j7e",
+    "topic": "general"
+  },
+  {
+    "title": "DevOps Lab: CI/CD Deployment to AWS ECS",
+    "desc": "<h2>\n  \n  \n  Scenario\n</h2>\n\n<p>You are the <strong>DevOps Engineer</strong>.</p>\n\n<p>Jules is your <strong>Software Developer</strong>.</p>",
+    "link": "https://dev.to/jumptotech/devops-lab-cicd-deployment-to-aws-ecs-166p",
+    "topic": "aws"
+  },
+  {
     "title": "Someone Can Get an SSL Certificate for Your Domain. CT Logs Are How You Find Out.",
     "desc": "<p>Here is a failure your monitoring is built to miss. Somebody \u2014 an attacker who briefly controlled your DNS, a subdomain you forgot you de",
     "link": "https://dev.to/merlonix/someone-can-get-an-ssl-certificate-for-your-domain-ct-logs-are-how-you-find-out-43nf",
@@ -10,41 +46,5 @@
     "desc": "<p>Los CronJobs en Kubernetes suelen parecer simples hasta que fallan de forma intermitente. El contenedor termina, vuelve a correr mas tard",
     "link": "https://dev.to/alexcarteruk/kubernetes-senales-utiles-para-cronjobs-fragiles-59n",
     "topic": "kubernetes"
-  },
-  {
-    "title": "The Same Bug, Four Times, Three of Them Mine",
-    "desc": "<p><em>Originally published at <a href=\"https://ai.bedvibe.studio/notchecked/\" rel=\"noopener noreferrer\">ai.bedvibe.studio</a>.</em></p>\n\n<p",
-    "link": "https://dev.to/bedvibe_studios/the-same-bug-four-times-three-of-them-mine-4b78",
-    "topic": "general"
-  },
-  {
-    "title": "A Hundred Per Cent Success Rate and One Usable Answer",
-    "desc": "<p><em>Originally published at <a href=\"https://ai.bedvibe.studio/success-rate/\" rel=\"noopener noreferrer\">ai.bedvibe.studio</a>.</em></p>\n\n",
-    "link": "https://dev.to/bedvibe_studios/a-hundred-per-cent-success-rate-and-one-usable-answer-3aj6",
-    "topic": "general"
-  },
-  {
-    "title": "Nobody has shipped an LLM that grades its own draft without a human in the loop",
-    "desc": "<p>We went looking for prior art on a specific combination: a runner generates a draft with an LLM, a deterministic gate checks it, and \u2014 wi",
-    "link": "https://dev.to/unmannedops/nobody-has-shipped-an-llm-that-grades-its-own-draft-without-a-human-in-the-loop-3c04",
-    "topic": "general"
-  },
-  {
-    "title": "Plugin Supply Chain Security: What Every Team Should Enforce",
-    "desc": "<p>--<br />\ntitle: \"Plugin Supply Chain Security: What Every Team Should Enforce\"<br />\ndescription: \"Every DSH plugin install is a trust de",
-    "link": "https://dev.to/ahmed_isam_752b775a50fd90/plugin-supply-chain-security-what-every-team-should-enforce-3o72",
-    "topic": "secops"
-  },
-  {
-    "title": "Your AI Agent Has Bash Access. Who's Watching the Logs?",
-    "desc": "<p>If you run Claude Code, Cursor, Copilot, or any agent with terminal access, you've granted a machine the power to run arbitrary commands ",
-    "link": "https://dev.to/agentchip/your-ai-agent-has-bash-access-whos-watching-the-logs-3ecp",
-    "topic": "general"
-  },
-  {
-    "title": "AI in Incident Response: Hype vs. Reality in 2024",
-    "desc": "<h2>\n  \n  \n  Every Vendor Claims AI Magic\n</h2>\n\n<p>Open any monitoring vendor's website and you'll see: \"AI-powered incident detection!\" \"M",
-    "link": "https://dev.to/samson_tanimawo/ai-in-incident-response-hype-vs-reality-in-2024-3m2e",
-    "topic": "secops"
   }
 ]
