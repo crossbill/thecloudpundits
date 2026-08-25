@@ -1,50 +1,50 @@
 [
   {
+    "title": "From \"Merge is Deploy\" to Release Engineering with GitHub Actions",
+    "desc": "<p>Have you ever stopped to think about the risk of having a pipeline where any merge into the main branch deploys straight to production wi",
+    "link": "https://dev.to/victorlisbronzo/from-merge-is-deploy-to-release-engineering-with-github-actions-3h19",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Letting AI Agents Run terraform apply Unsupervised \u2014 Here's the Guardrail I Built",
+    "desc": "<p>Been playing around with AI coding agents (Claude Code) writing and running Terraform lately, and honestly it freaked me out a little.</p",
+    "link": "https://dev.to/sorabhyogi/stop-letting-ai-agents-run-terraform-apply-unsupervised-heres-the-guardrail-i-built-p33",
+    "topic": "terraform"
+  },
+  {
+    "title": "I Gave an AI Agent Unrestricted Shell Access. Here's What Happened Next.",
+    "desc": "<p><em>James Coombs is a design engineer who built a 3-layer safety architecture for AI code agents after running into 4 agent bypasses and ",
+    "link": "https://dev.to/james-coombs/i-gave-an-ai-agent-unrestricted-shell-access-heres-what-happened-next-an9",
+    "topic": "general"
+  },
+  {
+    "title": "Connection refused\" has three different root causes here's how to tell them apart with evidence",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/rogeroliveira86/connection-refused-has-three-different-root-causes-heres-how-to-tell-them-apart-with-evidence-166f",
+    "topic": "general"
+  },
+  {
+    "title": "Your Certificate Is Valid and Your Site Loads Fine \u2014 and Your TLS Still Grades Weak",
+    "desc": "<p>Certificate monitoring answers one question well: is the cert expired, and is it the cert you expect? An expiry monitor watches <code>not",
+    "link": "https://dev.to/merlonix/your-certificate-is-valid-and-your-site-loads-fine-and-your-tls-still-grades-weak-2pl",
+    "topic": "general"
+  },
+  {
+    "title": "\u26a0\ufe0f What is a Cyber Threat?",
+    "desc": "<p>\u26a0\ufe0f What is a Cyber Threat?<br />\nWhen securing infrastructure, every defense strategy starts with one simple question: What are we defend",
+    "link": "https://dev.to/yash-infra/what-is-a-cyber-threat-5cec",
+    "topic": "secops"
+  },
+  {
+    "title": "Stop Opening Files Manually: 10 Faster Ways to Work in Linux",
+    "desc": "<blockquote>\n<p>Opening text editors just to check a port, replace a string, or read a log wastes precious time. Here are 10 faster ways to ",
+    "link": "https://dev.to/asepsayyad007/stop-opening-files-manually-10-faster-ways-to-work-in-linux-311a",
+    "topic": "general"
+  },
+  {
     "title": "CVE-2026-19478: GitLab's CVSS 9.4 GraphQL Flaw Was Exploited Within Days \u2014 Patch Now",
     "desc": "<p>GitLab shipped an <strong>out-of-band emergency release on August 17, 2026</strong> fixing <strong>CVE-2026-19478</strong> \u2014 a code injec",
     "link": "https://dev.to/stanleya/cve-2026-19478-gitlabs-cvss-94-graphql-flaw-was-exploited-within-days-patch-now-1n01",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes Demystified: Kubectl & YAML Configuration",
-    "desc": "<p>Part 2, we covered the architecture - Control Plane and Worker Nodes. Now let's look at how you actually manage Kubernetes components: th",
-    "link": "https://dev.to/tejas_kp/kubernetes-demystified-kubectl-yaml-configuration-427k",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Mastering Git Merge Conflict Resolution in CI/CD Pipelines \u2013 Boost Your DevOps Efficiency",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Git merge conflicts can halt your CI/CD pipeline, causing delays and frustrated developers. This guide s",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/mastering-git-merge-conflict-resolution-in-cicd-pipelines-boost-your-devops-efficiency-3c68",
-    "topic": "general"
-  },
-  {
-    "title": "HD-101 \u2014 The first pull request",
-    "desc": "<h1>\n  \n  \n  HD-101 \u2014 The first pull request\n</h1>\n\n<p><strong>Builds:</strong> nothing. <strong>Teaches:</strong> why the next six tickets ",
-    "link": "https://dev.to/nazmur96/hd-101-the-first-pull-request-2fep",
-    "topic": "general"
-  },
-  {
-    "title": "Linux Turns 35: Just a Hobby That Runs the World",
-    "desc": "<p>\ud83d\udcd6 A new article on CodeHelper!</p>\n\n<p>Happy 35th birthday, Linux. Still just a hobby, still not big and professional like GNU, and still",
-    "link": "https://dev.to/codehelper/linux-turns-35-just-a-hobby-that-runs-the-world-4p2a",
-    "topic": "general"
-  },
-  {
-    "title": "Staging Environments Are a Deployment Problem, Not an Infrastructure Problem",
-    "desc": "<p>This isn't an argument against testing before production. It's an argument against treating a long-lived shared staging environment as yo",
-    "link": "https://dev.to/codecraft_diary_3d13677fb/staging-environments-are-a-deployment-problem-not-an-infrastructure-problem-1g04",
-    "topic": "general"
-  },
-  {
-    "title": "Reading the orchestrator's Rust source to fix my own outage",
-    "desc": "<p>This is part two of three. In part one I split my personal services onto their own cluster. The cutover went fine. Then two things broke ",
-    "link": "https://dev.to/mighty840/reading-the-orchestrators-rust-source-to-fix-my-own-outage-5ann",
-    "topic": "general"
-  },
-  {
-    "title": "The First 90 Days With a DevOps Partner: A Realistic Timeline",
-    "desc": "<h2>\n  \n  \n  The First 90 Days With a DevOps Partner: A Realistic Timeline\n</h2>\n\n<p>Most writing about hiring a DevOps partner stops at the",
-    "link": "https://dev.to/instadevops/the-first-90-days-with-a-devops-partner-a-realistic-timeline-2b83",
     "topic": "general"
   }
 ]

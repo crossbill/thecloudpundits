@@ -1,5 +1,11 @@
 [
   {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "topic": "general"
+  },
+  {
     "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
     "desc": "",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
@@ -39,12 +45,6 @@
     "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
     "desc": "",
     "link": "https://huggingface.co/blog/multi-vector-encoder",
-    "topic": "general"
-  },
-  {
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "desc": "",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
     "topic": "general"
   }
 ]
