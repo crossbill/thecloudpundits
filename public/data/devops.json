@@ -1,50 +1,50 @@
 [
   {
-    "title": "A Port Check Has Three Answers, Not Two \u2014 \u2018Open\u2019, \u2018Closed\u2019, and \u2018I Don\u2019t Know\u2019",
-    "desc": "<p>Checking whether a port is open looks like the most binary thing in monitoring. You open a TCP connection; either it succeeds or it doesn",
-    "link": "https://dev.to/merlonix/a-port-check-has-three-answers-not-two-open-closed-and-i-dont-know-2pdp",
+    "title": "Google Cloud Professional Cloud DevOps Engineer: Skills, Tools, CI/CD, Kubernetes and Career Roadmap",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/zainab_1201/google-cloud-professional-cloud-devops-engineer-skills-tools-cicd-kubernetes-and-career-roadmap-16d4",
+    "topic": "gcp"
+  },
+  {
+    "title": "How to Deploy AWS EKS With Open-Source Terraform Modules",
+    "desc": "<p>Deploying Amazon EKS by hand means composing AWS, IAM, Kubernetes, Helm, networking, and autoscaling resources yourself. This guide takes",
+    "link": "https://dev.to/mattia_vercelli/how-to-deploy-aws-eks-with-open-source-terraform-modules-2gdj",
+    "topic": "aws"
+  },
+  {
+    "title": "How to Fix Docker Container CrashLoopBackOff \u2013 Step\u2011by\u2011Step Guide for DevOps",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you\u2019ve ever seen a pod stuck in <strong>CrashLoopBackOff</strong>, you know the frustration. This gui",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-docker-container-crashloopbackoff-step-by-step-guide-for-devops-52p7",
+    "topic": "docker"
+  },
+  {
+    "title": "How I Automated cPanel Hosting Management Using APIs",
+    "desc": "<h1>\n  \n  \n  How I Automated cPanel Hosting Management Using APIs\n</h1>\n\n<p>Managing hosting accounts manually works when you have a few cus",
+    "link": "https://dev.to/nitinmehta/how-i-automated-cpanel-hosting-management-using-apis-1pnj",
     "topic": "general"
   },
   {
-    "title": "Free-Tier CI Triage: One Small Bot, End to End",
-    "desc": "<p>The useful AI story this month is not a new benchmark. It is that small, scheduled agent tasks have become cheap enough to run for free. ",
-    "link": "https://dev.to/aiio_6471/free-tier-ci-triage-one-small-bot-end-to-end-ebd",
+    "title": "How to Reduce Nginx 502 and 504 Gateway Errors",
+    "desc": "<p>Practical steps to diagnose and fix nginx 502 and 504 errors \u2014 from upstream timeouts to worker limits \u2014 before they wake you up at 3am.<",
+    "link": "https://dev.to/opservo/how-to-reduce-nginx-502-and-504-gateway-errors-3m6i",
     "topic": "general"
   },
   {
-    "title": "Schedule the Free Model for 2 AM",
-    "desc": "<p>Liquid syntax error: Unknown tag 'endraw'</p>",
-    "link": "https://dev.to/apppro_5726/schedule-the-free-model-for-2-am-3a71",
+    "title": "Best Corporate Training with Expert Trainer Support",
+    "desc": "<p>Corporate Training Roadmap for Digital Transformation<br />\nIntroduction<br />\nDigital transformation is changing how businesses operate,",
+    "link": "https://dev.to/kalyan_visualpath_42cb693/best-corporate-training-with-expert-trainer-support-k0a",
     "topic": "general"
   },
   {
-    "title": "From Markdown to Guarded Automation: Build Your First GitHub Agentic Workflow",
-    "desc": "<h2>\n  \n  \n  From Markdown to Guarded Automation: Build Your First GitHub Agentic Workflow\n</h2>\n\n<p>GitHub Agentic Workflows bring natural-",
-    "link": "https://dev.to/pwd9000/from-markdown-to-guarded-automation-build-your-first-github-agentic-workflow-3gbd",
-    "topic": "general"
+    "title": "Dockerfile Best Practices: Security",
+    "desc": "<p>Run this against your current containers:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shell\"><code>docker",
+    "link": "https://dev.to/fj_palacios/dockerfile-best-practices-security-2p5g",
+    "topic": "docker"
   },
   {
-    "title": "Chaos for the Cost-Conscious: Fault-Injecting Your LLM Pipeline on Free Hardware",
-    "desc": "<p>Free infrastructure is unpredictable. That is not a bug \u2014 it is a testing opportunity. Chaos engineering is usually described as a luxury",
-    "link": "https://dev.to/hackrs_3352/chaos-for-the-cost-conscious-fault-injecting-your-llm-pipeline-on-free-hardware-5244",
-    "topic": "general"
-  },
-  {
-    "title": "I Scanned 40 Public Agent Skills Before Installation. Here's What the Scorecard Found",
-    "desc": "<p>Agent skills are becoming a package format for behavior.</p>\n\n<p>A <code>SKILL.md</code> file can teach an agent how to review code, oper",
-    "link": "https://dev.to/sunnhappy/i-scanned-40-public-agent-skills-before-installation-heres-what-the-scorecard-found-56g2",
-    "topic": "general"
-  },
-  {
-    "title": "Which Commit Made the API Slow? A $0 Performance Detective",
-    "desc": "<h1>\n  \n  \n  Which Commit Made the API Slow? A $0 Performance Detective\n</h1>\n\n<p>Performance regressions are the quiet failures. The API st",
-    "link": "https://dev.to/codecpp_5026/which-commit-made-the-api-slow-a-0-performance-detective-19i7",
-    "topic": "general"
-  },
-  {
-    "title": "How Healthcare Software Product Development Turns Ideas Into Market-Ready Digital Health Products",
-    "desc": "<p>Healthcare organizations and healthtech startups are under pressure to launch digital products that solve real clinical and operational p",
-    "link": "https://dev.to/shwetankd/how-healthcare-software-product-development-turns-ideas-into-market-ready-digital-health-products-4b8",
+    "title": "pg_cancel_backend() returned true. The queue didn't move.",
+    "desc": "<p>Ten sessions are stuck. You skip the slow-query hunt, do the hard part properly, and find the one session at the front of the queue \u2014 the",
+    "link": "https://dev.to/hitoshi1964/pgcancelbackend-returned-true-the-queue-didnt-move-4921",
     "topic": "general"
   }
 ]
