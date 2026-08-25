@@ -1,5 +1,11 @@
 [
   {
+    "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
+    "desc": "<p>The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
     "desc": "<p>A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard.</p>\n<p>The post <a href=\"https://www",
     "link": "https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/",
@@ -40,11 +46,5 @@
     "desc": "<p>As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce appli",
     "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
     "topic": "secops"
-  },
-  {
-    "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
-    "desc": "<p>The attack caused real-world operational disruption and raised concerns about the resilience of Britain\u2019s distributed energy infrastructu",
-    "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
-    "topic": "general"
   }
 ]

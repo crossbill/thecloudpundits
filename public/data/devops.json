@@ -1,50 +1,50 @@
 [
   {
-    "title": "When the self-improving agent almost lost the host's work: a postmortem",
-    "desc": "<h1>\n  \n  \n  Draft 5 (unpublished) \u2014 \"When the self-improving agent almost lost the host's work: a postmortem\"\n</h1>\n\n<p>Status: drafted r15",
-    "link": "https://dev.to/pm25coder/when-the-self-improving-agent-almost-lost-the-hosts-work-a-postmortem-2079",
+    "title": "Why we moved from monthly pricing to a credit balance",
+    "desc": "<p>Diploi's new billing system is live. We moved from monthly pay-per-use pricing to a single credit balance that covers everything, deploym",
+    "link": "https://dev.to/diploi/why-we-moved-from-monthly-pricing-to-a-credit-balance-5a0j",
     "topic": "general"
   },
   {
-    "title": "Building a Practical Temperature & Humidity Monitoring System with AT-THMS 3.1 and ATSCADA",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/phuc_bach_22e/building-a-practical-temperature-humidity-monitoring-system-with-at-thms-31-and-atscada-4jdj",
+    "title": "One Dead Container Stopped nginx From Starting At All",
+    "desc": "<p>Eight containers behind one nginx. One of them was stopped. nginx would not start.</p>\n\n<p>Not \"returned 502 for that service\" \u2014 would no",
+    "link": "https://dev.to/srdjan_poppovic/one-dead-container-stopped-nginx-from-starting-at-all-44h2",
+    "topic": "docker"
+  },
+  {
+    "title": "AI Watermarking vs. AI Detection in 2026: Which Method Has More Potential?",
+    "desc": "<p>AI-generated writing is becoming increasingly difficult to identify by simply reading it. As language models improve and AI-assisted edit",
+    "link": "https://dev.to/jeric-19/ai-watermarking-vs-ai-detection-in-2026-which-method-has-more-potential-3j5b",
     "topic": "general"
   },
   {
-    "title": "Daily Dose of DevOps \u2014 Kubernetes readiness vs liveness probes",
-    "desc": "<h1>\n  \n  \n  Kubernetes Probes as Failure Detectors: Semantics, Timing, and Cascading Risk\n</h1>\n\n<p>Kubernetes probes are distributed-syste",
-    "link": "https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-readiness-vs-liveness-probes-17ij",
+    "title": "The Blast Radius Is a Design Choice",
+    "desc": "<p>You will be breached.<br />\nNot maybe. Eventually.</p>\n\n<p>So stop asking only<br />\n\"how do I keep them out?\"<br />\nand start asking<br ",
+    "link": "https://dev.to/sergueyasaelshinder/the-blast-radius-is-a-design-choice-3jo2",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes: alerta antes de que expire un token",
+    "desc": "<p>Los tokens que caducan en Kubernetes rara vez avisan de forma comoda. Lo mas normal es ver primero un sintoma lateral: un job deja de hab",
+    "link": "https://dev.to/alexcarteruk/kubernetes-alerta-antes-de-que-expire-un-token-4ocb",
     "topic": "kubernetes"
   },
   {
-    "title": "Orchestrating Intelligent Integrations: The CI/CD Imperative for 2027",
-    "desc": "<p>For Engineering Managers, DevOps Engineers, QA Leads, and Technical Architects, the CI/CD landscape is a domain of constant evolution. Wh",
-    "link": "https://dev.to/barecheck/orchestrating-intelligent-integrations-the-cicd-imperative-for-2027-1bbc",
+    "title": "Best AI Security Platform 2026: Securing Agentic AI, AI Agents, and the New Non-Human Identity",
+    "desc": "<p><strong>Your newest privileged identity may not be a person. It may be an AI agent.</strong></p>\n\n<p>AI agents are moving quickly from si",
+    "link": "https://dev.to/anuragseceon/best-ai-security-platform-2026-securing-agentic-ai-ai-agents-and-the-new-non-human-identity-11io",
+    "topic": "secops"
+  },
+  {
+    "title": "Forex Brokerage House Development: A Complete Guide to Building a Modern Forex Brokerage in 2026",
+    "desc": "<p>The Forex market continues to attract businesses and entrepreneurs looking to build technology-driven financial platforms. However, launc",
+    "link": "https://dev.to/upwork_floatinginfotech_/forex-brokerage-house-development-a-complete-guide-to-building-a-modern-forex-brokerage-in-2026-4lp6",
     "topic": "general"
   },
   {
-    "title": "Idempotence Must Survive the Clock",
-    "desc": "<p>Calling an operation twice with the same input is a useful idempotence check. For scheduled automation, it is not always enough.</p>\n\n<p>",
-    "link": "https://dev.to/iqtechsolutions/idempotence-must-survive-the-clock-bii",
-    "topic": "general"
-  },
-  {
-    "title": "Everhayes Academy (Everhayes Omnis Academy) Advances Structured Content Standards for Modern Learners",
-    "desc": "<p>Everhayes Academy (Everhayes Omnis Academy) is strengthening its financial education content standards as part of its continued effort to",
-    "link": "https://dev.to/everhayesomnis/everhayes-academy-everhayes-omnis-academy-advances-structured-content-standards-for-modern-2jlc",
-    "topic": "general"
-  },
-  {
-    "title": "Argo CD Canary Deployment: Gating Rollouts with Real SLIs",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/25/argo-cd-canary-deployment-gating-rollouts-with-real-slis\" rel=\"noo",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/argo-cd-canary-deployment-gating-rollouts-with-real-slis-4o4j",
-    "topic": "general"
-  },
-  {
-    "title": "Low-Code vs Agentic SDLC \u2014 A Side-by-Side Build Comparison",
-    "desc": "<p>Enterprise engineering teams are discovering that faster coding does not equal faster delivery, and low-code platforms that promised spee",
-    "link": "https://dev.to/xcceleraai/low-code-vs-agentic-sdlc-a-side-by-side-build-comparison-2o6j",
+    "title": "Your Free-Tier Load Test Is Lying: How Shared CPU Pollutes Capacity Numbers",
+    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>03:47 UTC. Load test running. p95 climbing. vCPU steady. Co",
+    "link": "https://dev.to/odd_background_328/your-free-tier-load-test-is-lying-how-shared-cpu-pollutes-capacity-numbers-fig",
     "topic": "general"
   }
 ]
