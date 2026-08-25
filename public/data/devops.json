@@ -1,50 +1,50 @@
 [
   {
-    "title": "Common network bottlenecks and how to actually find them",
-    "desc": "<p>The network is slow\" is one of the least useful problem reports there is, because slow can come from half a dozen very different places, ",
-    "link": "https://dev.to/nodevguy/common-network-bottlenecks-and-how-to-actually-find-them-43kd",
+    "title": "When the self-improving agent almost lost the host's work: a postmortem",
+    "desc": "<h1>\n  \n  \n  Draft 5 (unpublished) \u2014 \"When the self-improving agent almost lost the host's work: a postmortem\"\n</h1>\n\n<p>Status: drafted r15",
+    "link": "https://dev.to/pm25coder/when-the-self-improving-agent-almost-lost-the-hosts-work-a-postmortem-2079",
     "topic": "general"
   },
   {
-    "title": "Network redundancy: the difference between a blip and an outage",
-    "desc": "<p>Everyone agrees redundancy matters right up until they look at the bill, and then it becomes \"do we really need two of everything?\" The h",
-    "link": "https://dev.to/nodevguy/network-redundancy-the-difference-between-a-blip-and-an-outage-3458",
+    "title": "Building a Practical Temperature & Humidity Monitoring System with AT-THMS 3.1 and ATSCADA",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/phuc_bach_22e/building-a-practical-temperature-humidity-monitoring-system-with-at-thms-31-and-atscada-4jdj",
     "topic": "general"
   },
   {
-    "title": "Microservices by Default: The Organizational Constraints Nobody Puts in the Architecture Diagram",
-    "desc": "<p>\"We're moving to microservices\" has been the architectural ambition of engineering teams for a decade. More than 40% of organisations now",
-    "link": "https://dev.to/aloknecessary/microservices-by-default-the-organizational-constraints-nobody-puts-in-the-architecture-diagram-258l",
-    "topic": "general"
-  },
-  {
-    "title": "Opinion: Per-Commit AI Review Is Impossible Until the Marginal Cost Is Zero",
-    "desc": "<p>AI review belongs on every commit, not just on every pull request, because the cheapest defect is the one caught in the session that wrot",
-    "link": "https://dev.to/github_7727/opinion-per-commit-ai-review-is-impossible-until-the-marginal-cost-is-zero-3j5o",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes for Beginners: Deploy Your First App",
-    "desc": "<h1>\n  \n  \n  Kubernetes for Beginners: Deploy Your First App\n</h1>\n\n<p>tags: kubernetes, docker, devops, tutorial</p>\n\n\n\n\n<p>tags: kubernete",
-    "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-1mfe",
+    "title": "Daily Dose of DevOps \u2014 Kubernetes readiness vs liveness probes",
+    "desc": "<h1>\n  \n  \n  Kubernetes Probes as Failure Detectors: Semantics, Timing, and Cascading Risk\n</h1>\n\n<p>Kubernetes probes are distributed-syste",
+    "link": "https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-readiness-vs-liveness-probes-17ij",
     "topic": "kubernetes"
   },
   {
-    "title": "The Tests Are Green. The Architecture Is Not: Why I Built Archfit",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/alexeiled/the-tests-are-green-the-architecture-is-not-why-i-built-archfit-565f",
+    "title": "Orchestrating Intelligent Integrations: The CI/CD Imperative for 2027",
+    "desc": "<p>For Engineering Managers, DevOps Engineers, QA Leads, and Technical Architects, the CI/CD landscape is a domain of constant evolution. Wh",
+    "link": "https://dev.to/barecheck/orchestrating-intelligent-integrations-the-cicd-imperative-for-2027-1bbc",
     "topic": "general"
   },
   {
-    "title": "How to Resolve SSL/TLS Certificate Handshake Failures \u2013 Quick DevOps Guide",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Handshake failures are one of the most common pain points when working with secure services. Whether you",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-quick-devops-guide-26ij",
+    "title": "Idempotence Must Survive the Clock",
+    "desc": "<p>Calling an operation twice with the same input is a useful idempotence check. For scheduled automation, it is not always enough.</p>\n\n<p>",
+    "link": "https://dev.to/iqtechsolutions/idempotence-must-survive-the-clock-bii",
     "topic": "general"
   },
   {
-    "title": "Database Transaction Management in ColdFusion: cftransaction, Isolation Levels, and Deadlocks",
-    "desc": "<p>ColdFusion manages database transactions with the cftransaction tag, which groups multiple queries into one atomic unit so they all commi",
-    "link": "https://dev.to/deepak_sir__/database-transaction-management-in-coldfusion-cftransaction-isolation-levels-and-deadlocks-3o00",
+    "title": "Everhayes Academy (Everhayes Omnis Academy) Advances Structured Content Standards for Modern Learners",
+    "desc": "<p>Everhayes Academy (Everhayes Omnis Academy) is strengthening its financial education content standards as part of its continued effort to",
+    "link": "https://dev.to/everhayesomnis/everhayes-academy-everhayes-omnis-academy-advances-structured-content-standards-for-modern-2jlc",
+    "topic": "general"
+  },
+  {
+    "title": "Argo CD Canary Deployment: Gating Rollouts with Real SLIs",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/25/argo-cd-canary-deployment-gating-rollouts-with-real-slis\" rel=\"noo",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/argo-cd-canary-deployment-gating-rollouts-with-real-slis-4o4j",
+    "topic": "general"
+  },
+  {
+    "title": "Low-Code vs Agentic SDLC \u2014 A Side-by-Side Build Comparison",
+    "desc": "<p>Enterprise engineering teams are discovering that faster coding does not equal faster delivery, and low-code platforms that promised spee",
+    "link": "https://dev.to/xcceleraai/low-code-vs-agentic-sdlc-a-side-by-side-build-comparison-2o6j",
     "topic": "general"
   }
 ]
