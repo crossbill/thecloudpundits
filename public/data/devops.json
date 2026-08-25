@@ -1,50 +1,50 @@
 [
   {
-    "title": "What belongs in a coding-agent verification evidence bundle?",
-    "desc": "<p>A verification evidence bundle is the portable record behind a verdict. It should let a person, a CI system, or a later evaluation unders",
-    "link": "https://dev.to/sarthakagrawal927/what-belongs-in-a-coding-agent-verification-evidence-bundle-4402",
+    "title": "Token Forensics: Finding the Process That Ate Your Free Allowance",
+    "desc": "<p>Three in the morning is when a free tier starts lying to you. Your dashboard shows two hundred requests today, yet the token counter says",
+    "link": "https://dev.to/devrs_886/token-forensics-finding-the-process-that-ate-your-free-allowance-2i69",
     "topic": "general"
   },
   {
-    "title": "DNSSEC Fails Closed: A Broken Signature Is a SERVFAIL, Not a Warning",
-    "desc": "<p>Almost every security control on your stack fails <em>open</em>. Let an HSTS header lapse and the site still loads. Let a CSP go stale an",
-    "link": "https://dev.to/merlonix/dnssec-fails-closed-a-broken-signature-is-a-servfail-not-a-warning-48i",
+    "title": "Designing Sub-20ms Physical Event Access: Edge-Computed RFID vs Cloud APIs",
+    "desc": "<p>Why scaling event access to 10,000+ concurrent attendees requires replacing cloud API roundtrips with local edge nodes, SQLite caching, a",
+    "link": "https://dev.to/stampiq/designing-sub-20ms-physical-event-access-edge-computed-rfid-vs-cloud-apis-31ee",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions: Automate Your Workflow Like a Pro",
-    "desc": "<h1>\n  \n  \n  GitHub Actions: Automate Your Workflow Like a Pro\n</h1>\n\n<p>tags: github, automation, devops, tutorial</p>\n\n\n\n\n<p>tags: github,",
-    "link": "https://dev.to/qingluan/github-actions-automate-your-workflow-like-a-pro-2aen",
+    "title": "The Fit Score: When a Free AI Coding Server Earns Its Place in Your Repo",
+    "desc": "<p>Picture a team that wired a free AI coding server into its review loop. Two weeks later, the sprint stalls. The quota resets on a Tuesday",
+    "link": "https://dev.to/devpro_9167/the-fit-score-when-a-free-ai-coding-server-earns-its-place-in-your-repo-3kmh",
     "topic": "general"
   },
   {
-    "title": "I built an agentless deploy CLI in Go because every PaaS wanted to own my server",
-    "desc": "<p>Everything I run in production lives on one inexpensive ARM VM: a headless CMS, a club management app, two Umbraco package demos, a job p",
-    "link": "https://dev.to/baryo_dev/i-built-an-agentless-deploy-cli-in-go-because-every-paas-wanted-to-own-my-server-3da",
+    "title": "Treat Your Agent's Free Server Like a Compromised Machine",
+    "desc": "<p>Last week a developer I know ran a routine refactor through a coding agent on a free remote server. The agent finished, the diff looked c",
+    "link": "https://dev.to/webx_2736/treat-your-agents-free-server-like-a-compromised-machine-34j0",
     "topic": "general"
   },
   {
-    "title": "Build an Argo CD MCP Server: Safe GitOps Status, Diff, and Rollback for AI Agents",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-08-25-argocd-mcp-server-gitops-ai-agents\" rel=\"no",
-    "link": "https://dev.to/devtocash/build-an-argo-cd-mcp-server-safe-gitops-status-diff-and-rollback-for-ai-agents-4h23",
+    "title": "Your Tests Passed. That Still Doesn\u2019t Mean You Should Release.",
+    "desc": "<p>Your tests passed.</p>\n\n<p>CI is green.</p>\n\n<p>The build succeeded.</p>\n\n<p>So you release.</p>\n\n<p>Seems reasonable, right?</p>\n\n<p>Not",
+    "link": "https://dev.to/dulvarn/your-tests-passed-that-still-doesnt-mean-you-should-release-184o",
     "topic": "general"
   },
   {
-    "title": "The MCP server you approved is not the one running tomorrow",
-    "desc": "<p>I approve an MCP server the way most people do: read the README, skim the tool list, into the config, on with my day.</p>\n\n<p>What I had ",
-    "link": "https://dev.to/norviqdev/the-mcp-server-you-approved-is-not-the-one-running-tomorrow-27g1",
+    "title": "What I learned rolling out Claude Code across a company full of legacy systems",
+    "desc": "<p>I maintain the internal systems of a mid-size manufacturer in Japan: pre-framework PHP that predates Composer, VB.NET ClickOnce apps nobo",
+    "link": "https://dev.to/runathicku/what-i-learned-rolling-out-claude-code-across-a-company-full-of-legacy-systems-4j1d",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Sandbox First: Why Free Servers Beat Token Grants for Agent Evaluation",
+    "desc": "<p>A developer on a coding-agent trial received a fresh token grant last month, pasted a failing integration test into the chat, and watched",
+    "link": "https://dev.to/applab_743/sandbox-first-why-free-servers-beat-token-grants-for-agent-evaluation-872",
     "topic": "general"
   },
   {
-    "title": "How to Effectively Engage Support for Your TG Validator Integration",
-    "desc": "<p>When building high-volume workflows with the TG Validator API, technical friction can occasionally occur. Whether you are hitting unexpec",
-    "link": "https://dev.to/tgvalidatorofficial/how-to-effectively-engage-support-for-your-tg-validator-integration-480l",
+    "title": "From Prompt to Live Endpoint on Free Tiers",
+    "desc": "<p>A developer notices a pattern. Their side project fails at 3 AM. The logs are silent. The users are asleep. The next morning, the dashboa",
+    "link": "https://dev.to/devgo_5325/from-prompt-to-live-endpoint-on-free-tiers-12ek",
     "topic": "general"
-  },
-  {
-    "title": "Automating Kubernetes Pod Scaling Issues \u2013 Boost Performance with HPA & GitOps",
-    "desc": "<h1>\n  \n  \n  Automating Kubernetes Pod Scaling Issues\n</h1>\n\n<p>Scaling Kubernetes pods should be seamless, but in real\u2011world clusters you o",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/automating-kubernetes-pod-scaling-issues-boost-performance-with-hpa-gitops-2d61",
-    "topic": "kubernetes"
   }
 ]
