@@ -1,5 +1,11 @@
 [
   {
+    "title": "CISA Warns of Exploited Gitea Vulnerability",
+    "desc": "<p>CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1.</p>\n",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
     "desc": "<p>TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation.</p>\n<p>The post <a href=\"https://w",
     "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
@@ -40,11 +46,5 @@
     "desc": "<p>Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk.</p>\n<",
     "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
     "topic": "secops"
-  },
-  {
-    "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff",
-    "desc": "<p>AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and Ch",
-    "link": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
-    "topic": "general"
   }
 ]

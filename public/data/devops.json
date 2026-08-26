@@ -1,50 +1,50 @@
 [
   {
-    "title": "App Logging Platform Comparison: Hosted Logs vs Self-Hosted ELK for Node.js",
-    "desc": "<p>Short answer: for a junior developer running a small Node.js business, start with hosted logs when the priority is the easiest setup and ",
-    "link": "https://dev.to/pernilsson3147/app-logging-platform-comparison-hosted-logs-vs-self-hosted-elk-for-nodejs-1h5m",
+    "title": "Kubernetes: depura 401 intermitentes con contexto",
+    "desc": "<p>Los <code>401</code> intermitentes en Kubernetes son de esas alertas que desgastan mas de lo que parecen. Un pod responde bien durante me",
+    "link": "https://dev.to/alexcarteruk/kubernetes-depura-401-intermitentes-con-contexto-1c4k",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "What Is Crust Network? Decentralized Storage Explained",
+    "desc": "<p>Crust Network is a purpose-built layer 1 blockchain that provides decentralized cloud storage by adding an incentive and service layer to",
+    "link": "https://dev.to/onfinality/what-is-crust-network-decentralized-storage-explained-2c09",
     "topic": "general"
   },
   {
-    "title": "AWS Transform Prices a Java Upgrade at $2.52. Here Is the Rest of the Legacy Modernization Stack",
-    "desc": "<p>Every engineering org has that one service nobody wants to touch: Java 8 on Spring Boot 2, a .NET Framework 4.8 app that only builds on a",
-    "link": "https://dev.to/moksh/aws-transform-prices-a-java-upgrade-at-252-here-is-the-rest-of-the-legacy-modernization-stack-342b",
+    "title": "Polygon Node RPC: Endpoints, Chain Settings & Provider Guide",
+    "desc": "<h2>\n  \n  \n  Quick decision guide: which Polygon RPC setup fits your app?\n</h2>\n\n<p>Before you copy an endpoint into your config, decide wha",
+    "link": "https://dev.to/onfinality/polygon-node-rpc-endpoints-chain-settings-provider-guide-3fi7",
+    "topic": "general"
+  },
+  {
+    "title": "Kaia API: Endpoints, Methods, and How to Connect",
+    "desc": "<h2>\n  \n  \n  Quick recommendation: Which Kaia API access mode fits your project?\n</h2>\n\n<p>Before you write any code, decide how you will re",
+    "link": "https://dev.to/onfinality/kaia-api-endpoints-methods-and-how-to-connect-4i5f",
+    "topic": "general"
+  },
+  {
+    "title": "Bitcoin Testnet RPC: Setup, Faucet & Best Practices",
+    "desc": "<h2>\n  \n  \n  Quick Recommendation: When to Use Bitcoin Testnet vs Regtest\n</h2>\n\n<p>If you are building a Bitcoin application, you need a sa",
+    "link": "https://dev.to/onfinality/bitcoin-testnet-rpc-setup-faucet-best-practices-311",
+    "topic": "general"
+  },
+  {
+    "title": "I Judged an AI Ops Alpha Too Quickly\u2014Then I Read Its Security Boundary",
+    "desc": "<p>At 2:01 a.m., Zheng Qi sent me a question that shaped the next twenty-two hours of my life:</p>\n\n<blockquote>\n<p>What would you trust an ",
+    "link": "https://dev.to/jsb-securedme/i-judged-an-ai-ops-alpha-too-quickly-then-i-read-its-security-boundary-25b0",
+    "topic": "secops"
+  },
+  {
+    "title": "AWS EFS Hands-On Lab",
+    "desc": "<blockquote>\n<p>A practical EFS exercise covering shared file access, NFS security, lifecycle management, persistent mounts, and an EBS-vs-E",
+    "link": "https://dev.to/tejas_shinkar/amazon-efs-hands-on-lab-1l2l",
     "topic": "aws"
   },
   {
-    "title": "Top 53 Sites for Buying Naver Accounts In Bulk In the fast- ...",
-    "desc": "<p>Buy Naver Accounts: A Complete Guide for Businesses and Digital Users<br />\n\ud83d\udcac\ud83d\udcde WE\u2019RE ONLINE & READY TO ASSIST YOU 24/7! \ud83d\udcde\ud83d\udcac<br />\n\u27a5 \ud83d\udd25\ud83d\udcf2 Tel",
-    "link": "https://dev.to/starlabartlett74v2h/top-53-sites-for-buying-naver-accounts-in-bulk-in-the-fast--3lg1",
-    "topic": "general"
-  },
-  {
-    "title": "Day 24: AWS Database \u2014 Extended (QLDB and Neptune)",
-    "desc": "<p>Day 23 wrapped up the original 11-day core service tour. Starting today, we move into the extended 7-day arc \u2014 services that didn't make ",
-    "link": "https://dev.to/sr-palatasingh/day-24-aws-database-extended-qldb-and-neptune-oko",
-    "topic": "aws"
-  },
-  {
-    "title": "Feedback for the LVM post on my blog",
-    "desc": "<p>I just started a blog and published my first blog post about Logical Volume Management. I'm new to documenting my work, so I'd really app",
-    "link": "https://dev.to/mevlut_bulut_8eb137cc7bce/feedback-for-the-lvm-post-on-my-blog-15kk",
-    "topic": "general"
-  },
-  {
-    "title": "Cron Syntax Is a Trap \u2014 Here's a Builder That Explains What You're Actually Scheduling",
-    "desc": "<p>Nobody writes cron expressions from memory. Not really. You either copy one from Stack Overflow and hope, or you open crontab.guru, squin",
-    "link": "https://dev.to/sarfaraznaushad/cron-syntax-is-a-trap-heres-a-builder-that-explains-what-youre-actually-scheduling-2hc9",
-    "topic": "general"
-  },
-  {
-    "title": "Fix Git Merge Conflicts in CI/CD Pipelines \u2013 Best Practices for DevOps",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Git merge conflicts are a common source of pipeline failures. When a pull request introduces changes tha",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-git-merge-conflicts-in-cicd-pipelines-best-practices-for-devops-2jkl",
-    "topic": "general"
-  },
-  {
-    "title": "We rotated a credential and nothing changed: the session cache that outlived its password",
-    "desc": "<p>Today we rotated a Bluesky app password. We updated the <code>.env</code>, updated the CI secret, re-ran the failing command \u2014 and it fai",
-    "link": "https://dev.to/rulestack/we-rotated-a-credential-and-nothing-changed-the-session-cache-that-outlived-its-password-5dg8",
-    "topic": "general"
+    "title": "DevOps Automation with Terraform & Ansible: Simplify Cloud Infrastructure",
+    "desc": "<p>Managing cloud infrastructure manually can lead to configuration errors, inconsistent environments, and unnecessary operational overhead.",
+    "link": "https://dev.to/parthtechify/devops-automation-with-terraform-ansible-simplify-cloud-infrastructure-ok2",
+    "topic": "terraform"
   }
 ]
