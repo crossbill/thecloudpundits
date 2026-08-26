@@ -1,5 +1,11 @@
 [
   {
+    "title": "Adobe and Nvidia Patch Dozens of Vulnerabilities",
+    "desc": "<p>Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products.</p>\n<p>The po",
+    "link": "https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
     "desc": "<p>The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks.</p>\n<p>The post <a h",
     "link": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
@@ -40,11 +46,5 @@
     "desc": "<p>The company, previously known as ActiveFence, has raised a total of $280 million from investors.</p>\n<p>The post <a href=\"https://www.sec",
     "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
     "topic": "guardrails"
-  },
-  {
-    "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
-    "desc": "<p>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
-    "topic": "general"
   }
 ]
