@@ -1,50 +1,50 @@
 [
   {
-    "title": "Diagnose Proxy Failures with a Four-Route Control Matrix",
-    "desc": "<p>When an automation job fails, the visible symptom rarely identifies the failing layer. A timeout may come from the proxy, the target, the",
-    "link": "https://dev.to/98ip/diagnose-proxy-failures-with-a-four-route-control-matrix-3jb",
+    "title": "Why We Built a Config and Secrets Manager That Never Phones Home",
+    "desc": "<p><em>How we built KeyKosh(K2): offline Ed25519 licensing, Docker-only delivery, and one-time pricing \u2014 for people who self-host on purpose",
+    "link": "https://dev.to/prasols/why-we-built-a-config-and-secrets-manager-that-never-phones-home-5hm9",
     "topic": "general"
   },
   {
-    "title": "Most Kubernetes clusters can't tell you what their GPUs cost",
-    "desc": "<p>I built a small tool to answer one question: how many GPU-hours is a cluster paying for and not using?</p>\n\n<p>Then I pointed it at real ",
-    "link": "https://dev.to/dgotlieb/most-kubernetes-clusters-cant-tell-you-what-their-gpus-cost-1ghl",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Tab is whitespace, so your TSV parser is not one",
-    "desc": "<p>TSV is the format shell speaks. <code>jq -r @tsv</code>, <code>git for-each-ref --format</code>, <code>ps --format</code>,<br />\nanything",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/tab-is-whitespace-so-your-tsv-parser-is-not-one-3bj8",
-    "topic": "general"
-  },
-  {
-    "title": "How to Resolve SSL/TLS Certificate Handshake Failures \u2013 Debugging TLS Errors for DevOps",
-    "desc": "<h1>\n  \n  \n  How to Resolve SSL/TLS Certificate Handshake Failures\n</h1>\n\n<p><strong>Audience:</strong> Software developers, engineers, and ",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-debugging-tls-errors-for-devops-2d10",
-    "topic": "general"
-  },
-  {
-    "title": "MTTR Optimization: The 7 Levers That Actually Move the Needle",
-    "desc": "<h2>\n  \n  \n  MTTR Is a Lagging Indicator\n</h2>\n\n<p>Everyone tracks Mean Time to Resolve. Few understand what actually drives it.</p>\n\n<p>MTT",
-    "link": "https://dev.to/samson_tanimawo/mttr-optimization-the-7-levers-that-actually-move-the-needle-144b",
-    "topic": "general"
-  },
-  {
-    "title": "AWS S3: Storage Strategy and Best Practices (2026-08-25 22:14)",
-    "desc": "<h1>\n  \n  \n  AWS S3: Storage Strategy and Best Practices\n</h1>\n\n<p>Amazon Simple Storage Service (S3) is one of the foundational services in",
-    "link": "https://dev.to/said_olano/aws-s3-storage-strategy-and-best-practices-2026-08-25-2214-4he7",
+    "title": "Proxmox vs Spinifex: Hypervisor Management vs AWS-Compatible Cloud",
+    "desc": "<p>Proxmox VE and Spinifex are both open source platforms for running virtual machines on hardware you own, and both are licensed under AGPL",
+    "link": "https://dev.to/toddyholiday/proxmox-vs-spinifex-hypervisor-management-vs-aws-compatible-cloud-81e",
     "topic": "aws"
   },
   {
-    "title": "GitHub Copilot Premium Requests: Allowances, Multipliers, Billing, and What Replaced Them",
-    "desc": "<p>GitHub Copilot premium requests are the metered unit that determined how much advanced Copilot usage your plan covered, and if you are se",
-    "link": "https://dev.to/rebeca_vb/github-copilot-premium-requests-allowances-multipliers-billing-and-what-replaced-them-d3p",
+    "title": "Debugging webhooks without paying for it",
+    "desc": "<p>Every webhook integration starts the same way: you write a handler, deploy it,<br />\npoke the provider's \"send test event\" button, see no",
+    "link": "https://dev.to/catchhook/debugging-webhooks-without-paying-for-it-3db9",
     "topic": "general"
   },
   {
-    "title": "I got banned from GitHub for 2 weeks. Here's what I learned about single-platform dependency.",
-    "desc": "<p>Two weeks ago, GitHub flagged my account. No warning, no explanation, no timeline. 55 public repos instantly returned HTTP 404 to anonymo",
-    "link": "https://dev.to/edison_flores_6d2cd381b13/i-got-banned-from-github-for-2-weeks-heres-what-i-learned-about-single-platform-dependency-gn7",
+    "title": "A LaunchAgent gets `Operation not permitted` for `~/Documents` while Terminal works",
+    "desc": "<p>The same zsh script could list <code>~/Documents</code> when I ran it in Terminal. Started as a LaunchAgent, it failed with:<br />\n</p>\n\n",
+    "link": "https://dev.to/vinhnguyenthanhdn/a-launchagent-gets-operation-not-permitted-for-documents-while-terminal-works-2df4",
+    "topic": "general"
+  },
+  {
+    "title": "Cheapest Hosted App Log Search for Small Businesses: A Practical Comparison",
+    "desc": "<p>Short answer: compare a hosted app log search service, self-hosted Loki, and Elastic Cloud by the operational boundary each one creates. ",
+    "link": "https://dev.to/suttonhawkins6723/cheapest-hosted-app-log-search-for-small-businesses-a-practical-comparison-2h6e",
+    "topic": "general"
+  },
+  {
+    "title": "How Many Lines of Code Do You Ship to Prod a Week? This Week I Shipped One.",
+    "desc": "<p>Yes, one. But I am as exhausted as if I had shipped a full feature.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"hig",
+    "link": "https://dev.to/vadim_albarov/how-many-lines-of-code-do-you-ship-to-prod-a-week-this-week-i-shipped-one-140b",
+    "topic": "general"
+  },
+  {
+    "title": "How to Self-Host Nextcloud: A Complete Setup Guide",
+    "desc": "<p>A step-by-step guide to running your own private Nextcloud server \u2014 from choosing hardware and an install method to securing it with HTTP",
+    "link": "https://dev.to/kimcomplete/how-to-self-host-nextcloud-a-complete-setup-guide-49o3",
+    "topic": "general"
+  },
+  {
+    "title": "Your agent's 'secure' network policy was off unless you did four steps \u2014 so it was off",
+    "desc": "<p>If you run an autonomous LLM agent in a container, here is a question worth sitting with: <strong>is your<br />\nnetwork egress policy act",
+    "link": "https://dev.to/wartzarbee/your-agents-secure-network-policy-was-off-unless-you-did-four-steps-so-it-was-off-409k",
     "topic": "general"
   }
 ]
