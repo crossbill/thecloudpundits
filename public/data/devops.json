@@ -1,50 +1,50 @@
 [
   {
-    "title": "Dockerizing My First App: A Quest Inspired by The Matrix",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>I still remember the day I tried to show a friend my shiny new Node.js API on his laptop",
-    "link": "https://dev.to/timevolt/dockerizing-my-first-app-a-quest-inspired-by-the-matrix-2a1o",
-    "topic": "docker"
-  },
-  {
-    "title": "Build a GitHub Actions Bot That Pays You",
-    "desc": "<h1>\n  \n  \n  Build a GitHub Actions Bot That Pays You\n</h1>\n\n<p>tags: github, automation, money, devops</p>\n\n\n\n\n<p>tags: github, automation,",
-    "link": "https://dev.to/qingluan/build-a-github-actions-bot-that-pays-you-416l",
+    "title": "The Silent Enclosure: Stealing the Light",
+    "desc": "<h3>\n  \n  \n  Pushed Out by the Shadows\n</h3>\n\n<p>For almost seven months now I have blinked less than the crippled, cramped fingers I count ",
+    "link": "https://dev.to/neoncyan0x/the-silent-enclosure-stealing-the-light-465p",
     "topic": "general"
   },
   {
-    "title": "Ten Minutes or Nobody Reads the Result",
+    "title": "Remote Patient Monitoring Challenges",
+    "desc": "<p>Remote Patient Monitoring sounds simple on paper: give a patient a Bluetooth blood pressure cuff, have them take a reading, and insurance",
+    "link": "https://dev.to/boopathy_health_9d30cae82/remote-patient-monitoring-challenges-37e6",
+    "topic": "general"
+  },
+  {
+    "title": "15 Best Sites To Buy Old Gmail Accounts ( PVA & Bulk )",
+    "desc": "<p>Buy Old Gmail Accounts (PVA & Bulk): </p>\n\n<p>If you are feeling any problems and knowing more about us then Contact us by Email, Telegra",
+    "link": "https://dev.to/usasmmdeal2025/15-best-sites-to-buy-old-gmail-accounts-pva-bulk--n92",
+    "topic": "general"
+  },
+  {
+    "title": "Fixing Claude Rate Limit Errors with an AI Gateway",
+    "desc": "<p>Ever had a <code>429</code> from Claude that just would not clear, no matter how patiently you backed off?</p>\n\n<p>Yeah. That one was nev",
+    "link": "https://dev.to/swapnoneel123/fixing-claude-rate-limit-errors-with-an-ai-gateway-5dk5",
+    "topic": "anthropic"
+  },
+  {
+    "title": "I broke my own AWS infrastructure\u2026 without touching the infrastructure.",
+    "desc": "<p>I had an EC2 instance running an application.</p>\n\n<p>Everything looked fine.</p>\n\n<p>Then I changed <strong>one Security Group rule</str",
+    "link": "https://dev.to/tejas_shinkar/i-broke-my-own-aws-infrastructure-without-touching-the-infrastructure-3a26",
+    "topic": "aws"
+  },
+  {
+    "title": "Top 62 Platforms to Buy Aged Gmail Accounts in the USA: A Complete 2026 Guide",
+    "desc": "<p>Buy Aged Gmail Accounts in the USA</p>\n\n<p>If you are feeling any problems and knowing more about us then Contact us by Email, Telegram, ",
+    "link": "https://dev.to/usasmmdeal2025/top-62-platforms-to-buy-aged-gmail-accounts-in-the-usa-a-complete-2026-guide-4pl2",
+    "topic": "general"
+  },
+  {
+    "title": "AWS CloudFront \u2014 Complete Understanding, Production Patterns & Practice",
+    "desc": "<h1>\n  \n  \n  AWS CloudFront \u2014 Complete Understanding, Production Patterns & Practice\n</h1>\n\n<ul>\n<li>[ ] What problem a CDN solves</li>\n<li>",
+    "link": "https://dev.to/tejas_shinkar/aws-cloudfront-complete-understanding-production-patterns-practice-1onb",
+    "topic": "aws"
+  },
+  {
+    "title": "CVE-2026-59568: Critical Zscaler Client Connector RCE Vulnerability Every DevOps Team Should Know About",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/jam-techcirkle/ten-minutes-or-nobody-reads-the-result-561e",
-    "topic": "general"
-  },
-  {
-    "title": "The Engineering Constitution",
-    "desc": "<p><em>Founder Journal #12 \u2014 The Rules AI Agents Must Never Forget</em></p>\n\n<blockquote>\n<p><em>\"A production engineering system needs more",
-    "link": "https://dev.to/bayu911/the-engineering-constitution-2917",
-    "topic": "general"
-  },
-  {
-    "title": "I did Golden Images",
-    "desc": "<h1>\n  \n  \n  Golden Images  How I Stopped Manually Logging Into Every New Server\n</h1>\n\n<h2>\n  \n  \n  The problem\n</h2>\n\n<p>Every time I spun",
-    "link": "https://dev.to/techwithhari/i-did-golden-images-1np8",
-    "topic": "general"
-  },
-  {
-    "title": "Our ECS Fargate Task Was Silently Failing for Days \u2014 Here's Exactly How We Found It",
-    "desc": "<h1>\n  \n  \n  Our ECS Fargate Task Was Silently Failing for Days \u2014 Here's Exactly How We Found It\n</h1>\n\n<blockquote>\n<p>No alarm fired. No S",
-    "link": "https://dev.to/elonerajeev1/our-ecs-fargate-task-was-silently-failing-for-days-heres-exactly-how-we-found-it-ljc",
-    "topic": "general"
-  },
-  {
-    "title": "Integration Guard: Safely Merging Parallel Concurrent AI Agents from Git Worktrees into Main",
-    "desc": "<p>Modern coding-agent workflows often run several agents in parallel. Each<br />\n  agent works in its own Git worktree and branch, while al",
-    "link": "https://dev.to/evertonkozloski/integration-guard-safely-merging-parallel-concurrent-ai-agents-from-git-worktrees-into-main-4l7m",
-    "topic": "general"
-  },
-  {
-    "title": "Why standard HTTP clients get blocked by anti-bot systems and how TLS fingerprinting works",
-    "desc": "<p>If you have ever written a web scraper using Python <code>requests</code>, <code>urllib3</code>, or <code>aiohttp</code>, you have likely",
-    "link": "https://dev.to/messora/why-standard-http-clients-get-blocked-by-anti-bot-systems-and-how-tls-fingerprinting-works-27el",
-    "topic": "general"
+    "link": "https://dev.to/xpert4cyber/cve-2026-59568-critical-zscaler-client-connector-rce-vulnerability-every-devops-team-should-know-gff",
+    "topic": "secops"
   }
 ]
