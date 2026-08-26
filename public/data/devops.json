@@ -1,5 +1,29 @@
 [
   {
+    "title": "Measure Every Token: A SQLite-Backed Call Tracker for Free Model Endpoints",
+    "desc": "<p>Free model endpoints are not free of mystery. You get a response, but no dashboard. No latency percentiles. No error rate. No usage histo",
+    "link": "https://dev.to/hackrs_6393/measure-every-token-a-sqlite-backed-call-tracker-for-free-model-endpoints-3lpd",
+    "topic": "general"
+  },
+  {
+    "title": "The retry that succeeded is the one you should investigate",
+    "desc": "<p>Most failure reports in an unattended pipeline are boring. Something timed out, the agent tried again, the second attempt worked, the run",
+    "link": "https://dev.to/unmannedops/the-retry-that-succeeded-is-the-one-you-should-investigate-3bl2",
+    "topic": "general"
+  },
+  {
+    "title": "Copilot's Code Review Cannot Block Your Merge. It Says So in the Docs.",
+    "desc": "<p>GitHub's own documentation is unambiguous about this: <strong>Copilot always submits a Comment review \u2014 never Approve, never Request chan",
+    "link": "https://dev.to/ugliai/copilots-code-review-cannot-block-your-merge-it-says-so-in-the-docs-hfm",
+    "topic": "general"
+  },
+  {
+    "title": "Self-Hosting A Model Is Easy, Self-Hosting An Agent Is Not",
+    "desc": "<p>Running a model on your own hardware is a solved problem. Ollama, LM Studio, llama.cpp, pick one and you have weights answering on localh",
+    "link": "https://dev.to/paulcrinigan/self-hosting-a-model-is-easy-self-hosting-an-agent-is-not-3ecp",
+    "topic": "general"
+  },
+  {
     "title": "Why We Built a Config and Secrets Manager That Never Phones Home",
     "desc": "<p><em>How we built KeyKosh(K2): offline Ed25519 licensing, Docker-only delivery, and one-time pricing \u2014 for people who self-host on purpose",
     "link": "https://dev.to/prasols/why-we-built-a-config-and-secrets-manager-that-never-phones-home-5hm9",
@@ -21,30 +45,6 @@
     "title": "A LaunchAgent gets `Operation not permitted` for `~/Documents` while Terminal works",
     "desc": "<p>The same zsh script could list <code>~/Documents</code> when I ran it in Terminal. Started as a LaunchAgent, it failed with:<br />\n</p>\n\n",
     "link": "https://dev.to/vinhnguyenthanhdn/a-launchagent-gets-operation-not-permitted-for-documents-while-terminal-works-2df4",
-    "topic": "general"
-  },
-  {
-    "title": "Cheapest Hosted App Log Search for Small Businesses: A Practical Comparison",
-    "desc": "<p>Short answer: compare a hosted app log search service, self-hosted Loki, and Elastic Cloud by the operational boundary each one creates. ",
-    "link": "https://dev.to/suttonhawkins6723/cheapest-hosted-app-log-search-for-small-businesses-a-practical-comparison-2h6e",
-    "topic": "general"
-  },
-  {
-    "title": "How Many Lines of Code Do You Ship to Prod a Week? This Week I Shipped One.",
-    "desc": "<p>Yes, one. But I am as exhausted as if I had shipped a full feature.<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"hig",
-    "link": "https://dev.to/vadim_albarov/how-many-lines-of-code-do-you-ship-to-prod-a-week-this-week-i-shipped-one-140b",
-    "topic": "general"
-  },
-  {
-    "title": "How to Self-Host Nextcloud: A Complete Setup Guide",
-    "desc": "<p>A step-by-step guide to running your own private Nextcloud server \u2014 from choosing hardware and an install method to securing it with HTTP",
-    "link": "https://dev.to/kimcomplete/how-to-self-host-nextcloud-a-complete-setup-guide-49o3",
-    "topic": "general"
-  },
-  {
-    "title": "Your agent's 'secure' network policy was off unless you did four steps \u2014 so it was off",
-    "desc": "<p>If you run an autonomous LLM agent in a container, here is a question worth sitting with: <strong>is your<br />\nnetwork egress policy act",
-    "link": "https://dev.to/wartzarbee/your-agents-secure-network-policy-was-off-unless-you-did-four-steps-so-it-was-off-409k",
     "topic": "general"
   }
 ]
