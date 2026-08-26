@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes: depura 401 intermitentes con contexto",
-    "desc": "<p>Los <code>401</code> intermitentes en Kubernetes son de esas alertas que desgastan mas de lo que parecen. Un pod responde bien durante me",
-    "link": "https://dev.to/alexcarteruk/kubernetes-depura-401-intermitentes-con-contexto-1c4k",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "What Is Crust Network? Decentralized Storage Explained",
-    "desc": "<p>Crust Network is a purpose-built layer 1 blockchain that provides decentralized cloud storage by adding an incentive and service layer to",
-    "link": "https://dev.to/onfinality/what-is-crust-network-decentralized-storage-explained-2c09",
+    "title": "Building an Automated QA KPI Dashboard for Playwright & BDD Pipelines",
+    "desc": "<p>Tracking test automation metrics manually often leads to outdated figures and missed engineering gaps. To solve this, automated reporting",
+    "link": "https://dev.to/she11_qa/building-an-automated-qa-kpi-dashboard-for-playwright-bdd-pipelines-31p7",
     "topic": "general"
   },
   {
-    "title": "Polygon Node RPC: Endpoints, Chain Settings & Provider Guide",
-    "desc": "<h2>\n  \n  \n  Quick decision guide: which Polygon RPC setup fits your app?\n</h2>\n\n<p>Before you copy an endpoint into your config, decide wha",
-    "link": "https://dev.to/onfinality/polygon-node-rpc-endpoints-chain-settings-provider-guide-3fi7",
+    "title": "Delivered, accepted, merged, deployed: four facts your tracker calls Done",
+    "desc": "<p>Most issue trackers have a column called \"Done.\" It is doing far too much work.</p>\n\n<p>\"Done\" is quietly standing in for at least four s",
+    "link": "https://dev.to/sam_novak_574b07811e18495/delivered-accepted-merged-deployed-four-facts-your-tracker-calls-done-3nfh",
     "topic": "general"
   },
   {
-    "title": "Kaia API: Endpoints, Methods, and How to Connect",
-    "desc": "<h2>\n  \n  \n  Quick recommendation: Which Kaia API access mode fits your project?\n</h2>\n\n<p>Before you write any code, decide how you will re",
-    "link": "https://dev.to/onfinality/kaia-api-endpoints-methods-and-how-to-connect-4i5f",
+    "title": "Packaging Machine Control & Monitoring with AT-KEYPAD01 and ATSCADA",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/phuc_bach_22e/packaging-machine-control-monitoring-with-at-keypad01-and-atscada-5aok",
     "topic": "general"
   },
   {
-    "title": "Bitcoin Testnet RPC: Setup, Faucet & Best Practices",
-    "desc": "<h2>\n  \n  \n  Quick Recommendation: When to Use Bitcoin Testnet vs Regtest\n</h2>\n\n<p>If you are building a Bitcoin application, you need a sa",
-    "link": "https://dev.to/onfinality/bitcoin-testnet-rpc-setup-faucet-best-practices-311",
+    "title": "How to Test a New AI Provider Without Rewriting Your Application",
+    "desc": "<p>Switching an AI provider does not need to begin with a full migration.</p>\n\n<p>The useful first step is a bounded test: keep one real cli",
+    "link": "https://dev.to/triumph1701/how-to-test-a-new-ai-provider-without-rewriting-your-application-629",
     "topic": "general"
   },
   {
-    "title": "I Judged an AI Ops Alpha Too Quickly\u2014Then I Read Its Security Boundary",
-    "desc": "<p>At 2:01 a.m., Zheng Qi sent me a question that shaped the next twenty-two hours of my life:</p>\n\n<blockquote>\n<p>What would you trust an ",
-    "link": "https://dev.to/jsb-securedme/i-judged-an-ai-ops-alpha-too-quickly-then-i-read-its-security-boundary-25b0",
+    "title": "HOW MODERN LOGISTICS HELPS BUSINESSES HANDLE GROWTH WITH LESS COMPLEXITY",
+    "desc": "<p>Growth changes everything for a business. More customers bring more orders, more products create greater inventory demands, and expansion",
+    "link": "https://dev.to/henry_walker_/how-modern-logistics-helps-businesses-handle-growth-with-less-complexity-3dd7",
+    "topic": "general"
+  },
+  {
+    "title": "Best AIOps Training in Hyderabad | MLOps & AIOps Training",
+    "desc": "<p>Why MLOps and AIOps Are the Future of Enterprise AI in 2026<br />\nIntroduction<br />\nAI is now part of many business systems. Companies u",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/best-aiops-training-in-hyderabad-mlops-aiops-training-49bn",
+    "topic": "general"
+  },
+  {
+    "title": "A Model Comparison Is Not Evidence Until It Survives Five Fresh Runs",
+    "desc": "<p>A single good answer is not evidence that a model path is ready for a real workflow.</p>\n\n<p>It might be a lucky run. It might benefit fr",
+    "link": "https://dev.to/triumph1701/a-model-comparison-is-not-evidence-until-it-survives-five-fresh-runs-5b5f",
+    "topic": "general"
+  },
+  {
+    "title": "AI in Production: The Security Line DevOps Must Draw",
+    "desc": "<h2>\n  \n  \n  What We Set Out to Solve\n</h2>\n\n<p>In 2026, the question most DevOps teams are asking is no longer \"should we use AI for operat",
+    "link": "https://dev.to/forgeflows/ai-in-production-the-security-line-devops-must-draw-4g7p",
     "topic": "secops"
-  },
-  {
-    "title": "AWS EFS Hands-On Lab",
-    "desc": "<blockquote>\n<p>A practical EFS exercise covering shared file access, NFS security, lifecycle management, persistent mounts, and an EBS-vs-E",
-    "link": "https://dev.to/tejas_shinkar/amazon-efs-hands-on-lab-1l2l",
-    "topic": "aws"
-  },
-  {
-    "title": "DevOps Automation with Terraform & Ansible: Simplify Cloud Infrastructure",
-    "desc": "<p>Managing cloud infrastructure manually can lead to configuration errors, inconsistent environments, and unnecessary operational overhead.",
-    "link": "https://dev.to/parthtechify/devops-automation-with-terraform-ansible-simplify-cloud-infrastructure-ok2",
-    "topic": "terraform"
   }
 ]
