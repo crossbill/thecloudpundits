@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Silent Enclosure: Stealing the Light",
-    "desc": "<h3>\n  \n  \n  Pushed Out by the Shadows\n</h3>\n\n<p>For almost seven months now I have blinked less than the crippled, cramped fingers I count ",
-    "link": "https://dev.to/neoncyan0x/the-silent-enclosure-stealing-the-light-465p",
-    "topic": "general"
-  },
-  {
-    "title": "Remote Patient Monitoring Challenges",
-    "desc": "<p>Remote Patient Monitoring sounds simple on paper: give a patient a Bluetooth blood pressure cuff, have them take a reading, and insurance",
-    "link": "https://dev.to/boopathy_health_9d30cae82/remote-patient-monitoring-challenges-37e6",
-    "topic": "general"
-  },
-  {
-    "title": "15 Best Sites To Buy Old Gmail Accounts ( PVA & Bulk )",
-    "desc": "<p>Buy Old Gmail Accounts (PVA & Bulk): </p>\n\n<p>If you are feeling any problems and knowing more about us then Contact us by Email, Telegra",
-    "link": "https://dev.to/usasmmdeal2025/15-best-sites-to-buy-old-gmail-accounts-pva-bulk--n92",
-    "topic": "general"
-  },
-  {
-    "title": "Fixing Claude Rate Limit Errors with an AI Gateway",
-    "desc": "<p>Ever had a <code>429</code> from Claude that just would not clear, no matter how patiently you backed off?</p>\n\n<p>Yeah. That one was nev",
-    "link": "https://dev.to/swapnoneel123/fixing-claude-rate-limit-errors-with-an-ai-gateway-5dk5",
-    "topic": "anthropic"
-  },
-  {
-    "title": "I broke my own AWS infrastructure\u2026 without touching the infrastructure.",
-    "desc": "<p>I had an EC2 instance running an application.</p>\n\n<p>Everything looked fine.</p>\n\n<p>Then I changed <strong>one Security Group rule</str",
-    "link": "https://dev.to/tejas_shinkar/i-broke-my-own-aws-infrastructure-without-touching-the-infrastructure-3a26",
-    "topic": "aws"
-  },
-  {
-    "title": "Top 62 Platforms to Buy Aged Gmail Accounts in the USA: A Complete 2026 Guide",
-    "desc": "<p>Buy Aged Gmail Accounts in the USA</p>\n\n<p>If you are feeling any problems and knowing more about us then Contact us by Email, Telegram, ",
-    "link": "https://dev.to/usasmmdeal2025/top-62-platforms-to-buy-aged-gmail-accounts-in-the-usa-a-complete-2026-guide-4pl2",
-    "topic": "general"
-  },
-  {
-    "title": "AWS CloudFront \u2014 Complete Understanding, Production Patterns & Practice",
-    "desc": "<h1>\n  \n  \n  AWS CloudFront \u2014 Complete Understanding, Production Patterns & Practice\n</h1>\n\n<ul>\n<li>[ ] What problem a CDN solves</li>\n<li>",
-    "link": "https://dev.to/tejas_shinkar/aws-cloudfront-complete-understanding-production-patterns-practice-1onb",
-    "topic": "aws"
-  },
-  {
-    "title": "CVE-2026-59568: Critical Zscaler Client Connector RCE Vulnerability Every DevOps Team Should Know About",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/cve-2026-59568-critical-zscaler-client-connector-rce-vulnerability-every-devops-team-should-know-gff",
+    "title": "The On-Call Handoff That Prevents Dropped Incidents",
+    "desc": "<h2>\n  \n  \n  The Monday Morning Disaster\n</h2>\n\n<p>Every Monday, the same story: the incoming on-call engineer has no idea what happened ove",
+    "link": "https://dev.to/samson_tanimawo/the-on-call-handoff-that-prevents-dropped-incidents-22c9",
     "topic": "secops"
+  },
+  {
+    "title": "Python Logging: Best Practices for Production Apps",
+    "desc": "<h1>\n  \n  \n  Python Logging: Best Practices for Production Apps\n</h1>\n\n<p>tags: python, logging, devops, tutorial</p>\n\n\n\n\n<p>tags: python, l",
+    "link": "https://dev.to/qingluan/python-logging-best-practices-for-production-apps-1ipl",
+    "topic": "general"
+  },
+  {
+    "title": "How to Deploy Python Apps with Docker Compose",
+    "desc": "<h1>\n  \n  \n  How to Deploy Python Apps with Docker Compose\n</h1>\n\n<p>tags: python, docker, devops, tutorial</p>\n\n\n\n\n<p>tags: python, docker,",
+    "link": "https://dev.to/qingluan/how-to-deploy-python-apps-with-docker-compose-480",
+    "topic": "docker"
+  },
+  {
+    "title": "A Free-Tier Docs Drafting Pipeline: Model Writes the First Pass, Humans Sign the Contract",
+    "desc": "<p>Documentation quality degrades for a structural reason, not a model reason: teams treat generation as one prompt instead of a pipeline wi",
+    "link": "https://dev.to/github_7727/a-free-tier-docs-drafting-pipeline-model-writes-the-first-pass-humans-sign-the-contract-24m5",
+    "topic": "general"
+  },
+  {
+    "title": "Meet Watchdog: A Small, Safe Bash Watchdog for Linux Services",
+    "desc": "<p>A service does not have to be large to become operationally important. A small API behind a reverse proxy, a background worker on a virtu",
+    "link": "https://dev.to/tigusigalpa/meet-watchdog-a-small-safe-bash-watchdog-for-linux-services-hl3",
+    "topic": "general"
+  },
+  {
+    "title": "Blue-green deployment that left the old environment running for weeks, doubling infrastructure cost",
+    "desc": "<p>The deploy worked. The bill doubled.</p>\n\n<p>The blue-green cutover went perfectly. Traffic shifted to green, health checks passed, the t",
+    "link": "https://dev.to/iusmanq/blue-green-deployment-that-left-the-old-environment-running-for-weeks-doubling-infrastructure-cost-25db",
+    "topic": "general"
+  },
+  {
+    "title": "How to Troubleshoot High CPU Loads on Linux",
+    "desc": "<p>High CPU usage on a Linux server does not always mean the server simply needs more CPU. Sustained CPU load can be caused by an applicatio",
+    "link": "https://dev.to/iserversupport/how-to-troubleshoot-high-cpu-loads-on-linux-1g7l",
+    "topic": "general"
+  },
+  {
+    "title": "Day 32: Rebase Replays Your Commits, and a Restore Inherits Everything You Don't Override",
+    "desc": "<p>Today's two tasks are both about a new base. A feature branch that needs to sit on top of a master that has moved. A database instance th",
+    "link": "https://dev.to/ndcodes/day-32-rebase-replays-your-commits-and-a-restore-inherits-everything-you-dont-override-5aik",
+    "topic": "general"
   }
 ]
