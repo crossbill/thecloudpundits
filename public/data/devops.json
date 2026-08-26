@@ -1,5 +1,35 @@
 [
   {
+    "title": "How I Cut a 41-Minute CI Pipeline to 9 Minutes With Claude Code",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>Our CI pipeline took 41 minutes per push, so nobody pushed small commits anymore. I spent two afternoons with C",
+    "link": "https://dev.to/yureki_lab/how-i-cut-a-41-minute-ci-pipeline-to-9-minutes-with-claude-code-3p1o",
+    "topic": "anthropic"
+  },
+  {
+    "title": "DuckLabs se une a AWS: DuckDB seguir\u00e1 siendo MIT y gratis",
+    "desc": "<p>DuckLabs, la empresa detr\u00e1s del motor de base de datos DuckDB, anunci\u00f3 el 26 de agosto de 2026 que se unir\u00e1 a Amazon Web Services (AWS) a",
+    "link": "https://dev.to/lu1tr0n/ducklabs-se-une-a-aws-duckdb-seguira-siendo-mit-y-gratis-256f",
+    "topic": "aws"
+  },
+  {
+    "title": "Monitor Your Server Health with Python and Telegram",
+    "desc": "<h1>\n  \n  \n  Monitor Your Server Health with Python and Telegram\n</h1>\n\n<p>tags: python, devops, monitoring, telegram</p>\n\n\n\n\n<p>tags: pytho",
+    "link": "https://dev.to/qingluan/monitor-your-server-health-with-python-and-telegram-18aj",
+    "topic": "general"
+  },
+  {
+    "title": "Mastering Local LLM Hosting on Apple Silicon with oMLX and Secure Remote Access",
+    "desc": "<h1>\n  \n  \n  Unleashing the Power of Local LLMs on Apple Silicon\n</h1>\n\n<p>For developers working on macOS, the landscape of local inference",
+    "link": "https://dev.to/lightningdev123/mastering-local-llm-hosting-on-apple-silicon-with-omlx-and-secure-remote-access-ni1",
+    "topic": "general"
+  },
+  {
+    "title": "Your Agent Planned the Right Tools. It Still Crashed the Machine.",
+    "desc": "<p>Your agent needs four independent facts before it can approve a refund:</p>\n\n<ol>\n<li>the order record,</li>\n<li>the fraud score,</li>\n<l",
+    "link": "https://dev.to/p0rt/your-agent-planned-the-right-tools-it-still-crashed-the-machine-58hf",
+    "topic": "general"
+  },
+  {
     "title": "Why standard HTTP clients get blocked by anti-bot systems and how TLS fingerprinting works",
     "desc": "<p>If you have ever written a web scraper using Python <code>requests</code>, <code>urllib3</code>, or <code>aiohttp</code>, you have likely",
     "link": "https://dev.to/messora/why-standard-http-clients-get-blocked-by-anti-bot-systems-and-how-tls-fingerprinting-works-3bkb",
@@ -15,36 +45,6 @@
     "title": "Dev Log: 25 August 2026 \u2014 Silent Failures, Double Counting, and Constraints You Can't Defend",
     "desc": "<p>Four repos moved today. One is public and got its own post; the rest were private work, so what follows is the reasoning and the patterns",
     "link": "https://dev.to/nasrulhazim/dev-log-25-august-2026-silent-failures-double-counting-and-constraints-you-cant-defend-acn",
-    "topic": "general"
-  },
-  {
-    "title": "Random Timer For Beginners: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/random-timer-for-beginners-what-we-learned-building-random-tactical-timer-mbl",
-    "topic": "general"
-  },
-  {
-    "title": "Dev Log: 2026-08-24 \u2014 Everything That Only Breaks in Production",
-    "desc": "<p><strong>TL;DR</strong> \u2014 Forty-one commits across six repositories and almost all of them share one shape: <strong>code that is correct o",
-    "link": "https://dev.to/nasrulhazim/dev-log-2026-08-24-everything-that-only-breaks-in-production-2e55",
-    "topic": "general"
-  },
-  {
-    "title": "Fail at Step 1, Not Step 14: Preflight Checks for Long Pipelines",
-    "desc": "<p><strong>TL;DR</strong> \u2014 I spent today running a provisioning pipeline against a fresh OS family for the first time, and most of what bro",
-    "link": "https://dev.to/nasrulhazim/fail-at-step-1-not-step-14-preflight-checks-for-long-pipelines-4inf",
-    "topic": "general"
-  },
-  {
-    "title": "Dev Log: 2026-08-23 \u2014 Preflight Gates, a Second OS Family, and a Chess Engine Behind FFI",
-    "desc": "<p><strong>TL;DR</strong> \u2014 A long day across a deployment platform and a brand-new mobile app. Two themes kept resurfacing: <strong>an abst",
-    "link": "https://dev.to/nasrulhazim/dev-log-2026-08-23-preflight-gates-a-second-os-family-and-a-chess-engine-behind-ffi-2ahp",
-    "topic": "general"
-  },
-  {
-    "title": "Your OS Abstraction Isn't Real Until the Second Family Boots",
-    "desc": "<p><strong>TL;DR</strong> \u2014 I have an <code>OsProfileContract</code> with a Debian implementation that's been happily provisioning machines ",
-    "link": "https://dev.to/nasrulhazim/your-os-abstraction-isnt-real-until-the-second-family-boots-lep",
     "topic": "general"
   }
 ]
