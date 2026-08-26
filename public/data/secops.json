@@ -1,5 +1,11 @@
 [
   {
+    "title": "Sensitive Information Exposed in Nutex Health Data Breach",
+    "desc": "<p>Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration.</p>\n<p>The post <a href=\"https://w",
+    "link": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
+    "topic": "secops"
+  },
+  {
     "title": "CISA Warns of Exploited Gitea Vulnerability",
     "desc": "<p>CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1.</p>\n",
     "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
@@ -40,11 +46,5 @@
     "desc": "<p>Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices.</p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
     "topic": "general"
-  },
-  {
-    "title": "Silent Patches Don\u2019t Stop Attackers \u2013 They Blind Defenders",
-    "desc": "<p>Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk.</p>\n<",
-    "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
-    "topic": "secops"
   }
 ]
