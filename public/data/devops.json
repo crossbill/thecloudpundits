@@ -1,50 +1,50 @@
 [
   {
-    "title": "Embedded Software Engineering vs. DevOps: Navigating Specialization for Remote Senior-Level Growth",
-    "desc": "<h2>\n  \n  \n  Introduction: The Crossroads of DevOps and Embedded Engineering\n</h2>\n\n<p>Imagine you\u2019re an engineer with one foot in the hardw",
-    "link": "https://dev.to/maricode/embedded-software-engineering-vs-devops-navigating-specialization-for-remote-senior-level-growth-4c50",
-    "topic": "general"
-  },
-  {
-    "title": "SQLazy: Search for Adjacent Records at a Specified Offset Within Groups",
-    "desc": "<h2>\n  \n  \n  Problem Description\n</h2>\n\n<p>In a table, ProductionLine_Number is the grouping field, and within each group records are sorted",
-    "link": "https://dev.to/esproc_spl/sqlazy-search-for-adjacent-records-at-a-specified-offset-within-groups-2m3i",
-    "topic": "general"
-  },
-  {
-    "title": "Automating Kubernetes Pod Scaling Issues: Best Practices & Scripts",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Scaling pods automatically is essential for modern cloud\u2011native applications. In this guide we explore t",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/automating-kubernetes-pod-scaling-issues-best-practices-scripts-21o4",
+    "title": "Kubernetes 1.30 Launches with Major Security Boost and AI\u2011Ready Features",
+    "desc": "<h1>\n  \n  \n  Kubernetes 1.30 Hits General Availability, Raising the Bar for Cloud\u2011Native Security and AI Integration\n</h1>\n\n<p><strong>June ",
+    "link": "https://dev.to/techpulse01239/kubernetes-130-launches-with-major-security-boost-and-ai-ready-features-2n1b",
     "topic": "kubernetes"
   },
   {
-    "title": "How to Scale a Python App to Handle 1 Million Requests",
-    "desc": "<h1>\n  \n  \n  How to Scale a Python App to Handle 1 Million Requests\n</h1>\n\n<p>tags: python, scaling, performance, devops</p>\n\n\n\n\n<p>tags: py",
-    "link": "https://dev.to/qingluan/how-to-scale-a-python-app-to-handle-1-million-requests-4g7h",
+    "title": "AI wave",
+    "desc": "<h1>\n  \n  \n  Cleanup Directory \u2013 SOP\n</h1>\n\n<h2>\n  \n  \n  1. Objective\n</h2>\n\n<p>To remove only temporary files with the prefix <code>temp_*<",
+    "link": "https://dev.to/michele-9e58e27dac99451/ai-wave-h75",
     "topic": "general"
   },
   {
-    "title": "Logging for LLM Apps: What to Capture and What to Redact",
-    "desc": "<p>Log every LLM call as one structured event: prompt version, model id, sampling settings, token counts, time to first token and total late",
-    "link": "https://dev.to/sagar_jain4010/logging-for-llm-apps-what-to-capture-and-what-to-redact-4e3m",
+    "title": "Three Gates for Agent Patches: Properties, Fixtures, and a Flaky Freeze",
+    "desc": "<p>An AI-generated patch that passes its own tests is not evidence. It is a hypothesis. The tests were written by the same model that wrote ",
+    "link": "https://dev.to/datacpp_8185/three-gates-for-agent-patches-properties-fixtures-and-a-flaky-freeze-3eam",
     "topic": "general"
   },
   {
-    "title": "I Said Deploy and My AI Did the Rest",
-    "desc": "<p>Sometimes the best way to learn is from mistakes - even when they are made by an AI.</p>\n\n<p>Last week, my AI assistant confidently refac",
-    "link": "https://dev.to/archantech/i-said-deploy-and-my-ai-did-the-rest-4dom",
+    "title": "Free Model Server Myths: Five Claims I Stopped Believing",
+    "desc": "<p>Every week, someone repeats a myth about free model servers. I used to repeat them too. Then I started measuring. Here's what changed my ",
+    "link": "https://dev.to/gitlab_3188/free-model-server-myths-five-claims-i-stopped-believing-35g8",
     "topic": "general"
   },
   {
-    "title": "From Audit Log to AI Governance Platform. How Chron Is Closing the Gap",
+    "title": "Why Your Docker Compose Fails in Production: 5 Subtle Traps Every Developer Misses",
+    "desc": "<p>Most developers know the feeling: you run <code>docker compose up</code> locally, everything starts smoothly in seconds, and you deploy t",
+    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-docker-compose-fails-in-production-5-subtle-traps-every-developer-misses-240i",
+    "topic": "docker"
+  },
+  {
+    "title": "Multi-stage builds in Docker: smaller, cleaner images",
+    "desc": "<p>There's a particular kind of waste that happens in Docker images and that everyone accepts as normal until someone points it out: shippin",
+    "link": "https://dev.to/fj_palacios/multi-stage-builds-in-docker-smaller-cleaner-images-14dn",
+    "topic": "docker"
+  },
+  {
+    "title": "The EU Cyber Resilience Act's reporting clock starts September 11. What is your team actually doing about it?",
+    "desc": "<p>September 11 is coming up fast, and I've had the same conversation with four different founders this month: \"<strong>does the Cyber Resil",
+    "link": "https://dev.to/albernaz_/the-eu-cyber-resilience-acts-reporting-clock-starts-september-11-what-is-your-team-actually-doing-2lil",
+    "topic": "secops"
+  },
+  {
+    "title": "Top 10 Agentic AI Companies to Watch in 2026",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sirinivask/from-audit-log-to-ai-governance-platform-how-chron-is-closing-the-gap-16m4",
-    "topic": "guardrails"
-  },
-  {
-    "title": "What Makes a Lyft Clone App Scalable for International Markets?",
-    "desc": "<p>Building a ride-hailing platform for one city is relatively straightforward compared with taking the same product into multiple countries",
-    "link": "https://dev.to/nativeclusters_b695bf2918/what-makes-a-lyft-clone-app-scalable-for-international-markets-1hab",
+    "link": "https://dev.to/priya_sharma_ca800e6e6a0a/top-10-agentic-ai-companies-to-watch-in-2026-39ob",
     "topic": "general"
   }
 ]
