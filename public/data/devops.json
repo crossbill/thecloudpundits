@@ -1,50 +1,50 @@
 [
   {
-    "title": "From 100,492 Hits to 3 in Two Clicks \u2014 Drill-down Search for Huge Local Files",
-    "desc": "<p><a href=\"https://uvp.y42u.net/en/pro-en/\" rel=\"noopener noreferrer\">UwView Pro</a> just gained <strong>Drill-down Search</strong>: refine",
-    "link": "https://dev.to/amru195704/from-100492-hits-to-3-in-two-clicks-drill-down-search-for-huge-local-files-5644",
+    "title": "Why standard HTTP clients get blocked by anti-bot systems and how TLS fingerprinting works",
+    "desc": "<p>If you have ever written a web scraper using Python <code>requests</code>, <code>urllib3</code>, or <code>aiohttp</code>, you have likely",
+    "link": "https://dev.to/messora/why-standard-http-clients-get-blocked-by-anti-bot-systems-and-how-tls-fingerprinting-works-3bkb",
     "topic": "general"
   },
   {
-    "title": "DigitalOcean App Platform vs Peon: Managed PaaS or Your Own Droplet?",
-    "desc": "<p>DigitalOcean App Platform is a metered system charged by app; Peon provisions limitless services to your existing Droplet. A practical pr",
-    "link": "https://dev.to/peon_sh/digitalocean-app-platform-vs-peon-managed-paas-or-your-own-droplet-3c29",
+    "title": "Signs Your Engineering Team Needs DevOps Help",
+    "desc": "<h2>\n  \n  \n  Signs Your Engineering Team Needs DevOps Help\n</h2>\n\n<p>Most teams do not decide one morning that they have a DevOps problem. I",
+    "link": "https://dev.to/instadevops/signs-your-engineering-team-needs-devops-help-35fg",
     "topic": "general"
   },
   {
-    "title": "Five Mental Models From the Data Center that are Breaking Your Cloud Security",
-    "desc": "<p>We kept our titles when we moved to the cloud. Security Analyst. Network Engineer. SysAdmin. The titles stayed. The physics changed. Ever",
-    "link": "https://dev.to/bala_paranj_059d338e44e7e/five-mental-models-from-the-data-center-that-are-breaking-your-cloud-security-4cli",
-    "topic": "secops"
-  },
-  {
-    "title": "Docker in Production: What Changes When Containers Meet Reality?",
-    "desc": "<blockquote>\n<p><em><strong>post 8:</strong></em></p>\n</blockquote>\n\n<p>You run a container.</p>\n\n<p>It starts successfully.</p>\n\n<p>The app",
-    "link": "https://dev.to/sreekanth_kuruba_91721e5d/docker-in-production-what-changes-when-containers-meet-reality-1bmm",
-    "topic": "docker"
-  },
-  {
-    "title": "HTTP Cron Scheduling vs. Heartbeat Monitoring: Two Different Reliability Models",
-    "desc": "<p>An external HTTP scheduler and a heartbeat monitor solve different reliability problems. This guide explains how to choose the right mode",
-    "link": "https://dev.to/cronpulser/http-cron-scheduling-vs-heartbeat-monitoring-two-different-reliability-models-22nl",
+    "title": "Dev Log: 25 August 2026 \u2014 Silent Failures, Double Counting, and Constraints You Can't Defend",
+    "desc": "<p>Four repos moved today. One is public and got its own post; the rest were private work, so what follows is the reasoning and the patterns",
+    "link": "https://dev.to/nasrulhazim/dev-log-25-august-2026-silent-failures-double-counting-and-constraints-you-cant-defend-acn",
     "topic": "general"
   },
   {
-    "title": "AI Development Solutions: From Business Problems to Production-Ready AI Systems",
-    "desc": "<h1>\n  \n  \n  AI Development Solutions: From Business Problems to Production-Ready AI Systems\n</h1>\n\n<p>Artificial intelligence has moved bey",
-    "link": "https://dev.to/kangaroosoftware/ai-development-solutions-from-business-problems-to-production-ready-ai-systems-2egn",
+    "title": "Random Timer For Beginners: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/random-timer-for-beginners-what-we-learned-building-random-tactical-timer-mbl",
     "topic": "general"
   },
   {
-    "title": "The Authorization Was Legitimate. Nobody Watched What Happened Next.",
-    "desc": "<p>A session control gap \u2014 not a broken identity control \u2014 is why approximately 5.67 million Qantas customer records were compromised. No pa",
-    "link": "https://dev.to/ntctech/the-authorization-was-legitimate-nobody-watched-what-happened-next-3214",
+    "title": "Dev Log: 2026-08-24 \u2014 Everything That Only Breaks in Production",
+    "desc": "<p><strong>TL;DR</strong> \u2014 Forty-one commits across six repositories and almost all of them share one shape: <strong>code that is correct o",
+    "link": "https://dev.to/nasrulhazim/dev-log-2026-08-24-everything-that-only-breaks-in-production-2e55",
     "topic": "general"
   },
   {
-    "title": "Alibaba Cloud RDS: A Developer's Guide to Managed Databases",
-    "desc": "<h1>\n  \n  \n  Alibaba Cloud RDS: A Developer's Guide to Managed Databases\n</h1>\n\n<p>Managing databases is hard. <strong>Alibaba Cloud Relatio",
-    "link": "https://dev.to/fan_li_ee7d84c6203253d041/alibaba-cloud-rds-a-developers-guide-to-managed-databases-34do",
+    "title": "Fail at Step 1, Not Step 14: Preflight Checks for Long Pipelines",
+    "desc": "<p><strong>TL;DR</strong> \u2014 I spent today running a provisioning pipeline against a fresh OS family for the first time, and most of what bro",
+    "link": "https://dev.to/nasrulhazim/fail-at-step-1-not-step-14-preflight-checks-for-long-pipelines-4inf",
+    "topic": "general"
+  },
+  {
+    "title": "Dev Log: 2026-08-23 \u2014 Preflight Gates, a Second OS Family, and a Chess Engine Behind FFI",
+    "desc": "<p><strong>TL;DR</strong> \u2014 A long day across a deployment platform and a brand-new mobile app. Two themes kept resurfacing: <strong>an abst",
+    "link": "https://dev.to/nasrulhazim/dev-log-2026-08-23-preflight-gates-a-second-os-family-and-a-chess-engine-behind-ffi-2ahp",
+    "topic": "general"
+  },
+  {
+    "title": "Your OS Abstraction Isn't Real Until the Second Family Boots",
+    "desc": "<p><strong>TL;DR</strong> \u2014 I have an <code>OsProfileContract</code> with a Debian implementation that's been happily provisioning machines ",
+    "link": "https://dev.to/nasrulhazim/your-os-abstraction-isnt-real-until-the-second-family-boots-lep",
     "topic": "general"
   }
 ]

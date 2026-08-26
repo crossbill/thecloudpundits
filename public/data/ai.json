@@ -1,5 +1,11 @@
 [
   {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "desc": "",
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "topic": "general"
+  },
+  {
     "title": "Granite 4.2 LLMs: How They're Built",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
@@ -39,12 +45,6 @@
     "title": "How Much Memory Does Your Agent Actually Need?",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "topic": "general"
-  },
-  {
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "desc": "",
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
     "topic": "general"
   }
 ]
