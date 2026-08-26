@@ -1,5 +1,17 @@
 [
   {
+    "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
+    "desc": "<p>The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "The MFA Identity Trap: When Authentication Creates a False Sense of Security",
+    "desc": "<p>Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attack",
+    "link": "https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/",
+    "topic": "secops"
+  },
+  {
     "title": "Chrome 152 Patches Over 300 Vulnerabilities",
     "desc": "<p>Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities.</p>\n<p>The",
     "link": "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
@@ -34,17 +46,5 @@
     "desc": "<p>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin.</p>\n<p>The post",
     "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
     "topic": "general"
-  },
-  {
-    "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
-    "desc": "<p>When Android users get a call from a non-contact, they will see more information about the caller, including their country.</p>\n<p>The po",
-    "link": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
-    "topic": "secops"
-  },
-  {
-    "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
-    "desc": "<p>Hands-on Cyber Attack Methods course returns to SecurityWeek\u2019s ICS Cybersecurity Conference, October 6\u20138 at the W Nashville.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
-    "topic": "secops"
   }
 ]

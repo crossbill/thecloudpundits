@@ -1,50 +1,50 @@
 [
   {
-    "title": "The 5 Observability Gaps in 11 of 12 Solo Founder AI Agents (And How to Fix Them in One Night)",
-    "desc": "<h1>\n  \n  \n  The 5 Observability Gaps in 11 of 12 Solo Founder AI Agents\n</h1>\n\n<p>When 12 solo founders audit their production agents, 11 h",
-    "link": "https://dev.to/bizzai-1/the-5-observability-gaps-in-11-of-12-solo-founder-ai-agents-and-how-to-fix-them-in-one-night-4bi3",
+    "title": "Pairing on a Flaky Free-LLM Pipeline: Three Dead Ends and the Decision That Survived",
+    "desc": "<h1>\n  \n  \n  Pairing on a Flaky Free-LLM Pipeline: Three Dead Ends and the Decision That Survived\n</h1>\n\n<p>A three-hour pairing session on ",
+    "link": "https://dev.to/codehub_1304/pairing-on-a-flaky-free-llm-pipeline-three-dead-ends-and-the-decision-that-survived-48h9",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent Orchestration Is Silent Failing: The Coordination Drift Pattern",
-    "desc": "<h1>\n  \n  \n  Your AI Agent Orchestration Is Silent Failing: The Coordination Drift Pattern\n</h1>\n\n<p>You deployed 5+ agents. Monitoring dash",
-    "link": "https://dev.to/bizzai-1/your-ai-agent-orchestration-is-silent-failing-the-coordination-drift-pattern-14l9",
+    "title": "Biodegradable Stents Market Growth, Demand & Industry Outlook 2034",
+    "desc": "<p>The biodegradable stents market is experiencing substantial growth as healthcare providers increasingly adopt advanced cardiovascular tre",
+    "link": "https://dev.to/kapil_kazade_dce3a246e641/biodegradable-stents-market-growth-demand-industry-outlook-2034-1m6f",
     "topic": "general"
   },
   {
-    "title": "How Many Builds Can Run at Once on One VPS",
-    "desc": "<p>The number is not a property of your deployment tool. It is your server's available memory divided by what one build takes at its peak, a",
-    "link": "https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6",
+    "title": "When Free Is the Wrong Price: A Field Guide for LLM Free Tiers",
+    "desc": "<p>The cheapest LLM call is the one you never make. The second cheapest is the one you can re-run for free. Everything else carries a hidden",
+    "link": "https://dev.to/aiio_6471/when-free-is-the-wrong-price-a-field-guide-for-llm-free-tiers-5hna",
     "topic": "general"
   },
   {
-    "title": "A Real Deployment Exposed Two Contract Defects Before I Froze the Contract",
-    "desc": "<p>A green CI run does not prove that the artifact built from reviewed source matches what production later exposes.</p>\n\n<p>The build job m",
-    "link": "https://dev.to/shikiyusuke/a-real-deployment-exposed-two-contract-defects-before-i-froze-the-contract-2pao",
+    "title": "Catch Prompt Regressions Before Users Do: A Free-Tier Harness",
+    "desc": "<p>Last week I changed one line in a system prompt. The demo looked great. Then a support ticket arrived: the bot started refusing valid req",
+    "link": "https://dev.to/techlab_7968/catch-prompt-regressions-before-users-do-a-free-tier-harness-5gnn",
     "topic": "general"
   },
   {
-    "title": "Building Performance Budgets Into Git",
-    "desc": "<p>Performance gets worse and worse as patches are added. None of the specific PRs contribute 200ms of latency, one contributes 3ms, another",
-    "link": "https://dev.to/meroline_lizlent/building-performance-budgets-into-git-2onf",
+    "title": "Postmortem: The Free AI Server That Passed Every Test, Then Failed at 02:14",
+    "desc": "<p>A model can pass every functional test and still break your pipeline. The postmortem below is a composite reconstruction. It represents a",
+    "link": "https://dev.to/bytepro_1774/postmortem-the-free-ai-server-that-passed-every-test-then-failed-at-0214-58f",
     "topic": "general"
   },
   {
-    "title": "A Real Experiment at the Edge of Trust",
-    "desc": "<p><em>How ten months of AI-assisted Linux administration gradually turned copy-paste advice into direct access to a real server.</em></p>\n\n",
-    "link": "https://dev.to/drdolitle1/a-real-experiment-at-the-edge-of-trust-576a",
+    "title": "An AI Review Gate That Doesn't Flake: Hooks, Fixtures, and a Green-to-Merge Path",
+    "desc": "<p>An AI review agent in CI is only worth the trouble if it fails loudly, flakes rarely, and never blocks a merge on vibes. This article wal",
+    "link": "https://dev.to/codego_3211/an-ai-review-gate-that-doesnt-flake-hooks-fixtures-and-a-green-to-merge-path-2l87",
     "topic": "general"
   },
   {
-    "title": "The Logging Awakens: Monitoring Like a Jedi",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>Honestly, I still remember the night our production app started throwing 500 errors like",
-    "link": "https://dev.to/timevolt/the-logging-awakens-monitoring-like-a-jedi-4f1j",
+    "title": "What is Site Reliability Engineering?",
+    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> SRE means running operations like a software problem. You leave understanding the discipline, its ",
+    "link": "https://dev.to/sri2614/what-is-site-reliability-engineering-4c8",
     "topic": "general"
   },
   {
-    "title": "I Read 25 Release Pipelines Looking for One Bug. Four Had It.",
-    "desc": "<p>There is one line of YAML I have been chasing across open source for months:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre c",
-    "link": "https://dev.to/wahib_el_khadiri_0/i-read-25-release-pipelines-looking-for-one-bug-four-had-it-3n9e",
+    "title": "Free Tokens, Real Queues: Measure What Your LLM Calls Actually Cost",
+    "desc": "<p>Free tokens are not free. They are a queue you join with your time, your retries, and your patience. Before you route any real workload t",
+    "link": "https://dev.to/hackrs_3352/free-tokens-real-queues-measure-what-your-llm-calls-actually-cost-1k4i",
     "topic": "general"
   }
 ]
