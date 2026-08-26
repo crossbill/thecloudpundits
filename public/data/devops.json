@@ -1,50 +1,50 @@
 [
   {
-    "title": "How I Cut a 41-Minute CI Pipeline to 9 Minutes With Claude Code",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>Our CI pipeline took 41 minutes per push, so nobody pushed small commits anymore. I spent two afternoons with C",
-    "link": "https://dev.to/yureki_lab/how-i-cut-a-41-minute-ci-pipeline-to-9-minutes-with-claude-code-3p1o",
-    "topic": "anthropic"
+    "title": "Dockerizing My First App: A Quest Inspired by The Matrix",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \"Why\")\n</h2>\n\n<p>I still remember the day I tried to show a friend my shiny new Node.js API on his laptop",
+    "link": "https://dev.to/timevolt/dockerizing-my-first-app-a-quest-inspired-by-the-matrix-2a1o",
+    "topic": "docker"
   },
   {
-    "title": "DuckLabs se une a AWS: DuckDB seguir\u00e1 siendo MIT y gratis",
-    "desc": "<p>DuckLabs, la empresa detr\u00e1s del motor de base de datos DuckDB, anunci\u00f3 el 26 de agosto de 2026 que se unir\u00e1 a Amazon Web Services (AWS) a",
-    "link": "https://dev.to/lu1tr0n/ducklabs-se-une-a-aws-duckdb-seguira-siendo-mit-y-gratis-256f",
-    "topic": "aws"
-  },
-  {
-    "title": "Monitor Your Server Health with Python and Telegram",
-    "desc": "<h1>\n  \n  \n  Monitor Your Server Health with Python and Telegram\n</h1>\n\n<p>tags: python, devops, monitoring, telegram</p>\n\n\n\n\n<p>tags: pytho",
-    "link": "https://dev.to/qingluan/monitor-your-server-health-with-python-and-telegram-18aj",
+    "title": "Build a GitHub Actions Bot That Pays You",
+    "desc": "<h1>\n  \n  \n  Build a GitHub Actions Bot That Pays You\n</h1>\n\n<p>tags: github, automation, money, devops</p>\n\n\n\n\n<p>tags: github, automation,",
+    "link": "https://dev.to/qingluan/build-a-github-actions-bot-that-pays-you-416l",
     "topic": "general"
   },
   {
-    "title": "Mastering Local LLM Hosting on Apple Silicon with oMLX and Secure Remote Access",
-    "desc": "<h1>\n  \n  \n  Unleashing the Power of Local LLMs on Apple Silicon\n</h1>\n\n<p>For developers working on macOS, the landscape of local inference",
-    "link": "https://dev.to/lightningdev123/mastering-local-llm-hosting-on-apple-silicon-with-omlx-and-secure-remote-access-ni1",
+    "title": "Ten Minutes or Nobody Reads the Result",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/jam-techcirkle/ten-minutes-or-nobody-reads-the-result-561e",
     "topic": "general"
   },
   {
-    "title": "Your Agent Planned the Right Tools. It Still Crashed the Machine.",
-    "desc": "<p>Your agent needs four independent facts before it can approve a refund:</p>\n\n<ol>\n<li>the order record,</li>\n<li>the fraud score,</li>\n<l",
-    "link": "https://dev.to/p0rt/your-agent-planned-the-right-tools-it-still-crashed-the-machine-58hf",
+    "title": "The Engineering Constitution",
+    "desc": "<p><em>Founder Journal #12 \u2014 The Rules AI Agents Must Never Forget</em></p>\n\n<blockquote>\n<p><em>\"A production engineering system needs more",
+    "link": "https://dev.to/bayu911/the-engineering-constitution-2917",
+    "topic": "general"
+  },
+  {
+    "title": "I did Golden Images",
+    "desc": "<h1>\n  \n  \n  Golden Images  How I Stopped Manually Logging Into Every New Server\n</h1>\n\n<h2>\n  \n  \n  The problem\n</h2>\n\n<p>Every time I spun",
+    "link": "https://dev.to/techwithhari/i-did-golden-images-1np8",
+    "topic": "general"
+  },
+  {
+    "title": "Our ECS Fargate Task Was Silently Failing for Days \u2014 Here's Exactly How We Found It",
+    "desc": "<h1>\n  \n  \n  Our ECS Fargate Task Was Silently Failing for Days \u2014 Here's Exactly How We Found It\n</h1>\n\n<blockquote>\n<p>No alarm fired. No S",
+    "link": "https://dev.to/elonerajeev1/our-ecs-fargate-task-was-silently-failing-for-days-heres-exactly-how-we-found-it-ljc",
+    "topic": "general"
+  },
+  {
+    "title": "Integration Guard: Safely Merging Parallel Concurrent AI Agents from Git Worktrees into Main",
+    "desc": "<p>Modern coding-agent workflows often run several agents in parallel. Each<br />\n  agent works in its own Git worktree and branch, while al",
+    "link": "https://dev.to/evertonkozloski/integration-guard-safely-merging-parallel-concurrent-ai-agents-from-git-worktrees-into-main-4l7m",
     "topic": "general"
   },
   {
     "title": "Why standard HTTP clients get blocked by anti-bot systems and how TLS fingerprinting works",
     "desc": "<p>If you have ever written a web scraper using Python <code>requests</code>, <code>urllib3</code>, or <code>aiohttp</code>, you have likely",
-    "link": "https://dev.to/messora/why-standard-http-clients-get-blocked-by-anti-bot-systems-and-how-tls-fingerprinting-works-3bkb",
-    "topic": "general"
-  },
-  {
-    "title": "Signs Your Engineering Team Needs DevOps Help",
-    "desc": "<h2>\n  \n  \n  Signs Your Engineering Team Needs DevOps Help\n</h2>\n\n<p>Most teams do not decide one morning that they have a DevOps problem. I",
-    "link": "https://dev.to/instadevops/signs-your-engineering-team-needs-devops-help-35fg",
-    "topic": "general"
-  },
-  {
-    "title": "Dev Log: 25 August 2026 \u2014 Silent Failures, Double Counting, and Constraints You Can't Defend",
-    "desc": "<p>Four repos moved today. One is public and got its own post; the rest were private work, so what follows is the reasoning and the patterns",
-    "link": "https://dev.to/nasrulhazim/dev-log-25-august-2026-silent-failures-double-counting-and-constraints-you-cant-defend-acn",
+    "link": "https://dev.to/messora/why-standard-http-clients-get-blocked-by-anti-bot-systems-and-how-tls-fingerprinting-works-27el",
     "topic": "general"
   }
 ]
