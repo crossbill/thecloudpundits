@@ -1,50 +1,50 @@
 [
   {
-    "title": "Our Post-Mortem Was So Good We Never Fixed the Bug",
-    "desc": "<p><em>A brilliant investigation and a perfunctory one converge on the same three weak fixes. The analysis explains the last failure. Only t",
-    "link": "https://dev.to/vibeagentmaking/our-post-mortem-was-so-good-we-never-fixed-the-bug-2cff",
+    "title": "Embedded Software Engineering vs. DevOps: Navigating Specialization for Remote Senior-Level Growth",
+    "desc": "<h2>\n  \n  \n  Introduction: The Crossroads of DevOps and Embedded Engineering\n</h2>\n\n<p>Imagine you\u2019re an engineer with one foot in the hardw",
+    "link": "https://dev.to/maricode/embedded-software-engineering-vs-devops-navigating-specialization-for-remote-senior-level-growth-4c50",
     "topic": "general"
   },
   {
-    "title": "MCP Security in 2026: Why AI Agents Are Creating a New Attack Surface",
-    "desc": "<p><strong>AI agents are getting access to more tools, more data, and more systems. The security problem isn't the AI anymore. It's everythi",
-    "link": "https://dev.to/anuragseceon/mcp-security-in-2026-why-ai-agents-are-creating-a-new-attack-surface-4g8n",
-    "topic": "secops"
-  },
-  {
-    "title": "Loki Retention Tuning: 7 Fixes for Runaway Log Storage Costs",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/26/loki-retention-tuning-7-fixes-for-runaway-log-storage-costs\" rel=\"",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/loki-retention-tuning-7-fixes-for-runaway-log-storage-costs-3c2o",
+    "title": "SQLazy: Search for Adjacent Records at a Specified Offset Within Groups",
+    "desc": "<h2>\n  \n  \n  Problem Description\n</h2>\n\n<p>In a table, ProductionLine_Number is the grouping field, and within each group records are sorted",
+    "link": "https://dev.to/esproc_spl/sqlazy-search-for-adjacent-records-at-a-specified-offset-within-groups-2m3i",
     "topic": "general"
   },
   {
-    "title": "Best LLM Gateways for Coding Agents in 2026",
+    "title": "Automating Kubernetes Pod Scaling Issues: Best Practices & Scripts",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Scaling pods automatically is essential for modern cloud\u2011native applications. In this guide we explore t",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/automating-kubernetes-pod-scaling-issues-best-practices-scripts-21o4",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "How to Scale a Python App to Handle 1 Million Requests",
+    "desc": "<h1>\n  \n  \n  How to Scale a Python App to Handle 1 Million Requests\n</h1>\n\n<p>tags: python, scaling, performance, devops</p>\n\n\n\n\n<p>tags: py",
+    "link": "https://dev.to/qingluan/how-to-scale-a-python-app-to-handle-1-million-requests-4g7h",
+    "topic": "general"
+  },
+  {
+    "title": "Logging for LLM Apps: What to Capture and What to Redact",
+    "desc": "<p>Log every LLM call as one structured event: prompt version, model id, sampling settings, token counts, time to first token and total late",
+    "link": "https://dev.to/sagar_jain4010/logging-for-llm-apps-what-to-capture-and-what-to-redact-4e3m",
+    "topic": "general"
+  },
+  {
+    "title": "I Said Deploy and My AI Did the Rest",
+    "desc": "<p>Sometimes the best way to learn is from mistakes - even when they are made by an AI.</p>\n\n<p>Last week, my AI assistant confidently refac",
+    "link": "https://dev.to/archantech/i-said-deploy-and-my-ai-did-the-rest-4dom",
+    "topic": "general"
+  },
+  {
+    "title": "From Audit Log to AI Governance Platform. How Chron Is Closing the Gap",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/best-llm-gateways-for-coding-agents-in-2026-31nl",
-    "topic": "general"
+    "link": "https://dev.to/sirinivask/from-audit-log-to-ai-governance-platform-how-chron-is-closing-the-gap-16m4",
+    "topic": "guardrails"
   },
   {
-    "title": "Top 5 Tools to Audit AI Agent Activity & Usage",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/top-5-tools-to-audit-ai-agent-activity-usage-1ofe",
-    "topic": "general"
-  },
-  {
-    "title": "Building an AI Engineering Observability Platform for Test Automation",
-    "desc": "<p><strong>Building an AI Engineering Observability Platform for Test Automation</strong></p>\n\n<p>Tracking static productivity percentages (",
-    "link": "https://dev.to/she11_qa/building-an-ai-engineering-observability-platform-for-test-automation-31em",
-    "topic": "general"
-  },
-  {
-    "title": "Top 10 Thirty Bees to WooCommerce Migration Companies",
-    "desc": "<p><em>You've got a Thirty Bees system but you're stuck with a limited ecosystem and expensive custom development. Time to migrate to WooCom",
-    "link": "https://dev.to/oliverpitts/top-10-thirty-bees-to-woocommerce-migration-companies-i44",
-    "topic": "general"
-  },
-  {
-    "title": "Top 5 AI Gateway Control Planes for Enterprise AI Infrastructure",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/top-5-ai-gateway-control-planes-for-enterprise-ai-infrastructure-1dn4",
+    "title": "What Makes a Lyft Clone App Scalable for International Markets?",
+    "desc": "<p>Building a ride-hailing platform for one city is relatively straightforward compared with taking the same product into multiple countries",
+    "link": "https://dev.to/nativeclusters_b695bf2918/what-makes-a-lyft-clone-app-scalable-for-international-markets-1hab",
     "topic": "general"
   }
 ]
