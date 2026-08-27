@@ -1,50 +1,50 @@
 [
   {
-    "title": "The On-Call Handoff That Prevents Dropped Incidents",
-    "desc": "<h2>\n  \n  \n  The Monday Morning Disaster\n</h2>\n\n<p>Every Monday, the same story: the incoming on-call engineer has no idea what happened ove",
-    "link": "https://dev.to/samson_tanimawo/the-on-call-handoff-that-prevents-dropped-incidents-22c9",
-    "topic": "secops"
-  },
-  {
-    "title": "Python Logging: Best Practices for Production Apps",
-    "desc": "<h1>\n  \n  \n  Python Logging: Best Practices for Production Apps\n</h1>\n\n<p>tags: python, logging, devops, tutorial</p>\n\n\n\n\n<p>tags: python, l",
-    "link": "https://dev.to/qingluan/python-logging-best-practices-for-production-apps-1ipl",
+    "title": "I Turned 22 Solopreneur Tools Into One $199 Bundle (and Why You Shouldn't Buy Them Separately)",
+    "desc": "<p>If you run a small business, a freelance practice, or an indie product alone, you already know the pattern: you buy one tool for invoicin",
+    "link": "https://dev.to/agentchip/i-turned-22-solopreneur-tools-into-one-199-bundle-and-why-you-shouldnt-buy-them-separately-2dgn",
     "topic": "general"
   },
   {
-    "title": "How to Deploy Python Apps with Docker Compose",
-    "desc": "<h1>\n  \n  \n  How to Deploy Python Apps with Docker Compose\n</h1>\n\n<p>tags: python, docker, devops, tutorial</p>\n\n\n\n\n<p>tags: python, docker,",
-    "link": "https://dev.to/qingluan/how-to-deploy-python-apps-with-docker-compose-480",
-    "topic": "docker"
-  },
-  {
-    "title": "A Free-Tier Docs Drafting Pipeline: Model Writes the First Pass, Humans Sign the Contract",
-    "desc": "<p>Documentation quality degrades for a structural reason, not a model reason: teams treat generation as one prompt instead of a pipeline wi",
-    "link": "https://dev.to/github_7727/a-free-tier-docs-drafting-pipeline-model-writes-the-first-pass-humans-sign-the-contract-24m5",
+    "title": "The Agent Patch Test Budget: Spend CI Minutes Where They Catch Faults",
+    "desc": "<p>Agent-generated patches have a strange property: the cheaper they are to produce, the more expensive they are to validate. Once generatio",
+    "link": "https://dev.to/datacpp_8185/the-agent-patch-test-budget-spend-ci-minutes-where-they-catch-faults-3fm",
     "topic": "general"
   },
   {
-    "title": "Meet Watchdog: A Small, Safe Bash Watchdog for Linux Services",
-    "desc": "<p>A service does not have to be large to become operationally important. A small API behind a reverse proxy, a background worker on a virtu",
-    "link": "https://dev.to/tigusigalpa/meet-watchdog-a-small-safe-bash-watchdog-for-linux-services-hl3",
+    "title": "User Experiences and Discussions in WLOADCTL",
+    "desc": "<p><strong>Q: How do I activate the product in a completely offline internal network?</strong></p>\n\n<p><strong>A:</strong> The product uses ",
+    "link": "https://dev.to/weeli_632477a9c141395/user-experiences-and-discussions-in-wloadctl-8kb",
     "topic": "general"
   },
   {
-    "title": "Blue-green deployment that left the old environment running for weeks, doubling infrastructure cost",
-    "desc": "<p>The deploy worked. The bill doubled.</p>\n\n<p>The blue-green cutover went perfectly. Traffic shifted to green, health checks passed, the t",
-    "link": "https://dev.to/iusmanq/blue-green-deployment-that-left-the-old-environment-running-for-weeks-doubling-infrastructure-cost-25db",
+    "title": "Support Report Email Scheduling: A Cron Service and Public Express Webhook Runbook",
+    "desc": "<p>\"# Support Report Email Scheduling: A Cron Service and Public Express Webhook Runbook</p>\n\n<p>Short answer: for a small customer-support ",
+    "link": "https://dev.to/seraphinalyn7139/support-report-email-scheduling-a-cron-service-and-public-express-webhook-runbook-c8p",
     "topic": "general"
   },
   {
-    "title": "How to Troubleshoot High CPU Loads on Linux",
-    "desc": "<p>High CPU usage on a Linux server does not always mean the server simply needs more CPU. Sustained CPU load can be caused by an applicatio",
-    "link": "https://dev.to/iserversupport/how-to-troubleshoot-high-cpu-loads-on-linux-1g7l",
+    "title": "Your AI Reviewer Is Untested: A 10-Bug Calibration Harness on a Free Server",
+    "desc": "<p>This week's loudest DEV discussion: AI promoted every developer to reviewer. The uncomfortable follow-up: nobody tested the reviewer. Thi",
+    "link": "https://dev.to/devgo_7763/your-ai-reviewer-is-untested-a-10-bug-calibration-harness-on-a-free-server-46op",
     "topic": "general"
   },
   {
-    "title": "Day 32: Rebase Replays Your Commits, and a Restore Inherits Everything You Don't Override",
-    "desc": "<p>Today's two tasks are both about a new base. A feature branch that needs to sit on top of a master that has moved. A database instance th",
-    "link": "https://dev.to/ndcodes/day-32-rebase-replays-your-commits-and-a-restore-inherits-everything-you-dont-override-5aik",
+    "title": "Scroll Endpoint: Chain Settings, RPC URL, and Best Practices",
+    "desc": "<h2>\n  \n  \n  Quick Recommendation: Which Scroll Endpoint Should You Use?\n</h2>\n\n<p>If you're building a dApp, running a backend service, or ",
+    "link": "https://dev.to/onfinality/scroll-endpoint-chain-settings-rpc-url-and-best-practices-1f5j",
+    "topic": "general"
+  },
+  {
+    "title": "SORA API: RPC Endpoints, Methods, and Provider Selection",
+    "desc": "<h2>\n  \n  \n  Quick decision guide: which SORA endpoint should you use?\n</h2>\n\n<p>Before you write any code, decide which SORA API endpoint f",
+    "link": "https://dev.to/onfinality/sora-api-rpc-endpoints-methods-and-provider-selection-4ko7",
+    "topic": "general"
+  },
+  {
+    "title": "Starknet Node: Run Your Own or Use a Managed RPC?",
+    "desc": "<h2>\n  \n  \n  Quick decision: run your own Starknet node or use a managed RPC?\n</h2>\n\n<p>Before diving into node architecture, decide what yo",
+    "link": "https://dev.to/onfinality/starknet-node-run-your-own-or-use-a-managed-rpc-2hkl",
     "topic": "general"
   }
 ]
