@@ -1,50 +1,50 @@
 [
   {
-    "title": "Nvidia Just Agreed to Buy Hugging Face for $12.9 Billion. Here's What Java Developers Should Actually Do",
-    "desc": "<p>I was halfway through a pull request review this morning when my feed lit up. Nvidia has agreed to buy Hugging Face for $12.9 billion, ac",
-    "link": "https://dev.to/jamilxt/nvidia-just-agreed-to-buy-hugging-face-for-129-billion-heres-what-java-developers-should-1f43",
-    "topic": "huggingface"
-  },
-  {
-    "title": "I Built a CLI to Answer One Question: What Will This Change Break?",
-    "desc": "<p>We've all been there.</p>\n\n<p>You open a repository, change a file that looks completely harmless, run the tests, and open a pull request",
-    "link": "https://dev.to/albz/i-built-a-cli-to-answer-one-question-what-will-this-change-break-114o",
+    "title": "Why Your DKIM Keys Break Email Deliverability: 5 DNS and Cryptography Traps Every Engineer Hits",
+    "desc": "<p>DomainKeys Identified Mail (DKIM), standardized in <a href=\"https://datatracker.ietf.org/doc/html/rfc6376\" rel=\"noopener noreferrer\">RFC ",
+    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-dkim-keys-break-email-deliverability-5-dns-and-cryptography-traps-every-engineer-hits-anh",
     "topic": "general"
   },
   {
-    "title": "We shipped two context-engineering features in one afternoon. We reverted them by dinner.",
-    "desc": "<p><em>On 2026-08-22 the agent harness I work on shipped two \"smarter context\" features within five hours of each other. Both were reverted ",
-    "link": "https://dev.to/pm25coder/we-shipped-two-context-engineering-features-in-one-afternoon-we-reverted-them-by-dinner-jdk",
+    "title": "# Software Ate the World. Now the World Is Running on It.",
+    "desc": "<p>In 2011, Marc Andreessen published a sentence that would become almost a description of the technological era that followed: <em>software",
+    "link": "https://dev.to/t474r0b07/-software-ate-the-world-now-the-world-is-running-on-it-1a6a",
     "topic": "general"
   },
   {
-    "title": "Build a System Monitor Dashboard with Python",
-    "desc": "<h1>\n  \n  \n  Build a System Monitor Dashboard with Python\n</h1>\n\n<p>tags: python, devops, monitoring, tutorial</p>\n\n\n\n\n<p>tags: python, devo",
-    "link": "https://dev.to/qingluan/build-a-system-monitor-dashboard-with-python-2nj2",
+    "title": "Why Your HSTS Configuration Breaks Production: 5 Strict-Transport-Security Traps Every Engineer Hits",
+    "desc": "<p>HTTP Strict Transport Security (HSTS) is one of the most effective defenses against SSL-stripping attacks and accidental plaintext cookie",
+    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-hsts-configuration-breaks-production-5-strict-transport-security-traps-every-engineer-hits-2ecl",
+    "topic": "secops"
+  },
+  {
+    "title": "Real\u2011Time KPI Dashboard, Priority\u2011Action Strip & Docker Healthcheck Fix in a Vite\u2011React / NestJS Monorepo",
+    "desc": "<h1>\n  \n  \n  Real\u2011Time KPI Dashboard, Priority\u2011Action Strip & Docker Healthcheck Fix in a Vite\u2011React / NestJS Monorepo\n</h1>\n\n<p><strong>TL;",
+    "link": "https://dev.to/zaerohell/real-time-kpi-dashboard-priority-action-strip-docker-healthcheck-fix-in-a-vite-react-nestjs-42lf",
+    "topic": "docker"
+  },
+  {
+    "title": "Building Reliable Developer Platforms with Offshore Teams: What Actually Works and What Fails",
+    "desc": "<p>Platform engineering has transitioned from industry hype into a legitimate operational investment. The 2024 State of Internal Developer P",
+    "link": "https://dev.to/offshoredev/building-reliable-developer-platforms-with-offshore-teams-what-actually-works-and-what-fails-4f38",
     "topic": "general"
   },
   {
-    "title": "How to Host OpenClaw for Multiple Clients in Production",
-    "desc": "<p>The first OpenClaw deployment is usually straightforward.</p>\n\n<p>You provision a machine, configure one agent, connect a few tools, and ",
-    "link": "https://dev.to/moltednet/how-to-host-openclaw-for-multiple-clients-in-production-51oc",
+    "title": "Why Your SSL/TLS Certificate Auto-Renewal Failed: 5 CAA DNS Record Traps Every Engineer Hits",
+    "desc": "<p>Few production incidents are as frustrating as waking up to expired SSL/TLS certificates while automated Certbot or AWS ACM renewal logs ",
+    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-ssltls-certificate-auto-renewal-failed-5-caa-dns-record-traps-every-engineer-hits-2ec1",
     "topic": "general"
   },
   {
-    "title": "How Do Agile and DevOps Interrelate? (2026 Guide)",
-    "desc": "<p>If your development team is shipping code in weekly Agile sprints, but your operations team takes a month to deploy it, your Agile proces",
-    "link": "https://dev.to/kiran_sonawane/how-do-agile-and-devops-interrelate-2026-guide-4fo5",
+    "title": "Self-Hosted DNS Ad-Blocking in 2026: Pi-hole vs AdGuard Home vs Blocky (Escape Pi-Hole's Limits)",
+    "desc": "<h1>\n  \n  \n  Self-Hosted DNS Ad-Blocking in 2026: Pi-hole vs AdGuard Home vs Blocky\n</h1>\n\n<p>Every device in your home \u2014 phones, smart TVs,",
+    "link": "https://dev.to/enfernandes/self-hosted-dns-ad-blocking-in-2026-pi-hole-vs-adguard-home-vs-blocky-escape-pi-holes-limits-17ci",
     "topic": "general"
   },
   {
-    "title": "Claude Code deployed 5 unrelated files, then erased 4 days of work with no backup",
-    "desc": "<p>A developer asked Claude Code to deploy one small, specific fix using a deploy script that covered several of their projects. According t",
-    "link": "https://dev.to/ramdai_bista/claude-code-deployed-5-unrelated-files-then-erased-4-days-of-work-with-no-backup-hhb",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Understanding `dig`: How to Actually Read DNS Query Output",
-    "desc": "<p>If you've ever stared at the output of <code>dig example.com</code> and only understood half of it, you're not alone. <code>dig</code> (D",
-    "link": "https://dev.to/r0men_/understanding-dig-how-to-actually-read-dns-query-output-4bld",
+    "title": "3 Wrong Guesses About a Chrome Slot Limit: 3 6 Reserved Lanes",
+    "desc": "<p>Automation doesn't break when you write it. It breaks in production, weeks later, quietly \u2014 and my Chrome concurrency limit broke three s",
+    "link": "https://dev.to/bokuwalily/3-wrong-guesses-about-a-chrome-slot-limit-3-6-reserved-lanes-2jkj",
     "topic": "general"
   }
 ]
