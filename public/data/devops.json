@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Your DKIM Keys Break Email Deliverability: 5 DNS and Cryptography Traps Every Engineer Hits",
-    "desc": "<p>DomainKeys Identified Mail (DKIM), standardized in <a href=\"https://datatracker.ietf.org/doc/html/rfc6376\" rel=\"noopener noreferrer\">RFC ",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-dkim-keys-break-email-deliverability-5-dns-and-cryptography-traps-every-engineer-hits-anh",
+    "title": "Keep README charts in sync with a small GitHub Action",
+    "desc": "<p>I got tired of updating chart screenshots in READMEs by hand.</p>\n\n<p>Either the numbers were stale, or I\u2019d regenerate an image, commit i",
+    "link": "https://dev.to/provchart/keep-readme-charts-in-sync-with-a-small-github-action-5akc",
     "topic": "general"
   },
   {
-    "title": "# Software Ate the World. Now the World Is Running on It.",
-    "desc": "<p>In 2011, Marc Andreessen published a sentence that would become almost a description of the technological era that followed: <em>software",
-    "link": "https://dev.to/t474r0b07/-software-ate-the-world-now-the-world-is-running-on-it-1a6a",
+    "title": "I Built a Free Cloud With No KYC, No Subscriptions, and No Passports Required 300 PC/month. 22 languages. Godot. Your code is your only signature.",
+    "desc": "<p>The Problem: Launching a Project Shouldn't Cost an Arm and a Leg<br />\nTwo years ago, I wanted to build a simple web app.<br />\nHere's wh",
+    "link": "https://dev.to/henock_agbo/i-built-a-free-cloud-with-no-kyc-no-subscriptions-and-no-passports-required-300-pcmonth-22-3ob7",
     "topic": "general"
   },
   {
-    "title": "Why Your HSTS Configuration Breaks Production: 5 Strict-Transport-Security Traps Every Engineer Hits",
-    "desc": "<p>HTTP Strict Transport Security (HSTS) is one of the most effective defenses against SSL-stripping attacks and accidental plaintext cookie",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-hsts-configuration-breaks-production-5-strict-transport-security-traps-every-engineer-hits-2ecl",
+    "title": "Build a request-group audit trail for AI API billing",
+    "desc": "<h1>\n  \n  \n  Build a request-group audit trail for AI API billing\n</h1>\n\n<p>Most AI API billing bugs are not dramatic. They usually start wi",
+    "link": "https://dev.to/aiwave/build-a-request-group-audit-trail-for-ai-api-billing-4pmi",
+    "topic": "general"
+  },
+  {
+    "title": "Webhook Testing Without ngrok",
+    "desc": "<p>ngrok is great but overkill when you just want to see what Stripe or GitHub is sending. A hosted webhook inspector gives you a URL, a liv",
+    "link": "https://dev.to/yobox/webhook-testing-without-ngrok-58jj",
+    "topic": "general"
+  },
+  {
+    "title": "The Incident Commander Role: Running Incidents Without Chaos",
+    "desc": "<h2>\n  \n  \n  Everyone's Debugging, Nobody's Leading\n</h2>\n\n<p>Five engineers in an incident channel. All debugging independently. Nobody coo",
+    "link": "https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-dd6",
     "topic": "secops"
   },
   {
-    "title": "Real\u2011Time KPI Dashboard, Priority\u2011Action Strip & Docker Healthcheck Fix in a Vite\u2011React / NestJS Monorepo",
-    "desc": "<h1>\n  \n  \n  Real\u2011Time KPI Dashboard, Priority\u2011Action Strip & Docker Healthcheck Fix in a Vite\u2011React / NestJS Monorepo\n</h1>\n\n<p><strong>TL;",
-    "link": "https://dev.to/zaerohell/real-time-kpi-dashboard-priority-action-strip-docker-healthcheck-fix-in-a-vite-react-nestjs-42lf",
-    "topic": "docker"
-  },
-  {
-    "title": "Building Reliable Developer Platforms with Offshore Teams: What Actually Works and What Fails",
-    "desc": "<p>Platform engineering has transitioned from industry hype into a legitimate operational investment. The 2024 State of Internal Developer P",
-    "link": "https://dev.to/offshoredev/building-reliable-developer-platforms-with-offshore-teams-what-actually-works-and-what-fails-4f38",
+    "title": "AI-Driven Workflows: Boosting Developer Productivity Metrics, But At What Cost?",
+    "desc": "<p>In the relentless pursuit of efficiency, modern development teams are increasingly leveraging <a href=\"https://dev.to/posts/trends-news-i",
+    "link": "https://dev.to/devactivity/ai-driven-workflows-boosting-developer-productivity-metrics-but-at-what-cost-2oll",
     "topic": "general"
   },
   {
-    "title": "Why Your SSL/TLS Certificate Auto-Renewal Failed: 5 CAA DNS Record Traps Every Engineer Hits",
-    "desc": "<p>Few production incidents are as frustrating as waking up to expired SSL/TLS certificates while automated Certbot or AWS ACM renewal logs ",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-ssltls-certificate-auto-renewal-failed-5-caa-dns-record-traps-every-engineer-hits-2ec1",
+    "title": "Your .mcp.json probably has a live API key in it",
+    "desc": "<p>Nearly every guide to setting up an MCP server tells you to do this:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"hi",
+    "link": "https://dev.to/wiktormalyska/your-mcpjson-probably-has-a-live-api-key-in-it-4ge5",
     "topic": "general"
   },
   {
-    "title": "Self-Hosted DNS Ad-Blocking in 2026: Pi-hole vs AdGuard Home vs Blocky (Escape Pi-Hole's Limits)",
-    "desc": "<h1>\n  \n  \n  Self-Hosted DNS Ad-Blocking in 2026: Pi-hole vs AdGuard Home vs Blocky\n</h1>\n\n<p>Every device in your home \u2014 phones, smart TVs,",
-    "link": "https://dev.to/enfernandes/self-hosted-dns-ad-blocking-in-2026-pi-hole-vs-adguard-home-vs-blocky-escape-pi-holes-limits-17ci",
-    "topic": "general"
-  },
-  {
-    "title": "3 Wrong Guesses About a Chrome Slot Limit: 3 6 Reserved Lanes",
-    "desc": "<p>Automation doesn't break when you write it. It breaks in production, weeks later, quietly \u2014 and my Chrome concurrency limit broke three s",
-    "link": "https://dev.to/bokuwalily/3-wrong-guesses-about-a-chrome-slot-limit-3-6-reserved-lanes-2jkj",
-    "topic": "general"
+    "title": "How I Slashed a GCP Bill by 80%: The Hidden Trap of the Serverless CPU Toggle",
+    "desc": "<p>How I Slashed My GCP Bill by 80%: The Hidden Trap of the Serverless CPU Toggle</p>\n\n<p>Key Takeaways<br />\n\u2022 The --no-cpu-throttling (CPU",
+    "link": "https://dev.to/vishurizz/how-i-slashed-a-gcp-bill-by-80-the-hidden-trap-of-the-serverless-cpu-toggle-1ohe",
+    "topic": "gcp"
   }
 ]

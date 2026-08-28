@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company\u2019s Own Systems",
+    "desc": "<p>CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents.</p>\n<p",
+    "link": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
+    "topic": "openai"
+  },
+  {
+    "title": "Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge",
+    "desc": "<p>Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated.",
+    "link": "https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/",
+    "topic": "openai"
+  },
+  {
+    "title": "Think You\u2019ve Eliminated Chinese AI? Check the Model\u2019s Lineage, Cisco Says",
+    "desc": "<p>New research shows that country-of-origin labels can obscure an AI model\u2019s upstream dependencies, inherited behaviors and potential secur",
+    "link": "https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/",
+    "topic": "general"
+  },
+  {
+    "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
+    "desc": "<p>A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations.</p>\n<p>The p",
+    "link": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
+    "topic": "general"
+  },
+  {
     "title": "Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear",
     "desc": "<p>The White House\u2019s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns.</p>\n<p>The post <",
     "link": "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/",
@@ -21,30 +45,6 @@
     "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
     "desc": "<p>The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents",
     "link": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/",
-    "topic": "secops"
-  },
-  {
-    "title": "CISO Conversations: Chris Wheeler \u2013 Trust Is the Job, From the Navy to the C-Suite",
-    "desc": "<p>SecurityWeek talks to Chris Wheeler, CISO at Resilience, about his journey from the Navy to becoming a cybersecurity leader.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/",
-    "topic": "general"
-  },
-  {
-    "title": "Cyberattack Causes Global Disruption at Boston Scientific",
-    "desc": "<p>The cybersecurity incident has disrupted Boston Scientific\u2019s ability to process and ship customer orders.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/",
-    "topic": "secops"
-  },
-  {
-    "title": "The Future of AI-Driven Security Depends on Complete Data",
-    "desc": "<p>For twenty-five years, \"data\" in security meant logs and events. But logs are a lossy representation of reality. </p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/",
-    "topic": "secops"
-  },
-  {
-    "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
-    "desc": "<p>The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
     "topic": "secops"
   }
 ]
