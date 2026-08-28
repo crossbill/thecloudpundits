@@ -1,5 +1,17 @@
 [
   {
+    "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
+    "desc": "<p>Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, ",
+    "link": "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
+    "topic": "general"
+  },
+  {
+    "title": "ATF Confirms Cyber Incident After Ransomware Group Claims Attack",
+    "desc": "<p>The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a \u2018major incident\u2019 and it\u2019s conducting an investigation with ",
+    "link": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/",
+    "topic": "secops"
+  },
+  {
     "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company\u2019s Own Systems",
     "desc": "<p>CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents.</p>\n<p",
     "link": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
@@ -34,17 +46,5 @@
     "desc": "<p>Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison.</p>\n<p>The p",
     "link": "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/",
     "topic": "general"
-  },
-  {
-    "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
-    "desc": "<p>New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
-    "topic": "openai"
-  },
-  {
-    "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
-    "desc": "<p>The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents",
-    "link": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/",
-    "topic": "secops"
   }
 ]
