@@ -1,50 +1,50 @@
 [
   {
-    "title": "A 48-Hour Sleep Study on a Free Server Taught Me to Stop Trusting Uptime",
-    "desc": "<p>What does a server do when nobody is calling it, and what happens the moment that changes? I spent 48 hours with a free server, a health ",
-    "link": "https://dev.to/codepy_1473/a-48-hour-sleep-study-on-a-free-server-taught-me-to-stop-trusting-uptime-28bo",
+    "title": "Local Kubernetes Dev \u2014 Part 11: Networking \u2014 reaching your service and Ingress",
+    "desc": "<p>\"I applied an Ingress \u2014 and it doesn't respond. Why?\"</p>\n\n<p>A local Kubernetes classic: you write an Ingress manifest, kubectl apply, o",
+    "link": "https://dev.to/gaberialsofie/local-kubernetes-dev-part-11-networking-reaching-your-service-and-ingress-30pa",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Four pull requests, four full suites, one answer",
+    "desc": "<p>While the project was small, none of this mattered. It grew, and the suite grew with it. A great many tests need a great deal of machine ",
+    "link": "https://dev.to/andrei_petukhov_1dda22c82/four-pull-requests-four-full-suites-one-answer-2j5b",
     "topic": "general"
   },
   {
-    "title": "Nightly Setup Drift: A Free Server and Free Models That Keep Your README Honest",
-    "desc": "<p>Your README is already wrong. Not today, maybe. But a dependency bump changes everything. The setup command stops working. Nobody notices",
-    "link": "https://dev.to/github_7727/nightly-setup-drift-a-free-server-and-free-models-that-keep-your-readme-honest-151a",
+    "title": "I Thought Knowing AWS Was The Goal. I Was Wrong.",
+    "desc": "<p>When I started learning AWS, I had this very simple idea in my head: learn the services, finish the modules, build a few projects, and ev",
+    "link": "https://dev.to/tejas_shinkar/i-thought-knowing-aws-was-the-goal-i-was-wrong-4j6m",
+    "topic": "aws"
+  },
+  {
+    "title": "Managing External Secrets in Docker Swarm",
+    "desc": "<p>I've been working with Docker Swarm secrets and kept running into the same limitation: secrets are immutable.</p>\n\n<p>Once a secret is cr",
+    "link": "https://dev.to/artarts36/managing-external-secrets-in-docker-swarm-1jnl",
+    "topic": "docker"
+  },
+  {
+    "title": "How to Resolve SSL/TLS Certificate Handshake Failures \u2013 A Complete Debugging Guide",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>TLS handshake failures are a common pain point for developers, engineers, and DevOps teams. Whether you'",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-a-complete-debugging-guide-5fge",
     "topic": "general"
   },
   {
-    "title": "Resolve SSL/TLS Certificate Handshake Failures \u2013 Step-by-Step Guide for DevOps & Developers",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>SSL/TLS handshake failures are a common pain point for developers, engineers, and DevOps teams. This gui",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/resolve-ssltls-certificate-handshake-failures-step-by-step-guide-for-devops-developers-5hgc",
+    "title": "Build a Canary Deployment System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Canary Deployment System with Python\n</h1>\n\n<p>tags: python, devops, deployment, tutorial</p>\n\n\n\n\n<p>tags: python, devo",
+    "link": "https://dev.to/qingluan/build-a-canary-deployment-system-with-python-5e2k",
     "topic": "general"
   },
   {
-    "title": "Build a Secrets Manager with Python and Encryption",
-    "desc": "<h1>\n  \n  \n  Build a Secrets Manager with Python and Encryption\n</h1>\n\n<p>tags: python, security, devops, tutorial</p>\n\n\n\n\n<p>tags: python, ",
-    "link": "https://dev.to/qingluan/build-a-secrets-manager-with-python-and-encryption-h5p",
+    "title": "My highest-value data category was starved because of how I ranked ingest targets",
+    "desc": "<p>I run a pipeline that mines public complaints and scores them for commercial intent. Last week I pulled approval rates by category and fo",
+    "link": "https://dev.to/ddmarketer/my-highest-value-data-category-was-starved-because-of-how-i-ranked-ingest-targets-5d1o",
     "topic": "general"
   },
   {
-    "title": "Build a Git Hook System with Python",
-    "desc": "<h1>\n  \n  \n  Build a Git Hook System with Python\n</h1>\n\n<p>tags: python, git, devops, tools</p>\n\n\n\n\n<p>tags: python, git, devops, tools</p>\n",
-    "link": "https://dev.to/qingluan/build-a-git-hook-system-with-python-38eo",
-    "topic": "general"
-  },
-  {
-    "title": "Nobody Could Prove It Wasn't Us",
-    "desc": "<p><small><em>An SRE reference pattern for the one question that stalls every multi-region incident - and where AI actually belongs</em></sm",
-    "link": "https://dev.to/devjyoti_giri/nobody-could-prove-it-wasnt-us-3koa",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3o8p",
-    "topic": "general"
-  },
-  {
-    "title": "Bind the Receipt to the Commit It Installed",
-    "desc": "<p>An end to end lane that installs your plugin from GitHub is testing whatever GitHub happened to<br />\nserve. That is usually your latest ",
-    "link": "https://dev.to/jeremy_longshore/bind-the-receipt-to-the-commit-it-installed-110m",
+    "title": "Build a Custom Prometheus Exporter with Python",
+    "desc": "<h1>\n  \n  \n  Build a Custom Prometheus Exporter with Python\n</h1>\n\n<p>tags: python, monitoring, devops, tutorial</p>\n\n\n\n\n<p>tags: python, mo",
+    "link": "https://dev.to/qingluan/build-a-custom-prometheus-exporter-with-python-mkk",
     "topic": "general"
   }
 ]
