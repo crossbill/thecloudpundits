@@ -1,50 +1,50 @@
 [
   {
-    "title": "ClickHouse\u00ae 26.8 LTS Release: What's New and Why It Matters",
-    "desc": "<p>ClickHouse\u00ae 26.8 is the newest LTS release, and it is a substantial one: <strong>21 backward-incompatible changes, 49 new features, 127 p",
-    "link": "https://dev.to/kanishga_subramani_49ad73/clickhouser-268-lts-release-whats-new-and-why-it-matters-4lk4",
+    "title": "A 48-Hour Sleep Study on a Free Server Taught Me to Stop Trusting Uptime",
+    "desc": "<p>What does a server do when nobody is calling it, and what happens the moment that changes? I spent 48 hours with a free server, a health ",
+    "link": "https://dev.to/codepy_1473/a-48-hour-sleep-study-on-a-free-server-taught-me-to-stop-trusting-uptime-28bo",
     "topic": "general"
   },
   {
-    "title": "Black Car Service and Sprinter Rental Chicago: Premium Transportation for Every Occasion",
-    "desc": "<p>Chicago is a busy city where reliable transportation can make a major difference in your daily plans. Whether you are traveling for busin",
-    "link": "https://dev.to/noman_ali_09119414a69f3ee/black-car-service-and-sprinter-rental-chicago-premium-transportation-for-every-occasion-2gp5",
+    "title": "Nightly Setup Drift: A Free Server and Free Models That Keep Your README Honest",
+    "desc": "<p>Your README is already wrong. Not today, maybe. But a dependency bump changes everything. The setup command stops working. Nobody notices",
+    "link": "https://dev.to/github_7727/nightly-setup-drift-a-free-server-and-free-models-that-keep-your-readme-honest-151a",
     "topic": "general"
   },
   {
-    "title": "8 Pitfalls I Hit Auto-Repairing 'Plugin directory does not exist' \u2014 and the 3-Layer Guard That Stopped a 22 8 Wipeout",
-    "desc": "<p>Liquid syntax error: Unknown tag 'endraw'</p>",
-    "link": "https://dev.to/bokuwalily/8-pitfalls-i-hit-auto-repairing-plugin-directory-does-not-exist-and-the-3-layer-guard-that-4k0k",
+    "title": "Resolve SSL/TLS Certificate Handshake Failures \u2013 Step-by-Step Guide for DevOps & Developers",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>SSL/TLS handshake failures are a common pain point for developers, engineers, and DevOps teams. This gui",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/resolve-ssltls-certificate-handshake-failures-step-by-step-guide-for-devops-developers-5hgc",
     "topic": "general"
   },
   {
-    "title": "AWS Backup now copies FSx for ONTAP backups across Regions and accounts \u2014 a new option, measured Tokyo to Osaka",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How do you approach disaster recovery and backup for your file systems on AWS? Take FSx for ONTAP and a ",
-    "link": "https://dev.to/aws-builders/aws-backup-now-copies-fsx-for-ontap-backups-across-regions-and-accounts-a-new-option-measured-3f60",
-    "topic": "aws"
-  },
-  {
-    "title": "Troubleshooting SMS Event Notification Failures for US and EU Senders",
-    "desc": "<p>Short answer: configure sender registration and signatures for each US or EU destination before launch, then poll message status and even",
-    "link": "https://dev.to/evanshepherd8274/troubleshooting-sms-event-notification-failures-for-us-and-eu-senders-394",
+    "title": "Build a Secrets Manager with Python and Encryption",
+    "desc": "<h1>\n  \n  \n  Build a Secrets Manager with Python and Encryption\n</h1>\n\n<p>tags: python, security, devops, tutorial</p>\n\n\n\n\n<p>tags: python, ",
+    "link": "https://dev.to/qingluan/build-a-secrets-manager-with-python-and-encryption-h5p",
     "topic": "general"
   },
   {
-    "title": "cloud-init calls your user-data valid. It will never read the ssh_import_id in it.",
-    "desc": "<p><strong>TL;DR</strong>: On Raspberry Pi OS with cloud-init, a top-level <code>ssh_import_id:</code> in your <code>user-data</code> is onl",
-    "link": "https://dev.to/_a2a5aeb0db084c76b8ea/cloud-init-calls-your-user-data-valid-it-will-never-read-the-sshimportid-in-it-flf",
+    "title": "Build a Git Hook System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Git Hook System with Python\n</h1>\n\n<p>tags: python, git, devops, tools</p>\n\n\n\n\n<p>tags: python, git, devops, tools</p>\n",
+    "link": "https://dev.to/qingluan/build-a-git-hook-system-with-python-38eo",
     "topic": "general"
   },
   {
-    "title": "How to Fix Git Merge Conflicts in CI/CD Pipelines \u2013 Automated Resolution Guide",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Merge conflicts are a normal part of collaborative development, but when they surface inside a <strong>C",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-git-merge-conflicts-in-cicd-pipelines-automated-resolution-guide-42fa",
+    "title": "Nobody Could Prove It Wasn't Us",
+    "desc": "<p><small><em>An SRE reference pattern for the one question that stalls every multi-region incident - and where AI actually belongs</em></sm",
+    "link": "https://dev.to/devjyoti_giri/nobody-could-prove-it-wasnt-us-3koa",
     "topic": "general"
   },
   {
-    "title": "Finding Exposed Services (and Fixing Them) with ScanSearch",
-    "desc": "<p>Ever wondered what parts of your infrastructure are accidentally visible to the entire internet? It's a common blind spot. We spend a lot",
-    "link": "https://dev.to/devyjones/finding-exposed-services-and-fixing-them-with-scansearch-c2",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3o8p",
+    "topic": "general"
+  },
+  {
+    "title": "Bind the Receipt to the Commit It Installed",
+    "desc": "<p>An end to end lane that installs your plugin from GitHub is testing whatever GitHub happened to<br />\nserve. That is usually your latest ",
+    "link": "https://dev.to/jeremy_longshore/bind-the-receipt-to-the-commit-it-installed-110m",
     "topic": "general"
   }
 ]
