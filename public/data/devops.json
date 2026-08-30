@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your fake binary on PATH does not survive sudo, and the test does the real thing instead of failing",
-    "desc": "<p>The standard way to test a script that shells out to some dangerous command is to put a fake copy of<br />\nthat command first on <code>PA",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/your-fake-binary-on-path-does-not-survive-sudo-and-the-test-does-the-real-thing-instead-of-failing-521c",
+    "title": "Your Sandbox Shouldn't Keep Its Install-Time Network Access",
+    "desc": "<p><strong>Give setup the access it needs, then lock the sandbox down before untrusted code runs, without restarting it.</strong></p>\n\n\n\n\n<p",
+    "link": "https://dev.to/divy_ai/your-sandbox-shouldnt-keep-its-install-time-network-access-4fn8",
     "topic": "general"
   },
   {
-    "title": "Kubernetes: prueba alertas tras cambios de red",
-    "desc": "<p>Los cambios de red en Kubernetes suelen romper alertas en silencio. Esta comprobacion corta valida egress, DNS y entrega antes de dar un ",
-    "link": "https://dev.to/alexcarteruk/kubernetes-prueba-alertas-tras-cambios-de-red-flo",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Enterprise AI Observability & Optimization (Part 2): Monitor & Observability \u2014 Org-Wide Usage, Team Attribution & Real-Time Auditing",
-    "desc": "<p>In <a href=\"https://dev.to/momin_aziz_1/enterprise-ai-observability-optimization-part-1-capturing-developer-ai-interactions-across-5147\">",
-    "link": "https://dev.to/momin_aziz_1/enterprise-ai-observability-optimization-part-2-monitor-observability-org-wide-usage-team-4ca5",
+    "title": "SRE: prueba rotacion de secretos por correo",
+    "desc": "<p>Rotar secretos suele verse como una tarea cerrada cuando el despliegue termina y las apps vuelven a responder 200. En produccion, yo no l",
+    "link": "https://dev.to/alexcarteruk/sre-prueba-rotacion-de-secretos-por-correo-19f2",
     "topic": "general"
   },
   {
-    "title": "# Building a Cloud Incident Responder Agent with TrueForge and Qodo",
-    "desc": "<h1>\n  \n  \n  Building a Cloud Incident Responder Agent with TrueForge and Qodo\n</h1>\n\n<p>Cloud incidents can happen unexpectedly \u2014 a databas",
-    "link": "https://dev.to/mrittiga_m/-building-a-cloud-incident-responder-agent-with-trueforge-and-qodo-2lk9",
+    "title": "The agent that could not unlock itself, and why that was the correct outcome",
+    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/the-agent-that-could-not-unlock-itself-field-note\" rel=\"noopener noreferrer\">ai",
+    "link": "https://dev.to/elenarevicheva/the-agent-that-could-not-unlock-itself-and-why-that-was-the-correct-outcome-375o",
+    "topic": "general"
+  },
+  {
+    "title": "bumpwarden: a dependency-triage agent that never merges",
+    "desc": "<p>Every neglected repository has the same pile: seven Dependabot pull requests, each one a question nobody has time to answer. Which of the",
+    "link": "https://dev.to/voyagi/bumpwarden-a-dependency-triage-agent-that-never-merges-2ci7",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Custom Object Storage System with Python",
+    "desc": "<h1>\n  \n  \n  Build a Custom Object Storage System with Python\n</h1>\n\n<p>tags: python, storage, devops, tutorial</p>\n\n\n\n\n<p>tags: python, sto",
+    "link": "https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-10nh",
+    "topic": "general"
+  },
+  {
+    "title": "A Practical Guide to ModSecurity/Coraza SecRule Syntax (and the mistakes that bite)",
+    "desc": "<p>If you run a WAF backed by ModSecurity or Coraza (the Go rewrite most modern setups use now \u2014 nginx, HAProxy via SPOE, Traefik plugins, e",
+    "link": "https://dev.to/whitmojm/a-practical-guide-to-modsecuritycoraza-secrule-syntax-and-the-mistakes-that-bite-m00",
     "topic": "secops"
   },
   {
-    "title": "Should I replace my VPS with a Mac mini?",
-    "desc": "<p>I've had a Hostinger KVM 4 for a while with <strong>4 vCPUs, 16 GB RAM and 200 GB NVMe</strong> with the following applications:</p>\n\n<di",
-    "link": "https://dev.to/heymarkkop/should-i-replace-my-vps-with-a-mac-mini-3448",
+    "title": "Tried `corsairdev/corsair` Today: A Practical Gateway Test Drive",
+    "desc": "<h1>\n  \n  \n  Tried <code>corsairdev/corsair</code> Today: A Practical Gateway Test Drive\n</h1>\n\n<p>I took a quick look at <a href=\"https://g",
+    "link": "https://dev.to/james_lin/tried-corsairdevcorsair-today-a-practical-gateway-test-drive-bd0",
     "topic": "general"
   },
   {
-    "title": "Grounding, Bonding, dan Proteksi Petir Ruang Server: Panduan Teknis yang Sering Dilewati Tim IT",
-    "desc": "<p>Agustus 2015, empat sambaran petir beruntun menghantam jaringan listrik di dekat fasilitas cloud Google di Belgia. Hasilnya bukan sekadar",
-    "link": "https://dev.to/mightyblue/grounding-bonding-dan-proteksi-petir-ruang-server-panduan-teknis-yang-sering-dilewati-tim-it-15k4",
+    "title": "48 Hours of API Contract Drift: Field Notes from a Free Model on a Free Server",
+    "desc": "<p>Most API breakages don't announce themselves in advance; they arrive as a 500 in a client you haven't touched in weeks. After a Monday mo",
+    "link": "https://dev.to/codepy_1473/48-hours-of-api-contract-drift-field-notes-from-a-free-model-on-a-free-server-1n91",
     "topic": "general"
-  },
-  {
-    "title": "Automated GitHub repo stats as SVG in the README",
-    "desc": "<p>Most README \u201cstats\u201d badges are either fixed images or another third-party widget. I wanted something simpler: <strong>read the repo from ",
-    "link": "https://dev.to/provchart/automated-github-repo-stats-as-svg-in-the-readme-253i",
-    "topic": "general"
-  },
-  {
-    "title": "Docker for Developers: From Zero to Production-Ready Containers",
-    "desc": "<p>Every modern developer encounters Docker eventually. You have likely run <code>docker run -p 8080:80 nginx</code> or copied a snippet fro",
-    "link": "https://dev.to/hirdo/docker-for-developers-from-zero-to-production-ready-containers-8f8",
-    "topic": "docker"
   }
 ]
