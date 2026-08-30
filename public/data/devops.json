@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your Sandbox Shouldn't Keep Its Install-Time Network Access",
-    "desc": "<p><strong>Give setup the access it needs, then lock the sandbox down before untrusted code runs, without restarting it.</strong></p>\n\n\n\n\n<p",
-    "link": "https://dev.to/divy_ai/your-sandbox-shouldnt-keep-its-install-time-network-access-4fn8",
+    "title": "Why 'autonomous' agents are just expensive ways to break your SLAs",
+    "desc": "<p>We\u2019ve entered a strange era of engineering. We spend months perfecting RAG pipelines, fine-tuning small models, and obsessing over prompt",
+    "link": "https://dev.to/renato_marinho/why-autonomous-agents-are-just-expensive-ways-to-break-your-slas-5ccn",
     "topic": "general"
   },
   {
-    "title": "SRE: prueba rotacion de secretos por correo",
-    "desc": "<p>Rotar secretos suele verse como una tarea cerrada cuando el despliegue termina y las apps vuelven a responder 200. En produccion, yo no l",
-    "link": "https://dev.to/alexcarteruk/sre-prueba-rotacion-de-secretos-por-correo-19f2",
+    "title": "A reader calibrated the guard's threshold. The next reader found the heartbeat's blind spot.",
+    "desc": "<p>Title: A reader calibrated the guard's threshold. The next reader found the heartbeat's blind spot.</p>\n\n<p>Body:</p>\n\n<p>Last week I wro",
+    "link": "https://dev.to/pm25coder/a-reader-calibrated-the-guards-threshold-the-next-reader-found-the-heartbeats-blind-spot-2nhi",
     "topic": "general"
   },
   {
-    "title": "The agent that could not unlock itself, and why that was the correct outcome",
-    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/the-agent-that-could-not-unlock-itself-field-note\" rel=\"noopener noreferrer\">ai",
-    "link": "https://dev.to/elenarevicheva/the-agent-that-could-not-unlock-itself-and-why-that-was-the-correct-outcome-375o",
+    "title": "Debugging Async/Await Deadlocks in JavaScript: Tips, Tools, and Real-World Solutions",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Asynchronous programming with <strong>async/await</strong> has become the de\u2011facto standard in modern Ja",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-tips-tools-and-real-world-solutions-4a14",
     "topic": "general"
   },
   {
-    "title": "bumpwarden: a dependency-triage agent that never merges",
-    "desc": "<p>Every neglected repository has the same pile: seven Dependabot pull requests, each one a question nobody has time to answer. Which of the",
-    "link": "https://dev.to/voyagi/bumpwarden-a-dependency-triage-agent-that-never-merges-2ci7",
+    "title": "Stop Wasting Time: 12 Offline-Ready Developer Micro-Tools",
+    "desc": "<p>I've compiled my most-used developer utilities\u2014from GPU calculators to Grok bot optimizers\u2014into one offline-ready bundle. Stop relying on",
+    "link": "https://dev.to/kairo_v2/stop-wasting-time-12-offline-ready-developer-micro-tools-4jbf",
     "topic": "general"
   },
   {
-    "title": "Build a Custom Object Storage System with Python",
-    "desc": "<h1>\n  \n  \n  Build a Custom Object Storage System with Python\n</h1>\n\n<p>tags: python, storage, devops, tutorial</p>\n\n\n\n\n<p>tags: python, sto",
-    "link": "https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-10nh",
+    "title": "Containerizing AI Applications: A Practical Guide",
+    "desc": "<p>Your model works perfectly on your laptop. Then it's time to ship it, and suddenly you're staring at CUDA mismatches, a bloated 8GB image",
+    "link": "https://dev.to/rajinh24/containerizing-ai-applications-a-practical-guide-3165",
+    "topic": "docker"
+  },
+  {
+    "title": "I Reverse Engineered Nothing Earbuds to Build a Native Linux App",
+    "desc": "<h1>\n  \n  \n  I Reverse Engineered Nothing Earbuds to Build a Native Linux App\n</h1>\n\n<p>If you use Nothing or CMF earbuds with Linux, you ma",
+    "link": "https://dev.to/oneydef/i-reverse-engineered-nothing-earbuds-to-build-a-native-linux-app-55an",
     "topic": "general"
   },
   {
-    "title": "A Practical Guide to ModSecurity/Coraza SecRule Syntax (and the mistakes that bite)",
-    "desc": "<p>If you run a WAF backed by ModSecurity or Coraza (the Go rewrite most modern setups use now \u2014 nginx, HAProxy via SPOE, Traefik plugins, e",
-    "link": "https://dev.to/whitmojm/a-practical-guide-to-modsecuritycoraza-secrule-syntax-and-the-mistakes-that-bite-m00",
-    "topic": "secops"
-  },
-  {
-    "title": "Tried `corsairdev/corsair` Today: A Practical Gateway Test Drive",
-    "desc": "<h1>\n  \n  \n  Tried <code>corsairdev/corsair</code> Today: A Practical Gateway Test Drive\n</h1>\n\n<p>I took a quick look at <a href=\"https://g",
-    "link": "https://dev.to/james_lin/tried-corsairdevcorsair-today-a-practical-gateway-test-drive-bd0",
+    "title": "A Free Model Judged My Config Diffs for 48 Hours. The Silence Was Loud.",
+    "desc": "<p>Config drift is a silent killer. A small YAML change ships to production, and no one notices until the pager fires at 3 AM. I wanted to k",
+    "link": "https://dev.to/codepy_1473/a-free-model-judged-my-config-diffs-for-48-hours-the-silence-was-loud-1cpj",
     "topic": "general"
   },
   {
-    "title": "48 Hours of API Contract Drift: Field Notes from a Free Model on a Free Server",
-    "desc": "<p>Most API breakages don't announce themselves in advance; they arrive as a 500 in a client you haven't touched in weeks. After a Monday mo",
-    "link": "https://dev.to/codepy_1473/48-hours-of-api-contract-drift-field-notes-from-a-free-model-on-a-free-server-1n91",
+    "title": "Fixture Drift: Why Agent Patches Pass Green Tests and Break Production",
+    "desc": "<p>Your agent patch is green. Every unit test passes. Two weeks later, production breaks and the blame lands on the patch.</p>\n\n<p>Often the",
+    "link": "https://dev.to/datacpp_8185/fixture-drift-why-agent-patches-pass-green-tests-and-break-production-1ccc",
     "topic": "general"
   }
 ]
