@@ -1,50 +1,50 @@
 [
   {
-    "title": "An audit trail is a typed changeset, not a log line",
-    "desc": "<p>Most Django projects discover their audit requirement late. A compliance reviewer asks who moved an application to the next issuance tier",
-    "link": "https://dev.to/shipmindlabs/an-audit-trail-is-a-typed-changeset-not-a-log-line-5egd",
+    "title": "Your fake binary on PATH does not survive sudo, and the test does the real thing instead of failing",
+    "desc": "<p>The standard way to test a script that shells out to some dangerous command is to put a fake copy of<br />\nthat command first on <code>PA",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/your-fake-binary-on-path-does-not-survive-sudo-and-the-test-does-the-real-thing-instead-of-failing-521c",
     "topic": "general"
   },
   {
-    "title": "Defrag98: A Retro Disk Defragmenter Simulator Sparks New Automation I\u2026",
-    "desc": "<h2>\n  \n  \n  What Happened\n</h2>\n\n<p>Defrag98 went live today. The site mimics the Windows\u202f98 disk defragmenter UI, sounds, and process righ",
-    "link": "https://dev.to/felipejac/defrag98-a-retro-disk-defragmenter-simulator-sparks-new-automation-i-498h",
+    "title": "Kubernetes: prueba alertas tras cambios de red",
+    "desc": "<p>Los cambios de red en Kubernetes suelen romper alertas en silencio. Esta comprobacion corta valida egress, DNS y entrega antes de dar un ",
+    "link": "https://dev.to/alexcarteruk/kubernetes-prueba-alertas-tras-cambios-de-red-flo",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Enterprise AI Observability & Optimization (Part 2): Monitor & Observability \u2014 Org-Wide Usage, Team Attribution & Real-Time Auditing",
+    "desc": "<p>In <a href=\"https://dev.to/momin_aziz_1/enterprise-ai-observability-optimization-part-1-capturing-developer-ai-interactions-across-5147\">",
+    "link": "https://dev.to/momin_aziz_1/enterprise-ai-observability-optimization-part-2-monitor-observability-org-wide-usage-team-4ca5",
     "topic": "general"
   },
   {
-    "title": "Reaction Training For Beginners: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/reaction-training-for-beginners-what-we-learned-building-random-tactical-timer-215g",
+    "title": "# Building a Cloud Incident Responder Agent with TrueForge and Qodo",
+    "desc": "<h1>\n  \n  \n  Building a Cloud Incident Responder Agent with TrueForge and Qodo\n</h1>\n\n<p>Cloud incidents can happen unexpectedly \u2014 a databas",
+    "link": "https://dev.to/mrittiga_m/-building-a-cloud-incident-responder-agent-with-trueforge-and-qodo-2lk9",
+    "topic": "secops"
+  },
+  {
+    "title": "Should I replace my VPS with a Mac mini?",
+    "desc": "<p>I've had a Hostinger KVM 4 for a while with <strong>4 vCPUs, 16 GB RAM and 200 GB NVMe</strong> with the following applications:</p>\n\n<di",
+    "link": "https://dev.to/heymarkkop/should-i-replace-my-vps-with-a-mac-mini-3448",
     "topic": "general"
   },
   {
-    "title": "GitOps for Infrastructure: How We Deploy With Zero SSH",
-    "desc": "<h2>\n  \n  \n  The Last Time I Used SSH\n</h2>\n\n<p>I haven't SSH'd into a production server in 14 months. Not because I'm lazy \u2014 because our in",
-    "link": "https://dev.to/samson_tanimawo/gitops-for-infrastructure-how-we-deploy-with-zero-ssh-21c",
+    "title": "Grounding, Bonding, dan Proteksi Petir Ruang Server: Panduan Teknis yang Sering Dilewati Tim IT",
+    "desc": "<p>Agustus 2015, empat sambaran petir beruntun menghantam jaringan listrik di dekat fasilitas cloud Google di Belgia. Hasilnya bukan sekadar",
+    "link": "https://dev.to/mightyblue/grounding-bonding-dan-proteksi-petir-ruang-server-panduan-teknis-yang-sering-dilewati-tim-it-15k4",
     "topic": "general"
   },
   {
-    "title": "What if the biggest problem with AI coding agents isn't that they don't have enough tools\u2014but that they have too many?",
-    "desc": "<p>An agent with access to GitHub, CI/CD, databases, documentation, issue trackers and deployment infrastructure sounds powerful.</p>\n\n<p>Bu",
-    "link": "https://dev.to/neuralcoretech/what-if-the-biggest-problem-with-ai-coding-agents-isnt-that-they-dont-have-enough-tools-but-that-195e",
+    "title": "Automated GitHub repo stats as SVG in the README",
+    "desc": "<p>Most README \u201cstats\u201d badges are either fixed images or another third-party widget. I wanted something simpler: <strong>read the repo from ",
+    "link": "https://dev.to/provchart/automated-github-repo-stats-as-svg-in-the-readme-253i",
     "topic": "general"
   },
   {
-    "title": "Build a Streaming Usage Ledger for OpenAI-Compatible AI Gateways",
-    "desc": "<h1>\n  \n  \n  Build a Streaming Usage Ledger for OpenAI-Compatible AI Gateways\n</h1>\n\n<p>Streaming chat completions make AI products feel fas",
-    "link": "https://dev.to/aiwave/build-a-streaming-usage-ledger-for-openai-compatible-ai-gateways-1ea5",
-    "topic": "openai"
-  },
-  {
-    "title": "Quick Learn Docker",
-    "desc": "<p><strong>Why Docker?</strong><br />\nDocker is a tool that packages the application we develop along with the dependencies it needs. Why do",
-    "link": "https://dev.to/vigneshgs271096/quick-learn-docker-1f1",
+    "title": "Docker for Developers: From Zero to Production-Ready Containers",
+    "desc": "<p>Every modern developer encounters Docker eventually. You have likely run <code>docker run -p 8080:80 nginx</code> or copied a snippet fro",
+    "link": "https://dev.to/hirdo/docker-for-developers-from-zero-to-production-ready-containers-8f8",
     "topic": "docker"
-  },
-  {
-    "title": "Can I veto the agent's DDL before it hits main?",
-    "desc": "<h2>\n  \n  \n  Two hours before go-live, the DDL lands in the group chat\n</h2>\n\n<p>Thursday, 10 p.m. The release window is 1 a.m. Someone drop",
-    "link": "https://dev.to/erdonline/can-i-veto-the-agents-ddl-before-it-hits-main-3n0",
-    "topic": "general"
   }
 ]
