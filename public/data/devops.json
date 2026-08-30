@@ -1,50 +1,50 @@
 [
   {
-    "title": "MySQL Connection Pooling Explained: Do 50 Concurrent Users Need 50 Database Connections?",
-    "desc": "<p>When configuring a database connection in a backend application, you've probably seen code like this:<br />\n</p>\n\n<div class=\"highlight j",
-    "link": "https://dev.to/abirk/mysql-connection-pooling-explained-do-50-concurrent-users-need-50-database-connections-415o",
+    "title": "Scaling to 100,000 RPS: Deploying Distributed Load Testing on Kubernetes with Helm and Docker",
+    "desc": "<p><strong>TL;DR:</strong> Single-machine load tests inevitably hit CPU and socket descriptor limits when pushing beyond a few thousand requ",
+    "link": "https://dev.to/hakangul/scaling-to-100000-rps-deploying-distributed-load-testing-on-kubernetes-with-helm-and-docker-m3p",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "TestFly Part 8: Flakiness Quarantine Engine & Java SPI Extensibility",
+    "desc": "<h2>\n  \n  \n  Quarantine Engine & Java SPI Extensibility\n</h2>\n\n<p>The final pillar of TestFly is designed for long-term maintainability: <st",
+    "link": "https://dev.to/hakangul/testfly-part-8-flakiness-quarantine-engine-java-spi-extensibility-82a",
     "topic": "general"
   },
   {
-    "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
-    "desc": "<p>I spent three months and roughly $500 on GPU hardware to self-host my own LLM. Then I pulled the plug and switched to a $1 API. Let me te",
-    "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-6gm",
+    "title": "Shift-Left Performance: Automated Load Testing Quality Gates in GitHub Actions and Bitbucket CI",
+    "desc": "<p><strong>TL;DR:</strong> Performance testing should never be a once-a-quarter panic event before major production releases. In the final i",
+    "link": "https://dev.to/hakangul/shift-left-performance-automated-load-testing-quality-gates-in-github-actions-and-bitbucket-ci-4aig",
     "topic": "general"
   },
   {
-    "title": "The Three States of a Secret: Tracked, Ignored, and the One That Ships It",
-    "desc": "<p>Every Git tutorial teaches three states. Modified, staged, committed: the working directory, the staging area, the repository. It is cano",
-    "link": "https://dev.to/vibeagentmaking/the-three-states-of-a-secret-tracked-ignored-and-the-one-that-ships-it-55mj",
+    "title": "Eliminating Hand-off Latency Across Multi-Tool AI Stacks",
+    "desc": "<p>Engineering teams scaling multi-tool systems frequently encounter friction at organizational seams. When access credentials, billing pool",
+    "link": "https://dev.to/fluxonlab/eliminating-hand-off-latency-across-multi-tool-ai-stacks-o6p",
     "topic": "general"
   },
   {
-    "title": "Self-Hosted One-Click App Stores in 2026: Runtipi vs Cosmos vs Umbrel vs YunoHost",
-    "desc": "<p>The first time you try to install Nextcloud, Jellyfin, Vaultwarden, and a half-dozen other self-hosted apps on a fresh Ubuntu box, you di",
-    "link": "https://dev.to/enfernandes/self-hosted-one-click-app-stores-in-2026-runtipi-vs-cosmos-vs-umbrel-vs-yunohost-1m0c",
+    "title": "My Commit Said \"Stop Trusting the Receipt.\" That Is the Commit Where the Trusting Started.",
+    "desc": "<p>On 2026-08-25 at 21:27 EDT I pushed this to <a href=\"https://github.com/keniel13-ui/self-correcting-integration-maintainer\" rel=\"noopener",
+    "link": "https://dev.to/kenielzep97/my-commit-said-stop-trusting-the-receipt-that-is-the-commit-where-the-trusting-started-306j",
     "topic": "general"
   },
   {
-    "title": "The nginx misconfigurations that fail silently",
-    "desc": "<p>Most nginx misconfigurations announce themselves. You typo a directive, <code>nginx -t</code> fails, you fix it. That feedback loop is fa",
-    "link": "https://dev.to/getpagespeed/the-nginx-misconfigurations-that-fail-silently-22i2",
+    "title": "Najczestsze problemy z replikacja w PostgreSQL i jak je rozwiazac",
+    "desc": "<p>Replikacja w PostgreSQL potrafi utknac na kilka charakterystycznych sposobow - pokazujemy realne objawy, przyczyny i konkretne komendy di",
+    "link": "https://dev.to/andrzej_klusiewicz_08588c/najczestsze-problemy-z-replikacja-w-postgresql-i-jak-je-rozwiazac-1g8l",
     "topic": "general"
   },
   {
-    "title": "Your success message is not keyed on the thing that would make it false",
-    "desc": "<p>A small automation on one of my boxes commits work and pushes it to a shared<br />\nrepository. At the end of every run it announces itsel",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/your-success-message-is-not-keyed-on-the-thing-that-would-make-it-false-51oa",
+    "title": "Patroni - wprowadzenie do wysokiej dostepnosci PostgreSQL",
+    "desc": "<p>Zanim zaczniesz stawiac klaster Patroni, warto zrozumiec jak w ogole dziala automatyczny failover w PostgreSQL - to wprowadzenie tlumaczy",
+    "link": "https://dev.to/andrzej_klusiewicz_08588c/patroni-wprowadzenie-do-wysokiej-dostepnosci-postgresql-269j",
     "topic": "general"
   },
   {
-    "title": "Your AI Reviewer Is a Black Box: A Response Audit FAQ",
-    "desc": "<p>Every developer just got promoted. AI writes code. We review the diff. But nobody reviews the AI server's responses.</p>\n\n<p>I call this ",
-    "link": "https://dev.to/gitlab_3188/your-ai-reviewer-is-a-black-box-a-response-audit-faq-5b80",
-    "topic": "general"
-  },
-  {
-    "title": "GCC Passed, Clang Didn't: A Four-Configuration Compile Matrix for Agent Patches",
-    "desc": "<p>Disclosure: This article was prepared as part of MonkeyCode's product outreach.</p>\n\n<p>The patch compiled on your laptop, so you handed ",
-    "link": "https://dev.to/datacpp_8185/gcc-passed-clang-didnt-a-four-configuration-compile-matrix-for-agent-patches-3i86",
+    "title": "Fix Nginx Cache-Control Misconfig Serving Stale or Uncached Assets",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/08/30/fix-nginx-cache-control-misconfig-serving-stale-or-uncached-assets",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-nginx-cache-control-misconfig-serving-stale-or-uncached-assets-4e8f",
     "topic": "general"
   }
 ]
