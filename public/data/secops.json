@@ -1,5 +1,35 @@
 [
   {
+    "title": "Boston Scientific Still Recovering From Cyberattack",
+    "desc": "<p>The company has called in CrowdStrike and others to investigate the attack that caused global network disruption.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/",
+    "topic": "secops"
+  },
+  {
+    "title": "Extortion Group Claims Manchester Airports Group Data Breach",
+    "desc": "<p>FulcrumSec says it stole over 80 GB of data from Manchester Airports Group and plans to leak it online.</p>\n<p>The post <a href=\"https://",
+    "link": "https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "Judge Says Pentagon\u2019s Measures Against Anthropic Were \u2018Illegal and Baseless\u2019",
+    "desc": "<p>The ruling is part of Anthropic's legal battle against the Pentagon after the government labeled the company as a supply chain risk earli",
+    "link": "https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Berlin Won\u2019t Pay Extortion Group Claiming Data Theft",
+    "desc": "<p>The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials.</p>\n<p>The",
+    "link": "https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/",
+    "topic": "general"
+  },
+  {
+    "title": "More Details Emerge on Exploited PaperCut Vulnerabilities",
+    "desc": "<p>PaperCut has released a second emergency patch for the exploited vulnerabilities, which are now tracked as CVE-2026-82078 and CVE-2026-81",
+    "link": "https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "Hasbro Data Breach Exposed Employee Personal Information",
     "desc": "<p>A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach.</p>\n<p>The ",
     "link": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
@@ -16,35 +46,5 @@
     "desc": "<p>The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a \u2018major incident\u2019 and it\u2019s conducting an investigation with ",
     "link": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/",
     "topic": "secops"
-  },
-  {
-    "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company\u2019s Own Systems",
-    "desc": "<p>CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents.</p>\n<p",
-    "link": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
-    "topic": "openai"
-  },
-  {
-    "title": "Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge",
-    "desc": "<p>Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated.",
-    "link": "https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/",
-    "topic": "openai"
-  },
-  {
-    "title": "Think You\u2019ve Eliminated Chinese AI? Check the Model\u2019s Lineage, Cisco Says",
-    "desc": "<p>New research shows that country-of-origin labels can obscure an AI model\u2019s upstream dependencies, inherited behaviors and potential secur",
-    "link": "https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/",
-    "topic": "general"
-  },
-  {
-    "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
-    "desc": "<p>A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
-    "topic": "general"
-  },
-  {
-    "title": "Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear",
-    "desc": "<p>The White House\u2019s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns.</p>\n<p>The post <",
-    "link": "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/",
-    "topic": "general"
   }
 ]
