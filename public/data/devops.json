@@ -1,50 +1,50 @@
 [
   {
-    "title": "Set Up Slack Alerts for Pipeline Failures in 2 Minutes",
-    "desc": "<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>Your data pipeline runs at 6 AM. It fails. Nobody notices until the analytics team asks why the dashboard",
-    "link": "https://dev.to/eu_ti_f127c5b5d7535b7174f/set-up-slack-alerts-for-pipeline-failures-in-2-minutes-278",
+    "title": "My WebSocket was open the whole time. It just stopped sending anything.",
+    "desc": "<p>I found it in the data, not in the logs. A gap of about three hours in one market's trade history, on a service that had not restarted, h",
+    "link": "https://dev.to/carlbouvet/my-websocket-was-open-the-whole-time-it-just-stopped-sending-anything-140e",
     "topic": "general"
   },
   {
-    "title": "109 Security Tests, Zero Docker Required. Here's What I Tested Before Launch.",
-    "desc": "<p>Before deploying <a href=\"https://datanika.io\" rel=\"noopener noreferrer\">Datanika</a> to production, I wrote 109 security tests across 10",
-    "link": "https://dev.to/eu_ti_f127c5b5d7535b7174f/109-security-tests-zero-docker-required-heres-what-i-tested-before-launch-3abg",
+    "title": "Tried `firecrawl/pdf-inspector`: A Fast Rust Layer for Smarter PDF Routing",
+    "desc": "<h1>\n  \n  \n  Tried <code>firecrawl/pdf-inspector</code>: A Fast Rust Layer for Smarter PDF Routing\n</h1>\n\n<p><code>firecrawl/pdf-inspector</",
+    "link": "https://dev.to/james_lin/tried-firecrawlpdf-inspector-a-fast-rust-layer-for-smarter-pdf-routing-2319",
+    "topic": "general"
+  },
+  {
+    "title": "First Kubernetes ConfigMap: A Beginner's Walkthrough",
+    "desc": "<p>A five-minute read \u2014 no prior Kubernetes experience needed.</p>\n\n<p><strong>Why I am Writing This</strong></p>\n\n<p>Because I am learning ",
+    "link": "https://dev.to/degreatkhali/first-kubernetes-configmap-a-beginners-walkthrough-2ma",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "A 48-Hour Free Model Monitoring Audit: What to Watch For Before You Trust the Alerts",
+    "desc": "<p>What happens when you let a free model read your server's heartbeat data? The demos make it look magical, but the truth is messier when t",
+    "link": "https://dev.to/codepy_1473/a-48-hour-free-model-monitoring-audit-what-to-watch-for-before-you-trust-the-alerts-5651",
+    "topic": "general"
+  },
+  {
+    "title": "Free Model + Free Server: Five Myths That Break Your Pipeline",
+    "desc": "<p>You got free model access and a free server. Why is everything still slow?</p>\n\n<p>I kept hearing the same excuses. \"It's free, so it's b",
+    "link": "https://dev.to/gitlab_3188/free-model-free-server-five-myths-that-break-your-pipeline-4322",
+    "topic": "general"
+  },
+  {
+    "title": "llama-cli prints the error and exits 0. The same binary exits 1 when the model is missing.",
+    "desc": "<p>Point <code>llama-cli</code> at a file that isn't there:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight shel",
+    "link": "https://dev.to/homelabpm/llama-cli-prints-the-error-and-exits-0-the-same-binary-exits-1-when-the-model-is-missing-48cn",
+    "topic": "general"
+  },
+  {
+    "title": "I shipped a Series-A-grade security autopilot in one day. It costs \u20ac2.60/year.",
+    "desc": "<p>I run a Dutch health AI platform alone. No co-founder, no CTO, no security team. Last Friday I shipped a security pipeline that, on paper",
+    "link": "https://dev.to/holistis/i-shipped-a-series-a-grade-security-autopilot-in-one-day-it-costs-eu260year-4i83",
+    "topic": "secops"
+  },
+  {
+    "title": "What a Linux container really is (it's not a VM)",
+    "desc": "<p>Right now, on your machine, a process is being <strong>lied to</strong>.</p>\n\n<p>It thinks it's alone on the computer. It thinks it owns ",
+    "link": "https://dev.to/vladut02/what-a-linux-container-really-is-its-not-a-vm-53an",
     "topic": "docker"
-  },
-  {
-    "title": "I Gave a Vultr Box a Heartbeat: Self-Healing Docker Containers in 20 Minutes with systemd, Not Cron",
-    "desc": "<p>Your Docker container crashes at 3 a.m. Cron notices at :00, :05, :10 \u2014 up to five minutes of downtime before anyone even checks. And if ",
-    "link": "https://dev.to/mukesh_13/i-gave-a-vultr-box-a-heartbeat-self-healing-docker-containers-in-20-minutes-with-systemd-not-cron-3k42",
-    "topic": "docker"
-  },
-  {
-    "title": "AI Tools for Continuous Integration and Delivery (2026 Guide)",
-    "desc": "<p><em>Originally published at <a href=\"https://nlocoding.com/en/blog/ai-tools-for-continuous-integration-and-delivery\" rel=\"noopener norefe",
-    "link": "https://dev.to/nlocoding/ai-tools-for-continuous-integration-and-delivery-2026-guide-2j1o",
-    "topic": "general"
-  },
-  {
-    "title": "Build a File Watcher and Auto-Deployer with Python",
-    "desc": "<h1>\n  \n  \n  Build a File Watcher and Auto-Deployer with Python\n</h1>\n\n<p>tags: python, devops, automation, tutorial</p>\n\n\n\n\n<p>tags: python",
-    "link": "https://dev.to/qingluan/build-a-file-watcher-and-auto-deployer-with-python-359h",
-    "topic": "general"
-  },
-  {
-    "title": "Alerting Without Burnout",
-    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Build alerts that fire only when a human must act now: symptom-based, severity-tiered, and tied to",
-    "link": "https://dev.to/sri2614/alerting-without-burnout-228h",
-    "topic": "general"
-  },
-  {
-    "title": "Agentic AI is Just Middleware: Translating Fuzzy Human Intent into Deterministic API Calls",
-    "desc": "<p>In computer science, progress is defined by adding layers of abstraction. We moved from punch cards to assembly, from assembly to high-le",
-    "link": "https://dev.to/szglabs/agentic-ai-is-just-middleware-translating-fuzzy-human-intent-into-deterministic-api-calls-2eep",
-    "topic": "general"
-  },
-  {
-    "title": "Linux From Zero Networking, DNS, Ports and Sockets for Platform Engineers",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/rogeroliveira86/linux-from-zero-networking-dns-ports-and-sockets-for-platform-engineers-240h",
-    "topic": "general"
   }
 ]
