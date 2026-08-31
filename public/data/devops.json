@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why 'autonomous' agents are just expensive ways to break your SLAs",
-    "desc": "<p>We\u2019ve entered a strange era of engineering. We spend months perfecting RAG pipelines, fine-tuning small models, and obsessing over prompt",
-    "link": "https://dev.to/renato_marinho/why-autonomous-agents-are-just-expensive-ways-to-break-your-slas-5ccn",
+    "title": "Ubuntu Expand Swap Space to 4 GB for coolify crash",
+    "desc": "<p>Increasing Swap prevents the server from crashing when memory spikes during builds. Run these commands via SSH on your VPS:<br />\n</p>\n\n<",
+    "link": "https://dev.to/plabonasad/ubuntu-expand-swap-space-to-4-gb-for-coolify-crash-185b",
     "topic": "general"
   },
   {
-    "title": "A reader calibrated the guard's threshold. The next reader found the heartbeat's blind spot.",
-    "desc": "<p>Title: A reader calibrated the guard's threshold. The next reader found the heartbeat's blind spot.</p>\n\n<p>Body:</p>\n\n<p>Last week I wro",
-    "link": "https://dev.to/pm25coder/a-reader-calibrated-the-guards-threshold-the-next-reader-found-the-heartbeats-blind-spot-2nhi",
+    "title": "Statemine RPC: Chain Settings, Endpoints, and Debugging",
+    "desc": "<h2>\n  \n  \n  Quick Decision: How to Connect to Statemine\n</h2>\n\n<p>Before diving into the details, here's a quick guide to help you decide h",
+    "link": "https://dev.to/onfinality/statemine-rpc-chain-settings-endpoints-and-debugging-1a8g",
     "topic": "general"
   },
   {
-    "title": "Debugging Async/Await Deadlocks in JavaScript: Tips, Tools, and Real-World Solutions",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Asynchronous programming with <strong>async/await</strong> has become the de\u2011facto standard in modern Ja",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-tips-tools-and-real-world-solutions-4a14",
+    "title": "Frequency RPC: Connect to Frequency Parachain",
+    "desc": "<h2>\n  \n  \n  Quick Recommendation: How to Connect to Frequency RPC\n</h2>\n\n<p>If you are building a decentralized social application on Frequ",
+    "link": "https://dev.to/onfinality/frequency-rpc-connect-to-frequency-parachain-3fp6",
     "topic": "general"
   },
   {
-    "title": "Stop Wasting Time: 12 Offline-Ready Developer Micro-Tools",
-    "desc": "<p>I've compiled my most-used developer utilities\u2014from GPU calculators to Grok bot optimizers\u2014into one offline-ready bundle. Stop relying on",
-    "link": "https://dev.to/kairo_v2/stop-wasting-time-12-offline-ready-developer-micro-tools-4jbf",
+    "title": "BNB Smart Chain RPC URL: Mainnet & Testnet Endpoints",
+    "desc": "<h2>\n  \n  \n  Quick Answer: BNB Smart Chain RPC URL\n</h2>\n\n<p>The public RPC URL for BNB Smart Chain (mainnet) is:<br />\n</p>\n\n<div class=\"hi",
+    "link": "https://dev.to/onfinality/bnb-smart-chain-rpc-url-mainnet-testnet-endpoints-54k9",
     "topic": "general"
   },
   {
-    "title": "Containerizing AI Applications: A Practical Guide",
-    "desc": "<p>Your model works perfectly on your laptop. Then it's time to ship it, and suddenly you're staring at CUDA mismatches, a bloated 8GB image",
-    "link": "https://dev.to/rajinh24/containerizing-ai-applications-a-practical-guide-3165",
-    "topic": "docker"
-  },
-  {
-    "title": "I Reverse Engineered Nothing Earbuds to Build a Native Linux App",
-    "desc": "<h1>\n  \n  \n  I Reverse Engineered Nothing Earbuds to Build a Native Linux App\n</h1>\n\n<p>If you use Nothing or CMF earbuds with Linux, you ma",
-    "link": "https://dev.to/oneydef/i-reverse-engineered-nothing-earbuds-to-build-a-native-linux-app-55an",
+    "title": "BNB Smart Chain RPC URL: Endpoint, Setup & Debugging",
+    "desc": "<h2>\n  \n  \n  Quick answer: the BNB Smart Chain RPC URL\n</h2>\n\n<p>The BNB Smart Chain (BSC) RPC URL is the endpoint your application uses to ",
+    "link": "https://dev.to/onfinality/bnb-smart-chain-rpc-url-endpoint-setup-debugging-jcn",
     "topic": "general"
   },
   {
-    "title": "A Free Model Judged My Config Diffs for 48 Hours. The Silence Was Loud.",
-    "desc": "<p>Config drift is a silent killer. A small YAML change ships to production, and no one notices until the pager fires at 3 AM. I wanted to k",
-    "link": "https://dev.to/codepy_1473/a-free-model-judged-my-config-diffs-for-48-hours-the-silence-was-loud-1cpj",
+    "title": "Astar zkEVM RPC: Endpoint, Chain ID, and Configuration",
+    "desc": "<h2>\n  \n  \n  Quick decision: Which Astar zkEVM RPC should you use?\n</h2>\n\n<p>If you are building on Astar zkEVM, your first decision is whet",
+    "link": "https://dev.to/onfinality/astar-zkevm-rpc-endpoint-chain-id-and-configuration-4789",
     "topic": "general"
   },
   {
-    "title": "Fixture Drift: Why Agent Patches Pass Green Tests and Break Production",
-    "desc": "<p>Your agent patch is green. Every unit test passes. Two weeks later, production breaks and the blame lands on the patch.</p>\n\n<p>Often the",
-    "link": "https://dev.to/datacpp_8185/fixture-drift-why-agent-patches-pass-green-tests-and-break-production-1ccc",
+    "title": "Base Network RPC Endpoint: Chain Settings & Setup",
+    "desc": "<h2>\n  \n  \n  Quick reference: Base chain settings\n</h2>\n\n<p>Before you connect, you need the exact chain parameters. The table below lists t",
+    "link": "https://dev.to/onfinality/base-network-rpc-endpoint-chain-settings-setup-272",
+    "topic": "general"
+  },
+  {
+    "title": "qData Professional Edition Adds Online API Testing for More Efficient Interface Validation",
+    "desc": "<p>In the journey of building a data middleware platform, completing an API doesn't mean the interface development work is done.</p>\n\n<p>Onc",
+    "link": "https://dev.to/tongwu/qdata-professional-edition-adds-online-api-testing-for-more-efficient-interface-validation-mm5",
     "topic": "general"
   }
 ]
