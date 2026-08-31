@@ -1,50 +1,50 @@
 [
   {
-    "title": "Top 10 Best Miva Merchant to WooCommerce Migration Companies",
-    "desc": "<p><em>You've got a Miva Merchant system locked behind proprietary walls and expensive fees. Time to migrate to WooCommerce. Let's talk abou",
-    "link": "https://dev.to/oliverpitts/top-10-best-miva-merchant-to-woocommerce-migration-companies-2lla",
+    "title": "Set Up Slack Alerts for Pipeline Failures in 2 Minutes",
+    "desc": "<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>Your data pipeline runs at 6 AM. It fails. Nobody notices until the analytics team asks why the dashboard",
+    "link": "https://dev.to/eu_ti_f127c5b5d7535b7174f/set-up-slack-alerts-for-pipeline-failures-in-2-minutes-278",
     "topic": "general"
   },
   {
-    "title": "Best MCP Servers for AI Automation: A Technical Comparison",
+    "title": "109 Security Tests, Zero Docker Required. Here's What I Tested Before Launch.",
+    "desc": "<p>Before deploying <a href=\"https://datanika.io\" rel=\"noopener noreferrer\">Datanika</a> to production, I wrote 109 security tests across 10",
+    "link": "https://dev.to/eu_ti_f127c5b5d7535b7174f/109-security-tests-zero-docker-required-heres-what-i-tested-before-launch-3abg",
+    "topic": "docker"
+  },
+  {
+    "title": "I Gave a Vultr Box a Heartbeat: Self-Healing Docker Containers in 20 Minutes with systemd, Not Cron",
+    "desc": "<p>Your Docker container crashes at 3 a.m. Cron notices at :00, :05, :10 \u2014 up to five minutes of downtime before anyone even checks. And if ",
+    "link": "https://dev.to/mukesh_13/i-gave-a-vultr-box-a-heartbeat-self-healing-docker-containers-in-20-minutes-with-systemd-not-cron-3k42",
+    "topic": "docker"
+  },
+  {
+    "title": "AI Tools for Continuous Integration and Delivery (2026 Guide)",
+    "desc": "<p><em>Originally published at <a href=\"https://nlocoding.com/en/blog/ai-tools-for-continuous-integration-and-delivery\" rel=\"noopener norefe",
+    "link": "https://dev.to/nlocoding/ai-tools-for-continuous-integration-and-delivery-2026-guide-2j1o",
+    "topic": "general"
+  },
+  {
+    "title": "Build a File Watcher and Auto-Deployer with Python",
+    "desc": "<h1>\n  \n  \n  Build a File Watcher and Auto-Deployer with Python\n</h1>\n\n<p>tags: python, devops, automation, tutorial</p>\n\n\n\n\n<p>tags: python",
+    "link": "https://dev.to/qingluan/build-a-file-watcher-and-auto-deployer-with-python-359h",
+    "topic": "general"
+  },
+  {
+    "title": "Alerting Without Burnout",
+    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Build alerts that fire only when a human must act now: symptom-based, severity-tiered, and tied to",
+    "link": "https://dev.to/sri2614/alerting-without-burnout-228h",
+    "topic": "general"
+  },
+  {
+    "title": "Agentic AI is Just Middleware: Translating Fuzzy Human Intent into Deterministic API Calls",
+    "desc": "<p>In computer science, progress is defined by adding layers of abstraction. We moved from punch cards to assembly, from assembly to high-le",
+    "link": "https://dev.to/szglabs/agentic-ai-is-just-middleware-translating-fuzzy-human-intent-into-deterministic-api-calls-2eep",
+    "topic": "general"
+  },
+  {
+    "title": "Linux From Zero Networking, DNS, Ports and Sockets for Platform Engineers",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kodeusai/best-mcp-servers-for-ai-automation-a-technical-comparison-3394",
-    "topic": "general"
-  },
-  {
-    "title": "Inside a Business Password Manager: How Encryption, Authentication, and Access Control Work",
-    "desc": "<h2>\n  \n  \n  What Happens Behind a Password Manager?\n</h2>\n\n<p>Most people think of a password manager as one thing: a secure place to store",
-    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/inside-a-business-password-manager-how-encryption-authentication-and-access-control-work-3f4",
-    "topic": "general"
-  },
-  {
-    "title": "Demystifying Kubernetes FinOps: How to Allocate Cloud Costs Across Multi-Tenant Clusters",
-    "desc": "<p>As engineering organizations scale their microservice architectures across multi-tenant Kubernetes clusters, cloud infrastructure bills f",
-    "link": "https://dev.to/seo_optimization_591fad6c/demystifying-kubernetes-finops-how-to-allocate-cloud-costs-across-multi-tenant-clusters-3236",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "I gave an AI eight real DevOps jobs. Here's where it shipped \u2014 and where it quietly got it wrong.",
-    "desc": "<p>For the last couple of months I've been handing an AI agent (Claude Code) real DevOps work<br />\n\u2014 not toy prompts, but actual failing pi",
-    "link": "https://dev.to/sambit_kumarmallick_bce8/i-gave-an-ai-eight-real-devops-jobs-heres-where-it-shipped-and-where-it-quietly-got-it-wrong-4m2i",
-    "topic": "general"
-  },
-  {
-    "title": "Scope the Guard to What the Job Actually Writes",
-    "desc": "<p>Two systems mismeasured what was in front of them. One aborted loudly on dirt that could not touch it. One returned a 200 and assigned th",
-    "link": "https://dev.to/jeremy_longshore/scope-the-guard-to-what-the-job-actually-writes-12k8",
-    "topic": "general"
-  },
-  {
-    "title": "A Path Is Not Proof of Identity",
-    "desc": "<p>Five marketplace submissions rejected simultaneously for the same security defect class. Every one created local state under the default ",
-    "link": "https://dev.to/jeremy_longshore/a-path-is-not-proof-of-identity-1ad7",
-    "topic": "general"
-  },
-  {
-    "title": "How to Resolve SSL/TLS Certificate Handshake Failures \u2013 Step-by-Step Guide for Developers",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>SSL/TLS handshake failures cripple web services, CI pipelines, and micro\u2011service communication. For deve",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-step-by-step-guide-for-developers-3e0h",
+    "link": "https://dev.to/rogeroliveira86/linux-from-zero-networking-dns-ports-and-sockets-for-platform-engineers-240h",
     "topic": "general"
   }
 ]

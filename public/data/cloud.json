@@ -1,5 +1,11 @@
 [
   {
+    "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+    "desc": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the ",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
+    "topic": "aws"
+  },
+  {
     "title": "Happy 20th Birthday, Amazon EC2",
     "desc": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom sili",
     "link": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
@@ -39,12 +45,6 @@
     "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
     "desc": "Announcing runtime instances in Amazon Bedrock AgentCore\u2014persistent, managed EC2 infrastructure for production AI agents with multi-agent co",
     "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
-    "topic": "general"
-  },
-  {
-    "title": "Amazon DynamoDB now supports real-time vector search at any scale",
-    "desc": "DynamoDB now supports native vector search with single-digit millisecond latency at 99%+ recall. It is designed for any scale, even trillion",
-    "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
     "topic": "general"
   }
 ]
