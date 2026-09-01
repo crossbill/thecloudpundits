@@ -1,50 +1,50 @@
 [
   {
-    "title": "# Stop hardcoding AWS Lambda layer ARNs, and use AWS Systems Manager Parameter Store public parameters instead",
-    "desc": "<p>To add the AWS AppConfig Agent Lambda extension to an AWS Lambda function, you can open the documentation, scroll through a table of ARNs",
-    "link": "https://dev.to/aparkris/-stop-hardcoding-aws-lambda-layer-arns-and-use-aws-systems-manager-parameter-store-public-p70",
+    "title": "Containerized Full-Stack Application using Docker, Nuxt 4, and Symfony 7.4",
+    "desc": "<p>To run a multi-container full-stack application, the best practice is to separate your frontend and backend into isolated containers and ",
+    "link": "https://dev.to/johndivam/containerized-full-stack-application-using-docker-nuxt-4-and-symfony-74-4ei4",
+    "topic": "docker"
+  },
+  {
+    "title": "AWS & SRE Field Manual (Part 4): Amazon EBS Architecture, Volume Performance & Kubernetes State",
+    "desc": "<h2>\n  \n  \n  1. TL;DR & Problem Statement\n</h2>\n\n<ul>\n<li>\n<strong>Definition:</strong> A high-performance, persistent block-level storage s",
+    "link": "https://dev.to/enesguler/aws-sre-field-manual-part-4-amazon-ebs-architecture-volume-performance-kubernetes-state-4dk9",
     "topic": "aws"
   },
   {
-    "title": "Fix TypeScript 7 Out of Memory: error TS7056 Costs 6x RAM",
-    "desc": "<p>Fourteen lines of TypeScript, thirteen nested object literals and one <code>export const</code>, produce an identical diagnostic on both ",
-    "link": "https://dev.to/indra_gustiprasetya_a80a/fix-typescript-7-out-of-memory-error-ts7056-costs-6x-ram-b2a",
+    "title": "How a missing DEFAULT column locked my production DB for 20 minutes (and why your CI won't catch it)",
+    "desc": "<p>Let\u2019s be brutally honest. As developers, we don\u2019t fear database downtime. We fear the Post-Mortem incident meeting where we have to expla",
+    "link": "https://dev.to/rajeshbhan82496/how-a-missing-default-column-locked-my-production-db-for-20-minutes-and-why-your-ci-wont-catch-it-407",
     "topic": "general"
   },
   {
-    "title": "How I Write Postmortems in 5 Minutes Using AI (And Why Most SREs Are Doing It the Hard Way)",
-    "desc": "<p><em>Originally published on <a href=\"https://medium.com/@purplerosebuds.hunt/how-i-write-postmortems-in-5-minutes-using-ai-and-why-most-s",
-    "link": "https://dev.to/rosebud/how-i-write-postmortems-in-5-minutes-using-ai-and-why-most-sres-are-doing-it-the-hard-way-40g",
+    "title": "Why Planet Earth Wasn\u2019t Built by a Junior Dev: A Border Guard\u2019s View on Field Engineering and Reinforcement Learning",
+    "desc": "<p>For years, the IT community and philosophical forums have been obsessing over the \"Simulation Theory.\" Looking at all the production bugs",
+    "link": "https://dev.to/theolenslowgeek/why-planet-earth-wasnt-built-by-a-junior-dev-a-border-guards-view-on-field-engineering-and-209o",
     "topic": "general"
   },
   {
-    "title": "Tried `uutils/coreutils`: A Rust-Native Coreutils Test Drive",
-    "desc": "<h1>\n  \n  \n  Tried <code>uutils/coreutils</code>: A Rust-Native Coreutils Test Drive\n</h1>\n\n<p><code>uutils/coreutils</code> is a cross-plat",
-    "link": "https://dev.to/james_lin/tried-uutilscoreutils-a-rust-native-coreutils-test-drive-4i6m",
+    "title": "Tried `sponsors/MadsLorentzen`: A Local-First Job Search Framework",
+    "desc": "<h1>\n  \n  \n  Tried <code>sponsors/MadsLorentzen</code>: A Local-First Job Search Framework\n</h1>\n\n<p><code>sponsors/MadsLorentzen</code> pre",
+    "link": "https://dev.to/james_lin/tried-sponsorsmadslorentzen-a-local-first-job-search-framework-58bd",
     "topic": "general"
   },
   {
-    "title": "Opsgenie End of Life: What Atlassian's Shutdown Means for Your On-Call Team",
-    "desc": "<p>Atlassian is winding down Opsgenie, its on-call scheduling and alerting product. If your team relies on it, this isn't a distant planning",
-    "link": "https://dev.to/opsfusion/opsgenie-end-of-life-what-atlassians-shutdown-means-for-your-on-call-team-2690",
+    "title": "Everhayes Academy (Everhayes Omnis Academy) Supports Learner Trust Through Digital Account Protection Awareness",
+    "desc": "<p>Everhayes Academy (Everhayes Omnis Academy) is strengthening online learner account security awareness as part of its continued commitmen",
+    "link": "https://dev.to/everhayesomnis/everhayes-academy-everhayes-omnis-academy-supports-learner-trust-through-digital-account-41mc",
     "topic": "general"
   },
   {
-    "title": "Your SSL Certificate Is Expiring and Nobody Told You (Until Now)",
-    "desc": "<p>There's a special kind of production incident where nothing changed in your code, no deploy went out, and yet everything is on fire. Nine",
-    "link": "https://dev.to/sarfaraznaushad/your-ssl-certificate-is-expiring-and-nobody-told-you-until-now-47ha",
+    "title": "M4 Max \u90e8\u7f72 Qwen3.8-27B\uff1a\u9ad8\u6027\u80fd\u63a8\u7406\u4e0e\u591a\u4eba\u5171\u4eab\u5b9e\u8df5",
+    "desc": "<blockquote>\n<p>\u9002\u7528\u8bbe\u5907\u300040 \u6838 GPU\u3001128GB \u7edf\u4e00\u5185\u5b58\u3001546GB/s \u5185\u5b58\u5e26\u5bbd\u7684 M4 Max MacBook Pro \u6216 Mac Studio<br /><br />\n\u9002\u7528\u76ee\u6807\u3000\u5728\u5355\u53f0 Mac \u4e0a\u7a33\u5b9a\u8fd0\u884c Qwen3.8-27B\uff0c\u5e76\u901a\u8fc7 OpenAI",
+    "link": "https://dev.to/whotto/m4-max-bu-shu-qwen38-27bgao-xing-neng-tui-li-yu-duo-ren-gong-xiang-shi-jian-1ifb",
     "topic": "general"
   },
   {
-    "title": "Bmup Multi-Asset Institute Examines the Future of Connected Financial Data Infrastructure",
-    "desc": "<p>Bmup Multi-Asset Institute is expanding its focus on financial data infrastructure as digital finance becomes increasingly dependent on f",
-    "link": "https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-examines-the-future-of-connected-financial-data-infrastructure-3i2b",
-    "topic": "general"
-  },
-  {
-    "title": "The only way our GitHub Action went green was when the verifier was missing",
-    "desc": "<p>Before anything else, the part that's still embarrassing at publication time: the broken version I'm about to describe is, as of this wri",
-    "link": "https://dev.to/mahirhir/the-only-way-our-github-action-went-green-was-when-the-verifier-was-missing-1aah",
+    "title": "How to Schedule Python Tasks using APScheduler",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>Python 3.9 or higher installed on your system</li>\n<li>\n<a href=\"https://chasebot.online/go/he",
+    "link": "https://dev.to/chasebot/how-to-schedule-python-tasks-using-apscheduler-82o",
     "topic": "general"
   }
 ]
