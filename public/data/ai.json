@@ -1,5 +1,11 @@
 [
   {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "topic": "general"
+  },
+  {
     "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
     "desc": "",
     "link": "https://huggingface.co/blog/webgpu-kernels",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/pwc-search",
     "topic": "huggingface"
-  },
-  {
-    "title": "Measuring benchmark optimization in speech recognition",
-    "desc": "",
-    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "topic": "general"
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
-    "title": "We built a local-first screenshot app for macOS and would love your feedback",
-    "desc": "<p>We\u2019re a small team building Sealshot, a free and open-source screenshot app for macOS.</p>\n\n<p>We started working on it because screensho",
-    "link": "https://dev.to/jojo219/we-built-a-local-first-screenshot-app-for-macos-and-would-love-your-feedback-48ke",
+    "title": "Your Fixture Passed. The Agent Patch Is Still Wrong.",
+    "desc": "<p>Fixed fixtures are examples, not oracles. An agent patch can sail through a green suite and still break on an input your fixture never im",
+    "link": "https://dev.to/datacpp_8185/your-fixture-passed-the-agent-patch-is-still-wrong-1490",
     "topic": "general"
   },
   {
-    "title": "The generator that refused, and why that is the feature",
-    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/the-generator-that-refused-field-note\" rel=\"noopener noreferrer\">aideazz.xyz</a",
-    "link": "https://dev.to/elenarevicheva/the-generator-that-refused-and-why-that-is-the-feature-o4i",
+    "title": "Free-Model Code Review: A 48-Hour False Positive Autopsy",
+    "desc": "<p>Have you ever trusted a code review bot because it found something you missed? I did the opposite: I ran a free model on my own commit hi",
+    "link": "https://dev.to/codepy_1473/free-model-code-review-a-48-hour-false-positive-autopsy-3dle",
     "topic": "general"
   },
   {
-    "title": "Don't Trust the Structure Either: A 48-Hour Contract Checker for Free Model Outputs",
-    "desc": "<p>You have probably seen plenty of posts about how free model outputs drift in quality. I have written a few of those myself. But there is ",
-    "link": "https://dev.to/codepy_1473/dont-trust-the-structure-either-a-48-hour-contract-checker-for-free-model-outputs-38le",
+    "title": "Ubicloud vs Spinifex: Two Approaches to Open Source Cloud",
+    "desc": "<p>The phrase \"open source alternative to AWS\" covers a lot of ground. It can mean a dev-time emulator, a managed service that runs on someo",
+    "link": "https://dev.to/toddyholiday/ubicloud-vs-spinifex-two-approaches-to-open-source-cloud-3n37",
     "topic": "general"
   },
   {
-    "title": "Your Verification Gate Passed an Agent Patch. Why Did Production Still Fail?",
-    "desc": "<p>A verification gate is not a guarantee. It is a proxy for production behavior.</p>\n\n<p>When an agent-generated patch passes every propert",
-    "link": "https://dev.to/datacpp_8185/your-verification-gate-passed-an-agent-patch-why-did-production-still-fail-4529",
+    "title": "Facebook temp email en revisiones de riesgo",
+    "desc": "<p>Cuando una cola de soporte o un sistema antifraude marca una cuenta por usar <code>email temporal para Facebook</code>, la tentacion es a",
+    "link": "https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn",
     "topic": "general"
   },
   {
-    "title": "Stop Rotating Proxies When a Crawl Fails a Content-Use Check",
-    "desc": "<blockquote>\n<p>Disclosure: I work with 98IP. This is a vendor-neutral operational pattern for authorized data collection.</p>\n</blockquote>",
-    "link": "https://dev.to/98ip/stop-rotating-proxies-when-a-crawl-fails-a-content-use-check-4a4d",
+    "title": "Cloud Renewal Deals 2026: Slash Your Server Bill",
+    "desc": "<p>If you\u2019ve been running infrastructure for more than a year, you already know the pain of the \"renewal cliff.\" You spin up a cloud server ",
+    "link": "https://dev.to/aitokenhub_98/cloud-renewal-deals-2026-slash-your-server-bill-4cn8",
     "topic": "general"
   },
   {
-    "title": "Measuring the Tea Break",
-    "desc": "<p>I am not a fan of pull requests (PRs). I've <a href=\"https://sethorell.substack.com/p/code-review-musings\" rel=\"noopener noreferrer\">writ",
-    "link": "https://dev.to/aws-builders/measuring-the-tea-break-55hf",
+    "title": "Lightweight Cloud vs VPS 2026: Best Deals & Guide",
+    "desc": "<p>I\u2019ve been deploying side projects and client apps for years, and the biggest bottleneck I see developers face isn't writing code\u2014it's cho",
+    "link": "https://dev.to/aitokenhub_98/lightweight-cloud-vs-vps-2026-best-deals-guide-4ik",
     "topic": "general"
   },
   {
-    "title": "A Practical Scoping Checklist for Enterprise AI Projects",
-    "desc": "<h1>\n  \n  \n  A Practical Scoping Checklist for Enterprise AI Projects\n</h1>\n\n<p>An enterprise AI project often goes wrong before the first m",
-    "link": "https://dev.to/xiuai-lab/a-practical-scoping-checklist-for-enterprise-ai-projects-4lc6",
+    "title": "Why Axios Still Matters in Modern Node.js and Browser Stacks",
+    "desc": "<p>Axios has gained another <strong>7 stars today</strong>, a small signal that this promise-based HTTP client remains relevant across brows",
+    "link": "https://dev.to/james_lin/why-axios-still-matters-in-modern-nodejs-and-browser-stacks-7k0",
     "topic": "general"
   },
   {
-    "title": "From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment (With Every Bug We Hit)",
-    "desc": "<h1>From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment (With Every Bug We Hit)</h1>\n<p>A step-by-step walkthrough of set",
-    "link": "https://dev.to/dineshstack/from-zero-to-staging-a-real-world-laravel-nodejs-docker-deployment-with-every-bug-we-hit-fn3",
-    "topic": "docker"
+    "title": "A Happy Eyeballs Test Can Measure the Wrong Half of Your Proxy Route",
+    "desc": "<blockquote>\n<p>Disclosure: I work with 98IP. This is vendor-neutral guidance for authorized connectivity testing.</p>\n</blockquote>\n\n<p>Hap",
+    "link": "https://dev.to/98ip/a-happy-eyeballs-test-can-measure-the-wrong-half-of-your-proxy-route-2e4o",
+    "topic": "general"
   }
 ]
