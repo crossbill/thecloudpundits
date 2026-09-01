@@ -1,50 +1,50 @@
 [
   {
-    "title": "Trinta horas de agente, um reloginho: a fila F0",
-    "desc": "<p>O recurso mais caro numa opera\u00e7\u00e3o rodada por agentes de IA n\u00e3o \u00e9 computa\u00e7\u00e3o, nem tokens. \u00c9 um espec\u00edfico conjunto de vinte e cinco minuto",
-    "link": "https://dev.to/oroborolabs/trinta-horas-de-agente-um-reloginho-a-fila-f0-1khi",
+    "title": "We built a local-first screenshot app for macOS and would love your feedback",
+    "desc": "<p>We\u2019re a small team building Sealshot, a free and open-source screenshot app for macOS.</p>\n\n<p>We started working on it because screensho",
+    "link": "https://dev.to/jojo219/we-built-a-local-first-screenshot-app-for-macos-and-would-love-your-feedback-48ke",
     "topic": "general"
   },
   {
-    "title": "CKA vs CKAD vs CKS: Which Cert to Take First",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/cka-vs-ckad-vs-cks/\" rel=\"noopener noreferrer\">DevToolHub</a>.</p>\n<",
-    "link": "https://dev.to/amareswer/cka-vs-ckad-vs-cks-which-cert-to-take-first-31jo",
+    "title": "The generator that refused, and why that is the feature",
+    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/the-generator-that-refused-field-note\" rel=\"noopener noreferrer\">aideazz.xyz</a",
+    "link": "https://dev.to/elenarevicheva/the-generator-that-refused-and-why-that-is-the-feature-o4i",
     "topic": "general"
   },
   {
-    "title": "Inside `oblien/openship`: A Practical Look at Self-Hosted Deployment Control",
-    "desc": "<p><code>oblien/openship</code> is gaining attention as a self-hosted deployment platform, with more than 111 new GitHub stars today. The in",
-    "link": "https://dev.to/james_lin/inside-oblienopenship-a-practical-look-at-self-hosted-deployment-control-pkn",
+    "title": "Don't Trust the Structure Either: A 48-Hour Contract Checker for Free Model Outputs",
+    "desc": "<p>You have probably seen plenty of posts about how free model outputs drift in quality. I have written a few of those myself. But there is ",
+    "link": "https://dev.to/codepy_1473/dont-trust-the-structure-either-a-48-hour-contract-checker-for-free-model-outputs-38le",
     "topic": "general"
   },
   {
-    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Aug 25 \u2013 Aug 31, 2026",
-    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Aug 25 \u2013 Aug 31, 2026 | <strong>Tot",
-    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-aug-25-aug-31-2026-1opj",
-    "topic": "aws"
-  },
-  {
-    "title": "I Built a Secure, Decoupled E-Commerce Architecture on AWS Using Only Free-Tier Resources",
-    "desc": "<p>Monolithic application deployments mix public web traffic with internal database storage, creating a single point of failure and unnecess",
-    "link": "https://dev.to/manny300/i-built-a-secure-decoupled-e-commerce-architecture-on-aws-using-only-free-tier-resources-pgf",
-    "topic": "aws"
-  },
-  {
-    "title": "Your Coding Agent Has Your AWS Keys and an Open Internet Connection",
-    "desc": "<p>The agent needs the network to install its dependencies. Then it runs code a model wrote, in the same box, with the same unrestricted egr",
-    "link": "https://dev.to/sebuzdugan/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-351l",
-    "topic": "aws"
-  },
-  {
-    "title": "Architecting Resilient Multi-Agent Swarms & Enterprise LLMOps in 2026",
-    "desc": "<h2>\n  \n  \n  The Next Frontier of Enterprise Artificial Intelligence\n</h2>\n\n<p>As enterprises transition beyond single-prompt chatbots into ",
-    "link": "https://dev.to/egor_ehoris/architecting-resilient-multi-agent-swarms-enterprise-llmops-in-2026-170n",
+    "title": "Your Verification Gate Passed an Agent Patch. Why Did Production Still Fail?",
+    "desc": "<p>A verification gate is not a guarantee. It is a proxy for production behavior.</p>\n\n<p>When an agent-generated patch passes every propert",
+    "link": "https://dev.to/datacpp_8185/your-verification-gate-passed-an-agent-patch-why-did-production-still-fail-4529",
     "topic": "general"
   },
   {
-    "title": "Keep an ER diagram of your database, updated on every push",
-    "desc": "<p>Paste a SQL schema, get an interactive entity-relationship diagram on a stable link. Wire it into CI and the diagram regenerates itself e",
-    "link": "https://dev.to/patu/keep-an-er-diagram-of-your-database-updated-on-every-push-3994",
+    "title": "Stop Rotating Proxies When a Crawl Fails a Content-Use Check",
+    "desc": "<blockquote>\n<p>Disclosure: I work with 98IP. This is a vendor-neutral operational pattern for authorized data collection.</p>\n</blockquote>",
+    "link": "https://dev.to/98ip/stop-rotating-proxies-when-a-crawl-fails-a-content-use-check-4a4d",
     "topic": "general"
+  },
+  {
+    "title": "Measuring the Tea Break",
+    "desc": "<p>I am not a fan of pull requests (PRs). I've <a href=\"https://sethorell.substack.com/p/code-review-musings\" rel=\"noopener noreferrer\">writ",
+    "link": "https://dev.to/aws-builders/measuring-the-tea-break-55hf",
+    "topic": "general"
+  },
+  {
+    "title": "A Practical Scoping Checklist for Enterprise AI Projects",
+    "desc": "<h1>\n  \n  \n  A Practical Scoping Checklist for Enterprise AI Projects\n</h1>\n\n<p>An enterprise AI project often goes wrong before the first m",
+    "link": "https://dev.to/xiuai-lab/a-practical-scoping-checklist-for-enterprise-ai-projects-4lc6",
+    "topic": "general"
+  },
+  {
+    "title": "From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment (With Every Bug We Hit)",
+    "desc": "<h1>From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment (With Every Bug We Hit)</h1>\n<p>A step-by-step walkthrough of set",
+    "link": "https://dev.to/dineshstack/from-zero-to-staging-a-real-world-laravel-nodejs-docker-deployment-with-every-bug-we-hit-fn3",
+    "topic": "docker"
   }
 ]
