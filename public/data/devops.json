@@ -1,50 +1,50 @@
 [
   {
-    "title": "Slashing AI API Costs by 85% via Hybrid AI Orchestration",
-    "desc": "<h2>\n  \n  \n  Enterprise HaaS Pipelines: Scaling Distributed Human-as-a-Sensor Ingestion via E2EE Gateways and Hybrid Asynchronous AI Orchest",
-    "link": "https://dev.to/grimnbold/slashing-ai-api-costs-by-85-via-hybrid-ai-orchestration-57om",
+    "title": "Trinta horas de agente, um reloginho: a fila F0",
+    "desc": "<p>O recurso mais caro numa opera\u00e7\u00e3o rodada por agentes de IA n\u00e3o \u00e9 computa\u00e7\u00e3o, nem tokens. \u00c9 um espec\u00edfico conjunto de vinte e cinco minuto",
+    "link": "https://dev.to/oroborolabs/trinta-horas-de-agente-um-reloginho-a-fila-f0-1khi",
     "topic": "general"
   },
   {
-    "title": "8 Kubernetes Cost Leaks Small Teams Miss",
-    "desc": "<p><em>The over-provisioning, logging, and idle-infrastructure defaults that quietly inflate a small team's Kubernetes bill\u2014and the order I'",
-    "link": "https://dev.to/kestrion/8-kubernetes-cost-leaks-small-teams-miss-2p9l",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Lease Your Fixtures: Deterministic Agent-Patch Gates Without a Global Lock",
-    "desc": "<p>A green checkmark means nothing if the seed file the test read was overwritten mid-run by a parallel patch. I kept seeing that exact situ",
-    "link": "https://dev.to/datacpp_8185/lease-your-fixtures-deterministic-agent-patch-gates-without-a-global-lock-12j1",
+    "title": "CKA vs CKAD vs CKS: Which Cert to Take First",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/cka-vs-ckad-vs-cks/\" rel=\"noopener noreferrer\">DevToolHub</a>.</p>\n<",
+    "link": "https://dev.to/amareswer/cka-vs-ckad-vs-cks-which-cert-to-take-first-31jo",
     "topic": "general"
   },
   {
-    "title": "GCP The Hard Way \u2014 Part 1: Lift-and-Shift Without Touching the Code",
-    "desc": "<h2>\n  \n  \n  Mission\n</h2>\n\n<p>Di chuy\u1ec3n 1 app local (Node.js/Flask/WordPress + MySQL) l\u00ean GCP.<br />\n<strong>R\u00e0ng bu\u1ed9c: kh\u00f4ng s\u1eeda 1 d\u00f2ng co",
-    "link": "https://dev.to/pilgrim2go/gcp-the-hard-way-part-1-lift-and-shift-without-touching-the-code-4mhm",
-    "topic": "gcp"
-  },
-  {
-    "title": "After 16 APKs and 4 Articles, I Built the Tool I Kept Describing",
-    "desc": "<blockquote>\n<p>Build Analyzer series, article 5 \u2014 the last one.</p>\n\n<p>Full disclosure up front: this post announces a paid tool I made. T",
-    "link": "https://dev.to/hano/after-16-apks-and-4-articles-i-built-the-tool-i-kept-describing-3ee0",
+    "title": "Inside `oblien/openship`: A Practical Look at Self-Hosted Deployment Control",
+    "desc": "<p><code>oblien/openship</code> is gaining attention as a self-hosted deployment platform, with more than 111 new GitHub stars today. The in",
+    "link": "https://dev.to/james_lin/inside-oblienopenship-a-practical-look-at-self-hosted-deployment-control-pkn",
     "topic": "general"
   },
   {
-    "title": "How to Fix Python Memory Leaks in Production \u2013 Proven Techniques & Tools",
-    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Memory leaks in Python can silently degrade performance, especially in long\u2011running production services.",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-python-memory-leaks-in-production-proven-techniques-tools-4e55",
+    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Aug 25 \u2013 Aug 31, 2026",
+    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Aug 25 \u2013 Aug 31, 2026 | <strong>Tot",
+    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-aug-25-aug-31-2026-1opj",
+    "topic": "aws"
+  },
+  {
+    "title": "I Built a Secure, Decoupled E-Commerce Architecture on AWS Using Only Free-Tier Resources",
+    "desc": "<p>Monolithic application deployments mix public web traffic with internal database storage, creating a single point of failure and unnecess",
+    "link": "https://dev.to/manny300/i-built-a-secure-decoupled-e-commerce-architecture-on-aws-using-only-free-tier-resources-pgf",
+    "topic": "aws"
+  },
+  {
+    "title": "Your Coding Agent Has Your AWS Keys and an Open Internet Connection",
+    "desc": "<p>The agent needs the network to install its dependencies. Then it runs code a model wrote, in the same box, with the same unrestricted egr",
+    "link": "https://dev.to/sebuzdugan/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-351l",
+    "topic": "aws"
+  },
+  {
+    "title": "Architecting Resilient Multi-Agent Swarms & Enterprise LLMOps in 2026",
+    "desc": "<h2>\n  \n  \n  The Next Frontier of Enterprise Artificial Intelligence\n</h2>\n\n<p>As enterprises transition beyond single-prompt chatbots into ",
+    "link": "https://dev.to/egor_ehoris/architecting-resilient-multi-agent-swarms-enterprise-llmops-in-2026-170n",
     "topic": "general"
   },
   {
-    "title": "What Hardening a Container Image Actually Removes",
-    "desc": "<p>Here's the fact that reframes container security once it lands: <strong>most of the CVEs a scanner screams about in your image are not in",
-    "link": "https://dev.to/v4nd1t/what-hardening-a-container-image-actually-removes-411f",
-    "topic": "docker"
-  },
-  {
-    "title": "The Linux Problems Senior Engineers Solve Without Memorizing Commands",
-    "desc": "<blockquote>\n<p><strong>How system architecture, kernel mental models, and the /proc filesystem replace hundreds of memorized flags during l",
-    "link": "https://dev.to/asepsayyad007/the-linux-problems-senior-engineers-solve-without-memorizing-commands-2960",
+    "title": "Keep an ER diagram of your database, updated on every push",
+    "desc": "<p>Paste a SQL schema, get an interactive entity-relationship diagram on a stable link. Wire it into CI and the diagram regenerates itself e",
+    "link": "https://dev.to/patu/keep-an-er-diagram-of-your-database-updated-on-every-push-3994",
     "topic": "general"
   }
 ]

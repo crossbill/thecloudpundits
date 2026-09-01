@@ -1,5 +1,11 @@
 [
   {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "desc": "",
+    "link": "https://huggingface.co/blog/webgpu-kernels",
+    "topic": "huggingface"
+  },
+  {
     "title": "The Open ASR Leaderboard Adds Its First Global South Language",
     "desc": "",
     "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
@@ -39,12 +45,6 @@
     "title": "Measuring benchmark optimization in speech recognition",
     "desc": "",
     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "topic": "general"
-  },
-  {
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "desc": "",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
     "topic": "general"
   }
 ]
