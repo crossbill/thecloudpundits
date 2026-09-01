@@ -1,5 +1,35 @@
 [
   {
+    "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
+    "desc": "<p>Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models.</p>\n<p>The post <a href=\"https://ww",
+    "link": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
+    "topic": "general"
+  },
+  {
+    "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
+    "desc": "<p>Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "Five Venezuelans Plead Guilty in US Court to ATM Jackpotting",
+    "desc": "<p>The defendants unsuccessfully attempted to physically install malware on ATMs to force them to dispense cash.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
+    "topic": "general"
+  },
+  {
+    "title": "Ransomware Gang Claims Nutex Health Data Breach",
+    "desc": "<p>The company has notified the SEC that hackers accessed patient, employee, provider, business, and financial information.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
+    "desc": "<p>Exploitation of the authentication bypass vulnerability CVE-2026-82329 started just days after its public disclosure.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/",
+    "topic": "secops"
+  },
+  {
     "title": "9.5 Million Impacted by Aesto Health Data Breach",
     "desc": "<p>Hackers stole personal and health information from the healthcare technology company\u2019s AWS infrastructure.</p>\n<p>The post <a href=\"https",
     "link": "https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
@@ -16,35 +46,5 @@
     "desc": "<p>CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog.</p>\n<p>The post <a href=\"https://www.",
     "link": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
     "topic": "general"
-  },
-  {
-    "title": "Nightmare Eclipse Drops \u2018HardBreacher\u2019 Kaspersky Product Exploit",
-    "desc": "<p>Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product.</p>\n<p>The post <a href=\"https://w",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
-    "topic": "secops"
-  },
-  {
-    "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
-    "desc": "<p>Attackers could exploit the security defects to execute arbitrary code and access or tamper with data.</p>\n<p>The post <a href=\"https://w",
-    "link": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "McKesson Confirms Data Breach as Attacker Deadline Looms",
-    "desc": "<p>The ShinyHunters extortion group has claimed the theft of 284 million records from the company\u2019s systems.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/",
-    "topic": "secops"
-  },
-  {
-    "title": "What the Hugging Face Incident Teaches Security Leaders About AI Agent Access",
-    "desc": "<p>Security teams must treat autonomous agents as highly privileged identities.</p>\n<p>The post <a href=\"https://www.securityweek.com/what-t",
-    "link": "https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/",
-    "topic": "huggingface"
-  },
-  {
-    "title": "Anthropic Warns Claude Users of Infostealer Malware Infections",
-    "desc": "<p>The AI giant is logging customers out of their accounts and removing payment data to prevent unauthorized Claude usage.</p>\n<p>The post <",
-    "link": "https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/",
-    "topic": "anthropic"
   }
 ]
