@@ -1,5 +1,11 @@
 [
   {
+    "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
+    "desc": "<p>Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as suppl",
+    "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
+    "topic": "general"
+  },
+  {
     "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
     "desc": "<p>The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.</p>\n<p>Th",
     "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
@@ -24,7 +30,7 @@
     "topic": "general"
   },
   {
-    "title": "OpenAI\u2019s Astra Becomes First Model to Cross Critical Cybersecurity Threshold",
+    "title": "OpenAI\u2019s Astra Crosses \u2018Critical\u2019 Cyber Threshold After Finding Zero-Days",
     "desc": "<p>The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems.</p>\n<",
     "link": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
     "topic": "openai"
@@ -40,11 +46,5 @@
     "desc": "<p>The shutdown operation involved peer list manipulation and Sality payload URL takedown.</p>\n<p>The post <a href=\"https://www.securityweek",
     "link": "https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
     "topic": "general"
-  },
-  {
-    "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
-    "desc": "<p>The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
-    "topic": "secops"
   }
 ]

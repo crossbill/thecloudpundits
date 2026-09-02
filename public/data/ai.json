@@ -1,5 +1,11 @@
 [
   {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "topic": "general"
+  },
+  {
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/benchmirt",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/gradio-workflow-guide",
     "topic": "general"
-  },
-  {
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "desc": "",
-    "link": "https://huggingface.co/blog/pwc-search",
-    "topic": "huggingface"
   }
 ]
