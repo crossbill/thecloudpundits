@@ -1,50 +1,50 @@
 [
   {
+    "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
+    "desc": "<p>The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
+    "topic": "general"
+  },
+  {
+    "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
+    "desc": "<p>The security defect allows remote attackers to bypass authentication through argument bearer manipulation.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards",
+    "desc": "<p>Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misus",
+    "link": "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Malicious Virtualizor Update Served via BGP Hijacking",
+    "desc": "<p>Using a technically valid TLS certificate for Softaculous\u2019 domains, a threat actor diverted traffic to fake software updates.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
+    "topic": "general"
+  },
+  {
+    "title": "OpenAI\u2019s Astra Becomes First Model to Cross Critical Cybersecurity Threshold",
+    "desc": "<p>The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems.</p>\n<",
+    "link": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
+    "topic": "openai"
+  },
+  {
+    "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
+    "desc": "<p>The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs.</p>\n<p>The post <a href=\"https://www.se",
+    "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "23-Year-Old Sality P2P Botnet Disrupted",
+    "desc": "<p>The shutdown operation involved peer list manipulation and Sality payload URL takedown.</p>\n<p>The post <a href=\"https://www.securityweek",
+    "link": "https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
+    "topic": "general"
+  },
+  {
     "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
     "desc": "<p>The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution.</p>\n<p>The post <a href=\"",
     "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "Palo Alto Networks Acquires AI Agent Platform Console",
-    "desc": "<p>The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next",
-    "link": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
-    "topic": "general"
-  },
-  {
-    "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
-    "desc": "<p>Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes.</p>\n",
-    "link": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
-    "topic": "secops"
-  },
-  {
-    "title": "Coast Guard Establishes Office of Maritime Cybersecurity Policy",
-    "desc": "<p>The new office will serve as the central authority for cybersecurity policy covering US ports, vessels, and maritime facilities.</p>\n<p>T",
-    "link": "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/",
-    "topic": "secops"
-  },
-  {
-    "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
-    "desc": "<p>Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
-    "topic": "general"
-  },
-  {
-    "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
-    "desc": "<p>Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "Five Venezuelans Plead Guilty in US Court to ATM Jackpotting",
-    "desc": "<p>The defendants unsuccessfully attempted to physically install malware on ATMs to force them to dispense cash.</p>\n<p>The post <a href=\"ht",
-    "link": "https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
-    "topic": "general"
-  },
-  {
-    "title": "Ransomware Gang Claims Nutex Health Data Breach",
-    "desc": "<p>The company has notified the SEC that hackers accessed patient, employee, provider, business, and financial information.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
     "topic": "secops"
   }
 ]
