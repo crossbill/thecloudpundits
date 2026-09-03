@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your CI is green and your pipeline produced nothing",
-    "desc": "<p>Two failures broke an unattended pipeline I ran for a few months, and neither of them looked like an error. I want to describe them preci",
-    "link": "https://dev.to/provedone/your-ci-is-green-and-your-pipeline-produced-nothing-213o",
+    "title": "logSpecter \u2013 Schema-aware secret scanner for cloud logs (Regex + Shannon Entropy + JSON Path trackin",
+    "desc": "<p>Hey everyone,</p>\n\n<p>I built logSpecter, an open-source secret scanner designed specifically for structured cloud logs.</p>\n\n<p>What My ",
+    "link": "https://dev.to/jeffy123zhu/logspecter-schema-aware-secret-scanner-for-cloud-logs-regex-shannon-entropy-json-path-trackin-1kce",
     "topic": "general"
   },
   {
-    "title": "JSM Assets has no bulk export. Here is the AQL workaround and a one-click option",
-    "desc": "<p>Sooner or later every Assets (formerly Insight) admin needs the whole CMDB out: an auditor wants the asset register, a migration needs a ",
-    "link": "https://dev.to/llmgraph/jsm-assets-has-no-bulk-export-here-is-the-aql-workaround-and-a-one-click-option-5h15",
+    "title": "David Stark: Top High-Paying Roles",
+    "desc": "<h3>\n  \n  \n  \ud83d\udc4b Hello Architects & Elite Engineers,\n</h3>\n\n<p>The market is shifting. We are seeing a surge in <strong>DEVOPS</strong> roles ",
+    "link": "https://dev.to/devpulse/david-stark-top-high-paying-roles-364k",
     "topic": "general"
   },
   {
-    "title": "Atlassian gives you a Python script to find group usage in Jira. Here is what it misses",
-    "desc": "<p>Ask any Jira admin who has tried to delete a group: before you remove it, you need to know every place it is used, or something breaks qu",
-    "link": "https://dev.to/llmgraph/atlassian-gives-you-a-python-script-to-find-group-usage-in-jira-here-is-what-it-misses-b6n",
+    "title": "There's Now an Open-Source Fault Localization Project in Ops",
+    "desc": "<p>Ops rarely lacks metrics, topology, traces, or logs. What it lacks is lining those four up when something breaks.</p>\n\n<p>Take an entry s",
+    "link": "https://dev.to/databufflabs/theres-now-an-open-source-fault-localization-project-in-ops-20c1",
     "topic": "general"
   },
   {
-    "title": "Fix SSL/TLS Certificate Handshake Failures \u2013 Step-by-Step Guide for Developers",
-    "desc": "<h1>\n  \n  \n  How to Resolve SSL/TLS Certificate Handshake Failures\n</h1>\n\n<p><strong>Keywords:</strong> SSL, TLS, certificate, handshake, tr",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-ssltls-certificate-handshake-failures-step-by-step-guide-for-developers-24p4",
+    "title": "Bitcoin Endpoint: What It Is and How to Connect",
+    "desc": "<h2>\n  \n  \n  Quick recommendation: how to pick a Bitcoin endpoint\n</h2>\n\n<p>If you are building an application that reads Bitcoin data or br",
+    "link": "https://dev.to/onfinality/bitcoin-endpoint-what-it-is-and-how-to-connect-3ngi",
     "topic": "general"
   },
   {
-    "title": "We audited our AI coding agent's own config. It failed.",
-    "desc": "<p>Your AI coding agent runs with your permissions. All of them.</p>\n\n<p>If it can read a file, it reads with your account. If it can run a ",
-    "link": "https://dev.to/redcapra/we-audited-our-ai-coding-agents-own-config-it-failed-450a",
+    "title": "Base Node Infrastructure: Run vs. Managed RPC",
+    "desc": "<h2>\n  \n  \n  Quick decision guide: run your own Base node or use managed infrastructure?\n</h2>\n\n<p>Before you commit to operating Base node ",
+    "link": "https://dev.to/onfinality/base-node-infrastructure-run-vs-managed-rpc-1mc0",
     "topic": "general"
   },
   {
-    "title": "Every Deploy Throws a Few 502s: Where Graceful Shutdown Actually Breaks",
-    "desc": "<p>If your error tracker shows a tight cluster of <code>502 Bad Gateway</code> or <code>ECONNRESET</code> errors that starts the second a de",
-    "link": "https://dev.to/libme/every-deploy-throws-a-few-502s-where-graceful-shutdown-actually-breaks-300g",
+    "title": "Fantom Node: What It Is and How to Connect to Fantom Opera",
+    "desc": "<h2>\n  \n  \n  Quick Answer: What Is a Fantom Node?\n</h2>\n\n<p>A Fantom node is a software client that maintains a copy of the Fantom Opera blo",
+    "link": "https://dev.to/onfinality/fantom-node-what-it-is-and-how-to-connect-to-fantom-opera-4bcj",
     "topic": "general"
   },
   {
-    "title": "Stop Calling the Free Sandbox Staging: A Five-Myth FAQ",
-    "desc": "<p>Did your sandbox pass while production still refused the call? That pattern is not mysterious vendor weather. It is a wrong name for the ",
-    "link": "https://dev.to/gitlab_3188/stop-calling-the-free-sandbox-staging-a-five-myth-faq-2ijb",
+    "title": "Why I Built a Deterministic CPG-to-Nuclei Compiler in Rust",
+    "desc": "<p>My background is in mechanical engineering. When I transitioned into cybersecurity, I brought a physical mindset with me: a system only w",
+    "link": "https://dev.to/tito099/why-i-built-a-deterministic-cpg-to-nuclei-compiler-in-rust-2369",
     "topic": "general"
   },
   {
-    "title": "Test Agent Patches With an Oracle the Diff Cannot Touch",
-    "desc": "<p>An agent patch is only as trustworthy as the checks it cannot rewrite. If properties, fixtures, and flake policy live in the same tree as",
-    "link": "https://dev.to/datacpp_8185/test-agent-patches-with-an-oracle-the-diff-cannot-touch-34nk",
+    "title": "Three gotchas installing a plugin into someone else's agent",
+    "desc": "<h1>\n  \n  \n  Three gotchas installing a plugin into someone else's agent\n</h1>\n\n<p>This one is scoped tight: getting a plugin into OpenClaw'",
+    "link": "https://dev.to/mahirhir/three-gotchas-installing-a-plugin-into-someone-elses-agent-4co7",
     "topic": "general"
   }
 ]
