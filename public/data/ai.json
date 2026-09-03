@@ -1,5 +1,23 @@
 [
   {
+    "title": "*NeoMME*: an efficient Multimodal-native and Multilingual Encoder",
+    "desc": "",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "topic": "general"
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "desc": "",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "topic": "general"
+  },
+  {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "desc": "",
+    "link": "https://huggingface.co/blog/funes",
+    "topic": "general"
+  },
+  {
     "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
     "desc": "",
     "link": "https://huggingface.co/blog/train-to-paint-with-code",
@@ -27,24 +45,6 @@
     "title": "The Open ASR Leaderboard Adds Its First Global South Language",
     "desc": "",
     "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "topic": "general"
-  },
-  {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "desc": "",
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "topic": "general"
-  },
-  {
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "topic": "general"
-  },
-  {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "desc": "",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "topic": "general"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
+    "desc": "<p>The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
+    "topic": "secops"
+  },
+  {
+    "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
+    "desc": "<p>The startup\u2019s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply",
+    "link": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
+    "topic": "secops"
+  },
+  {
+    "title": "153 Million Driver License Images Offered on Dark Web",
+    "desc": "<p>Cybercriminals are offering digital scans of US and Canadian driver\u2019s licenses, likely stolen from IDScan.net.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
+    "topic": "general"
+  },
+  {
+    "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+    "desc": "<p>The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
+    "desc": "<p>Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execu",
+    "link": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
+    "topic": "aws"
+  },
+  {
     "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
     "desc": "<p>The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is unc",
     "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
@@ -15,36 +45,6 @@
     "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
     "desc": "<p>The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.</p>\n<p>Th",
     "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
-    "topic": "general"
-  },
-  {
-    "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
-    "desc": "<p>The security defect allows remote attackers to bypass authentication through argument bearer manipulation.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards",
-    "desc": "<p>Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misus",
-    "link": "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Malicious Virtualizor Update Served via BGP Hijacking",
-    "desc": "<p>Using a technically valid TLS certificate for Softaculous\u2019 domains, a threat actor diverted traffic to fake software updates.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
-    "topic": "general"
-  },
-  {
-    "title": "OpenAI\u2019s Astra Crosses \u2018Critical\u2019 Cyber Threshold After Finding Zero-Days",
-    "desc": "<p>The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems.</p>\n<",
-    "link": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
-    "topic": "openai"
-  },
-  {
-    "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
-    "desc": "<p>The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs.</p>\n<p>The post <a href=\"https://www.se",
-    "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
     "topic": "general"
   }
 ]

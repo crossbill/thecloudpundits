@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Customer Journey Behind a Successful VPN Subscription",
-    "desc": "<p>A successful VPN subscription rarely begins when someone enters payment details. It starts much earlier, often when a potential customer ",
-    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/the-customer-journey-behind-a-successful-vpn-subscription-1g2l",
+    "title": "Build a spend variance triage loop for AI API gateways",
+    "desc": "<h1>\n  \n  \n  Build a spend variance triage loop for AI API gateways\n</h1>\n\n<p>The first bad AI API invoice is usually not a math problem. It",
+    "link": "https://dev.to/aiwave/build-a-spend-variance-triage-loop-for-ai-api-gateways-2pco",
     "topic": "general"
   },
   {
-    "title": "Flow from Water Level: Building a Hydrological Rating Curve Pipeline from Measured Data to Calibration",
-    "desc": "<p>In daily monitoring of rivers, reservoirs, and hydrological stations, water level can typically be continuously captured through automate",
-    "link": "https://dev.to/tongwu/flow-from-water-level-building-a-hydrological-rating-curve-pipeline-from-measured-data-to-3008",
-    "topic": "general"
-  },
-  {
-    "title": "qData Open Source Edition Simplifies Deployment: New SH & BAT One-Click Scripts with Proactive Environment Checks",
-    "desc": "<p>For an open-source project, downloading the code or deployment package is only the first step.</p>\n\n<p>The real key to getting started is",
-    "link": "https://dev.to/tongwu/qdata-open-source-edition-simplifies-deployment-new-sh-bat-one-click-scripts-with-proactive-32a5",
-    "topic": "general"
-  },
-  {
-    "title": "Learn DevOps from Fundamentals to Real-World Implementation : DevOps Course in Telugu",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/abinay_abhi_a7370b2bd4485/learn-devops-from-fundamentals-to-real-world-implementation-devops-course-in-telugu-4ob1",
-    "topic": "general"
-  },
-  {
-    "title": "Debugging Async/Await Deadlocks in JavaScript \u2013 Proven Tips & Best Practices",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Asynchronous code is the backbone of modern JavaScript applications, but when <code>async/await</code> p",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-proven-tips-best-practices-4pn9",
-    "topic": "general"
-  },
-  {
-    "title": "Setting Up PostgreSQL Read Replicas with Docker",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
-    "link": "https://dev.to/chasebot/setting-up-postgresql-read-replicas-with-docker-16dk",
+    "title": "\u201cI\u2019m not excited by what AI can do. I\u2019m excited by what I can do.\u201d AI and security takeaways from ContainerDays Hamburg",
+    "desc": "<p>I spent three days at <a href=\"https://www.containerdays.io/containerdays-hamburg-2026/\" rel=\"noopener noreferrer\">ContainerDays Hamburg ",
+    "link": "https://dev.to/fortune-ndlovu/im-not-excited-by-what-ai-can-do-im-excited-by-what-i-can-do-ai-and-security-takeaways-from-5cag",
     "topic": "docker"
   },
   {
-    "title": "Deep-Dive Agentic Engineering on Azure: Technical Case Studies and AI-103 Patterns",
-    "desc": "<p>Enterprise AI in 2026 has transitioned from simple prompt engineering into complex agentic software architectures. Modern cloud solutions",
-    "link": "https://dev.to/dylanhayesit/deep-dive-agentic-engineering-on-azure-technical-case-studies-and-ai-103-patterns-2e8c",
-    "topic": "azure"
+    "title": "A Practical Roadmap Through the DevOps Lifecycle",
+    "desc": "<p>DevOps lifecycle practices help organizations bring development and operations closer together, enabling faster software delivery while m",
+    "link": "https://dev.to/marcom/a-practical-roadmap-through-the-devops-lifecycle-3ijg",
+    "topic": "general"
   },
   {
-    "title": "Why `sponsors/jdx` Is Trending: The Dev Tooling Behind Reproducible Environments",
-    "desc": "<p><code>sponsors/jdx</code> is a GitHub sponsor profile, not a package you install directly. The useful engineering signal is the ecosystem",
-    "link": "https://dev.to/jamse_bao/why-sponsorsjdx-is-trending-the-dev-tooling-behind-reproducible-environments-2di0",
+    "title": "Don't Ask a Model to Narrate Itself: How I Actually Extracted a Method From Fable5",
+    "desc": "<p>The first time I wanted to \"learn how Fable5 thinks,\" I did the obvious thing: I asked it directly. \"How do you approach a problem?\" I co",
+    "link": "https://dev.to/dexterlung/dont-ask-a-model-to-narrate-itself-how-i-actually-extracted-a-method-from-fable5-5071",
     "topic": "general"
+  },
+  {
+    "title": "Boost Engineering Performance: Optimizing GitHub Codespaces for Faster Builds and Leaner Environments",
+    "desc": "<p>In the fast-paced world of software development, every minute counts. Cloud-based development environments like GitHub Codespaces promise",
+    "link": "https://dev.to/devactivity/boost-engineering-performance-optimizing-github-codespaces-for-faster-builds-and-leaner-1cli",
+    "topic": "general"
+  },
+  {
+    "title": "Your build produces a hash. Who can check it without asking you?",
+    "desc": "<p>Here's the question I'd ask about your own pipeline, and it's not the one you think.</p>\n\n<p>You already hash things. Your CI emits a dig",
+    "link": "https://dev.to/craig_solomon/your-build-produces-a-hash-who-can-check-it-without-asking-you-lge",
+    "topic": "general"
+  },
+  {
+    "title": "Netlify custom domain stuck on *.netlify.app \u2014 LE never issues",
+    "desc": "<p>If your custom domain verifies in Netlify but the live site still serves <code>*.netlify.app</code>, and Let's Encrypt never issues (or r",
+    "link": "https://dev.to/member_bb8cad92/netlify-custom-domain-stuck-on-netlifyapp-le-never-issues-548b",
+    "topic": "general"
+  },
+  {
+    "title": "AWS SNS + SQS Hands-On Lab",
+    "desc": "<blockquote>\n<p>Two practical exercises covering SNS fan-out with SQS/DLQ, and CloudWatch alarm notifications delivered through SNS.</p>\n</b",
+    "link": "https://dev.to/tejas_shinkar/aws-sns-sqs-hands-on-lab-1d24",
+    "topic": "aws"
   }
 ]
