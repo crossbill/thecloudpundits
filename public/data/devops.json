@@ -1,50 +1,50 @@
 [
   {
-    "title": "Free compute worth claiming in September 2026",
-    "desc": "<p>Free compute is easiest to misunderstand when the headline number is technically true.</p>\n\n<p>A platform says it includes a million requ",
-    "link": "https://dev.to/billiem/free-compute-worth-claiming-in-september-2026-1hg0",
+    "title": "Add a code-health badge to any repo from just its git history",
+    "desc": "<p>You've seen coverage badges. You've seen build badges. But there's a whole<br />\ndimension of codebase health those never touch: <strong>",
+    "link": "https://dev.to/kenjirasmussen/add-a-code-health-badge-to-any-repo-from-just-its-git-history-2316",
     "topic": "general"
   },
   {
-    "title": "Fixing Python Memory Leaks in Production \u2013 Step\u2011by\u2011Step Guide for Developers",
-    "desc": "<h1>\n  \n  \n  Fixing Python Memory Leaks in Production \u2013 A Step\u2011by\u2011Step Guide for Developers\n</h1>\n\n<p><strong>TL;DR:</strong> Detect, profil",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-step-by-step-guide-for-developers-2fpk",
+    "title": "Chaos Engineering in Practice",
+    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Resilience you have not tested is just hope. Learn to inject failure deliberately, kill nodes, add",
+    "link": "https://dev.to/sri2614/chaos-engineering-in-practice-3hip",
     "topic": "general"
   },
   {
-    "title": "Shift Left was how ops got fired and devs got the pager",
-    "desc": "<p>Someone on a developer forum referred to Shift Left as a \"psy-op\" last week. I found it amusing. Then I realized they were correct. The c",
-    "link": "https://dev.to/adioof/shift-left-was-how-ops-got-fired-and-devs-got-the-pager-4d2h",
+    "title": "What Actually Happens When You Run `curl https://example.com`",
+    "desc": "<h1>\n  \n  \n  What Actually Happens When You Run <code>curl https://example.com</code>\n</h1>\n\n<p>You type <code>curl https://example.com</cod",
+    "link": "https://dev.to/syed_anzar/what-actually-happens-when-you-run-curl-httpsexamplecom-29g9",
     "topic": "general"
   },
   {
-    "title": "Docker Security: Complete Guide",
-    "desc": "<p><strong>Meta description:</strong> Master Docker security with this complete guide. Learn best practices for container security, image ha",
-    "link": "https://dev.to/cub4nh1/docker-security-complete-guide-1bce",
-    "topic": "docker"
-  },
-  {
-    "title": "Building Healthcare Apps People Trust",
-    "desc": "<p>Building a <a href=\"https://www.loudowls.com/case-study/hoag-compass\" rel=\"noopener noreferrer\">healthcare app</a> is different from buil",
-    "link": "https://dev.to/vasundhra/building-healthcare-apps-people-trust-42hm",
+    "title": "What if servers balanced load like Emperor Penguins? Meet HuddleCluster",
+    "desc": "<p>In Antarctic blizzards where temperatures drop below -40\u00b0C and winds scream past 200 km/h, Emperor Penguins survive without any central c",
+    "link": "https://dev.to/rahad_bhuiya/what-if-servers-balanced-load-like-emperor-penguins-meet-huddlecluster-4kjb",
     "topic": "general"
   },
   {
-    "title": "What the Best MCP Gateways Do in 2026",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/what-the-best-mcp-gateways-do-in-2026-2kli",
+    "title": "CVE-2026-32475: Unauthenticated RCE in Elementor Pro via File Upload Validation Bypass",
+    "desc": "<p>CVE-2026-32475 is an unauthenticated arbitrary file upload to RCE in Elementor Pro (<= 4.2.1, fixed in 4.2.2). CVSS 9.0 (CWE-434). If you",
+    "link": "https://dev.to/stanleya/cve-2026-32475-unauthenticated-rce-in-elementor-pro-via-file-upload-validation-bypass-5e41",
     "topic": "general"
   },
   {
-    "title": "Where Did the Time Go? Query Profiler in CHOps",
-    "desc": "<p>A query takes 9 seconds. You read the SQL. You read <code>EXPLAIN</code>. Nothing looks wrong.</p>\n\n<p><code>EXPLAIN</code> tells you wha",
-    "link": "https://dev.to/kanishga_subramani_49ad73/where-did-the-time-go-query-profiler-in-chops-2kk3",
+    "title": "My Pull Request Failed \u2014 Because GitHub Actions Was Protecting the Repository",
+    "desc": "<p>Sometimes the most useful security lessons don't start with a security audit.</p>\n\n<p>They start with a failed CI job.</p>\n\n<p>Recently, ",
+    "link": "https://dev.to/ismailzahir/my-pull-request-failed-because-github-actions-was-protecting-the-repository-2h8i",
     "topic": "general"
   },
   {
-    "title": "Best LLM Gateway to Manage Access for AI Models and Providers",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/best-llm-gateway-to-manage-access-for-ai-models-and-providers-3kcj",
+    "title": "No Ads Bjj Rounds: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
+    "link": "https://dev.to/igorganapolsky/no-ads-bjj-rounds-what-we-learned-building-random-tactical-timer-2515",
     "topic": "general"
+  },
+  {
+    "title": "How to Structure Your API Security Testing with OWASP ASTF \ud83d\ude80",
+    "desc": "<p>If you work in DevSecOps, backend development, or cybersecurity, you\u2019ve likely noticed that traditional vulnerability scanners often fall",
+    "link": "https://dev.to/rhgs/how-to-structure-your-api-security-testing-with-owasp-astf-4623",
+    "topic": "secops"
   }
 ]
