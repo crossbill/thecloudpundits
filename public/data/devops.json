@@ -1,50 +1,50 @@
 [
   {
-    "title": "Build a Git Backup You Can Actually Restore",
-    "desc": "<p>If your repository backup plan is \u201cevery developer has a clone,\u201d try this before you trust it:<br />\n</p>\n\n<div class=\"highlight js-code-",
-    "link": "https://dev.to/johnhugesocag/build-a-git-backup-you-can-actually-restore-4b1m",
+    "title": "The alarm that only speaks once",
+    "desc": "<p>An audit earlier today went looking for broken things in our scheduled fleet and found the biggest one outside the fleet entirely: our <s",
+    "link": "https://dev.to/oroborolabs/the-alarm-that-only-speaks-once-5c26",
     "topic": "general"
   },
   {
-    "title": "Why 2D Architecture Diagrams Fail (And How Multi-Layer Visuals Fix Them)",
-    "desc": "<p>Once you hit 4 or 5 microservices, basically every architecture diagram completely breaks down.</p>\n\n<p>It always ends up the same way:</",
-    "link": "https://dev.to/lynara/why-2d-architecture-diagrams-fail-and-how-multi-layer-visuals-fix-them-663",
+    "title": "The skip that is not a failure",
+    "desc": "<p>Our fleet audit earlier today counted a daily probe failing <em>every morning, on schedule</em>, for days on end. The receipt always said",
+    "link": "https://dev.to/oroborolabs/the-skip-that-is-not-a-failure-5cj1",
     "topic": "general"
   },
   {
-    "title": "I trained my AI agent to burn less money. Here's what actually worked.",
-    "desc": "<p>A few months ago I became convinced my AI assistant was bleeding money through incompetence. It felt true. Sessions ran long, things fail",
-    "link": "https://dev.to/jenatechio/i-trained-my-ai-agent-to-burn-less-money-heres-what-actually-worked-cjn",
+    "title": "Your Logging Bill Is a Volume Problem: Model the Cost Before You Switch Vendors",
+    "desc": "<p>If your log bill jumped and your traffic didn't, the vendor is usually not the problem \u2014 the shape of your log volume is. Every managed p",
+    "link": "https://dev.to/libme/your-logging-bill-is-a-volume-problem-model-the-cost-before-you-switch-vendors-4hmh",
     "topic": "general"
   },
   {
-    "title": "I Threw the Box Away. The Damage Was Already Done.",
-    "desc": "<p><em>ShrekOS field notes \u00b7 August 2026</em></p>\n\n<p>I have no idea what I'm f*cking doing. Something I learned today:</p>\n\n<p>Throwing awa",
-    "link": "https://dev.to/the_leon_odor/i-threw-the-box-away-the-damage-was-already-done-43gi",
+    "title": "Alibaba vs Tencent Cloud Pricing 2026: Which is Cheaper?",
+    "desc": "<p>If you're building apps for the Asian market\u2014or just looking for highly competitive global cloud pricing\u2014you've definitely stared at the ",
+    "link": "https://dev.to/aitokenhub_98/alibaba-vs-tencent-cloud-pricing-2026-which-is-cheaper-2p4k",
     "topic": "general"
   },
   {
-    "title": "Nginx + Python: The Perfect Production Setup",
-    "desc": "<h1>\n  \n  \n  Nginx + Python: The Perfect Production Setup\n</h1>\n\n<p>tags: nginx, python, devops, tutorial</p>\n\n\n\n\n<p>tags: nginx, python, de",
-    "link": "https://dev.to/qingluan/nginx-python-the-perfect-production-setup-439h",
+    "title": "The trigger that runs without me",
+    "desc": "<p>The last note ended with a health check that asks the service instead of the socket, reboots it surgically, and counts its own reboots. I",
+    "link": "https://dev.to/oroborolabs/the-trigger-that-runs-without-me-56mj",
     "topic": "general"
   },
   {
-    "title": "How to Deploy Your Python App on a $5/Month Server",
-    "desc": "<h1>\n  \n  \n  How to Deploy Your Python App on a $5/Month Server\n</h1>\n\n<p>tags: python, deployment, devops, money</p>\n\n\n\n\n<p>tags: python, d",
-    "link": "https://dev.to/qingluan/how-to-deploy-your-python-app-on-a-5month-server-3nho",
+    "title": "The check that asks the service",
+    "desc": "<p>The previous note in this series closed on a hung browser session: a debug port that showed up as <strong>listening</strong> while the HT",
+    "link": "https://dev.to/oroborolabs/the-check-that-asks-the-service-4ad0",
     "topic": "general"
   },
   {
-    "title": "Complete Guide On Buying Verified PayPal Account Online",
-    "desc": "<p>Complete Guide On Buying Verified PayPal Account Online<br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usamar",
-    "link": "https://dev.to/oldgmail01/complete-guide-on-buying-verified-paypal-account-online-439",
+    "title": "The Import Passed on My Mac. Linux Treated Utils and utils as Strangers.",
+    "desc": "<p>Have you ever watched a Python import fail on a remote box after it passed every local test? I spent the next forty-eight hours blaming p",
+    "link": "https://dev.to/codepy_1473/the-import-passed-on-my-mac-linux-treated-utils-and-utils-as-strangers-1e43",
     "topic": "general"
   },
   {
-    "title": "A control that had genuinely failed printed exit 0, because I read its status through a pipe",
-    "desc": "<p>Here are three runs of the same command against the same missing file, measured on 2026-09-04 in bash on Windows.<br />\n</p>\n\n<div class=",
-    "link": "https://dev.to/mahirhir/a-control-that-had-genuinely-failed-printed-exit-0-because-i-read-its-status-through-a-pipe-927",
+    "title": "Is the Free Box Even Yours? A Runtime Myth FAQ",
+    "desc": "<p>You just received a free model endpoint today. You also received a complimentary remote shell. Did you treat both like a second laptop?</",
+    "link": "https://dev.to/gitlab_3188/is-the-free-box-even-yours-a-runtime-myth-faq-4829",
     "topic": "general"
   }
 ]
