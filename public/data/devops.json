@@ -1,50 +1,50 @@
 [
   {
-    "title": "Verifying an IPv4 Block Before You Lease It: RDAP, BGP, and RPKI in Practice",
-    "desc": "<p>Most \"who owns this IP\" tooling answers one question and presents it as the whole answer. For incident response that's usually fine. For ",
-    "link": "https://dev.to/kohanevich/verifying-an-ipv4-block-before-you-lease-it-rdap-bgp-and-rpki-in-practice-5fnl",
+    "title": "Self-Healing CI Fixes Your Environment. Your Coding Agent Fixes the Code.",
+    "desc": "<h2>\n  \n  \n  The agent is already in your workflow. The failed build is where it goes blind.\n</h2>\n\n<p>AI coding agents have moved from nove",
+    "link": "https://dev.to/kalemi/self-healing-ci-fixes-your-environment-your-coding-agent-fixes-the-code-4b9k",
     "topic": "general"
   },
   {
-    "title": "I Thought the Free Server Hung. It Was Waiting for a Line I Would Never Type.",
-    "desc": "<p>Have you ever stared at a remote job that claimed it was still running, while your laptop version finished in seconds? I did exactly that",
-    "link": "https://dev.to/codepy_1473/i-thought-the-free-server-hung-it-was-waiting-for-a-line-i-would-never-type-59be",
+    "title": "The Pipeline Became the Attack Surface: What the 2026 CI/CD Shifts Mean for Reliability",
+    "desc": "<h1>\n  \n  \n  The Pipeline Became the Attack Surface\n</h1>\n\n<p>For most of the last decade, we treated the CI/CD pipeline as plumbing: invisi",
+    "link": "https://dev.to/kalemi/the-pipeline-became-the-attack-surface-what-the-2026-cicd-shifts-mean-for-reliability-4p13",
+    "topic": "secops"
+  },
+  {
+    "title": "Why DNS Lookups Silently Fail in Production: 5 Resolution Traps Every Engineer Hits",
+    "desc": "<p>You deploy an urgent microservice update, push DNS records, and everything seems fine locally. Ten minutes later, PagerDuty lights up: wo",
+    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-dns-lookups-silently-fail-in-production-5-resolution-traps-every-engineer-hits-1ob4",
     "topic": "general"
   },
   {
-    "title": "MLOps for Developers: Deploying, Monitoring, and Optimizing Machine Learning Models",
-    "desc": "<p><em>How to deploy, monitor, and optimize ML models in production: GPU selection, VRAM requirements, cloud vs local cost, model drift, and",
-    "link": "https://dev.to/apeder/mlops-for-developers-deploying-monitoring-and-optimizing-machine-learning-models-2hli",
+    "title": "The CI/CD Tools Landscape in 2026: What Each Category Is Actually For",
+    "desc": "<p>Most \"best CI/CD tools\" lists are twenty logos in a table, ranked by nothing in particular, with the author's product at the top. This is",
+    "link": "https://dev.to/kalemi/the-cicd-tools-landscape-in-2026-what-each-category-is-actually-for-5fi2",
     "topic": "general"
   },
   {
-    "title": "De la `npm run dev` la produc\u021bie: cum alegi infrastructura de hosting potrivit\u0103 aplica\u021biei tale",
-    "desc": "<p>C\u00e2nd termini o aplica\u021bie \u0219i vrei s\u0103 o mu\u021bi \u00een produc\u021bie, apare \u00eentrebarea pe care fiecare developer o am\u00e2n\u0103 c\u00e2t poate: <em>ce hosting ale",
-    "link": "https://dev.to/kabynode/de-la-npm-run-dev-la-productie-cum-alegi-infrastructura-de-hosting-potrivita-aplicatiei-tale-4n34",
+    "title": "The Trust Gap: Why CI/CD Is the Last Place Teams Let AI In, and How to Earn That Trust",
+    "desc": "<p>Two things are true about software delivery in 2026, and they are pulling in opposite directions.</p>\n\n<p>The first: AI is now writing a ",
+    "link": "https://dev.to/kalemi/the-trust-gap-why-cicd-is-the-last-place-teams-let-ai-in-and-how-to-earn-that-trust-c0h",
     "topic": "general"
   },
   {
-    "title": "Inside `xai-org/x-algorithm`: What an Open For You Feed Teaches Infrastructure Engineers",
-    "desc": "<p>The <code>xai-org/x-algorithm</code> repository has been attracting attention, with <strong>37 new stars today</strong>, because it expos",
-    "link": "https://dev.to/james_lin/inside-xai-orgx-algorithm-what-an-open-for-you-feed-teaches-infrastructure-engineers-2h6p",
+    "title": "Hetzner vs Contabo: How to Choose the Right Budget Host",
+    "desc": "<p>A decision framework for picking between two low-cost European hosting providers, with Hetzner's current product lineup summarized from i",
+    "link": "https://dev.to/kimcomplete/hetzner-vs-contabo-how-to-choose-the-right-budget-host-522e",
     "topic": "general"
   },
   {
-    "title": "Argo CD Fixed My Drift, Then Deployed My Bad Release",
-    "desc": "<p>This project started with a simple goal: run Kubernetes without keeping an EKS<br />\ncluster online every day.</p>\n\n<p>In <a href=\"https:",
-    "link": "https://dev.to/lbagga/argo-cd-fixed-my-drift-then-deployed-my-bad-release-327b",
+    "title": "CI Got Cheaper in 2026. Reliability Is Now the Harder Problem",
+    "desc": "<p>The first half of 2026 reset two things at once for engineering teams: what continuous integration costs, and what it takes to keep deliv",
+    "link": "https://dev.to/kalemi/ci-got-cheaper-in-2026-reliability-is-now-the-harder-problem-i4n",
     "topic": "general"
   },
   {
-    "title": "Buy Google Voice Accounts Of Any Country",
-    "desc": "<p>\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usamarketit@gmail.com\">usamarketit@gmail.com</a><br />\n\ud83d\udc8e WhatsApp: +",
-    "link": "https://dev.to/googlevoice05/buy-google-voice-accounts-of-any-country-2380",
-    "topic": "general"
-  },
-  {
-    "title": "Trusted Place To Buy Google Voice Accounts USA/UK/CANADA",
-    "desc": "<p>\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usamarketit@gmail.com\">usamarketit@gmail.com</a><br />\n\ud83d\udc8e WhatsApp: +",
-    "link": "https://dev.to/googlevoice05/trusted-place-to-buy-google-voice-accounts-usaukcanada-24jk",
-    "topic": "general"
+    "title": "The 2026 GitHub Actions Reset: Cheaper Runners, Stricter Security, and Smarter Pipelines",
+    "desc": "<p>The first half of 2026 rearranged three things at once for teams that live in GitHub Actions: what CI costs, how it is secured, and how m",
+    "link": "https://dev.to/kalemi/the-2026-github-actions-reset-cheaper-runners-stricter-security-and-smarter-pipelines-1mh6",
+    "topic": "secops"
   }
 ]
