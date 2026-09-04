@@ -1,50 +1,50 @@
 [
   {
-    "title": "Self-Healing CI Fixes Your Environment. Your Coding Agent Fixes the Code.",
-    "desc": "<h2>\n  \n  \n  The agent is already in your workflow. The failed build is where it goes blind.\n</h2>\n\n<p>AI coding agents have moved from nove",
-    "link": "https://dev.to/kalemi/self-healing-ci-fixes-your-environment-your-coding-agent-fixes-the-code-4b9k",
+    "title": "Stop Paying for Vercel: How to Self-Host Your Deployments on a VPS and Keep the Same Workflow",
+    "desc": "<p>Push-to-deploy, automatic HTTPS, and preview environments on a $24 droplet with Dokploy, plus the four mistakes to skip on the way.</p>\n\n",
+    "link": "https://dev.to/saimulislamdl/stop-paying-for-vercel-how-to-self-host-your-deployments-on-a-vps-and-keep-the-same-workflow-4cce",
     "topic": "general"
   },
   {
-    "title": "The Pipeline Became the Attack Surface: What the 2026 CI/CD Shifts Mean for Reliability",
-    "desc": "<h1>\n  \n  \n  The Pipeline Became the Attack Surface\n</h1>\n\n<p>For most of the last decade, we treated the CI/CD pipeline as plumbing: invisi",
-    "link": "https://dev.to/kalemi/the-pipeline-became-the-attack-surface-what-the-2026-cicd-shifts-mean-for-reliability-4p13",
+    "title": "10+ Best Facebook Reviews Widget Tools To Embed On Websites",
+    "desc": "<p>Facebook has become more than just a social networking platform. For businesses, it is also an important place where customers share thei",
+    "link": "https://dev.to/daisysmith786/10-best-facebook-reviews-widget-tools-to-embed-on-websites-3nlp",
+    "topic": "general"
+  },
+  {
+    "title": "Designed a Highly Available Hub-and-Spoke Kubernetes Cluster with RKE2, HAProxy & Centralized Operations",
+    "desc": "<p><strong>The Hub-and-Spoke Model</strong></p>\n\n<p>Instead of duplicating monitoring stacks, container registries, secret managers, and Git",
+    "link": "https://dev.to/awais_684/designed-a-highly-available-hub-and-spoke-kubernetes-cluster-with-rke2-haproxy-centralized-4kfa",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Keep Model Drafts Off GA Support Pages",
+    "desc": "<p>Generated documentation stays safe only when draft authority follows the product lifecycle, not the writer's convenience. Models may draf",
+    "link": "https://dev.to/github_7727/keep-model-drafts-off-ga-support-pages-2lhg",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Silent Bit Rot on Writable Disks: Practical dm-integrity with integritysetup on Linux",
+    "desc": "<h1>\n  \n  \n  Stop Silent Bit Rot on Writable Disks: Practical dm-integrity with integritysetup on Linux\n</h1>\n\n<p>dm-verity is perfect when ",
+    "link": "https://dev.to/lyraalishaikh/stop-silent-bit-rot-on-writable-disks-practical-dm-integrity-with-integritysetup-on-linux-2pif",
+    "topic": "general"
+  },
+  {
+    "title": "Build a Release-Blocking Test for AI Agent External Side Effects",
+    "desc": "<p>This is the technical follow-up to my AI Leak Watch case study on the UK AI Security Institute\u2019s unsanctioned-agent incident:</p>\n\n<p><a ",
+    "link": "https://dev.to/jfisher4002/build-a-release-blocking-test-for-ai-agent-external-side-effects-4i69",
+    "topic": "general"
+  },
+  {
+    "title": "Cyber war \ud83d\ude02",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/hasindu-nagolla/cyber-war-39f9",
     "topic": "secops"
   },
   {
-    "title": "Why DNS Lookups Silently Fail in Production: 5 Resolution Traps Every Engineer Hits",
-    "desc": "<p>You deploy an urgent microservice update, push DNS records, and everything seems fine locally. Ten minutes later, PagerDuty lights up: wo",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-dns-lookups-silently-fail-in-production-5-resolution-traps-every-engineer-hits-1ob4",
+    "title": "From Code to Production: A Practical DevOps Roadmap for Developers",
+    "desc": "<p>DevOps is often presented as a huge collection of tools:</p>\n\n<p><strong>Linux \u2192 Git \u2192 Docker \u2192 Kubernetes \u2192 Terraform \u2192 CI/CD \u2192 Cloud \u2192 ",
+    "link": "https://dev.to/yash_sonawane25/from-code-to-production-a-practical-devops-roadmap-for-developers-524f",
     "topic": "general"
-  },
-  {
-    "title": "The CI/CD Tools Landscape in 2026: What Each Category Is Actually For",
-    "desc": "<p>Most \"best CI/CD tools\" lists are twenty logos in a table, ranked by nothing in particular, with the author's product at the top. This is",
-    "link": "https://dev.to/kalemi/the-cicd-tools-landscape-in-2026-what-each-category-is-actually-for-5fi2",
-    "topic": "general"
-  },
-  {
-    "title": "The Trust Gap: Why CI/CD Is the Last Place Teams Let AI In, and How to Earn That Trust",
-    "desc": "<p>Two things are true about software delivery in 2026, and they are pulling in opposite directions.</p>\n\n<p>The first: AI is now writing a ",
-    "link": "https://dev.to/kalemi/the-trust-gap-why-cicd-is-the-last-place-teams-let-ai-in-and-how-to-earn-that-trust-c0h",
-    "topic": "general"
-  },
-  {
-    "title": "Hetzner vs Contabo: How to Choose the Right Budget Host",
-    "desc": "<p>A decision framework for picking between two low-cost European hosting providers, with Hetzner's current product lineup summarized from i",
-    "link": "https://dev.to/kimcomplete/hetzner-vs-contabo-how-to-choose-the-right-budget-host-522e",
-    "topic": "general"
-  },
-  {
-    "title": "CI Got Cheaper in 2026. Reliability Is Now the Harder Problem",
-    "desc": "<p>The first half of 2026 reset two things at once for engineering teams: what continuous integration costs, and what it takes to keep deliv",
-    "link": "https://dev.to/kalemi/ci-got-cheaper-in-2026-reliability-is-now-the-harder-problem-i4n",
-    "topic": "general"
-  },
-  {
-    "title": "The 2026 GitHub Actions Reset: Cheaper Runners, Stricter Security, and Smarter Pipelines",
-    "desc": "<p>The first half of 2026 rearranged three things at once for teams that live in GitHub Actions: what CI costs, how it is secured, and how m",
-    "link": "https://dev.to/kalemi/the-2026-github-actions-reset-cheaper-runners-stricter-security-and-smarter-pipelines-1mh6",
-    "topic": "secops"
   }
 ]
