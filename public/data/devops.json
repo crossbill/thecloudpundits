@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your MCP Server Is a Backdoor. Here's How Attackers Use It.",
-    "desc": "<p>I've been digging into MCP (Model Context Protocol) server security over the past few weeks, and what I found is terrifying. The attack s",
-    "link": "https://dev.to/xxxn3m3s1sxxx/your-mcp-server-is-a-backdoor-heres-how-attackers-use-it-356o",
-    "topic": "secops"
-  },
-  {
-    "title": "Top 5 Password Generators to Create Strong Passwords",
-    "desc": "<p>A password generator solves this problem by creating random passwords for you.</p>\n\n<p>There are many password generators available today",
-    "link": "https://dev.to/coder99_4adec08d003/top-5-password-generators-to-create-strong-passwords-3n4n",
+    "title": "Build a Git Backup You Can Actually Restore",
+    "desc": "<p>If your repository backup plan is \u201cevery developer has a clone,\u201d try this before you trust it:<br />\n</p>\n\n<div class=\"highlight js-code-",
+    "link": "https://dev.to/johnhugesocag/build-a-git-backup-you-can-actually-restore-4b1m",
     "topic": "general"
   },
   {
-    "title": "Reject the Packet: Four Gates Between an Alert and a Mutating Command",
-    "desc": "<p>An on-call helper that fills blank fields with a plausible story is not assisting; it is inventing the incident. I want every alert to tr",
-    "link": "https://dev.to/appcpp_9071/reject-the-packet-four-gates-between-an-alert-and-a-mutating-command-41m0",
+    "title": "Why 2D Architecture Diagrams Fail (And How Multi-Layer Visuals Fix Them)",
+    "desc": "<p>Once you hit 4 or 5 microservices, basically every architecture diagram completely breaks down.</p>\n\n<p>It always ends up the same way:</",
+    "link": "https://dev.to/lynara/why-2d-architecture-diagrams-fail-and-how-multi-layer-visuals-fix-them-663",
     "topic": "general"
   },
   {
-    "title": "48-Hour Field Notes: Phantom Env Keys in Agent Infra Patches",
-    "desc": "<p>The pull request looked finished. A thicker <code>.env.example</code>, a rewritten <code>docker-compose.yml</code>, and a GitHub Action t",
-    "link": "https://dev.to/devpro_9167/48-hour-field-notes-phantom-env-keys-in-agent-infra-patches-354g",
+    "title": "I trained my AI agent to burn less money. Here's what actually worked.",
+    "desc": "<p>A few months ago I became convinced my AI assistant was bleeding money through incompetence. It felt true. Sessions ran long, things fail",
+    "link": "https://dev.to/jenatechio/i-trained-my-ai-agent-to-burn-less-money-heres-what-actually-worked-cjn",
     "topic": "general"
   },
   {
-    "title": "21 yr old kid explaining terraform in stupid simple language",
-    "desc": "<p>What if I told you that instead of clicking through cloud dashboards, you could describe your entire infrastructure in a file and have it",
-    "link": "https://dev.to/ashutosh_shukla_devt/21-yr-old-kid-explaining-terraform-in-stupid-simple-language-4ppo",
-    "topic": "terraform"
-  },
-  {
-    "title": "Ollama Desktop Says Server Not Ready on Windows but the Server Is Fine",
-    "desc": "<p>Ollama Desktop starts, and then just sits there: \"ollama server not ready, continuing anyway\" every few seconds, forever. The app never c",
-    "link": "https://dev.to/milkyway008/ollama-desktop-says-server-not-ready-on-windows-but-the-server-is-fine-2ko0",
+    "title": "I Threw the Box Away. The Damage Was Already Done.",
+    "desc": "<p><em>ShrekOS field notes \u00b7 August 2026</em></p>\n\n<p>I have no idea what I'm f*cking doing. Something I learned today:</p>\n\n<p>Throwing awa",
+    "link": "https://dev.to/the_leon_odor/i-threw-the-box-away-the-damage-was-already-done-43gi",
     "topic": "general"
   },
   {
-    "title": "Fail CI When the Agent Treats Free Compute as Inventory",
-    "desc": "<p>The scene below is a labeled example, not a memoir.<br />\nIt exists to show a planning failure, not a personal claim.</p>\n\n<p>The coding ",
-    "link": "https://dev.to/hackjs_8688/fail-ci-when-the-agent-treats-free-compute-as-inventory-1gc1",
+    "title": "Nginx + Python: The Perfect Production Setup",
+    "desc": "<h1>\n  \n  \n  Nginx + Python: The Perfect Production Setup\n</h1>\n\n<p>tags: nginx, python, devops, tutorial</p>\n\n\n\n\n<p>tags: nginx, python, de",
+    "link": "https://dev.to/qingluan/nginx-python-the-perfect-production-setup-439h",
     "topic": "general"
   },
   {
-    "title": "Automatically Update Issue Labels Based on PR Activity",
-    "desc": "<p>When tracking progress by adding labels like <code>status:in-progress</code> or <code>status:review</code> to Issues, <strong>you will in",
-    "link": "https://dev.to/quintetkit/automatically-update-issue-labels-based-on-pr-activity-56gj",
+    "title": "How to Deploy Your Python App on a $5/Month Server",
+    "desc": "<h1>\n  \n  \n  How to Deploy Your Python App on a $5/Month Server\n</h1>\n\n<p>tags: python, deployment, devops, money</p>\n\n\n\n\n<p>tags: python, d",
+    "link": "https://dev.to/qingluan/how-to-deploy-your-python-app-on-a-5month-server-3nho",
+    "topic": "general"
+  },
+  {
+    "title": "Complete Guide On Buying Verified PayPal Account Online",
+    "desc": "<p>Complete Guide On Buying Verified PayPal Account Online<br />\n\ud83d\udcac Need Assistance? We\u2019re Here 24/7!</p>\n\n<p>\ud83d\udce7 Email: <a href=\"mailto:usamar",
+    "link": "https://dev.to/oldgmail01/complete-guide-on-buying-verified-paypal-account-online-439",
+    "topic": "general"
+  },
+  {
+    "title": "A control that had genuinely failed printed exit 0, because I read its status through a pipe",
+    "desc": "<p>Here are three runs of the same command against the same missing file, measured on 2026-09-04 in bash on Windows.<br />\n</p>\n\n<div class=",
+    "link": "https://dev.to/mahirhir/a-control-that-had-genuinely-failed-printed-exit-0-because-i-read-its-status-through-a-pipe-927",
     "topic": "general"
   }
 ]
