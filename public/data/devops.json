@@ -1,50 +1,50 @@
 [
   {
-    "title": "Stop Paying for Vercel: How to Self-Host Your Deployments on a VPS and Keep the Same Workflow",
-    "desc": "<p>Push-to-deploy, automatic HTTPS, and preview environments on a $24 droplet with Dokploy, plus the four mistakes to skip on the way.</p>\n\n",
-    "link": "https://dev.to/saimulislamdl/stop-paying-for-vercel-how-to-self-host-your-deployments-on-a-vps-and-keep-the-same-workflow-4cce",
+    "title": "Free compute worth claiming in September 2026",
+    "desc": "<p>Free compute is easiest to misunderstand when the headline number is technically true.</p>\n\n<p>A platform says it includes a million requ",
+    "link": "https://dev.to/billiem/free-compute-worth-claiming-in-september-2026-1hg0",
     "topic": "general"
   },
   {
-    "title": "10+ Best Facebook Reviews Widget Tools To Embed On Websites",
-    "desc": "<p>Facebook has become more than just a social networking platform. For businesses, it is also an important place where customers share thei",
-    "link": "https://dev.to/daisysmith786/10-best-facebook-reviews-widget-tools-to-embed-on-websites-3nlp",
+    "title": "Fixing Python Memory Leaks in Production \u2013 Step\u2011by\u2011Step Guide for Developers",
+    "desc": "<h1>\n  \n  \n  Fixing Python Memory Leaks in Production \u2013 A Step\u2011by\u2011Step Guide for Developers\n</h1>\n\n<p><strong>TL;DR:</strong> Detect, profil",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-step-by-step-guide-for-developers-2fpk",
     "topic": "general"
   },
   {
-    "title": "Designed a Highly Available Hub-and-Spoke Kubernetes Cluster with RKE2, HAProxy & Centralized Operations",
-    "desc": "<p><strong>The Hub-and-Spoke Model</strong></p>\n\n<p>Instead of duplicating monitoring stacks, container registries, secret managers, and Git",
-    "link": "https://dev.to/awais_684/designed-a-highly-available-hub-and-spoke-kubernetes-cluster-with-rke2-haproxy-centralized-4kfa",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Keep Model Drafts Off GA Support Pages",
-    "desc": "<p>Generated documentation stays safe only when draft authority follows the product lifecycle, not the writer's convenience. Models may draf",
-    "link": "https://dev.to/github_7727/keep-model-drafts-off-ga-support-pages-2lhg",
+    "title": "Shift Left was how ops got fired and devs got the pager",
+    "desc": "<p>Someone on a developer forum referred to Shift Left as a \"psy-op\" last week. I found it amusing. Then I realized they were correct. The c",
+    "link": "https://dev.to/adioof/shift-left-was-how-ops-got-fired-and-devs-got-the-pager-4d2h",
     "topic": "general"
   },
   {
-    "title": "Stop Silent Bit Rot on Writable Disks: Practical dm-integrity with integritysetup on Linux",
-    "desc": "<h1>\n  \n  \n  Stop Silent Bit Rot on Writable Disks: Practical dm-integrity with integritysetup on Linux\n</h1>\n\n<p>dm-verity is perfect when ",
-    "link": "https://dev.to/lyraalishaikh/stop-silent-bit-rot-on-writable-disks-practical-dm-integrity-with-integritysetup-on-linux-2pif",
+    "title": "Docker Security: Complete Guide",
+    "desc": "<p><strong>Meta description:</strong> Master Docker security with this complete guide. Learn best practices for container security, image ha",
+    "link": "https://dev.to/cub4nh1/docker-security-complete-guide-1bce",
+    "topic": "docker"
+  },
+  {
+    "title": "Building Healthcare Apps People Trust",
+    "desc": "<p>Building a <a href=\"https://www.loudowls.com/case-study/hoag-compass\" rel=\"noopener noreferrer\">healthcare app</a> is different from buil",
+    "link": "https://dev.to/vasundhra/building-healthcare-apps-people-trust-42hm",
     "topic": "general"
   },
   {
-    "title": "Build a Release-Blocking Test for AI Agent External Side Effects",
-    "desc": "<p>This is the technical follow-up to my AI Leak Watch case study on the UK AI Security Institute\u2019s unsanctioned-agent incident:</p>\n\n<p><a ",
-    "link": "https://dev.to/jfisher4002/build-a-release-blocking-test-for-ai-agent-external-side-effects-4i69",
-    "topic": "general"
-  },
-  {
-    "title": "Cyber war \ud83d\ude02",
+    "title": "What the Best MCP Gateways Do in 2026",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/hasindu-nagolla/cyber-war-39f9",
-    "topic": "secops"
+    "link": "https://dev.to/kuldeep_paul/what-the-best-mcp-gateways-do-in-2026-2kli",
+    "topic": "general"
   },
   {
-    "title": "From Code to Production: A Practical DevOps Roadmap for Developers",
-    "desc": "<p>DevOps is often presented as a huge collection of tools:</p>\n\n<p><strong>Linux \u2192 Git \u2192 Docker \u2192 Kubernetes \u2192 Terraform \u2192 CI/CD \u2192 Cloud \u2192 ",
-    "link": "https://dev.to/yash_sonawane25/from-code-to-production-a-practical-devops-roadmap-for-developers-524f",
+    "title": "Where Did the Time Go? Query Profiler in CHOps",
+    "desc": "<p>A query takes 9 seconds. You read the SQL. You read <code>EXPLAIN</code>. Nothing looks wrong.</p>\n\n<p><code>EXPLAIN</code> tells you wha",
+    "link": "https://dev.to/kanishga_subramani_49ad73/where-did-the-time-go-query-profiler-in-chops-2kk3",
+    "topic": "general"
+  },
+  {
+    "title": "Best LLM Gateway to Manage Access for AI Models and Providers",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/best-llm-gateway-to-manage-access-for-ai-models-and-providers-3kcj",
     "topic": "general"
   }
 ]
