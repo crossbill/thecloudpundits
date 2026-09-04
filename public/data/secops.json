@@ -1,5 +1,23 @@
 [
   {
+    "title": "In Other News: Microsoft\u2019s Cloud Patches, Hacked Dropbox Accounts, Guardio\u2019s $1.1B Valuation",
+    "desc": "<p>Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dr",
+    "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
+    "topic": "azure"
+  },
+  {
+    "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+    "desc": "<p>Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
+    "topic": "general"
+  },
+  {
+    "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
+    "desc": "<p>The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few",
+    "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
+    "topic": "openai"
+  },
+  {
     "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
     "desc": "<p>Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution.</p>\n<p>The post ",
     "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
@@ -28,23 +46,5 @@
     "desc": "<p>Google\u2019s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine.</p>\n<p>T",
     "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
     "topic": "general"
-  },
-  {
-    "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
-    "desc": "<p>The deal highlights Nvidia\u2019s push to champion increasingly popular open-source AI models.</p>\n<p>The post <a href=\"https://www.securitywe",
-    "link": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
-    "topic": "huggingface"
-  },
-  {
-    "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
-    "desc": "<p>Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exp",
-    "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
-    "topic": "general"
-  },
-  {
-    "title": "Capsule Security Launches \u2018AI Circuit Breaker\u2019 to Stop Rogue Agents",
-    "desc": "<p>New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-mod",
-    "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
-    "topic": "secops"
   }
 ]

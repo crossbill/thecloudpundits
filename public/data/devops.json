@@ -1,50 +1,50 @@
 [
   {
-    "title": "Add a code-health badge to any repo from just its git history",
-    "desc": "<p>You've seen coverage badges. You've seen build badges. But there's a whole<br />\ndimension of codebase health those never touch: <strong>",
-    "link": "https://dev.to/kenjirasmussen/add-a-code-health-badge-to-any-repo-from-just-its-git-history-2316",
-    "topic": "general"
-  },
-  {
-    "title": "Chaos Engineering in Practice",
-    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Resilience you have not tested is just hope. Learn to inject failure deliberately, kill nodes, add",
-    "link": "https://dev.to/sri2614/chaos-engineering-in-practice-3hip",
-    "topic": "general"
-  },
-  {
-    "title": "What Actually Happens When You Run `curl https://example.com`",
-    "desc": "<h1>\n  \n  \n  What Actually Happens When You Run <code>curl https://example.com</code>\n</h1>\n\n<p>You type <code>curl https://example.com</cod",
-    "link": "https://dev.to/syed_anzar/what-actually-happens-when-you-run-curl-httpsexamplecom-29g9",
-    "topic": "general"
-  },
-  {
-    "title": "What if servers balanced load like Emperor Penguins? Meet HuddleCluster",
-    "desc": "<p>In Antarctic blizzards where temperatures drop below -40\u00b0C and winds scream past 200 km/h, Emperor Penguins survive without any central c",
-    "link": "https://dev.to/rahad_bhuiya/what-if-servers-balanced-load-like-emperor-penguins-meet-huddlecluster-4kjb",
-    "topic": "general"
-  },
-  {
-    "title": "CVE-2026-32475: Unauthenticated RCE in Elementor Pro via File Upload Validation Bypass",
-    "desc": "<p>CVE-2026-32475 is an unauthenticated arbitrary file upload to RCE in Elementor Pro (<= 4.2.1, fixed in 4.2.2). CVSS 9.0 (CWE-434). If you",
-    "link": "https://dev.to/stanleya/cve-2026-32475-unauthenticated-rce-in-elementor-pro-via-file-upload-validation-bypass-5e41",
-    "topic": "general"
-  },
-  {
-    "title": "My Pull Request Failed \u2014 Because GitHub Actions Was Protecting the Repository",
-    "desc": "<p>Sometimes the most useful security lessons don't start with a security audit.</p>\n\n<p>They start with a failed CI job.</p>\n\n<p>Recently, ",
-    "link": "https://dev.to/ismailzahir/my-pull-request-failed-because-github-actions-was-protecting-the-repository-2h8i",
-    "topic": "general"
-  },
-  {
-    "title": "No Ads Bjj Rounds: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(play): refresh p",
-    "link": "https://dev.to/igorganapolsky/no-ads-bjj-rounds-what-we-learned-building-random-tactical-timer-2515",
-    "topic": "general"
-  },
-  {
-    "title": "How to Structure Your API Security Testing with OWASP ASTF \ud83d\ude80",
-    "desc": "<p>If you work in DevSecOps, backend development, or cybersecurity, you\u2019ve likely noticed that traditional vulnerability scanners often fall",
-    "link": "https://dev.to/rhgs/how-to-structure-your-api-security-testing-with-owasp-astf-4623",
+    "title": "Your MCP Server Is a Backdoor. Here's How Attackers Use It.",
+    "desc": "<p>I've been digging into MCP (Model Context Protocol) server security over the past few weeks, and what I found is terrifying. The attack s",
+    "link": "https://dev.to/xxxn3m3s1sxxx/your-mcp-server-is-a-backdoor-heres-how-attackers-use-it-356o",
     "topic": "secops"
+  },
+  {
+    "title": "Top 5 Password Generators to Create Strong Passwords",
+    "desc": "<p>A password generator solves this problem by creating random passwords for you.</p>\n\n<p>There are many password generators available today",
+    "link": "https://dev.to/coder99_4adec08d003/top-5-password-generators-to-create-strong-passwords-3n4n",
+    "topic": "general"
+  },
+  {
+    "title": "Reject the Packet: Four Gates Between an Alert and a Mutating Command",
+    "desc": "<p>An on-call helper that fills blank fields with a plausible story is not assisting; it is inventing the incident. I want every alert to tr",
+    "link": "https://dev.to/appcpp_9071/reject-the-packet-four-gates-between-an-alert-and-a-mutating-command-41m0",
+    "topic": "general"
+  },
+  {
+    "title": "48-Hour Field Notes: Phantom Env Keys in Agent Infra Patches",
+    "desc": "<p>The pull request looked finished. A thicker <code>.env.example</code>, a rewritten <code>docker-compose.yml</code>, and a GitHub Action t",
+    "link": "https://dev.to/devpro_9167/48-hour-field-notes-phantom-env-keys-in-agent-infra-patches-354g",
+    "topic": "general"
+  },
+  {
+    "title": "21 yr old kid explaining terraform in stupid simple language",
+    "desc": "<p>What if I told you that instead of clicking through cloud dashboards, you could describe your entire infrastructure in a file and have it",
+    "link": "https://dev.to/ashutosh_shukla_devt/21-yr-old-kid-explaining-terraform-in-stupid-simple-language-4ppo",
+    "topic": "terraform"
+  },
+  {
+    "title": "Ollama Desktop Says Server Not Ready on Windows but the Server Is Fine",
+    "desc": "<p>Ollama Desktop starts, and then just sits there: \"ollama server not ready, continuing anyway\" every few seconds, forever. The app never c",
+    "link": "https://dev.to/milkyway008/ollama-desktop-says-server-not-ready-on-windows-but-the-server-is-fine-2ko0",
+    "topic": "general"
+  },
+  {
+    "title": "Fail CI When the Agent Treats Free Compute as Inventory",
+    "desc": "<p>The scene below is a labeled example, not a memoir.<br />\nIt exists to show a planning failure, not a personal claim.</p>\n\n<p>The coding ",
+    "link": "https://dev.to/hackjs_8688/fail-ci-when-the-agent-treats-free-compute-as-inventory-1gc1",
+    "topic": "general"
+  },
+  {
+    "title": "Automatically Update Issue Labels Based on PR Activity",
+    "desc": "<p>When tracking progress by adding labels like <code>status:in-progress</code> or <code>status:review</code> to Issues, <strong>you will in",
+    "link": "https://dev.to/quintetkit/automatically-update-issue-labels-based-on-pr-activity-56gj",
+    "topic": "general"
   }
 ]
