@@ -1,50 +1,50 @@
 [
   {
-    "title": "The alarm that only speaks once",
-    "desc": "<p>An audit earlier today went looking for broken things in our scheduled fleet and found the biggest one outside the fleet entirely: our <s",
-    "link": "https://dev.to/oroborolabs/the-alarm-that-only-speaks-once-5c26",
+    "title": "Managed Uptime Kuma Hosting in 2026: I Priced All 9 Providers ($2.80 to $499)",
+    "desc": "<p>I run Uptime Kuma. I have run it on a VPS I built myself, and I have paid other people to run it for me. Last week someone asked me a que",
+    "link": "https://dev.to/vikasprogrammer/managed-uptime-kuma-hosting-in-2026-i-priced-all-9-providers-280-to-499-2kkc",
     "topic": "general"
   },
   {
-    "title": "The skip that is not a failure",
-    "desc": "<p>Our fleet audit earlier today counted a daily probe failing <em>every morning, on schedule</em>, for days on end. The receipt always said",
-    "link": "https://dev.to/oroborolabs/the-skip-that-is-not-a-failure-5cj1",
+    "title": "How to Fix Git Merge Conflicts in CI/CD Pipelines \u2013 Proven Strategies for DevOps Engineers",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Merge conflicts that surface during automated builds can stall your delivery pipeline and frustrate engi",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-git-merge-conflicts-in-cicd-pipelines-proven-strategies-for-devops-engineers-2l90",
     "topic": "general"
   },
   {
-    "title": "Your Logging Bill Is a Volume Problem: Model the Cost Before You Switch Vendors",
-    "desc": "<p>If your log bill jumped and your traffic didn't, the vendor is usually not the problem \u2014 the shape of your log volume is. Every managed p",
-    "link": "https://dev.to/libme/your-logging-bill-is-a-volume-problem-model-the-cost-before-you-switch-vendors-4hmh",
+    "title": "7 AWS Resources That Could Be Quietly Increasing Your Cloud Bill",
+    "desc": "<p>AWS makes it incredibly easy to provision infrastructure.</p>\n\n<p>Sometimes, a little <em>too</em> easy.</p>\n\n<p>An EC2 instance gets cre",
+    "link": "https://dev.to/demarkolittle/7-aws-resources-that-could-be-quietly-increasing-your-cloud-bill-4j1f",
+    "topic": "aws"
+  },
+  {
+    "title": "Unknown Is Not Failed: Four Bugs Where My Control Plane Claimed to Know Something It Didn't",
+    "desc": "<p><strong>TL;DR</strong> \u2014 Nineteen commits into a deployment control plane today. Reading them back, four of them are the same bug wearing",
+    "link": "https://dev.to/nasrulhazim/unknown-is-not-failed-four-bugs-where-my-control-plane-claimed-to-know-something-it-didnt-gnm",
     "topic": "general"
   },
   {
-    "title": "Alibaba vs Tencent Cloud Pricing 2026: Which is Cheaper?",
-    "desc": "<p>If you're building apps for the Asian market\u2014or just looking for highly competitive global cloud pricing\u2014you've definitely stared at the ",
-    "link": "https://dev.to/aitokenhub_98/alibaba-vs-tencent-cloud-pricing-2026-which-is-cheaper-2p4k",
+    "title": "Binance Chain API: BNB Smart Chain RPC Endpoints Guide",
+    "desc": "<h2>\n  \n  \n  Quick Decision: Which BNB Chain API Setup Fits Your Project?\n</h2>\n\n<p>Before you write any code, decide how you will access th",
+    "link": "https://dev.to/onfinality/binance-chain-api-bnb-smart-chain-rpc-endpoints-guide-2494",
     "topic": "general"
   },
   {
-    "title": "The trigger that runs without me",
-    "desc": "<p>The last note ended with a health check that asks the service instead of the socket, reboots it surgically, and counts its own reboots. I",
-    "link": "https://dev.to/oroborolabs/the-trigger-that-runs-without-me-56mj",
+    "title": "Beyond Working Code: My Growth Through the Meta x MLH Production Engineering Fellowship",
+    "desc": "<p>Gabriel Changamire</p>\n\n<p>Before the Meta x MLH Fellowship, I understood software mainly through the act of building it. I thought about",
+    "link": "https://dev.to/gchangamire/beyond-working-code-my-growth-through-the-meta-x-mlh-production-engineering-fellowship-22l0",
     "topic": "general"
   },
   {
-    "title": "The check that asks the service",
-    "desc": "<p>The previous note in this series closed on a hung browser session: a debug port that showed up as <strong>listening</strong> while the HT",
-    "link": "https://dev.to/oroborolabs/the-check-that-asks-the-service-4ad0",
+    "title": "BNB Smart Chain RPC Endpoint: Chain Settings & Debugging",
+    "desc": "<h2>\n  \n  \n  Quick decision guide: which BNB Smart Chain RPC endpoint should you use?\n</h2>\n\n<p>Before you copy an endpoint into your wallet",
+    "link": "https://dev.to/onfinality/bnb-smart-chain-rpc-endpoint-chain-settings-debugging-35mn",
     "topic": "general"
   },
   {
-    "title": "The Import Passed on My Mac. Linux Treated Utils and utils as Strangers.",
-    "desc": "<p>Have you ever watched a Python import fail on a remote box after it passed every local test? I spent the next forty-eight hours blaming p",
-    "link": "https://dev.to/codepy_1473/the-import-passed-on-my-mac-linux-treated-utils-and-utils-as-strangers-1e43",
-    "topic": "general"
-  },
-  {
-    "title": "Is the Free Box Even Yours? A Runtime Myth FAQ",
-    "desc": "<p>You just received a free model endpoint today. You also received a complimentary remote shell. Did you treat both like a second laptop?</",
-    "link": "https://dev.to/gitlab_3188/is-the-free-box-even-yours-a-runtime-myth-faq-4829",
+    "title": "Build a Kafka MCP Server: Safe Consumer Lag and Topic Diagnostics for AI Agents",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-09-05-kafka-mcp-server-consumer-lag-ai-agents\" re",
+    "link": "https://dev.to/devtocash/build-a-kafka-mcp-server-safe-consumer-lag-and-topic-diagnostics-for-ai-agents-2bee",
     "topic": "general"
   }
 ]
