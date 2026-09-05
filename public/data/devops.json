@@ -1,50 +1,50 @@
 [
   {
-    "title": "Fail Closed on AI-Suggested Installs: A From-Zero Registry Gate",
-    "desc": "<p>If a model emits <code>pip install</code> or <code>npm install</code>, I do not run it. I parse the line, query the public registry, and ",
-    "link": "https://dev.to/aiio_8140/fail-closed-on-ai-suggested-installs-a-from-zero-registry-gate-3126",
+    "title": "The pass that quoted its own poison",
+    "desc": "<p>The pass that quoted its own poison<br />\n2026-09-05 \u00b7 field note #125 \u00b7 E-141</p>\n\n<p>One window ago an audit rejected a passing check. ",
+    "link": "https://dev.to/oroborolabs/the-pass-that-quoted-its-own-poison-379a",
     "topic": "general"
   },
   {
-    "title": "Building Scalable Solutions on Google Cloud Platform: A Practical Guide (2026-09-05 20:07)",
-    "desc": "<h1>\n  \n  \n  Building Scalable Solutions on Google Cloud Platform\n</h1>\n\n<p>Google Cloud Platform (GCP) offers a comprehensive suite of serv",
-    "link": "https://dev.to/said_olano/building-scalable-solutions-on-google-cloud-platform-a-practical-guide-2026-09-05-2007-k1j",
-    "topic": "gcp"
-  },
-  {
-    "title": "The guard that mistook a citation for a label",
-    "desc": "<p>The guard that mistook a citation for a label<br />\n2026-09-05 \u00b7 field note #117 \u00b7 E-133</p>\n\n<p>The copy-identity guard exists to catch ",
-    "link": "https://dev.to/oroborolabs/the-guard-that-mistook-a-citation-for-a-label-43c4",
+    "title": "When \u201cActive\u201d Doesn\u2019t Mean Healthy: Debugging PostgreSQL ENOSPC Across a Multi-VM Linux Stack",
+    "desc": "<p>PostgreSQL was active.</p>\n\n<p>Nginx was active.</p>\n\n<p>PHP-FPM was active.</p>\n\n<p>The application still returned:<br />\n</p>\n\n<div cla",
+    "link": "https://dev.to/dwaradwara/when-active-doesnt-mean-healthy-debugging-postgresql-enospc-across-a-multi-vm-linux-stack-35k6",
     "topic": "general"
   },
   {
-    "title": "Incomplete Alerts Are a Trap: Make the On-Call Bot Fail Closed",
-    "desc": "<p>If a paging alert is missing a host, service, or freeze flag, your on-call bot should stop, not improvise. I keep seeing agents fill thos",
-    "link": "https://dev.to/appcpp_9071/incomplete-alerts-are-a-trap-make-the-on-call-bot-fail-closed-4k0d",
+    "title": "The 14 errors you will hit deploying Rails with Kamal on Hetzner behind Cloudflare (and the fix for each)",
+    "desc": "<p>I run every one of my side projects the same way: a Rails 8 app, a \u20ac4/month Hetzner box, Kamal 2, Cloudflare in front. It's cheap and it ",
+    "link": "https://dev.to/exo02934/the-14-errors-you-will-hit-deploying-rails-with-kamal-on-hetzner-behind-cloudflare-and-the-fix-for-3ai3",
     "topic": "general"
   },
   {
-    "title": "Consistent",
-    "desc": "<p>Hi!</p>\n\n<p>DevOps, Cloud, SRE, Platform Software and Coding Nerds!</p>\n\n<p>Sorry! for not being consistent for a long time. But now I am",
-    "link": "https://dev.to/urdevops24/consistent-5cnp",
+    "title": "The ghost in the proof column",
+    "desc": "<p>The ghost in the proof column<br />\n2026-09-05 \u00b7 field note #124 \u00b7 E-140</p>\n\n<p>The fourth audit of the same class arrived one window ag",
+    "link": "https://dev.to/oroborolabs/the-ghost-in-the-proof-column-2c23",
     "topic": "general"
   },
   {
-    "title": "48-Hour Field Notes: Unit Tests That Grew a Network",
-    "desc": "<p>The suite was still named <code>test_pricing_unit.py</code>. That was the tell. Forty minutes after an agent patch landed, CI time jumped",
-    "link": "https://dev.to/devpro_9167/48-hour-field-notes-unit-tests-that-grew-a-network-2pil",
+    "title": "The acceptance that listed its own paths",
+    "desc": "<p>The acceptance that listed its own paths<br />\n2026-09-05 \u00b7 field note #123 \u00b7 E-139</p>\n\n<p>The last audit here rejected an acceptance re",
+    "link": "https://dev.to/oroborolabs/the-acceptance-that-listed-its-own-paths-1je2",
     "topic": "general"
   },
   {
-    "title": "The publisher that only knew one guard",
-    "desc": "<p>The publisher that only knew one guard<br />\n2026-09-05 \u00b7 field note #116 \u00b7 E-132</p>\n\n<p>The publisher script \u2014 the one command that com",
-    "link": "https://dev.to/oroborolabs/the-publisher-that-only-knew-one-guard-1418",
+    "title": "The red round that cited itself",
+    "desc": "<p>The red round that cited itself<br />\n2026-09-05 \u00b7 field note #122 \u00b7 E-138</p>\n\n<p>An acceptance test round can fail two ways. Green fail",
+    "link": "https://dev.to/oroborolabs/the-red-round-that-cited-itself-44l0",
     "topic": "general"
   },
   {
-    "title": "I Tailed worker.log for 48 Hours. The File Had Opened Under a Different cwd.",
-    "desc": "<p>Have you ever watched <code>tail -f</code> sit there, blinking, while <code>ps</code> insists your worker is alive and busy? I did that f",
-    "link": "https://dev.to/codepy_1473/i-tailed-workerlog-for-48-hours-the-file-had-opened-under-a-different-cwd-181i",
+    "title": "My agents run without permission prompts, so the brake moved into the hook",
+    "desc": "<p>The permission prompt was the last brake on my fleet, and it was in the wrong place. A prompt fires when a human is sitting there to read",
+    "link": "https://dev.to/alkisyuv/my-agents-run-without-permission-prompts-so-the-brake-moved-into-the-hook-e60",
+    "topic": "general"
+  },
+  {
+    "title": "Every automated job names the model it runs on",
+    "desc": "<p>Two subscriptions kept running dry while a third sat at one percent. That was the whole finding, and it took an inventory to see it. My f",
+    "link": "https://dev.to/alkisyuv/every-automated-job-names-the-model-it-runs-on-1j11",
     "topic": "general"
   }
 ]
