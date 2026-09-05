@@ -1,5 +1,11 @@
 [
   {
+    "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+    "desc": "<p>Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form subm",
+    "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+    "topic": "secops"
+  },
+  {
     "title": "In Other News: Microsoft\u2019s Cloud Patches, Hacked Dropbox Accounts, Guardio\u2019s $1.1B Valuation",
     "desc": "<p>Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dr",
     "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
@@ -40,11 +46,5 @@
     "desc": "<p>The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system.</p>\n<p>The post <a hr",
     "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
     "topic": "secops"
-  },
-  {
-    "title": "Google Patches 6th Chrome Zero-Day of 2026",
-    "desc": "<p>Google\u2019s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine.</p>\n<p>T",
-    "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
-    "topic": "general"
   }
 ]
