@@ -1,50 +1,50 @@
 [
   {
-    "title": "The pending state nobody lists",
-    "desc": "<p>The gate from the previous note works: when the effect classifier says a scheduled task is destructive \u2014 or says nothing intelligible \u2014 t",
-    "link": "https://dev.to/oroborolabs/the-pending-state-nobody-lists-576h",
+    "title": "Fail Closed on AI-Suggested Installs: A From-Zero Registry Gate",
+    "desc": "<p>If a model emits <code>pip install</code> or <code>npm install</code>, I do not run it. I parse the line, query the public registry, and ",
+    "link": "https://dev.to/aiio_8140/fail-closed-on-ai-suggested-installs-a-from-zero-registry-gate-3126",
     "topic": "general"
   },
   {
-    "title": "The gate that fired anyway",
-    "desc": "<p>The effect classifier from the previous note was still a manual step \u2014 a discipline of the operator, not a wall. So the next move was obv",
-    "link": "https://dev.to/oroborolabs/the-gate-that-fired-anyway-48n0",
+    "title": "Building Scalable Solutions on Google Cloud Platform: A Practical Guide (2026-09-05 20:07)",
+    "desc": "<h1>\n  \n  \n  Building Scalable Solutions on Google Cloud Platform\n</h1>\n\n<p>Google Cloud Platform (GCP) offers a comprehensive suite of serv",
+    "link": "https://dev.to/said_olano/building-scalable-solutions-on-google-cloud-platform-a-practical-guide-2026-09-05-2007-k1j",
+    "topic": "gcp"
+  },
+  {
+    "title": "The guard that mistook a citation for a label",
+    "desc": "<p>The guard that mistook a citation for a label<br />\n2026-09-05 \u00b7 field note #117 \u00b7 E-133</p>\n\n<p>The copy-identity guard exists to catch ",
+    "link": "https://dev.to/oroborolabs/the-guard-that-mistook-a-citation-for-a-label-43c4",
     "topic": "general"
   },
   {
-    "title": "git commit with a pathspec ignored my index and committed the file as it sat on disk",
-    "desc": "<p>Run this in an empty directory. It takes about fifteen seconds and it is the whole article.<br />\n</p>\n\n<div class=\"highlight js-code-hig",
-    "link": "https://dev.to/mahirhir/git-commit-with-a-pathspec-ignored-my-index-and-committed-the-file-as-it-sat-on-disk-262g",
+    "title": "Incomplete Alerts Are a Trap: Make the On-Call Bot Fail Closed",
+    "desc": "<p>If a paging alert is missing a host, service, or freeze flag, your on-call bot should stop, not improvise. I keep seeing agents fill thos",
+    "link": "https://dev.to/appcpp_9071/incomplete-alerts-are-a-trap-make-the-on-call-bot-fail-closed-4k0d",
     "topic": "general"
   },
   {
-    "title": "A red I expected hid an instrument that was reading an empty directory",
-    "desc": "<p>One row in my project's coverage table read <code>0/13</code>. Later it read <code>0/19</code>. It read a zero at every commit for a full",
-    "link": "https://dev.to/mahirhir/a-red-i-expected-hid-an-instrument-that-was-reading-an-empty-directory-2ph8",
+    "title": "Consistent",
+    "desc": "<p>Hi!</p>\n\n<p>DevOps, Cloud, SRE, Platform Software and Coding Nerds!</p>\n\n<p>Sorry! for not being consistent for a long time. But now I am",
+    "link": "https://dev.to/urdevops24/consistent-5cnp",
     "topic": "general"
   },
   {
-    "title": "My end-to-end test wrote three blocks into the append-only log it was testing",
-    "desc": "<p>There are three entries in my project's record of what its owner said that the owner never said.<br />\n</p>\n\n<div class=\"highlight js-cod",
-    "link": "https://dev.to/mahirhir/my-end-to-end-test-wrote-three-blocks-into-the-append-only-log-it-was-testing-1jog",
+    "title": "48-Hour Field Notes: Unit Tests That Grew a Network",
+    "desc": "<p>The suite was still named <code>test_pricing_unit.py</code>. That was the tell. Forty minutes after an agent patch landed, CI time jumped",
+    "link": "https://dev.to/devpro_9167/48-hour-field-notes-unit-tests-that-grew-a-network-2pil",
     "topic": "general"
   },
   {
-    "title": "My build record kept the word pass and dropped the number the verdict rested on",
-    "desc": "<p>Two of my checks print a field that says how much of the world they looked at. Here they are, run on 2026-09-05:<br />\n</p>\n\n<div class=\"",
-    "link": "https://dev.to/mahirhir/my-build-record-kept-the-word-pass-and-dropped-the-number-the-verdict-rested-on-27pl",
+    "title": "The publisher that only knew one guard",
+    "desc": "<p>The publisher that only knew one guard<br />\n2026-09-05 \u00b7 field note #116 \u00b7 E-132</p>\n\n<p>The publisher script \u2014 the one command that com",
+    "link": "https://dev.to/oroborolabs/the-publisher-that-only-knew-one-guard-1418",
     "topic": "general"
   },
   {
-    "title": "A control named COVERAGE printed 4/4 at fourteen commits. The 4 was how many things it counts.",
-    "desc": "<p>On 2026-09-05 I grepped the file my own build writes its verdicts into. One line per control per commit, appended, never edited.<br />\n</",
-    "link": "https://dev.to/mahirhir/a-control-named-coverage-printed-44-at-fourteen-commits-the-4-was-how-many-things-it-counts-52bc",
-    "topic": "general"
-  },
-  {
-    "title": "The classifier that hadn't read the script",
-    "desc": "<p>This morning's acceptance rule \u2014 three proofs before a scheduled task is called accepted \u2014 left one question dangling: when is it even sa",
-    "link": "https://dev.to/oroborolabs/the-classifier-that-hadnt-read-the-script-a56",
+    "title": "I Tailed worker.log for 48 Hours. The File Had Opened Under a Different cwd.",
+    "desc": "<p>Have you ever watched <code>tail -f</code> sit there, blinking, while <code>ps</code> insists your worker is alive and busy? I did that f",
+    "link": "https://dev.to/codepy_1473/i-tailed-workerlog-for-48-hours-the-file-had-opened-under-a-different-cwd-181i",
     "topic": "general"
   }
 ]
