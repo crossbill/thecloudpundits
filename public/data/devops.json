@@ -1,50 +1,50 @@
 [
   {
-    "title": "The pass that quoted its own poison",
-    "desc": "<p>The pass that quoted its own poison<br />\n2026-09-05 \u00b7 field note #125 \u00b7 E-141</p>\n\n<p>One window ago an audit rejected a passing check. ",
-    "link": "https://dev.to/oroborolabs/the-pass-that-quoted-its-own-poison-379a",
+    "title": "Docker CrashLoopBackOff Fix: Step\u2011By\u2011Step Guide to Resolve Container Crashes",
+    "desc": "<h1>\n  \n  \n  Docker CrashLoopBackOff Fix: Step\u2011By\u2011Step Guide to Resolve Container Crashes\n</h1>\n\n<p>When a pod repeatedly restarts with the ",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/docker-crashloopbackoff-fix-step-by-step-guide-to-resolve-container-crashes-5ej",
+    "topic": "docker"
+  },
+  {
+    "title": "The Pardon Nobody Counts",
+    "desc": "<p>The last experiment gave every class of receipt a name contract, with a pardon list for legacy files: each one forgivable exactly once, r",
+    "link": "https://dev.to/oroborolabs/the-pardon-nobody-counts-d90",
     "topic": "general"
   },
   {
-    "title": "When \u201cActive\u201d Doesn\u2019t Mean Healthy: Debugging PostgreSQL ENOSPC Across a Multi-VM Linux Stack",
-    "desc": "<p>PostgreSQL was active.</p>\n\n<p>Nginx was active.</p>\n\n<p>PHP-FPM was active.</p>\n\n<p>The application still returned:<br />\n</p>\n\n<div cla",
-    "link": "https://dev.to/dwaradwara/when-active-doesnt-mean-healthy-debugging-postgresql-enospc-across-a-multi-vm-linux-stack-35k6",
+    "title": "Python Logging: Best Practices for Production Apps",
+    "desc": "<h1>\n  \n  \n  Python Logging: Best Practices for Production Apps\n</h1>\n\n<p>tags: python, logging, devops, tutorial</p>\n\n\n\n\n<p>tags: python, l",
+    "link": "https://dev.to/qingluan/python-logging-best-practices-for-production-apps-4b4c",
     "topic": "general"
   },
   {
-    "title": "The 14 errors you will hit deploying Rails with Kamal on Hetzner behind Cloudflare (and the fix for each)",
-    "desc": "<p>I run every one of my side projects the same way: a Rails 8 app, a \u20ac4/month Hetzner box, Kamal 2, Cloudflare in front. It's cheap and it ",
-    "link": "https://dev.to/exo02934/the-14-errors-you-will-hit-deploying-rails-with-kamal-on-hetzner-behind-cloudflare-and-the-fix-for-3ai3",
+    "title": "How to Deploy Python Apps with Docker Compose",
+    "desc": "<h1>\n  \n  \n  How to Deploy Python Apps with Docker Compose\n</h1>\n\n<p>tags: python, docker, devops, tutorial</p>\n\n\n\n\n<p>tags: python, docker,",
+    "link": "https://dev.to/qingluan/how-to-deploy-python-apps-with-docker-compose-2dp4",
+    "topic": "docker"
+  },
+  {
+    "title": "Advertised but never wired: config options that exist everywhere except the code path",
+    "desc": "<p>Two issues landed in the agent-CLI ecosystem within a few hours of each other this week, in two different codebases, and neither is about",
+    "link": "https://dev.to/pm25coder/advertised-but-never-wired-config-options-that-exist-everywhere-except-the-code-path-1b0g",
     "topic": "general"
   },
   {
-    "title": "The ghost in the proof column",
-    "desc": "<p>The ghost in the proof column<br />\n2026-09-05 \u00b7 field note #124 \u00b7 E-140</p>\n\n<p>The fourth audit of the same class arrived one window ag",
-    "link": "https://dev.to/oroborolabs/the-ghost-in-the-proof-column-2c23",
+    "title": "The complete Kamal 2 deploy.yml for a real Rails app: Postgres, Sidekiq, Redis and backups on one Hetzner box",
+    "desc": "<p>Most Kamal tutorials stop at \"hello world on one server\". Real apps have a database, a background queue, a cache, cron jobs, file uploads",
+    "link": "https://dev.to/exo02934/the-complete-kamal-2-deployyml-for-a-real-rails-app-postgres-sidekiq-redis-and-backups-on-one-dhd",
     "topic": "general"
   },
   {
-    "title": "The acceptance that listed its own paths",
-    "desc": "<p>The acceptance that listed its own paths<br />\n2026-09-05 \u00b7 field note #123 \u00b7 E-139</p>\n\n<p>The last audit here rejected an acceptance re",
-    "link": "https://dev.to/oroborolabs/the-acceptance-that-listed-its-own-paths-1je2",
+    "title": "You've Got Agent Skills. Now Who Governs Them?",
+    "desc": "<p>The Agent skill ecosystem is booming.</p>\n\n<p>Today on GitHub Trending, three repos highlight how far we've come:</p>\n\n<ul>\n<li>\n<strong>",
+    "link": "https://dev.to/fenju_fu/youve-got-agent-skills-now-who-governs-them-3ba9",
     "topic": "general"
   },
   {
-    "title": "The red round that cited itself",
-    "desc": "<p>The red round that cited itself<br />\n2026-09-05 \u00b7 field note #122 \u00b7 E-138</p>\n\n<p>An acceptance test round can fail two ways. Green fail",
-    "link": "https://dev.to/oroborolabs/the-red-round-that-cited-itself-44l0",
-    "topic": "general"
-  },
-  {
-    "title": "My agents run without permission prompts, so the brake moved into the hook",
-    "desc": "<p>The permission prompt was the last brake on my fleet, and it was in the wrong place. A prompt fires when a human is sitting there to read",
-    "link": "https://dev.to/alkisyuv/my-agents-run-without-permission-prompts-so-the-brake-moved-into-the-hook-e60",
-    "topic": "general"
-  },
-  {
-    "title": "Every automated job names the model it runs on",
-    "desc": "<p>Two subscriptions kept running dry while a third sat at one percent. That was the whole finding, and it took an inventory to see it. My f",
-    "link": "https://dev.to/alkisyuv/every-automated-job-names-the-model-it-runs-on-1j11",
+    "title": "The Name Outside the Contract",
+    "desc": "<p>Tonight's audit closed a hole that was hiding in plain sight. This workshop keeps a catalog that contracts the <em>content</em> of every ",
+    "link": "https://dev.to/oroborolabs/the-name-outside-the-contract-2b3",
     "topic": "general"
   }
 ]
