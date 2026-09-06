@@ -1,50 +1,50 @@
 [
   {
-    "title": "A Staging-Gate Playbook for AI Spikes on Shared Free Hosts",
-    "desc": "<p>You join the afternoon standup and someone demos a chatbot that already talks to staging data. Token cost looked like zero, so the spike ",
-    "link": "https://dev.to/devx_6522/a-staging-gate-playbook-for-ai-spikes-on-shared-free-hosts-489p",
+    "title": "An Ollama tag that pulls and runs and has no working code in it. The same model at the same quantisation, elsewhere, is fine.",
+    "desc": "<p><strong>TL;DR</strong>: <code>ollama pull qwen2.5-coder:3b-instruct-q3_K_M</code> succeeds, <code>ollama run</code> streams at normal spe",
+    "link": "https://dev.to/homelabpm/an-ollama-tag-that-pulls-and-runs-and-has-no-working-code-in-it-the-same-model-at-the-same-4lhd",
     "topic": "general"
   },
   {
-    "title": "The Agent Installed It. Did Your Lockfile Move?",
-    "desc": "<p>Did the agent install the package, or only narrate it?</p>\n\n<p>I keep seeing both claims treated as one fact. They are not the same event",
-    "link": "https://dev.to/gitlab_3188/the-agent-installed-it-did-your-lockfile-move-2j5h",
+    "title": "A Guide to Easily Buying Second-Hand GitHub Accounts....",
+    "desc": "<p>Why Choose GetPVATop.com for Old GitHub Accounts?<br />\n\ud83d\udeaa\ud83d\ude80\ud83d\udcac\ud83d\udcde\ud83d\udce9 We\u2019re always ready to help you 24/7! \ud83d\ude0a\ud83d\udcaf\ud83d\udd25 \u00a0 \u00a0 \u00a0<br />\n\ud83d\udcf1\ud83d\udcac\ud83d\udfe2\ud83d\udcde\ud83c\udf10\ud83d\udd25 \u260e\ufe0f \ud83d\udcac Telegram: ",
+    "link": "https://dev.to/nefieldc0x6i/a-guide-to-easily-buying-second-hand-github-accounts-417c",
     "topic": "general"
   },
   {
-    "title": "Reject Orphan Streams Before Connection Age Beats Token Value",
-    "desc": "<p>The pager fires at 02:11 with a cost alert. Active streams still look modest on the panel. Useful completions per minute barely moved at ",
-    "link": "https://dev.to/odd_background_328/reject-orphan-streams-before-connection-age-beats-token-value-31bm",
+    "title": "Best Cloud Hosting in China 2026: Top Deals & Picks",
+    "desc": "<p>Deploying web applications in China has always been a unique challenge. If you've ever tried serving a React app or a Node.js backend to ",
+    "link": "https://dev.to/aitokenhub_98/best-cloud-hosting-in-china-2026-top-deals-picks-83",
     "topic": "general"
   },
   {
-    "title": "Fix SSL/TLS Certificate Handshake Failures \u2013 Step\u2011by\u2011Step Guide for Developers",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Handshake failures are one of the most common roadblocks when securing API calls, micro\u2011service traffic,",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-ssltls-certificate-handshake-failures-step-by-step-guide-for-developers-37ka",
+    "title": "Cheapest APAC Cloud Servers 2026: Budget Deals",
+    "desc": "<p>If you're building apps for users in Asia, you already know that latency is the silent killer of user experience. But as an indie develop",
+    "link": "https://dev.to/aitokenhub_98/cheapest-apac-cloud-servers-2026-budget-deals-2d91",
     "topic": "general"
   },
   {
-    "title": "I Gave My Agent Ten Ops Skills, and a Docker Test for Each One",
-    "desc": "<p>Ten skills, ten Docker tests, nine green and one skipped off Ubuntu. That count is the only claim in this article worth checking, and <co",
-    "link": "https://dev.to/automateitall/i-gave-my-agent-ten-ops-skills-and-a-docker-test-for-each-one-3bb4",
-    "topic": "docker"
-  },
-  {
-    "title": "How to Use LLMs for Code Review Automation",
-    "desc": "<h1>\n  \n  \n  How to Use LLMs for Code Review Automation\n</h1>\n\n<p>tags: ai, python, automation, devops</p>\n\n\n\n\n<p>tags: ai, python, automati",
-    "link": "https://dev.to/qingluan/how-to-use-llms-for-code-review-automation-5d7c",
+    "title": "What Actually Breaks During a \"Zero-Downtime\" Cloud Migration",
+    "desc": "<p>Every cloud migration plan I've seen starts with the same promise: zero downtime. And most of them get pretty close \u2014 right up until the ",
+    "link": "https://dev.to/webmatrixlabnz/what-actually-breaks-during-a-zero-downtime-cloud-migration-22jl",
     "topic": "general"
   },
   {
-    "title": "Build a Kubernetes Pod Autoscaler with Python",
-    "desc": "<h1>\n  \n  \n  Build a Kubernetes Pod Autoscaler with Python\n</h1>\n\n<p>tags: python, kubernetes, devops, advanced</p>\n\n\n\n\n<p>tags: python, kub",
-    "link": "https://dev.to/qingluan/build-a-kubernetes-pod-autoscaler-with-python-4210",
-    "topic": "kubernetes"
+    "title": "Every secret in my homelab has exactly one home: how I run a self-hosted secrets manager, and the traps that bit me",
+    "desc": "<p>For a long time my homelab's secrets lived the way most people's do: a database<br />\npassword in one <code>docker-compose.yml</code>, an",
+    "link": "https://dev.to/c1-anderson/every-secret-in-my-homelab-has-exactly-one-home-how-i-run-a-self-hosted-secrets-manager-and-the-6g8",
+    "topic": "general"
   },
   {
-    "title": "\ud83d\udee1\ufe0f IMDSv1 vs IMDSv2 en EC2: SSRF, m\u00e9tricas, riesgos y una migraci\u00f3n segura",
-    "desc": "<p><strong>\u00bfQu\u00e9 riesgo existe realmente al mantener IMDSv1 habilitado en una instancia EC2?</strong></p>\n\n<p>En 2019, el incidente de Capita",
-    "link": "https://dev.to/terry_cloud/imdsv1-vs-imdsv2-en-ec2-ssrf-metricas-riesgos-y-una-migracion-segura-4j62",
+    "title": "Putting Authelia in front of my whole homelab: what worked, what didn't, and the \u00a30 lesson that nearly undid all of it",
+    "desc": "<p>Every service I self-host sits behind one front door: <a href=\"https://www.authelia.com/\" rel=\"noopener noreferrer\">Authelia</a>,<br />\nd",
+    "link": "https://dev.to/c1-anderson/putting-authelia-in-front-of-my-whole-homelab-what-worked-what-didnt-and-the-ps0-lesson-that-30k6",
+    "topic": "general"
+  },
+  {
+    "title": "My 5 trading bots reported every sale as a success. None of them ever sold anything.",
+    "desc": "<p>I spent a few months building an automated trading system: five bots wired<br />\ntogether in n8n, a couple of local LLMs making the calls",
+    "link": "https://dev.to/c1-anderson/my-5-trading-bots-reported-every-sale-as-a-success-none-of-them-ever-sold-anything-220c",
     "topic": "general"
   }
 ]
