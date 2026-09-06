@@ -1,50 +1,50 @@
 [
   {
-    "title": "Stop Hand-Partitioning Disks: Practical systemd-repart on Linux",
-    "desc": "<h1>\n  \n  \n  Stop Hand-Partitioning Disks: Practical systemd-repart on Linux\n</h1>\n\n<p>You ship a minimal OS image. The target disk is 64\u202fGB",
-    "link": "https://dev.to/lyraalishaikh/stop-hand-partitioning-disks-practical-systemd-repart-on-linux-58dp",
+    "title": "Agentic AI Security: Sandboxing LLM Tool Calls in Production",
+    "desc": "<p>When you give a language model the ability to call tools \u2014 execute code, read files, hit APIs \u2014 you create a new attack surface that most",
+    "link": "https://dev.to/ayinedjimi-consultants/agentic-ai-security-sandboxing-llm-tool-calls-in-production-21bl",
+    "topic": "secops"
+  },
+  {
+    "title": "Two scale errors in Life-Race-V2 multiplied into one visible problem",
+    "desc": "<p>In Life-Race-V2, Robert filed four reports. They traced back to two causes that multiplied each other.</p>\n\n<p>The first cause was in the",
+    "link": "https://dev.to/robswierk/two-scale-errors-in-life-race-v2-multiplied-into-one-visible-problem-3od8",
     "topic": "general"
   },
   {
-    "title": "Day 36: A Running Container Is Not a Published One, and an ALB Needs a Listener",
-    "desc": "<p>Both of today's tasks end with something that is definitely running and definitely unreachable, for two different reasons. A container se",
-    "link": "https://dev.to/ndcodes/day-36-a-running-container-is-not-a-published-one-and-an-alb-needs-a-listener-2jh3",
+    "title": "A practical way to turn website changes into operational decisions",
+    "desc": "<h1>\n  \n  \n  A change is an event, not a task\n</h1>\n\n<p>A price, availability, recall, or seller change only becomes useful once it is tied ",
+    "link": "https://dev.to/nimbliquestudio/a-practical-way-to-turn-website-changes-into-operational-decisions-d5d",
+    "topic": "general"
+  },
+  {
+    "title": "Why Most Cold Emails Land in Spam: The 4 DNS Authentication Layers Required for 10/10 InBox",
+    "desc": "<h1>\n  \n  \n  Why Most Cold Emails Land in Spam: The 4 DNS Authentication Layers Required for 10/10 Deliverability\n</h1>\n\n<p><em>Engineering ",
+    "link": "https://dev.to/alex_apex/why-most-cold-emails-land-in-spam-the-4-dns-authentication-layers-required-for-1010-inbox-2e2p",
+    "topic": "general"
+  },
+  {
+    "title": "Case Study: How an Agency Fixed Google Workspace Bans and Reached 10/10 InBox on Instantly.ai",
+    "desc": "<h1>\n  \n  \n  Case Study: How an Agency Fixed Google Workspace Bans and Reached 10/10 InBox on Instantly.ai\n</h1>\n\n<p><em>Published by ApexSM",
+    "link": "https://dev.to/alex_apex/case-study-how-an-agency-fixed-google-workspace-bans-and-reached-1010-inbox-on-instantlyai-494f",
+    "topic": "general"
+  },
+  {
+    "title": "Change detection needs a decision trail, not just a diff",
+    "desc": "<p>A changed field is only the beginning of a useful operational signal. Before a team acts on it, they need enough context to tell whether ",
+    "link": "https://dev.to/nimbliquestudio/change-detection-needs-a-decision-trail-not-just-a-diff-7md",
+    "topic": "general"
+  },
+  {
+    "title": "Czym jest Docker i jak go u\u017cywa\u0107 \u2014 przewodnik z przyk\u0142adami",
+    "desc": "<p>Docker zmieni\u0142 spos\u00f3b w jaki wdra\u017camy aplikacje. Pokazuj\u0119 od podstaw czym jest, jak dzia\u0142a i jak zacz\u0105\u0107 go realnie u\u017cywa\u0107, na konkretnych",
+    "link": "https://dev.to/andrzej_klusiewicz_08588c/czym-jest-docker-i-jak-go-uzywac-przewodnik-z-przykladami-17le",
     "topic": "docker"
   },
   {
-    "title": "Inventory Every Doc Claim Before a Model Writes a Sentence",
-    "desc": "<p>Documentation generation fails at the sentence rather than the heading, because unfalsifiable promises hide inside otherwise ordinary par",
-    "link": "https://dev.to/github_7727/inventory-every-doc-claim-before-a-model-writes-a-sentence-1n73",
-    "topic": "general"
-  },
-  {
-    "title": "Is the Endpoint Free, or Just Unbilled?",
-    "desc": "<p>Is the endpoint free, or just unbilled?</p>\n\n<p>Those are different questions. Mix them and agents get brittle.</p>\n\n<p>I keep hearing th",
-    "link": "https://dev.to/gitlab_3188/is-the-endpoint-free-or-just-unbilled-4h78",
-    "topic": "general"
-  },
-  {
-    "title": "Everything except the server: what it costs to run one WordPress site for a year",
-    "desc": "<p><strong>KEY FINDING.</strong> Everything a WordPress site needs that is not the server costs somewhere between <strong>$15.46 and $474.08",
-    "link": "https://dev.to/stackvalue/everything-except-the-server-what-it-costs-to-run-one-wordpress-site-for-a-year-4e5f",
-    "topic": "general"
-  },
-  {
-    "title": "API Tokens in CI/CD Pipelines: Five Exposure Surfaces That Rotation Does Not Close",
-    "desc": "<p>On April 1, 2021, a Codecov customer noticed that the SHA-256 hash on the bash uploader script did not match the published value. The scr",
-    "link": "https://dev.to/roxdavirox/api-tokens-in-cicd-pipelines-five-exposure-surfaces-that-rotation-does-not-close-2ikl",
-    "topic": "general"
-  },
-  {
-    "title": "I Tested 5 Local LLM Sizes in n8n. The 1.5B Model Beat 14B on Tool-Calling.",
-    "desc": "<p>I spent a weekend benchmarking Qwen2.5 at five sizes \u2014 0.5B, 1.5B, 3B, 7B, 14B \u2014 through five real n8n workflows on my M2 Mac. Same promp",
-    "link": "https://dev.to/pitambarmahato/i-tested-5-local-llm-sizes-in-n8n-the-15b-model-beat-14b-on-tool-calling-27c6",
-    "topic": "general"
-  },
-  {
-    "title": "Exposed Spring Boot Actuator: /heapdump Delivers Credentials in Production",
-    "desc": "<p>In May 2025, a single <code>GET /actuator/heapdump</code> returned a 150MB file. With <code>grep</code>, plaintext passwords appeared in ",
-    "link": "https://dev.to/roxdavirox/exposed-spring-boot-actuator-heapdump-delivers-credentials-in-production-354p",
+    "title": "Kurs administracji PostgreSQL \u2014 jak wybra\u0107 dobry prework",
+    "desc": "<p>Przed kursem administracji PostgreSQL warto dobrze przygotowa\u0107 \u015brodowisko. Pokazuj\u0119 na co zwr\u00f3ci\u0107 uwag\u0119 wybieraj\u0105c prework i jak unikn\u0105\u0107 ",
+    "link": "https://dev.to/andrzej_klusiewicz_08588c/kurs-administracji-postgresql-jak-wybrac-dobry-prework-1hb2",
     "topic": "general"
   }
 ]
