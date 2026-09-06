@@ -1,50 +1,50 @@
 [
   {
-    "title": "Docker CrashLoopBackOff Fix: Step\u2011By\u2011Step Guide to Resolve Container Crashes",
-    "desc": "<h1>\n  \n  \n  Docker CrashLoopBackOff Fix: Step\u2011By\u2011Step Guide to Resolve Container Crashes\n</h1>\n\n<p>When a pod repeatedly restarts with the ",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/docker-crashloopbackoff-fix-step-by-step-guide-to-resolve-container-crashes-5ej",
+    "title": "Stop Hand-Partitioning Disks: Practical systemd-repart on Linux",
+    "desc": "<h1>\n  \n  \n  Stop Hand-Partitioning Disks: Practical systemd-repart on Linux\n</h1>\n\n<p>You ship a minimal OS image. The target disk is 64\u202fGB",
+    "link": "https://dev.to/lyraalishaikh/stop-hand-partitioning-disks-practical-systemd-repart-on-linux-58dp",
+    "topic": "general"
+  },
+  {
+    "title": "Day 36: A Running Container Is Not a Published One, and an ALB Needs a Listener",
+    "desc": "<p>Both of today's tasks end with something that is definitely running and definitely unreachable, for two different reasons. A container se",
+    "link": "https://dev.to/ndcodes/day-36-a-running-container-is-not-a-published-one-and-an-alb-needs-a-listener-2jh3",
     "topic": "docker"
   },
   {
-    "title": "The Pardon Nobody Counts",
-    "desc": "<p>The last experiment gave every class of receipt a name contract, with a pardon list for legacy files: each one forgivable exactly once, r",
-    "link": "https://dev.to/oroborolabs/the-pardon-nobody-counts-d90",
+    "title": "Inventory Every Doc Claim Before a Model Writes a Sentence",
+    "desc": "<p>Documentation generation fails at the sentence rather than the heading, because unfalsifiable promises hide inside otherwise ordinary par",
+    "link": "https://dev.to/github_7727/inventory-every-doc-claim-before-a-model-writes-a-sentence-1n73",
     "topic": "general"
   },
   {
-    "title": "Python Logging: Best Practices for Production Apps",
-    "desc": "<h1>\n  \n  \n  Python Logging: Best Practices for Production Apps\n</h1>\n\n<p>tags: python, logging, devops, tutorial</p>\n\n\n\n\n<p>tags: python, l",
-    "link": "https://dev.to/qingluan/python-logging-best-practices-for-production-apps-4b4c",
+    "title": "Is the Endpoint Free, or Just Unbilled?",
+    "desc": "<p>Is the endpoint free, or just unbilled?</p>\n\n<p>Those are different questions. Mix them and agents get brittle.</p>\n\n<p>I keep hearing th",
+    "link": "https://dev.to/gitlab_3188/is-the-endpoint-free-or-just-unbilled-4h78",
     "topic": "general"
   },
   {
-    "title": "How to Deploy Python Apps with Docker Compose",
-    "desc": "<h1>\n  \n  \n  How to Deploy Python Apps with Docker Compose\n</h1>\n\n<p>tags: python, docker, devops, tutorial</p>\n\n\n\n\n<p>tags: python, docker,",
-    "link": "https://dev.to/qingluan/how-to-deploy-python-apps-with-docker-compose-2dp4",
-    "topic": "docker"
-  },
-  {
-    "title": "Advertised but never wired: config options that exist everywhere except the code path",
-    "desc": "<p>Two issues landed in the agent-CLI ecosystem within a few hours of each other this week, in two different codebases, and neither is about",
-    "link": "https://dev.to/pm25coder/advertised-but-never-wired-config-options-that-exist-everywhere-except-the-code-path-1b0g",
+    "title": "Everything except the server: what it costs to run one WordPress site for a year",
+    "desc": "<p><strong>KEY FINDING.</strong> Everything a WordPress site needs that is not the server costs somewhere between <strong>$15.46 and $474.08",
+    "link": "https://dev.to/stackvalue/everything-except-the-server-what-it-costs-to-run-one-wordpress-site-for-a-year-4e5f",
     "topic": "general"
   },
   {
-    "title": "The complete Kamal 2 deploy.yml for a real Rails app: Postgres, Sidekiq, Redis and backups on one Hetzner box",
-    "desc": "<p>Most Kamal tutorials stop at \"hello world on one server\". Real apps have a database, a background queue, a cache, cron jobs, file uploads",
-    "link": "https://dev.to/exo02934/the-complete-kamal-2-deployyml-for-a-real-rails-app-postgres-sidekiq-redis-and-backups-on-one-dhd",
+    "title": "API Tokens in CI/CD Pipelines: Five Exposure Surfaces That Rotation Does Not Close",
+    "desc": "<p>On April 1, 2021, a Codecov customer noticed that the SHA-256 hash on the bash uploader script did not match the published value. The scr",
+    "link": "https://dev.to/roxdavirox/api-tokens-in-cicd-pipelines-five-exposure-surfaces-that-rotation-does-not-close-2ikl",
     "topic": "general"
   },
   {
-    "title": "You've Got Agent Skills. Now Who Governs Them?",
-    "desc": "<p>The Agent skill ecosystem is booming.</p>\n\n<p>Today on GitHub Trending, three repos highlight how far we've come:</p>\n\n<ul>\n<li>\n<strong>",
-    "link": "https://dev.to/fenju_fu/youve-got-agent-skills-now-who-governs-them-3ba9",
+    "title": "I Tested 5 Local LLM Sizes in n8n. The 1.5B Model Beat 14B on Tool-Calling.",
+    "desc": "<p>I spent a weekend benchmarking Qwen2.5 at five sizes \u2014 0.5B, 1.5B, 3B, 7B, 14B \u2014 through five real n8n workflows on my M2 Mac. Same promp",
+    "link": "https://dev.to/pitambarmahato/i-tested-5-local-llm-sizes-in-n8n-the-15b-model-beat-14b-on-tool-calling-27c6",
     "topic": "general"
   },
   {
-    "title": "The Name Outside the Contract",
-    "desc": "<p>Tonight's audit closed a hole that was hiding in plain sight. This workshop keeps a catalog that contracts the <em>content</em> of every ",
-    "link": "https://dev.to/oroborolabs/the-name-outside-the-contract-2b3",
+    "title": "Exposed Spring Boot Actuator: /heapdump Delivers Credentials in Production",
+    "desc": "<p>In May 2025, a single <code>GET /actuator/heapdump</code> returned a 150MB file. With <code>grep</code>, plaintext passwords appeared in ",
+    "link": "https://dev.to/roxdavirox/exposed-spring-boot-actuator-heapdump-delivers-credentials-in-production-354p",
     "topic": "general"
   }
 ]
