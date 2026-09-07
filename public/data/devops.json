@@ -1,50 +1,50 @@
 [
   {
-    "title": "Ten questions to answer before you route production traffic through someone else's LLM endpoint",
-    "desc": "<p>Every LLM endpoint's landing page says fast, reliable, compatible, secure. Those words are free. This is the list of questions that aren'",
-    "link": "https://dev.to/seven7763/ten-questions-to-answer-before-you-route-production-traffic-through-someone-elses-llm-endpoint-oml",
+    "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+    "desc": "<p><em>How BuildKit + Artifact Registry turn your CI/CD pipelines around: if nothing changed, <code>uv</code> doesn't re-download a single p",
+    "link": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+    "topic": "docker"
+  },
+  {
+    "title": "How to Fix SSL/TLS Certificate Handshake Failures \u2013 A Complete DevOps Guide",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>SSL/TLS handshake failures are a common pain point for developers and DevOps engineers. This guide walks",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-ssltls-certificate-handshake-failures-a-complete-devops-guide-14e4",
     "topic": "general"
   },
   {
-    "title": "[Lab Notes] Kubernetes the Hard Way, For Real This Time (Steps 01-02)",
-    "desc": "<p>Following <a href=\"https://github.com/kelseyhightower/kubernetes-the-hard-way\" rel=\"noopener noreferrer\">Kelsey Hightower's Kubernetes th",
-    "link": "https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-steps-01-02-nog",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Five Things Kubernetes Quietly Added to My Containers (And How Each One Broke a Confluent Service)",
-    "desc": "<p><em>Originally published on <a href=\"https://medium.com/@yara.ramesh/five-things-kubernetes-quietly-added-to-my-containers-and-how-each-o",
-    "link": "https://dev.to/ramesh-yara/five-things-kubernetes-quietly-added-to-my-containers-and-how-each-one-broke-a-confluent-service-108m",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Hosting Renewal Prices: Which of 50 Hosts Actually Publish One",
-    "desc": "<p>Every hosting price page shows you a number. Some of them show you two.</p>\n\n<p>We scrape 50 providers every night. As of 7 September 202",
-    "link": "https://dev.to/hostingsift/hosting-renewal-prices-which-of-50-hosts-actually-publish-one-287n",
+    "title": "CERN Is Moving 2,200 Accelerator Systems to Debian 13 \u2014 No USB Stick Required",
+    "desc": "<p>This is one of those Linux stories that deserves attention even beyond the usual distro wars.</p>\n\n<p>By the end of 2026, CERN plans to m",
+    "link": "https://dev.to/sythos/cern-is-moving-2200-accelerator-systems-to-debian-13-no-usb-stick-required-48ab",
     "topic": "general"
   },
   {
-    "title": "Heroku to Hetzner with Kamal 2: the real bill, the real work, and when not to bother",
-    "desc": "<p>I moved a Rails app off Heroku onto a single Hetzner box with Kamal 2 last month. The bill went from $121/month to about EUR 14. That hea",
-    "link": "https://dev.to/exo02934/heroku-to-hetzner-with-kamal-2-the-real-bill-the-real-work-and-when-not-to-bother-3fj5",
+    "title": "Building a Query-Aware Log Compressor in Rust: From 100k Lines to 200",
+    "desc": "<h1>\n  \n  \n  Building a Query-Aware Log Compressor in Rust: From 100k Lines to 200\n</h1>\n\n<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>You're on-call.",
+    "link": "https://dev.to/tim860/building-a-query-aware-log-compressor-in-rust-from-100k-lines-to-200-2nj",
     "topic": "general"
   },
   {
-    "title": "Meta Ads vs Google Ads in 2026: Which One Should You Choose?",
-    "desc": "<p>If you\u2019re a digital marketer, choosing between Meta Ads and Google Ads shouldn\u2019t be about which platform is \u201cbetter.\u201d</p>\n\n<p>It should b",
-    "link": "https://dev.to/nasim_sayed5656/meta-ads-vs-google-ads-in-2026-which-one-should-you-choose-ogg",
+    "title": "I Built an OTel Processor That Can Save You $12k/Month on LLM Observability",
+    "desc": "<h1>\n  \n  \n  I Built an OTel Processor That Can Save You $12k/Month on LLM Observability\n</h1>\n\n<p>If you're running LLM-powered services in",
+    "link": "https://dev.to/tim860/i-built-an-otel-processor-that-can-save-you-12kmonth-on-llm-observability-2536",
     "topic": "general"
   },
   {
-    "title": "If the Runtime Is Free, Who Is the Operator?",
-    "desc": "<p>Does a zero invoice make you a guest?<br />\nI keep hearing that answer in code reviews.<br />\nIt is wrong, and it keeps shipping bugs.</p",
-    "link": "https://dev.to/gitlab_3188/if-the-runtime-is-free-who-is-the-operator-3dd4",
+    "title": "A Green Agent Session Is Not a Green Pipeline",
+    "desc": "<p>Did CI pass, or did an agent merely narrate success?<br />\nI still watch teams treat those greens as twins.<br />\nThis FAQ is the wedge I",
+    "link": "https://dev.to/gitlab_3188/a-green-agent-session-is-not-a-green-pipeline-1c8",
     "topic": "general"
   },
   {
-    "title": "The Fixture Path Was Relative. The Agent Never Stayed at the Repo Root.",
-    "desc": "<p>Have you ever watched a remote pytest run go green while the same command failed on your laptop? I spent forty-eight hours in that gap, w",
-    "link": "https://dev.to/codepy_1473/the-fixture-path-was-relative-the-agent-never-stayed-at-the-repo-root-270k",
+    "title": "Surviving an OpenAI Outage with an Automatic Fallback Chain",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/surviving-an-openai-outage-with-an-automatic-fallback-chain-4m7f",
+    "topic": "openai"
+  },
+  {
+    "title": "Silent Defaults Are the Real Agent Diff. Ledger Them Before Merge.",
+    "desc": "<p>Silent defaults are the real diff in an agent patch. A green suite only proves that yesterday\u2019s named tests still pass. It does not prove",
+    "link": "https://dev.to/datacpp_8185/silent-defaults-are-the-real-agent-diff-ledger-them-before-merge-59ng",
     "topic": "general"
   }
 ]
