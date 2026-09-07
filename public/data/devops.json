@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Your Minecraft Server Lags at 5 GHz: Single-Core Performance, MSPT, and Stable TPS",
-    "desc": "<p>A CPU advertised at 5 GHz can still run a laggy Minecraft server. Clock speed matters, but it is only one part of the performance equatio",
-    "link": "https://dev.to/aeza__net/why-your-minecraft-server-lags-at-5-ghz-single-core-performance-mspt-and-stable-tps-5fa9",
+    "title": "Ten questions to answer before you route production traffic through someone else's LLM endpoint",
+    "desc": "<p>Every LLM endpoint's landing page says fast, reliable, compatible, secure. Those words are free. This is the list of questions that aren'",
+    "link": "https://dev.to/seven7763/ten-questions-to-answer-before-you-route-production-traffic-through-someone-elses-llm-endpoint-oml",
     "topic": "general"
   },
   {
-    "title": "The Real Cost of Not Knowing",
-    "desc": "<h2>\n  \n  \n  The Real Cost of Not Knowing\n</h2>\n\n<p>Most automation teams think about monitoring backwards. They see the $99/month price tag",
-    "link": "https://dev.to/opsveritas/the-real-cost-of-not-knowing-10c0",
+    "title": "[Lab Notes] Kubernetes the Hard Way, For Real This Time (Steps 01-02)",
+    "desc": "<p>Following <a href=\"https://github.com/kelseyhightower/kubernetes-the-hard-way\" rel=\"noopener noreferrer\">Kelsey Hightower's Kubernetes th",
+    "link": "https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-steps-01-02-nog",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Five Things Kubernetes Quietly Added to My Containers (And How Each One Broke a Confluent Service)",
+    "desc": "<p><em>Originally published on <a href=\"https://medium.com/@yara.ramesh/five-things-kubernetes-quietly-added-to-my-containers-and-how-each-o",
+    "link": "https://dev.to/ramesh-yara/five-things-kubernetes-quietly-added-to-my-containers-and-how-each-one-broke-a-confluent-service-108m",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Hosting Renewal Prices: Which of 50 Hosts Actually Publish One",
+    "desc": "<p>Every hosting price page shows you a number. Some of them show you two.</p>\n\n<p>We scrape 50 providers every night. As of 7 September 202",
+    "link": "https://dev.to/hostingsift/hosting-renewal-prices-which-of-50-hosts-actually-publish-one-287n",
     "topic": "general"
   },
   {
-    "title": "Function In JS",
-    "desc": "<p>Functions in JavaScript are reusable blocks of code designed to perform specific tasks. They allow you to organize, reuse, and modularize",
-    "link": "https://dev.to/parthipan_m/function-in-js-3k8j",
+    "title": "Heroku to Hetzner with Kamal 2: the real bill, the real work, and when not to bother",
+    "desc": "<p>I moved a Rails app off Heroku onto a single Hetzner box with Kamal 2 last month. The bill went from $121/month to about EUR 14. That hea",
+    "link": "https://dev.to/exo02934/heroku-to-hetzner-with-kamal-2-the-real-bill-the-real-work-and-when-not-to-bother-3fj5",
     "topic": "general"
   },
   {
-    "title": "Cheap Patches Need a Merge Steward Card",
-    "desc": "<p>Cheap agent patches fail at clearance, not generation. A named merge steward stops silent landings on main. This playbook is one wiki car",
-    "link": "https://dev.to/techlab_7968/cheap-patches-need-a-merge-steward-card-24he",
+    "title": "Meta Ads vs Google Ads in 2026: Which One Should You Choose?",
+    "desc": "<p>If you\u2019re a digital marketer, choosing between Meta Ads and Google Ads shouldn\u2019t be about which platform is \u201cbetter.\u201d</p>\n\n<p>It should b",
+    "link": "https://dev.to/nasim_sayed5656/meta-ads-vs-google-ads-in-2026-which-one-should-you-choose-ogg",
     "topic": "general"
   },
   {
-    "title": "Supongamos que ya tienes el resumen del paso anterior",
-    "desc": "<p>C\u00f3mo automatizar tu marketing de contenidos sin dejarte la pasta (Edici\u00f3n 2026)</p>\n\n<p>Escribir contenidos cansa. Y si tienes que pagar ",
-    "link": "https://dev.to/acrdev/supongamos-que-ya-tienes-el-resumen-del-paso-anterior-38kp",
+    "title": "If the Runtime Is Free, Who Is the Operator?",
+    "desc": "<p>Does a zero invoice make you a guest?<br />\nI keep hearing that answer in code reviews.<br />\nIt is wrong, and it keeps shipping bugs.</p",
+    "link": "https://dev.to/gitlab_3188/if-the-runtime-is-free-who-is-the-operator-3dd4",
     "topic": "general"
   },
   {
-    "title": "The `SET LOCAL` advice is right, and it understates the problem",
-    "desc": "<blockquote>\n<p>Everyone tells you to use SET LOCAL for tenant context in Postgres RLS. The usual reason given understates the blast radius ",
-    "link": "https://dev.to/qays_kadhim_c3fea1c94957f/the-set-local-advice-is-right-and-it-understates-the-problem-1f62",
-    "topic": "general"
-  },
-  {
-    "title": "AI Agent Sandboxing & Secure Code Execution in 2026: E2B, Modal, Docker, and Firecracker Compared",
-    "desc": "<h1>\n  \n  \n  AI Agent Sandboxing & Secure Code Execution in 2026: E2B, Modal, Docker, and Firecracker Compared\n</h1>\n\n<p>In 2026, autonomous",
-    "link": "https://dev.to/agdex_ai/ai-agent-sandboxing-secure-code-execution-in-2026-e2b-modal-docker-and-firecracker-compared-80h",
-    "topic": "docker"
-  },
-  {
-    "title": "Nobody Checks Whether the Guardrail Is Running",
-    "desc": "<p>Every AI-and-engineering post right now is about adding a guardrail.</p>\n\n<p>Lint rules the agent can't bypass. Evals before you ship a p",
-    "link": "https://dev.to/mickyarun/nobody-checks-whether-the-guardrail-is-running-3ng",
+    "title": "The Fixture Path Was Relative. The Agent Never Stayed at the Repo Root.",
+    "desc": "<p>Have you ever watched a remote pytest run go green while the same command failed on your laptop? I spent forty-eight hours in that gap, w",
+    "link": "https://dev.to/codepy_1473/the-fixture-path-was-relative-the-agent-never-stayed-at-the-repo-root-270k",
     "topic": "general"
   }
 ]
