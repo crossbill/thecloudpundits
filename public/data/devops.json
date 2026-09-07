@@ -1,50 +1,50 @@
 [
   {
-    "title": "An Ollama tag that pulls and runs and has no working code in it. The same model at the same quantisation, elsewhere, is fine.",
-    "desc": "<p><strong>TL;DR</strong>: <code>ollama pull qwen2.5-coder:3b-instruct-q3_K_M</code> succeeds, <code>ollama run</code> streams at normal spe",
-    "link": "https://dev.to/homelabpm/an-ollama-tag-that-pulls-and-runs-and-has-no-working-code-in-it-the-same-model-at-the-same-4lhd",
+    "title": "Fix Git Merge Conflicts in CI/CD Pipelines \u2013 Automated Solutions for Faster Deployments",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Merge conflicts are a common source of pipeline failures in modern CI/CD workflows. When a conflict surf",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-git-merge-conflicts-in-cicd-pipelines-automated-solutions-for-faster-deployments-3amk",
     "topic": "general"
   },
   {
-    "title": "A Guide to Easily Buying Second-Hand GitHub Accounts....",
-    "desc": "<p>Why Choose GetPVATop.com for Old GitHub Accounts?<br />\n\ud83d\udeaa\ud83d\ude80\ud83d\udcac\ud83d\udcde\ud83d\udce9 We\u2019re always ready to help you 24/7! \ud83d\ude0a\ud83d\udcaf\ud83d\udd25 \u00a0 \u00a0 \u00a0<br />\n\ud83d\udcf1\ud83d\udcac\ud83d\udfe2\ud83d\udcde\ud83c\udf10\ud83d\udd25 \u260e\ufe0f \ud83d\udcac Telegram: ",
-    "link": "https://dev.to/nefieldc0x6i/a-guide-to-easily-buying-second-hand-github-accounts-417c",
+    "title": "How to Use Terraform with Python for Infrastructure",
+    "desc": "<h1>\n  \n  \n  How to Use Terraform with Python for Infrastructure\n</h1>\n\n<p>tags: python, terraform, devops, tutorial</p>\n\n\n\n\n<p>tags: python",
+    "link": "https://dev.to/qingluan/how-to-use-terraform-with-python-for-infrastructure-k37",
+    "topic": "terraform"
+  },
+  {
+    "title": "Self-Hosting Services at Home with Docker",
+    "desc": "<p>This guide explains how to turn a home machine into a lightweight server for self-hosting applications using Docker and Docker Compose. W",
+    "link": "https://dev.to/adilaidev/self-hosting-services-at-home-with-docker-9p0",
+    "topic": "docker"
+  },
+  {
+    "title": "What Really Happens When You Deploy an Application? A DevOps Journey From Code to Production",
+    "desc": "<p>Have you ever wondered what actually happens after you run:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight s",
+    "link": "https://dev.to/yash_sonawane25/what-really-happens-when-you-deploy-an-application-a-devops-journey-from-code-to-production-4j71",
     "topic": "general"
   },
   {
-    "title": "Best Cloud Hosting in China 2026: Top Deals & Picks",
-    "desc": "<p>Deploying web applications in China has always been a unique challenge. If you've ever tried serving a React app or a Node.js backend to ",
-    "link": "https://dev.to/aitokenhub_98/best-cloud-hosting-in-china-2026-top-deals-picks-83",
+    "title": "Stellar Nodes: Types, Running, and RPC Access",
+    "desc": "<h2>\n  \n  \n  Quick decision guide: Do you need to run a Stellar node or just connect to one?\n</h2>\n\n<p>Before diving into node types and set",
+    "link": "https://dev.to/onfinality/stellar-nodes-types-running-and-rpc-access-56g0",
     "topic": "general"
   },
   {
-    "title": "Cheapest APAC Cloud Servers 2026: Budget Deals",
-    "desc": "<p>If you're building apps for users in Asia, you already know that latency is the silent killer of user experience. But as an indie develop",
-    "link": "https://dev.to/aitokenhub_98/cheapest-apac-cloud-servers-2026-budget-deals-2d91",
+    "title": "Sora Network RPC: Project Overview and Endpoint Guide",
+    "desc": "<h2>\n  \n  \n  Quick Recommendation: How to Connect to SORA\n</h2>\n\n<p>If you are building on SORA, the fastest path is to use a managed RPC se",
+    "link": "https://dev.to/onfinality/sora-network-rpc-project-overview-and-endpoint-guide-2pl3",
     "topic": "general"
   },
   {
-    "title": "What Actually Breaks During a \"Zero-Downtime\" Cloud Migration",
-    "desc": "<p>Every cloud migration plan I've seen starts with the same promise: zero downtime. And most of them get pretty close \u2014 right up until the ",
-    "link": "https://dev.to/webmatrixlabnz/what-actually-breaks-during-a-zero-downtime-cloud-migration-22jl",
+    "title": "Sonic RPC Node: Connect to Sonic Mainnet Endpoints",
+    "desc": "<h2>\n  \n  \n  Quick Start: Sonic RPC Endpoint\n</h2>\n\n<p>If you just need a Sonic RPC endpoint to start building, here's the public endpoint p",
+    "link": "https://dev.to/onfinality/sonic-rpc-node-connect-to-sonic-mainnet-endpoints-3m2g",
     "topic": "general"
   },
   {
-    "title": "Every secret in my homelab has exactly one home: how I run a self-hosted secrets manager, and the traps that bit me",
-    "desc": "<p>For a long time my homelab's secrets lived the way most people's do: a database<br />\npassword in one <code>docker-compose.yml</code>, an",
-    "link": "https://dev.to/c1-anderson/every-secret-in-my-homelab-has-exactly-one-home-how-i-run-a-self-hosted-secrets-manager-and-the-6g8",
-    "topic": "general"
-  },
-  {
-    "title": "Putting Authelia in front of my whole homelab: what worked, what didn't, and the \u00a30 lesson that nearly undid all of it",
-    "desc": "<p>Every service I self-host sits behind one front door: <a href=\"https://www.authelia.com/\" rel=\"noopener noreferrer\">Authelia</a>,<br />\nd",
-    "link": "https://dev.to/c1-anderson/putting-authelia-in-front-of-my-whole-homelab-what-worked-what-didnt-and-the-ps0-lesson-that-30k6",
-    "topic": "general"
-  },
-  {
-    "title": "My 5 trading bots reported every sale as a success. None of them ever sold anything.",
-    "desc": "<p>I spent a few months building an automated trading system: five bots wired<br />\ntogether in n8n, a couple of local LLMs making the calls",
-    "link": "https://dev.to/c1-anderson/my-5-trading-bots-reported-every-sale-as-a-success-none-of-them-ever-sold-anything-220c",
+    "title": "BNB Chain Testnet RPC Endpoint: Chain Settings & Debugging",
+    "desc": "<h2>\n  \n  \n  Quick Start: Connect to BNB Chain Testnet\n</h2>\n\n<p>If you're building on BNB Chain (formerly BSC) and need a testnet environme",
+    "link": "https://dev.to/onfinality/bnb-chain-testnet-rpc-endpoint-chain-settings-debugging-2l53",
     "topic": "general"
   }
 ]
