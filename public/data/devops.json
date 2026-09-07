@@ -1,50 +1,50 @@
 [
   {
-    "title": "Fix Git Merge Conflicts in CI/CD Pipelines \u2013 Automated Solutions for Faster Deployments",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Merge conflicts are a common source of pipeline failures in modern CI/CD workflows. When a conflict surf",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-git-merge-conflicts-in-cicd-pipelines-automated-solutions-for-faster-deployments-3amk",
+    "title": "Sysmon vs auditd vs eBPF: What Each One Actually Sees",
+    "desc": "<p>Every detection conversation eventually stalls on the same question: where is the data coming from?</p>\n\n<p>It sounds like plumbing. It i",
+    "link": "https://dev.to/adam_miller/sysmon-vs-auditd-vs-ebpf-what-each-one-actually-sees-1ha0",
     "topic": "general"
   },
   {
-    "title": "How to Use Terraform with Python for Infrastructure",
-    "desc": "<h1>\n  \n  \n  How to Use Terraform with Python for Infrastructure\n</h1>\n\n<p>tags: python, terraform, devops, tutorial</p>\n\n\n\n\n<p>tags: python",
-    "link": "https://dev.to/qingluan/how-to-use-terraform-with-python-for-infrastructure-k37",
-    "topic": "terraform"
+    "title": "GitHub Wrapped, but offline and for any repo, from your terminal",
+    "desc": "<p>You know \"Spotify Wrapped.\" You've probably seen \"GitHub Wrapped\" clones too \u2014 the ones that make you log in with OAuth, hit the GitHub A",
+    "link": "https://dev.to/kenjirasmussen/github-wrapped-but-offline-and-for-any-repo-from-your-terminal-nl",
+    "topic": "general"
   },
   {
-    "title": "Self-Hosting Services at Home with Docker",
-    "desc": "<p>This guide explains how to turn a home machine into a lightweight server for self-hosting applications using Docker and Docker Compose. W",
-    "link": "https://dev.to/adilaidev/self-hosting-services-at-home-with-docker-9p0",
+    "title": "Adscs Digital Assets Enhances User Awareness of Common Digital Risks",
+    "desc": "<p>Adscs Digital Assets is strengthening its focus on digital risk education to help users better understand common online risks and develop",
+    "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-enhances-user-awareness-of-common-digital-risks-2og6",
+    "topic": "general"
+  },
+  {
+    "title": "Architecting a Local-First AI Inference Node on Omarchy: Docker, vLLM, and Cloud Fallback Topology",
+    "desc": "<p>Your desktop environment freezes solid at 3:14 AM because a scheduled batch job pushed an unquantized prompt into a shared GPU buffer. Th",
+    "link": "https://dev.to/cny8834/architecting-a-local-first-ai-inference-node-on-omarchy-docker-vllm-and-cloud-fallback-topology-13nk",
     "topic": "docker"
   },
   {
-    "title": "What Really Happens When You Deploy an Application? A DevOps Journey From Code to Production",
-    "desc": "<p>Have you ever wondered what actually happens after you run:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight s",
-    "link": "https://dev.to/yash_sonawane25/what-really-happens-when-you-deploy-an-application-a-devops-journey-from-code-to-production-4j71",
+    "title": "Why Free VPN Users Don\u2019t Convert Into Paid Customers",
+    "desc": "<p>A VPN business can acquire thousands of users and still have a conversion problem hiding behind impressive download numbers. Installs ris",
+    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/why-free-vpn-users-dont-convert-into-paid-customers-396e",
     "topic": "general"
   },
   {
-    "title": "Stellar Nodes: Types, Running, and RPC Access",
-    "desc": "<h2>\n  \n  \n  Quick decision guide: Do you need to run a Stellar node or just connect to one?\n</h2>\n\n<p>Before diving into node types and set",
-    "link": "https://dev.to/onfinality/stellar-nodes-types-running-and-rpc-access-56g0",
+    "title": "Boost PostgreSQL Query Performance: Proven Tips for Developers & DevOps",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you\u2019re a software developer, engineer, or DevOps professional, you\u2019ve probably hit a wall where a Pos",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/boost-postgresql-query-performance-proven-tips-for-developers-devops-5g3a",
     "topic": "general"
   },
   {
-    "title": "Sora Network RPC: Project Overview and Endpoint Guide",
-    "desc": "<h2>\n  \n  \n  Quick Recommendation: How to Connect to SORA\n</h2>\n\n<p>If you are building on SORA, the fastest path is to use a managed RPC se",
-    "link": "https://dev.to/onfinality/sora-network-rpc-project-overview-and-endpoint-guide-2pl3",
+    "title": "How We Simplified Private Composer Packages at OT Commerce with Satis",
+    "desc": "<p>At <a href=\"https://otcommerce.com/\" rel=\"noopener noreferrer\">OT Commerce</a>, we maintain a large PHP ecosystem consisting of multiple ",
+    "link": "https://dev.to/otcommerce/how-we-simplified-private-composer-packages-at-ot-commerce-with-satis-36a",
     "topic": "general"
   },
   {
-    "title": "Sonic RPC Node: Connect to Sonic Mainnet Endpoints",
-    "desc": "<h2>\n  \n  \n  Quick Start: Sonic RPC Endpoint\n</h2>\n\n<p>If you just need a Sonic RPC endpoint to start building, here's the public endpoint p",
-    "link": "https://dev.to/onfinality/sonic-rpc-node-connect-to-sonic-mainnet-endpoints-3m2g",
-    "topic": "general"
-  },
-  {
-    "title": "BNB Chain Testnet RPC Endpoint: Chain Settings & Debugging",
-    "desc": "<h2>\n  \n  \n  Quick Start: Connect to BNB Chain Testnet\n</h2>\n\n<p>If you're building on BNB Chain (formerly BSC) and need a testnet environme",
-    "link": "https://dev.to/onfinality/bnb-chain-testnet-rpc-endpoint-chain-settings-debugging-2l53",
+    "title": "Building Narwhal Cloud: A Lightweight NAT VPS Playground for Geeks",
+    "desc": "<p>Hey everyone! \ud83d\udc4b </p>\n\n<p>If you love tinkering with networks, testing routing latency, or running lightweight self-hosted apps, setting u",
+    "link": "https://dev.to/narwhal_cloud/building-narwhal-cloud-a-lightweight-nat-vps-playground-for-geeks-5a43",
     "topic": "general"
   }
 ]
