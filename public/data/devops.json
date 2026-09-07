@@ -1,50 +1,50 @@
 [
   {
-    "title": "Sysmon vs auditd vs eBPF: What Each One Actually Sees",
-    "desc": "<p>Every detection conversation eventually stalls on the same question: where is the data coming from?</p>\n\n<p>It sounds like plumbing. It i",
-    "link": "https://dev.to/adam_miller/sysmon-vs-auditd-vs-ebpf-what-each-one-actually-sees-1ha0",
+    "title": "Why Your Minecraft Server Lags at 5 GHz: Single-Core Performance, MSPT, and Stable TPS",
+    "desc": "<p>A CPU advertised at 5 GHz can still run a laggy Minecraft server. Clock speed matters, but it is only one part of the performance equatio",
+    "link": "https://dev.to/aeza__net/why-your-minecraft-server-lags-at-5-ghz-single-core-performance-mspt-and-stable-tps-5fa9",
     "topic": "general"
   },
   {
-    "title": "GitHub Wrapped, but offline and for any repo, from your terminal",
-    "desc": "<p>You know \"Spotify Wrapped.\" You've probably seen \"GitHub Wrapped\" clones too \u2014 the ones that make you log in with OAuth, hit the GitHub A",
-    "link": "https://dev.to/kenjirasmussen/github-wrapped-but-offline-and-for-any-repo-from-your-terminal-nl",
+    "title": "The Real Cost of Not Knowing",
+    "desc": "<h2>\n  \n  \n  The Real Cost of Not Knowing\n</h2>\n\n<p>Most automation teams think about monitoring backwards. They see the $99/month price tag",
+    "link": "https://dev.to/opsveritas/the-real-cost-of-not-knowing-10c0",
     "topic": "general"
   },
   {
-    "title": "Adscs Digital Assets Enhances User Awareness of Common Digital Risks",
-    "desc": "<p>Adscs Digital Assets is strengthening its focus on digital risk education to help users better understand common online risks and develop",
-    "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-enhances-user-awareness-of-common-digital-risks-2og6",
+    "title": "Function In JS",
+    "desc": "<p>Functions in JavaScript are reusable blocks of code designed to perform specific tasks. They allow you to organize, reuse, and modularize",
+    "link": "https://dev.to/parthipan_m/function-in-js-3k8j",
     "topic": "general"
   },
   {
-    "title": "Architecting a Local-First AI Inference Node on Omarchy: Docker, vLLM, and Cloud Fallback Topology",
-    "desc": "<p>Your desktop environment freezes solid at 3:14 AM because a scheduled batch job pushed an unquantized prompt into a shared GPU buffer. Th",
-    "link": "https://dev.to/cny8834/architecting-a-local-first-ai-inference-node-on-omarchy-docker-vllm-and-cloud-fallback-topology-13nk",
+    "title": "Cheap Patches Need a Merge Steward Card",
+    "desc": "<p>Cheap agent patches fail at clearance, not generation. A named merge steward stops silent landings on main. This playbook is one wiki car",
+    "link": "https://dev.to/techlab_7968/cheap-patches-need-a-merge-steward-card-24he",
+    "topic": "general"
+  },
+  {
+    "title": "Supongamos que ya tienes el resumen del paso anterior",
+    "desc": "<p>C\u00f3mo automatizar tu marketing de contenidos sin dejarte la pasta (Edici\u00f3n 2026)</p>\n\n<p>Escribir contenidos cansa. Y si tienes que pagar ",
+    "link": "https://dev.to/acrdev/supongamos-que-ya-tienes-el-resumen-del-paso-anterior-38kp",
+    "topic": "general"
+  },
+  {
+    "title": "The `SET LOCAL` advice is right, and it understates the problem",
+    "desc": "<blockquote>\n<p>Everyone tells you to use SET LOCAL for tenant context in Postgres RLS. The usual reason given understates the blast radius ",
+    "link": "https://dev.to/qays_kadhim_c3fea1c94957f/the-set-local-advice-is-right-and-it-understates-the-problem-1f62",
+    "topic": "general"
+  },
+  {
+    "title": "AI Agent Sandboxing & Secure Code Execution in 2026: E2B, Modal, Docker, and Firecracker Compared",
+    "desc": "<h1>\n  \n  \n  AI Agent Sandboxing & Secure Code Execution in 2026: E2B, Modal, Docker, and Firecracker Compared\n</h1>\n\n<p>In 2026, autonomous",
+    "link": "https://dev.to/agdex_ai/ai-agent-sandboxing-secure-code-execution-in-2026-e2b-modal-docker-and-firecracker-compared-80h",
     "topic": "docker"
   },
   {
-    "title": "Why Free VPN Users Don\u2019t Convert Into Paid Customers",
-    "desc": "<p>A VPN business can acquire thousands of users and still have a conversion problem hiding behind impressive download numbers. Installs ris",
-    "link": "https://dev.to/fyre_way_8aa340ac6df987c1/why-free-vpn-users-dont-convert-into-paid-customers-396e",
-    "topic": "general"
-  },
-  {
-    "title": "Boost PostgreSQL Query Performance: Proven Tips for Developers & DevOps",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you\u2019re a software developer, engineer, or DevOps professional, you\u2019ve probably hit a wall where a Pos",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/boost-postgresql-query-performance-proven-tips-for-developers-devops-5g3a",
-    "topic": "general"
-  },
-  {
-    "title": "How We Simplified Private Composer Packages at OT Commerce with Satis",
-    "desc": "<p>At <a href=\"https://otcommerce.com/\" rel=\"noopener noreferrer\">OT Commerce</a>, we maintain a large PHP ecosystem consisting of multiple ",
-    "link": "https://dev.to/otcommerce/how-we-simplified-private-composer-packages-at-ot-commerce-with-satis-36a",
-    "topic": "general"
-  },
-  {
-    "title": "Building Narwhal Cloud: A Lightweight NAT VPS Playground for Geeks",
-    "desc": "<p>Hey everyone! \ud83d\udc4b </p>\n\n<p>If you love tinkering with networks, testing routing latency, or running lightweight self-hosted apps, setting u",
-    "link": "https://dev.to/narwhal_cloud/building-narwhal-cloud-a-lightweight-nat-vps-playground-for-geeks-5a43",
+    "title": "Nobody Checks Whether the Guardrail Is Running",
+    "desc": "<p>Every AI-and-engineering post right now is about adding a guardrail.</p>\n\n<p>Lint rules the agent can't bypass. Evals before you ship a p",
+    "link": "https://dev.to/mickyarun/nobody-checks-whether-the-guardrail-is-running-3ng",
     "topic": "general"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+    "desc": "<p>The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+    "topic": "general"
+  },
+  {
+    "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+    "desc": "<p>The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillanc",
+    "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+    "topic": "general"
+  },
+  {
+    "title": "OpenAI Agents Hijack Another Victim Website",
+    "desc": "<p>OpenAI agents made 15,000\u201318,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the ",
+    "link": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
+    "topic": "openai"
+  },
+  {
+    "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+    "desc": "<p>The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.</p>\n<p>T",
+    "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+    "topic": "general"
+  },
+  {
+    "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+    "desc": "<p>The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+    "topic": "general"
+  },
+  {
     "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
     "desc": "<p>Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form subm",
     "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
@@ -16,35 +46,5 @@
     "desc": "<p>Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates.</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
     "topic": "general"
-  },
-  {
-    "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
-    "desc": "<p>The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few",
-    "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
-    "topic": "openai"
-  },
-  {
-    "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
-    "desc": "<p>Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
-    "topic": "general"
-  },
-  {
-    "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
-    "desc": "<p>Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persisten",
-    "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-    "topic": "secops"
-  },
-  {
-    "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
-    "desc": "<p>Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access.</",
-    "link": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
-    "topic": "guardrails"
-  },
-  {
-    "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
-    "desc": "<p>The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
-    "topic": "secops"
   }
 ]
