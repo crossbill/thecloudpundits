@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building a Multi-Container App with Docker Compose: 10 Real-World Gotchas and Lessons Learned",
-    "desc": "<p>When you read basic Docker Compose tutorials, orchestrating a multi-tier application looks effortless: write a quick <code>docker-compose",
-    "link": "https://dev.to/alanvarghese-dev/building-a-multi-container-app-with-docker-compose-10-real-world-gotchas-and-lessons-learned-10j",
-    "topic": "docker"
-  },
-  {
-    "title": "From Code to Container: What Building & Debugging My First Dockerized App Taught Me About Real-World DevOps",
-    "desc": "<p>We\u2019ve all heard the timeless developer clich\u00e9:</p>\n\n<blockquote>\n<p><em>\"It works on my machine!\"</em><br /><br />\n<em>\"Well, then we'll ",
-    "link": "https://dev.to/alanvarghese-dev/from-code-to-container-what-building-debugging-my-first-dockerized-app-taught-me-about-2bmp",
-    "topic": "docker"
-  },
-  {
-    "title": "AI Code Is Cheap. Your Pull Request Still Needs Proof.",
-    "desc": "<p>Your coding agent opens a plausible pull request before lunch. The tests it wrote pass, the diff reads cleanly, and the reviewer is left ",
-    "link": "https://dev.to/fetchsandbox/ai-code-is-cheap-your-pull-request-still-needs-proof-5hb2",
+    "title": "Spinifex 1.19.0: Nineteen Releases Later",
+    "desc": "<p>After five months and nineteen releases, we have shipped Spinifex 1.19.0. In this time we have taken the platform from supporting three A",
+    "link": "https://dev.to/jsommer2/spinifex-1190-nineteen-releases-later-3jgf",
     "topic": "general"
   },
   {
-    "title": "Docker Volumes vs Bind Mounts (Step-by-Step Guide) \ud83d\udc33",
-    "desc": "<p>Learn Docker data persistence with a practical 5-minute lab comparing Docker Volumes and Bind Mounts.</p>\n\n<h2>\n  \n  \n  Docker Data Persi",
-    "link": "https://dev.to/jhosebro/docker-volumes-vs-bind-mounts-step-by-step-guide-96h",
-    "topic": "docker"
-  },
-  {
-    "title": "Benchmarking Edge Runtimes: Cloudflare Pages vs Traditional Node.js Serverless Cold Starts",
-    "desc": "<p>Serverless architectures on traditional cloud providers often suffer from cold start latency ranging from 400ms to 1200ms. For marketing ",
-    "link": "https://dev.to/kholipha_ahmmad_al_amin/benchmarking-edge-runtimes-cloudflare-pages-vs-traditional-nodejs-serverless-cold-starts-3hdj",
+    "title": "A memory server may need two write paths, not one",
+    "desc": "<p>For anything an agent can persist, split the <em>proposal</em> path from the <em>commit</em> path and put a real trust boundary between t",
+    "link": "https://dev.to/infracore/a-memory-server-may-need-two-write-paths-not-one-2p2",
     "topic": "general"
   },
   {
-    "title": "Bypassing Google Crawl Queues: Implementing IndexNow and Google Indexing API on Deployment",
-    "desc": "<p>Traditional SEO relies on search engine bots stumbling upon updated XML sitemaps. This passive approach means new landing pages and servi",
-    "link": "https://dev.to/kholipha_ahmmad_al_amin/bypassing-google-crawl-queues-implementing-indexnow-and-google-indexing-api-on-deployment-23i7",
+    "title": "How I catch a webhook docs path change before events start 404ing",
+    "desc": "<p>Our webhook receiver went quiet on a Tuesday. No vendor incident. Status page still green. Support said \"check the docs.\" The docs still ",
+    "link": "https://dev.to/evangelist67/how-i-catch-a-webhook-docs-path-change-before-events-start-404ing-93f",
     "topic": "general"
   },
   {
-    "title": "More Than Just a Scanner: Architecture of a Self-Hosted DAST Engine for SPAs and CI/CD",
-    "desc": "<p>Traditional DAST tools are often a massive headache for modern development teams: they are slow, tightly coupled to third-party cloud ser",
-    "link": "https://dev.to/matarturo/more-than-just-a-scanner-architecture-of-a-self-hosted-dast-engine-for-spas-and-cicd-2m3j",
+    "title": "I built an open MVP for deploying AI-built software without giving agents unrestricted server access",
+    "desc": "<p>AI can build software incredibly fast.</p>\n\n<p>Putting that software into real infrastructure is a different problem.</p>\n\n<p>An AI agent",
+    "link": "https://dev.to/andersonvitaease/i-built-an-open-mvp-for-deploying-ai-built-software-without-giving-agents-unrestricted-server-access-1iii",
     "topic": "general"
   },
   {
-    "title": "Docker Multi-Stage Builds and Automated CI/CD for Cloud Run Microservices",
-    "desc": "<h1>\n  \n  \n  Docker Multi-Stage Builds and Automated CI/CD for Cloud Run Microservices\n</h1>\n\n<p>In a fast-moving software cooperative, depl",
-    "link": "https://dev.to/kholipha_ahmmad_al_amin/docker-multi-stage-builds-and-automated-cicd-for-cloud-run-microservices-56e2",
-    "topic": "docker"
+    "title": "Permit ASSERT and INSTRUCT; Keep COMMIT and EVALUATE Human",
+    "desc": "<p>Generated documentation stays reviewable when every sentence is classified by speech act before a model drafts it. Models may restate pro",
+    "link": "https://dev.to/github_7727/permit-assert-and-instruct-keep-commit-and-evaluate-human-3pi0",
+    "topic": "general"
+  },
+  {
+    "title": "I Wanted Jenkins to Show Me What Changed Before I Opened the Log",
+    "desc": "<p>A build works. The next one fails. I can open Console Output, find the compiler error, and understand what the compiler is complaining ab",
+    "link": "https://dev.to/azeemsidd3/i-wanted-jenkins-to-show-me-what-changed-before-i-opened-the-log-1bj2",
+    "topic": "general"
+  },
+  {
+    "title": "Batch Transaction - QA Test Report",
+    "desc": "<p><strong>Test Report Date</strong>: 9/8/2026<br />\n<strong>Prepared By</strong>: <a href=\"https://github.com/sgramkumar\" rel=\"noopener nor",
+    "link": "https://dev.to/ripplexdev/batch-transaction-qa-test-report-5g5g",
+    "topic": "general"
+  },
+  {
+    "title": "Server-Side Ransomware",
+    "desc": "<p>\ud83d\udc49 As ransomware continues to evolve in speed and complexity, traditional endpoint protection mechanisms often fall short, especially in e",
+    "link": "https://dev.to/urdevops24/server-side-ransomware-hk6",
+    "topic": "secops"
   }
 ]
