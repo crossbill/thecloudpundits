@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why SSL/TLS Certificates Break in Production: 5 Real-World Traps Every Engineer Hits",
-    "desc": "<p>Every engineer has experienced that sinking feeling: an alert fires at 2 a.m., or users report seeing \"Your connection is not private\" er",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-ssltls-certificates-break-in-production-5-real-world-traps-every-engineer-hits-57kl",
+    "title": "Magento Hosting: Why It Matters for E-commerce",
+    "desc": "<p><a href=\"https://magento-cloud.com/\" rel=\"noopener noreferrer\">Magento hosting</a> is a hosting environment optimized for Magento e-comme",
+    "link": "https://dev.to/akshay_das_e899d71e1a7dd7/magento-hosting-why-it-matters-for-e-commerce-5635",
     "topic": "general"
   },
   {
-    "title": "Fix SSL/TLS Certificate Handshake Failures \u2013 Step-by-Step Guide for DevOps & Developers",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>SSL/TLS handshake failures are a common roadblock for developers, engineers, and DevOps teams. A broken ",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-ssltls-certificate-handshake-failures-step-by-step-guide-for-devops-developers-a7k",
-    "topic": "general"
-  },
-  {
-    "title": "I Grade AI Agent Code for a Living. Here's the 12-Point Checklist I Run Before Trusting Any of It.",
-    "desc": "<p>Your agent produced 400 lines in nine seconds. It compiles. The tests pass. The demo works.</p>\n\n<p>None of that tells you whether it's c",
-    "link": "https://dev.to/marvinoka4/i-grade-ai-agent-code-for-a-living-heres-the-12-point-checklist-i-run-before-trusting-any-of-it-5adp",
-    "topic": "general"
-  },
-  {
-    "title": "OSTaaS - A system is not ready because we assume (Day 3)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ostaas/ostaas-a-system-is-not-ready-because-we-assume-day-3-58fe",
-    "topic": "general"
-  },
-  {
-    "title": "OSTaaS - Keep the tools your teams already trust. (Day 2)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ostaas/ostaas-keep-the-tools-your-teams-already-trust-day-2-4p1l",
-    "topic": "general"
-  },
-  {
-    "title": "OSTaaS - Open Source, Real Outcomes",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ostaas/ostaas-open-source-real-outcomes-1p8d",
-    "topic": "general"
-  },
-  {
-    "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
-    "desc": "<p><em>How BuildKit + Artifact Registry turn your CI/CD pipelines around: if nothing changed, <code>uv</code> doesn't re-download a single p",
-    "link": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+    "title": "How to Monitor a Docker Container's CPU and Memory Usage",
+    "desc": "<p>Learn how to track Docker container CPU and memory usage with built-in tools and practical commands \u2014 no dedicated SRE required.<br />\nYo",
+    "link": "https://dev.to/opservo/how-to-monitor-a-docker-containers-cpu-and-memory-usage-20f4",
     "topic": "docker"
   },
   {
-    "title": "How to Fix SSL/TLS Certificate Handshake Failures \u2013 A Complete DevOps Guide",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>SSL/TLS handshake failures are a common pain point for developers and DevOps engineers. This guide walks",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-ssltls-certificate-handshake-failures-a-complete-devops-guide-14e4",
+    "title": "Why We Cache AI Analysis Against an Input Hash",
+    "desc": "<p>It is 2 a.m. in Singapore and a payments API is throwing intermittent 500s. The on-call engineer runs the diagnosis, gets a plausible roo",
+    "link": "https://dev.to/shahrozkhan/why-we-cache-ai-analysis-against-an-input-hash-4egd",
+    "topic": "general"
+  },
+  {
+    "title": "Starting My DevOps & Cloud Engineering Journey \ud83d\ude80",
+    "desc": "<p>Starting My DevOps & Cloud Engineering Journey: What I\u2019m Learning and Building</p>",
+    "link": "https://dev.to/shubhesh_kumar_25d18062e0/starting-my-devops-cloud-engineering-journey-2d70",
+    "topic": "general"
+  },
+  {
+    "title": "A Practical Architecture for Self-Hosted AI Agent Operations",
+    "desc": "<p>Running an AI agent on your own infrastructure gives you control over deployment and data, but it does not automatically make the system ",
+    "link": "https://dev.to/calvin_lin_816fc5a7ce26a1/a-practical-architecture-for-self-hosted-ai-agent-operations-361k",
+    "topic": "general"
+  },
+  {
+    "title": "The npm Install Script That Silently Ran Your Build",
+    "desc": "<p>Every <code>npm install</code> you run executes lifecycle scripts automatically. A malicious or misconfigured <code>postinstall</code> ho",
+    "link": "https://dev.to/robust_true_try/the-npm-install-script-that-silently-ran-your-build-31g7",
+    "topic": "general"
+  },
+  {
+    "title": "An Alien Mind: Building the Epistemic Operating System for the AI Age",
+    "desc": "<p>On September 6, 2026, <strong>Jakub Pachocki, Chief Scientist at OpenAI, published an essay titled \u201cAn Alien Mind.\u201d</strong></p>\n\n<p>The ",
+    "link": "https://dev.to/alirezaai/an-alien-mind-building-the-epistemic-operating-system-for-the-ai-age-4g6p",
+    "topic": "general"
+  },
+  {
+    "title": "How to Fix Git Merge Conflicts in CI/CD Pipelines \u2013 Best Practices for DevOps",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Merge conflicts are inevitable when multiple developers push changes to the same codebase. In a CI/CD pi",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-git-merge-conflicts-in-cicd-pipelines-best-practices-for-devops-1be8",
     "topic": "general"
   }
 ]
