@@ -1,5 +1,29 @@
 [
   {
+    "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
+    "desc": "<p>Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify d",
+    "link": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "Party\u2019s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft",
+    "desc": "<p>The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons.<",
+    "link": "https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/",
+    "topic": "general"
+  },
+  {
+    "title": "MikroTik Patches Critical Flaws Chained to Hack Routers",
+    "desc": "<p>Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices.</p>\n<p>The po",
+    "link": "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
+    "topic": "aws"
+  },
+  {
+    "title": "Mathspace Data Breach Exposes Over 1 Million People",
+    "desc": "<p>Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance.</p>\n<p>The post <",
+    "link": "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
+    "topic": "secops"
+  },
+  {
     "title": "N-able Patches Critical Zero-Day in N-central",
     "desc": "<p>Administrators are advised to check their deployments for newly created user accounts they don\u2019t recognize.</p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
@@ -22,29 +46,5 @@
     "desc": "<p>OpenAI agents made 15,000\u201318,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the ",
     "link": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
     "topic": "openai"
-  },
-  {
-    "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-    "desc": "<p>The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.</p>\n<p>T",
-    "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
-    "topic": "general"
-  },
-  {
-    "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
-    "desc": "<p>The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
-    "topic": "general"
-  },
-  {
-    "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
-    "desc": "<p>Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form subm",
-    "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
-    "topic": "secops"
-  },
-  {
-    "title": "In Other News: Microsoft\u2019s Cloud Patches, Hacked Dropbox Accounts, Guardio\u2019s $1.1B Valuation",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dr",
-    "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
-    "topic": "azure"
   }
 ]
