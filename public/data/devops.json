@@ -1,50 +1,50 @@
 [
   {
-    "title": "Magento Hosting: Why It Matters for E-commerce",
-    "desc": "<p><a href=\"https://magento-cloud.com/\" rel=\"noopener noreferrer\">Magento hosting</a> is a hosting environment optimized for Magento e-comme",
-    "link": "https://dev.to/akshay_das_e899d71e1a7dd7/magento-hosting-why-it-matters-for-e-commerce-5635",
+    "title": "You can catch production failures on your laptop: probes, OOMKilled, and zero-downtime in k3d",
+    "desc": "<p>\"Works on my laptop\" and \"survives production\" are different things \u2014 but almost everything separating them is testable locally in k3d. P",
+    "link": "https://dev.to/mtrnm/you-can-catch-production-failures-on-your-laptop-probes-oomkilled-and-zero-downtime-in-k3d-51l7",
     "topic": "general"
   },
   {
-    "title": "How to Monitor a Docker Container's CPU and Memory Usage",
-    "desc": "<p>Learn how to track Docker container CPU and memory usage with built-in tools and practical commands \u2014 no dedicated SRE required.<br />\nYo",
-    "link": "https://dev.to/opservo/how-to-monitor-a-docker-containers-cpu-and-memory-usage-20f4",
-    "topic": "docker"
-  },
-  {
-    "title": "Why We Cache AI Analysis Against an Input Hash",
-    "desc": "<p>It is 2 a.m. in Singapore and a payments API is throwing intermittent 500s. The on-call engineer runs the diagnosis, gets a plausible roo",
-    "link": "https://dev.to/shahrozkhan/why-we-cache-ai-analysis-against-an-input-hash-4egd",
+    "title": "Is your database slowing down your VPS performance? One quick tip: review slow queries regularly",
+    "desc": "<p>Is your database slowing down your VPS performance? One quick tip: review slow queries regularly and add indexes where they make the bigg",
+    "link": "https://dev.to/monovm/is-your-database-slowing-down-your-vps-performance-one-quick-tip-review-slow-queries-regularly-1c0i",
     "topic": "general"
   },
   {
-    "title": "Starting My DevOps & Cloud Engineering Journey \ud83d\ude80",
-    "desc": "<p>Starting My DevOps & Cloud Engineering Journey: What I\u2019m Learning and Building</p>",
-    "link": "https://dev.to/shubhesh_kumar_25d18062e0/starting-my-devops-cloud-engineering-journey-2d70",
+    "title": "How to Choose a Reddit Ads Agency for B2B SaaS (2026 Guide)",
+    "desc": "<p>Reddit has quietly become one of the more interesting paid channels for B2B SaaS marketers, and the reason is simple: your buyers are alr",
+    "link": "https://dev.to/mayur_rathore_b735983a686/how-to-choose-a-reddit-ads-agency-for-b2b-saas-2026-guide-1150",
     "topic": "general"
   },
   {
-    "title": "A Practical Architecture for Self-Hosted AI Agent Operations",
-    "desc": "<p>Running an AI agent on your own infrastructure gives you control over deployment and data, but it does not automatically make the system ",
-    "link": "https://dev.to/calvin_lin_816fc5a7ce26a1/a-practical-architecture-for-self-hosted-ai-agent-operations-361k",
+    "title": "The Wheel Installed Cleanly. A Same-Named Folder Still Won the Import.",
+    "desc": "<p>Have you ever seen <code>pip list</code> print a package, then watched <code>import</code> load a completely different file from disk? I ",
+    "link": "https://dev.to/codepy_1473/the-wheel-installed-cleanly-a-same-named-folder-still-won-the-import-pgg",
     "topic": "general"
   },
   {
-    "title": "The npm Install Script That Silently Ran Your Build",
-    "desc": "<p>Every <code>npm install</code> you run executes lifecycle scripts automatically. A malicious or misconfigured <code>postinstall</code> ho",
-    "link": "https://dev.to/robust_true_try/the-npm-install-script-that-silently-ran-your-build-31g7",
+    "title": "Fixing Python Memory Leaks in Production: Proven Strategies & Tools",
+    "desc": "<h1>\n  \n  \n  Fixing Python Memory Leaks in Production\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Memory leaks in long\u2011running Python service",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-proven-strategies-tools-4g2e",
     "topic": "general"
   },
   {
-    "title": "An Alien Mind: Building the Epistemic Operating System for the AI Age",
-    "desc": "<p>On September 6, 2026, <strong>Jakub Pachocki, Chief Scientist at OpenAI, published an essay titled \u201cAn Alien Mind.\u201d</strong></p>\n\n<p>The ",
-    "link": "https://dev.to/alirezaai/an-alien-mind-building-the-epistemic-operating-system-for-the-ai-age-4g6p",
+    "title": "Fivetran and dbt Merged. Here Is What Data Engineers Get.",
+    "desc": "<p>I've been through 3 mergers as a practitioner on the receiving end. Every time, the press release says \"nothing changes for customers.\" E",
+    "link": "https://dev.to/datadriven/fivetran-and-dbt-merged-here-is-what-data-engineers-get-27e2",
     "topic": "general"
   },
   {
-    "title": "How to Fix Git Merge Conflicts in CI/CD Pipelines \u2013 Best Practices for DevOps",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Merge conflicts are inevitable when multiple developers push changes to the same codebase. In a CI/CD pi",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-git-merge-conflicts-in-cicd-pipelines-best-practices-for-devops-1be8",
+    "title": "You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had",
+    "desc": "<p>There is a specific kind of imposter syndrome that shows up early in a DevOps career. It usually sounds like a quiet, nagging voice: <em>",
+    "link": "https://dev.to/arbythecoder/you-dont-need-kubernetes-to-become-a-devops-engineer-the-learning-path-i-wish-i-had-3gh7",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Your test environment is where the governance stops",
+    "desc": "<p>Every estate has a boundary where the controls get serious. Production sits inside it. Access is brokered, changes are reviewed, reads ar",
+    "link": "https://dev.to/2sdtechnologiesdotcom/your-test-environment-is-where-the-governance-stops-4978",
     "topic": "general"
   }
 ]

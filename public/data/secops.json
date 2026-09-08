@@ -1,5 +1,11 @@
 [
   {
+    "title": "N-able Patches Critical Zero-Day in N-central",
+    "desc": "<p>Administrators are advised to check their deployments for newly created user accounts they don\u2019t recognize.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
+    "topic": "general"
+  },
+  {
     "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
     "desc": "<p>The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.</p>\n<p>The post <a href=\"https",
     "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
@@ -40,11 +46,5 @@
     "desc": "<p>Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dr",
     "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
     "topic": "azure"
-  },
-  {
-    "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
-    "desc": "<p>Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
-    "topic": "general"
   }
 ]
