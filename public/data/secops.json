@@ -1,5 +1,23 @@
 [
   {
+    "title": "The Hidden Instructions That Can Hijack AI Agents",
+    "desc": "<p>Malicious prompts concealed in documents, metadata, emails, images and code can manipulate autonomous agents into taking dangerous action",
+    "link": "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
+    "topic": "general"
+  },
+  {
+    "title": "Hackers Return $263 Million Stolen From Liquid Network",
+    "desc": "<p>Alleged \u2018white-hat\u2019 hackers drained $320 million from Liquid\u2019s federation wallet, demanding a bug fix.</p>\n<p>The post <a href=\"https://w",
+    "link": "https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/",
+    "topic": "general"
+  },
+  {
+    "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
+    "desc": "<p>The startup founded by Palo Alto Networks\u2019 Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated o",
+    "link": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
+    "topic": "secops"
+  },
+  {
     "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
     "desc": "<p>Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify d",
     "link": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
@@ -28,23 +46,5 @@
     "desc": "<p>Administrators are advised to check their deployments for newly created user accounts they don\u2019t recognize.</p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
     "topic": "general"
-  },
-  {
-    "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
-    "desc": "<p>The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
-    "topic": "general"
-  },
-  {
-    "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
-    "desc": "<p>The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillanc",
-    "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
-    "topic": "general"
-  },
-  {
-    "title": "OpenAI Agents Hijack Another Victim Website",
-    "desc": "<p>OpenAI agents made 15,000\u201318,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the ",
-    "link": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
-    "topic": "openai"
   }
 ]
