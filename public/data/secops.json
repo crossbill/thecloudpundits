@@ -1,5 +1,17 @@
 [
   {
+    "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
+    "desc": "<p>The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilit",
+    "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
+    "topic": "azure"
+  },
+  {
+    "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
+    "desc": "<p>Tracked as CVE-2026-75650, the exploited defect allows unauthenticated attackers to execute arbitrary code.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/",
+    "topic": "general"
+  },
+  {
     "title": "The Hidden Instructions That Can Hijack AI Agents",
     "desc": "<p>Malicious prompts concealed in documents, metadata, emails, images and code can manipulate autonomous agents into taking dangerous action",
     "link": "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
@@ -34,17 +46,5 @@
     "desc": "<p>Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices.</p>\n<p>The po",
     "link": "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
     "topic": "aws"
-  },
-  {
-    "title": "Mathspace Data Breach Exposes Over 1 Million People",
-    "desc": "<p>Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance.</p>\n<p>The post <",
-    "link": "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
-    "topic": "secops"
-  },
-  {
-    "title": "N-able Patches Critical Zero-Day in N-central",
-    "desc": "<p>Administrators are advised to check their deployments for newly created user accounts they don\u2019t recognize.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
-    "topic": "general"
   }
 ]

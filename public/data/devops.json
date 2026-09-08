@@ -1,50 +1,50 @@
 [
   {
-    "title": "Fix Python Memory Leaks in Production \u2013 Debugging, Monitoring & Optimization",
-    "desc": "<h1>\n  \n  \n  Fix Python Memory Leaks in Production \u2013 Debugging, Monitoring & Optimization\n</h1>\n\n<p><strong>Keywords:</strong> Python memory",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-python-memory-leaks-in-production-debugging-monitoring-optimization-8pf",
+    "title": "Building a Multi-Container App with Docker Compose: 10 Real-World Gotchas and Lessons Learned",
+    "desc": "<p>When you read basic Docker Compose tutorials, orchestrating a multi-tier application looks effortless: write a quick <code>docker-compose",
+    "link": "https://dev.to/alanvarghese-dev/building-a-multi-container-app-with-docker-compose-10-real-world-gotchas-and-lessons-learned-10j",
+    "topic": "docker"
+  },
+  {
+    "title": "From Code to Container: What Building & Debugging My First Dockerized App Taught Me About Real-World DevOps",
+    "desc": "<p>We\u2019ve all heard the timeless developer clich\u00e9:</p>\n\n<blockquote>\n<p><em>\"It works on my machine!\"</em><br /><br />\n<em>\"Well, then we'll ",
+    "link": "https://dev.to/alanvarghese-dev/from-code-to-container-what-building-debugging-my-first-dockerized-app-taught-me-about-2bmp",
+    "topic": "docker"
+  },
+  {
+    "title": "AI Code Is Cheap. Your Pull Request Still Needs Proof.",
+    "desc": "<p>Your coding agent opens a plausible pull request before lunch. The tests it wrote pass, the diff reads cleanly, and the reviewer is left ",
+    "link": "https://dev.to/fetchsandbox/ai-code-is-cheap-your-pull-request-still-needs-proof-5hb2",
     "topic": "general"
   },
   {
-    "title": "Best Practices for Using AI in Software Integration (2026 Guide)",
-    "desc": "<p><em>Originally published at <a href=\"https://nlocoding.com/en/blog/best-practices-for-using-ai-in-software-integration\" rel=\"noopener nor",
-    "link": "https://dev.to/nlocoding/best-practices-for-using-ai-in-software-integration-2026-guide-5mf",
+    "title": "Docker Volumes vs Bind Mounts (Step-by-Step Guide) \ud83d\udc33",
+    "desc": "<p>Learn Docker data persistence with a practical 5-minute lab comparing Docker Volumes and Bind Mounts.</p>\n\n<h2>\n  \n  \n  Docker Data Persi",
+    "link": "https://dev.to/jhosebro/docker-volumes-vs-bind-mounts-step-by-step-guide-96h",
+    "topic": "docker"
+  },
+  {
+    "title": "Benchmarking Edge Runtimes: Cloudflare Pages vs Traditional Node.js Serverless Cold Starts",
+    "desc": "<p>Serverless architectures on traditional cloud providers often suffer from cold start latency ranging from 400ms to 1200ms. For marketing ",
+    "link": "https://dev.to/kholipha_ahmmad_al_amin/benchmarking-edge-runtimes-cloudflare-pages-vs-traditional-nodejs-serverless-cold-starts-3hdj",
     "topic": "general"
   },
   {
-    "title": "Fixing Neon Schema Drift in CI/E2E by Running the Real Migration Script",
-    "desc": "<h1>\n  \n  \n  Fixing Neon Schema Drift in CI/E2E by Running the Real Migration Script\n</h1>\n\n<p><strong>TL;DR:</strong> I replaced the hand\u2011c",
-    "link": "https://dev.to/zaerohell/fixing-neon-schema-drift-in-cie2e-by-running-the-real-migration-script-28je",
+    "title": "Bypassing Google Crawl Queues: Implementing IndexNow and Google Indexing API on Deployment",
+    "desc": "<p>Traditional SEO relies on search engine bots stumbling upon updated XML sitemaps. This passive approach means new landing pages and servi",
+    "link": "https://dev.to/kholipha_ahmmad_al_amin/bypassing-google-crawl-queues-implementing-indexnow-and-google-indexing-api-on-deployment-23i7",
     "topic": "general"
   },
   {
-    "title": "The Critical Env Var That Did Nothing",
-    "desc": "<p>Every start script in my fleet carried the same line, under the same banner comment:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\"",
-    "link": "https://dev.to/devbrewery/the-critical-env-var-that-did-nothing-1ohi",
+    "title": "More Than Just a Scanner: Architecture of a Self-Hosted DAST Engine for SPAs and CI/CD",
+    "desc": "<p>Traditional DAST tools are often a massive headache for modern development teams: they are slow, tightly coupled to third-party cloud ser",
+    "link": "https://dev.to/matarturo/more-than-just-a-scanner-architecture-of-a-self-hosted-dast-engine-for-spas-and-cicd-2m3j",
     "topic": "general"
   },
   {
-    "title": "The Flag We Tuned Around Got Deleted",
-    "desc": "<p>The single most important llama.cpp flag for my dual Tesla P40 setup was <code>-sm row</code>. It split every layer's tensors across both",
-    "link": "https://dev.to/devbrewery/the-flag-we-tuned-around-got-deleted-31ge",
-    "topic": "general"
-  },
-  {
-    "title": "The Desktop Looked Right: 2,093 Parse Errors a Boot, and 10.9 Seconds That Weren't Doing Anything",
-    "desc": "<p>This article walks through one afternoon of Debian system management, in which the machine turned out to have been reporting two of its o",
-    "link": "https://dev.to/gde/the-desktop-looked-right-2093-parse-errors-a-boot-and-109-seconds-that-werent-doing-anything-4bb",
-    "topic": "general"
-  },
-  {
-    "title": "Serverless Containers Across AWS, Azure, GCP \u2014 Weekly Benchmarks for Sep 01 \u2013 Sep 07, 2026",
-    "desc": "<h2>\n  \n  \n  \ud83d\udc33 Serverless Containers \u2014 Weekly Provisioning Benchmarks\n</h2>\n\n<p><strong>Window:</strong> Sep 01 \u2013 Sep 07, 2026 | <strong>Tot",
-    "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-sep-01-sep-07-2026-3o1g",
-    "topic": "aws"
-  },
-  {
-    "title": "The Pipeline Wrote Itself: AI, GitOps, and Platform Engineering in Modern DevOps",
-    "desc": "<h1>\n  \n  \n  The Pipeline Wrote Itself: AI, GitOps, and Platform Engineering in Modern DevOps\n</h1>\n\n<p><strong>The pipeline wrote itself.</",
-    "link": "https://dev.to/kartikvaland_altodia/the-pipeline-wrote-itself-ai-gitops-and-platform-engineering-in-modern-devops-5hi1",
-    "topic": "general"
+    "title": "Docker Multi-Stage Builds and Automated CI/CD for Cloud Run Microservices",
+    "desc": "<h1>\n  \n  \n  Docker Multi-Stage Builds and Automated CI/CD for Cloud Run Microservices\n</h1>\n\n<p>In a fast-moving software cooperative, depl",
+    "link": "https://dev.to/kholipha_ahmmad_al_amin/docker-multi-stage-builds-and-automated-cicd-for-cloud-run-microservices-56e2",
+    "topic": "docker"
   }
 ]
