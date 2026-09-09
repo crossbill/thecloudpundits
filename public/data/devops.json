@@ -1,50 +1,50 @@
 [
   {
-    "title": "What happens to student projects after a hackathon ends?",
-    "desc": "<p>I've been thinking about this for a while.<br />\n<a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=80",
-    "link": "https://dev.to/shivam_gupta_insozle/what-happens-to-student-projects-after-a-hackathon-ends-7f7",
+    "title": "The Automation Validation Tax: Why Trusting Automation Never Becomes Free",
+    "desc": "<p>The automation validation tax is the recurring cost of confirming that automated outputs are still doing what they claim to do, and unlik",
+    "link": "https://dev.to/ntctech/the-automation-validation-tax-why-trusting-automation-never-becomes-free-457b",
     "topic": "general"
   },
   {
-    "title": "React Native OTA After CodePush: How to Choose a Tool in 2026",
-    "desc": "<p>Microsoft\u2019s hosted App Center CodePush service is gone.</p>\n\n<p>App Center\u2019s main services, including CodePush, were retired on March 31,",
-    "link": "https://dev.to/gfean/react-native-ota-after-codepush-how-to-choose-a-tool-in-2026-46of",
+    "title": "Building Dataverse Solution ZIPs Programmatically: The Undocumented Guide",
+    "desc": "<p>Microsoft documents how to export a solution ZIP. They document how to import one. They document SolutionPackager for extracting and repa",
+    "link": "https://dev.to/az365ai/building-dataverse-solution-zips-programmatically-the-undocumented-guide-4m9c",
     "topic": "general"
   },
   {
-    "title": "Build a first-success telemetry loop for AI API onboarding",
-    "desc": "<h1>\n  \n  \n  Build a first-success telemetry loop for AI API onboarding\n</h1>\n\n<p>Most AI API onboarding funnels overcount setup and underco",
-    "link": "https://dev.to/aiwave/build-a-first-success-telemetry-loop-for-ai-api-onboarding-57pl",
+    "title": "I Built a Multi-LLM API Gateway on a Budget Cloud Server to Survive Price Hikes",
+    "desc": "<p>If you\u2019ve been tracking the AI space this week, you already know the drill. OpenAI, Claude, and DeepSeek all dropped significant pricing ",
+    "link": "https://dev.to/aitokenhub_98/i-built-a-multi-llm-api-gateway-on-a-budget-cloud-server-to-survive-price-hikes-3ddg",
     "topic": "general"
   },
   {
-    "title": "how to scale a nodejs application",
-    "desc": "<p>Vertical scaling jisme hum basic fix karenge: Keep the event loop non-blocking. Move CPU-heavy work (image processing, crypto, parsing, c",
-    "link": "https://dev.to/vkassingh/how-to-scale-a-nodejs-application-31ma",
+    "title": "Building a Smart DeepSeek Cache on a Cheap Cloud Server to Beat Peak Pricing",
+    "desc": "<p>When DeepSeek announced the new peak and off-peak pricing for their flash series last week, my first thought wasn't just \"awesome, cheape",
+    "link": "https://dev.to/aitokenhub_98/building-a-smart-deepseek-cache-on-a-cheap-cloud-server-to-beat-peak-pricing-6lo",
     "topic": "general"
   },
   {
-    "title": "OIDC: Deliver OIDC parameters unattended using External Secrets, AWS Secrets Manager, and FluxCD.",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In one of my <a href=\"https://dev.to/aleksandr_sorokin_devops/oidc-jwt-validation-with-alb-controller-an",
-    "link": "https://dev.to/aleksandr_sorokin_devops/oidc-deliver-oidc-parameters-unattended-using-external-secrets-aws-secrets-manager-and-fluxcd-5e67",
-    "topic": "aws"
-  },
-  {
-    "title": "Your Container Tag Is Lying to You: A Mutable ECR Tag Put the Wrong Build in Production",
-    "desc": "<p>On 2026-08-21, a routine docs-only PR merged to <code>main</code>. CI built the frontend image, pushed it, and called <code>start-deploym",
-    "link": "https://dev.to/cloudwiseteam/your-container-tag-is-lying-to-you-a-mutable-ecr-tag-put-the-wrong-build-in-production-1o57",
-    "topic": "docker"
-  },
-  {
-    "title": "Our Scheduler Never Ran for Six Days, and Every Check We Had Said It Was Fine",
-    "desc": "<p>We built a small posting scheduler: a YAML queue of things to publish, each with a time, and a runner that reads the queue and sends what",
-    "link": "https://dev.to/session_replay/our-scheduler-never-ran-for-six-days-and-every-check-we-had-said-it-was-fine-3c04",
+    "title": "Goose + Perplexity 404 on Every Chat: the /v1 Trap and the Fix",
+    "desc": "<p>If you pick Goose's built-in Perplexity provider and every chat dies with <code>Request failed: Resource not found (404)</code>, it's not",
+    "link": "https://dev.to/milkyway008/goose-perplexity-404-on-every-chat-the-v1-trap-and-the-fix-2gk9",
     "topic": "general"
   },
   {
-    "title": "What Is FluidifyAI Regen? The Best On-Call and Incident Management Tool for 2026",
-    "desc": "<p><em>Cross-posted from <a href=\"https://fluidify.ai/blog/what-is-fluidifyai-regen\" rel=\"noopener noreferrer\">the Fluidify blog</a>. Disclo",
-    "link": "https://dev.to/yathartha_shekhar/what-is-fluidifyai-regen-the-best-on-call-and-incident-management-tool-for-2026-4d0f",
-    "topic": "secops"
+    "title": "Cheapest Cloud Servers 2026 for Students & Indie Devs: China Cloud from $5/Year",
+    "desc": "<p>Every week I see the same question on dev forums: <em>\"I'm a student / solo builder, where do I host my side project for almost nothing?\"",
+    "link": "https://dev.to/aitokenhub_98/cheapest-cloud-servers-2026-for-students-indie-devs-china-cloud-from-5year-52ch",
+    "topic": "general"
+  },
+  {
+    "title": "DeepSeek Flash Price Cut 2026: How to Run AI Apps Even Cheaper (API + Cloud Bills)",
+    "desc": "<p>If you are building anything with Chinese LLMs in 2026, your bill has two halves: the <strong>API tokens</strong> you pay per call, and t",
+    "link": "https://dev.to/aitokenhub_98/deepseek-flash-price-cut-2026-how-to-run-ai-apps-even-cheaper-api-cloud-bills-2b20",
+    "topic": "general"
+  },
+  {
+    "title": "Your eval thresholds will not catch the regression, and here is the arithmetic",
+    "desc": "<p>You set a threshold on your retrieval quality. <code>recall@k >= 0.8</code>. The suite runs at 0.94, comfortably above, and stays green.<",
+    "link": "https://dev.to/catidegla/your-eval-thresholds-will-not-catch-the-regression-and-here-is-the-arithmetic-56l1",
+    "topic": "general"
   }
 ]
