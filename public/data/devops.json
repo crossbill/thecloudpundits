@@ -1,50 +1,50 @@
 [
   {
-    "title": "A Failed Voice Path Should Change the Next Call",
-    "desc": "<p>Our local voice reflex had a sensible routing rule: when the workstation was occupied and the<br />\nevent was proven, deliver it locally.",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-failed-voice-path-should-change-the-next-call-18gp",
+    "title": "Modernizing a Legacy Mobile App Without Breaking User Trust",
+    "desc": "<p>A legacy mobile app can remain important long after its architecture becomes difficult to maintain. Customers depend on saved data, famil",
+    "link": "https://dev.to/alesia_tsyplakova/modernizing-a-legacy-mobile-app-without-breaking-user-trust-3efe",
     "topic": "general"
   },
   {
-    "title": "Ich habe mein eigenes Repo angegriffen \u2014 mein PR-Bot hat den Angriff selbst blockiert",
-    "desc": "<p>Coding-Agents sind die neue Benchmark f\u00fcr Dev-Teams: Claude Code, Cursor, Codex & Co. lesen dein Repo \u2014 und <strong>vertrauen ihm</strong",
-    "link": "https://dev.to/agentguard/ich-habe-mein-eigenes-repo-angegriffen-mein-pr-bot-hat-den-angriff-selbst-blockiert-3cfo",
+    "title": "Why 90% of Non-Coding AI Agents Fail in Production",
+    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/agents/why-non-coding-agents-fail?utm_source=devto&u",
+    "link": "https://dev.to/zeroshotstudio/why-90-of-non-coding-ai-agents-fail-in-production-3pmk",
     "topic": "general"
   },
   {
-    "title": "Which host actually went down this month? I pulled 30/90-day incident data from 11 status pages",
-    "desc": "<p><em>I'm an autonomous AI agent. Every number below comes from a public status-page JSON feed you can fetch yourself; the script is linked",
-    "link": "https://dev.to/clankerceo/which-host-actually-went-down-this-month-i-pulled-3090-day-incident-data-from-11-status-pages-34ck",
-    "topic": "secops"
-  },
-  {
-    "title": "How to Fix Docker CrashLoopBackOff Errors \u2013 Step\u2011by\u2011Step Guide for Kubernetes",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you\u2019ve ever seen a pod stuck in <strong>CrashLoopBackOff</strong>, you know how frustrating it can be",
-    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-docker-crashloopbackoff-errors-step-by-step-guide-for-kubernetes-25gh",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "From a Bare Debian Box to a Public HTTPS Page, in Eight Command Blocks",
-    "desc": "<p>Lesson one of twelve, written out below. The video is free on YouTube: <a href=\"https://www.youtube.com/watch?v=Yzty9buG4dc\" rel=\"noopene",
-    "link": "https://dev.to/automateitall/from-a-bare-debian-box-to-a-public-https-page-in-eight-command-blocks-2obp",
+    "title": "OpenClaw Setup on Ubuntu Server: Headless Agents, Systemd Daemons, and Host Isolation",
+    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/openclaw/openclaw-ubuntu-server-setup?utm_source=dev",
+    "link": "https://dev.to/zeroshotstudio/openclaw-setup-on-ubuntu-server-headless-agents-systemd-daemons-and-host-isolation-27gg",
     "topic": "general"
   },
   {
-    "title": "Floci vs Spinifex: AWS Emulator vs Production Platform",
-    "desc": "<p><a href=\"https://floci.dev/\" rel=\"noopener noreferrer\">Floci</a> and <a href=\"https://github.com/mulgadc/spinifex\" rel=\"noopener noreferr",
-    "link": "https://dev.to/toddyholiday/floci-vs-spinifex-aws-emulator-vs-production-platform-5160",
-    "topic": "aws"
+    "title": "Passive Skill Acquisition for Terminal AI Coding Agents: Embedding Context Triggers in Custom Instructions",
+    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/agents/passive-skill-acquisition-terminal-coding-age",
+    "link": "https://dev.to/zeroshotstudio/passive-skill-acquisition-for-terminal-ai-coding-agents-embedding-context-triggers-in-custom-1l54",
+    "topic": "general"
   },
   {
-    "title": "D\u1ef1ng Kubernetes 3 node tr\u00ean laptop c\u1ea7n bao nhi\u00eau RAM?",
-    "desc": "<p>D\u1ef1ng c\u1ee5m Kubernetes c\u1ee5c b\u1ed9 l\u00e0 ph\u01b0\u01a1ng ph\u00e1p nhanh nh\u1ea5t \u0111\u1ec3 l\u1eadp tr\u00ecnh vi\u00ean ki\u1ec3m th\u1eed ki\u1ebfn tr\u00fac microservices v\u00e0 c\u1ea5u h\u00ecnh manifest tr\u01b0\u1edbc khi \u0111\u01b0",
-    "link": "https://dev.to/hungphatlaptop/dung-kubernetes-3-node-tren-laptop-can-bao-nhieu-ram-53n5",
-    "topic": "kubernetes"
+    "title": "Simple AI Workflows Before Agents: When a Script Beats Orchestration",
+    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/agents/simple-ai-workflows-before-agents?utm_source=",
+    "link": "https://dev.to/zeroshotstudio/simple-ai-workflows-before-agents-when-a-script-beats-orchestration-489o",
+    "topic": "general"
   },
   {
-    "title": "GPT-6 Astra on OpenRouter Is Great \u2014 Until It's Load-Bearing",
-    "desc": "<p>OpenRouter is the easiest way to call GPT-6 Astra today: one account, one key, one model slug, and you're talking to the newest flagship ",
-    "link": "https://dev.to/tony_dillard/gpt-6-astra-on-openrouter-is-great-until-its-load-bearing-36db",
+    "title": "When You Actually Need an Agent: A Decision Tree for Beginners",
+    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/agents/when-you-actually-need-an-agent?utm_source=de",
+    "link": "https://dev.to/zeroshotstudio/when-you-actually-need-an-agent-a-decision-tree-for-beginners-2ebh",
+    "topic": "general"
+  },
+  {
+    "title": "I deleted the hero animation after it never painted",
+    "desc": "<p>Last week I counted canvases on <a href=\"https://grais.ai\" rel=\"noopener noreferrer\">grais.ai</a> after the WebGPU hero PR merged. Zero. ",
+    "link": "https://dev.to/grais/i-deleted-the-hero-animation-after-it-never-painted-33cn",
+    "topic": "general"
+  },
+  {
+    "title": "The Tool Returned 200. Which Myth Did You Buy?",
+    "desc": "<p>Did your coding agent just call a tool? Did that tool wrapper return HTTP 200?</p>\n\n<p>Someone will treat that code as done. I refuse tha",
+    "link": "https://dev.to/gitlab_3188/the-tool-returned-200-which-myth-did-you-buy-5c2k",
     "topic": "general"
   }
 ]
