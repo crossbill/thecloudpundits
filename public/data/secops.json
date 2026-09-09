@@ -1,50 +1,50 @@
 [
   {
+    "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
+    "desc": "<p>Distillation is an \u2018attack\u2019 against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a dif",
+    "link": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy",
+    "desc": "<p>Muse runs on a dedicated, secure virtual machine that houses both the agent and the user\u2019s data.</p>\n<p>The post <a href=\"https://www.sec",
+    "link": "https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/",
+    "topic": "general"
+  },
+  {
+    "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
+    "desc": "<p>AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
+    "topic": "aws"
+  },
+  {
+    "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products",
+    "desc": "<p>Six critical vulnerabilities in Neurons for ITSM could enable remote code execution, while Sentry and EPMM received patches for authentic",
+    "link": "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/",
+    "topic": "aws"
+  },
+  {
+    "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys",
+    "desc": "<p>Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default.</p>\n<p",
+    "link": "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/",
+    "topic": "general"
+  },
+  {
+    "title": "New Phishing Attack Creates Malicious Pages Inside the Victim\u2019s Browser",
+    "desc": "<p>Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static webs",
+    "link": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
+    "topic": "secops"
+  },
+  {
+    "title": "Chrome 153 Patches Seventh Zero-Day of 2026",
+    "desc": "<p>The Chrome update includes 230 security fixes, and users are advised to update their browsers as soon as possible.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
+    "topic": "general"
+  },
+  {
     "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
     "desc": "<p>The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilit",
     "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
     "topic": "azure"
-  },
-  {
-    "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
-    "desc": "<p>Tracked as CVE-2026-75650, the exploited defect allows unauthenticated attackers to execute arbitrary code.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/",
-    "topic": "general"
-  },
-  {
-    "title": "The Hidden Instructions That Can Hijack AI Agents",
-    "desc": "<p>Malicious prompts concealed in documents, metadata, emails, images and code can manipulate autonomous agents into taking dangerous action",
-    "link": "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
-    "topic": "general"
-  },
-  {
-    "title": "Hackers Return $263 Million Stolen From Liquid Network",
-    "desc": "<p>Alleged \u2018white-hat\u2019 hackers drained $320 million from Liquid\u2019s federation wallet, demanding a bug fix.</p>\n<p>The post <a href=\"https://w",
-    "link": "https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/",
-    "topic": "general"
-  },
-  {
-    "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
-    "desc": "<p>The startup founded by Palo Alto Networks\u2019 Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated o",
-    "link": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
-    "topic": "secops"
-  },
-  {
-    "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
-    "desc": "<p>Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify d",
-    "link": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "Party\u2019s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft",
-    "desc": "<p>The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons.<",
-    "link": "https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/",
-    "topic": "general"
-  },
-  {
-    "title": "MikroTik Patches Critical Flaws Chained to Hack Routers",
-    "desc": "<p>Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices.</p>\n<p>The po",
-    "link": "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
-    "topic": "aws"
   }
 ]

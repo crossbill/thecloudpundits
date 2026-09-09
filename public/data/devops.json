@@ -1,50 +1,50 @@
 [
   {
-    "title": "Modernizing a Legacy Mobile App Without Breaking User Trust",
-    "desc": "<p>A legacy mobile app can remain important long after its architecture becomes difficult to maintain. Customers depend on saved data, famil",
-    "link": "https://dev.to/alesia_tsyplakova/modernizing-a-legacy-mobile-app-without-breaking-user-trust-3efe",
+    "title": "What happens to student projects after a hackathon ends?",
+    "desc": "<p>I've been thinking about this for a while.<br />\n<a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=80",
+    "link": "https://dev.to/shivam_gupta_insozle/what-happens-to-student-projects-after-a-hackathon-ends-7f7",
     "topic": "general"
   },
   {
-    "title": "Why 90% of Non-Coding AI Agents Fail in Production",
-    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/agents/why-non-coding-agents-fail?utm_source=devto&u",
-    "link": "https://dev.to/zeroshotstudio/why-90-of-non-coding-ai-agents-fail-in-production-3pmk",
+    "title": "React Native OTA After CodePush: How to Choose a Tool in 2026",
+    "desc": "<p>Microsoft\u2019s hosted App Center CodePush service is gone.</p>\n\n<p>App Center\u2019s main services, including CodePush, were retired on March 31,",
+    "link": "https://dev.to/gfean/react-native-ota-after-codepush-how-to-choose-a-tool-in-2026-46of",
     "topic": "general"
   },
   {
-    "title": "OpenClaw Setup on Ubuntu Server: Headless Agents, Systemd Daemons, and Host Isolation",
-    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/openclaw/openclaw-ubuntu-server-setup?utm_source=dev",
-    "link": "https://dev.to/zeroshotstudio/openclaw-setup-on-ubuntu-server-headless-agents-systemd-daemons-and-host-isolation-27gg",
+    "title": "Build a first-success telemetry loop for AI API onboarding",
+    "desc": "<h1>\n  \n  \n  Build a first-success telemetry loop for AI API onboarding\n</h1>\n\n<p>Most AI API onboarding funnels overcount setup and underco",
+    "link": "https://dev.to/aiwave/build-a-first-success-telemetry-loop-for-ai-api-onboarding-57pl",
     "topic": "general"
   },
   {
-    "title": "Passive Skill Acquisition for Terminal AI Coding Agents: Embedding Context Triggers in Custom Instructions",
-    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/agents/passive-skill-acquisition-terminal-coding-age",
-    "link": "https://dev.to/zeroshotstudio/passive-skill-acquisition-for-terminal-ai-coding-agents-embedding-context-triggers-in-custom-1l54",
+    "title": "how to scale a nodejs application",
+    "desc": "<p>Vertical scaling jisme hum basic fix karenge: Keep the event loop non-blocking. Move CPU-heavy work (image processing, crypto, parsing, c",
+    "link": "https://dev.to/vkassingh/how-to-scale-a-nodejs-application-31ma",
     "topic": "general"
   },
   {
-    "title": "Simple AI Workflows Before Agents: When a Script Beats Orchestration",
-    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/agents/simple-ai-workflows-before-agents?utm_source=",
-    "link": "https://dev.to/zeroshotstudio/simple-ai-workflows-before-agents-when-a-script-beats-orchestration-489o",
+    "title": "OIDC: Deliver OIDC parameters unattended using External Secrets, AWS Secrets Manager, and FluxCD.",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In one of my <a href=\"https://dev.to/aleksandr_sorokin_devops/oidc-jwt-validation-with-alb-controller-an",
+    "link": "https://dev.to/aleksandr_sorokin_devops/oidc-deliver-oidc-parameters-unattended-using-external-secrets-aws-secrets-manager-and-fluxcd-5e67",
+    "topic": "aws"
+  },
+  {
+    "title": "Your Container Tag Is Lying to You: A Mutable ECR Tag Put the Wrong Build in Production",
+    "desc": "<p>On 2026-08-21, a routine docs-only PR merged to <code>main</code>. CI built the frontend image, pushed it, and called <code>start-deploym",
+    "link": "https://dev.to/cloudwiseteam/your-container-tag-is-lying-to-you-a-mutable-ecr-tag-put-the-wrong-build-in-production-1o57",
+    "topic": "docker"
+  },
+  {
+    "title": "Our Scheduler Never Ran for Six Days, and Every Check We Had Said It Was Fine",
+    "desc": "<p>We built a small posting scheduler: a YAML queue of things to publish, each with a time, and a runner that reads the queue and sends what",
+    "link": "https://dev.to/session_replay/our-scheduler-never-ran-for-six-days-and-every-check-we-had-said-it-was-fine-3c04",
     "topic": "general"
   },
   {
-    "title": "When You Actually Need an Agent: A Decision Tree for Beginners",
-    "desc": "<blockquote>\n<p><em>Original Article published on <a href=\"https://labs.zeroshot.studio/agents/when-you-actually-need-an-agent?utm_source=de",
-    "link": "https://dev.to/zeroshotstudio/when-you-actually-need-an-agent-a-decision-tree-for-beginners-2ebh",
-    "topic": "general"
-  },
-  {
-    "title": "I deleted the hero animation after it never painted",
-    "desc": "<p>Last week I counted canvases on <a href=\"https://grais.ai\" rel=\"noopener noreferrer\">grais.ai</a> after the WebGPU hero PR merged. Zero. ",
-    "link": "https://dev.to/grais/i-deleted-the-hero-animation-after-it-never-painted-33cn",
-    "topic": "general"
-  },
-  {
-    "title": "The Tool Returned 200. Which Myth Did You Buy?",
-    "desc": "<p>Did your coding agent just call a tool? Did that tool wrapper return HTTP 200?</p>\n\n<p>Someone will treat that code as done. I refuse tha",
-    "link": "https://dev.to/gitlab_3188/the-tool-returned-200-which-myth-did-you-buy-5c2k",
-    "topic": "general"
+    "title": "What Is FluidifyAI Regen? The Best On-Call and Incident Management Tool for 2026",
+    "desc": "<p><em>Cross-posted from <a href=\"https://fluidify.ai/blog/what-is-fluidifyai-regen\" rel=\"noopener noreferrer\">the Fluidify blog</a>. Disclo",
+    "link": "https://dev.to/yathartha_shekhar/what-is-fluidifyai-regen-the-best-on-call-and-incident-management-tool-for-2026-4d0f",
+    "topic": "secops"
   }
 ]
