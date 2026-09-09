@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Automation Validation Tax: Why Trusting Automation Never Becomes Free",
-    "desc": "<p>The automation validation tax is the recurring cost of confirming that automated outputs are still doing what they claim to do, and unlik",
-    "link": "https://dev.to/ntctech/the-automation-validation-tax-why-trusting-automation-never-becomes-free-457b",
+    "title": "Designing a Delivery Model That Scales With You: Governance, Traceability, Security, Automation, Testing, and Promotions",
+    "desc": "<h2>\n  \n  \n  CI/CD Pipeline Flow \u2014 Branching, Release & Deployment Process\n</h2>\n\n\n\n\n<h3>\n  \n  \n  The Core Idea: Build once, promote the sam",
+    "link": "https://dev.to/shahbazalishahid/designing-a-delivery-model-that-scales-with-you-governance-traceability-security-automation-mhc",
+    "topic": "secops"
+  },
+  {
+    "title": "AI Agent Kill Switches: Why the Stop Button Is a Distributed Transaction",
+    "desc": "<p>New research from Cybersecurity Insiders and Saviynt, published as the 2026 CISO AI Risk Report, puts a number on the thing an agent prog",
+    "link": "https://dev.to/waxell/ai-agent-kill-switches-why-the-stop-button-is-a-distributed-transaction-5ab5",
     "topic": "general"
   },
   {
-    "title": "Building Dataverse Solution ZIPs Programmatically: The Undocumented Guide",
-    "desc": "<p>Microsoft documents how to export a solution ZIP. They document how to import one. They document SolutionPackager for extracting and repa",
-    "link": "https://dev.to/az365ai/building-dataverse-solution-zips-programmatically-the-undocumented-guide-4m9c",
+    "title": "AgentGuard Update: Open Core, Break-Glass Governance \u2014 and the First Real-World Finds",
+    "desc": "<p>When I posted the launch here on dev.to, the pitch was simple: I attacked my own repo \u2014 and my own PR bot blocked the attack before merge",
+    "link": "https://dev.to/agentguard/agentguard-update-open-core-break-glass-governance-and-the-first-real-world-finds-fnp",
     "topic": "general"
   },
   {
-    "title": "I Built a Multi-LLM API Gateway on a Budget Cloud Server to Survive Price Hikes",
-    "desc": "<p>If you\u2019ve been tracking the AI space this week, you already know the drill. OpenAI, Claude, and DeepSeek all dropped significant pricing ",
-    "link": "https://dev.to/aitokenhub_98/i-built-a-multi-llm-api-gateway-on-a-budget-cloud-server-to-survive-price-hikes-3ddg",
+    "title": "AgentGuard Update: Open Core, Break-Glass-Governance \u2014 und die ersten echten Funde",
+    "desc": "<p>Beim Launch hier auf dev.to war der Pitch einfach: Ich habe mein eigenes Repo angegriffen \u2014 und mein eigener PR-Bot hat den Angriff vor d",
+    "link": "https://dev.to/agentguard/agentguard-update-open-core-break-glass-governance-und-die-ersten-echten-funde-2m10",
     "topic": "general"
   },
   {
-    "title": "Building a Smart DeepSeek Cache on a Cheap Cloud Server to Beat Peak Pricing",
-    "desc": "<p>When DeepSeek announced the new peak and off-peak pricing for their flash series last week, my first thought wasn't just \"awesome, cheape",
-    "link": "https://dev.to/aitokenhub_98/building-a-smart-deepseek-cache-on-a-cheap-cloud-server-to-beat-peak-pricing-6lo",
+    "title": "What a SOC 2 auditor actually asks about your CI/CD pipeline",
+    "desc": "<p>The first SOC 2 audit I sat in on with an engineering team went sideways in about eleven minutes.</p>\n\n<p>Not because the pipeline was ba",
+    "link": "https://dev.to/irmcon/what-a-soc-2-auditor-actually-asks-about-your-cicd-pipeline-4lic",
     "topic": "general"
   },
   {
-    "title": "Goose + Perplexity 404 on Every Chat: the /v1 Trap and the Fix",
-    "desc": "<p>If you pick Goose's built-in Perplexity provider and every chat dies with <code>Request failed: Resource not found (404)</code>, it's not",
-    "link": "https://dev.to/milkyway008/goose-perplexity-404-on-every-chat-the-v1-trap-and-the-fix-2gk9",
+    "title": "C\u00f3mo construir y desplegar un dashboard de datos con Streamlit, GitHub Actions y Streamlit Community Cloud",
+    "desc": "<p>Casi todos los tutoriales de dashboards terminan en <code>streamlit run app.py</code> y una captura de pantalla. El problema es que ah\u00ed n",
+    "link": "https://dev.to/jhonyvargas/como-construir-y-desplegar-un-dashboard-de-datos-con-streamlit-github-actions-y-streamlit-o6",
     "topic": "general"
   },
   {
-    "title": "Cheapest Cloud Servers 2026 for Students & Indie Devs: China Cloud from $5/Year",
-    "desc": "<p>Every week I see the same question on dev forums: <em>\"I'm a student / solo builder, where do I host my side project for almost nothing?\"",
-    "link": "https://dev.to/aitokenhub_98/cheapest-cloud-servers-2026-for-students-indie-devs-china-cloud-from-5year-52ch",
+    "title": "Same curl, two verdicts: taint tracking for coding agents",
+    "desc": "<p>Here's the case that convinced me a static allowlist isn't enough for coding agents.</p>\n\n<p>An agent reads a .env file. Ten minutes late",
+    "link": "https://dev.to/doberman/same-curl-two-verdicts-taint-tracking-for-coding-agents-367p",
     "topic": "general"
   },
   {
-    "title": "DeepSeek Flash Price Cut 2026: How to Run AI Apps Even Cheaper (API + Cloud Bills)",
-    "desc": "<p>If you are building anything with Chinese LLMs in 2026, your bill has two halves: the <strong>API tokens</strong> you pay per call, and t",
-    "link": "https://dev.to/aitokenhub_98/deepseek-flash-price-cut-2026-how-to-run-ai-apps-even-cheaper-api-cloud-bills-2b20",
-    "topic": "general"
-  },
-  {
-    "title": "Your eval thresholds will not catch the regression, and here is the arithmetic",
-    "desc": "<p>You set a threshold on your retrieval quality. <code>recall@k >= 0.8</code>. The suite runs at 0.94, comfortably above, and stays green.<",
-    "link": "https://dev.to/catidegla/your-eval-thresholds-will-not-catch-the-regression-and-here-is-the-arithmetic-56l1",
+    "title": "I killed my fine-tune before I wrote a single line of training code",
+    "desc": "<p>Everyone wants to say the words. <strong>\"I fine-tuned my own model.\"</strong></p>\n\n<p>I almost did. Then I remembered where half my user",
+    "link": "https://dev.to/natuworkguy/i-killed-my-fine-tune-before-i-wrote-a-single-line-of-training-code-kg7",
     "topic": "general"
   }
 ]
