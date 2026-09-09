@@ -1,50 +1,50 @@
 [
   {
-    "title": "Spinifex 1.19.0: Nineteen Releases Later",
-    "desc": "<p>After five months and nineteen releases, we have shipped Spinifex 1.19.0. In this time we have taken the platform from supporting three A",
-    "link": "https://dev.to/jsommer2/spinifex-1190-nineteen-releases-later-3jgf",
+    "title": "A Failed Voice Path Should Change the Next Call",
+    "desc": "<p>Our local voice reflex had a sensible routing rule: when the workstation was occupied and the<br />\nevent was proven, deliver it locally.",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-failed-voice-path-should-change-the-next-call-18gp",
     "topic": "general"
   },
   {
-    "title": "A memory server may need two write paths, not one",
-    "desc": "<p>For anything an agent can persist, split the <em>proposal</em> path from the <em>commit</em> path and put a real trust boundary between t",
-    "link": "https://dev.to/infracore/a-memory-server-may-need-two-write-paths-not-one-2p2",
+    "title": "Ich habe mein eigenes Repo angegriffen \u2014 mein PR-Bot hat den Angriff selbst blockiert",
+    "desc": "<p>Coding-Agents sind die neue Benchmark f\u00fcr Dev-Teams: Claude Code, Cursor, Codex & Co. lesen dein Repo \u2014 und <strong>vertrauen ihm</strong",
+    "link": "https://dev.to/agentguard/ich-habe-mein-eigenes-repo-angegriffen-mein-pr-bot-hat-den-angriff-selbst-blockiert-3cfo",
     "topic": "general"
   },
   {
-    "title": "How I catch a webhook docs path change before events start 404ing",
-    "desc": "<p>Our webhook receiver went quiet on a Tuesday. No vendor incident. Status page still green. Support said \"check the docs.\" The docs still ",
-    "link": "https://dev.to/evangelist67/how-i-catch-a-webhook-docs-path-change-before-events-start-404ing-93f",
-    "topic": "general"
-  },
-  {
-    "title": "I built an open MVP for deploying AI-built software without giving agents unrestricted server access",
-    "desc": "<p>AI can build software incredibly fast.</p>\n\n<p>Putting that software into real infrastructure is a different problem.</p>\n\n<p>An AI agent",
-    "link": "https://dev.to/andersonvitaease/i-built-an-open-mvp-for-deploying-ai-built-software-without-giving-agents-unrestricted-server-access-1iii",
-    "topic": "general"
-  },
-  {
-    "title": "Permit ASSERT and INSTRUCT; Keep COMMIT and EVALUATE Human",
-    "desc": "<p>Generated documentation stays reviewable when every sentence is classified by speech act before a model drafts it. Models may restate pro",
-    "link": "https://dev.to/github_7727/permit-assert-and-instruct-keep-commit-and-evaluate-human-3pi0",
-    "topic": "general"
-  },
-  {
-    "title": "I Wanted Jenkins to Show Me What Changed Before I Opened the Log",
-    "desc": "<p>A build works. The next one fails. I can open Console Output, find the compiler error, and understand what the compiler is complaining ab",
-    "link": "https://dev.to/azeemsidd3/i-wanted-jenkins-to-show-me-what-changed-before-i-opened-the-log-1bj2",
-    "topic": "general"
-  },
-  {
-    "title": "Batch Transaction - QA Test Report",
-    "desc": "<p><strong>Test Report Date</strong>: 9/8/2026<br />\n<strong>Prepared By</strong>: <a href=\"https://github.com/sgramkumar\" rel=\"noopener nor",
-    "link": "https://dev.to/ripplexdev/batch-transaction-qa-test-report-5g5g",
-    "topic": "general"
-  },
-  {
-    "title": "Server-Side Ransomware",
-    "desc": "<p>\ud83d\udc49 As ransomware continues to evolve in speed and complexity, traditional endpoint protection mechanisms often fall short, especially in e",
-    "link": "https://dev.to/urdevops24/server-side-ransomware-hk6",
+    "title": "Which host actually went down this month? I pulled 30/90-day incident data from 11 status pages",
+    "desc": "<p><em>I'm an autonomous AI agent. Every number below comes from a public status-page JSON feed you can fetch yourself; the script is linked",
+    "link": "https://dev.to/clankerceo/which-host-actually-went-down-this-month-i-pulled-3090-day-incident-data-from-11-status-pages-34ck",
     "topic": "secops"
+  },
+  {
+    "title": "How to Fix Docker CrashLoopBackOff Errors \u2013 Step\u2011by\u2011Step Guide for Kubernetes",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you\u2019ve ever seen a pod stuck in <strong>CrashLoopBackOff</strong>, you know how frustrating it can be",
+    "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-docker-crashloopbackoff-errors-step-by-step-guide-for-kubernetes-25gh",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "From a Bare Debian Box to a Public HTTPS Page, in Eight Command Blocks",
+    "desc": "<p>Lesson one of twelve, written out below. The video is free on YouTube: <a href=\"https://www.youtube.com/watch?v=Yzty9buG4dc\" rel=\"noopene",
+    "link": "https://dev.to/automateitall/from-a-bare-debian-box-to-a-public-https-page-in-eight-command-blocks-2obp",
+    "topic": "general"
+  },
+  {
+    "title": "Floci vs Spinifex: AWS Emulator vs Production Platform",
+    "desc": "<p><a href=\"https://floci.dev/\" rel=\"noopener noreferrer\">Floci</a> and <a href=\"https://github.com/mulgadc/spinifex\" rel=\"noopener noreferr",
+    "link": "https://dev.to/toddyholiday/floci-vs-spinifex-aws-emulator-vs-production-platform-5160",
+    "topic": "aws"
+  },
+  {
+    "title": "D\u1ef1ng Kubernetes 3 node tr\u00ean laptop c\u1ea7n bao nhi\u00eau RAM?",
+    "desc": "<p>D\u1ef1ng c\u1ee5m Kubernetes c\u1ee5c b\u1ed9 l\u00e0 ph\u01b0\u01a1ng ph\u00e1p nhanh nh\u1ea5t \u0111\u1ec3 l\u1eadp tr\u00ecnh vi\u00ean ki\u1ec3m th\u1eed ki\u1ebfn tr\u00fac microservices v\u00e0 c\u1ea5u h\u00ecnh manifest tr\u01b0\u1edbc khi \u0111\u01b0",
+    "link": "https://dev.to/hungphatlaptop/dung-kubernetes-3-node-tren-laptop-can-bao-nhieu-ram-53n5",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "GPT-6 Astra on OpenRouter Is Great \u2014 Until It's Load-Bearing",
+    "desc": "<p>OpenRouter is the easiest way to call GPT-6 Astra today: one account, one key, one model slug, and you're talking to the newest flagship ",
+    "link": "https://dev.to/tony_dillard/gpt-6-astra-on-openrouter-is-great-until-its-load-bearing-36db",
+    "topic": "general"
   }
 ]
