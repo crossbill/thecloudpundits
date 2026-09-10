@@ -1,50 +1,50 @@
 [
   {
-    "title": "Protocol Divergence Localization: Finding WHERE Firewalls Block Your Traffic",
-    "desc": "<h2>\n  \n  \n  The Problem\n</h2>\n\n<p>You're debugging a connectivity issue. <code>ping</code> works fine, but <code>curl</code> times out.</p>",
-    "link": "https://dev.to/biplabku/protocol-divergence-localization-finding-where-firewalls-block-your-traffic-514a",
+    "title": "How I Processed 1M AI Batch Requests for Under $10 Using Budget Cloud Servers",
+    "desc": "<p>When people hear \"batch processing 1 million AI requests,\" they immediately picture a massive AWS bill or a cluster of expensive GPU inst",
+    "link": "https://dev.to/aitokenhub_98/how-i-processed-1m-ai-batch-requests-for-under-10-using-budget-cloud-servers-2oc2",
     "topic": "general"
   },
   {
-    "title": "The only record that updates at the same instant you do",
-    "desc": "<p>We spent a long time arguing about which source of truth our unattended agent should consult before it publishes, and the whole argument ",
-    "link": "https://dev.to/unmannedops/the-only-record-that-updates-at-the-same-instant-you-do-3b71",
+    "title": "I Built a Vision AI App Using DeepSeek V4.1 Flash and Cheap Cloud Servers",
+    "desc": "<p>I used to think building a Vision AI app meant draining my wallet on expensive GPU instances. You know the drill: you want to process ima",
+    "link": "https://dev.to/aitokenhub_98/i-built-a-vision-ai-app-using-deepseek-v41-flash-and-cheap-cloud-servers-1233",
     "topic": "general"
   },
   {
-    "title": "A Green Schema Check Can Still Ship a Broken API Integration",
-    "desc": "<p>A lot of API failures are not caused by invalid JSON. They happen when both sides still produce syntactically valid data, but they no lon",
-    "link": "https://dev.to/hope_bilgic_a2aa8388e830c/a-green-schema-check-can-still-ship-a-broken-api-integration-104g",
+    "title": "Token Price Is a Terrible Metric for Coding-Agent Cost",
+    "desc": "<p>Run A uses the cheaper model. It edits the right files, fails a test, retries with a wider change, burns through more tool calls, and sto",
+    "link": "https://dev.to/hefty_69a4c2d631c9dd70724/token-price-is-a-terrible-metric-for-coding-agent-cost-j59",
     "topic": "general"
   },
   {
-    "title": "Building an Enterprise GenAI Platform on OCI \u2014 Part 2: The Data Pipeline Nobody Talks About",
-    "desc": "<blockquote>\n<p>The quality of a RAG system is decided long before the query reaches the LLM.</p>\n</blockquote>\n\n<p>I learned that the hard ",
-    "link": "https://dev.to/yugandharsurya/building-an-enterprise-genai-platform-on-oci-part-2-the-data-pipeline-nobody-talks-about-a22",
+    "title": "Why our status page costs $1 a month",
+    "desc": "<p><em>The full InBrief price list, and why incident communication is sold per feature instead of per tier.</em></p>\n\n<p>Every status page t",
+    "link": "https://dev.to/milade/why-our-status-page-costs-1-a-month-1fba",
     "topic": "general"
   },
   {
-    "title": "The Float Is a Liveness Probe: Four Failure Modes",
-    "desc": "<p>I cook pelmeni about twice a week, and for years I got inconsistent results from what is, on paper, a trivial process: put frozen parcels",
-    "link": "https://dev.to/den0011/the-float-is-a-liveness-probe-four-failure-modes-4g3k",
-    "topic": "general"
+    "title": "J'ai procastin\u00e9 Docker pendant un mois... Voici ce qui m'a d\u00e9bloqu\u00e9e",
+    "desc": "<p>Le 8 juillet, j'ai commenc\u00e9 un mentorat DevOps avec <a href=\"https://dev.to/bongoe\">Endah</a>. J'\u00e9tais motiv\u00e9e, pleine de bonnes r\u00e9soluti",
+    "link": "https://dev.to/audreysiewe14droid/jai-procastine-docker-pendant-un-mois-voici-ce-qui-ma-debloquee-1cdj",
+    "topic": "docker"
   },
   {
-    "title": "Software Testing Strategy Guide: How to Build a Practical Test Approach",
-    "desc": "<p>A software testing strategy defines how a team will test a product, prioritize risks, use automation, manage defects, and decide whether ",
-    "link": "https://dev.to/amar_bhardwaj/software-testing-strategy-guide-how-to-build-a-practical-test-approach-5kk",
-    "topic": "general"
+    "title": "Tencent Cloud vs AWS 2026: Cheapest APAC Deals",
+    "desc": "<p>If you've ever stared at a cloud bill at the end of the month and felt your stomach drop, you're not alone. When I started deploying web ",
+    "link": "https://dev.to/aitokenhub_98/tencent-cloud-vs-aws-2026-cheapest-apac-deals-1h1f",
+    "topic": "aws"
   },
   {
-    "title": "Adaptive \u0394E00 feedback control: engineering GPU-resident perceptual locks for Shadow\u2019s MiniMax Direct multimodal rendering pipeline",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/adaptive-de00-feedback-control-engineering-gpu-resident-perceptual-locks-for-shadows-minimax-gaf",
-    "topic": "general"
+    "title": "How I Slashed a Docker Image from 442 MB to 56 MB (87% Cut) and Hardened It for Production",
+    "desc": "<p>We've all been there: you whip up a simple microservice in Python, write a quick Dockerfile, run <code>docker build</code>, and suddenly ",
+    "link": "https://dev.to/alanvarghese-dev/how-i-slashed-a-docker-image-from-442-mb-to-56-mb-87-cut-and-hardened-it-for-production-1om4",
+    "topic": "docker"
   },
   {
-    "title": "Self-hosting open source is easy. Running it in production is not.",
-    "desc": "<p>You picked an open source tool on purpose. Maybe it was n8n instead of a per-task automation SaaS, Keycloak instead of paying per active ",
-    "link": "https://dev.to/amitshuklabag/self-hosting-open-source-is-easy-running-it-in-production-is-not-i72",
+    "title": "Building Your First Runbook: A Template That Actually Works",
+    "desc": "<p>Most runbooks are useless. Either they're too abstract ('check the logs') or they're a 40-page Confluence doc that nobody reads at 3 AM.<",
+    "link": "https://dev.to/samson_tanimawo/building-your-first-runbook-a-template-that-actually-works-52f1",
     "topic": "general"
   }
 ]
