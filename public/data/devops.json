@@ -1,50 +1,50 @@
 [
   {
-    "title": "Observability & Telemetry Retention Policy",
-    "desc": "<h2>\n  \n  \n  tl;dr\n</h2>\n\n<p>Use <strong>OpenTelemetry (OTel)</strong> for application observability and start with <strong>Grafana Cloud Fr",
-    "link": "https://dev.to/kasir-barati/observability-telemetry-retention-policy-1ene",
+    "title": "WordPress Full Site Editing for Client Sites: When to Use FSE in 2026",
+    "desc": "<h1>\n  \n  \n  WordPress Full Site Editing for Client Sites: When to Use FSE in 2026\n</h1>\n\n<p>Should client projects use Full Site Editing? A",
+    "link": "https://dev.to/usmanahmaddevx/wordpress-full-site-editing-for-client-sites-when-to-use-fse-in-2026-30bh",
     "topic": "general"
   },
   {
-    "title": "FAQ: Who Turned Your Green Sandbox Into CI?",
-    "desc": "<p>Did a green sandbox just steal your release process?<br />\nI see that swap after almost every agent demo.<br />\nThe chat looks healthy, s",
-    "link": "https://dev.to/gitlab_3188/faq-who-turned-your-green-sandbox-into-ci-33p2",
+    "title": "GPT-6 Astra Shipped With Its Zero-Day Skill Behind a Gate. Here's What 'Gated Capability' Means for the Rest of Us.",
+    "desc": "<p>GPT-6 Astra shipped on September 3, and it arrived with an asterisk no model has carried before: it is the first model OpenAI has ever ra",
+    "link": "https://dev.to/muskan_bandta/gpt-6-astra-shipped-with-its-zero-day-skill-behind-a-gate-heres-what-gated-capability-means-for-3151",
     "topic": "general"
   },
   {
-    "title": "Best Self-Hosted Alternatives to Notion: 8 Open-Source Picks",
-    "desc": "<p>Open-source workspaces, wikis, and note tools you can run on your own server \u2014 and how to choose between them for data ownership, privacy",
-    "link": "https://dev.to/kimcomplete/best-self-hosted-alternatives-to-notion-8-open-source-picks-2df6",
+    "title": "The 2026 Playbook for Scaling LLM Inference: VRAM Math, Hardware, and Bare-Metal Economics",
+    "desc": "<p>Getting an open-weight model like <strong>Llama 3.3 70B</strong> or <strong>DeepSeek</strong> running in a staging environment is relativ",
+    "link": "https://dev.to/gpuyard/the-2026-playbook-for-scaling-llm-inference-vram-math-hardware-and-bare-metal-economics-132i",
     "topic": "general"
   },
   {
-    "title": "How I catch a rate-limit docs change before the client starts getting 429s",
-    "desc": "<p>Our batch job started dying on Thursday afternoon. Same client, same endpoints, same keys. Status page green. Support asked if we had \"up",
-    "link": "https://dev.to/evangelist67/how-i-catch-a-rate-limit-docs-change-before-the-client-starts-getting-429s-166",
+    "title": "How Do You Know Last Night's Cloud Shutdown Actually Fired? Measuring Schedule Success Rate",
+    "desc": "<p>Here's a question almost no cloud team can answer with data: did last night's shutdown actually run?</p>\n\n<p>Everyone can answer the neig",
+    "link": "https://dev.to/zop_8abedcc7e12/how-do-you-know-last-nights-cloud-shutdown-actually-fired-measuring-schedule-success-rate-25pl",
     "topic": "general"
   },
   {
-    "title": "Setting Up Nginx Ingress Controller with SSL on Kubernetes",
-    "desc": "<p>The Nginx Ingress Controller is a popular Kubernetes Ingress controller that uses Nginx as a reverse proxy and load balancer to route ext",
-    "link": "https://dev.to/vultr/setting-up-nginx-ingress-controller-with-ssl-on-kubernetes-50go",
+    "title": "Scale a Kubernetes Namespace to Zero at Night: Deployments, StatefulSets, CronJobs and What Refuses to Come Back",
+    "desc": "<p>\"I want the dev namespace off overnight without deleting anything\" is one of the most reasonable requests in Kubernetes cost work. The wo",
+    "link": "https://dev.to/zop_8abedcc7e12/scale-a-kubernetes-namespace-to-zero-at-night-deployments-statefulsets-cronjobs-and-what-refuses-im5",
     "topic": "kubernetes"
   },
   {
-    "title": "Setting Up Argo CD on Kubernetes",
-    "desc": "<p>Argo CD is a Kubernetes-native, declarative GitOps tool for deploying applications at scale. It pulls application manifests directly from",
-    "link": "https://dev.to/vultr/setting-up-argo-cd-on-kubernetes-43gg",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Installing Jenkins on Rocky Linux 9",
-    "desc": "<p>Jenkins is a popular open-source automation server for continuous integration and continuous deployment (CI/CD), letting teams build, tes",
-    "link": "https://dev.to/vultr/installing-jenkins-on-rocky-linux-9-487e",
+    "title": "SOC 2, ISO 27001 and MeitY: What Procurement Asks Before a Cloud Cost Tool Touches Your Accounts",
+    "desc": "<h2>\n  \n  \n  Quick Answer (TL;DR)\n</h2>\n\n<p>Procurement review of a cloud cost tool comes down to four questions, in a fixed order: <strong>",
+    "link": "https://dev.to/zop_8abedcc7e12/soc-2-iso-27001-and-meity-what-procurement-asks-before-a-cloud-cost-tool-touches-your-accounts-1hbi",
     "topic": "general"
   },
   {
-    "title": "Backing Up and Restoring PostgreSQL Databases Using pg_dump and pg_restore",
-    "desc": "<p><code>pg_dump</code> is a PostgreSQL backup utility that allows database administrators to export databases in various forms, including f",
-    "link": "https://dev.to/vultr/backing-up-and-restoring-postgresql-databases-using-pgdump-and-pgrestore-d6e",
+    "title": "Exit Code 0, Nothing Produced: The Automation Failure I Shipped Five Times",
+    "desc": "<p>The scheduler log is a column of green. Started, finished, <code>rc=0</code>, started, finished, <code>rc=0</code>, day after day after d",
+    "link": "https://dev.to/sungwoo_lee_e0f26be4a29fd/exit-code-0-nothing-produced-the-automation-failure-i-shipped-five-times-345j",
+    "topic": "general"
+  },
+  {
+    "title": "If You Cannot Name the Owner, Do Not Run the Command",
+    "desc": "<p>I stopped asking the on-call bot for cleverness at two in the morning, and I started asking it for a named owner instead. A restart looks",
+    "link": "https://dev.to/appcpp_9071/if-you-cannot-name-the-owner-do-not-run-the-command-j32",
     "topic": "general"
   }
 ]
