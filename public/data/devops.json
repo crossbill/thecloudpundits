@@ -1,50 +1,50 @@
 [
   {
-    "title": "Deploying Microservices Architectures with AWS and Java: A Complete Guide",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Microservices architectures have become the gold standard for building scalable, maintainable applicatio",
-    "link": "https://dev.to/said_olano/deploying-microservices-architectures-with-aws-and-java-a-complete-guide-3dae",
-    "topic": "aws"
-  },
-  {
-    "title": "Jenkins: Core Concepts and Declarative Pipelines for Modern Developers",
-    "desc": "<p>In the fast-evolving landscape of DevOps, Continuous Integration and Continuous Delivery (CI/CD) have transitioned from being \"nice-to-ha",
-    "link": "https://dev.to/hirdo/jenkins-core-concepts-and-declarative-pipelines-for-modern-developers-2ch0",
+    "title": "Observability & Telemetry Retention Policy",
+    "desc": "<h2>\n  \n  \n  tl;dr\n</h2>\n\n<p>Use <strong>OpenTelemetry (OTel)</strong> for application observability and start with <strong>Grafana Cloud Fr",
+    "link": "https://dev.to/kasir-barati/observability-telemetry-retention-policy-1ene",
     "topic": "general"
   },
   {
-    "title": "Ask HN: Are developers still coding like 2021? Where do you work?",
-    "desc": "<h2>\n  \n  \n  What Happened\n</h2>\n\n<p>The Hacker News thread <em>\u201cAsk HN: Anyone still coding like 2021? Where do you work?\u201d</em> sparked a d",
-    "link": "https://dev.to/felipejac/ask-hn-are-developers-still-coding-like-2021-where-do-you-work-3i38",
+    "title": "FAQ: Who Turned Your Green Sandbox Into CI?",
+    "desc": "<p>Did a green sandbox just steal your release process?<br />\nI see that swap after almost every agent demo.<br />\nThe chat looks healthy, s",
+    "link": "https://dev.to/gitlab_3188/faq-who-turned-your-green-sandbox-into-ci-33p2",
     "topic": "general"
   },
   {
-    "title": "Your AI coding agent's config is attack surface. I built a tool to version-control it (and the rest of your host).",
-    "desc": "<h2>\n  \n  \n  \"Something odd happened in July\"\n</h2>\n\n<p>In July 2026, more than 1,200 AI agents escaped an OpenAI evaluation sandbox, coordi",
-    "link": "https://dev.to/ibu/your-ai-coding-agents-config-is-attack-surface-i-built-a-tool-to-version-control-it-and-the-rest-507a",
-    "topic": "secops"
-  },
-  {
-    "title": "Optimizing Your SaaS for the AI-First Discovery Era",
-    "desc": "<p>As the landscape of SaaS discovery shifts from traditional keyword-heavy search engines to conversational AI assistants like ChatGPT, Cla",
-    "link": "https://dev.to/lightningdev123/optimizing-your-saas-for-the-ai-first-discovery-era-77k",
+    "title": "Best Self-Hosted Alternatives to Notion: 8 Open-Source Picks",
+    "desc": "<p>Open-source workspaces, wikis, and note tools you can run on your own server \u2014 and how to choose between them for data ownership, privacy",
+    "link": "https://dev.to/kimcomplete/best-self-hosted-alternatives-to-notion-8-open-source-picks-2df6",
     "topic": "general"
   },
   {
-    "title": "How to Build a Reliable Playwright Test Workflow for CI",
-    "desc": "<p>A reliable <strong>Playwright test</strong> workflow does more than open a browser and click through a happy path. It gives a startup or ",
-    "link": "https://dev.to/k4224/how-to-build-a-reliable-playwright-test-workflow-for-ci-2h5j",
+    "title": "How I catch a rate-limit docs change before the client starts getting 429s",
+    "desc": "<p>Our batch job started dying on Thursday afternoon. Same client, same endpoints, same keys. Status page green. Support asked if we had \"up",
+    "link": "https://dev.to/evangelist67/how-i-catch-a-rate-limit-docs-change-before-the-client-starts-getting-429s-166",
     "topic": "general"
   },
   {
-    "title": "Shipping in 2026: The Web & Cloud Infrastructure Stack Nobody Talks About Enough",
-    "desc": "<p>If you're a dev team in 2026, your stack probably looks fine on paper \u2014 until a PR sits in review for three days because nobody can test ",
-    "link": "https://dev.to/maya_bayers/shipping-in-2026-the-web-cloud-infrastructure-stack-nobody-talks-about-enough-34n5",
+    "title": "Setting Up Nginx Ingress Controller with SSL on Kubernetes",
+    "desc": "<p>The Nginx Ingress Controller is a popular Kubernetes Ingress controller that uses Nginx as a reverse proxy and load balancer to route ext",
+    "link": "https://dev.to/vultr/setting-up-nginx-ingress-controller-with-ssl-on-kubernetes-50go",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Setting Up Argo CD on Kubernetes",
+    "desc": "<p>Argo CD is a Kubernetes-native, declarative GitOps tool for deploying applications at scale. It pulls application manifests directly from",
+    "link": "https://dev.to/vultr/setting-up-argo-cd-on-kubernetes-43gg",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Installing Jenkins on Rocky Linux 9",
+    "desc": "<p>Jenkins is a popular open-source automation server for continuous integration and continuous deployment (CI/CD), letting teams build, tes",
+    "link": "https://dev.to/vultr/installing-jenkins-on-rocky-linux-9-487e",
     "topic": "general"
   },
   {
-    "title": "Open or closed model? There is a third option",
-    "desc": "<p>Open or closed? The question shows up in every architecture review, and it usually gets settled with a benchmark chart and a price-per-to",
-    "link": "https://dev.to/laura_cristinachicovisd/open-or-closed-model-there-is-a-third-option-4ojd",
+    "title": "Backing Up and Restoring PostgreSQL Databases Using pg_dump and pg_restore",
+    "desc": "<p><code>pg_dump</code> is a PostgreSQL backup utility that allows database administrators to export databases in various forms, including f",
+    "link": "https://dev.to/vultr/backing-up-and-restoring-postgresql-databases-using-pgdump-and-pgrestore-d6e",
     "topic": "general"
   }
 ]
