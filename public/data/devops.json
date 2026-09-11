@@ -1,50 +1,50 @@
 [
   {
-    "title": "Quick tip: How to find and free up disk space in Linux",
-    "desc": "<p>A full disk is a common reason for random service crashes in Linux. Here is a quick 3-step checklist to find and fix it:</p>\n\n<ol>\n<li>Ch",
-    "link": "https://dev.to/prince_maurya_8845cfa6516/quick-tip-how-to-find-and-free-up-disk-space-in-linux-2iak",
+    "title": "I Trusted the Remote Green Bar for 48 Hours. pip freeze Told Another Story.",
+    "desc": "<p>The same pytest node was red on my laptop and green on a remote runner, which felt personal. Have you ever trusted the quieter log just b",
+    "link": "https://dev.to/codepy_1473/i-trusted-the-remote-green-bar-for-48-hours-pip-freeze-told-another-story-3ghk",
     "topic": "general"
   },
   {
-    "title": "I built the wall I keep hitting",
-    "desc": "<p>Tonight I cleaned up my own blog. Thirty-two posts nobody had read, written by a runner that had been left alone too long. I read them al",
-    "link": "https://dev.to/max-ai-dev/i-built-the-wall-i-keep-hitting-4dj3",
+    "title": "The Merge Token for Agent Patches Is Three Human-Owned Files",
+    "desc": "<p>A green pipeline is the wrong merge token for an agent patch. The agent can delete a property, rewrite a fixture byte-for-byte into a wea",
+    "link": "https://dev.to/datacpp_8185/the-merge-token-for-agent-patches-is-three-human-owned-files-7i",
     "topic": "general"
   },
   {
-    "title": "Deploy a Node/TypeScript API to Railway in 15 minutes (with a worker-friendly setup)",
-    "desc": "<p>This walkthrough deploys a simple Express API to Railway, sets env vars, and notes how to add a second service later for a queue worker.<",
-    "link": "https://dev.to/ivanpetrus/deploy-a-nodetypescript-api-to-railway-in-15-minutes-with-a-worker-friendly-setup-1o64",
+    "title": "The PagerDuty Migration Playbook",
+    "desc": "<p>Migrating from PagerDuty is not a weekend project. I learned this the hard way. Here's the playbook I wish I had.</p>\n\n<h2>\n  \n  \n  Befor",
+    "link": "https://dev.to/samson_tanimawo/the-pagerduty-migration-playbook-bl8",
     "topic": "general"
   },
   {
-    "title": "Who can see the payroll folder? Nobody could answer, so we audited every share in one afternoon",
-    "desc": "<p>Ask the question out loud in a five-person office \u2014 \"who can see the payroll folder?\" \u2014 and watch the answers: \"just me and...\" \"...I thi",
-    "link": "https://dev.to/hive80lab/who-can-see-the-payroll-folder-nobody-could-answer-so-we-audited-every-share-in-one-afternoon-4l5j",
+    "title": "Docker Bake in Practice \u2014 Part 1: From Bash Scripts to Declarative Builds",
+    "desc": "<p><em>The first of a two-part series. Part 1 covers the fundamentals: what Bake is, why it exists, and the features that make it worth adop",
+    "link": "https://dev.to/gde/docker-bake-in-practice-part-1-from-bash-scripts-to-declarative-builds-3pak",
+    "topic": "docker"
+  },
+  {
+    "title": "Low Latency Cloud Servers Asia 2026: Best Regions & Deals",
+    "desc": "<p>If you\u2019re building applications for users in the Asia-Pacific region, you already know that latency is the silent killer of user experien",
+    "link": "https://dev.to/aitokenhub_98/low-latency-cloud-servers-asia-2026-best-regions-deals-2o2",
     "topic": "general"
   },
   {
-    "title": "Delegation of authority for small teams: who can approve what, on one page",
-    "desc": "<p>The one-page table that ends both failure modes at once: the owner as the approval bottleneck, and the blank check where nobody remembers",
-    "link": "https://dev.to/hive80lab/delegation-of-authority-for-small-teams-who-can-approve-what-on-one-page-18po",
+    "title": "The IT asset inventory template: twelve boring columns that answer the bad-day questions",
+    "desc": "<p>Every insurance claim after a break-in asks the same two questions: <em>what was taken, and what was it worth?</em> Every stolen-laptop h",
+    "link": "https://dev.to/hive80lab/the-it-asset-inventory-template-twelve-boring-columns-that-answer-the-bad-day-questions-2a5h",
     "topic": "general"
   },
   {
-    "title": "Paid Collaboration: Looking to Acquire or License Existing Codebases",
-    "desc": "<p>Hi everyone,</p>\n\n<p>I\u2019m Syed Mohd Ali from 3Wheels.AI. We\u2019re currently looking for existing or legacy software codebases/repositories th",
-    "link": "https://dev.to/syed_mohdali_d6d52736f1d/paid-collaboration-looking-to-acquire-or-license-existing-codebases-3do5",
+    "title": "Internet outage runbook: when the whole office goes dark",
+    "desc": "<p>Tuesday, 11:05. The router's green lights turn amber, three people announce it in three Slack threads, and someone is already rebooting a",
+    "link": "https://dev.to/hive80lab/internet-outage-runbook-when-the-whole-office-goes-dark-g01",
     "topic": "general"
   },
   {
-    "title": "What is an HSM \u2014 and why a used one is a smart buy",
-    "desc": "<p>Hardware Security Modules sit at the very bottom of your key management stack \u2014 and yet most developers encounter them only when somethin",
-    "link": "https://dev.to/itandoffice/what-is-an-hsm-and-why-a-used-one-is-a-smart-buy-37oc",
-    "topic": "general"
-  },
-  {
-    "title": "The power failure IT checklist: the UPS, the shutdown, and the cold-start order",
-    "desc": "<p>published: true<br />\ntitle: \"The power failure IT checklist: the UPS, the shutdown, and the cold-start order\"<br />\ntags: devops, securi",
-    "link": "https://dev.to/hive80lab/the-power-failure-it-checklist-the-ups-the-shutdown-and-the-cold-start-order-3m7m",
+    "title": "No Password for My Agent: A Zero-Secret Architecture Pattern",
+    "desc": "<p>The Classic Paradox: Trusting AI Agents with Hardcoded Secrets</p>\n\n<p>Whenever teams start integrating autonomous AI agents into their c",
+    "link": "https://dev.to/alpha_1fae74ede41cf4f8c31/no-password-for-my-agent-a-zero-secret-architecture-pattern-4k0f",
     "topic": "general"
   }
 ]
