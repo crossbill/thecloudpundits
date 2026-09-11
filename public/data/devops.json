@@ -1,50 +1,50 @@
 [
   {
-    "title": "How I Processed 1M AI Batch Requests for Under $10 Using Budget Cloud Servers",
-    "desc": "<p>When people hear \"batch processing 1 million AI requests,\" they immediately picture a massive AWS bill or a cluster of expensive GPU inst",
-    "link": "https://dev.to/aitokenhub_98/how-i-processed-1m-ai-batch-requests-for-under-10-using-budget-cloud-servers-2oc2",
+    "title": "Alert fatigue: why your team ignores the pager (and the 10-line fix)",
+    "desc": "<p>Your monitoring is talking. Nobody is listening. That is not a discipline problem \u2014 it's a design problem. Alert fatigue is what happens ",
+    "link": "https://dev.to/hive80lab/alert-fatigue-why-your-team-ignores-the-pager-and-the-10-line-fix-42mi",
     "topic": "general"
   },
   {
-    "title": "I Built a Vision AI App Using DeepSeek V4.1 Flash and Cheap Cloud Servers",
-    "desc": "<p>I used to think building a Vision AI app meant draining my wallet on expensive GPU instances. You know the drill: you want to process ima",
-    "link": "https://dev.to/aitokenhub_98/i-built-a-vision-ai-app-using-deepseek-v41-flash-and-cheap-cloud-servers-1233",
+    "title": "5 workflows your small team should automate before it hires anyone",
+    "desc": "<p>Coordination is the tax small teams pay for growing. The work isn't the problem \u2014 the hand-offs, the \"who's doing what\", the Monday statu",
+    "link": "https://dev.to/hive80lab/5-workflows-your-small-team-should-automate-before-it-hires-anyone-50fh",
     "topic": "general"
   },
   {
-    "title": "Token Price Is a Terrible Metric for Coding-Agent Cost",
-    "desc": "<p>Run A uses the cheaper model. It edits the right files, fails a test, retries with a wider change, burns through more tool calls, and sto",
-    "link": "https://dev.to/hefty_69a4c2d631c9dd70724/token-price-is-a-terrible-metric-for-coding-agent-cost-j59",
-    "topic": "general"
-  },
-  {
-    "title": "Why our status page costs $1 a month",
-    "desc": "<p><em>The full InBrief price list, and why incident communication is sold per feature instead of per tier.</em></p>\n\n<p>Every status page t",
-    "link": "https://dev.to/milade/why-our-status-page-costs-1-a-month-1fba",
-    "topic": "general"
-  },
-  {
-    "title": "J'ai procastin\u00e9 Docker pendant un mois... Voici ce qui m'a d\u00e9bloqu\u00e9e",
-    "desc": "<p>Le 8 juillet, j'ai commenc\u00e9 un mentorat DevOps avec <a href=\"https://dev.to/bongoe\">Endah</a>. J'\u00e9tais motiv\u00e9e, pleine de bonnes r\u00e9soluti",
-    "link": "https://dev.to/audreysiewe14droid/jai-procastine-docker-pendant-un-mois-voici-ce-qui-ma-debloquee-1cdj",
-    "topic": "docker"
-  },
-  {
-    "title": "Tencent Cloud vs AWS 2026: Cheapest APAC Deals",
-    "desc": "<p>If you've ever stared at a cloud bill at the end of the month and felt your stomach drop, you're not alone. When I started deploying web ",
-    "link": "https://dev.to/aitokenhub_98/tencent-cloud-vs-aws-2026-cheapest-apac-deals-1h1f",
+    "title": "Audit Trails for DevOps AI Agents: Attribute Every kubectl, AWS Call, and Commit to a Run and a Human",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-09-11-audit-trail-devops-ai-agents-attribution\" r",
+    "link": "https://dev.to/devtocash/audit-trails-for-devops-ai-agents-attribute-every-kubectl-aws-call-and-commit-to-a-run-and-a-paa",
     "topic": "aws"
   },
   {
-    "title": "How I Slashed a Docker Image from 442 MB to 56 MB (87% Cut) and Hardened It for Production",
-    "desc": "<p>We've all been there: you whip up a simple microservice in Python, write a quick Dockerfile, run <code>docker build</code>, and suddenly ",
-    "link": "https://dev.to/alanvarghese-dev/how-i-slashed-a-docker-image-from-442-mb-to-56-mb-87-cut-and-hardened-it-for-production-1om4",
-    "topic": "docker"
+    "title": "Today's Let's Encrypt outage failed renewals for an hour. Here's the 30-minute playbook for when that's you.",
+    "desc": "<h1>\n  \n  \n  Today's Let's Encrypt outage failed renewals for an hour. Here's the 30-minute playbook for when that's you.\n</h1>\n\n<p>At 01:40",
+    "link": "https://dev.to/hive80lab/todays-lets-encrypt-outage-failed-renewals-for-an-hour-heres-the-30-minute-playbook-for-when-5gmk",
+    "topic": "general"
   },
   {
-    "title": "Building Your First Runbook: A Template That Actually Works",
-    "desc": "<p>Most runbooks are useless. Either they're too abstract ('check the logs') or they're a 40-page Confluence doc that nobody reads at 3 AM.<",
-    "link": "https://dev.to/samson_tanimawo/building-your-first-runbook-a-template-that-actually-works-52f1",
+    "title": "API Security Best Practices Every Developer Should Know",
+    "desc": "<p>APIs are the backbone of modern software. They power mobile apps, connect microservices, expose data to partners, and drive entire busine",
+    "link": "https://dev.to/tienbku/api-security-best-practices-every-developer-should-know-29gk",
+    "topic": "secops"
+  },
+  {
+    "title": "5 Slack rituals that cut incident bridge time in half",
+    "desc": "<p>Incident bridges don't waste time on technical problems \u2014 they waste it on social overhead: who's leading, who's talking, who's writing, ",
+    "link": "https://dev.to/hive80lab/5-slack-rituals-that-cut-incident-bridge-time-in-half-ml2",
+    "topic": "secops"
+  },
+  {
+    "title": "Runbooks that actually get read: 6 rules from 4 failed handovers",
+    "desc": "<p>Runbooks die the same way every time: they're written by the person who knows the answer, formatted like a manual, and read by a person h",
+    "link": "https://dev.to/hive80lab/runbooks-that-actually-get-read-6-rules-from-4-failed-handovers-16dc",
+    "topic": "general"
+  },
+  {
+    "title": "The 5 automations every small team should build first (and how to copy them)",
+    "desc": "<p>Most teams don't need a \"digital transformation.\" They need five boring scripts that stop 80% of the recurring pain. Here's the priority ",
+    "link": "https://dev.to/hive80lab/the-5-automations-every-small-team-should-build-first-and-how-to-copy-them-4af9",
     "topic": "general"
   }
 ]
