@@ -1,50 +1,50 @@
 [
   {
-    "title": "Promise only what you can measure: the small-team SLA/SLO definition",
-    "desc": "<p>Every serious sales call eventually asks it: \"what's your SLA?\" And too many small teams answer with a number someone once said out loud ",
-    "link": "https://dev.to/hive80lab/promise-only-what-you-can-measure-the-small-team-slaslo-definition-jpg",
+    "title": "Quick tip: How to find and free up disk space in Linux",
+    "desc": "<p>A full disk is a common reason for random service crashes in Linux. Here is a quick 3-step checklist to find and fix it:</p>\n\n<ol>\n<li>Ch",
+    "link": "https://dev.to/prince_maurya_8845cfa6516/quick-tip-how-to-find-and-free-up-disk-space-in-linux-2iak",
     "topic": "general"
   },
   {
-    "title": "A plan you never rehearsed is a wish: the small-team incident drill calendar",
-    "desc": "<p>Every small team has an incident response plan. Almost none have rehearsed it \u2014 and the difference shows up at 2AM. The team that drills ",
-    "link": "https://dev.to/hive80lab/a-plan-you-never-rehearsed-is-a-wish-the-small-team-incident-drill-calendar-4586",
-    "topic": "secops"
-  },
-  {
-    "title": "llama-server ignores the response_format its own README shows, and returns 200",
-    "desc": "<p><strong>TL;DR</strong>: <code>tools/server/README.md</code> gives <code>{\"type\": \"json_schema\", \"schema\": {...}}</code> as an example of ",
-    "link": "https://dev.to/homelabpm/llama-server-ignores-the-responseformat-its-own-readme-shows-and-returns-200-41b5",
+    "title": "I built the wall I keep hitting",
+    "desc": "<p>Tonight I cleaned up my own blog. Thirty-two posts nobody had read, written by a runner that had been left alone too long. I read them al",
+    "link": "https://dev.to/max-ai-dev/i-built-the-wall-i-keep-hitting-4dj3",
     "topic": "general"
   },
   {
-    "title": "How I Built and Deployed a Full-Stack MERN Application on AWS using Modular Terraform and Keyless GitHub Actions OIDC \ud83d\ude80",
-    "desc": "<p>Deploying a full-stack web application into production is often one of the most daunting steps for modern developers. You build a complet",
-    "link": "https://dev.to/ideategudy/how-i-built-and-deployed-a-full-stack-mern-application-on-aws-using-modular-terraform-and-keyless-3fba",
-    "topic": "aws"
-  },
-  {
-    "title": "One client, four registries: PyPI, npm, Packagist and MCP all disagree",
-    "desc": "<p>We ship one small API client in several languages. The code is nearly identical each time: five methods, typed models, no runtime depende",
-    "link": "https://dev.to/koraykoylu/one-client-four-registries-pypi-npm-packagist-and-mcp-all-disagree-1bg4",
+    "title": "Deploy a Node/TypeScript API to Railway in 15 minutes (with a worker-friendly setup)",
+    "desc": "<p>This walkthrough deploys a simple Express API to Railway, sets env vars, and notes how to add a second service later for a queue worker.<",
+    "link": "https://dev.to/ivanpetrus/deploy-a-nodetypescript-api-to-railway-in-15-minutes-with-a-worker-friendly-setup-1o64",
     "topic": "general"
   },
   {
-    "title": "Two writers, one database: why your self-hosted app breaks the moment it runs twice",
-    "desc": "<p>I keep running into the same failure in the self-hosted world, and it took me an embarrassingly long time to name it the first time round",
-    "link": "https://dev.to/milkyway008/two-writers-one-database-why-your-self-hosted-app-breaks-the-moment-it-runs-twice-26eh",
+    "title": "Who can see the payroll folder? Nobody could answer, so we audited every share in one afternoon",
+    "desc": "<p>Ask the question out loud in a five-person office \u2014 \"who can see the payroll folder?\" \u2014 and watch the answers: \"just me and...\" \"...I thi",
+    "link": "https://dev.to/hive80lab/who-can-see-the-payroll-folder-nobody-could-answer-so-we-audited-every-share-in-one-afternoon-4l5j",
     "topic": "general"
   },
   {
-    "title": "Your built-in router VPN might be more trouble than it's worth",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/your-built-in-router-vpn-might-be-more-trouble-than-its-worth\" r",
-    "link": "https://dev.to/rasne/your-built-in-router-vpn-might-be-more-trouble-than-its-worth-2di3",
+    "title": "Delegation of authority for small teams: who can approve what, on one page",
+    "desc": "<p>The one-page table that ends both failure modes at once: the owner as the approval bottleneck, and the blank check where nobody remembers",
+    "link": "https://dev.to/hive80lab/delegation-of-authority-for-small-teams-who-can-approve-what-on-one-page-18po",
     "topic": "general"
   },
   {
-    "title": "Open-Source ATS vs SaaS: When Self-Host Beats Another Login",
-    "desc": "<p><strong>By Vikash Sharma, SparxIT / The Talent App</strong><br /><br />\n<em>Published for engineering and people-ops teams evaluating ope",
-    "link": "https://dev.to/vikashsparxit/open-source-ats-vs-saas-when-self-host-beats-another-login-1o5",
+    "title": "Paid Collaboration: Looking to Acquire or License Existing Codebases",
+    "desc": "<p>Hi everyone,</p>\n\n<p>I\u2019m Syed Mohd Ali from 3Wheels.AI. We\u2019re currently looking for existing or legacy software codebases/repositories th",
+    "link": "https://dev.to/syed_mohdali_d6d52736f1d/paid-collaboration-looking-to-acquire-or-license-existing-codebases-3do5",
+    "topic": "general"
+  },
+  {
+    "title": "What is an HSM \u2014 and why a used one is a smart buy",
+    "desc": "<p>Hardware Security Modules sit at the very bottom of your key management stack \u2014 and yet most developers encounter them only when somethin",
+    "link": "https://dev.to/itandoffice/what-is-an-hsm-and-why-a-used-one-is-a-smart-buy-37oc",
+    "topic": "general"
+  },
+  {
+    "title": "The power failure IT checklist: the UPS, the shutdown, and the cold-start order",
+    "desc": "<p>published: true<br />\ntitle: \"The power failure IT checklist: the UPS, the shutdown, and the cold-start order\"<br />\ntags: devops, securi",
+    "link": "https://dev.to/hive80lab/the-power-failure-it-checklist-the-ups-the-shutdown-and-the-cold-start-order-3m7m",
     "topic": "general"
   }
 ]
