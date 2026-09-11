@@ -1,50 +1,50 @@
 [
   {
-    "title": "Alert fatigue: why your team ignores the pager (and the 10-line fix)",
-    "desc": "<p>Your monitoring is talking. Nobody is listening. That is not a discipline problem \u2014 it's a design problem. Alert fatigue is what happens ",
-    "link": "https://dev.to/hive80lab/alert-fatigue-why-your-team-ignores-the-pager-and-the-10-line-fix-42mi",
+    "title": "We enforced a password manager on a Friday. By Monday we had a 2am lockout.",
+    "desc": "<p>We enforced a password manager on a Friday. By Monday we had our first 2am lockout, and it taught us the rollout order we should have use",
+    "link": "https://dev.to/hive80lab/we-enforced-a-password-manager-on-a-friday-by-monday-we-had-a-2am-lockout-4m5p",
     "topic": "general"
   },
   {
-    "title": "5 workflows your small team should automate before it hires anyone",
-    "desc": "<p>Coordination is the tax small teams pay for growing. The work isn't the problem \u2014 the hand-offs, the \"who's doing what\", the Monday statu",
-    "link": "https://dev.to/hive80lab/5-workflows-your-small-team-should-automate-before-it-hires-anyone-50fh",
+    "title": "GitHub Actions Cache-Mode: Fix Cache-Poisoning Risk with Least-Privilege CI",
+    "desc": "<p>GitHub Actions cache-mode is now generally available. Learn how to configure read, write, write-only, and none safely across trusted and ",
+    "link": "https://dev.to/adityahalderdev/github-actions-cache-mode-fix-cache-poisoning-risk-with-least-privilege-ci-243m",
     "topic": "general"
   },
   {
-    "title": "Audit Trails for DevOps AI Agents: Attribute Every kubectl, AWS Call, and Commit to a Run and a Human",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-09-11-audit-trail-devops-ai-agents-attribution\" r",
-    "link": "https://dev.to/devtocash/audit-trails-for-devops-ai-agents-attribute-every-kubectl-aws-call-and-commit-to-a-run-and-a-paa",
-    "topic": "aws"
-  },
-  {
-    "title": "Today's Let's Encrypt outage failed renewals for an hour. Here's the 30-minute playbook for when that's you.",
-    "desc": "<h1>\n  \n  \n  Today's Let's Encrypt outage failed renewals for an hour. Here's the 30-minute playbook for when that's you.\n</h1>\n\n<p>At 01:40",
-    "link": "https://dev.to/hive80lab/todays-lets-encrypt-outage-failed-renewals-for-an-hour-heres-the-30-minute-playbook-for-when-5gmk",
+    "title": "How do you decide two buttons are the same button?",
+    "desc": "<p>Every UI test rests on a claim that sounds trivial and is not: <em>this element, on this page today, is the same element I recorded last ",
+    "link": "https://dev.to/2sdtechnologiesdotcom/how-do-you-decide-two-buttons-are-the-same-button-3ip7",
     "topic": "general"
   },
   {
-    "title": "API Security Best Practices Every Developer Should Know",
-    "desc": "<p>APIs are the backbone of modern software. They power mobile apps, connect microservices, expose data to partners, and drive entire busine",
-    "link": "https://dev.to/tienbku/api-security-best-practices-every-developer-should-know-29gk",
+    "title": "Deploying Activepieces on Hetzner Using Docker Compose",
+    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>A cloud instance from <a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" re",
+    "link": "https://dev.to/chasebot/deploying-activepieces-on-hetzner-using-docker-compose-1hgg",
+    "topic": "docker"
+  },
+  {
+    "title": "When the Third-Party API Is the Riskiest Part of Your Project",
+    "desc": "<p>On most projects the riskiest component is one we did not build. A payment gateway, a courier's tracking API, a government identity check",
+    "link": "https://dev.to/sonaljain_si/when-the-third-party-api-is-the-riskiest-part-of-your-project-3mfh",
+    "topic": "general"
+  },
+  {
+    "title": "Valkey 9.1's hash field TTL triples memory use for the pattern its own docs show",
+    "desc": "<p>Valkey 9.0 added the ability to put a TTL on a single field inside a hash, rather than on the whole key. Valkey 9.1 followed up with <cod",
+    "link": "https://dev.to/alexgeorgiev17/valkey-91s-hash-field-ttl-triples-memory-use-for-the-pattern-its-own-docs-show-22k8",
+    "topic": "general"
+  },
+  {
+    "title": "A laptop was stolen at 4:40pm. By 5:10pm it was an insurance claim instead of a breach.",
+    "desc": "<p>A laptop was stolen from a co-working space at 4:40pm on a Tuesday. By 5:10pm it was an insurance claim instead of a breach. Here is the ",
+    "link": "https://dev.to/hive80lab/a-laptop-was-stolen-at-440pm-by-510pm-it-was-an-insurance-claim-instead-of-a-breach-1agh",
     "topic": "secops"
   },
   {
-    "title": "5 Slack rituals that cut incident bridge time in half",
-    "desc": "<p>Incident bridges don't waste time on technical problems \u2014 they waste it on social overhead: who's leading, who's talking, who's writing, ",
-    "link": "https://dev.to/hive80lab/5-slack-rituals-that-cut-incident-bridge-time-in-half-ml2",
-    "topic": "secops"
-  },
-  {
-    "title": "Runbooks that actually get read: 6 rules from 4 failed handovers",
-    "desc": "<p>Runbooks die the same way every time: they're written by the person who knows the answer, formatted like a manual, and read by a person h",
-    "link": "https://dev.to/hive80lab/runbooks-that-actually-get-read-6-rules-from-4-failed-handovers-16dc",
-    "topic": "general"
-  },
-  {
-    "title": "The 5 automations every small team should build first (and how to copy them)",
-    "desc": "<p>Most teams don't need a \"digital transformation.\" They need five boring scripts that stop 80% of the recurring pain. Here's the priority ",
-    "link": "https://dev.to/hive80lab/the-5-automations-every-small-team-should-build-first-and-how-to-copy-them-4af9",
+    "title": "The MFA rollout that doesn't lock out your bookkeeper: a small-team checklist",
+    "desc": "<p>A stolen password is how most small-team breaches start \u2014 and MFA is the cheapest fix on the board. But half-finished rollouts are worse ",
+    "link": "https://dev.to/hive80lab/the-mfa-rollout-that-doesnt-lock-out-your-bookkeeper-a-small-team-checklist-3kj6",
     "topic": "general"
   }
 ]
