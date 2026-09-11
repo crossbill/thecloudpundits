@@ -1,50 +1,50 @@
 [
   {
-    "title": "We enforced a password manager on a Friday. By Monday we had a 2am lockout.",
-    "desc": "<p>We enforced a password manager on a Friday. By Monday we had our first 2am lockout, and it taught us the rollout order we should have use",
-    "link": "https://dev.to/hive80lab/we-enforced-a-password-manager-on-a-friday-by-monday-we-had-a-2am-lockout-4m5p",
+    "title": "Filtering by minHotness is Cheaper Than Filtering After the Run",
+    "desc": "<p>Tracking consumer price movements across European retail channels is difficult because listed MSRPs rarely reflect the actual clearing pr",
+    "link": "https://dev.to/crawlerbros/filtering-by-minhotness-is-cheaper-than-filtering-after-the-run-5bmj",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions Cache-Mode: Fix Cache-Poisoning Risk with Least-Privilege CI",
-    "desc": "<p>GitHub Actions cache-mode is now generally available. Learn how to configure read, write, write-only, and none safely across trusted and ",
-    "link": "https://dev.to/adityahalderdev/github-actions-cache-mode-fix-cache-poisoning-risk-with-least-privilege-ci-243m",
+    "title": "Build a Quota and Rate-Limit Contract for AI API Gateways",
+    "desc": "<p>When an application team moves agent traffic through an AI API gateway, the happy-path request is usually the easy part. A chat completio",
+    "link": "https://dev.to/aiwave/build-a-quota-and-rate-limit-contract-for-ai-api-gateways-7p4",
     "topic": "general"
   },
   {
-    "title": "How do you decide two buttons are the same button?",
-    "desc": "<p>Every UI test rests on a claim that sounds trivial and is not: <em>this element, on this page today, is the same element I recorded last ",
-    "link": "https://dev.to/2sdtechnologiesdotcom/how-do-you-decide-two-buttons-are-the-same-button-3ip7",
+    "title": "Judge Agent Patches on Tests They Never Saw",
+    "desc": "<p>A green run on tests an agent was allowed to read is not a merge signal. It is a training-set score. Split the suite first. Judge the pat",
+    "link": "https://dev.to/datacpp_8185/judge-agent-patches-on-tests-they-never-saw-2p90",
     "topic": "general"
   },
   {
-    "title": "Deploying Activepieces on Hetzner Using Docker Compose",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>A cloud instance from <a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" re",
-    "link": "https://dev.to/chasebot/deploying-activepieces-on-hetzner-using-docker-compose-1hgg",
-    "topic": "docker"
-  },
-  {
-    "title": "When the Third-Party API Is the Riskiest Part of Your Project",
-    "desc": "<p>On most projects the riskiest component is one we did not build. A payment gateway, a courier's tracking API, a government identity check",
-    "link": "https://dev.to/sonaljain_si/when-the-third-party-api-is-the-riskiest-part-of-your-project-3mfh",
+    "title": "Elevating Your Software Development Plan with Secure AI Agents",
+    "desc": "<h2>\n  \n  \n  The Next Frontier in Developer Productivity: Secure AI Agents\n</h2>\n\n<p>The relentless pursuit of efficiency and innovation def",
+    "link": "https://dev.to/devactivity/elevating-your-software-development-plan-with-secure-ai-agents-1dkk",
     "topic": "general"
   },
   {
-    "title": "Valkey 9.1's hash field TTL triples memory use for the pattern its own docs show",
-    "desc": "<p>Valkey 9.0 added the ability to put a TTL on a single field inside a hash, rather than on the whole key. Valkey 9.1 followed up with <cod",
-    "link": "https://dev.to/alexgeorgiev17/valkey-91s-hash-field-ttl-triples-memory-use-for-the-pattern-its-own-docs-show-22k8",
+    "title": "How to Remove Unused WordPress Plugins Safely",
+    "desc": "<h1>\n  \n  \n  How to Remove Unused WordPress Plugins Safely\n</h1>\n\n<p>Every unused plugin is attack surface. Remove them with a checklist, no",
+    "link": "https://dev.to/usmanahmaddevx/how-to-remove-unused-wordpress-plugins-safely-1bm2",
     "topic": "general"
   },
   {
-    "title": "A laptop was stolen at 4:40pm. By 5:10pm it was an insurance claim instead of a breach.",
-    "desc": "<p>A laptop was stolen from a co-working space at 4:40pm on a Tuesday. By 5:10pm it was an insurance claim instead of a breach. Here is the ",
-    "link": "https://dev.to/hive80lab/a-laptop-was-stolen-at-440pm-by-510pm-it-was-an-insurance-claim-instead-of-a-breach-1agh",
-    "topic": "secops"
+    "title": "Disaster Recovery as a Governance System",
+    "desc": "<p>Disaster recovery is usually treated as a technical problem. You set up replication, you configure a standby, you test the failover, and ",
+    "link": "https://dev.to/m_yemi_64fd836a19f8dbadb/disaster-recovery-as-a-governance-system-3j5c",
+    "topic": "general"
   },
   {
-    "title": "The MFA rollout that doesn't lock out your bookkeeper: a small-team checklist",
-    "desc": "<p>A stolen password is how most small-team breaches start \u2014 and MFA is the cheapest fix on the board. But half-finished rollouts are worse ",
-    "link": "https://dev.to/hive80lab/the-mfa-rollout-that-doesnt-lock-out-your-bookkeeper-a-small-team-checklist-3kj6",
+    "title": "How Digital Creativity Can Help Brands Connect with Audiences in New Ways",
+    "desc": "<h1>\n  \n  \n  How Digital Creativity Can Help Brands Connect with Audiences in New Ways\n</h1>\n\n<p>People interact with brands differently tod",
+    "link": "https://dev.to/varshiniya_niftysoftsolu/how-digital-creativity-can-help-brands-connect-with-audiences-in-new-ways-41c2",
     "topic": "general"
+  },
+  {
+    "title": "Terraforming a Blog: The Setup",
+    "desc": "<h3>\n  \n  \n  Why engineer something when you can overengineer it?\n</h3>\n\n<p>As I am just getting back into cloud, I looked up many different",
+    "link": "https://dev.to/kishan_patel_39444796092d/terraforming-a-blog-the-setup-1ofn",
+    "topic": "terraform"
   }
 ]

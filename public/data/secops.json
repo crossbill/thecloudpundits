@@ -1,5 +1,41 @@
 [
   {
+    "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
+    "desc": "<p>Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTrackin",
+    "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
+    "topic": "general"
+  },
+  {
+    "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
+    "desc": "<p>Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
+    "topic": "secops"
+  },
+  {
+    "title": "Check Point Patches Critical VPN Vulnerabilities",
+    "desc": "<p>Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution.</p>\n<p>The post <a href=\"https://ww",
+    "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
+    "desc": "<p>Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars.</p>\n<p>The post <a href=\"https://www.se",
+    "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
+    "topic": "general"
+  },
+  {
+    "title": "Surfshark Systems Targeted by Hackers",
+    "desc": "<p>A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors.</p>\n<p>The",
+    "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
+    "topic": "general"
+  },
+  {
+    "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
+    "desc": "<p>Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude ",
+    "link": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
+    "topic": "anthropic"
+  },
+  {
     "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
     "desc": "<p>A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide.</p>\n<p>The post <a href=\"",
     "link": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
@@ -10,41 +46,5 @@
     "desc": "<p>Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon\u2019s board.</p>\n<p>Th",
     "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
     "topic": "general"
-  },
-  {
-    "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
-    "desc": "<p>Significant cybersecurity M&A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
-    "topic": "secops"
-  },
-  {
-    "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
-    "desc": "<p>Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster",
-    "desc": "<p>Vinnie Liu was recruited by the NSA when he was just 17 years old. He is now the CEO of Bishop Fox.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
-    "topic": "general"
-  },
-  {
-    "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
-    "desc": "<p>Deceptive apps in Early Access are being used by dishonest developers for their own benefit.</p>\n<p>The post <a href=\"https://www.securit",
-    "link": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
-    "topic": "general"
-  },
-  {
-    "title": "Webinar Today: Keep Pace With AI \u2013 A New Operating Model for Endpoint Remediation",
-    "desc": "<p>Join the webinar\u00a0for a focused, 20-minute discussion on\u00a0Frontier Pace Governance,\u00a0an approach to balancing automation, policy, and busine",
-    "link": "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
-    "topic": "general"
-  },
-  {
-    "title": "Critical NetScaler Vulnerability Exploited in Attacks",
-    "desc": "<p>Tracked as CVE-2026-19490, the authentication bypass flaw has been exploited in the wild since at least September 3.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
-    "topic": "secops"
   }
 ]
