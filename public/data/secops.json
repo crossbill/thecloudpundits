@@ -1,5 +1,23 @@
 [
   {
+    "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+    "desc": "<p>Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks.</p>\n<p",
+    "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+    "topic": "secops"
+  },
+  {
+    "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+    "desc": "<p>The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server.</p>\n<p>The pos",
+    "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+    "topic": "secops"
+  },
+  {
+    "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+    "desc": "<p>Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on ",
+    "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+    "topic": "secops"
+  },
+  {
     "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
     "desc": "<p>Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTrackin",
     "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
@@ -27,24 +45,6 @@
     "title": "Surfshark Systems Targeted by Hackers",
     "desc": "<p>A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors.</p>\n<p>The",
     "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-    "topic": "general"
-  },
-  {
-    "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-    "desc": "<p>Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude ",
-    "link": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-    "desc": "<p>A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-    "topic": "aws"
-  },
-  {
-    "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
-    "desc": "<p>Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon\u2019s board.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
     "topic": "general"
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
-    "title": "Filtering by minHotness is Cheaper Than Filtering After the Run",
-    "desc": "<p>Tracking consumer price movements across European retail channels is difficult because listed MSRPs rarely reflect the actual clearing pr",
-    "link": "https://dev.to/crawlerbros/filtering-by-minhotness-is-cheaper-than-filtering-after-the-run-5bmj",
+    "title": "Promise only what you can measure: the small-team SLA/SLO definition",
+    "desc": "<p>Every serious sales call eventually asks it: \"what's your SLA?\" And too many small teams answer with a number someone once said out loud ",
+    "link": "https://dev.to/hive80lab/promise-only-what-you-can-measure-the-small-team-slaslo-definition-jpg",
     "topic": "general"
   },
   {
-    "title": "Build a Quota and Rate-Limit Contract for AI API Gateways",
-    "desc": "<p>When an application team moves agent traffic through an AI API gateway, the happy-path request is usually the easy part. A chat completio",
-    "link": "https://dev.to/aiwave/build-a-quota-and-rate-limit-contract-for-ai-api-gateways-7p4",
+    "title": "A plan you never rehearsed is a wish: the small-team incident drill calendar",
+    "desc": "<p>Every small team has an incident response plan. Almost none have rehearsed it \u2014 and the difference shows up at 2AM. The team that drills ",
+    "link": "https://dev.to/hive80lab/a-plan-you-never-rehearsed-is-a-wish-the-small-team-incident-drill-calendar-4586",
+    "topic": "secops"
+  },
+  {
+    "title": "llama-server ignores the response_format its own README shows, and returns 200",
+    "desc": "<p><strong>TL;DR</strong>: <code>tools/server/README.md</code> gives <code>{\"type\": \"json_schema\", \"schema\": {...}}</code> as an example of ",
+    "link": "https://dev.to/homelabpm/llama-server-ignores-the-responseformat-its-own-readme-shows-and-returns-200-41b5",
     "topic": "general"
   },
   {
-    "title": "Judge Agent Patches on Tests They Never Saw",
-    "desc": "<p>A green run on tests an agent was allowed to read is not a merge signal. It is a training-set score. Split the suite first. Judge the pat",
-    "link": "https://dev.to/datacpp_8185/judge-agent-patches-on-tests-they-never-saw-2p90",
+    "title": "How I Built and Deployed a Full-Stack MERN Application on AWS using Modular Terraform and Keyless GitHub Actions OIDC \ud83d\ude80",
+    "desc": "<p>Deploying a full-stack web application into production is often one of the most daunting steps for modern developers. You build a complet",
+    "link": "https://dev.to/ideategudy/how-i-built-and-deployed-a-full-stack-mern-application-on-aws-using-modular-terraform-and-keyless-3fba",
+    "topic": "aws"
+  },
+  {
+    "title": "One client, four registries: PyPI, npm, Packagist and MCP all disagree",
+    "desc": "<p>We ship one small API client in several languages. The code is nearly identical each time: five methods, typed models, no runtime depende",
+    "link": "https://dev.to/koraykoylu/one-client-four-registries-pypi-npm-packagist-and-mcp-all-disagree-1bg4",
     "topic": "general"
   },
   {
-    "title": "Elevating Your Software Development Plan with Secure AI Agents",
-    "desc": "<h2>\n  \n  \n  The Next Frontier in Developer Productivity: Secure AI Agents\n</h2>\n\n<p>The relentless pursuit of efficiency and innovation def",
-    "link": "https://dev.to/devactivity/elevating-your-software-development-plan-with-secure-ai-agents-1dkk",
+    "title": "Two writers, one database: why your self-hosted app breaks the moment it runs twice",
+    "desc": "<p>I keep running into the same failure in the self-hosted world, and it took me an embarrassingly long time to name it the first time round",
+    "link": "https://dev.to/milkyway008/two-writers-one-database-why-your-self-hosted-app-breaks-the-moment-it-runs-twice-26eh",
     "topic": "general"
   },
   {
-    "title": "How to Remove Unused WordPress Plugins Safely",
-    "desc": "<h1>\n  \n  \n  How to Remove Unused WordPress Plugins Safely\n</h1>\n\n<p>Every unused plugin is attack surface. Remove them with a checklist, no",
-    "link": "https://dev.to/usmanahmaddevx/how-to-remove-unused-wordpress-plugins-safely-1bm2",
+    "title": "Your built-in router VPN might be more trouble than it's worth",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/your-built-in-router-vpn-might-be-more-trouble-than-its-worth\" r",
+    "link": "https://dev.to/rasne/your-built-in-router-vpn-might-be-more-trouble-than-its-worth-2di3",
     "topic": "general"
   },
   {
-    "title": "Disaster Recovery as a Governance System",
-    "desc": "<p>Disaster recovery is usually treated as a technical problem. You set up replication, you configure a standby, you test the failover, and ",
-    "link": "https://dev.to/m_yemi_64fd836a19f8dbadb/disaster-recovery-as-a-governance-system-3j5c",
+    "title": "Open-Source ATS vs SaaS: When Self-Host Beats Another Login",
+    "desc": "<p><strong>By Vikash Sharma, SparxIT / The Talent App</strong><br /><br />\n<em>Published for engineering and people-ops teams evaluating ope",
+    "link": "https://dev.to/vikashsparxit/open-source-ats-vs-saas-when-self-host-beats-another-login-1o5",
     "topic": "general"
-  },
-  {
-    "title": "How Digital Creativity Can Help Brands Connect with Audiences in New Ways",
-    "desc": "<h1>\n  \n  \n  How Digital Creativity Can Help Brands Connect with Audiences in New Ways\n</h1>\n\n<p>People interact with brands differently tod",
-    "link": "https://dev.to/varshiniya_niftysoftsolu/how-digital-creativity-can-help-brands-connect-with-audiences-in-new-ways-41c2",
-    "topic": "general"
-  },
-  {
-    "title": "Terraforming a Blog: The Setup",
-    "desc": "<h3>\n  \n  \n  Why engineer something when you can overengineer it?\n</h3>\n\n<p>As I am just getting back into cloud, I looked up many different",
-    "link": "https://dev.to/kishan_patel_39444796092d/terraforming-a-blog-the-setup-1ofn",
-    "topic": "terraform"
   }
 ]
