@@ -1,50 +1,50 @@
 [
   {
-    "title": "Sync AI Guidance Across Repositories with a Reviewable GitHub Action",
-    "desc": "<p>Teams often standardize how they work with AI coding tools by adding files such as <code>AGENTS.md</code>, <code>CLAUDE.md</code>, Copilo",
-    "link": "https://dev.to/paladini/sync-ai-guidance-across-repositories-with-a-reviewable-github-action-22p",
+    "title": "How to Use GitHub Actions cache-mode for Least-Privilege CI Caching",
+    "desc": "<p>GitHub Actions caching now has a permission boundary of its own.</p>\n\n<p>With <code>cache-mode</code>, a workflow can explicitly decide w",
+    "link": "https://dev.to/ascentinnovate/how-to-use-github-actions-cache-mode-for-least-privilege-ci-caching-1g2o",
     "topic": "general"
   },
   {
-    "title": "Wrapping a Monolith in Docker Isn't Containerization",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> <code>docker build</code> on a monolith and calling it \"containerized\" gets you a portable monolith,",
-    "link": "https://dev.to/sherdilcloud/wrapping-a-monolith-in-docker-isnt-containerization-l82",
-    "topic": "docker"
-  },
-  {
-    "title": "Welcome me!",
-    "desc": "<p>I\u2019m Abdullah, a web developer from Pakistan.</p>\n\n<p>I\u2019ve been reading Dev.to for quite some time, and I finally decided to stop just rea",
-    "link": "https://dev.to/abdullah_tayyab_dev/welcome-me-5dhe",
+    "title": "The SSO Outage Runbook: When Nobody Can Log In (Including You)",
+    "desc": "<p>A DNS outage makes you hard to find. A <strong>single sign-on outage makes you impossible to enter</strong> \u2014 including for you. The stat",
+    "link": "https://dev.to/hive80lab/the-sso-outage-runbook-when-nobody-can-log-in-including-you-1fe4",
     "topic": "general"
   },
   {
-    "title": "What deserves a page: the bar for waking a human at 2 a.m.",
-    "desc": "<p>A page is the most expensive message in your company: it costs sleep, and sleep is what keeps the next incident fixable. Every alerting s",
-    "link": "https://dev.to/hive80lab/what-deserves-a-page-the-bar-for-waking-a-human-at-2-am-gm2",
+    "title": "AI fleet inspection: SSH, Telnet, SNMP and RDP in one Termini session",
+    "desc": "<p>Most \"AI terminals\" help you write a command. <a href=\"https://terminiapp.com\" rel=\"noopener noreferrer\">Termini</a> is a Windows workspa",
+    "link": "https://dev.to/freethought_cf29a80a202c0/ai-fleet-inspection-ssh-telnet-snmp-and-rdp-in-one-termini-session-48i6",
     "topic": "general"
   },
   {
-    "title": "Feature flag cleanup: every flag has an owner and a kill date",
-    "desc": "<p>A feature flag starts as safety and decays into debt. Each one is a second code path that only compiles in your head: a branch nobody rea",
-    "link": "https://dev.to/hive80lab/feature-flag-cleanup-every-flag-has-an-owner-and-a-kill-date-2kfk",
+    "title": "Path-Based Routing with Reverse Proxy: Serving Multiple Websites from One Domain",
+    "desc": "<p>Hey developers \ud83d\udc4b</p>\n\n<p>At some point in our development journey, we\u2019ve all played around with domains, subdomains, routes, reverse prox",
+    "link": "https://dev.to/solitrix02/path-based-routing-with-reverse-proxy-serving-multiple-websites-from-one-domain-3c63",
     "topic": "general"
   },
   {
-    "title": "Maintenance windows: communicate the downtime you chose",
-    "desc": "<p>Planned downtime is the only outage you get to schedule - and the only one customers forgive, if you tell them the truth about it. The fa",
-    "link": "https://dev.to/hive80lab/maintenance-windows-communicate-the-downtime-you-chose-2eee",
+    "title": "Post-Quantum TLS Is a Platform Migration, Not a Crypto Project",
+    "desc": "<p>The least useful question in post-quantum cryptography is \"when does the quantum computer arrive?\"</p>\n\n<p>Nobody in a platform team can ",
+    "link": "https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-2f76",
     "topic": "general"
   },
   {
-    "title": "Runbooks die in Confluence. Ship them as cards instead.",
-    "desc": "<p>Runbooks don't die because people stop caring. They die because of where they live.</p>\n\n<p>A runbook inside a wiki competes with thousan",
-    "link": "https://dev.to/hive80lab/runbooks-die-in-confluence-ship-them-as-cards-instead-3840",
+    "title": "Tech debt is a loan: run the amortization table on one screen",
+    "desc": "<p>Tech debt is not a moral failing - it is a loan. Every shortcut you shipped bought speed that day and has been charging interest ever sin",
+    "link": "https://dev.to/hive80lab/tech-debt-is-a-loan-run-the-amortization-table-on-one-screen-4l92",
     "topic": "general"
   },
   {
-    "title": "The 12-field incident severity matrix that survives 3am",
-    "desc": "<p>Your severity matrix is a slide deck until 3am, when it becomes a decision someone makes with their eyes half open. Most small-team matri",
-    "link": "https://dev.to/hive80lab/the-12-field-incident-severity-matrix-that-survives-3am-2plh",
-    "topic": "secops"
+    "title": "Least Privilege Is a Policy Until the System Can Say No",
+    "desc": "<h1>\n  \n  \n  Least Privilege Is a Policy Until the System Can Say No\n</h1>\n\n<p>A technician needs to change one DNS record. The ticket is ap",
+    "link": "https://dev.to/david_boggs_adaptive/least-privilege-is-a-policy-until-the-system-can-say-no-311h",
+    "topic": "general"
+  },
+  {
+    "title": "My benchmark harness was wrong fourteen ways before it measured anything",
+    "desc": "<p>I built a harness to measure whether reverse proxies buffer Server-Sent<br />\nEvents. <a href=\"https://dev.to/remdore/nginx-streams-your-",
+    "link": "https://dev.to/remdore/my-benchmark-harness-was-wrong-fourteen-ways-before-it-measured-anything-1o6h",
+    "topic": "general"
   }
 ]
