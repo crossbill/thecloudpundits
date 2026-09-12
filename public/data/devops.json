@@ -1,50 +1,50 @@
 [
   {
-    "title": "Hold Shared Sandbox Work Behind a Promotion Lane",
-    "desc": "<p>Shared free compute is not a merge queue. Agent output on a borrowed server still needs a named owner. A sealed replay kit must exist bef",
-    "link": "https://dev.to/techlab_7968/hold-shared-sandbox-work-behind-a-promotion-lane-21m2",
+    "title": "How to Choose DNS TTL Selection Short for Changes Long for Stability in 3-Step Cutovers",
+    "desc": "<h1>\n  \n  \n  How to Choose DNS TTL Selection Short for Changes Long for Stability in 3-Step Cutovers\n</h1>\n\n<p>Short answer: lower DNS TTLs ",
+    "link": "https://dev.to/olafjohansson3168/how-to-choose-dns-ttl-selection-short-for-changes-long-for-stability-in-3-step-cutovers-2ne2",
     "topic": "general"
   },
   {
-    "title": "Day 0 of a Linux Challenge and the Prompt I Almost Got Wrong",
-    "desc": "<p>I signed up for the Black IT Academy Linux Upskill Challenge. Twenty lessons, one server, a cohort in Slack, and a rule that you keep a p",
-    "link": "https://dev.to/jas_dev/day-0-of-a-linux-challenge-and-the-prompt-i-almost-got-wrong-2m36",
+    "title": "Our retry logic was collecting data and then deleting it",
+    "desc": "<p>Every retry loop is also a sensor. We built ours to solve a problem, not to report one, and for months it did exactly what we asked: it c",
+    "link": "https://dev.to/unmannedops/our-retry-logic-was-collecting-data-and-then-deleting-it-4bcl",
     "topic": "general"
   },
   {
-    "title": "Dell Secure Connect Gateway Vulnerability: 3 Critical CVEs Chain Into Root Access",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/dell-secure-connect-gateway-vulnerability-3-critical-cves-chain-into-root-access-536f",
-    "topic": "secops"
-  },
-  {
-    "title": "Give the Merge Queue a SHA-Bound Ticket",
-    "desc": "<p>A green job is a boolean. Merge eligibility is a contract. If an agent-authored diff can reach <code>main</code> because <code>unit</code",
-    "link": "https://dev.to/codego_3211/give-the-merge-queue-a-sha-bound-ticket-16cg",
+    "title": "The .NET HTTP Failure Nobody Sees Coming -Najeeb Ullah",
+    "desc": "<p>Your CPU is fine. Your memory is fine. Your database is fine. So why did the application suddenly stop calling another service?<br />\nThe",
+    "link": "https://dev.to/najeebullah/the-net-http-failure-nobody-sees-coming-najeeb-ullah-3g45",
     "topic": "general"
   },
   {
-    "title": "Migration Diary: Stamp Idempotency Keys on Tools Before You Leave a Paid Agent",
-    "desc": "<p>Paid agent runtimes retry mutating tools after timeouts, dropped streams, and loop restarts, and they often hide those retries from you. ",
-    "link": "https://dev.to/techpy_768/migration-diary-stamp-idempotency-keys-on-tools-before-you-leave-a-paid-agent-1mhg",
+    "title": "Why `kubectl apply` doesn't roll out your `:latest` image (and the bridge from local to CI)",
+    "desc": "<p>The counterintuitive pipeline bug: you push a new image under the same <code>:latest</code> tag, run <code>kubectl apply</code>, and noth",
+    "link": "https://dev.to/mnvasil/why-kubectl-apply-doesnt-roll-out-your-latest-image-and-the-bridge-from-local-to-ci-3bii",
     "topic": "general"
   },
   {
-    "title": "Mask PII in Grafana Alloy logs without a stage.replace pattern list",
-    "desc": "<p><em>Originally published at <a href=\"https://pii-shield.com/guide-alloy\" rel=\"noopener noreferrer\">pii-shield.com/guide-alloy</a>.</em></",
-    "link": "https://dev.to/aragossa/mask-pii-in-grafana-alloy-logs-without-a-stagereplace-pattern-list-7bf",
+    "title": "Two reads and one compare before every DNS record write in a zone migration",
+    "desc": "<p>Use a read, compare, write, read-back loop around every DNS record change, and skip the write entirely when the stored value already matc",
+    "link": "https://dev.to/kendrickberg5327/two-reads-and-one-compare-before-every-dns-record-write-in-a-zone-migration-2ilf",
     "topic": "general"
   },
   {
-    "title": "The measurement in my permanent log was a string literal",
-    "desc": "<p>This line is in a record I cannot edit, because the record is append-only and that is the point of it:<br />\n</p>\n\n<div class=\"highlight ",
-    "link": "https://dev.to/mahirhir/the-measurement-in-my-permanent-log-was-a-string-literal-4gd5",
+    "title": "How Seed4J Validates Compatibility",
+    "desc": "<p>Today, developing a system usually means working with several frameworks and technologies. Even when you already know a technology well, ",
+    "link": "https://dev.to/renanfranca/how-seed4j-validates-compatibility-2pdo",
     "topic": "general"
   },
   {
-    "title": "You Keep Paying for the Same Prompt",
-    "desc": "<p>You do not mainly pay for the next tool call. You pay to recite the conversation that justified it. That is the part most free-lane plans",
-    "link": "https://dev.to/hackrs_3352/you-keep-paying-for-the-same-prompt-2354",
+    "title": "Why we moved our Backstage platform from Yarn to pnpm",
+    "desc": "<p><em>What Git worktrees, parallel coding agents, and a cache pointing at the wrong directory taught us about the assumptions hiding inside",
+    "link": "https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap",
+    "topic": "general"
+  },
+  {
+    "title": "Merchant of Record in 2026: What Paddle, Lemon Squeezy, Polar and Stripe Actually Charge",
+    "desc": "<p>Sell a subscription to someone in Germany and you owe German VAT. Sell to Ontario and GST or HST kicks in. Cross a revenue threshold in a",
+    "link": "https://dev.to/moksh/merchant-of-record-in-2026-what-paddle-lemon-squeezy-polar-and-stripe-actually-charge-2e5a",
     "topic": "general"
   }
 ]
