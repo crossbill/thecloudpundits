@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Choose DNS TTL Selection Short for Changes Long for Stability in 3-Step Cutovers",
-    "desc": "<h1>\n  \n  \n  How to Choose DNS TTL Selection Short for Changes Long for Stability in 3-Step Cutovers\n</h1>\n\n<p>Short answer: lower DNS TTLs ",
-    "link": "https://dev.to/olafjohansson3168/how-to-choose-dns-ttl-selection-short-for-changes-long-for-stability-in-3-step-cutovers-2ne2",
+    "title": "Scaling My Indie SaaS to 100k Users on Cheap Alibaba and Tencent Servers",
+    "desc": "<p>When my indie SaaS hit 100,000 active users last year, my friends expected me to be celebrating. Instead, I was staring at a projected $8",
+    "link": "https://dev.to/aitokenhub_98/scaling-my-indie-saas-to-100k-users-on-cheap-alibaba-and-tencent-servers-3fmk",
     "topic": "general"
   },
   {
-    "title": "Our retry logic was collecting data and then deleting it",
-    "desc": "<p>Every retry loop is also a sensor. We built ours to solve a problem, not to report one, and for months it did exactly what we asked: it c",
-    "link": "https://dev.to/unmannedops/our-retry-logic-was-collecting-data-and-then-deleting-it-4bcl",
+    "title": "Solving GPT-6 Astra EU Limits: How I Built Global AI Apps on Alibaba Cloud",
+    "desc": "<p>As a developer building AI-powered web applications, I\u2019ve hit a massive wall recently. If you are based in Europe, you have probably felt",
+    "link": "https://dev.to/aitokenhub_98/solving-gpt-6-astra-eu-limits-how-i-built-global-ai-apps-on-alibaba-cloud-6e2",
     "topic": "general"
   },
   {
-    "title": "The .NET HTTP Failure Nobody Sees Coming -Najeeb Ullah",
-    "desc": "<p>Your CPU is fine. Your memory is fine. Your database is fine. So why did the application suddenly stop calling another service?<br />\nThe",
-    "link": "https://dev.to/najeebullah/the-net-http-failure-nobody-sees-coming-najeeb-ullah-3g45",
+    "title": "Deploying DeepSeek V4.1 Flash Locally on Tencent Cloud to Avoid API Price Hikes",
+    "desc": "<p>I\u2019ve been experimenting a lot with the latest models, and the recent release really caught my eye. As the official announcement states: I",
+    "link": "https://dev.to/aitokenhub_98/deploying-deepseek-v41-flash-locally-on-tencent-cloud-to-avoid-api-price-hikes-2a2k",
     "topic": "general"
   },
   {
-    "title": "Why `kubectl apply` doesn't roll out your `:latest` image (and the bridge from local to CI)",
-    "desc": "<p>The counterintuitive pipeline bug: you push a new image under the same <code>:latest</code> tag, run <code>kubectl apply</code>, and noth",
-    "link": "https://dev.to/mnvasil/why-kubectl-apply-doesnt-roll-out-your-latest-image-and-the-bridge-from-local-to-ci-3bii",
+    "title": "From Leaked Prompts to Enterprise Skill Governance: What Today's GitHub Trending Tells Us",
+    "desc": "<p>Today's GitHub Trending list tells a fascinating story about the state of AI agent skills. Three repositories, each approaching the same ",
+    "link": "https://dev.to/fenju_fu/from-leaked-prompts-to-enterprise-skill-governance-what-todays-github-trending-tells-us-5c8k",
     "topic": "general"
   },
   {
-    "title": "Two reads and one compare before every DNS record write in a zone migration",
-    "desc": "<p>Use a read, compare, write, read-back loop around every DNS record change, and skip the write entirely when the stored value already matc",
-    "link": "https://dev.to/kendrickberg5327/two-reads-and-one-compare-before-every-dns-record-write-in-a-zone-migration-2ilf",
+    "title": "How I get Slack alerts when a webpage changes",
+    "desc": "<p>You already live in Slack. The problem is the webpage that decides your quote, your vendor risk, or your competitor move still lives in a",
+    "link": "https://dev.to/evangelist67/how-i-get-slack-alerts-when-a-webpage-changes-4g2e",
     "topic": "general"
   },
   {
-    "title": "How Seed4J Validates Compatibility",
-    "desc": "<p>Today, developing a system usually means working with several frameworks and technologies. Even when you already know a technology well, ",
-    "link": "https://dev.to/renanfranca/how-seed4j-validates-compatibility-2pdo",
+    "title": "Zero downtime API key rotation under a hard spend ceiling and two alert thresholds",
+    "desc": "<p>A small team should use all three controls, just not as a menu to pick from: threshold alerts tell you the shape of your spend, a schedul",
+    "link": "https://dev.to/yatesholloway6872/zero-downtime-api-key-rotation-under-a-hard-spend-ceiling-and-two-alert-thresholds-329c",
     "topic": "general"
   },
   {
-    "title": "Why we moved our Backstage platform from Yarn to pnpm",
-    "desc": "<p><em>What Git worktrees, parallel coding agents, and a cache pointing at the wrong directory taught us about the assumptions hiding inside",
-    "link": "https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap",
+    "title": "Nobody wants to import your library",
+    "desc": "<p>I wrote a Python library. Then I watched people not use it.</p>\n\n<p>Not because they disagreed with it \u2014 the thesis landed fine. The prob",
+    "link": "https://dev.to/ashish_sinha_5241c7673d93/nobody-wants-to-import-your-library-1bbn",
     "topic": "general"
   },
   {
-    "title": "Merchant of Record in 2026: What Paddle, Lemon Squeezy, Polar and Stripe Actually Charge",
-    "desc": "<p>Sell a subscription to someone in Germany and you owe German VAT. Sell to Ontario and GST or HST kicks in. Cross a revenue threshold in a",
-    "link": "https://dev.to/moksh/merchant-of-record-in-2026-what-paddle-lemon-squeezy-polar-and-stripe-actually-charge-2e5a",
+    "title": "Node.js Gateway Recovery \u2014 Testing Capability Pins, Vendor Exclusions, and Data Residency",
+    "desc": "<p>Short answer: Leave provider routing on its default until an explicit data-residency rule or a measured quality gap gives you a reason to",
+    "link": "https://dev.to/trippdonovan5461/nodejs-gateway-recovery-testing-capability-pins-vendor-exclusions-and-data-residency-lfm",
     "topic": "general"
   }
 ]
