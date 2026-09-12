@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Use GitHub Actions cache-mode for Least-Privilege CI Caching",
-    "desc": "<p>GitHub Actions caching now has a permission boundary of its own.</p>\n\n<p>With <code>cache-mode</code>, a workflow can explicitly decide w",
-    "link": "https://dev.to/ascentinnovate/how-to-use-github-actions-cache-mode-for-least-privilege-ci-caching-1g2o",
+    "title": "Hold Shared Sandbox Work Behind a Promotion Lane",
+    "desc": "<p>Shared free compute is not a merge queue. Agent output on a borrowed server still needs a named owner. A sealed replay kit must exist bef",
+    "link": "https://dev.to/techlab_7968/hold-shared-sandbox-work-behind-a-promotion-lane-21m2",
     "topic": "general"
   },
   {
-    "title": "The SSO Outage Runbook: When Nobody Can Log In (Including You)",
-    "desc": "<p>A DNS outage makes you hard to find. A <strong>single sign-on outage makes you impossible to enter</strong> \u2014 including for you. The stat",
-    "link": "https://dev.to/hive80lab/the-sso-outage-runbook-when-nobody-can-log-in-including-you-1fe4",
+    "title": "Day 0 of a Linux Challenge and the Prompt I Almost Got Wrong",
+    "desc": "<p>I signed up for the Black IT Academy Linux Upskill Challenge. Twenty lessons, one server, a cohort in Slack, and a rule that you keep a p",
+    "link": "https://dev.to/jas_dev/day-0-of-a-linux-challenge-and-the-prompt-i-almost-got-wrong-2m36",
     "topic": "general"
   },
   {
-    "title": "AI fleet inspection: SSH, Telnet, SNMP and RDP in one Termini session",
-    "desc": "<p>Most \"AI terminals\" help you write a command. <a href=\"https://terminiapp.com\" rel=\"noopener noreferrer\">Termini</a> is a Windows workspa",
-    "link": "https://dev.to/freethought_cf29a80a202c0/ai-fleet-inspection-ssh-telnet-snmp-and-rdp-in-one-termini-session-48i6",
+    "title": "Dell Secure Connect Gateway Vulnerability: 3 Critical CVEs Chain Into Root Access",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/xpert4cyber/dell-secure-connect-gateway-vulnerability-3-critical-cves-chain-into-root-access-536f",
+    "topic": "secops"
+  },
+  {
+    "title": "Give the Merge Queue a SHA-Bound Ticket",
+    "desc": "<p>A green job is a boolean. Merge eligibility is a contract. If an agent-authored diff can reach <code>main</code> because <code>unit</code",
+    "link": "https://dev.to/codego_3211/give-the-merge-queue-a-sha-bound-ticket-16cg",
     "topic": "general"
   },
   {
-    "title": "Path-Based Routing with Reverse Proxy: Serving Multiple Websites from One Domain",
-    "desc": "<p>Hey developers \ud83d\udc4b</p>\n\n<p>At some point in our development journey, we\u2019ve all played around with domains, subdomains, routes, reverse prox",
-    "link": "https://dev.to/solitrix02/path-based-routing-with-reverse-proxy-serving-multiple-websites-from-one-domain-3c63",
+    "title": "Migration Diary: Stamp Idempotency Keys on Tools Before You Leave a Paid Agent",
+    "desc": "<p>Paid agent runtimes retry mutating tools after timeouts, dropped streams, and loop restarts, and they often hide those retries from you. ",
+    "link": "https://dev.to/techpy_768/migration-diary-stamp-idempotency-keys-on-tools-before-you-leave-a-paid-agent-1mhg",
     "topic": "general"
   },
   {
-    "title": "Post-Quantum TLS Is a Platform Migration, Not a Crypto Project",
-    "desc": "<p>The least useful question in post-quantum cryptography is \"when does the quantum computer arrive?\"</p>\n\n<p>Nobody in a platform team can ",
-    "link": "https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-2f76",
+    "title": "Mask PII in Grafana Alloy logs without a stage.replace pattern list",
+    "desc": "<p><em>Originally published at <a href=\"https://pii-shield.com/guide-alloy\" rel=\"noopener noreferrer\">pii-shield.com/guide-alloy</a>.</em></",
+    "link": "https://dev.to/aragossa/mask-pii-in-grafana-alloy-logs-without-a-stagereplace-pattern-list-7bf",
     "topic": "general"
   },
   {
-    "title": "Tech debt is a loan: run the amortization table on one screen",
-    "desc": "<p>Tech debt is not a moral failing - it is a loan. Every shortcut you shipped bought speed that day and has been charging interest ever sin",
-    "link": "https://dev.to/hive80lab/tech-debt-is-a-loan-run-the-amortization-table-on-one-screen-4l92",
+    "title": "The measurement in my permanent log was a string literal",
+    "desc": "<p>This line is in a record I cannot edit, because the record is append-only and that is the point of it:<br />\n</p>\n\n<div class=\"highlight ",
+    "link": "https://dev.to/mahirhir/the-measurement-in-my-permanent-log-was-a-string-literal-4gd5",
     "topic": "general"
   },
   {
-    "title": "Least Privilege Is a Policy Until the System Can Say No",
-    "desc": "<h1>\n  \n  \n  Least Privilege Is a Policy Until the System Can Say No\n</h1>\n\n<p>A technician needs to change one DNS record. The ticket is ap",
-    "link": "https://dev.to/david_boggs_adaptive/least-privilege-is-a-policy-until-the-system-can-say-no-311h",
-    "topic": "general"
-  },
-  {
-    "title": "My benchmark harness was wrong fourteen ways before it measured anything",
-    "desc": "<p>I built a harness to measure whether reverse proxies buffer Server-Sent<br />\nEvents. <a href=\"https://dev.to/remdore/nginx-streams-your-",
-    "link": "https://dev.to/remdore/my-benchmark-harness-was-wrong-fourteen-ways-before-it-measured-anything-1o6h",
+    "title": "You Keep Paying for the Same Prompt",
+    "desc": "<p>You do not mainly pay for the next tool call. You pay to recite the conversation that justified it. That is the part most free-lane plans",
+    "link": "https://dev.to/hackrs_3352/you-keep-paying-for-the-same-prompt-2354",
     "topic": "general"
   }
 ]
