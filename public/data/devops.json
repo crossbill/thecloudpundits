@@ -1,50 +1,50 @@
 [
   {
-    "title": "Securing Microservice Endpoints With OAuth2 Bearer Tokens",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<p>To follow this guide and implement OAuth2 bearer tokens in your microservice architecture, you'll ne",
-    "link": "https://dev.to/chasebot/securing-microservice-endpoints-with-oauth2-bearer-tokens-3jbp",
+    "title": "Sync AI Guidance Across Repositories with a Reviewable GitHub Action",
+    "desc": "<p>Teams often standardize how they work with AI coding tools by adding files such as <code>AGENTS.md</code>, <code>CLAUDE.md</code>, Copilo",
+    "link": "https://dev.to/paladini/sync-ai-guidance-across-repositories-with-a-reviewable-github-action-22p",
     "topic": "general"
   },
   {
-    "title": "Deploy New API: The Open-Source LLM Gateway on Cloud Servers Complete Guide",
-    "desc": "<h2>\n  \n  \n  What is New API?\n</h2>\n\n<p>If you are building AI applications today, managing multiple API keys and billing across different p",
-    "link": "https://dev.to/aitokenhub_98/deploy-new-api-the-open-source-llm-gateway-on-cloud-servers-complete-guide-2f03",
+    "title": "Wrapping a Monolith in Docker Isn't Containerization",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> <code>docker build</code> on a monolith and calling it \"containerized\" gets you a portable monolith,",
+    "link": "https://dev.to/sherdilcloud/wrapping-a-monolith-in-docker-isnt-containerization-l82",
+    "topic": "docker"
+  },
+  {
+    "title": "Welcome me!",
+    "desc": "<p>I\u2019m Abdullah, a web developer from Pakistan.</p>\n\n<p>I\u2019ve been reading Dev.to for quite some time, and I finally decided to stop just rea",
+    "link": "https://dev.to/abdullah_tayyab_dev/welcome-me-5dhe",
     "topic": "general"
   },
   {
-    "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
-    "desc": "<p>Bun 1.4 shipped on 20 August as the first stable release built on Bun's new Rust-based core, replacing the Zig runtime layer that shipped",
-    "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
+    "title": "What deserves a page: the bar for waking a human at 2 a.m.",
+    "desc": "<p>A page is the most expensive message in your company: it costs sleep, and sleep is what keeps the next incident fixable. Every alerting s",
+    "link": "https://dev.to/hive80lab/what-deserves-a-page-the-bar-for-waking-a-human-at-2-am-gm2",
     "topic": "general"
   },
   {
-    "title": "Deploy New API Open-Source LLM Gateway on Cloud Servers: A Complete Guide",
-    "desc": "<h2>\n  \n  \n  1. What is New API?\n</h2>\n\n<p>New API, developed by QuantumNous, is an open-source next-generation Large Language Model (LLM) g",
-    "link": "https://dev.to/aitokenhub_98/deploy-new-api-open-source-llm-gateway-on-cloud-servers-a-complete-guide-3geh",
+    "title": "Feature flag cleanup: every flag has an owner and a kill date",
+    "desc": "<p>A feature flag starts as safety and decays into debt. Each one is a second code path that only compiles in your head: a branch nobody rea",
+    "link": "https://dev.to/hive80lab/feature-flag-cleanup-every-flag-has-an-owner-and-a-kill-date-2kfk",
     "topic": "general"
   },
   {
-    "title": "How to Find Exposed API Keys in Your Git Repository (Before an Attacker Does)",
-    "desc": "<h2>\n  \n  \n  Why Git History Is a Credential Graveyard\n</h2>\n\n<p>Developers move fast. A Stripe secret key gets pasted into <code>.env</code",
-    "link": "https://dev.to/maxxthematepng/how-to-find-exposed-api-keys-in-your-git-repository-before-an-attacker-does-3e70",
+    "title": "Maintenance windows: communicate the downtime you chose",
+    "desc": "<p>Planned downtime is the only outage you get to schedule - and the only one customers forgive, if you tell them the truth about it. The fa",
+    "link": "https://dev.to/hive80lab/maintenance-windows-communicate-the-downtime-you-chose-2eee",
+    "topic": "general"
+  },
+  {
+    "title": "Runbooks die in Confluence. Ship them as cards instead.",
+    "desc": "<p>Runbooks don't die because people stop caring. They die because of where they live.</p>\n\n<p>A runbook inside a wiki competes with thousan",
+    "link": "https://dev.to/hive80lab/runbooks-die-in-confluence-ship-them-as-cards-instead-3840",
+    "topic": "general"
+  },
+  {
+    "title": "The 12-field incident severity matrix that survives 3am",
+    "desc": "<p>Your severity matrix is a slide deck until 3am, when it becomes a decision someone makes with their eyes half open. Most small-team matri",
+    "link": "https://dev.to/hive80lab/the-12-field-incident-severity-matrix-that-survives-3am-2plh",
     "topic": "secops"
-  },
-  {
-    "title": "Pressure Measurement Solutions UAE | Genesys UAE",
-    "desc": "<p><strong>Introduction</strong></p>\n\n<p>For dependable, secure, and effective industrial processes, accurate pressure readings are crucial.",
-    "link": "https://dev.to/genesys_seo_239e1eb5b873b/pressure-measurement-solutions-uae-genesys-uae-2nbm",
-    "topic": "general"
-  },
-  {
-    "title": "Why I Ditched Nvidia DGX Cloud: Running AI Workloads on Alibaba and Tencent",
-    "desc": "<p>When Nvidia announced DGX Cloud recently, aiming to offer a flexible way for companies to scale up their AI needs, the starting price of ",
-    "link": "https://dev.to/aitokenhub_98/why-i-ditched-nvidia-dgx-cloud-running-ai-workloads-on-alibaba-and-tencent-34g",
-    "topic": "general"
-  },
-  {
-    "title": "Local LLM Mock Server: Stop Wasting API Credits in Dev",
-    "desc": "<h2>\n  \n  \n  The Hidden Cost of AI Development\n</h2>\n\n<p>In the rush to build the next generation of AI-powered applications, developers are",
-    "link": "https://dev.to/nainikmehta/local-llm-mock-server-stop-wasting-api-credits-in-dev-3afm",
-    "topic": "general"
   }
 ]
