@@ -1,50 +1,50 @@
 [
   {
-    "title": "EC2 Instance Unreachable via SSM Session Manager",
-    "desc": "<h2>\n  \n  \n  Summary\n</h2>\n\n<p>This runbook resolves the situation where an EC2 instance is running and visible in the console but either do",
-    "link": "https://dev.to/rafagross/ec2-instance-unreachable-via-ssm-session-manager-1fe9",
+    "title": "\ud83d\ude80 Stop Selling Event-Driven Architecture. Start Selling Business Outcomes",
+    "desc": "<p>\ud83d\udc4b Hi dev community! I originally published <a href=\"https://www.linkedin.com/pulse/stop-selling-event-driven-architecture-start-business-",
+    "link": "https://dev.to/stephen_tsoi_5b2c4055f3a9/stop-selling-event-driven-architecture-start-selling-business-outcomes-8h3",
     "topic": "general"
   },
   {
-    "title": "Connect Jenkins to GitHub: Deploy Keys, PAT and Webhooks",
-    "desc": "<p>In this tutorial, I will show you step by step how to connect Jenkins to a private GitHub repository with least-privilege credentials \u2014 a",
-    "link": "https://dev.to/dineshstack/connect-jenkins-to-github-deploy-keys-pat-and-webhooks-198f",
+    "title": "support@ vs invoices@: recipient filters per webhook endpoint",
+    "desc": "<p>I'm Sebastian, CTO at <a href=\"https://receivehq.com\" rel=\"noopener noreferrer\">ReceiveHQ</a> (Cortena B.V.). Use-case #3 in our series: ",
+    "link": "https://dev.to/receivehq/support-vs-invoices-recipient-filters-per-webhook-endpoint-57o1",
     "topic": "general"
   },
   {
-    "title": "Ba \u0111\u00e1nh \u0111\u1ed5i m\u1ea1ng khi dev m\u00e1y \u1ea3o v\u1edbi mDNS bridged v\u00e0 Tailscale",
-    "desc": "<p>Nhi\u1ec1u ng\u01b0\u1eddi c\u1eafm \u0111\u1ea7u d\u1ef1ng m\u00e1y \u1ea3o local r\u1ed3i loay hoay g\u00f5 IP th\u1ee7 c\u00f4ng m\u1ed7i l\u1ea7n router c\u1ea5p ph\u00e1t l\u1ea1i \u0111\u1ecba ch\u1ec9. Thi\u1ebft l\u1eadp m\u1ea1ng cho m\u00f4i tr\u01b0\u1eddng dev",
-    "link": "https://dev.to/hung_phatlaptop_a651fc86/ba-danh-doi-mang-khi-dev-may-ao-voi-mdns-bridged-va-tailscale-451",
+    "title": "What to Automate First: the 4-Question Filter for Small Teams",
+    "desc": "<h1>\n  \n  \n  What to Automate First: the 4-Question Filter for Small Teams\n</h1>\n\n<p>The first automation a small team builds is usually the",
+    "link": "https://dev.to/hive80lab/what-to-automate-first-the-4-question-filter-for-small-teams-4nhn",
     "topic": "general"
   },
   {
-    "title": "Sui Public RPC: Endpoint Behavior and When to Upgrade",
-    "desc": "<p>A Sui public RPC endpoint is a shared, unauthenticated JSON-RPC URL that speaks to a Sui fullnode. You point a wallet, script, or indexer",
-    "link": "https://dev.to/onfinality/sui-public-rpc-endpoint-behavior-and-when-to-upgrade-2e5l",
+    "title": "How Developers Can Monitor Production \u2014 and Why It Matters",
+    "desc": "<p>When we write code, it often feels like the main thing is to make it work locally. But reality is different: the <em>real</em> life of a ",
+    "link": "https://dev.to/fattakhov/how-developers-can-monitor-production-and-why-it-matters-9pm",
     "topic": "general"
   },
   {
-    "title": "Polygon Rate Limits: 429 Errors and How to Avoid Them",
-    "desc": "<h2>\n  \n  \n  What a Polygon rate limit actually controls\n</h2>\n\n<p>A Polygon rate limit is a ceiling on how many JSON-RPC requests an endpoi",
-    "link": "https://dev.to/onfinality/polygon-rate-limits-429-errors-and-how-to-avoid-them-4a3b",
+    "title": "How to Bring Order to a Project: A Track Map",
+    "desc": "<p>Every now and then I join a project where \"everything works, but nobody dares to touch it.\" Deployment is done by hand from memory, the a",
+    "link": "https://dev.to/fattakhov/how-to-bring-order-to-a-project-a-track-map-4db2",
     "topic": "general"
   },
   {
-    "title": "Deciding Between Manual DNS Console Edits And A Tenant Subdomain Provisioning Pipeline",
-    "desc": "<p>DNS automation starts paying for itself the moment subdomain creation becomes part of customer onboarding. Below that line, use a documen",
-    "link": "https://dev.to/algernoncross4103/deciding-between-manual-dns-console-edits-and-a-tenant-subdomain-provisioning-pipeline-3oen",
+    "title": "My Cron Job Double-Fired and Placed the Same Order Twice \u2014 Here's My Postmortem",
+    "desc": "<p>I keep a Mac Mini in a closet running a handful of small scheduled Python jobs. One of them scans market data on a schedule and, when its",
+    "link": "https://dev.to/samhartley_dev/my-cron-job-double-fired-and-placed-the-same-order-twice-heres-my-postmortem-5cib",
     "topic": "general"
   },
   {
-    "title": "Alert Fatigue: The Silent Productivity Killer",
-    "desc": "<p>Alert fatigue isn't a wellness issue. It's a production risk. And it's cheaper to fix than most people think.</p>\n\n<h2>\n  \n  \n  The math\n",
-    "link": "https://dev.to/samson_tanimawo/alert-fatigue-the-silent-productivity-killer-2noo",
+    "title": "Latest N Is Not a Time Window",
+    "desc": "<p>A monitoring result can be mathematically correct and operationally false.</p>\n\n<p>That happens when the calculation is given an incomple",
+    "link": "https://dev.to/iqtechsolutions/latest-n-is-not-a-time-window-4ico",
     "topic": "general"
   },
   {
-    "title": "Bootstrap DNS Inventory for Domains That Predate Automation: Safe Node.js Cutover",
-    "desc": "<p>For a property-management admin console, the least complex safe path is a read-only inventory before any provisioning job is allowed to w",
-    "link": "https://dev.to/horatiofox1281/bootstrap-dns-inventory-for-domains-that-predate-automation-safe-nodejs-cutover-31fh",
+    "title": "Dedicated vs Shared vCPU: What the Premium Actually Costs in 2026",
+    "desc": "<p>On Vultr, a dedicated vCPU costs 2.8 times as much as a shared one. Also on Vultr, it costs 12.5% more. Both figures come off the same pr",
+    "link": "https://dev.to/hostingsift/dedicated-vs-shared-vcpu-what-the-premium-actually-costs-in-2026-5cge",
     "topic": "general"
   }
 ]
