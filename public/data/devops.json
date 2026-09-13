@@ -1,50 +1,50 @@
 [
   {
-    "title": "Our own retention policy deleted the version we needed to roll back to",
-    "desc": "<p>Friday, ten past four. A release went out, error rates climbed inside two minutes, and we made the easy decision to roll back. The rollba",
-    "link": "https://dev.to/sergey_shinder_ab2d943365/our-own-retention-policy-deleted-the-version-we-needed-to-roll-back-to-1lil",
+    "title": "Cap the Retry: A Fail-Closed Loop Budget Checklist",
+    "desc": "<p>If an agent can retry a write, three numbers must live in the repo before you merge: a hard iteration cap, a wall-clock cap, and a side-e",
+    "link": "https://dev.to/codecpp_5026/cap-the-retry-a-fail-closed-loop-budget-checklist-3k1o",
     "topic": "general"
   },
   {
-    "title": "Spend Ceilings for Standby API Keys \u2014 Incident Continuity Without Runaway Cost",
-    "desc": "<p>The constraint that shapes this design isn't cryptographic, it's financial: a spare API credential you create in advance will sit dormant",
-    "link": "https://dev.to/starspiregavren48/spend-ceilings-for-standby-api-keys-incident-continuity-without-runaway-cost-1n4e",
+    "title": "AI Sandbox Networking Compared: Tensorlake vs E2B vs Daytona vs Fly.io",
+    "desc": "<p>How four sandbox platforms route ingress traffic, and where L4 vs L7 changes the architecture</p>\n\n\n\n\n<p>Every sandbox platform for AI ag",
+    "link": "https://dev.to/divy_ai/ai-sandbox-networking-compared-tensorlake-vs-e2b-vs-daytona-vs-flyio-2bhd",
+    "topic": "general"
+  },
+  {
+    "title": "[Lab Notes] Kubernetes the Hard Way, For Real This Time (Step 04)",
+    "desc": "<p>Continuing my <a href=\"https://github.com/kelseyhightower/kubernetes-the-hard-way\" rel=\"noopener noreferrer\">Kubernetes the Hard Way</a> ",
+    "link": "https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-04-3cc0",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Reproduce the Pager on a Scratch Box Before You Unfreeze Prod",
+    "desc": "<p>I freeze production writes the moment the pager fires, and I keep that freeze until a scratch box reproduces the same alert fingerprint. ",
+    "link": "https://dev.to/appcpp_9071/reproduce-the-pager-on-a-scratch-box-before-you-unfreeze-prod-2pp2",
+    "topic": "general"
+  },
+  {
+    "title": "A Guide to Prepaid API Balances \u2014 4 Provisioning Checks for Default Payment Methods",
+    "desc": "<p>Pick the default payment method while you are still provisioning the account, and read the auto-recharge configuration back before you ma",
+    "link": "https://dev.to/jedidiahrhodes8293/a-guide-to-prepaid-api-balances-4-provisioning-checks-for-default-payment-methods-4k8k",
+    "topic": "general"
+  },
+  {
+    "title": "Agent Scratchpads Fail Closed: A When-Not-To Field Guide",
+    "desc": "<p>A staging agent wrote its memory file at 02:14. The file lived on a complimentary shared host. The next prompt replayed a stale database ",
+    "link": "https://dev.to/hackjs_8688/agent-scratchpads-fail-closed-a-when-not-to-field-guide-4o5k",
+    "topic": "general"
+  },
+  {
+    "title": "A stale hash failed 29 of 59 tests. The tool that refreshes hashes had never seen that copy.",
+    "desc": "<p>The project keeps derived claims from rotting with freshness pins. A pin is a row that cites another file and records the hash of the byt",
+    "link": "https://dev.to/mahirhir/a-stale-hash-failed-29-of-59-tests-the-tool-that-refreshes-hashes-had-never-seen-that-copy-3ie3",
+    "topic": "general"
+  },
+  {
+    "title": "Leaked API Key Blast Radius Explained for Property Management Incident Response",
+    "desc": "<p>The page arrives at 02:14 as a spend anomaly on the maintenance work-order service, and what the on-call engineer actually sees is a sing",
+    "link": "https://dev.to/valtormist7692/leaked-api-key-blast-radius-explained-for-property-management-incident-response-1pb0",
     "topic": "secops"
-  },
-  {
-    "title": "Google Is Changing: Is Your Business Ready for AI Search?",
-    "desc": "<p>For twenty-plus years, ranking on Google meant one thing: get a blue link on page one. That game is being rewritten in real time \u2014 and mo",
-    "link": "https://dev.to/nasim_sayed5656/google-is-changing-is-your-business-ready-for-ai-search-7dp",
-    "topic": "general"
-  },
-  {
-    "title": "AI Inference & Hardware Economics: 2026 Statistics & TCO Index",
-    "desc": "<blockquote>\n<p><strong>Original Investigation</strong>: This benchmark report was originally published with interactive calculators, empiri",
-    "link": "https://dev.to/abhishek_raajmishra_b2f2/ai-inference-hardware-economics-2026-statistics-tco-index-3idj",
-    "topic": "general"
-  },
-  {
-    "title": "An Auditor Asked Who Approved a Change Our Pipeline Made",
-    "desc": "<p>Internal audit took a sample of twenty production changes from a three month period and asked us to produce the approval record for each.",
-    "link": "https://dev.to/serguey_shinder_4ab9b87b1/an-auditor-asked-who-approved-a-change-our-pipeline-made-2a76",
-    "topic": "general"
-  },
-  {
-    "title": "My registry accepted a duplicate ID, and the wrong thing failed three steps later",
-    "desc": "<p>A register of in-flight work assigns each unit an ID. One writer mints them, they are unique, and everything downstream keys off that. Th",
-    "link": "https://dev.to/mahirhir/my-registry-accepted-a-duplicate-id-and-the-wrong-thing-failed-three-steps-later-5538",
-    "topic": "general"
-  },
-  {
-    "title": "When Two Different Worlds Meet: Colibri and PK555 Game",
-    "desc": "<p>When it comes to two completely different things like Colibri and <a href=\"http://pk555app.com.pk/\" rel=\"noopener noreferrer\">PK555 Game<",
-    "link": "https://dev.to/jimi_oftan/when-two-different-worlds-meet-colibri-and-pk555-game-26oo",
-    "topic": "general"
-  },
-  {
-    "title": "An environment was two settings that had to agree",
-    "desc": "<p>At 10:20 on a Wednesday we resized a production database down to two vCPUs. The pull request was a staging change. The plan attached to i",
-    "link": "https://dev.to/sergey_shinder_ab2d943365/an-environment-was-two-settings-that-had-to-agree-50j8",
-    "topic": "general"
   }
 ]
