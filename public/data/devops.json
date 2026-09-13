@@ -1,50 +1,50 @@
 [
   {
-    "title": "AWS & SRE Field Manual (Part 9): SRE Framework \u2014 SLI, SLO, SLA & Error Budget Engineering",
-    "desc": "<h2>\n  \n  \n  1. TL;DR & Problem Statement\n</h2>\n\n<ul>\n<li>\n<strong>Definition:</strong> A foundational Site Reliability Engineering (SRE) fr",
-    "link": "https://dev.to/enesguler/aws-sre-field-manual-part-9-sre-framework-sli-slo-sla-error-budget-engineering-318e",
-    "topic": "aws"
-  },
-  {
-    "title": "My release smoke test passed on the message that says it failed",
-    "desc": "<p>The last step of my release pipeline installs the package I just published, on Linux, Windows and macOS, and confirms it reports the vers",
-    "link": "https://dev.to/efe_genc/my-release-smoke-test-passed-on-the-message-that-says-it-failed-1lh0",
+    "title": "Our own retention policy deleted the version we needed to roll back to",
+    "desc": "<p>Friday, ten past four. A release went out, error rates climbed inside two minutes, and we made the easy decision to roll back. The rollba",
+    "link": "https://dev.to/sergey_shinder_ab2d943365/our-own-retention-policy-deleted-the-version-we-needed-to-roll-back-to-1lil",
     "topic": "general"
   },
   {
-    "title": "Shadow AI in Your Codebase: The Governance Gap Most CISOs Haven't Mapped Yet",
-    "desc": "<p>Your AI code policy covers approved tools. The harder question is whether every change faces the same evidence-backed review, regardless ",
-    "link": "https://dev.to/manos-saratsis/shadow-ai-in-your-codebase-the-governance-gap-most-cisos-havent-mapped-yet-eo9",
-    "topic": "general"
-  },
-  {
-    "title": "Why a six-digit code is safe: entropy, attempts and the pepper",
-    "desc": "<p>A six-digit numeric code carries 19.93 bits of entropy, a number no password policy would accept. It is still the correct primitive for p",
-    "link": "https://dev.to/shipmindlabs/why-a-six-digit-code-is-safe-entropy-attempts-and-the-pepper-4a1k",
-    "topic": "general"
-  },
-  {
-    "title": "App Bjj Rounds: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(agents): refresh",
-    "link": "https://dev.to/igorganapolsky/app-bjj-rounds-what-we-learned-building-random-tactical-timer-19pk",
-    "topic": "general"
-  },
-  {
-    "title": "Incident Retrospectives Without Blame",
-    "desc": "<p>I've run over 100 post-mortems. The worst ones end with 'Alice will be more careful.' The best ones end with 'we fixed the system.' Here'",
-    "link": "https://dev.to/samson_tanimawo/incident-retrospectives-without-blame-2a6d",
+    "title": "Spend Ceilings for Standby API Keys \u2014 Incident Continuity Without Runaway Cost",
+    "desc": "<p>The constraint that shapes this design isn't cryptographic, it's financial: a spare API credential you create in advance will sit dormant",
+    "link": "https://dev.to/starspiregavren48/spend-ceilings-for-standby-api-keys-incident-continuity-without-runaway-cost-1n4e",
     "topic": "secops"
   },
   {
-    "title": "Build a Route Rollback Manifest for AI API Gateways",
-    "desc": "<h1>\n  \n  \n  Build a Route Rollback Manifest for AI API Gateways\n</h1>\n\n<p>Model routing usually gets attention when a team wants to add a n",
-    "link": "https://dev.to/aiwave/build-a-route-rollback-manifest-for-ai-api-gateways-4hm3",
+    "title": "Google Is Changing: Is Your Business Ready for AI Search?",
+    "desc": "<p>For twenty-plus years, ranking on Google meant one thing: get a blue link on page one. That game is being rewritten in real time \u2014 and mo",
+    "link": "https://dev.to/nasim_sayed5656/google-is-changing-is-your-business-ready-for-ai-search-7dp",
     "topic": "general"
   },
   {
-    "title": "The Agent Harness as Infrastructure: Least-Privilege, Guardrails, and Blast Radius",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-07-20-agent-harness-as-infrastructure\" rel=\"noope",
-    "link": "https://dev.to/devtocash/the-agent-harness-as-infrastructure-least-privilege-guardrails-and-blast-radius-19f2",
-    "topic": "guardrails"
+    "title": "AI Inference & Hardware Economics: 2026 Statistics & TCO Index",
+    "desc": "<blockquote>\n<p><strong>Original Investigation</strong>: This benchmark report was originally published with interactive calculators, empiri",
+    "link": "https://dev.to/abhishek_raajmishra_b2f2/ai-inference-hardware-economics-2026-statistics-tco-index-3idj",
+    "topic": "general"
+  },
+  {
+    "title": "An Auditor Asked Who Approved a Change Our Pipeline Made",
+    "desc": "<p>Internal audit took a sample of twenty production changes from a three month period and asked us to produce the approval record for each.",
+    "link": "https://dev.to/serguey_shinder_4ab9b87b1/an-auditor-asked-who-approved-a-change-our-pipeline-made-2a76",
+    "topic": "general"
+  },
+  {
+    "title": "My registry accepted a duplicate ID, and the wrong thing failed three steps later",
+    "desc": "<p>A register of in-flight work assigns each unit an ID. One writer mints them, they are unique, and everything downstream keys off that. Th",
+    "link": "https://dev.to/mahirhir/my-registry-accepted-a-duplicate-id-and-the-wrong-thing-failed-three-steps-later-5538",
+    "topic": "general"
+  },
+  {
+    "title": "When Two Different Worlds Meet: Colibri and PK555 Game",
+    "desc": "<p>When it comes to two completely different things like Colibri and <a href=\"http://pk555app.com.pk/\" rel=\"noopener noreferrer\">PK555 Game<",
+    "link": "https://dev.to/jimi_oftan/when-two-different-worlds-meet-colibri-and-pk555-game-26oo",
+    "topic": "general"
+  },
+  {
+    "title": "An environment was two settings that had to agree",
+    "desc": "<p>At 10:20 on a Wednesday we resized a production database down to two vCPUs. The pull request was a staging change. The plan attached to i",
+    "link": "https://dev.to/sergey_shinder_ab2d943365/an-environment-was-two-settings-that-had-to-agree-50j8",
+    "topic": "general"
   }
 ]
