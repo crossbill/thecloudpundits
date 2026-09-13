@@ -1,50 +1,50 @@
 [
   {
-    "title": "Cap the Retry: A Fail-Closed Loop Budget Checklist",
-    "desc": "<p>If an agent can retry a write, three numbers must live in the repo before you merge: a hard iteration cap, a wall-clock cap, and a side-e",
-    "link": "https://dev.to/codecpp_5026/cap-the-retry-a-fail-closed-loop-budget-checklist-3k1o",
+    "title": "30 Tenant Domains, One Key Inventory \u2014 Quarterly Access Reviews for 2026 Auditors",
+    "desc": "<p>Pick the boring path: a scheduled job that reads the live key inventory over the API, renders it into a dated report, and files that repo",
+    "link": "https://dev.to/apexz69/30-tenant-domains-one-key-inventory-quarterly-access-reviews-for-2026-auditors-1m8h",
     "topic": "general"
   },
   {
-    "title": "AI Sandbox Networking Compared: Tensorlake vs E2B vs Daytona vs Fly.io",
-    "desc": "<p>How four sandbox platforms route ingress traffic, and where L4 vs L7 changes the architecture</p>\n\n\n\n\n<p>Every sandbox platform for AI ag",
-    "link": "https://dev.to/divy_ai/ai-sandbox-networking-compared-tensorlake-vs-e2b-vs-daytona-vs-flyio-2bhd",
+    "title": "Compile Error-Code Catalogs From Source Enums; Keep Workaround Copy Human-Owned",
+    "desc": "<p>Generated error catalogs should come from the same enums the service returns, not from a chat transcript. Models may draft compact techni",
+    "link": "https://dev.to/github_7727/compile-error-code-catalogs-from-source-enums-keep-workaround-copy-human-owned-1lo9",
     "topic": "general"
   },
   {
-    "title": "[Lab Notes] Kubernetes the Hard Way, For Real This Time (Step 04)",
-    "desc": "<p>Continuing my <a href=\"https://github.com/kelseyhightower/kubernetes-the-hard-way\" rel=\"noopener noreferrer\">Kubernetes the Hard Way</a> ",
-    "link": "https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-04-3cc0",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Reproduce the Pager on a Scratch Box Before You Unfreeze Prod",
-    "desc": "<p>I freeze production writes the moment the pager fires, and I keep that freeze until a scratch box reproduces the same alert fingerprint. ",
-    "link": "https://dev.to/appcpp_9071/reproduce-the-pager-on-a-scratch-box-before-you-unfreeze-prod-2pp2",
-    "topic": "general"
-  },
-  {
-    "title": "A Guide to Prepaid API Balances \u2014 4 Provisioning Checks for Default Payment Methods",
-    "desc": "<p>Pick the default payment method while you are still provisioning the account, and read the auto-recharge configuration back before you ma",
-    "link": "https://dev.to/jedidiahrhodes8293/a-guide-to-prepaid-api-balances-4-provisioning-checks-for-default-payment-methods-4k8k",
-    "topic": "general"
-  },
-  {
-    "title": "Agent Scratchpads Fail Closed: A When-Not-To Field Guide",
-    "desc": "<p>A staging agent wrote its memory file at 02:14. The file lived on a complimentary shared host. The next prompt replayed a stale database ",
-    "link": "https://dev.to/hackjs_8688/agent-scratchpads-fail-closed-a-when-not-to-field-guide-4o5k",
-    "topic": "general"
-  },
-  {
-    "title": "A stale hash failed 29 of 59 tests. The tool that refreshes hashes had never seen that copy.",
-    "desc": "<p>The project keeps derived claims from rotting with freshness pins. A pin is a row that cites another file and records the hash of the byt",
-    "link": "https://dev.to/mahirhir/a-stale-hash-failed-29-of-59-tests-the-tool-that-refreshes-hashes-had-never-seen-that-copy-3ie3",
-    "topic": "general"
-  },
-  {
-    "title": "Leaked API Key Blast Radius Explained for Property Management Incident Response",
-    "desc": "<p>The page arrives at 02:14 as a spend anomaly on the maintenance work-order service, and what the on-call engineer actually sees is a sing",
-    "link": "https://dev.to/valtormist7692/leaked-api-key-blast-radius-explained-for-property-management-incident-response-1pb0",
+    "title": "Create the Spare API Key Before the Incident (and Rehearse the Failover)",
+    "desc": "<p>Create the spare API credential on a boring Tuesday, scope it to the handful of calls your recovery path actually makes, then leave it al",
+    "link": "https://dev.to/falgrim78/create-the-spare-api-key-before-the-incident-and-rehearse-the-failover-13jo",
     "topic": "secops"
+  },
+  {
+    "title": "AI Is Already Better at Operations Than Most Ops Managers. Here's Proof.",
+    "desc": "<h1>\n  \n  \n  AI Is Already Better at Operations Than Most Ops Managers. Here's Proof.\n</h1>\n\n<p>A controversial take hit the front page rece",
+    "link": "https://dev.to/hive80lab/ai-is-already-better-at-operations-than-most-ops-managers-heres-proof-12p5",
+    "topic": "general"
+  },
+  {
+    "title": "The $19 Tool That Replaced My Entire DevOps Pipeline (And Why I'm Not Going Back)",
+    "desc": "<h1>\n  \n  \n  The $19 Tool That Replaced My Entire DevOps Pipeline (And Why I'm Not Going Back)\n</h1>\n\n<p>I used to think DevOps required a $",
+    "link": "https://dev.to/hive80lab/the-19-tool-that-replaced-my-entire-devops-pipeline-and-why-im-not-going-back-4pha",
+    "topic": "general"
+  },
+  {
+    "title": "Leaked API Key Drill: Pass-Fail Criteria for Blast Radius and Spend Ceiling",
+    "desc": "<p>Two numbers fight each other during a credential incident on a student-facing edtech platform: the spend ceiling that keeps a leaked API ",
+    "link": "https://dev.to/yukikobayashi880/leaked-api-key-drill-pass-fail-criteria-for-blast-radius-and-spend-ceiling-4flm",
+    "topic": "general"
+  },
+  {
+    "title": "Compile Config Key Tables From a Frozen Schema; Sign Secret and Default-Safety Copy",
+    "desc": "<p>Configuration documentation fails when a generated key table and human safety copy share one file without a merge contract. A model can i",
+    "link": "https://dev.to/github_7727/compile-config-key-tables-from-a-frozen-schema-sign-secret-and-default-safety-copy-466n",
+    "topic": "general"
+  },
+  {
+    "title": "Staff an Airlock for Free Agent Compute",
+    "desc": "<p>Free agent compute belongs inside a rehearsal airlock. It must never act as a second production path. Teams that skip the airlock mix sec",
+    "link": "https://dev.to/techlab_7968/staff-an-airlock-for-free-agent-compute-3ipc",
+    "topic": "general"
   }
 ]
