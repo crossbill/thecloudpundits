@@ -1,50 +1,50 @@
 [
   {
-    "title": "\ud83d\ude80 Stop Selling Event-Driven Architecture. Start Selling Business Outcomes",
-    "desc": "<p>\ud83d\udc4b Hi dev community! I originally published <a href=\"https://www.linkedin.com/pulse/stop-selling-event-driven-architecture-start-business-",
-    "link": "https://dev.to/stephen_tsoi_5b2c4055f3a9/stop-selling-event-driven-architecture-start-selling-business-outcomes-8h3",
+    "title": "AWS & SRE Field Manual (Part 9): SRE Framework \u2014 SLI, SLO, SLA & Error Budget Engineering",
+    "desc": "<h2>\n  \n  \n  1. TL;DR & Problem Statement\n</h2>\n\n<ul>\n<li>\n<strong>Definition:</strong> A foundational Site Reliability Engineering (SRE) fr",
+    "link": "https://dev.to/enesguler/aws-sre-field-manual-part-9-sre-framework-sli-slo-sla-error-budget-engineering-318e",
+    "topic": "aws"
+  },
+  {
+    "title": "My release smoke test passed on the message that says it failed",
+    "desc": "<p>The last step of my release pipeline installs the package I just published, on Linux, Windows and macOS, and confirms it reports the vers",
+    "link": "https://dev.to/efe_genc/my-release-smoke-test-passed-on-the-message-that-says-it-failed-1lh0",
     "topic": "general"
   },
   {
-    "title": "support@ vs invoices@: recipient filters per webhook endpoint",
-    "desc": "<p>I'm Sebastian, CTO at <a href=\"https://receivehq.com\" rel=\"noopener noreferrer\">ReceiveHQ</a> (Cortena B.V.). Use-case #3 in our series: ",
-    "link": "https://dev.to/receivehq/support-vs-invoices-recipient-filters-per-webhook-endpoint-57o1",
+    "title": "Shadow AI in Your Codebase: The Governance Gap Most CISOs Haven't Mapped Yet",
+    "desc": "<p>Your AI code policy covers approved tools. The harder question is whether every change faces the same evidence-backed review, regardless ",
+    "link": "https://dev.to/manos-saratsis/shadow-ai-in-your-codebase-the-governance-gap-most-cisos-havent-mapped-yet-eo9",
     "topic": "general"
   },
   {
-    "title": "What to Automate First: the 4-Question Filter for Small Teams",
-    "desc": "<h1>\n  \n  \n  What to Automate First: the 4-Question Filter for Small Teams\n</h1>\n\n<p>The first automation a small team builds is usually the",
-    "link": "https://dev.to/hive80lab/what-to-automate-first-the-4-question-filter-for-small-teams-4nhn",
+    "title": "Why a six-digit code is safe: entropy, attempts and the pepper",
+    "desc": "<p>A six-digit numeric code carries 19.93 bits of entropy, a number no password policy would accept. It is still the correct primitive for p",
+    "link": "https://dev.to/shipmindlabs/why-a-six-digit-code-is-safe-entropy-attempts-and-the-pepper-4a1k",
     "topic": "general"
   },
   {
-    "title": "How Developers Can Monitor Production \u2014 and Why It Matters",
-    "desc": "<p>When we write code, it often feels like the main thing is to make it work locally. But reality is different: the <em>real</em> life of a ",
-    "link": "https://dev.to/fattakhov/how-developers-can-monitor-production-and-why-it-matters-9pm",
+    "title": "App Bjj Rounds: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(agents): refresh",
+    "link": "https://dev.to/igorganapolsky/app-bjj-rounds-what-we-learned-building-random-tactical-timer-19pk",
     "topic": "general"
   },
   {
-    "title": "How to Bring Order to a Project: A Track Map",
-    "desc": "<p>Every now and then I join a project where \"everything works, but nobody dares to touch it.\" Deployment is done by hand from memory, the a",
-    "link": "https://dev.to/fattakhov/how-to-bring-order-to-a-project-a-track-map-4db2",
+    "title": "Incident Retrospectives Without Blame",
+    "desc": "<p>I've run over 100 post-mortems. The worst ones end with 'Alice will be more careful.' The best ones end with 'we fixed the system.' Here'",
+    "link": "https://dev.to/samson_tanimawo/incident-retrospectives-without-blame-2a6d",
+    "topic": "secops"
+  },
+  {
+    "title": "Build a Route Rollback Manifest for AI API Gateways",
+    "desc": "<h1>\n  \n  \n  Build a Route Rollback Manifest for AI API Gateways\n</h1>\n\n<p>Model routing usually gets attention when a team wants to add a n",
+    "link": "https://dev.to/aiwave/build-a-route-rollback-manifest-for-ai-api-gateways-4hm3",
     "topic": "general"
   },
   {
-    "title": "My Cron Job Double-Fired and Placed the Same Order Twice \u2014 Here's My Postmortem",
-    "desc": "<p>I keep a Mac Mini in a closet running a handful of small scheduled Python jobs. One of them scans market data on a schedule and, when its",
-    "link": "https://dev.to/samhartley_dev/my-cron-job-double-fired-and-placed-the-same-order-twice-heres-my-postmortem-5cib",
-    "topic": "general"
-  },
-  {
-    "title": "Latest N Is Not a Time Window",
-    "desc": "<p>A monitoring result can be mathematically correct and operationally false.</p>\n\n<p>That happens when the calculation is given an incomple",
-    "link": "https://dev.to/iqtechsolutions/latest-n-is-not-a-time-window-4ico",
-    "topic": "general"
-  },
-  {
-    "title": "Dedicated vs Shared vCPU: What the Premium Actually Costs in 2026",
-    "desc": "<p>On Vultr, a dedicated vCPU costs 2.8 times as much as a shared one. Also on Vultr, it costs 12.5% more. Both figures come off the same pr",
-    "link": "https://dev.to/hostingsift/dedicated-vs-shared-vcpu-what-the-premium-actually-costs-in-2026-5cge",
-    "topic": "general"
+    "title": "The Agent Harness as Infrastructure: Least-Privilege, Guardrails, and Blast Radius",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-07-20-agent-harness-as-infrastructure\" rel=\"noope",
+    "link": "https://dev.to/devtocash/the-agent-harness-as-infrastructure-least-privilege-guardrails-and-blast-radius-19f2",
+    "topic": "guardrails"
   }
 ]
