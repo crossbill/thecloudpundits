@@ -1,50 +1,50 @@
 [
   {
-    "title": "Scaling My Indie SaaS to 100k Users on Cheap Alibaba and Tencent Servers",
-    "desc": "<p>When my indie SaaS hit 100,000 active users last year, my friends expected me to be celebrating. Instead, I was staring at a projected $8",
-    "link": "https://dev.to/aitokenhub_98/scaling-my-indie-saas-to-100k-users-on-cheap-alibaba-and-tencent-servers-3fmk",
+    "title": "EC2 Instance Unreachable via SSM Session Manager",
+    "desc": "<h2>\n  \n  \n  Summary\n</h2>\n\n<p>This runbook resolves the situation where an EC2 instance is running and visible in the console but either do",
+    "link": "https://dev.to/rafagross/ec2-instance-unreachable-via-ssm-session-manager-1fe9",
     "topic": "general"
   },
   {
-    "title": "Solving GPT-6 Astra EU Limits: How I Built Global AI Apps on Alibaba Cloud",
-    "desc": "<p>As a developer building AI-powered web applications, I\u2019ve hit a massive wall recently. If you are based in Europe, you have probably felt",
-    "link": "https://dev.to/aitokenhub_98/solving-gpt-6-astra-eu-limits-how-i-built-global-ai-apps-on-alibaba-cloud-6e2",
+    "title": "Connect Jenkins to GitHub: Deploy Keys, PAT and Webhooks",
+    "desc": "<p>In this tutorial, I will show you step by step how to connect Jenkins to a private GitHub repository with least-privilege credentials \u2014 a",
+    "link": "https://dev.to/dineshstack/connect-jenkins-to-github-deploy-keys-pat-and-webhooks-198f",
     "topic": "general"
   },
   {
-    "title": "Deploying DeepSeek V4.1 Flash Locally on Tencent Cloud to Avoid API Price Hikes",
-    "desc": "<p>I\u2019ve been experimenting a lot with the latest models, and the recent release really caught my eye. As the official announcement states: I",
-    "link": "https://dev.to/aitokenhub_98/deploying-deepseek-v41-flash-locally-on-tencent-cloud-to-avoid-api-price-hikes-2a2k",
+    "title": "Ba \u0111\u00e1nh \u0111\u1ed5i m\u1ea1ng khi dev m\u00e1y \u1ea3o v\u1edbi mDNS bridged v\u00e0 Tailscale",
+    "desc": "<p>Nhi\u1ec1u ng\u01b0\u1eddi c\u1eafm \u0111\u1ea7u d\u1ef1ng m\u00e1y \u1ea3o local r\u1ed3i loay hoay g\u00f5 IP th\u1ee7 c\u00f4ng m\u1ed7i l\u1ea7n router c\u1ea5p ph\u00e1t l\u1ea1i \u0111\u1ecba ch\u1ec9. Thi\u1ebft l\u1eadp m\u1ea1ng cho m\u00f4i tr\u01b0\u1eddng dev",
+    "link": "https://dev.to/hung_phatlaptop_a651fc86/ba-danh-doi-mang-khi-dev-may-ao-voi-mdns-bridged-va-tailscale-451",
     "topic": "general"
   },
   {
-    "title": "From Leaked Prompts to Enterprise Skill Governance: What Today's GitHub Trending Tells Us",
-    "desc": "<p>Today's GitHub Trending list tells a fascinating story about the state of AI agent skills. Three repositories, each approaching the same ",
-    "link": "https://dev.to/fenju_fu/from-leaked-prompts-to-enterprise-skill-governance-what-todays-github-trending-tells-us-5c8k",
+    "title": "Sui Public RPC: Endpoint Behavior and When to Upgrade",
+    "desc": "<p>A Sui public RPC endpoint is a shared, unauthenticated JSON-RPC URL that speaks to a Sui fullnode. You point a wallet, script, or indexer",
+    "link": "https://dev.to/onfinality/sui-public-rpc-endpoint-behavior-and-when-to-upgrade-2e5l",
     "topic": "general"
   },
   {
-    "title": "How I get Slack alerts when a webpage changes",
-    "desc": "<p>You already live in Slack. The problem is the webpage that decides your quote, your vendor risk, or your competitor move still lives in a",
-    "link": "https://dev.to/evangelist67/how-i-get-slack-alerts-when-a-webpage-changes-4g2e",
+    "title": "Polygon Rate Limits: 429 Errors and How to Avoid Them",
+    "desc": "<h2>\n  \n  \n  What a Polygon rate limit actually controls\n</h2>\n\n<p>A Polygon rate limit is a ceiling on how many JSON-RPC requests an endpoi",
+    "link": "https://dev.to/onfinality/polygon-rate-limits-429-errors-and-how-to-avoid-them-4a3b",
     "topic": "general"
   },
   {
-    "title": "Zero downtime API key rotation under a hard spend ceiling and two alert thresholds",
-    "desc": "<p>A small team should use all three controls, just not as a menu to pick from: threshold alerts tell you the shape of your spend, a schedul",
-    "link": "https://dev.to/yatesholloway6872/zero-downtime-api-key-rotation-under-a-hard-spend-ceiling-and-two-alert-thresholds-329c",
+    "title": "Deciding Between Manual DNS Console Edits And A Tenant Subdomain Provisioning Pipeline",
+    "desc": "<p>DNS automation starts paying for itself the moment subdomain creation becomes part of customer onboarding. Below that line, use a documen",
+    "link": "https://dev.to/algernoncross4103/deciding-between-manual-dns-console-edits-and-a-tenant-subdomain-provisioning-pipeline-3oen",
     "topic": "general"
   },
   {
-    "title": "Nobody wants to import your library",
-    "desc": "<p>I wrote a Python library. Then I watched people not use it.</p>\n\n<p>Not because they disagreed with it \u2014 the thesis landed fine. The prob",
-    "link": "https://dev.to/ashish_sinha_5241c7673d93/nobody-wants-to-import-your-library-1bbn",
+    "title": "Alert Fatigue: The Silent Productivity Killer",
+    "desc": "<p>Alert fatigue isn't a wellness issue. It's a production risk. And it's cheaper to fix than most people think.</p>\n\n<h2>\n  \n  \n  The math\n",
+    "link": "https://dev.to/samson_tanimawo/alert-fatigue-the-silent-productivity-killer-2noo",
     "topic": "general"
   },
   {
-    "title": "Node.js Gateway Recovery \u2014 Testing Capability Pins, Vendor Exclusions, and Data Residency",
-    "desc": "<p>Short answer: Leave provider routing on its default until an explicit data-residency rule or a measured quality gap gives you a reason to",
-    "link": "https://dev.to/trippdonovan5461/nodejs-gateway-recovery-testing-capability-pins-vendor-exclusions-and-data-residency-lfm",
+    "title": "Bootstrap DNS Inventory for Domains That Predate Automation: Safe Node.js Cutover",
+    "desc": "<p>For a property-management admin console, the least complex safe path is a read-only inventory before any provisioning job is allowed to w",
+    "link": "https://dev.to/horatiofox1281/bootstrap-dns-inventory-for-domains-that-predate-automation-safe-nodejs-cutover-31fh",
     "topic": "general"
   }
 ]
