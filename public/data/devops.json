@@ -1,50 +1,50 @@
 [
   {
-    "title": "30 Tenant Domains, One Key Inventory \u2014 Quarterly Access Reviews for 2026 Auditors",
-    "desc": "<p>Pick the boring path: a scheduled job that reads the live key inventory over the API, renders it into a dated report, and files that repo",
-    "link": "https://dev.to/apexz69/30-tenant-domains-one-key-inventory-quarterly-access-reviews-for-2026-auditors-1m8h",
+    "title": "C\u00e1ch vi\u1ebft Dockerfile an to\u00e0n h\u01a1n",
+    "desc": "<p>Nhi\u1ec1u Dockerfile m\u00ecnh review c\u00f3 l\u1ed7i b\u1ea3o m\u1eadt c\u01a1 b\u1ea3n. \u0110\u00e2y l\u00e0 checklist m\u00ecnh d\u00f9ng.</p>\n\n<h2>\n  \n  \n  1. Kh\u00f4ng ch\u1ea1y root\n</h2>\n\n\n\n<div class=",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/cach-viet-dockerfile-an-toan-hon-59h4",
+    "topic": "docker"
+  },
+  {
+    "title": "A Measurement That Never Ran Became a Verdict: A Second Automated Chrome Answered for the First",
+    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/a-measurement-that-never-ran-became-a-verdict.html\" rel=\"noopener ",
+    "link": "https://dev.to/hexisteme/a-measurement-that-never-ran-became-a-verdict-a-second-automated-chrome-answered-for-the-first-ebb",
     "topic": "general"
   },
   {
-    "title": "Compile Error-Code Catalogs From Source Enums; Keep Workaround Copy Human-Owned",
-    "desc": "<p>Generated error catalogs should come from the same enums the service returns, not from a chat transcript. Models may draft compact techni",
-    "link": "https://dev.to/github_7727/compile-error-code-catalogs-from-source-enums-keep-workaround-copy-human-owned-1lo9",
+    "title": "Why Floating-Point Math Is Dangerous for Pricing Systems (And What to Use Instead)",
+    "desc": "<p>Per Modern Treasury's own explanation of why floats fail for currency, IEEE-754 floating-point numbers represent values in binary \u2014 power",
+    "link": "https://dev.to/sikah_sebastien_5fd897083/why-floating-point-math-is-dangerous-for-pricing-systems-and-what-to-use-instead-440o",
     "topic": "general"
   },
   {
-    "title": "Create the Spare API Key Before the Incident (and Rehearse the Failover)",
-    "desc": "<p>Create the spare API credential on a boring Tuesday, scope it to the handful of calls your recovery path actually makes, then leave it al",
-    "link": "https://dev.to/falgrim78/create-the-spare-api-key-before-the-incident-and-rehearse-the-failover-13jo",
+    "title": "Harden & Lockdown RKE2 Cluster with a 4-Layer DevSecOps Stack",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Before you move furniture into a new house, you install the locks, the cameras, and the gates. Kubernete",
+    "link": "https://dev.to/ezejioforog/harden-lockdown-rke2-cluster-with-a-4-layer-devsecops-stack-iop",
+    "topic": "general"
+  },
+  {
+    "title": "The 5 Worst Dev.to Ops Mistakes and How to Fix Them (2026-09-19-B)",
+    "desc": "<h1>\n  \n  \n  The 5 Worst Dev.to Ops Mistakes and How to Fix Them\n</h1>\n\n<p>You're writing on Dev.to. Your audience is largely developers, sy",
+    "link": "https://dev.to/hive80lab/the-5-worst-devto-ops-mistakes-and-how-to-fix-them-2026-09-19-b-5mn",
+    "topic": "general"
+  },
+  {
+    "title": "When Automation Becomes Liability: Reducing Risk in Ops Systems (2026-09-19-A)",
+    "desc": "<h1>\n  \n  \n  When Automation Becomes Liability: Reducing Risk in Ops Systems\n</h1>\n\n<p>Automation is supposed to reduce risk \u2014 but it can in",
+    "link": "https://dev.to/hive80lab/when-automation-becomes-liability-reducing-risk-in-ops-systems-2026-09-19-a-2i07",
+    "topic": "general"
+  },
+  {
+    "title": "Offboard a Game Tenant in Go: Revoke Key, Delete User, Verify (and Rerun Safely)",
+    "desc": "<p>Revoke the key first, delete the user second, then verify both by reading the key inventory back \u2014 and write the offboarding job so that ",
+    "link": "https://dev.to/ethanbrooks111/offboard-a-game-tenant-in-go-revoke-key-delete-user-verify-and-rerun-safely-666",
+    "topic": "general"
+  },
+  {
+    "title": "Ops Starter Kit Vol 2 \u2014 Incident Response for Small Teams (2026-09-19)",
+    "desc": "<h1>\n  \n  \n  Ops Starter Kit Vol 2 \u2014 Incident Response for Small Teams\n</h1>\n\n<p>Small teams don't have SOC on demand. Ops Starter Kit Vol 2",
+    "link": "https://dev.to/hive80lab/ops-starter-kit-vol-2-incident-response-for-small-teams-2026-09-19-pfp",
     "topic": "secops"
-  },
-  {
-    "title": "AI Is Already Better at Operations Than Most Ops Managers. Here's Proof.",
-    "desc": "<h1>\n  \n  \n  AI Is Already Better at Operations Than Most Ops Managers. Here's Proof.\n</h1>\n\n<p>A controversial take hit the front page rece",
-    "link": "https://dev.to/hive80lab/ai-is-already-better-at-operations-than-most-ops-managers-heres-proof-12p5",
-    "topic": "general"
-  },
-  {
-    "title": "The $19 Tool That Replaced My Entire DevOps Pipeline (And Why I'm Not Going Back)",
-    "desc": "<h1>\n  \n  \n  The $19 Tool That Replaced My Entire DevOps Pipeline (And Why I'm Not Going Back)\n</h1>\n\n<p>I used to think DevOps required a $",
-    "link": "https://dev.to/hive80lab/the-19-tool-that-replaced-my-entire-devops-pipeline-and-why-im-not-going-back-4pha",
-    "topic": "general"
-  },
-  {
-    "title": "Leaked API Key Drill: Pass-Fail Criteria for Blast Radius and Spend Ceiling",
-    "desc": "<p>Two numbers fight each other during a credential incident on a student-facing edtech platform: the spend ceiling that keeps a leaked API ",
-    "link": "https://dev.to/yukikobayashi880/leaked-api-key-drill-pass-fail-criteria-for-blast-radius-and-spend-ceiling-4flm",
-    "topic": "general"
-  },
-  {
-    "title": "Compile Config Key Tables From a Frozen Schema; Sign Secret and Default-Safety Copy",
-    "desc": "<p>Configuration documentation fails when a generated key table and human safety copy share one file without a merge contract. A model can i",
-    "link": "https://dev.to/github_7727/compile-config-key-tables-from-a-frozen-schema-sign-secret-and-default-safety-copy-466n",
-    "topic": "general"
-  },
-  {
-    "title": "Staff an Airlock for Free Agent Compute",
-    "desc": "<p>Free agent compute belongs inside a rehearsal airlock. It must never act as a second production path. Teams that skip the airlock mix sec",
-    "link": "https://dev.to/techlab_7968/staff-an-airlock-for-free-agent-compute-3ipc",
-    "topic": "general"
   }
 ]
