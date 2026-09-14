@@ -1,50 +1,50 @@
 [
   {
-    "title": "Looking to Connect with Developers and Open-Source Communities",
-    "desc": "<p>Hi everyone! \ud83d\udc4b</p>\n\n<p>I'm excited to join this developer community and connect with people building interesting projects.</p>\n\n<p>I'm pa",
-    "link": "https://dev.to/adebisi_oluwajoba_6ba5603/looking-to-connect-with-developers-and-open-source-communities-49fl",
+    "title": "The On-Call Runbook Every Small DevOps Team Needs (Free Template)",
+    "desc": "<h1>\n  \n  \n  The On-Call Runbook Every Small DevOps Team Needs (Free Template)\n</h1>\n\n<p>When the pager goes off at 3am, you need a runbook ",
+    "link": "https://dev.to/hive80lab/the-on-call-runbook-every-small-devops-team-needs-free-template-4d10",
     "topic": "general"
   },
   {
-    "title": "A Different Way to Handle Everyday Operations: A Preview of OpenOcta",
-    "desc": "<p>Let's start with four familiar operations headaches, then look at four ways OpenOcta addresses them.</p>\n\n<h2>\n  \n  \n  1. Four everyday p",
-    "link": "https://dev.to/databufflabs/a-different-way-to-handle-everyday-operations-a-preview-of-openocta-3g4m",
+    "title": "7 AI Workflows That Reclaim 8 Hours/Week (With Real Numbers)",
+    "desc": "<h1>\n  \n  \n  7 AI Workflows That Reclaim 8 Hours/Week (With Real Numbers)\n</h1>\n\n<p>Every developer spends 23 hours/week on repetitive tasks",
+    "link": "https://dev.to/hive80lab/7-ai-workflows-that-reclaim-8-hoursweek-with-real-numbers-1cgb",
     "topic": "general"
   },
   {
-    "title": "I Wanted Claude to Write SOC 2 Compliant Code. The Existing Skills Only Did Half the Job.",
-    "desc": "<p>Every SOC 2 project I have seen follows the same shape. Someone buys a compliance platform, someone drafts eighteen policies, and then si",
-    "link": "https://dev.to/aggtushar123/i-wanted-claude-to-write-soc-2-compliant-code-the-existing-skills-only-did-half-the-job-18e7",
-    "topic": "anthropic"
-  },
-  {
-    "title": "What Does a Production RAG System Need? Vector Search, Chunking, Guardrails, and Cost Controls",
-    "desc": "<p>Building a toy Retrieval-Augmented Generation (RAG) prototype takes less than an afternoon using LangChain or LlamaIndex. Taking that sys",
-    "link": "https://dev.to/abinschandran/what-does-a-production-rag-system-need-vector-search-chunking-guardrails-and-cost-controls-1dke",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Flutter App Architecture Guide: Clean Architecture with BLoC & Repository Pattern (2025)",
-    "desc": "<h3>\n  \n  \n  Why Flutter Architecture Matters from Day One\n</h3>\n\n<p>Most Flutter tutorial apps use a single file with <code>setState()</cod",
-    "link": "https://dev.to/abinschandran/flutter-app-architecture-guide-clean-architecture-with-bloc-repository-pattern-2025-4oc8",
+    "title": "5 DevOps Checklists That Save Small Teams From 3am Disasters",
+    "desc": "<h1>\n  \n  \n  5 DevOps Checklists That Save Small Teams From 3am Disasters\n</h1>\n\n<p>When production goes down at 3am, you don't need theory.",
+    "link": "https://dev.to/hive80lab/5-devops-checklists-that-save-small-teams-from-3am-disasters-4hb9",
     "topic": "general"
   },
   {
-    "title": "Your Agent Patch Gate Is Racing Itself: Isolate Before You Quarantine",
-    "desc": "<p>If the same commit produces <code>pass</code> on Monday and <code>fail</code> on Tuesday, the patch is usually not the problem. The harne",
-    "link": "https://dev.to/datacpp_8185/your-agent-patch-gate-is-racing-itself-isolate-before-you-quarantine-2gb9",
+    "title": "Every correction I made to my spec added a requirement. The retired rows were still being counted.",
+    "desc": "<p>The specification here is append-only. You never edit a row. To change one you retire the old row, which stays in the file under a retire",
+    "link": "https://dev.to/mahirhir/every-correction-i-made-to-my-spec-added-a-requirement-the-retired-rows-were-still-being-counted-111g",
     "topic": "general"
   },
   {
-    "title": "SafeLine WAF: A Self-Hosted Alternative to Cloudflare You Can Run Yourself",
-    "desc": "<p>When people talk about protecting a website from bots, scrapers, and injection attacks, Cloudflare is usually the first name that comes u",
-    "link": "https://dev.to/lialiago/safeline-waf-a-self-hosted-alternative-to-cloudflare-you-can-run-yourself-1hl7",
+    "title": "JavaScript heap out of memory: read the GC line before you raise the heap size",
+    "desc": "<p>You know the moment. You reopen a long-running session in your AI coding CLI and instead of your conversation you get a wall of garbage-c",
+    "link": "https://dev.to/milkyway008/javascript-heap-out-of-memory-read-the-gc-line-before-you-raise-the-heap-size-3edp",
     "topic": "general"
   },
   {
-    "title": "Cilium 1.20: Gateway API ExternalAuth, TCPRoute/UDPRoute, ENI IPAM for IPv6, and more",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/cilium-120-gateway-api-externalauth-tcprouteudproute-eni-ipam-fo",
-    "link": "https://dev.to/rasne/cilium-120-gateway-api-externalauth-tcprouteudproute-eni-ipam-for-ipv6-and-more-5138",
+    "title": "48 Hours Chasing a Duplicate Nightly Job: SIGTERM Was Landing on the Wrapper",
+    "desc": "<p>Two consumers were draining the same queue, and neither of them knew the other existed. My nightly job usually takes eleven minutes, so w",
+    "link": "https://dev.to/codepy_1473/48-hours-chasing-a-duplicate-nightly-job-sigterm-was-landing-on-the-wrapper-c2b",
     "topic": "general"
+  },
+  {
+    "title": "Green Locally, Red on the Server: A Two-Environment Gate for Agent Patches",
+    "desc": "<h1>\n  \n  \n  Green Locally, Red on the Server: A Two-Environment Gate for Agent Patches\n</h1>\n\n<p>A passing test run is a claim about one ma",
+    "link": "https://dev.to/datacpp_8185/green-locally-red-on-the-server-a-two-environment-gate-for-agent-patches-48gf",
+    "topic": "general"
+  },
+  {
+    "title": "GCP Cloud SQL Management Without the Google Console",
+    "desc": "<p>The Google Cloud Console is one of the more thoughtfully designed cloud management interfaces available. Compared to some of its peers, i",
+    "link": "https://dev.to/abda_net/gcp-cloud-sql-management-without-the-google-console-13od",
+    "topic": "gcp"
   }
 ]
