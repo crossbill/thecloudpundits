@@ -1,5 +1,35 @@
 [
   {
+    "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
+    "desc": "<p>The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
+    "topic": "general"
+  },
+  {
+    "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
+    "desc": "<p>Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm.</p>\n<p>The po",
+    "link": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
+    "topic": "general"
+  },
+  {
+    "title": "Telus Warns Customers of Account Breaches",
+    "desc": "<p>Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
+    "topic": "secops"
+  },
+  {
+    "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
+    "desc": "<p>The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator.</p>\n<p>The post <a href=\"",
+    "link": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/",
+    "topic": "aws"
+  },
+  {
+    "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
+    "desc": "<p>The flaw allows attackers to send files and execute them without authorization through an active remote session.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
+    "topic": "secops"
+  },
+  {
     "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
     "desc": "<p>Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire interne",
     "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
@@ -16,35 +46,5 @@
     "desc": "<p>Anthropic said the users did not succeed in \u201cfielding an operational device\u201d but did carry out a failed test of a guided rocket.</p>\n<p>T",
     "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
     "topic": "anthropic"
-  },
-  {
-    "title": "Phishing Research Challenges Conventional Security Awareness Testing",
-    "desc": "<p>Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks.</p>\n<p",
-    "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
-    "topic": "secops"
-  },
-  {
-    "title": "GitLab Vulnerability Exploited One Day After Disclosure",
-    "desc": "<p>The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
-    "topic": "secops"
-  },
-  {
-    "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on ",
-    "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
-    "topic": "secops"
-  },
-  {
-    "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-    "desc": "<p>Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTrackin",
-    "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-    "topic": "general"
-  },
-  {
-    "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-    "desc": "<p>Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-    "topic": "secops"
   }
 ]
