@@ -1,50 +1,50 @@
 [
   {
-    "title": "Python Gaming Service Discovery: DNS Records vs Registry (During Frequent Deploys)",
-    "desc": "<p>Short answer: use DNS records for stable tenant-facing subdomains, and use a service registry for destinations that change with frequent ",
-    "link": "https://dev.to/killianberg5391/python-gaming-service-discovery-dns-records-vs-registry-during-frequent-deploys-1hk8",
+    "title": "What Is the Best Course to Learn Machine Learning From Scratch?",
+    "desc": "<p>Machine learning has become a core part of modern artificial intelligence, powering applications such as recommendation systems, fraud de",
+    "link": "https://dev.to/georgiaweston/what-is-the-best-course-to-learn-machine-learning-from-scratch-dp8",
     "topic": "general"
   },
   {
-    "title": "T\u1ea1i sao b\u1ea1n n\u00ean d\u00f9ng SSH key thay v\u00ec password",
-    "desc": "<p>Nhi\u1ec1u developer v\u1eabn \u0111ang d\u00f9ng password \u0111\u1ec3 SSH v\u00e0o server. \u0110\u00e2y l\u00e0 l\u00fd do b\u1ea1n n\u00ean chuy\u1ec3n sang SSH key ngay.</p>\n\n<h2>\n  \n  \n  Password c\u00f3 v\u1ea5",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/tai-sao-ban-nen-dung-ssh-key-thay-vi-password-h2e",
+    "title": "Netdata Alerts in Week One: Which to Keep, Tune or Silence, and How to Route Them to Slack, Discord and ntfy",
+    "desc": "<p>Keep Netdata's stock alerts for disk space, memory pressure, OOM kills and failed systemd units exactly as they ship. In the first week, ",
+    "link": "https://dev.to/john_182319291/netdata-alerts-in-week-one-which-to-keep-tune-or-silence-and-how-to-route-them-to-slack-discord-3000",
     "topic": "general"
   },
   {
-    "title": "I Pinned 31 GitHub Actions to Commit SHAs. One Major Tag Was Two Versions Stale.",
-    "desc": "<p>Yesterday I pinned 31 GitHub Actions to commit SHAs for a set of workflows I was packaging. Every SHA was resolved from the upstream repo",
-    "link": "https://dev.to/jjoyneriv/i-pinned-31-github-actions-to-commit-shas-one-major-tag-was-two-versions-stale-b13",
+    "title": "A third of our releases went out through the emergency path",
+    "desc": "<p>A deploy at eleven on a Tuesday night broke search for about forty minutes. It had skipped the integration suite and the staging soak, an",
+    "link": "https://dev.to/sergey_shinder_ab2d943365/a-third-of-our-releases-went-out-through-the-emergency-path-3oh",
     "topic": "general"
   },
   {
-    "title": "Docker for Developers: Containers, Images, and Compose Explained",
-    "desc": "<p><em>Originally published at <a href=\"https://adityarawas.in/blog/docker-for-developers\" rel=\"noopener noreferrer\">adityarawas.in</a></em>",
-    "link": "https://dev.to/rawas_aditya/docker-for-developers-containers-images-and-compose-explained-31pl",
-    "topic": "docker"
+    "title": "\ud83d\ude80 From Localhost to the Cloud: Deploying My Portfolio with AWS S3 & CloudFront",
+    "desc": "<p>My Hands-On Experience with AWS Cloud-Native Systems</p>\n\n<p>I recently attended a workshop on Cloud-Native Systems & Applied AI Integrat",
+    "link": "https://dev.to/bhuvanesh_a_2d263b8768703/from-localhost-to-the-cloud-deploying-my-portfolio-with-aws-s3-cloudfront-32o",
+    "topic": "aws"
   },
   {
-    "title": "The 00:00 UTC Thundering Herd: Why Cron Schedule Collisions Crash Production Databases",
-    "desc": "<p>Every DevOps and backend team has experienced the ghost in the machine: at exactly 00:00:00 UTC, database connections spike, API latencie",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/the-0000-utc-thundering-herd-why-cron-schedule-collisions-crash-production-databases-jjk",
+    "title": "Where 46 Seconds Go When a g7.4xlarge Worker Starts",
+    "desc": "<p>A worker in this service starts while somebody is already waiting for it. Not in the abstract: there is a face on a screen, a person has ",
+    "link": "https://dev.to/remi_etien/where-46-seconds-go-when-a-g74xlarge-worker-starts-4994",
     "topic": "general"
   },
   {
-    "title": "Observability for Serverless: What's Different",
-    "desc": "<p>Everything you know about observability needs a slight rethink when you move to serverless. Let me save you the weeks of frustration I we",
-    "link": "https://dev.to/samson_tanimawo/observability-for-serverless-whats-different-3ol7",
+    "title": "\"Preview environments for people who are never going to run Kubernetes\": Gautam's Zerops project",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Over the weekend of August 8 and 9, Zerops ran The Zerops Challenge in collaboration with <a href=\"https",
+    "link": "https://dev.to/zeropsio/preview-environments-for-people-who-are-never-going-to-run-kubernetes-gautams-zerops-project-3baa",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Getting Started with Cloud Computing: My Hands-On AWS Session",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/devaki_p_ae88839169760073/getting-started-with-cloud-computing-my-hands-on-aws-session-2jgl",
+    "topic": "aws"
+  },
+  {
+    "title": "Fixed Checksummed Datasets for Compliance, Recall Diligence, and Tender Ops",
+    "desc": "<p>We've been shipping <strong>AgentOps</strong> under NimbliqueStudio (Zentra Foundry on Apify) for teams that need QA, cost control, and t",
+    "link": "https://dev.to/nimbliquestudio/fixed-checksummed-datasets-for-compliance-recall-diligence-and-tender-ops-1mb6",
     "topic": "general"
-  },
-  {
-    "title": "What to Check Before Turning a Vulnerability Scan Into a Client Report",
-    "desc": "<p>A vulnerability report is only as useful as the data behind it.</p>\n\n<p>A polished PDF can still mislead a client if the scan scope was i",
-    "link": "https://dev.to/varaxontech/what-to-check-before-turning-a-vulnerability-scan-into-a-client-report-1nn7",
-    "topic": "secops"
-  },
-  {
-    "title": "5 AI Workflows That Automate Incident Response (And Slash Your MTTR by 60%)",
-    "desc": "<h1>\n  \n  \n  5 AI Workflows That Automate Incident Response (And Slash Your MTTR by 60%)\n</h1>\n\n<p>When I first tried to automate incident r",
-    "link": "https://dev.to/hive80lab/5-ai-workflows-that-automate-incident-response-and-slash-your-mttr-by-60-4han",
-    "topic": "secops"
   }
 ]

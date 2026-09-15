@@ -1,5 +1,11 @@
 [
   {
+    "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
+    "desc": "<p>An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
+    "topic": "general"
+  },
+  {
     "title": "Beijing Hits Back at Anthropic CEO\u2019s Call to Curb China\u2019s AI Development",
     "desc": "<p>China\u2019s Ministry of Foreign Affairs responded to a question about Amodei\u2019s essay by saying that all parties should work together on AI.</",
     "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
@@ -40,11 +46,5 @@
     "desc": "<p>Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records.</p>\n<p>The post <a href=\"h",
     "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
     "topic": "secops"
-  },
-  {
-    "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
-    "desc": "<p>The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/",
-    "topic": "aws"
   }
 ]
