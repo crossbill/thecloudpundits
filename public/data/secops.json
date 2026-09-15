@@ -1,5 +1,17 @@
 [
   {
+    "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
+    "desc": "<p>Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers.",
+    "link": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
+    "topic": "azure"
+  },
+  {
+    "title": "\u201cWe Think the Security Control Is Working\u201d Is No Longer Good Enough",
+    "desc": "<p>Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls",
+    "link": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
+    "topic": "secops"
+  },
+  {
     "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
     "desc": "<p>AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage.</p>\n<p>The post <a href=\"https",
     "link": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
@@ -34,17 +46,5 @@
     "desc": "<p>Hackers exploited a vulnerability in a VPN product to steal the personal information of roughly 240,000 people.</p>\n<p>The post <a href=\"",
     "link": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
     "topic": "secops"
-  },
-  {
-    "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases",
-    "desc": "<p>The updates resolve kernel vulnerabilities that could lead to memory corruption, privilege escalation, system termination, and informatio",
-    "link": "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/",
-    "topic": "general"
-  },
-  {
-    "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints",
-    "desc": "<p>The Humanist AI Code of Conduct draws a line between defensive cyber research and operational attack capability.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
-    "topic": "azure"
   }
 ]
