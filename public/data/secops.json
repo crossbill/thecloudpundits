@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack",
+    "desc": "<p>The incident occurred in May, when RubyGems maintainers suspended new account registrations due to what appeared like malicious activity.",
+    "link": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/",
+    "topic": "openai"
+  },
+  {
+    "title": "240,000 Hit by Data Breach at Japan\u2019s Digital Agency",
+    "desc": "<p>Hackers exploited a vulnerability in a VPN product to steal the personal information of roughly 240,000 people.</p>\n<p>The post <a href=\"",
+    "link": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
+    "topic": "secops"
+  },
+  {
+    "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases",
+    "desc": "<p>The updates resolve kernel vulnerabilities that could lead to memory corruption, privilege escalation, system termination, and informatio",
+    "link": "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/",
+    "topic": "general"
+  },
+  {
+    "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints",
+    "desc": "<p>The Humanist AI Code of Conduct draws a line between defensive cyber research and operational attack capability.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
+    "topic": "azure"
+  },
+  {
+    "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
+    "desc": "<p>Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware.</p>\n<p>The post <a href=\"https://www.securi",
+    "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
+    "topic": "secops"
+  },
+  {
     "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
     "desc": "<p>An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges.</p>\n<p>Th",
     "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
@@ -16,35 +46,5 @@
     "desc": "<p>Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for ",
     "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
     "topic": "general"
-  },
-  {
-    "title": "Personal, Financial Info Exposed in Revolut Data Breach",
-    "desc": "<p>The company unintentionally disclosed users\u2019 information to a third party impersonating a government agency.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
-    "topic": "secops"
-  },
-  {
-    "title": "The Race to Control AI and Protect What Makes Us Human",
-    "desc": "<p>As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that define",
-    "link": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
-    "topic": "general"
-  },
-  {
-    "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
-    "desc": "<p>The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
-    "topic": "general"
-  },
-  {
-    "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
-    "desc": "<p>Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm.</p>\n<p>The po",
-    "link": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
-    "topic": "general"
-  },
-  {
-    "title": "Telus Warns Customers of Account Breaches",
-    "desc": "<p>Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records.</p>\n<p>The post <a href=\"h",
-    "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
-    "topic": "secops"
   }
 ]
