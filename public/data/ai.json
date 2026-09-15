@@ -1,5 +1,11 @@
 [
   {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "topic": "general"
+  },
+  {
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
     "desc": "",
     "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
@@ -9,12 +15,6 @@
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
     "desc": "",
     "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "topic": "general"
-  },
-  {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
     "topic": "general"
   },
   {

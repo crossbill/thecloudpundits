@@ -1,5 +1,29 @@
 [
   {
+    "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
+    "desc": "<p>AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
+    "topic": "aws"
+  },
+  {
+    "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security",
+    "desc": "<p>The cybersecurity startup is building a proprietary foundation model and plans to accelerate global expansion.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
+    "topic": "secops"
+  },
+  {
+    "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
+    "desc": "<p>A hacker claims to have stolen 7.5 million customer records after breaching the company\u2019s systems.</p>\n<p>The post <a href=\"https://www.s",
+    "link": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/",
+    "topic": "secops"
+  },
+  {
+    "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability",
+    "desc": "<p>The hackers staged numerous scripts for reconnaissance and CVE probing, along with brute-force utilities and privilege escalation tools.<",
+    "link": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack",
     "desc": "<p>The incident occurred in May, when RubyGems maintainers suspended new account registrations due to what appeared like malicious activity.",
     "link": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/",
@@ -22,29 +46,5 @@
     "desc": "<p>The Humanist AI Code of Conduct draws a line between defensive cyber research and operational attack capability.</p>\n<p>The post <a href=",
     "link": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
     "topic": "azure"
-  },
-  {
-    "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-    "desc": "<p>Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware.</p>\n<p>The post <a href=\"https://www.securi",
-    "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-    "desc": "<p>An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
-    "topic": "general"
-  },
-  {
-    "title": "Beijing Hits Back at Anthropic CEO\u2019s Call to Curb China\u2019s AI Development",
-    "desc": "<p>China\u2019s Ministry of Foreign Affairs responded to a question about Amodei\u2019s essay by saying that all parties should work together on AI.</",
-    "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
-    "desc": "<p>Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for ",
-    "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
-    "topic": "general"
   }
 ]

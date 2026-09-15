@@ -1,50 +1,50 @@
 [
   {
-    "title": "I read the Kubernetes changelogs from 1.32 to 1.37 properly",
-    "desc": "<p>I've been building an upgrade-readiness tool for about a year, and for most of that time I worked from the changelogs the way everyone do",
-    "link": "https://dev.to/silpa_nallagopula_4d02cde/i-read-the-kubernetes-changelogs-from-132-to-137-properly-4821",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "TXT-Guided Access: Verified Domain Routing for a SaaS Workspace",
-    "desc": "<p>Use a TXT-verified company suffix for automatic workspace entry, and send every unverified suffix to manual review. The useful control is",
-    "link": "https://dev.to/saxonfletcher2366/txt-guided-access-verified-domain-routing-for-a-saas-workspace-23ho",
-    "topic": "general"
-  },
-  {
-    "title": "AWS Support Said You Can't Import Control Tower's Management Account Into AFT. You Can.",
-    "desc": "<p>Every <a href=\"https://docs.aws.amazon.com/controltower/latest/userguide/aft-overview.html\" rel=\"noopener noreferrer\">Account Factory for",
-    "link": "https://dev.to/aws-builders/aws-support-said-you-cant-import-control-towers-management-account-into-aft-you-can-1ehg",
-    "topic": "aws"
-  },
-  {
-    "title": "Tigris marks every read with the region and cache layer that actually served it",
-    "desc": "<p>Disclosure: I have no affiliation with Tigris. Nobody asked me to write this and nobody paid for it. I signed up and generated an access ",
-    "link": "https://dev.to/alexgeorgiev17/tigris-marks-every-read-with-the-region-and-cache-layer-that-actually-served-it-28p",
-    "topic": "general"
-  },
-  {
-    "title": "Every API Response Should Prove Its Own Freshness. Here Is How We Do It for Options Data",
-    "desc": "<p><strong>TL;DR:</strong> Options data fails silently. A stale chain, misattributed OI, a one-sided quote solved into a fake IV, a replay t",
-    "link": "https://dev.to/tomasz_dobrowolski_35d32c/every-api-response-should-prove-its-own-freshness-here-is-how-we-do-it-for-options-data-2fe8",
-    "topic": "general"
-  },
-  {
-    "title": "Code review com agentes na pr\u00e1tica: o que a Ericsson testou",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/aspepper/code-review-com-agentes-na-pratica-o-que-a-ericsson-testou-5emm",
-    "topic": "general"
-  },
-  {
-    "title": "Beyond Lift and Shift: Why Cloud Migration Demands Database Code Optimization",
-    "desc": "<h1>\n  \n  \n  Beyond Lift and Shift: Why Cloud Migration Demands Database Code Optimization\n</h1>\n\n<blockquote>\n<p>Author: seagaruda | Publis",
-    "link": "https://dev.to/seagaruda/beyond-lift-and-shift-why-cloud-migration-demands-database-code-optimization-2778",
-    "topic": "general"
-  },
-  {
-    "title": "Cyber Security VAPT Training in Hyderabad",
-    "desc": "<p><strong>Protect Businesses Before Attackers Find the Weakness.</strong><br />\nEvery organization today depends on digital systems to mana",
-    "link": "https://dev.to/secureflow_infotech_63f55/cyber-security-vapttraining-in-hyderabad-1bpk",
+    "title": "The Security Audit That Catches What AI Misses: A 12-Point Checklist",
+    "desc": "<h1>\n  \n  \n  The Security Audit That Catches What AI Misses: A 12-Point Checklist\n</h1>\n\n<p>AI security scanners are great. But they miss th",
+    "link": "https://dev.to/hive80lab/the-security-audit-that-catches-what-ai-misses-a-12-point-checklist-1laf",
     "topic": "secops"
+  },
+  {
+    "title": "I shipped 30 Dev.to articles in 2 weeks. Here's what actually happened to traffic.",
+    "desc": "<h1>\n  \n  \n  I shipped 30 Dev.to articles in 2 weeks. Here's what actually happened to traffic.\n</h1>\n\n<p>I had a theory: if I publish enoug",
+    "link": "https://dev.to/hive80lab/i-shipped-30-devto-articles-in-2-weeks-heres-what-actually-happened-to-traffic-14pd",
+    "topic": "general"
+  },
+  {
+    "title": "Power Platform Pipelines - Moving Flows from Dev to Prod with Approvals",
+    "desc": "<p>\"How do you deploy flows to production?\"</p>\n\n<p>I ask this question in every governance workshop. The most common answer is still \"expor",
+    "link": "https://dev.to/az365ai/power-platform-pipelines-moving-flows-from-dev-to-prod-with-approvals-33oj",
+    "topic": "general"
+  },
+  {
+    "title": "The $19 Tool That Replaced My Entire DevOps Pipeline (And Why I'm Not Going Back)",
+    "desc": "<h1>\n  \n  \n  The $19 Tool That Replaced My Entire DevOps Pipeline (And Why I'm Not Going Back)\n</h1>\n\n<p>I used to think DevOps required a $",
+    "link": "https://dev.to/hive80lab/the-19-tool-that-replaced-my-entire-devops-pipeline-and-why-im-not-going-back-2b6b",
+    "topic": "general"
+  },
+  {
+    "title": "On-call rotations: stop using a spreadsheet someone forgot to update",
+    "desc": "<p>On-call rotations are the backbone of any reliable service. But most teams I have worked with treat scheduling as an afterthought \u2014 a spr",
+    "link": "https://dev.to/hive80lab/on-call-rotations-stop-using-a-spreadsheet-someone-forgot-to-update-3k5k",
+    "topic": "general"
+  },
+  {
+    "title": "I Audited 47 SaaS Tools and Cut Our Bill by $2,400/Month (Here Is the Spreadsheet)",
+    "desc": "<h1>\n  \n  \n  I Audited 47 SaaS Tools and Cut Our Bill by $2,400/Month\n</h1>\n\n<p>We were paying for 47 SaaS subscriptions. After a 3-day audi",
+    "link": "https://dev.to/hive80lab/i-audited-47-saas-tools-and-cut-our-bill-by-2400month-here-is-the-spreadsheet-58pm",
+    "topic": "general"
+  },
+  {
+    "title": "How I Cut Our Cloud Bill by $3,140/Month With a Weekend Audit",
+    "desc": "<p>Cloud bills are the silent killer of small teams. I have seen startups burn through $50K/year on AWS resources they forgot existed. The w",
+    "link": "https://dev.to/hive80lab/how-i-cut-our-cloud-bill-by-3140month-with-a-weekend-audit-1pio",
+    "topic": "general"
+  },
+  {
+    "title": "I Replaced Our Entire On-Call Rotation With 4 Python Scripts",
+    "desc": "<h1>\n  \n  \n  I Replaced Our Entire On-Call Rotation With 4 Python Scripts\n</h1>\n\n<p>Last month, our on-call rotation was burning people out.",
+    "link": "https://dev.to/hive80lab/i-replaced-our-entire-on-call-rotation-with-4-python-scripts-bka",
+    "topic": "general"
   }
 ]
