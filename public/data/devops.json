@@ -1,50 +1,50 @@
 [
   {
-    "title": "Separate DNS Zone vs Subdomain: Python Non-Production Write Boundaries and Overhead in 2026",
-    "desc": "<p>TL;DR: Give staging its own authoritative zone when a mistaken write must be impossible. Keep a subdomain in the production zone when one",
-    "link": "https://dev.to/ulyssesdonovan1529/separate-dns-zone-vs-subdomain-python-non-production-write-boundaries-and-overhead-in-2026-l6b",
+    "title": "Anatomy of a Magento Card Skimmer: How Injected JavaScript Steals Cards \u2014 and Why Uptime Checks Miss It",
+    "desc": "<p>A Magento store can be fully up, fast, and passing every uptime check while quietly sending each customer's card number to a criminal. No",
+    "link": "https://dev.to/byte8io/anatomy-of-a-magento-card-skimmer-how-injected-javascript-steals-cards-and-why-uptime-checks-4am8",
     "topic": "general"
   },
   {
-    "title": "I'm looking for a partner",
-    "desc": "<p>Hi, I hope you\u2019re doing well.<br />\nI\u2019m currently looking to connect with reliable people who may be interested in building something lon",
-    "link": "https://dev.to/jia_wenong/im-looking-for-a-partner-41p6",
+    "title": "Part 1: Least-privilege Kubernetes, generated from what eBPF saw",
+    "desc": "<p><em>Your pods already tell the kernel what they connect to. kguardian listens with eBPF and writes the NetworkPolicy from what it saw.</e",
+    "link": "https://dev.to/maheshrayas/part-1-least-privilege-kubernetes-generated-from-what-ebpf-saw-21ma",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Salesforce Core, Advanced or Max: Who Is Watching the Flex Credits?",
+    "desc": "<p>Salesforce replaced Enterprise, Unlimited and Agentforce 1 with three new editions on 3 September 2026: Core at $195, Advanced at $395 an",
+    "link": "https://dev.to/ashapurasoftechinc/salesforce-core-advanced-or-max-who-is-watching-the-flex-credits-1mc1",
     "topic": "general"
   },
   {
-    "title": "A Node.js Read-Back Audit for MX Drift Across Registrar-Specific DNS APIs",
-    "desc": "<p>Point the company's mail at one provider and the outcome you need is narrow: the MX records resolvers actually hand out have to match the",
-    "link": "https://dev.to/corneliushayes8579/a-nodejs-read-back-audit-for-mx-drift-across-registrar-specific-dns-apis-1il5",
+    "title": "DevOps Outage Scenario: Recovering from Terraform Remote State Lock Deadlocks in S3 & DynamoDB",
+    "desc": "<p>In technical interviews for <strong>Senior Cloud, DevOps, and SRE roles</strong>, trivial syntax questions are gone. Hiring managers want",
+    "link": "https://dev.to/intervixa_ai/devops-outage-scenario-recovering-from-terraform-remote-state-lock-deadlocks-in-s3-dynamodb-ono",
+    "topic": "terraform"
+  },
+  {
+    "title": "Robots.txt Explained: How It Controls Search Engine Crawling",
+    "desc": "<p>When building or maintaining a website, developers quickly learn that writing clean code and creating helpful content is only half the ba",
+    "link": "https://dev.to/software_solutions_740799/robotstxt-explained-how-it-controls-search-engine-crawling-2kii",
     "topic": "general"
   },
   {
-    "title": "Postmortem: Squash-Merge Made HEAD~1 Target Unrelated Code",
-    "desc": "<p>The durable fix is a locked merge-base, not <code>HEAD~1</code>.<br />\nAn agent that infers the review parent from git heuristics can pat",
-    "link": "https://dev.to/bytepro_1774/postmortem-squash-merge-made-head1-target-unrelated-code-39e3",
+    "title": "A Scheduled Job That Works and Never Runs",
+    "desc": "<p>I have a job that publishes one article a day. Over four days I rebuilt its<br />\nscheduling three times, and each rebuild fixed a real f",
+    "link": "https://dev.to/quintetkit/a-scheduled-job-that-works-and-never-runs-10f8",
     "topic": "general"
   },
   {
-    "title": "CI Rebuilds the Test Matrix. The Agent Does Not Get a Vote.",
-    "desc": "<p>You should not merge an agent patch because the agent said the tests passed. The merge queue has to rebuild the fixture set from the path",
-    "link": "https://dev.to/codego_3211/ci-rebuilds-the-test-matrix-the-agent-does-not-get-a-vote-mam",
+    "title": "A Bot Found Admin Access to a $13B Startup's GitHub in 25 Minutes. Here's Exactly How.",
+    "desc": "<p>You know that Docker layer you built in 2023 and forgot about? It's still running. And if you ever passed a secret through <code>ARG</cod",
+    "link": "https://dev.to/ashraf_chowdury09/a-bot-found-admin-access-to-a-13b-startups-github-in-25-minutes-heres-exactly-how-40pf",
     "topic": "general"
   },
   {
-    "title": "S3-compatible is a promise with an asterisk",
-    "desc": "<p>Amazon's S3 won so completely that its API became a standard. Now half the object-storage providers on the market advertise the same two ",
-    "link": "https://dev.to/pgardunoc/s3-compatible-is-a-promise-with-an-asterisk-jc7",
-    "topic": "general"
-  },
-  {
-    "title": "Retries Are How Cheap Jobs Get Expensive",
-    "desc": "<p>Retries are how cheap jobs get expensive. A failed generation does not refund the tokens you already burned, and it does not restore your",
-    "link": "https://dev.to/hackrs_3352/retries-are-how-cheap-jobs-get-expensive-4n11",
-    "topic": "general"
-  },
-  {
-    "title": "Name the Mutation or Don't Merge: A Fail-Closed Side-Effect Checklist",
-    "desc": "<p>If a pull request can mutate anything outside the process, you do not merge it until every write has an owner, a dry-run, an idempotency ",
-    "link": "https://dev.to/codecpp_5026/name-the-mutation-or-dont-merge-a-fail-closed-side-effect-checklist-2iph",
+    "title": "Compile Error Catalogs From Source Constants; Hand-Write Impact, Recovery, and Escalation",
+    "desc": "<p>Troubleshooting copy is unsafe when a model invents recovery steps that never existed in product behavior. Compile identity columns from ",
+    "link": "https://dev.to/github_7727/compile-error-catalogs-from-source-constants-hand-write-impact-recovery-and-escalation-fpk",
     "topic": "general"
   }
 ]
