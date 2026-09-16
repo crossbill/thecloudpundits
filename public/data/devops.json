@@ -1,50 +1,50 @@
 [
   {
-    "title": "FAQ: Path Myths Your Agent Loop Still Believes",
-    "desc": "<p>Did your agent actually start in the repository root?</p>\n\n<p>I keep seeing that claim in chat logs. Then a relative path writes into <co",
-    "link": "https://dev.to/gitlab_3188/faq-path-myths-your-agent-loop-still-believes-1o3n",
+    "title": "Separate DNS Zone vs Subdomain: Python Non-Production Write Boundaries and Overhead in 2026",
+    "desc": "<p>TL;DR: Give staging its own authoritative zone when a mistaken write must be impossible. Keep a subdomain in the production zone when one",
+    "link": "https://dev.to/ulyssesdonovan1529/separate-dns-zone-vs-subdomain-python-non-production-write-boundaries-and-overhead-in-2026-l6b",
     "topic": "general"
   },
   {
-    "title": "How I Track AI API Prices in Real-Time Using a $5 Alibaba Cloud Server",
-    "desc": "<p>The AI API pricing wars are absolutely brutal right now. One day a major provider slashes their per-million-token rates, and the next day",
-    "link": "https://dev.to/aitokenhub_98/how-i-track-ai-api-prices-in-real-time-using-a-5-alibaba-cloud-server-3npj",
+    "title": "I'm looking for a partner",
+    "desc": "<p>Hi, I hope you\u2019re doing well.<br />\nI\u2019m currently looking to connect with reliable people who may be interested in building something lon",
+    "link": "https://dev.to/jia_wenong/im-looking-for-a-partner-41p6",
     "topic": "general"
   },
   {
-    "title": "I Trusted /health for 48 Hours. The Worker Still Held the Lock.",
-    "desc": "<p>I spent forty-eight hours staring at a green dashboard while real requests died in a worker thread. Staging never flipped red, and the de",
-    "link": "https://dev.to/codepy_1473/i-trusted-health-for-48-hours-the-worker-still-held-the-lock-1ei0",
+    "title": "A Node.js Read-Back Audit for MX Drift Across Registrar-Specific DNS APIs",
+    "desc": "<p>Point the company's mail at one provider and the outcome you need is narrow: the MX records resolvers actually hand out have to match the",
+    "link": "https://dev.to/corneliushayes8579/a-nodejs-read-back-audit-for-mx-drift-across-registrar-specific-dns-apis-1il5",
     "topic": "general"
   },
   {
-    "title": "Automating My Dev Workflow for $3/Month Using n8n on Budget Chinese Cloud Servers",
-    "desc": "<p>I used to pay nearly $50 a month for Zapier just to move some JSON payloads, sync my databases, and trigger GitHub Actions. It felt like ",
-    "link": "https://dev.to/aitokenhub_98/automating-my-dev-workflow-for-3month-using-n8n-on-budget-chinese-cloud-servers-11eb",
+    "title": "Postmortem: Squash-Merge Made HEAD~1 Target Unrelated Code",
+    "desc": "<p>The durable fix is a locked merge-base, not <code>HEAD~1</code>.<br />\nAn agent that infers the review parent from git heuristics can pat",
+    "link": "https://dev.to/bytepro_1774/postmortem-squash-merge-made-head1-target-unrelated-code-39e3",
     "topic": "general"
   },
   {
-    "title": "Why I Switched from OpenAI to Alibaba's Qwen API on Tencent Cloud (Saved 80%)",
-    "desc": "<p>I've been building AI agents for the past three years, and my stack used to be pretty standard: OpenAI's API hosted on a Western VPS. But",
-    "link": "https://dev.to/aitokenhub_98/why-i-switched-from-openai-to-alibabas-qwen-api-on-tencent-cloud-saved-80-1i06",
-    "topic": "openai"
-  },
-  {
-    "title": "A Task Without A Check Command Is Not Automated",
-    "desc": "<h2>\n  \n  \n  What eight stages of automated production taught me about the limits of agents\n</h2>\n\n<p>Our production line has eight stages a",
-    "link": "https://dev.to/alaintural/a-task-without-a-check-command-is-not-automated-533j",
+    "title": "CI Rebuilds the Test Matrix. The Agent Does Not Get a Vote.",
+    "desc": "<p>You should not merge an agent patch because the agent said the tests passed. The merge queue has to rebuild the fixture set from the path",
+    "link": "https://dev.to/codego_3211/ci-rebuilds-the-test-matrix-the-agent-does-not-get-a-vote-mam",
     "topic": "general"
   },
   {
-    "title": "A Gate The Model Writes Is A Gate The Model Loosens",
-    "desc": "<h2>\n  \n  \n  Three ways our automated quality checks passed while the work was broken\n</h2>\n\n<p>Our production line runs in stages with qual",
-    "link": "https://dev.to/alaintural/a-gate-the-model-writes-is-a-gate-the-model-loosens-4p04",
+    "title": "S3-compatible is a promise with an asterisk",
+    "desc": "<p>Amazon's S3 won so completely that its API became a standard. Now half the object-storage providers on the market advertise the same two ",
+    "link": "https://dev.to/pgardunoc/s3-compatible-is-a-promise-with-an-asterisk-jc7",
     "topic": "general"
   },
   {
-    "title": "Microsoft Just Shipped 972 Patches and a Researcher Broke Their Defender Fix the Same Day",
-    "desc": "<p>September 2026 Patch Tuesday dropped with 972 CVEs. That number is not a typo. It is the largest single patch release in Microsoft's hist",
-    "link": "https://dev.to/numbpill3d/microsoft-just-shipped-972-patches-and-a-researcher-broke-their-defender-fix-the-same-day-3ke6",
-    "topic": "azure"
+    "title": "Retries Are How Cheap Jobs Get Expensive",
+    "desc": "<p>Retries are how cheap jobs get expensive. A failed generation does not refund the tokens you already burned, and it does not restore your",
+    "link": "https://dev.to/hackrs_3352/retries-are-how-cheap-jobs-get-expensive-4n11",
+    "topic": "general"
+  },
+  {
+    "title": "Name the Mutation or Don't Merge: A Fail-Closed Side-Effect Checklist",
+    "desc": "<p>If a pull request can mutate anything outside the process, you do not merge it until every write has an owner, a dry-run, an idempotency ",
+    "link": "https://dev.to/codecpp_5026/name-the-mutation-or-dont-merge-a-fail-closed-side-effect-checklist-2iph",
+    "topic": "general"
   }
 ]
