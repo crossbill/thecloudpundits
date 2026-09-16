@@ -1,50 +1,50 @@
 [
   {
-    "title": "Bypassing Cloudflare WAFs & Crawl Barriers: Building a Resilient Technical SEO & Dead Link Crawler",
-    "desc": "<p>Anyone who has tried to write an automated Technical SEO crawler or dead-link scanner in Node.js or Python has encountered the same wall:",
-    "link": "https://dev.to/sameer_hassan/bypassing-cloudflare-wafs-crawl-barriers-building-a-resilient-technical-seo-dead-link-crawler-11d7",
-    "topic": "general"
-  },
-  {
-    "title": "Plumbing CNAPP Findings Into the Way Engineers Already Work",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/jam-techcirkle/plumbing-cnapp-findings-into-the-way-engineers-already-work-2i47",
-    "topic": "general"
-  },
-  {
-    "title": "Warm Browsers, Cold Frames: Engineering a Reliable Preview/Render Browser Pool",
-    "desc": "<p>If you are building programmable video, at some point you stop arguing about timelines in the abstract and confront a duller problem: som",
-    "link": "https://dev.to/nidheeshdas/warm-browsers-cold-frames-engineering-a-reliable-previewrender-browser-pool-35k3",
-    "topic": "general"
-  },
-  {
-    "title": "AI Governance Principles in Practice: A Blueprint for Operational Control",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/pavel42/ai-governance-principles-in-practice-a-blueprint-for-operational-control-4806",
-    "topic": "guardrails"
-  },
-  {
-    "title": "OpsHome NOC + Console: Bringing Infrastructure Monitoring to More Screens",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/frankzhang/opshome-noc-console-bringing-infrastructure-monitoring-to-more-screens-on8",
-    "topic": "general"
-  },
-  {
-    "title": "Your SOP Is Probably Wrong. Build a Way to Notice.",
-    "desc": "<h1>\n  \n  \n  Your SOP Is Probably Wrong. Build a Way to Notice.\n</h1>\n\n<p>An SOP can look finished long after it stops describing the work.<",
-    "link": "https://dev.to/david_boggs_adaptive/your-sop-is-probably-wrong-build-a-way-to-notice-2401",
-    "topic": "general"
-  },
-  {
-    "title": "Jailbreak Detection for Production LLMs with Enterprise AI Gateways",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sebastian96/jailbreak-detection-for-production-llms-with-enterprise-ai-gateways-563p",
-    "topic": "guardrails"
-  },
-  {
-    "title": "A vulnerability report is not a bug ticket",
-    "desc": "<p>It is 16:47 on a Friday.</p>\n\n<p>The report does not arrive in the security inbox. It arrives in a public GitHub issue, or worse, in the ",
-    "link": "https://dev.to/pvgomes/a-vulnerability-report-is-not-a-bug-ticket-25hg",
+    "title": "A Two-Layer Observability Docs Pipeline: Generated Field Atlas, Human-Signed Incident Meaning",
+    "desc": "<p>Generated documentation fails incident response when field names compile cleanly while meaning, cardinality, and PII stay unsigned. Teams",
+    "link": "https://dev.to/github_7727/a-two-layer-observability-docs-pipeline-generated-field-atlas-human-signed-incident-meaning-a9d",
     "topic": "secops"
+  },
+  {
+    "title": "I Priced the Same Background Job on Temporal, Inngest and Trigger.dev",
+    "desc": "<p>A background job or a multi-step AI agent loop has to survive things a normal function call never has to: a worker restarting mid-step, a",
+    "link": "https://dev.to/moksh/i-priced-the-same-background-job-on-temporal-inngest-and-triggerdev-4289",
+    "topic": "general"
+  },
+  {
+    "title": "5,800 Data Engineers on What Is Actually in Production in 2026",
+    "desc": "<p>Every year, someone publishes a \"State of Data Engineering\" survey with 200 respondents, mostly from their own Slack community, and calls",
+    "link": "https://dev.to/datadriven/5800-data-engineers-on-what-is-actually-in-production-in-2026-1570",
+    "topic": "general"
+  },
+  {
+    "title": "Salesforce Down During Dreamforce 2026: How I Kept Shipping Apex Without an Org",
+    "desc": "<p>On <strong>September 16, 2026</strong>, Salesforce went down. Globally. On day two of <strong>Dreamforce</strong>.</p>\n\n<p>While tens of ",
+    "link": "https://dev.to/oblitus/salesforce-down-during-dreamforce-2026-how-i-kept-shipping-apex-without-an-org-2mek",
+    "topic": "general"
+  },
+  {
+    "title": "Give Yourself a Dead Man's Switch Before You Harden WordPress",
+    "desc": "<p>Hardening a WordPress site is a handful of settings and about five minutes of work. The reason people put it off for a year is not the fi",
+    "link": "https://dev.to/cifi/give-yourself-a-dead-mans-switch-before-you-harden-wordpress-324o",
+    "topic": "general"
+  },
+  {
+    "title": "Power Automate Versioning and Source Control - Export Tag Track",
+    "desc": "<p>You changed a Power Automate flow last Tuesday. Something broke in production on Thursday. You want to compare what the flow looked like ",
+    "link": "https://dev.to/az365ai/power-automate-versioning-and-source-control-export-tag-track-2ed5",
+    "topic": "general"
+  },
+  {
+    "title": "Your Page Builder Did Not Break. One of Three Endpoints Stopped Resolving.",
+    "desc": "<p>A page builder editor that hangs on the loading spinner, or saves and then reports failure with no error worth reading, is almost never a",
+    "link": "https://dev.to/cifi/your-page-builder-did-not-break-one-of-three-endpoints-stopped-resolving-1lg1",
+    "topic": "general"
+  },
+  {
+    "title": "From Physical-World Data to Verified Action",
+    "desc": "<p>Connecting sensors to an application is relatively straightforward.</p>\n\n<p>Building a system that can reliably understand what is happen",
+    "link": "https://dev.to/ema9/from-physical-world-data-to-verified-action-4adk",
+    "topic": "general"
   }
 ]
