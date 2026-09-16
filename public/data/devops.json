@@ -1,50 +1,50 @@
 [
   {
-    "title": "Anatomy of a Magento Card Skimmer: How Injected JavaScript Steals Cards \u2014 and Why Uptime Checks Miss It",
-    "desc": "<p>A Magento store can be fully up, fast, and passing every uptime check while quietly sending each customer's card number to a criminal. No",
-    "link": "https://dev.to/byte8io/anatomy-of-a-magento-card-skimmer-how-injected-javascript-steals-cards-and-why-uptime-checks-4am8",
+    "title": "Bypassing Cloudflare WAFs & Crawl Barriers: Building a Resilient Technical SEO & Dead Link Crawler",
+    "desc": "<p>Anyone who has tried to write an automated Technical SEO crawler or dead-link scanner in Node.js or Python has encountered the same wall:",
+    "link": "https://dev.to/sameer_hassan/bypassing-cloudflare-wafs-crawl-barriers-building-a-resilient-technical-seo-dead-link-crawler-11d7",
     "topic": "general"
   },
   {
-    "title": "Part 1: Least-privilege Kubernetes, generated from what eBPF saw",
-    "desc": "<p><em>Your pods already tell the kernel what they connect to. kguardian listens with eBPF and writes the NetworkPolicy from what it saw.</e",
-    "link": "https://dev.to/maheshrayas/part-1-least-privilege-kubernetes-generated-from-what-ebpf-saw-21ma",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Salesforce Core, Advanced or Max: Who Is Watching the Flex Credits?",
-    "desc": "<p>Salesforce replaced Enterprise, Unlimited and Agentforce 1 with three new editions on 3 September 2026: Core at $195, Advanced at $395 an",
-    "link": "https://dev.to/ashapurasoftechinc/salesforce-core-advanced-or-max-who-is-watching-the-flex-credits-1mc1",
+    "title": "Plumbing CNAPP Findings Into the Way Engineers Already Work",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/jam-techcirkle/plumbing-cnapp-findings-into-the-way-engineers-already-work-2i47",
     "topic": "general"
   },
   {
-    "title": "DevOps Outage Scenario: Recovering from Terraform Remote State Lock Deadlocks in S3 & DynamoDB",
-    "desc": "<p>In technical interviews for <strong>Senior Cloud, DevOps, and SRE roles</strong>, trivial syntax questions are gone. Hiring managers want",
-    "link": "https://dev.to/intervixa_ai/devops-outage-scenario-recovering-from-terraform-remote-state-lock-deadlocks-in-s3-dynamodb-ono",
-    "topic": "terraform"
-  },
-  {
-    "title": "Robots.txt Explained: How It Controls Search Engine Crawling",
-    "desc": "<p>When building or maintaining a website, developers quickly learn that writing clean code and creating helpful content is only half the ba",
-    "link": "https://dev.to/software_solutions_740799/robotstxt-explained-how-it-controls-search-engine-crawling-2kii",
+    "title": "Warm Browsers, Cold Frames: Engineering a Reliable Preview/Render Browser Pool",
+    "desc": "<p>If you are building programmable video, at some point you stop arguing about timelines in the abstract and confront a duller problem: som",
+    "link": "https://dev.to/nidheeshdas/warm-browsers-cold-frames-engineering-a-reliable-previewrender-browser-pool-35k3",
     "topic": "general"
   },
   {
-    "title": "A Scheduled Job That Works and Never Runs",
-    "desc": "<p>I have a job that publishes one article a day. Over four days I rebuilt its<br />\nscheduling three times, and each rebuild fixed a real f",
-    "link": "https://dev.to/quintetkit/a-scheduled-job-that-works-and-never-runs-10f8",
+    "title": "AI Governance Principles in Practice: A Blueprint for Operational Control",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/pavel42/ai-governance-principles-in-practice-a-blueprint-for-operational-control-4806",
+    "topic": "guardrails"
+  },
+  {
+    "title": "OpsHome NOC + Console: Bringing Infrastructure Monitoring to More Screens",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/frankzhang/opshome-noc-console-bringing-infrastructure-monitoring-to-more-screens-on8",
     "topic": "general"
   },
   {
-    "title": "A Bot Found Admin Access to a $13B Startup's GitHub in 25 Minutes. Here's Exactly How.",
-    "desc": "<p>You know that Docker layer you built in 2023 and forgot about? It's still running. And if you ever passed a secret through <code>ARG</cod",
-    "link": "https://dev.to/ashraf_chowdury09/a-bot-found-admin-access-to-a-13b-startups-github-in-25-minutes-heres-exactly-how-40pf",
+    "title": "Your SOP Is Probably Wrong. Build a Way to Notice.",
+    "desc": "<h1>\n  \n  \n  Your SOP Is Probably Wrong. Build a Way to Notice.\n</h1>\n\n<p>An SOP can look finished long after it stops describing the work.<",
+    "link": "https://dev.to/david_boggs_adaptive/your-sop-is-probably-wrong-build-a-way-to-notice-2401",
     "topic": "general"
   },
   {
-    "title": "Compile Error Catalogs From Source Constants; Hand-Write Impact, Recovery, and Escalation",
-    "desc": "<p>Troubleshooting copy is unsafe when a model invents recovery steps that never existed in product behavior. Compile identity columns from ",
-    "link": "https://dev.to/github_7727/compile-error-catalogs-from-source-constants-hand-write-impact-recovery-and-escalation-fpk",
-    "topic": "general"
+    "title": "Jailbreak Detection for Production LLMs with Enterprise AI Gateways",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/sebastian96/jailbreak-detection-for-production-llms-with-enterprise-ai-gateways-563p",
+    "topic": "guardrails"
+  },
+  {
+    "title": "A vulnerability report is not a bug ticket",
+    "desc": "<p>It is 16:47 on a Friday.</p>\n\n<p>The report does not arrive in the security inbox. It arrives in a public GitHub issue, or worse, in the ",
+    "link": "https://dev.to/pvgomes/a-vulnerability-report-is-not-a-bug-ticket-25hg",
+    "topic": "secops"
   }
 ]
