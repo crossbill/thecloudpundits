@@ -1,50 +1,50 @@
 [
   {
-    "title": "A Two-Layer Observability Docs Pipeline: Generated Field Atlas, Human-Signed Incident Meaning",
-    "desc": "<p>Generated documentation fails incident response when field names compile cleanly while meaning, cardinality, and PII stay unsigned. Teams",
-    "link": "https://dev.to/github_7727/a-two-layer-observability-docs-pipeline-generated-field-atlas-human-signed-incident-meaning-a9d",
+    "title": "FAQ: Four Myths About \"pytest Already Passed\" in an Agent Loop",
+    "desc": "<p>Did your agent just tell you the tests passed?</p>\n\n<p>I hear that sentence at the end of almost every loop.</p>\n\n<p>It sounds like CI, b",
+    "link": "https://dev.to/gitlab_3188/faq-four-myths-about-pytest-already-passed-in-an-agent-loop-4fba",
+    "topic": "general"
+  },
+  {
+    "title": "I Trusted Git for 48 Hours. Python Still Imported the Wheel.",
+    "desc": "<p>Have you ever stared at a green git status while the running process still behaved like yesterday's code? I spent two days in that loop, ",
+    "link": "https://dev.to/codepy_1473/i-trusted-git-for-48-hours-python-still-imported-the-wheel-5d98",
+    "topic": "general"
+  },
+  {
+    "title": "[Lab Notes] Kubernetes the Hard Way, For Real This Time (Step 05)",
+    "desc": "<p>Continuing my <a href=\"https://github.com/kelseyhightower/kubernetes-the-hard-way\" rel=\"noopener noreferrer\">Kubernetes the Hard Way</a> ",
+    "link": "https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-05-3887",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Pin Entropy Sources. Re-Run Agent Patches Off the Laptop.",
+    "desc": "<p>Agent patches often go green by silencing nondeterminism, not by fixing the defect. A freeze keyed on test name or failure text still mer",
+    "link": "https://dev.to/datacpp_8185/pin-entropy-sources-re-run-agent-patches-off-the-laptop-2o7f",
+    "topic": "general"
+  },
+  {
+    "title": "DevOps Adoption in Nigeria: Closing the Skills Gap",
+    "desc": "<h1>\n  \n  \n  DevOps Adoption in Nigeria: Closing the Skills Gap\n</h1>\n\n<p>DevOps adoption lags behind in Nigeria: manual deployments, no aut",
+    "link": "https://dev.to/ojiiisng/devops-adoption-in-nigeria-closing-the-skills-gap-439n",
+    "topic": "general"
+  },
+  {
+    "title": "Bypassing Omio Cloudflare 403s with Virail Structured Data",
+    "desc": "<p>Data pipelines monitoring intercity transport fares across European routes frequently hit severe anti-bot restrictions. Building a direct",
+    "link": "https://dev.to/crawlerbros/bypassing-omio-cloudflare-403s-with-virail-structured-data-2h69",
+    "topic": "general"
+  },
+  {
+    "title": "The Vulnerability Scanner Is Not the Hard Part. The Handoff Is.",
+    "desc": "<h1>\n  \n  \n  The Vulnerability Scanner Is Not the Hard Part. The Handoff Is.\n</h1>\n\n<p>Most vulnerability scanners are good at finding probl",
+    "link": "https://dev.to/varaxonceo/the-vulnerability-scanner-is-not-the-hard-part-the-handoff-is-3mo5",
     "topic": "secops"
   },
   {
-    "title": "I Priced the Same Background Job on Temporal, Inngest and Trigger.dev",
-    "desc": "<p>A background job or a multi-step AI agent loop has to survive things a normal function call never has to: a worker restarting mid-step, a",
-    "link": "https://dev.to/moksh/i-priced-the-same-background-job-on-temporal-inngest-and-triggerdev-4289",
-    "topic": "general"
-  },
-  {
-    "title": "5,800 Data Engineers on What Is Actually in Production in 2026",
-    "desc": "<p>Every year, someone publishes a \"State of Data Engineering\" survey with 200 respondents, mostly from their own Slack community, and calls",
-    "link": "https://dev.to/datadriven/5800-data-engineers-on-what-is-actually-in-production-in-2026-1570",
-    "topic": "general"
-  },
-  {
-    "title": "Salesforce Down During Dreamforce 2026: How I Kept Shipping Apex Without an Org",
-    "desc": "<p>On <strong>September 16, 2026</strong>, Salesforce went down. Globally. On day two of <strong>Dreamforce</strong>.</p>\n\n<p>While tens of ",
-    "link": "https://dev.to/oblitus/salesforce-down-during-dreamforce-2026-how-i-kept-shipping-apex-without-an-org-2mek",
-    "topic": "general"
-  },
-  {
-    "title": "Give Yourself a Dead Man's Switch Before You Harden WordPress",
-    "desc": "<p>Hardening a WordPress site is a handful of settings and about five minutes of work. The reason people put it off for a year is not the fi",
-    "link": "https://dev.to/cifi/give-yourself-a-dead-mans-switch-before-you-harden-wordpress-324o",
-    "topic": "general"
-  },
-  {
-    "title": "Power Automate Versioning and Source Control - Export Tag Track",
-    "desc": "<p>You changed a Power Automate flow last Tuesday. Something broke in production on Thursday. You want to compare what the flow looked like ",
-    "link": "https://dev.to/az365ai/power-automate-versioning-and-source-control-export-tag-track-2ed5",
-    "topic": "general"
-  },
-  {
-    "title": "Your Page Builder Did Not Break. One of Three Endpoints Stopped Resolving.",
-    "desc": "<p>A page builder editor that hangs on the loading spinner, or saves and then reports failure with no error worth reading, is almost never a",
-    "link": "https://dev.to/cifi/your-page-builder-did-not-break-one-of-three-endpoints-stopped-resolving-1lg1",
-    "topic": "general"
-  },
-  {
-    "title": "From Physical-World Data to Verified Action",
-    "desc": "<p>Connecting sensors to an application is relatively straightforward.</p>\n\n<p>Building a system that can reliably understand what is happen",
-    "link": "https://dev.to/ema9/from-physical-world-data-to-verified-action-4adk",
+    "title": "Github Actions: Re-intentar autom\u00e1ticamente los jobs de CI que un reclamo de spot instance mat\u00f3",
+    "desc": "<p>Mi CI corre en un runner spot ARM64 autoalojado. Cuando AWS se lleva la instancia de vuelta a media corrida, GitHub muestra una X roja en",
+    "link": "https://dev.to/elchesco_/github-actions-re-intentar-automaticamente-los-jobs-de-ci-que-un-reclamo-de-spot-instance-mato-1f79",
     "topic": "general"
   }
 ]
