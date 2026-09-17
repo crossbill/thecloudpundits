@@ -1,5 +1,11 @@
 [
   {
+    "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+    "desc": "<p>The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+    "topic": "secops"
+  },
+  {
     "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
     "desc": "<p>OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
@@ -40,11 +46,5 @@
     "desc": "<p>The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution.\u00a0\u00a0</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
     "topic": "aws"
-  },
-  {
-    "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
-    "desc": "<p>Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments.</p>\n",
-    "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
-    "topic": "secops"
   }
 ]

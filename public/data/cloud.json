@@ -1,5 +1,11 @@
 [
   {
+    "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+    "desc": "Run an application on AWS Elastic Beanstalk Cluster Mode without provisioning or operating the compute underneath it. You provide a containe",
+    "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/",
+    "topic": "aws"
+  },
+  {
     "title": "AWS reimagines the getting started experience",
     "desc": "AWS has reimagined the getting started experience with smart and sensible defaults to help developers get started fast so that they can focu",
     "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
@@ -40,11 +46,5 @@
     "desc": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom sili",
     "link": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
     "topic": "general"
-  },
-  {
-    "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
-    "desc": "During my time at AWS, I have always looked for opportunities to work with students. I have delivered over 50 talks at universities across t",
-    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
-    "topic": "aws"
   }
 ]
