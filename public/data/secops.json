@@ -1,5 +1,23 @@
 [
   {
+    "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
+    "desc": "<p>Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments.</p>\n",
+    "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
+    "topic": "secops"
+  },
+  {
+    "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
+    "desc": "<p>New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks.</p>\n<p",
+    "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
+    "topic": "general"
+  },
+  {
+    "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
+    "desc": "<p>Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
+    "topic": "general"
+  },
+  {
     "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
     "desc": "<p>Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potenti",
     "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
@@ -27,24 +45,6 @@
     "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
     "desc": "<p>Google announced patches for the exploited privilege escalation vulnerability (CVE-2026-58704) on September 15. </p>\n<p>The post <a href=",
     "link": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "US, UK, Dutch Agencies Expose Iranian \u2018Chosen Brick\u2019 Surveillance Malware",
-    "desc": "<p>US, UK, and Dutch government agencies published a report detailing the malware, and the FBI described the abuse of Telegram for C&C.</p>\n",
-    "link": "https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/",
-    "topic": "general"
-  },
-  {
-    "title": "Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover",
-    "desc": "<p>Vulnerabilities in The Events Calendar can provide attackers with remote code execution capabilities.</p>\n<p>The post <a href=\"https://ww",
-    "link": "https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/",
-    "topic": "aws"
-  },
-  {
-    "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management",
-    "desc": "<p>The company will use the new capital to expand its vulnerability operations platform and support international growth.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
     "topic": "secops"
   }
 ]

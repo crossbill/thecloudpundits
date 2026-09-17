@@ -1,50 +1,50 @@
 [
   {
-    "title": "Real talk, what being a MERN dev actually means in 2026",
-    "desc": "<p>nobody cares that you know four technologies anymore, they care whether you can think when the build breaks and the demo is in twenty min",
-    "link": "https://dev.to/roshan_chaturvedi_256f1f9/real-talk-what-being-a-mern-dev-actually-means-in-2026-4m3k",
+    "title": "A nightly pg_dump that fails with the reason, not with \"Network is unreachable\"",
+    "desc": "<p><a href=\"https://munchable.app\" rel=\"noopener noreferrer\">Munchable</a>'s Postgres runs on a hosted tier that provides no managed backups",
+    "link": "https://dev.to/daniel_pertu/a-nightly-pgdump-that-fails-with-the-reason-not-with-network-is-unreachable-4lg8",
     "topic": "general"
   },
   {
-    "title": "Shadow the Old Binary Before the Merge",
-    "desc": "<p>The incident started as a quiet green build. An agent had \"stabilized\" a flaky checkout test. It replaced a fake clock with real sleep.</",
-    "link": "https://dev.to/gitpy_4124/shadow-the-old-binary-before-the-merge-3dfo",
+    "title": "4 Ways a 'Retired' launchd Job Kept Running on a 160+ Job Fleet \u2014 and the 3 Commands That Actually Stop It",
+    "desc": "<p>I run more than 160 launchd jobs on a Mac that almost never reboots. That fleet is what carried me from a \u00a5100k/month student side gig to",
+    "link": "https://dev.to/bokuwalily/4-ways-a-retired-launchd-job-kept-running-on-a-160-job-fleet-and-the-3-commands-that-actually-1fk6",
     "topic": "general"
   },
   {
-    "title": "Kubelet watches inodes. Just not until it's an emergency.",
-    "desc": "<p>A worker node pages with <code>NodeFilesystemFilesFillingUp</code>. It's on course to run out of inodes. You check the disk first, becaus",
-    "link": "https://dev.to/onkar_s/kubelet-watches-inodes-just-not-until-its-an-emergency-351c",
+    "title": "I have 10 bots working on my dev workflow right now. Here is what each one does.",
+    "desc": "<p>I was mid-deploy when my terminal froze for three seconds.</p>\n\n<p>It continued on the wrong branch.</p>\n\n<p>A scheduled automation had s",
+    "link": "https://dev.to/kbhatnagar/i-have-10-bots-working-on-my-dev-workflow-right-now-here-is-what-each-one-does-37g3",
     "topic": "general"
   },
   {
-    "title": "The Diff Is Draftable. The Support Window Is Not.",
-    "desc": "<p>A services team cut a Friday release with a generated changelog that read clean. The bullets matched the merged commits. The tone was cal",
-    "link": "https://dev.to/datago_7777/the-diff-is-draftable-the-support-window-is-not-39jh",
+    "title": "We upgraded our job platform at 10:22 and deleted it at 13:34",
+    "desc": "<p>On 16 September the <a href=\"https://munchable.app\" rel=\"noopener noreferrer\">Munchable</a> repo has four commits about its background jo",
+    "link": "https://dev.to/daniel_pertu/we-upgraded-our-job-platform-at-1022-and-deleted-it-at-1334-134p",
     "topic": "general"
   },
   {
-    "title": "WordPress vs Webflow for Agencies: Which Stack Wins in 2026?",
-    "desc": "<h1>\n  \n  \n  WordPress vs Webflow for Agencies: Which Stack Wins in 2026?\n</h1>\n\n<p>A practical agency comparison of WordPress vs Webflow \u2014 ",
-    "link": "https://dev.to/usmanahmaddevx/wordpress-vs-webflow-for-agencies-which-stack-wins-in-2026-1hni",
+    "title": "Our test asked for 4 branches, ran 1, and reported PASS",
+    "desc": "<p><strong>Quick answer:</strong> Our cloud test asked for 4 things \u2014 sale and rent, across Warszawa, Krak\u00f3w and Wroc\u0142aw \u2014 with <code>maxRes",
+    "link": "https://dev.to/devil_scrapes/our-test-asked-for-4-branches-ran-1-and-reported-pass-980",
     "topic": "general"
   },
   {
-    "title": "How I Built a Self-Healing, Multi-AZ Infrastructure on AWS \u2014 And What Broke Along the Way",
-    "desc": "<h2>\n  \n  \n  The Problem I Set Out to Solve\n</h2>\n\n<p>AWS can projects look the same: spin up one EC2 instance, install a web server, call i",
-    "link": "https://dev.to/knirl/how-i-built-a-self-healing-multi-az-infrastructure-on-aws-and-what-broke-along-the-way-72j",
-    "topic": "aws"
+    "title": "Why I Built a Lightweight Rust Watcher for Linux Services & Docker Containers",
+    "desc": "<h1>\n  \n  \n  Aegira: A Lightweight Self-Healing Watcher for Linux & Docker\n</h1>\n\n<p>It's 2AM. Your phone buzzes. A service is down. You dra",
+    "link": "https://dev.to/aegira/why-i-built-a-lightweight-rust-watcher-for-linux-services-docker-containers-5ol",
+    "topic": "docker"
   },
   {
-    "title": "CPU Core Count vs Clock Speed: Which Matters More?",
-    "desc": "<h2>\n  \n  \n  CPU Core Count vs Clock Speed: Which Matters More?\n</h2>\n\n<p>When choosing a dedicated server, it's easy to default to comparin",
-    "link": "https://dev.to/shannon_dias_927e8f0d0d18/cpu-core-count-vs-clock-speed-which-matters-more-e63",
+    "title": "Twelve Checks That Could Not Fail",
+    "desc": "<p>Four days ago I published a piece about a release pipeline that installed the package it had just published, confirmed the version, and r",
+    "link": "https://dev.to/efe_genc/twelve-checks-that-could-not-fail-4lea",
     "topic": "general"
   },
   {
-    "title": "Understanding QuickBooks Desktop Assistance in San Diego",
-    "desc": "<p>Managing business finances efficiently requires dependable accounting software, and QuickBooks Desktop continues to be a useful choice fo",
-    "link": "https://dev.to/luna_aurora_6d410468ab7e8/understanding-quickbooks-desktop-assistance-in-san-diego-373a",
+    "title": "Green ticks for three hours: the lock whose TTL was the job's worst case",
+    "desc": "<p><a href=\"https://munchable.app\" rel=\"noopener noreferrer\">Munchable</a> runs curation jobs that spend money on model calls and write cura",
+    "link": "https://dev.to/daniel_pertu/green-ticks-for-three-hours-the-lock-whose-ttl-was-the-jobs-worst-case-3712",
     "topic": "general"
   }
 ]
