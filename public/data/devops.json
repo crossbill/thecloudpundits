@@ -1,50 +1,50 @@
 [
   {
-    "title": "Open Source Agent Gateway: Architecture, Security, and Production Tools",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/carvalhomateus/open-source-agent-gateway-architecture-security-and-production-tools-2iaf",
-    "topic": "secops"
-  },
-  {
-    "title": "Best Shadow AI Tools for Enterprise Governance in 2026",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/best-shadow-ai-tools-for-enterprise-governance-in-2026-48mh",
-    "topic": "general"
-  },
-  {
-    "title": "Enterprise AI Guardrails Tools: Top Platforms and Architecture Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/enterprise-ai-guardrails-tools-top-platforms-and-architecture-guide-218i",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Top AI Guardrails Tools for Production AI Applications (2026)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/top-ai-guardrails-tools-for-production-ai-applications-2026-f33",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Auto Routing Platforms for LLMs: Architecture and Top Options",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/auto-routing-platforms-for-llms-architecture-and-top-options-2e1",
-    "topic": "general"
-  },
-  {
-    "title": "Extract getenv Call Sites Into a Settings Catalog; Sign Secret Class Offline",
-    "desc": "<p>Configuration reference pages go stale the moment a model invents a default, a secret class, or a restart requirement the tree never enco",
-    "link": "https://dev.to/github_7727/extract-getenv-call-sites-into-a-settings-catalog-sign-secret-class-offline-2pak",
-    "topic": "general"
-  },
-  {
-    "title": "Best Enterprise LLM Routing Tools in 2026",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/best-enterprise-llm-routing-tools-in-2026-15ad",
-    "topic": "general"
-  },
-  {
-    "title": "Docker Desktop costs money now. Your Windows box already has the engine.",
-    "desc": "<p>Since 2021, Docker Desktop has needed a paid subscription at companies past a certain size. A lot of developers have been told to stop us",
-    "link": "https://dev.to/zcsizmadia/docker-desktop-costs-money-now-your-windows-box-already-has-the-engine-5c2e",
+    "title": "Podman's Docker-compatible API resets a container's restart policy to 'no' on any update that omits it",
+    "desc": "<p><strong>TL;DR</strong>: On Podman 5.4.2 the Docker-compatible <code>POST /containers/{id}/update</code> endpoint always writes a restart ",
+    "link": "https://dev.to/homelabpm/podmans-docker-compatible-api-resets-a-containers-restart-policy-to-no-on-any-update-that-omits-3k14",
     "topic": "docker"
+  },
+  {
+    "title": "Short DNS TTLs Everywhere vs Pre-Change Lowering: Node.js Resolution Latency in 2026",
+    "desc": "<p>Permanent short TTLs feel like a fire exit: always available, always costing something. For a fintech admin console, I would use long, ex",
+    "link": "https://dev.to/valdemarblack3817/short-dns-ttls-everywhere-vs-pre-change-lowering-nodejs-resolution-latency-in-2026-hj4",
+    "topic": "general"
+  },
+  {
+    "title": "Manage Internal DNS Hostnames from Infrastructure Code in 4 Deploy Steps",
+    "desc": "<p>TL;DR: Keep stable internal DNS records in the infrastructure repository, upsert them during deployment, then read them back and fail the",
+    "link": "https://dev.to/judsonrhodes1569/manage-internal-dns-hostnames-from-infrastructure-code-in-4-deploy-steps-43fd",
+    "topic": "general"
+  },
+  {
+    "title": "FAQ: Five Myths About \"It Worked on the Free Host\"",
+    "desc": "<p>Did that free remote host just bless your patch?</p>\n\n<p>I hear that line in too many agent threads.</p>\n\n<p>A green remote command feels",
+    "link": "https://dev.to/gitlab_3188/faq-five-myths-about-it-worked-on-the-free-host-1pe8",
+    "topic": "general"
+  },
+  {
+    "title": "Compile Module Overviews From an AST Atlas; Sign Exceptions, I/O, and Compatibility by Hand",
+    "desc": "<p>Generated documentation remains useful only when models draft descriptive text and humans own every contract sentence. Models can summari",
+    "link": "https://dev.to/github_7727/compile-module-overviews-from-an-ast-atlas-sign-exceptions-io-and-compatibility-by-hand-hb3",
+    "topic": "general"
+  },
+  {
+    "title": "SRE Maturity Models: Where Is Your Team?",
+    "desc": "<p>Where is your SRE team on the maturity curve? I've worked with teams at every stage. Here's a rough map.</p>\n\n<h2>\n  \n  \n  Stage 0: React",
+    "link": "https://dev.to/samson_tanimawo/sre-maturity-models-where-is-your-team-2340",
+    "topic": "general"
+  },
+  {
+    "title": "Enterprise LLM Routing Platforms: Architecture, Benchmarks, and Evaluation Guide (2026)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/elise_moreau/enterprise-llm-routing-platforms-architecture-benchmarks-and-evaluation-guide-2026-eof",
+    "topic": "general"
+  },
+  {
+    "title": "Best LLM Routing Platforms in 2026: Architectures, Benchmarks, and Trade-Offs",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/elangoldstein/best-llm-routing-platforms-in-2026-architectures-benchmarks-and-trade-offs-2deo",
+    "topic": "general"
   }
 ]
