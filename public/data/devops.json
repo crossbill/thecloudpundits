@@ -1,50 +1,50 @@
 [
   {
-    "title": "Try new models and services, skip the account setup",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/try-new-models-and-services-skip-the-account-setup\" rel=\"noopene",
-    "link": "https://dev.to/rasne/try-new-models-and-services-skip-the-account-setup-4lcj",
+    "title": "Real talk, what being a MERN dev actually means in 2026",
+    "desc": "<p>nobody cares that you know four technologies anymore, they care whether you can think when the build breaks and the demo is in twenty min",
+    "link": "https://dev.to/roshan_chaturvedi_256f1f9/real-talk-what-being-a-mern-dev-actually-means-in-2026-4m3k",
     "topic": "general"
   },
   {
-    "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/kubernetes-v137-hardening-container-storage-with-bind-mount-opti",
-    "link": "https://dev.to/rasne/kubernetes-v137-hardening-container-storage-with-bind-mount-options-and-emptydir-permissions-9fm",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "One API Key Turned the Gateway's Cooldown Into a 60-Second Blackout, and I Blamed the Vendor for Months",
-    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/one-key-cooldown-is-a-blackout-not-a-rotation.html\" rel=\"noopener ",
-    "link": "https://dev.to/hexisteme/one-api-key-turned-the-gateways-cooldown-into-a-60-second-blackout-and-i-blamed-the-vendor-for-3a9p",
+    "title": "Shadow the Old Binary Before the Merge",
+    "desc": "<p>The incident started as a quiet green build. An agent had \"stabilized\" a flaky checkout test. It replaced a fake clock with real sleep.</",
+    "link": "https://dev.to/gitpy_4124/shadow-the-old-binary-before-the-merge-3dfo",
     "topic": "general"
   },
   {
-    "title": "The only disaster recovery plan a small team will actually use (template inside)",
-    "desc": "<p>Most disaster recovery plans fail for the same reason most gym memberships go unused: they were written for a company that doesn't exist.",
-    "link": "https://dev.to/hive80lab/the-only-disaster-recovery-plan-a-small-team-will-actually-use-template-inside-4730",
+    "title": "Kubelet watches inodes. Just not until it's an emergency.",
+    "desc": "<p>A worker node pages with <code>NodeFilesystemFilesFillingUp</code>. It's on course to run out of inodes. You check the disk first, becaus",
+    "link": "https://dev.to/onkar_s/kubelet-watches-inodes-just-not-until-its-an-emergency-351c",
     "topic": "general"
   },
   {
-    "title": "5 AI Workflows That Automate Incident Response (And Slash Your MTTR by 60%)",
-    "desc": "<p>When I first tried to automate incident response at my organization, I spent weeks building a custom system. Then I realized the key wasn",
-    "link": "https://dev.to/hive80lab/5-ai-workflows-that-automate-incident-response-and-slash-your-mttr-by-60-154a",
-    "topic": "secops"
-  },
-  {
-    "title": "How I Reclaimed 8 Hours from Sales Reports (And You Can Too)",
-    "desc": "<p>Tired of spending 8+ hours every week manually compiling sales reports? Let me show you the exact workflow that automated this process \u2014 ",
-    "link": "https://dev.to/hive80lab/how-i-reclaimed-8-hours-from-sales-reports-and-you-can-too-2g9d",
+    "title": "The Diff Is Draftable. The Support Window Is Not.",
+    "desc": "<p>A services team cut a Friday release with a generated changelog that read clean. The bullets matched the merged commits. The tone was cal",
+    "link": "https://dev.to/datago_7777/the-diff-is-draftable-the-support-window-is-not-39jh",
     "topic": "general"
   },
   {
-    "title": "Healthtech Mail DNS: 3 Scoped Zone Identifier Checks Before Cutover",
-    "desc": "<p>Use an environment-scoped DNS zone identifier and a startup assertion before changing a healthtech company's mail MX records; the added g",
-    "link": "https://dev.to/solomonfletcher5872/healthtech-mail-dns-3-scoped-zone-identifier-checks-before-cutover-3eo4",
+    "title": "WordPress vs Webflow for Agencies: Which Stack Wins in 2026?",
+    "desc": "<h1>\n  \n  \n  WordPress vs Webflow for Agencies: Which Stack Wins in 2026?\n</h1>\n\n<p>A practical agency comparison of WordPress vs Webflow \u2014 ",
+    "link": "https://dev.to/usmanahmaddevx/wordpress-vs-webflow-for-agencies-which-stack-wins-in-2026-1hni",
     "topic": "general"
   },
   {
-    "title": "How teams hand off logins and DNS records without losing half of them in Slack",
-    "desc": "<p>The last time we handed off a client project, the DNS records arrived as a Slack message. Four A records, two CNAMEs, an MX entry, and th",
-    "link": "https://dev.to/jakub_inithouse/how-teams-hand-off-logins-and-dns-records-without-losing-half-of-them-in-slack-4lh6",
+    "title": "How I Built a Self-Healing, Multi-AZ Infrastructure on AWS \u2014 And What Broke Along the Way",
+    "desc": "<h2>\n  \n  \n  The Problem I Set Out to Solve\n</h2>\n\n<p>AWS can projects look the same: spin up one EC2 instance, install a web server, call i",
+    "link": "https://dev.to/knirl/how-i-built-a-self-healing-multi-az-infrastructure-on-aws-and-what-broke-along-the-way-72j",
+    "topic": "aws"
+  },
+  {
+    "title": "CPU Core Count vs Clock Speed: Which Matters More?",
+    "desc": "<h2>\n  \n  \n  CPU Core Count vs Clock Speed: Which Matters More?\n</h2>\n\n<p>When choosing a dedicated server, it's easy to default to comparin",
+    "link": "https://dev.to/shannon_dias_927e8f0d0d18/cpu-core-count-vs-clock-speed-which-matters-more-e63",
+    "topic": "general"
+  },
+  {
+    "title": "Understanding QuickBooks Desktop Assistance in San Diego",
+    "desc": "<p>Managing business finances efficiently requires dependable accounting software, and QuickBooks Desktop continues to be a useful choice fo",
+    "link": "https://dev.to/luna_aurora_6d410468ab7e8/understanding-quickbooks-desktop-assistance-in-san-diego-373a",
     "topic": "general"
   }
 ]
