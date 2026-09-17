@@ -1,50 +1,50 @@
 [
   {
+    "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+    "desc": "<p>OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+    "topic": "openai"
+  },
+  {
+    "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
+    "desc": "<p>The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk.</p>\n<p>The po",
+    "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
+    "topic": "secops"
+  },
+  {
+    "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+    "desc": "<p>Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
+    "topic": "secops"
+  },
+  {
+    "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
+    "desc": "<p>The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure.</p>\n<p>The p",
+    "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
+    "topic": "secops"
+  },
+  {
+    "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
+    "desc": "<p>Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process.</p>\n<p>",
+    "link": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
+    "topic": "secops"
+  },
+  {
+    "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
+    "desc": "<p>Research shows attacks on manufacturers rose 40% in early 2026, as ransomware groups increasingly exploit the supply-chain disruption cau",
+    "link": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
+    "topic": "secops"
+  },
+  {
+    "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
+    "desc": "<p>The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution.\u00a0\u00a0</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
+    "topic": "aws"
+  },
+  {
     "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
     "desc": "<p>Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments.</p>\n",
     "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
-    "topic": "secops"
-  },
-  {
-    "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
-    "desc": "<p>New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks.</p>\n<p",
-    "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
-    "topic": "general"
-  },
-  {
-    "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-    "desc": "<p>Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests.</p>\n<p>The post <a href=\"h",
-    "link": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
-    "topic": "general"
-  },
-  {
-    "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-    "desc": "<p>Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potenti",
-    "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-    "topic": "secops"
-  },
-  {
-    "title": "Virtual Event Today: Attack Surface Management Summit",
-    "desc": "<p>Join SecurityWeek today for a virtual summit exploring the strategies and tools organizations need to discover, prioritize, and defend th",
-    "link": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
-    "topic": "secops"
-  },
-  {
-    "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media",
-    "desc": "<p>Ursula von der Leyen warns that advanced AI could unleash hacking on an unprecedented scale as Europe prepares new protections against so",
-    "link": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
-    "topic": "general"
-  },
-  {
-    "title": "AIUC Raises $40 Million to Certify Enterprise AI Agents",
-    "desc": "<p>The company provides a standard for AI systems, testing them against risks such as jailbreaks, prompt injections, and unauthorized action",
-    "link": "https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/",
-    "topic": "general"
-  },
-  {
-    "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
-    "desc": "<p>Google announced patches for the exploited privilege escalation vulnerability (CVE-2026-58704) on September 15. </p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
     "topic": "secops"
   }
 ]
