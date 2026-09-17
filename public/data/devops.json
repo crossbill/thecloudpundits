@@ -1,50 +1,50 @@
 [
   {
-    "title": "FAQ: Four Myths About \"pytest Already Passed\" in an Agent Loop",
-    "desc": "<p>Did your agent just tell you the tests passed?</p>\n\n<p>I hear that sentence at the end of almost every loop.</p>\n\n<p>It sounds like CI, b",
-    "link": "https://dev.to/gitlab_3188/faq-four-myths-about-pytest-already-passed-in-an-agent-loop-4fba",
+    "title": "Try new models and services, skip the account setup",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/try-new-models-and-services-skip-the-account-setup\" rel=\"noopene",
+    "link": "https://dev.to/rasne/try-new-models-and-services-skip-the-account-setup-4lcj",
     "topic": "general"
   },
   {
-    "title": "I Trusted Git for 48 Hours. Python Still Imported the Wheel.",
-    "desc": "<p>Have you ever stared at a green git status while the running process still behaved like yesterday's code? I spent two days in that loop, ",
-    "link": "https://dev.to/codepy_1473/i-trusted-git-for-48-hours-python-still-imported-the-wheel-5d98",
-    "topic": "general"
-  },
-  {
-    "title": "[Lab Notes] Kubernetes the Hard Way, For Real This Time (Step 05)",
-    "desc": "<p>Continuing my <a href=\"https://github.com/kelseyhightower/kubernetes-the-hard-way\" rel=\"noopener noreferrer\">Kubernetes the Hard Way</a> ",
-    "link": "https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-05-3887",
+    "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/kubernetes-v137-hardening-container-storage-with-bind-mount-opti",
+    "link": "https://dev.to/rasne/kubernetes-v137-hardening-container-storage-with-bind-mount-options-and-emptydir-permissions-9fm",
     "topic": "kubernetes"
   },
   {
-    "title": "Pin Entropy Sources. Re-Run Agent Patches Off the Laptop.",
-    "desc": "<p>Agent patches often go green by silencing nondeterminism, not by fixing the defect. A freeze keyed on test name or failure text still mer",
-    "link": "https://dev.to/datacpp_8185/pin-entropy-sources-re-run-agent-patches-off-the-laptop-2o7f",
+    "title": "One API Key Turned the Gateway's Cooldown Into a 60-Second Blackout, and I Blamed the Vendor for Months",
+    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/one-key-cooldown-is-a-blackout-not-a-rotation.html\" rel=\"noopener ",
+    "link": "https://dev.to/hexisteme/one-api-key-turned-the-gateways-cooldown-into-a-60-second-blackout-and-i-blamed-the-vendor-for-3a9p",
     "topic": "general"
   },
   {
-    "title": "DevOps Adoption in Nigeria: Closing the Skills Gap",
-    "desc": "<h1>\n  \n  \n  DevOps Adoption in Nigeria: Closing the Skills Gap\n</h1>\n\n<p>DevOps adoption lags behind in Nigeria: manual deployments, no aut",
-    "link": "https://dev.to/ojiiisng/devops-adoption-in-nigeria-closing-the-skills-gap-439n",
+    "title": "The only disaster recovery plan a small team will actually use (template inside)",
+    "desc": "<p>Most disaster recovery plans fail for the same reason most gym memberships go unused: they were written for a company that doesn't exist.",
+    "link": "https://dev.to/hive80lab/the-only-disaster-recovery-plan-a-small-team-will-actually-use-template-inside-4730",
     "topic": "general"
   },
   {
-    "title": "Bypassing Omio Cloudflare 403s with Virail Structured Data",
-    "desc": "<p>Data pipelines monitoring intercity transport fares across European routes frequently hit severe anti-bot restrictions. Building a direct",
-    "link": "https://dev.to/crawlerbros/bypassing-omio-cloudflare-403s-with-virail-structured-data-2h69",
-    "topic": "general"
-  },
-  {
-    "title": "The Vulnerability Scanner Is Not the Hard Part. The Handoff Is.",
-    "desc": "<h1>\n  \n  \n  The Vulnerability Scanner Is Not the Hard Part. The Handoff Is.\n</h1>\n\n<p>Most vulnerability scanners are good at finding probl",
-    "link": "https://dev.to/varaxonceo/the-vulnerability-scanner-is-not-the-hard-part-the-handoff-is-3mo5",
+    "title": "5 AI Workflows That Automate Incident Response (And Slash Your MTTR by 60%)",
+    "desc": "<p>When I first tried to automate incident response at my organization, I spent weeks building a custom system. Then I realized the key wasn",
+    "link": "https://dev.to/hive80lab/5-ai-workflows-that-automate-incident-response-and-slash-your-mttr-by-60-154a",
     "topic": "secops"
   },
   {
-    "title": "Github Actions: Re-intentar autom\u00e1ticamente los jobs de CI que un reclamo de spot instance mat\u00f3",
-    "desc": "<p>Mi CI corre en un runner spot ARM64 autoalojado. Cuando AWS se lleva la instancia de vuelta a media corrida, GitHub muestra una X roja en",
-    "link": "https://dev.to/elchesco_/github-actions-re-intentar-automaticamente-los-jobs-de-ci-que-un-reclamo-de-spot-instance-mato-1f79",
+    "title": "How I Reclaimed 8 Hours from Sales Reports (And You Can Too)",
+    "desc": "<p>Tired of spending 8+ hours every week manually compiling sales reports? Let me show you the exact workflow that automated this process \u2014 ",
+    "link": "https://dev.to/hive80lab/how-i-reclaimed-8-hours-from-sales-reports-and-you-can-too-2g9d",
+    "topic": "general"
+  },
+  {
+    "title": "Healthtech Mail DNS: 3 Scoped Zone Identifier Checks Before Cutover",
+    "desc": "<p>Use an environment-scoped DNS zone identifier and a startup assertion before changing a healthtech company's mail MX records; the added g",
+    "link": "https://dev.to/solomonfletcher5872/healthtech-mail-dns-3-scoped-zone-identifier-checks-before-cutover-3eo4",
+    "topic": "general"
+  },
+  {
+    "title": "How teams hand off logins and DNS records without losing half of them in Slack",
+    "desc": "<p>The last time we handed off a client project, the DNS records arrived as a Slack message. Four A records, two CNAMEs, an MX entry, and th",
+    "link": "https://dev.to/jakub_inithouse/how-teams-hand-off-logins-and-dns-records-without-losing-half-of-them-in-slack-4lh6",
     "topic": "general"
   }
 ]
