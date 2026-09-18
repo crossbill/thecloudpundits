@@ -1,50 +1,50 @@
 [
   {
-    "title": "Tuning-Set Pass Rate Is Not an Eval",
-    "desc": "<p>Prompt iteration overfits golden cases in the same way that gradient descent overfits a frozen training set. A rising pass rate often rec",
-    "link": "https://dev.to/byteio_3726/tuning-set-pass-rate-is-not-an-eval-1204",
+    "title": "App Home Workout Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(agents): refresh DAIR Academy daily learn snapshot</li>\n<li>chore(analytics): refresh ",
+    "link": "https://dev.to/igorganapolsky/app-home-workout-timer-what-we-learned-building-random-tactical-timer-jmm",
     "topic": "general"
   },
   {
-    "title": "Bitpanda Capital Markets Builds More Reliable Services Through Continuous Development",
-    "desc": "<p>In the evolving digital finance industry, service quality has become an important factor in building long-term relationships with users a",
-    "link": "https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-builds-more-reliable-services-through-continuous-development-aad",
+    "title": "ServiceNow ITOM Career Opportunities: Roles, Skills & Training Roadmap",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/techpratham010/servicenow-itom-career-opportunities-roles-skills-training-roadmap-bge",
     "topic": "general"
   },
   {
-    "title": "Cron Jobs Don't Fail Loudly. That's the Real Problem.",
-    "desc": "<p>Nobody gets paged when a cron job runs fine. You only find out something's wrong when a customer emails asking where their invoice is, or",
-    "link": "https://dev.to/unmeshed/cron-jobs-dont-fail-loudly-thats-the-real-problem-2j3n",
+    "title": "Soul in Motion \u2014 6:17 PM | 2026-09-18",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Dashboard still lagging behind real\u2011time data; progress made but no final fix yet.</li>\n<li>Re\u2011installed ",
+    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-617-pm-2026-09-18-2fnc",
     "topic": "general"
   },
   {
-    "title": "I Trusted os.replace for 48 Hours. The Dest Path Lived on Another Mount.",
-    "desc": "<p>Have you ever watched a consumer throw <code>JSONDecodeError</code> and immediately blamed the process that wrote the file? I did, and I ",
-    "link": "https://dev.to/codepy_1473/i-trusted-osreplace-for-48-hours-the-dest-path-lived-on-another-mount-44a",
+    "title": "Build Versioned Cost Manifests for AI API Releases",
+    "desc": "<h1>\n  \n  \n  Build Versioned Cost Manifests for AI API Releases\n</h1>\n\n<p>AI API cost reviews often fail in a quiet way.</p>\n\n<p>The applica",
+    "link": "https://dev.to/aiwave/build-versioned-cost-manifests-for-ai-api-releases-59pe",
     "topic": "general"
   },
   {
-    "title": "FAQ: Four Myths About Proof on a Disposable Server",
-    "desc": "<p>Did that remote command actually prove your code is portable? I keep seeing teams treat a disposable box like home. Those two machines ra",
-    "link": "https://dev.to/gitlab_3188/faq-four-myths-about-proof-on-a-disposable-server-kaa",
+    "title": "I almost replaced Lovable with a $5 VPS, Dokploy and one MCP gateway",
+    "desc": "<p>Lovable is nice. You describe a site, an agent writes it, you click publish. It also costs $25\u201350 a month for the tiers that are actually",
+    "link": "https://dev.to/k2sodev/i-almost-replaced-lovable-with-a-5-vps-dokploy-and-one-mcp-gateway-3mn9",
     "topic": "general"
   },
   {
-    "title": "Compile Alembic Revisions Into a Migration Ledger; Sign Data-Loss Ops by Hand",
-    "desc": "<p>Schema-change documentation fails when generated prose describes rollback steps that nobody timed, tested, or agreed to own. The practica",
-    "link": "https://dev.to/github_7727/compile-alembic-revisions-into-a-migration-ledger-sign-data-loss-ops-by-hand-o52",
+    "title": "You can create any workflow or pipeline you want with DSCI and LLM",
+    "desc": "<p><a href=\"https://deadsimpleci.sparrowhub.io\" rel=\"noopener noreferrer\">DSCI</a> - is a self hosted git server with embedded CI runner. Th",
+    "link": "https://dev.to/sp1983/you-can-create-any-workflow-or-pipeline-you-want-with-dsci-and-llm-4i70",
     "topic": "general"
   },
   {
-    "title": "Field report: 1246 real pull requests scanned, 0 hallucinated packages confirmed",
-    "desc": "<p>We run a security scanner on public pull requests and publish what it finds \u2014 including what it gets wrong. This is the weekly number.</p",
-    "link": "https://dev.to/mag_solutions_ai/field-report-1246-real-pull-requests-scanned-0-hallucinated-packages-confirmed-42m8",
-    "topic": "general"
+    "title": "Deploy Peon on a DigitalOcean Droplet (self-hosted Docker PaaS)",
+    "desc": "<p>Peon is an open-source, self-hostable deployment platform. Think Vercel or Heroku workflows on a server you control: Git deploys, Docker ",
+    "link": "https://dev.to/offpage_prince/deploy-peon-on-a-digitalocean-droplet-self-hosted-docker-paas-bkj",
+    "topic": "docker"
   },
   {
-    "title": "Privilege Grants Do Not Belong on Free Inference",
-    "desc": "<p>A privilege grant is a production write. Free inference is a best-effort drafting surface. Piping a model completion into IAM, Cedar, Reg",
-    "link": "https://dev.to/aiio_6471/privilege-grants-do-not-belong-on-free-inference-6dd",
+    "title": "Salesforce DevOps with Copado AI \u2013 New Batch Starts May 22!",
+    "desc": "<p>\ud83d\ude80 \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb \ud835\udde6\ud835\uddee\ud835\uddf9\ud835\uddf2\ud835\ude00\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddf0\ud835\uddf2 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\udde2\ud835\uddfd\ud835\ude00 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\uddd6\ud835\uddfc\ud835\uddfd\ud835\uddee\ud835\uddf1\ud835\uddfc \ud835\uddd4\ud835\udddc \u2013 \ud835\udde1\ud835\uddf2\ud835\ude04 \ud835\udddf\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\uddd5\ud835\uddee\ud835\ude01\ud835\uddf0\ud835\uddf5!<br />\n\ud83c\udfaf Build job-ready skills in #SalesforceDevOps, Copado, AI, Git, CI/CD pi",
+    "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-with-copado-ai-new-batch-starts-may-22-3mgj",
     "topic": "general"
   }
 ]

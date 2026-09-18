@@ -1,5 +1,35 @@
 [
   {
+    "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
+    "desc": "<p>Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts.\u00a0</p>\n<p>The post <a href=\"https://www.se",
+    "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
+    "topic": "openai"
+  },
+  {
+    "title": "23 Million User Records Compromised in Gyazo Data Breach",
+    "desc": "<p>Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+    "desc": "<p>Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority.</p>\n<p",
+    "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+    "topic": "azure"
+  },
+  {
+    "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+    "desc": "<p>Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+    "topic": "general"
+  },
+  {
+    "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+    "desc": "<p>Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts.</p>\n<p>The post <a href=\"https://www.se",
+    "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+    "topic": "secops"
+  },
+  {
     "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
     "desc": "<p>CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.</p>\n",
     "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
@@ -16,35 +46,5 @@
     "desc": "<p>Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root p",
     "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
     "topic": "general"
-  },
-  {
-    "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-    "desc": "<p>The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-    "topic": "secops"
-  },
-  {
-    "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
-    "desc": "<p>OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
-    "topic": "openai"
-  },
-  {
-    "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
-    "desc": "<p>The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk.</p>\n<p>The po",
-    "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
-    "topic": "secops"
-  },
-  {
-    "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-    "desc": "<p>Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-    "topic": "secops"
-  },
-  {
-    "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
-    "desc": "<p>The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
-    "topic": "secops"
   }
 ]
