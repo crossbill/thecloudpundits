@@ -1,50 +1,50 @@
 [
   {
-    "title": "API Spend Cap: Temporarily Raise for Launch and Schedule Automatic Restore",
-    "desc": "<p>TL;DR: Raise an API spend cap only as a paired operation: read and persist the current cap, apply the temporary cap, and schedule the exa",
-    "link": "https://dev.to/grahamprice3746/api-spend-cap-temporarily-raise-for-launch-and-schedule-automatic-restore-58k0",
+    "title": "Tuning-Set Pass Rate Is Not an Eval",
+    "desc": "<p>Prompt iteration overfits golden cases in the same way that gradient descent overfits a frozen training set. A rising pass rate often rec",
+    "link": "https://dev.to/byteio_3726/tuning-set-pass-rate-is-not-an-eval-1204",
     "topic": "general"
   },
   {
-    "title": "ACTCOINESE-MAX schafft neue M\u00f6glichkeiten f\u00fcr moderne mobile Services",
-    "desc": "<p>Die Entwicklung mobiler Technologien ver\u00e4ndert kontinuierlich die Art und Weise, wie digitale Services genutzt werden. Nutzer erwarten he",
-    "link": "https://dev.to/actcoinese-max/actcoinese-max-schafft-neue-moglichkeiten-fur-moderne-mobile-services-2lib",
+    "title": "Bitpanda Capital Markets Builds More Reliable Services Through Continuous Development",
+    "desc": "<p>In the evolving digital finance industry, service quality has become an important factor in building long-term relationships with users a",
+    "link": "https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-builds-more-reliable-services-through-continuous-development-aad",
     "topic": "general"
   },
   {
-    "title": "Modular Monolith Architecture: The Smart Default in 2026",
-    "desc": "<h2>\n  \n  \n  The pragmatic default: modular monolith architecture\n</h2>\n\n<p>Hot take: microservices are overprescribed. For most teams under",
-    "link": "https://dev.to/nainikmehta/modular-monolith-architecture-the-smart-default-in-2026-nnc",
+    "title": "Cron Jobs Don't Fail Loudly. That's the Real Problem.",
+    "desc": "<p>Nobody gets paged when a cron job runs fine. You only find out something's wrong when a customer emails asking where their invoice is, or",
+    "link": "https://dev.to/unmeshed/cron-jobs-dont-fail-loudly-thats-the-real-problem-2j3n",
     "topic": "general"
   },
   {
-    "title": "Short DNS TTLs Explained: Pre-Change Lowering for Healthtech Customer Domains",
-    "desc": "<p>TL;DR: For stable healthtech customer domains, keep the normal TTL long and lower it before a scheduled cutover. Permanently short TTLs b",
-    "link": "https://dev.to/apexz69/short-dns-ttls-explained-pre-change-lowering-for-healthtech-customer-domains-24i1",
+    "title": "I Trusted os.replace for 48 Hours. The Dest Path Lived on Another Mount.",
+    "desc": "<p>Have you ever watched a consumer throw <code>JSONDecodeError</code> and immediately blamed the process that wrote the file? I did, and I ",
+    "link": "https://dev.to/codepy_1473/i-trusted-osreplace-for-48-hours-the-dest-path-lived-on-another-mount-44a",
     "topic": "general"
   },
   {
-    "title": "Safe DNS Record Writer in Node.js \u2014 Read, Compare, Write With Evidence",
-    "desc": "<p>Use a read-compare-write-read-back helper when a property-management system moves zones off a registrar-specific API. Infrai can sit at t",
-    "link": "https://dev.to/adalbertcross4085/safe-dns-record-writer-in-nodejs-read-compare-write-with-evidence-22c9",
+    "title": "FAQ: Four Myths About Proof on a Disposable Server",
+    "desc": "<p>Did that remote command actually prove your code is portable? I keep seeing teams treat a disposable box like home. Those two machines ra",
+    "link": "https://dev.to/gitlab_3188/faq-four-myths-about-proof-on-a-disposable-server-kaa",
     "topic": "general"
   },
   {
-    "title": "Coding agents in a production .NET shop: what holds up",
-    "desc": "<p>We have been running Claude-style CLI coding agents against production .NET code for long enough to have opinions that survived contact w",
-    "link": "https://dev.to/gatapia/coding-agents-in-a-production-net-shop-what-holds-up-55g5",
+    "title": "Compile Alembic Revisions Into a Migration Ledger; Sign Data-Loss Ops by Hand",
+    "desc": "<p>Schema-change documentation fails when generated prose describes rollback steps that nobody timed, tested, or agreed to own. The practica",
+    "link": "https://dev.to/github_7727/compile-alembic-revisions-into-a-migration-ledger-sign-data-loss-ops-by-hand-o52",
     "topic": "general"
   },
   {
-    "title": "One small team, 100+ automated checks: anatomy of an AI-assisted monitoring platform",
-    "desc": "<p>A backup job that has not run for eleven days will not send you an email. Neither will a TLS certificate with nineteen days left on it. T",
-    "link": "https://dev.to/gatapia/one-small-team-100-automated-checks-anatomy-of-an-ai-assisted-monitoring-platform-c0i",
+    "title": "Field report: 1246 real pull requests scanned, 0 hallucinated packages confirmed",
+    "desc": "<p>We run a security scanner on public pull requests and publish what it finds \u2014 including what it gets wrong. This is the weekly number.</p",
+    "link": "https://dev.to/mag_solutions_ai/field-report-1246-real-pull-requests-scanned-0-hallucinated-packages-confirmed-42m8",
     "topic": "general"
   },
   {
-    "title": "Different Jobs for Registrar APIs and a DNS Interface During Recovery",
-    "desc": "<p>Choose the control plane by the operation you need to recover. A registrar API owns registration, transfer, and renewal; a DNS interface ",
-    "link": "https://dev.to/nicodemuschristensen2675/different-jobs-for-registrar-apis-and-a-dns-interface-during-recovery-1b5m",
+    "title": "Privilege Grants Do Not Belong on Free Inference",
+    "desc": "<p>A privilege grant is a production write. Free inference is a best-effort drafting surface. Piping a model completion into IAM, Cedar, Reg",
+    "link": "https://dev.to/aiio_6471/privilege-grants-do-not-belong-on-free-inference-6dd",
     "topic": "general"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+    "desc": "<p>CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.</p>\n",
+    "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "MIND Secures $72 Million for AI-Powered DLP",
+    "desc": "<p>The company will use the funding to accelerate platform development and expand its presence in key enterprise markets.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
+    "topic": "general"
+  },
+  {
+    "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
+    "desc": "<p>Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root p",
+    "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
     "desc": "<p>The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.</p>\n<p>Th",
     "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
@@ -28,23 +46,5 @@
     "desc": "<p>The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure.</p>\n<p>The p",
     "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
     "topic": "secops"
-  },
-  {
-    "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
-    "desc": "<p>Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process.</p>\n<p>",
-    "link": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
-    "topic": "secops"
-  },
-  {
-    "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
-    "desc": "<p>Research shows attacks on manufacturers rose 40% in early 2026, as ransomware groups increasingly exploit the supply-chain disruption cau",
-    "link": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
-    "topic": "secops"
-  },
-  {
-    "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
-    "desc": "<p>The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution.\u00a0\u00a0</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-    "topic": "aws"
   }
 ]
