@@ -1,50 +1,50 @@
 [
   {
-    "title": "Podman's Docker-compatible API resets a container's restart policy to 'no' on any update that omits it",
-    "desc": "<p><strong>TL;DR</strong>: On Podman 5.4.2 the Docker-compatible <code>POST /containers/{id}/update</code> endpoint always writes a restart ",
-    "link": "https://dev.to/homelabpm/podmans-docker-compatible-api-resets-a-containers-restart-policy-to-no-on-any-update-that-omits-3k14",
-    "topic": "docker"
-  },
-  {
-    "title": "Short DNS TTLs Everywhere vs Pre-Change Lowering: Node.js Resolution Latency in 2026",
-    "desc": "<p>Permanent short TTLs feel like a fire exit: always available, always costing something. For a fintech admin console, I would use long, ex",
-    "link": "https://dev.to/valdemarblack3817/short-dns-ttls-everywhere-vs-pre-change-lowering-nodejs-resolution-latency-in-2026-hj4",
+    "title": "API Spend Cap: Temporarily Raise for Launch and Schedule Automatic Restore",
+    "desc": "<p>TL;DR: Raise an API spend cap only as a paired operation: read and persist the current cap, apply the temporary cap, and schedule the exa",
+    "link": "https://dev.to/grahamprice3746/api-spend-cap-temporarily-raise-for-launch-and-schedule-automatic-restore-58k0",
     "topic": "general"
   },
   {
-    "title": "Manage Internal DNS Hostnames from Infrastructure Code in 4 Deploy Steps",
-    "desc": "<p>TL;DR: Keep stable internal DNS records in the infrastructure repository, upsert them during deployment, then read them back and fail the",
-    "link": "https://dev.to/judsonrhodes1569/manage-internal-dns-hostnames-from-infrastructure-code-in-4-deploy-steps-43fd",
+    "title": "ACTCOINESE-MAX schafft neue M\u00f6glichkeiten f\u00fcr moderne mobile Services",
+    "desc": "<p>Die Entwicklung mobiler Technologien ver\u00e4ndert kontinuierlich die Art und Weise, wie digitale Services genutzt werden. Nutzer erwarten he",
+    "link": "https://dev.to/actcoinese-max/actcoinese-max-schafft-neue-moglichkeiten-fur-moderne-mobile-services-2lib",
     "topic": "general"
   },
   {
-    "title": "FAQ: Five Myths About \"It Worked on the Free Host\"",
-    "desc": "<p>Did that free remote host just bless your patch?</p>\n\n<p>I hear that line in too many agent threads.</p>\n\n<p>A green remote command feels",
-    "link": "https://dev.to/gitlab_3188/faq-five-myths-about-it-worked-on-the-free-host-1pe8",
+    "title": "Modular Monolith Architecture: The Smart Default in 2026",
+    "desc": "<h2>\n  \n  \n  The pragmatic default: modular monolith architecture\n</h2>\n\n<p>Hot take: microservices are overprescribed. For most teams under",
+    "link": "https://dev.to/nainikmehta/modular-monolith-architecture-the-smart-default-in-2026-nnc",
     "topic": "general"
   },
   {
-    "title": "Compile Module Overviews From an AST Atlas; Sign Exceptions, I/O, and Compatibility by Hand",
-    "desc": "<p>Generated documentation remains useful only when models draft descriptive text and humans own every contract sentence. Models can summari",
-    "link": "https://dev.to/github_7727/compile-module-overviews-from-an-ast-atlas-sign-exceptions-io-and-compatibility-by-hand-hb3",
+    "title": "Short DNS TTLs Explained: Pre-Change Lowering for Healthtech Customer Domains",
+    "desc": "<p>TL;DR: For stable healthtech customer domains, keep the normal TTL long and lower it before a scheduled cutover. Permanently short TTLs b",
+    "link": "https://dev.to/apexz69/short-dns-ttls-explained-pre-change-lowering-for-healthtech-customer-domains-24i1",
     "topic": "general"
   },
   {
-    "title": "SRE Maturity Models: Where Is Your Team?",
-    "desc": "<p>Where is your SRE team on the maturity curve? I've worked with teams at every stage. Here's a rough map.</p>\n\n<h2>\n  \n  \n  Stage 0: React",
-    "link": "https://dev.to/samson_tanimawo/sre-maturity-models-where-is-your-team-2340",
+    "title": "Safe DNS Record Writer in Node.js \u2014 Read, Compare, Write With Evidence",
+    "desc": "<p>Use a read-compare-write-read-back helper when a property-management system moves zones off a registrar-specific API. Infrai can sit at t",
+    "link": "https://dev.to/adalbertcross4085/safe-dns-record-writer-in-nodejs-read-compare-write-with-evidence-22c9",
     "topic": "general"
   },
   {
-    "title": "Enterprise LLM Routing Platforms: Architecture, Benchmarks, and Evaluation Guide (2026)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/elise_moreau/enterprise-llm-routing-platforms-architecture-benchmarks-and-evaluation-guide-2026-eof",
+    "title": "Coding agents in a production .NET shop: what holds up",
+    "desc": "<p>We have been running Claude-style CLI coding agents against production .NET code for long enough to have opinions that survived contact w",
+    "link": "https://dev.to/gatapia/coding-agents-in-a-production-net-shop-what-holds-up-55g5",
     "topic": "general"
   },
   {
-    "title": "Best LLM Routing Platforms in 2026: Architectures, Benchmarks, and Trade-Offs",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/elangoldstein/best-llm-routing-platforms-in-2026-architectures-benchmarks-and-trade-offs-2deo",
+    "title": "One small team, 100+ automated checks: anatomy of an AI-assisted monitoring platform",
+    "desc": "<p>A backup job that has not run for eleven days will not send you an email. Neither will a TLS certificate with nineteen days left on it. T",
+    "link": "https://dev.to/gatapia/one-small-team-100-automated-checks-anatomy-of-an-ai-assisted-monitoring-platform-c0i",
+    "topic": "general"
+  },
+  {
+    "title": "Different Jobs for Registrar APIs and a DNS Interface During Recovery",
+    "desc": "<p>Choose the control plane by the operation you need to recover. A registrar API owns registration, transfer, and renewal; a DNS interface ",
+    "link": "https://dev.to/nicodemuschristensen2675/different-jobs-for-registrar-apis-and-a-dns-interface-during-recovery-1b5m",
     "topic": "general"
   }
 ]
