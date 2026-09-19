@@ -1,50 +1,50 @@
 [
   {
-    "title": "Top DevSecOps Interview Questions and Answers (2026)",
-    "desc": "<p>As the cloud industry shifts heavily towards 'Shift-Left' security, the demand for DevSecOps engineers has skyrocketed. Technical intervi",
-    "link": "https://dev.to/kiran_sonawane/top-devsecops-interview-questions-and-answers-2026-2dg0",
+    "title": "C\u00f3mo solucionar `Code exited (1)` en Docker en Raspberry Pi",
+    "desc": "<h1>\n  \n  \n  C\u00f3mo solucionar <code>Code exited (1)</code> en Docker en Raspberry Pi\n</h1>\n\n<h2>\n  \n  \n  Explicaci\u00f3n t\u00e9cnica\n</h2>\n\n<p>El err",
+    "link": "https://dev.to/erickeduardoramos03/como-solucionar-code-exited-1-en-docker-en-raspberry-pi-3imp",
+    "topic": "docker"
+  },
+  {
+    "title": "Lock Collation Before You Merge a Generated Concat Step",
+    "desc": "<p>The merge request is green on the author's laptop. CI is not.</p>\n\n<p><code>bundle.json</code> has the wrong checksum, and the job log st",
+    "link": "https://dev.to/gitlab_3188/lock-collation-before-you-merge-a-generated-concat-step-3j8e",
     "topic": "general"
   },
   {
-    "title": "25 Python Scripts That Solve Revenue Blockers in 2026",
-    "desc": "<p>I just finished auditing 10 major revenue operations teams. The problem isn't that they lack Python skills. The problem is that they don'",
-    "link": "https://dev.to/hive80lab/25-python-scripts-that-solve-revenue-blockers-in-2026-10jc",
+    "title": "Workers Should Not Inherit Your Logging Handlers",
+    "desc": "<p>Have you ever watched <code>pool.join()</code> sit there after a logging cleanup that looked boring in review? The workers are not crunch",
+    "link": "https://dev.to/hackrs_6393/workers-should-not-inherit-your-logging-handlers-1e7h",
     "topic": "general"
   },
   {
-    "title": "Agent Injection Corpus: instruction/data channel confusion across programming languages. #Astra #Devin",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/jackymencz/agent-injection-corpus-instructiondata-channel-confusion-across-programming-languages-astra-a0",
+    "title": "The on-call handoff that ends 'wait, what was on fire?'",
+    "desc": "<p>Most on-call pain isn't the 3am page \u2014 it's the 9am handoff where the outgoing engineer says \"nothing major, check Slack\" and the incomin",
+    "link": "https://dev.to/hive80lab/the-on-call-handoff-that-ends-wait-what-was-on-fire-2m8c",
     "topic": "general"
   },
   {
-    "title": "The First 30 Minutes of an Incident: What Actually Saves You",
-    "desc": "<p><strong>Published:</strong> 2026-09-27<br />\n<strong>Topic:</strong> Incident Response, Crisis Management<br />\n<strong>Target Audience:<",
-    "link": "https://dev.to/hive80lab/the-first-30-minutes-of-an-incident-what-actually-saves-you-1gfn",
+    "title": "Your cloud bill spiked 4x and nobody noticed for 11 days: the daily cost check",
+    "desc": "<p>A single misconfigured autoscaling policy cost us $9,200 before anyone looked at the billing console. The invoice was correct. The failur",
+    "link": "https://dev.to/hive80lab/your-cloud-bill-spiked-4x-and-nobody-noticed-for-11-days-the-daily-cost-check-5m0",
+    "topic": "general"
+  },
+  {
+    "title": "The restore drill: why your backups are worthless until you run this 20-minute test",
+    "desc": "<p>Every team I've met has backups. Almost none of them have ever restored one under time pressure. A backup you've never restored is not a ",
+    "link": "https://dev.to/hive80lab/the-restore-drill-why-your-backups-are-worthless-until-you-run-this-20-minute-test-4f85",
+    "topic": "general"
+  },
+  {
+    "title": "The 3am incident checklist every on-call engineer wishes existed",
+    "desc": "<p>Its 3am. Your phone is screaming. You have 15 minutes before the client calls you back.</p>\n\n<p>You do not need a wiki. You need a one-pa",
+    "link": "https://dev.to/hive80lab/the-3am-incident-checklist-every-on-call-engineer-wishes-existed-2361",
     "topic": "secops"
   },
   {
-    "title": "25 Python Scripts That Solve Revenue Blockers in 2026",
-    "desc": "<p>I just finished auditing 10 major revenue operations teams. The problem isn't that they lack Python skills. The problem is that they don'",
-    "link": "https://dev.to/hive80lab/25-python-scripts-that-solve-revenue-blockers-in-2026-1dea",
-    "topic": "general"
-  },
-  {
-    "title": "An honest changelog loop: classifying release notes from GitHub webhooks",
-    "desc": "<p>Every development team knows the pattern: a week of work lands on main, and the changelog is written in the last five minutes before a re",
-    "link": "https://dev.to/changelogforge/an-honest-changelog-loop-classifying-release-notes-from-github-webhooks-191h",
-    "topic": "general"
-  },
-  {
-    "title": "Building Production Web Scraping Pipelines With Python",
-    "desc": "<h2>\n  \n  \n  What You'll Need\n</h2>\n\n<ul>\n<li>\n<a href=\"https://chasebot.online/go/hetzner?utm_source=system3_devto\" rel=\"noopener noreferre",
-    "link": "https://dev.to/chasebot/building-production-web-scraping-pipelines-with-python-19hk",
-    "topic": "general"
-  },
-  {
-    "title": "MLOps Best Practices 2026",
-    "desc": "<h1>\n  \n  \n  MLOps Best Practices 2026\n</h1>\n\n<p>{\"title\": \"MLOps Best Practices 2026: Scaling AI from Prototype to Enterprise Production\", ",
-    "link": "https://dev.to/hamza_dev_talks/mlops-best-practices-2026-1d54",
+    "title": "25 Python Scripts That Unblock Small-Team Revenue Ops (Copy, Paste, Ship)",
+    "desc": "<blockquote>\n<p><strong>Free sample:</strong> the first-30-minutes incident runbook \u2014 <a href=\"https://hive80lab.gumroad.com/l/first-30-minu",
+    "link": "https://dev.to/hive80lab/25-python-scripts-that-unblock-small-team-revenue-ops-copy-paste-ship-27c3",
     "topic": "general"
   }
 ]
