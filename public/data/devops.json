@@ -1,50 +1,50 @@
 [
   {
-    "title": "Stop fighting SMTP & spam folders! Meet Rinpush(rinpush.com): effortless transactional & marketing emails for devs with 1 year free trial \ud83d\ude80",
-    "desc": "",
-    "link": "https://dev.to/dtae12/stop-fighting-smtp-spam-folders-meet-rinpushrinpushcom-effortless-transactional-marketing-kog",
+    "title": "FAQ: What a Free Agent Session Does Not Prove",
+    "desc": "<p>Have you ever copied a patch from a free agent box?<br />\nThen watched local CI reject the same tree?</p>\n\n<p>I keep hearing five claims ",
+    "link": "https://dev.to/gitlab_3188/faq-what-a-free-agent-session-does-not-prove-5e7",
     "topic": "general"
   },
   {
-    "title": "Temporal Raised $550M on Work That Survives a Crash. shell.online 0.17.0 Handles the Machine That Cannot Report Its Own Death",
-    "desc": "<p>On September 14 Temporal <a href=\"https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai\" rel=\"noopener nore",
-    "link": "https://dev.to/artem_a/temporal-raised-550m-on-work-that-survives-a-crash-shellonline-0170-handles-the-machine-that-4eei",
-    "topic": "general"
-  },
-  {
-    "title": "Programmatic 3D Asset Discovery Across 18 Sketchfab Taxonomy Categories",
-    "desc": "<p>Game developers, VR prototyping pipelines, and 3D asset marketplace analysts frequently face a specific metadata bottleneck: locating 3D ",
-    "link": "https://dev.to/crawlerbros/programmatic-3d-asset-discovery-across-18-sketchfab-taxonomy-categories-3pf6",
-    "topic": "general"
-  },
-  {
-    "title": "LinkedIn Marketing Guide: When and Where to Buy LinkedIn Accounts",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ownseoit7768786/linkedin-marketing-guide-when-and-where-to-buy-linkedin-accounts-4pl",
-    "topic": "general"
-  },
-  {
-    "title": "Production Self-Hosted LLM Gateway: LiteLLM vs Ollama vs vLLM vs LocalAI (2026 Benchmark, TCO & Deployment Blueprint)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/devrudals/production-self-hosted-llm-gateway-litellm-vs-ollama-vs-vllm-vs-localai-2026-benchmark-tco--1bg5",
-    "topic": "general"
-  },
-  {
-    "title": "Agent Skills and MCP Configs Need a Security Gate",
-    "desc": "<p>AI agents are gaining access to real capabilities: reading files, running<br />\ncommands, calling APIs, connecting to MCP servers, and co",
-    "link": "https://dev.to/agentwarden/agent-skills-and-mcp-configs-need-a-security-gate-cdf",
+    "title": "Security Headers Checklist 2026: What Actually Matters",
+    "desc": "<p>Six headers cover most of the real risk: Content-Security-Policy, Strict-Transport-Security, a frame-blocking directive, X-Content-Type-O",
+    "link": "https://dev.to/webpixie/security-headers-checklist-2026-what-actually-matters-4e11",
     "topic": "secops"
   },
   {
-    "title": "Enterprise Vector Database 2026: Qdrant vs Milvus vs pgvector vs Pinecone",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/devrudals/enterprise-vector-database-2026-qdrant-vs-milvus-vs-pgvector-vs-pinecone-16a0",
+    "title": "Cosign Keyless Signing in GitHub Actions: Sign Images, Attest SBOMs, and Enforce It with Kyverno",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Originally published on <a href=\"https://devtocash.com/blog/2026-09-19-cosign-keyless-signing-github-actions-sbom-",
+    "link": "https://dev.to/devtocash/cosign-keyless-signing-in-github-actions-sign-images-attest-sboms-and-enforce-it-with-kyverno-2afk",
     "topic": "general"
   },
   {
-    "title": "USA & UK Buying Guide: Where Can You Buy LinkedIn Accounts?",
+    "title": "Your One Dependency Is Actually 67 Packages",
+    "desc": "<p>Nobody audits a lockfile. You pick a handful of libraries deliberately, and everything underneath them shows up because a resolver said s",
+    "link": "https://dev.to/moksh/your-one-dependency-is-actually-67-packages-38jf",
+    "topic": "general"
+  },
+  {
+    "title": "504 vs 503: What Actually Triggers Each in nginx, ALB, and Cloudflare",
+    "desc": "<p>You're staring at a 5xx in your logs at 2am. Is it a 503 or a 504, and does the difference actually change what you do next? Yes \u2014 a lot.",
+    "link": "https://dev.to/webpixie/504-vs-503-what-actually-triggers-each-in-nginx-alb-and-cloudflare-45jl",
+    "topic": "general"
+  },
+  {
+    "title": "Your Cypress Retry Passed - But the Test Is Still Telling You Something",
+    "desc": "<p>Attempt one fails. Attempt two passes. CI turns green.</p>\n\n<p>Did the system recover from harmless noise, or did the retry hide an inter",
+    "link": "https://dev.to/raju_dandigam/your-cypress-retry-passed-but-the-test-is-still-telling-you-something-37hf",
+    "topic": "general"
+  },
+  {
+    "title": "A Comprehensive Engineering Blueprint for Zero-Downtime Website and Server Migration",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ownseoit7768786/usa-uk-buying-guide-where-can-you-buy-linkedin-accounts-30g3",
+    "link": "https://dev.to/waseem771771/a-comprehensive-engineering-blueprint-for-zero-downtime-website-and-server-migration-424d",
+    "topic": "general"
+  },
+  {
+    "title": "Why your feature flag service should validate values",
+    "desc": "<p>Every feature flag and remote config service offers the same value proposition: change how production behaves without deploying a new bui",
+    "link": "https://dev.to/abeiderman/why-your-feature-flag-service-should-validate-values-2hp5",
     "topic": "general"
   }
 ]
