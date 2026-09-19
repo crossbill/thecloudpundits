@@ -1,50 +1,50 @@
 [
   {
-    "title": "C\u00f3mo solucionar `Code exited (1)` en Docker en Raspberry Pi",
-    "desc": "<h1>\n  \n  \n  C\u00f3mo solucionar <code>Code exited (1)</code> en Docker en Raspberry Pi\n</h1>\n\n<h2>\n  \n  \n  Explicaci\u00f3n t\u00e9cnica\n</h2>\n\n<p>El err",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-code-exited-1-en-docker-en-raspberry-pi-3imp",
-    "topic": "docker"
-  },
-  {
-    "title": "Lock Collation Before You Merge a Generated Concat Step",
-    "desc": "<p>The merge request is green on the author's laptop. CI is not.</p>\n\n<p><code>bundle.json</code> has the wrong checksum, and the job log st",
-    "link": "https://dev.to/gitlab_3188/lock-collation-before-you-merge-a-generated-concat-step-3j8e",
+    "title": "Stop fighting SMTP & spam folders! Meet Rinpush(rinpush.com): effortless transactional & marketing emails for devs with 1 year free trial \ud83d\ude80",
+    "desc": "",
+    "link": "https://dev.to/dtae12/stop-fighting-smtp-spam-folders-meet-rinpushrinpushcom-effortless-transactional-marketing-kog",
     "topic": "general"
   },
   {
-    "title": "Workers Should Not Inherit Your Logging Handlers",
-    "desc": "<p>Have you ever watched <code>pool.join()</code> sit there after a logging cleanup that looked boring in review? The workers are not crunch",
-    "link": "https://dev.to/hackrs_6393/workers-should-not-inherit-your-logging-handlers-1e7h",
+    "title": "Temporal Raised $550M on Work That Survives a Crash. shell.online 0.17.0 Handles the Machine That Cannot Report Its Own Death",
+    "desc": "<p>On September 14 Temporal <a href=\"https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai\" rel=\"noopener nore",
+    "link": "https://dev.to/artem_a/temporal-raised-550m-on-work-that-survives-a-crash-shellonline-0170-handles-the-machine-that-4eei",
     "topic": "general"
   },
   {
-    "title": "The on-call handoff that ends 'wait, what was on fire?'",
-    "desc": "<p>Most on-call pain isn't the 3am page \u2014 it's the 9am handoff where the outgoing engineer says \"nothing major, check Slack\" and the incomin",
-    "link": "https://dev.to/hive80lab/the-on-call-handoff-that-ends-wait-what-was-on-fire-2m8c",
+    "title": "Programmatic 3D Asset Discovery Across 18 Sketchfab Taxonomy Categories",
+    "desc": "<p>Game developers, VR prototyping pipelines, and 3D asset marketplace analysts frequently face a specific metadata bottleneck: locating 3D ",
+    "link": "https://dev.to/crawlerbros/programmatic-3d-asset-discovery-across-18-sketchfab-taxonomy-categories-3pf6",
     "topic": "general"
   },
   {
-    "title": "Your cloud bill spiked 4x and nobody noticed for 11 days: the daily cost check",
-    "desc": "<p>A single misconfigured autoscaling policy cost us $9,200 before anyone looked at the billing console. The invoice was correct. The failur",
-    "link": "https://dev.to/hive80lab/your-cloud-bill-spiked-4x-and-nobody-noticed-for-11-days-the-daily-cost-check-5m0",
+    "title": "LinkedIn Marketing Guide: When and Where to Buy LinkedIn Accounts",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ownseoit7768786/linkedin-marketing-guide-when-and-where-to-buy-linkedin-accounts-4pl",
     "topic": "general"
   },
   {
-    "title": "The restore drill: why your backups are worthless until you run this 20-minute test",
-    "desc": "<p>Every team I've met has backups. Almost none of them have ever restored one under time pressure. A backup you've never restored is not a ",
-    "link": "https://dev.to/hive80lab/the-restore-drill-why-your-backups-are-worthless-until-you-run-this-20-minute-test-4f85",
+    "title": "Production Self-Hosted LLM Gateway: LiteLLM vs Ollama vs vLLM vs LocalAI (2026 Benchmark, TCO & Deployment Blueprint)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/devrudals/production-self-hosted-llm-gateway-litellm-vs-ollama-vs-vllm-vs-localai-2026-benchmark-tco--1bg5",
     "topic": "general"
   },
   {
-    "title": "The 3am incident checklist every on-call engineer wishes existed",
-    "desc": "<p>Its 3am. Your phone is screaming. You have 15 minutes before the client calls you back.</p>\n\n<p>You do not need a wiki. You need a one-pa",
-    "link": "https://dev.to/hive80lab/the-3am-incident-checklist-every-on-call-engineer-wishes-existed-2361",
+    "title": "Agent Skills and MCP Configs Need a Security Gate",
+    "desc": "<p>AI agents are gaining access to real capabilities: reading files, running<br />\ncommands, calling APIs, connecting to MCP servers, and co",
+    "link": "https://dev.to/agentwarden/agent-skills-and-mcp-configs-need-a-security-gate-cdf",
     "topic": "secops"
   },
   {
-    "title": "25 Python Scripts That Unblock Small-Team Revenue Ops (Copy, Paste, Ship)",
-    "desc": "<blockquote>\n<p><strong>Free sample:</strong> the first-30-minutes incident runbook \u2014 <a href=\"https://hive80lab.gumroad.com/l/first-30-minu",
-    "link": "https://dev.to/hive80lab/25-python-scripts-that-unblock-small-team-revenue-ops-copy-paste-ship-27c3",
+    "title": "Enterprise Vector Database 2026: Qdrant vs Milvus vs pgvector vs Pinecone",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/devrudals/enterprise-vector-database-2026-qdrant-vs-milvus-vs-pgvector-vs-pinecone-16a0",
+    "topic": "general"
+  },
+  {
+    "title": "USA & UK Buying Guide: Where Can You Buy LinkedIn Accounts?",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ownseoit7768786/usa-uk-buying-guide-where-can-you-buy-linkedin-accounts-30g3",
     "topic": "general"
   }
 ]
