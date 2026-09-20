@@ -1,50 +1,50 @@
 [
   {
-    "title": "Keeping your whole Docker stack safely up to date",
-    "desc": "<p>A self-hosted stack is never \"done\". Container images get security updates, apps get new features \u2013 and whoever doesn't keep up eventuall",
-    "link": "https://dev.to/serverkueche/keeping-your-whole-docker-stack-safely-up-to-date-4i8m",
-    "topic": "docker"
-  },
-  {
-    "title": "Kubernetes Email Tests Need Artifact Retention",
-    "desc": "<p>Email tests often fail in a Kubernetes pipeline for reasons that are hard to see after the pod is gone. The fixture was created, the veri",
-    "link": "https://dev.to/jasonmills94/kubernetes-email-tests-need-artifact-retention-2jm5",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Stop Whitelisting Port 22: SSH into Private EC2 from GitHub Actions via AWS SSM \ud83d\udd10",
-    "desc": "<h2>\n  \n  \n  \ud83d\ude29 The part of CI/CD nobody enjoys\n</h2>\n\n<p>You want a GitHub Actions job to <code>rsync</code> a build onto an EC2 box and res",
-    "link": "https://dev.to/ankurk91/stop-whitelisting-port-22-ssh-into-private-ec2-from-github-actions-via-aws-ssm-cj4",
-    "topic": "aws"
-  },
-  {
-    "title": "Your agent's SQLite state DB keeps corrupting: what actually causes it, and how to recover the data",
-    "desc": "<h1>\n  \n  \n  Your agent's SQLite state DB keeps corrupting: what actually causes it, and how to recover the data\n</h1>\n\n<p>I run an agent th",
-    "link": "https://dev.to/milkyway008/your-agents-sqlite-state-db-keeps-corrupting-what-actually-causes-it-and-how-to-recover-the-data-55hd",
+    "title": "Every answer our agent reads has an age, and it never asked for one",
+    "desc": "<p>Our unattended agent publishes on its own schedule, and before it publishes it does the obvious safety check: it asks the platform for a ",
+    "link": "https://dev.to/unmannedops/every-answer-our-agent-reads-has-an-age-and-it-never-asked-for-one-4fg",
     "topic": "general"
   },
   {
-    "title": "Power Automate Environment Strategy - Dev Test Prod Done Right",
-    "desc": "<p>Open the Power Platform Admin Center. Click on Environments. If you see one environment where every Power Automate flow runs - the defaul",
-    "link": "https://dev.to/az365ai/power-automate-environment-strategy-dev-test-prod-done-right-39hl",
+    "title": "Can CI Check Whether an AI Agent Actually Ran the Tests It Claims?",
+    "desc": "<h1>\n  \n  \n  Can CI Check Whether an AI Agent Actually Ran the Tests It Claims?\n</h1>\n\n<p>Your agent just finished the ticket. \"All tests pa",
+    "link": "https://dev.to/rambozambo/can-ci-check-whether-an-ai-agent-actually-ran-the-tests-it-claims-507d",
     "topic": "general"
   },
   {
-    "title": "Replay the Parent Surface. Do Not Score Agent Refactors on Editable Tests.",
-    "desc": "<p>A green unit job is not a merge signal for an agent refactor. The patch can rewrite the assertions that would have failed. Score the refa",
-    "link": "https://dev.to/datacpp_8185/replay-the-parent-surface-do-not-score-agent-refactors-on-editable-tests-136",
+    "title": "OrcFlows: AI workflow automation that doesn't break at 3 a.m.",
+    "desc": "<p><em>Durable execution, agents you can actually debug, and a real path from dev to prod \u2014 on a visual canvas, built in Go on Temporal.</em",
+    "link": "https://dev.to/bharath_s_d6abec2e607aa20/orcflows-ai-workflow-automation-that-doesnt-break-at-3-am-4ibf",
     "topic": "general"
   },
   {
-    "title": "How to Set Up a High-Speed USA RDP for Automation, Remote Work, and Testing (Step-by-Step)",
-    "desc": "<p>Every developer, scraper author, and systems tester eventually hits the wall of local machine resource limits.</p>\n\n<p>Whether you are ru",
-    "link": "https://dev.to/html5x/how-to-set-up-a-high-speed-usa-rdp-for-automation-remote-work-and-testing-step-by-step-4bfm",
+    "title": "FAQ: Five Myths About Agent-Run Tests",
+    "desc": "<p>Did your coding agent just print green pytest output? That screenshot still is not your real pipeline.</p>\n\n<p>I keep seeing the same fiv",
+    "link": "https://dev.to/gitlab_3188/faq-five-myths-about-agent-run-tests-1e89",
     "topic": "general"
   },
   {
-    "title": "Why software supply-chain management matters more in the AI era",
-    "desc": "<h1>\n  \n  \n  Why software supply-chain management matters more in the AI era\n</h1>\n\n<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>AI did not invent software ",
-    "link": "https://dev.to/adriano_ferreira_88541434/why-software-supply-chain-management-matters-more-in-the-ai-era-3ia0",
+    "title": "What should every foreigner know about your country in terms of food, tourist destinations, demography, best time to visit, and USP of your country?",
+    "desc": "<p>Food is one of the most important parts of Pakistani culture. Pakistani <a href=\"https://www.profitableratecpmnetwork.com/cp1cn4dgyr?key=",
+    "link": "https://dev.to/sharafat_ali_8c9a8ff2bee7/what-should-every-foreigner-know-about-your-country-in-terms-of-food-tourist-destinations-4lco",
+    "topic": "general"
+  },
+  {
+    "title": "Why AI Code Breaks in Production: The \"Context Ceiling\" of Distributed Systems",
+    "desc": "<p>Every engineer has experienced some version of this nightmare:</p>\n\n<p>An AI assistant writes a clean, elegant service integration. It co",
+    "link": "https://dev.to/tarikmostafa/why-ai-code-breaks-in-production-the-context-ceiling-of-distributed-systems-5glc",
+    "topic": "general"
+  },
+  {
+    "title": "Seven Controls to Put in Place Before an AI Agent Gets Production Access",
+    "desc": "<p>AI agents cross a line that ordinary chat systems do not: they connect probabilistic decisions to real actions.</p>\n\n<p>An agent that can",
+    "link": "https://dev.to/yanivshenhav/seven-controls-to-put-in-place-before-an-ai-agent-gets-production-access-6bp",
+    "topic": "general"
+  },
+  {
+    "title": "Standardizing Zero-Infrastructure Backends: Inside Lovable's Acquisition of Sutro and the SLang Compiler",
+    "desc": "<h2>\n  \n  \n  \u2699\ufe0f The Explainability Crisis in AI-Assisted Software Engineering\n</h2>\n\n<p>The promise of generative AI in software engineering",
+    "link": "https://dev.to/isuvo/standardizing-zero-infrastructure-backends-inside-lovables-acquisition-of-sutro-and-the-slang-61d",
     "topic": "general"
   }
 ]
