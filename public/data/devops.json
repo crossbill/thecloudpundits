@@ -1,50 +1,50 @@
 [
   {
-    "title": "Every answer our agent reads has an age, and it never asked for one",
-    "desc": "<p>Our unattended agent publishes on its own schedule, and before it publishes it does the obvious safety check: it asks the platform for a ",
-    "link": "https://dev.to/unmannedops/every-answer-our-agent-reads-has-an-age-and-it-never-asked-for-one-4fg",
+    "title": "Rules in markdown vs rules in CI: what I measured in my own repositories",
+    "desc": "<p><em>Disclosure: I'm the author of <a href=\"https://github.com/Navesz/rebar\" rel=\"noopener noreferrer\">rebar</a>, the open-source tool thi",
+    "link": "https://dev.to/navesz/rules-in-markdown-vs-rules-in-ci-what-i-measured-in-my-own-repositories-4pp0",
     "topic": "general"
   },
   {
-    "title": "Can CI Check Whether an AI Agent Actually Ran the Tests It Claims?",
-    "desc": "<h1>\n  \n  \n  Can CI Check Whether an AI Agent Actually Ran the Tests It Claims?\n</h1>\n\n<p>Your agent just finished the ticket. \"All tests pa",
-    "link": "https://dev.to/rambozambo/can-ci-check-whether-an-ai-agent-actually-ran-the-tests-it-claims-507d",
+    "title": "Your Clone Throws KeyError. Harvest getenv From the AST.",
+    "desc": "<p>You cloned the branch. You typed the command that looked identical to the agent's session. The interpreter died on <code>KeyError: 'DATAB",
+    "link": "https://dev.to/gitlab_3188/your-clone-throws-keyerror-harvest-getenv-from-the-ast-42fc",
     "topic": "general"
   },
   {
-    "title": "OrcFlows: AI workflow automation that doesn't break at 3 a.m.",
-    "desc": "<p><em>Durable execution, agents you can actually debug, and a real path from dev to prod \u2014 on a visual canvas, built in Go on Temporal.</em",
-    "link": "https://dev.to/bharath_s_d6abec2e607aa20/orcflows-ai-workflow-automation-that-doesnt-break-at-3-am-4ibf",
+    "title": "The Artifact Repository Is a Trust Root: Reading the JFrog Artifactory Authentication Bypass",
+    "desc": "<h1>\n  \n  \n  The Artifact Repository Is a Trust Root: Reading the JFrog Artifactory Authentication Bypass\n</h1>\n\n<p>Most organizations do no",
+    "link": "https://dev.to/jeffreyciend/the-artifact-repository-is-a-trust-root-reading-the-jfrog-artifactory-authentication-bypass-38f6",
     "topic": "general"
   },
   {
-    "title": "FAQ: Five Myths About Agent-Run Tests",
-    "desc": "<p>Did your coding agent just print green pytest output? That screenshot still is not your real pipeline.</p>\n\n<p>I keep seeing the same fiv",
-    "link": "https://dev.to/gitlab_3188/faq-five-myths-about-agent-run-tests-1e89",
+    "title": "Generate Getting-Started Structure From Scripts; Human-Own Secrets, OS, and Timing",
+    "desc": "<p>Getting-started documentation fails when generated prose quietly asserts environments, secrets, and success times that nobody reviewed. A",
+    "link": "https://dev.to/github_7727/generate-getting-started-structure-from-scripts-human-own-secrets-os-and-timing-1l56",
     "topic": "general"
   },
   {
-    "title": "What should every foreigner know about your country in terms of food, tourist destinations, demography, best time to visit, and USP of your country?",
-    "desc": "<p>Food is one of the most important parts of Pakistani culture. Pakistani <a href=\"https://www.profitableratecpmnetwork.com/cp1cn4dgyr?key=",
-    "link": "https://dev.to/sharafat_ali_8c9a8ff2bee7/what-should-every-foreigner-know-about-your-country-in-terms-of-food-tourist-destinations-4lco",
+    "title": "The Homelab Is the New Resume",
+    "desc": "<h1>\n  \n  \n  The Homelab Is the New Resume\n</h1>\n\n<p>Certificates say you studied the technology. A homelab says you run it.</p>\n\n<p>Anyone ",
+    "link": "https://dev.to/temitayocharles/the-homelab-is-the-new-resume-24oc",
     "topic": "general"
   },
   {
-    "title": "Why AI Code Breaks in Production: The \"Context Ceiling\" of Distributed Systems",
-    "desc": "<p>Every engineer has experienced some version of this nightmare:</p>\n\n<p>An AI assistant writes a clean, elegant service integration. It co",
-    "link": "https://dev.to/tarikmostafa/why-ai-code-breaks-in-production-the-context-ceiling-of-distributed-systems-5glc",
+    "title": "We wanted a Vercel + Supabase alternative without becoming full-time DevOps",
+    "desc": "<p>When we started building small products, Vercel plus Supabase looked like the obvious stack.</p>\n\n<p>It was a good way to get moving. The",
+    "link": "https://dev.to/lathelive/we-wanted-a-vercel-supabase-alternative-without-becoming-full-time-devops-1e7f",
     "topic": "general"
   },
   {
-    "title": "Seven Controls to Put in Place Before an AI Agent Gets Production Access",
-    "desc": "<p>AI agents cross a line that ordinary chat systems do not: they connect probabilistic decisions to real actions.</p>\n\n<p>An agent that can",
-    "link": "https://dev.to/yanivshenhav/seven-controls-to-put-in-place-before-an-ai-agent-gets-production-access-6bp",
+    "title": "My AI agent self-healing fix was embarrassingly simple once I stopped retrying the whole thing",
+    "desc": "<h1>\n  \n  \n  My AI agent self-healing fix was embarrassingly simple once I stopped retrying the whole thing\n</h1>\n\n<p>I finally snapped afte",
+    "link": "https://dev.to/lars_winstand/my-ai-agent-self-healing-fix-was-embarrassingly-simple-once-i-stopped-retrying-the-whole-thing-3a42",
     "topic": "general"
   },
   {
-    "title": "Standardizing Zero-Infrastructure Backends: Inside Lovable's Acquisition of Sutro and the SLang Compiler",
-    "desc": "<h2>\n  \n  \n  \u2699\ufe0f The Explainability Crisis in AI-Assisted Software Engineering\n</h2>\n\n<p>The promise of generative AI in software engineering",
-    "link": "https://dev.to/isuvo/standardizing-zero-infrastructure-backends-inside-lovables-acquisition-of-sutro-and-the-slang-61d",
+    "title": "invalid_grant: my service account was fine. My laptop's clock was three days slow.",
+    "desc": "<p>My daily SEO round emails me one digest. This morning it led with this:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=",
+    "link": "https://dev.to/hammad4june1999/invalidgrant-my-service-account-was-fine-my-laptops-clock-was-three-days-slow-11hm",
     "topic": "general"
   }
 ]
