@@ -1,50 +1,50 @@
 [
   {
-    "title": "Treat Config Docs as Two Artifacts: Extracted Inventory and Signed Promises",
-    "desc": "<p>Treat configuration documentation as two artifacts, because mixing inventory with promises is how unsigned defaults reach users. A model ",
-    "link": "https://dev.to/github_7727/treat-config-docs-as-two-artifacts-extracted-inventory-and-signed-promises-3dnm",
+    "title": "DKIM Key Rotation for Mail DNS TXT Records in 2026 (and Why Scheduling Wins)",
+    "desc": "<p>Short answer: schedule DKIM rotation and publish the matching DNS TXT record in the same job, then verify the sending domain before the j",
+    "link": "https://dev.to/ulricdonovan1564/dkim-key-rotation-for-mail-dns-txt-records-in-2026-and-why-scheduling-wins-3do6",
     "topic": "general"
   },
   {
-    "title": "Staging DNS Zones vs Production Subdomains: Write Boundaries and Blast Radius",
-    "desc": "<p>Short answer: use a separate DNS zone for staging when a mistaken write must be unable to touch production; use a production subdomain wh",
-    "link": "https://dev.to/eastonpierce8265/staging-dns-zones-vs-production-subdomains-write-boundaries-and-blast-radius-1flc",
+    "title": "Part 1.5: Optimizing Dockerfiles with Multi-Stage Builds",
+    "desc": "<h1>\n  \n  \n  Part 1.5: Optimizing Dockerfiles with Multi-Stage Builds\n</h1>\n\n<h2>\n  \n  \n  Key Takeaways\n</h2>\n\n<p><strong>Platform engineers",
+    "link": "https://dev.to/spmahapatra/part-15-optimizing-dockerfiles-with-multi-stage-builds-m47",
+    "topic": "docker"
+  },
+  {
+    "title": "Node.js Gaming Zone Operations: Customer-Facing DNS Guidance Generated from Records",
+    "desc": "<p>TL;DR: generate customer-facing DNS instructions from the exact records the verifier will inspect. For a gaming team moving a zone away f",
+    "link": "https://dev.to/celthyrdusk7341/nodejs-gaming-zone-operations-customer-facing-dns-guidance-generated-from-records-1f9f",
     "topic": "general"
   },
   {
-    "title": "The 3-Step Architecture Framework to Pass Core Web Vitals in WordPress",
-    "desc": "<p>A common antipattern in WordPress performance engineering is plugin stacking.</p>\n\n<p>Teams install one plugin for page caching, another ",
-    "link": "https://dev.to/mohamed10060/the-3-step-architecture-framework-to-pass-core-web-vitals-in-wordpress-3bdf",
+    "title": "Part 1 Dockerising and Standardising Compose",
+    "desc": "<h1>\n  \n  \n  Part 1: Dockerising and Standardising Compose\n</h1>\n\n<p><em>Navigation: <a href=\"https://./part-2-caching-api-calls-efficiently",
+    "link": "https://dev.to/spmahapatra/part-1-dockerising-and-standardising-compose-38gh",
+    "topic": "docker"
+  },
+  {
+    "title": "Oops! Almost Leaked User Data with My AI Feature \u2013 A Wake-Up Call from API Terms of Service",
+    "desc": "<p>Hey there, it's your friendly neighborhood dev, 38 years old, slinging code as an engineer by day and tinkering with AI trading bots on w",
+    "link": "https://dev.to/masaoshimadaopen/oops-almost-leaked-user-data-with-my-ai-feature-a-wake-up-call-from-api-terms-of-service-39a9",
     "topic": "general"
   },
   {
-    "title": "Stop Letting Your README Rot: Auto-Sync It on Every Push",
-    "desc": "<h1>\n  \n  \n  Stop Letting Your README Rot: Auto-Sync It on Every Push\n</h1>\n\n<p>Every developer has lived this: you clone a repo, follow the",
-    "link": "https://dev.to/readmeforge/stop-letting-your-readme-rot-auto-sync-it-on-every-push-ade",
+    "title": "Dependabot vs Renovate: Which One Stops the Monday Morning PR Flood?",
+    "desc": "<p>If your team is on GitHub, has fewer than a handful of repos, and mostly wants security patches to show up without anyone configuring any",
+    "link": "https://dev.to/libme/dependabot-vs-renovate-which-one-stops-the-monday-morning-pr-flood-47ao",
     "topic": "general"
   },
   {
-    "title": "Mars Climate Orbiter: When 1 N\u00b7s Was Read as 1 lbf\u00b7s",
-    "desc": "<blockquote>\n<p><em>Originally published on <a href=\"https://enginstack.com/guides/mars-climate-orbiter-unit-conversion-error\" rel=\"noopener",
-    "link": "https://dev.to/christopher123/mars-climate-orbiter-when-1-ns-was-read-as-1-lbfs-2gc9",
+    "title": "Separate DNS Zone and Subdomain Non Production Write Boundaries for Support Staging",
+    "desc": "<p>Keep staging DNS changes inside a delegated zone when the customer support admin console grants staging operators or automation write acc",
+    "link": "https://dev.to/urieldonovan6839/separate-dns-zone-and-subdomain-non-production-write-boundaries-for-support-staging-4ddj",
     "topic": "general"
   },
   {
-    "title": "Temporary API Spend Caps: Schedule the Exact Restore Before Launch Traffic Arrives",
-    "desc": "<p>Raise the API spend cap for the launch window, but create the automatic restore in the same operational change. Read and retain the old v",
-    "link": "https://dev.to/solacew31/temporary-api-spend-caps-schedule-the-exact-restore-before-launch-traffic-arrives-13p7",
-    "topic": "general"
-  },
-  {
-    "title": "Most supply chain security tools react. They scan your `package-lock.json` or `go.sum`, fl",
-    "desc": "<p>Most supply chain security tools react. They scan your <code>package-lock.json</code> or <code>go.sum</code>, flag known vulnerabilities,",
-    "link": "https://dev.to/marek_builds/most-supply-chain-security-tools-react-they-scan-your-package-lockjson-or-gosum-fl-58ei",
-    "topic": "secops"
-  },
-  {
-    "title": "The crash retry that posted the same landing task twice",
-    "desc": "<p>Our autoland loop had a small but expensive failure mode: a crash could happen after the<br />\nboard post and before the local completion",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/the-crash-retry-that-posted-the-same-landing-task-twice-34ki",
+    "title": "FAQ: Five Myths About Promoting Code Off a Free Agent Box",
+    "desc": "<p>Did the free box just become your origin?</p>\n\n<p>I keep catching that assumption in review. A remote agent workspace is a draft. It is n",
+    "link": "https://dev.to/gitlab_3188/faq-five-myths-about-promoting-code-off-a-free-agent-box-1o73",
     "topic": "general"
   }
 ]
