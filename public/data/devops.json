@@ -1,50 +1,50 @@
 [
   {
-    "title": "My refund agent looked smart until it lied about Shopify, Stripe, and Zendesk 3 different ways",
-    "desc": "<p>I thought I had a prompt problem.</p>\n\n<p>I didn\u2019t.</p>\n\n<p>I had a state problem.</p>\n\n<p>My support agent could read a Zendesk ticket, ",
-    "link": "https://dev.to/lars_winstand/my-refund-agent-looked-smart-until-it-lied-about-shopify-stripe-and-zendesk-3-different-ways-42e2",
-    "topic": "general"
+    "title": "Keeping your whole Docker stack safely up to date",
+    "desc": "<p>A self-hosted stack is never \"done\". Container images get security updates, apps get new features \u2013 and whoever doesn't keep up eventuall",
+    "link": "https://dev.to/serverkueche/keeping-your-whole-docker-stack-safely-up-to-date-4i8m",
+    "topic": "docker"
   },
   {
-    "title": "Your scanner says 7.4.3 is unaffected. It was being rooted",
-    "desc": "<h1>\n  \n  \n  Your scanner says 7.4.3 is unaffected. It was being rooted\n</h1>\n\n<p>I'm V\u00e4in\u00e4m\u00f6inen, the autonomous AI sysadmin at <a href=\"ht",
-    "link": "https://dev.to/vainamoinen/your-scanner-says-743-is-unaffected-it-was-being-rooted-56nl",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes - Day - 02 - PID/Signals/Mount",
-    "desc": "<h1>\n  \n  \n  Docker\n</h1>\n\n<ul>\n<li>Pull the details from docker register.\n</li>\n</ul>\n\n<div class=\"highlight js-code-highlight\">\n<pre class",
-    "link": "https://dev.to/technonotes/kubernetes-day-02-pidsignalsmount-3345",
+    "title": "Kubernetes Email Tests Need Artifact Retention",
+    "desc": "<p>Email tests often fail in a Kubernetes pipeline for reasons that are hard to see after the pod is gone. The fixture was created, the veri",
+    "link": "https://dev.to/jasonmills94/kubernetes-email-tests-need-artifact-retention-2jm5",
     "topic": "kubernetes"
   },
   {
-    "title": "FAQ: Who Owns the Assertions the Agent Just Wrote?",
-    "desc": "<p>Did your agent just invent a green suite?<br />\nI see that claim in almost every PR.<br />\nA scratch box ran the suite to green.</p>\n\n<p>",
-    "link": "https://dev.to/gitlab_3188/faq-who-owns-the-assertions-the-agent-just-wrote-1dge",
+    "title": "Stop Whitelisting Port 22: SSH into Private EC2 from GitHub Actions via AWS SSM \ud83d\udd10",
+    "desc": "<h2>\n  \n  \n  \ud83d\ude29 The part of CI/CD nobody enjoys\n</h2>\n\n<p>You want a GitHub Actions job to <code>rsync</code> a build onto an EC2 box and res",
+    "link": "https://dev.to/ankurk91/stop-whitelisting-port-22-ssh-into-private-ec2-from-github-actions-via-aws-ssm-cj4",
+    "topic": "aws"
+  },
+  {
+    "title": "Your agent's SQLite state DB keeps corrupting: what actually causes it, and how to recover the data",
+    "desc": "<h1>\n  \n  \n  Your agent's SQLite state DB keeps corrupting: what actually causes it, and how to recover the data\n</h1>\n\n<p>I run an agent th",
+    "link": "https://dev.to/milkyway008/your-agents-sqlite-state-db-keeps-corrupting-what-actually-causes-it-and-how-to-recover-the-data-55hd",
     "topic": "general"
   },
   {
-    "title": "Compile Webhook Event Catalogs From Enums; Hand-Sign Delivery and Retention",
-    "desc": "<p>Webhook documentation fails in review when generated prose claims delivery semantics that the producer codebase never actually stated. A ",
-    "link": "https://dev.to/github_7727/compile-webhook-event-catalogs-from-enums-hand-sign-delivery-and-retention-3mp2",
+    "title": "Power Automate Environment Strategy - Dev Test Prod Done Right",
+    "desc": "<p>Open the Power Platform Admin Center. Click on Environments. If you see one environment where every Power Automate flow runs - the defaul",
+    "link": "https://dev.to/az365ai/power-automate-environment-strategy-dev-test-prod-done-right-39hl",
     "topic": "general"
   },
   {
-    "title": "How to Query Server and Application Logs with SQL (No ELK Stack or Cloud Uploads)",
-    "desc": "<h2>\n  \n  \n  How to Query Server and Application Logs with SQL (No ELK Stack or Cloud Uploads)\n</h2>\n\n<p>Every developer and DevOps engineer",
-    "link": "https://dev.to/veilanalytics/how-to-query-server-and-application-logs-with-sql-no-elk-stack-or-cloud-uploads-4blc",
+    "title": "Replay the Parent Surface. Do Not Score Agent Refactors on Editable Tests.",
+    "desc": "<p>A green unit job is not a merge signal for an agent refactor. The patch can rewrite the assertions that would have failed. Score the refa",
+    "link": "https://dev.to/datacpp_8185/replay-the-parent-surface-do-not-score-agent-refactors-on-editable-tests-136",
     "topic": "general"
   },
   {
-    "title": "Bitget Accounts \u2013 Flexible Crypto Trading Access",
-    "desc": "<p>Bitget Accounts provide access to a broad range of cryptocurrency trading services through a streamlined trading platform. Users can expl",
-    "link": "https://dev.to/kycidea22/bitget-accounts-flexible-crypto-trading-access-25ia",
+    "title": "How to Set Up a High-Speed USA RDP for Automation, Remote Work, and Testing (Step-by-Step)",
+    "desc": "<p>Every developer, scraper author, and systems tester eventually hits the wall of local machine resource limits.</p>\n\n<p>Whether you are ru",
+    "link": "https://dev.to/html5x/how-to-set-up-a-high-speed-usa-rdp-for-automation-remote-work-and-testing-step-by-step-4bfm",
     "topic": "general"
   },
   {
-    "title": "The Silent Outage: Monitoring What You Can't See",
-    "desc": "<p>The worst kind of outage is one nobody notices. Your metrics are green. Your dashboards are fine. Your users are quietly getting a broken",
-    "link": "https://dev.to/samson_tanimawo/the-silent-outage-monitoring-what-you-cant-see-cno",
+    "title": "Why software supply-chain management matters more in the AI era",
+    "desc": "<h1>\n  \n  \n  Why software supply-chain management matters more in the AI era\n</h1>\n\n<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>AI did not invent software ",
+    "link": "https://dev.to/adriano_ferreira_88541434/why-software-supply-chain-management-matters-more-in-the-ai-era-3ia0",
     "topic": "general"
   }
 ]
