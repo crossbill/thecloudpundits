@@ -1,50 +1,50 @@
 [
   {
-    "title": "DKIM Key Rotation for Mail DNS TXT Records in 2026 (and Why Scheduling Wins)",
-    "desc": "<p>Short answer: schedule DKIM rotation and publish the matching DNS TXT record in the same job, then verify the sending domain before the j",
-    "link": "https://dev.to/ulricdonovan1564/dkim-key-rotation-for-mail-dns-txt-records-in-2026-and-why-scheduling-wins-3do6",
+    "title": "WordPress REST API 401 / Permission Callback Errors: Causes and Fixes",
+    "desc": "<h1>\n  \n  \n  WordPress REST API 401 / Permission Callback Errors: Causes and Fixes\n</h1>\n\n<p>Fix WordPress REST API 401 and permission callb",
+    "link": "https://dev.to/usmanahmaddevx/wordpress-rest-api-401-permission-callback-errors-causes-and-fixes-1kh1",
     "topic": "general"
   },
   {
-    "title": "Part 1.5: Optimizing Dockerfiles with Multi-Stage Builds",
-    "desc": "<h1>\n  \n  \n  Part 1.5: Optimizing Dockerfiles with Multi-Stage Builds\n</h1>\n\n<h2>\n  \n  \n  Key Takeaways\n</h2>\n\n<p><strong>Platform engineers",
-    "link": "https://dev.to/spmahapatra/part-15-optimizing-dockerfiles-with-multi-stage-builds-m47",
-    "topic": "docker"
-  },
-  {
-    "title": "Node.js Gaming Zone Operations: Customer-Facing DNS Guidance Generated from Records",
-    "desc": "<p>TL;DR: generate customer-facing DNS instructions from the exact records the verifier will inspect. For a gaming team moving a zone away f",
-    "link": "https://dev.to/celthyrdusk7341/nodejs-gaming-zone-operations-customer-facing-dns-guidance-generated-from-records-1f9f",
+    "title": "15 Easy Ways to Buy Old Yahoo Accounts Smartly ...",
+    "desc": "<p>15 Easy Ways to Buy Old Yahoo Accounts Smartly ...</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/imag",
+    "link": "https://dev.to/smmusapva12416/15-easy-ways-to-buy-old-yahoo-accounts-smartly--1jof",
     "topic": "general"
   },
   {
-    "title": "Part 1 Dockerising and Standardising Compose",
-    "desc": "<h1>\n  \n  \n  Part 1: Dockerising and Standardising Compose\n</h1>\n\n<p><em>Navigation: <a href=\"https://./part-2-caching-api-calls-efficiently",
-    "link": "https://dev.to/spmahapatra/part-1-dockerising-and-standardising-compose-38gh",
-    "topic": "docker"
-  },
-  {
-    "title": "Oops! Almost Leaked User Data with My AI Feature \u2013 A Wake-Up Call from API Terms of Service",
-    "desc": "<p>Hey there, it's your friendly neighborhood dev, 38 years old, slinging code as an engineer by day and tinkering with AI trading bots on w",
-    "link": "https://dev.to/masaoshimadaopen/oops-almost-leaked-user-data-with-my-ai-feature-a-wake-up-call-from-api-terms-of-service-39a9",
+    "title": "Stop Assembling Boot Pieces by Hand: Practical Unified Kernel Images with ukify on Linux",
+    "desc": "<h1>\n  \n  \n  Stop Assembling Boot Pieces by Hand: Practical Unified Kernel Images with ukify on Linux\n</h1>\n\n<p>Most Linux boots still treat",
+    "link": "https://dev.to/lyraalishaikh/stop-assembling-boot-pieces-by-hand-practical-unified-kernel-images-with-ukify-on-linux-522b",
     "topic": "general"
   },
   {
-    "title": "Dependabot vs Renovate: Which One Stops the Monday Morning PR Flood?",
-    "desc": "<p>If your team is on GitHub, has fewer than a handful of repos, and mostly wants security patches to show up without anyone configuring any",
-    "link": "https://dev.to/libme/dependabot-vs-renovate-which-one-stops-the-monday-morning-pr-flood-47ao",
+    "title": "Alibaba Cloud ECS Renewal and Upgrade: A Practical 2026 Playbook",
+    "desc": "<h1>\n  \n  \n  Alibaba Cloud ECS Renewal and Upgrade: A Practical 2026 Playbook\n</h1>\n\n<p><em>Originally published on the CloudPeak blog \u2014 rep",
+    "link": "https://dev.to/cloudpeak/alibaba-cloud-ecs-renewal-and-upgrade-a-practical-2026-playbook-6l2",
     "topic": "general"
   },
   {
-    "title": "Separate DNS Zone and Subdomain Non Production Write Boundaries for Support Staging",
-    "desc": "<p>Keep staging DNS changes inside a delegated zone when the customer support admin console grants staging operators or automation write acc",
-    "link": "https://dev.to/urieldonovan6839/separate-dns-zone-and-subdomain-non-production-write-boundaries-for-support-staging-4ddj",
+    "title": "Subdomain or Delegated DNS \u2014 Containing Non-Production Write Access Without Lock-In",
+    "desc": "<p>Choose a separate DNS zone when the staging automation must never hold production write access. Choose a subdomain when the same trusted ",
+    "link": "https://dev.to/apexz69/subdomain-or-delegated-dns-containing-non-production-write-access-without-lock-in-4kjk",
     "topic": "general"
   },
   {
-    "title": "FAQ: Five Myths About Promoting Code Off a Free Agent Box",
-    "desc": "<p>Did the free box just become your origin?</p>\n\n<p>I keep catching that assumption in review. A remote agent workspace is a draft. It is n",
-    "link": "https://dev.to/gitlab_3188/faq-five-myths-about-promoting-code-off-a-free-agent-box-1o73",
+    "title": "FAQ: Five Myths About the Agent's Remote Shell",
+    "desc": "<p>The agent said the remote shell was fine. Can you prove that claim with a file?</p>\n\n<p>It pasted a traceback, then a patch, then a shrug",
+    "link": "https://dev.to/gitlab_3188/faq-five-myths-about-the-agents-remote-shell-25ha",
+    "topic": "general"
+  },
+  {
+    "title": "48-Hour Field Notes: The Set Snapshot That Only Agreed With My Laptop",
+    "desc": "<p>I spent forty-eight hours believing a unit test was deterministic, because it never failed on my laptop. The assertion compared a joined ",
+    "link": "https://dev.to/codepy_1473/48-hour-field-notes-the-set-snapshot-that-only-agreed-with-my-laptop-5ch4",
+    "topic": "general"
+  },
+  {
+    "title": "Treat Troubleshooting Docs as Two Files: an Extracted Fault Catalog and a Signed Recovery Matrix",
+    "desc": "<p>Generated troubleshooting pages fail in review when draft descriptions and user-facing outcomes occupy the same markdown file. A catalog ",
+    "link": "https://dev.to/github_7727/treat-troubleshooting-docs-as-two-files-an-extracted-fault-catalog-and-a-signed-recovery-matrix-j21",
     "topic": "general"
   }
 ]
