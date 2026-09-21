@@ -1,50 +1,50 @@
 [
   {
-    "title": "Rules in markdown vs rules in CI: what I measured in my own repositories",
-    "desc": "<p><em>Disclosure: I'm the author of <a href=\"https://github.com/Navesz/rebar\" rel=\"noopener noreferrer\">rebar</a>, the open-source tool thi",
-    "link": "https://dev.to/navesz/rules-in-markdown-vs-rules-in-ci-what-i-measured-in-my-own-repositories-4pp0",
+    "title": "My Spring Boot App Worked on Localhost. Deployment Showed Me What I Had Assumed.",
+    "desc": "<p>My application worked.</p>\n\n<p>The API responded.<br />\nThe frontend could call it.<br />\nThe main flow did what I expected.</p>\n\n<p>On m",
+    "link": "https://dev.to/nocklock/my-spring-boot-app-worked-on-localhost-deployment-showed-me-what-i-had-assumed-9gk",
     "topic": "general"
   },
   {
-    "title": "Your Clone Throws KeyError. Harvest getenv From the AST.",
-    "desc": "<p>You cloned the branch. You typed the command that looked identical to the agent's session. The interpreter died on <code>KeyError: 'DATAB",
-    "link": "https://dev.to/gitlab_3188/your-clone-throws-keyerror-harvest-getenv-from-the-ast-42fc",
+    "title": "Six API Gateways, Priced on the Same Month of Traffic",
+    "desc": "<p>Nobody sets out to adopt an API gateway. You add TLS termination, then a token check, then per-customer rate limits, and at some point th",
+    "link": "https://dev.to/moksh/six-api-gateways-priced-on-the-same-month-of-traffic-4i3l",
     "topic": "general"
   },
   {
-    "title": "The Artifact Repository Is a Trust Root: Reading the JFrog Artifactory Authentication Bypass",
-    "desc": "<h1>\n  \n  \n  The Artifact Repository Is a Trust Root: Reading the JFrog Artifactory Authentication Bypass\n</h1>\n\n<p>Most organizations do no",
-    "link": "https://dev.to/jeffreyciend/the-artifact-repository-is-a-trust-root-reading-the-jfrog-artifactory-authentication-bypass-38f6",
+    "title": "I flew helicopters for a living. If I had to break into Azure again, I'd start with the Cloud Resume Challenge",
+    "desc": "<p>Quick bit of background so you know who's talking. I didn't do computer science. I flew helicopters for a living for a few years, and at ",
+    "link": "https://dev.to/kloudcaptain/i-trained-as-a-helicopter-pilot-if-i-had-to-break-into-azure-again-id-start-with-the-cloud-3m2c",
+    "topic": "azure"
+  },
+  {
+    "title": "Prometheus na pr\u00e1tica - scraping, o endpoint /metrics e uma mini app Python expondo m\u00e9tricas",
+    "desc": "<h2>\n  \n  \n  1. Retomando: da stack vazia \u00e0 primeira fonte de dados\n</h2>\n\n<p>No primeiro artigo desta s\u00e9rie, subimos Prometheus, Loki e Gra",
+    "link": "https://dev.to/apsis-cc/prometheus-na-pratica-scraping-o-endpoint-metrics-e-uma-mini-app-python-expondo-metricas-2j08",
     "topic": "general"
   },
   {
-    "title": "Generate Getting-Started Structure From Scripts; Human-Own Secrets, OS, and Timing",
-    "desc": "<p>Getting-started documentation fails when generated prose quietly asserts environments, secrets, and success times that nobody reviewed. A",
-    "link": "https://dev.to/github_7727/generate-getting-started-structure-from-scripts-human-own-secrets-os-and-timing-1l56",
+    "title": "Observabilidade - o que \u00e9, m\u00e9tricas vs logs vs traces e a stack Prometheus + Loki + Grafana",
+    "desc": "<h2>\n  \n  \n  1. Por que \"monitoramento\" n\u00e3o \u00e9 mais suficiente\n</h2>\n\n<p>Por muito tempo, \"monitorar\" um sistema significava basicamente uma ",
+    "link": "https://dev.to/apsis-cc/observabilidade-o-que-e-metricas-vs-logs-vs-traces-e-a-stack-prometheus-loki-grafana-2136",
     "topic": "general"
   },
   {
-    "title": "The Homelab Is the New Resume",
-    "desc": "<h1>\n  \n  \n  The Homelab Is the New Resume\n</h1>\n\n<p>Certificates say you studied the technology. A homelab says you run it.</p>\n\n<p>Anyone ",
-    "link": "https://dev.to/temitayocharles/the-homelab-is-the-new-resume-24oc",
+    "title": "GitOps avan\u00e7ado - automa\u00e7\u00e3o de deploy, rollback e boas pr\u00e1ticas para produ\u00e7\u00e3o",
+    "desc": "<h2>\n  \n  \n  1. Retomando: da sincroniza\u00e7\u00e3o manual \u00e0 confian\u00e7a em produ\u00e7\u00e3o\n</h2>\n\n<p>Esta s\u00e9rie cobriu, at\u00e9 aqui, o suficiente para operar K",
+    "link": "https://dev.to/apsis-cc/gitops-avancado-automacao-de-deploy-rollback-e-boas-praticas-para-producao-5cfa",
     "topic": "general"
   },
   {
-    "title": "We wanted a Vercel + Supabase alternative without becoming full-time DevOps",
-    "desc": "<p>When we started building small products, Vercel plus Supabase looked like the obvious stack.</p>\n\n<p>It was a good way to get moving. The",
-    "link": "https://dev.to/lathelive/we-wanted-a-vercel-supabase-alternative-without-becoming-full-time-devops-1e7f",
+    "title": "GitOps na pr\u00e1tica - ArgoCD e estrutura de reposit\u00f3rio",
+    "desc": "<h2>\n  \n  \n  1. Retomando: do <code>kubectl apply</code> manual a um fluxo automatizado\n</h2>\n\n<p>Nas duas primeiras partes desta s\u00e9rie, tod",
+    "link": "https://dev.to/apsis-cc/gitops-na-pratica-argocd-e-estrutura-de-repositorio-28j5",
     "topic": "general"
   },
   {
-    "title": "My AI agent self-healing fix was embarrassingly simple once I stopped retrying the whole thing",
-    "desc": "<h1>\n  \n  \n  My AI agent self-healing fix was embarrassingly simple once I stopped retrying the whole thing\n</h1>\n\n<p>I finally snapped afte",
-    "link": "https://dev.to/lars_winstand/my-ai-agent-self-healing-fix-was-embarrassingly-simple-once-i-stopped-retrying-the-whole-thing-3a42",
-    "topic": "general"
-  },
-  {
-    "title": "invalid_grant: my service account was fine. My laptop's clock was three days slow.",
-    "desc": "<p>My daily SEO round emails me one digest. This morning it led with this:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=",
-    "link": "https://dev.to/hammad4june1999/invalidgrant-my-service-account-was-fine-my-laptops-clock-was-three-days-slow-11hm",
-    "topic": "general"
+    "title": "Kubernetes no dia a dia - kubectl, Namespaces, ConfigMaps e Secrets",
+    "desc": "<h2>\n  \n  \n  1. Retomando: de conceitos a comandos\n</h2>\n\n<p>Na primeira parte desta s\u00e9rie vimos o que \u00e9 o Kubernetes, o problema que ele re",
+    "link": "https://dev.to/apsis-cc/kubernetes-no-dia-a-dia-kubectl-namespaces-configmaps-e-secrets-gd6",
+    "topic": "kubernetes"
   }
 ]
