@@ -1,50 +1,50 @@
 [
   {
-    "title": "From DevOps to SRE: A Practitioner's Roadmap for Enterprise Transformation",
-    "desc": "<p>In 2018, the same year that Forsgren, Humble, and Kim published <em>Accelerate</em> \u2014 the empirical validation of DevOps practices \u2014 appr",
-    "link": "https://dev.to/npayyappilly/from-devops-to-sre-a-practitioners-roadmap-for-enterprise-transformation-252h",
+    "title": "Leaked-Key Drills: Why API Credential Inventory Defines Your Account Perimeter",
+    "desc": "<p>A B2B SaaS on-call gets a page: API spend has crossed the drill ceiling, and requests from a tenant-facing worker are now being refused. ",
+    "link": "https://dev.to/barnabyvance6852/leaked-key-drills-why-api-credential-inventory-defines-your-account-perimeter-4jid",
     "topic": "general"
   },
   {
-    "title": "Staging DNS Records Appeared in Production: Wrong Zone IDs from Shared Config",
-    "desc": "<p><strong>Short answer:</strong> when staging DNS records appeared in production, I would freeze the hostname cutover, prove the delegated ",
-    "link": "https://dev.to/colemitchell4991/staging-dns-records-appeared-in-production-wrong-zone-ids-from-shared-config-3ag6",
+    "title": "I read 65 CI files from 30 popular npm packages. 13 still run an end-of-life Node.",
+    "desc": "<p>Every green badge is a promise that your tests ran. The file behind it gets written once, at the moment someone is trying to ship, and th",
+    "link": "https://dev.to/samson_ilands/i-read-65-ci-files-from-30-popular-npm-packages-13-still-run-an-end-of-life-node-i98",
     "topic": "general"
   },
   {
-    "title": "Ask your ClickHouse\u00ae database in plain English",
-    "desc": "<p><strong>Introducing Qurioz, the AI assistant built into CHOps.</strong></p>\n\n<h2>\n  \n  \n  What is CH-Ops?\n</h2>\n\n<p>CH-Ops is a browser-b",
-    "link": "https://dev.to/kanishga_subramani_49ad73/ask-your-clickhouser-database-in-plain-english-3a8f",
+    "title": "B2B Zone Changes in Node.js: Why TTL Cannot Make DNS Immediate",
+    "desc": "<p>DNS changes are not immediate because TTL really controls a cache's requested retention period, not a universal propagation deadline. Mov",
+    "link": "https://dev.to/drummondreed8257/b2b-zone-changes-in-nodejs-why-ttl-cannot-make-dns-immediate-11o8",
     "topic": "general"
   },
   {
-    "title": "Why fork() Doesn't Duplicate Memory: Copy-on-Write and the Page Table",
-    "desc": "<p>Calling fork() does not duplicate a process's memory space; it copies the page table hierarchy and sets every Page Table Entry to read-on",
-    "link": "https://dev.to/sufyanism/why-fork-doesnt-duplicate-memory-copy-on-write-and-the-page-table-3ioa",
+    "title": "Turn your ytt data values schema into a documentation site",
+    "desc": "<p>If you template Kubernetes manifests with <a href=\"https://carvel.dev/ytt/\" rel=\"noopener noreferrer\">ytt</a>, you probably have a data v",
+    "link": "https://dev.to/baunegaard/turn-your-ytt-data-values-schema-into-a-documentation-site-3gho",
     "topic": "general"
   },
   {
-    "title": "C\u00f3mo solucionar `docker run` con exit code 1 en Raspberry Pi",
-    "desc": "<h1>\n  \n  \n  C\u00f3mo solucionar <code>docker run</code> con exit code 1 en Raspberry Pi\n</h1>\n\n<h2>\n  \n  \n  \u00bfPor qu\u00e9 ocurre este error?\n</h2>\n\n",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exit-code-1-en-raspberry-pi-407p",
-    "topic": "docker"
-  },
-  {
-    "title": "Cronhq: Automated Scheduling for Developers",
-    "desc": "<h2>\n  \n  \n  Cronhq: Automated Scheduling for Developers\n</h2>\n\n<p>Cronhq is a new cloud-based cron job manager that simplifies task automat",
-    "link": "https://dev.to/mrrabbar/cronhq-automated-scheduling-for-developers-1f3i",
+    "title": "Web Scalability for Startup Engineers \u2014 Review and Summary for Developers",
+    "desc": "<p>This book is a practical guide to scaling web applications from a few users to millions. Ejsmont covers the full stack: frontend optimiza",
+    "link": "https://dev.to/devbookreader/web-scalability-for-startup-engineers-review-and-summary-for-developers-5dek",
     "topic": "general"
   },
   {
-    "title": "Your agent's account of what it did is a claim. Check it against the logs",
-    "desc": "<p>When an agent breaks production, the first thing most teams do is ask the agent what happened. It answers quickly, in complete sentences,",
-    "link": "https://dev.to/parsa4873fe3aa/your-agents-account-of-what-it-did-is-a-claim-check-it-against-the-logs-184h",
+    "title": "A fast, zero-knowledge alternative to Privnote for developers",
+    "desc": "<p>Most self-destructing note services receive your plain-text data on their backend servers before generating a link. If you care about tru",
+    "link": "https://dev.to/zayn_arlo/a-fast-zero-knowledge-alternative-to-privnote-for-developers-3fl0",
     "topic": "general"
   },
   {
-    "title": "Score Agent Patches on a Frozen Surface. Ledger the Flakes.",
-    "desc": "<p>A green CI run is the wrong merge signal for an agent patch. If the agent can skip a flake, rewrite a fixture, or weaken a property, gree",
-    "link": "https://dev.to/datacpp_8185/score-agent-patches-on-a-frozen-surface-ledger-the-flakes-5b3h",
+    "title": "Record Deletes vs Zone Deletion \u2014 Prevent Accidental DNS Loss in Automated Pipelines 2026",
+    "desc": "<p>Use record-level cleanup for a gaming company's mail-provider cutover; put zone retirement behind a separate runtime allowlist. Short ans",
+    "link": "https://dev.to/ethanbrooks1486/record-deletes-vs-zone-deletion-prevent-accidental-dns-loss-in-automated-pipelines-2026-210h",
+    "topic": "general"
+  },
+  {
+    "title": "Stop sending API keys over Slack or WhatsApp. Use this instead.",
+    "desc": "<p>Sending .env variables, API keys, or database credentials over Slack, Email, or WhatsApp is a security risk. Those messages sit in plain-",
+    "link": "https://dev.to/zayn_arlo/stop-sending-api-keys-over-slack-or-whatsapp-use-this-instead-3ebj",
     "topic": "general"
   }
 ]
