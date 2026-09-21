@@ -1,50 +1,50 @@
 [
   {
-    "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
-    "desc": "<p>Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
+    "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, \u2018Rapuncel\u2019 Stealer",
+    "desc": "<p>The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
     "topic": "general"
   },
   {
-    "title": "Google Confirms Gemini AI Breached Three Firms",
-    "desc": "<p>Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+    "title": "CISO Conversations: Noopur Davis \u2013 The Accidental Global CISO at Comcast",
+    "desc": "<p>Noopur Davis never planned a career in cybersecurity. She was a developer at Intergraph, and for many years that was all she wanted to be",
+    "link": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
+    "topic": "general"
+  },
+  {
+    "title": "Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal",
+    "desc": "<p>The transaction is part of the $4.1 billion deal in which Accenture acquired a majority stake in Dragos in an OT cybersecurity push.</p>\n",
+    "link": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
+    "topic": "general"
+  },
+  {
+    "title": "RatHat Android Trojan Uses AI for Automation",
+    "desc": "<p>The malware relies on AI for real-time device navigation and control, increasing adaptability and evasion.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
+    "topic": "general"
+  },
+  {
+    "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
+    "desc": "<p>It\u2019s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by Nor",
+    "link": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
+    "topic": "general"
+  },
+  {
+    "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
+    "desc": "<p>The cybersecurity firm believes the data breach was the result of the May 2026 TanStack supply chain attack.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
     "topic": "secops"
   },
   {
-    "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
-    "desc": "<p>The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.</",
-    "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+    "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
+    "desc": "<p>The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said.\u00a0</p>\n<p>The post <",
+    "link": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
     "topic": "secops"
   },
   {
-    "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunte",
-    "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-    "topic": "secops"
-  },
-  {
-    "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
-    "desc": "<p>Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts.\u00a0</p>\n<p>The post <a href=\"https://www.se",
-    "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
-    "topic": "openai"
-  },
-  {
-    "title": "23 Million User Records Compromised in Gyazo Data Breach",
-    "desc": "<p>Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
-    "topic": "secops"
-  },
-  {
-    "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
-    "desc": "<p>Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority.</p>\n<p",
-    "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
-    "topic": "azure"
-  },
-  {
-    "title": "NightmareStresser DDoS Service Disrupted in International Operation",
-    "desc": "<p>Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+    "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
+    "desc": "<p>Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
     "topic": "general"
   }
 ]

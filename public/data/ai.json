@@ -1,5 +1,17 @@
 [
   {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "desc": "",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "topic": "general"
+  },
+  {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "desc": "",
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "topic": "general"
+  },
+  {
     "title": "Your Agent Aced the Task. Will It Do It Again?",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
@@ -18,12 +30,6 @@
     "topic": "general"
   },
   {
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "desc": "",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "topic": "general"
-  },
-  {
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "desc": "",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
@@ -39,12 +45,6 @@
     "title": "Give Your Coding Agents a Memory You Own",
     "desc": "",
     "link": "https://huggingface.co/blog/funes",
-    "topic": "general"
-  },
-  {
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "desc": "",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
     "topic": "general"
   }
 ]

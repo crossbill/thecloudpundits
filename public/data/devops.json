@@ -1,50 +1,50 @@
 [
   {
-    "title": "Inside AX: Google's Runtime for Running AI Agents at Kubernetes Scale",
-    "desc": "<p>Google has open-sourced AX, a runtime purpose-built to run agentic tasks \u2014 not chat turns, but long-lived, stateful, potentially expensiv",
-    "link": "https://dev.to/soytuber/inside-ax-googles-runtime-for-running-ai-agents-at-kubernetes-scale-4675",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Building a Document Pipeline for Multi-Country EU Export Compliance",
-    "desc": "<h2>\n  \n  \n  The problem nobody diagrams before it bites you\n</h2>\n\n<p>If you've ever built an onboarding flow for international sellers or ",
-    "link": "https://dev.to/diogoheleno/building-a-document-pipeline-for-multi-country-eu-export-compliance-1db6",
+    "title": "From DevOps to SRE: A Practitioner's Roadmap for Enterprise Transformation",
+    "desc": "<p>In 2018, the same year that Forsgren, Humble, and Kim published <em>Accelerate</em> \u2014 the empirical validation of DevOps practices \u2014 appr",
+    "link": "https://dev.to/npayyappilly/from-devops-to-sre-a-practitioners-roadmap-for-enterprise-transformation-252h",
     "topic": "general"
   },
   {
-    "title": "Stop Shipping LLM Features You Don't Understand: A Developer's Wake-Up Call",
-    "desc": "<h2>\n  \n  \n  The Problem With \"Just Add AI\"\n</h2>\n\n<p>Let's be honest: most of us are shipping LLM features without really understanding wha",
-    "link": "https://dev.to/icentric/stop-shipping-llm-features-you-dont-understand-a-developers-wake-up-call-35e0",
+    "title": "Staging DNS Records Appeared in Production: Wrong Zone IDs from Shared Config",
+    "desc": "<p><strong>Short answer:</strong> when staging DNS records appeared in production, I would freeze the hostname cutover, prove the delegated ",
+    "link": "https://dev.to/colemitchell4991/staging-dns-records-appeared-in-production-wrong-zone-ids-from-shared-config-3ag6",
     "topic": "general"
   },
   {
-    "title": "AI\u4ea4\u6613\uff0c\u4e0d\u8a72\u53ea\u662f\u8f14\u52a9\u5de5\u5177\uff1aPinnacle AI\u91cf\u5316\u6295\u8cc7\u7cfb\u7d71\uff08Pinnacle AI\u7cfb\u7d71\uff09\u7684\u69cb\u60f3\u8d77\u9ede",
-    "desc": "<p>\u96a8\u8457\u751f\u6210\u5f0f\u4eba\u5de5\u667a\u80fd\u5feb\u901f\u767c\u5c55\uff0c\u91d1\u878d\u884c\u696d\u958b\u59cb\u91cd\u65b0\u601d\u8003\u4e00\u500b\u91cd\u8981\u554f\u984c\uff1a<br />\n\u7576AI\u64c1\u6709\u8d8a\u4f86\u8d8a\u5f37\u7684\u6578\u64da\u7406\u89e3\u3001\u5206\u6790\u8207\u63a8\u7406\u80fd\u529b\uff0c\u5b83\u5728\u91d1\u878d\u5e02\u5834\u4e2d\u7684\u89d2\u8272\uff0c\u662f\u5426\u9084\u6703\u505c\u7559\u5728\u300c\u8f14\u52a9\u4eba\u985e\u6c7a\u7b56\u300d\uff1f</p>\n\n<p><a class=\"article-body-image-wrapper\" hr",
-    "link": "https://dev.to/pinnacleaisystemresearch/aijiao-yi-bu-gai-zhi-shi-fu-zhu-gong-ju-pinnacle-ailiang-hua-tou-zi-xi-tong-pinnacle-aixi-tong-de-gou-xiang-qi-dian-2i60",
+    "title": "Ask your ClickHouse\u00ae database in plain English",
+    "desc": "<p><strong>Introducing Qurioz, the AI assistant built into CHOps.</strong></p>\n\n<h2>\n  \n  \n  What is CH-Ops?\n</h2>\n\n<p>CH-Ops is a browser-b",
+    "link": "https://dev.to/kanishga_subramani_49ad73/ask-your-clickhouser-database-in-plain-english-3a8f",
     "topic": "general"
   },
   {
-    "title": "LLMOps Lock-In: What Devs Need to Know Before Picking a Cloud",
-    "desc": "<h2>\n  \n  \n  LLMOps Lock-In: What Devs Need to Know Before Picking a Cloud\n</h2>\n\n<p>If you're building with LLMs in 2024, you've probably n",
-    "link": "https://dev.to/icentric/llmops-lock-in-what-devs-need-to-know-before-picking-a-cloud-5d51",
+    "title": "Why fork() Doesn't Duplicate Memory: Copy-on-Write and the Page Table",
+    "desc": "<p>Calling fork() does not duplicate a process's memory space; it copies the page table hierarchy and sets every Page Table Entry to read-on",
+    "link": "https://dev.to/sufyanism/why-fork-doesnt-duplicate-memory-copy-on-write-and-the-page-table-3ioa",
     "topic": "general"
   },
   {
-    "title": "NAS Hot Spare vs Cold Spare: Building a Drive Replacement Strategy That Works",
-    "desc": "<p>Every drive in a NAS will eventually fail; the only question is what happens in the minutes and hours after it does. A well-designed spar",
-    "link": "https://dev.to/nasstorage/nas-hot-spare-vs-cold-spare-building-a-drive-replacement-strategy-that-works-1p5j",
+    "title": "C\u00f3mo solucionar `docker run` con exit code 1 en Raspberry Pi",
+    "desc": "<h1>\n  \n  \n  C\u00f3mo solucionar <code>docker run</code> con exit code 1 en Raspberry Pi\n</h1>\n\n<h2>\n  \n  \n  \u00bfPor qu\u00e9 ocurre este error?\n</h2>\n\n",
+    "link": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exit-code-1-en-raspberry-pi-407p",
+    "topic": "docker"
+  },
+  {
+    "title": "Cronhq: Automated Scheduling for Developers",
+    "desc": "<h2>\n  \n  \n  Cronhq: Automated Scheduling for Developers\n</h2>\n\n<p>Cronhq is a new cloud-based cron job manager that simplifies task automat",
+    "link": "https://dev.to/mrrabbar/cronhq-automated-scheduling-for-developers-1f3i",
     "topic": "general"
   },
   {
-    "title": "The Agent Rewrote Your Tests. Did the Contract Survive?",
-    "desc": "<p>Did the agent claim it fixed your tests?<br />\nGreen text in a chat session is cheap.<br />\nA surviving product contract is not cheap.</p",
-    "link": "https://dev.to/gitlab_3188/the-agent-rewrote-your-tests-did-the-contract-survive-8e7",
+    "title": "Your agent's account of what it did is a claim. Check it against the logs",
+    "desc": "<p>When an agent breaks production, the first thing most teams do is ask the agent what happened. It answers quickly, in complete sentences,",
+    "link": "https://dev.to/parsa4873fe3aa/your-agents-account-of-what-it-did-is-a-claim-check-it-against-the-logs-184h",
     "topic": "general"
   },
   {
-    "title": "Timeout Means No \u2014 The One Rule That Makes AI Agent Approval Gates Actually Work",
-    "desc": "<p>My trading bot went live recently, and I wrote up <a href=\"https://dev.to/samhartley_dev/my-paper-trading-bot-went-live-this-week-heres-t",
-    "link": "https://dev.to/samhartley_dev/timeout-means-no-the-one-rule-that-makes-ai-agent-approval-gates-actually-work-1j1o",
+    "title": "Score Agent Patches on a Frozen Surface. Ledger the Flakes.",
+    "desc": "<p>A green CI run is the wrong merge signal for an agent patch. If the agent can skip a flake, rewrite a fixture, or weaken a property, gree",
+    "link": "https://dev.to/datacpp_8185/score-agent-patches-on-a-frozen-surface-ledger-the-flakes-5b3h",
     "topic": "general"
   }
 ]
