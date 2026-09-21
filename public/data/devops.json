@@ -1,50 +1,50 @@
 [
   {
-    "title": "Leaked-Key Drills: Why API Credential Inventory Defines Your Account Perimeter",
-    "desc": "<p>A B2B SaaS on-call gets a page: API spend has crossed the drill ceiling, and requests from a tenant-facing worker are now being refused. ",
-    "link": "https://dev.to/barnabyvance6852/leaked-key-drills-why-api-credential-inventory-defines-your-account-perimeter-4jid",
+    "title": "My Bot Went Silent: The Case of the Missing \"Always-On\" Process",
+    "desc": "<p>It's your friendly neighborhood AI dev, oji (@oji_ai_dev)! Today I want to share a recent, pretty critical mistake I made with my side-hu",
+    "link": "https://dev.to/masaoshimadaopen/my-bot-went-silent-the-case-of-the-missing-always-on-process-205g",
     "topic": "general"
   },
   {
-    "title": "I read 65 CI files from 30 popular npm packages. 13 still run an end-of-life Node.",
-    "desc": "<p>Every green badge is a promise that your tests ran. The file behind it gets written once, at the moment someone is trying to ship, and th",
-    "link": "https://dev.to/samson_ilands/i-read-65-ci-files-from-30-popular-npm-packages-13-still-run-an-end-of-life-node-i98",
+    "title": "How I Built Secret-Scrub: A Zero-Dependency Pre-Commit Secret Scanner with Shannon Entropy Analysis",
+    "desc": "<p>Every developer has had that split-second wave of cold panic:</p>\n\n<p>You type <code>git commit -m \"update config\" && git push</code>, an",
+    "link": "https://dev.to/mahdyarmonfared/how-i-built-secret-scrub-a-zero-dependency-pre-commit-secret-scanner-with-shannon-entropy-analysis-5ea2",
     "topic": "general"
   },
   {
-    "title": "B2B Zone Changes in Node.js: Why TTL Cannot Make DNS Immediate",
-    "desc": "<p>DNS changes are not immediate because TTL really controls a cache's requested retention period, not a universal propagation deadline. Mov",
-    "link": "https://dev.to/drummondreed8257/b2b-zone-changes-in-nodejs-why-ttl-cannot-make-dns-immediate-11o8",
+    "title": "Healthtech Node.js Traffic \u2014 Coarse Routing Plus Stable Regional Hostnames",
+    "desc": "<p>Short answer: publish a stable application hostname for each region, keep that hostname map in reviewed configuration, and let a feature ",
+    "link": "https://dev.to/nielschristensen4981/healthtech-nodejs-traffic-coarse-routing-plus-stable-regional-hostnames-15f4",
     "topic": "general"
   },
   {
-    "title": "Turn your ytt data values schema into a documentation site",
-    "desc": "<p>If you template Kubernetes manifests with <a href=\"https://carvel.dev/ytt/\" rel=\"noopener noreferrer\">ytt</a>, you probably have a data v",
-    "link": "https://dev.to/baunegaard/turn-your-ytt-data-values-schema-into-a-documentation-site-3gho",
+    "title": "Foremerge Detects Intent Conflicts Between Parallel Coding Agents",
+    "desc": "<h2>\n  \n  \n  What Happened\n</h2>\n\n<p>Foremerge, an open\u2011source project on GitHub, debuted on Show HN as a lightweight tool that watches para",
+    "link": "https://dev.to/felipejac/foremerge-detects-intent-conflicts-between-parallel-coding-agents-4p44",
     "topic": "general"
   },
   {
-    "title": "Web Scalability for Startup Engineers \u2014 Review and Summary for Developers",
-    "desc": "<p>This book is a practical guide to scaling web applications from a few users to millions. Ejsmont covers the full stack: frontend optimiza",
-    "link": "https://dev.to/devbookreader/web-scalability-for-startup-engineers-review-and-summary-for-developers-5dek",
+    "title": "# Progressive Delivery: Using Observability to Decide When to Move Forward",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/rogeroliveira86/-progressive-delivery-using-observability-to-decide-when-to-move-forward-16jp",
     "topic": "general"
   },
   {
-    "title": "A fast, zero-knowledge alternative to Privnote for developers",
-    "desc": "<p>Most self-destructing note services receive your plain-text data on their backend servers before generating a link. If you care about tru",
-    "link": "https://dev.to/zayn_arlo/a-fast-zero-knowledge-alternative-to-privnote-for-developers-3fl0",
+    "title": "Cloudflare's \"Flexible\" SSL trap, and the real DNS wait time for a hosting migration",
+    "desc": "<p>Two mistakes come up constantly when small businesses move hosts or put Cloudflare in front of a WordPress site. Both are documented, bot",
+    "link": "https://dev.to/preciousky_45d956626d31c3/cloudflares-flexible-ssl-trap-and-the-real-dns-wait-time-for-a-hosting-migration-2gk6",
     "topic": "general"
   },
   {
-    "title": "Record Deletes vs Zone Deletion \u2014 Prevent Accidental DNS Loss in Automated Pipelines 2026",
-    "desc": "<p>Use record-level cleanup for a gaming company's mail-provider cutover; put zone retirement behind a separate runtime allowlist. Short ans",
-    "link": "https://dev.to/ethanbrooks1486/record-deletes-vs-zone-deletion-prevent-accidental-dns-loss-in-automated-pipelines-2026-210h",
+    "title": "Environment variables done right",
+    "desc": "<p>I've seen API keys committed to Git, <code>.env</code> files with 50+ variables, and production secrets stored in plain text files. Here'",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/environment-variables-done-right-5a29",
     "topic": "general"
   },
   {
-    "title": "Stop sending API keys over Slack or WhatsApp. Use this instead.",
-    "desc": "<p>Sending .env variables, API keys, or database credentials over Slack, Email, or WhatsApp is a security risk. Those messages sit in plain-",
-    "link": "https://dev.to/zayn_arlo/stop-sending-api-keys-over-slack-or-whatsapp-use-this-instead-3ebj",
-    "topic": "general"
+    "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/kubernetes-v137-tracking-when-a-persistentvolumeclaim-was-last-u",
+    "link": "https://dev.to/rasne/kubernetes-v137-tracking-when-a-persistentvolumeclaim-was-last-used-beta-3o67",
+    "topic": "kubernetes"
   }
 ]
