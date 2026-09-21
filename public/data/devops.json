@@ -1,50 +1,50 @@
 [
   {
-    "title": "My Spring Boot App Worked on Localhost. Deployment Showed Me What I Had Assumed.",
-    "desc": "<p>My application worked.</p>\n\n<p>The API responded.<br />\nThe frontend could call it.<br />\nThe main flow did what I expected.</p>\n\n<p>On m",
-    "link": "https://dev.to/nocklock/my-spring-boot-app-worked-on-localhost-deployment-showed-me-what-i-had-assumed-9gk",
-    "topic": "general"
-  },
-  {
-    "title": "Six API Gateways, Priced on the Same Month of Traffic",
-    "desc": "<p>Nobody sets out to adopt an API gateway. You add TLS termination, then a token check, then per-customer rate limits, and at some point th",
-    "link": "https://dev.to/moksh/six-api-gateways-priced-on-the-same-month-of-traffic-4i3l",
-    "topic": "general"
-  },
-  {
-    "title": "I flew helicopters for a living. If I had to break into Azure again, I'd start with the Cloud Resume Challenge",
-    "desc": "<p>Quick bit of background so you know who's talking. I didn't do computer science. I flew helicopters for a living for a few years, and at ",
-    "link": "https://dev.to/kloudcaptain/i-trained-as-a-helicopter-pilot-if-i-had-to-break-into-azure-again-id-start-with-the-cloud-3m2c",
-    "topic": "azure"
-  },
-  {
-    "title": "Prometheus na pr\u00e1tica - scraping, o endpoint /metrics e uma mini app Python expondo m\u00e9tricas",
-    "desc": "<h2>\n  \n  \n  1. Retomando: da stack vazia \u00e0 primeira fonte de dados\n</h2>\n\n<p>No primeiro artigo desta s\u00e9rie, subimos Prometheus, Loki e Gra",
-    "link": "https://dev.to/apsis-cc/prometheus-na-pratica-scraping-o-endpoint-metrics-e-uma-mini-app-python-expondo-metricas-2j08",
-    "topic": "general"
-  },
-  {
-    "title": "Observabilidade - o que \u00e9, m\u00e9tricas vs logs vs traces e a stack Prometheus + Loki + Grafana",
-    "desc": "<h2>\n  \n  \n  1. Por que \"monitoramento\" n\u00e3o \u00e9 mais suficiente\n</h2>\n\n<p>Por muito tempo, \"monitorar\" um sistema significava basicamente uma ",
-    "link": "https://dev.to/apsis-cc/observabilidade-o-que-e-metricas-vs-logs-vs-traces-e-a-stack-prometheus-loki-grafana-2136",
-    "topic": "general"
-  },
-  {
-    "title": "GitOps avan\u00e7ado - automa\u00e7\u00e3o de deploy, rollback e boas pr\u00e1ticas para produ\u00e7\u00e3o",
-    "desc": "<h2>\n  \n  \n  1. Retomando: da sincroniza\u00e7\u00e3o manual \u00e0 confian\u00e7a em produ\u00e7\u00e3o\n</h2>\n\n<p>Esta s\u00e9rie cobriu, at\u00e9 aqui, o suficiente para operar K",
-    "link": "https://dev.to/apsis-cc/gitops-avancado-automacao-de-deploy-rollback-e-boas-praticas-para-producao-5cfa",
-    "topic": "general"
-  },
-  {
-    "title": "GitOps na pr\u00e1tica - ArgoCD e estrutura de reposit\u00f3rio",
-    "desc": "<h2>\n  \n  \n  1. Retomando: do <code>kubectl apply</code> manual a um fluxo automatizado\n</h2>\n\n<p>Nas duas primeiras partes desta s\u00e9rie, tod",
-    "link": "https://dev.to/apsis-cc/gitops-na-pratica-argocd-e-estrutura-de-repositorio-28j5",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes no dia a dia - kubectl, Namespaces, ConfigMaps e Secrets",
-    "desc": "<h2>\n  \n  \n  1. Retomando: de conceitos a comandos\n</h2>\n\n<p>Na primeira parte desta s\u00e9rie vimos o que \u00e9 o Kubernetes, o problema que ele re",
-    "link": "https://dev.to/apsis-cc/kubernetes-no-dia-a-dia-kubectl-namespaces-configmaps-e-secrets-gd6",
+    "title": "Inside AX: Google's Runtime for Running AI Agents at Kubernetes Scale",
+    "desc": "<p>Google has open-sourced AX, a runtime purpose-built to run agentic tasks \u2014 not chat turns, but long-lived, stateful, potentially expensiv",
+    "link": "https://dev.to/soytuber/inside-ax-googles-runtime-for-running-ai-agents-at-kubernetes-scale-4675",
     "topic": "kubernetes"
+  },
+  {
+    "title": "Building a Document Pipeline for Multi-Country EU Export Compliance",
+    "desc": "<h2>\n  \n  \n  The problem nobody diagrams before it bites you\n</h2>\n\n<p>If you've ever built an onboarding flow for international sellers or ",
+    "link": "https://dev.to/diogoheleno/building-a-document-pipeline-for-multi-country-eu-export-compliance-1db6",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Shipping LLM Features You Don't Understand: A Developer's Wake-Up Call",
+    "desc": "<h2>\n  \n  \n  The Problem With \"Just Add AI\"\n</h2>\n\n<p>Let's be honest: most of us are shipping LLM features without really understanding wha",
+    "link": "https://dev.to/icentric/stop-shipping-llm-features-you-dont-understand-a-developers-wake-up-call-35e0",
+    "topic": "general"
+  },
+  {
+    "title": "AI\u4ea4\u6613\uff0c\u4e0d\u8a72\u53ea\u662f\u8f14\u52a9\u5de5\u5177\uff1aPinnacle AI\u91cf\u5316\u6295\u8cc7\u7cfb\u7d71\uff08Pinnacle AI\u7cfb\u7d71\uff09\u7684\u69cb\u60f3\u8d77\u9ede",
+    "desc": "<p>\u96a8\u8457\u751f\u6210\u5f0f\u4eba\u5de5\u667a\u80fd\u5feb\u901f\u767c\u5c55\uff0c\u91d1\u878d\u884c\u696d\u958b\u59cb\u91cd\u65b0\u601d\u8003\u4e00\u500b\u91cd\u8981\u554f\u984c\uff1a<br />\n\u7576AI\u64c1\u6709\u8d8a\u4f86\u8d8a\u5f37\u7684\u6578\u64da\u7406\u89e3\u3001\u5206\u6790\u8207\u63a8\u7406\u80fd\u529b\uff0c\u5b83\u5728\u91d1\u878d\u5e02\u5834\u4e2d\u7684\u89d2\u8272\uff0c\u662f\u5426\u9084\u6703\u505c\u7559\u5728\u300c\u8f14\u52a9\u4eba\u985e\u6c7a\u7b56\u300d\uff1f</p>\n\n<p><a class=\"article-body-image-wrapper\" hr",
+    "link": "https://dev.to/pinnacleaisystemresearch/aijiao-yi-bu-gai-zhi-shi-fu-zhu-gong-ju-pinnacle-ailiang-hua-tou-zi-xi-tong-pinnacle-aixi-tong-de-gou-xiang-qi-dian-2i60",
+    "topic": "general"
+  },
+  {
+    "title": "LLMOps Lock-In: What Devs Need to Know Before Picking a Cloud",
+    "desc": "<h2>\n  \n  \n  LLMOps Lock-In: What Devs Need to Know Before Picking a Cloud\n</h2>\n\n<p>If you're building with LLMs in 2024, you've probably n",
+    "link": "https://dev.to/icentric/llmops-lock-in-what-devs-need-to-know-before-picking-a-cloud-5d51",
+    "topic": "general"
+  },
+  {
+    "title": "NAS Hot Spare vs Cold Spare: Building a Drive Replacement Strategy That Works",
+    "desc": "<p>Every drive in a NAS will eventually fail; the only question is what happens in the minutes and hours after it does. A well-designed spar",
+    "link": "https://dev.to/nasstorage/nas-hot-spare-vs-cold-spare-building-a-drive-replacement-strategy-that-works-1p5j",
+    "topic": "general"
+  },
+  {
+    "title": "The Agent Rewrote Your Tests. Did the Contract Survive?",
+    "desc": "<p>Did the agent claim it fixed your tests?<br />\nGreen text in a chat session is cheap.<br />\nA surviving product contract is not cheap.</p",
+    "link": "https://dev.to/gitlab_3188/the-agent-rewrote-your-tests-did-the-contract-survive-8e7",
+    "topic": "general"
+  },
+  {
+    "title": "Timeout Means No \u2014 The One Rule That Makes AI Agent Approval Gates Actually Work",
+    "desc": "<p>My trading bot went live recently, and I wrote up <a href=\"https://dev.to/samhartley_dev/my-paper-trading-bot-went-live-this-week-heres-t",
+    "link": "https://dev.to/samhartley_dev/timeout-means-no-the-one-rule-that-makes-ai-agent-approval-gates-actually-work-1j1o",
+    "topic": "general"
   }
 ]

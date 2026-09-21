@@ -1,5 +1,17 @@
 [
   {
+    "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
+    "desc": "<p>Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Google Confirms Gemini AI Breached Three Firms",
+    "desc": "<p>Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+    "topic": "secops"
+  },
+  {
     "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
     "desc": "<p>The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.</",
     "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
@@ -34,17 +46,5 @@
     "desc": "<p>Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world.</p>\n<p>The post <a href",
     "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
     "topic": "general"
-  },
-  {
-    "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
-    "desc": "<p>Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts.</p>\n<p>The post <a href=\"https://www.se",
-    "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-    "topic": "secops"
-  },
-  {
-    "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
-    "desc": "<p>CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.</p>\n",
-    "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
-    "topic": "secops"
   }
 ]
