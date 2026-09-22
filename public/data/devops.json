@@ -1,50 +1,50 @@
 [
   {
-    "title": "My Bot Went Silent: The Case of the Missing \"Always-On\" Process",
-    "desc": "<p>It's your friendly neighborhood AI dev, oji (@oji_ai_dev)! Today I want to share a recent, pretty critical mistake I made with my side-hu",
-    "link": "https://dev.to/masaoshimadaopen/my-bot-went-silent-the-case-of-the-missing-always-on-process-205g",
+    "title": "Azure DevOps knows what deployed. It has no idea what you released",
+    "desc": "<p>Our Configuration Manager asked me a question I could not answer.</p>\n\n<p>\"For release 20260829.1, show me the list of changes, who appro",
+    "link": "https://dev.to/vicky_acedia/azure-devops-knows-what-deployed-it-has-no-idea-what-you-released-5h9m",
+    "topic": "azure"
+  },
+  {
+    "title": "We let AI agents write 1,450 commits of our product. Here's what code review became.",
+    "desc": "<p>Since April, most of Deckgauge's code has been written by AI coding agents \u2014 4,700 commits total, around 1,450 of them with AI co-author ",
+    "link": "https://dev.to/yaniv_zalevas_a91253c56bb/we-let-ai-agents-write-1450-commits-of-our-product-heres-what-code-review-became-p8",
     "topic": "general"
   },
   {
-    "title": "How I Built Secret-Scrub: A Zero-Dependency Pre-Commit Secret Scanner with Shannon Entropy Analysis",
-    "desc": "<p>Every developer has had that split-second wave of cold panic:</p>\n\n<p>You type <code>git commit -m \"update config\" && git push</code>, an",
-    "link": "https://dev.to/mahdyarmonfared/how-i-built-secret-scrub-a-zero-dependency-pre-commit-secret-scanner-with-shannon-entropy-analysis-5ea2",
+    "title": "The sensor was fine. The read path was dead, and it died looking alive.",
+    "desc": "<p>For eleven days our barometer read 981.8 hPa. That number was plausible atmospheric pressure for<br />\nour altitude, it never looked odd,",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/the-sensor-was-fine-the-read-path-was-dead-and-it-died-looking-alive-ag4",
     "topic": "general"
   },
   {
-    "title": "Healthtech Node.js Traffic \u2014 Coarse Routing Plus Stable Regional Hostnames",
-    "desc": "<p>Short answer: publish a stable application hostname for each region, keep that hostname map in reviewed configuration, and let a feature ",
-    "link": "https://dev.to/nielschristensen4981/healthtech-nodejs-traffic-coarse-routing-plus-stable-regional-hostnames-15f4",
+    "title": "Your attack surface is whatever the internet remembers \u2014 and it remembers more than you do",
+    "desc": "<h2>\n  \n  \n  The problem starts with something perfectly reasonable\n</h2>\n\n<p>Someone spins up staging.company.com for a client demo. The de",
+    "link": "https://dev.to/hexwardlabs/your-attack-surface-is-whatever-the-internet-remembers-and-it-remembers-more-than-you-do-1p08",
+    "topic": "secops"
+  },
+  {
+    "title": "ACTCOINESE-MAX entwickelt effizientere Datenfl\u00fcsse f\u00fcr mobile digitale Services",
+    "desc": "<p>Mit der zunehmenden Nutzung mobiler digitaler Services w\u00e4chst auch die Bedeutung einer effizienten Datenverarbeitung. Informationen m\u00fcsse",
+    "link": "https://dev.to/actcoinese-max/actcoinese-max-entwickelt-effizientere-datenflusse-fur-mobile-digitale-services-2mdi",
     "topic": "general"
   },
   {
-    "title": "Foremerge Detects Intent Conflicts Between Parallel Coding Agents",
-    "desc": "<h2>\n  \n  \n  What Happened\n</h2>\n\n<p>Foremerge, an open\u2011source project on GitHub, debuted on Show HN as a lightweight tool that watches para",
-    "link": "https://dev.to/felipejac/foremerge-detects-intent-conflicts-between-parallel-coding-agents-4p44",
-    "topic": "general"
-  },
-  {
-    "title": "# Progressive Delivery: Using Observability to Decide When to Move Forward",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/rogeroliveira86/-progressive-delivery-using-observability-to-decide-when-to-move-forward-16jp",
-    "topic": "general"
-  },
-  {
-    "title": "Cloudflare's \"Flexible\" SSL trap, and the real DNS wait time for a hosting migration",
-    "desc": "<p>Two mistakes come up constantly when small businesses move hosts or put Cloudflare in front of a WordPress site. Both are documented, bot",
-    "link": "https://dev.to/preciousky_45d956626d31c3/cloudflares-flexible-ssl-trap-and-the-real-dns-wait-time-for-a-hosting-migration-2gk6",
-    "topic": "general"
-  },
-  {
-    "title": "Environment variables done right",
-    "desc": "<p>I've seen API keys committed to Git, <code>.env</code> files with 50+ variables, and production secrets stored in plain text files. Here'",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/environment-variables-done-right-5a29",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/kubernetes-v137-tracking-when-a-persistentvolumeclaim-was-last-u",
-    "link": "https://dev.to/rasne/kubernetes-v137-tracking-when-a-persistentvolumeclaim-was-last-used-beta-3o67",
+    "title": "How to Set Up SafeLine WAF on Kubernetes",
+    "desc": "<h1>\n  \n  \n  How to Set Up SafeLine WAF on Kubernetes\n</h1>\n\n<p>If your apps already run on Kubernetes, SafeLine fits right in \u2014 it's a cont",
+    "link": "https://dev.to/lialiago/how-to-set-up-safeline-waf-on-kubernetes-244c",
     "topic": "kubernetes"
+  },
+  {
+    "title": "Why Does My A\u2011Share Market WebSocket Connection Drop Silently? Building Reliable Heartbeat & Auto\u2011Reconnection",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kels180/why-does-my-a-share-market-websocket-connection-drop-silently-building-reliable-heartbeat--267l",
+    "topic": "general"
+  },
+  {
+    "title": "GBTCOINESE-TOP entwickelt klare Berechtigungsstrukturen f\u00fcr digitale Prozesse",
+    "desc": "<p>Mit der zunehmenden Nutzung digitaler Plattformen gewinnen Datenschutz und kontrollierte Zugriffsprozesse immer st\u00e4rker an Bedeutung. GBT",
+    "link": "https://dev.to/gbtcoinese-top/gbtcoinese-top-entwickelt-klare-berechtigungsstrukturen-fur-digitale-prozesse-3gge",
+    "topic": "general"
   }
 ]
