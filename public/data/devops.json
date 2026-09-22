@@ -1,50 +1,50 @@
 [
   {
-    "title": "My Site Was Compromised in 48 Hours. I Thought It Was a CSS Bug.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/shakurshirajul/my-site-was-compromised-in-48-hours-i-thought-it-was-a-css-bug-1kig",
+    "title": "Reject Tool-Call Fanout Before Token Burn Beats Slack",
+    "desc": "<p>You get paged at 02:14 UTC tonight.<br />\nQueue age already sits at 47 seconds.<br />\nInteractive CPU still looks almost idle.</p>\n\n<p>Yo",
+    "link": "https://dev.to/odd_background_328/reject-tool-call-fanout-before-token-burn-beats-slack-2pe7",
     "topic": "general"
   },
   {
-    "title": "Stop Memorizing AWS Services. Build One Project That Teaches You How Cloud Actually Works",
-    "desc": "<p>Learning AWS can feel confusing at the beginning.</p>\n\n<p>You open the AWS console and find EC2, S3, RDS, Lambda, IAM, VPC, CloudWatch an",
-    "link": "https://dev.to/armaan_b305b7d0e320b8ff3b/stop-memorizing-aws-services-build-one-project-that-teaches-you-how-cloud-actually-works-5a32",
-    "topic": "aws"
-  },
-  {
-    "title": "Why GPU Availability Is Still the Biggest Bottleneck in ML Infra",
-    "desc": "<p>If you've ever had a training job ready to go and then sat there refreshing your cloud console because there's no GPU capacity available ",
-    "link": "https://dev.to/sumukh_dev/why-gpu-availability-is-still-the-biggest-bottleneck-in-ml-infra-2bf0",
+    "title": "The log that proved my watcher was dead stayed dead when it recovered",
+    "desc": "<p>I have a health watcher. Every ten minutes it checks ~200 background reflexes and writes a one-word<br />\nverdict to a state file. On 202",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/the-log-that-proved-my-watcher-was-dead-stayed-dead-when-it-recovered-3p19",
     "topic": "general"
   },
   {
-    "title": "Mon r\u00e9cap de la PyCon & UbuCon Cameroun 2026 - Jour 1",
-    "desc": "<blockquote>\n<p>\u00ab Try even scared. \u00bb C'est la phrase qui m'a le plus marqu\u00e9e au Jour 1 de la PyCon & UbuCon Cameroun 2026. Et la journ\u00e9e n'a",
-    "link": "https://dev.to/audreysiewe14droid/mon-recap-de-la-pycon-ubucon-cameroun-2026-jour-1-2i8p",
+    "title": "Your LLM API Key Is a Production Credential. Start Treating It Like One.",
+    "desc": "<p>Every team I have watched handle an LLM key leak made the same category error, and it has nothing to do with carelessness. They filed the",
+    "link": "https://dev.to/toolkitcreators/your-llm-api-key-is-a-production-credential-start-treating-it-like-one-3c2k",
     "topic": "general"
   },
   {
-    "title": "penv 1.0.0-beta.1: project and env commands, a terminal UI, and what \"beta\" means here",
-    "desc": "<p>Your coding agent can read <code>.env</code>. It also reads what it prints.</p>\n\n<p>penv is a single Rust binary that validates a schema ",
-    "link": "https://dev.to/nightlyhermes/penv-100-beta1-project-and-env-commands-a-terminal-ui-and-what-beta-means-here-5cld",
+    "title": "What Happens When You Submit 3 AI Agents to a Marketplace and Wait 140 Hours",
+    "desc": "<h1>\n  \n  \n  What Happens When You Submit 3 AI Agents to a Marketplace and Wait 140 Hours\n</h1>\n\n<p>On September 16, 2026, I submitted 3 AI ",
+    "link": "https://dev.to/473185670/what-happens-when-you-submit-3-ai-agents-to-a-marketplace-and-wait-140-hours-3d91",
     "topic": "general"
   },
   {
-    "title": "The Six Barriers Between Your Crawler and the Data: A 2026 Field Guide",
-    "desc": "<p>The web still returns a 200 for almost everything. That is not the same as being reachable reliably, on a schedule, at scale. Here are th",
-    "link": "https://dev.to/promptcloud_services/the-six-barriers-between-your-crawler-and-the-data-a-2026-field-guide-1me1",
+    "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+    "desc": "<blockquote>\n<p><strong>Canonical:</strong> <a href=\"https://rasne.dev/news/introducing-worker-previews-isolated-preview-environments-for-ev",
+    "link": "https://dev.to/rasne/introducing-worker-previews-isolated-preview-environments-for-every-change-your-agent-makes-3i95",
     "topic": "general"
   },
   {
-    "title": "Why Skill Differs from Tool: Self-Evolution and Dynamic Loading Mechanism for Agent Skill Libraries",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Many developers confuse Tool and Skill in AI Agent development. A simple analogy helps clarify this dist",
-    "link": "https://dev.to/tidiane_stano_c6b88f8b685/why-skill-differs-from-tool-self-evolution-and-dynamic-loading-mechanism-for-agent-skill-libraries-3akn",
+    "title": "SPF, DKIM and DMARC all passed. Gmail still sent my mail to spam.",
+    "desc": "<p>Ask anyone why their email is going to spam and the first answer is always the same: check SPF, DKIM and DMARC. It's good advice. It's al",
+    "link": "https://dev.to/hisashispace/spf-dkim-and-dmarc-all-passed-gmail-still-sent-my-mail-to-spam-4p99",
     "topic": "general"
   },
   {
-    "title": "DevOps Training in Bangalore | Learnmore Technologies",
-    "desc": "<p>Build your career in <strong><a href=\"https://learnmoretechnologies.in/devops-training-in-bangalore/\" rel=\"noopener noreferrer\">DevOps wi",
-    "link": "https://dev.to/learnmoretech/devops-training-in-bangalore-learnmore-technologies-3428",
+    "title": "Consent is a log bound to the notice it answered",
+    "desc": "<p>A consent banner that flips a boolean can tell you what a visitor chose. It cannot tell you when they chose it, which text they were answ",
+    "link": "https://dev.to/shipmindlabs/consent-is-a-log-bound-to-the-notice-it-answered-1c37",
+    "topic": "general"
+  },
+  {
+    "title": "What Separates the Top 20% of AI-Assisted Engineering Teams from Everyone Else",
+    "desc": "<p>Here's a number that should make every engineering leader who bought AI coding tools this year a little uncomfortable: according to DORA'",
+    "link": "https://dev.to/tobyskt2/what-separates-the-top-20-of-ai-assisted-engineering-teams-from-everyone-else-246",
     "topic": "general"
   }
 ]

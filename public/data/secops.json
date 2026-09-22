@@ -1,5 +1,35 @@
 [
   {
+    "title": "Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity",
+    "desc": "<p>Abdelhamid Naceri, a former Microsoft Germany employee, is the exploit leaker Nightmare Eclipse, aka Chaotic Eclipse.\u00a0</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/",
+    "topic": "azure"
+  },
+  {
+    "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis",
+    "desc": "<p>Forescout\u2019s new network segmentation research shows that OT and medical devices often share network segments with other enterprise assets",
+    "link": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
+    "topic": "general"
+  },
+  {
+    "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
+    "desc": "<p>A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+    "topic": "secops"
+  },
+  {
+    "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
+    "desc": "<p>Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+    "topic": "general"
+  },
+  {
+    "title": "WordPress Patches \u2018Click2Shell\u2019 Vulnerability",
+    "desc": "<p>The bug lets attackers automatically install and preview themes and could lead to remote code execution.</p>\n<p>The post <a href=\"https:/",
+    "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
     "desc": "<p>The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea\u2019s WaterPlum campaign.</p>\n<p>The po",
     "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
@@ -16,35 +46,5 @@
     "desc": "<p>Google has been fined 403 million euros ($463 million) for breaching the European Union\u2019s strict privacy rules because it mishandled user",
     "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
     "topic": "secops"
-  },
-  {
-    "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, \u2018Rapuncel\u2019 Stealer",
-    "desc": "<p>The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
-    "topic": "general"
-  },
-  {
-    "title": "CISO Conversations: Noopur Davis \u2013 The Accidental Global CISO at Comcast",
-    "desc": "<p>Noopur Davis never planned a career in cybersecurity. She was a developer at Intergraph, and for many years that was all she wanted to be",
-    "link": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
-    "topic": "general"
-  },
-  {
-    "title": "Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal",
-    "desc": "<p>The transaction is part of the $4.1 billion deal in which Accenture acquired a majority stake in Dragos in an OT cybersecurity push.</p>\n",
-    "link": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
-    "topic": "general"
-  },
-  {
-    "title": "RatHat Android Trojan Uses AI for Automation",
-    "desc": "<p>The malware relies on AI for real-time device navigation and control, increasing adaptability and evasion.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
-    "topic": "general"
-  },
-  {
-    "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
-    "desc": "<p>It\u2019s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by Nor",
-    "link": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
-    "topic": "general"
   }
 ]
