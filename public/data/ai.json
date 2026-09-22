@@ -1,5 +1,11 @@
 [
   {
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "desc": "",
+    "link": "https://huggingface.co/blog/evaleval-aisi",
+    "topic": "general"
+  },
+  {
     "title": "Transformers now runs llama.cpp quants",
     "desc": "",
     "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
@@ -39,12 +45,6 @@
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
     "desc": "",
     "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "topic": "general"
-  },
-  {
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "desc": "",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
     "topic": "general"
   }
 ]
