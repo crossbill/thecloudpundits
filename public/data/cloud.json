@@ -1,5 +1,17 @@
 [
   {
+    "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+    "desc": "Amazon CloudWatch Omni is the next evolution of CloudWatch \u2014 unified observability that brings your applications and AI agents into one reim",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+    "topic": "general"
+  },
+  {
+    "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+    "desc": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, a",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+    "topic": "general"
+  },
+  {
     "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
     "desc": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is wr",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
@@ -33,18 +45,6 @@
     "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
     "desc": "AWS introduces Amazon EBS Volume Clones with cross-account copy, so you can create copies of your EBS volumes into other AWS accounts and op",
     "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
-    "topic": "aws"
-  },
-  {
-    "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
-    "desc": "Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious t",
-    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
-    "topic": "aws"
-  },
-  {
-    "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
-    "desc": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than",
-    "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
     "topic": "aws"
   }
 ]
