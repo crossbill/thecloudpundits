@@ -1,50 +1,50 @@
 [
   {
-    "title": "Launch-Day Spend Caps and Credential Blast Radius \u2014 An Alert and Rollback Drill for 2026",
-    "desc": "<p>Use a launch-specific spend cap with an alert threshold underneath it, then lower the cap on a date you wrote down before launch day. Rem",
-    "link": "https://dev.to/mortimernilsson7694/launch-day-spend-caps-and-credential-blast-radius-an-alert-and-rollback-drill-for-2026-41if",
+    "title": "I Open-Sourced 5+ Real-World API Examples with Go and SerpApi \u2013 Here's What I Learned",
+    "desc": "<h1>\n  \n  \n  I Open-Sourced 5+ Real-World API Examples with Go and SerpApi\n</h1>\n\n<p>I love Go for its simplicity. But finding clean, real-w",
+    "link": "https://dev.to/aureliopires186/i-open-sourced-5-real-world-api-examples-with-go-and-serpapi-heres-what-i-learned-87k",
     "topic": "general"
   },
   {
-    "title": "Treat AI Security Findings as Untrusted: Building an OS-Enforced Evidence Pipeline",
-    "desc": "<p>Nothing drains an on-call engineer's sanity faster than a 3:00 AM P1 alert triggered by an LLM hallucinating an exploit chain across thre",
-    "link": "https://dev.to/zimei07/treat-ai-security-findings-as-untrusted-building-an-os-enforced-evidence-pipeline-5gge",
-    "topic": "secops"
-  },
-  {
-    "title": "Getting markdown from GitHub into Confluence: the four routes and what each one costs",
-    "desc": "<p>If your team writes documentation as markdown in a repository, and the rest of the company lives in Confluence, you will eventually be as",
-    "link": "https://dev.to/zmaio/getting-markdown-from-github-into-confluence-the-four-routes-and-what-each-one-costs-4io3",
+    "title": "Deploying Metabase - Open-Source Business Intelligence Tool",
+    "desc": "<p>Metabase is an open-source business intelligence (BI) tool that lets you explore data, build dashboards, and share reports from a web bro",
+    "link": "https://dev.to/vultr/deploying-metabase-open-source-business-intelligence-tool-2ell",
     "topic": "general"
   },
   {
-    "title": "How to Map Blast Radius During an Incident: 5 Tool Classes Compared",
-    "desc": "<p>Sixty-eight percent of organizations lose more than $300,000 for every hour a major incident runs, and 8% lose more than $1 million an ho",
-    "link": "https://dev.to/dennis_pilarinos/how-to-map-blast-radius-during-an-incident-5-tool-classes-compared-1f7",
-    "topic": "secops"
-  },
-  {
-    "title": "What Is AI Observability? A Definition for Engineers",
-    "desc": "<p>AI observability is the practice of tracking what an AI system did and why.</p>\n\n<p>That means looking beyond uptime and request latency ",
-    "link": "https://dev.to/parsa4873fe3aa/what-is-ai-observability-a-definition-for-engineers-57j8",
+    "title": "2026 DNS Boundaries: Service Registry Handoffs Keep Internal Endpoints Fresh at Deploy",
+    "desc": "<p><strong>TL;DR:</strong> Put the logistics company's durable, human-facing mail name and its MX records in DNS. Put internal endpoints tha",
+    "link": "https://dev.to/becketthayes6821/2026-dns-boundaries-service-registry-handoffs-keep-internal-endpoints-fresh-at-deploy-5266",
     "topic": "general"
   },
   {
-    "title": "How I Sandboxed My AI Coding Agent's Shell Access Without Slowing It Down",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>I gave my autonomous coding agent real shell access, then spent two weeks building guardrails around it after a",
-    "link": "https://dev.to/yureki_lab/how-i-sandboxed-my-ai-coding-agents-shell-access-without-slowing-it-down-al4",
+    "title": "Where are you hosting your apps?",
+    "desc": "<p>Hey folks! I'm curious, especially in this AI-enabled age, where you all are hosting your web projects. Both your large scale corporate a",
+    "link": "https://dev.to/clone1018/where-are-you-hosting-your-apps-4m71",
     "topic": "general"
   },
   {
-    "title": "FAQ: GitLab Cache Never Uploaded Your Build",
-    "desc": "<p>Why did job B miss a file GitLab already built?<br />\nJob A is green on the pipeline graph today.<br />\nThe pipeline graph still looks fu",
-    "link": "https://dev.to/gitlab_3188/faq-gitlab-cache-never-uploaded-your-build-2ab2",
+    "title": "The Linux wc Command Every Dev Should Actually Know (Beyond Counting Lines)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/xpert4cyber/the-linux-wc-command-every-dev-should-actually-know-beyond-counting-lines-5f58",
     "topic": "general"
   },
   {
-    "title": "Make README Quickstarts Fail CI When Flags Drift From argparse",
-    "desc": "<p>Generated quickstart copy goes stale when CLI flags move and the README still shows last week's names. A small continuous-integration gat",
-    "link": "https://dev.to/github_7727/make-readme-quickstarts-fail-ci-when-flags-drift-from-argparse-2ao5",
+    "title": "Fail the Merge When an Agent Deletes or Weakens Tests",
+    "desc": "<p>A greener suite is not a better suite. If an agent patch removes tests, drops assertions, or freezes flakes that no longer exist, CI repo",
+    "link": "https://dev.to/datacpp_8185/fail-the-merge-when-an-agent-deletes-or-weakens-tests-lb7",
+    "topic": "general"
+  },
+  {
+    "title": "I Compared 5 LLM Gateway Tools for Real-World Production Use",
+    "desc": "<p>When an LLM application starts handling real users, calling a model API is usually easy. The problems show up around it. One provider hit",
+    "link": "https://dev.to/devstackcommunity/i-compared-5-llm-gateway-tools-for-real-world-production-use-4n5p",
+    "topic": "general"
+  },
+  {
+    "title": "Healthtech DNS and Registry Boundaries: Fresh Internal Endpoints After Every Deploy",
+    "desc": "<p>A healthtech tenant subdomain has to remain boring while the services behind it change. That operational constraint decides the architect",
+    "link": "https://dev.to/horatiofox1281/healthtech-dns-and-registry-boundaries-fresh-internal-endpoints-after-every-deploy-504j",
     "topic": "general"
   }
 ]
