@@ -1,50 +1,50 @@
 [
   {
-    "title": "I Open-Sourced 5+ Real-World API Examples with Go and SerpApi \u2013 Here's What I Learned",
-    "desc": "<h1>\n  \n  \n  I Open-Sourced 5+ Real-World API Examples with Go and SerpApi\n</h1>\n\n<p>I love Go for its simplicity. But finding clean, real-w",
-    "link": "https://dev.to/aureliopires186/i-open-sourced-5-real-world-api-examples-with-go-and-serpapi-heres-what-i-learned-87k",
+    "title": "Your MQTT devices keep publishing when the WAN drops \u2014 here's the setup",
+    "desc": "<p>Devices publish MQTT to a broker in the cloud. It works, until the link to the site goes down for forty minutes.</p>\n\n<p>What happened to",
+    "link": "https://dev.to/jon_zuanich/your-mqtt-devices-keep-publishing-when-the-wan-drops-heres-the-setup-243b",
     "topic": "general"
   },
   {
-    "title": "Deploying Metabase - Open-Source Business Intelligence Tool",
-    "desc": "<p>Metabase is an open-source business intelligence (BI) tool that lets you explore data, build dashboards, and share reports from a web bro",
-    "link": "https://dev.to/vultr/deploying-metabase-open-source-business-intelligence-tool-2ell",
+    "title": "Fatal Assertions vs Warnings: Stop Staging DNS Records in Production",
+    "desc": "<p>Short answer: choose a fatal zone-to-domain assertion over a runtime warning. Before a property-management deployment can publish a stagi",
+    "link": "https://dev.to/trippdonovan5461/fatal-assertions-vs-warnings-stop-staging-dns-records-in-production-28p",
     "topic": "general"
   },
   {
-    "title": "2026 DNS Boundaries: Service Registry Handoffs Keep Internal Endpoints Fresh at Deploy",
-    "desc": "<p><strong>TL;DR:</strong> Put the logistics company's durable, human-facing mail name and its MX records in DNS. Put internal endpoints tha",
-    "link": "https://dev.to/becketthayes6821/2026-dns-boundaries-service-registry-handoffs-keep-internal-endpoints-fresh-at-deploy-5266",
+    "title": "The 5 things that actually break in a Moodle 5.1 5.2 upgrade",
+    "desc": "<p>Every \"mysterious\" Moodle 5.2 upgrade failure I've debugged has come down to the same five things.</p>\n\n<p>Not ten, not fifty. Five.</p>\n",
+    "link": "https://dev.to/choaibmouhrach/the-5-things-that-actually-break-in-a-moodle-51-52-upgrade-4ba4",
     "topic": "general"
   },
   {
-    "title": "Where are you hosting your apps?",
-    "desc": "<p>Hey folks! I'm curious, especially in this AI-enabled age, where you all are hosting your web projects. Both your large scale corporate a",
-    "link": "https://dev.to/clone1018/where-are-you-hosting-your-apps-4m71",
+    "title": "Kubernetes Architecture Explained: The core components that run your cluster",
+    "desc": "<p>You have containerized your application with Docker and you need to run 100 copies across 20 servers, restart the containers when they cr",
+    "link": "https://dev.to/dotun2203/kubernetes-architecture-explained-the-core-components-that-run-your-cluster-3nap",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Node.js Logistics DNS Records in Production from Wrong Staging Config",
+    "desc": "<p>Short answer: stop the DNS record job and read the domain for its configured zone. Compare that domain to the one expected for this deplo",
+    "link": "https://dev.to/noahhayes7250/nodejs-logistics-dns-records-in-production-from-wrong-staging-config-3eo7",
     "topic": "general"
   },
   {
-    "title": "The Linux wc Command Every Dev Should Actually Know (Beyond Counting Lines)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/the-linux-wc-command-every-dev-should-actually-know-beyond-counting-lines-5f58",
+    "title": "Node.js Email Bounce and Complaint Handling: A Retry-Safe Polling Job",
+    "desc": "<p>For a property marketplace sending new-order email, the least complex reliable design is a scheduled Node.js poller: read delivery events",
+    "link": "https://dev.to/rivenpulse5812/nodejs-email-bounce-and-complaint-handling-a-retry-safe-polling-job-4o4g",
     "topic": "general"
   },
   {
-    "title": "Fail the Merge When an Agent Deletes or Weakens Tests",
-    "desc": "<p>A greener suite is not a better suite. If an agent patch removes tests, drops assertions, or freezes flakes that no longer exist, CI repo",
-    "link": "https://dev.to/datacpp_8185/fail-the-merge-when-an-agent-deletes-or-weakens-tests-lb7",
+    "title": "DNS Change Takes No Effect After Old Long TTL \u2014 Node.js Debug Guide 2026",
+    "desc": "<p><strong>Short answer:</strong> A DNS change can take no effect because the old, long TTL was cached already; wait out that original expir",
+    "link": "https://dev.to/cianwinslow371/dns-change-takes-no-effect-after-old-long-ttl-nodejs-debug-guide-2026-5bi3",
     "topic": "general"
   },
   {
-    "title": "I Compared 5 LLM Gateway Tools for Real-World Production Use",
-    "desc": "<p>When an LLM application starts handling real users, calling a model API is usually easy. The problems show up around it. One provider hit",
-    "link": "https://dev.to/devstackcommunity/i-compared-5-llm-gateway-tools-for-real-world-production-use-4n5p",
-    "topic": "general"
-  },
-  {
-    "title": "Healthtech DNS and Registry Boundaries: Fresh Internal Endpoints After Every Deploy",
-    "desc": "<p>A healthtech tenant subdomain has to remain boring while the services behind it change. That operational constraint decides the architect",
-    "link": "https://dev.to/horatiofox1281/healthtech-dns-and-registry-boundaries-fresh-internal-endpoints-after-every-deploy-504j",
+    "title": "DeepSeek's own pages disagree about V4-Pro. Which one do you trust?",
+    "desc": "<p>On September 14, 2026, DeepSeek said it was phasing out the API for V4-Pro. Then it changed its mind. The reversal is real and I can date",
+    "link": "https://dev.to/quiet_trace/deepseeks-own-pages-disagree-about-v4-pro-which-one-do-you-trust-1gfh",
     "topic": "general"
   }
 ]
