@@ -1,50 +1,50 @@
 [
   {
-    "title": "Linux Bash Scripts",
-    "desc": "<p>The production support team of <code>xFusionCorp Industries</code> is working on developing some bash scripts to automate different day t",
-    "link": "https://dev.to/janak0ff/linux-bash-scripts-76d",
+    "title": "Launch-Day Spend Caps and Credential Blast Radius \u2014 An Alert and Rollback Drill for 2026",
+    "desc": "<p>Use a launch-specific spend cap with an alert threshold underneath it, then lower the cap on a date you wrote down before launch day. Rem",
+    "link": "https://dev.to/mortimernilsson7694/launch-day-spend-caps-and-credential-blast-radius-an-alert-and-rollback-drill-for-2026-41if",
     "topic": "general"
   },
   {
-    "title": "Supplier Risk Management Software: A Practical Guide for Modern Businesses",
-    "desc": "<p>Businesses depend on suppliers for everything from raw materials and logistics to technology, professional services, manufacturing, and c",
-    "link": "https://dev.to/talented_expert_85ad4f04d/supplier-risk-management-software-a-practical-guide-for-modern-businesses-368l",
+    "title": "Treat AI Security Findings as Untrusted: Building an OS-Enforced Evidence Pipeline",
+    "desc": "<p>Nothing drains an on-call engineer's sanity faster than a 3:00 AM P1 alert triggered by an LLM hallucinating an exploit chain across thre",
+    "link": "https://dev.to/zimei07/treat-ai-security-findings-as-untrusted-building-an-os-enforced-evidence-pipeline-5gge",
+    "topic": "secops"
+  },
+  {
+    "title": "Getting markdown from GitHub into Confluence: the four routes and what each one costs",
+    "desc": "<p>If your team writes documentation as markdown in a repository, and the rest of the company lives in Confluence, you will eventually be as",
+    "link": "https://dev.to/zmaio/getting-markdown-from-github-into-confluence-the-four-routes-and-what-each-one-costs-4io3",
     "topic": "general"
   },
   {
-    "title": "Are we wasting money building an in-house SOC? (82% of companies think so)",
-    "desc": "<p>Be honest\u2014how many times have you been woken up at 3 AM by a PagerDuty alert, only to find out it\u2019s just another false positive from a mi",
-    "link": "https://dev.to/kamy_le_2463/are-we-wasting-money-building-an-in-house-soc-82-of-companies-think-so-3laa",
+    "title": "How to Map Blast Radius During an Incident: 5 Tool Classes Compared",
+    "desc": "<p>Sixty-eight percent of organizations lose more than $300,000 for every hour a major incident runs, and 8% lose more than $1 million an ho",
+    "link": "https://dev.to/dennis_pilarinos/how-to-map-blast-radius-during-an-incident-5-tool-classes-compared-1f7",
+    "topic": "secops"
+  },
+  {
+    "title": "What Is AI Observability? A Definition for Engineers",
+    "desc": "<p>AI observability is the practice of tracking what an AI system did and why.</p>\n\n<p>That means looking beyond uptime and request latency ",
+    "link": "https://dev.to/parsa4873fe3aa/what-is-ai-observability-a-definition-for-engineers-57j8",
     "topic": "general"
   },
   {
-    "title": "ECS vs EKS: What Each One Actually Costs You",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/ecs-vs-eks-cost-comparison/\" rel=\"noopener noreferrer\">DevToolHub</a",
-    "link": "https://dev.to/amareswer/ecs-vs-eks-what-each-one-actually-costs-you-57ic",
+    "title": "How I Sandboxed My AI Coding Agent's Shell Access Without Slowing It Down",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>I gave my autonomous coding agent real shell access, then spent two weeks building guardrails around it after a",
+    "link": "https://dev.to/yureki_lab/how-i-sandboxed-my-ai-coding-agents-shell-access-without-slowing-it-down-al4",
     "topic": "general"
   },
   {
-    "title": "Search Google Jobs in Real-Time with Go and SerpApi \ud83d\ude80",
-    "desc": "<p>Hey devs! \ud83d\udc4b</p>\n\n<p>Tired of manual scraping to get Google Jobs listings? \ud83e\udd14</p>\n\n<p>I built a Go example that uses the SerpApi to fetch G",
-    "link": "https://dev.to/aureliopires186/search-google-jobs-in-real-time-with-go-and-serpapi-690",
+    "title": "FAQ: GitLab Cache Never Uploaded Your Build",
+    "desc": "<p>Why did job B miss a file GitLab already built?<br />\nJob A is green on the pipeline graph today.<br />\nThe pipeline graph still looks fu",
+    "link": "https://dev.to/gitlab_3188/faq-gitlab-cache-never-uploaded-your-build-2ab2",
     "topic": "general"
   },
   {
-    "title": "The 3 AM Outage That Didn't Leave a Trace: Anatomy of a Silent Connection Pool Exhaustion",
-    "desc": "<h3>\n  \n  \n  The Incident Profile\n</h3>\n\n<p>Every Site Reliability Engineer and backend developer has lived through a variation of this nigh",
-    "link": "https://dev.to/ved_palsodkar_e9932d230bc/the-3-am-outage-that-didnt-leave-a-trace-anatomy-of-a-silent-connection-pool-exhaustion-3cja",
-    "topic": "general"
-  },
-  {
-    "title": "AI Customer Service Workflow (English)",
-    "desc": "<p><strong>AI Customer Service Workflow</strong></p>\n\n<p>Develop a human-reviewed customer service workflow using a master instruction, five",
-    "link": "https://dev.to/sonia_malik_571/ai-customer-service-workflow-english-1nca",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Multi-Agent Voice Command Center: Supabase Edge Functions + VAPI + Vercel at Scale",
-    "desc": "<p>OPENING PARAGRAPH:</p>\n\n<p>We built a production voice command center handling 8 concurrent AI agents, 8 automation workflows, and 5 fron",
-    "link": "https://dev.to/domoniqueluchin/building-a-multi-agent-voice-command-center-supabase-edge-functions-vapi-vercel-at-scale-2f1l",
+    "title": "Make README Quickstarts Fail CI When Flags Drift From argparse",
+    "desc": "<p>Generated quickstart copy goes stale when CLI flags move and the README still shows last week's names. A small continuous-integration gat",
+    "link": "https://dev.to/github_7727/make-readme-quickstarts-fail-ci-when-flags-drift-from-argparse-2ao5",
     "topic": "general"
   }
 ]

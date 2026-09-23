@@ -1,5 +1,11 @@
 [
   {
+    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+    "desc": "",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "topic": "general"
+  },
+  {
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
     "desc": "",
     "link": "https://huggingface.co/blog/evaleval-aisi",
@@ -39,12 +45,6 @@
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
     "desc": "",
     "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "topic": "general"
-  },
-  {
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "desc": "",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
     "topic": "general"
   }
 ]

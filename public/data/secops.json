@@ -1,5 +1,23 @@
 [
   {
+    "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
+    "desc": "<p>Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
+    "topic": "secops"
+  },
+  {
+    "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
+    "desc": "<p>The nine critical security defects could be exploited for arbitrary code execution and privilege escalation.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
+    "topic": "aws"
+  },
+  {
+    "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
+    "desc": "<p>The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding target",
+    "link": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
+    "topic": "azure"
+  },
+  {
     "title": "Chrome 154 Patches 108 Vulnerabilities",
     "desc": "<p>The browser update resolves several critical-severity memory safety and memory corruption flaws.</p>\n<p>The post <a href=\"https://www.sec",
     "link": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
@@ -28,23 +46,5 @@
     "desc": "<p>Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.s",
     "link": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
     "topic": "secops"
-  },
-  {
-    "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
-    "desc": "<p>The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information.\u00a0</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
-    "topic": "general"
-  },
-  {
-    "title": "Check Point Patches Exploited Management Server Zero-Day",
-    "desc": "<p>The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
-    "topic": "general"
-  },
-  {
-    "title": "BigCommerce Data Stolen via Ribon Apps Hack",
-    "desc": "<p>The attackers used a compromised BigCommerce application key held by Ribon to access customer data.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
-    "topic": "general"
   }
 ]
