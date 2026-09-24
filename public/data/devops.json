@@ -1,50 +1,50 @@
 [
   {
-    "title": "DNS and Service Registries for Internal Endpoints \u2014 Containing Stale Resolution",
-    "desc": "<p>Short answer: keep DNS as the stable naming boundary, and add a service registry only where endpoint churn is faster than DNS caching and",
-    "link": "https://dev.to/carterhughes6853/dns-and-service-registries-for-internal-endpoints-containing-stale-resolution-4on1",
+    "title": "Using One eSIM Across Multiple Countries: What Travelers Should Know",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/sadique/using-one-esim-across-multiple-countries-what-travelers-should-know-36ee",
     "topic": "general"
   },
   {
-    "title": "I tracked 2.86 billion AI coding tokens. Here's what a commit actually costs.",
-    "desc": "<p>Every team I talk to is paying for Claude Code, Copilot, Codex or all three. Almost none of them can answer a simple question: <strong>wh",
-    "link": "https://dev.to/centrail/i-tracked-286-billion-ai-coding-tokens-heres-what-a-commit-actually-costs-3745",
+    "title": "Seal the Canary Bit Before the Note",
+    "desc": "<p>A free model may explain a canary. It must not own the abort bit. That bit is a control-plane fact, closer to a fuse than to a paragraph,",
+    "link": "https://dev.to/aiio_6471/seal-the-canary-bit-before-the-note-8a",
     "topic": "general"
   },
   {
-    "title": "The 24-hour CRA reporting clock: build the evidence packet before you need it",
-    "desc": "<p><em>A vulnerability report lands at 17:20 on Friday. That is the wrong moment to design your incident process.</em></p>\n\n<p><em>Education",
-    "link": "https://dev.to/samehatwaybill/the-24-hour-cra-reporting-clock-build-the-evidence-packet-before-you-need-it-4i56",
+    "title": "\u0646\u062c\u0627\u062a \u0633\u0631\u0648\u0631 \u0644\u06cc\u0646\u0648\u06a9\u0633 \u067e\u0633 \u0627\u0632 \u062a\u0639\u0648\u06cc\u0636 IP: \u0627\u0632 \u062e\u0627\u0645\u0648\u0634\u06cc \u06a9\u0627\u0645\u0644 SSH \u062a\u0627 \u0631\u0648\u062a\u06cc\u0646\u06af 32/ \u0628\u0627 \u06a9\u0646\u0633\u0648\u0644 VNC",
+    "desc": "<p>\u200f\u062a\u0639\u0648\u06cc\u0636 IP \u0639\u0645\u0648\u0645\u06cc \u062f\u0631 \u0633\u0631\u0648\u0631\u0647\u0627\u06cc \u0627\u0628\u0631\u06cc \u0642\u0631\u0627\u0631 \u0627\u0633\u062a \u06cc\u06a9 \u06a9\u0627\u0631 \u0631\u0648\u062a\u06cc\u0646 \u0628\u0627\u0634\u062f\u061b \u0627\u0645\u0627 \u062f\u0631 \u0627\u06cc\u0645\u06cc\u062c\u200c\u0647\u0627\u06cc \u0633\u0628\u06a9 (Minimized Ubuntu)\u060c \u0627\u06cc\u0646 \u06a9\u0627\u0631 \u0628\u0647\u200c\u0631\u0627\u062d\u062a\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0633\u0631\u0648\u0631 \u0631\u0627 \u0633\u0627",
+    "link": "https://dev.to/dalroot/njt-srwr-lynwkhs-ps-z-twyd-ip-z-khmwshy-khml-ssh-t-rwtyng-32-b-khnswl-vnc-o4l",
     "topic": "general"
   },
   {
-    "title": "Your SBOM should be a release artifact, not a compliance screenshot",
-    "desc": "<p><em>An SBOM you can't tie to a release is a screenshot, not evidence. Here's how to make it a release artifact.</em></p>\n\n<p><em>Educatio",
-    "link": "https://dev.to/samehatwaybill/your-sbom-should-be-a-release-artifact-not-a-compliance-screenshot-1oa3",
+    "title": "Offboard a Custom Domain by Zone \u2014 Preserve Edtech Tenants' Records",
+    "desc": "<p>Short answer: move the school-facing hostname to its replacement first, retain the old target for a rollback window, and remove only the ",
+    "link": "https://dev.to/gregorsterling9652/offboard-a-custom-domain-by-zone-preserve-edtech-tenants-records-512l",
     "topic": "general"
   },
   {
-    "title": "Docker Stop Takes 10 Seconds: Your App Is PID 1 and Ignores SIGTERM",
-    "desc": "<p>I typed <code>docker compose down</code>, then sat and watched the spinner. One container. Ten seconds. Every single time.</p>\n\n<p>For mo",
-    "link": "https://dev.to/ji_ai/docker-stop-takes-10-seconds-your-app-is-pid-1-and-ignores-sigterm-3375",
-    "topic": "docker"
-  },
-  {
-    "title": "Intended State Versus Current DNS Configuration \u2014 Converge Tenant Drift Safely",
-    "desc": "<p>Short answer: model each media tenant's DNS as an intended set, compare that set with the current records, and apply idempotent upserts u",
-    "link": "https://dev.to/oskarholm4968/intended-state-versus-current-dns-configuration-converge-tenant-drift-safely-a20",
+    "title": "Write-Lock the Replay Before That Green Unlocks Merge",
+    "desc": "<p>A replay that can still rewrite fixtures is not a merge signal. It is a write that happened to exit zero.</p>\n\n<p>Freeze the fixture dige",
+    "link": "https://dev.to/codego_3211/write-lock-the-replay-before-that-green-unlocks-merge-15m0",
     "topic": "general"
   },
   {
-    "title": "Scaling agents locally with Incus, Ansible, Tailscale",
-    "desc": "<p>I regularly worry about agents performing risky tool calls on my machine. In particular, one of the concerns I've been thinking about is ",
-    "link": "https://dev.to/0xandrewshu/scaling-agents-locally-with-incus-ansible-tailscale-498f",
+    "title": "Using a Travel eSIM for Mobile Data While Working Abroad",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/sadique/using-a-travel-esim-for-mobile-data-while-working-abroad-328p",
     "topic": "general"
   },
   {
-    "title": "## Linux From Zero: Inodes and the Filesystem Limit df -h Doesn't Show (for Platform Engineers)",
-    "desc": "<p>Every platform engineer learns that <code>df -h</code> shows disk space. Fewer learn there's a second limit, completely independent of by",
-    "link": "https://dev.to/rogeroliveira86/-linux-from-zero-inodes-and-the-filesystem-limit-df-h-doesnt-show-for-platform-engineers-4jml",
+    "title": "Don't Enqueue What You Cannot Reserve",
+    "desc": "<p>A free lane is the wrong bet when you cannot reserve the attempt before anything admits it. A zero price does not make the prompt free of",
+    "link": "https://dev.to/hackrs_3352/dont-enqueue-what-you-cannot-reserve-1goa",
+    "topic": "general"
+  },
+  {
+    "title": "ISR pages aren't stale because ISR is broken. They're stale because nobody visited them.",
+    "desc": "<p>I run a Next.js content site on Vercel. A few hundred pages, <code>revalidate</code> set to 300 seconds, App Router, nothing exotic. I ch",
+    "link": "https://dev.to/cherryslist/isr-pages-arent-stale-because-isr-is-broken-theyre-stale-because-nobody-visited-them-1ic7",
     "topic": "general"
   }
 ]
