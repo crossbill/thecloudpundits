@@ -1,50 +1,50 @@
 [
   {
-    "title": "Setting up Traefik: reverse proxy with automatic HTTPS",
-    "desc": "<p>This is the most important building block of the Serverk\u00fcche. A <strong>reverse proxy</strong> takes in all requests on ports 80 and 443 ",
-    "link": "https://dev.to/serverkueche/setting-up-traefik-reverse-proxy-with-automatic-https-18cg",
+    "title": "DNS and Service Registries for Internal Endpoints \u2014 Containing Stale Resolution",
+    "desc": "<p>Short answer: keep DNS as the stable naming boundary, and add a service registry only where endpoint churn is faster than DNS caching and",
+    "link": "https://dev.to/carterhughes6853/dns-and-service-registries-for-internal-endpoints-containing-stale-resolution-4on1",
     "topic": "general"
   },
   {
-    "title": "Restic backups: encrypted and off-site",
-    "desc": "<p>A snapshot at the provider is <strong>not a backup</strong>: it sits on the same infrastructure and is gone too if your account is suspen",
-    "link": "https://dev.to/serverkueche/restic-backups-encrypted-and-off-site-615",
+    "title": "I tracked 2.86 billion AI coding tokens. Here's what a commit actually costs.",
+    "desc": "<p>Every team I talk to is paying for Claude Code, Copilot, Codex or all three. Almost none of them can answer a simple question: <strong>wh",
+    "link": "https://dev.to/centrail/i-tracked-286-billion-ai-coding-tokens-heres-what-a-commit-actually-costs-3745",
     "topic": "general"
   },
   {
-    "title": "I Compared 10 Tools for AI Project Planning in Air-Gapped Environments",
-    "desc": "<p>In an air-gapped environment, planning workshops can produce useful risks, requirements, and task breakdowns without providing a safe way",
-    "link": "https://dev.to/oliviaclark0098/i-compared-10-tools-for-ai-project-planning-in-air-gapped-environments-5103",
+    "title": "The 24-hour CRA reporting clock: build the evidence packet before you need it",
+    "desc": "<p><em>A vulnerability report lands at 17:20 on Friday. That is the wrong moment to design your incident process.</em></p>\n\n<p><em>Education",
+    "link": "https://dev.to/samehatwaybill/the-24-hour-cra-reporting-clock-build-the-evidence-packet-before-you-need-it-4i56",
     "topic": "general"
   },
   {
-    "title": "I Killed My Report Script Mid-Write. The Output File Never Noticed.",
-    "desc": "<p>The failure this pattern prevents is a quiet one. A script writes its output straight to the path a consumer reads, dies halfway, and the",
-    "link": "https://dev.to/bashsnippets/i-killed-my-report-script-mid-write-the-output-file-never-noticed-52ff",
+    "title": "Your SBOM should be a release artifact, not a compliance screenshot",
+    "desc": "<p><em>An SBOM you can't tie to a release is a screenshot, not evidence. Here's how to make it a release artifact.</em></p>\n\n<p><em>Educatio",
+    "link": "https://dev.to/samehatwaybill/your-sbom-should-be-a-release-artifact-not-a-compliance-screenshot-1oa3",
     "topic": "general"
   },
   {
-    "title": "CHOps Is Now GA: Open-Source Operations for Self-Hosted ClickHouse\u00ae",
-    "desc": "<p>CHOps is now generally available.</p>\n\n<p>ClickHouse\u00ae Cloud has a nice UI and good tools to admin and monitor a<br />\ncluster. If you sel",
-    "link": "https://dev.to/kanishga_subramani_49ad73/chops-is-now-ga-open-source-operations-for-self-hosted-clickhouser-5b2i",
+    "title": "Docker Stop Takes 10 Seconds: Your App Is PID 1 and Ignores SIGTERM",
+    "desc": "<p>I typed <code>docker compose down</code>, then sat and watched the spinner. One container. Ten seconds. Every single time.</p>\n\n<p>For mo",
+    "link": "https://dev.to/ji_ai/docker-stop-takes-10-seconds-your-app-is-pid-1-and-ignores-sigterm-3375",
+    "topic": "docker"
+  },
+  {
+    "title": "Intended State Versus Current DNS Configuration \u2014 Converge Tenant Drift Safely",
+    "desc": "<p>Short answer: model each media tenant's DNS as an intended set, compare that set with the current records, and apply idempotent upserts u",
+    "link": "https://dev.to/oskarholm4968/intended-state-versus-current-dns-configuration-converge-tenant-drift-safely-a20",
     "topic": "general"
   },
   {
-    "title": "Customer Support DNS Zone Migration with Enumerate Diff Apply and Verify",
-    "desc": "<p>TL;DR: Treat a DNS move as a reconciliation job, not a copy button. Export the current zone, express the intended customer-support record",
-    "link": "https://dev.to/finnoakley52947/customer-support-dns-zone-migration-with-enumerate-diff-apply-and-verify-2mad",
+    "title": "Scaling agents locally with Incus, Ansible, Tailscale",
+    "desc": "<p>I regularly worry about agents performing risky tool calls on my machine. In particular, one of the concerns I've been thinking about is ",
+    "link": "https://dev.to/0xandrewshu/scaling-agents-locally-with-incus-ansible-tailscale-498f",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-36ce",
-    "topic": "general"
-  },
-  {
-    "title": "Fix Mixed Content After WordPress Migration (HTTPS)",
-    "desc": "<h1>\n  \n  \n  Fix Mixed Content After WordPress Migration (HTTPS)\n</h1>\n\n<p>Padlock broken after migration? Hunt leftover http:// URLs the ri",
-    "link": "https://dev.to/usmanahmaddevx/fix-mixed-content-after-wordpress-migration-https-3bim",
+    "title": "## Linux From Zero: Inodes and the Filesystem Limit df -h Doesn't Show (for Platform Engineers)",
+    "desc": "<p>Every platform engineer learns that <code>df -h</code> shows disk space. Fewer learn there's a second limit, completely independent of by",
+    "link": "https://dev.to/rogeroliveira86/-linux-from-zero-inodes-and-the-filesystem-limit-df-h-doesnt-show-for-platform-engineers-4jml",
     "topic": "general"
   }
 ]

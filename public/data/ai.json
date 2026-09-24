@@ -1,5 +1,11 @@
 [
   {
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "desc": "",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "topic": "general"
+  },
+  {
     "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
     "desc": "",
     "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
@@ -39,12 +45,6 @@
     "title": "Your Agent Aced the Task. Will It Do It Again?",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "topic": "general"
-  },
-  {
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "desc": "",
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
     "topic": "general"
   }
 ]
