@@ -1,50 +1,50 @@
 [
   {
-    "title": "Temperature Zero Is Not Enough for Deterministic Analysis",
-    "desc": "<p>An engineer in Amsterdam sets <strong>temperature = 0</strong> on a root-cause model and expects the same input to produce the same outpu",
-    "link": "https://dev.to/shahrozkhan/temperature-zero-is-not-enough-for-deterministic-analysis-12jg",
+    "title": "Setting up Traefik: reverse proxy with automatic HTTPS",
+    "desc": "<p>This is the most important building block of the Serverk\u00fcche. A <strong>reverse proxy</strong> takes in all requests on ports 80 and 443 ",
+    "link": "https://dev.to/serverkueche/setting-up-traefik-reverse-proxy-with-automatic-https-18cg",
     "topic": "general"
   },
   {
-    "title": "Build, Scale & Succeed: How SaaS Solutions Are Transforming Modern Businesses",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/alexander_g_8cac2559c675a/build-scale-succeed-how-saas-solutions-are-transforming-modern-businesses-2nh5",
+    "title": "Restic backups: encrypted and off-site",
+    "desc": "<p>A snapshot at the provider is <strong>not a backup</strong>: it sits on the same infrastructure and is gone too if your account is suspen",
+    "link": "https://dev.to/serverkueche/restic-backups-encrypted-and-off-site-615",
     "topic": "general"
   },
   {
-    "title": "8 Best AI Gateways for Multi-Provider LLM Deployments (2026)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/8-best-ai-gateways-for-multi-provider-llm-deployments-2026-417",
+    "title": "I Compared 10 Tools for AI Project Planning in Air-Gapped Environments",
+    "desc": "<p>In an air-gapped environment, planning workshops can produce useful risks, requirements, and task breakdowns without providing a safe way",
+    "link": "https://dev.to/oliviaclark0098/i-compared-10-tools-for-ai-project-planning-in-air-gapped-environments-5103",
     "topic": "general"
   },
   {
-    "title": "Closing the Gap Between Detection, Response and Developer Workflows",
-    "desc": "<p>Closing the Gap Between Detection, Response and Developer Workflows<br />\nOrganizations now receive an average of <a href=\"https://www.pr",
-    "link": "https://dev.to/hannahpauls/closing-the-gap-between-detection-response-and-developer-workflows-590i",
+    "title": "I Killed My Report Script Mid-Write. The Output File Never Noticed.",
+    "desc": "<p>The failure this pattern prevents is a quiet one. A script writes its output straight to the path a consumer reads, dies halfway, and the",
+    "link": "https://dev.to/bashsnippets/i-killed-my-report-script-mid-write-the-output-file-never-noticed-52ff",
     "topic": "general"
   },
   {
-    "title": "Top 10 AI Observability Platforms for Production AI Systems",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/top-10-ai-observability-platforms-for-production-ai-systems-4e01",
+    "title": "CHOps Is Now GA: Open-Source Operations for Self-Hosted ClickHouse\u00ae",
+    "desc": "<p>CHOps is now generally available.</p>\n\n<p>ClickHouse\u00ae Cloud has a nice UI and good tools to admin and monitor a<br />\ncluster. If you sel",
+    "link": "https://dev.to/kanishga_subramani_49ad73/chops-is-now-ga-open-source-operations-for-self-hosted-clickhouser-5b2i",
     "topic": "general"
   },
   {
-    "title": "Portfolio Management Tools: A 2026 Shortlist and Decision Guide",
-    "desc": "<p>Portfolio reviews become difficult when project updates, capacity data, risks, and investment decisions live in separate systems. By the ",
-    "link": "https://dev.to/dylan1989/portfolio-management-tools-a-2026-shortlist-and-decision-guide-24a8",
+    "title": "Customer Support DNS Zone Migration with Enumerate Diff Apply and Verify",
+    "desc": "<p>TL;DR: Treat a DNS move as a reconciliation job, not a copy button. Export the current zone, express the intended customer-support record",
+    "link": "https://dev.to/finnoakley52947/customer-support-dns-zone-migration-with-enumerate-diff-apply-and-verify-2mad",
     "topic": "general"
   },
   {
-    "title": "6 Best Auto Routing Tools for Picking the Right Model Per Request",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/6-best-auto-routing-tools-for-picking-the-right-model-per-request-326m",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-36ce",
     "topic": "general"
   },
   {
-    "title": "Our Overnight Jobs Sign In as a Man Who Left in 2022",
-    "desc": "<p>An interface that sends orders to our carrier stopped one night in March. The cause was a password change on an account belonging to an e",
-    "link": "https://dev.to/serguey_shinder_4ab9b87b1/our-overnight-jobs-sign-in-as-a-man-who-left-in-2022-3768",
+    "title": "Fix Mixed Content After WordPress Migration (HTTPS)",
+    "desc": "<h1>\n  \n  \n  Fix Mixed Content After WordPress Migration (HTTPS)\n</h1>\n\n<p>Padlock broken after migration? Hunt leftover http:// URLs the ri",
+    "link": "https://dev.to/usmanahmaddevx/fix-mixed-content-after-wordpress-migration-https-3bim",
     "topic": "general"
   }
 ]
