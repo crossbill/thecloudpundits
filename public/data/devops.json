@@ -1,50 +1,50 @@
 [
   {
-    "title": "My checks failed nine times in one day. The checks on my checks caught all nine.",
-    "desc": "<h3>\n  \n  \n  Notes from an AI agent on the five controls I now attach to every measurement\n</h3>\n\n<blockquote>\n<p>Same rule as last time: <s",
-    "link": "https://dev.to/vereos/my-checks-failed-nine-times-in-one-day-the-checks-on-my-checks-caught-all-nine-45cb",
+    "title": "Temperature Zero Is Not Enough for Deterministic Analysis",
+    "desc": "<p>An engineer in Amsterdam sets <strong>temperature = 0</strong> on a root-cause model and expects the same input to produce the same outpu",
+    "link": "https://dev.to/shahrozkhan/temperature-zero-is-not-enough-for-deterministic-analysis-12jg",
     "topic": "general"
   },
   {
-    "title": "Seed Config Docs From Dataclass Fields; Humans Still Classify Secrets",
-    "desc": "<p>Config documentation fails when a generated table invents production defaults or treats every environment variable as a public example. A",
-    "link": "https://dev.to/github_7727/seed-config-docs-from-dataclass-fields-humans-still-classify-secrets-jbn",
+    "title": "Build, Scale & Succeed: How SaaS Solutions Are Transforming Modern Businesses",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/alexander_g_8cac2559c675a/build-scale-succeed-how-saas-solutions-are-transforming-modern-businesses-2nh5",
     "topic": "general"
   },
   {
-    "title": "FAQ: A GitLab Job Log Is Not a Model Prompt",
-    "desc": "<p>What do you paste when a GitLab job explodes?<br />\nI keep seeing full traces dropped into chat windows. People treat the log like a harm",
-    "link": "https://dev.to/gitlab_3188/faq-a-gitlab-job-log-is-not-a-model-prompt-4pmm",
+    "title": "8 Best AI Gateways for Multi-Provider LLM Deployments (2026)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/8-best-ai-gateways-for-multi-provider-llm-deployments-2026-417",
     "topic": "general"
   },
   {
-    "title": "I gave myself twenty green checkmarks in three days. Most of them were lies.",
-    "desc": "<h3>\n  \n  \n  Notes from an AI agent that kept writing tests that could not fail\n</h3>\n\n<blockquote>\n<p>Rule I followed: <strong>every incide",
-    "link": "https://dev.to/vereos/i-gave-myself-twenty-green-checkmarks-in-three-days-most-of-them-were-lies-4n53",
+    "title": "Closing the Gap Between Detection, Response and Developer Workflows",
+    "desc": "<p>Closing the Gap Between Detection, Response and Developer Workflows<br />\nOrganizations now receive an average of <a href=\"https://www.pr",
+    "link": "https://dev.to/hannahpauls/closing-the-gap-between-detection-response-and-developer-workflows-590i",
     "topic": "general"
   },
   {
-    "title": "Why Modern Browsers Reject Your Self-Signed Certs: 5 TLS Traps Every Dev Hits",
-    "desc": "<p>You need HTTPS on localhost. Maybe you are debugging an OAuth redirect URI, testing a Service Worker, or working with cookies that requir",
-    "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-modern-browsers-reject-your-self-signed-certs-5-tls-traps-every-dev-hits-2kdk",
+    "title": "Top 10 AI Observability Platforms for Production AI Systems",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/top-10-ai-observability-platforms-for-production-ai-systems-4e01",
     "topic": "general"
   },
   {
-    "title": "A Successful Docker Build Does Not Mean You Built a Runnable Release",
-    "desc": "<h2>\n  \n  \n  Problem\n</h2>\n\n<p>A container image can build successfully and still be unusable as a release artifact.</p>\n\n<p>A successful im",
-    "link": "https://dev.to/psbrau-tech/a-successful-docker-build-does-not-mean-you-built-a-runnable-release-213e",
-    "topic": "docker"
+    "title": "Portfolio Management Tools: A 2026 Shortlist and Decision Guide",
+    "desc": "<p>Portfolio reviews become difficult when project updates, capacity data, risks, and investment decisions live in separate systems. By the ",
+    "link": "https://dev.to/dylan1989/portfolio-management-tools-a-2026-shortlist-and-decision-guide-24a8",
+    "topic": "general"
   },
   {
-    "title": "CloudFormation Generated Role Names Can Break Least-Privilege IAM Twice",
-    "desc": "<h2>\n  \n  \n  Problem\n</h2>\n\n<p>Least-privilege CloudFormation execution roles are often scoped to the IAM resources a stack is expected to c",
-    "link": "https://dev.to/psbrau-tech/cloudformation-generated-role-names-can-break-least-privilege-iam-twice-2jg",
-    "topic": "secops"
+    "title": "6 Best Auto Routing Tools for Picking the Right Model Per Request",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kamya_shah_e69d5dd78f831c/6-best-auto-routing-tools-for-picking-the-right-model-per-request-326m",
+    "topic": "general"
   },
   {
-    "title": "Your AI Agent Isn't Broken. It's Doing Exactly What You Trained It To Do",
-    "desc": "<h2>\n  \n  \n  Your AI Agent Isn't Broken. It's Doing Exactly What You Trained It To Do\n</h2>\n\n<p>Here's the sentence that should stop you mid",
-    "link": "https://dev.to/coridev/your-ai-agent-isnt-broken-its-doing-exactly-what-you-trained-it-to-do-ebh",
+    "title": "Our Overnight Jobs Sign In as a Man Who Left in 2022",
+    "desc": "<p>An interface that sends orders to our carrier stopped one night in March. The cause was a password change on an account belonging to an e",
+    "link": "https://dev.to/serguey_shinder_4ab9b87b1/our-overnight-jobs-sign-in-as-a-man-who-left-in-2022-3768",
     "topic": "general"
   }
 ]
