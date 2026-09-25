@@ -1,5 +1,11 @@
 [
   {
+    "title": "Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs",
+    "desc": "<p>Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+    "topic": "secops"
+  },
+  {
     "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
     "desc": "<p>The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations w",
     "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
@@ -40,11 +46,5 @@
     "desc": "<p>Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. </p>\n<p",
     "link": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
     "topic": "general"
-  },
-  {
-    "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
-    "desc": "<p>The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
-    "topic": "aws"
   }
 ]

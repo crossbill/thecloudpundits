@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Agent Did It: Containing an AI That Acts Before You Approve.",
-    "desc": "<h1>\n  \n  \n  The Agent Did It: Containing an AI That Acts Before You Approve\n</h1>\n\n<p>Two headlines this week should be read together. One:",
-    "link": "https://dev.to/goodpa/the-agent-did-it-containing-an-ai-that-acts-before-you-approve-2moj",
+    "title": "Commit Hygiene Is a Security Control: The Argument, With Evidence",
+    "desc": "<p>The argument is that the commit history is an audit trail, and the audit trail is what the security review reads after the incident. The ",
+    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/commit-hygiene-is-a-security-control-the-argument-with-evidence-o98",
+    "topic": "secops"
+  },
+  {
+    "title": "A Leaked GitHub Token Can Rewrite Your Downstream Packages: The Chain, Explained",
+    "desc": "<p>The chain has four links, and the four links are the story, because the chain is what the leak becomes an incident, and the incident is w",
+    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/a-leaked-github-token-can-rewrite-your-downstream-packages-the-chain-explained-1dfm",
     "topic": "general"
   },
   {
-    "title": "API Rate Limiting: Patterns That Scale",
-    "desc": "<p>Rate limiting is one of those topics where everyone knows the basics and almost nobody gets it right at scale. Let me walk through the pa",
-    "link": "https://dev.to/samson_tanimawo/api-rate-limiting-patterns-that-scale-4al6",
+    "title": "How a Branch Ratio Metric Ended a Two-Month PR Fight",
+    "desc": "<p>The fight was two months, and the branch ratio ended it. The fight was not about the branches; the fight was about the process, and the p",
+    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/how-a-branch-ratio-metric-ended-a-two-month-pr-fight-c5e",
     "topic": "general"
   },
   {
-    "title": "VsTerm \u2014 a native Rust SSH terminal that keeps shell, files, and ops in one place",
-    "desc": "<p>I got tired of splitting SSH work across a terminal app, an SFTP client, and a pile of browser tools. So I built <strong>VsTerm</strong>:",
-    "link": "https://dev.to/vesaa/vsterm-a-native-rust-ssh-terminal-that-keeps-shell-files-and-ops-in-one-place-13gk",
+    "title": "Why I Put a Scanner in the Repo Instead of the Laptop",
+    "desc": "<p>The personal hook was the version that did not survive, and the not-surviving is what the story is about. The hook lived on the laptop. T",
+    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/why-i-put-a-scanner-in-the-repo-instead-of-the-laptop-ok1",
     "topic": "general"
   },
   {
-    "title": "Cron Background Job Failure Alerts: Log Polling and Heartbeat Detection",
-    "desc": "<p>TL;DR: For a Node cron background job, use two independent failure signals. Poll errors or structured logs to alert on a run that started",
-    "link": "https://dev.to/harrisonford3572/cron-background-job-failure-alerts-log-polling-and-heartbeat-detection-1if3",
+    "title": "The Quiet Repo: Why Zero Commits Is a Metric Too",
+    "desc": "<p>The repository was quiet, and the quiet is what the analytics tool reads, because the tool's report includes the absence, and the absence",
+    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/the-quiet-repo-why-zero-commits-is-a-metric-too-2jio",
     "topic": "general"
   },
   {
-    "title": "Ignoring Retry-After on 429s turned a 2-second blip into a 4-minute lockout",
-    "desc": "<p>Our checkout started throwing intermittent 429s from the gateway during a flash sale. Client retry logic used fixed exponential backoff: ",
-    "link": "https://dev.to/payneteasy/ignoring-retry-after-on-429s-turned-a-2-second-blip-into-a-4-minute-lockout-f54",
+    "title": "The Onboarding Day a New Dev Found Our Oldest Secret",
+    "desc": "<p>The onboarding day was the day the new developer found the secret. The team did not know about it, because the secret had been in the rep",
+    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/the-onboarding-day-a-new-dev-found-our-oldest-secret-34l",
     "topic": "general"
   },
   {
-    "title": "An Incomplete Model Transcript Is Not a Passing Property Run",
-    "desc": "<p>An incomplete model transcript is not a passing property run. If capture never stored a complete patch body, the suite has no oracle, and",
-    "link": "https://dev.to/datacpp_8185/an-incomplete-model-transcript-is-not-a-passing-property-run-32mo",
+    "title": "An unbounded Loki label turned a logging bill into shock",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/09/25/an-unbounded-loki-label-turned-a-logging-bill-into-shock\" rel=\"noo",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/an-unbounded-loki-label-turned-a-logging-bill-into-shock-6a9",
     "topic": "general"
   },
   {
-    "title": "Transactional Email Deliverability: How to Handle Startup Domain Warmup and Suppression",
-    "desc": "<p>The awkward part of transactional email is not calling <code>send</code>. It is keeping DNS ownership, bounce evidence, and suppression d",
-    "link": "https://dev.to/rhysfalconer159/transactional-email-deliverability-how-to-handle-startup-domain-warmup-and-suppression-1ogp",
+    "title": "I Read My Team's Commit Patterns for a Weekend. Then I Changed Our Standup.",
+    "desc": "<p>The weekend was a reading weekend, and the reading was the team's commit data for the quarter. The analytics tool, pointed at the team's ",
+    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/i-read-my-teams-commit-patterns-for-a-weekend-then-i-changed-our-standup-2e0m",
     "topic": "general"
-  },
-  {
-    "title": "Docker CI Releases Need a Verifiable AWS Receipt",
-    "desc": "<p>A green deployment is not the same thing as a provable deployment. When a Docker release reaches Kubernetes or an ECS service, I want mor",
-    "link": "https://dev.to/jasonmills94/docker-ci-releases-need-a-verifiable-aws-receipt-622",
-    "topic": "aws"
   }
 ]
