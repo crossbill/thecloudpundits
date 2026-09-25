@@ -1,5 +1,29 @@
 [
   {
+    "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
+    "desc": "<p>Homeland Security Secretary Markwayne Mullin tasked CISA with developing the plan in July.\u00a0</p>\n<p>The post <a href=\"https://www.security",
+    "link": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court",
+    "desc": "<p>Ardit Kutleshi created and operated Rydox, which allowed miscreants to trade PII and cybercrime tools and services.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
+    "topic": "general"
+  },
+  {
+    "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
+    "desc": "<p>Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
+    "topic": "general"
+  },
+  {
+    "title": "\u2018SalesBleed\u2019 Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
+    "desc": "<p>Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks.</p>\n<p>",
+    "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+    "topic": "aws"
+  },
+  {
     "title": "Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs",
     "desc": "<p>Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.</p>\n<p>The post <a href=\"h",
     "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
@@ -22,29 +46,5 @@
     "desc": "<p>Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.</p>\n<p>The post <a href=\"https:",
     "link": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
     "topic": "openai"
-  },
-  {
-    "title": "AI-Powered Campaign Targets Hundreds of Online Retailers",
-    "desc": "<p>A threat actor is using three AI harnesses for vulnerability research, exploitation, and attack orchestration.</p>\n<p>The post <a href=\"h",
-    "link": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
-    "topic": "general"
-  },
-  {
-    "title": "Island Raises $400 Million at $6.4 Billion Valuation",
-    "desc": "<p>The enterprise security firm has raised more than $1 billion since its launch in 2020; Evolution Equity Partners led the latest funding r",
-    "link": "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/",
-    "topic": "general"
-  },
-  {
-    "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators",
-    "desc": "<p>Revision 4 of NIST\u2019s operational technology security guide is open for public comments until November 30.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
-    "topic": "secops"
-  },
-  {
-    "title": "Begin at the End: How to Enable Agentic Remediation",
-    "desc": "<p>Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. </p>\n<p",
-    "link": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
-    "topic": "general"
   }
 ]

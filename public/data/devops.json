@@ -1,50 +1,50 @@
 [
   {
-    "title": "Commit Hygiene Is a Security Control: The Argument, With Evidence",
-    "desc": "<p>The argument is that the commit history is an audit trail, and the audit trail is what the security review reads after the incident. The ",
-    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/commit-hygiene-is-a-security-control-the-argument-with-evidence-o98",
-    "topic": "secops"
-  },
-  {
-    "title": "A Leaked GitHub Token Can Rewrite Your Downstream Packages: The Chain, Explained",
-    "desc": "<p>The chain has four links, and the four links are the story, because the chain is what the leak becomes an incident, and the incident is w",
-    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/a-leaked-github-token-can-rewrite-your-downstream-packages-the-chain-explained-1dfm",
+    "title": "Exit Zero: who tests the gates that guard coding agents",
+    "desc": "<p><em>I spent eleven weeks building deterministic guardrails around coding agents, and the rest of the time trying to prove them wrong. Mut",
+    "link": "https://dev.to/luciano_sozodata/exit-zero-who-tests-the-gates-that-guard-coding-agents-597p",
     "topic": "general"
   },
   {
-    "title": "How a Branch Ratio Metric Ended a Two-Month PR Fight",
-    "desc": "<p>The fight was two months, and the branch ratio ended it. The fight was not about the branches; the fight was about the process, and the p",
-    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/how-a-branch-ratio-metric-ended-a-two-month-pr-fight-c5e",
+    "title": "Build Route Decision Records for AI API Gateway Changes",
+    "desc": "<h1>\n  \n  \n  Build Route Decision Records for AI API Gateway Changes\n</h1>\n\n<p>AI API route changes often look smaller than they are.</p>\n\n<",
+    "link": "https://dev.to/aiwave/build-route-decision-records-for-ai-api-gateway-changes-76n",
     "topic": "general"
   },
   {
-    "title": "Why I Put a Scanner in the Repo Instead of the Laptop",
-    "desc": "<p>The personal hook was the version that did not survive, and the not-surviving is what the story is about. The hook lived on the laptop. T",
-    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/why-i-put-a-scanner-in-the-repo-instead-of-the-laptop-ok1",
+    "title": "Claude Code in Actions: who presses merge?",
+    "desc": "<p>Once <a href=\"https://github.com/anthropics/claude-code-action\" rel=\"noopener noreferrer\">Claude Code</a> is wired into GitHub Actions, t",
+    "link": "https://dev.to/xqliu/claude-code-in-actions-who-presses-merge-5b4o",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Why your Docker build caches locally and never in CI",
+    "desc": "<p><em>Originally published at <a href=\"https://harshit.cloud/blog/docker-build-cache-buildkit\" rel=\"noopener noreferrer\">harshit.cloud</a> ",
+    "link": "https://dev.to/sachincool/why-your-docker-build-caches-locally-and-never-in-ci-2am",
+    "topic": "docker"
+  },
+  {
+    "title": "CrashLoopBackOff: five causes and how to tell them apart",
+    "desc": "<p><em>Originally published at <a href=\"https://harshit.cloud/blog/kubernetes-crashloopbackoff-triage\" rel=\"noopener noreferrer\">harshit.clo",
+    "link": "https://dev.to/sachincool/crashloopbackoff-five-causes-and-how-to-tell-them-apart-3652",
     "topic": "general"
   },
   {
-    "title": "The Quiet Repo: Why Zero Commits Is a Metric Too",
-    "desc": "<p>The repository was quiet, and the quiet is what the analytics tool reads, because the tool's report includes the absence, and the absence",
-    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/the-quiet-repo-why-zero-commits-is-a-metric-too-2jio",
+    "title": "Spec antes do c\u00f3digo: por que a especifica\u00e7\u00e3o virou artefato de engenharia e n\u00e3o documento de arquivo",
+    "desc": "<p>Gerar c\u00f3digo ficou barato, mas entender o que gerar continua caro. Foi sempre esse o gargalo \u2014 s\u00f3 que agora ele aparece mais r\u00e1pido, porq",
+    "link": "https://dev.to/aspepper/spec-antes-do-codigo-por-que-a-especificacao-virou-artefato-de-engenharia-e-nao-documento-de-1goc",
     "topic": "general"
   },
   {
-    "title": "The Onboarding Day a New Dev Found Our Oldest Secret",
-    "desc": "<p>The onboarding day was the day the new developer found the secret. The team did not know about it, because the secret had been in the rep",
-    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/the-onboarding-day-a-new-dev-found-our-oldest-secret-34l",
+    "title": "FAQ: A Desk Checkout Is Not the Pipeline Snapshot",
+    "desc": "<p>I keep hearing one claim in pipeline reviews.<br />\nThe YAML is open, so the pipeline must be real.<br />\nIs a desk checkout the snapshot",
+    "link": "https://dev.to/gitlab_3188/faq-a-desk-checkout-is-not-the-pipeline-snapshot-45lk",
     "topic": "general"
   },
   {
-    "title": "An unbounded Loki label turned a logging bill into shock",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/09/25/an-unbounded-loki-label-turned-a-logging-bill-into-shock\" rel=\"noo",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/an-unbounded-loki-label-turned-a-logging-bill-into-shock-6a9",
-    "topic": "general"
-  },
-  {
-    "title": "I Read My Team's Commit Patterns for a Weekend. Then I Changed Our Standup.",
-    "desc": "<p>The weekend was a reading weekend, and the reading was the team's commit data for the quarter. The analytics tool, pointed at the team's ",
-    "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/i-read-my-teams-commit-patterns-for-a-weekend-then-i-changed-our-standup-2e0m",
+    "title": "Compressed logs are faster to search \u2014 seven formats measured at 1 GB and 3 GB",
+    "desc": "<p>Logs cannot stay as they are. Older ones get compressed and kept. When you pick the format, do you pick it by <strong>how small it gets</",
+    "link": "https://dev.to/amru195704/compressed-logs-are-faster-to-search-seven-formats-measured-at-1-gb-and-3-gb-3hck",
     "topic": "general"
   }
 ]
