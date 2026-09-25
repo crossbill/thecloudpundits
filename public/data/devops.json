@@ -1,50 +1,50 @@
 [
   {
-    "title": "Exit Zero: who tests the gates that guard coding agents",
-    "desc": "<p><em>I spent eleven weeks building deterministic guardrails around coding agents, and the rest of the time trying to prove them wrong. Mut",
-    "link": "https://dev.to/luciano_sozodata/exit-zero-who-tests-the-gates-that-guard-coding-agents-597p",
+    "title": "Real-World AWS Cost Optimization Strategies \u2014 A Technical Deep Dive",
+    "desc": "<p>In a cloud-first world, keeping costs under control without losing performance, scalability or reliability matters for any business that ",
+    "link": "https://dev.to/sanket_patharkar/real-world-aws-cost-optimization-strategies-a-technical-deep-dive-489l",
+    "topic": "aws"
+  },
+  {
+    "title": "AdSense vs Affiliate Marketing: How Bloggers Make Money",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/hostiqen/adsense-vs-affiliate-marketing-how-bloggers-make-money-13ai",
     "topic": "general"
   },
   {
-    "title": "Build Route Decision Records for AI API Gateway Changes",
-    "desc": "<h1>\n  \n  \n  Build Route Decision Records for AI API Gateway Changes\n</h1>\n\n<p>AI API route changes often look smaller than they are.</p>\n\n<",
-    "link": "https://dev.to/aiwave/build-route-decision-records-for-ai-api-gateway-changes-76n",
+    "title": "My Agent Shipped a Post I Gated. It Stayed Live for a Day.",
+    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://mrsaynothing.dev/en/blog/2026-09-24/agent-shipped-gated-post?utm_source=devto&u",
+    "link": "https://dev.to/mrsaynothing/my-agent-shipped-a-post-i-gated-it-stayed-live-for-a-day-4fcd",
     "topic": "general"
   },
   {
-    "title": "Claude Code in Actions: who presses merge?",
-    "desc": "<p>Once <a href=\"https://github.com/anthropics/claude-code-action\" rel=\"noopener noreferrer\">Claude Code</a> is wired into GitHub Actions, t",
-    "link": "https://dev.to/xqliu/claude-code-in-actions-who-presses-merge-5b4o",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Why your Docker build caches locally and never in CI",
-    "desc": "<p><em>Originally published at <a href=\"https://harshit.cloud/blog/docker-build-cache-buildkit\" rel=\"noopener noreferrer\">harshit.cloud</a> ",
-    "link": "https://dev.to/sachincool/why-your-docker-build-caches-locally-and-never-in-ci-2am",
-    "topic": "docker"
-  },
-  {
-    "title": "CrashLoopBackOff: five causes and how to tell them apart",
-    "desc": "<p><em>Originally published at <a href=\"https://harshit.cloud/blog/kubernetes-crashloopbackoff-triage\" rel=\"noopener noreferrer\">harshit.clo",
-    "link": "https://dev.to/sachincool/crashloopbackoff-five-causes-and-how-to-tell-them-apart-3652",
+    "title": "Stop Debugging Ghost Bugs in Your Log Files \u2014 Use tr",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/xpert4cyber/stop-debugging-ghost-bugs-in-your-log-files-use-tr-5c02",
     "topic": "general"
   },
   {
-    "title": "Spec antes do c\u00f3digo: por que a especifica\u00e7\u00e3o virou artefato de engenharia e n\u00e3o documento de arquivo",
-    "desc": "<p>Gerar c\u00f3digo ficou barato, mas entender o que gerar continua caro. Foi sempre esse o gargalo \u2014 s\u00f3 que agora ele aparece mais r\u00e1pido, porq",
-    "link": "https://dev.to/aspepper/spec-antes-do-codigo-por-que-a-especificacao-virou-artefato-de-engenharia-e-nao-documento-de-1goc",
+    "title": "Should You Buy or Rent GPUs for AI in 2026? The Realistic 3-Year TCO Math",
+    "desc": "<p>The decision to buy or rent GPU hardware for machine learning is often framed by a simplistic calculation:</p>\n\n<p>$$\\text{Break-Even Hou",
+    "link": "https://dev.to/sourcegpu/should-you-buy-or-rent-gpus-for-ai-in-2026-the-realistic-3-year-tco-math-43l6",
     "topic": "general"
   },
   {
-    "title": "FAQ: A Desk Checkout Is Not the Pipeline Snapshot",
-    "desc": "<p>I keep hearing one claim in pipeline reviews.<br />\nThe YAML is open, so the pipeline must be real.<br />\nIs a desk checkout the snapshot",
-    "link": "https://dev.to/gitlab_3188/faq-a-desk-checkout-is-not-the-pipeline-snapshot-45lk",
+    "title": "Kubernetes: presupuesto de errores para emails de prueba",
+    "desc": "<p>Una prueba de email puede terminar en verde aunque el mensaje nunca haya llegado al buz\u00f3n correcto. El job cre\u00f3 una direcci\u00f3n, llam\u00f3 al p",
+    "link": "https://dev.to/alexcarteruk/kubernetes-presupuesto-de-errores-para-emails-de-prueba-33k6",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Your Health Check Is Green and Your Service Is Down",
+    "desc": "<p>Monitoring has two ways to be wrong, and we treat them as if they were<br />\nsymmetrical. They are not, and the asymmetry should drive ho",
+    "link": "https://dev.to/riskbitsdotnet/your-health-check-is-green-and-your-service-is-down-5eec",
     "topic": "general"
   },
   {
-    "title": "Compressed logs are faster to search \u2014 seven formats measured at 1 GB and 3 GB",
-    "desc": "<p>Logs cannot stay as they are. Older ones get compressed and kept. When you pick the format, do you pick it by <strong>how small it gets</",
-    "link": "https://dev.to/amru195704/compressed-logs-are-faster-to-search-seven-formats-measured-at-1-gb-and-3-gb-3hck",
+    "title": "The 1.4 milliseconds that separate managed Postgres from a local one",
+    "desc": "<p>Every project that outgrows SQLite arrives at the same fork. You can run Postgres on the machine your application already lives on, which",
+    "link": "https://dev.to/remdore/the-14-milliseconds-that-separate-managed-postgres-from-a-local-one-26de",
     "topic": "general"
   }
 ]
