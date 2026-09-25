@@ -1,50 +1,50 @@
 [
   {
-    "title": "Real-World AWS Cost Optimization Strategies \u2014 A Technical Deep Dive",
-    "desc": "<p>In a cloud-first world, keeping costs under control without losing performance, scalability or reliability matters for any business that ",
-    "link": "https://dev.to/sanket_patharkar/real-world-aws-cost-optimization-strategies-a-technical-deep-dive-489l",
+    "title": "Golden Trace: The Eval Anchor Most Teams Skip",
+    "desc": "<blockquote>\n<p>Cross-post of Insights #5 \u2014 canonical: <a href=\"https://sheikhwasim.com/insights/golden-trace-eval-anchor/\" rel=\"noopener no",
+    "link": "https://dev.to/anciwasim/golden-trace-the-eval-anchor-most-teams-skip-1501",
+    "topic": "general"
+  },
+  {
+    "title": "WHOIS is gone, RDAP replaced it, and a 404 does not mean what you think",
+    "desc": "<p>If you last touched domain lookups a few years ago, the thing you remember is<br />\nWHOIS: a plaintext protocol on port 43 that returned ",
+    "link": "https://dev.to/glitchbound/whois-is-gone-rdap-replaced-it-and-a-404-does-not-mean-what-you-think-4cim",
+    "topic": "general"
+  },
+  {
+    "title": "The Phoenix Project by Gene Kim, Kevin Behr, George Spafford \u2014 Developer Book Review",
+    "desc": "<p><strong>The Phoenix Project</strong> by Gene Kim, Kevin Behr, George Spafford is one of those books that keeps showing up on every develo",
+    "link": "https://dev.to/nick_davies_323125afbb05c/the-phoenix-project-by-gene-kim-kevin-behr-george-spafford-developer-book-review-1dfp",
+    "topic": "general"
+  },
+  {
+    "title": "Stop Picking B2B Software From \"Top 10\" Lists: A Weighted Scoring Matrix Engineers Can Actually Defend",
+    "desc": "<p>Sooner or later, every engineer gets pulled into a software selection: a new ERP, inventory system, backup tool, CRM or contract manageme",
+    "link": "https://dev.to/akbo_ichou_c41c249cc2783d/stop-picking-b2b-software-from-top-10-lists-a-weighted-scoring-matrix-engineers-can-actually-4bh3",
+    "topic": "general"
+  },
+  {
+    "title": "Deploying a React E-Commerce Frontend on AWS S3",
+    "desc": "<p>Most of what I've built on S3 so far has been about infrastructure \u2014 buckets, permissions, presigned URLs, events. Today was different: I",
+    "link": "https://dev.to/bilal_bukhari_75aeb34a969/deploying-a-react-e-commerce-frontend-on-aws-s3-1iie",
     "topic": "aws"
   },
   {
-    "title": "AdSense vs Affiliate Marketing: How Bloggers Make Money",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/hostiqen/adsense-vs-affiliate-marketing-how-bloggers-make-money-13ai",
+    "title": "App Review banned our core mechanic. Notarization let it through - and caught something else",
+    "desc": "<p>In an <a href=\"https://dev.to/temer/how-we-distribute-an-ios-app-outside-the-app-store-a-practical-altstore-pal-walkthrough-33li\">earlier",
+    "link": "https://dev.to/temer/app-review-banned-our-core-mechanic-notarization-let-it-through-and-caught-something-else-3gef",
     "topic": "general"
   },
   {
-    "title": "My Agent Shipped a Post I Gated. It Stayed Live for a Day.",
-    "desc": "<blockquote>\n<p><em>Originally published at <a href=\"https://mrsaynothing.dev/en/blog/2026-09-24/agent-shipped-gated-post?utm_source=devto&u",
-    "link": "https://dev.to/mrsaynothing/my-agent-shipped-a-post-i-gated-it-stayed-live-for-a-day-4fcd",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Debugging Ghost Bugs in Your Log Files \u2014 Use tr",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber/stop-debugging-ghost-bugs-in-your-log-files-use-tr-5c02",
-    "topic": "general"
-  },
-  {
-    "title": "Should You Buy or Rent GPUs for AI in 2026? The Realistic 3-Year TCO Math",
-    "desc": "<p>The decision to buy or rent GPU hardware for machine learning is often framed by a simplistic calculation:</p>\n\n<p>$$\\text{Break-Even Hou",
-    "link": "https://dev.to/sourcegpu/should-you-buy-or-rent-gpus-for-ai-in-2026-the-realistic-3-year-tco-math-43l6",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes: presupuesto de errores para emails de prueba",
-    "desc": "<p>Una prueba de email puede terminar en verde aunque el mensaje nunca haya llegado al buz\u00f3n correcto. El job cre\u00f3 una direcci\u00f3n, llam\u00f3 al p",
-    "link": "https://dev.to/alexcarteruk/kubernetes-presupuesto-de-errores-para-emails-de-prueba-33k6",
+    "title": "Adding Status and Conditions to My Kubernetes Operator",
+    "desc": "<p>In the previous posts, I created a custom Kubernetes resource called <code>Greeting</code>, built a Java controller for it, and then depl",
+    "link": "https://dev.to/shubhamgoel23/adding-status-and-conditions-to-my-kubernetes-operator-1a4b",
     "topic": "kubernetes"
   },
   {
-    "title": "Your Health Check Is Green and Your Service Is Down",
-    "desc": "<p>Monitoring has two ways to be wrong, and we treat them as if they were<br />\nsymmetrical. They are not, and the asymmetry should drive ho",
-    "link": "https://dev.to/riskbitsdotnet/your-health-check-is-green-and-your-service-is-down-5eec",
-    "topic": "general"
-  },
-  {
-    "title": "The 1.4 milliseconds that separate managed Postgres from a local one",
-    "desc": "<p>Every project that outgrows SQLite arrives at the same fork. You can run Postgres on the machine your application already lives on, which",
-    "link": "https://dev.to/remdore/the-14-milliseconds-that-separate-managed-postgres-from-a-local-one-26de",
+    "title": "Trace an MCP install from directory entry to running artefact",
+    "desc": "<p>A directory result, a GitHub repository and an install command can all have similar names. They are not necessarily the same artefact. Be",
+    "link": "https://dev.to/piyushverma/trace-an-mcp-install-from-directory-entry-to-running-artefact-4e5",
     "topic": "general"
   }
 ]
