@@ -1,50 +1,50 @@
 [
   {
-    "title": "Using One eSIM Across Multiple Countries: What Travelers Should Know",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sadique/using-one-esim-across-multiple-countries-what-travelers-should-know-36ee",
+    "title": "The Agent Did It: Containing an AI That Acts Before You Approve.",
+    "desc": "<h1>\n  \n  \n  The Agent Did It: Containing an AI That Acts Before You Approve\n</h1>\n\n<p>Two headlines this week should be read together. One:",
+    "link": "https://dev.to/goodpa/the-agent-did-it-containing-an-ai-that-acts-before-you-approve-2moj",
     "topic": "general"
   },
   {
-    "title": "Seal the Canary Bit Before the Note",
-    "desc": "<p>A free model may explain a canary. It must not own the abort bit. That bit is a control-plane fact, closer to a fuse than to a paragraph,",
-    "link": "https://dev.to/aiio_6471/seal-the-canary-bit-before-the-note-8a",
+    "title": "API Rate Limiting: Patterns That Scale",
+    "desc": "<p>Rate limiting is one of those topics where everyone knows the basics and almost nobody gets it right at scale. Let me walk through the pa",
+    "link": "https://dev.to/samson_tanimawo/api-rate-limiting-patterns-that-scale-4al6",
     "topic": "general"
   },
   {
-    "title": "\u0646\u062c\u0627\u062a \u0633\u0631\u0648\u0631 \u0644\u06cc\u0646\u0648\u06a9\u0633 \u067e\u0633 \u0627\u0632 \u062a\u0639\u0648\u06cc\u0636 IP: \u0627\u0632 \u062e\u0627\u0645\u0648\u0634\u06cc \u06a9\u0627\u0645\u0644 SSH \u062a\u0627 \u0631\u0648\u062a\u06cc\u0646\u06af 32/ \u0628\u0627 \u06a9\u0646\u0633\u0648\u0644 VNC",
-    "desc": "<p>\u200f\u062a\u0639\u0648\u06cc\u0636 IP \u0639\u0645\u0648\u0645\u06cc \u062f\u0631 \u0633\u0631\u0648\u0631\u0647\u0627\u06cc \u0627\u0628\u0631\u06cc \u0642\u0631\u0627\u0631 \u0627\u0633\u062a \u06cc\u06a9 \u06a9\u0627\u0631 \u0631\u0648\u062a\u06cc\u0646 \u0628\u0627\u0634\u062f\u061b \u0627\u0645\u0627 \u062f\u0631 \u0627\u06cc\u0645\u06cc\u062c\u200c\u0647\u0627\u06cc \u0633\u0628\u06a9 (Minimized Ubuntu)\u060c \u0627\u06cc\u0646 \u06a9\u0627\u0631 \u0628\u0647\u200c\u0631\u0627\u062d\u062a\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0633\u0631\u0648\u0631 \u0631\u0627 \u0633\u0627",
-    "link": "https://dev.to/dalroot/njt-srwr-lynwkhs-ps-z-twyd-ip-z-khmwshy-khml-ssh-t-rwtyng-32-b-khnswl-vnc-o4l",
+    "title": "VsTerm \u2014 a native Rust SSH terminal that keeps shell, files, and ops in one place",
+    "desc": "<p>I got tired of splitting SSH work across a terminal app, an SFTP client, and a pile of browser tools. So I built <strong>VsTerm</strong>:",
+    "link": "https://dev.to/vesaa/vsterm-a-native-rust-ssh-terminal-that-keeps-shell-files-and-ops-in-one-place-13gk",
     "topic": "general"
   },
   {
-    "title": "Offboard a Custom Domain by Zone \u2014 Preserve Edtech Tenants' Records",
-    "desc": "<p>Short answer: move the school-facing hostname to its replacement first, retain the old target for a rollback window, and remove only the ",
-    "link": "https://dev.to/gregorsterling9652/offboard-a-custom-domain-by-zone-preserve-edtech-tenants-records-512l",
+    "title": "Cron Background Job Failure Alerts: Log Polling and Heartbeat Detection",
+    "desc": "<p>TL;DR: For a Node cron background job, use two independent failure signals. Poll errors or structured logs to alert on a run that started",
+    "link": "https://dev.to/harrisonford3572/cron-background-job-failure-alerts-log-polling-and-heartbeat-detection-1if3",
     "topic": "general"
   },
   {
-    "title": "Write-Lock the Replay Before That Green Unlocks Merge",
-    "desc": "<p>A replay that can still rewrite fixtures is not a merge signal. It is a write that happened to exit zero.</p>\n\n<p>Freeze the fixture dige",
-    "link": "https://dev.to/codego_3211/write-lock-the-replay-before-that-green-unlocks-merge-15m0",
+    "title": "Ignoring Retry-After on 429s turned a 2-second blip into a 4-minute lockout",
+    "desc": "<p>Our checkout started throwing intermittent 429s from the gateway during a flash sale. Client retry logic used fixed exponential backoff: ",
+    "link": "https://dev.to/payneteasy/ignoring-retry-after-on-429s-turned-a-2-second-blip-into-a-4-minute-lockout-f54",
     "topic": "general"
   },
   {
-    "title": "Using a Travel eSIM for Mobile Data While Working Abroad",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sadique/using-a-travel-esim-for-mobile-data-while-working-abroad-328p",
+    "title": "An Incomplete Model Transcript Is Not a Passing Property Run",
+    "desc": "<p>An incomplete model transcript is not a passing property run. If capture never stored a complete patch body, the suite has no oracle, and",
+    "link": "https://dev.to/datacpp_8185/an-incomplete-model-transcript-is-not-a-passing-property-run-32mo",
     "topic": "general"
   },
   {
-    "title": "Don't Enqueue What You Cannot Reserve",
-    "desc": "<p>A free lane is the wrong bet when you cannot reserve the attempt before anything admits it. A zero price does not make the prompt free of",
-    "link": "https://dev.to/hackrs_3352/dont-enqueue-what-you-cannot-reserve-1goa",
+    "title": "Transactional Email Deliverability: How to Handle Startup Domain Warmup and Suppression",
+    "desc": "<p>The awkward part of transactional email is not calling <code>send</code>. It is keeping DNS ownership, bounce evidence, and suppression d",
+    "link": "https://dev.to/rhysfalconer159/transactional-email-deliverability-how-to-handle-startup-domain-warmup-and-suppression-1ogp",
     "topic": "general"
   },
   {
-    "title": "ISR pages aren't stale because ISR is broken. They're stale because nobody visited them.",
-    "desc": "<p>I run a Next.js content site on Vercel. A few hundred pages, <code>revalidate</code> set to 300 seconds, App Router, nothing exotic. I ch",
-    "link": "https://dev.to/cherryslist/isr-pages-arent-stale-because-isr-is-broken-theyre-stale-because-nobody-visited-them-1ic7",
-    "topic": "general"
+    "title": "Docker CI Releases Need a Verifiable AWS Receipt",
+    "desc": "<p>A green deployment is not the same thing as a provable deployment. When a Docker release reaches Kubernetes or an ECS service, I want mor",
+    "link": "https://dev.to/jasonmills94/docker-ci-releases-need-a-verifiable-aws-receipt-622",
+    "topic": "aws"
   }
 ]
