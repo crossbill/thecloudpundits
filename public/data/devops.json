@@ -1,5 +1,41 @@
 [
   {
+    "title": "Understanding Distributed Systems by Roberto Vitillo \u2014 Developer Book Review",
+    "desc": "<p><strong>Understanding Distributed Systems</strong> by Roberto Vitillo is one of those books that keeps showing up on every developer's re",
+    "link": "https://dev.to/devbookreader/understanding-distributed-systems-by-roberto-vitillo-developer-book-review-2f0n",
+    "topic": "general"
+  },
+  {
+    "title": "PgBouncer vs Supavisor vs RDS Proxy: Which Postgres Pooler Survives Transaction Mode?",
+    "desc": "<p>Picking a Postgres connection pooler is really picking which session features you are willing to lose. All three of these poolers give yo",
+    "link": "https://dev.to/libme/pgbouncer-vs-supavisor-vs-rds-proxy-which-postgres-pooler-survives-transaction-mode-1l52",
+    "topic": "general"
+  },
+  {
+    "title": "JFrog Artifactory CVE-2026-82329: The Default Join Key as an Authentication Bypass",
+    "desc": "<h1>\n  \n  \n  JFrog Artifactory CVE-2026-82329: The Default Join Key as an Authentication Bypass\n</h1>\n\n<h2>\n  \n  \n  Why an artifact reposito",
+    "link": "https://dev.to/jeffreyciend/jfrog-artifactory-cve-2026-82329-the-default-join-key-as-an-authentication-bypass-2ipc",
+    "topic": "general"
+  },
+  {
+    "title": "Accept a Flake Freeze Only When Base Replays the Same Miss",
+    "desc": "<p>A flake freeze is an admission decision, not a test result. For an agent patch, that decision is valid only when the unmodified base comm",
+    "link": "https://dev.to/datacpp_8185/accept-a-flake-freeze-only-when-base-replays-the-same-miss-1kmm",
+    "topic": "general"
+  },
+  {
+    "title": "Docker for SDE interviews: the guide I wish I'd had",
+    "desc": "<p><em>What it actually does under the hood, the Dockerfile traps interviewers love, and the debugging playbook that makes you sound like yo",
+    "link": "https://dev.to/shogun_the_grt/docker-for-sde-interviews-the-guide-i-wish-id-had-205h",
+    "topic": "docker"
+  },
+  {
+    "title": "Marketplace Verification With Scheduled Pre Change TTL Lowering and Restore",
+    "desc": "<p>A marketplace needs the ownership check to converge quickly without leaving every tenant record on an unnecessarily short TTL. The least ",
+    "link": "https://dev.to/wilfredknight8447/marketplace-verification-with-scheduled-pre-change-ttl-lowering-and-restore-9d1",
+    "topic": "general"
+  },
+  {
     "title": "Golden Trace: The Eval Anchor Most Teams Skip",
     "desc": "<blockquote>\n<p>Cross-post of Insights #5 \u2014 canonical: <a href=\"https://sheikhwasim.com/insights/golden-trace-eval-anchor/\" rel=\"noopener no",
     "link": "https://dev.to/anciwasim/golden-trace-the-eval-anchor-most-teams-skip-1501",
@@ -9,42 +45,6 @@
     "title": "WHOIS is gone, RDAP replaced it, and a 404 does not mean what you think",
     "desc": "<p>If you last touched domain lookups a few years ago, the thing you remember is<br />\nWHOIS: a plaintext protocol on port 43 that returned ",
     "link": "https://dev.to/glitchbound/whois-is-gone-rdap-replaced-it-and-a-404-does-not-mean-what-you-think-4cim",
-    "topic": "general"
-  },
-  {
-    "title": "The Phoenix Project by Gene Kim, Kevin Behr, George Spafford \u2014 Developer Book Review",
-    "desc": "<p><strong>The Phoenix Project</strong> by Gene Kim, Kevin Behr, George Spafford is one of those books that keeps showing up on every develo",
-    "link": "https://dev.to/nick_davies_323125afbb05c/the-phoenix-project-by-gene-kim-kevin-behr-george-spafford-developer-book-review-1dfp",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Picking B2B Software From \"Top 10\" Lists: A Weighted Scoring Matrix Engineers Can Actually Defend",
-    "desc": "<p>Sooner or later, every engineer gets pulled into a software selection: a new ERP, inventory system, backup tool, CRM or contract manageme",
-    "link": "https://dev.to/akbo_ichou_c41c249cc2783d/stop-picking-b2b-software-from-top-10-lists-a-weighted-scoring-matrix-engineers-can-actually-4bh3",
-    "topic": "general"
-  },
-  {
-    "title": "Deploying a React E-Commerce Frontend on AWS S3",
-    "desc": "<p>Most of what I've built on S3 so far has been about infrastructure \u2014 buckets, permissions, presigned URLs, events. Today was different: I",
-    "link": "https://dev.to/bilal_bukhari_75aeb34a969/deploying-a-react-e-commerce-frontend-on-aws-s3-1iie",
-    "topic": "aws"
-  },
-  {
-    "title": "App Review banned our core mechanic. Notarization let it through - and caught something else",
-    "desc": "<p>In an <a href=\"https://dev.to/temer/how-we-distribute-an-ios-app-outside-the-app-store-a-practical-altstore-pal-walkthrough-33li\">earlier",
-    "link": "https://dev.to/temer/app-review-banned-our-core-mechanic-notarization-let-it-through-and-caught-something-else-3gef",
-    "topic": "general"
-  },
-  {
-    "title": "Adding Status and Conditions to My Kubernetes Operator",
-    "desc": "<p>In the previous posts, I created a custom Kubernetes resource called <code>Greeting</code>, built a Java controller for it, and then depl",
-    "link": "https://dev.to/shubhamgoel23/adding-status-and-conditions-to-my-kubernetes-operator-1a4b",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Trace an MCP install from directory entry to running artefact",
-    "desc": "<p>A directory result, a GitHub repository and an install command can all have similar names. They are not necessarily the same artefact. Be",
-    "link": "https://dev.to/piyushverma/trace-an-mcp-install-from-directory-entry-to-running-artefact-4e5",
     "topic": "general"
   }
 ]
