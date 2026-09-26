@@ -1,50 +1,50 @@
 [
   {
-    "title": "Amazon Shut Out Meta's Agent. Shopify Gave It Shop Pay.",
-    "desc": "<p><strong>The Durability Curve Weekly \u00b7 Issue 1 \u00b7 Saturday 19 to Friday 25 September 2026</strong></p>\n\n<p>This is the first Durability Cur",
-    "link": "https://dev.to/harryfloyd/amazon-shut-out-metas-agent-shopify-gave-it-shop-pay-241g",
+    "title": "Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System",
+    "desc": "<p>A container can be started with one command. Keeping the right number of containers running after machines fail, requests race, and proce",
+    "link": "https://dev.to/im-shafiqurehman/build-your-own-kubernetes-a-small-orchestrator-that-teaches-the-real-system-1lfn",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Kubernetes - Day - 07 - Questions Docker ( 1 to 6 )",
+    "desc": "<h1>\n  \n  \n  1 . Install Docker on your local machine. Verify the installation by running the hello-world container.\n</h1>\n\n<p><a class=\"art",
+    "link": "https://dev.to/technonotes/kubernetes-day-07-questions-docker-1-to-6--4ghf",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Mailcow vs Stalwart vs Mailu at 10,000 Mailboxes: What Holds Up in Production",
+    "desc": "<p>Most \"mailcow vs Stalwart vs Mailu\" posts are written from a homelab: one domain, a handful of mailboxes, a feature checklist. That's a f",
+    "link": "https://dev.to/hamzezn/mailcow-vs-stalwart-vs-mailu-at-10000-mailboxes-what-holds-up-in-production-12d7",
     "topic": "general"
   },
   {
-    "title": "Darthmortem: paste your Slack chaos, get a postmortem draft in 60s",
-    "desc": "<p>The worst part of an outage isn't the fix. It's the hour of report-writing afterwards when you're already exhausted.</p>\n\n<p>So I built <",
-    "link": "https://dev.to/darthmortem/darthmortem-paste-your-slack-chaos-get-a-postmortem-draft-in-60s-223m",
+    "title": "\ud1f4\uc0ac\uc790 \ud68c\uc0ac\uba54\uc77c \uacc4\uc815 \ud68c\uc218: \ub85c\uadf8\uc778 \uc885\ub8cc\uc640 \uc790\ub3d9\uc804\ub2ec \uc810\uac80\uc744 \ubd84\ub9ac\ud558\ub294 \uc774\uc720",
+    "desc": "<p>\ud1f4\uc0ac\uc790 \uba54\uc77c \ucc98\ub9ac\uc5d0\uc11c \uac00\uc7a5 \ud754\ud55c \ub204\ub77d\uc740 \ube44\ubc00\ubc88\ud638 \ubcc0\uacbd\uc744 \uc804\uccb4 \uacc4\uc815 \ud68c\uc218\uc640 \uac19\uc740 \uc77c\ub85c \ubcf4\ub294 \uac83\uc785\ub2c8\ub2e4. \ub85c\uadf8\uc778 \uacbd\ub85c\ub294 \ub2eb\ud614\ub294\ub370 \uae30\uc874 \uc790\ub3d9\uc804\ub2ec \uaddc\uce59\uc774 \uc678\ubd80 \uac1c\uc778 \uc8fc\uc18c\ub97c \ud5a5\ud560 \uc218\ub3c4 \uc788\uace0, \ubc18\ub300\ub85c \uacc4\uc815\uc744 \ub108\ubb34 \uc77c\ucc0d \ub9c9\uc544 \uace0\uac1d \uc751\ub300\uac00 \uba48\ucd9c \uc218\ub3c4 \uc788\uc2b5\ub2c8\ub2e4.<",
+    "link": "https://dev.to/officialmailkr/toesaja-hoesameil-gyejeong-hoesu-rogeuin-jongryowa-jadongjeondal-jeomgeomeul-bunrihaneun-iyu-1h8d",
     "topic": "general"
   },
   {
-    "title": "Cloudflare cached our 404s: why a new page kept 404ing after a good deploy",
-    "desc": "<p>We run <a href=\"https://escrozon.com\" rel=\"noopener noreferrer\">Escrozon</a>, an escrow marketplace for digital assets, behind Cloudflare",
-    "link": "https://dev.to/escrozon/cloudflare-cached-our-404s-why-a-new-page-kept-404ing-after-a-good-deploy-4502",
+    "title": "Our pipeline had two kinds of nothing and only one word for both",
+    "desc": "<p>The quietest line our unattended agent writes is the one that says the work queue is empty. It shows up on mornings when everything is fi",
+    "link": "https://dev.to/unmannedops/our-pipeline-had-two-kinds-of-nothing-and-only-one-word-for-both-50li",
     "topic": "general"
   },
   {
-    "title": "A crawler name in your logs is a claim: 38% of requests naming a known bot from one Google Cloud network asked for .env files",
-    "desc": "<p>Every line in an access log has a user agent string, and anyone can send any string. I had been counting AI crawler visits to my own site",
-    "link": "https://dev.to/reesecalder/a-crawler-name-in-your-logs-is-a-claim-38-of-requests-naming-a-known-bot-from-one-google-cloud-3j7",
-    "topic": "gcp"
-  },
-  {
-    "title": "How Companies Use Geospatial Analytics to Grow Faster",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Growth increasingly depends on how quickly technical teams can convert operational data into decisions. ",
-    "link": "https://dev.to/fyre_maps_70b6a5d04c023a9/how-companies-use-geospatial-analytics-to-grow-faster-49a4",
+    "title": "Monitor your robots.txt and sitemap for accidental changes",
+    "desc": "<p>Two SEO accidents come up again and again:</p>\n\n<ol>\n<li>A staging <code>robots.txt</code> with <code>Disallow: /</code> gets deployed to",
+    "link": "https://dev.to/daniel_root_5c360ddb87563/monitor-your-robotstxt-and-sitemap-for-accidental-changes-45ac",
     "topic": "general"
   },
   {
-    "title": "git push --force-with-lease Stops Protecting You After git fetch",
-    "desc": "<p>I rebased my feature branch, ran <code>git push --force-with-lease</code>, and felt responsible. That's the safe one, right? The one ever",
-    "link": "https://dev.to/ji_ai/git-push-force-with-lease-stops-protecting-you-after-git-fetch-45d4",
+    "title": "Soul in Motion \u2014 12:48 AM | 2026-09-27",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Updated 490 scene variants in the living\u2011books environment with a dynamic lighting system that reacts to ",
+    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1248-am-2026-09-27-1b4c",
     "topic": "general"
   },
   {
-    "title": "My own site is my proof of work",
-    "desc": "<p>GitHub counts 544 commits in nine of my repositories for September, and the month still has four days to go. My website alone shipped 54 ",
-    "link": "https://dev.to/turva-dev/my-own-site-is-my-proof-of-work-252a",
-    "topic": "general"
-  },
-  {
-    "title": "Gemini broke into three real companies in May. Nothing about it was a decision.",
-    "desc": "<p>Every argument about AI security assumes the dangerous moment is the one where a model decides to do something hostile. Google's disclosu",
-    "link": "https://dev.to/siftsignal/gemini-broke-into-three-real-companies-in-may-nothing-about-it-was-a-decision-bfg",
+    "title": "Patient Portal DNS Debugging After Shared Config Targets Production (and Prevention)",
+    "desc": "<p><strong>TL;DR:</strong> When staging DNS records appeared in the production zone, the wrong shared config probably supplied its zone iden",
+    "link": "https://dev.to/riftg84/patient-portal-dns-debugging-after-shared-config-targets-production-and-prevention-40l3",
     "topic": "general"
   }
 ]
