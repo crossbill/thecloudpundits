@@ -1,5 +1,11 @@
 [
   {
+    "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+    "desc": "<p>The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+    "topic": "general"
+  },
+  {
     "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
     "desc": "<p>OpenAI\u2019s CEO said there is an \u201cextensive and ongoing review related to our agents\u2019 use of internet access during training and evaluation.",
     "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
@@ -40,11 +46,5 @@
     "desc": "<p>Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks.</p>\n<p>",
     "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
     "topic": "aws"
-  },
-  {
-    "title": "Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs",
-    "desc": "<p>Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.</p>\n<p>The post <a href=\"h",
-    "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-    "topic": "secops"
   }
 ]

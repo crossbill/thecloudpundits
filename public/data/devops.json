@@ -1,50 +1,50 @@
 [
   {
-    "title": "Implementing Distributed Tracing in Go with OpenTelemetry",
-    "desc": "<p>Distributed tracing is one of those things that's easy to skip when a project is small and genuinely painful to retrofit when it's not. A",
-    "link": "https://dev.to/ayinedjimi-consultants/implementing-distributed-tracing-in-go-with-opentelemetry-3p6i",
+    "title": "SQLite in production with Prisma and pm2: how we fixed \"database is locked\"",
+    "desc": "<p>We run <a href=\"https://escrozon.com\" rel=\"noopener noreferrer\">Escrozon</a>, an escrow marketplace for digital assets, on Next.js with P",
+    "link": "https://dev.to/escrozon/sqlite-in-production-with-prisma-and-pm2-how-we-fixed-database-is-locked-83p",
     "topic": "general"
   },
   {
-    "title": "Sticky Routing That Never Expires Isn't Sticky It's Permanent",
-    "desc": "<p>Session affinity is a simple idea: route a client to the same backend node it used<br />\nlast time, so state that lives on that node (a c",
-    "link": "https://dev.to/techwithhari/sticky-routing-that-never-expires-isnt-sticky-its-permanent-1lgd",
+    "title": "Building Data Pipes for Forest and Environmental Monitoring",
+    "desc": "<h1>\n  \n  \n  Building Data Pipes for Forest and Environmental Monitoring\n</h1>\n\n<p>It is turning into a data engineering problem all the tim",
+    "link": "https://dev.to/ema9/building-data-pipes-for-forest-and-environmental-monitoring-30c1",
     "topic": "general"
   },
   {
-    "title": "Building a Multi-Agent Valet Trash Command Center: Supabase Edge Functions, VAPI, and PostgreSQL at Scale",
-    "desc": "<p>OPENING PARAGRAPH:</p>\n\n<p>We built a production command center for Quiet Hours Valet that orchestrates 8 concurrent AI voice agents, 8 a",
-    "link": "https://dev.to/domoniqueluchin/building-a-multi-agent-valet-trash-command-center-supabase-edge-functions-vapi-and-postgresql-at-3k79",
+    "title": "Kubernetes Email Smoke Tests Need a Cleanup Contract",
+    "desc": "<p>Email smoke tests are good at exposing the failures that unit tests miss: a worker cannot reach the provider, a template renders the wron",
+    "link": "https://dev.to/jasonmills94/kubernetes-email-smoke-tests-need-a-cleanup-contract-55h3",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Why Java Containers Die Silently: Fixing Docker OOM Kills",
+    "desc": "<p><strong>If your Java process inside Docker is abruptly terminating without generating any logs, you are likely hitting an Out-Of-Memory (",
+    "link": "https://dev.to/doogal/why-java-containers-die-silently-fixing-docker-oom-kills-14n8",
+    "topic": "docker"
+  },
+  {
+    "title": "Migrating from WindTerm to VsTerm \u2014 one SSH session for shell, files, and a few ops checks",
+    "desc": "<p>I used WindTerm for a long time. It is fine at the shell. My friction was everything <em>around</em> the shell: open SFTP in another wind",
+    "link": "https://dev.to/vesaa/migrating-from-windterm-to-vsterm-one-ssh-session-for-shell-files-and-a-few-ops-checks-5f",
     "topic": "general"
   },
   {
-    "title": "What Shipping an MCP Guide Taught Us About How We Decide What to Build",
-    "desc": "<p>Between 4 September and 13 September 2026, we shipped 113 commits across 7 days. Those commits touched 497 files, added 25,778 lines, and",
-    "link": "https://dev.to/robswierk/what-shipping-an-mcp-guide-taught-us-about-how-we-decide-what-to-build-4f8c",
+    "title": "Build Synthetic Shadow Traffic Gates for AI API Route Changes",
+    "desc": "<p>AI API route changes are rarely simple config edits. A provider adds a new model, a gateway changes a cache ratio, a team wants to move a",
+    "link": "https://dev.to/aiwave/build-synthetic-shadow-traffic-gates-for-ai-api-route-changes-5029",
     "topic": "general"
   },
   {
-    "title": "systemd's mstack tool mounts a single-layer directory writable by default",
-    "desc": "<p>I built a two-file directory, mounted it with systemd's new <code>mstack</code> tool, wrote one line into it, and watched that line perma",
-    "link": "https://dev.to/alexgeorgiev17/systemds-mstack-tool-mounts-a-single-layer-directory-writable-by-default-48p",
-    "topic": "general"
+    "title": "How to Safely Deduplicate Microsoft OneDrive Without Cloud Rehydration Storms",
+    "desc": "<p>If you manage personal or company storage on Microsoft OneDrive, you've likely encountered the slow, creeping problem of storage bloat: d",
+    "link": "https://dev.to/prismmigration/how-to-safely-deduplicate-microsoft-onedrive-without-cloud-rehydration-storms-18ii",
+    "topic": "azure"
   },
   {
-    "title": "When a Kyverno Wildcard Guardrail Runs Past a Post-Policy CRD Until a Restart",
-    "desc": "<p><em>`kinds: [\"</em>/<em>\"]<code> + </code>operations: [DELETE]<code> on Kyverno v1.19.1 (</code>crdWatcher` on): \"no policies matched adm",
-    "link": "https://dev.to/whenitruns/when-a-kyverno-wildcard-guardrail-runs-past-a-post-policy-crd-until-a-restart-226l",
-    "topic": "general"
-  },
-  {
-    "title": "Five single-file Python tools I actually run in production ops",
-    "desc": "<p>Over years of doing infrastructure and security work, I kept writing the same<br />\nkind of thing: a single-file Python tool, no third-pa",
-    "link": "https://dev.to/el_e_3dc94dfc336bfb025ef2/5-ge-python-dan-dang-shi-yong-gong-ju-ling-yi-lai-ke-zhi-jie-yong-yu-production-ops-de-zi-dong-hua-jiao-ben-32ej",
-    "topic": "general"
-  },
-  {
-    "title": "Tuber\u00edas de notificaci\u00f3n deterministas: El patr\u00f3n Producer con Context Manager",
-    "desc": "<p>Las sesiones HTTP hu\u00e9rfanas y los sockets sin cerrar degradan silenciosamente tus servicios Python. wconnect adopta el protocolo Context ",
-    "link": "https://dev.to/william_rodriguez_65a5898/tuberias-de-notificacion-deterministas-el-patron-producer-con-context-manager-1dd4",
-    "topic": "general"
+    "title": "C\u00f3mo solucionar `docker run` con `Exited (1)` en Raspberry Pi",
+    "desc": "<h1>\n  \n  \n  C\u00f3mo solucionar <code>docker run</code> con <code>Exited (1)</code> en Raspberry Pi\n</h1>\n\n<h2>\n  \n  \n  \u00bfPor qu\u00e9 ocurre este er",
+    "link": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exited-1-en-raspberry-pi-nh",
+    "topic": "docker"
   }
 ]
