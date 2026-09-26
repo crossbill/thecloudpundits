@@ -1,50 +1,50 @@
 [
   {
-    "title": "What Skills Can Beginners Learn in a DevOps Course in Telugu?",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/abhi_nay_419a49269b3ea93f/what-skills-can-beginners-learn-in-a-devops-course-in-telugu-48aa",
+    "title": "Implementing Distributed Tracing in Go with OpenTelemetry",
+    "desc": "<p>Distributed tracing is one of those things that's easy to skip when a project is small and genuinely painful to retrofit when it's not. A",
+    "link": "https://dev.to/ayinedjimi-consultants/implementing-distributed-tracing-in-go-with-opentelemetry-3p6i",
     "topic": "general"
   },
   {
-    "title": "How to stop your AI coding agent from inventing SwiftUI UI",
-    "desc": "<p>Ask a coding agent for a few SwiftUI screens in separate sessions and you get a separate set of decisions each time. The corner radius is",
-    "link": "https://dev.to/nerd_snipe_dev/how-to-stop-your-ai-coding-agent-from-inventing-swiftui-ui-1km",
+    "title": "Sticky Routing That Never Expires Isn't Sticky It's Permanent",
+    "desc": "<p>Session affinity is a simple idea: route a client to the same backend node it used<br />\nlast time, so state that lives on that node (a c",
+    "link": "https://dev.to/techwithhari/sticky-routing-that-never-expires-isnt-sticky-its-permanent-1lgd",
     "topic": "general"
   },
   {
-    "title": "Kubernetes for Enterprises: A Practical Decision Guide",
-    "desc": "<p>Kubernetes for enterprises is the disciplined use of Kubernetes to run business-critical applications with better scalability, resilience",
-    "link": "https://dev.to/esparksit/kubernetes-for-enterprises-a-practical-decision-guide-1ldc",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "I Tried to Break a $12 Server. It Took 5,000+ Concurrent Users.",
-    "desc": "<p>There is a common assumption in backend engineering:</p>\n\n<blockquote>\n<p>If you expect traffic to grow, you need to start thinking about",
-    "link": "https://dev.to/gaurav_talesara/i-tried-to-break-a-12-server-it-took-5000-concurrent-users-3hbe",
+    "title": "Building a Multi-Agent Valet Trash Command Center: Supabase Edge Functions, VAPI, and PostgreSQL at Scale",
+    "desc": "<p>OPENING PARAGRAPH:</p>\n\n<p>We built a production command center for Quiet Hours Valet that orchestrates 8 concurrent AI voice agents, 8 a",
+    "link": "https://dev.to/domoniqueluchin/building-a-multi-agent-valet-trash-command-center-supabase-edge-functions-vapi-and-postgresql-at-3k79",
     "topic": "general"
   },
   {
-    "title": "Stop losetup Guesswork: Practical systemd-dissect for Discoverable Disk Images on Linux",
-    "desc": "<h1>\n  \n  \n  Stop losetup Guesswork: Practical systemd-dissect for Discoverable Disk Images on Linux\n</h1>\n\n<p>You have a disk image. Maybe ",
-    "link": "https://dev.to/lyraalishaikh/stop-losetup-guesswork-practical-systemd-dissect-for-discoverable-disk-images-on-linux-2d7l",
+    "title": "What Shipping an MCP Guide Taught Us About How We Decide What to Build",
+    "desc": "<p>Between 4 September and 13 September 2026, we shipped 113 commits across 7 days. Those commits touched 497 files, added 25,778 lines, and",
+    "link": "https://dev.to/robswierk/what-shipping-an-mcp-guide-taught-us-about-how-we-decide-what-to-build-4f8c",
     "topic": "general"
   },
   {
-    "title": "Making an AI remember is harder, and worth more, than making it smarter",
-    "desc": "<p><em>AI Harness Engineering \u00b7 Essay Nine \u00b7 derek wang (derekwang85)</em></p>\n\n\n\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://me",
-    "link": "https://dev.to/derekwang85/making-an-ai-remember-is-harder-and-worth-more-than-making-it-smarter-1m00",
+    "title": "systemd's mstack tool mounts a single-layer directory writable by default",
+    "desc": "<p>I built a two-file directory, mounted it with systemd's new <code>mstack</code> tool, wrote one line into it, and watched that line perma",
+    "link": "https://dev.to/alexgeorgiev17/systemds-mstack-tool-mounts-a-single-layer-directory-writable-by-default-48p",
     "topic": "general"
   },
   {
-    "title": "Why ClickHouse\u00ae fills the disk in self-hosted Langfuse and SigNoz, and how to fix it",
-    "desc": "<p><em>Also in <a href=\"https://diskvet.dev/es/guide/\" rel=\"noopener noreferrer\">Espa\u00f1ol</a> \u00b7 <a href=\"https://diskvet.dev/pt/guide/\" rel=\"",
-    "link": "https://dev.to/protemir/why-clickhouser-fills-the-disk-in-self-hosted-langfuse-and-signoz-and-how-to-fix-it-3l4c",
+    "title": "When a Kyverno Wildcard Guardrail Runs Past a Post-Policy CRD Until a Restart",
+    "desc": "<p><em>`kinds: [\"</em>/<em>\"]<code> + </code>operations: [DELETE]<code> on Kyverno v1.19.1 (</code>crdWatcher` on): \"no policies matched adm",
+    "link": "https://dev.to/whenitruns/when-a-kyverno-wildcard-guardrail-runs-past-a-post-policy-crd-until-a-restart-226l",
     "topic": "general"
   },
   {
-    "title": "Why Fail2ban Isn't Enough: Building CNSL, a Self-Hosted SIEM for Linux & Kubernetes",
-    "desc": "<p>If you manage Linux servers, your security stack probably looks something like this:</p>\n\n<ul>\n<li>\n<strong>Fail2ban</strong> scanning <c",
-    "link": "https://dev.to/rahadbhuiya/why-fail2ban-isnt-enough-building-cnsl-a-self-hosted-siem-for-linux-kubernetes-5f7i",
-    "topic": "kubernetes"
+    "title": "Five single-file Python tools I actually run in production ops",
+    "desc": "<p>Over years of doing infrastructure and security work, I kept writing the same<br />\nkind of thing: a single-file Python tool, no third-pa",
+    "link": "https://dev.to/el_e_3dc94dfc336bfb025ef2/5-ge-python-dan-dang-shi-yong-gong-ju-ling-yi-lai-ke-zhi-jie-yong-yu-production-ops-de-zi-dong-hua-jiao-ben-32ej",
+    "topic": "general"
+  },
+  {
+    "title": "Tuber\u00edas de notificaci\u00f3n deterministas: El patr\u00f3n Producer con Context Manager",
+    "desc": "<p>Las sesiones HTTP hu\u00e9rfanas y los sockets sin cerrar degradan silenciosamente tus servicios Python. wconnect adopta el protocolo Context ",
+    "link": "https://dev.to/william_rodriguez_65a5898/tuberias-de-notificacion-deterministas-el-patron-producer-con-context-manager-1dd4",
+    "topic": "general"
   }
 ]
