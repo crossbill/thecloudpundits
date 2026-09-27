@@ -1,50 +1,50 @@
 [
   {
-    "title": "Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System",
-    "desc": "<p>A container can be started with one command. Keeping the right number of containers running after machines fail, requests race, and proce",
-    "link": "https://dev.to/im-shafiqurehman/build-your-own-kubernetes-a-small-orchestrator-that-teaches-the-real-system-1lfn",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Kubernetes - Day - 07 - Questions Docker ( 1 to 6 )",
-    "desc": "<h1>\n  \n  \n  1 . Install Docker on your local machine. Verify the installation by running the hello-world container.\n</h1>\n\n<p><a class=\"art",
-    "link": "https://dev.to/technonotes/kubernetes-day-07-questions-docker-1-to-6--4ghf",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Mailcow vs Stalwart vs Mailu at 10,000 Mailboxes: What Holds Up in Production",
-    "desc": "<p>Most \"mailcow vs Stalwart vs Mailu\" posts are written from a homelab: one domain, a handful of mailboxes, a feature checklist. That's a f",
-    "link": "https://dev.to/hamzezn/mailcow-vs-stalwart-vs-mailu-at-10000-mailboxes-what-holds-up-in-production-12d7",
+    "title": "Instrumenting Legacy Code Without Rewriting It",
+    "desc": "<p>You inherit a 12-year-old service with no observability. You can't rewrite it. You need to make it debuggable. Here's how I've done it th",
+    "link": "https://dev.to/samson_tanimawo/instrumenting-legacy-code-without-rewriting-it-806",
     "topic": "general"
   },
   {
-    "title": "\ud1f4\uc0ac\uc790 \ud68c\uc0ac\uba54\uc77c \uacc4\uc815 \ud68c\uc218: \ub85c\uadf8\uc778 \uc885\ub8cc\uc640 \uc790\ub3d9\uc804\ub2ec \uc810\uac80\uc744 \ubd84\ub9ac\ud558\ub294 \uc774\uc720",
-    "desc": "<p>\ud1f4\uc0ac\uc790 \uba54\uc77c \ucc98\ub9ac\uc5d0\uc11c \uac00\uc7a5 \ud754\ud55c \ub204\ub77d\uc740 \ube44\ubc00\ubc88\ud638 \ubcc0\uacbd\uc744 \uc804\uccb4 \uacc4\uc815 \ud68c\uc218\uc640 \uac19\uc740 \uc77c\ub85c \ubcf4\ub294 \uac83\uc785\ub2c8\ub2e4. \ub85c\uadf8\uc778 \uacbd\ub85c\ub294 \ub2eb\ud614\ub294\ub370 \uae30\uc874 \uc790\ub3d9\uc804\ub2ec \uaddc\uce59\uc774 \uc678\ubd80 \uac1c\uc778 \uc8fc\uc18c\ub97c \ud5a5\ud560 \uc218\ub3c4 \uc788\uace0, \ubc18\ub300\ub85c \uacc4\uc815\uc744 \ub108\ubb34 \uc77c\ucc0d \ub9c9\uc544 \uace0\uac1d \uc751\ub300\uac00 \uba48\ucd9c \uc218\ub3c4 \uc788\uc2b5\ub2c8\ub2e4.<",
-    "link": "https://dev.to/officialmailkr/toesaja-hoesameil-gyejeong-hoesu-rogeuin-jongryowa-jadongjeondal-jeomgeomeul-bunrihaneun-iyu-1h8d",
+    "title": "Building Production-Grade AWS Infrastructure: From EC2 Guardrails and EBS Recovery to S3 Lifecycle and Route 53",
+    "desc": "<p>Hey Developers! \ud83d\udc4b<br />\nMost cloud tutorials stop at launching a single virtual machine or uploading an index.html file into an open stor",
+    "link": "https://dev.to/muhammad_haris_4b47c67e8d/building-production-grade-aws-infrastructure-from-ec2-guardrails-and-ebs-recovery-to-s3-lifecycle-335m",
+    "topic": "aws"
+  },
+  {
+    "title": "upgrading and recovering my self-hosted openclaw agent + telegram bot",
+    "desc": "<p><strong>TL;DR</strong><br />\nI currently host an openclaw agent on a VM and use it for various coding tasks and project spec generation. ",
+    "link": "https://dev.to/emalia/upgrading-and-recovering-my-self-hosted-openclaw-agent-telegram-bot-oj",
     "topic": "general"
   },
   {
-    "title": "Our pipeline had two kinds of nothing and only one word for both",
-    "desc": "<p>The quietest line our unattended agent writes is the one that says the work queue is empty. It shows up on mornings when everything is fi",
-    "link": "https://dev.to/unmannedops/our-pipeline-had-two-kinds-of-nothing-and-only-one-word-for-both-50li",
+    "title": "What GitHub's pull_request_target changes break in the 1,000 most-starred repositories",
+    "desc": "<p>GitHub is changing how <code>pull_request_target</code> works this year. Two dated changes affect every public repository that uses the t",
+    "link": "https://dev.to/unite_andcreateforlife/what-githubs-pullrequesttarget-changes-break-in-the-1000-most-starred-repositories-1g0m",
     "topic": "general"
   },
   {
-    "title": "Monitor your robots.txt and sitemap for accidental changes",
-    "desc": "<p>Two SEO accidents come up again and again:</p>\n\n<ol>\n<li>A staging <code>robots.txt</code> with <code>Disallow: /</code> gets deployed to",
-    "link": "https://dev.to/daniel_root_5c360ddb87563/monitor-your-robotstxt-and-sitemap-for-accidental-changes-45ac",
+    "title": "A Go/No-Go Rubric for Evaluating MCP Servers Before They Touch Production Traffic",
+    "desc": "<p>Most MCP \"readiness checklists\" are really just a list of things that would be nice to have. They tell you to add logging, add auth, add ",
+    "link": "https://dev.to/quietdesk_studio_83466628/a-gono-go-rubric-for-evaluating-mcp-servers-before-they-touch-production-traffic-a0d",
     "topic": "general"
   },
   {
-    "title": "Soul in Motion \u2014 12:48 AM | 2026-09-27",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Updated 490 scene variants in the living\u2011books environment with a dynamic lighting system that reacts to ",
-    "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1248-am-2026-09-27-1b4c",
+    "title": "Don't put your agent guardrails in the system prompt",
+    "desc": "<p>Coding agents write, refactor, and open pull requests at a pace humans can't match. The instinct is to stuff safety into the system promp",
+    "link": "https://dev.to/alexiskroberson/dont-put-your-agent-guardrails-in-the-system-prompt-54p2",
+    "topic": "guardrails"
+  },
+  {
+    "title": "Diagrams as Code: Keep Your Architecture Docs Alive Inside the Repo",
+    "desc": "<p>B\u1ea1n c\u00f2n nh\u1edb l\u1ea7n g\u1ea7n nh\u1ea5t m\u1edf file <code>architecture.png</code> trong th\u01b0 m\u1ee5c <code>docs/</code> kh\u00f4ng? N\u1ebfu team b\u1ea1n gi\u1ed1ng ph\u1ea7n l\u1edbn team m",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/diagrams-as-code-keep-your-architecture-docs-alive-inside-the-repo-40co",
     "topic": "general"
   },
   {
-    "title": "Patient Portal DNS Debugging After Shared Config Targets Production (and Prevention)",
-    "desc": "<p><strong>TL;DR:</strong> When staging DNS records appeared in the production zone, the wrong shared config probably supplied its zone iden",
-    "link": "https://dev.to/riftg84/patient-portal-dns-debugging-after-shared-config-targets-production-and-prevention-40l3",
+    "title": "Clean CLI-in-chat: Declarative bot command routing with @on_command.",
+    "desc": "<p>Handling bot commands shouldn't require messy string slicing and manual thread management. wconnect provides clean, declarative command h",
+    "link": "https://dev.to/william_rodriguez_65a5898/clean-cli-in-chat-declarative-bot-command-routing-with-oncommand-2a8m",
     "topic": "general"
   }
 ]
