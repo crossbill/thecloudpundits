@@ -1,50 +1,50 @@
 [
   {
-    "title": "Our agent asked a stranger what it had done five minutes ago",
-    "desc": "<p>There is a small, embarrassing shape of bug that only appears when nobody is watching the machine work. It is not a crash. It is not a pe",
-    "link": "https://dev.to/unmannedops/our-agent-asked-a-stranger-what-it-had-done-five-minutes-ago-4nk1",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3c6o",
     "topic": "general"
   },
   {
-    "title": "From On-Prem to EKS: Shift-Left Validation, Invisible Throttling, and Autonomous Incident Capture with the AWS DevOps Agent",
-    "desc": "<p>Moving a fleet of on-premises Kubernetes clusters to Amazon EKS is rarely blocked by the cloud transition itself \u2014 it's blocked by the ve",
-    "link": "https://dev.to/george_palangattil/from-on-prem-to-eks-shift-left-validation-invisible-throttling-and-autonomous-incident-capture-2abh",
-    "topic": "aws"
+    "title": "StackCircuit365 - Catch Vercel & GitHub deployment issues and auto-rollback before users notice",
+    "desc": "<p>  \n  \n<br />\nStackCircuit365 is a 100% free npm package that is built to watch your Github and Vercel deployments for deployment issues a",
+    "link": "https://dev.to/pritam_avuthu_b3855831fe0/stackcircuit365-catch-vercel-github-deployment-issues-and-auto-rollback-before-users-notice-17",
+    "topic": "general"
   },
   {
-    "title": "kubernetes for engineers who know literally nothing",
-    "desc": "<p>Disclaimer: this is not a post from a seasoned DevOps engineer. So if  you also know very little about Kubernetes, ignorance loves compan",
-    "link": "https://dev.to/frank-895/kubernetes-for-engineers-who-know-literally-nothing-3a54",
+    "title": "How AI Is Changing SRE Workflows (Without Replacing SREs)",
+    "desc": "<p>I get asked this question a lot: 'Is AI going to replace SREs?' Short answer: no. Long answer: AI is changing what SREs spend their time ",
+    "link": "https://dev.to/samson_tanimawo/how-ai-is-changing-sre-workflows-without-replacing-sres-5336",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes Operator for BitCloudPhone Device Pools: From Zero to Production",
+    "desc": "<p>Managing 200 cloud phone instances through a REST client is fine until the day one region goes offline, half your devices die, and you fi",
+    "link": "https://dev.to/claudedel/kubernetes-operator-for-bitcloudphone-device-pools-from-zero-to-production-3h13",
     "topic": "kubernetes"
   },
   {
-    "title": "When Azure Verified Modules appeared, I had to decide what of my own work to throw away",
-    "desc": "<p>When a credible standard appears next to work you already own, most of that work quietly splits into three piles you cannot tell apart by",
-    "link": "https://dev.to/mbiszczanik/when-azure-verified-modules-appeared-i-had-to-decide-what-of-my-own-work-to-throw-away-40f5",
-    "topic": "azure"
+    "title": "How Docker maps a containerized port to your local machine?",
+    "desc": "<p>When you spin up a database inside a Docker container, you are essentially launching an entirely isolated, lightweight operating system t",
+    "link": "https://dev.to/kshitijjan/how-docker-maps-a-containerized-port-to-your-local-machine-3d95",
+    "topic": "docker"
   },
   {
-    "title": "A new server gets its first unsolicited packet in 3.77 seconds",
-    "desc": "<p>I rented a $6 server, gave it a fresh IPv4 address nobody had used before, and started a stopwatch.</p>\n\n<p>The first unsolicited packet ",
-    "link": "https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco",
+    "title": "Self-destructing secrets: TTL expiration and automated pruning.",
+    "desc": "<h1>\n  \n  \n  Self-destructing secrets: TTL expiration and automated pruning.\n</h1>\n\n<p>Temporary authentication tokens shouldn't live foreve",
+    "link": "https://dev.to/william_rodriguez_65a5898/self-destructing-secrets-ttl-expiration-and-automated-pruning-3lc4",
     "topic": "general"
   },
   {
-    "title": "617 downloads in a day \u2014 dep-inspector-cli v2.2.1 is live, and 2.3.0 is cooking",
-    "desc": "<p>Yesterday I mentioned 250 downloads on X when I launched stable v2.2.1 of my npm package.<br />\n\n\n\n  // Detect dark theme\n  var iframe = ",
-    "link": "https://dev.to/nevin100/617-downloads-in-a-day-dep-inspector-cli-v221-is-live-and-230-is-cooking-2a4",
+    "title": "Logs, Errors, Code, Versions: Why Agentic Debugging Needs All Four",
+    "desc": "<p><strong>Title:</strong><br />\nLogs, Errors, Code, Versions: Why Agentic Debugging Needs All Four</p>\n\n<p>Give an AI coding agent your cod",
+    "link": "https://dev.to/saxonnicholls/logs-errors-code-versions-why-agentic-debugging-needs-all-four-5bpl",
     "topic": "general"
   },
   {
-    "title": "Cron jobs: the tiny line that runs half your backend",
-    "desc": "<p>Every backend has a few jobs nobody looks at. The nightly backup. The 9 AM report. The script that deletes old files. Each one is a singl",
-    "link": "https://dev.to/4thwithme/cron-jobs-the-tiny-line-that-runs-half-your-backend-3o8a",
-    "topic": "general"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4bja",
+    "title": "Mail Routing With Node.js: MX Priorities, Forwarding Hosts, and Safe Cutovers",
+    "desc": "<p>The operational constraint is propagation: an MX change can be correct at the authoritative server while recursive resolvers still return",
+    "link": "https://dev.to/dexterpierce3542/mail-routing-with-nodejs-mx-priorities-forwarding-hosts-and-safe-cutovers-3g8c",
     "topic": "general"
   }
 ]
