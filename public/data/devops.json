@@ -1,50 +1,50 @@
 [
   {
-    "title": "MongoDB's 16MB document limit: how to find the doc that kills your agent run",
-    "desc": "<p>One of the agents I look after keeps its state in MongoDB, and a few weeks back it started doing the thing I dislike most: nothing. No st",
-    "link": "https://dev.to/milkyway008/mongodbs-16mb-document-limit-how-to-find-the-doc-that-kills-your-agent-run-2k68",
+    "title": "Our agent asked a stranger what it had done five minutes ago",
+    "desc": "<p>There is a small, embarrassing shape of bug that only appears when nobody is watching the machine work. It is not a crash. It is not a pe",
+    "link": "https://dev.to/unmannedops/our-agent-asked-a-stranger-what-it-had-done-five-minutes-ago-4nk1",
     "topic": "general"
   },
   {
-    "title": "Redirect Chains After a Website Migration: How to Find and Fix Them",
-    "desc": "<p>A website migration can look completely successful from the outside.</p>\n\n<p>The old URLs still load.</p>\n\n<p>Visitors reach the new site",
-    "link": "https://dev.to/redirhub/redirect-chains-after-a-website-migration-how-to-find-and-fix-them-1mfo",
-    "topic": "general"
+    "title": "From On-Prem to EKS: Shift-Left Validation, Invisible Throttling, and Autonomous Incident Capture with the AWS DevOps Agent",
+    "desc": "<p>Moving a fleet of on-premises Kubernetes clusters to Amazon EKS is rarely blocked by the cloud transition itself \u2014 it's blocked by the ve",
+    "link": "https://dev.to/george_palangattil/from-on-prem-to-eks-shift-left-validation-invisible-throttling-and-autonomous-incident-capture-2abh",
+    "topic": "aws"
   },
   {
-    "title": "Autonomous DevOps Incident Response Agent using Hindsight & Groq",
-    "desc": "<h1>\n  \n  \n  Autonomous DevOps Incident Response Agent\n</h1>\n\n<p>When critical production errors occur, engineering and DevOps teams waste v",
-    "link": "https://dev.to/moodcharan240bit/autonomous-devops-incident-response-agent-using-hindsight-groq-587p",
-    "topic": "secops"
-  },
-  {
-    "title": "Flaky Tests Are Not Bad Luck: A Practical Playbook for Hunting Inexplicable Failures",
-    "desc": "<p>Trong c\u00e1c team m\u00ecnh t\u1eebng l\u00e0m, c\u00e2u m\u00ecnh nghe nhi\u1ec1u nh\u1ea5t c\u00f3 l\u1ebd l\u00e0: <em>\"CI \u0111\u1ecf \u00e0? Re-run \u0111i, ch\u1eafc flaky th\u00f4i.\"</em> L\u1ea7n \u0111\u1ea7u nghe th\u00ec th\u1ea5y h\u1ee3",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/flaky-tests-are-not-bad-luck-a-practical-playbook-for-hunting-inexplicable-failures-2aa7",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes CronJob Not Running? Fixing Missed Schedules",
-    "desc": "<p>You check on a CronJob that's supposed to run every hour and find it hasn't fired since yesterday. No failed pod, no alert, no error in y",
-    "link": "https://dev.to/ronency/kubernetes-cronjob-not-running-fixing-missed-schedules-n73",
+    "title": "kubernetes for engineers who know literally nothing",
+    "desc": "<p>Disclaimer: this is not a post from a seasoned DevOps engineer. So if  you also know very little about Kubernetes, ignorance loves compan",
+    "link": "https://dev.to/frank-895/kubernetes-for-engineers-who-know-literally-nothing-3a54",
     "topic": "kubernetes"
   },
   {
-    "title": "\ud83d\udea8 Laravel developers: adding an index to a large production table isn't always harmless.",
-    "desc": "<p>A simple:</p>\n\n<p>$table->index(...)</p>\n\n<p>can lead to locking, slow queries, and application impact when the table has millions of row",
-    "link": "https://dev.to/devtalk94/laravel-developers-adding-an-index-to-a-large-production-table-isnt-always-harmless-1jm0",
+    "title": "When Azure Verified Modules appeared, I had to decide what of my own work to throw away",
+    "desc": "<p>When a credible standard appears next to work you already own, most of that work quietly splits into three piles you cannot tell apart by",
+    "link": "https://dev.to/mbiszczanik/when-azure-verified-modules-appeared-i-had-to-decide-what-of-my-own-work-to-throw-away-40f5",
+    "topic": "azure"
+  },
+  {
+    "title": "A new server gets its first unsolicited packet in 3.77 seconds",
+    "desc": "<p>I rented a $6 server, gave it a fresh IPv4 address nobody had used before, and started a stopwatch.</p>\n\n<p>The first unsolicited packet ",
+    "link": "https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco",
     "topic": "general"
   },
   {
-    "title": "Building the Release Readiness Agent in 48 Hours",
-    "desc": "<h1>\n  \n  \n  Amaze! Amaze! Amaze! Team Aaroh built an autonomous multi-subagent gatekeeper for safer software releases at the IBM Bob 2.0 Ha",
-    "link": "https://dev.to/goose2585/building-the-release-readiness-agent-in-48-hours-oke",
+    "title": "617 downloads in a day \u2014 dep-inspector-cli v2.2.1 is live, and 2.3.0 is cooking",
+    "desc": "<p>Yesterday I mentioned 250 downloads on X when I launched stable v2.2.1 of my npm package.<br />\n\n\n\n  // Detect dark theme\n  var iframe = ",
+    "link": "https://dev.to/nevin100/617-downloads-in-a-day-dep-inspector-cli-v221-is-live-and-230-is-cooking-2a4",
     "topic": "general"
   },
   {
-    "title": "How to Bootstrap DNS Inventory for Domains Predating Automation (Safely)",
-    "desc": "<p>Short answer: to bootstrap a DNS inventory for domains that predate automation, list every existing zone, capture every record without ch",
-    "link": "https://dev.to/midnightecho794261/how-to-bootstrap-dns-inventory-for-domains-predating-automation-safely-3m5b",
+    "title": "Cron jobs: the tiny line that runs half your backend",
+    "desc": "<p>Every backend has a few jobs nobody looks at. The nightly backup. The 9 AM report. The script that deletes old files. Each one is a singl",
+    "link": "https://dev.to/4thwithme/cron-jobs-the-tiny-line-that-runs-half-your-backend-3o8a",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4bja",
     "topic": "general"
   }
 ]
