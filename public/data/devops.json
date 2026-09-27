@@ -1,50 +1,50 @@
 [
   {
-    "title": "Instrumenting Legacy Code Without Rewriting It",
-    "desc": "<p>You inherit a 12-year-old service with no observability. You can't rewrite it. You need to make it debuggable. Here's how I've done it th",
-    "link": "https://dev.to/samson_tanimawo/instrumenting-legacy-code-without-rewriting-it-806",
+    "title": "10 vulnerabilities attackers are exploiting right now: what to patch this week (21 to 25 September 2026)",
+    "desc": "<p>Every week CISA adds vulnerabilities to its <strong>Known Exploited Vulnerabilities (KEV)</strong> catalogue. The bar for getting on that",
+    "link": "https://dev.to/devaland/10-vulnerabilities-attackers-are-exploiting-right-now-what-to-patch-this-week-21-to-25-september-b88",
+    "topic": "secops"
+  },
+  {
+    "title": "I finally figured out why my Mac mini kept killing agents overnight when the screen was off",
+    "desc": "<p>I lost an embarrassing amount of time blaming the wrong layer.</p>\n\n<p>At 6 p.m., my local agent stack looked fine.</p>\n\n<p>The Mac mini ",
+    "link": "https://dev.to/lars_winstand/i-finally-figured-out-why-my-mac-mini-kept-killing-agents-overnight-when-the-screen-was-off-2aai",
     "topic": "general"
   },
   {
-    "title": "Building Production-Grade AWS Infrastructure: From EC2 Guardrails and EBS Recovery to S3 Lifecycle and Route 53",
-    "desc": "<p>Hey Developers! \ud83d\udc4b<br />\nMost cloud tutorials stop at launching a single virtual machine or uploading an index.html file into an open stor",
-    "link": "https://dev.to/muhammad_haris_4b47c67e8d/building-production-grade-aws-infrastructure-from-ec2-guardrails-and-ebs-recovery-to-s3-lifecycle-335m",
+    "title": "AI-Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision\u2011Making \u2014 Part 3: Integrating AI for Smart Build Optimizati",
+    "desc": "<h2>\n  \n  \n  AI\u2011Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision\u2011Making \u2014 Part\u202f3: Integrating AI for Smart Build Optimizat",
+    "link": "https://dev.to/vijay_vinoth_8e7abfd3f5b5/ai-enhanced-automated-devops-cicd-pipeline-with-intelligent-decision-making-part-3-integrating-3j0",
+    "topic": "general"
+  },
+  {
+    "title": "WordPress Staging Environment Best Practices (That Teams Actually Follow)",
+    "desc": "<h1>\n  \n  \n  WordPress Staging Environment Best Practices (That Teams Actually Follow)\n</h1>\n\n<p>Staging that prevents production pain \u2014 dat",
+    "link": "https://dev.to/usmanahmaddevx/wordpress-staging-environment-best-practices-that-teams-actually-follow-21di",
+    "topic": "general"
+  },
+  {
+    "title": "AWS Organizations in Production: Structure, SCP Evaluation, and Landing Zone Gotchas",
+    "desc": "<p>Most teams adopt AWS Organizations for consolidated billing and stop there. The real value is the control plane: a tree of accounts where",
+    "link": "https://dev.to/rafagross/aws-organizations-in-production-structure-scp-evaluation-and-landing-zone-gotchas-5c0j",
     "topic": "aws"
   },
   {
-    "title": "upgrading and recovering my self-hosted openclaw agent + telegram bot",
-    "desc": "<p><strong>TL;DR</strong><br />\nI currently host an openclaw agent on a VM and use it for various coding tasks and project spec generation. ",
-    "link": "https://dev.to/emalia/upgrading-and-recovering-my-self-hosted-openclaw-agent-telegram-bot-oj",
+    "title": "Stop wget-and-Hope Image Downloads: Practical importctl on Linux",
+    "desc": "<h1>\n  \n  \n  Stop wget-and-Hope Image Downloads: Practical importctl on Linux\n</h1>\n\n<p>You need a container rootfs, a portable service imag",
+    "link": "https://dev.to/lyraalishaikh/stop-wget-and-hope-image-downloads-practical-importctl-on-linux-5392",
     "topic": "general"
   },
   {
-    "title": "What GitHub's pull_request_target changes break in the 1,000 most-starred repositories",
-    "desc": "<p>GitHub is changing how <code>pull_request_target</code> works this year. Two dated changes affect every public repository that uses the t",
-    "link": "https://dev.to/unite_andcreateforlife/what-githubs-pullrequesttarget-changes-break-in-the-1000-most-starred-repositories-1g0m",
+    "title": "Structured JSON logging in Node.js: request_id, user_id, and a log ingest API",
+    "desc": "<p>The thing that decided this wasn't log volume. My nightly data pipeline is one Node.js worker that imports lab results for a small health",
+    "link": "https://dev.to/leopoldholm3736/structured-json-logging-in-nodejs-requestid-userid-and-a-log-ingest-api-4783",
     "topic": "general"
   },
   {
-    "title": "A Go/No-Go Rubric for Evaluating MCP Servers Before They Touch Production Traffic",
-    "desc": "<p>Most MCP \"readiness checklists\" are really just a list of things that would be nice to have. They tell you to add logging, add auth, add ",
-    "link": "https://dev.to/quietdesk_studio_83466628/a-gono-go-rubric-for-evaluating-mcp-servers-before-they-touch-production-traffic-a0d",
-    "topic": "general"
-  },
-  {
-    "title": "Don't put your agent guardrails in the system prompt",
-    "desc": "<p>Coding agents write, refactor, and open pull requests at a pace humans can't match. The instinct is to stuff safety into the system promp",
-    "link": "https://dev.to/alexiskroberson/dont-put-your-agent-guardrails-in-the-system-prompt-54p2",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Diagrams as Code: Keep Your Architecture Docs Alive Inside the Repo",
-    "desc": "<p>B\u1ea1n c\u00f2n nh\u1edb l\u1ea7n g\u1ea7n nh\u1ea5t m\u1edf file <code>architecture.png</code> trong th\u01b0 m\u1ee5c <code>docs/</code> kh\u00f4ng? N\u1ebfu team b\u1ea1n gi\u1ed1ng ph\u1ea7n l\u1edbn team m",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/diagrams-as-code-keep-your-architecture-docs-alive-inside-the-repo-40co",
-    "topic": "general"
-  },
-  {
-    "title": "Clean CLI-in-chat: Declarative bot command routing with @on_command.",
-    "desc": "<p>Handling bot commands shouldn't require messy string slicing and manual thread management. wconnect provides clean, declarative command h",
-    "link": "https://dev.to/william_rodriguez_65a5898/clean-cli-in-chat-declarative-bot-command-routing-with-oncommand-2a8m",
+    "title": "The wrong question when an AI breaks is \"where\"; the right one is \"which layer\"",
+    "desc": "<p><em>AI Harness Engineering \u00b7 Essay Ten \u00b7 derek wang (derekwang85)</em></p>\n\n\n\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://med",
+    "link": "https://dev.to/derekwang85/the-wrong-question-when-an-ai-breaks-is-where-the-right-one-is-which-layer-281e",
     "topic": "general"
   }
 ]
