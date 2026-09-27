@@ -1,50 +1,50 @@
 [
   {
-    "title": "10 vulnerabilities attackers are exploiting right now: what to patch this week (21 to 25 September 2026)",
-    "desc": "<p>Every week CISA adds vulnerabilities to its <strong>Known Exploited Vulnerabilities (KEV)</strong> catalogue. The bar for getting on that",
-    "link": "https://dev.to/devaland/10-vulnerabilities-attackers-are-exploiting-right-now-what-to-patch-this-week-21-to-25-september-b88",
+    "title": "REST Talks in Plain Text. gRPC Talks in Binary. That's Why It's 7x Faster.",
+    "desc": "<p>Every API in this series so far has been designed with humans in mind. REST responses are readable JSON. GraphQL queries look almost like",
+    "link": "https://dev.to/im_nishant/rest-talks-in-plain-text-grpc-talks-in-binary-thats-why-its-7x-faster-kj6",
+    "topic": "general"
+  },
+  {
+    "title": "Logging for the incident you have not had yet",
+    "desc": "<p>Most application logs are written for the developer who is debugging right now. Incident logs are written for a stranger reading them six",
+    "link": "https://dev.to/irmcon/logging-for-the-incident-you-have-not-had-yet-45p2",
     "topic": "secops"
   },
   {
-    "title": "I finally figured out why my Mac mini kept killing agents overnight when the screen was off",
-    "desc": "<p>I lost an embarrassing amount of time blaming the wrong layer.</p>\n\n<p>At 6 p.m., my local agent stack looked fine.</p>\n\n<p>The Mac mini ",
-    "link": "https://dev.to/lars_winstand/i-finally-figured-out-why-my-mac-mini-kept-killing-agents-overnight-when-the-screen-was-off-2aai",
+    "title": "How to List Existing Image Transformations in Node.js \u2014 Assert 3 Names in CI",
+    "desc": "<p>The page fires after a marketplace listing goes live: its image variant cannot be produced because application code references a transfor",
+    "link": "https://dev.to/quintonshaw1483/how-to-list-existing-image-transformations-in-nodejs-assert-3-names-in-ci-4dll",
     "topic": "general"
   },
   {
-    "title": "AI-Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision\u2011Making \u2014 Part 3: Integrating AI for Smart Build Optimizati",
-    "desc": "<h2>\n  \n  \n  AI\u2011Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision\u2011Making \u2014 Part\u202f3: Integrating AI for Smart Build Optimizat",
-    "link": "https://dev.to/vijay_vinoth_8e7abfd3f5b5/ai-enhanced-automated-devops-cicd-pipeline-with-intelligent-decision-making-part-3-integrating-3j0",
+    "title": "Nutanix Zero-Copy Migration Removes Data Movement. It Doesn't Remove Migration Risk.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ntctech/nutanix-zero-copy-migration-removes-data-movement-it-doesnt-remove-migration-risk-2i3g",
     "topic": "general"
   },
   {
-    "title": "WordPress Staging Environment Best Practices (That Teams Actually Follow)",
-    "desc": "<h1>\n  \n  \n  WordPress Staging Environment Best Practices (That Teams Actually Follow)\n</h1>\n\n<p>Staging that prevents production pain \u2014 dat",
-    "link": "https://dev.to/usmanahmaddevx/wordpress-staging-environment-best-practices-that-teams-actually-follow-21di",
+    "title": "A Service Exists When It Is Declared",
+    "desc": "<p><em>The card in a service catalog is a rendering of the manifest, not a table somebody remembers to update.</em></p>\n\n\n\n\n<p>\ud83d\udc4b Hi, I'm Ant",
+    "link": "https://dev.to/anton_brilliantov/a-service-exists-when-it-is-declared-3opl",
     "topic": "general"
   },
   {
-    "title": "AWS Organizations in Production: Structure, SCP Evaluation, and Landing Zone Gotchas",
-    "desc": "<p>Most teams adopt AWS Organizations for consolidated billing and stop there. The real value is the control plane: a tree of accounts where",
-    "link": "https://dev.to/rafagross/aws-organizations-in-production-structure-scp-evaluation-and-landing-zone-gotchas-5c0j",
-    "topic": "aws"
-  },
-  {
-    "title": "Stop wget-and-Hope Image Downloads: Practical importctl on Linux",
-    "desc": "<h1>\n  \n  \n  Stop wget-and-Hope Image Downloads: Practical importctl on Linux\n</h1>\n\n<p>You need a container rootfs, a portable service imag",
-    "link": "https://dev.to/lyraalishaikh/stop-wget-and-hope-image-downloads-practical-importctl-on-linux-5392",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2kh5",
     "topic": "general"
   },
   {
-    "title": "Structured JSON logging in Node.js: request_id, user_id, and a log ingest API",
-    "desc": "<p>The thing that decided this wasn't log volume. My nightly data pipeline is one Node.js worker that imports lab results for a small health",
-    "link": "https://dev.to/leopoldholm3736/structured-json-logging-in-nodejs-requestid-userid-and-a-log-ingest-api-4783",
+    "title": "Whatshub.shop",
+    "desc": "<p><a href=\"https://whatshub.shop\"></a></p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2C",
+    "link": "https://dev.to/whatshubcontent_d43a6246/whatshubshop-160h",
     "topic": "general"
   },
   {
-    "title": "The wrong question when an AI breaks is \"where\"; the right one is \"which layer\"",
-    "desc": "<p><em>AI Harness Engineering \u00b7 Essay Ten \u00b7 derek wang (derekwang85)</em></p>\n\n\n\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://med",
-    "link": "https://dev.to/derekwang85/the-wrong-question-when-an-ai-breaks-is-where-the-right-one-is-which-layer-281e",
-    "topic": "general"
+    "title": "How We Built an Autonomous Incident Response Agent with Persistent Memory Using Hindsight",
+    "desc": "<p>When a production database crashes at 2 AM, the last thing an on-call Site Reliability Engineer (SRE) wants to do is comb through months ",
+    "link": "https://dev.to/sai_charan_f76e4408e9765d/how-we-built-an-autonomous-incident-response-agent-with-persistent-memory-using-hindsight-22j2",
+    "topic": "secops"
   }
 ]
