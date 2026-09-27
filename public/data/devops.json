@@ -1,50 +1,50 @@
 [
   {
-    "title": "REST Talks in Plain Text. gRPC Talks in Binary. That's Why It's 7x Faster.",
-    "desc": "<p>Every API in this series so far has been designed with humans in mind. REST responses are readable JSON. GraphQL queries look almost like",
-    "link": "https://dev.to/im_nishant/rest-talks-in-plain-text-grpc-talks-in-binary-thats-why-its-7x-faster-kj6",
+    "title": "MongoDB's 16MB document limit: how to find the doc that kills your agent run",
+    "desc": "<p>One of the agents I look after keeps its state in MongoDB, and a few weeks back it started doing the thing I dislike most: nothing. No st",
+    "link": "https://dev.to/milkyway008/mongodbs-16mb-document-limit-how-to-find-the-doc-that-kills-your-agent-run-2k68",
     "topic": "general"
   },
   {
-    "title": "Logging for the incident you have not had yet",
-    "desc": "<p>Most application logs are written for the developer who is debugging right now. Incident logs are written for a stranger reading them six",
-    "link": "https://dev.to/irmcon/logging-for-the-incident-you-have-not-had-yet-45p2",
+    "title": "Redirect Chains After a Website Migration: How to Find and Fix Them",
+    "desc": "<p>A website migration can look completely successful from the outside.</p>\n\n<p>The old URLs still load.</p>\n\n<p>Visitors reach the new site",
+    "link": "https://dev.to/redirhub/redirect-chains-after-a-website-migration-how-to-find-and-fix-them-1mfo",
+    "topic": "general"
+  },
+  {
+    "title": "Autonomous DevOps Incident Response Agent using Hindsight & Groq",
+    "desc": "<h1>\n  \n  \n  Autonomous DevOps Incident Response Agent\n</h1>\n\n<p>When critical production errors occur, engineering and DevOps teams waste v",
+    "link": "https://dev.to/moodcharan240bit/autonomous-devops-incident-response-agent-using-hindsight-groq-587p",
     "topic": "secops"
   },
   {
-    "title": "How to List Existing Image Transformations in Node.js \u2014 Assert 3 Names in CI",
-    "desc": "<p>The page fires after a marketplace listing goes live: its image variant cannot be produced because application code references a transfor",
-    "link": "https://dev.to/quintonshaw1483/how-to-list-existing-image-transformations-in-nodejs-assert-3-names-in-ci-4dll",
+    "title": "Flaky Tests Are Not Bad Luck: A Practical Playbook for Hunting Inexplicable Failures",
+    "desc": "<p>Trong c\u00e1c team m\u00ecnh t\u1eebng l\u00e0m, c\u00e2u m\u00ecnh nghe nhi\u1ec1u nh\u1ea5t c\u00f3 l\u1ebd l\u00e0: <em>\"CI \u0111\u1ecf \u00e0? Re-run \u0111i, ch\u1eafc flaky th\u00f4i.\"</em> L\u1ea7n \u0111\u1ea7u nghe th\u00ec th\u1ea5y h\u1ee3",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/flaky-tests-are-not-bad-luck-a-practical-playbook-for-hunting-inexplicable-failures-2aa7",
     "topic": "general"
   },
   {
-    "title": "Nutanix Zero-Copy Migration Removes Data Movement. It Doesn't Remove Migration Risk.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ntctech/nutanix-zero-copy-migration-removes-data-movement-it-doesnt-remove-migration-risk-2i3g",
+    "title": "Kubernetes CronJob Not Running? Fixing Missed Schedules",
+    "desc": "<p>You check on a CronJob that's supposed to run every hour and find it hasn't fired since yesterday. No failed pod, no alert, no error in y",
+    "link": "https://dev.to/ronency/kubernetes-cronjob-not-running-fixing-missed-schedules-n73",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "\ud83d\udea8 Laravel developers: adding an index to a large production table isn't always harmless.",
+    "desc": "<p>A simple:</p>\n\n<p>$table->index(...)</p>\n\n<p>can lead to locking, slow queries, and application impact when the table has millions of row",
+    "link": "https://dev.to/devtalk94/laravel-developers-adding-an-index-to-a-large-production-table-isnt-always-harmless-1jm0",
     "topic": "general"
   },
   {
-    "title": "A Service Exists When It Is Declared",
-    "desc": "<p><em>The card in a service catalog is a rendering of the manifest, not a table somebody remembers to update.</em></p>\n\n\n\n\n<p>\ud83d\udc4b Hi, I'm Ant",
-    "link": "https://dev.to/anton_brilliantov/a-service-exists-when-it-is-declared-3opl",
+    "title": "Building the Release Readiness Agent in 48 Hours",
+    "desc": "<h1>\n  \n  \n  Amaze! Amaze! Amaze! Team Aaroh built an autonomous multi-subagent gatekeeper for safer software releases at the IBM Bob 2.0 Ha",
+    "link": "https://dev.to/goose2585/building-the-release-readiness-agent-in-48-hours-oke",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2kh5",
+    "title": "How to Bootstrap DNS Inventory for Domains Predating Automation (Safely)",
+    "desc": "<p>Short answer: to bootstrap a DNS inventory for domains that predate automation, list every existing zone, capture every record without ch",
+    "link": "https://dev.to/midnightecho794261/how-to-bootstrap-dns-inventory-for-domains-predating-automation-safely-3m5b",
     "topic": "general"
-  },
-  {
-    "title": "Whatshub.shop",
-    "desc": "<p><a href=\"https://whatshub.shop\"></a></p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2C",
-    "link": "https://dev.to/whatshubcontent_d43a6246/whatshubshop-160h",
-    "topic": "general"
-  },
-  {
-    "title": "How We Built an Autonomous Incident Response Agent with Persistent Memory Using Hindsight",
-    "desc": "<p>When a production database crashes at 2 AM, the last thing an on-call Site Reliability Engineer (SRE) wants to do is comb through months ",
-    "link": "https://dev.to/sai_charan_f76e4408e9765d/how-we-built-an-autonomous-incident-response-agent-with-persistent-memory-using-hindsight-22j2",
-    "topic": "secops"
   }
 ]
