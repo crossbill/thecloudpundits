@@ -1,50 +1,50 @@
 [
   {
-    "title": "AI-Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision\u2011Making \u2014 Part 4: AI\u2011Driven Test Prioritization and Flake D",
-    "desc": "<h2>\n  \n  \n  AI\u2011Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision\u2011Making \u2014 Part\u202f4: AI\u2011Driven Test Prioritization and Flake ",
-    "link": "https://dev.to/vijay_vinoth_8e7abfd3f5b5/ai-enhanced-automated-devops-cicd-pipeline-with-intelligent-decision-making-part-4-ai-driven-211m",
-    "topic": "general"
-  },
-  {
-    "title": "JadePuffer (Storm-3168) Wipes Azure Cloud Resources: Service Principal Abuse & Agentic Threats",
-    "desc": "<p>Microsoft Security Research has linked a destructive cloud-wiping campaign to <strong>JADEPUFFER</strong> (tracked by Microsoft as <stron",
-    "link": "https://dev.to/cyberupdates365/jadepuffer-storm-3168-wipes-azure-cloud-resources-service-principal-abuse-agentic-threats-13d8",
-    "topic": "azure"
-  },
-  {
-    "title": "Deploying FastAPI on a VPS with Docker Compose: The Production Checklist",
-    "desc": "<p>Getting FastAPI running in Docker takes five minutes. Getting it to behave well on a real server takes a little longer, because the thing",
-    "link": "https://dev.to/offpage_prince/deploying-fastapi-on-a-vps-with-docker-compose-the-production-checklist-2edi",
-    "topic": "docker"
-  },
-  {
-    "title": "DevOps Outage Scenario: Solving Kubernetes CrashLoopBackOff: Probe Flapping & Cold Starts",
-    "desc": "<p>In technical interviews for <strong>Senior Cloud, DevOps, and SRE roles</strong>, trivial syntax questions are gone. Hiring managers want",
-    "link": "https://dev.to/intervixa_ai/devops-outage-scenario-solving-kubernetes-crashloopbackoff-probe-flapping-cold-starts-249g",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Exchange 2016/2019 Updates End in October 2026: A Self-Hosted Exit Plan",
-    "desc": "<p>If you still run Exchange Server 2016 or 2019 on your own hardware, the last safety net goes away at the end of October 2026. Mainstream ",
-    "link": "https://dev.to/hamzezn/exchange-20162019-updates-end-in-october-2026-a-self-hosted-exit-plan-436o",
-    "topic": "general"
-  },
-  {
-    "title": "Designing Hindsight Retain and Recall for SRE Incidents",
-    "desc": "<p>An incident-response system can retrieve the right information and still fail to learn anything.</p>\n\n<p>That was one of the design probl",
-    "link": "https://dev.to/devalla_harika_ae9342db1a/designing-hindsight-retain-and-recall-for-sre-incidents-24",
+    "title": "SRE Hindsight: An AI Incident Response Agent with Persistent Organizational Memory",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/suryaprakashvishnoi/sre-hindsight-an-ai-incident-response-agent-with-persistent-organizational-memory-3cgf",
     "topic": "secops"
   },
   {
-    "title": "Cloudflare Container Data Exposure: The Silent Vulnerability",
-    "desc": "<p>A critical data exposure vulnerability has been identified within isolated cloud container environments routing through specific Cloudfla",
-    "link": "https://dev.to/kiran_sonawane/cloudflare-container-data-exposure-the-silent-vulnerability-426",
-    "topic": "docker"
+    "title": "Building an AI Incident Response Agent That Learns From Experience Using Hindsight",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Production incidents are rarely completely new.</p>\n\n<p>A similar combination of high latency, resource ",
+    "link": "https://dev.to/vaidikapunna/building-an-ai-incident-response-agent-that-learns-from-experience-using-hindsight-5gde",
+    "topic": "secops"
   },
   {
-    "title": "Upgrade EKS Nodes Without Downtime: The Bridge Add-on Version Trick",
-    "desc": "<p><em>Move your add-ons to versions that work on both Kubernetes releases, and the node upgrade stops being the scary part.</em></p>\n\n\n\n\n<h",
-    "link": "https://dev.to/ajinkya_a3/upgrade-eks-nodes-without-downtime-the-bridge-add-on-version-trick-2f84",
+    "title": "From Error Logs to Past Fixes with Hindsight Recall",
+    "desc": "<p>Implementing recall() in Code<br />\n\u200bBelow is the core implementation within devops_agent.py responsible for querying the Hindsight API a",
+    "link": "https://dev.to/gangadhara_vedasree_5693/from-error-logs-to-past-fixes-with-hindsight-recall-2po1",
     "topic": "general"
+  },
+  {
+    "title": "Hindsight Turned Past Deployment Failures Into Future Warnings",
+    "desc": "<p>Debugging recurring pipeline failures is one of the most repetitive time sinks in modern software engineering. An error like <code>Exit C",
+    "link": "https://dev.to/gangadhara_vedasree_5693/system-architecture-core-engine-2dim",
+    "topic": "general"
+  },
+  {
+    "title": "Node.js Healthtech Flag Disablement After Failed Release (Metric-Gated Rollback)",
+    "desc": "<p>A release should lose its feature flag only when new code produces a sustained, material failure increase, not when one noisy batch cough",
+    "link": "https://dev.to/ethanbrooks1647/nodejs-healthtech-flag-disablement-after-failed-release-metric-gated-rollback-10nj",
+    "topic": "general"
+  },
+  {
+    "title": "# My Incident Agent Gets Faster With Hindsight",
+    "desc": "<h1>\n  \n  \n  My Incident Agent Gets Faster With Hindsight\n</h1>\n\n<p>The first time an incident happens, an AI agent has to reason about it.<",
+    "link": "https://dev.to/shenigaram_shreni_af8f649/-my-incident-agent-gets-faster-with-hindsight-3g0e",
+    "topic": "secops"
+  },
+  {
+    "title": "The sandbox had no internet. The AI agent got out through DNS anyway.",
+    "desc": "<p>You gave the agent a sandbox with no internet. It asked the internet a question anyway \u2014 through the one hole almost nobody closes.</p>\n\n",
+    "link": "https://dev.to/rudratosh/the-sandbox-had-no-internet-the-ai-agent-got-out-through-dns-anyway-2cbh",
+    "topic": "general"
+  },
+  {
+    "title": "AWS vs Azure vs Google Cloud: the same services, three different names (and the gotchas nobody warns you about)",
+    "desc": "<p>AWS calls it <strong>Kinesis</strong>. Azure calls it <strong>Event Hubs</strong>. Google calls it <strong>Pub/Sub</strong>.</p>\n\n<p>Same",
+    "link": "https://dev.to/shagunchadak/aws-vs-azure-vs-google-cloud-the-same-services-three-different-names-and-the-gotchas-nobody-1i0j",
+    "topic": "aws"
   }
 ]
