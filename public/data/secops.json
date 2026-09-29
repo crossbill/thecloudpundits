@@ -1,5 +1,23 @@
 [
   {
+    "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
+    "desc": "<p>The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also h",
+    "link": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
+    "topic": "general"
+  },
+  {
+    "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+    "desc": "<p>Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system",
+    "link": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
+    "topic": "general"
+  },
+  {
+    "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
+    "desc": "<p>The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
+    "topic": "general"
+  },
+  {
     "title": "Reco Raises $55 Million for Agentic Security",
     "desc": "<p>The company will use the funds to expand its sales, partnerships, channels, and customer support teams.</p>\n<p>The post <a href=\"https://",
     "link": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
@@ -28,23 +46,5 @@
     "desc": "<p>- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must bec",
     "link": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
     "topic": "secops"
-  },
-  {
-    "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
-    "desc": "<p>The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations.\u00a0</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
-    "topic": "openai"
-  },
-  {
-    "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
-    "desc": "<p>Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
-    "topic": "general"
-  },
-  {
-    "title": "Daemon Tools Hackers\u2019 NeedyMantis Malware Dissected by Microsoft",
-    "desc": "<p>The malware framework uses a modular architecture and a custom executable file format for long-term persistence.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
-    "topic": "azure"
   }
 ]

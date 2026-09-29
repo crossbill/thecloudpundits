@@ -1,50 +1,50 @@
 [
   {
-    "title": "Genkit Flows as senro Steps: Extremely Powerful AI Pipelines in Go",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>A <a href=\"https://genkit.dev\" rel=\"noopener noreferrer\">Genkit</a> flow is an excellent unit of AI work",
-    "link": "https://dev.to/xavidop/genkit-flows-as-senro-steps-extremely-powerful-ai-pipelines-in-go-5712",
+    "title": "How I Stopped 2 AM Outage Loops Using Hindsight Memory",
+    "desc": "<p>You know the feeling. Pager goes off at 2 AM. You stumble to your laptop, open the terminal, and stare at a PostgreSQL stack trace you've",
+    "link": "https://dev.to/vineethreddy09/how-i-stopped-2-am-outage-loops-using-hindsight-memory-3471",
     "topic": "general"
   },
   {
-    "title": "Debugging senro Pipelines: Replay a Run, Shell Into a Live Step, Audit a Cache",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The usual way to debug a CI failure is to add <code>echo \"HERE\"</code> to a YAML file, push, wait four m",
-    "link": "https://dev.to/xavidop/debugging-senro-pipelines-replay-a-run-shell-into-a-live-step-audit-a-cache-1ioh",
+    "title": "Keep Your Product Tours in Git, Not Behind a Vendor Dashboard",
+    "desc": "<p>You know that feeling when a SaaS tool you depend on suddenly changes its pricing, goes down for maintenance, or worse, shuts down entire",
+    "link": "https://dev.to/trailguide/keep-your-product-tours-in-git-not-behind-a-vendor-dashboard-5bf6",
     "topic": "general"
   },
   {
-    "title": "Daily Dose of DevOps \u2014 Kubernetes autoscaling: during cluster upgrades",
-    "desc": "<h1>\n  \n  \n  Kubernetes autoscaling: during cluster upgrades\n</h1>\n\n<p>The expensive failure is rarely the missing tool; it is the absent op",
-    "link": "https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-autoscaling-during-cluster-upgrades-g04",
-    "topic": "kubernetes"
+    "title": "Kiteworks Critical Vulnerability: MFT Security Flaw",
+    "desc": "<p>A severe vulnerability has been discovered in Kiteworks, a leading enterprise secure file sharing and Managed File Transfer (MFT) platfor",
+    "link": "https://dev.to/kiran_sonawane/kiteworks-critical-vulnerability-mft-security-flaw-185i",
+    "topic": "secops"
   },
   {
-    "title": "Building a Real Pipeline with senro: Monorepos, Caching and Triggers",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the <a href=\"https://xavidop.me/go/2026-09-11-introducing-senro-pipeline-engine-go/\" rel=\"noopener no",
-    "link": "https://dev.to/xavidop/building-a-real-pipeline-with-senro-monorepos-caching-and-triggers-3n2n",
+    "title": "OnCall Memory:Building an Incident Response Agent That Learns From Production",
+    "desc": "<p>OnCall Memory: Building an Incident Response Agent That Learns From Production History</p>\n\n<p>Production incidents are rarely completely",
+    "link": "https://dev.to/saanvii248/oncall-memorybuilding-an-incident-response-agent-that-learns-from-production-401m",
+    "topic": "secops"
+  },
+  {
+    "title": "How to Choose the Right Patch for a Jacket: Style, Material and Application",
+    "desc": "<p>A jacket patch can change the look of a garment without replacing the jacket itself. Whether you want a bold design, a personal symbol or",
+    "link": "https://dev.to/rushpatchs/how-to-choose-the-right-patch-for-a-jacket-style-material-and-application-37l5",
     "topic": "general"
   },
   {
-    "title": "Introducing senro: A Pipeline Engine You Program in Go",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Every CI configuration I have ever maintained follows the same arc. It starts as twenty lines of YAML. T",
-    "link": "https://dev.to/xavidop/introducing-senro-a-pipeline-engine-you-program-in-go-1bd6",
+    "title": "I deployed ONE Dockerized Notes App (Node.js + Postgres) locally + to Azure ACI! (CLOUD)",
+    "desc": "<p>I Deployed  Docker App  on Azure \u2014 Part 1: Local + ACI (Working)</p>\n\n<p>Stack: Node.js 20 + Express + PostgreSQL 16 + Docker + Azure Con",
+    "link": "https://dev.to/shadrack_acquah_b59ab8555/i-deployed-one-dockerized-notes-app-nodejs-postgres-locally-to-azure-aci-cloud-2712",
+    "topic": "azure"
+  },
+  {
+    "title": "How I Stopped Outage Amnesia Using Hindsight and Groq",
+    "desc": "<p>During a critical production outage, institutional amnesia costs engineering organizations tens of thousands of dollars per minute. The r",
+    "link": "https://dev.to/anudeep_thatiparthi_90a0a/how-i-stopped-outage-amnesia-using-hindsight-and-groq-5hm2",
     "topic": "general"
   },
   {
-    "title": "What least-privilege evidence your authz model can actually produce",
-    "desc": "<p>SOC 2-style access reviews rarely stop at \"was this allowed?\"</p>\n\n<p>Reviewers want to know <strong>why</strong> the person (or agent) h",
-    "link": "https://dev.to/authbyexample1/what-least-privilege-evidence-your-authz-model-can-actually-produce-3k7p",
-    "topic": "general"
-  },
-  {
-    "title": "Hot-Reloading Kubernetes Secrets and ConfigMaps in Go with mamori (No Pod Restarts)",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you run Go services on Kubernetes, you know the ritual. You update a <code>Secret</code> or a <code>C",
-    "link": "https://dev.to/xavidop/hot-reloading-kubernetes-secrets-and-configmaps-in-go-with-mamori-no-pod-restarts-3icc",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Introducing mamori: Typed, Watchable Config & Secrets for Go",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Every Go service I have ever shipped ends up growing the same organ. It starts small: a couple of <code>",
-    "link": "https://dev.to/xavidop/introducing-mamori-typed-watchable-config-secrets-for-go-gnp",
-    "topic": "general"
+    "title": "Every Incident Leaves a Clue: Using Hindsight in EchoOps",
+    "desc": "<p>Production incidents have a frustrating property: they repeat.</p>\n\n<p>A payment API can return 503 errors under high traffic. An enginee",
+    "link": "https://dev.to/bhavan_c9b7bc2cc87e0ae211/every-incident-leaves-a-clue-using-hindsight-in-echoops-5fp3",
+    "topic": "secops"
   }
 ]
