@@ -1,50 +1,50 @@
 [
   {
-    "title": "Apple Patches Meta-Reported Zero-Day Linked to \u2018Extremely Sophisticated Attack\u2019",
-    "desc": "<p>Apple has released iOS and macOS updates to patch the zero-day vulnerability tracked as CVE-2026-86950.</p>\n<p>The post <a href=\"https://",
-    "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
+    "title": "Reco Raises $55 Million for Agentic Security",
+    "desc": "<p>The company will use the funds to expand its sales, partnerships, channels, and customer support teams.</p>\n<p>The post <a href=\"https://",
+    "link": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
     "topic": "secops"
   },
   {
-    "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
-    "desc": "<p>The misuse and abuse of AI-generated voice is growing. Modulate\u2019s intention is to allow real time detection and intervention.\u00a0</p>\n<p>The",
-    "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
+    "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
+    "desc": "<p>The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands.</p>",
+    "link": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
+    "topic": "openai"
+  },
+  {
+    "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
+    "desc": "<p>The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense.</p>\n<p>",
+    "link": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
+    "topic": "secops"
+  },
+  {
+    "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
+    "desc": "<p>Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents</p>\n<p>The post <a href=\"https://",
+    "link": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Four Cyber Threats Harboring Big Plans for the Future",
+    "desc": "<p>- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must bec",
+    "link": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
+    "topic": "secops"
+  },
+  {
+    "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
+    "desc": "<p>The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations.\u00a0</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
+    "topic": "openai"
+  },
+  {
+    "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
+    "desc": "<p>Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
     "topic": "general"
   },
   {
-    "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
-    "desc": "<p>SecurityWeek seeks original, vendor-neutral presentations that help cybersecurity leaders navigate emerging threats, strengthen resilienc",
-    "link": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
-    "topic": "general"
-  },
-  {
-    "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon",
-    "desc": "<p>Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
-    "topic": "general"
-  },
-  {
-    "title": "DC Health Agency Exposes 400,000 Beneficiary Records",
-    "desc": "<p>The Medicaid IDs and other information of Medicaid and DC Healthcare Alliance beneficiaries were exposed.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
-    "topic": "general"
-  },
-  {
-    "title": "Google Warns of ShinyHunters\u2019 Fresh Oracle PeopleSoft Campaign",
-    "desc": "<p>The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
-    "topic": "general"
-  },
-  {
-    "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections",
-    "desc": "<p>A New Mexico jury has found Facebook liable for deceiving users about privacy protections on the platform.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
-    "topic": "general"
-  },
-  {
-    "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
-    "desc": "<p>The platform combines open source software and a reference system design to keep AI agents within set boundaries.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
-    "topic": "general"
+    "title": "Daemon Tools Hackers\u2019 NeedyMantis Malware Dissected by Microsoft",
+    "desc": "<p>The malware framework uses a modular architecture and a custom executable file format for long-term persistence.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
+    "topic": "azure"
   }
 ]

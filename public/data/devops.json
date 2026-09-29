@@ -1,50 +1,50 @@
 [
   {
-    "title": "ColdFusion cfmail SPF, DKIM, and DMARC Setup: Stop Your Emails Landing in Spam",
-    "desc": "<p>If your  messages are landing in spam, the fix is almost never in your ColdFusion code \u2014 it's in your DNS records and your sending mail s",
-    "link": "https://dev.to/deepak_sir__/coldfusion-cfmail-spf-dkim-and-dmarc-setup-stop-your-emails-landing-in-spam-3mg8",
+    "title": "Genkit Flows as senro Steps: Extremely Powerful AI Pipelines in Go",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>A <a href=\"https://genkit.dev\" rel=\"noopener noreferrer\">Genkit</a> flow is an excellent unit of AI work",
+    "link": "https://dev.to/xavidop/genkit-flows-as-senro-steps-extremely-powerful-ai-pipelines-in-go-5712",
     "topic": "general"
   },
   {
-    "title": "AI Incident Response Agent powered by Hindsight",
-    "desc": "<p><strong>RecallOps</strong>: An AI Incident Response Agent That Learns From Every Incident Modern incident-response tools can analyze prod",
-    "link": "https://dev.to/divya_baskula_19dd1317570/ai-incident-response-agent-powered-by-hindsight-4o2i",
-    "topic": "secops"
-  },
-  {
-    "title": "Feature Flag Technical Debt: Cleanup Practices and 5 Companies to Evaluate",
-    "desc": "<p>A feature ships successfully. Its rollout reaches every intended user. The team moves to the next sprint.</p>\n\n<p>Six months later, the a",
-    "link": "https://dev.to/mitch_07/feature-flag-technical-debt-cleanup-practices-and-5-companies-to-evaluate-1b2o",
+    "title": "Debugging senro Pipelines: Replay a Run, Shell Into a Live Step, Audit a Cache",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The usual way to debug a CI failure is to add <code>echo \"HERE\"</code> to a YAML file, push, wait four m",
+    "link": "https://dev.to/xavidop/debugging-senro-pipelines-replay-a-run-shell-into-a-live-step-audit-a-cache-1ioh",
     "topic": "general"
   },
   {
-    "title": "How to Evaluate AI Project Management Software for Real Project Work",
-    "desc": "<p>AI project management tools are useful only when they work from reliable project context. If requests, decisions, dependencies, and owner",
-    "link": "https://dev.to/sophiemiller/how-to-evaluate-ai-project-management-software-for-real-project-work-54hn",
+    "title": "Daily Dose of DevOps \u2014 Kubernetes autoscaling: during cluster upgrades",
+    "desc": "<h1>\n  \n  \n  Kubernetes autoscaling: during cluster upgrades\n</h1>\n\n<p>The expensive failure is rarely the missing tool; it is the absent op",
+    "link": "https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-autoscaling-during-cluster-upgrades-g04",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Building a Real Pipeline with senro: Monorepos, Caching and Triggers",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In the <a href=\"https://xavidop.me/go/2026-09-11-introducing-senro-pipeline-engine-go/\" rel=\"noopener no",
+    "link": "https://dev.to/xavidop/building-a-real-pipeline-with-senro-monorepos-caching-and-triggers-3n2n",
     "topic": "general"
   },
   {
-    "title": "How I Built an Incident Recovery Assistant That Remembers What Failed",
-    "desc": "<p>When a critical production service degrades at 2:00 AM, the most valuable asset an on-call engineer can have is organizational memory. Ha",
-    "link": "https://dev.to/karunya_p_a0143785b2cb588/how-i-built-an-incident-recovery-assistant-that-remembers-what-failed-4phi",
-    "topic": "secops"
-  },
-  {
-    "title": "How to Work With Agentic Teammates: A Practical Guide to Assigning, Governing, and Reviewing AI Work",
-    "desc": "<p>AI agents are becoming much more useful when they can do more than answer a prompt.</p>\n\n<p>Instead of asking an AI to explain a problem ",
-    "link": "https://dev.to/therealmrmumba/how-to-work-with-agentic-teammates-a-practical-guide-to-assigning-governing-and-reviewing-ai-work-2316",
+    "title": "Introducing senro: A Pipeline Engine You Program in Go",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Every CI configuration I have ever maintained follows the same arc. It starts as twenty lines of YAML. T",
+    "link": "https://dev.to/xavidop/introducing-senro-a-pipeline-engine-you-program-in-go-1bd6",
     "topic": "general"
   },
   {
-    "title": "IncidentBrain: Building an SRE Agent That Learns From Production Incidents",
-    "desc": "<p><em>How persistent operational memory can help an AI incident-response agent learn from previous incidents instead of starting from scrat",
-    "link": "https://dev.to/pranay_kumargouru_f5bc31/incidentbrain-building-an-sre-agent-that-learns-from-production-incidents-15b1",
-    "topic": "secops"
+    "title": "What least-privilege evidence your authz model can actually produce",
+    "desc": "<p>SOC 2-style access reviews rarely stop at \"was this allowed?\"</p>\n\n<p>Reviewers want to know <strong>why</strong> the person (or agent) h",
+    "link": "https://dev.to/authbyexample1/what-least-privilege-evidence-your-authz-model-can-actually-produce-3k7p",
+    "topic": "general"
   },
   {
-    "title": "Smoke Testing Vs Regression Testing: What You Need To Know",
-    "desc": "<p>In the field of software quality assurance, there are two types of testing often referenced, smoke testing and regression testing. While ",
-    "link": "https://dev.to/keploy/smoke-testing-vs-regression-testing-what-you-need-to-know-6pk",
+    "title": "Hot-Reloading Kubernetes Secrets and ConfigMaps in Go with mamori (No Pod Restarts)",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you run Go services on Kubernetes, you know the ritual. You update a <code>Secret</code> or a <code>C",
+    "link": "https://dev.to/xavidop/hot-reloading-kubernetes-secrets-and-configmaps-in-go-with-mamori-no-pod-restarts-3icc",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Introducing mamori: Typed, Watchable Config & Secrets for Go",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Every Go service I have ever shipped ends up growing the same organ. It starts small: a couple of <code>",
+    "link": "https://dev.to/xavidop/introducing-mamori-typed-watchable-config-secrets-for-go-gnp",
     "topic": "general"
   }
 ]
