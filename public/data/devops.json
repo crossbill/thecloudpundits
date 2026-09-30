@@ -1,50 +1,50 @@
 [
   {
-    "title": "Docker Desktop taking too much space on Windows? Here's the fix",
-    "desc": "<p>You've run <code>docker system prune</code>, deleted old images, and your C: drive still hasn't gotten any smaller. This isn't a bug \u2014 it",
-    "link": "https://dev.to/asad_rajput_a2c67b9ede8c3/docker-desktop-taking-too-much-space-on-windows-heres-the-fix-5ak1",
-    "topic": "docker"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4an1",
+    "title": "Best Task Tracking Software in 2026: 12 Tools Reviewed",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/lara_walker_88/best-task-tracking-software-in-2026-12-tools-reviewed-o6h",
     "topic": "general"
   },
   {
-    "title": "Integrating Policy-as-Code into Banking DevSecOps Pipelines",
-    "desc": "<p>Modern core banking modernization initiatives rely heavily on open-source ecosystems and modular microservice components. However, integr",
-    "link": "https://dev.to/mountek/integrating-policy-as-code-into-banking-devsecops-pipelines-1pj3",
+    "title": "Which Accredited Blockchain Certification Offers the Best Career Value?",
+    "desc": "<p>Blockchain has evolved from a technology primarily associated with cryptocurrencies into an important part of Web3, digital assets, token",
+    "link": "https://dev.to/georgiaweston/which-accredited-blockchain-certification-offers-the-best-career-value-2b0c",
     "topic": "general"
   },
   {
-    "title": "A Practitioner\u2019s Guide to Mature Requirements Management Platforms",
-    "desc": "<p>A requirement can be approved and still lose its connection to planning, implementation, testing, and release work. Mature requirements m",
-    "link": "https://dev.to/imemilyyy/a-practitioners-guide-to-mature-requirements-management-platforms-1bmo",
+    "title": "Renting a GPU Server for AI Video Generation: What We Learned (Costs, Pitfalls, Checklist)",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Need a GPU server for this?</strong> You can rent NVIDIA GPU servers by the hour at <a href=\"https://cloud.vast.ai",
+    "link": "https://dev.to/big_mazzy_06d057cc24398c5/renting-a-gpu-server-for-ai-video-generation-what-we-learned-costs-pitfalls-checklist-hb8",
     "topic": "general"
   },
   {
-    "title": "JackHamr launches: AI agents with their own cloud machines",
-    "desc": "<p>Every AI coding tool we tried had the same shape. It sat inside your editor, waited for you to type, and handed the work back to you one ",
-    "link": "https://dev.to/jackhamr/jackhamr-launches-ai-agents-with-their-own-cloud-machines-1fg5",
+    "title": "WireGuard Split Tunneling on Blocked Networks (udp2raw)",
+    "desc": "<p>Your WireGuard tunnel works fine at home, then dies the moment you join a hotel, campus, cafe or mobile-carrier network. Below I show how",
+    "link": "https://dev.to/selfhostpilot/wireguard-split-tunneling-on-blocked-networks-udp2raw-144p",
     "topic": "general"
   },
   {
-    "title": "Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on Shadow",
-    "desc": "<h1>\n  \n  \n  Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on Shadow\n</h1>\n\n<h2>\n  \n  \n  1. The Core Bottleneck\n</h2>\n\n<",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/step-by-step-walkthrough-building-a-30-day-autopilot-video-queue-on-shadow-5056",
+    "title": "Your app broke after git pull? The after-pull checklist every team forgets",
+    "desc": "<p>You pull, start the app, and get <code>Cannot find module 'zod'</code>. You reinstall. Now it is <code>relation \"invoice_lines\" does not ",
+    "link": "https://dev.to/jaytank/your-app-broke-after-git-pull-the-after-pull-checklist-every-team-forgets-394n",
     "topic": "general"
   },
   {
-    "title": "Automated Multimodal Vision Audits: Grading Character Consistency Frame-by-Frame",
-    "desc": "<p>Building in public with Virtual Persona in the Tech & SaaS space. Delivering high-value insights, actionable strategies, and authentic be",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/automated-multimodal-vision-audits-grading-character-consistency-frame-by-frame-1npg",
+    "title": "Your Jira automation rules break silently. How would you test them?",
+    "desc": "<p>Every Jira admin I've read about has the same story. Someone edits an automation rule, or a field, a permission, or the workflow a rule d",
+    "link": "https://dev.to/skyblueballykid/your-jira-automation-rules-break-silently-how-would-you-test-them-568g",
     "topic": "general"
   },
   {
-    "title": "Should You Really Run MCP Servers on Your Own Machine?",
-    "desc": "<p>Running an MCP server directly on your machine is probably the easiest way to get started. Install the package, start the process, connec",
-    "link": "https://dev.to/anehme/should-you-really-run-mcp-servers-on-your-own-machine-h92",
+    "title": "Self-Hosted WAF with a Low False Positive Rate: Why It Matters",
+    "desc": "<h1>\n  \n  \n  Self-Hosted WAF with a Low False Positive Rate: Why It Matters\n</h1>\n\n<p>When you shop for a WAF, the headline number everyone ",
+    "link": "https://dev.to/lialiago/self-hosted-waf-with-a-low-false-positive-rate-why-it-matters-2ob",
+    "topic": "general"
+  },
+  {
+    "title": "Building a Proxy Health-Check Dashboard for 1000+ Residential IPs",
+    "desc": "<p>A rotating residential pool with 1,000 IPs sounds like abundance until you measure it. On any given hour, 4-7% of the pool is broken: unr",
+    "link": "https://dev.to/yooexo/building-a-proxy-health-check-dashboard-for-1000-residential-ips-3n93",
     "topic": "general"
   }
 ]
