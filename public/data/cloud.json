@@ -1,5 +1,23 @@
 [
   {
+    "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+    "desc": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before simil",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
+    "topic": "general"
+  },
+  {
+    "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+    "desc": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational dat",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+    "topic": "general"
+  },
+  {
+    "title": "Celebrating Our Newest AWS Heroes \u2013 September 2026",
+    "desc": "Today, we\u2019re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who",
+    "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
+    "topic": "aws"
+  },
+  {
     "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
     "desc": "If there\u2019s one theme that defined last week, it\u2019s choice. The frontier models keep arriving, and the interesting question is no longer just ",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
@@ -27,24 +45,6 @@
     "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
     "desc": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is wr",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
-    "topic": "aws"
-  },
-  {
-    "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
-    "desc": "AWS introduces new low-cost burstable Amazon EC2 T8i instances powered by custom sixth generation Intel Xeon Scalable Processors (Granite Ra",
-    "link": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
-    "topic": "general"
-  },
-  {
-    "title": "AWS Elastic Beanstalk introduces Cluster Mode",
-    "desc": "Run an application on AWS Elastic Beanstalk Cluster Mode without provisioning or operating the compute underneath it. You provide a containe",
-    "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/",
-    "topic": "aws"
-  },
-  {
-    "title": "AWS reimagines the getting started experience",
-    "desc": "AWS has reimagined the getting started experience with smart and sensible defaults to help developers get started fast so that they can focu",
-    "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
     "topic": "aws"
   }
 ]
