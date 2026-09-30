@@ -1,50 +1,50 @@
 [
   {
-    "title": "Best Task Tracking Software in 2026: 12 Tools Reviewed",
+    "title": "DevOps Outage Scenario: AWS NAT Gateway Cost Spikes: VPC Endpoints & Flow Logs Deep-Dive",
+    "desc": "<p>In technical interviews for <strong>Senior Cloud, DevOps, and SRE roles</strong>, trivial syntax questions are gone. Hiring managers want",
+    "link": "https://dev.to/intervixa_ai/devops-outage-scenario-aws-nat-gateway-cost-spikes-vpc-endpoints-flow-logs-deep-dive-33lo",
+    "topic": "aws"
+  },
+  {
+    "title": "Top AI Guardrails Tools for AI Security in 2026",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/lara_walker_88/best-task-tracking-software-in-2026-12-tools-reviewed-o6h",
+    "link": "https://dev.to/kuldeep_paul/top-ai-guardrails-tools-for-ai-security-in-2026-1d6p",
+    "topic": "secops"
+  },
+  {
+    "title": "The RCA Nobody Reads: How to Write a Root Cause Analysis That Changes Something",
+    "desc": "<p>I have written a great many root cause analyses for enterprise healthcare clients. For the first year, almost none of them changed anythi",
+    "link": "https://dev.to/abby3103/the-rca-nobody-reads-how-to-write-a-root-cause-analysis-that-changes-something-529o",
     "topic": "general"
   },
   {
-    "title": "Which Accredited Blockchain Certification Offers the Best Career Value?",
-    "desc": "<p>Blockchain has evolved from a technology primarily associated with cryptocurrencies into an important part of Web3, digital assets, token",
-    "link": "https://dev.to/georgiaweston/which-accredited-blockchain-certification-offers-the-best-career-value-2b0c",
+    "title": "Cutting Alert Noise in Healthcare Operations: How We Took the Pager From Hundreds a Week to Dozens",
+    "desc": "<p>Every on-call engineer in healthcare IT knows the 3 a.m. page that turns out to be nothing. A disk at 81% on a server that has sat at 81%",
+    "link": "https://dev.to/abby3103/cutting-alert-noise-in-healthcare-operations-how-we-took-the-pager-from-hundreds-a-week-to-dozens-100c",
     "topic": "general"
   },
   {
-    "title": "Renting a GPU Server for AI Video Generation: What We Learned (Costs, Pitfalls, Checklist)",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Need a GPU server for this?</strong> You can rent NVIDIA GPU servers by the hour at <a href=\"https://cloud.vast.ai",
-    "link": "https://dev.to/big_mazzy_06d057cc24398c5/renting-a-gpu-server-for-ai-video-generation-what-we-learned-costs-pitfalls-checklist-hb8",
+    "title": "Top 5 Enterprise LLM Observability Platforms in 2026",
+    "desc": "<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>  LLM observability provides visibility into the performance, quality, cost, and security of AI appl",
+    "link": "https://dev.to/swapnoneel123/top-5-enterprise-llm-observability-platforms-in-2026-3oa5",
     "topic": "general"
   },
   {
-    "title": "WireGuard Split Tunneling on Blocked Networks (udp2raw)",
-    "desc": "<p>Your WireGuard tunnel works fine at home, then dies the moment you join a hotel, campus, cafe or mobile-carrier network. Below I show how",
-    "link": "https://dev.to/selfhostpilot/wireguard-split-tunneling-on-blocked-networks-udp2raw-144p",
+    "title": "Building a Multi-Tenant AI Stack on Supabase + VAPI: How Load Bearing Empire Replaced Twilio and SendGrid with Self-Hosted Infra",
+    "desc": "<p>When you're running six concurrent businesses from a single technical foundation, third-party SaaS costs compound faster than your margin",
+    "link": "https://dev.to/domoniqueluchin/building-a-multi-tenant-ai-stack-on-supabase-vapi-how-load-bearing-empire-replaced-twilio-and-2gno",
     "topic": "general"
   },
   {
-    "title": "Your app broke after git pull? The after-pull checklist every team forgets",
-    "desc": "<p>You pull, start the app, and get <code>Cannot find module 'zod'</code>. You reinstall. Now it is <code>relation \"invoice_lines\" does not ",
-    "link": "https://dev.to/jaytank/your-app-broke-after-git-pull-the-after-pull-checklist-every-team-forgets-394n",
+    "title": "systemd journal shows a watchdog restarting worker and beat",
+    "desc": "<p>On 2026-09-25 the host watchdog on our VPS restarted two services, and the only place the details live is the systemd journal.</p>\n\n<p>Th",
+    "link": "https://dev.to/robswierk/systemd-journal-shows-a-watchdog-restarting-worker-and-beat-2nm3",
     "topic": "general"
   },
   {
-    "title": "Your Jira automation rules break silently. How would you test them?",
-    "desc": "<p>Every Jira admin I've read about has the same story. Someone edits an automation rule, or a field, a permission, or the workflow a rule d",
-    "link": "https://dev.to/skyblueballykid/your-jira-automation-rules-break-silently-how-would-you-test-them-568g",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted WAF with a Low False Positive Rate: Why It Matters",
-    "desc": "<h1>\n  \n  \n  Self-Hosted WAF with a Low False Positive Rate: Why It Matters\n</h1>\n\n<p>When you shop for a WAF, the headline number everyone ",
-    "link": "https://dev.to/lialiago/self-hosted-waf-with-a-low-false-positive-rate-why-it-matters-2ob",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Proxy Health-Check Dashboard for 1000+ Residential IPs",
-    "desc": "<p>A rotating residential pool with 1,000 IPs sounds like abundance until you measure it. On any given hour, 4-7% of the pool is broken: unr",
-    "link": "https://dev.to/yooexo/building-a-proxy-health-check-dashboard-for-1000-residential-ips-3n93",
+    "title": "High\u2011Throughput CIEDE2000 Perceptual Locking via AVX\u2011512 SIMD in Shadow\u2019s MiniMax Direct Synthesis Engine",
+    "desc": "<h1>\n  \n  \n  High\u2011Throughput CIEDE2000 Perceptual Locking via AVX\u2011512 SIMD in Shadow's MiniMax Direct Synthesis Engine\n</h1>\n\n<h2>\n  \n  \n  1",
+    "link": "https://dev.to/biffer_rowley_4cdbf203087/high-throughput-ciede2000-perceptual-locking-via-avx-512-simd-in-shadows-minimax-direct-synthesis-31n6",
     "topic": "general"
   }
 ]
