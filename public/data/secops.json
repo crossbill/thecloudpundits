@@ -1,5 +1,41 @@
 [
   {
+    "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+    "desc": "<p>Google\u2019s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+    "topic": "secops"
+  },
+  {
+    "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
+    "desc": "<p>WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+    "desc": "<p>Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
+    "desc": "<p>Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox.</p>\n<p>The post <a href=\"https://",
+    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
+    "desc": "<p>Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for wha",
+    "link": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+    "topic": "aws"
+  },
+  {
+    "title": "Russian APT Star Blizzard Uses \u2018RedFlick\u2019 Infection Chain in Recent Attacks",
+    "desc": "<p>The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+    "topic": "secops"
+  },
+  {
     "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
     "desc": "<p>In the wake of a suspected leader\u2019s arrest, ShinyHunters says it never intended to publish data stolen from the FBI.</p>\n<p>The post <a h",
     "link": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
@@ -10,41 +46,5 @@
     "desc": "<p>Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries.\u00a0</p>\n<p>The post <a href=\"https://w",
     "link": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
     "topic": "general"
-  },
-  {
-    "title": "Trump Says Top Tech Firms Have Signed Accord to \u2018Self-Police\u2019 AI Development",
-    "desc": "<p>The accord opened the door to future regulation but focused on four voluntary steps for the companies to take.</p>\n<p>The post <a href=\"h",
-    "link": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
-    "topic": "general"
-  },
-  {
-    "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
-    "desc": "<p>Altman made a slew of product announcements and updates, including the company\u2019s new agents, called Dots.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
-    "topic": "openai"
-  },
-  {
-    "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
-    "desc": "<p>The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also h",
-    "link": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
-    "topic": "general"
-  },
-  {
-    "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
-    "desc": "<p>Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system",
-    "link": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
-    "topic": "general"
-  },
-  {
-    "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
-    "desc": "<p>The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
-    "topic": "general"
-  },
-  {
-    "title": "Reco Raises $55 Million for Agentic Security",
-    "desc": "<p>The company will use the funds to expand its sales, partnerships, channels, and customer support teams.</p>\n<p>The post <a href=\"https://",
-    "link": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
-    "topic": "secops"
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
-    "title": "DevOps Outage Scenario: AWS NAT Gateway Cost Spikes: VPC Endpoints & Flow Logs Deep-Dive",
-    "desc": "<p>In technical interviews for <strong>Senior Cloud, DevOps, and SRE roles</strong>, trivial syntax questions are gone. Hiring managers want",
-    "link": "https://dev.to/intervixa_ai/devops-outage-scenario-aws-nat-gateway-cost-spikes-vpc-endpoints-flow-logs-deep-dive-33lo",
-    "topic": "aws"
+    "title": "What was actually broken the last time you saw \u201cconnection refused\u201d?",
+    "desc": "<p>Every connection-refused hunt I've been part of \u2014 mine, and the ones documented in public issues \u2014 ended in one of two embarrassments. Ei",
+    "link": "https://dev.to/mrsaynothing/what-was-actually-broken-the-last-time-you-saw-connection-refused-209f",
+    "topic": "general"
   },
   {
-    "title": "Top AI Guardrails Tools for AI Security in 2026",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/top-ai-guardrails-tools-for-ai-security-in-2026-1d6p",
+    "title": "Ollama Connection Refused? The 60-Second Triage",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://mrsaynothing.dev/en/blog/2026-09-30/ollama-connection-refused?utm_source=devto&utm_",
+    "link": "https://dev.to/mrsaynothing/ollama-connection-refused-the-60-second-triage-21jp",
+    "topic": "general"
+  },
+  {
+    "title": "How one user's StatefulSet edit could land a pod in someone else's namespace",
+    "desc": "<h1>\n  \n  \n  How one user's StatefulSet edit could land a pod in someone else's namespace\n</h1>\n\n<p>On September 23, Kubernetes shipped fixe",
+    "link": "https://dev.to/kashif_manzer/how-one-users-statefulset-edit-could-land-a-pod-in-someone-elses-namespace-4n6a",
+    "topic": "general"
+  },
+  {
+    "title": "The AI Infrastructure Wall: Why Prompt Engineering Won't Scale Your Workflows",
+    "desc": "<p>We are watching the same wave play out in AI that played out in Cloud Computing fifteen years ago.</p>\n\n<p><a class=\"article-body-image-w",
+    "link": "https://dev.to/rcortez056/the-ai-infrastructure-wall-why-prompt-engineering-wont-scale-your-workflows-13nf",
+    "topic": "general"
+  },
+  {
+    "title": "Creating incident response playbooks and runbooks",
+    "desc": "<p><em>Originally published on the ClearPath Security site: <a href=\"https://clearpathsecurity.co.uk/creating-incident-response-playbooks-an",
+    "link": "https://dev.to/clearpathsecurity/creating-incident-response-playbooks-and-runbooks-1n4p",
     "topic": "secops"
   },
   {
-    "title": "The RCA Nobody Reads: How to Write a Root Cause Analysis That Changes Something",
-    "desc": "<p>I have written a great many root cause analyses for enterprise healthcare clients. For the first year, almost none of them changed anythi",
-    "link": "https://dev.to/abby3103/the-rca-nobody-reads-how-to-write-a-root-cause-analysis-that-changes-something-529o",
+    "title": "Preventing secret leakage in CI/CD environments",
+    "desc": "<p><em>Originally published on the ClearPath Security site: <a href=\"https://clearpathsecurity.co.uk/preventing-secret-leakage-in-ci-cd-envi",
+    "link": "https://dev.to/clearpathsecurity/preventing-secret-leakage-in-cicd-environments-3de2",
     "topic": "general"
   },
   {
-    "title": "Cutting Alert Noise in Healthcare Operations: How We Took the Pager From Hundreds a Week to Dozens",
-    "desc": "<p>Every on-call engineer in healthcare IT knows the 3 a.m. page that turns out to be nothing. A disk at 81% on a server that has sat at 81%",
-    "link": "https://dev.to/abby3103/cutting-alert-noise-in-healthcare-operations-how-we-took-the-pager-from-hundreds-a-week-to-dozens-100c",
+    "title": "Your Growth Stack Is Blind After the Close",
+    "desc": "<p>Most growth tooling I have evaluated in the last few years sells the same story: more leads, smarter sequences, cleaner scoring, a pretti",
+    "link": "https://dev.to/justinpennington/your-growth-stack-is-blind-after-the-close-29f2",
     "topic": "general"
   },
   {
-    "title": "Top 5 Enterprise LLM Observability Platforms in 2026",
-    "desc": "<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>  LLM observability provides visibility into the performance, quality, cost, and security of AI appl",
-    "link": "https://dev.to/swapnoneel123/top-5-enterprise-llm-observability-platforms-in-2026-3oa5",
-    "topic": "general"
-  },
-  {
-    "title": "Building a Multi-Tenant AI Stack on Supabase + VAPI: How Load Bearing Empire Replaced Twilio and SendGrid with Self-Hosted Infra",
-    "desc": "<p>When you're running six concurrent businesses from a single technical foundation, third-party SaaS costs compound faster than your margin",
-    "link": "https://dev.to/domoniqueluchin/building-a-multi-tenant-ai-stack-on-supabase-vapi-how-load-bearing-empire-replaced-twilio-and-2gno",
-    "topic": "general"
-  },
-  {
-    "title": "systemd journal shows a watchdog restarting worker and beat",
-    "desc": "<p>On 2026-09-25 the host watchdog on our VPS restarted two services, and the only place the details live is the systemd journal.</p>\n\n<p>Th",
-    "link": "https://dev.to/robswierk/systemd-journal-shows-a-watchdog-restarting-worker-and-beat-2nm3",
-    "topic": "general"
-  },
-  {
-    "title": "High\u2011Throughput CIEDE2000 Perceptual Locking via AVX\u2011512 SIMD in Shadow\u2019s MiniMax Direct Synthesis Engine",
-    "desc": "<h1>\n  \n  \n  High\u2011Throughput CIEDE2000 Perceptual Locking via AVX\u2011512 SIMD in Shadow's MiniMax Direct Synthesis Engine\n</h1>\n\n<h2>\n  \n  \n  1",
-    "link": "https://dev.to/biffer_rowley_4cdbf203087/high-throughput-ciede2000-perceptual-locking-via-avx-512-simd-in-shadows-minimax-direct-synthesis-31n6",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-18cn",
     "topic": "general"
   }
 ]
