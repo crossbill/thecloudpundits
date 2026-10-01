@@ -1,5 +1,11 @@
 [
   {
+    "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+    "desc": "Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, ",
+    "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+    "topic": "aws"
+  },
+  {
     "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
     "desc": "Amazon S3 Tables now support all data types in the Apache Iceberg V3 spec, along with column default values, deletion vectors, and row linea",
     "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
@@ -39,12 +45,6 @@
     "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
     "desc": "Amazon CloudWatch Omni is the next evolution of CloudWatch \u2014 unified observability that brings your applications and AI agents into one reim",
     "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
-    "topic": "general"
-  },
-  {
-    "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
-    "desc": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, a",
-    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
     "topic": "general"
   }
 ]

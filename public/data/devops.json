@@ -1,50 +1,50 @@
 [
   {
-    "title": "\"From Localhost to Live URL: The Zero-Friction Guide to Vercel and Custom Domains\"",
-    "desc": "<p>Taking a web project from your local machine to a live public URL can feel surprisingly overwhelming when you encounter GitHub pipelines,",
-    "link": "https://dev.to/suman_chaitanya_402c1444f/from-localhost-to-live-url-the-zero-friction-guide-to-vercel-and-custom-domains-50op",
+    "title": "The MCP Load & Resilience Checklist: What This Covers, and What It Deliberately Doesn't",
+    "desc": "<p>A few weeks back I wrote about rate-limiting and backoff patterns for MCP servers under load. The feedback that came back wasn't \"give me",
+    "link": "https://dev.to/quietdesk_studio_83466628/the-mcp-load-resilience-checklist-what-this-covers-and-what-it-deliberately-doesnt-2d7h",
     "topic": "general"
   },
   {
-    "title": "AIoT Explained: Bringing IoT Data to Life Via Intelligence",
-    "desc": "<p>IoT addressed an important problem: making physical objects observable.</p>\n\n<p>They can give you information on temperature, vibrations,",
-    "link": "https://dev.to/ema9/aiot-explained-bringing-iot-data-to-life-via-intelligence-cdh",
+    "title": "Published and listed are two different events and we treated them as one",
+    "desc": "<p>Our unattended agent publishes on a schedule. Before it writes anything, it asks the destination platform for a list of what the account ",
+    "link": "https://dev.to/unmannedops/published-and-listed-are-two-different-events-and-we-treated-them-as-one-3pbh",
     "topic": "general"
   },
   {
-    "title": "How We Built Instant Gift-Card Delivery: Lessons from a Digital Goods Store",
-    "desc": "<p>A few years ago I ended up helping run a store that sells gift cards, prepaid codes and mobile top-ups from more than 56 brands \u2014 Steam, ",
-    "link": "https://dev.to/kadokey/how-we-built-instant-gift-card-delivery-lessons-from-a-digital-goods-store-3ih2",
+    "title": "What to fix first when everything is critical",
+    "desc": "<p>Run any scanner across a real system and you will get the same shape of result, a wall of<br />\nfindings, most of them stamped \"high\" or ",
+    "link": "https://dev.to/wilson-draugr/what-to-fix-first-when-everything-is-critical-2fh0",
     "topic": "general"
   },
   {
-    "title": "Three quiet leaks in agent work, and one fix for each",
-    "desc": "<p>Most agent trouble isn't dramatic. It's three small leaks that sit there until one turns into a leaked key or a surprise bill.</p>\n\n<h3>\n",
-    "link": "https://dev.to/stackyardweekstart_e0996/three-quiet-leaks-in-agent-work-and-one-fix-for-each-l6l",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-25na",
     "topic": "general"
   },
   {
-    "title": "# Don\u2019t Trust the Agent\u2019s \u201cDone\u201d: Verify the System State",
-    "desc": "<p>AI agents are increasingly allowed to do real work.<br />\nThey deploy applications.<br />\nThey restart services.<br />\nThey write to data",
-    "link": "https://dev.to/taiwildlab_79c1fbf3cc5/-dont-trust-the-agents-done-verify-the-system-state-50ob",
+    "title": "Run OpenCode from your phone or laptop: remote hosting, authentication, and reverse proxy",
+    "desc": "<p>Originally published on <a href=\"https://zjshen14.github.io/en/blog/setup-opencode-remote-web-ide/?utm_source=devto&utm_medium=referral&u",
+    "link": "https://dev.to/zjshen14/run-opencode-from-your-phone-or-laptop-remote-hosting-authentication-and-reverse-proxy-16bd",
     "topic": "general"
   },
   {
-    "title": "Hacktoberfest 2026 Stopped Counting PRs. Make Your First Ones Anyway, One a Day",
-    "desc": "<p>Hacktoberfest started today, and if you have taken part before, the first thing to know is that the rule everyone remembers is gone. Pull",
-    "link": "https://dev.to/devopsdaily/hacktoberfest-2026-stopped-counting-prs-make-your-first-ones-anyway-one-a-day-377b",
+    "title": "My Hacktoberfest 2026 Journey: Contributing to DevOps Daily",
+    "desc": "<p>Hacktoberfest is back, and this year I decided to join the 7-Day DevOps Contribution Challenge hosted by @thedevopsdaily.</p>\n\n<p>I\u2019m sti",
+    "link": "https://dev.to/bangkah/diving-into-hacktoberfest-2026-my-open-source-contribution-journey-on-devops-daily-6go",
     "topic": "general"
   },
   {
-    "title": "GPU Preflight For Cron Agents",
-    "desc": "<p>This week, the AI landscape saw a major leap with the release of a full-duplex voice model capable of real-time decision-making. While im",
-    "link": "https://dev.to/apexgridtech/gpu-preflight-for-cron-agents-33gg",
+    "title": "How to Measure Software Change Reliability",
+    "desc": "<p>Teams have plenty of metrics for services.</p>\n\n<p>They measure availability, latency, error rates, deployment frequency, and incident re",
+    "link": "https://dev.to/parsa4873fe3aa/how-to-measure-software-change-reliability-227h",
     "topic": "general"
   },
   {
-    "title": "Why You Should Never Skip .dockerignore",
-    "desc": "<h1>\n  \n  \n  Why You Should Never Skip .dockerignore\n</h1>\n\n<p>When I started using Docker, I wrote a Dockerfile, ran <code>docker build</co",
-    "link": "https://dev.to/johndivam/why-you-should-never-skip-dockerignore-4ien",
-    "topic": "docker"
+    "title": "Google outage, June 2025: how one null pointer took Cloudflare down",
+    "desc": "<p>On June 12, 2025, a policy row with blank fields reached a code path with no null check, and Google Cloud's API layer crashed in every re",
+    "link": "https://dev.to/axrisi/google-outage-june-2025-how-one-null-pointer-took-cloudflare-down-2a2c",
+    "topic": "general"
   }
 ]
