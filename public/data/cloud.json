@@ -1,5 +1,11 @@
 [
   {
+    "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+    "desc": "Amazon S3 Tables now offer complete support for the Apache Iceberg V3 spec. Upgrade existing V2 tables or create new V3 tables with built-in",
+    "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
+    "topic": "general"
+  },
+  {
     "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
     "desc": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before simil",
     "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
@@ -40,11 +46,5 @@
     "desc": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, a",
     "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
     "topic": "general"
-  },
-  {
-    "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
-    "desc": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is wr",
-    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
-    "topic": "aws"
   }
 ]

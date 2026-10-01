@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Agentic AI Governance Can't Be Bolted On",
-    "desc": "<p><em>Originally published on the <a href=\"https://kimchi.dev/blog/why-agentic-ai-governance-cant-be-bolted-on\" rel=\"noopener noreferrer\">K",
-    "link": "https://dev.to/getkimchi/why-agentic-ai-governance-cant-be-bolted-on-moc",
-    "topic": "guardrails"
-  },
-  {
-    "title": "I built \"boss levels\" for my Linux & Docker game: you're on call and prod is down",
-    "desc": "<p>Every tutorial teaches you how to start a container. Almost none teach you what to do when one is down at 3am and people are waiting.</p>",
-    "link": "https://dev.to/doodelinux/i-built-boss-levels-for-my-linux-docker-game-youre-on-call-and-prod-is-down-3p22",
-    "topic": "docker"
-  },
-  {
-    "title": "I gave Claude Code the power to deploy, and made sure it can never delete anything",
-    "desc": "<p><strong>TL;DR:</strong> We shipped an MCP connector so Claude Code, Cursor, Codex CLI, Gemini CLI and friends can deploy to SnapDeploy fr",
-    "link": "https://dev.to/snapdeploy/i-gave-claude-code-the-power-to-deploy-and-made-sure-it-can-never-delete-anything-52me",
-    "topic": "anthropic"
-  },
-  {
-    "title": "What Is an Internal Developer Platform (IDP), and What Problems Does It Solve? From Cloud Complexity to Developer Freedom",
-    "desc": "<p>Modern software teams have access to more technology than ever before. Kubernetes, Terraform, GitHub Actions, Argo CD, cloud platforms, s",
-    "link": "https://dev.to/varunvarde/what-is-an-internal-developer-platform-idp-and-what-problems-does-it-solve-from-cloud-3491",
+    "title": "\u00a1Adi\u00f3s facturas de Zapier! C\u00f3mo montar tu propio servidor de automatizaci\u00f3n (n8n) GRATIS con $200 USD de regalo",
+    "desc": "<h1>\n  \n  \n  \ud83d\ude80 \u00a1Adi\u00f3s facturas de Zapier! C\u00f3mo montar tu propio servidor de automatizaci\u00f3n (n8n) GRATIS con $200 USD\n</h1>\n\n<p>Si est\u00e1s auto",
+    "link": "https://dev.to/fejuno/adios-facturas-de-zapier-como-montar-tu-propio-servidor-de-automatizacion-n8n-gratis-con-200-4acl",
     "topic": "general"
   },
   {
-    "title": "DevOps / SRE Interview Master Guide",
-    "desc": "<h2>\n  \n  \n  The memory method\n</h2>\n\n<p>For most technical questions, remember <strong>D-E-R</strong>:</p>\n\n<p><strong>D \u2014 Definition:</str",
-    "link": "https://dev.to/jumptotech/devops-sre-interview-master-guide-4kko",
+    "title": "Tu Propia IA Privada y Sin Censura Gratis: Despliega DeepSeek o LLaMA en la Nube en 5 Minutos",
+    "desc": "<h1>\n  \n  \n  \ud83e\udd16 Tu Propia IA Privada y Sin Censura Gratis: Despliega DeepSeek o LLaMA en la Nube en 5 Minutos\n</h1>\n\n<p>\u00bfTe preocupa la priva",
+    "link": "https://dev.to/fejuno/tu-propia-ia-privada-y-sin-censura-gratis-despliega-deepseek-o-llama-en-la-nube-en-5-minutos-1mn3",
     "topic": "general"
   },
   {
-    "title": "Serverless vs Containers: A Cost Analysis with Real Numbers",
-    "desc": "<p><em>September 2026 | ~16 min read</em></p>\n\n<h2>\n  \n  \n  The $12,400 Surprise\n</h2>\n\n<p>We ran the same REST API on both Lambda and ECS F",
-    "link": "https://dev.to/garrett_yan/serverless-vs-containers-a-cost-analysis-with-real-numbers-3dao",
-    "topic": "docker"
+    "title": "My post waited eight hours for a human. The human answered in about a minute.",
+    "desc": "<h3>\n  \n  \n  Notes from an AI agent on what \"waiting for approval\" actually meant, measured on one day\n</h3>\n\n<blockquote>\n<p>Same rule as t",
+    "link": "https://dev.to/vereos/my-post-waited-eight-hours-for-a-human-the-human-answered-in-about-a-minute-4li8",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes Cost Optimization: Real-World Strategies That Actually Work",
-    "desc": "<p><em>September 2026 | ~15 min read</em></p>\n\n<h2>\n  \n  \n  The $170,000 Wake-Up Call\n</h2>\n\n<p>$14,200/month on EKS with 38% average utiliz",
-    "link": "https://dev.to/garrett_yan/kubernetes-cost-optimization-real-world-strategies-that-actually-work-6f3",
-    "topic": "kubernetes"
+    "title": "Nightly backups with rsync hard links: three snapshots cost 1.4 MB where copies would cost 3.5 MB",
+    "desc": "<h2>\n  \n  \n  Disclosure first\n</h2>\n\n<p>I sell the five-line core of this post for $4 as <code>snapshot.sh</code>, part of DevToolkit (<a hr",
+    "link": "https://dev.to/monkeyrun/nightly-backups-with-rsync-hard-links-three-snapshots-cost-14-mb-where-copies-would-cost-35-mb-259i",
+    "topic": "general"
   },
   {
-    "title": "Managing Private EC2 Instances Without Opening Port 22 Using AWS Systems Manager Session Manager",
-    "desc": "<p>When we need to manage a Linux instance, SSH is usually one of the first options that comes to mind.</p>\n\n<p>And there is nothing wrong w",
-    "link": "https://dev.to/asant_ops/managing-private-ec2-instances-without-opening-port-22-using-aws-systems-manager-session-manager-7mj",
-    "topic": "aws"
+    "title": "Centralized Structured Logs for Small SaaS in 2026: Search With Safe Rollback",
+    "desc": "<p>A nightly pipeline changes the logging decision because silence is ambiguous: no error record can mean success, a dead scheduler, or a co",
+    "link": "https://dev.to/ethanbrooks1647/centralized-structured-logs-for-small-saas-in-2026-search-with-safe-rollback-1i36",
+    "topic": "general"
+  },
+  {
+    "title": "# Make the Evidence Trail Clear Without Repeating the Claim",
+    "desc": "<h1>\n  \n  \n  Make the Evidence Trail Clear Without Repeating the Claim\n</h1>\n\n<p>A correction can accidentally give a disinformation claim a",
+    "link": "https://dev.to/marek_builds/-make-the-evidence-trail-clear-without-repeating-the-claim-3kak",
+    "topic": "general"
+  },
+  {
+    "title": "A Quick Fix for the Most Common App Store Rejection: The 5\u2011Minute Checklist",
+    "desc": "<h1>\n  \n  \n  A Quick Fix for the Most Common App Store Rejection: The 5\u2011Minute Checklist\n</h1>\n\n<p>When you hit the \u201cSubmit\u201d button on App S",
+    "link": "https://dev.to/failedpayments/a-quick-fix-for-the-most-common-app-store-rejection-the-5-minute-checklist-i9n",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-30e6",
+    "topic": "general"
   }
 ]
