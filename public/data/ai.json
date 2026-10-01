@@ -1,5 +1,11 @@
 [
   {
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "topic": "general"
+  },
+  {
     "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
     "desc": "",
     "link": "https://huggingface.co/blog/open-tts-leaderboard",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "topic": "general"
-  },
-  {
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "desc": "",
-    "link": "https://huggingface.co/blog/omlx",
-    "topic": "huggingface"
   }
 ]

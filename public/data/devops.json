@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1371",
+    "title": "\"From Localhost to Live URL: The Zero-Friction Guide to Vercel and Custom Domains\"",
+    "desc": "<p>Taking a web project from your local machine to a live public URL can feel surprisingly overwhelming when you encounter GitHub pipelines,",
+    "link": "https://dev.to/suman_chaitanya_402c1444f/from-localhost-to-live-url-the-zero-friction-guide-to-vercel-and-custom-domains-50op",
     "topic": "general"
   },
   {
-    "title": "MLOps Best Practices 2026",
-    "desc": "<h1>\n  \n  \n  MLOps Best Practices 2026\n</h1>\n\n<p>This article explores key concepts and practical implementations.</p>\n\n<h2>\n  \n  \n  Overvie",
-    "link": "https://dev.to/hamza_dev_talks/mlops-best-practices-2026-5fgn",
+    "title": "AIoT Explained: Bringing IoT Data to Life Via Intelligence",
+    "desc": "<p>IoT addressed an important problem: making physical objects observable.</p>\n\n<p>They can give you information on temperature, vibrations,",
+    "link": "https://dev.to/ema9/aiot-explained-bringing-iot-data-to-life-via-intelligence-cdh",
     "topic": "general"
   },
   {
-    "title": "How to Check That Your OTP SMS and Emails Actually Arrive (Synthetic Monitoring in CI)",
-    "desc": "<p>Your uptime monitor says the login API returned 200. Your SMS provider's dashboard says \"sent\". And yet users can't log in, because the v",
-    "link": "https://dev.to/flovoice53tech/how-to-check-that-your-otp-sms-and-emails-actually-arrive-synthetic-monitoring-in-ci-3npa",
+    "title": "How We Built Instant Gift-Card Delivery: Lessons from a Digital Goods Store",
+    "desc": "<p>A few years ago I ended up helping run a store that sells gift cards, prepaid codes and mobile top-ups from more than 56 brands \u2014 Steam, ",
+    "link": "https://dev.to/kadokey/how-we-built-instant-gift-card-delivery-lessons-from-a-digital-goods-store-3ih2",
     "topic": "general"
   },
   {
-    "title": "\"Push, PR, merge.\" Two minutes later: \"Stop. I'm not opening a PR to myself.\"",
-    "desc": "<p>On September 9 at 07:21 I typed four words to an agent: push, PR, merge. At 07:23 I interrupted it: stop, just push to master, I'm not go",
-    "link": "https://dev.to/dsiacci/push-pr-merge-two-minutes-later-stop-im-not-opening-a-pr-to-myself-33ld",
+    "title": "Three quiet leaks in agent work, and one fix for each",
+    "desc": "<p>Most agent trouble isn't dramatic. It's three small leaks that sit there until one turns into a leaked key or a surprise bill.</p>\n\n<h3>\n",
+    "link": "https://dev.to/stackyardweekstart_e0996/three-quiet-leaks-in-agent-work-and-one-fix-for-each-l6l",
     "topic": "general"
   },
   {
-    "title": "How Do I Version and Roll Back an AI Pipeline in Production?",
-    "desc": "<p>By Mithilesh Gaurihar. Last verified: September 2026.</p>\n\n<h2>\n  \n  \n  Quick Answer\n</h2>\n\n<p>Versioning an AI pipeline in production me",
-    "link": "https://dev.to/mithilesh_gaurihar/how-do-i-version-and-roll-back-an-ai-pipeline-in-production-59gi",
+    "title": "# Don\u2019t Trust the Agent\u2019s \u201cDone\u201d: Verify the System State",
+    "desc": "<p>AI agents are increasingly allowed to do real work.<br />\nThey deploy applications.<br />\nThey restart services.<br />\nThey write to data",
+    "link": "https://dev.to/taiwildlab_79c1fbf3cc5/-dont-trust-the-agents-done-verify-the-system-state-50ob",
     "topic": "general"
   },
   {
-    "title": "GitOps with Gitpod vs Local Dev Containers: Which to Pick",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/10/01/gitops-with-gitpod-vs-local-dev-containers-which-to-pick\" rel=\"noo",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/gitops-with-gitpod-vs-local-dev-containers-which-to-pick-olh",
+    "title": "Hacktoberfest 2026 Stopped Counting PRs. Make Your First Ones Anyway, One a Day",
+    "desc": "<p>Hacktoberfest started today, and if you have taken part before, the first thing to know is that the rule everyone remembers is gone. Pull",
+    "link": "https://dev.to/devopsdaily/hacktoberfest-2026-stopped-counting-prs-make-your-first-ones-anyway-one-a-day-377b",
+    "topic": "general"
+  },
+  {
+    "title": "GPU Preflight For Cron Agents",
+    "desc": "<p>This week, the AI landscape saw a major leap with the release of a full-duplex voice model capable of real-time decision-making. While im",
+    "link": "https://dev.to/apexgridtech/gpu-preflight-for-cron-agents-33gg",
+    "topic": "general"
+  },
+  {
+    "title": "Why You Should Never Skip .dockerignore",
+    "desc": "<h1>\n  \n  \n  Why You Should Never Skip .dockerignore\n</h1>\n\n<p>When I started using Docker, I wrote a Dockerfile, ran <code>docker build</co",
+    "link": "https://dev.to/johndivam/why-you-should-never-skip-dockerignore-4ien",
     "topic": "docker"
-  },
-  {
-    "title": "Scaling From 100 to 100,000 Customers: What Breaks and Five Engineering Companies to Evaluate",
-    "desc": "<p>An application can look healthy while its customer base grows, then struggle when checkout, reporting and search workloads run simultaneo",
-    "link": "https://dev.to/claire_p/scaling-from-100-to-100000-customers-what-breaks-and-five-engineering-companies-to-evaluate-28i9",
-    "topic": "general"
-  },
-  {
-    "title": "What Is an AI-Native SDLC? How Software Engineering Is Changing",
-    "desc": "<p>For decades, software development followed a relatively predictable pattern. Product teams defined requirements, architects designed syst",
-    "link": "https://dev.to/ezinsightsai/what-is-an-ai-native-sdlc-how-software-engineering-is-changing-13od",
-    "topic": "general"
   }
 ]
