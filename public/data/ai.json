@@ -1,5 +1,11 @@
 [
   {
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "topic": "general"
+  },
+  {
     "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/olmocore3",
@@ -39,12 +45,6 @@
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
     "desc": "",
     "link": "https://huggingface.co/blog/evaleval-aisi",
-    "topic": "general"
-  },
-  {
-    "title": "Transformers now runs llama.cpp quants",
-    "desc": "",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "topic": "general"
   }
 ]

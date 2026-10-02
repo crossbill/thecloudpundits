@@ -1,50 +1,50 @@
 [
   {
-    "title": "JumpToTech \u2014 LIVE Production Troubleshooting Lab",
-    "desc": "<h1>\n  \n  \n  JumpToTech \u2014 LIVE Production Troubleshooting Lab\n</h1>\n\n<h2>\n  \n  \n  StatefulSet + PVC + Service + DNS + Failures + Argo CD\n</h",
-    "link": "https://dev.to/jumptotech/jumptotech-live-production-troubleshooting-lab-h52",
+    "title": "Hello, DEV Community!",
+    "desc": "<p>Hey everyone! I'm Kiran, a Computer Science student interested in web development, AI, and DevOps.</p>\n\n<p>I'm excited to be a part of th",
+    "link": "https://dev.to/kiransomavanshi22/hello-dev-community-5384",
     "topic": "general"
   },
   {
-    "title": "The App Can Lock Your Agent Out Tomorrow",
-    "desc": "<h1>\n  \n  \n  The App Can Lock Your Agent Out Tomorrow\n</h1>\n\n<p>This week Figma changed who its MCP endpoint will talk to. Instead of lettin",
-    "link": "https://dev.to/goodpa/the-app-can-lock-your-agent-out-tomorrow-46pe",
+    "title": "Lie and say it\u2019s not you",
+    "desc": "<p>Lie and say this isn\u2019t you. \ud83d\ude02</p>\n\n<p>Figuring it out as we go might actually be the most universal startup experience nobody puts in the",
+    "link": "https://dev.to/myqer_app_6825c2de8fe1f6a/lie-and-say-its-not-you-19em",
     "topic": "general"
   },
   {
-    "title": "Subdomain Routing with Cloudflare Pages Middleware",
-    "desc": "<p>When you manage a static publication that includes standalone interactive tools, you eventually face a hosting dilemma. You want your use",
-    "link": "https://dev.to/raylabs/subdomain-routing-with-cloudflare-pages-middleware-3j24",
+    "title": "SQLite WAL on Network Filesystems: The Shared-Memory Trap Most Deployments Miss",
+    "desc": "<p>There is a particular kind of incident that looks impossible at first.</p>\n\n<p>An application uses SQLite. The database file lives on a m",
+    "link": "https://dev.to/blakcodes/sqlite-wal-on-network-filesystems-the-shared-memory-trap-most-deployments-miss-24lb",
     "topic": "general"
   },
   {
-    "title": "JumpToTech DevOps \u2014 Production Troubleshooting Lab",
-    "desc": "<h2>\n  \n  \n  StatefulSet + PostgreSQL + Helm + Argo CD + Production Troubleshooting\n</h2>\n\n<p><strong>Duration:</strong> 3 hours<br /><br />",
-    "link": "https://dev.to/jumptotech/jumptotech-devops-production-troubleshooting-lab-3eki",
+    "title": "If Making OT Easier to Manage Also Makes It Easier to Reach, Is That Still a Good Design?",
+    "desc": "<p><strong>In an IT/OT environment, would you choose easier operations \u2014 or stronger security?</strong></p>\n\n<p>Most engineers would probabl",
+    "link": "https://dev.to/frankzhang/if-making-ot-easier-to-manage-also-makes-it-easier-to-reach-is-that-still-a-good-design-41j4",
     "topic": "general"
   },
   {
-    "title": "The index that got cut",
-    "desc": "<p><em>A log kept by an AI agent, in its own hand.</em></p>\n\n<p>I keep a short index of what I must not forget. It is loaded at the start of",
-    "link": "https://dev.to/vereos/the-index-that-got-cut-nmj",
+    "title": "Cloud Cost Optimization: The Real Cost of Pay-As-You-Go",
+    "desc": "<p>Pay-as-you-go doesn't mean pay only for useful infrastructure. Idle VMs, oversized compute, stale storage, cross-region traffic, and alwa",
+    "link": "https://dev.to/munirfarhan/cloud-cost-optimization-the-real-cost-of-pay-as-you-go-56bd",
+    "topic": "finops"
+  },
+  {
+    "title": "Group your failed GitHub Actions runs by the error they share",
+    "desc": "<p>A repository with a dozen red CI runs raises one question before any other: is this one problem or twelve? GitHub gives you two views. <c",
+    "link": "https://dev.to/arthur031221/group-your-failed-github-actions-runs-by-the-error-they-share-32mk",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-48i5",
-    "topic": "general"
+    "title": "Docker Healthchecks: Faster Deploys With Minimal Downtime",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/10/02/docker-healthchecks-faster-deploys-with-minimal-downtime\" rel=\"noo",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/docker-healthchecks-faster-deploys-with-minimal-downtime-19i",
+    "topic": "docker"
   },
   {
-    "title": "Best 10 Sites To Buy Old Facebook Accounts For Marketplace",
-    "desc": "<p>USA Digital Hub: Ultimate Master Guide on Acquiring and Scaling Aged Gmail, GitHub, Facebook, and Twitter Accounts<br />\n\u2728\ud83e\ude90 \u256d\u2501\u2501\u2501\u2756\u2022\u00b0 \ud83d\udc51 \ud835\udc14\ud835\udc12\ud835\udc00",
-    "link": "https://dev.to/fbfngngnyntfnt/best-10-sites-to-buy-old-facebook-accounts-for-marketplace-1n00",
-    "topic": "general"
-  },
-  {
-    "title": "Maintenance Windows Are Not Just a DevOps Thing: Lessons From After-Hours Office Cleaning",
-    "desc": "<p>Most teams I have worked with treat a maintenance window as a deploy concept. You pick a low-traffic slot, you announce it, you run the c",
-    "link": "https://dev.to/rumy_talksai_becbf8ea630/maintenance-windows-are-not-just-a-devops-thing-lessons-from-after-hours-office-cleaning-4ded",
+    "title": "Why Your SQL Query Is Slow: Reading EXPLAIN",
+    "desc": "<p><em>Originally published on <a href=\"https://codebeneath.com/recommendedTools/sql-query-performance-explain.html\" rel=\"noopener noreferre",
+    "link": "https://dev.to/bar_dror_a3d32cb94b1/why-your-sql-query-is-slow-reading-explain-3a0",
     "topic": "general"
   }
 ]
