@@ -1,50 +1,50 @@
 [
   {
-    "title": "Redis says the key is gone. The memory comes back 22 seconds later.",
-    "desc": "<p>A key with a TTL stops existing the moment that TTL passes. <code>GET</code> returns nil, <code>EXISTS</code> returns 0, and as far as an",
-    "link": "https://dev.to/remdore/redis-says-the-key-is-gone-the-memory-comes-back-22-seconds-later-5ap5",
+    "title": "Eight Layers Between an Attacker and Your Data. You've Only Configured One.",
+    "desc": "<p>When you think about network security, you probably picture one thing. A firewall. Something blocking hackers on the other side of a wall",
+    "link": "https://dev.to/chizee/eight-layers-between-an-attacker-and-your-data-youve-only-configured-one-2n51",
+    "topic": "secops"
+  },
+  {
+    "title": "Scaling Your App: Horizontal vs Vertical \u2014 A Lord of the Rings Quest",
+    "desc": "<h2>\n  \n  \n  The Quest Begins (The \u201cWhy\u201d)\n</h2>\n\n<p>Honestly, I remember the day our little side\u2011project started to feel like a dragon hoard",
+    "link": "https://dev.to/timevolt/scaling-your-app-horizontal-vs-vertical-a-lord-of-the-rings-quest-h24",
     "topic": "general"
   },
   {
-    "title": "Why our CI/CD is never allowed to deploy to production",
-    "desc": "<p>A deployment model where every push gets its own isolated slot on Kubernetes, the main deployment is only changed on purpose, and promoti",
-    "link": "https://dev.to/msoliman/why-our-cicd-is-never-allowed-to-deploy-to-production-j02",
+    "title": "PHP FULL IMAGE NEWS",
+    "desc": "<h1>\n  \n  \n  Imagem PHP Full da Convenia agora roda em ARM e ganhou uma vers\u00e3o de desenvolvimento\n</h1>\n\n<p>No <a href=\"https://dev.to/conve",
+    "link": "https://dev.to/convenia/php-full-image-news-2h9c",
     "topic": "general"
   },
   {
-    "title": "LLM Inference Engineering: Overcoming the KV-Cache Bottleneck and Maximizing Production Throughput",
-    "desc": "<p>, you immediately hit the hard wall of AI systems engineering: memory management and GPU VRAM bandwidth.<br />\nThe bottleneck is no longe",
-    "link": "https://dev.to/ahmedadawy625/llm-inference-engineering-overcoming-the-kv-cache-bottleneck-and-maximizing-production-throughput-3l9g",
+    "title": "How to Log an AI Agent So You Can Actually Debug It",
+    "desc": "<p>If you have shipped an agent and then tried to explain why it failed on one specific run, this one is for you. It is a practical logging ",
+    "link": "https://dev.to/paulcrinigan/how-to-log-an-ai-agent-so-you-can-actually-debug-it-3gni",
     "topic": "general"
   },
   {
-    "title": "Enrich Nginx Access Logs With Geo and ASN at Write Time",
-    "desc": "<p>Your nginx access log format can carry the client's country, city, and ASN. The lookup happens at write time, against a local database fi",
-    "link": "https://dev.to/abdullah_afzal/enrich-nginx-access-logs-with-geo-and-asn-at-write-time-3k21",
+    "title": "[Boost]",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/be",
+    "link": "https://dev.to/bencoy09/-31ao",
     "topic": "general"
   },
   {
-    "title": "Avoid Manual Job Tracking on Reddit with Python Automation",
-    "desc": "<p>You're probably reading this because you've spent hours manually tracking DevOps jobs on Reddit, only to risk errors or miss out on oppor",
-    "link": "https://dev.to/intellitools/avoid-manual-job-tracking-on-reddit-with-python-automation-4dke",
+    "title": "Your security gate always passes. Can it actually block a release?",
+    "desc": "<p>Agent developers have started publishing oversight numbers.</p>\n\n<p>For example, Anthropic reports that of more than a billion decisions ",
+    "link": "https://dev.to/mspro3210/your-security-gate-always-passes-can-it-actually-block-a-release-522n",
+    "topic": "secops"
+  },
+  {
+    "title": "How to check domain expiry dates, DNS records and SSL certificates in bulk",
+    "desc": "<p>If you manage more than a handful of domains, you already know the problem. A domain renewal slips, a certificate expires on a Sunday, or",
+    "link": "https://dev.to/hay_equipos/how-to-check-domain-expiry-dates-dns-records-and-ssl-certificates-in-bulk-3hh3",
     "topic": "general"
   },
   {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3o2m",
+    "title": "26 reviewer agents out of 27 approved a test that can never fail again",
+    "desc": "<p>The software factory pitch has a comforting shape to it. Agents write the code, agents review the code, agents run the tests, and the loo",
+    "link": "https://dev.to/remdore/26-reviewer-agents-out-of-27-approved-a-test-that-can-never-fail-again-2lil",
     "topic": "general"
-  },
-  {
-    "title": "Creating a Data-Driven Forest Monitoring Architecture from LiDAR, Sensors, and Remote Sensing",
-    "desc": "<p>Forest monitoring is becoming a data-integration problem.</p>\n\n<p>A typical monitoring program might use satellite imagery, LiDAR data, I",
-    "link": "https://dev.to/ema9/creating-a-data-driven-forest-monitoring-architecture-from-lidar-sensors-and-remote-sensing-1a2n",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes Pods stuck in Pending \u2014 8 causes and exact fixes",
-    "desc": "<p>A Pod stuck in <code>Pending</code> means Kubernetes cannot schedule it onto any node. The Pod is created but no container is running. He",
-    "link": "https://dev.to/aiunplugged/kubernetes-pods-stuck-in-pending-8-causes-and-exact-fixes-23cg",
-    "topic": "kubernetes"
   }
 ]
