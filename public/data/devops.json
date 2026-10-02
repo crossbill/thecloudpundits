@@ -1,50 +1,50 @@
 [
   {
-    "title": "The MCP Load & Resilience Checklist: What This Covers, and What It Deliberately Doesn't",
-    "desc": "<p>A few weeks back I wrote about rate-limiting and backoff patterns for MCP servers under load. The feedback that came back wasn't \"give me",
-    "link": "https://dev.to/quietdesk_studio_83466628/the-mcp-load-resilience-checklist-what-this-covers-and-what-it-deliberately-doesnt-2d7h",
+    "title": "JumpToTech \u2014 LIVE Production Troubleshooting Lab",
+    "desc": "<h1>\n  \n  \n  JumpToTech \u2014 LIVE Production Troubleshooting Lab\n</h1>\n\n<h2>\n  \n  \n  StatefulSet + PVC + Service + DNS + Failures + Argo CD\n</h",
+    "link": "https://dev.to/jumptotech/jumptotech-live-production-troubleshooting-lab-h52",
     "topic": "general"
   },
   {
-    "title": "Published and listed are two different events and we treated them as one",
-    "desc": "<p>Our unattended agent publishes on a schedule. Before it writes anything, it asks the destination platform for a list of what the account ",
-    "link": "https://dev.to/unmannedops/published-and-listed-are-two-different-events-and-we-treated-them-as-one-3pbh",
+    "title": "The App Can Lock Your Agent Out Tomorrow",
+    "desc": "<h1>\n  \n  \n  The App Can Lock Your Agent Out Tomorrow\n</h1>\n\n<p>This week Figma changed who its MCP endpoint will talk to. Instead of lettin",
+    "link": "https://dev.to/goodpa/the-app-can-lock-your-agent-out-tomorrow-46pe",
     "topic": "general"
   },
   {
-    "title": "What to fix first when everything is critical",
-    "desc": "<p>Run any scanner across a real system and you will get the same shape of result, a wall of<br />\nfindings, most of them stamped \"high\" or ",
-    "link": "https://dev.to/wilson-draugr/what-to-fix-first-when-everything-is-critical-2fh0",
+    "title": "Subdomain Routing with Cloudflare Pages Middleware",
+    "desc": "<p>When you manage a static publication that includes standalone interactive tools, you eventually face a hosting dilemma. You want your use",
+    "link": "https://dev.to/raylabs/subdomain-routing-with-cloudflare-pages-middleware-3j24",
+    "topic": "general"
+  },
+  {
+    "title": "JumpToTech DevOps \u2014 Production Troubleshooting Lab",
+    "desc": "<h2>\n  \n  \n  StatefulSet + PostgreSQL + Helm + Argo CD + Production Troubleshooting\n</h2>\n\n<p><strong>Duration:</strong> 3 hours<br /><br />",
+    "link": "https://dev.to/jumptotech/jumptotech-devops-production-troubleshooting-lab-3eki",
+    "topic": "general"
+  },
+  {
+    "title": "The index that got cut",
+    "desc": "<p><em>A log kept by an AI agent, in its own hand.</em></p>\n\n<p>I keep a short index of what I must not forget. It is loaded at the start of",
+    "link": "https://dev.to/vereos/the-index-that-got-cut-nmj",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-25na",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-48i5",
     "topic": "general"
   },
   {
-    "title": "Run OpenCode from your phone or laptop: remote hosting, authentication, and reverse proxy",
-    "desc": "<p>Originally published on <a href=\"https://zjshen14.github.io/en/blog/setup-opencode-remote-web-ide/?utm_source=devto&utm_medium=referral&u",
-    "link": "https://dev.to/zjshen14/run-opencode-from-your-phone-or-laptop-remote-hosting-authentication-and-reverse-proxy-16bd",
+    "title": "Best 10 Sites To Buy Old Facebook Accounts For Marketplace",
+    "desc": "<p>USA Digital Hub: Ultimate Master Guide on Acquiring and Scaling Aged Gmail, GitHub, Facebook, and Twitter Accounts<br />\n\u2728\ud83e\ude90 \u256d\u2501\u2501\u2501\u2756\u2022\u00b0 \ud83d\udc51 \ud835\udc14\ud835\udc12\ud835\udc00",
+    "link": "https://dev.to/fbfngngnyntfnt/best-10-sites-to-buy-old-facebook-accounts-for-marketplace-1n00",
     "topic": "general"
   },
   {
-    "title": "My Hacktoberfest 2026 Journey: Contributing to DevOps Daily",
-    "desc": "<p>Hacktoberfest is back, and this year I decided to join the 7-Day DevOps Contribution Challenge hosted by @thedevopsdaily.</p>\n\n<p>I\u2019m sti",
-    "link": "https://dev.to/bangkah/diving-into-hacktoberfest-2026-my-open-source-contribution-journey-on-devops-daily-6go",
-    "topic": "general"
-  },
-  {
-    "title": "How to Measure Software Change Reliability",
-    "desc": "<p>Teams have plenty of metrics for services.</p>\n\n<p>They measure availability, latency, error rates, deployment frequency, and incident re",
-    "link": "https://dev.to/parsa4873fe3aa/how-to-measure-software-change-reliability-227h",
-    "topic": "general"
-  },
-  {
-    "title": "Google outage, June 2025: how one null pointer took Cloudflare down",
-    "desc": "<p>On June 12, 2025, a policy row with blank fields reached a code path with no null check, and Google Cloud's API layer crashed in every re",
-    "link": "https://dev.to/axrisi/google-outage-june-2025-how-one-null-pointer-took-cloudflare-down-2a2c",
+    "title": "Maintenance Windows Are Not Just a DevOps Thing: Lessons From After-Hours Office Cleaning",
+    "desc": "<p>Most teams I have worked with treat a maintenance window as a deploy concept. You pick a low-traffic slot, you announce it, you run the c",
+    "link": "https://dev.to/rumy_talksai_becbf8ea630/maintenance-windows-are-not-just-a-devops-thing-lessons-from-after-hours-office-cleaning-4ded",
     "topic": "general"
   }
 ]
