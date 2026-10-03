@@ -1,50 +1,50 @@
 [
   {
-    "title": "Understanding Self-Healing Deployments in Modern Infrastructure",
-    "desc": "<h1>\n  \n  \n  Understanding Self-Healing Deployments in Modern Infrastructure\n</h1>\n\n<p>In today's fast-paced digital landscape, traditional ",
-    "link": "https://dev.to/vectoralai/understanding-self-healing-deployments-in-modern-infrastructure-57km",
+    "title": "Vertical Slices: Rethinking Software Architecture",
+    "desc": "<blockquote>\n<p>\u201cYour architecture should scream what the system does.\u201d</p>\n\n<p>\u2014 Martin Fowler</p>\n</blockquote>\n\n<h1>\n  \n  \n  Introduction",
+    "link": "https://dev.to/andr_nakamura_1328696fd1/vertical-slices-rethinking-software-architecture-1eeh",
     "topic": "general"
   },
   {
-    "title": "Your testing isn't the problem. Your hand-offs are.",
-    "desc": "<p><em>How to keep testers, developers and managers on the same page, from the bug someone finds to the fix that ships.</em></p>\n\n<p>  \n  \n<",
-    "link": "https://dev.to/ifeanyiejindu/your-testing-isnt-the-problem-your-hand-offs-are-46dk",
+    "title": "Getting Started with Azure Container Apps: Setting Up Your Deployment Tools and Resources",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Many teams adopt Kubernetes early, only to find they use a fraction of its capabilities. Azure Container",
+    "link": "https://dev.to/rahimah_dev/getting-started-with-azure-container-apps-setting-up-your-deployment-tools-and-resources-ij2",
+    "topic": "azure"
+  },
+  {
+    "title": "See who's attacking your server in Grafana \u2014 fail2ban metrics with Prometheus",
+    "desc": "<p>Most people set up fail2ban and forget about it. It's running, it's banning IPs, but you have no<br />\n  idea what's actually happening u",
+    "link": "https://dev.to/airat71/see-whos-attacking-your-server-in-grafana-fail2ban-metrics-with-prometheus-2d7a",
+    "topic": "secops"
+  },
+  {
+    "title": "Under 20 Bjj Rounds: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(agents): refresh",
+    "link": "https://dev.to/igorganapolsky/under-20-bjj-rounds-what-we-learned-building-random-tactical-timer-a8j",
     "topic": "general"
   },
   {
-    "title": "Filtering by PureBin is Cheaper Than Parsing ShopItem Listings Later",
-    "desc": "<p>When analyzing Sweden's second-hand market on Tradera, running broad searches often produces mixed data models. Tradera combines traditio",
-    "link": "https://dev.to/crawlerbros/filtering-by-purebin-is-cheaper-than-parsing-shopitem-listings-later-52e5",
+    "title": "ORA-00257: The Database Stopped Accepting Writes. The Archiver Is Stuck.",
+    "desc": "<p>The pager goes off at 3 a.m.: the application is frozen. Every screen that tries to save hangs, and the ones that time out come back with",
+    "link": "https://dev.to/uptimearchitect/ora-00257-the-database-stopped-accepting-writes-the-archiver-is-stuck-4lgi",
     "topic": "general"
   },
   {
-    "title": "AI Model Versioning and Rollback Strategies for Production",
-    "desc": "<p>You deployed a new model version on Friday afternoon. By Monday morning, your error rate tripled and you have no clean way to roll back b",
-    "link": "https://dev.to/ayinedjimi-consultants/ai-model-versioning-and-rollback-strategies-for-production-1apj",
+    "title": "Ditch GA4: How to Self-Host Umami Analytics on Vultr for GDPR-Compliant, Ultra-Fast Tracking",
+    "desc": "<h1>\n  \n  \n  Ditch GA4: How to Self-Host Umami Analytics on Vultr for GDPR-Compliant, Ultra-Fast Tracking\n</h1>\n\n<p>Google Analytics 4 (GA4)",
+    "link": "https://dev.to/fejuno/ditch-ga4-how-to-self-host-umami-analytics-on-vultr-for-gdpr-compliant-ultra-fast-tracking-4113",
     "topic": "general"
   },
   {
-    "title": "DevOps Outage Scenario: Solving Kubernetes CrashLoopBackOff: Probe Flapping & Cold Starts",
-    "desc": "<p>In technical interviews for <strong>Senior Cloud, DevOps, and SRE roles</strong>, trivial syntax questions are gone. Hiring managers want",
-    "link": "https://dev.to/intervixa_ai/devops-outage-scenario-solving-kubernetes-crashloopbackoff-probe-flapping-cold-starts-h6",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Building a Vertically Integrated AI Stack on Supabase and Asterisk: How Load Bearing Empire Unified 6 Businesses",
-    "desc": "<p>OPENING PARAGRAPH:</p>\n\n<p>When you're running multiple service lines\u2014real estate wholesaling, demolition, valet, credit repair, mineral ",
-    "link": "https://dev.to/domoniqueluchin/building-a-vertically-integrated-ai-stack-on-supabase-and-asterisk-how-load-bearing-empire-unified-55g7",
+    "title": "QA update: 76 new tests in n98-magerun2 since v10.0.0",
+    "desc": "<p><strong>QA update for n98-magerun2</strong></p>\n\n<p>Since v10.0.0 we added <strong>76 new tests</strong> (PHPUnit test methods + BATS fun",
+    "link": "https://dev.to/cmuench/qa-update-76-new-tests-in-n98-magerun2-since-v1000-eeg",
     "topic": "general"
   },
   {
-    "title": "Claude API returns 400 when the credit balance runs out",
-    "desc": "<p>Our orqestra.kids_episode task ended with an AnthropicError: \"Your credit balance is too low to access the Anthropic API. Please go to Pl",
-    "link": "https://dev.to/robswierk/claude-api-returns-400-when-the-credit-balance-runs-out-30kh",
-    "topic": "anthropic"
-  },
-  {
-    "title": "GitHub Actions Secrets: 8 Common Mistakes and Fixes",
-    "desc": "<p>You build a small automation that posts to Discord when your website goes down. To make it work, you paste the webhook URL into your scri",
-    "link": "https://dev.to/procwire/github-actions-secrets-8-common-mistakes-and-fixes-28pf",
+    "title": "Stop Paying for Zapier: How to Self-Host n8n on DigitalOcean for Unlimited Workflow Automations",
+    "desc": "<h3>\n  \n  \n  Introduction: The Zapier Tax is Real\n</h3>\n\n<p>If you\u2019ve built any modern web application, SaaS product, or internal tooling, y",
+    "link": "https://dev.to/fejuno/stop-paying-for-zapier-how-to-self-host-n8n-on-digitalocean-for-unlimited-workflow-automations-4ie2",
     "topic": "general"
   }
 ]
