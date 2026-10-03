@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your Cloud Bill Is a Design Document",
-    "desc": "<p>Cloud spend is usually treated as a finance problem.</p>\n\n<p>Engineering gets the message after the fact:</p>\n\n<p>\u201cWhy did the AWS bill g",
-    "link": "https://dev.to/ksoft_technologies_33f7f6/your-cloud-bill-is-a-design-document-4nh7",
+    "title": "Understanding Self-Healing Deployments in Modern Infrastructure",
+    "desc": "<h1>\n  \n  \n  Understanding Self-Healing Deployments in Modern Infrastructure\n</h1>\n\n<p>In today's fast-paced digital landscape, traditional ",
+    "link": "https://dev.to/vectoralai/understanding-self-healing-deployments-in-modern-infrastructure-57km",
     "topic": "general"
   },
   {
-    "title": "An on-page SEO audit API: a 0\u2013100 score and a fix list in about 2 seconds",
-    "desc": "<p>I wanted an SEO check I could run inside a CI job: one URL in, a number out, and a list of things to fix. No dashboard, no crawl that tak",
-    "link": "https://dev.to/tidytools/an-on-page-seo-audit-api-a-0-100-score-and-a-fix-list-in-about-2-seconds-155b",
+    "title": "Your testing isn't the problem. Your hand-offs are.",
+    "desc": "<p><em>How to keep testers, developers and managers on the same page, from the bug someone finds to the fix that ships.</em></p>\n\n<p>  \n  \n<",
+    "link": "https://dev.to/ifeanyiejindu/your-testing-isnt-the-problem-your-hand-offs-are-46dk",
     "topic": "general"
   },
   {
-    "title": "From Telemetry to Automated Incident Response: My DevOps & Observability Journey",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/esadata/from-telemetry-to-automated-incident-response-my-devops-observability-journey-2ob5",
-    "topic": "secops"
-  },
-  {
-    "title": "How to Secure Your Linux Server in 10 Steps",
-    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4ghd",
+    "title": "Filtering by PureBin is Cheaper Than Parsing ShopItem Listings Later",
+    "desc": "<p>When analyzing Sweden's second-hand market on Tradera, running broad searches often produces mixed data models. Tradera combines traditio",
+    "link": "https://dev.to/crawlerbros/filtering-by-purebin-is-cheaper-than-parsing-shopitem-listings-later-52e5",
     "topic": "general"
   },
   {
-    "title": "Use TempGmail for real Gmail verification without spam",
-    "desc": "<p>You often have to create accounts on various websites, so instead of using your personal <strong>Gmail</strong>, try using the **TempGmai",
-    "link": "https://dev.to/skrayhanyt_developer/use-tempgmail-for-real-gmail-verification-without-spam-1nog",
+    "title": "AI Model Versioning and Rollback Strategies for Production",
+    "desc": "<p>You deployed a new model version on Friday afternoon. By Monday morning, your error rate tripled and you have no clean way to roll back b",
+    "link": "https://dev.to/ayinedjimi-consultants/ai-model-versioning-and-rollback-strategies-for-production-1apj",
     "topic": "general"
   },
   {
-    "title": "Git 3.0 Is Switching to SHA-256. One Git Co-Creator Says It Will Be a Costly Mistake.",
-    "desc": "<p>Two weeks ago I helped a teammate migrate a legacy service from Bitbucket Server to GitHub. The migration went fine. The post-mortem did ",
-    "link": "https://dev.to/jamilxt/git-30-is-switching-to-sha-256-one-git-co-creator-says-it-will-be-a-costly-mistake-p7d",
+    "title": "DevOps Outage Scenario: Solving Kubernetes CrashLoopBackOff: Probe Flapping & Cold Starts",
+    "desc": "<p>In technical interviews for <strong>Senior Cloud, DevOps, and SRE roles</strong>, trivial syntax questions are gone. Hiring managers want",
+    "link": "https://dev.to/intervixa_ai/devops-outage-scenario-solving-kubernetes-crashloopbackoff-probe-flapping-cold-starts-h6",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Building a Vertically Integrated AI Stack on Supabase and Asterisk: How Load Bearing Empire Unified 6 Businesses",
+    "desc": "<p>OPENING PARAGRAPH:</p>\n\n<p>When you're running multiple service lines\u2014real estate wholesaling, demolition, valet, credit repair, mineral ",
+    "link": "https://dev.to/domoniqueluchin/building-a-vertically-integrated-ai-stack-on-supabase-and-asterisk-how-load-bearing-empire-unified-55g7",
     "topic": "general"
   },
   {
-    "title": "Title: The World\u2019s First AI Runtime Shield: Ending the Era of the JSONDecodeError",
-    "desc": "<p>Every developer building with Large Language Models has a shared trauma. It usually happens deep in production under heavy user traffic: ",
-    "link": "https://dev.to/jaliscodev/title-the-worlds-first-ai-runtime-shield-ending-the-era-of-the-jsondecodeerror-55i7",
-    "topic": "general"
+    "title": "Claude API returns 400 when the credit balance runs out",
+    "desc": "<p>Our orqestra.kids_episode task ended with an AnthropicError: \"Your credit balance is too low to access the Anthropic API. Please go to Pl",
+    "link": "https://dev.to/robswierk/claude-api-returns-400-when-the-credit-balance-runs-out-30kh",
+    "topic": "anthropic"
   },
   {
-    "title": "\"It Works on My Machine\" \u2014 How a Shared Redis Database Broke Authentication Across Environments",
-    "desc": "<p>We've all heard the classic developer line: <em>\"But it works on my local machine!\"</em> Usually it's a punchline. This time, it was the ",
-    "link": "https://dev.to/jayakrishnayadav24/it-works-on-my-machine-how-a-shared-redis-database-broke-authentication-across-environments-ci8",
+    "title": "GitHub Actions Secrets: 8 Common Mistakes and Fixes",
+    "desc": "<p>You build a small automation that posts to Discord when your website goes down. To make it work, you paste the webhook URL into your scri",
+    "link": "https://dev.to/procwire/github-actions-secrets-8-common-mistakes-and-fixes-28pf",
     "topic": "general"
   }
 ]
