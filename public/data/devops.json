@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why 1 Million Autonomous Agents Will Break the Internet (And How Sentinel-IR Fixes It) published: true",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/jackymencz/why-1-million-autonomous-agents-will-break-the-internet-and-how-sentinel-ir-fixes-it-published-109m",
+    "title": "Stale API Key Hunt: 2 Clues When Rotation Broke Production After Deploy",
+    "desc": "<p>A leaked-key drill has one unforgiving constraint: every consumer must resolve the replacement before the old key's grace window closes. ",
+    "link": "https://dev.to/zeligholloway9071/stale-api-key-hunt-2-clues-when-rotation-broke-production-after-deploy-3776",
     "topic": "general"
   },
   {
-    "title": "An $11,400 AWS bill, and CloudWatch Logs was $2,100 of it",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/an-11400-aws-bill-and-cloudwatch-logs-was-2100-of-it-37aj",
-    "topic": "aws"
+    "title": "Base Rate Neglect: Why Your \"95% Accurate\" Alert Is Wrong 99% of the Time",
+    "desc": "<p>In 1978, researchers asked 60 people at Harvard Medical School a single question. A disease affects 1 in 1,000 people. The test for it ha",
+    "link": "https://dev.to/robat_das_3c6e956212f6408/base-rate-neglect-why-your-95-accurate-alert-is-wrong-99-of-the-time-24g2",
+    "topic": "general"
   },
   {
-    "title": "From scripted to declarative: what 10+ years of Jenkins pipelines taught me about shared libraries and quality gates",
-    "desc": "<p>I wrote my first Jenkins pipeline in 2016. Ten years later, the repository it started has more than 260 pipeline files: deploy jobs, end-",
-    "link": "https://dev.to/tayguara/from-scripted-to-declarative-what-10-years-of-jenkins-pipelines-taught-me-about-shared-libraries-2k40",
+    "title": "My support bot stopped forgetting everything when I changed AI memory write triggers",
+    "desc": "<p>I had a support bot that looked great in demos and acted like it had amnesia in production.</p>\n\n<p>The failure mode was embarrassingly s",
+    "link": "https://dev.to/lars_winstand/my-support-bot-stopped-forgetting-everything-when-i-changed-ai-memory-write-triggers-40o1",
     "topic": "general"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-48m7",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2k3l",
     "topic": "general"
   },
   {
-    "title": "I Bricked My DGX Spark's Inference Engine With a git pull. Here's How I Got It Back.",
-    "desc": "<p>I run an Nvidia DGX Spark \u2014 the little GB10 ARM box with 128 GB of unified memory. My morning ritual for the past week had been simple:<b",
-    "link": "https://dev.to/john_wong_716289005e1fa4e/i-bricked-my-dgx-sparks-inference-engine-with-a-git-pull-heres-how-i-got-it-back-47n1",
+    "title": "Why Your On-Call Engineers are Resigned to a Problem They Think is Unsolvable",
+    "desc": "<p>Let\u2019s talk about a silent cultural crisis happening inside modern engineering teams\u2014one that is costing your company thousands of dollars",
+    "link": "https://dev.to/jaliscodev/why-your-on-call-engineers-are-resigned-to-a-problem-they-think-is-unsolvable-3jf5",
     "topic": "general"
   },
   {
-    "title": "Azure Container Apps Guided Project (AZ-2026), Part 5: Traffic Splitting and Revision Management",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Employers value engineers who can release changes safely, without putting every user at risk.</p>\n\n<p>Th",
-    "link": "https://dev.to/rahimah_dev/azure-container-apps-guided-project-az-2026-part-5-traffic-splitting-and-revision-management-25dl",
-    "topic": "azure"
+    "title": "A Hands-On Guide with Microservices",
+    "desc": "<p>When starting out with Kubernetes, terms like <strong>Pods</strong>, <strong>Deployments</strong>, <strong>Services</strong>, and <strong",
+    "link": "https://dev.to/mitrakumar/a-hands-on-guide-with-microservices-1o4n",
+    "topic": "general"
   },
   {
-    "title": "FROM BACKEND TO DEVOPS The Journey Begins \ud83d\ude80 Linux \u2022 Docker \u2022 Cloud \u2022 AWS \u2022 CI/CD",
-    "desc": "<p>My DevOps Journey Begins \ud83d\ude80</p>\n\n<p>Hey everyone! \ud83d\udc4b</p>\n\n<p>I\u2019m Shinu, a B.Tech CSE student, and this is my first post on DEV.</p>\n\n<p>Unt",
-    "link": "https://dev.to/shivam_08/from-backendto-devops-the-journey-begins-linux-docker-cloud-aws-cicd-n44",
-    "topic": "aws"
+    "title": "Setting up a Kubernetes Cluster Locally with Docker Desktop",
+    "desc": "<p>Recently I've started diving deeper into Kubernetes. If you are starting your cloud-native or container orchestration journey, the sheer ",
+    "link": "https://dev.to/mitrakumar/setting-up-a-kubernetes-cluster-locally-with-docker-desktop-3lco",
+    "topic": "kubernetes"
   },
   {
-    "title": "Azure Container Apps Guided Project (AZ-2026), Part 4: CI/CD with Azure Pipelines and a Self-Hosted Agent",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Employers want engineers who can automate deployments, not just run them by hand, and fix the pipeline w",
-    "link": "https://dev.to/rahimah_dev/azure-container-apps-guided-project-az-2026-part-4-cicd-with-azure-pipelines-and-a-self-hosted-2hom",
-    "topic": "azure"
+    "title": "Your evidence folder is complete. Meanwhile, someone just opened a shell in your container.",
+    "desc": "<p>Since 11 September 2026, the EU Cyber Resilience Act asks you to report an actively exploited vulnerability within 24 hours. Twenty-four ",
+    "link": "https://dev.to/arifkurnaz/your-evidence-folder-is-complete-meanwhile-someone-just-opened-a-shell-in-your-container-1ma1",
+    "topic": "docker"
   }
 ]
