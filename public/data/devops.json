@@ -1,50 +1,50 @@
 [
   {
-    "title": "Vertical Slices: Rethinking Software Architecture",
-    "desc": "<blockquote>\n<p>\u201cYour architecture should scream what the system does.\u201d</p>\n\n<p>\u2014 Martin Fowler</p>\n</blockquote>\n\n<h1>\n  \n  \n  Introduction",
-    "link": "https://dev.to/andr_nakamura_1328696fd1/vertical-slices-rethinking-software-architecture-1eeh",
+    "title": "Why 1 Million Autonomous Agents Will Break the Internet (And How Sentinel-IR Fixes It) published: true",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/jackymencz/why-1-million-autonomous-agents-will-break-the-internet-and-how-sentinel-ir-fixes-it-published-109m",
     "topic": "general"
   },
   {
-    "title": "Getting Started with Azure Container Apps: Setting Up Your Deployment Tools and Resources",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Many teams adopt Kubernetes early, only to find they use a fraction of its capabilities. Azure Container",
-    "link": "https://dev.to/rahimah_dev/getting-started-with-azure-container-apps-setting-up-your-deployment-tools-and-resources-ij2",
+    "title": "An $11,400 AWS bill, and CloudWatch Logs was $2,100 of it",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/an-11400-aws-bill-and-cloudwatch-logs-was-2100-of-it-37aj",
+    "topic": "aws"
+  },
+  {
+    "title": "From scripted to declarative: what 10+ years of Jenkins pipelines taught me about shared libraries and quality gates",
+    "desc": "<p>I wrote my first Jenkins pipeline in 2016. Ten years later, the repository it started has more than 260 pipeline files: deploy jobs, end-",
+    "link": "https://dev.to/tayguara/from-scripted-to-declarative-what-10-years-of-jenkins-pipelines-taught-me-about-shared-libraries-2k40",
+    "topic": "general"
+  },
+  {
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-48m7",
+    "topic": "general"
+  },
+  {
+    "title": "I Bricked My DGX Spark's Inference Engine With a git pull. Here's How I Got It Back.",
+    "desc": "<p>I run an Nvidia DGX Spark \u2014 the little GB10 ARM box with 128 GB of unified memory. My morning ritual for the past week had been simple:<b",
+    "link": "https://dev.to/john_wong_716289005e1fa4e/i-bricked-my-dgx-sparks-inference-engine-with-a-git-pull-heres-how-i-got-it-back-47n1",
+    "topic": "general"
+  },
+  {
+    "title": "Azure Container Apps Guided Project (AZ-2026), Part 5: Traffic Splitting and Revision Management",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Employers value engineers who can release changes safely, without putting every user at risk.</p>\n\n<p>Th",
+    "link": "https://dev.to/rahimah_dev/azure-container-apps-guided-project-az-2026-part-5-traffic-splitting-and-revision-management-25dl",
     "topic": "azure"
   },
   {
-    "title": "See who's attacking your server in Grafana \u2014 fail2ban metrics with Prometheus",
-    "desc": "<p>Most people set up fail2ban and forget about it. It's running, it's banning IPs, but you have no<br />\n  idea what's actually happening u",
-    "link": "https://dev.to/airat71/see-whos-attacking-your-server-in-grafana-fail2ban-metrics-with-prometheus-2d7a",
-    "topic": "secops"
+    "title": "FROM BACKEND TO DEVOPS The Journey Begins \ud83d\ude80 Linux \u2022 Docker \u2022 Cloud \u2022 AWS \u2022 CI/CD",
+    "desc": "<p>My DevOps Journey Begins \ud83d\ude80</p>\n\n<p>Hey everyone! \ud83d\udc4b</p>\n\n<p>I\u2019m Shinu, a B.Tech CSE student, and this is my first post on DEV.</p>\n\n<p>Unt",
+    "link": "https://dev.to/shivam_08/from-backendto-devops-the-journey-begins-linux-docker-cloud-aws-cicd-n44",
+    "topic": "aws"
   },
   {
-    "title": "Under 20 Bjj Rounds: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(agents): refresh",
-    "link": "https://dev.to/igorganapolsky/under-20-bjj-rounds-what-we-learned-building-random-tactical-timer-a8j",
-    "topic": "general"
-  },
-  {
-    "title": "ORA-00257: The Database Stopped Accepting Writes. The Archiver Is Stuck.",
-    "desc": "<p>The pager goes off at 3 a.m.: the application is frozen. Every screen that tries to save hangs, and the ones that time out come back with",
-    "link": "https://dev.to/uptimearchitect/ora-00257-the-database-stopped-accepting-writes-the-archiver-is-stuck-4lgi",
-    "topic": "general"
-  },
-  {
-    "title": "Ditch GA4: How to Self-Host Umami Analytics on Vultr for GDPR-Compliant, Ultra-Fast Tracking",
-    "desc": "<h1>\n  \n  \n  Ditch GA4: How to Self-Host Umami Analytics on Vultr for GDPR-Compliant, Ultra-Fast Tracking\n</h1>\n\n<p>Google Analytics 4 (GA4)",
-    "link": "https://dev.to/fejuno/ditch-ga4-how-to-self-host-umami-analytics-on-vultr-for-gdpr-compliant-ultra-fast-tracking-4113",
-    "topic": "general"
-  },
-  {
-    "title": "QA update: 76 new tests in n98-magerun2 since v10.0.0",
-    "desc": "<p><strong>QA update for n98-magerun2</strong></p>\n\n<p>Since v10.0.0 we added <strong>76 new tests</strong> (PHPUnit test methods + BATS fun",
-    "link": "https://dev.to/cmuench/qa-update-76-new-tests-in-n98-magerun2-since-v1000-eeg",
-    "topic": "general"
-  },
-  {
-    "title": "Stop Paying for Zapier: How to Self-Host n8n on DigitalOcean for Unlimited Workflow Automations",
-    "desc": "<h3>\n  \n  \n  Introduction: The Zapier Tax is Real\n</h3>\n\n<p>If you\u2019ve built any modern web application, SaaS product, or internal tooling, y",
-    "link": "https://dev.to/fejuno/stop-paying-for-zapier-how-to-self-host-n8n-on-digitalocean-for-unlimited-workflow-automations-4ie2",
-    "topic": "general"
+    "title": "Azure Container Apps Guided Project (AZ-2026), Part 4: CI/CD with Azure Pipelines and a Self-Hosted Agent",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Employers want engineers who can automate deployments, not just run them by hand, and fix the pipeline w",
+    "link": "https://dev.to/rahimah_dev/azure-container-apps-guided-project-az-2026-part-4-cicd-with-azure-pipelines-and-a-self-hosted-2hom",
+    "topic": "azure"
   }
 ]
