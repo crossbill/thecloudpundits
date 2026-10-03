@@ -1,50 +1,50 @@
 [
   {
-    "title": "Eight Layers Between an Attacker and Your Data. You've Only Configured One.",
-    "desc": "<p>When you think about network security, you probably picture one thing. A firewall. Something blocking hackers on the other side of a wall",
-    "link": "https://dev.to/chizee/eight-layers-between-an-attacker-and-your-data-youve-only-configured-one-2n51",
+    "title": "Your Cloud Bill Is a Design Document",
+    "desc": "<p>Cloud spend is usually treated as a finance problem.</p>\n\n<p>Engineering gets the message after the fact:</p>\n\n<p>\u201cWhy did the AWS bill g",
+    "link": "https://dev.to/ksoft_technologies_33f7f6/your-cloud-bill-is-a-design-document-4nh7",
+    "topic": "general"
+  },
+  {
+    "title": "An on-page SEO audit API: a 0\u2013100 score and a fix list in about 2 seconds",
+    "desc": "<p>I wanted an SEO check I could run inside a CI job: one URL in, a number out, and a list of things to fix. No dashboard, no crawl that tak",
+    "link": "https://dev.to/tidytools/an-on-page-seo-audit-api-a-0-100-score-and-a-fix-list-in-about-2-seconds-155b",
+    "topic": "general"
+  },
+  {
+    "title": "From Telemetry to Automated Incident Response: My DevOps & Observability Journey",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/esadata/from-telemetry-to-automated-incident-response-my-devops-observability-journey-2ob5",
     "topic": "secops"
   },
   {
-    "title": "Scaling Your App: Horizontal vs Vertical \u2014 A Lord of the Rings Quest",
-    "desc": "<h2>\n  \n  \n  The Quest Begins (The \u201cWhy\u201d)\n</h2>\n\n<p>Honestly, I remember the day our little side\u2011project started to feel like a dragon hoard",
-    "link": "https://dev.to/timevolt/scaling-your-app-horizontal-vs-vertical-a-lord-of-the-rings-quest-h24",
+    "title": "How to Secure Your Linux Server in 10 Steps",
+    "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4ghd",
     "topic": "general"
   },
   {
-    "title": "PHP FULL IMAGE NEWS",
-    "desc": "<h1>\n  \n  \n  Imagem PHP Full da Convenia agora roda em ARM e ganhou uma vers\u00e3o de desenvolvimento\n</h1>\n\n<p>No <a href=\"https://dev.to/conve",
-    "link": "https://dev.to/convenia/php-full-image-news-2h9c",
+    "title": "Use TempGmail for real Gmail verification without spam",
+    "desc": "<p>You often have to create accounts on various websites, so instead of using your personal <strong>Gmail</strong>, try using the **TempGmai",
+    "link": "https://dev.to/skrayhanyt_developer/use-tempgmail-for-real-gmail-verification-without-spam-1nog",
     "topic": "general"
   },
   {
-    "title": "How to Log an AI Agent So You Can Actually Debug It",
-    "desc": "<p>If you have shipped an agent and then tried to explain why it failed on one specific run, this one is for you. It is a practical logging ",
-    "link": "https://dev.to/paulcrinigan/how-to-log-an-ai-agent-so-you-can-actually-debug-it-3gni",
+    "title": "Git 3.0 Is Switching to SHA-256. One Git Co-Creator Says It Will Be a Costly Mistake.",
+    "desc": "<p>Two weeks ago I helped a teammate migrate a legacy service from Bitbucket Server to GitHub. The migration went fine. The post-mortem did ",
+    "link": "https://dev.to/jamilxt/git-30-is-switching-to-sha-256-one-git-co-creator-says-it-will-be-a-costly-mistake-p7d",
     "topic": "general"
   },
   {
-    "title": "[Boost]",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/be",
-    "link": "https://dev.to/bencoy09/-31ao",
+    "title": "Title: The World\u2019s First AI Runtime Shield: Ending the Era of the JSONDecodeError",
+    "desc": "<p>Every developer building with Large Language Models has a shared trauma. It usually happens deep in production under heavy user traffic: ",
+    "link": "https://dev.to/jaliscodev/title-the-worlds-first-ai-runtime-shield-ending-the-era-of-the-jsondecodeerror-55i7",
     "topic": "general"
   },
   {
-    "title": "Your security gate always passes. Can it actually block a release?",
-    "desc": "<p>Agent developers have started publishing oversight numbers.</p>\n\n<p>For example, Anthropic reports that of more than a billion decisions ",
-    "link": "https://dev.to/mspro3210/your-security-gate-always-passes-can-it-actually-block-a-release-522n",
-    "topic": "secops"
-  },
-  {
-    "title": "How to check domain expiry dates, DNS records and SSL certificates in bulk",
-    "desc": "<p>If you manage more than a handful of domains, you already know the problem. A domain renewal slips, a certificate expires on a Sunday, or",
-    "link": "https://dev.to/hay_equipos/how-to-check-domain-expiry-dates-dns-records-and-ssl-certificates-in-bulk-3hh3",
-    "topic": "general"
-  },
-  {
-    "title": "26 reviewer agents out of 27 approved a test that can never fail again",
-    "desc": "<p>The software factory pitch has a comforting shape to it. Agents write the code, agents review the code, agents run the tests, and the loo",
-    "link": "https://dev.to/remdore/26-reviewer-agents-out-of-27-approved-a-test-that-can-never-fail-again-2lil",
+    "title": "\"It Works on My Machine\" \u2014 How a Shared Redis Database Broke Authentication Across Environments",
+    "desc": "<p>We've all heard the classic developer line: <em>\"But it works on my local machine!\"</em> Usually it's a punchline. This time, it was the ",
+    "link": "https://dev.to/jayakrishnayadav24/it-works-on-my-machine-how-a-shared-redis-database-broke-authentication-across-environments-ci8",
     "topic": "general"
   }
 ]
