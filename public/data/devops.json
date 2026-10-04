@@ -1,50 +1,50 @@
 [
   {
-    "title": "AI agents and AWS spending limits: the 90-day deletion rule",
-    "desc": "<p>AI agents can deploy a side project while you're making dinner. The resulting services can keep charging after the agent finishes. AWS's ",
-    "link": "https://dev.to/axrisi/ai-agents-and-aws-spending-limits-the-90-day-deletion-rule-8k3",
-    "topic": "aws"
-  },
-  {
-    "title": "Under 20 Interval Timer: what we learned building Random Tactical Timer",
-    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(agents): refresh",
-    "link": "https://dev.to/igorganapolsky/under-20-interval-timer-what-we-learned-building-random-tactical-timer-2ebe",
+    "title": "Filtering by minLastEpisodeDays Drops Inactive Podcasts at Ingestion",
+    "desc": "<p>Building a media monitoring database or an automated outreach engine requires fresh podcast data. The problem is that open podcast indexe",
+    "link": "https://dev.to/crawlerbros/filtering-by-minlastepisodedays-drops-inactive-podcasts-at-ingestion-2jde",
     "topic": "general"
   },
   {
-    "title": "K3s vs K8s: When K3s Actually Wins in Production",
-    "desc": "<h1>\n  \n  \n  K3s vs K8s: When K3s Actually Wins in Production\n</h1>\n\n<p>We migrated 12 edge clusters from K8s to K3s. Here's the honest brea",
-    "link": "https://dev.to/scsoi/k3s-vs-k8s-when-k3s-actually-wins-in-production-32e9",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Argo CD Application Set for 200 Microservices: What Breaks at Scale",
-    "desc": "<h1>\n  \n  \n  Argo CD Application Set for 200 Microservices: What Breaks at Scale\n</h1>\n\n<p>We scaled Argo CD from 30 apps to 230 across 12 c",
-    "link": "https://dev.to/scsoi/argo-cd-application-set-for-200-microservices-what-breaks-at-scale-389m",
+    "title": "Load, Stress, Spike and Soak: Four Performance Tests and What Each One Catches",
+    "desc": "<p>Most teams find out how much traffic their site can handle on the worst possible day, during a launch, a sale or a post that takes off. A",
+    "link": "https://dev.to/paulcrinigan/load-stress-spike-and-soak-four-performance-tests-and-what-each-one-catches-4g6l",
     "topic": "general"
   },
   {
-    "title": "External Secrets Operator + CSI Driver: The Setup That Survived Our SOC 2 Audit",
-    "desc": "<h1>\n  \n  \n  External Secrets Operator + CSI Driver: The Setup That Survived Our SOC 2 Audit\n</h1>\n\n<p>Our SOC 2 audit exposed a hard truth:",
-    "link": "https://dev.to/scsoi/external-secrets-operator-csi-driver-the-setup-that-survived-our-soc-2-audit-4bf5",
+    "title": "OPA Gatekeeper in Production: 50 Policies That Caught Real Misconfigurations",
+    "desc": "<h1>\n  \n  \n  OPA Gatekeeper in Production: 18 Months, 47 Policies, Zero Bypass Incidents\n</h1>\n\n<p>We adopted OPA Gatekeeper as our central ",
+    "link": "https://dev.to/scsoi/opa-gatekeeper-in-production-50-policies-that-caught-real-misconfigurations-4d0p",
     "topic": "general"
   },
   {
-    "title": "Turborepo for AI Product Monorepos and Shared Pipelines",
-    "desc": "<p><em>This post was created with AI assistance and reviewed for accuracy before publishing.</em></p>\n\n<p>AI products fragment across runtim",
-    "link": "https://dev.to/ganeshjoshi/turborepo-for-ai-product-monorepos-and-shared-pipelines-52nc",
+    "title": "Linkerd in Production: 18 Months, 220 Services, Zero Mesh-Wide Outages",
+    "desc": "<h1>\n  \n  \n  Linkerd in Production: 18 Months, 220 Services, Zero Mesh-Wide Outages\n</h1>\n\n<p>We replaced Istio with Linkerd in May 2025. Ei",
+    "link": "https://dev.to/scsoi/linkerd-in-production-18-months-220-services-zero-mesh-wide-outages-2ej3",
     "topic": "general"
   },
   {
-    "title": "Crossplane Composition vs Helm: When Each Wins",
-    "desc": "<h1>\n  \n  \n  Crossplane Composition vs Helm: When Each Wins\n</h1>\n\n<p>We migrated our multi-cloud resource provisioning from a Helm + Terraf",
-    "link": "https://dev.to/scsoi/crossplane-composition-vs-helm-when-each-wins-5ea7",
+    "title": "Temporal Workflow for Microservices: Why We Replaced 40 CronJobs With One Engine",
+    "desc": "<h1>\n  \n  \n  Temporal Workflow for Microservices: Why We Replaced 40 CronJobs With One Engine\n</h1>\n\n<p>We replaced 40 application-level cro",
+    "link": "https://dev.to/scsoi/temporal-workflow-for-microservices-why-we-replaced-40-cronjobs-with-one-engine-1io",
     "topic": "general"
   },
   {
-    "title": "Why I\u2019m building a unified DevOps OS to kill context switching at 16",
-    "desc": "<p>Hey devs,</p>\n\n<p>I got completely exhausted acting as a human copy-paste bridge. My daily workflow was an endless loop of writing code, ",
-    "link": "https://dev.to/ejoyment/why-im-building-a-unified-devops-os-to-kill-context-switching-at-16-1hkm",
+    "title": "SSH Key Permissions: Fix \u201cToo Open\u201d Errors Without Guesswork",
+    "desc": "<p>SSH refusing to use a private key with a \u201ctoo open\u201d warning is a security check, not a cosmetic complaint. If another local account can r",
+    "link": "https://dev.to/__3381495fd2b/ssh-key-permissions-fix-too-open-errors-without-guesswork-jo7",
+    "topic": "general"
+  },
+  {
+    "title": "SSH authorized_keys: Add, Verify, and Revoke Login Keys",
+    "desc": "<p>A public key can be valid and still fail to log in if it\u2019s installed in the wrong account, saved in the wrong place, or rejected because ",
+    "link": "https://dev.to/__3381495fd2b/ssh-authorizedkeys-add-verify-and-revoke-login-keys-59g",
+    "topic": "general"
+  },
+  {
+    "title": "A practical checklist for self-hosting website forms",
+    "desc": "<p>A contact form is often treated as a small front-end feature. In practice it is a data pipeline: the browser sends a request, an API vali",
+    "link": "https://dev.to/raktim_ranjit_8c5199e0c6a/a-practical-checklist-for-self-hosting-website-forms-2mhb",
     "topic": "general"
   }
 ]
