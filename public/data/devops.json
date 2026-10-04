@@ -1,50 +1,50 @@
 [
   {
-    "title": "Filtering by minLastEpisodeDays Drops Inactive Podcasts at Ingestion",
-    "desc": "<p>Building a media monitoring database or an automated outreach engine requires fresh podcast data. The problem is that open podcast indexe",
-    "link": "https://dev.to/crawlerbros/filtering-by-minlastepisodedays-drops-inactive-podcasts-at-ingestion-2jde",
+    "title": "2026-10-04 daily digest for people who still have tickets to close",
+    "desc": "<h2>\n  \n  \n  what shaped the day\n</h2>\n\n<p>today's crawl produced 5 edition articles, which is enough signal to spot the main technical them",
+    "link": "https://dev.to/vinlawz/2026-10-04-daily-digest-for-people-who-still-have-tickets-to-close-3fgp",
     "topic": "general"
   },
   {
-    "title": "Load, Stress, Spike and Soak: Four Performance Tests and What Each One Catches",
-    "desc": "<p>Most teams find out how much traffic their site can handle on the worst possible day, during a launch, a sale or a post that takes off. A",
-    "link": "https://dev.to/paulcrinigan/load-stress-spike-and-soak-four-performance-tests-and-what-each-one-catches-4g6l",
+    "title": "Lexington's data center debate exposes a planning risk for AI infrastructure",
+    "desc": "<p>A data center capacity plan can look convincing on paper while its location remains unresolved.</p>\n\n<p>A <a href=\"https://www.wuky.org/w",
+    "link": "https://dev.to/da-li-at-pl/lexingtons-data-center-debate-exposes-a-planning-risk-for-ai-infrastructure-9ne",
     "topic": "general"
   },
   {
-    "title": "OPA Gatekeeper in Production: 50 Policies That Caught Real Misconfigurations",
-    "desc": "<h1>\n  \n  \n  OPA Gatekeeper in Production: 18 Months, 47 Policies, Zero Bypass Incidents\n</h1>\n\n<p>We adopted OPA Gatekeeper as our central ",
-    "link": "https://dev.to/scsoi/opa-gatekeeper-in-production-50-policies-that-caught-real-misconfigurations-4d0p",
+    "title": "I built a local encrypted SSH vault because I don\u2019t want my hosts in the cloud",
+    "desc": "<p>I got tired of SSH sprawl.</p>\n\n<p>PuTTY/Moba sessions in one place. Keys in another. Notes in a random markdown<br />\nfile. And every \u201cm",
+    "link": "https://dev.to/emperr0r/i-built-a-local-encrypted-ssh-vault-because-i-dont-want-my-hosts-in-the-cloud-3c2j",
     "topic": "general"
   },
   {
-    "title": "Linkerd in Production: 18 Months, 220 Services, Zero Mesh-Wide Outages",
-    "desc": "<h1>\n  \n  \n  Linkerd in Production: 18 Months, 220 Services, Zero Mesh-Wide Outages\n</h1>\n\n<p>We replaced Istio with Linkerd in May 2025. Ei",
-    "link": "https://dev.to/scsoi/linkerd-in-production-18-months-220-services-zero-mesh-wide-outages-2ej3",
+    "title": "Clean Exit, Wrong Record: Grade the Agent on the Database, Not the Last Line",
+    "desc": "<blockquote>\n<p>Cross-post of an Insights piece. Canonical: <a href=\"https://sheikhwasim.com/insights/clean-exit-wrong-record/\" rel=\"noopene",
+    "link": "https://dev.to/anciwasim/clean-exit-wrong-record-grade-the-agent-on-the-database-not-the-last-line-2a4c",
     "topic": "general"
   },
   {
-    "title": "Temporal Workflow for Microservices: Why We Replaced 40 CronJobs With One Engine",
-    "desc": "<h1>\n  \n  \n  Temporal Workflow for Microservices: Why We Replaced 40 CronJobs With One Engine\n</h1>\n\n<p>We replaced 40 application-level cro",
-    "link": "https://dev.to/scsoi/temporal-workflow-for-microservices-why-we-replaced-40-cronjobs-with-one-engine-1io",
+    "title": "Runtime cost matters to me now",
+    "desc": "<p>AI made me reopen a boring question: why am I still paying Fargate rent for V8?</p>\n\n<p>Bun's Zig-to-Rust AI rewrite got me running the m",
+    "link": "https://dev.to/irr123456/runtime-cost-matters-to-me-now-4mdm",
     "topic": "general"
   },
   {
-    "title": "SSH Key Permissions: Fix \u201cToo Open\u201d Errors Without Guesswork",
-    "desc": "<p>SSH refusing to use a private key with a \u201ctoo open\u201d warning is a security check, not a cosmetic complaint. If another local account can r",
-    "link": "https://dev.to/__3381495fd2b/ssh-key-permissions-fix-too-open-errors-without-guesswork-jo7",
+    "title": "Building a Sub-5ms Sovereign LLM Gateway with Redis and OmniRoute Mesh",
+    "desc": "<h1>\n  \n  \n  Building a Sub-5ms Sovereign LLM Gateway with Redis and OmniRoute Mesh\n</h1>\n\n<p>Modern enterprise AI applications require high",
+    "link": "https://dev.to/hordii_bohdan/building-a-sub-5ms-sovereign-llm-gateway-with-redis-and-omniroute-mesh-hgf",
     "topic": "general"
   },
   {
-    "title": "SSH authorized_keys: Add, Verify, and Revoke Login Keys",
-    "desc": "<p>A public key can be valid and still fail to log in if it\u2019s installed in the wrong account, saved in the wrong place, or rejected because ",
-    "link": "https://dev.to/__3381495fd2b/ssh-authorizedkeys-add-verify-and-revoke-login-keys-59g",
+    "title": "MCP at 90+ tools: the catalog breaks before the server does",
+    "desc": "<p>Exposing one internal tool over the Model Context Protocol is a weekend project. Exposing ninety of them to humans <em>and</em> agents, w",
+    "link": "https://dev.to/zerokdevops/mcp-at-90-tools-the-catalog-breaks-before-the-server-does-3ibo",
     "topic": "general"
   },
   {
-    "title": "A practical checklist for self-hosting website forms",
-    "desc": "<p>A contact form is often treated as a small front-end feature. In practice it is a data pipeline: the browser sends a request, an API vali",
-    "link": "https://dev.to/raktim_ranjit_8c5199e0c6a/a-practical-checklist-for-self-hosting-website-forms-2mhb",
+    "title": "3 Weeks Learning Linux: Filesystems, File Management and Compression",
+    "desc": "<p>It\u2019s been 3 weeks since I started learning Linux at Akwannya Hub, and the journey has been both challenging and rewarding.</p>\n\n<p>Coming",
+    "link": "https://dev.to/ngmertey_joshua_b2b0fd299/3-weeks-learning-linux-filesystems-file-management-and-compression-3189",
     "topic": "general"
   }
 ]
