@@ -1,50 +1,50 @@
 [
   {
-    "title": "Stale API Key Hunt: 2 Clues When Rotation Broke Production After Deploy",
-    "desc": "<p>A leaked-key drill has one unforgiving constraint: every consumer must resolve the replacement before the old key's grace window closes. ",
-    "link": "https://dev.to/zeligholloway9071/stale-api-key-hunt-2-clues-when-rotation-broke-production-after-deploy-3776",
-    "topic": "general"
-  },
-  {
-    "title": "Base Rate Neglect: Why Your \"95% Accurate\" Alert Is Wrong 99% of the Time",
-    "desc": "<p>In 1978, researchers asked 60 people at Harvard Medical School a single question. A disease affects 1 in 1,000 people. The test for it ha",
-    "link": "https://dev.to/robat_das_3c6e956212f6408/base-rate-neglect-why-your-95-accurate-alert-is-wrong-99-of-the-time-24g2",
-    "topic": "general"
-  },
-  {
-    "title": "My support bot stopped forgetting everything when I changed AI memory write triggers",
-    "desc": "<p>I had a support bot that looked great in demos and acted like it had amnesia in production.</p>\n\n<p>The failure mode was embarrassingly s",
-    "link": "https://dev.to/lars_winstand/my-support-bot-stopped-forgetting-everything-when-i-changed-ai-memory-write-triggers-40o1",
-    "topic": "general"
+    "title": "AWS CI Email Fixtures Need a Promotion Gate",
+    "desc": "<p>Email fixtures are easy to add to a CI job and surprisingly hard to operate after that job becomes part of a release process. A test can ",
+    "link": "https://dev.to/jasonmills94/aws-ci-email-fixtures-need-a-promotion-gate-2bae",
+    "topic": "aws"
   },
   {
     "title": "How to Secure Your Linux Server in 10 Steps",
     "desc": "<h1>\n  \n  \n  How to Secure Your Linux Server in 10 Steps\n</h1>\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>How to Secure Your Linux Server in 10 St",
-    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2k3l",
+    "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-14kh",
     "topic": "general"
   },
   {
-    "title": "Why Your On-Call Engineers are Resigned to a Problem They Think is Unsolvable",
-    "desc": "<p>Let\u2019s talk about a silent cultural crisis happening inside modern engineering teams\u2014one that is costing your company thousands of dollars",
-    "link": "https://dev.to/jaliscodev/why-your-on-call-engineers-are-resigned-to-a-problem-they-think-is-unsolvable-3jf5",
+    "title": "Artifactory Is Under Active Attack: 3 Checks in 30 Minutes",
+    "desc": "<p>A research report published Thursday describes four weeks of active exploitation of JFrog Artifactory, the artifact registry that sits in",
+    "link": "https://dev.to/kielltampubolon/artifactory-is-under-active-attack-3-checks-in-30-minutes-5h84",
+    "topic": "secops"
+  },
+  {
+    "title": "How I Cut My AI Image Costs 24x by Reading the Pricing Page Properly",
+    "desc": "<p>For weeks I planned around a number I had read somewhere.</p>\n\n<p>The number was the cost of generating one image, in whatever internal u",
+    "link": "https://dev.to/revanzart/how-i-cut-my-ai-image-costs-24x-by-reading-the-pricing-page-properly-2j7",
     "topic": "general"
   },
   {
-    "title": "A Hands-On Guide with Microservices",
-    "desc": "<p>When starting out with Kubernetes, terms like <strong>Pods</strong>, <strong>Deployments</strong>, <strong>Services</strong>, and <strong",
-    "link": "https://dev.to/mitrakumar/a-hands-on-guide-with-microservices-1o4n",
+    "title": "Rent a Cloud GPU with Hermes Agent or OpenClaw",
+    "desc": "<p>Your bot runs on a CPU server, but it can rent a GPU when a job needs one: it quotes the cost, rents a Vast.ai machine on your account, r",
+    "link": "https://dev.to/zackchew/rent-a-cloud-gpu-with-hermes-agent-or-openclaw-5b4",
     "topic": "general"
   },
   {
-    "title": "Setting up a Kubernetes Cluster Locally with Docker Desktop",
-    "desc": "<p>Recently I've started diving deeper into Kubernetes. If you are starting your cloud-native or container orchestration journey, the sheer ",
-    "link": "https://dev.to/mitrakumar/setting-up-a-kubernetes-cluster-locally-with-docker-desktop-3lco",
-    "topic": "kubernetes"
+    "title": "Sprint & Stamina | UE5 Devlog",
+    "desc": "<p>This devlog showcases my Blueprint-based sprint and stamina system and its integration with the player\u2019s health and thirst.</p>\n\n<p>Hydra",
+    "link": "https://dev.to/mtindiedev_2/sprint-stamina-ue5-devlog-2814",
+    "topic": "general"
   },
   {
-    "title": "Your evidence folder is complete. Meanwhile, someone just opened a shell in your container.",
-    "desc": "<p>Since 11 September 2026, the EU Cyber Resilience Act asks you to report an actively exploited vulnerability within 24 hours. Twenty-four ",
-    "link": "https://dev.to/arifkurnaz/your-evidence-folder-is-complete-meanwhile-someone-just-opened-a-shell-in-your-container-1ma1",
-    "topic": "docker"
+    "title": "NetScaler RCE: 3 Checks Before Your Next Patch Window",
+    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>   [ internet ] \u2500\u2500\u25ba \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u2500\u2500\u25ba [ your VPN",
+    "link": "https://dev.to/kielltampubolon/netscaler-rce-3-checks-before-your-next-patch-window-37om",
+    "topic": "general"
+  },
+  {
+    "title": "I Traced Unbound's DNSSEC Heap Overflow: 4 Checks to Run",
+    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>   [ attacker's zone ] \u2500\u2500\u25ba \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n ",
+    "link": "https://dev.to/kielltampubolon/i-traced-unbounds-dnssec-heap-overflow-4-checks-to-run-1ejh",
+    "topic": "general"
   }
 ]
