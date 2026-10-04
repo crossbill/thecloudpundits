@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your AI Agent Can Burn $47,000 While You Sleep. Soft Budget Alerts Won't Save You.",
-    "desc": "<p>On October 3, Simon Willison posted a one-liner that hit 400+ points on Hacker News: <strong><a href=\"https://simonwillison.net/2026/Oct/",
-    "link": "https://dev.to/ashraf_chowdury09/your-ai-agent-can-burn-47000-while-you-sleep-soft-budget-alerts-wont-save-you-329m",
+    "title": "AI agents and AWS spending limits: the 90-day deletion rule",
+    "desc": "<p>AI agents can deploy a side project while you're making dinner. The resulting services can keep charging after the agent finishes. AWS's ",
+    "link": "https://dev.to/axrisi/ai-agents-and-aws-spending-limits-the-90-day-deletion-rule-8k3",
+    "topic": "aws"
+  },
+  {
+    "title": "Under 20 Interval Timer: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(agents): refresh",
+    "link": "https://dev.to/igorganapolsky/under-20-interval-timer-what-we-learned-building-random-tactical-timer-2ebe",
     "topic": "general"
   },
   {
-    "title": "1,250,964 audit rows recorded that we had decided nothing, and 51,884 recorded a decision",
-    "desc": "<p>Munchable has a curation pipeline. Label words arrive from product packs, the ones nothing in the taxonomy can place go into a backlog, a",
-    "link": "https://dev.to/daniel_pertu/1250964-audit-rows-recorded-that-we-had-decided-nothing-and-51884-recorded-a-decision-443o",
+    "title": "K3s vs K8s: When K3s Actually Wins in Production",
+    "desc": "<h1>\n  \n  \n  K3s vs K8s: When K3s Actually Wins in Production\n</h1>\n\n<p>We migrated 12 edge clusters from K8s to K3s. Here's the honest brea",
+    "link": "https://dev.to/scsoi/k3s-vs-k8s-when-k3s-actually-wins-in-production-32e9",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Argo CD Application Set for 200 Microservices: What Breaks at Scale",
+    "desc": "<h1>\n  \n  \n  Argo CD Application Set for 200 Microservices: What Breaks at Scale\n</h1>\n\n<p>We scaled Argo CD from 30 apps to 230 across 12 c",
+    "link": "https://dev.to/scsoi/argo-cd-application-set-for-200-microservices-what-breaks-at-scale-389m",
     "topic": "general"
   },
   {
-    "title": "VPN Behavior Changed After an OS Update? Compare the System, Client, and Profile Separately",
-    "desc": "<p>An unchanged VPN profile does not make the rest of the connection unchanged. After an operating-system update, compare the system version",
-    "link": "https://dev.to/m_montazeri/vpn-behavior-changed-after-an-os-update-compare-the-system-client-and-profile-separately-4456",
+    "title": "External Secrets Operator + CSI Driver: The Setup That Survived Our SOC 2 Audit",
+    "desc": "<h1>\n  \n  \n  External Secrets Operator + CSI Driver: The Setup That Survived Our SOC 2 Audit\n</h1>\n\n<p>Our SOC 2 audit exposed a hard truth:",
+    "link": "https://dev.to/scsoi/external-secrets-operator-csi-driver-the-setup-that-survived-our-soc-2-audit-4bf5",
     "topic": "general"
   },
   {
-    "title": "Contract-First Architecture: Governing Microservice Boundaries with OpenAPI 3.2 and Spectral",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>In a distributed system, an API contract is more than documentation.</p>\n\n<p>It defines the boundary bet",
-    "link": "https://dev.to/3rev/contract-first-architecture-governing-microservice-boundaries-with-openapi-32-and-spectral-lb",
+    "title": "Turborepo for AI Product Monorepos and Shared Pipelines",
+    "desc": "<p><em>This post was created with AI assistance and reviewed for accuracy before publishing.</em></p>\n\n<p>AI products fragment across runtim",
+    "link": "https://dev.to/ganeshjoshi/turborepo-for-ai-product-monorepos-and-shared-pipelines-52nc",
     "topic": "general"
   },
   {
-    "title": "MLOps Best Practices 2026",
-    "desc": "<h1>\n  \n  \n  MLOps Best Practices 2026\n</h1>\n\n<p>This article explores key concepts and practical implementations.</p>\n\n<h2>\n  \n  \n  Overvie",
-    "link": "https://dev.to/hamza_dev_talks/mlops-best-practices-2026-c01",
+    "title": "Crossplane Composition vs Helm: When Each Wins",
+    "desc": "<h1>\n  \n  \n  Crossplane Composition vs Helm: When Each Wins\n</h1>\n\n<p>We migrated our multi-cloud resource provisioning from a Helm + Terraf",
+    "link": "https://dev.to/scsoi/crossplane-composition-vs-helm-when-each-wins-5ea7",
     "topic": "general"
   },
   {
-    "title": "Check SSL certificates and domain expiry for a whole list of domains",
-    "desc": "<p>An expired certificate or a lapsed domain takes a site down at the worst time, and it is almost always avoidable. If you look after more ",
-    "link": "https://dev.to/ambolt/check-ssl-certificates-and-domain-expiry-for-a-whole-list-of-domains-35b9",
-    "topic": "general"
-  },
-  {
-    "title": "Day 56: A Service Finds Pods by Label, and an Azure Subnet Has No Zone",
-    "desc": "<p>Day 56 of DevOps, Day 6 of Azure. Both tasks today were about what a thing is actually attached to.</p>\n\n<p>A Kubernetes Service is not a",
-    "link": "https://dev.to/ndcodes/day-56-a-service-finds-pods-by-label-and-an-azure-subnet-has-no-zone-3h8j",
-    "topic": "azure"
-  },
-  {
-    "title": "Your tests are not lying to you. Your node_modules is.",
-    "desc": "<p>Three weeks ago my release pipeline shipped a product that no buyer could install.</p>\n\n<p>Not \"a bug we found in review.\" Not \"a broken ",
-    "link": "https://dev.to/verdantstack/your-tests-are-not-lying-to-you-your-nodemodules-is-4kbp",
+    "title": "Why I\u2019m building a unified DevOps OS to kill context switching at 16",
+    "desc": "<p>Hey devs,</p>\n\n<p>I got completely exhausted acting as a human copy-paste bridge. My daily workflow was an endless loop of writing code, ",
+    "link": "https://dev.to/ejoyment/why-im-building-a-unified-devops-os-to-kill-context-switching-at-16-1hkm",
     "topic": "general"
   }
 ]
