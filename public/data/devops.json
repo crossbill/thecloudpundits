@@ -1,50 +1,50 @@
 [
   {
-    "title": "2026-10-04 daily digest for people who still have tickets to close",
-    "desc": "<h2>\n  \n  \n  what shaped the day\n</h2>\n\n<p>today's crawl produced 5 edition articles, which is enough signal to spot the main technical them",
-    "link": "https://dev.to/vinlawz/2026-10-04-daily-digest-for-people-who-still-have-tickets-to-close-3fgp",
+    "title": "Building an EKS Cost Monitoring Stack That Actually Changes Team Behavior",
+    "desc": "<p><em>October 2026 | ~16 min read</em></p>\n\n<h2>\n  \n  \n  The $2,000/Month Creep\n</h2>\n\n<p>Three months after our <a href=\"https://dev.to/ga",
+    "link": "https://dev.to/garrett_yan/building-an-eks-cost-monitoring-stack-that-actually-changes-team-behavior-1nl2",
     "topic": "general"
   },
   {
-    "title": "Lexington's data center debate exposes a planning risk for AI infrastructure",
-    "desc": "<p>A data center capacity plan can look convincing on paper while its location remains unresolved.</p>\n\n<p>A <a href=\"https://www.wuky.org/w",
-    "link": "https://dev.to/da-li-at-pl/lexingtons-data-center-debate-exposes-a-planning-risk-for-ai-infrastructure-9ne",
+    "title": "How to Write an Effective Software Project Brief for Kerala Developers and Remote Clients",
+    "desc": "<h3>\n  \n  \n  Introduction: Why Most Software Briefs Fail\n</h3>\n\n<p>As a Senior Software Developer and Solution Architect operating out of Ko",
+    "link": "https://dev.to/abinschandran/how-to-write-an-effective-software-project-brief-for-kerala-developers-and-remote-clients-4m3j",
     "topic": "general"
   },
   {
-    "title": "I built a local encrypted SSH vault because I don\u2019t want my hosts in the cloud",
-    "desc": "<p>I got tired of SSH sprawl.</p>\n\n<p>PuTTY/Moba sessions in one place. Keys in another. Notes in a random markdown<br />\nfile. And every \u201cm",
-    "link": "https://dev.to/emperr0r/i-built-a-local-encrypted-ssh-vault-because-i-dont-want-my-hosts-in-the-cloud-3c2j",
+    "title": "ScsDriver vs NetDrive \u2014 Windows Cloud Storage Mount",
+    "desc": "<h2>\n  \n  \n  ScsDriver vs NetDrive \u2014 Windows Cloud Storage Mount\n</h2>\n\n<p>NetDrive is the enterprise-grade veteran of the WebDAV-on-Windows",
+    "link": "https://dev.to/scsoi/scsdriver-vs-netdrive-windows-cloud-storage-mount-51ed",
     "topic": "general"
   },
   {
-    "title": "Clean Exit, Wrong Record: Grade the Agent on the Database, Not the Last Line",
-    "desc": "<blockquote>\n<p>Cross-post of an Insights piece. Canonical: <a href=\"https://sheikhwasim.com/insights/clean-exit-wrong-record/\" rel=\"noopene",
-    "link": "https://dev.to/anciwasim/clean-exit-wrong-record-grade-the-agent-on-the-database-not-the-last-line-2a4c",
+    "title": "ScsDriver vs Mountain Duck \u2014 Windows WebDAV Mount Comparison",
+    "desc": "<h2>\n  \n  \n  ScsDriver vs Mountain Duck \u2014 Windows WebDAV Mount Comparison\n</h2>\n\n<p>Mountain Duck is a name you see on every \"WebDAV client ",
+    "link": "https://dev.to/scsoi/scsdriver-vs-mountain-duck-windows-webdav-mount-comparison-3i7n",
     "topic": "general"
   },
   {
-    "title": "Runtime cost matters to me now",
-    "desc": "<p>AI made me reopen a boring question: why am I still paying Fargate rent for V8?</p>\n\n<p>Bun's Zig-to-Rust AI rewrite got me running the m",
-    "link": "https://dev.to/irr123456/runtime-cost-matters-to-me-now-4mdm",
+    "title": "ScsDriver vs RaiDrive \u2014 Real Local Disk Mount Windows WebDAV Comparison 2026",
+    "desc": "<h2>\n  \n  \n  ScsDriver vs RaiDrive \u2014 Real Local Disk Mount Windows WebDAV Comparison 2026\n</h2>\n\n<p>I spent the last six weeks running ScsDr",
+    "link": "https://dev.to/scsoi/scsdriver-vs-raidrive-real-local-disk-mount-windows-webdav-comparison-2026-1h68",
     "topic": "general"
   },
   {
-    "title": "Building a Sub-5ms Sovereign LLM Gateway with Redis and OmniRoute Mesh",
-    "desc": "<h1>\n  \n  \n  Building a Sub-5ms Sovereign LLM Gateway with Redis and OmniRoute Mesh\n</h1>\n\n<p>Modern enterprise AI applications require high",
-    "link": "https://dev.to/hordii_bohdan/building-a-sub-5ms-sovereign-llm-gateway-with-redis-and-omniroute-mesh-hgf",
+    "title": "Install a Self-Hosted PaaS on a $5 VPS in Five Minutes (Levelrail)",
+    "desc": "<h1>\n  \n  \n  Install a Self-Hosted PaaS on a $5 VPS in Five Minutes (Levelrail)\n</h1>\n\n<p>You have a fresh Linux server and an app you would",
+    "link": "https://dev.to/thegdsks/install-a-self-hosted-paas-on-a-5-vps-in-five-minutes-levelrail-3f8j",
     "topic": "general"
   },
   {
-    "title": "MCP at 90+ tools: the catalog breaks before the server does",
-    "desc": "<p>Exposing one internal tool over the Model Context Protocol is a weekend project. Exposing ninety of them to humans <em>and</em> agents, w",
-    "link": "https://dev.to/zerokdevops/mcp-at-90-tools-the-catalog-breaks-before-the-server-does-3ibo",
-    "topic": "general"
+    "title": "Terraform vs OpenTofu vs Pulumi: Which One Should a Small Team Actually Commit To?",
+    "desc": "<p>If your infrastructure is a handful of cloud accounts managed by two to five engineers, all three tools will work, and the deciding facto",
+    "link": "https://dev.to/libme/terraform-vs-opentofu-vs-pulumi-which-one-should-a-small-team-actually-commit-to-15b0",
+    "topic": "terraform"
   },
   {
-    "title": "3 Weeks Learning Linux: Filesystems, File Management and Compression",
-    "desc": "<p>It\u2019s been 3 weeks since I started learning Linux at Akwannya Hub, and the journey has been both challenging and rewarding.</p>\n\n<p>Coming",
-    "link": "https://dev.to/ngmertey_joshua_b2b0fd299/3-weeks-learning-linux-filesystems-file-management-and-compression-3189",
+    "title": "SSH Port 22: Connecting to Servers on the Default or a Custom Port",
+    "desc": "<p>When an SSH connection fails, it\u2019s easy to jump straight to authentication. But first, check the port: SSH normally uses <strong>TCP port",
+    "link": "https://dev.to/__3381495fd2b/ssh-port-22-connecting-to-servers-on-the-default-or-a-custom-port-171b",
     "topic": "general"
   }
 ]
