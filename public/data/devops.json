@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Auto-Renew SSL Certificates on Tencent Cloud CDN and EdgeOne",
-    "desc": "<h2>\n  \n  \n  The Current Rules for Tencent Cloud Free Certificates\n</h2>\n\n<p>Since April 25, 2024, free certificates from Tencent Cloud's SS",
-    "link": "https://dev.to/fizee/how-to-auto-renew-ssl-certificates-on-tencent-cloud-cdn-and-edgeone-422o",
+    "title": "Introducing Kinora: a Playwright test dashboard with history, flaky tracking, and traces",
+    "desc": "<p>Playwright gives you an excellent HTML report for a single test run. You can open a failed test, inspect screenshots, read errors, and la",
+    "link": "https://dev.to/joris-gallot/introducing-kinora-a-playwright-test-dashboard-with-history-flaky-tracking-and-traces-j1i",
     "topic": "general"
   },
   {
-    "title": "tar checksums its headers and never your files",
-    "desc": "<p><code>tar</code> is older than most of the people who type it, and the format underneath has barely changed since the tape drives it was ",
-    "link": "https://dev.to/remdore/tar-checksums-its-headers-and-never-your-files-ed6",
+    "title": "I built a free connection manager that opens SSH, RDP, WinRM and a Mac's High Performance screen in one window",
+    "desc": "<p>My working day used to look like this: PuTTY or a terminal for Linux boxes, mstsc for Windows servers, Screen Sharing for the Macs, WinSC",
+    "link": "https://dev.to/bursug/i-built-a-free-connection-manager-that-opens-ssh-rdp-winrm-and-a-macs-high-performance-screen-in-58i8",
     "topic": "general"
   },
   {
-    "title": "MLOps Best Practices 2026",
-    "desc": "<h1>\n  \n  \n  MLOps Best Practices 2026\n</h1>\n\n<p>This article explores key concepts and practical implementations.</p>\n\n<h2>\n  \n  \n  Overvie",
-    "link": "https://dev.to/hamza_dev_talks/mlops-best-practices-2026-5h0c",
+    "title": "47-Day TLS Certificates Are Coming: What Ops Teams Should Automate Now",
+    "desc": "<p>If you still renew TLS certificates by hand from a calendar reminder, the next three years will be rough. The CA/Browser Forum approved B",
+    "link": "https://dev.to/affix_centersoftechserv/47-day-tls-certificates-are-coming-what-ops-teams-should-automate-now-km2",
     "topic": "general"
   },
   {
-    "title": "Running a Multi-Repo Product with Parallel AI Agents (Claude Code)",
-    "desc": "<p>How I set up one workspace where a single Claude Code session hands work to one agent per repository, keeps them out of each other's code",
-    "link": "https://dev.to/ahsanalidotme/running-a-multi-repo-product-with-parallel-ai-agents-claude-code-2ab4",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Catch DNS and Certificate Failures Before Your Client Hears the Complaints",
-    "desc": "<p>The client's website is managed by a separate web agency. It is excluded from your contract. You do not have the hosting login, the WordP",
-    "link": "https://dev.to/dnsnotify/catch-dns-and-certificate-failures-before-your-client-hears-the-complaints-5hc5",
+    "title": "Integraci\u00f3n de DevSecOps con Bearer SAST y GitHub Actions: detecci\u00f3n, bloqueo y remediaci\u00f3n de vulnerabilidades",
+    "desc": "<p><strong>Autores:</strong> Sa\u00fal Jos\u00e9 Alvarado Urbano y Ana Cecilia Esteban Ramos<br /><br />\n<strong>Repositorio:</strong> <a href=\"https:",
+    "link": "https://dev.to/ana_ceciliaestebanramos/integracion-de-devsecops-con-bearer-sast-y-github-actions-deteccion-bloqueo-y-remediacion-de-45ko",
     "topic": "general"
   },
   {
-    "title": "Docker: The Tool That Ended \"It Works on My Machine\"",
-    "desc": "<p>Every developer has said it at least once: \"But it works on my machine.\" Maybe your laptop had a slightly different version of Python, or",
-    "link": "https://dev.to/obare/docker-the-tool-that-ended-it-works-on-my-machine-2ob8",
-    "topic": "docker"
-  },
-  {
-    "title": "Actively exploited this week: 6 new CISA KEV entries (28 September to 4 October 2026)",
-    "desc": "<p>Every week CISA adds vulnerabilities to its <strong>Known Exploited Vulnerabilities (KEV)</strong> catalogue. The bar for getting on that",
-    "link": "https://dev.to/devaland/actively-exploited-this-week-6-new-cisa-kev-entries-28-september-to-4-october-2026-27gn",
+    "title": "AIRUNCODE 1.5.4 is here and it's on \ud83d\udd25",
+    "desc": "<p>I've been changing something fundamental in AIRUNCODE.</p>\n\n<p>I don't think the frontier model should do all the work.</p>\n\n<p>Right now",
+    "link": "https://dev.to/gustavosis/airuncode-154-is-here-and-its-on-oih",
     "topic": "general"
   },
   {
-    "title": "The Redaction Bug That Leaks Data Center Power Usage",
-    "desc": "<p>A recent incident showed that redacted reports still revealed Google Data Center water and electricity usage. The root cause was a carele",
-    "link": "https://dev.to/robust_true_try/the-redaction-bug-that-leaks-data-center-power-usage-2el7",
+    "title": "I asked production which commit it was running: 23 behind main, the oldest waiting 19 days",
+    "desc": "<p>A feature was done. The ticket said done, the pull request had been merged four days earlier, CI was green. The screen did not exist in p",
+    "link": "https://dev.to/revinsoftware/i-asked-production-which-commit-it-was-running-23-behind-main-the-oldest-waiting-19-days-223l",
+    "topic": "general"
+  },
+  {
+    "title": "The Fragmented Toolchain Trap: Why Engineering Context Dies Between Jira, Confluence, and TestRail",
+    "desc": "<p>It\u2019s 4:30 PM on release day.</p>\n\n<p>A regression test fails. The QA engineer logs a defect.</p>\n\n<p>The developer assigned to fix it ope",
+    "link": "https://dev.to/vellsoftsolution/the-fragmented-toolchain-trap-why-engineering-context-dies-between-jira-confluence-and-testrail-4gn9",
+    "topic": "general"
+  },
+  {
+    "title": "Codecov went down today over an expired certificate: how TLS renewal actually fails",
+    "desc": "<h1>\n  \n  \n  Codecov went down today over an expired certificate: how TLS renewal actually fails\n</h1>\n\n<p>This morning, Codecov's status pa",
+    "link": "https://dev.to/kashif_manzer/codecov-went-down-today-over-an-expired-certificate-how-tls-renewal-actually-fails-4k20",
     "topic": "general"
   }
 ]

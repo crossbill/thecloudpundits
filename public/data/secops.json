@@ -1,5 +1,35 @@
 [
   {
+    "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
+    "desc": "<p>Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS",
+    "link": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
+    "topic": "general"
+  },
+  {
+    "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
+    "desc": "<p>ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
+    "topic": "aws"
+  },
+  {
+    "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
+    "desc": "<p>Hackers stole patient information from Clover Health Investments and AngMar Management Services in July.</p>\n<p>The post <a href=\"https:/",
+    "link": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
+    "topic": "secops"
+  },
+  {
+    "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
+    "desc": "<p>CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
+    "topic": "secops"
+  },
+  {
+    "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
+    "desc": "<p>More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
+    "topic": "secops"
+  },
+  {
     "title": "Alleged ShinyHunters Leader Arrested in Jordan",
     "desc": "<p>Known as Rey, the suspect is reportedly helping the FBI identify and locate other members of the extortion group.</p>\n<p>The post <a href",
     "link": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
@@ -16,35 +46,5 @@
     "desc": "<p>The announcement comes after Trump hosted top executives of AI companies at the White House last week.</p>\n<p>The post <a href=\"https://w",
     "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
     "topic": "general"
-  },
-  {
-    "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
-    "desc": "<p>doxx.net\u2019s new ADN platform prevents agentic misadventure while the agent is operating under the user\u2019s authority.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
-    "topic": "general"
-  },
-  {
-    "title": "Fortra Patches Critical Vulnerabilities in BoKS",
-    "desc": "<p>The bugs could lead to authentication bypass, shell command execution, and memory corruption.</p>\n<p>The post <a href=\"https://www.securi",
-    "link": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-    "topic": "general"
-  },
-  {
-    "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital ",
-    "link": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
-    "topic": "general"
-  },
-  {
-    "title": "macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor",
-    "desc": "<p>The dropper \u201ccarries a complete universal Mach-O inside itself, roughly 756 KB in the development build, and extracts it at runtime.</p>\n",
-    "link": "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
-    "topic": "general"
-  },
-  {
-    "title": "Crypto Scammers Hijack Microsoft\u2019s Official X Account",
-    "desc": "<p>Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
-    "topic": "azure"
   }
 ]
