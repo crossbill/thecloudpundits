@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building an EKS Cost Monitoring Stack That Actually Changes Team Behavior",
-    "desc": "<p><em>October 2026 | ~16 min read</em></p>\n\n<h2>\n  \n  \n  The $2,000/Month Creep\n</h2>\n\n<p>Three months after our <a href=\"https://dev.to/ga",
-    "link": "https://dev.to/garrett_yan/building-an-eks-cost-monitoring-stack-that-actually-changes-team-behavior-1nl2",
+    "title": "How to Auto-Renew SSL Certificates on Tencent Cloud CDN and EdgeOne",
+    "desc": "<h2>\n  \n  \n  The Current Rules for Tencent Cloud Free Certificates\n</h2>\n\n<p>Since April 25, 2024, free certificates from Tencent Cloud's SS",
+    "link": "https://dev.to/fizee/how-to-auto-renew-ssl-certificates-on-tencent-cloud-cdn-and-edgeone-422o",
     "topic": "general"
   },
   {
-    "title": "How to Write an Effective Software Project Brief for Kerala Developers and Remote Clients",
-    "desc": "<h3>\n  \n  \n  Introduction: Why Most Software Briefs Fail\n</h3>\n\n<p>As a Senior Software Developer and Solution Architect operating out of Ko",
-    "link": "https://dev.to/abinschandran/how-to-write-an-effective-software-project-brief-for-kerala-developers-and-remote-clients-4m3j",
+    "title": "tar checksums its headers and never your files",
+    "desc": "<p><code>tar</code> is older than most of the people who type it, and the format underneath has barely changed since the tape drives it was ",
+    "link": "https://dev.to/remdore/tar-checksums-its-headers-and-never-your-files-ed6",
     "topic": "general"
   },
   {
-    "title": "ScsDriver vs NetDrive \u2014 Windows Cloud Storage Mount",
-    "desc": "<h2>\n  \n  \n  ScsDriver vs NetDrive \u2014 Windows Cloud Storage Mount\n</h2>\n\n<p>NetDrive is the enterprise-grade veteran of the WebDAV-on-Windows",
-    "link": "https://dev.to/scsoi/scsdriver-vs-netdrive-windows-cloud-storage-mount-51ed",
+    "title": "MLOps Best Practices 2026",
+    "desc": "<h1>\n  \n  \n  MLOps Best Practices 2026\n</h1>\n\n<p>This article explores key concepts and practical implementations.</p>\n\n<h2>\n  \n  \n  Overvie",
+    "link": "https://dev.to/hamza_dev_talks/mlops-best-practices-2026-5h0c",
     "topic": "general"
   },
   {
-    "title": "ScsDriver vs Mountain Duck \u2014 Windows WebDAV Mount Comparison",
-    "desc": "<h2>\n  \n  \n  ScsDriver vs Mountain Duck \u2014 Windows WebDAV Mount Comparison\n</h2>\n\n<p>Mountain Duck is a name you see on every \"WebDAV client ",
-    "link": "https://dev.to/scsoi/scsdriver-vs-mountain-duck-windows-webdav-mount-comparison-3i7n",
+    "title": "Running a Multi-Repo Product with Parallel AI Agents (Claude Code)",
+    "desc": "<p>How I set up one workspace where a single Claude Code session hands work to one agent per repository, keeps them out of each other's code",
+    "link": "https://dev.to/ahsanalidotme/running-a-multi-repo-product-with-parallel-ai-agents-claude-code-2ab4",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Catch DNS and Certificate Failures Before Your Client Hears the Complaints",
+    "desc": "<p>The client's website is managed by a separate web agency. It is excluded from your contract. You do not have the hosting login, the WordP",
+    "link": "https://dev.to/dnsnotify/catch-dns-and-certificate-failures-before-your-client-hears-the-complaints-5hc5",
     "topic": "general"
   },
   {
-    "title": "ScsDriver vs RaiDrive \u2014 Real Local Disk Mount Windows WebDAV Comparison 2026",
-    "desc": "<h2>\n  \n  \n  ScsDriver vs RaiDrive \u2014 Real Local Disk Mount Windows WebDAV Comparison 2026\n</h2>\n\n<p>I spent the last six weeks running ScsDr",
-    "link": "https://dev.to/scsoi/scsdriver-vs-raidrive-real-local-disk-mount-windows-webdav-comparison-2026-1h68",
+    "title": "Docker: The Tool That Ended \"It Works on My Machine\"",
+    "desc": "<p>Every developer has said it at least once: \"But it works on my machine.\" Maybe your laptop had a slightly different version of Python, or",
+    "link": "https://dev.to/obare/docker-the-tool-that-ended-it-works-on-my-machine-2ob8",
+    "topic": "docker"
+  },
+  {
+    "title": "Actively exploited this week: 6 new CISA KEV entries (28 September to 4 October 2026)",
+    "desc": "<p>Every week CISA adds vulnerabilities to its <strong>Known Exploited Vulnerabilities (KEV)</strong> catalogue. The bar for getting on that",
+    "link": "https://dev.to/devaland/actively-exploited-this-week-6-new-cisa-kev-entries-28-september-to-4-october-2026-27gn",
     "topic": "general"
   },
   {
-    "title": "Install a Self-Hosted PaaS on a $5 VPS in Five Minutes (Levelrail)",
-    "desc": "<h1>\n  \n  \n  Install a Self-Hosted PaaS on a $5 VPS in Five Minutes (Levelrail)\n</h1>\n\n<p>You have a fresh Linux server and an app you would",
-    "link": "https://dev.to/thegdsks/install-a-self-hosted-paas-on-a-5-vps-in-five-minutes-levelrail-3f8j",
-    "topic": "general"
-  },
-  {
-    "title": "Terraform vs OpenTofu vs Pulumi: Which One Should a Small Team Actually Commit To?",
-    "desc": "<p>If your infrastructure is a handful of cloud accounts managed by two to five engineers, all three tools will work, and the deciding facto",
-    "link": "https://dev.to/libme/terraform-vs-opentofu-vs-pulumi-which-one-should-a-small-team-actually-commit-to-15b0",
-    "topic": "terraform"
-  },
-  {
-    "title": "SSH Port 22: Connecting to Servers on the Default or a Custom Port",
-    "desc": "<p>When an SSH connection fails, it\u2019s easy to jump straight to authentication. But first, check the port: SSH normally uses <strong>TCP port",
-    "link": "https://dev.to/__3381495fd2b/ssh-port-22-connecting-to-servers-on-the-default-or-a-custom-port-171b",
+    "title": "The Redaction Bug That Leaks Data Center Power Usage",
+    "desc": "<p>A recent incident showed that redacted reports still revealed Google Data Center water and electricity usage. The root cause was a carele",
+    "link": "https://dev.to/robust_true_try/the-redaction-bug-that-leaks-data-center-power-usage-2el7",
     "topic": "general"
   }
 ]
