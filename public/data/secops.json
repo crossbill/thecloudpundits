@@ -1,5 +1,41 @@
 [
   {
+    "title": "FBI Arrests \u2018Most Wanted\u2019 Developer of Ploutus ATM Malware",
+    "desc": "<p>An alleged leader of Tren de Aragua\u2019s ATM jackpotting activities, Canelon Aguirre was on the FBI\u2019s top 10 most wanted list since March 20",
+    "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
+    "topic": "general"
+  },
+  {
+    "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
+    "desc": "<p>Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
+    "topic": "general"
+  },
+  {
+    "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026",
+    "desc": "<p>Significant cybersecurity M&A deals announced by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind.</p>\n<p>The post <a href=\"https:/",
+    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
+    "topic": "secops"
+  },
+  {
+    "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+    "desc": "<p>Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
+    "topic": "general"
+  },
+  {
+    "title": "8.8 Million Impacted by Data Breach at Denmark\u2019s Central Person Register",
+    "desc": "<p>Hackers abused a company\u2019s lawful access to the CPR system to steal the personal information of registered citizens.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+    "topic": "secops"
+  },
+  {
+    "title": "Social Engineering Detection Moves Into the Live Conversation",
+    "desc": "<p>Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engin",
+    "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
+    "topic": "general"
+  },
+  {
     "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
     "desc": "<p>Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS",
     "link": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
@@ -10,41 +46,5 @@
     "desc": "<p>ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation.</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
     "topic": "aws"
-  },
-  {
-    "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-    "desc": "<p>Hackers stole patient information from Clover Health Investments and AngMar Management Services in July.</p>\n<p>The post <a href=\"https:/",
-    "link": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-    "topic": "secops"
-  },
-  {
-    "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
-    "desc": "<p>CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
-    "topic": "secops"
-  },
-  {
-    "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
-    "desc": "<p>More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
-    "topic": "secops"
-  },
-  {
-    "title": "Alleged ShinyHunters Leader Arrested in Jordan",
-    "desc": "<p>Known as Rey, the suspect is reportedly helping the FBI identify and locate other members of the extortion group.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
-    "topic": "general"
-  },
-  {
-    "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
-    "desc": "<p>Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched.</",
-    "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
-    "topic": "general"
-  },
-  {
-    "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
-    "desc": "<p>The announcement comes after Trump hosted top executives of AI companies at the White House last week.</p>\n<p>The post <a href=\"https://w",
-    "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-    "topic": "general"
   }
 ]

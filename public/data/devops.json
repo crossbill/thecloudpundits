@@ -1,50 +1,50 @@
 [
   {
-    "title": "ISO 42001 Readiness: 5 AI Governance Companies and What Engineering Teams Should Evaluate",
-    "desc": "<p>An AI feature passes evaluation, reaches production, and receives a model update a month later.</p>\n\n<p>At that point, several questions ",
-    "link": "https://dev.to/arjun_07/iso-42001-readiness-5-ai-governance-companies-and-what-engineering-teams-should-evaluate-4mgf",
-    "topic": "guardrails"
+    "title": "Deploying an Ubuntu Web Server on Azure and Installing Nginx.",
+    "desc": "<p>Deploying an Ubuntu Web Server on Azure and Installing Nginx.<br />\nIntroduction<br />\nCloud computing has transformed the way organizati",
+    "link": "https://dev.to/emeka_edebatu_210e2c54eb8/deploying-an-ubuntu-web-server-on-azure-and-installing-nginx-549c",
+    "topic": "azure"
   },
   {
-    "title": "Cron Expressions Demystified \u2014 Build a Human-Readable Cron Parser",
-    "desc": "<h2>\n  \n  \n  Cron Expressions Demystified \u2014 Build a Human-Readable Cron Parser\n</h2>\n\n<p>Cron expressions are one of those things that look ",
-    "link": "https://dev.to/toolzip/cron-expressions-demystified-build-a-human-readable-cron-parser-ap5",
+    "title": "Why DevOps and Server Maintenance Matter for Modern Businesses",
+    "desc": "<p>Modern businesses rely heavily on digital systems to manage daily operations, communicate with customers, and deliver online services. As",
+    "link": "https://dev.to/safpro_tech/why-devops-and-server-maintenance-matter-for-modern-businesses-4a70",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent Has a Burn Rate: Governing the Cost of Production AI Agents on AWS",
-    "desc": "<h1>\n  \n  \n  Your AI Agent Has a Burn Rate: Governing the Cost of Production AI Agents on AWS\n</h1>\n\n<p>Every AI pilot I have reviewed in th",
-    "link": "https://dev.to/karmendra_pandey_43ac6983/your-ai-agent-has-a-burn-rate-governing-the-cost-of-production-ai-agents-on-aws-1jil",
-    "topic": "aws"
-  },
-  {
-    "title": "Ingesting Source Code and Scripted Schema Without a Database Connection",
-    "desc": "<p>A production incident lands on a Toronto engineering team's desk at 2 p.m. on a Tuesday. The on-call developer is on vacation. The remain",
-    "link": "https://dev.to/shahrozkhan/ingesting-source-code-and-scripted-schema-without-a-database-connection-23aj",
+    "title": "Vs Sparring Prep: what we learned building Random Tactical Timer",
+    "desc": "<h2>\n  \n  \n  What changed today\n</h2>\n\n<ul>\n<li>chore(analytics): refresh marketing snapshots from wiki-sync</li>\n<li>chore(agents): refresh",
+    "link": "https://dev.to/igorganapolsky/vs-sparring-prep-what-we-learned-building-random-tactical-timer-17gh",
     "topic": "general"
   },
   {
-    "title": "Buy KYC-Approved USA Accounts - Storage - Tt Community",
-    "desc": "<p>Buy KYC-Approved USA Accounts - Storage - Tt Community<br />\n24 hours response/(Contact US)</p>\n\n<p>\u27a4 WhatsApp: +1 (903) 702-9701<br />\n\u27a4",
-    "link": "https://dev.to/usasvcit43tgf5/buy-kyc-approved-usa-accounts-storage-tt-community-5e8g",
+    "title": "Where a discount belongs: the invoice or the line, never both",
+    "desc": "<p>An invoice can agree with itself in every direction and still be the wrong document. The case that survives validation is a discount gran",
+    "link": "https://dev.to/shipmindlabs/where-a-discount-belongs-the-invoice-or-the-line-never-both-3je7",
     "topic": "general"
   },
   {
-    "title": "Stop Polling Drop Directories: Practical systemd.path Units on Linux",
-    "desc": "<p>You have a drop directory. A scanner dumps PDFs into <code>/var/spool/inbox</code>, a camera drops JPEGs into <code>/var/lib/captures</co",
-    "link": "https://dev.to/lyraalishaikh/stop-polling-drop-directories-practical-systemdpath-units-on-linux-4807",
+    "title": "I Let an AI Agent Move My Production SaaS to a New Server. Here Is What It Actually Did",
+    "desc": "<p>I run <a href=\"https://convertica.net/\" rel=\"noopener noreferrer\">Convertica</a>, a small PDF toolkit: Django, Celery, Redis, Postgres, N",
+    "link": "https://dev.to/convertica/i-let-an-ai-agent-move-my-production-saas-to-a-new-server-here-is-what-it-actually-did-p6",
     "topic": "general"
   },
   {
-    "title": "Check Linux Version the Right Way: Distro vs. Kernel",
-    "desc": "<p>When someone asks which Linux version a machine is running, they may mean the distribution release or the kernel. Those are different val",
-    "link": "https://dev.to/__3381495fd2b/check-linux-version-the-right-way-distro-vs-kernel-15ma",
+    "title": "How AI and Business Automation Can Improve Modern Development Workflows",
+    "desc": "<p>Modern software development is changing quickly. Developers are no longer working only with code editors, databases, and deployment tools",
+    "link": "https://dev.to/axealphatech1/how-ai-and-business-automation-can-improve-modern-development-workflows-3pfo",
     "topic": "general"
   },
   {
-    "title": "Alerts Worth Waking Up For",
-    "desc": "<p>The most honest way to test your monitoring is to wait until everything goes down and then see who tells you about it first: the system o",
-    "link": "https://dev.to/fattakhov/alerts-worth-waking-up-for-5aof",
+    "title": "The real cost of self-hosting your own CI/CD runner",
+    "desc": "<p>It starts with a reasonable decision. Your hosted CI minutes bill keeps climbing, or your builds need more memory than the default runner",
+    "link": "https://dev.to/amitshuklabag/the-real-cost-of-self-hosting-your-own-cicd-runner-4od",
+    "topic": "general"
+  },
+  {
+    "title": "Stop exposing the API server through a NodePort (CKS)",
+    "desc": "<h2>\n  \n  \n  Stop exposing the API server through a NodePort (CKS)\n</h2>\n\n<p>Lesson three of the CKS series. A security review found the Kub",
+    "link": "https://dev.to/thecybersidekick/stop-exposing-the-api-server-through-a-nodeport-cks-1ene",
     "topic": "general"
   }
 ]
