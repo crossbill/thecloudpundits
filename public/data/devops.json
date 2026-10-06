@@ -1,50 +1,50 @@
 [
   {
-    "title": "Introducing Kinora: a Playwright test dashboard with history, flaky tracking, and traces",
-    "desc": "<p>Playwright gives you an excellent HTML report for a single test run. You can open a failed test, inspect screenshots, read errors, and la",
-    "link": "https://dev.to/joris-gallot/introducing-kinora-a-playwright-test-dashboard-with-history-flaky-tracking-and-traces-j1i",
+    "title": "ISO 42001 Readiness: 5 AI Governance Companies and What Engineering Teams Should Evaluate",
+    "desc": "<p>An AI feature passes evaluation, reaches production, and receives a model update a month later.</p>\n\n<p>At that point, several questions ",
+    "link": "https://dev.to/arjun_07/iso-42001-readiness-5-ai-governance-companies-and-what-engineering-teams-should-evaluate-4mgf",
+    "topic": "guardrails"
+  },
+  {
+    "title": "Cron Expressions Demystified \u2014 Build a Human-Readable Cron Parser",
+    "desc": "<h2>\n  \n  \n  Cron Expressions Demystified \u2014 Build a Human-Readable Cron Parser\n</h2>\n\n<p>Cron expressions are one of those things that look ",
+    "link": "https://dev.to/toolzip/cron-expressions-demystified-build-a-human-readable-cron-parser-ap5",
     "topic": "general"
   },
   {
-    "title": "I built a free connection manager that opens SSH, RDP, WinRM and a Mac's High Performance screen in one window",
-    "desc": "<p>My working day used to look like this: PuTTY or a terminal for Linux boxes, mstsc for Windows servers, Screen Sharing for the Macs, WinSC",
-    "link": "https://dev.to/bursug/i-built-a-free-connection-manager-that-opens-ssh-rdp-winrm-and-a-macs-high-performance-screen-in-58i8",
+    "title": "Your AI Agent Has a Burn Rate: Governing the Cost of Production AI Agents on AWS",
+    "desc": "<h1>\n  \n  \n  Your AI Agent Has a Burn Rate: Governing the Cost of Production AI Agents on AWS\n</h1>\n\n<p>Every AI pilot I have reviewed in th",
+    "link": "https://dev.to/karmendra_pandey_43ac6983/your-ai-agent-has-a-burn-rate-governing-the-cost-of-production-ai-agents-on-aws-1jil",
+    "topic": "aws"
+  },
+  {
+    "title": "Ingesting Source Code and Scripted Schema Without a Database Connection",
+    "desc": "<p>A production incident lands on a Toronto engineering team's desk at 2 p.m. on a Tuesday. The on-call developer is on vacation. The remain",
+    "link": "https://dev.to/shahrozkhan/ingesting-source-code-and-scripted-schema-without-a-database-connection-23aj",
     "topic": "general"
   },
   {
-    "title": "47-Day TLS Certificates Are Coming: What Ops Teams Should Automate Now",
-    "desc": "<p>If you still renew TLS certificates by hand from a calendar reminder, the next three years will be rough. The CA/Browser Forum approved B",
-    "link": "https://dev.to/affix_centersoftechserv/47-day-tls-certificates-are-coming-what-ops-teams-should-automate-now-km2",
+    "title": "Buy KYC-Approved USA Accounts - Storage - Tt Community",
+    "desc": "<p>Buy KYC-Approved USA Accounts - Storage - Tt Community<br />\n24 hours response/(Contact US)</p>\n\n<p>\u27a4 WhatsApp: +1 (903) 702-9701<br />\n\u27a4",
+    "link": "https://dev.to/usasvcit43tgf5/buy-kyc-approved-usa-accounts-storage-tt-community-5e8g",
     "topic": "general"
   },
   {
-    "title": "Integraci\u00f3n de DevSecOps con Bearer SAST y GitHub Actions: detecci\u00f3n, bloqueo y remediaci\u00f3n de vulnerabilidades",
-    "desc": "<p><strong>Autores:</strong> Sa\u00fal Jos\u00e9 Alvarado Urbano y Ana Cecilia Esteban Ramos<br /><br />\n<strong>Repositorio:</strong> <a href=\"https:",
-    "link": "https://dev.to/ana_ceciliaestebanramos/integracion-de-devsecops-con-bearer-sast-y-github-actions-deteccion-bloqueo-y-remediacion-de-45ko",
+    "title": "Stop Polling Drop Directories: Practical systemd.path Units on Linux",
+    "desc": "<p>You have a drop directory. A scanner dumps PDFs into <code>/var/spool/inbox</code>, a camera drops JPEGs into <code>/var/lib/captures</co",
+    "link": "https://dev.to/lyraalishaikh/stop-polling-drop-directories-practical-systemdpath-units-on-linux-4807",
     "topic": "general"
   },
   {
-    "title": "AIRUNCODE 1.5.4 is here and it's on \ud83d\udd25",
-    "desc": "<p>I've been changing something fundamental in AIRUNCODE.</p>\n\n<p>I don't think the frontier model should do all the work.</p>\n\n<p>Right now",
-    "link": "https://dev.to/gustavosis/airuncode-154-is-here-and-its-on-oih",
+    "title": "Check Linux Version the Right Way: Distro vs. Kernel",
+    "desc": "<p>When someone asks which Linux version a machine is running, they may mean the distribution release or the kernel. Those are different val",
+    "link": "https://dev.to/__3381495fd2b/check-linux-version-the-right-way-distro-vs-kernel-15ma",
     "topic": "general"
   },
   {
-    "title": "I asked production which commit it was running: 23 behind main, the oldest waiting 19 days",
-    "desc": "<p>A feature was done. The ticket said done, the pull request had been merged four days earlier, CI was green. The screen did not exist in p",
-    "link": "https://dev.to/revinsoftware/i-asked-production-which-commit-it-was-running-23-behind-main-the-oldest-waiting-19-days-223l",
-    "topic": "general"
-  },
-  {
-    "title": "The Fragmented Toolchain Trap: Why Engineering Context Dies Between Jira, Confluence, and TestRail",
-    "desc": "<p>It\u2019s 4:30 PM on release day.</p>\n\n<p>A regression test fails. The QA engineer logs a defect.</p>\n\n<p>The developer assigned to fix it ope",
-    "link": "https://dev.to/vellsoftsolution/the-fragmented-toolchain-trap-why-engineering-context-dies-between-jira-confluence-and-testrail-4gn9",
-    "topic": "general"
-  },
-  {
-    "title": "Codecov went down today over an expired certificate: how TLS renewal actually fails",
-    "desc": "<h1>\n  \n  \n  Codecov went down today over an expired certificate: how TLS renewal actually fails\n</h1>\n\n<p>This morning, Codecov's status pa",
-    "link": "https://dev.to/kashif_manzer/codecov-went-down-today-over-an-expired-certificate-how-tls-renewal-actually-fails-4k20",
+    "title": "Alerts Worth Waking Up For",
+    "desc": "<p>The most honest way to test your monitoring is to wait until everything goes down and then see who tells you about it first: the system o",
+    "link": "https://dev.to/fattakhov/alerts-worth-waking-up-for-5aof",
     "topic": "general"
   }
 ]
