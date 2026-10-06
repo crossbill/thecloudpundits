@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Loop Is Closed \u2014 So Who Checks the Agent's Work?",
-    "desc": "<p>This week, a commenter caught my agent in a lie.</p>\n\n<p>Not a malicious lie. Something subtler and far more common: the agent had descri",
-    "link": "https://dev.to/mindon/the-loop-is-closed-so-who-checks-the-agents-work-253f",
+    "title": "AWS CI/CD Email Tests Need a Promotion Receipt",
+    "desc": "<p>Email verification tests often end with a boolean: passed or failed. That is enough for a local test, but it is thin evidence for an AWS ",
+    "link": "https://dev.to/jasonmills94/aws-cicd-email-tests-need-a-promotion-receipt-25hc",
+    "topic": "aws"
+  },
+  {
+    "title": "Using SCP on a Custom Port (and Avoiding the -p vs -P Mix-Up)",
+    "desc": "<p>If SSH listens on a nonstandard port, SCP needs to connect to that same port. The easy-to-miss detail is capitalization: use uppercase <c",
+    "link": "https://dev.to/__3381495fd2b/using-scp-on-a-custom-port-and-avoiding-the-p-vs-p-mix-up-58hn",
     "topic": "general"
   },
   {
-    "title": "KV Cache Quantization in LLM Serving: FP8 and INT8 Tradeoffs, the Silent config.json Trap, and How to Measure It Fairly",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>The KV cache is often the real memory ceiling in LLM serving, not the weights. Quantizing it to FP8 or INT8 rou",
-    "link": "https://dev.to/wolfsea2357/kv-cache-quantization-in-llm-serving-fp8-and-int8-tradeoffs-the-silent-configjson-trap-and-how-5acc",
+    "title": "Boundary Contract: Make Every Agent Tool Fail Boring",
+    "desc": "<blockquote>\n<p>Cross-post of Insights #8 \u2014 canonical: <a href=\"https://sheikhwasim.com/insights/boundary-contract-tools-fail-boring/\" rel=\"",
+    "link": "https://dev.to/anciwasim/boundary-contract-make-every-agent-tool-fail-boring-15bm",
     "topic": "general"
   },
   {
-    "title": "Ingesting FlightAware Waypoint and Airport Boards Without API Keys",
-    "desc": "<p>Flight operations teams and logistics tracking pipelines frequently need real-time data on gate changes, runway taxi times, and waypoint ",
-    "link": "https://dev.to/crawlerbros/ingesting-flightaware-waypoint-and-airport-boards-without-api-keys-3o67",
+    "title": "Practical Tips for Deploying Large Language Models in Production",
+    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Deploying large language models (LLMs) in a production environment presents a different set of challenge",
+    "link": "https://dev.to/developerzai/practical-tips-for-deploying-large-language-models-in-production-o88",
     "topic": "general"
   },
   {
-    "title": "DGX Spark at 64GB: What $4,999 of Local Compute Buys a Small Team",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>NVIDIA has put a 64GB configuration of DGX Spark on sale from Acer, ASUS, Dell, Gigabyte, HP and MSI from",
-    "link": "https://dev.to/neticslabs/dgx-spark-at-64gb-what-4999-of-local-compute-buys-a-small-team-1cg5",
+    "title": "React Native OTA Is a Release Pipeline, Not a Download Feature",
+    "desc": "<p>\u201cDownload a new JavaScript bundle and run it\u201d describes transport. It does not describe a production release system.</p>\n\n<p>A real React",
+    "link": "https://dev.to/gfean/react-native-ota-is-a-release-pipeline-not-a-download-feature-3bo8",
     "topic": "general"
   },
   {
-    "title": "[Boost]",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/sk",
-    "link": "https://dev.to/arlenvasconcelos/-4ln8",
+    "title": "The job agent said \"I Act TODAY\" 26 times \u2014 and delivered two jobs",
+    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/the-success-line-printed-before-the-save-field-note\" rel=\"noopener noreferrer\">",
+    "link": "https://dev.to/elenarevicheva/the-job-agent-said-i-act-today-26-times-and-delivered-two-jobs-4gmd",
     "topic": "general"
   },
   {
-    "title": "p99, Load Balancers and Autoscaling: Latency Intuition You Can Play With",
-    "desc": "<p>Averages hide latency problems. Every SRE learns this, usually the hard way: the dashboard says 80ms average while support tickets say th",
-    "link": "https://dev.to/devopsdaily/p99-load-balancers-and-autoscaling-latency-intuition-you-can-play-with-41mk",
+    "title": "Kafka load testing: end-to-end latency, consumer lag and the clock trap",
+    "desc": "<p>In a system built on Kafka, the bottleneck is often not the HTTP layer but the message path: producers slow down waiting for the broker's",
+    "link": "https://dev.to/tanerakdemir/kafka-load-testing-end-to-end-latency-consumer-lag-and-the-clock-trap-2eaf",
     "topic": "general"
   },
   {
-    "title": "Tunnels are for dev: why our production webhooks left localhost.run",
-    "desc": "<h1>\n  \n  \n  Tunnels are for dev: why our production webhooks left localhost.run\n</h1>\n\n<p>This is the third post in a trilogy I didn't plan",
-    "link": "https://dev.to/hermesvizier/tunnels-are-for-dev-why-our-production-webhooks-left-localhostrun-3pg9",
-    "topic": "general"
-  },
-  {
-    "title": "localhost.run in production: the flapping signature, the false alarms, and knowing when to stop restarting",
-    "desc": "<h1>\n  \n  \n  localhost.run in production: the flapping signature, the false alarms, and knowing when to stop restarting\n</h1>\n\n<p>In <a href",
-    "link": "https://dev.to/hermesvizier/localhostrun-in-production-the-flapping-signature-the-false-alarms-and-knowing-when-to-stop-4m9",
+    "title": "A $22,000 GPU bill with a very quiet night shift",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/a-22000-gpu-bill-with-a-very-quiet-night-shift-5c81",
     "topic": "general"
   }
 ]
