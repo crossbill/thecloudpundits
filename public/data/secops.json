@@ -1,5 +1,11 @@
 [
   {
+    "title": "FBI Blames Contractor\u2019s Missed Patch for ShinyHunters Breach",
+    "desc": "<p>The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees.</p>\n<p",
+    "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
+    "topic": "secops"
+  },
+  {
     "title": "FBI Arrests \u2018Most Wanted\u2019 Developer of Ploutus ATM Malware",
     "desc": "<p>An alleged leader of Tren de Aragua\u2019s ATM jackpotting activities, Canelon Aguirre was on the FBI\u2019s top 10 most wanted list since March 20",
     "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
@@ -40,11 +46,5 @@
     "desc": "<p>Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS",
     "link": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
     "topic": "general"
-  },
-  {
-    "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
-    "desc": "<p>ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
-    "topic": "aws"
   }
 ]
