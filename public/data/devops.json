@@ -1,50 +1,50 @@
 [
   {
-    "title": "I tested a PostgreSQL migration checker on 760 real migration files",
-    "desc": "<p>A migration can be valid SQL and still be a bad production change.</p>\n\n<p>An index build can block writes. A type change can rewrite a l",
-    "link": "https://dev.to/milekv/i-tested-a-postgresql-migration-checker-on-760-real-migration-files-4d9h",
+    "title": "Your AI bill doubled overnight and nobody knows why? \ud83d\ude05 This post breaks down 7 enterprise AI gateways and the lessons that save you from that moment \ud83d\udcb8 Worth a read before your next rollout \ud83d\ude80",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/de",
+    "link": "https://dev.to/michaeljohnsondz/your-ai-bill-doubled-overnight-and-nobody-knows-why-this-post-breaks-down-7-enterprise-ai-2ed3",
     "topic": "general"
   },
   {
-    "title": "Fail your GitHub Actions deploy if Pathly Ping or Chain is red",
-    "desc": "<p>Unit tests pass. Prod still breaks on the path users actually hit.</p>\n\n<p>Pathly: Ping if HTTP is up, Flow if a user can walk the journe",
-    "link": "https://dev.to/keyral/fail-your-github-actions-deploy-if-pathly-ping-or-chain-is-red-3hf9",
+    "title": "A provider goes down at 2 AM and your fallback quietly returns wrong answers? \ud83d\ude2c This post covers 7 AI gateways and the production lessons nobody tells you upfront \u23f0 Read it before you deploy \ud83d\udd25",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/de",
+    "link": "https://dev.to/jennifer-smith/before-you-deploy-an-ai-gateway-read-this-covers-routing-observability-cost-controls-and-the-3gh5",
     "topic": "general"
   },
   {
-    "title": "Namecheap's Outage Didn't Break DNS Resolution. It Broke DNS Management.",
-    "desc": "<p>On August 13, 2026, a cooling system failure at a data center took down most of Namecheap's platform for roughly a day. Hosting, email, b",
-    "link": "https://dev.to/webpixie/namecheaps-outage-didnt-break-dns-resolution-it-broke-dns-management-38fa",
+    "title": "Five Ways My AI Agents Went Wrong (and What I Changed)",
+    "desc": "<p>I run a small software company by myself. Claude Code agents play the engineers, QA, marketing and so on. It works better than I expected",
+    "link": "https://dev.to/bgelfius/five-ways-my-ai-agents-went-wrong-and-what-i-changed-6gk",
     "topic": "general"
   },
   {
-    "title": "Dependabot was watching 2 of my 6 updatable surfaces, and the config looked complete",
-    "desc": "<p>My <code>dependabot.yml</code>, which I'd have described as done:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highl",
-    "link": "https://dev.to/juanauriti/dependabot-was-watching-2-of-my-6-updatable-surfaces-and-the-config-looked-complete-4d5d",
+    "title": "Two Etsy listings expired and dropped out of the catalogue",
+    "desc": "<p>On 2026-10-07 at 04:47 our renewal alert fired with a warn severity. Two Etsy listings, #130 and #131, had expired and dropped out of the",
+    "link": "https://dev.to/robswierk/two-etsy-listings-expired-and-dropped-out-of-the-catalogue-1423",
     "topic": "general"
   },
   {
-    "title": "PostgreSQL 19: Online Table Reorganization with REPACK (Similar to Oracle DBMS_REDEFINITION)",
-    "desc": "<p>For years, PostgreSQL DBAs have relied on <strong>VACUUM FULL</strong> to rewrite tables and reclaim unused space. However, when minimizi",
-    "link": "https://dev.to/vahidusefzadeh/postgresql-19-online-table-reorganization-with-repack-similar-to-oracle-dbmsredefinition-4hog",
+    "title": "Do proxy providers keep logs? What they record and why",
+    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/do-proxy-providers-log/\" rel=\"noopener noreferrer\">proxymint</a>.</em></p>\n\n<h",
+    "link": "https://dev.to/proxymint/do-proxy-providers-keep-logs-what-they-record-and-why-2al5",
     "topic": "general"
   },
   {
-    "title": "The Delegation Matrix: A Practical Framework for AI Agents in Media Automation",
-    "desc": "<p>A demo can make publishing look like one task: give an agent a topic, wait, and receive a finished newsletter. In production, those steps",
-    "link": "https://dev.to/hlinor/the-delegation-matrix-a-practical-framework-for-ai-agents-in-media-automation-5c63",
-    "topic": "general"
+    "title": "We rewrote all 50 of our MCP tool descriptions to get into Claude's Connectors Directory",
+    "desc": "<p>I build <a href=\"https://lastping.dev\" rel=\"noopener noreferrer\">LastPing</a>, a monitoring service for cron jobs, CI pipelines and AI ag",
+    "link": "https://dev.to/tp1111/we-rewrote-all-50-of-our-mcp-tool-descriptions-to-get-into-claudes-connectors-directory-11ji",
+    "topic": "anthropic"
   },
   {
-    "title": "How to get an email when a Windows scheduled task fails (without babysitting Task Scheduler)",
-    "desc": "<p>Your backup job runs at 3 a.m. At 9 a.m. your manager asks why last night's export is missing.<br />\nYou open Task Scheduler and see it: ",
-    "link": "https://dev.to/opskit/how-to-get-an-email-when-a-windows-scheduled-task-fails-without-babysitting-task-scheduler-3986",
-    "topic": "general"
-  },
-  {
-    "title": "Build vs. Buy Your Kubernetes Development Environment",
-    "desc": "<p><em>Written by Arsh Sharma. Originally published on <a href=\"https://metalbear.com/blog/build-vs-buy/\" rel=\"noopener noreferrer\">metalbea",
-    "link": "https://dev.to/metalbear/build-vs-buy-your-kubernetes-development-environment-13hm",
+    "title": "Kubernetes: depurar emails tras un rollback",
+    "desc": "<p>Un rollback de Kubernetes suele devolver la aplicaci\u00f3n a un estado conocido. Sin embargo, no siempre devuelve el contexto de las pruebas ",
+    "link": "https://dev.to/alexcarteruk/kubernetes-depurar-emails-tras-un-rollback-4eod",
     "topic": "kubernetes"
+  },
+  {
+    "title": "How to Check Website Security: The 6 Checks Every Attacker Runs First",
+    "desc": "<p><em>Originally published in German on <a href=\"https://next-levels.de/blog/website-sicherheit-prufen-die-6-checks-die-jeder-angreifer-zue",
+    "link": "https://dev.to/slawanextlevels/how-to-check-website-security-the-6-checks-every-attacker-runs-first-1jg8",
+    "topic": "secops"
   }
 ]
