@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your AI bill doubled overnight and nobody knows why? \ud83d\ude05 This post breaks down 7 enterprise AI gateways and the lessons that save you from that moment \ud83d\udcb8 Worth a read before your next rollout \ud83d\ude80",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/de",
-    "link": "https://dev.to/michaeljohnsondz/your-ai-bill-doubled-overnight-and-nobody-knows-why-this-post-breaks-down-7-enterprise-ai-2ed3",
-    "topic": "general"
-  },
-  {
-    "title": "A provider goes down at 2 AM and your fallback quietly returns wrong answers? \ud83d\ude2c This post covers 7 AI gateways and the production lessons nobody tells you upfront \u23f0 Read it before you deploy \ud83d\udd25",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/de",
-    "link": "https://dev.to/jennifer-smith/before-you-deploy-an-ai-gateway-read-this-covers-routing-observability-cost-controls-and-the-3gh5",
-    "topic": "general"
-  },
-  {
-    "title": "Five Ways My AI Agents Went Wrong (and What I Changed)",
-    "desc": "<p>I run a small software company by myself. Claude Code agents play the engineers, QA, marketing and so on. It works better than I expected",
-    "link": "https://dev.to/bgelfius/five-ways-my-ai-agents-went-wrong-and-what-i-changed-6gk",
-    "topic": "general"
-  },
-  {
-    "title": "Two Etsy listings expired and dropped out of the catalogue",
-    "desc": "<p>On 2026-10-07 at 04:47 our renewal alert fired with a warn severity. Two Etsy listings, #130 and #131, had expired and dropped out of the",
-    "link": "https://dev.to/robswierk/two-etsy-listings-expired-and-dropped-out-of-the-catalogue-1423",
-    "topic": "general"
-  },
-  {
-    "title": "Do proxy providers keep logs? What they record and why",
-    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/do-proxy-providers-log/\" rel=\"noopener noreferrer\">proxymint</a>.</em></p>\n\n<h",
-    "link": "https://dev.to/proxymint/do-proxy-providers-keep-logs-what-they-record-and-why-2al5",
-    "topic": "general"
-  },
-  {
-    "title": "We rewrote all 50 of our MCP tool descriptions to get into Claude's Connectors Directory",
-    "desc": "<p>I build <a href=\"https://lastping.dev\" rel=\"noopener noreferrer\">LastPing</a>, a monitoring service for cron jobs, CI pipelines and AI ag",
-    "link": "https://dev.to/tp1111/we-rewrote-all-50-of-our-mcp-tool-descriptions-to-get-into-claudes-connectors-directory-11ji",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Kubernetes: depurar emails tras un rollback",
-    "desc": "<p>Un rollback de Kubernetes suele devolver la aplicaci\u00f3n a un estado conocido. Sin embargo, no siempre devuelve el contexto de las pruebas ",
-    "link": "https://dev.to/alexcarteruk/kubernetes-depurar-emails-tras-un-rollback-4eod",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How to Check Website Security: The 6 Checks Every Attacker Runs First",
-    "desc": "<p><em>Originally published in German on <a href=\"https://next-levels.de/blog/website-sicherheit-prufen-die-6-checks-die-jeder-angreifer-zue",
-    "link": "https://dev.to/slawanextlevels/how-to-check-website-security-the-6-checks-every-attacker-runs-first-1jg8",
+    "title": "Prompt Injection Is Coming for Your Coding Agent (And a README Can Be the Attack)",
+    "desc": "<p>When people hear \"prompt injection\", they picture a chatbot being tricked by a clever user message.</p>\n\n<p>Coding agents have a bigger p",
+    "link": "https://dev.to/codenamew/prompt-injection-is-coming-for-your-coding-agent-and-a-readme-can-be-the-attack-4o0",
     "topic": "secops"
+  },
+  {
+    "title": "Patch These Four Linux Kernel Local Root Vulns Now: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",
+    "desc": "<p>Four Linux kernel vulnerabilities went public on 18 September 2026, and they are the kind you should not sit on. DirtyAH6 (CVE-2026-80844",
+    "link": "https://dev.to/theeromi/patch-these-four-linux-kernel-local-root-vulns-now-dirtyah6-pppoeject-tunderflow-and-diagspill-4730",
+    "topic": "general"
+  },
+  {
+    "title": "Title: Why Single-Turn Prompts Fail in Production (And How to Build 3-Stage Prompt Chains)",
+    "desc": "<p>The Problem with Single-Turn Prompts<br />\nIf you've ever asked Claude 3.5 Sonnet or GPT-4o to \"refactor this module using SOLID principl",
+    "link": "https://dev.to/rob_ramir/title-why-single-turn-prompts-fail-in-production-and-how-to-build-3-stage-prompt-chains-1bnc",
+    "topic": "general"
+  },
+  {
+    "title": "The Python Developer Workbench and Workflow Orchestrator That Looks Like Call of Duty",
+    "desc": "<div class=\"ltag-github-readme-tag\">\n  <div class=\"readme-overview\">\n    <h2>\n      <img alt=\"GitHub logo\" src=\"https://assets.dev.to/assets",
+    "link": "https://dev.to/donnnnn14/the-python-developer-workbench-and-workflow-orchestrator-that-looks-like-call-of-duty-2c23",
+    "topic": "general"
+  },
+  {
+    "title": "Nothing worked, and nothing said so",
+    "desc": "<p>Today the session log of the coordinator project has, for Saturday, October 3, four numbered sessions in the Mac's range and four in Wind",
+    "link": "https://dev.to/lisandro_reinoso_d12ac7b9/nothing-worked-and-nothing-said-so-1m1k",
+    "topic": "general"
+  },
+  {
+    "title": "Docker Scout e Trivy seguran\u00e7a de imagens de cont\u00eainer na pr\u00e1tica",
+    "desc": "<p>Trivy e Docker Scout resolvem o mesmo problema central: descobrir, antes da produ\u00e7\u00e3o, quais vulnerabilidades, licen\u00e7as e depend\u00eancias est",
+    "link": "https://dev.to/ikauedev/docker-scout-e-trivy-seguranca-de-imagens-de-conteiner-na-pratica-3f7f",
+    "topic": "docker"
+  },
+  {
+    "title": "Drop Vault: A Traveling Clipboard for Operators Who Have Suffered Enough",
+    "desc": "<p>\u201cCommander, I need this snippet on the other machine.\u201d</p>\n\n<p>\u201cDid you email it to yourself?\u201d</p>\n\n<p>\u201cYes.\u201d</p>\n\n<p>\u201cThen congratulatio",
+    "link": "https://dev.to/matrixswarm/drop-vault-a-traveling-clipboard-for-operators-who-have-suffered-enough-1ole",
+    "topic": "general"
+  },
+  {
+    "title": "Why we built ServerOS around the servers you already own",
+    "desc": "<p>Today the ServerOS team is launching ServerOS in beta: one panel for the servers you already own.</p>\n\n<h2>\n  \n  \n  The problem\n</h2>\n\n<p",
+    "link": "https://dev.to/dylan_sofley_923503afa6a6/why-we-built-serveros-around-the-servers-you-already-own-53jg",
+    "topic": "general"
   }
 ]
