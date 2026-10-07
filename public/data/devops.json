@@ -1,50 +1,50 @@
 [
   {
-    "title": "AWS CI/CD Email Tests Need a Promotion Receipt",
-    "desc": "<p>Email verification tests often end with a boolean: passed or failed. That is enough for a local test, but it is thin evidence for an AWS ",
-    "link": "https://dev.to/jasonmills94/aws-cicd-email-tests-need-a-promotion-receipt-25hc",
-    "topic": "aws"
-  },
-  {
-    "title": "Using SCP on a Custom Port (and Avoiding the -p vs -P Mix-Up)",
-    "desc": "<p>If SSH listens on a nonstandard port, SCP needs to connect to that same port. The easy-to-miss detail is capitalization: use uppercase <c",
-    "link": "https://dev.to/__3381495fd2b/using-scp-on-a-custom-port-and-avoiding-the-p-vs-p-mix-up-58hn",
+    "title": "Our Deploys Were Dead for Six Hours and It Wasn't Our Bug",
+    "desc": "<p>Wednesday, 2 PM. A hotfix for a billing bug sat in a PR, approved, green checks pending for merge. Except the checks never finished. Not ",
+    "link": "https://dev.to/rbonweb/our-deploys-were-dead-for-six-hours-and-it-wasnt-our-bug-2mog",
     "topic": "general"
   },
   {
-    "title": "Boundary Contract: Make Every Agent Tool Fail Boring",
-    "desc": "<blockquote>\n<p>Cross-post of Insights #8 \u2014 canonical: <a href=\"https://sheikhwasim.com/insights/boundary-contract-tools-fail-boring/\" rel=\"",
-    "link": "https://dev.to/anciwasim/boundary-contract-make-every-agent-tool-fail-boring-15bm",
+    "title": "Nine Bugs That Taught Me Reliability: Post-Mortem of a Zero-Cost Hybrid AI System",
+    "desc": "<p>canonical_url: <a href=\"https://arielchangdev.github.io/angelina-finance-agent/\" rel=\"noopener noreferrer\">https://arielchangdev.github.i",
+    "link": "https://dev.to/arielchangdev/nine-bugs-that-taught-me-reliability-post-mortem-of-a-zero-cost-hybrid-ai-system-4bce",
     "topic": "general"
   },
   {
-    "title": "Practical Tips for Deploying Large Language Models in Production",
-    "desc": "<h1>\n  \n  \n  Introduction\n</h1>\n\n<p>Deploying large language models (LLMs) in a production environment presents a different set of challenge",
-    "link": "https://dev.to/developerzai/practical-tips-for-deploying-large-language-models-in-production-o88",
+    "title": "Docker permission denied: why it happens and how to fix it properly",
+    "desc": "<h2>\n  \n  \n  Docker permission denied: what the error is actually telling you\n</h2>\n\n<p>A client messages me about this error almost every w",
+    "link": "https://dev.to/selfhostpilot/docker-permission-denied-why-it-happens-and-how-to-fix-it-properly-1mah",
+    "topic": "docker"
+  },
+  {
+    "title": "How to Configure ViciDial Caller ID (CID) Settings Per Campaign",
+    "desc": "<h1>\n  \n  \n  How to Configure ViciDial Caller ID (CID) Settings Per Campaign\n</h1>\n\n<p><strong>Master per-campaign Caller ID configuration i",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-configure-vicidial-caller-id-cid-settings-per-campaign-2l3c",
     "topic": "general"
   },
   {
-    "title": "React Native OTA Is a Release Pipeline, Not a Download Feature",
-    "desc": "<p>\u201cDownload a new JavaScript bundle and run it\u201d describes transport. It does not describe a production release system.</p>\n\n<p>A real React",
-    "link": "https://dev.to/gfean/react-native-ota-is-a-release-pipeline-not-a-download-feature-3bo8",
+    "title": "The \"DB_PASSWORD\" variable is not set. Defaulting to a blank string: fixing unset ${VAR} in Docker Compose",
+    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>WARN[0000] The \"DB_PASSWORD\" variable is not set. Defaultin",
+    "link": "https://dev.to/jaytank/the-dbpassword-variable-is-not-set-defaulting-to-a-blank-string-fixing-unset-var-in-docker-2j1j",
+    "topic": "docker"
+  },
+  {
+    "title": "Autopilot ESP stuck? An assignment-first triage checklist for Intune admins",
+    "desc": "<h1>\n  \n  \n  Autopilot ESP stuck? An assignment-first triage checklist\n</h1>\n\n<p>You've seen it: Autopilot starts, the user gets past Wi-Fi ",
+    "link": "https://dev.to/adminpackstudio/autopilot-esp-stuck-an-assignment-first-triage-checklist-for-intune-admins-3o94",
     "topic": "general"
   },
   {
-    "title": "The job agent said \"I Act TODAY\" 26 times \u2014 and delivered two jobs",
-    "desc": "<p>Originally published at <a href=\"https://aideazz.xyz/blog/the-success-line-printed-before-the-save-field-note\" rel=\"noopener noreferrer\">",
-    "link": "https://dev.to/elenarevicheva/the-job-agent-said-i-act-today-26-times-and-delivered-two-jobs-4gmd",
+    "title": "Copilot CLI in Late 2026: The Flags I Actually Use in Scripts",
+    "desc": "<p>Most Copilot CLI guides I find are prompt catalogs: \"ask it to write a Terraform module\", \"ask it to explain a failing workflow\". That pa",
+    "link": "https://dev.to/selinorlov/copilot-cli-in-late-2026-the-flags-i-actually-use-in-scripts-4b0g",
     "topic": "general"
   },
   {
-    "title": "Kafka load testing: end-to-end latency, consumer lag and the clock trap",
-    "desc": "<p>In a system built on Kafka, the bottleneck is often not the HTTP layer but the message path: producers slow down waiting for the broker's",
-    "link": "https://dev.to/tanerakdemir/kafka-load-testing-end-to-end-latency-consumer-lag-and-the-clock-trap-2eaf",
-    "topic": "general"
-  },
-  {
-    "title": "A $22,000 GPU bill with a very quiet night shift",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/a-22000-gpu-bill-with-a-very-quiet-night-shift-5c81",
+    "title": "Compliance before Conditional Access \u2014 an Intune enrollment & compliance runway that won't lock out Outlook",
+    "desc": "<h1>\n  \n  \n  Compliance before Conditional Access\n</h1>\n\n<p>In the <a href=\"https://dev.to/adminpackstudio/conditional-access-without-the-mo",
+    "link": "https://dev.to/adminpackstudio/compliance-before-conditional-access-an-intune-enrollment-compliance-runway-that-wont-lock-out-2f9h",
     "topic": "general"
   }
 ]
