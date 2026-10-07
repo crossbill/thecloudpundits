@@ -1,5 +1,41 @@
 [
   {
+    "title": "Chrome 155 Update Patches 247 Vulnerabilities",
+    "desc": "<p>Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track.</p>\n<p>The post <a href=\"https://",
+    "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
+    "desc": "<p>Anthropic is integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models.",
+    "link": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
+    "topic": "anthropic"
+  },
+  {
+    "title": "ASOS Confirms Cyberattack, Data Breach",
+    "desc": "<p>Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users.</p>\n<p>The post <a href=\"https://www",
+    "link": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
+    "desc": "<p>Wikimedia looked into whether its own websites had seen activity like that disclosed by other organizations</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
+    "topic": "openai"
+  },
+  {
+    "title": "Android\u2019s October 2026 Updates Patch 25 Vulnerabilities",
+    "desc": "<p>The patches resolve a critical vulnerability in Android\u2019s System component that could lead to privilege escalation.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
+    "desc": "<p>Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
+    "topic": "secops"
+  },
+  {
     "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona\u2019s Court System",
     "desc": "<p>The Arizona Supreme Court said the information was copied for people dating back as far as 30 years.</p>\n<p>The post <a href=\"https://www",
     "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
@@ -10,41 +46,5 @@
     "desc": "<p>The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees.</p>\n<p",
     "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
     "topic": "secops"
-  },
-  {
-    "title": "FBI Arrests \u2018Most Wanted\u2019 Developer of Ploutus ATM Malware",
-    "desc": "<p>An alleged leader of Tren de Aragua\u2019s ATM jackpotting activities, Canelon Aguirre was on the FBI\u2019s top 10 most wanted list since March 20",
-    "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
-    "topic": "general"
-  },
-  {
-    "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
-    "desc": "<p>Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls.</p>\n<p>The post <a href=\"h",
-    "link": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
-    "topic": "general"
-  },
-  {
-    "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026",
-    "desc": "<p>Significant cybersecurity M&A deals announced by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind.</p>\n<p>The post <a href=\"https:/",
-    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
-    "topic": "secops"
-  },
-  {
-    "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
-    "desc": "<p>Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
-    "topic": "general"
-  },
-  {
-    "title": "8.8 Million Impacted by Data Breach at Denmark\u2019s Central Person Register",
-    "desc": "<p>Hackers abused a company\u2019s lawful access to the CPR system to steal the personal information of registered citizens.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
-    "topic": "secops"
-  },
-  {
-    "title": "Social Engineering Detection Moves Into the Live Conversation",
-    "desc": "<p>Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engin",
-    "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
-    "topic": "general"
   }
 ]

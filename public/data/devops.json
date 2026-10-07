@@ -1,50 +1,50 @@
 [
   {
-    "title": "Our Deploys Were Dead for Six Hours and It Wasn't Our Bug",
-    "desc": "<p>Wednesday, 2 PM. A hotfix for a billing bug sat in a PR, approved, green checks pending for merge. Except the checks never finished. Not ",
-    "link": "https://dev.to/rbonweb/our-deploys-were-dead-for-six-hours-and-it-wasnt-our-bug-2mog",
+    "title": "I tested a PostgreSQL migration checker on 760 real migration files",
+    "desc": "<p>A migration can be valid SQL and still be a bad production change.</p>\n\n<p>An index build can block writes. A type change can rewrite a l",
+    "link": "https://dev.to/milekv/i-tested-a-postgresql-migration-checker-on-760-real-migration-files-4d9h",
     "topic": "general"
   },
   {
-    "title": "Nine Bugs That Taught Me Reliability: Post-Mortem of a Zero-Cost Hybrid AI System",
-    "desc": "<p>canonical_url: <a href=\"https://arielchangdev.github.io/angelina-finance-agent/\" rel=\"noopener noreferrer\">https://arielchangdev.github.i",
-    "link": "https://dev.to/arielchangdev/nine-bugs-that-taught-me-reliability-post-mortem-of-a-zero-cost-hybrid-ai-system-4bce",
+    "title": "Fail your GitHub Actions deploy if Pathly Ping or Chain is red",
+    "desc": "<p>Unit tests pass. Prod still breaks on the path users actually hit.</p>\n\n<p>Pathly: Ping if HTTP is up, Flow if a user can walk the journe",
+    "link": "https://dev.to/keyral/fail-your-github-actions-deploy-if-pathly-ping-or-chain-is-red-3hf9",
     "topic": "general"
   },
   {
-    "title": "Docker permission denied: why it happens and how to fix it properly",
-    "desc": "<h2>\n  \n  \n  Docker permission denied: what the error is actually telling you\n</h2>\n\n<p>A client messages me about this error almost every w",
-    "link": "https://dev.to/selfhostpilot/docker-permission-denied-why-it-happens-and-how-to-fix-it-properly-1mah",
-    "topic": "docker"
-  },
-  {
-    "title": "How to Configure ViciDial Caller ID (CID) Settings Per Campaign",
-    "desc": "<h1>\n  \n  \n  How to Configure ViciDial Caller ID (CID) Settings Per Campaign\n</h1>\n\n<p><strong>Master per-campaign Caller ID configuration i",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-configure-vicidial-caller-id-cid-settings-per-campaign-2l3c",
+    "title": "Namecheap's Outage Didn't Break DNS Resolution. It Broke DNS Management.",
+    "desc": "<p>On August 13, 2026, a cooling system failure at a data center took down most of Namecheap's platform for roughly a day. Hosting, email, b",
+    "link": "https://dev.to/webpixie/namecheaps-outage-didnt-break-dns-resolution-it-broke-dns-management-38fa",
     "topic": "general"
   },
   {
-    "title": "The \"DB_PASSWORD\" variable is not set. Defaulting to a blank string: fixing unset ${VAR} in Docker Compose",
-    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>WARN[0000] The \"DB_PASSWORD\" variable is not set. Defaultin",
-    "link": "https://dev.to/jaytank/the-dbpassword-variable-is-not-set-defaulting-to-a-blank-string-fixing-unset-var-in-docker-2j1j",
-    "topic": "docker"
-  },
-  {
-    "title": "Autopilot ESP stuck? An assignment-first triage checklist for Intune admins",
-    "desc": "<h1>\n  \n  \n  Autopilot ESP stuck? An assignment-first triage checklist\n</h1>\n\n<p>You've seen it: Autopilot starts, the user gets past Wi-Fi ",
-    "link": "https://dev.to/adminpackstudio/autopilot-esp-stuck-an-assignment-first-triage-checklist-for-intune-admins-3o94",
+    "title": "Dependabot was watching 2 of my 6 updatable surfaces, and the config looked complete",
+    "desc": "<p>My <code>dependabot.yml</code>, which I'd have described as done:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highl",
+    "link": "https://dev.to/juanauriti/dependabot-was-watching-2-of-my-6-updatable-surfaces-and-the-config-looked-complete-4d5d",
     "topic": "general"
   },
   {
-    "title": "Copilot CLI in Late 2026: The Flags I Actually Use in Scripts",
-    "desc": "<p>Most Copilot CLI guides I find are prompt catalogs: \"ask it to write a Terraform module\", \"ask it to explain a failing workflow\". That pa",
-    "link": "https://dev.to/selinorlov/copilot-cli-in-late-2026-the-flags-i-actually-use-in-scripts-4b0g",
+    "title": "PostgreSQL 19: Online Table Reorganization with REPACK (Similar to Oracle DBMS_REDEFINITION)",
+    "desc": "<p>For years, PostgreSQL DBAs have relied on <strong>VACUUM FULL</strong> to rewrite tables and reclaim unused space. However, when minimizi",
+    "link": "https://dev.to/vahidusefzadeh/postgresql-19-online-table-reorganization-with-repack-similar-to-oracle-dbmsredefinition-4hog",
     "topic": "general"
   },
   {
-    "title": "Compliance before Conditional Access \u2014 an Intune enrollment & compliance runway that won't lock out Outlook",
-    "desc": "<h1>\n  \n  \n  Compliance before Conditional Access\n</h1>\n\n<p>In the <a href=\"https://dev.to/adminpackstudio/conditional-access-without-the-mo",
-    "link": "https://dev.to/adminpackstudio/compliance-before-conditional-access-an-intune-enrollment-compliance-runway-that-wont-lock-out-2f9h",
+    "title": "The Delegation Matrix: A Practical Framework for AI Agents in Media Automation",
+    "desc": "<p>A demo can make publishing look like one task: give an agent a topic, wait, and receive a finished newsletter. In production, those steps",
+    "link": "https://dev.to/hlinor/the-delegation-matrix-a-practical-framework-for-ai-agents-in-media-automation-5c63",
     "topic": "general"
+  },
+  {
+    "title": "How to get an email when a Windows scheduled task fails (without babysitting Task Scheduler)",
+    "desc": "<p>Your backup job runs at 3 a.m. At 9 a.m. your manager asks why last night's export is missing.<br />\nYou open Task Scheduler and see it: ",
+    "link": "https://dev.to/opskit/how-to-get-an-email-when-a-windows-scheduled-task-fails-without-babysitting-task-scheduler-3986",
+    "topic": "general"
+  },
+  {
+    "title": "Build vs. Buy Your Kubernetes Development Environment",
+    "desc": "<p><em>Written by Arsh Sharma. Originally published on <a href=\"https://metalbear.com/blog/build-vs-buy/\" rel=\"noopener noreferrer\">metalbea",
+    "link": "https://dev.to/metalbear/build-vs-buy-your-kubernetes-development-environment-13hm",
+    "topic": "kubernetes"
   }
 ]
