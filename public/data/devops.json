@@ -1,50 +1,50 @@
 [
   {
-    "title": "Prompt Injection Is Coming for Your Coding Agent (And a README Can Be the Attack)",
-    "desc": "<p>When people hear \"prompt injection\", they picture a chatbot being tricked by a clever user message.</p>\n\n<p>Coding agents have a bigger p",
-    "link": "https://dev.to/codenamew/prompt-injection-is-coming-for-your-coding-agent-and-a-readme-can-be-the-attack-4o0",
-    "topic": "secops"
-  },
-  {
-    "title": "Patch These Four Linux Kernel Local Root Vulns Now: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",
-    "desc": "<p>Four Linux kernel vulnerabilities went public on 18 September 2026, and they are the kind you should not sit on. DirtyAH6 (CVE-2026-80844",
-    "link": "https://dev.to/theeromi/patch-these-four-linux-kernel-local-root-vulns-now-dirtyah6-pppoeject-tunderflow-and-diagspill-4730",
+    "title": "Health checks for APIs: /healthz, /readyz, /livez, version, and metrics in OpenAPI",
+    "desc": "<p>A single <code>/health</code> endpoint that checks the database, the cache, and three downstream services, and returns 500 if any of them",
+    "link": "https://dev.to/jeff_pdc/health-checks-for-apis-healthz-readyz-livez-version-and-metrics-in-openapi-4m87",
     "topic": "general"
   },
   {
-    "title": "Title: Why Single-Turn Prompts Fail in Production (And How to Build 3-Stage Prompt Chains)",
-    "desc": "<p>The Problem with Single-Turn Prompts<br />\nIf you've ever asked Claude 3.5 Sonnet or GPT-4o to \"refactor this module using SOLID principl",
-    "link": "https://dev.to/rob_ramir/title-why-single-turn-prompts-fail-in-production-and-how-to-build-3-stage-prompt-chains-1bnc",
+    "title": "I let an AI agent drive my remote desktop. It can't touch my passwords.",
+    "desc": "<p>It's 11 PM. Three servers need the same patch, and I'm alt-tabbing between four remote windows. Two are RDP, two are VNC.<br />\nSo I trie",
+    "link": "https://dev.to/derajkumar_s_694ae6b8f55/i-let-an-ai-agent-drive-my-remote-desktop-it-cant-touch-my-passwords-44j4",
     "topic": "general"
   },
   {
-    "title": "The Python Developer Workbench and Workflow Orchestrator That Looks Like Call of Duty",
-    "desc": "<div class=\"ltag-github-readme-tag\">\n  <div class=\"readme-overview\">\n    <h2>\n      <img alt=\"GitHub logo\" src=\"https://assets.dev.to/assets",
-    "link": "https://dev.to/donnnnn14/the-python-developer-workbench-and-workflow-orchestrator-that-looks-like-call-of-duty-2c23",
+    "title": "The DevOps bootcamp \u00b7 2. The Linux you actually need",
+    "desc": "<blockquote>\n<p><strong>The DevOps bootcamp</strong> \u00b7 Chapter 2 of 14 \u00b7 DevOps \u00b7 new chapter every Thursday morning</p>\n\n<p><strong>By the ",
+    "link": "https://dev.to/techamit95ch/the-devops-bootcamp-2-the-linux-you-actually-need-32bd",
     "topic": "general"
   },
   {
-    "title": "Nothing worked, and nothing said so",
-    "desc": "<p>Today the session log of the coordinator project has, for Saturday, October 3, four numbered sessions in the Mac's range and four in Wind",
-    "link": "https://dev.to/lisandro_reinoso_d12ac7b9/nothing-worked-and-nothing-said-so-1m1k",
+    "title": "Honest outcome reporting requires the definition of success to be upstream of the result.",
+    "desc": "<p>There's a trap in agent outcome reporting that looks like rigour but isn't.</p>\n\n<p>If you define what \"success\" means after seeing how t",
+    "link": "https://dev.to/starebrain/honest-outcome-reporting-requires-the-definition-of-success-to-be-upstream-of-the-result-gbi",
     "topic": "general"
   },
   {
-    "title": "Docker Scout e Trivy seguran\u00e7a de imagens de cont\u00eainer na pr\u00e1tica",
-    "desc": "<p>Trivy e Docker Scout resolvem o mesmo problema central: descobrir, antes da produ\u00e7\u00e3o, quais vulnerabilidades, licen\u00e7as e depend\u00eancias est",
-    "link": "https://dev.to/ikauedev/docker-scout-e-trivy-seguranca-de-imagens-de-conteiner-na-pratica-3f7f",
-    "topic": "docker"
-  },
-  {
-    "title": "Drop Vault: A Traveling Clipboard for Operators Who Have Suffered Enough",
-    "desc": "<p>\u201cCommander, I need this snippet on the other machine.\u201d</p>\n\n<p>\u201cDid you email it to yourself?\u201d</p>\n\n<p>\u201cYes.\u201d</p>\n\n<p>\u201cThen congratulatio",
-    "link": "https://dev.to/matrixswarm/drop-vault-a-traveling-clipboard-for-operators-who-have-suffered-enough-1ole",
+    "title": "A zero-disruption PodDisruptionBudget can block an AKS upgrade",
+    "desc": "<p>Your AKS cluster upgrade is stuck.</p>\n\n<p>The control plane is waiting for a node to drain. The node is waiting for a pod to terminate. ",
+    "link": "https://dev.to/jlmartel/a-zero-disruption-poddisruptionbudget-can-block-an-aks-upgrade-18h5",
     "topic": "general"
   },
   {
-    "title": "Why we built ServerOS around the servers you already own",
-    "desc": "<p>Today the ServerOS team is launching ServerOS in beta: one panel for the servers you already own.</p>\n\n<h2>\n  \n  \n  The problem\n</h2>\n\n<p",
-    "link": "https://dev.to/dylan_sofley_923503afa6a6/why-we-built-serveros-around-the-servers-you-already-own-53jg",
+    "title": "How to Configure ViciDial Script Tab \u2014 Agent Call Scripts",
+    "desc": "<h1>\n  \n  \n  How to Configure ViciDial Script Tab \u2014 Agent Call Scripts\n</h1>\n\n<p><strong>Master the complete setup of ViciDial agent call sc",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-configure-vicidial-script-tab-agent-call-scripts-cjl",
+    "topic": "general"
+  },
+  {
+    "title": "6 Guardrails That Stopped My Coding Agent From Burning Through API Budget",
+    "desc": "<p>Coding agents are great until you look at the bill. A single \"fix the failing tests\" task can turn into 40+ model calls, each one re-send",
+    "link": "https://dev.to/amankumar_apiclaw/6-guardrails-that-stopped-my-coding-agent-from-burning-through-api-budget-jh8",
+    "topic": "guardrails"
+  },
+  {
+    "title": "The Call of Duty-IDE",
+    "desc": "<h1>\n  \n  \n  <img alt=\"pixil-frame-0 (12)\" height=\"559\" src=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgrav",
+    "link": "https://dev.to/donnnnn14/the-call-of-duty-ide-16d",
     "topic": "general"
   }
 ]
