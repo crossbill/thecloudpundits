@@ -1,50 +1,50 @@
 [
   {
-    "title": "Health checks for APIs: /healthz, /readyz, /livez, version, and metrics in OpenAPI",
-    "desc": "<p>A single <code>/health</code> endpoint that checks the database, the cache, and three downstream services, and returns 500 if any of them",
-    "link": "https://dev.to/jeff_pdc/health-checks-for-apis-healthz-readyz-livez-version-and-metrics-in-openapi-4m87",
+    "title": "ISO 42001 Readiness: What Engineering Teams Should Prepare",
+    "desc": "<p>ISO/IEC 42001 defines requirements for an AI Management System (AIMS). For engineering teams, preparation means maintaining evidence of h",
+    "link": "https://dev.to/raj_07/iso-42001-readiness-what-engineering-teams-should-prepare-4h9e",
     "topic": "general"
   },
   {
-    "title": "I let an AI agent drive my remote desktop. It can't touch my passwords.",
-    "desc": "<p>It's 11 PM. Three servers need the same patch, and I'm alt-tabbing between four remote windows. Two are RDP, two are VNC.<br />\nSo I trie",
-    "link": "https://dev.to/derajkumar_s_694ae6b8f55/i-let-an-ai-agent-drive-my-remote-desktop-it-cant-touch-my-passwords-44j4",
+    "title": "Fixing HTTPS Certificates in .NET Dev Containers (The Right Way)",
+    "desc": "<p>Project Directory Structure<br />\nBefore we dive into the commands, here is what your repository layout looks like, showing where the .NE",
+    "link": "https://dev.to/abdulrahilsheikh/fixing-https-certificates-in-net-dev-containers-the-right-way-1nie",
+    "topic": "docker"
+  },
+  {
+    "title": "How to Sell Digital Products Online and Build a Profitable Digital Business",
+    "desc": "<p>Digital products are online products such as eBooks, courses, templates, printables, software, and graphics. </p>\n\n<ol>\n<li>Why Sell Digi",
+    "link": "https://dev.to/donie321/digital-products-sell-d5d",
     "topic": "general"
   },
   {
-    "title": "The DevOps bootcamp \u00b7 2. The Linux you actually need",
-    "desc": "<blockquote>\n<p><strong>The DevOps bootcamp</strong> \u00b7 Chapter 2 of 14 \u00b7 DevOps \u00b7 new chapter every Thursday morning</p>\n\n<p><strong>By the ",
-    "link": "https://dev.to/techamit95ch/the-devops-bootcamp-2-the-linux-you-actually-need-32bd",
+    "title": "The Summary Said Fixed. The Server Still Scored a Tree I Never Logged.",
+    "desc": "<p>I spent the last two days chasing a test failure that looked solved in my notes and still failed on a clean run. Have you ever trusted a ",
+    "link": "https://dev.to/codepy_1473/the-summary-said-fixed-the-server-still-scored-a-tree-i-never-logged-522o",
     "topic": "general"
   },
   {
-    "title": "Honest outcome reporting requires the definition of success to be upstream of the result.",
-    "desc": "<p>There's a trap in agent outcome reporting that looks like rigour but isn't.</p>\n\n<p>If you define what \"success\" means after seeing how t",
-    "link": "https://dev.to/starebrain/honest-outcome-reporting-requires-the-definition-of-success-to-be-upstream-of-the-result-gbi",
+    "title": "Why Your Custom CDN Origin Belongs on Bare Metal",
+    "desc": "<p>Even a spectacular 90% CDN cache hit ratio leaves 10% of your traffic pulling directly from the origin server. If that origin sits in AWS",
+    "link": "https://dev.to/bytesrack/why-your-custom-cdn-origin-belongs-on-bare-metal-10oi",
     "topic": "general"
   },
   {
-    "title": "A zero-disruption PodDisruptionBudget can block an AKS upgrade",
-    "desc": "<p>Your AKS cluster upgrade is stuck.</p>\n\n<p>The control plane is waiting for a node to drain. The node is waiting for a pod to terminate. ",
-    "link": "https://dev.to/jlmartel/a-zero-disruption-poddisruptionbudget-can-block-an-aks-upgrade-18h5",
+    "title": "FAQ: An AI Note Job Is Not a GitLab Environment",
+    "desc": "<p>A model launch post is not a GitLab environment.<br />\nI keep those layers apart when the news cycle speeds up.<br />\nAre you about to wi",
+    "link": "https://dev.to/gitlab_3188/faq-an-ai-note-job-is-not-a-gitlab-environment-enm",
     "topic": "general"
   },
   {
-    "title": "How to Configure ViciDial Script Tab \u2014 Agent Call Scripts",
-    "desc": "<h1>\n  \n  \n  How to Configure ViciDial Script Tab \u2014 Agent Call Scripts\n</h1>\n\n<p><strong>Master the complete setup of ViciDial agent call sc",
-    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-configure-vicidial-script-tab-agent-call-scripts-cjl",
+    "title": "Bound the Diff Before You Spend a Model Call on an Agent Patch",
+    "desc": "<p>An agent patch is a cost event before it is a correctness event. If the diff is unbounded, a model-backed property check spends a remote ",
+    "link": "https://dev.to/datacpp_8185/bound-the-diff-before-you-spend-a-model-call-on-an-agent-patch-1309",
     "topic": "general"
   },
   {
-    "title": "6 Guardrails That Stopped My Coding Agent From Burning Through API Budget",
-    "desc": "<p>Coding agents are great until you look at the bill. A single \"fix the failing tests\" task can turn into 40+ model calls, each one re-send",
-    "link": "https://dev.to/amankumar_apiclaw/6-guardrails-that-stopped-my-coding-agent-from-burning-through-api-budget-jh8",
-    "topic": "guardrails"
-  },
-  {
-    "title": "The Call of Duty-IDE",
-    "desc": "<h1>\n  \n  \n  <img alt=\"pixil-frame-0 (12)\" height=\"559\" src=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgrav",
-    "link": "https://dev.to/donnnnn14/the-call-of-duty-ide-16d",
-    "topic": "general"
+    "title": "AllStackd is live: one workspace for every Amazon AWS SES account",
+    "desc": "<p>I run a lot of domains on Amazon SES, so I built the control plane I wanted. Monitor every SES account, region and domain in one place, k",
+    "link": "https://dev.to/kondasviktor/allstackd-is-live-one-workspace-for-every-amazon-aws-ses-account-3d1o",
+    "topic": "aws"
   }
 ]
