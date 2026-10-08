@@ -1,50 +1,50 @@
 [
   {
-    "title": "ISO 42001 Readiness: What Engineering Teams Should Prepare",
-    "desc": "<p>ISO/IEC 42001 defines requirements for an AI Management System (AIMS). For engineering teams, preparation means maintaining evidence of h",
-    "link": "https://dev.to/raj_07/iso-42001-readiness-what-engineering-teams-should-prepare-4h9e",
+    "title": "Your Linux Server Is Slow. Don't Restart It Yet: Do This First",
+    "desc": "<blockquote>\n<p>Rebooting clears the crime scene and hides the real bottleneck. Here is the non-destructive 60-second triage sequence to run",
+    "link": "https://dev.to/asepsayyad007/your-linux-server-is-slow-dont-restart-it-yet-do-this-first-3b9e",
     "topic": "general"
   },
   {
-    "title": "Fixing HTTPS Certificates in .NET Dev Containers (The Right Way)",
-    "desc": "<p>Project Directory Structure<br />\nBefore we dive into the commands, here is what your repository layout looks like, showing where the .NE",
-    "link": "https://dev.to/abdulrahilsheikh/fixing-https-certificates-in-net-dev-containers-the-right-way-1nie",
-    "topic": "docker"
-  },
-  {
-    "title": "How to Sell Digital Products Online and Build a Profitable Digital Business",
-    "desc": "<p>Digital products are online products such as eBooks, courses, templates, printables, software, and graphics. </p>\n\n<ol>\n<li>Why Sell Digi",
-    "link": "https://dev.to/donie321/digital-products-sell-d5d",
+    "title": "Building a Zero-Telemetry Production Log Triage Engine with Python, DuckDB, and Gemini",
+    "desc": "<p>During a Sev-1 incident, every minute spent waiting for an enterprise observability platform's search indexing\u2014or watching a junior SRE r",
+    "link": "https://dev.to/reigen/building-a-zero-telemetry-production-log-triage-engine-with-python-duckdb-and-gemini-2dc3",
     "topic": "general"
   },
   {
-    "title": "The Summary Said Fixed. The Server Still Scored a Tree I Never Logged.",
-    "desc": "<p>I spent the last two days chasing a test failure that looked solved in my notes and still failed on a clean run. Have you ever trusted a ",
-    "link": "https://dev.to/codepy_1473/the-summary-said-fixed-the-server-still-scored-a-tree-i-never-logged-522o",
+    "title": "Promotion - UNIX / Linux Basics - 2",
+    "desc": "<ul>\n<li><p>The <strong><em>kernel</em></strong> is the core foundation of the OS that directly interfaces with system hardware and controls",
+    "link": "https://dev.to/technonotes/promotion-unix-linux-basics-2-mbj",
     "topic": "general"
   },
   {
-    "title": "Why Your Custom CDN Origin Belongs on Bare Metal",
-    "desc": "<p>Even a spectacular 90% CDN cache hit ratio leaves 10% of your traffic pulling directly from the origin server. If that origin sits in AWS",
-    "link": "https://dev.to/bytesrack/why-your-custom-cdn-origin-belongs-on-bare-metal-10oi",
+    "title": "Promotion - UNIX / Linux Basics - 1",
+    "desc": "<h1>\n  \n  \n  kernel sysctl parameter should be tuned to increase the maximum number of queued incoming TCP connections awaiting acceptance\n<",
+    "link": "https://dev.to/technonotes/promotion-unix-linux-basics-1-2g5o",
     "topic": "general"
   },
   {
-    "title": "FAQ: An AI Note Job Is Not a GitLab Environment",
-    "desc": "<p>A model launch post is not a GitLab environment.<br />\nI keep those layers apart when the news cycle speeds up.<br />\nAre you about to wi",
-    "link": "https://dev.to/gitlab_3188/faq-an-ai-note-job-is-not-a-gitlab-environment-enm",
+    "title": "Why Go Is Becoming a Favorite Language for Cloud & DevOps Engineers",
+    "desc": "<p>If you are learning Cloud or DevOps, you've probably noticed something interesting.</p>\n\n<p>A lot of modern infrastructure tools are writ",
+    "link": "https://dev.to/yash_sonawane25/why-go-is-becoming-a-favorite-language-for-cloud-devops-engineers-3ha2",
     "topic": "general"
   },
   {
-    "title": "Bound the Diff Before You Spend a Model Call on an Agent Patch",
-    "desc": "<p>An agent patch is a cost event before it is a correctness event. If the diff is unbounded, a model-backed property check spends a remote ",
-    "link": "https://dev.to/datacpp_8185/bound-the-diff-before-you-spend-a-model-call-on-an-agent-patch-1309",
+    "title": "The 'one-time migration' fallback that runs on every call, forever",
+    "desc": "<p>A full session transcript, a week late, with nothing taken out.</p>\n\n<p>No summary, no cleanup. Tool calls included.</p>\n\n<p>This one is ",
+    "link": "https://dev.to/cryptopunk_dz2_bd054446a6/the-one-time-migration-fallback-that-runs-on-every-call-forever-4mb4",
     "topic": "general"
   },
   {
-    "title": "AllStackd is live: one workspace for every Amazon AWS SES account",
-    "desc": "<p>I run a lot of domains on Amazon SES, so I built the control plane I wanted. Monitor every SES account, region and domain in one place, k",
-    "link": "https://dev.to/kondasviktor/allstackd-is-live-one-workspace-for-every-amazon-aws-ses-account-3d1o",
-    "topic": "aws"
+    "title": "A deploy check that passed by hand and failed at night, for 38 days",
+    "desc": "<p>A full session transcript, a week late, with nothing taken out.</p>\n\n<p>No summary, no cleanup. Tool calls included.</p>\n\n<p>This session",
+    "link": "https://dev.to/cryptopunk_dz2_bd054446a6/a-deploy-check-that-passed-by-hand-and-failed-at-night-for-38-days-4b41",
+    "topic": "general"
+  },
+  {
+    "title": "The run history was there. Reading it would have cost 275 hours.",
+    "desc": "<p>A full session transcript, a week late, with nothing taken out.</p>\n\n<p>No summary, no cleanup. Tool calls included.</p>\n\n<p>The question",
+    "link": "https://dev.to/cryptopunk_dz2_bd054446a6/the-run-history-was-there-reading-it-would-have-cost-275-hours-654",
+    "topic": "general"
   }
 ]

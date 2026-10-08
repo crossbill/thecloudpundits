@@ -1,5 +1,35 @@
 [
   {
+    "title": "Cisco Patches a Dozen Critical Vulnerabilities",
+    "desc": "<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.<",
+    "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Security Awareness Training Isn\u2019t Dead, but It Needs a Rethink",
+    "desc": "<p>All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
+    "topic": "secops"
+  },
+  {
+    "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
+    "desc": "<p>Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian\u2019s self-hosted Data Center products.</p>\n<p>The",
+    "link": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
+    "topic": "secops"
+  },
+  {
+    "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
+    "desc": "<p>Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026.</p>\n<p>The post <a href=\"https://www.secu",
+    "link": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
+    "topic": "general"
+  },
+  {
+    "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
+    "desc": "<p>Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their priv",
+    "link": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
+    "topic": "general"
+  },
+  {
     "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
     "desc": "<p>The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion.</p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
@@ -15,36 +45,6 @@
     "title": "Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme",
     "desc": "<p>Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation.</p>\n<p>The post ",
     "link": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
-    "topic": "secops"
-  },
-  {
-    "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
-    "desc": "<p>The figure is far higher than the counts that surfaced in earlier filings and patient notifications.</p>\n<p>The post <a href=\"https://www",
-    "link": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
-    "topic": "secops"
-  },
-  {
-    "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices",
-    "desc": "<p>Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
-    "topic": "secops"
-  },
-  {
-    "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
-    "desc": "<p>Southern Company is notifying customers that their utility account information was accessed by hackers.</p>\n<p>The post <a href=\"https://",
-    "link": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
-    "topic": "secops"
-  },
-  {
-    "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
-    "desc": "<p>The individual was detained in May and has been extradited to Germany to face hacking charges.</p>\n<p>The post <a href=\"https://www.secur",
-    "link": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
-    "topic": "secops"
-  },
-  {
-    "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
-    "desc": "<p>Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
     "topic": "secops"
   }
 ]
