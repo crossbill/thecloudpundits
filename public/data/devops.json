@@ -1,50 +1,50 @@
 [
   {
-    "title": "FAQ: A Pasted Hunk Is Not a Commit Object",
-    "desc": "<h1>\n  \n  \n  FAQ: A Pasted Hunk Is Not a Commit Object\n</h1>\n\n<p>You pasted a tidy diff into the merge request thread. You told the reviewer",
-    "link": "https://dev.to/gitlab_3188/faq-a-pasted-hunk-is-not-a-commit-object-1abc",
+    "title": "Why Call Tracking Matters for Roofing Marketing",
+    "desc": "<p>Phone calls remain an important source of new business for roofing contractors. Homeowners often call when they need a roof inspection, u",
+    "link": "https://dev.to/grow_myroofing_2365dd793/why-call-tracking-matters-for-roofing-marketing-31c3",
     "topic": "general"
   },
   {
-    "title": "A Practical SSH Key Lifecycle for Developers and Small Teams",
-    "desc": "<p>SSH key sprawl is rarely caused by generating too many keys. The real problem is losing track of who owns each key, which servers trust i",
-    "link": "https://dev.to/__3381495fd2b/a-practical-ssh-key-lifecycle-for-developers-and-small-teams-3bdo",
+    "title": "Running small-business software on a LAN: a practical checklist for an always-on VirtualBox host",
+    "desc": "<p>Plenty of small-business tools ship as a ready-made virtual machine: import the appliance, start it, and staff open the app in a browser ",
+    "link": "https://dev.to/repairamigo/running-small-business-software-on-a-lan-a-practical-checklist-for-an-always-on-virtualbox-host-18jj",
     "topic": "general"
   },
   {
-    "title": "Gate Changelog Drafts With a Signed Release Impact Packet",
-    "desc": "<p>Generated changelog prose stays reviewable only after a human release owner locks version, date, breaking changes, and security notes. A ",
-    "link": "https://dev.to/github_7727/gate-changelog-drafts-with-a-signed-release-impact-packet-32ha",
+    "title": "Citrix NetScaler RCE (CVE-2026-107406): Critical Alert",
+    "desc": "<p>A new, highly critical Remote Code Execution (RCE) vulnerability, tracked as CVE-2026-107406, has been discovered in Citrix NetScaler ADC",
+    "link": "https://dev.to/kiran_sonawane/citrix-netscaler-rce-cve-2026-107406-critical-alert-do4",
     "topic": "general"
   },
   {
-    "title": "Letting a team's AI run commands on shared computers: two layers of permissions and an audit log",
-    "desc": "<p>Once ChatGPT or Claude can edit files and run commands on your computer through MCP, using it alone is easy. Sharing it with a team raise",
-    "link": "https://dev.to/mike_kim_692aa79c288bfed8/letting-a-teams-ai-run-commands-on-shared-computers-two-layers-of-permissions-and-an-audit-log-2kn5",
+    "title": "Agency Renewal Operations: Preventing Drop-Offs, Automating Calendars, and Enforcing Zero-Trust Auto-Renewals",
+    "desc": "<p>Digital agencies, managed service providers (MSPs), and IT consultants routinely manage dozens, sometimes hundreds, of client web assets.",
+    "link": "https://dev.to/instarenewal/agency-renewal-operations-preventing-drop-offs-automating-calendars-and-enforcing-zero-trust-3ijb",
     "topic": "general"
   },
   {
-    "title": "Migrating a Large Table Without Locking Production",
-    "desc": "<p>GoCardless once took around 15 seconds of unexpected API downtime from a planned migration. The tables being changed were empty. The stat",
-    "link": "https://dev.to/andriiboyko/migrating-a-large-table-without-locking-production-2fk7",
+    "title": "Designing a Reliable Kubernetes Deployment with GitOps",
+    "desc": "<p>Deploying an application to a Kubernetes cluster is not just about building a container image and running it. A reliable deployment workf",
+    "link": "https://dev.to/morizal/designing-a-reliable-kubernetes-deployment-with-gitops-464b",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "A Valid Signature Doesn't Mean an AI Agent Still Has Authority",
+    "desc": "<p>Imagine an AI agent receives a valid, signed delegation to perform an action.</p>\n\n<p>The user later revokes that delegation in another s",
+    "link": "https://dev.to/projetxana/a-valid-signature-doesnt-mean-an-ai-agent-still-has-authority-1dm8",
     "topic": "general"
   },
   {
-    "title": "The Confused Deputy Problem in AWS: ExternalId, aws:Source* Keys, and RCPs",
-    "desc": "<p>Most IAM incidents people talk about start with a leaked access key or a wildcard that was too generous. The confused deputy problem is d",
-    "link": "https://dev.to/rafagross/the-confused-deputy-problem-in-aws-externalid-awssource-keys-and-rcps-47nk",
-    "topic": "aws"
-  },
-  {
-    "title": "Most Test Suites Only Work in a World That Doesn't Exist",
-    "desc": "<p>A lot of automated tests begin in an unusually pleasant universe.</p>\n\n<p>The user is logged in.</p>\n\n<p>The session is valid.</p>\n\n<p>Th",
-    "link": "https://dev.to/randomsquirrel802/most-test-suites-only-work-in-a-world-that-doesnt-exist-407f",
+    "title": "I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark)",
+    "desc": "<h1>\n  \n  \n  I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark)\n</h1>\n\n<p>Scraper Factory took first place at the WeMakeDev",
+    "link": "https://dev.to/nitish_mane_2c399ba312e53/i-built-scrapers-that-heal-themselves-and-won-an-nvidia-dgx-spark-k13",
     "topic": "general"
   },
   {
-    "title": "Self-Expiring Kill Switches and Human-Readable Alerts",
-    "desc": "<p>When an unattended cron system encounters a total provider failure, engineers often reach for a manual kill switch. While effective at st",
-    "link": "https://dev.to/raylabs/self-expiring-kill-switches-and-human-readable-alerts-3379",
-    "topic": "general"
+    "title": "Anthropic's Cyber Mission: AI in Defensive Security",
+    "desc": "<p>Anthropic is accelerating its push into the enterprise cybersecurity sector with new initiatives designed to leverage Large Language Mode",
+    "link": "https://dev.to/kiran_sonawane/anthropics-cyber-mission-ai-in-defensive-security-2kjb",
+    "topic": "anthropic"
   }
 ]
