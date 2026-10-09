@@ -1,5 +1,17 @@
 [
   {
+    "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
+    "desc": "<p>Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, expos",
+    "link": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+    "topic": "secops"
+  },
+  {
+    "title": "Google Domains Impacted by Recent ccTLD Hijacks",
+    "desc": "<p>Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
+    "topic": "general"
+  },
+  {
     "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
     "desc": "<p>The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands.</p>\n<p>The post <a href=",
     "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
@@ -33,18 +45,6 @@
     "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
     "desc": "<p>$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infras",
     "link": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
-    "topic": "general"
-  },
-  {
-    "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
-    "desc": "<p>Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predic",
-    "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-    "topic": "general"
-  },
-  {
-    "title": "Cisco Patches a Dozen Critical Vulnerabilities",
-    "desc": "<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.<",
-    "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
     "topic": "general"
   }
 ]
