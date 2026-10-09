@@ -1,50 +1,50 @@
 [
   {
-    "title": "Built a bulk redirect checker that follows every hop manually, with SSRF protection on each one",
-    "desc": "<p>Before a site migration, someone has to verify that every old URL either still works or redirects correctly. One at a time, that's hours ",
-    "link": "https://dev.to/vipul_singh_755a9075cfbdd/built-a-bulk-redirect-checker-that-follows-every-hop-manually-with-ssrf-protection-on-each-one-3dce",
+    "title": "The GCP discount AWS has no equivalent for",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/the-gcp-discount-aws-has-no-equivalent-for-4n07",
+    "topic": "aws"
+  },
+  {
+    "title": "How Prometheus Finds Matching Series in Milliseconds",
+    "desc": "<p>Picture the situation. You ask Prometheus for one specific label combination. Behind the scenes it is sitting on ten million active time ",
+    "link": "https://dev.to/v4nd1t/how-prometheus-finds-matching-series-in-milliseconds-2jno",
     "topic": "general"
   },
   {
-    "title": "Top 7 Reliable Platforms to Buying Old Yahoo Accounts ...",
-    "desc": "<p>Buy Phone-Verified Yahoo Accounts \u2013 Aged, Secure & Ready to Use<br />\n\u272e \u272e \u272e \u272e \u272e \u272e \u272e \u272e \u272e \u272e \u272e \u272e <br />\n24/7 customer support.<br />\nTelegra",
-    "link": "https://dev.to/mstambia360/top-7-reliable-platforms-to-buying-old-yahoo-accounts--2629",
+    "title": "What \"Confidential Computing\" Actually Means for Containers (and Who Needs It)",
+    "desc": "<p>If you have spent any time around cloud infrastructure recently, you have likely heard the term \"confidential computing\" thrown into exec",
+    "link": "https://dev.to/bascoibm/what-confidential-computing-actually-means-for-containers-and-who-needs-it-oh4",
+    "topic": "docker"
+  },
+  {
+    "title": "How do you handle compliance for regulated industries?",
+    "desc": "<p>Operating in a regulated industry comes with a unique challenge. Organizations must innovate quickly, deliver reliable services, protect ",
+    "link": "https://dev.to/varunvarde/how-do-you-handle-compliance-for-regulated-industries-21pi",
     "topic": "general"
   },
   {
-    "title": "Kubernetes: cu\u00e1ndo dejar de reintentar un email",
-    "desc": "<p>Un email de CI que no llega parece un problema peque\u00f1o, hasta que el pipeline empieza a reintentarlo durante media hora. Entonces aparece",
-    "link": "https://dev.to/alexcarteruk/kubernetes-cuando-dejar-de-reintentar-un-email-1me1",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Practical Startup Transactional Email Deliverability Stack: 3 Choices (Template Ownership)",
-    "desc": "<p>A transactional email stack becomes an operational problem the moment a bounce or complaint must stop the next send. <strong>TL;DR: keep ",
-    "link": "https://dev.to/jedidiahrhodes8293/practical-startup-transactional-email-deliverability-stack-3-choices-template-ownership-2plh",
+    "title": "Choosing a PuTTY Alternative: Start With How You Use SSH",
+    "desc": "<p>PuTTY is still a solid SSH client. The reason to replace it usually isn\u2019t that it has stopped working; it\u2019s that your workflow needs more",
+    "link": "https://dev.to/__3381495fd2b/choosing-a-putty-alternative-start-with-how-you-use-ssh-3bdp",
     "topic": "general"
   },
   {
-    "title": "Part 9: Supporting an agentic flow in production: observability, runbooks and failure modes",
-    "desc": "<p><em>Part 9 of 10 \u00b7 Building an Agentic Change-Approval MVP on MuleSoft</em></p>\n\n<p><a href=\"https://dev.to/thasha/part-8-deploying-agent",
-    "link": "https://dev.to/thasha/part-9-supporting-an-agentic-flow-in-production-observability-runbooks-and-failure-modes-3kep",
+    "title": "Debugging Silent Skips in Poll-Based Reply Bots",
+    "desc": "<p>When a poll-based reply bot runs in a staging environment, it usually behaves predictably. It reads recent posts, checks for mentions, an",
+    "link": "https://dev.to/raylabs/debugging-silent-skips-in-poll-based-reply-bots-5fnl",
     "topic": "general"
   },
   {
-    "title": "My First Time Experience With Virtual Machines on Azure",
-    "desc": "<h3>\n  \n  \n  <strong>INTRODUCTION</strong>\n</h3>\n\n<p>My recent journey into Dev-Ops lead me to Microsoft Azure Where I was introduced to the",
-    "link": "https://dev.to/oreofe_towobola_fd2677ddc/my-first-time-experience-with-virtual-machines-on-azure-5f8i",
-    "topic": "azure"
-  },
-  {
-    "title": "How to Find and Fix Memory Leaks in Python",
-    "desc": "<p>Hello, I\u2019m Arthur. Have you ever noticed a Python application using more and more RAM even though you're not doing anything unusual?</p>\n",
-    "link": "https://dev.to/arthur_luca/how-to-find-and-fix-memory-leaks-in-python-16p0",
+    "title": "Mitigating Action Blocks in Social Media Automation: Carrier NAT and Anti-Detect Synergy",
+    "desc": "<h1>\n  \n  \n  Mitigating Action Blocks in Social Media Automation: Carrier NAT and Anti-Detect Synergy\n</h1>\n\n<p>Social media platforms (Inst",
+    "link": "https://dev.to/pxm2io/mitigating-action-blocks-in-social-media-automation-carrier-nat-and-anti-detect-synergy-3cgh",
     "topic": "general"
   },
   {
-    "title": "Day 59: A Broken Deployment and a NIC",
-    "desc": "<p>Day 59 of DevOps, Day 9 of Azure. Both tasks today came down to what you check first. In Kubernetes, the events showed me one fault while",
-    "link": "https://dev.to/ndcodes/day-59-a-broken-deployment-and-a-nic-3fmp",
+    "title": "Choosing an SSH Client for Windows: Start With Your Workflow",
+    "desc": "<p>If you only need to connect to a server and run a command, Windows already has a capable SSH client. A third-party app becomes useful whe",
+    "link": "https://dev.to/__3381495fd2b/choosing-an-ssh-client-for-windows-start-with-your-workflow-1f8h",
     "topic": "general"
   }
 ]
