@@ -1,5 +1,41 @@
 [
   {
+    "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+    "desc": "<p>The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
+    "topic": "general"
+  },
+  {
+    "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
+    "desc": "<p>Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
+    "topic": "general"
+  },
+  {
+    "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
+    "desc": "<p>Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure.</p>\n<p>The post <a href=\"",
+    "link": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
+    "topic": "general"
+  },
+  {
+    "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
+    "desc": "<p>OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
+    "desc": "<p>The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
+    "desc": "<p>$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infras",
+    "link": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
+    "topic": "general"
+  },
+  {
     "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
     "desc": "<p>Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predic",
     "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
@@ -10,41 +46,5 @@
     "desc": "<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.<",
     "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
     "topic": "general"
-  },
-  {
-    "title": "Security Awareness Training Isn\u2019t Dead, but It Needs a Rethink",
-    "desc": "<p>All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
-    "topic": "secops"
-  },
-  {
-    "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
-    "desc": "<p>Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian\u2019s self-hosted Data Center products.</p>\n<p>The",
-    "link": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
-    "topic": "secops"
-  },
-  {
-    "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
-    "desc": "<p>Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026.</p>\n<p>The post <a href=\"https://www.secu",
-    "link": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
-    "topic": "general"
-  },
-  {
-    "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
-    "desc": "<p>Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their priv",
-    "link": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
-    "desc": "<p>The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
-    "topic": "secops"
-  },
-  {
-    "title": "TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws",
-    "desc": "<p>SEC Consult has published technical details on vulnerabilities mentioned in a complaint filed by several US states.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
-    "topic": "aws"
   }
 ]

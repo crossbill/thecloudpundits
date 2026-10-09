@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Call Tracking Matters for Roofing Marketing",
-    "desc": "<p>Phone calls remain an important source of new business for roofing contractors. Homeowners often call when they need a roof inspection, u",
-    "link": "https://dev.to/grow_myroofing_2365dd793/why-call-tracking-matters-for-roofing-marketing-31c3",
+    "title": "Should Your Platform Lead Trust a $0 Coding Lane? Use This Page-Owner Gate",
+    "desc": "<p>I use a composite scene for this call, because the real company names are not mine to publish. The invoice says $0. The pilot is fourteen",
+    "link": "https://dev.to/bestbee/should-your-platform-lead-trust-a-0-coding-lane-use-this-page-owner-gate-30k4",
     "topic": "general"
   },
   {
-    "title": "Running small-business software on a LAN: a practical checklist for an always-on VirtualBox host",
-    "desc": "<p>Plenty of small-business tools ship as a ready-made virtual machine: import the appliance, start it, and staff open the app in a browser ",
-    "link": "https://dev.to/repairamigo/running-small-business-software-on-a-lan-a-practical-checklist-for-an-always-on-virtualbox-host-18jj",
+    "title": "chmod command in Linux: syntax, examples and common mistakes",
+    "desc": "<p>A deploy script fails with <code>Permission denied</code>. A freshly cloned repository will not run <code>./build.sh</code>. SSH refuses ",
+    "link": "https://dev.to/opscanopy/chmod-command-in-linux-syntax-examples-and-common-mistakes-no2",
     "topic": "general"
   },
   {
-    "title": "Citrix NetScaler RCE (CVE-2026-107406): Critical Alert",
-    "desc": "<p>A new, highly critical Remote Code Execution (RCE) vulnerability, tracked as CVE-2026-107406, has been discovered in Citrix NetScaler ADC",
-    "link": "https://dev.to/kiran_sonawane/citrix-netscaler-rce-cve-2026-107406-critical-alert-do4",
+    "title": "SafeLine + CrowdSec: Building a Two-Layer Defense for Your Server",
+    "desc": "<p>People often frame SafeLine and CrowdSec as an either/or choice. They aren't. One guards your application layer, the other guards your se",
+    "link": "https://dev.to/danielblack/safeline-crowdsec-building-a-two-layer-defense-for-your-server-4e61",
     "topic": "general"
   },
   {
-    "title": "Agency Renewal Operations: Preventing Drop-Offs, Automating Calendars, and Enforcing Zero-Trust Auto-Renewals",
-    "desc": "<p>Digital agencies, managed service providers (MSPs), and IT consultants routinely manage dozens, sometimes hundreds, of client web assets.",
-    "link": "https://dev.to/instarenewal/agency-renewal-operations-preventing-drop-offs-automating-calendars-and-enforcing-zero-trust-3ijb",
+    "title": "The Prisma migration that passes CI and fails in production",
+    "desc": "<p>Making a Prisma field required passes review and CI, then fails on deploy if production has nulls. How to check first, and how to make th",
+    "link": "https://dev.to/denis_borovikov_96ed962f0/the-prisma-migration-that-passes-ci-and-fails-in-production-1k6k",
     "topic": "general"
   },
   {
-    "title": "Designing a Reliable Kubernetes Deployment with GitOps",
-    "desc": "<p>Deploying an application to a Kubernetes cluster is not just about building a container image and running it. A reliable deployment workf",
-    "link": "https://dev.to/morizal/designing-a-reliable-kubernetes-deployment-with-gitops-464b",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "A Valid Signature Doesn't Mean an AI Agent Still Has Authority",
-    "desc": "<p>Imagine an AI agent receives a valid, signed delegation to perform an action.</p>\n\n<p>The user later revokes that delegation in another s",
-    "link": "https://dev.to/projetxana/a-valid-signature-doesnt-mean-an-ai-agent-still-has-authority-1dm8",
+    "title": "The physics of build systems",
+    "desc": "<p>At first, a build looks simple. Change a file, run a command, and a compiler turns the source into something you can ship or test. On a s",
+    "link": "https://dev.to/tuist/the-physics-of-build-systems-i2e",
     "topic": "general"
   },
   {
-    "title": "I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark)",
-    "desc": "<h1>\n  \n  \n  I Built Scrapers That Heal Themselves (and Won an NVIDIA DGX Spark)\n</h1>\n\n<p>Scraper Factory took first place at the WeMakeDev",
-    "link": "https://dev.to/nitish_mane_2c399ba312e53/i-built-scrapers-that-heal-themselves-and-won-an-nvidia-dgx-spark-k13",
+    "title": "What the Microsoft H\u20111B Suspension Means for AI Engineers and Cloud Teams",
+    "desc": "<h2>\n  \n  \n  1. What was announced\n</h2>\n\n<p>The U.S. Department of Labor announced that the Trump administration is <strong>suspending Micr",
+    "link": "https://dev.to/naveenmalothu/what-the-microsoft-h-1b-suspension-means-for-ai-engineers-and-cloud-teams-53al",
+    "topic": "azure"
+  },
+  {
+    "title": "From Jira ticket to feature environment: how we built a multi-agent AI developer",
+    "desc": "<p>I'm Alina, Head of Web Applications at EXANTE. I'm responsible for the technical strategy of our web projects, delivery efficiency and en",
+    "link": "https://dev.to/alina_poluykova/from-jira-ticket-to-feature-environment-how-we-built-a-multi-agent-ai-developer-1lhd",
     "topic": "general"
   },
   {
-    "title": "Anthropic's Cyber Mission: AI in Defensive Security",
-    "desc": "<p>Anthropic is accelerating its push into the enterprise cybersecurity sector with new initiatives designed to leverage Large Language Mode",
-    "link": "https://dev.to/kiran_sonawane/anthropics-cyber-mission-ai-in-defensive-security-2kjb",
-    "topic": "anthropic"
+    "title": "28 migration files, two of which cancel each other out, and not one of them written by hand",
+    "desc": "<p><a href=\"https://nakodo.app\" rel=\"noopener noreferrer\">Nakodo's</a> schema is 23 tables and 36 indexes in a single 1,118 line <code>schem",
+    "link": "https://dev.to/daniel_pertu/28-migration-files-two-of-which-cancel-each-other-out-and-not-one-of-them-written-by-hand-i2",
+    "topic": "general"
   }
 ]
