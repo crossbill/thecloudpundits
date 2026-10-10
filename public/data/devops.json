@@ -1,50 +1,50 @@
 [
   {
-    "title": "Bash Scripting: From Your First Script to Linux Automation",
-    "desc": "<p>When I first started working with Linux, the terminal felt like a place where I typed mysterious commands and hoped they worked.</p>\n\n<p>",
-    "link": "https://dev.to/juma_evans_34e389ef539266/bash-scripting-from-your-first-script-to-linux-automation-4n15",
+    "title": "Your AWS account has more admins than the IAM console shows",
+    "desc": "<p>Open IAM, filter by the <code>AdministratorAccess</code> policy, and you get a list. Three<br />\nusers, maybe a role or two. That is the ",
+    "link": "https://dev.to/rohaan/your-aws-account-has-more-admins-than-the-iam-console-shows-174a",
+    "topic": "aws"
+  },
+  {
+    "title": "Leave Vercel for Your Own Server: A Next.js Migration Runbook",
+    "desc": "<h1>\n  \n  \n  Leave Vercel for Your Own Server: A Next.js Migration Runbook\n</h1>\n\n<p>Moving off Vercel is hard because of configuration, not",
+    "link": "https://dev.to/thegdsks/leave-vercel-for-your-own-server-a-nextjs-migration-runbook-3ca9",
     "topic": "general"
   },
   {
-    "title": "Your Green Toy Eval Cannot Pick the Lane. Use This Review-Debt Gate",
-    "desc": "<p>Here is the meeting I reconstruct when a platform lead says the demo already decided the vendor.</p>\n\n<p>An engineering manager has a fre",
-    "link": "https://dev.to/bestbee/your-green-toy-eval-cannot-pick-the-lane-use-this-review-debt-gate-49ee",
+    "title": "Nx self-hosted remote cache in 2026: 4 things that surprised us on Nx 23",
+    "desc": "<p>Since Nx 21, custom task runners (<code>tasksRunnerOptions</code>) don't run, and in May 2026 Nx deprecated its own bucket plugins (<code",
+    "link": "https://dev.to/cachely-admin/nx-self-hosted-remote-cache-in-2026-4-things-that-surprised-us-on-nx-23-1poo",
     "topic": "general"
   },
   {
-    "title": "Can someone verify!",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/donnnnn14/can-someone-verify-3169",
+    "title": "Let an AI Agent Deploy Safely: A Scoped MCP Server With an Audit Trail",
+    "desc": "<h1>\n  \n  \n  Let an AI Agent Deploy Safely: A Scoped MCP Server With an Audit Trail\n</h1>\n\n<p>Handing an AI agent your deploy credentials is",
+    "link": "https://dev.to/thegdsks/let-an-ai-agent-deploy-safely-a-scoped-mcp-server-with-an-audit-trail-2ofm",
     "topic": "general"
   },
   {
-    "title": "Continuous SEO & CRO: Integrating Site Audits into GitHub Actions CI/CD",
-    "desc": "<p>Engineering teams enforce strict CI/CD gates to protect code quality: unit test suites, integration tests, ESLint formatting, and TypeScr",
-    "link": "https://dev.to/sameer_hassan/continuous-seo-cro-integrating-site-audits-into-github-actions-cicd-2hli",
+    "title": "Migrate from Coolify, Dokploy or CapRover Without Touching the Old Server",
+    "desc": "<h1>\n  \n  \n  Migrate from Coolify, Dokploy or CapRover Without Touching the Old Server\n</h1>\n\n<p>Migrations go wrong when the tool changes t",
+    "link": "https://dev.to/thegdsks/migrate-from-coolify-dokploy-or-caprover-without-touching-the-old-server-1mhb",
     "topic": "general"
   },
   {
-    "title": "How to Monitor and Alert on Redis Memory Fragmentation Before It Causes Latency Spikes",
-    "desc": "<p>Your Redis instance looks healthy \u2014 low CPU, plenty of free memory, stable connection count. Then latency spikes out of nowhere, and you ",
-    "link": "https://dev.to/opservo/how-to-monitor-and-alert-on-redis-memory-fragmentation-before-it-causes-latency-spikes-3227",
+    "title": "Your Agent Breaks the Dockerfile Because It Has Never Seen CI Run",
+    "desc": "<h3>\n  \n  \n  Your Agent Breaks the Dockerfile Because It Has Never Seen CI Run\n</h3>\n\n<p>Ask an agent to speed up a Docker build and it will",
+    "link": "https://dev.to/jeff_pdc/your-agent-breaks-the-dockerfile-because-it-has-never-seen-ci-run-5f2k",
+    "topic": "docker"
+  },
+  {
+    "title": "FAQ: A Free Allowance Is Not Your Capacity Plan",
+    "desc": "<p>Developers keep pasting a free-model claim into merge requests.<br />\nThey call that pasted line a new capacity plan.<br />\nI ask which f",
+    "link": "https://dev.to/gitlab_3188/faq-a-free-allowance-is-not-your-capacity-plan-37am",
     "topic": "general"
   },
   {
-    "title": "My scanner said 49 pages lost their affiliate links. 45 were fine.",
-    "desc": "<p>My affiliate gap scanner reported that forty-nine pages mentioned a VPN brand and had <strong>zero</strong> affiliate links attached. Los",
-    "link": "https://dev.to/toolkitcreators/my-scanner-said-49-pages-lost-their-affiliate-links-45-were-fine-2lbi",
-    "topic": "general"
-  },
-  {
-    "title": "Scaling Impact in GitLab Hackathons: From Winner to Repeat Contributor",
-    "desc": "<p>Having won the July 2026 GitLab Hackathon and reaching Contributor Level 4, I often get asked how to maintain high contribution momentum ",
-    "link": "https://dev.to/yarra_vivek/scaling-impact-in-gitlab-hackathons-from-winner-to-repeat-contributor-4e98",
-    "topic": "general"
-  },
-  {
-    "title": "Our AI Coding Agent Burned Real Money Fixing a Bug a Human Would Have Caught in Five Minutes",
-    "desc": "<p>We gave an autonomous coding agent a real ticket: an off-by-one error in a pagination function, the kind of bug a mid-level engineer find",
-    "link": "https://dev.to/rbonweb/our-ai-coding-agent-burned-real-money-fixing-a-bug-a-human-would-have-caught-in-five-minutes-3bkc",
+    "title": "48-Hour Field Notes: I Would Inventory Probe Tools Before I Blame the Endpoint",
+    "desc": "<p>I spent the first evening blaming a health endpoint that still returned 200 when I opened it in a browser. The generated probe kept dying",
+    "link": "https://dev.to/codepy_1473/48-hour-field-notes-i-would-inventory-probe-tools-before-i-blame-the-endpoint-ien",
     "topic": "general"
   }
 ]
