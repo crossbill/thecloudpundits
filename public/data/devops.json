@@ -1,50 +1,50 @@
 [
   {
-    "title": "The GCP discount AWS has no equivalent for",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/the-gcp-discount-aws-has-no-equivalent-for-4n07",
-    "topic": "aws"
-  },
-  {
-    "title": "How Prometheus Finds Matching Series in Milliseconds",
-    "desc": "<p>Picture the situation. You ask Prometheus for one specific label combination. Behind the scenes it is sitting on ten million active time ",
-    "link": "https://dev.to/v4nd1t/how-prometheus-finds-matching-series-in-milliseconds-2jno",
+    "title": "# AI Video Watermark Removal Workflows: A TikTok Editor\u2019s Review of Video Background Remover",
+    "desc": "<p>As a TikTok video editor, I prefer Remover.work\u2019s Video Background Remover when my real goal is to separate a subject from a distracting ",
+    "link": "https://dev.to/_3784b12ea2d59e1ecaa10/-ai-video-watermark-removal-workflows-a-tiktok-editors-review-of-video-background-remover-5dll",
     "topic": "general"
   },
   {
-    "title": "What \"Confidential Computing\" Actually Means for Containers (and Who Needs It)",
-    "desc": "<p>If you have spent any time around cloud infrastructure recently, you have likely heard the term \"confidential computing\" thrown into exec",
-    "link": "https://dev.to/bascoibm/what-confidential-computing-actually-means-for-containers-and-who-needs-it-oh4",
+    "title": "Failure Handling & Resilience",
+    "desc": "<blockquote>\n<p>Interviewers LOVE failure thinking \ud83d\ude0f \u2014 \"What happens when X fails?\" is the classic follow-up.</p>\n</blockquote>\n\n\n\n\n<h2>\n  \n",
+    "link": "https://dev.to/gouranga-das-khulna/failure-handling-resilience-4p8h",
+    "topic": "general"
+  },
+  {
+    "title": "Fix n8n Webhook 413 Payload Too Large on Docker & Nginx (The 3-Layer Solution)",
+    "desc": "<p>You\u2019re self-hosting n8n on Docker behind an Nginx reverse proxy. Your workflows run flawlessly with small test payloads and test webhooks",
+    "link": "https://dev.to/gearflowlab/fix-n8n-webhook-413-payload-too-large-on-docker-nginx-the-3-layer-solution-5chg",
     "topic": "docker"
   },
   {
-    "title": "How do you handle compliance for regulated industries?",
-    "desc": "<p>Operating in a regulated industry comes with a unique challenge. Organizations must innovate quickly, deliver reliable services, protect ",
-    "link": "https://dev.to/varunvarde/how-do-you-handle-compliance-for-regulated-industries-21pi",
+    "title": "How to Fix WSL2 and Docker (vmmem) Eating 90% of Your RAM on Windows 11",
+    "desc": "<p>You\u2019re running Windows 11 as your daily driver for software engineering. You launch Docker Desktop, spin up your local dev containers (Po",
+    "link": "https://dev.to/gearflowlab/how-to-fix-wsl2-and-docker-vmmem-eating-90-of-your-ram-on-windows-11-2gja",
+    "topic": "docker"
+  },
+  {
+    "title": "A successful API request is not a published post: lessons from CozyCue",
+    "desc": "<p>CozyCue is our self-hosted social publishing workspace, built on Postiz. While connecting channels, we learned that \u201cconnected\u201d, \u201cqueued\u201d",
+    "link": "https://dev.to/patrickstar_0f69239cfc498/a-successful-api-request-is-not-a-published-post-lessons-from-cozycue-l66",
     "topic": "general"
   },
   {
-    "title": "Choosing a PuTTY Alternative: Start With How You Use SSH",
-    "desc": "<p>PuTTY is still a solid SSH client. The reason to replace it usually isn\u2019t that it has stopped working; it\u2019s that your workflow needs more",
-    "link": "https://dev.to/__3381495fd2b/choosing-a-putty-alternative-start-with-how-you-use-ssh-3bdp",
+    "title": "SafeLine WAF vs Imperva: Self-Hosted WAF vs Enterprise Cloud Protection",
+    "desc": "<h1>\n  \n  \n  SafeLine WAF vs Imperva: Self-Hosted WAF vs Enterprise Cloud Protection\n</h1>\n\n<p>When people compare SafeLine to Imperva, they",
+    "link": "https://dev.to/lialiago/safeline-waf-vs-imperva-self-hosted-waf-vs-enterprise-cloud-protection-1956",
     "topic": "general"
   },
   {
-    "title": "Debugging Silent Skips in Poll-Based Reply Bots",
-    "desc": "<p>When a poll-based reply bot runs in a staging environment, it usually behaves predictably. It reads recent posts, checks for mentions, an",
-    "link": "https://dev.to/raylabs/debugging-silent-skips-in-poll-based-reply-bots-5fnl",
+    "title": "How to Configure ViciDial Closer Campaigns & In-Groups",
+    "desc": "<h1>\n  \n  \n  How to Configure ViciDial Closer Campaigns & In-Groups\n</h1>\n\n<p><strong>Master the complete process of setting up closer campa",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/how-to-configure-vicidial-closer-campaigns-in-groups-2759",
     "topic": "general"
   },
   {
-    "title": "Mitigating Action Blocks in Social Media Automation: Carrier NAT and Anti-Detect Synergy",
-    "desc": "<h1>\n  \n  \n  Mitigating Action Blocks in Social Media Automation: Carrier NAT and Anti-Detect Synergy\n</h1>\n\n<p>Social media platforms (Inst",
-    "link": "https://dev.to/pxm2io/mitigating-action-blocks-in-social-media-automation-carrier-nat-and-anti-detect-synergy-3cgh",
-    "topic": "general"
-  },
-  {
-    "title": "Choosing an SSH Client for Windows: Start With Your Workflow",
-    "desc": "<p>If you only need to connect to a server and run a command, Windows already has a capable SSH client. A third-party app becomes useful whe",
-    "link": "https://dev.to/__3381495fd2b/choosing-an-ssh-client-for-windows-start-with-your-workflow-1f8h",
+    "title": "Nightly Analyst Digest from Slot Activity Logs",
+    "desc": "<p>Running a high-frequency automation system that triggers dozens of times per day creates a difficult reporting dilemma. If every run send",
+    "link": "https://dev.to/raylabs/nightly-analyst-digest-from-slot-activity-logs-1g6h",
     "topic": "general"
   }
 ]
