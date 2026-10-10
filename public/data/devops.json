@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your cluster says 3/3. It will still go dark with one zone.",
-    "desc": "<p>Every deployment in this three-zone cluster reports ready:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight co",
-    "link": "https://dev.to/sai_pisey_02/your-cluster-says-33-it-will-still-go-dark-with-one-zone-3l3k",
+    "title": "Bash Scripting: From Your First Script to Linux Automation",
+    "desc": "<p>When I first started working with Linux, the terminal felt like a place where I typed mysterious commands and hoped they worked.</p>\n\n<p>",
+    "link": "https://dev.to/juma_evans_34e389ef539266/bash-scripting-from-your-first-script-to-linux-automation-4n15",
     "topic": "general"
   },
   {
-    "title": "Open source or source-available? 3 license traps to check before you self-host",
-    "desc": "<p>\"It's on GitHub, so it's open source\" is one of the most expensive assumptions a team can make. Plenty of popular self-hosted tools publi",
-    "link": "https://dev.to/sarmaasis/open-source-or-source-available-3-license-traps-to-check-before-you-self-host-44i2",
+    "title": "Your Green Toy Eval Cannot Pick the Lane. Use This Review-Debt Gate",
+    "desc": "<p>Here is the meeting I reconstruct when a platform lead says the demo already decided the vendor.</p>\n\n<p>An engineering manager has a fre",
+    "link": "https://dev.to/bestbee/your-green-toy-eval-cannot-pick-the-lane-use-this-review-debt-gate-49ee",
     "topic": "general"
   },
   {
-    "title": "Your AI Memory Is Running Naked: What mem0, Zep and MemOS Didn't Do, We Did First",
-    "desc": "<h2>\n  \n  \n  A Question Nobody Wants to Answer\n</h2>\n\n<p>First, an uncomfortable question: <strong>how many layers of encryption stand betwe",
-    "link": "https://dev.to/_24569b2abcc8f3fa4c094/your-ai-memory-is-running-naked-what-mem0-zep-and-memos-didnt-do-we-did-first-1fc0",
+    "title": "Can someone verify!",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/donnnnn14/can-someone-verify-3169",
     "topic": "general"
   },
   {
-    "title": "The Rise of the 'Reverse Engineer Anything' Tool",
-    "desc": "<p>A new breed of advanced, AI-assisted software decompilation and analysis platforms, often dubbed 'Reverse Engineer Anything' tools, is ra",
-    "link": "https://dev.to/kiran_sonawane/the-rise-of-the-reverse-engineer-anything-tool-4im8",
+    "title": "Continuous SEO & CRO: Integrating Site Audits into GitHub Actions CI/CD",
+    "desc": "<p>Engineering teams enforce strict CI/CD gates to protect code quality: unit test suites, integration tests, ESLint formatting, and TypeScr",
+    "link": "https://dev.to/sameer_hassan/continuous-seo-cro-integrating-site-audits-into-github-actions-cicd-2hli",
     "topic": "general"
   },
   {
-    "title": "Twelve verbs in one 221-line script, and not one of them loads a module until you pick it",
-    "desc": "<p>Nakodo's background work runs on a cron in production: campaigns search, results get enriched and scored, emails go out, data gets expire",
-    "link": "https://dev.to/daniel_pertu/twelve-verbs-in-one-221-line-script-and-not-one-of-them-loads-a-module-until-you-pick-it-oei",
+    "title": "How to Monitor and Alert on Redis Memory Fragmentation Before It Causes Latency Spikes",
+    "desc": "<p>Your Redis instance looks healthy \u2014 low CPU, plenty of free memory, stable connection count. Then latency spikes out of nowhere, and you ",
+    "link": "https://dev.to/opservo/how-to-monitor-and-alert-on-redis-memory-fragmentation-before-it-causes-latency-spikes-3227",
     "topic": "general"
   },
   {
-    "title": "The best disaster recovery solution is having an antifragile infrastructure",
-    "desc": "<p>When we are thinking about disaster recovery, a complex picture forms in our heads. Many data centres, in many locations, so our product ",
-    "link": "https://dev.to/berislavbabic/the-best-disaster-recovery-solution-is-having-an-antifragile-infrastructure-18gk",
+    "title": "My scanner said 49 pages lost their affiliate links. 45 were fine.",
+    "desc": "<p>My affiliate gap scanner reported that forty-nine pages mentioned a VPN brand and had <strong>zero</strong> affiliate links attached. Los",
+    "link": "https://dev.to/toolkitcreators/my-scanner-said-49-pages-lost-their-affiliate-links-45-were-fine-2lbi",
     "topic": "general"
   },
   {
-    "title": "Cloudflare Acquires Deno \u2013 What It Means for AI\u2011Powered Edge Apps",
-    "desc": "<h2>\n  \n  \n  1. What was released / announced\n</h2>\n\n<p>Earlier this week Cloudflare announced that it has <strong>acquired Deno</strong>, t",
-    "link": "https://dev.to/naveenmalothu/cloudflare-acquires-deno-what-it-means-for-ai-powered-edge-apps-5mp",
+    "title": "Scaling Impact in GitLab Hackathons: From Winner to Repeat Contributor",
+    "desc": "<p>Having won the July 2026 GitLab Hackathon and reaching Contributor Level 4, I often get asked how to maintain high contribution momentum ",
+    "link": "https://dev.to/yarra_vivek/scaling-impact-in-gitlab-hackathons-from-winner-to-repeat-contributor-4e98",
     "topic": "general"
   },
   {
-    "title": "I got tired of OpenAPI generators breaking my clients, so I built steadysdk",
-    "desc": "<p>Most OpenAPI generators are \"generate once and forget.\"</p>\n\n<p>You run them the first time and everything looks great. Then the backend ",
-    "link": "https://dev.to/euruuuudev/i-got-tired-of-openapi-generators-breaking-my-clients-so-i-built-steadysdk-g9o",
+    "title": "Our AI Coding Agent Burned Real Money Fixing a Bug a Human Would Have Caught in Five Minutes",
+    "desc": "<p>We gave an autonomous coding agent a real ticket: an off-by-one error in a pagination function, the kind of bug a mid-level engineer find",
+    "link": "https://dev.to/rbonweb/our-ai-coding-agent-burned-real-money-fixing-a-bug-a-human-would-have-caught-in-five-minutes-3bkc",
     "topic": "general"
   }
 ]
