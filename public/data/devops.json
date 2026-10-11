@@ -1,50 +1,50 @@
 [
   {
-    "title": "Developers already delegate whole pipelines to AI. Why doesn't the rest of the business?",
-    "desc": "<p>I've been writing C# and .NET for 20 years. For most of that time, \"automation\" meant the build pipeline: push code, tests run, it deploy",
-    "link": "https://dev.to/juggai/developers-already-delegate-whole-pipelines-to-ai-why-doesnt-the-rest-of-the-business-bn4",
+    "title": "Four things a formula evaluator must do that eval() cannot",
+    "desc": "<p>A spreadsheet formula is a program somebody else wrote, and sooner or later it has to run outside the spreadsheet, either in a service th",
+    "link": "https://dev.to/shipmindlabs/four-things-a-formula-evaluator-must-do-that-eval-cannot-m5m",
     "topic": "general"
   },
   {
-    "title": "My Tiny SaaS Went Down for 40 Minutes. The Outage Was Fine, the Silence Wasn't.",
-    "desc": "<p>A few months back my app was down for about 40 minutes on a weekday evening. Database host had a bad node, nothing I did. I fixed it, it ",
-    "link": "https://dev.to/posting-dude/my-tiny-saas-went-down-for-40-minutes-the-outage-was-fine-the-silence-wasnt-3bai",
+    "title": "6 Linux Server Monitoring Tools to Consider in 2026",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https",
+    "link": "https://dev.to/olvy/6-linux-server-monitoring-tools-to-consider-in-2026-3a6o",
     "topic": "general"
   },
   {
-    "title": "Setup Docker di VPS Linux: Menjaga Aplikasi Tetap Aktif 24/7 Tanpa Takut Reboot",
-    "desc": "<p>Pernahkah Anda mengalami situasi di mana server VPS tiba-tiba melakukan <em>reboot</em> (misalnya karena pemeliharaan rutin oleh penyedia",
-    "link": "https://dev.to/maldiharyojudanto/setup-docker-di-vps-linux-menjaga-aplikasi-tetap-aktif-247-tanpa-takut-reboot-101n",
-    "topic": "docker"
+    "title": "Google Cloud Storage has the same problem as S3: Standard forever",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/google-cloud-storage-has-the-same-problem-as-s3-standard-forever-34o5",
+    "topic": "gcp"
   },
   {
-    "title": "Five switches. Two app stores. How I built Fud AI\u2019s release pipeline",
-    "desc": "<p>Building the app was only half the release. I still had store listings, screenshots, notes, and subscriptions to deal with.</p>\n\n<p>For F",
-    "link": "https://dev.to/apoorvdarshan/five-switches-two-app-stores-how-i-built-fud-ais-release-pipeline-4l5",
+    "title": "Contabo gives you 8GB RAM for $7/mo \u2014 I tested if the catch is real",
+    "desc": "<p>Every time Contabo comes up in a VPS thread, someone says \"there has to be a catch at that price.\" 8GB RAM, 6 vCPU, 200GB NVMe for ~$15/m",
+    "link": "https://dev.to/vpsfordev/contabo-gives-you-8gb-ram-for-7mo-i-tested-if-the-catch-is-real-42cf",
     "topic": "general"
   },
   {
-    "title": "I thought GPT-4o got 80% faster, but it was just prompt caching messing with my benchmark",
-    "desc": "<p>I got fooled by a benchmark that looked incredible.</p>\n\n<p>Same agent workflow. Same model. Same code path.</p>\n\n<p>Second run was drama",
-    "link": "https://dev.to/lars_winstand/i-thought-gpt-4o-got-80-faster-but-it-was-just-prompt-caching-messing-with-my-benchmark-3c1f",
+    "title": "Residential vs Datacenter Proxies: Why Network-Type Blocklists Miss Most of the Problem",
+    "desc": "<p>If you've ever treated \"block datacenter ASNs\" as the main proxy defence, you're mostly looking at a thin slice of the market. The addres",
+    "link": "https://dev.to/ip99/residential-vs-datacenter-proxies-why-network-type-blocklists-miss-most-of-the-problem-2kih",
     "topic": "general"
   },
   {
-    "title": "Zero Trust Home Lab: pfSense + Cloudflare WARP + mTLS Step-by-Step Implementation Guide (2026)",
-    "desc": "<p>Traditional VPN-based home lab remote access creates a single-failure security boundary: compromise the VPN credential, and you have unfe",
-    "link": "https://dev.to/nextbytetech/zero-trust-home-lab-pfsense-cloudflare-warp-mtls-step-by-step-implementation-guide-2026-4bcm",
-    "topic": "secops"
+    "title": "Notes From 48 Hours: I Scored the Second Patch Against a Tree That Left",
+    "desc": "<p>I opened these notes because the second patch looked careless, and I wanted a culprit before I wanted a receipt. The first suggestion had",
+    "link": "https://dev.to/codepy_1473/notes-from-48-hours-i-scored-the-second-patch-against-a-tree-that-left-4na4",
+    "topic": "general"
   },
   {
-    "title": "100 free container-hours a month goes further than it sounds: how auto-sleep and the Stop button stretch it",
-    "desc": "<p><strong>TL;DR:</strong> SnapDeploy's free tier is 4 containers, 10 deploys a day and 100 container-hours a month, no card, no expiry. Hou",
-    "link": "https://dev.to/snapdeploy/100-free-container-hours-a-month-goes-further-than-it-sounds-how-auto-sleep-and-the-stop-button-999",
-    "topic": "docker"
+    "title": "Failed Video Encodes Should Cost You $0 \u2014 What a Year of Serverless Transcoding Taught Me",
+    "desc": "<p><em>P.S. If you want more serverless and media-pipeline cost breakdowns like this one delivered to your inbox every week, join 2,000+ bui",
+    "link": "https://dev.to/wukidev/failed-video-encodes-should-cost-you-0-what-a-year-of-serverless-transcoding-taught-me-2l32",
+    "topic": "general"
   },
   {
-    "title": "FAQ: A Suggested Job Is Not a Pipeline Contract",
-    "desc": "<p>I keep seeing one shortcut in merge requests.<br />\nSomeone pastes a red job into chat.<br />\nThe reply looks like a finished YAML file.<",
-    "link": "https://dev.to/gitlab_3188/faq-a-suggested-job-is-not-a-pipeline-contract-52cl",
+    "title": "Your Cron Job Runs at the Wrong Time (or Twice): Four Traps in Five Fields",
+    "desc": "<p>Cron is 50 years old, has five fields, and still owns a special place in every on-call rotation. Nearly every \"why did this run at 3am\" t",
+    "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/your-cron-job-runs-at-the-wrong-time-or-twice-four-traps-in-five-fields-2fmp",
     "topic": "general"
   }
 ]
