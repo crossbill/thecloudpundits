@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your AWS account has more admins than the IAM console shows",
-    "desc": "<p>Open IAM, filter by the <code>AdministratorAccess</code> policy, and you get a list. Three<br />\nusers, maybe a role or two. That is the ",
-    "link": "https://dev.to/rohaan/your-aws-account-has-more-admins-than-the-iam-console-shows-174a",
-    "topic": "aws"
-  },
-  {
-    "title": "Leave Vercel for Your Own Server: A Next.js Migration Runbook",
-    "desc": "<h1>\n  \n  \n  Leave Vercel for Your Own Server: A Next.js Migration Runbook\n</h1>\n\n<p>Moving off Vercel is hard because of configuration, not",
-    "link": "https://dev.to/thegdsks/leave-vercel-for-your-own-server-a-nextjs-migration-runbook-3ca9",
+    "title": "An Atomic JSON Write Did Not Protect My Python Retry Budget.",
+    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/python-retry-budget-before-api-call.html\" rel=\"noopener noreferrer",
+    "link": "https://dev.to/hexisteme/an-atomic-json-write-did-not-protect-my-python-retry-budget-53hb",
     "topic": "general"
   },
   {
-    "title": "Nx self-hosted remote cache in 2026: 4 things that surprised us on Nx 23",
-    "desc": "<p>Since Nx 21, custom task runners (<code>tasksRunnerOptions</code>) don't run, and in May 2026 Nx deprecated its own bucket plugins (<code",
-    "link": "https://dev.to/cachely-admin/nx-self-hosted-remote-cache-in-2026-4-things-that-surprised-us-on-nx-23-1poo",
+    "title": "The Tools the Enterprise Actually Lets Me Run: My SRE Stack",
+    "desc": "<p>People ask what tools I use as an SRE. The better question is which tools survive enterprise security review. Most of the shiny stuff nev",
+    "link": "https://dev.to/rohan_roots/the-tools-the-enterprise-actually-lets-me-run-my-sre-stack-4no3",
     "topic": "general"
   },
   {
-    "title": "Let an AI Agent Deploy Safely: A Scoped MCP Server With an Audit Trail",
-    "desc": "<h1>\n  \n  \n  Let an AI Agent Deploy Safely: A Scoped MCP Server With an Audit Trail\n</h1>\n\n<p>Handing an AI agent your deploy credentials is",
-    "link": "https://dev.to/thegdsks/let-an-ai-agent-deploy-safely-a-scoped-mcp-server-with-an-audit-trail-2ofm",
+    "title": "Small Business Uptime Explained: 4 EU Signals Across SaaS and Self-Hosted Monitoring",
+    "desc": "<p>A small property-management app should start with externally hosted uptime checks for its public health endpoint and heartbeat checks for",
+    "link": "https://dev.to/godfreysterling9226/small-business-uptime-explained-4-eu-signals-across-saas-and-self-hosted-monitoring-5egj",
     "topic": "general"
   },
   {
-    "title": "Migrate from Coolify, Dokploy or CapRover Without Touching the Old Server",
-    "desc": "<h1>\n  \n  \n  Migrate from Coolify, Dokploy or CapRover Without Touching the Old Server\n</h1>\n\n<p>Migrations go wrong when the tool changes t",
-    "link": "https://dev.to/thegdsks/migrate-from-coolify-dokploy-or-caprover-without-touching-the-old-server-1mhb",
+    "title": "Four supply-chain badges for a one-person open-source project, in a day",
+    "desc": "<p>I maintain <a href=\"https://github.com/ashishsinha1602/schemagate\" rel=\"noopener noreferrer\">schemagate</a>, an open-source library and M",
+    "link": "https://dev.to/ashish_sinha_5241c7673d93/four-supply-chain-badges-for-a-one-person-open-source-project-in-a-day-mn4",
     "topic": "general"
   },
   {
-    "title": "Your Agent Breaks the Dockerfile Because It Has Never Seen CI Run",
-    "desc": "<h3>\n  \n  \n  Your Agent Breaks the Dockerfile Because It Has Never Seen CI Run\n</h3>\n\n<p>Ask an agent to speed up a Docker build and it will",
-    "link": "https://dev.to/jeff_pdc/your-agent-breaks-the-dockerfile-because-it-has-never-seen-ci-run-5f2k",
-    "topic": "docker"
-  },
-  {
-    "title": "FAQ: A Free Allowance Is Not Your Capacity Plan",
-    "desc": "<p>Developers keep pasting a free-model claim into merge requests.<br />\nThey call that pasted line a new capacity plan.<br />\nI ask which f",
-    "link": "https://dev.to/gitlab_3188/faq-a-free-allowance-is-not-your-capacity-plan-37am",
+    "title": "Creating a Windows Service using .NET and OpenMSI",
+    "desc": "<p>In this article, you'll create a .NET Worker Service, configure it to run as a Windows Service, package it using OpenMSI, and generate a ",
+    "link": "https://dev.to/openmsisupport/creating-a-windows-service-using-net-and-openmsi-468b",
     "topic": "general"
   },
   {
-    "title": "48-Hour Field Notes: I Would Inventory Probe Tools Before I Blame the Endpoint",
-    "desc": "<p>I spent the first evening blaming a health endpoint that still returned 200 when I opened it in a browser. The generated probe kept dying",
-    "link": "https://dev.to/codepy_1473/48-hour-field-notes-i-would-inventory-probe-tools-before-i-blame-the-endpoint-ien",
+    "title": "FAQ: A Drafted Retry Block Is Not a Flake Policy",
+    "desc": "<p>A red job came back green after a single retry.<br />\nSomeone pasted a model draft and called the flake gone.<br />\nI do not buy that sto",
+    "link": "https://dev.to/gitlab_3188/faq-a-drafted-retry-block-is-not-a-flake-policy-3bi6",
+    "topic": "general"
+  },
+  {
+    "title": "Gate Changelog Narratives Against a Human-Owned Release Ledger",
+    "desc": "<p>A generated changelog stays trustworthy only when every version, date, breaking flag, and issue identifier already lives in a human-owned",
+    "link": "https://dev.to/github_7727/gate-changelog-narratives-against-a-human-owned-release-ledger-4kdb",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Shipped the Site. Now It Needs a Name: DNS for Agents, Headless",
+    "desc": "<h1>\n  \n  \n  Your AI agent shipped the site. Now it needs a name: a practical guide to DNS for agents\n</h1>\n\n<p>Every guide about coding age",
+    "link": "https://dev.to/neusoftware/your-ai-agent-shipped-the-site-now-it-needs-a-name-dns-for-agents-headless-282g",
     "topic": "general"
   }
 ]
