@@ -1,50 +1,50 @@
 [
   {
-    "title": "Four things a formula evaluator must do that eval() cannot",
-    "desc": "<p>A spreadsheet formula is a program somebody else wrote, and sooner or later it has to run outside the spreadsheet, either in a service th",
-    "link": "https://dev.to/shipmindlabs/four-things-a-formula-evaluator-must-do-that-eval-cannot-m5m",
+    "title": "Same model, different relay: a 5-metric checklist (with Python) before you pick an LLM API provider",
+    "desc": "<p>If you buy access to the \"same\" model through different API relays/resellers, you quickly learn they are not the same. One times out at p",
+    "link": "https://dev.to/sichi_chen_a4a87b20aa2dbf/same-model-different-relay-a-5-metric-checklist-with-python-before-you-pick-an-llm-api-provider-4mmn",
     "topic": "general"
   },
   {
-    "title": "6 Linux Server Monitoring Tools to Consider in 2026",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https",
-    "link": "https://dev.to/olvy/6-linux-server-monitoring-tools-to-consider-in-2026-3a6o",
+    "title": "New update for Archivey",
+    "desc": "<p>Archivey Update: Download Feature Is Now Live \ud83c\udf89</p>\n\n<p>Quick update \u2014 the Download feature has officially shipped.</p>\n\n<p>You can now d",
+    "link": "https://dev.to/ryanchengo/new-update-for-archivey-15le",
     "topic": "general"
   },
   {
-    "title": "Google Cloud Storage has the same problem as S3: Standard forever",
+    "title": "Git Rebase vs Merge: Maintaining a Clean, Linear Git History Without Losing Context",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/google-cloud-storage-has-the-same-problem-as-s3-standard-forever-34o5",
-    "topic": "gcp"
-  },
-  {
-    "title": "Contabo gives you 8GB RAM for $7/mo \u2014 I tested if the catch is real",
-    "desc": "<p>Every time Contabo comes up in a VPS thread, someone says \"there has to be a catch at that price.\" 8GB RAM, 6 vCPU, 200GB NVMe for ~$15/m",
-    "link": "https://dev.to/vpsfordev/contabo-gives-you-8gb-ram-for-7mo-i-tested-if-the-catch-is-real-42cf",
+    "link": "https://dev.to/devanshu_patil/git-rebase-vs-merge-maintaining-a-clean-linear-git-history-without-losing-context-33ed",
     "topic": "general"
   },
   {
-    "title": "Residential vs Datacenter Proxies: Why Network-Type Blocklists Miss Most of the Problem",
-    "desc": "<p>If you've ever treated \"block datacenter ASNs\" as the main proxy defence, you're mostly looking at a thin slice of the market. The addres",
-    "link": "https://dev.to/ip99/residential-vs-datacenter-proxies-why-network-type-blocklists-miss-most-of-the-problem-2kih",
+    "title": "My Journey as a young Developer from Nigeria \ud83c\uddf3\ud83c\uddec | Building PassSabi AI \ud83d\ude80",
+    "desc": "<h1>\n  \n  \n  \ud83d\udc4b Hello, World! I'm Efezino Great Uzezi\n</h1>\n\n<p>Hello, DEV Community! \ud83d\udc4b</p>\n\n<p>My name is Efezino Great Uzezi. I'm a 15-year",
+    "link": "https://dev.to/efezinocode/my-journey-as-a-young-developer-from-nigeria-building-passsabi-ai-18ag",
     "topic": "general"
   },
   {
-    "title": "Notes From 48 Hours: I Scored the Second Patch Against a Tree That Left",
-    "desc": "<p>I opened these notes because the second patch looked careless, and I wanted a culprit before I wanted a receipt. The first suggestion had",
-    "link": "https://dev.to/codepy_1473/notes-from-48-hours-i-scored-the-second-patch-against-a-tree-that-left-4na4",
+    "title": "King 8K IPTV: Things to Consider for a Better Streaming Experience",
+    "desc": "<p>Online streaming has become a popular way to watch television, movies, and other video content. With so many services available, viewers ",
+    "link": "https://dev.to/hartlyn_25c378bb9a75ef396/king-8k-iptv-things-to-consider-for-a-better-streaming-experience-17ga",
     "topic": "general"
   },
   {
-    "title": "Failed Video Encodes Should Cost You $0 \u2014 What a Year of Serverless Transcoding Taught Me",
-    "desc": "<p><em>P.S. If you want more serverless and media-pipeline cost breakdowns like this one delivered to your inbox every week, join 2,000+ bui",
-    "link": "https://dev.to/wukidev/failed-video-encodes-should-cost-you-0-what-a-year-of-serverless-transcoding-taught-me-2l32",
+    "title": "PassSabi Al: Building an Al Learning Assistant to Help Students Understand Better",
+    "desc": "<h1>\n  \n  \n  \ud83d\ude80 Introducing PassSabi AI: Learn Smarter, Understand Better\n</h1>\n\n<p>Hello, DEV Community! \ud83d\udc4b</p>\n\n<p>My name is <strong>Efezin",
+    "link": "https://dev.to/efezinocode/passsabi-al-building-an-al-learning-assistant-to-help-students-understand-better-7kb",
     "topic": "general"
   },
   {
-    "title": "Your Cron Job Runs at the Wrong Time (or Twice): Four Traps in Five Fields",
-    "desc": "<p>Cron is 50 years old, has five fields, and still owns a special place in every on-call rotation. Nearly every \"why did this run at 3am\" t",
-    "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/your-cron-job-runs-at-the-wrong-time-or-twice-four-traps-in-five-fields-2fmp",
+    "title": "Slashing LLM Bills by 58%: Building an OpenTelemetry Semantic Cache Proxy in FastAPI",
+    "desc": "<h1>\n  \n  \n  Slashing LLM Bills by 58%: Building an OpenTelemetry Semantic Cache Proxy in FastAPI\n</h1>\n\n<p>Production LLM deployments come ",
+    "link": "https://dev.to/reigen/slashing-llm-bills-by-58-building-an-opentelemetry-semantic-cache-proxy-in-fastapi-59j4",
+    "topic": "general"
+  },
+  {
+    "title": "Red Flags in Technical Due Diligence: 12 Warning Signs Investors Miss",
+    "desc": "<p>Originally published on the FoundationState company blog: <a href=\"https://foundationstate.com/insights/technical-due-diligence-red-flags",
+    "link": "https://dev.to/foundationstate_company/red-flags-in-technical-due-diligence-12-warning-signs-investors-miss-51dm",
     "topic": "general"
   }
 ]
