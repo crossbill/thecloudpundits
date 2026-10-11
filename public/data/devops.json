@@ -1,50 +1,50 @@
 [
   {
-    "title": "An Atomic JSON Write Did Not Protect My Python Retry Budget.",
-    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/python-retry-budget-before-api-call.html\" rel=\"noopener noreferrer",
-    "link": "https://dev.to/hexisteme/an-atomic-json-write-did-not-protect-my-python-retry-budget-53hb",
+    "title": "Developers already delegate whole pipelines to AI. Why doesn't the rest of the business?",
+    "desc": "<p>I've been writing C# and .NET for 20 years. For most of that time, \"automation\" meant the build pipeline: push code, tests run, it deploy",
+    "link": "https://dev.to/juggai/developers-already-delegate-whole-pipelines-to-ai-why-doesnt-the-rest-of-the-business-bn4",
     "topic": "general"
   },
   {
-    "title": "The Tools the Enterprise Actually Lets Me Run: My SRE Stack",
-    "desc": "<p>People ask what tools I use as an SRE. The better question is which tools survive enterprise security review. Most of the shiny stuff nev",
-    "link": "https://dev.to/rohan_roots/the-tools-the-enterprise-actually-lets-me-run-my-sre-stack-4no3",
+    "title": "My Tiny SaaS Went Down for 40 Minutes. The Outage Was Fine, the Silence Wasn't.",
+    "desc": "<p>A few months back my app was down for about 40 minutes on a weekday evening. Database host had a bad node, nothing I did. I fixed it, it ",
+    "link": "https://dev.to/posting-dude/my-tiny-saas-went-down-for-40-minutes-the-outage-was-fine-the-silence-wasnt-3bai",
     "topic": "general"
   },
   {
-    "title": "Small Business Uptime Explained: 4 EU Signals Across SaaS and Self-Hosted Monitoring",
-    "desc": "<p>A small property-management app should start with externally hosted uptime checks for its public health endpoint and heartbeat checks for",
-    "link": "https://dev.to/godfreysterling9226/small-business-uptime-explained-4-eu-signals-across-saas-and-self-hosted-monitoring-5egj",
+    "title": "Setup Docker di VPS Linux: Menjaga Aplikasi Tetap Aktif 24/7 Tanpa Takut Reboot",
+    "desc": "<p>Pernahkah Anda mengalami situasi di mana server VPS tiba-tiba melakukan <em>reboot</em> (misalnya karena pemeliharaan rutin oleh penyedia",
+    "link": "https://dev.to/maldiharyojudanto/setup-docker-di-vps-linux-menjaga-aplikasi-tetap-aktif-247-tanpa-takut-reboot-101n",
+    "topic": "docker"
+  },
+  {
+    "title": "Five switches. Two app stores. How I built Fud AI\u2019s release pipeline",
+    "desc": "<p>Building the app was only half the release. I still had store listings, screenshots, notes, and subscriptions to deal with.</p>\n\n<p>For F",
+    "link": "https://dev.to/apoorvdarshan/five-switches-two-app-stores-how-i-built-fud-ais-release-pipeline-4l5",
     "topic": "general"
   },
   {
-    "title": "Four supply-chain badges for a one-person open-source project, in a day",
-    "desc": "<p>I maintain <a href=\"https://github.com/ashishsinha1602/schemagate\" rel=\"noopener noreferrer\">schemagate</a>, an open-source library and M",
-    "link": "https://dev.to/ashish_sinha_5241c7673d93/four-supply-chain-badges-for-a-one-person-open-source-project-in-a-day-mn4",
+    "title": "I thought GPT-4o got 80% faster, but it was just prompt caching messing with my benchmark",
+    "desc": "<p>I got fooled by a benchmark that looked incredible.</p>\n\n<p>Same agent workflow. Same model. Same code path.</p>\n\n<p>Second run was drama",
+    "link": "https://dev.to/lars_winstand/i-thought-gpt-4o-got-80-faster-but-it-was-just-prompt-caching-messing-with-my-benchmark-3c1f",
     "topic": "general"
   },
   {
-    "title": "Creating a Windows Service using .NET and OpenMSI",
-    "desc": "<p>In this article, you'll create a .NET Worker Service, configure it to run as a Windows Service, package it using OpenMSI, and generate a ",
-    "link": "https://dev.to/openmsisupport/creating-a-windows-service-using-net-and-openmsi-468b",
-    "topic": "general"
+    "title": "Zero Trust Home Lab: pfSense + Cloudflare WARP + mTLS Step-by-Step Implementation Guide (2026)",
+    "desc": "<p>Traditional VPN-based home lab remote access creates a single-failure security boundary: compromise the VPN credential, and you have unfe",
+    "link": "https://dev.to/nextbytetech/zero-trust-home-lab-pfsense-cloudflare-warp-mtls-step-by-step-implementation-guide-2026-4bcm",
+    "topic": "secops"
   },
   {
-    "title": "FAQ: A Drafted Retry Block Is Not a Flake Policy",
-    "desc": "<p>A red job came back green after a single retry.<br />\nSomeone pasted a model draft and called the flake gone.<br />\nI do not buy that sto",
-    "link": "https://dev.to/gitlab_3188/faq-a-drafted-retry-block-is-not-a-flake-policy-3bi6",
-    "topic": "general"
+    "title": "100 free container-hours a month goes further than it sounds: how auto-sleep and the Stop button stretch it",
+    "desc": "<p><strong>TL;DR:</strong> SnapDeploy's free tier is 4 containers, 10 deploys a day and 100 container-hours a month, no card, no expiry. Hou",
+    "link": "https://dev.to/snapdeploy/100-free-container-hours-a-month-goes-further-than-it-sounds-how-auto-sleep-and-the-stop-button-999",
+    "topic": "docker"
   },
   {
-    "title": "Gate Changelog Narratives Against a Human-Owned Release Ledger",
-    "desc": "<p>A generated changelog stays trustworthy only when every version, date, breaking flag, and issue identifier already lives in a human-owned",
-    "link": "https://dev.to/github_7727/gate-changelog-narratives-against-a-human-owned-release-ledger-4kdb",
-    "topic": "general"
-  },
-  {
-    "title": "Your AI Agent Shipped the Site. Now It Needs a Name: DNS for Agents, Headless",
-    "desc": "<h1>\n  \n  \n  Your AI agent shipped the site. Now it needs a name: a practical guide to DNS for agents\n</h1>\n\n<p>Every guide about coding age",
-    "link": "https://dev.to/neusoftware/your-ai-agent-shipped-the-site-now-it-needs-a-name-dns-for-agents-headless-282g",
+    "title": "FAQ: A Suggested Job Is Not a Pipeline Contract",
+    "desc": "<p>I keep seeing one shortcut in merge requests.<br />\nSomeone pastes a red job into chat.<br />\nThe reply looks like a finished YAML file.<",
+    "link": "https://dev.to/gitlab_3188/faq-a-suggested-job-is-not-a-pipeline-contract-52cl",
     "topic": "general"
   }
 ]
