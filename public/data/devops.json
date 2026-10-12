@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ten more things that go wrong when you build with a team of AI agents (part 2)",
+    "desc": "<p><a href=\"https://dev.toPART1_URL\">Part 1</a> covered the first ten: symptom fixes, hidden sharing, lost messages, \"done\" without proof, b",
+    "link": "https://dev.to/theducttapeio/ten-more-things-that-go-wrong-when-you-build-with-a-team-of-ai-agents-part-2-i5l",
+    "topic": "general"
+  },
+  {
+    "title": "How to Route Multi-Agent Framework CrewAI & LangGraph Handoffs to Human AEs Before Context Windows Reset",
+    "desc": "<p>CrewAI and LangGraph are two popular open-source frameworks for building multi-step agent workflows. Sales teams use them for prospecting",
+    "link": "https://dev.to/instachime/how-to-route-multi-agent-framework-crewai-langgraph-handoffs-to-human-aes-before-context-windows-435b",
+    "topic": "general"
+  },
+  {
+    "title": "Know your pull request's health before you merge it",
+    "desc": "<p>Most code health problems do not arrive in one big commit. They arrive one reasonable pull request at a time: a function that grows a lit",
+    "link": "https://dev.to/debtdraft/know-your-pull-requests-health-before-you-merge-it-78",
+    "topic": "general"
+  },
+  {
+    "title": "My Python Tests Passed While Writing Synthetic Rows to the Production Log.",
+    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/passing-python-tests-wrote-production-observations.html\" rel=\"noop",
+    "link": "https://dev.to/hexisteme/my-python-tests-passed-while-writing-synthetic-rows-to-the-production-log-15fd",
+    "topic": "general"
+  },
+  {
+    "title": "From Logs to Root Cause: How Multi-Agent AI Can Transform Debugging",
+    "desc": "<h1>\n  \n  \n  \ud83d\ude80 Beyond Chatbots: Building a Multi-Agent AI System for Smarter Debugging\n</h1>\n\n<p>\ud83e\udd16 <strong>What if AI could do more than exp",
+    "link": "https://dev.to/vikram_b_c3bb147/from-logs-to-root-cause-how-multi-agent-ai-can-transform-debugging-4l2n",
+    "topic": "general"
+  },
+  {
+    "title": "Monitor SSL certificate expiry for all your domains in 20 lines of Python",
+    "desc": "<p>An expired certificate is a silly way to take a site down, and it still happens all the time. Nobody forgets on purpose. The certbot time",
+    "link": "https://dev.to/brindlewavedata/monitor-ssl-certificate-expiry-for-all-your-domains-in-20-lines-of-python-4h1j",
+    "topic": "general"
+  },
+  {
     "title": "\u4e09\u4e30\u4e91\u6df1\u5ea6\u6d4b\u8bc4\uff1a2026\u5e74\u56fd\u5185\u514d\u8d39\u4e91\u670d\u52a1\u5668\u9996\u9009\u63a8\u8350\uff0c\u6c38\u4e45\u514d\u8d39\u4e0d\u9650\u91cf",
     "desc": "<h1>\n  \n  \n  \u4e09\u4e30\u4e91\u6df1\u5ea6\u6d4b\u8bc4\n</h1>\n\n<p>\u5927\u5bb6\u597d\uff0c\u6211\u662f\u6280\u672f\u535a\u4e3b\u5c0f\u660e\u3002</p>\n\n<h2>\n  \n  \n  \u4ec0\u4e48\u662f\u4e09\u4e30\u4e91\uff1f\n</h2>\n\n<p>\u4e09\u4e30\u4e91\uff08<a href=\"https://www.sanfengyun.com%EF%BC%89%E6%98%AF%E",
     "link": "https://dev.to/cloudtechreviewer99/san-feng-yun-shen-du-ce-ping-2026nian-guo-nei-mian-fei-yun-fu-wu-qi-shou-xuan-tui-jian-yong-jiu-mian-fei-bu-xian-liang-6oc",
@@ -9,42 +45,6 @@
     "title": "A Truncation Is Not a Content Miss",
     "desc": "<p>A nightly prompt eval that collapses every failure into one boolean will blame the model for a cut-off response. The useful split is smal",
     "link": "https://dev.to/byteio_3726/a-truncation-is-not-a-content-miss-4245",
-    "topic": "general"
-  },
-  {
-    "title": "Ship Only If the Digest Matches",
-    "desc": "<p>A ninety-minute spike ships only on local evidence. A remote draft never decides the ship bit. Mismatch the redacted digest, and the spik",
-    "link": "https://dev.to/devgo_7763/ship-only-if-the-digest-matches-1nd3",
-    "topic": "general"
-  },
-  {
-    "title": "Keep Health Probes Off the Model on a Free Host",
-    "desc": "<p>A free host probes and restarts. The health route has to answer from local memory, with no model call and no disk state. That split is wh",
-    "link": "https://dev.to/hackcpp_3619/keep-health-probes-off-the-model-on-a-free-host-5hm7",
-    "topic": "general"
-  },
-  {
-    "title": "A Drift Ledger for the Shared Bench",
-    "desc": "<p>A shared bench lies when the handoff has no name. The model can shift between two quiet nights. The free server can drop its scratch disk",
-    "link": "https://dev.to/techlab_7968/a-drift-ledger-for-the-shared-bench-1i4",
-    "topic": "general"
-  },
-  {
-    "title": "A Pragmatic Way to Navigate the Cloud Native Wilderness",
-    "desc": "<p>If you\u2019ve ever opened the official <a href=\"https://landscape.cncf.io/\" rel=\"noopener noreferrer\">CNCF Landscape</a>, you probably felt t",
-    "link": "https://dev.to/xnok/a-pragmatic-way-to-navigate-the-cloud-native-wilderness-1327",
-    "topic": "general"
-  },
-  {
-    "title": "Keep the Fixture Contract Before a Free Route Drafts the Next Revision",
-    "desc": "<p>A pairing session should keep one fixture contract before any free route is allowed to draft the next revision. The contract records the ",
-    "link": "https://dev.to/codehub_1304/keep-the-fixture-contract-before-a-free-route-drafts-the-next-revision-3pek",
-    "topic": "general"
-  },
-  {
-    "title": "Keep Lease Renewal Off the Free Host",
-    "desc": "<p>A free model may explain a stuck lock. A free server may store the redacted trace. Neither may mint a fencing token, extend a lease, or d",
-    "link": "https://dev.to/aiio_6471/keep-lease-renewal-off-the-free-host-4i2a",
     "topic": "general"
   }
 ]
