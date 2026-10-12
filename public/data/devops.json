@@ -1,50 +1,50 @@
 [
   {
-    "title": "Ten more things that go wrong when you build with a team of AI agents (part 2)",
-    "desc": "<p><a href=\"https://dev.toPART1_URL\">Part 1</a> covered the first ten: symptom fixes, hidden sharing, lost messages, \"done\" without proof, b",
-    "link": "https://dev.to/theducttapeio/ten-more-things-that-go-wrong-when-you-build-with-a-team-of-ai-agents-part-2-i5l",
+    "title": "Reinstalling is our update mechanism, and productName is the string that must never change",
+    "desc": "<p><a href=\"https://notifio.app\" rel=\"noopener noreferrer\">Notifio</a> has no auto-updater. There is no <code>electron-updater</code> in the",
+    "link": "https://dev.to/daniel_pertu/reinstalling-is-our-update-mechanism-and-productname-is-the-string-that-must-never-change-10kj",
     "topic": "general"
   },
   {
-    "title": "How to Route Multi-Agent Framework CrewAI & LangGraph Handoffs to Human AEs Before Context Windows Reset",
-    "desc": "<p>CrewAI and LangGraph are two popular open-source frameworks for building multi-step agent workflows. Sales teams use them for prospecting",
-    "link": "https://dev.to/instachime/how-to-route-multi-agent-framework-crewai-langgraph-handoffs-to-human-aes-before-context-windows-435b",
+    "title": "We Had a Single Source of Truth\u2014and Still Had Stale State",
+    "desc": "<p>We had already chosen a Single Source of Truth.</p>\n\n<p>The canonical state file was correct.</p>\n\n<p>Later work updated that canonical s",
+    "link": "https://dev.to/mars70s/we-had-a-single-source-of-truth-and-still-had-stale-state-227h",
     "topic": "general"
   },
   {
-    "title": "Know your pull request's health before you merge it",
-    "desc": "<p>Most code health problems do not arrive in one big commit. They arrive one reasonable pull request at a time: a function that grows a lit",
-    "link": "https://dev.to/debtdraft/know-your-pull-requests-health-before-you-merge-it-78",
+    "title": "ElevenLabs v3 text-to-speech: median 1.5 seconds, one call at 11.2",
+    "desc": "<p>We called ElevenLabs eleven_v3 313 times between 2026-10-03 and 2026-10-12, all from one job, the text-to-speech step for our kids episod",
+    "link": "https://dev.to/robswierk/elevenlabs-v3-text-to-speech-median-15-seconds-one-call-at-112-3550",
     "topic": "general"
   },
   {
-    "title": "My Python Tests Passed While Writing Synthetic Rows to the Production Log.",
-    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/passing-python-tests-wrote-production-observations.html\" rel=\"noop",
-    "link": "https://dev.to/hexisteme/my-python-tests-passed-while-writing-synthetic-rows-to-the-production-log-15fd",
+    "title": "Traefik 3.7's service middlewares target one branch of a weighted service",
+    "desc": "<p>I copied the YAML straight out of Traefik's own announcement post for 3.7's new service middlewares, pointed it at a container running th",
+    "link": "https://dev.to/alexgeorgiev17/traefik-37s-service-middlewares-target-one-branch-of-a-weighted-service-3i3h",
     "topic": "general"
   },
   {
-    "title": "From Logs to Root Cause: How Multi-Agent AI Can Transform Debugging",
-    "desc": "<h1>\n  \n  \n  \ud83d\ude80 Beyond Chatbots: Building a Multi-Agent AI System for Smarter Debugging\n</h1>\n\n<p>\ud83e\udd16 <strong>What if AI could do more than exp",
-    "link": "https://dev.to/vikram_b_c3bb147/from-logs-to-root-cause-how-multi-agent-ai-can-transform-debugging-4l2n",
+    "title": "LOOK 1'den LOOK 2'ye: neler de\u011fi\u015fti",
+    "desc": "<p><code><br />\nLOOK, web i\u00e7in yap\u0131lm\u0131\u015f kendi dilimiz. LOOK 1 bug\u00fcn yay\u0131nda olan s\u00fcr\u00fcm (1.0.x). LOOK 2</code>v2` dal\u0131nda geli\u015ftiriliyor ve h",
+    "link": "https://dev.to/codlook/look-1den-look-2ye-neler-degisti-3akl",
     "topic": "general"
   },
   {
-    "title": "Monitor SSL certificate expiry for all your domains in 20 lines of Python",
-    "desc": "<p>An expired certificate is a silly way to take a site down, and it still happens all the time. Nobody forgets on purpose. The certbot time",
-    "link": "https://dev.to/brindlewavedata/monitor-ssl-certificate-expiry-for-all-your-domains-in-20-lines-of-python-4h1j",
+    "title": "A container in 81 lines of Bash: what the kernel primitives cost on Ubuntu 24.04",
+    "desc": "<p>Early in this lab I had a shell that was PID 1, and from that same shell <code>ps</code> listed <code>systemd</code> as PID 1. Both were ",
+    "link": "https://dev.to/gjstoychev/a-container-in-81-lines-of-bash-what-the-kernel-primitives-cost-on-ubuntu-2404-gkm",
+    "topic": "docker"
+  },
+  {
+    "title": "Field report: 9917 real pull requests scanned, 7.9% flagged, 46 of our own mistakes fixed in public",
+    "desc": "<p>We run a security check on public pull requests and publish what it finds \u2014 including what it gets wrong. This is the weekly number.</p>\n",
+    "link": "https://dev.to/mag_solutions_ai/field-report-9917-real-pull-requests-scanned-79-flagged-46-of-our-own-mistakes-fixed-in-public-b6j",
     "topic": "general"
   },
   {
-    "title": "\u4e09\u4e30\u4e91\u6df1\u5ea6\u6d4b\u8bc4\uff1a2026\u5e74\u56fd\u5185\u514d\u8d39\u4e91\u670d\u52a1\u5668\u9996\u9009\u63a8\u8350\uff0c\u6c38\u4e45\u514d\u8d39\u4e0d\u9650\u91cf",
-    "desc": "<h1>\n  \n  \n  \u4e09\u4e30\u4e91\u6df1\u5ea6\u6d4b\u8bc4\n</h1>\n\n<p>\u5927\u5bb6\u597d\uff0c\u6211\u662f\u6280\u672f\u535a\u4e3b\u5c0f\u660e\u3002</p>\n\n<h2>\n  \n  \n  \u4ec0\u4e48\u662f\u4e09\u4e30\u4e91\uff1f\n</h2>\n\n<p>\u4e09\u4e30\u4e91\uff08<a href=\"https://www.sanfengyun.com%EF%BC%89%E6%98%AF%E",
-    "link": "https://dev.to/cloudtechreviewer99/san-feng-yun-shen-du-ce-ping-2026nian-guo-nei-mian-fei-yun-fu-wu-qi-shou-xuan-tui-jian-yong-jiu-mian-fei-bu-xian-liang-6oc",
-    "topic": "general"
-  },
-  {
-    "title": "A Truncation Is Not a Content Miss",
-    "desc": "<p>A nightly prompt eval that collapses every failure into one boolean will blame the model for a cut-off response. The useful split is smal",
-    "link": "https://dev.to/byteio_3726/a-truncation-is-not-a-content-miss-4245",
+    "title": "48-Hour Field Notes: A One-Line Add Looked Harmless. The Clean Install Disagreed.",
+    "desc": "<p>I opened the weekend convinced the function change was the entire defect, because every local test stayed green. The patch added one bare",
+    "link": "https://dev.to/codepy_1473/48-hour-field-notes-a-one-line-add-looked-harmless-the-clean-install-disagreed-2adp",
     "topic": "general"
   }
 ]
