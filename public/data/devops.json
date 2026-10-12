@@ -1,50 +1,50 @@
 [
   {
-    "title": "Reinstalling is our update mechanism, and productName is the string that must never change",
-    "desc": "<p><a href=\"https://notifio.app\" rel=\"noopener noreferrer\">Notifio</a> has no auto-updater. There is no <code>electron-updater</code> in the",
-    "link": "https://dev.to/daniel_pertu/reinstalling-is-our-update-mechanism-and-productname-is-the-string-that-must-never-change-10kj",
+    "title": "Cloud Run Jobs vs. Cloud Functions for Batch Security Scans: What I Actually Run in Production",
+    "desc": "<p>I run periodic security scans as part of my incident-readiness platform: dependency checks, config drift detection, TLS posture checks ag",
+    "link": "https://dev.to/purvanshbhatt/cloud-run-jobs-vs-cloud-functions-for-batch-security-scans-what-i-actually-run-in-production-kai",
+    "topic": "secops"
+  },
+  {
+    "title": "Les secrets d'un tunnel de conversion B2B automatis\u00e9 via Webhooks",
+    "desc": "<p>Le tunnel de conversion classique a un trou : tu apprends qu'un lead a cliqu\u00e9,<br />\nou qu'une vente est pass\u00e9e, des heures plus tard \u2014 e",
+    "link": "https://dev.to/securiumagency/les-secrets-dun-tunnel-de-conversion-b2b-automatise-via-webhooks-515m",
     "topic": "general"
   },
   {
-    "title": "We Had a Single Source of Truth\u2014and Still Had Stale State",
-    "desc": "<p>We had already chosen a Single Source of Truth.</p>\n\n<p>The canonical state file was correct.</p>\n\n<p>Later work updated that canonical s",
-    "link": "https://dev.to/mars70s/we-had-a-single-source-of-truth-and-still-had-stale-state-227h",
+    "title": "The Other Box Had Not Agreed on an Encoding Yet",
+    "desc": "<p>A remote Python job can look like a logic bug when the real split is inherited text encoding. The traceback names a bad character, yet it",
+    "link": "https://dev.to/codepy_1473/the-other-box-had-not-agreed-on-an-encoding-yet-3jbg",
     "topic": "general"
   },
   {
-    "title": "ElevenLabs v3 text-to-speech: median 1.5 seconds, one call at 11.2",
-    "desc": "<p>We called ElevenLabs eleven_v3 313 times between 2026-10-03 and 2026-10-12, all from one job, the text-to-speech step for our kids episod",
-    "link": "https://dev.to/robswierk/elevenlabs-v3-text-to-speech-median-15-seconds-one-call-at-112-3550",
+    "title": "FAQ: A Free Shell Cannot Borrow Your Runner Tag",
+    "desc": "<p>I keep hearing one claim in GitLab review threads.<br />\nA free server cloned the repo, so it counts as a runner.<br />\nIs a shell with g",
+    "link": "https://dev.to/gitlab_3188/faq-a-free-shell-cannot-borrow-your-runner-tag-1d2c",
     "topic": "general"
   },
   {
-    "title": "Traefik 3.7's service middlewares target one branch of a weighted service",
-    "desc": "<p>I copied the YAML straight out of Traefik's own announcement post for 3.7's new service middlewares, pointed it at a container running th",
-    "link": "https://dev.to/alexgeorgiev17/traefik-37s-service-middlewares-target-one-branch-of-a-weighted-service-3i3h",
+    "title": "Zero-Downtime Database Migrations for High-Traffic Checkout Services",
+    "desc": "<p>Your checkout service can survive a bad deploy. It cannot survive a bad migration. A migration that locks the orders table for thirty sec",
+    "link": "https://dev.to/kadokey/zero-downtime-database-migrations-for-high-traffic-checkout-services-5c8d",
     "topic": "general"
   },
   {
-    "title": "LOOK 1'den LOOK 2'ye: neler de\u011fi\u015fti",
-    "desc": "<p><code><br />\nLOOK, web i\u00e7in yap\u0131lm\u0131\u015f kendi dilimiz. LOOK 1 bug\u00fcn yay\u0131nda olan s\u00fcr\u00fcm (1.0.x). LOOK 2</code>v2` dal\u0131nda geli\u015ftiriliyor ve h",
-    "link": "https://dev.to/codlook/look-1den-look-2ye-neler-degisti-3akl",
+    "title": "Top 23 Platforms to Buy Aged Gmail Accounts in 2026: A Complete Guide",
+    "desc": "<p>Buy Old Gmail Accounts<br />\nYou\u2019ve arrived at the correct spot if you\u2019re searching to purchase old Gmail accounts for either personal or",
+    "link": "https://dev.to/trustsmmbiz501/top-23-platforms-to-buy-aged-gmail-accounts-in-2026-a-complete-guide-141",
     "topic": "general"
   },
   {
-    "title": "A container in 81 lines of Bash: what the kernel primitives cost on Ubuntu 24.04",
-    "desc": "<p>Early in this lab I had a shell that was PID 1, and from that same shell <code>ps</code> listed <code>systemd</code> as PID 1. Both were ",
-    "link": "https://dev.to/gjstoychev/a-container-in-81-lines-of-bash-what-the-kernel-primitives-cost-on-ubuntu-2404-gkm",
-    "topic": "docker"
-  },
-  {
-    "title": "Field report: 9917 real pull requests scanned, 7.9% flagged, 46 of our own mistakes fixed in public",
-    "desc": "<p>We run a security check on public pull requests and publish what it finds \u2014 including what it gets wrong. This is the weekly number.</p>\n",
-    "link": "https://dev.to/mag_solutions_ai/field-report-9917-real-pull-requests-scanned-79-flagged-46-of-our-own-mistakes-fixed-in-public-b6j",
+    "title": "Check GitHub Actions runner compatibility before switching providers",
+    "desc": "<p>Disclosure: This guide is from the Sengi team and was written with AI. Sengi is the managed runner service used in the example.</p>\n\n<p>A",
+    "link": "https://dev.to/sengi_runners/check-github-actions-runner-compatibility-before-switching-providers-3038",
     "topic": "general"
   },
   {
-    "title": "48-Hour Field Notes: A One-Line Add Looked Harmless. The Clean Install Disagreed.",
-    "desc": "<p>I opened the weekend convinced the function change was the entire defect, because every local test stayed green. The patch added one bare",
-    "link": "https://dev.to/codepy_1473/48-hour-field-notes-a-one-line-add-looked-harmless-the-clean-install-disagreed-2adp",
+    "title": "Move a Linux GitHub Actions job to Sengi without replacing your workflow",
+    "desc": "<p>Disclosure: I work on Sengi, the runner service used in this walkthrough.</p>\n\n<p>Changing your CI provider can sound like a rewrite. Wit",
+    "link": "https://dev.to/sengi_runners/move-a-linux-github-actions-job-to-sengi-without-replacing-your-workflow-3375",
     "topic": "general"
   }
 ]
