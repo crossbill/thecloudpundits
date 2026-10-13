@@ -1,5 +1,11 @@
 [
   {
+    "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+    "desc": "<p>CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges.",
+    "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+    "topic": "secops"
+  },
+  {
     "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
     "desc": "<p>The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
@@ -40,11 +46,5 @@
     "desc": "<p>A small circuit board hidden under the signers\u2019 screens read user data and transmitted it to the attackers.</p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
     "topic": "general"
-  },
-  {
-    "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
-    "desc": "<p>The company says it took some of its systems offline to contain a security issue within its network.</p>\n<p>The post <a href=\"https://www",
-    "link": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-    "topic": "secops"
   }
 ]

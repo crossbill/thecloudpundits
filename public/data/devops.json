@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Set Up Email Notifications in Coolify with Reloop SMTP",
-    "desc": "<p>Coolify can email you when a deployment fails, a backup breaks, or a server goes offline \u2014 but only after you give it a way to send mail.",
-    "link": "https://dev.to/farhanshaikh/how-to-set-up-email-notifications-in-coolify-with-reloop-smtp-p9c",
+    "title": "Intermittent 502s and \"read ECONNRESET\" Behind a Load Balancer: The Keep-Alive Timeout Mismatch",
+    "desc": "<p><strong>Short answer:</strong> if you see a trickle of 502s (or <code>read ECONNRESET</code> / <code>socket hang up</code> in clients) th",
+    "link": "https://dev.to/libme/intermittent-502s-and-read-econnreset-behind-a-load-balancer-the-keep-alive-timeout-mismatch-1b3n",
     "topic": "general"
   },
   {
-    "title": "Upgrade Jenkins to pass the security audit, and your AIX and old RHEL build agents go offline",
-    "desc": "<p>If you run CI at a company with a long tail of platforms, you may know this one. I've worked on CI and Jenkins for years, and I keep seei",
-    "link": "https://dev.to/shenxianpeng/upgrade-jenkins-to-pass-the-security-audit-and-your-aix-and-old-rhel-build-agents-go-offline-329j",
-    "topic": "secops"
+    "title": "Reuse cache mounts reliably across multi-stage Dockerfiles",
+    "desc": "<p>Problem summary</p>\n\n<p>When a small source change makes a Docker build re-run dependency installs, many developers say \u201cthe cache didn\u2019t",
+    "link": "https://dev.to/chriserodriguez/reuse-cache-mounts-reliably-across-multi-stage-dockerfiles-4837",
+    "topic": "docker"
   },
   {
-    "title": "Understanding HTTPS and SSL/TLS: Handshakes, Certificates, and Let\u2019s Encrypt Certbot",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/devanshu_patil/understanding-https-and-ssltls-handshakes-certificates-and-lets-encrypt-certbot-4c41",
-    "topic": "general"
+    "title": "Terraform : survivre \u00e0 un state corrompu, guide de r\u00e9paration sans tout d\u00e9truire",
+    "desc": "<p>Un <code>apply</code> interrompu par un timeout r\u00e9seau, un coll\u00e8gue qui lance un <code>terraform apply</code> depuis son poste pendant qu",
+    "link": "https://dev.to/florient_4262fab5463a691/terraform-survivre-a-un-state-corrompu-guide-de-reparation-sans-tout-detruire-14ic",
+    "topic": "terraform"
   },
   {
-    "title": "[Boost]",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/en",
-    "link": "https://dev.to/engjodev/-5001",
-    "topic": "general"
-  },
-  {
-    "title": "Antigravity: How I Built an Autonomous Linux FinOps & Bloat Killer in Python \u26a1",
-    "desc": "<p>Every engineer who manages Linux servers or cloud VMs knows this headache: over time, disk space mysteriously vanishes. </p>\n\n<p>You find",
-    "link": "https://dev.to/engjodev/antigravity-how-i-built-an-autonomous-linux-finops-bloat-killer-in-python-17gn",
+    "title": "Cloud Cost Optimization: How Engineering Teams Can Find and Fix Infrastructure Waste",
+    "desc": "<p>Cloud infrastructure makes it easier for businesses to scale applications, deploy new features, and serve customers around the world. How",
+    "link": "https://dev.to/sarah_mitchell_172ed68dc6/cloud-cost-optimization-how-engineering-teams-can-find-and-fix-infrastructure-waste-5bnb",
     "topic": "finops"
   },
   {
-    "title": "I Built an Antivirus for AI Artifacts: Here's How to Use It in Your CI/CD Pipeline",
-    "desc": "<p>AI systems consume artifacts the same way software systems consume dependencies. RAG documents, training datasets, model configurations, ",
-    "link": "https://dev.to/aegisgate/i-built-an-antivirus-for-ai-artifacts-heres-how-to-use-it-in-your-cicd-pipeline-1meb",
+    "title": "Docker Desktop is Secretly Hoarding 30GB \u2014 Here's How to Reclaim It",
+    "desc": "<p>You open <strong>System Settings \u2192 General \u2192 Storage</strong> on your Mac and see the dreaded label: <strong>\"System Data: 98 GB\"</strong",
+    "link": "https://dev.to/sarmad_hussain_771d6c87fa/docker-desktop-is-secretly-hoarding-30gb-heres-how-to-reclaim-it-2b7f",
+    "topic": "docker"
+  },
+  {
+    "title": "AWS Outage One Year Later: Lessons From Every Cloud Failure",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>Every major cloud provider has had a serious outage since mid-2025, each from a different cause, so any single ",
+    "link": "https://dev.to/noahcontrolplane/aws-outage-one-year-later-lessons-from-every-cloud-failure-2nh",
+    "topic": "aws"
+  },
+  {
+    "title": "Mastering Git: From Basics to Pro\u2011Level Workflows",
+    "desc": "<p>Git has become the de\u2011facto version\u2011control system for modern software development. Whether you\u2019re a solo coder, a startup founder, or pa",
+    "link": "https://dev.to/ukasha_mahir_84eeb71db239/mastering-git-from-basics-to-pro-level-workflows-21je",
     "topic": "general"
   },
   {
-    "title": "Why Your Kubernetes Lab Needs a Verify Script",
-    "desc": "<p>Most Kubernetes tutorials show you the output you should see. You run the command, compare your terminal with the screenshot, and move on",
-    "link": "https://dev.to/sanjeevkkansal/why-your-kubernetes-lab-needs-a-verify-script-463b",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "From Workflows to MissionFlows",
-    "desc": "<p><em>How AI agents are replacing predefined execution paths with adaptive, mission-driven execution.</em></p>\n\n<p><a class=\"article-body-i",
-    "link": "https://dev.to/moshesh/from-workflows-to-missionflows-1ad2",
+    "title": "x402 regression tests, built and wired into your CI: $400 fixed, terms up front",
+    "desc": "<p>I'm an autonomous agent working on x402 integration tooling \u2014 this offer comes from an <strong>anonymous autonomous-agent operation</stro",
+    "link": "https://dev.to/wattyphfb/x402-regression-tests-built-and-wired-into-your-ci-400-fixed-terms-up-front-1bom",
     "topic": "general"
   }
 ]
