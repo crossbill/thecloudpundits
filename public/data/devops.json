@@ -1,50 +1,50 @@
 [
   {
-    "title": "Cloud Run Jobs vs. Cloud Functions for Batch Security Scans: What I Actually Run in Production",
-    "desc": "<p>I run periodic security scans as part of my incident-readiness platform: dependency checks, config drift detection, TLS posture checks ag",
-    "link": "https://dev.to/purvanshbhatt/cloud-run-jobs-vs-cloud-functions-for-batch-security-scans-what-i-actually-run-in-production-kai",
-    "topic": "secops"
-  },
-  {
-    "title": "Les secrets d'un tunnel de conversion B2B automatis\u00e9 via Webhooks",
-    "desc": "<p>Le tunnel de conversion classique a un trou : tu apprends qu'un lead a cliqu\u00e9,<br />\nou qu'une vente est pass\u00e9e, des heures plus tard \u2014 e",
-    "link": "https://dev.to/securiumagency/les-secrets-dun-tunnel-de-conversion-b2b-automatise-via-webhooks-515m",
+    "title": "The \u201cWho Gets the Notice?\u201d Audit: Mapping Provider Billing Contacts vs. Actual Account Owners",
+    "desc": "<p>It is a quiet Friday afternoon when a client calls in a panic. Their website has stopped loading, business email has stopped routing, and",
+    "link": "https://dev.to/instarenewal/the-who-gets-the-notice-audit-mapping-provider-billing-contacts-vs-actual-account-owners-4a41",
     "topic": "general"
   },
   {
-    "title": "The Other Box Had Not Agreed on an Encoding Yet",
-    "desc": "<p>A remote Python job can look like a logic bug when the real split is inherited text encoding. The traceback names a bad character, yet it",
-    "link": "https://dev.to/codepy_1473/the-other-box-had-not-agreed-on-an-encoding-yet-3jbg",
+    "title": "A Practical Guide to `tr`: Character-Level Text Processing in Linux",
+    "desc": "<p><code>tr</code> is a small command-line tool for changing text one character at a time. It can translate characters, delete them, or coll",
+    "link": "https://dev.to/__3381495fd2b/a-practical-guide-to-tr-character-level-text-processing-in-linux-1bf8",
     "topic": "general"
   },
   {
-    "title": "FAQ: A Free Shell Cannot Borrow Your Runner Tag",
-    "desc": "<p>I keep hearing one claim in GitLab review threads.<br />\nA free server cloned the repo, so it counts as a runner.<br />\nIs a shell with g",
-    "link": "https://dev.to/gitlab_3188/faq-a-free-shell-cannot-borrow-your-runner-tag-1d2c",
+    "title": "Tail on Linux: Inspect Recent Output and Watch Logs",
+    "desc": "<p>When a process is writing to a log, opening the file in an editor is often slower than asking one focused question: what happened most re",
+    "link": "https://dev.to/__3381495fd2b/tail-on-linux-inspect-recent-output-and-watch-logs-41fh",
     "topic": "general"
   },
   {
-    "title": "Zero-Downtime Database Migrations for High-Traffic Checkout Services",
-    "desc": "<p>Your checkout service can survive a bad deploy. It cannot survive a bad migration. A migration that locks the orders table for thirty sec",
-    "link": "https://dev.to/kadokey/zero-downtime-database-migrations-for-high-traffic-checkout-services-5c8d",
+    "title": "Book the Partial Before You Retry",
+    "desc": "<p>A free model call that you abandon is not free. You already spent the queue, and you already spent the tokens the server emitted before y",
+    "link": "https://dev.to/hackrs_3352/book-the-partial-before-you-retry-2bac",
     "topic": "general"
   },
   {
-    "title": "Top 23 Platforms to Buy Aged Gmail Accounts in 2026: A Complete Guide",
-    "desc": "<p>Buy Old Gmail Accounts<br />\nYou\u2019ve arrived at the correct spot if you\u2019re searching to purchase old Gmail accounts for either personal or",
-    "link": "https://dev.to/trustsmmbiz501/top-23-platforms-to-buy-aged-gmail-accounts-in-2026-a-complete-guide-141",
+    "title": "Linux `cd`: Navigate Directories Without Losing Your Place",
+    "desc": "<p>When a command reads the wrong file or a relative path fails, the problem may be your current directory. The shell keeps track of where y",
+    "link": "https://dev.to/__3381495fd2b/linux-cd-navigate-directories-without-losing-your-place-33og",
     "topic": "general"
   },
   {
-    "title": "Check GitHub Actions runner compatibility before switching providers",
-    "desc": "<p>Disclosure: This guide is from the Sengi team and was written with AI. Sengi is the managed runner service used in the example.</p>\n\n<p>A",
-    "link": "https://dev.to/sengi_runners/check-github-actions-runner-compatibility-before-switching-providers-3038",
+    "title": "Testing Network Connections with nc: Practical Checks and Limits",
+    "desc": "<p><code>nc</code> (netcat) is useful when you need to answer a narrow networking question: can this machine connect to that host and TCP po",
+    "link": "https://dev.to/__3381495fd2b/testing-network-connections-with-nc-practical-checks-and-limits-oio",
     "topic": "general"
   },
   {
-    "title": "Move a Linux GitHub Actions job to Sengi without replacing your workflow",
-    "desc": "<p>Disclosure: I work on Sengi, the runner service used in this walkthrough.</p>\n\n<p>Changing your CI provider can sound like a rewrite. Wit",
-    "link": "https://dev.to/sengi_runners/move-a-linux-github-actions-job-to-sengi-without-replacing-your-workflow-3375",
+    "title": "Linux Package Updates: The Right Command for Your Distribution",
+    "desc": "<p>Updating Linux packages is not one universal command. Ubuntu and Debian use APT, Fedora uses DNF, Arch uses pacman, and openSUSE uses zyp",
+    "link": "https://dev.to/__3381495fd2b/linux-package-updates-the-right-command-for-your-distribution-2b3d",
+    "topic": "general"
+  },
+  {
+    "title": "Locked Out of Ubuntu? Reset a Local Account Password Safely",
+    "desc": "<p>A forgotten Ubuntu login password is usually recoverable if you have access to the machine\u2019s boot menu. The right steps depend on whether",
+    "link": "https://dev.to/__3381495fd2b/locked-out-of-ubuntu-reset-a-local-account-password-safely-150o",
     "topic": "general"
   }
 ]
