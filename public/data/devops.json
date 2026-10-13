@@ -1,50 +1,50 @@
 [
   {
-    "title": "The \u201cWho Gets the Notice?\u201d Audit: Mapping Provider Billing Contacts vs. Actual Account Owners",
-    "desc": "<p>It is a quiet Friday afternoon when a client calls in a panic. Their website has stopped loading, business email has stopped routing, and",
-    "link": "https://dev.to/instarenewal/the-who-gets-the-notice-audit-mapping-provider-billing-contacts-vs-actual-account-owners-4a41",
+    "title": "Building a Vertically Integrated AI Stack: How Load Bearing Empire Consolidated 6 Businesses on Supabase, VAPI, and Self-Hosted",
+    "desc": "<p>When you're running real estate wholesaling, demolition, valet services, credit repair, mineral rights, and SaaS simultaneously, vendor l",
+    "link": "https://dev.to/domoniqueluchin/building-a-vertically-integrated-ai-stack-how-load-bearing-empire-consolidated-6-businesses-on-n28",
     "topic": "general"
   },
   {
-    "title": "A Practical Guide to `tr`: Character-Level Text Processing in Linux",
-    "desc": "<p><code>tr</code> is a small command-line tool for changing text one character at a time. It can translate characters, delete them, or coll",
-    "link": "https://dev.to/__3381495fd2b/a-practical-guide-to-tr-character-level-text-processing-in-linux-1bf8",
+    "title": "Deno's audit --fix flag found 13 vulnerabilities and fixed none of them",
+    "desc": "<p><code>deno audit</code> is Deno's built-in command for checking npm dependencies against known vulnerabilities, and on the one thing it's",
+    "link": "https://dev.to/alexgeorgiev17/denos-audit-fix-flag-found-13-vulnerabilities-and-fixed-none-of-them-c47",
     "topic": "general"
   },
   {
-    "title": "Tail on Linux: Inspect Recent Output and Watch Logs",
-    "desc": "<p>When a process is writing to a log, opening the file in an editor is often slower than asking one focused question: what happened most re",
-    "link": "https://dev.to/__3381495fd2b/tail-on-linux-inspect-recent-output-and-watch-logs-41fh",
+    "title": "Test a market-data health check with eight small Python fixtures",
+    "desc": "<p>A socket can be connected, a message can have arrived recently, and the price inside that message can still be old. If your application c",
+    "link": "https://dev.to/siftingio/test-a-market-data-health-check-with-eight-small-python-fixtures-1c94",
     "topic": "general"
   },
   {
-    "title": "Book the Partial Before You Retry",
-    "desc": "<p>A free model call that you abandon is not free. You already spent the queue, and you already spent the tokens the server emitted before y",
-    "link": "https://dev.to/hackrs_3352/book-the-partial-before-you-retry-2bac",
+    "title": "ChurnWatch - MLOps Data Drift Monitoring",
+    "desc": "<p>Machine Learning models can perform well when they are trained, but that does not means the input data will remain the same over time.</p",
+    "link": "https://dev.to/rasi321/churnwatch-mlops-data-drift-monitoring-2g7o",
     "topic": "general"
   },
   {
-    "title": "Linux `cd`: Navigate Directories Without Losing Your Place",
-    "desc": "<p>When a command reads the wrong file or a relative path fails, the problem may be your current directory. The shell keeps track of where y",
-    "link": "https://dev.to/__3381495fd2b/linux-cd-navigate-directories-without-losing-your-place-33og",
+    "title": "Side Hustle: 6 DevOps Project Ideas Someone Would Actually Pay For (Hacktoberfest DEV Challenge, Week 2)",
+    "desc": "<p>The theme for Week 2 of the Hacktoberfest DEV Challenge is out: <strong>Side Hustle</strong>. Build something with open-weight models or ",
+    "link": "https://dev.to/devopsdaily/side-hustle-6-devops-project-ideas-someone-would-actually-pay-for-hacktoberfest-dev-challenge-1j9i",
     "topic": "general"
   },
   {
-    "title": "Testing Network Connections with nc: Practical Checks and Limits",
-    "desc": "<p><code>nc</code> (netcat) is useful when you need to answer a narrow networking question: can this machine connect to that host and TCP po",
-    "link": "https://dev.to/__3381495fd2b/testing-network-connections-with-nc-practical-checks-and-limits-oio",
+    "title": "I published our build command at 10:19 and deleted half of it at 13:20",
+    "desc": "<p>Yesterday morning I published <a href=\"https://dev.to/daniel_pertu/our-build-command-migrates-the-database-before-it-compiles-a-single-pa",
+    "link": "https://dev.to/daniel_pertu/i-published-our-build-command-at-1019-and-deleted-half-of-it-at-1320-23n1",
     "topic": "general"
   },
   {
-    "title": "Linux Package Updates: The Right Command for Your Distribution",
-    "desc": "<p>Updating Linux packages is not one universal command. Ubuntu and Debian use APT, Fedora uses DNF, Arch uses pacman, and openSUSE uses zyp",
-    "link": "https://dev.to/__3381495fd2b/linux-package-updates-the-right-command-for-your-distribution-2b3d",
+    "title": "Our maintenance switch is 14 lines, and the interesting part is the three API routes it refuses to turn off",
+    "desc": "<p>Notifio needed a database move, which meant a window where Postgres would not answer. The site sells a desktop app, the desktop app check",
+    "link": "https://dev.to/daniel_pertu/our-maintenance-switch-is-14-lines-and-the-interesting-part-is-the-three-api-routes-it-refuses-to-2pii",
     "topic": "general"
   },
   {
-    "title": "Locked Out of Ubuntu? Reset a Local Account Password Safely",
-    "desc": "<p>A forgotten Ubuntu login password is usually recoverable if you have access to the machine\u2019s boot menu. The right steps depend on whether",
-    "link": "https://dev.to/__3381495fd2b/locked-out-of-ubuntu-reset-a-local-account-password-safely-150o",
+    "title": "GitLab fixes serious flaw that would have allowed someone without an account to execute commands on its systems",
+    "desc": "<p>GitLab has rolled out patches for a maximum-severity vulnerability affecting Community and Enterprise editions.</p>\n\n<p>The issue allows ",
+    "link": "https://dev.to/hacksgr/gitlab-fixes-serious-flaw-that-would-have-allowed-someone-without-an-account-to-execute-commands-on-43of",
     "topic": "general"
   }
 ]
