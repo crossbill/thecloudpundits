@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building a Vertically Integrated AI Stack: How Load Bearing Empire Consolidated 6 Businesses on Supabase, VAPI, and Self-Hosted",
-    "desc": "<p>When you're running real estate wholesaling, demolition, valet services, credit repair, mineral rights, and SaaS simultaneously, vendor l",
-    "link": "https://dev.to/domoniqueluchin/building-a-vertically-integrated-ai-stack-how-load-bearing-empire-consolidated-6-businesses-on-n28",
+    "title": "How to Set Up Email Notifications in Coolify with Reloop SMTP",
+    "desc": "<p>Coolify can email you when a deployment fails, a backup breaks, or a server goes offline \u2014 but only after you give it a way to send mail.",
+    "link": "https://dev.to/farhanshaikh/how-to-set-up-email-notifications-in-coolify-with-reloop-smtp-p9c",
     "topic": "general"
   },
   {
-    "title": "Deno's audit --fix flag found 13 vulnerabilities and fixed none of them",
-    "desc": "<p><code>deno audit</code> is Deno's built-in command for checking npm dependencies against known vulnerabilities, and on the one thing it's",
-    "link": "https://dev.to/alexgeorgiev17/denos-audit-fix-flag-found-13-vulnerabilities-and-fixed-none-of-them-c47",
+    "title": "Upgrade Jenkins to pass the security audit, and your AIX and old RHEL build agents go offline",
+    "desc": "<p>If you run CI at a company with a long tail of platforms, you may know this one. I've worked on CI and Jenkins for years, and I keep seei",
+    "link": "https://dev.to/shenxianpeng/upgrade-jenkins-to-pass-the-security-audit-and-your-aix-and-old-rhel-build-agents-go-offline-329j",
+    "topic": "secops"
+  },
+  {
+    "title": "Understanding HTTPS and SSL/TLS: Handshakes, Certificates, and Let\u2019s Encrypt Certbot",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/devanshu_patil/understanding-https-and-ssltls-handshakes-certificates-and-lets-encrypt-certbot-4c41",
     "topic": "general"
   },
   {
-    "title": "Test a market-data health check with eight small Python fixtures",
-    "desc": "<p>A socket can be connected, a message can have arrived recently, and the price inside that message can still be old. If your application c",
-    "link": "https://dev.to/siftingio/test-a-market-data-health-check-with-eight-small-python-fixtures-1c94",
+    "title": "[Boost]",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/en",
+    "link": "https://dev.to/engjodev/-5001",
     "topic": "general"
   },
   {
-    "title": "ChurnWatch - MLOps Data Drift Monitoring",
-    "desc": "<p>Machine Learning models can perform well when they are trained, but that does not means the input data will remain the same over time.</p",
-    "link": "https://dev.to/rasi321/churnwatch-mlops-data-drift-monitoring-2g7o",
+    "title": "Antigravity: How I Built an Autonomous Linux FinOps & Bloat Killer in Python \u26a1",
+    "desc": "<p>Every engineer who manages Linux servers or cloud VMs knows this headache: over time, disk space mysteriously vanishes. </p>\n\n<p>You find",
+    "link": "https://dev.to/engjodev/antigravity-how-i-built-an-autonomous-linux-finops-bloat-killer-in-python-17gn",
+    "topic": "finops"
+  },
+  {
+    "title": "I Built an Antivirus for AI Artifacts: Here's How to Use It in Your CI/CD Pipeline",
+    "desc": "<p>AI systems consume artifacts the same way software systems consume dependencies. RAG documents, training datasets, model configurations, ",
+    "link": "https://dev.to/aegisgate/i-built-an-antivirus-for-ai-artifacts-heres-how-to-use-it-in-your-cicd-pipeline-1meb",
     "topic": "general"
   },
   {
-    "title": "Side Hustle: 6 DevOps Project Ideas Someone Would Actually Pay For (Hacktoberfest DEV Challenge, Week 2)",
-    "desc": "<p>The theme for Week 2 of the Hacktoberfest DEV Challenge is out: <strong>Side Hustle</strong>. Build something with open-weight models or ",
-    "link": "https://dev.to/devopsdaily/side-hustle-6-devops-project-ideas-someone-would-actually-pay-for-hacktoberfest-dev-challenge-1j9i",
-    "topic": "general"
+    "title": "Why Your Kubernetes Lab Needs a Verify Script",
+    "desc": "<p>Most Kubernetes tutorials show you the output you should see. You run the command, compare your terminal with the screenshot, and move on",
+    "link": "https://dev.to/sanjeevkkansal/why-your-kubernetes-lab-needs-a-verify-script-463b",
+    "topic": "kubernetes"
   },
   {
-    "title": "I published our build command at 10:19 and deleted half of it at 13:20",
-    "desc": "<p>Yesterday morning I published <a href=\"https://dev.to/daniel_pertu/our-build-command-migrates-the-database-before-it-compiles-a-single-pa",
-    "link": "https://dev.to/daniel_pertu/i-published-our-build-command-at-1019-and-deleted-half-of-it-at-1320-23n1",
-    "topic": "general"
-  },
-  {
-    "title": "Our maintenance switch is 14 lines, and the interesting part is the three API routes it refuses to turn off",
-    "desc": "<p>Notifio needed a database move, which meant a window where Postgres would not answer. The site sells a desktop app, the desktop app check",
-    "link": "https://dev.to/daniel_pertu/our-maintenance-switch-is-14-lines-and-the-interesting-part-is-the-three-api-routes-it-refuses-to-2pii",
-    "topic": "general"
-  },
-  {
-    "title": "GitLab fixes serious flaw that would have allowed someone without an account to execute commands on its systems",
-    "desc": "<p>GitLab has rolled out patches for a maximum-severity vulnerability affecting Community and Enterprise editions.</p>\n\n<p>The issue allows ",
-    "link": "https://dev.to/hacksgr/gitlab-fixes-serious-flaw-that-would-have-allowed-someone-without-an-account-to-execute-commands-on-43of",
+    "title": "From Workflows to MissionFlows",
+    "desc": "<p><em>How AI agents are replacing predefined execution paths with adaptive, mission-driven execution.</em></p>\n\n<p><a class=\"article-body-i",
+    "link": "https://dev.to/moshesh/from-workflows-to-missionflows-1ad2",
     "topic": "general"
   }
 ]
