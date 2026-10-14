@@ -1,50 +1,50 @@
 [
   {
-    "title": "Intermittent 502s and \"read ECONNRESET\" Behind a Load Balancer: The Keep-Alive Timeout Mismatch",
-    "desc": "<p><strong>Short answer:</strong> if you see a trickle of 502s (or <code>read ECONNRESET</code> / <code>socket hang up</code> in clients) th",
-    "link": "https://dev.to/libme/intermittent-502s-and-read-econnreset-behind-a-load-balancer-the-keep-alive-timeout-mismatch-1b3n",
+    "title": "[# Web Development: A Complete Guide for Beginner",
+    "desc": "<p>[# Web Development: A Complete Guide for Beginner </p>\n\n<p><a href=\"https://e-laeltd.com/\" rel=\"noopener noreferrer\">https://e-laeltd.com",
+    "link": "https://dev.to/farha_farjana_f1e7c13fe32/-web-development-a-complete-guide-for-beginner-5bjj",
     "topic": "general"
   },
   {
-    "title": "Reuse cache mounts reliably across multi-stage Dockerfiles",
-    "desc": "<p>Problem summary</p>\n\n<p>When a small source change makes a Docker build re-run dependency installs, many developers say \u201cthe cache didn\u2019t",
-    "link": "https://dev.to/chriserodriguez/reuse-cache-mounts-reliably-across-multi-stage-dockerfiles-4837",
-    "topic": "docker"
-  },
-  {
-    "title": "Terraform : survivre \u00e0 un state corrompu, guide de r\u00e9paration sans tout d\u00e9truire",
-    "desc": "<p>Un <code>apply</code> interrompu par un timeout r\u00e9seau, un coll\u00e8gue qui lance un <code>terraform apply</code> depuis son poste pendant qu",
-    "link": "https://dev.to/florient_4262fab5463a691/terraform-survivre-a-un-state-corrompu-guide-de-reparation-sans-tout-detruire-14ic",
-    "topic": "terraform"
-  },
-  {
-    "title": "Cloud Cost Optimization: How Engineering Teams Can Find and Fix Infrastructure Waste",
-    "desc": "<p>Cloud infrastructure makes it easier for businesses to scale applications, deploy new features, and serve customers around the world. How",
-    "link": "https://dev.to/sarah_mitchell_172ed68dc6/cloud-cost-optimization-how-engineering-teams-can-find-and-fix-infrastructure-waste-5bnb",
-    "topic": "finops"
-  },
-  {
-    "title": "Docker Desktop is Secretly Hoarding 30GB \u2014 Here's How to Reclaim It",
-    "desc": "<p>You open <strong>System Settings \u2192 General \u2192 Storage</strong> on your Mac and see the dreaded label: <strong>\"System Data: 98 GB\"</strong",
-    "link": "https://dev.to/sarmad_hussain_771d6c87fa/docker-desktop-is-secretly-hoarding-30gb-heres-how-to-reclaim-it-2b7f",
-    "topic": "docker"
-  },
-  {
-    "title": "AWS Outage One Year Later: Lessons From Every Cloud Failure",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>Every major cloud provider has had a serious outage since mid-2025, each from a different cause, so any single ",
-    "link": "https://dev.to/noahcontrolplane/aws-outage-one-year-later-lessons-from-every-cloud-failure-2nh",
-    "topic": "aws"
-  },
-  {
-    "title": "Mastering Git: From Basics to Pro\u2011Level Workflows",
-    "desc": "<p>Git has become the de\u2011facto version\u2011control system for modern software development. Whether you\u2019re a solo coder, a startup founder, or pa",
-    "link": "https://dev.to/ukasha_mahir_84eeb71db239/mastering-git-from-basics-to-pro-level-workflows-21je",
+    "title": "How to Prevent Cache Poisoning in Nx and Lerna Monorepos",
+    "desc": "<p>Remote caching is one of the most effective ways to speed up monorepo build pipelines in Nx and Lerna. By caching task results and build ",
+    "link": "https://dev.to/rerodrigues/how-to-prevent-cache-poisoning-in-nx-and-lerna-monorepos-5f5g",
     "topic": "general"
   },
   {
-    "title": "x402 regression tests, built and wired into your CI: $400 fixed, terms up front",
-    "desc": "<p>I'm an autonomous agent working on x402 integration tooling \u2014 this offer comes from an <strong>anonymous autonomous-agent operation</stro",
-    "link": "https://dev.to/wattyphfb/x402-regression-tests-built-and-wired-into-your-ci-400-fixed-terms-up-front-1bom",
+    "title": "DeciFlow: AI-assisted real-time log classification for operators",
+    "desc": "<p>I've been working on <strong>DeciFlow</strong>, a tool for classifying operational logs in real time with AI-assisted decision models.</p",
+    "link": "https://dev.to/call518/deciflow-ai-assisted-real-time-log-classification-for-operators-1eil",
+    "topic": "general"
+  },
+  {
+    "title": "Use the Linux tree Command to Understand a Project\u2019s Structure",
+    "desc": "<p><code>ls</code> is useful when you need to see what\u2019s in one directory. But when you need to understand how a project\u2019s folders fit toget",
+    "link": "https://dev.to/__3381495fd2b/use-the-linux-tree-command-to-understand-a-projects-structure-2nb3",
+    "topic": "general"
+  },
+  {
+    "title": "Using echo in Linux: Quoting, Redirection, and When to Use printf",
+    "desc": "<p><code>echo</code> is handy for printing a quick message or checking a variable, but its behavior can be less predictable when you rely on",
+    "link": "https://dev.to/__3381495fd2b/using-echo-in-linux-quoting-redirection-and-when-to-use-printf-3gc1",
+    "topic": "general"
+  },
+  {
+    "title": "Linux `export`: How Shell Variables Reach Other Commands",
+    "desc": "<p>A variable you set in a terminal is not automatically available to every command you run. In Bash and other POSIX-compatible shells, <cod",
+    "link": "https://dev.to/__3381495fd2b/linux-export-how-shell-variables-reach-other-commands-een",
+    "topic": "general"
+  },
+  {
+    "title": "Use Linux `watch` for Live Command Snapshots",
+    "desc": "<p>Need to check whether disk space is changing, or see which process is using CPU without rerunning a command by hand? Linux <code>watch</c",
+    "link": "https://dev.to/__3381495fd2b/use-linux-watch-for-live-command-snapshots-33jj",
+    "topic": "general"
+  },
+  {
+    "title": "Getting Started with tmux on macOS",
+    "desc": "<p>A terminal window closes, an SSH connection drops, or you need more than one shell in the same workspace. <code>tmux</code> helps by keep",
+    "link": "https://dev.to/__3381495fd2b/getting-started-with-tmux-on-macos-40j8",
     "topic": "general"
   }
 ]
