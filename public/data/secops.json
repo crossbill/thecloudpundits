@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
+    "desc": "<p>In Booz Allen\u2019s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a pe",
+    "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
+    "topic": "general"
+  },
+  {
+    "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw",
+    "desc": "<p>ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability.\u00a0</p>\n<p>The post <a href=\"https://www.s",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
+    "topic": "general"
+  },
+  {
+    "title": "Harmonic Security Raises $50 Million for Workforce AI Protection",
+    "desc": "<p>The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK.</p>\n<p>The post <a href=\"https://www.secur",
+    "link": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
+    "topic": "secops"
+  },
+  {
+    "title": "Virtual Event Today: Zero Trust Strategies Summit",
+    "desc": "<p>This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strat",
+    "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
+    "topic": "secops"
+  },
+  {
     "title": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages",
     "desc": "<p>Backed by a federal court order, Microsoft and Health-ISAC seized domains powering YAM Store, CoGUI, and Iron Man.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/",
@@ -22,29 +46,5 @@
     "desc": "<p>Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks.</p>\n<p>The p",
     "link": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
     "topic": "general"
-  },
-  {
-    "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
-    "desc": "<p>The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
-    "topic": "azure"
-  },
-  {
-    "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
-    "desc": "<p>The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
-    "desc": "<p>Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI.</p>\n<p>The post <a href=\"https://www.securityweek.com/em",
-    "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
-    "topic": "openai"
-  },
-  {
-    "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
-    "desc": "<p>CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges.",
-    "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
-    "topic": "secops"
   }
 ]

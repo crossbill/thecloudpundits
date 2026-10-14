@@ -1,50 +1,50 @@
 [
   {
-    "title": "When a Renewed cert-manager CA Runs on the Same Key but a New Key Identifier",
-    "desc": "<p><em>On cert-manager v1.21.2, a v1.18.6-issued <code>rotationPolicy: Never</code> CA renewed with the same key got a new SKI (SHA-1 \u2192 trun",
-    "link": "https://dev.to/whenitruns/when-a-renewed-cert-manager-ca-runs-on-the-same-key-but-a-new-key-identifier-kfb",
+    "title": "Test a login flow without writing Playwright",
+    "desc": "<p>Pathly watches the path. Ping if it's up. Flow if a user can walk it. Chain if the services behind it hold. Login is a Flow. A Ping on <c",
+    "link": "https://dev.to/keyral/test-a-login-flow-without-writing-playwright-12g9",
     "topic": "general"
   },
   {
-    "title": "\"Why I Refused a $500/mo Cloud Bill: Running 1,100+ Active Users at 1.12s LCP on a Single 8GB Linux VPS\"",
-    "desc": "<h2>\n  \n  \n  About the Author\n</h2>\n\n<p><strong>Duong Phuc Khanh (Kido / Kh\u00e1nh D\u01b0\u01a1ng)</strong> is a Senior AI-Native Lead & Systems Architec",
-    "link": "https://dev.to/khanhduong22/why-i-refused-a-500mo-cloud-bill-running-1100-active-users-at-112s-lcp-on-a-single-8gb-linux-192p",
+    "title": "Pathly as an API, and a Terraform provider",
+    "desc": "<p>Pathly watches the path. Ping if it's up. Flow if a user can walk it. Chain if the services behind it hold. This article describes the HT",
+    "link": "https://dev.to/keyral/pathly-as-an-api-and-a-terraform-provider-oi",
+    "topic": "terraform"
+  },
+  {
+    "title": "The Pathly Terraform provider, in practice",
+    "desc": "<p>Pathly watches the path. Ping if it's up. Flow if a user can walk it. Chain if the services behind it hold. This article is about the Ter",
+    "link": "https://dev.to/keyral/the-pathly-terraform-provider-in-practice-2l74",
+    "topic": "terraform"
+  },
+  {
+    "title": "cronlock: stop overlapping cron jobs with flock (plus timeout and failure webhooks)",
+    "desc": "<h2>\n  \n  \n  Problem: overlapping and runaway cron jobs\n</h2>\n\n<p>Cron schedules tasks at fixed intervals. If a job runs longer than its int",
+    "link": "https://dev.to/grokkius/cronlock-stop-overlapping-cron-jobs-with-flock-plus-timeout-and-failure-webhooks-n79",
     "topic": "general"
   },
   {
-    "title": "Where Windows Creates Dependency Gaps for Sovereign Requirements: An ARKM Architectural Teardown",
-    "desc": "<h2>\n  \n  \n  Classification: Sovereign Technical Architecture / Comparative Dependency Analysis Target Sectors: Strategic Defence Command, C",
-    "link": "https://dev.to/adityaadi/where-windows-creates-dependency-gaps-for-sovereign-requirements-an-arkm-architectural-teardown-5aj9",
+    "title": "Ship the dependency fix before the exploit window closes",
+    "desc": "<p>Average time to exploit can sit below zero because flaws used before disclosure are averaged with a shorter wait after disclosure. Dan Lo",
+    "link": "https://dev.to/conorbronsdon/ship-the-dependency-fix-before-the-exploit-window-closes-53hj",
     "topic": "general"
   },
   {
-    "title": "nginx 504 Gateway Timeout with zero 429s from limit_req",
-    "desc": "<p>nginx uses <code>limit_req</code> to cap the number of requests per second for each IP address. Requests over the limit get a 429 (Too Ma",
-    "link": "https://dev.to/shinagawa-web/nginx-504-gateway-timeout-with-zero-429s-from-limitreq-31pd",
+    "title": "ASP.NET Core production checklist: going live with an e-commerce site",
+    "desc": "<p>A project that runs perfectly on <code>localhost</code> is set up for development: demo data, a known admin password, placeholder keys, s",
+    "link": "https://dev.to/rgk/aspnet-core-production-checklist-going-live-with-an-e-commerce-site-56a3",
     "topic": "general"
   },
   {
-    "title": "GPT-4o and GPT-4.1 Leave OpenAI's API on January 14, 2027. You Have 92 Days",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GW2NTCR5\" rel=\"noopener noreferrer\">Ship It \u2014 the pragmatic startup te",
-    "link": "https://dev.to/gabrielanhaia/gpt-4o-and-gpt-41-leave-openais-api-on-january-14-2027-you-have-92-days-2n9b",
-    "topic": "openai"
+    "title": "Docker Compose profiles for ASP.NET Core: one file, four databases",
+    "desc": "<p>My ASP.NET Core project, <a href=\"https://rgkjobber.gumroad.com/l/zkcwon\" rel=\"noopener noreferrer\">eCommerceMVCCore</a>, supports four d",
+    "link": "https://dev.to/rgk/docker-compose-profiles-for-aspnet-core-one-file-four-databases-199l",
+    "topic": "docker"
   },
   {
-    "title": "How to Monitor LLM Apps in Production: An Observability Guide",
-    "desc": "<p>AI Observability Guide 2026: How to Monitor LLM Apps in Production with Langfuse and Helicone</p>\n\n<p>Your AI-powered app is live. Users ",
-    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/how-to-monitor-llm-apps-in-production-an-observability-guide-3bdc",
+    "title": "Why Fast Unit Converters Matter",
+    "desc": "<p>If you have ever worked on a construction site, managed structural estimations, or rushed through engineering homework, you know how frus",
+    "link": "https://dev.to/mudasir_rehman_1c53004357/why-fast-unit-converters-matter-267",
     "topic": "general"
-  },
-  {
-    "title": "Enhancing Software Project Tracking: The Case for Source Branch Restrictions in GitHub Rulesets",
-    "desc": "<h2>\n  \n  \n  The Hidden Gap in Your Git Workflow Enforcement\n</h2>\n\n<p>In the fast-paced world of software development, maintaining stringen",
-    "link": "https://dev.to/devactivity/enhancing-software-project-tracking-the-case-for-source-branch-restrictions-in-github-rulesets-3c77",
-    "topic": "general"
-  },
-  {
-    "title": "Shai-Hulud: 796 Packages, 1 Yes-Mash, and the Claude Code Auto-Approve Risk",
-    "desc": "<p>On November 24, 2025, JFrog Security Research disclosed that a self-replicating npm worm had quietly backdoored 796 unique packages. The ",
-    "link": "https://dev.to/kenimo49/shai-hulud-796-packages-1-yes-mash-and-the-claude-code-auto-approve-risk-5f7b",
-    "topic": "anthropic"
   }
 ]
