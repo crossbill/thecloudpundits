@@ -1,50 +1,50 @@
 [
   {
-    "title": "Test a login flow without writing Playwright",
-    "desc": "<p>Pathly watches the path. Ping if it's up. Flow if a user can walk it. Chain if the services behind it hold. Login is a Flow. A Ping on <c",
-    "link": "https://dev.to/keyral/test-a-login-flow-without-writing-playwright-12g9",
+    "title": "Catching Terraform Drift Early: Scheduled Plans in GitHub Actions with AWS OIDC (No Long-Lived Keys)",
+    "desc": "<p>Terraform state describes what you <em>think</em> is deployed. Drift is the gap between that and reality: someone changes a security grou",
+    "link": "https://dev.to/team_bytebridgetalentllc/catching-terraform-drift-early-scheduled-plans-in-github-actions-with-aws-oidc-no-long-lived-keys-1l1e",
+    "topic": "aws"
+  },
+  {
+    "title": "When Keycloak's Event Store Runs on Defaults Without `enabled_event_types`",
+    "desc": "<p><em>Keycloak 26.7.4 + keycloak provider v5.9.0, <code>enabled_event_types</code> omitted (\"Omitting this field enables all event types\"):",
+    "link": "https://dev.to/whenitruns/when-keycloaks-event-store-runs-on-defaults-without-enabledeventtypes-g8f",
     "topic": "general"
   },
   {
-    "title": "Pathly as an API, and a Terraform provider",
-    "desc": "<p>Pathly watches the path. Ping if it's up. Flow if a user can walk it. Chain if the services behind it hold. This article describes the HT",
-    "link": "https://dev.to/keyral/pathly-as-an-api-and-a-terraform-provider-oi",
+    "title": "We pinned our own domain to 127.0.0.1 and our SSRF guard ate two days of voice notes",
+    "desc": "<p>I build DOS AI (dosai.pro), an AI assistant that answers a small business's customers in WhatsApp, Instagram and Telegram and keeps the l",
+    "link": "https://dev.to/dosai/we-pinned-our-own-domain-to-127001-and-our-ssrf-guard-ate-two-days-of-voice-notes-2jd3",
+    "topic": "general"
+  },
+  {
+    "title": "A Reusable Terraform Module for Secure S3 Buckets, with Remote State and CI Plan Checks",
+    "desc": "<p>Copy-pasting S3 bucket resources between projects is how buckets end up unencrypted, public, or unversioned. A small module turns your te",
+    "link": "https://dev.to/team_bytebridgetalentllc/a-reusable-terraform-module-for-secure-s3-buckets-with-remote-state-and-ci-plan-checks-442m",
     "topic": "terraform"
   },
   {
-    "title": "The Pathly Terraform provider, in practice",
-    "desc": "<p>Pathly watches the path. Ping if it's up. Flow if a user can walk it. Chain if the services behind it hold. This article is about the Ter",
-    "link": "https://dev.to/keyral/the-pathly-terraform-provider-in-practice-2l74",
-    "topic": "terraform"
-  },
-  {
-    "title": "cronlock: stop overlapping cron jobs with flock (plus timeout and failure webhooks)",
-    "desc": "<h2>\n  \n  \n  Problem: overlapping and runaway cron jobs\n</h2>\n\n<p>Cron schedules tasks at fixed intervals. If a job runs longer than its int",
-    "link": "https://dev.to/grokkius/cronlock-stop-overlapping-cron-jobs-with-flock-plus-timeout-and-failure-webhooks-n79",
+    "title": "What Happens When Developers Don't Know Which Configuration Steps Remain Their Responsibility",
+    "desc": "<p>What Happens When Developers Don't Know Which Configuration Steps Remain Their Responsibility</p>\n\n<p>A platform automatically configures",
+    "link": "https://dev.to/nwajichukwu_goodness_audit/what-happens-when-developers-dont-know-which-configuration-steps-remain-their-responsibility-35hj",
     "topic": "general"
   },
   {
-    "title": "Ship the dependency fix before the exploit window closes",
-    "desc": "<p>Average time to exploit can sit below zero because flaws used before disclosure are averaged with a shorter wait after disclosure. Dan Lo",
-    "link": "https://dev.to/conorbronsdon/ship-the-dependency-fix-before-the-exploit-window-closes-53hj",
+    "title": "Nginx Unleashed: From Static Site Serving to Dynamic Load Balancing",
+    "desc": "<h1>\n  \n  \n  Nginx Unleashed: From Static Site Serving to Dynamic Load Balancing\n</h1>\n\n<p>Nginx (pronounced \u201cengine\u2011x\u201d) has become the de\u2011f",
+    "link": "https://dev.to/ukasha_mahir_84eeb71db239/nginx-unleashed-from-static-site-serving-to-dynamic-load-balancing-164b",
     "topic": "general"
   },
   {
-    "title": "ASP.NET Core production checklist: going live with an e-commerce site",
-    "desc": "<p>A project that runs perfectly on <code>localhost</code> is set up for development: demo data, a known admin password, placeholder keys, s",
-    "link": "https://dev.to/rgk/aspnet-core-production-checklist-going-live-with-an-e-commerce-site-56a3",
+    "title": "Git Like a Ninja: Advanced Branching & Automation Techniques",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you\u2019ve been using Git for a while, you probably know the basics: <code>add</code>, <code>commit</code",
+    "link": "https://dev.to/ukasha_mahir_84eeb71db239/git-like-a-ninja-advanced-branching-automation-techniques-27h5",
     "topic": "general"
   },
   {
-    "title": "Docker Compose profiles for ASP.NET Core: one file, four databases",
-    "desc": "<p>My ASP.NET Core project, <a href=\"https://rgkjobber.gumroad.com/l/zkcwon\" rel=\"noopener noreferrer\">eCommerceMVCCore</a>, supports four d",
-    "link": "https://dev.to/rgk/docker-compose-profiles-for-aspnet-core-one-file-four-databases-199l",
-    "topic": "docker"
-  },
-  {
-    "title": "Why Fast Unit Converters Matter",
-    "desc": "<p>If you have ever worked on a construction site, managed structural estimations, or rushed through engineering homework, you know how frus",
-    "link": "https://dev.to/mudasir_rehman_1c53004357/why-fast-unit-converters-matter-267",
+    "title": "Works on desktop, fails on phones: the post-quantum TLS bug hiding in your network card",
+    "desc": "<p>Modern browsers now send a larger TLS hello. On some Windows servers, a receive-offload bug in the network card silently breaks about hal",
+    "link": "https://dev.to/bookmyhost/works-on-desktop-fails-on-phones-the-post-quantum-tls-bug-hiding-in-your-network-card-4pln",
     "topic": "general"
   }
 ]
