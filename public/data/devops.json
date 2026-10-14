@@ -1,50 +1,50 @@
 [
   {
-    "title": "[# Web Development: A Complete Guide for Beginner",
-    "desc": "<p>[# Web Development: A Complete Guide for Beginner </p>\n\n<p><a href=\"https://e-laeltd.com/\" rel=\"noopener noreferrer\">https://e-laeltd.com",
-    "link": "https://dev.to/farha_farjana_f1e7c13fe32/-web-development-a-complete-guide-for-beginner-5bjj",
+    "title": "Moving from a VPS to Cloud Run: what each piece becomes",
+    "desc": "<p><em>This guide was first published on <a href=\"https://exodus.elim.io/blog/a-vps-to-cloud-run\" rel=\"noopener noreferrer\">exodus.elim.io</",
+    "link": "https://dev.to/elimio/moving-from-a-vps-to-cloud-run-what-each-piece-becomes-12ob",
     "topic": "general"
   },
   {
-    "title": "How to Prevent Cache Poisoning in Nx and Lerna Monorepos",
-    "desc": "<p>Remote caching is one of the most effective ways to speed up monorepo build pipelines in Nx and Lerna. By caching task results and build ",
-    "link": "https://dev.to/rerodrigues/how-to-prevent-cache-poisoning-in-nx-and-lerna-monorepos-5f5g",
+    "title": "What Cloud Run costs, with worked examples",
+    "desc": "<p><em>This guide was first published on <a href=\"https://exodus.elim.io/blog/what-cloud-run-costs\" rel=\"noopener noreferrer\">exodus.elim.io",
+    "link": "https://dev.to/elimio/what-cloud-run-costs-with-worked-examples-378i",
     "topic": "general"
   },
   {
-    "title": "DeciFlow: AI-assisted real-time log classification for operators",
-    "desc": "<p>I've been working on <strong>DeciFlow</strong>, a tool for classifying operational logs in real time with AI-assisted decision models.</p",
-    "link": "https://dev.to/call518/deciflow-ai-assisted-real-time-log-classification-for-operators-1eil",
+    "title": "The patterns that break on Cloud Run, and their replacements",
+    "desc": "<p><em>This guide was first published on <a href=\"https://exodus.elim.io/blog/patterns-that-break-on-cloud-run\" rel=\"noopener noreferrer\">ex",
+    "link": "https://dev.to/elimio/the-patterns-that-break-on-cloud-run-and-their-replacements-2m5a",
     "topic": "general"
   },
   {
-    "title": "Use the Linux tree Command to Understand a Project\u2019s Structure",
-    "desc": "<p><code>ls</code> is useful when you need to see what\u2019s in one directory. But when you need to understand how a project\u2019s folders fit toget",
-    "link": "https://dev.to/__3381495fd2b/use-the-linux-tree-command-to-understand-a-projects-structure-2nb3",
+    "title": "Exodus: move an app to Google Cloud Run with the coding agent you already use",
+    "desc": "<p>Exodus is on Product Hunt today: <a href=\"https://www.producthunt.com/products/exodus-by-elim-io?launch=exodus-by-elim-io\" rel=\"noopener ",
+    "link": "https://dev.to/elimio/exodus-move-an-app-to-google-cloud-run-with-the-coding-agent-you-already-use-1d3",
+    "topic": "gcp"
+  },
+  {
+    "title": "A Git Config File Can Hijack Your Coding Agent. Here's the Fix List.",
+    "desc": "<p>A malicious git config can run code inside seven coding agents before any approval prompt. Three recent disclosures (GitSpawn, BragJack a",
+    "link": "https://dev.to/humanbound_ai/a-git-config-file-can-hijack-your-coding-agent-heres-the-fix-list-6l9",
     "topic": "general"
   },
   {
-    "title": "Using echo in Linux: Quoting, Redirection, and When to Use printf",
-    "desc": "<p><code>echo</code> is handy for printing a quick message or checking a variable, but its behavior can be less predictable when you rely on",
-    "link": "https://dev.to/__3381495fd2b/using-echo-in-linux-quoting-redirection-and-when-to-use-printf-3gc1",
+    "title": "ECR Image Scan Gate in GitLab CI Passes Vulnerable Images",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/10/14/ecr-image-scan-gate-in-gitlab-ci-passes-vulnerable-images\" rel=\"no",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/ecr-image-scan-gate-in-gitlab-ci-passes-vulnerable-images-4fb5",
     "topic": "general"
   },
   {
-    "title": "Linux `export`: How Shell Variables Reach Other Commands",
-    "desc": "<p>A variable you set in a terminal is not automatically available to every command you run. In Bash and other POSIX-compatible shells, <cod",
-    "link": "https://dev.to/__3381495fd2b/linux-export-how-shell-variables-reach-other-commands-een",
-    "topic": "general"
+    "title": "I Built a Kubernetes CVE Bot. Its First Alert Was About Eclipse Che.",
+    "desc": "<p><strong>I wanted exactly one thing: a message on my phone when a new CVE hits a version I actually run.</strong></p>\n\n<p>So I built a Tel",
+    "link": "https://dev.to/kalikys/i-built-a-kubernetes-cve-bot-its-first-alert-was-about-eclipse-che-34h2",
+    "topic": "kubernetes"
   },
   {
-    "title": "Use Linux `watch` for Live Command Snapshots",
-    "desc": "<p>Need to check whether disk space is changing, or see which process is using CPU without rerunning a command by hand? Linux <code>watch</c",
-    "link": "https://dev.to/__3381495fd2b/use-linux-watch-for-live-command-snapshots-33jj",
-    "topic": "general"
-  },
-  {
-    "title": "Getting Started with tmux on macOS",
-    "desc": "<p>A terminal window closes, an SSH connection drops, or you need more than one shell in the same workspace. <code>tmux</code> helps by keep",
-    "link": "https://dev.to/__3381495fd2b/getting-started-with-tmux-on-macos-40j8",
+    "title": "AI Skills Are Now Expected. For Cloud Engineers, That's Actually a Head Start.",
+    "desc": "<p>Somewhere in the last year, \"AI skills\" quietly moved from a nice-to-have on a job description to an assumption. Nearly every AI-powered ",
+    "link": "https://dev.to/muskan_bandta/ai-skills-are-now-expected-for-cloud-engineers-thats-actually-a-head-start-389j",
     "topic": "general"
   }
 ]
