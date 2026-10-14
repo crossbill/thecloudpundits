@@ -1,50 +1,50 @@
 [
   {
-    "title": "Moving from a VPS to Cloud Run: what each piece becomes",
-    "desc": "<p><em>This guide was first published on <a href=\"https://exodus.elim.io/blog/a-vps-to-cloud-run\" rel=\"noopener noreferrer\">exodus.elim.io</",
-    "link": "https://dev.to/elimio/moving-from-a-vps-to-cloud-run-what-each-piece-becomes-12ob",
+    "title": "When a Renewed cert-manager CA Runs on the Same Key but a New Key Identifier",
+    "desc": "<p><em>On cert-manager v1.21.2, a v1.18.6-issued <code>rotationPolicy: Never</code> CA renewed with the same key got a new SKI (SHA-1 \u2192 trun",
+    "link": "https://dev.to/whenitruns/when-a-renewed-cert-manager-ca-runs-on-the-same-key-but-a-new-key-identifier-kfb",
     "topic": "general"
   },
   {
-    "title": "What Cloud Run costs, with worked examples",
-    "desc": "<p><em>This guide was first published on <a href=\"https://exodus.elim.io/blog/what-cloud-run-costs\" rel=\"noopener noreferrer\">exodus.elim.io",
-    "link": "https://dev.to/elimio/what-cloud-run-costs-with-worked-examples-378i",
+    "title": "\"Why I Refused a $500/mo Cloud Bill: Running 1,100+ Active Users at 1.12s LCP on a Single 8GB Linux VPS\"",
+    "desc": "<h2>\n  \n  \n  About the Author\n</h2>\n\n<p><strong>Duong Phuc Khanh (Kido / Kh\u00e1nh D\u01b0\u01a1ng)</strong> is a Senior AI-Native Lead & Systems Architec",
+    "link": "https://dev.to/khanhduong22/why-i-refused-a-500mo-cloud-bill-running-1100-active-users-at-112s-lcp-on-a-single-8gb-linux-192p",
     "topic": "general"
   },
   {
-    "title": "The patterns that break on Cloud Run, and their replacements",
-    "desc": "<p><em>This guide was first published on <a href=\"https://exodus.elim.io/blog/patterns-that-break-on-cloud-run\" rel=\"noopener noreferrer\">ex",
-    "link": "https://dev.to/elimio/the-patterns-that-break-on-cloud-run-and-their-replacements-2m5a",
+    "title": "Where Windows Creates Dependency Gaps for Sovereign Requirements: An ARKM Architectural Teardown",
+    "desc": "<h2>\n  \n  \n  Classification: Sovereign Technical Architecture / Comparative Dependency Analysis Target Sectors: Strategic Defence Command, C",
+    "link": "https://dev.to/adityaadi/where-windows-creates-dependency-gaps-for-sovereign-requirements-an-arkm-architectural-teardown-5aj9",
     "topic": "general"
   },
   {
-    "title": "Exodus: move an app to Google Cloud Run with the coding agent you already use",
-    "desc": "<p>Exodus is on Product Hunt today: <a href=\"https://www.producthunt.com/products/exodus-by-elim-io?launch=exodus-by-elim-io\" rel=\"noopener ",
-    "link": "https://dev.to/elimio/exodus-move-an-app-to-google-cloud-run-with-the-coding-agent-you-already-use-1d3",
-    "topic": "gcp"
-  },
-  {
-    "title": "A Git Config File Can Hijack Your Coding Agent. Here's the Fix List.",
-    "desc": "<p>A malicious git config can run code inside seven coding agents before any approval prompt. Three recent disclosures (GitSpawn, BragJack a",
-    "link": "https://dev.to/humanbound_ai/a-git-config-file-can-hijack-your-coding-agent-heres-the-fix-list-6l9",
+    "title": "nginx 504 Gateway Timeout with zero 429s from limit_req",
+    "desc": "<p>nginx uses <code>limit_req</code> to cap the number of requests per second for each IP address. Requests over the limit get a 429 (Too Ma",
+    "link": "https://dev.to/shinagawa-web/nginx-504-gateway-timeout-with-zero-429s-from-limitreq-31pd",
     "topic": "general"
   },
   {
-    "title": "ECR Image Scan Gate in GitLab CI Passes Vulnerable Images",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/10/14/ecr-image-scan-gate-in-gitlab-ci-passes-vulnerable-images\" rel=\"no",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/ecr-image-scan-gate-in-gitlab-ci-passes-vulnerable-images-4fb5",
+    "title": "GPT-4o and GPT-4.1 Leave OpenAI's API on January 14, 2027. You Have 92 Days",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GW2NTCR5\" rel=\"noopener noreferrer\">Ship It \u2014 the pragmatic startup te",
+    "link": "https://dev.to/gabrielanhaia/gpt-4o-and-gpt-41-leave-openais-api-on-january-14-2027-you-have-92-days-2n9b",
+    "topic": "openai"
+  },
+  {
+    "title": "How to Monitor LLM Apps in Production: An Observability Guide",
+    "desc": "<p>AI Observability Guide 2026: How to Monitor LLM Apps in Production with Langfuse and Helicone</p>\n\n<p>Your AI-powered app is live. Users ",
+    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/how-to-monitor-llm-apps-in-production-an-observability-guide-3bdc",
     "topic": "general"
   },
   {
-    "title": "I Built a Kubernetes CVE Bot. Its First Alert Was About Eclipse Che.",
-    "desc": "<p><strong>I wanted exactly one thing: a message on my phone when a new CVE hits a version I actually run.</strong></p>\n\n<p>So I built a Tel",
-    "link": "https://dev.to/kalikys/i-built-a-kubernetes-cve-bot-its-first-alert-was-about-eclipse-che-34h2",
-    "topic": "kubernetes"
+    "title": "Enhancing Software Project Tracking: The Case for Source Branch Restrictions in GitHub Rulesets",
+    "desc": "<h2>\n  \n  \n  The Hidden Gap in Your Git Workflow Enforcement\n</h2>\n\n<p>In the fast-paced world of software development, maintaining stringen",
+    "link": "https://dev.to/devactivity/enhancing-software-project-tracking-the-case-for-source-branch-restrictions-in-github-rulesets-3c77",
+    "topic": "general"
   },
   {
-    "title": "AI Skills Are Now Expected. For Cloud Engineers, That's Actually a Head Start.",
-    "desc": "<p>Somewhere in the last year, \"AI skills\" quietly moved from a nice-to-have on a job description to an assumption. Nearly every AI-powered ",
-    "link": "https://dev.to/muskan_bandta/ai-skills-are-now-expected-for-cloud-engineers-thats-actually-a-head-start-389j",
-    "topic": "general"
+    "title": "Shai-Hulud: 796 Packages, 1 Yes-Mash, and the Claude Code Auto-Approve Risk",
+    "desc": "<p>On November 24, 2025, JFrog Security Research disclosed that a self-replicating npm worm had quietly backdoored 796 unique packages. The ",
+    "link": "https://dev.to/kenimo49/shai-hulud-796-packages-1-yes-mash-and-the-claude-code-auto-approve-risk-5f7b",
+    "topic": "anthropic"
   }
 ]
