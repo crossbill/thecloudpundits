@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes: un presupuesto para emails de prueba",
-    "desc": "<p>Un flujo de verificaci\u00f3n de email en CI puede parecer peque\u00f1o hasta que un pod queda esperando una se\u00f1al que nunca llega. Este patr\u00f3n ayu",
-    "link": "https://dev.to/alexcarteruk/kubernetes-un-presupuesto-para-emails-de-prueba-3e96",
+    "title": "Why AWS Cost Forecasts Fail: Cleaning Up Orphaned EBS and Idle EC2 Before Buying Savings Plans",
+    "desc": "<p>Three questions keep coming up among cloud engineers and FinOps practitioners right now:</p>\n\n<ol>\n<li><em>Why do our cloud cost forecast",
+    "link": "https://dev.to/ace7coder/why-aws-cost-forecasts-fail-cleaning-up-orphaned-ebs-and-idle-ec2-before-buying-savings-plans-4cn9",
+    "topic": "aws"
+  },
+  {
+    "title": "Vitest 4 to 5 on a 3,000-file test suite: what the upgrade bought us",
+    "desc": "<p>We moved our test runner from Vitest 4.1.8 to Vitest 5.0.4 this week. This is what the upgrade cost, what broke, and what it bought us, m",
+    "link": "https://dev.to/vousmeevoyez/vitest-4-to-5-on-a-3000-file-test-suite-what-the-upgrade-bought-us-246j",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes Pod Churn & Node Thrashing: Ephemeral Storage Exhaustion and Eviction Cascades",
+    "desc": "<p>When background worker pods continuously write temporary scratch files, un-rotated log buffers, or dynamic assets directly to container f",
+    "link": "https://dev.to/usman_khan_io/kubernetes-pod-churn-node-thrashing-ephemeral-storage-exhaustion-and-eviction-cascades-4035",
     "topic": "kubernetes"
   },
   {
-    "title": "Gating Cloudflare Worker Deployments With CI",
-    "desc": "<p>Automated build systems often deploy code immediately on merge without waiting for external quality gates to finish. </p>\n\n<p><strong>Qui",
-    "link": "https://dev.to/raylabs/gating-cloudflare-worker-deployments-with-ci-3npm",
+    "title": "Worktree lifecycle for AI agents",
+    "desc": "<h2>\n  \n  \n  The problem is not creating worktrees, but managing them\n</h2>\n\n<p>When two or more agents work in parallel on different featur",
+    "link": "https://dev.to/saez520/worktree-lifecycle-for-ai-agents-1ooo",
     "topic": "general"
   },
   {
-    "title": "A free Docker Compose healthcheck generator (Postgres, Redis, MySQL, MongoDB)",
-    "desc": "<p>After writing up Compose healthchecks for Postgres, I kept rewriting the same block for other databases, so I made a small single-page ge",
-    "link": "https://dev.to/anthany_wingo_195f7057a9e/a-free-docker-compose-healthcheck-generator-postgres-redis-mysql-mongodb-705",
-    "topic": "docker"
-  },
-  {
-    "title": "I Used to Think Software Testing Was Unnecessary. Then I Started Building My Own Project.",
-    "desc": "<p>I used to think writing unit tests, E2E tests, and maintaining a proper testing suite was unnecessary for most projects.</p>\n\n<p><strong>",
-    "link": "https://dev.to/buildshreyansh/i-used-to-think-software-testing-was-unnecessary-then-i-started-building-my-own-project-o33",
+    "title": "About Me",
+    "desc": "<blockquote>\n<p><em>\"Ingin menjadi AI Engineer namun hobi vibe coding.\"</em></p>\n</blockquote>\n\n<p>\u00b7 \u00b7 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u00b7 \u00b7</p>\n\n<p><em>Cloud ",
+    "link": "https://dev.to/malfurra/about-me-286j",
     "topic": "general"
   },
   {
-    "title": "64-Day Certificates Are Coming: Two Small Tweaks to Your Renewal Logic",
-    "desc": "<p>Let's Encrypt is dropping certificate validity from 90 days to 64 days starting February 2027. If you're like me, your first thought was ",
-    "link": "https://dev.to/schiff_heimlich/64-day-certificates-are-coming-two-small-tweaks-to-your-renewal-logic-4nfm",
+    "title": "I published my first GitHub Action. Five things I'd tell myself first",
+    "desc": "<p>This week I published my first GitHub Action to the Marketplace. It's a small one: a composite action that runs a CLI I maintain, pinned ",
+    "link": "https://dev.to/utsavmishra25/i-published-my-first-github-action-five-things-id-tell-myself-first-1ap5",
     "topic": "general"
   },
   {
-    "title": "How Databricks is disrupting Retail and E-Commerce with LTAP direct writes: OLTP and OLAP working together without overwhelming your application",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/harish_shenoy_7e4b5944d2f/how-databricks-is-disrupting-retail-and-e-commerce-with-ltap-direct-writes-oltp-and-olap-working-20ia",
+    "title": "Kill the bug class, not just the bug",
+    "desc": "<p>The dry run said the reminder text would go out to a customer with the window \"12PM\u20132PM.\" The actual appointment was 8AM\u201310AM. Four hours",
+    "link": "https://dev.to/hermesthevaliant/kill-the-bug-class-not-just-the-bug-3emg",
     "topic": "general"
   },
   {
-    "title": "Your timestamp proves \"no later than.\" What proves \"no earlier than\"?",
-    "desc": "<p>When you timestamp a file, what does that timestamp actually say about <em>when the file was made</em>?</p>\n\n<p>The obvious answer is \"wh",
-    "link": "https://dev.to/craig_solomon/your-timestamp-proves-no-later-than-what-proves-no-earlier-than-54m0",
-    "topic": "general"
-  },
-  {
-    "title": "Day 63: Two Tiers and a Root Key",
-    "desc": "<p>Day 63 of DevOps, Day 13 of Azure. Both tasks today had something already written before I arrived. Kubernetes filled in resource request",
-    "link": "https://dev.to/ndcodes/day-63-two-tiers-and-a-root-key-33d",
+    "title": "I tested my own docs like a stranger. They failed 24 times.",
+    "desc": "<p>I wrote a monitoring stack (Prometheus, Grafana, Alertmanager) and a README that says \"it just works\". It had always worked on my own ser",
+    "link": "https://dev.to/airat71/i-tested-my-own-docs-like-a-stranger-they-failed-24-times-1ekf",
     "topic": "general"
   }
 ]
