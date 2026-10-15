@@ -1,5 +1,17 @@
 [
   {
+    "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+    "desc": "<p>The company says it\u2019s aware of limited exploitation against customers\u2019 firewalls, and it has made IoCs available.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+    "topic": "general"
+  },
+  {
+    "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
+    "desc": "<p>Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges.</p>\n<p>T",
+    "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+    "topic": "secops"
+  },
+  {
     "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
     "desc": "<p>In Booz Allen\u2019s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a pe",
     "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
@@ -33,18 +45,6 @@
     "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
     "desc": "<p>Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location.</p>\n<p>The pos",
     "link": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
-    "topic": "general"
-  },
-  {
-    "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
-    "desc": "<p>Mozilla has introduced Firefox Enterprise for organizations with strict compliance, governance, and security requirements.</p>\n<p>The pos",
-    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
-    "topic": "aws"
-  },
-  {
-    "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products",
-    "desc": "<p>Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
     "topic": "general"
   }
 ]

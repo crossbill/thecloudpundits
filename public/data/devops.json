@@ -1,50 +1,50 @@
 [
   {
-    "title": "Freelance Developer vs IT Agency in Kerala: Which Model Works Best for Startups?",
-    "desc": "<h3>\n  \n  \n  Technical Velocity vs Agency Overhead: The Engineering Dilemma\n</h3>\n\n<p>Building a modern tech product\u2014whether an enterprise N",
-    "link": "https://dev.to/abinschandran/freelance-developer-vs-it-agency-in-kerala-which-model-works-best-for-startups-1cbh",
-    "topic": "general"
-  },
-  {
-    "title": "ripgrep Missed the CSV Files. I Almost Designed a Collector We Already Had.",
-    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/ripgrep-missed-existing-search-console-csv.html\" rel=\"noopener nor",
-    "link": "https://dev.to/hexisteme/ripgrep-missed-the-csv-files-i-almost-designed-a-collector-we-already-had-5abl",
-    "topic": "general"
-  },
-  {
-    "title": "How to get a free address for your website today",
-    "desc": "<p>Following legal pressures, free domain extensions like.tk and.ml have been discontinued.</p>\n\n<p>This change highlights a shift toward pl",
-    "link": "https://dev.to/hacksgr/how-to-get-a-free-address-for-your-website-today-3m2",
-    "topic": "general"
-  },
-  {
-    "title": "The 3am alarm nobody logged: building incident accountability for shops",
-    "desc": "<p>The alarm goes off at 3am. By the morning, three people can tell you three different things about what happened, and none of them can sho",
-    "link": "https://dev.to/mauitechhub/the-3am-alarm-nobody-logged-building-incident-accountability-for-shops-31ek",
-    "topic": "secops"
-  },
-  {
-    "title": "Zero-Downtime Hot Backups & Safe Migration for Proxy Panels (3X-UI, Marzban, Hiddify)",
-    "desc": "<h1>\n  \n  \n  Zero-Downtime Hot Backups & Safe Migration for Proxy Management Panels\n</h1>\n\n<p>When managing distributed network proxy server",
-    "link": "https://dev.to/dalroot/zero-downtime-hot-backups-safe-migration-for-proxy-panels-3x-ui-marzban-hiddify-1en8",
-    "topic": "general"
-  },
-  {
-    "title": "Stop your app from starting before Postgres is ready: Compose healthchecks done right",
-    "desc": "<p>A common Docker Compose bug: the app container starts, tries to connect to the database, and crashes because Postgres is still initializi",
-    "link": "https://dev.to/anthany_wingo_195f7057a9e/stop-your-app-from-starting-before-postgres-is-ready-compose-healthchecks-done-right-1nmp",
-    "topic": "general"
-  },
-  {
-    "title": "Hands-On AWS: Spin Up IAM, S3 and a Jenkins Server on EC2 (and Fix What Breaks)",
-    "desc": "<blockquote>\n<h2>\n  \n  \n  <em>A step-by-step AWS lab with lots screenshots: create and delete an IAM user, host a site on S3, launch an EC2 ",
-    "link": "https://dev.to/4thman/hands-on-aws-spin-up-iam-s3-and-a-jenkins-server-on-ec2-and-fix-what-breaks-45h4",
+    "title": "Multi-Account AWS Networking: Shared VPC, RAM, and the Hub-and-Spoke Model",
+    "desc": "<p>Once an AWS Organization crosses a handful of accounts, the question stops being how to connect VPCs and becomes who owns the network at ",
+    "link": "https://dev.to/aloknecessary/multi-account-aws-networking-shared-vpc-ram-and-the-hub-and-spoke-model-35ck",
     "topic": "aws"
   },
   {
-    "title": "Certified Backstage Associate: I Passed by Five Points",
-    "desc": "<blockquote>\n<p>I wrote the longer version, with every config detail I studied and the full prep timeline, on <a href=\"https://yetmike.com/b",
-    "link": "https://dev.to/yetmike/certified-backstage-associate-i-passed-by-five-points-4hmm",
+    "title": "Beyond Test Automation: A Balanced Testing Strategy and Five Companies to Consider",
+    "desc": "<p>A regression suite can pass while customers still encounter confusing workflows, broken interactions, or unexpected failures. Automated c",
+    "link": "https://dev.to/claire_p/beyond-test-automation-a-balanced-testing-strategy-and-five-companies-to-consider-5ehb",
+    "topic": "general"
+  },
+  {
+    "title": "AI-Generated Code in Pull Requests Often Overlooks Infrastructure and DevOps Needs, Leading to Rejections and Team Friction",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The rise of AI-generated code has undeniably transformed how developers approach their craft. Tools like",
+    "link": "https://dev.to/maricode/ai-generated-code-in-pull-requests-often-overlooks-infrastructure-and-devops-needs-leading-to-1gon",
+    "topic": "general"
+  },
+  {
+    "title": "A Claude Max billing error is what finally made me stop running agents on chat subscriptions",
+    "desc": "<p>I didn\u2019t stop using Claude because Claude was bad.</p>\n\n<p>I stopped putting agent workloads on consumer chat plans because I got tired o",
+    "link": "https://dev.to/lars_winstand/a-claude-max-billing-error-is-what-finally-made-me-stop-running-agents-on-chat-subscriptions-e1",
+    "topic": "anthropic"
+  },
+  {
+    "title": "LG's immersion-cooling agreement puts the testbed before the deployment promise",
+    "desc": "<p>Immersion cooling changes the relationship between a server and its surroundings. The equipment, cooling fluid, tank and service process ",
+    "link": "https://dev.to/da-li-at-pl/lgs-immersion-cooling-agreement-puts-the-testbed-before-the-deployment-promise-3d5p",
+    "topic": "general"
+  },
+  {
+    "title": "From LocalStack to Production: What Changes When Your AWS Code Runs for Real",
+    "desc": "<p>Your Terraform applies cleanly against LocalStack. Your boto3 tests pass against Floci or Moto. The code is written, the CI pipeline is g",
+    "link": "https://dev.to/toddyholiday/from-localstack-to-production-what-changes-when-your-aws-code-runs-for-real-p0b",
+    "topic": "aws"
+  },
+  {
+    "title": "Reliable API Workflows: Retries, Secrets, Traces",
+    "desc": "<p>Calling an API takes about five lines of code. It works on your laptop, you feel good, and you ship it.</p>\n\n<p>Then production shows up.",
+    "link": "https://dev.to/unmeshed/reliable-api-workflows-retries-secrets-traces-4ich",
+    "topic": "general"
+  },
+  {
+    "title": "WordPress Plugin Guard: Your Plugin Changed Overnight. It Did Not Leave a Note.",
+    "desc": "<p>At 08:57, the website works.</p>\n\n<p>At 08:58, someone says, \u201cI only updated one plugin.\u201d</p>\n\n<p>At 09:03, the checkout has become a phi",
+    "link": "https://dev.to/matrixswarm/wordpress-plugin-guard-your-plugin-changed-overnight-it-did-not-leave-a-note-26g9",
     "topic": "general"
   }
 ]
