@@ -1,50 +1,50 @@
 [
   {
-    "title": "GitHub Actions: Unraveling the 'Zero Steps & BlobNotFound' Mystery for Enhanced Productivity",
-    "desc": "<h2>\n  \n  \n  When GitHub Actions Jobs Fail Before They Even Start: The Zero Steps & BlobNotFound Mystery\n</h2>\n\n<p>Imagine your GitHub Actio",
-    "link": "https://dev.to/devactivity/github-actions-unraveling-the-zero-steps-blobnotfound-mystery-for-enhanced-productivity-5703",
+    "title": "Kubernetes: un presupuesto para emails de prueba",
+    "desc": "<p>Un flujo de verificaci\u00f3n de email en CI puede parecer peque\u00f1o hasta que un pod queda esperando una se\u00f1al que nunca llega. Este patr\u00f3n ayu",
+    "link": "https://dev.to/alexcarteruk/kubernetes-un-presupuesto-para-emails-de-prueba-3e96",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Gating Cloudflare Worker Deployments With CI",
+    "desc": "<p>Automated build systems often deploy code immediately on merge without waiting for external quality gates to finish. </p>\n\n<p><strong>Qui",
+    "link": "https://dev.to/raylabs/gating-cloudflare-worker-deployments-with-ci-3npm",
     "topic": "general"
   },
   {
-    "title": "Read-Only by Construction: The Guard in Front of Every AWS Call",
-    "desc": "<p><em>Originally published on the <a href=\"https://cloudcostwise.io/blog/read-only-by-construction-guard-in-front-of-every-aws-call?utm_sou",
-    "link": "https://dev.to/cloudwiseteam/read-only-by-construction-the-guard-in-front-of-every-aws-call-3f7f",
-    "topic": "aws"
+    "title": "A free Docker Compose healthcheck generator (Postgres, Redis, MySQL, MongoDB)",
+    "desc": "<p>After writing up Compose healthchecks for Postgres, I kept rewriting the same block for other databases, so I made a small single-page ge",
+    "link": "https://dev.to/anthany_wingo_195f7057a9e/a-free-docker-compose-healthcheck-generator-postgres-redis-mysql-mongodb-705",
+    "topic": "docker"
   },
   {
-    "title": "My Machine Has No mail Command. That's Where Most Disk Alerts Die.",
-    "desc": "<p>I recently found that the disk check on my own Linux machine had been printing <code>WARNING: Disk at 88%</code> into nothing: cron's jou",
-    "link": "https://dev.to/bashsnippets/my-machine-has-no-mail-command-thats-where-most-disk-alerts-die-mj",
+    "title": "I Used to Think Software Testing Was Unnecessary. Then I Started Building My Own Project.",
+    "desc": "<p>I used to think writing unit tests, E2E tests, and maintaining a proper testing suite was unnecessary for most projects.</p>\n\n<p><strong>",
+    "link": "https://dev.to/buildshreyansh/i-used-to-think-software-testing-was-unnecessary-then-i-started-building-my-own-project-o33",
     "topic": "general"
   },
   {
-    "title": "The 4 kinds of ALTER TABLE that cause production incidents (and a 5-minute review for each)",
-    "desc": "<p>A migration that runs fine on your laptop's empty database can still fail, or do real damage, in production. Production has data, traffic",
-    "link": "https://dev.to/sayonilmitra/the-4-kinds-of-alter-table-that-cause-production-incidents-and-a-5-minute-review-for-each-5gog",
-    "topic": "secops"
-  },
-  {
-    "title": "DigitalOcean costs 30-40% more than Hetzner for Node.js \u2014 is the premium worth it?",
-    "desc": "<p>After benchmarking Hetzner vs DigitalOcean for Node.js, I kept getting the same question: \"but what about support and dashboard UX?\" Here",
-    "link": "https://dev.to/vpsfordev/digitalocean-costs-30-40-more-than-hetzner-for-nodejs-is-the-premium-worth-it-1i4b",
+    "title": "64-Day Certificates Are Coming: Two Small Tweaks to Your Renewal Logic",
+    "desc": "<p>Let's Encrypt is dropping certificate validity from 90 days to 64 days starting February 2027. If you're like me, your first thought was ",
+    "link": "https://dev.to/schiff_heimlich/64-day-certificates-are-coming-two-small-tweaks-to-your-renewal-logic-4nfm",
     "topic": "general"
   },
   {
-    "title": "El despliegue sali\u00f3 bien hasta que alguien pidi\u00f3 repetirlo",
-    "desc": "<p>Caso hipot\u00e9tico. Un jueves a las 18:14 el equipo publica una versi\u00f3n sin errores. Las pruebas pasan, la web responde y el cliente felicit",
-    "link": "https://dev.to/pedrinquitico/el-despliegue-salio-bien-hasta-que-alguien-pidio-repetirlo-5h8o",
+    "title": "How Databricks is disrupting Retail and E-Commerce with LTAP direct writes: OLTP and OLAP working together without overwhelming your application",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/harish_shenoy_7e4b5944d2f/how-databricks-is-disrupting-retail-and-e-commerce-with-ltap-direct-writes-oltp-and-olap-working-20ia",
     "topic": "general"
   },
   {
-    "title": "Cilium mTLS ztunnel: Sidecar-Free Encryption Explained",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/cilium-native-mtls-ztunnel/\" rel=\"noopener noreferrer\">DevToolHub</a",
-    "link": "https://dev.to/amareswer/cilium-mtls-ztunnel-sidecar-free-encryption-explained-nke",
+    "title": "Your timestamp proves \"no later than.\" What proves \"no earlier than\"?",
+    "desc": "<p>When you timestamp a file, what does that timestamp actually say about <em>when the file was made</em>?</p>\n\n<p>The obvious answer is \"wh",
+    "link": "https://dev.to/craig_solomon/your-timestamp-proves-no-later-than-what-proves-no-earlier-than-54m0",
     "topic": "general"
   },
   {
-    "title": "Best practices for implementing LLM access controls and monitoring",
-    "desc": "<h2>\n  \n  \n  The question\n</h2>\n\n<p>Engineers ask a specific question about LLM access controls: where does the control belong, and what doe",
-    "link": "https://dev.to/resk/best-practices-for-implementing-llm-access-controls-and-monitoring-ele",
+    "title": "Day 63: Two Tiers and a Root Key",
+    "desc": "<p>Day 63 of DevOps, Day 13 of Azure. Both tasks today had something already written before I arrived. Kubernetes filled in resource request",
+    "link": "https://dev.to/ndcodes/day-63-two-tiers-and-a-root-key-33d",
     "topic": "general"
   }
 ]
