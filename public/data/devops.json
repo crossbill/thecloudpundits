@@ -1,50 +1,50 @@
 [
   {
-    "title": "Catching Terraform Drift Early: Scheduled Plans in GitHub Actions with AWS OIDC (No Long-Lived Keys)",
-    "desc": "<p>Terraform state describes what you <em>think</em> is deployed. Drift is the gap between that and reality: someone changes a security grou",
-    "link": "https://dev.to/team_bytebridgetalentllc/catching-terraform-drift-early-scheduled-plans-in-github-actions-with-aws-oidc-no-long-lived-keys-1l1e",
+    "title": "Freelance Developer vs IT Agency in Kerala: Which Model Works Best for Startups?",
+    "desc": "<h3>\n  \n  \n  Technical Velocity vs Agency Overhead: The Engineering Dilemma\n</h3>\n\n<p>Building a modern tech product\u2014whether an enterprise N",
+    "link": "https://dev.to/abinschandran/freelance-developer-vs-it-agency-in-kerala-which-model-works-best-for-startups-1cbh",
+    "topic": "general"
+  },
+  {
+    "title": "ripgrep Missed the CSV Files. I Almost Designed a Collector We Already Had.",
+    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/ripgrep-missed-existing-search-console-csv.html\" rel=\"noopener nor",
+    "link": "https://dev.to/hexisteme/ripgrep-missed-the-csv-files-i-almost-designed-a-collector-we-already-had-5abl",
+    "topic": "general"
+  },
+  {
+    "title": "How to get a free address for your website today",
+    "desc": "<p>Following legal pressures, free domain extensions like.tk and.ml have been discontinued.</p>\n\n<p>This change highlights a shift toward pl",
+    "link": "https://dev.to/hacksgr/how-to-get-a-free-address-for-your-website-today-3m2",
+    "topic": "general"
+  },
+  {
+    "title": "The 3am alarm nobody logged: building incident accountability for shops",
+    "desc": "<p>The alarm goes off at 3am. By the morning, three people can tell you three different things about what happened, and none of them can sho",
+    "link": "https://dev.to/mauitechhub/the-3am-alarm-nobody-logged-building-incident-accountability-for-shops-31ek",
+    "topic": "secops"
+  },
+  {
+    "title": "Zero-Downtime Hot Backups & Safe Migration for Proxy Panels (3X-UI, Marzban, Hiddify)",
+    "desc": "<h1>\n  \n  \n  Zero-Downtime Hot Backups & Safe Migration for Proxy Management Panels\n</h1>\n\n<p>When managing distributed network proxy server",
+    "link": "https://dev.to/dalroot/zero-downtime-hot-backups-safe-migration-for-proxy-panels-3x-ui-marzban-hiddify-1en8",
+    "topic": "general"
+  },
+  {
+    "title": "Stop your app from starting before Postgres is ready: Compose healthchecks done right",
+    "desc": "<p>A common Docker Compose bug: the app container starts, tries to connect to the database, and crashes because Postgres is still initializi",
+    "link": "https://dev.to/anthany_wingo_195f7057a9e/stop-your-app-from-starting-before-postgres-is-ready-compose-healthchecks-done-right-1nmp",
+    "topic": "general"
+  },
+  {
+    "title": "Hands-On AWS: Spin Up IAM, S3 and a Jenkins Server on EC2 (and Fix What Breaks)",
+    "desc": "<blockquote>\n<h2>\n  \n  \n  <em>A step-by-step AWS lab with lots screenshots: create and delete an IAM user, host a site on S3, launch an EC2 ",
+    "link": "https://dev.to/4thman/hands-on-aws-spin-up-iam-s3-and-a-jenkins-server-on-ec2-and-fix-what-breaks-45h4",
     "topic": "aws"
   },
   {
-    "title": "When Keycloak's Event Store Runs on Defaults Without `enabled_event_types`",
-    "desc": "<p><em>Keycloak 26.7.4 + keycloak provider v5.9.0, <code>enabled_event_types</code> omitted (\"Omitting this field enables all event types\"):",
-    "link": "https://dev.to/whenitruns/when-keycloaks-event-store-runs-on-defaults-without-enabledeventtypes-g8f",
-    "topic": "general"
-  },
-  {
-    "title": "We pinned our own domain to 127.0.0.1 and our SSRF guard ate two days of voice notes",
-    "desc": "<p>I build DOS AI (dosai.pro), an AI assistant that answers a small business's customers in WhatsApp, Instagram and Telegram and keeps the l",
-    "link": "https://dev.to/dosai/we-pinned-our-own-domain-to-127001-and-our-ssrf-guard-ate-two-days-of-voice-notes-2jd3",
-    "topic": "general"
-  },
-  {
-    "title": "A Reusable Terraform Module for Secure S3 Buckets, with Remote State and CI Plan Checks",
-    "desc": "<p>Copy-pasting S3 bucket resources between projects is how buckets end up unencrypted, public, or unversioned. A small module turns your te",
-    "link": "https://dev.to/team_bytebridgetalentllc/a-reusable-terraform-module-for-secure-s3-buckets-with-remote-state-and-ci-plan-checks-442m",
-    "topic": "terraform"
-  },
-  {
-    "title": "What Happens When Developers Don't Know Which Configuration Steps Remain Their Responsibility",
-    "desc": "<p>What Happens When Developers Don't Know Which Configuration Steps Remain Their Responsibility</p>\n\n<p>A platform automatically configures",
-    "link": "https://dev.to/nwajichukwu_goodness_audit/what-happens-when-developers-dont-know-which-configuration-steps-remain-their-responsibility-35hj",
-    "topic": "general"
-  },
-  {
-    "title": "Nginx Unleashed: From Static Site Serving to Dynamic Load Balancing",
-    "desc": "<h1>\n  \n  \n  Nginx Unleashed: From Static Site Serving to Dynamic Load Balancing\n</h1>\n\n<p>Nginx (pronounced \u201cengine\u2011x\u201d) has become the de\u2011f",
-    "link": "https://dev.to/ukasha_mahir_84eeb71db239/nginx-unleashed-from-static-site-serving-to-dynamic-load-balancing-164b",
-    "topic": "general"
-  },
-  {
-    "title": "Git Like a Ninja: Advanced Branching & Automation Techniques",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>If you\u2019ve been using Git for a while, you probably know the basics: <code>add</code>, <code>commit</code",
-    "link": "https://dev.to/ukasha_mahir_84eeb71db239/git-like-a-ninja-advanced-branching-automation-techniques-27h5",
-    "topic": "general"
-  },
-  {
-    "title": "Works on desktop, fails on phones: the post-quantum TLS bug hiding in your network card",
-    "desc": "<p>Modern browsers now send a larger TLS hello. On some Windows servers, a receive-offload bug in the network card silently breaks about hal",
-    "link": "https://dev.to/bookmyhost/works-on-desktop-fails-on-phones-the-post-quantum-tls-bug-hiding-in-your-network-card-4pln",
+    "title": "Certified Backstage Associate: I Passed by Five Points",
+    "desc": "<blockquote>\n<p>I wrote the longer version, with every config detail I studied and the full prep timeline, on <a href=\"https://yetmike.com/b",
+    "link": "https://dev.to/yetmike/certified-backstage-associate-i-passed-by-five-points-4hmm",
     "topic": "general"
   }
 ]
