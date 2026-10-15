@@ -1,50 +1,50 @@
 [
   {
-    "title": "Multi-Account AWS Networking: Shared VPC, RAM, and the Hub-and-Spoke Model",
-    "desc": "<p>Once an AWS Organization crosses a handful of accounts, the question stops being how to connect VPCs and becomes who owns the network at ",
-    "link": "https://dev.to/aloknecessary/multi-account-aws-networking-shared-vpc-ram-and-the-hub-and-spoke-model-35ck",
+    "title": "GitHub Actions: Unraveling the 'Zero Steps & BlobNotFound' Mystery for Enhanced Productivity",
+    "desc": "<h2>\n  \n  \n  When GitHub Actions Jobs Fail Before They Even Start: The Zero Steps & BlobNotFound Mystery\n</h2>\n\n<p>Imagine your GitHub Actio",
+    "link": "https://dev.to/devactivity/github-actions-unraveling-the-zero-steps-blobnotfound-mystery-for-enhanced-productivity-5703",
+    "topic": "general"
+  },
+  {
+    "title": "Read-Only by Construction: The Guard in Front of Every AWS Call",
+    "desc": "<p><em>Originally published on the <a href=\"https://cloudcostwise.io/blog/read-only-by-construction-guard-in-front-of-every-aws-call?utm_sou",
+    "link": "https://dev.to/cloudwiseteam/read-only-by-construction-the-guard-in-front-of-every-aws-call-3f7f",
     "topic": "aws"
   },
   {
-    "title": "Beyond Test Automation: A Balanced Testing Strategy and Five Companies to Consider",
-    "desc": "<p>A regression suite can pass while customers still encounter confusing workflows, broken interactions, or unexpected failures. Automated c",
-    "link": "https://dev.to/claire_p/beyond-test-automation-a-balanced-testing-strategy-and-five-companies-to-consider-5ehb",
+    "title": "My Machine Has No mail Command. That's Where Most Disk Alerts Die.",
+    "desc": "<p>I recently found that the disk check on my own Linux machine had been printing <code>WARNING: Disk at 88%</code> into nothing: cron's jou",
+    "link": "https://dev.to/bashsnippets/my-machine-has-no-mail-command-thats-where-most-disk-alerts-die-mj",
     "topic": "general"
   },
   {
-    "title": "AI-Generated Code in Pull Requests Often Overlooks Infrastructure and DevOps Needs, Leading to Rejections and Team Friction",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>The rise of AI-generated code has undeniably transformed how developers approach their craft. Tools like",
-    "link": "https://dev.to/maricode/ai-generated-code-in-pull-requests-often-overlooks-infrastructure-and-devops-needs-leading-to-1gon",
+    "title": "The 4 kinds of ALTER TABLE that cause production incidents (and a 5-minute review for each)",
+    "desc": "<p>A migration that runs fine on your laptop's empty database can still fail, or do real damage, in production. Production has data, traffic",
+    "link": "https://dev.to/sayonilmitra/the-4-kinds-of-alter-table-that-cause-production-incidents-and-a-5-minute-review-for-each-5gog",
+    "topic": "secops"
+  },
+  {
+    "title": "DigitalOcean costs 30-40% more than Hetzner for Node.js \u2014 is the premium worth it?",
+    "desc": "<p>After benchmarking Hetzner vs DigitalOcean for Node.js, I kept getting the same question: \"but what about support and dashboard UX?\" Here",
+    "link": "https://dev.to/vpsfordev/digitalocean-costs-30-40-more-than-hetzner-for-nodejs-is-the-premium-worth-it-1i4b",
     "topic": "general"
   },
   {
-    "title": "A Claude Max billing error is what finally made me stop running agents on chat subscriptions",
-    "desc": "<p>I didn\u2019t stop using Claude because Claude was bad.</p>\n\n<p>I stopped putting agent workloads on consumer chat plans because I got tired o",
-    "link": "https://dev.to/lars_winstand/a-claude-max-billing-error-is-what-finally-made-me-stop-running-agents-on-chat-subscriptions-e1",
-    "topic": "anthropic"
-  },
-  {
-    "title": "LG's immersion-cooling agreement puts the testbed before the deployment promise",
-    "desc": "<p>Immersion cooling changes the relationship between a server and its surroundings. The equipment, cooling fluid, tank and service process ",
-    "link": "https://dev.to/da-li-at-pl/lgs-immersion-cooling-agreement-puts-the-testbed-before-the-deployment-promise-3d5p",
+    "title": "El despliegue sali\u00f3 bien hasta que alguien pidi\u00f3 repetirlo",
+    "desc": "<p>Caso hipot\u00e9tico. Un jueves a las 18:14 el equipo publica una versi\u00f3n sin errores. Las pruebas pasan, la web responde y el cliente felicit",
+    "link": "https://dev.to/pedrinquitico/el-despliegue-salio-bien-hasta-que-alguien-pidio-repetirlo-5h8o",
     "topic": "general"
   },
   {
-    "title": "From LocalStack to Production: What Changes When Your AWS Code Runs for Real",
-    "desc": "<p>Your Terraform applies cleanly against LocalStack. Your boto3 tests pass against Floci or Moto. The code is written, the CI pipeline is g",
-    "link": "https://dev.to/toddyholiday/from-localstack-to-production-what-changes-when-your-aws-code-runs-for-real-p0b",
-    "topic": "aws"
-  },
-  {
-    "title": "Reliable API Workflows: Retries, Secrets, Traces",
-    "desc": "<p>Calling an API takes about five lines of code. It works on your laptop, you feel good, and you ship it.</p>\n\n<p>Then production shows up.",
-    "link": "https://dev.to/unmeshed/reliable-api-workflows-retries-secrets-traces-4ich",
+    "title": "Cilium mTLS ztunnel: Sidecar-Free Encryption Explained",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/cilium-native-mtls-ztunnel/\" rel=\"noopener noreferrer\">DevToolHub</a",
+    "link": "https://dev.to/amareswer/cilium-mtls-ztunnel-sidecar-free-encryption-explained-nke",
     "topic": "general"
   },
   {
-    "title": "WordPress Plugin Guard: Your Plugin Changed Overnight. It Did Not Leave a Note.",
-    "desc": "<p>At 08:57, the website works.</p>\n\n<p>At 08:58, someone says, \u201cI only updated one plugin.\u201d</p>\n\n<p>At 09:03, the checkout has become a phi",
-    "link": "https://dev.to/matrixswarm/wordpress-plugin-guard-your-plugin-changed-overnight-it-did-not-leave-a-note-26g9",
+    "title": "Best practices for implementing LLM access controls and monitoring",
+    "desc": "<h2>\n  \n  \n  The question\n</h2>\n\n<p>Engineers ask a specific question about LLM access controls: where does the control belong, and what doe",
+    "link": "https://dev.to/resk/best-practices-for-implementing-llm-access-controls-and-monitoring-ele",
     "topic": "general"
   }
 ]
