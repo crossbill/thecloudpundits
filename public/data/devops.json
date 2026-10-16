@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes CI: Lease Test Mailboxes, Don't Retry Blindly",
-    "desc": "<p>Email verification tests become unreliable when the mailbox is treated like an ordinary HTTP dependency. A pipeline sends a message, wait",
-    "link": "https://dev.to/jasonmills94/kubernetes-ci-lease-test-mailboxes-dont-retry-blindly-2ffn",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "5 WordPress Migration Mistakes That Can Cause Website Downtime",
-    "desc": "<p><em>Your new hosting environment is ready. The WordPress files have been transferred. The homepage loads perfectly.</em></p>\n\n<p><em>Then",
-    "link": "https://dev.to/webiost/5-wordpress-migration-mistakes-that-can-cause-website-downtime-h6b",
+    "title": "Postmortem: An HTML Interstitial Certified an Empty Diff Summary",
+    "desc": "<p><strong>Conclusion first:</strong> a release gate checked HTTP status and body truthiness. An HTML login page returned with <code>200 OK<",
+    "link": "https://dev.to/bytepro_1774/postmortem-an-html-interstitial-certified-an-empty-diff-summary-18md",
     "topic": "general"
   },
   {
-    "title": "Trust, but Verify: Building a Claim Checker for AI Coding Agents",
-    "desc": "<p>Tu\u1ea7n tr\u01b0\u1edbc m\u00ecnh giao cho m\u1ed9t coding agent s\u1eeda bug trong module thanh to\u00e1n. M\u01b0\u1eddi ph\u00fat sau n\u00f3 b\u00e1o c\u00e1o r\u1ea5t t\u1ef1 tin: <em>\"\u0110\u00e3 s\u1eeda <code>billing",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/trust-but-verify-building-a-claim-checker-for-ai-coding-agents-3477",
+    "title": "Timebox Your First PR: A 90-Minute Onboarding Log for New Repos",
+    "desc": "<p>Most first PRs fail for process reasons, not coding reasons.</p>\n\n<p>The fix is cheap. Log your first 90 minutes in a new repo. Then atta",
+    "link": "https://dev.to/gitgo_5662/timebox-your-first-pr-a-90-minute-onboarding-log-for-new-repos-3p1e",
     "topic": "general"
   },
   {
-    "title": "VACUUM FULL Locks Your Table the Whole Time. Postgres 19's REPACK CONCURRENTLY Doesn't",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GYLMVX9S\" rel=\"noopener noreferrer\">Database Playbook</a>\n</li>\n<li>\n<",
-    "link": "https://dev.to/gabrielanhaia/vacuum-full-locks-your-table-the-whole-time-postgres-19s-repack-concurrently-doesnt-186",
+    "title": "Cold-Cache Replay: The Only Retry That Should Reach Your Merge Queue",
+    "desc": "<h1>\n  \n  \n  Cold-Cache Replay: The Only Retry That Should Reach Your Merge Queue\n</h1>\n\n<p>A retry counts as evidence only when it replays ",
+    "link": "https://dev.to/codego_3211/cold-cache-replay-the-only-retry-that-should-reach-your-merge-queue-o47",
     "topic": "general"
   },
   {
-    "title": "Postgres \"could not resize shared memory segment: No space left on device\" in Docker: Why It Happens and How to Fix It",
-    "desc": "<p><strong>Short answer:</strong> this error means a parallel query tried to allocate more shared memory than the container's <code>/dev/shm",
-    "link": "https://dev.to/libme/postgres-could-not-resize-shared-memory-segment-no-space-left-on-device-in-docker-why-it-54cg",
-    "topic": "docker"
-  },
-  {
-    "title": "Myth FAQ: Retry Is Not Free \u2014 Five Duplicate-Work Traps",
-    "desc": "<h1>\n  \n  \n  Myth FAQ: Retry Is Not Free \u2014 Five Duplicate-Work Traps\n</h1>\n\n<p>A worker of mine died mid-task at 2am. The retry ran clean. T",
-    "link": "https://dev.to/gitlab_3188/myth-faq-retry-is-not-free-five-duplicate-work-traps-5gh0",
+    "title": "What Your Free Server Learns From a Clean Run",
+    "desc": "<p>If your prompt carries no secrets and your run still leaves a trail, then you modeled the payload and not the boundary. A rented runtime ",
+    "link": "https://dev.to/devrs_886/what-your-free-server-learns-from-a-clean-run-4kho",
     "topic": "general"
   },
   {
-    "title": "Why AWS Cost Forecasts Fail: Cleaning Up Orphaned EBS and Idle EC2 Before Buying Savings Plans",
-    "desc": "<p>Three questions keep coming up among cloud engineers and FinOps practitioners right now:</p>\n\n<ol>\n<li><em>Why do our cloud cost forecast",
-    "link": "https://dev.to/ace7coder/why-aws-cost-forecasts-fail-cleaning-up-orphaned-ebs-and-idle-ec2-before-buying-savings-plans-4cn9",
-    "topic": "aws"
+    "title": "Coolify (Hetzner) vs Vercel Pro vs Render (2026): Self-Hosted AI SaaS Cloud & Bandwidth TCO Benchmark",
+    "desc": "<p>Running production AI SaaS applications in 2026 involves more than serverless frontend routes. Between persistent WebSocket connections, ",
+    "link": "https://dev.to/artem_varganich/coolify-hetzner-vs-vercel-pro-vs-render-2026-self-hosted-ai-saas-cloud-bandwidth-tco-3pp5",
+    "topic": "general"
   },
   {
-    "title": "Vitest 4 to 5 on a 3,000-file test suite: what the upgrade bought us",
-    "desc": "<p>We moved our test runner from Vitest 4.1.8 to Vitest 5.0.4 this week. This is what the upgrade cost, what broke, and what it bought us, m",
-    "link": "https://dev.to/vousmeevoyez/vitest-4-to-5-on-a-3000-file-test-suite-what-the-upgrade-bought-us-246j",
+    "title": "Retries Are Rent",
+    "desc": "<p>Your retry loop does not bill you in tokens. It bills you in seconds you cannot buy back, and free capacity is the one lane where the sec",
+    "link": "https://dev.to/hackrs_3352/retries-are-rent-2o27",
+    "topic": "general"
+  },
+  {
+    "title": "Case Study: A Nightly Maintenance Worker That Rebuilds Its Own State After Every Restart",
+    "desc": "<p>A nightly maintenance worker needs very little: a process that starts on schedule, one file of durable state, and a cheap way to label wh",
+    "link": "https://dev.to/devrs_9381/case-study-a-nightly-maintenance-worker-that-rebuilds-its-own-state-after-every-restart-4lnh",
+    "topic": "general"
+  },
+  {
+    "title": "Evidence Expires: A Fail-Closed Readiness Checklist with TTLs for Free-Tier AI Builds",
+    "desc": "<p>A gate that passed last month is not a gate. It is a receipt for a system that no longer exists.</p>\n\n<p>That is the failure mode this ch",
+    "link": "https://dev.to/codecpp_5026/evidence-expires-a-fail-closed-readiness-checklist-with-ttls-for-free-tier-ai-builds-p08",
     "topic": "general"
   }
 ]
