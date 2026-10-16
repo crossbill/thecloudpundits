@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kubernetes CI: Lease Test Mailboxes, Don't Retry Blindly",
+    "desc": "<p>Email verification tests become unreliable when the mailbox is treated like an ordinary HTTP dependency. A pipeline sends a message, wait",
+    "link": "https://dev.to/jasonmills94/kubernetes-ci-lease-test-mailboxes-dont-retry-blindly-2ffn",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "5 WordPress Migration Mistakes That Can Cause Website Downtime",
+    "desc": "<p><em>Your new hosting environment is ready. The WordPress files have been transferred. The homepage loads perfectly.</em></p>\n\n<p><em>Then",
+    "link": "https://dev.to/webiost/5-wordpress-migration-mistakes-that-can-cause-website-downtime-h6b",
+    "topic": "general"
+  },
+  {
+    "title": "Trust, but Verify: Building a Claim Checker for AI Coding Agents",
+    "desc": "<p>Tu\u1ea7n tr\u01b0\u1edbc m\u00ecnh giao cho m\u1ed9t coding agent s\u1eeda bug trong module thanh to\u00e1n. M\u01b0\u1eddi ph\u00fat sau n\u00f3 b\u00e1o c\u00e1o r\u1ea5t t\u1ef1 tin: <em>\"\u0110\u00e3 s\u1eeda <code>billing",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/trust-but-verify-building-a-claim-checker-for-ai-coding-agents-3477",
+    "topic": "general"
+  },
+  {
+    "title": "VACUUM FULL Locks Your Table the Whole Time. Postgres 19's REPACK CONCURRENTLY Doesn't",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GYLMVX9S\" rel=\"noopener noreferrer\">Database Playbook</a>\n</li>\n<li>\n<",
+    "link": "https://dev.to/gabrielanhaia/vacuum-full-locks-your-table-the-whole-time-postgres-19s-repack-concurrently-doesnt-186",
+    "topic": "general"
+  },
+  {
+    "title": "Postgres \"could not resize shared memory segment: No space left on device\" in Docker: Why It Happens and How to Fix It",
+    "desc": "<p><strong>Short answer:</strong> this error means a parallel query tried to allocate more shared memory than the container's <code>/dev/shm",
+    "link": "https://dev.to/libme/postgres-could-not-resize-shared-memory-segment-no-space-left-on-device-in-docker-why-it-54cg",
+    "topic": "docker"
+  },
+  {
+    "title": "Myth FAQ: Retry Is Not Free \u2014 Five Duplicate-Work Traps",
+    "desc": "<h1>\n  \n  \n  Myth FAQ: Retry Is Not Free \u2014 Five Duplicate-Work Traps\n</h1>\n\n<p>A worker of mine died mid-task at 2am. The retry ran clean. T",
+    "link": "https://dev.to/gitlab_3188/myth-faq-retry-is-not-free-five-duplicate-work-traps-5gh0",
+    "topic": "general"
+  },
+  {
     "title": "Why AWS Cost Forecasts Fail: Cleaning Up Orphaned EBS and Idle EC2 Before Buying Savings Plans",
     "desc": "<p>Three questions keep coming up among cloud engineers and FinOps practitioners right now:</p>\n\n<ol>\n<li><em>Why do our cloud cost forecast",
     "link": "https://dev.to/ace7coder/why-aws-cost-forecasts-fail-cleaning-up-orphaned-ebs-and-idle-ec2-before-buying-savings-plans-4cn9",
@@ -9,42 +45,6 @@
     "title": "Vitest 4 to 5 on a 3,000-file test suite: what the upgrade bought us",
     "desc": "<p>We moved our test runner from Vitest 4.1.8 to Vitest 5.0.4 this week. This is what the upgrade cost, what broke, and what it bought us, m",
     "link": "https://dev.to/vousmeevoyez/vitest-4-to-5-on-a-3000-file-test-suite-what-the-upgrade-bought-us-246j",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes Pod Churn & Node Thrashing: Ephemeral Storage Exhaustion and Eviction Cascades",
-    "desc": "<p>When background worker pods continuously write temporary scratch files, un-rotated log buffers, or dynamic assets directly to container f",
-    "link": "https://dev.to/usman_khan_io/kubernetes-pod-churn-node-thrashing-ephemeral-storage-exhaustion-and-eviction-cascades-4035",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Worktree lifecycle for AI agents",
-    "desc": "<h2>\n  \n  \n  The problem is not creating worktrees, but managing them\n</h2>\n\n<p>When two or more agents work in parallel on different featur",
-    "link": "https://dev.to/saez520/worktree-lifecycle-for-ai-agents-1ooo",
-    "topic": "general"
-  },
-  {
-    "title": "About Me",
-    "desc": "<blockquote>\n<p><em>\"Ingin menjadi AI Engineer namun hobi vibe coding.\"</em></p>\n</blockquote>\n\n<p>\u00b7 \u00b7 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u00b7 \u00b7</p>\n\n<p><em>Cloud ",
-    "link": "https://dev.to/malfurra/about-me-286j",
-    "topic": "general"
-  },
-  {
-    "title": "I published my first GitHub Action. Five things I'd tell myself first",
-    "desc": "<p>This week I published my first GitHub Action to the Marketplace. It's a small one: a composite action that runs a CLI I maintain, pinned ",
-    "link": "https://dev.to/utsavmishra25/i-published-my-first-github-action-five-things-id-tell-myself-first-1ap5",
-    "topic": "general"
-  },
-  {
-    "title": "Kill the bug class, not just the bug",
-    "desc": "<p>The dry run said the reminder text would go out to a customer with the window \"12PM\u20132PM.\" The actual appointment was 8AM\u201310AM. Four hours",
-    "link": "https://dev.to/hermesthevaliant/kill-the-bug-class-not-just-the-bug-3emg",
-    "topic": "general"
-  },
-  {
-    "title": "I tested my own docs like a stranger. They failed 24 times.",
-    "desc": "<p>I wrote a monitoring stack (Prometheus, Grafana, Alertmanager) and a README that says \"it just works\". It had always worked on my own ser",
-    "link": "https://dev.to/airat71/i-tested-my-own-docs-like-a-stranger-they-failed-24-times-1ekf",
     "topic": "general"
   }
 ]
