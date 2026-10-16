@@ -1,50 +1,50 @@
 [
   {
-    "title": "Seeing Into a Talos Cluster: The Observability Stack I Actually Run",
-    "desc": "<p><em>Originally published on <a href=\"https://blog.nordbye.it/blog/observability-stack/\" rel=\"noopener noreferrer\">blog.nordbye.it</a>. Th",
-    "link": "https://dev.to/mortennordbye/seeing-into-a-talos-cluster-the-observability-stack-i-actually-run-20ce",
+    "title": "Building a Web MVP That Does Not Collapse After the First 100 Users",
+    "desc": "<p>Most MVP architecture advice falls into one of two extremes.<br />\nThe first says, \u201cMove fast, because everything will be rewritten.\u201d The",
+    "link": "https://dev.to/kate_steeleeee/building-a-web-mvp-that-does-not-collapse-after-the-first-100-users-4p0",
     "topic": "general"
   },
   {
-    "title": "Locking Down Your Cluster: Rolling Out Cilium Network Policies Without Breaking Everything",
-    "desc": "<p><em>Originally published on <a href=\"https://blog.nordbye.it/blog/cilium-network-policy-rollout/\" rel=\"noopener noreferrer\">blog.nordbye.",
-    "link": "https://dev.to/mortennordbye/locking-down-your-cluster-rolling-out-cilium-network-policies-without-breaking-everything-335d",
+    "title": "Four GitHub Actions YAML traps I reproduced (and what a clean scan can't prove)",
+    "desc": "<p>I ran four deliberately small GitHub Actions workflows through a static YAML checker. Three produced findings; one didn't. The interestin",
+    "link": "https://dev.to/livasticvm2primary/four-github-actions-yaml-traps-i-reproduced-and-what-a-clean-scan-cant-prove-2hp8",
     "topic": "general"
   },
   {
-    "title": "Hire a Freelance Software Developer vs Agency in Kerala: Cost & Quality Breakdown",
-    "desc": "<h3>\n  \n  \n  Introduction\n</h3>\n\n<p>When launching an enterprise Next.js application, a high-performance Flutter mobile client, or a scalabl",
-    "link": "https://dev.to/abinschandran/hire-a-freelance-software-developer-vs-agency-in-kerala-cost-quality-breakdown-226o",
+    "title": "Show DEV: We open-sourced a filesystem where parallel agents can\u2019t overwrite each other",
+    "desc": "<p>We're Matthew and Matt, two developers who got tired of a problem and built a thing to fix it. We just open-sourced it (dual MIT/Apache-2",
+    "link": "https://dev.to/matt_dodd_7e51761a00ec6f5/show-dev-we-open-sourced-a-filesystem-where-parallel-agents-cant-overwrite-each-other-4ag6",
     "topic": "general"
   },
   {
-    "title": "Pourquoi nous avons cr\u00e9\u00e9 EnvoiSMS.ma : une vraie API SMS et WhatsApp direct op\u00e9rateur au Maroc",
-    "desc": "<p>On a lanc\u00e9 <a href=\"https://envoisms.ma\" rel=\"noopener noreferrer\">EnvoiSMS.ma</a> pour une raison simple : donner aux d\u00e9veloppeurs et en",
-    "link": "https://dev.to/naouri/pourquoi-nous-avons-cree-envoismsma-une-vraie-api-sms-et-whatsapp-direct-operateur-au-maroc-6ll",
+    "title": "How Residential Proxies Can Help With Regional Testing and Market Research",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/leroyvincent/how-residential-proxies-can-help-with-regional-testing-and-market-research-2fmh",
     "topic": "general"
   },
   {
-    "title": "Agents Are Breaching Real Systems, and Their Harnesses Are the Weak Point",
-    "desc": "<p><em>Humanbound's engine and CLI are open source: <a href=\"https://github.com/humanbound/humanbound\" rel=\"noopener noreferrer\">github.com/",
-    "link": "https://dev.to/humanbound_ai/agents-are-breaching-real-systems-and-their-harnesses-are-the-weak-point-1m0k",
-    "topic": "secops"
-  },
-  {
-    "title": "Seventeen environment variables, all of them secrets, and next build runs with none of them set",
-    "desc": "<p>Nakodo's entire environment contract is one 45 line file, and it opens with the two rules that produced it:<br />\n</p>\n\n<div class=\"highl",
-    "link": "https://dev.to/daniel_pertu/seventeen-environment-variables-all-of-them-secrets-and-next-build-runs-with-none-of-them-set-501d",
+    "title": "When agent volume breaks human-scale git (one practical move)",
+    "desc": "<p>Hi all, we're the team behind Leverlark, a free weekly newsletter on AI and automation for small teams. Sharing one \"play\" from this week",
+    "link": "https://dev.to/leverlarkhq/when-agent-volume-breaks-human-scale-git-one-practical-move-3h9h",
     "topic": "general"
   },
   {
-    "title": "A 200 OK Is Not Evidence: Five Hosted-Model Myths and a Three-Gate Probe",
-    "desc": "<p>One successful request feels like proof. It is not.</p>\n\n<p>You send a prompt. You get valid JSON back. You wire it into a nightly job.</",
-    "link": "https://dev.to/gitlab_3188/a-200-ok-is-not-evidence-five-hosted-model-myths-and-a-three-gate-probe-36n2",
+    "title": "Seguridad automatizada en la nube: integraci\u00f3n de Semgrep, Gitleaks y Trivy en un pipeline CI/CD",
+    "desc": "<p><strong>Por: Stevie Gerald Marca Aguilar y Usher Damiron Halanocca Rojas</strong></p>\n\n<p>Durante nuestro proyecto, integramos <strong>Se",
+    "link": "https://dev.to/stevie_geraldmarcaaguil/seguridad-automatizada-en-la-nube-integracion-de-semgrep-gitleaks-y-trivy-en-un-pipeline-cicd-1an",
     "topic": "general"
   },
   {
-    "title": "AI Is Now Your Security Auditor: What Anthropic's OSS Scanner Means for Open-Source Maintainers",
-    "desc": "<p>Your next security audit might not come from a human at all.</p>\n\n<p>Anthropic just launched its OSS Scanner program: open-source maintai",
-    "link": "https://dev.to/nile1news/ai-is-now-your-security-auditor-what-anthropics-oss-scanner-means-for-open-source-maintainers-2i42",
-    "topic": "anthropic"
+    "title": "Hardening an AWS EKS cluster: IRSA, NetworkPolicies, restricted Pod Security and Secrets Manager via CSI",
+    "desc": "<p>A freshly created EKS cluster works, but it's permissive. Every pod can reach every other pod, workloads can run as root, and the easy wa",
+    "link": "https://dev.to/someswarduddi/hardening-an-aws-eks-cluster-irsa-networkpolicies-restricted-pod-security-and-secrets-manager-249a",
+    "topic": "aws"
+  },
+  {
+    "title": "What Happens When a Web Server Runs Out of Memory?",
+    "desc": "<p>Hello, I\u2019m Arthur. When working with websites and applications, we usually focus on features, design, and performance. But there is one p",
+    "link": "https://dev.to/arthur_luca/what-happens-when-a-web-server-runs-out-of-memory-1neb",
+    "topic": "general"
   }
 ]
