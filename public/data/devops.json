@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building a Web MVP That Does Not Collapse After the First 100 Users",
-    "desc": "<p>Most MVP architecture advice falls into one of two extremes.<br />\nThe first says, \u201cMove fast, because everything will be rewritten.\u201d The",
-    "link": "https://dev.to/kate_steeleeee/building-a-web-mvp-that-does-not-collapse-after-the-first-100-users-4p0",
+    "title": "Dynamic GitHub Actions Dropdowns \u2014 A Clever Workaround Made Reusable!",
+    "desc": "<p>GitHub Actions doesn't natively support dynamically populated dropdown options for <code>workflow_dispatch</code> inputs. This can become",
+    "link": "https://dev.to/moyarich/dynamic-github-actions-dropdowns-a-clever-workaround-made-reusable-3od0",
     "topic": "general"
   },
   {
-    "title": "Four GitHub Actions YAML traps I reproduced (and what a clean scan can't prove)",
-    "desc": "<p>I ran four deliberately small GitHub Actions workflows through a static YAML checker. Three produced findings; one didn't. The interestin",
-    "link": "https://dev.to/livasticvm2primary/four-github-actions-yaml-traps-i-reproduced-and-what-a-clean-scan-cant-prove-2hp8",
+    "title": "Disclosure Doubled and Exploitation Followed: What GTIG's AI-Era Data Actually Shows",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Google Threat Intelligence Group published its first full dataset on how AI is changing the vulnerability",
+    "link": "https://dev.to/neticslabs/disclosure-doubled-and-exploitation-followed-what-gtigs-ai-era-data-actually-shows-1h5a",
     "topic": "general"
   },
   {
-    "title": "Show DEV: We open-sourced a filesystem where parallel agents can\u2019t overwrite each other",
-    "desc": "<p>We're Matthew and Matt, two developers who got tired of a problem and built a thing to fix it. We just open-sourced it (dual MIT/Apache-2",
-    "link": "https://dev.to/matt_dodd_7e51761a00ec6f5/show-dev-we-open-sourced-a-filesystem-where-parallel-agents-cant-overwrite-each-other-4ag6",
+    "title": "Stop running your whole .NET test suite on every pull request",
+    "desc": "<p>Every .NET codebase I have worked on hits the same wall sooner or later. The test suite grows, CI goes from three minutes to twenty, and ",
+    "link": "https://dev.to/selcukgural/stop-running-your-whole-net-test-suite-on-every-pull-request-5606",
     "topic": "general"
   },
   {
-    "title": "How Residential Proxies Can Help With Regional Testing and Market Research",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/leroyvincent/how-residential-proxies-can-help-with-regional-testing-and-market-research-2fmh",
+    "title": "How to Troubleshoot Blocked Ports on a Dedicated Server",
+    "desc": "<h2>\n  \n  \n  Understanding Port Errors (Diagnostic Table)\n</h2>\n\n<p>Before executing commands, analyze the exact error message from your cli",
+    "link": "https://dev.to/nyra-amsi/how-to-troubleshoot-blocked-ports-on-a-dedicated-server-1gen",
     "topic": "general"
   },
   {
-    "title": "When agent volume breaks human-scale git (one practical move)",
-    "desc": "<p>Hi all, we're the team behind Leverlark, a free weekly newsletter on AI and automation for small teams. Sharing one \"play\" from this week",
-    "link": "https://dev.to/leverlarkhq/when-agent-volume-breaks-human-scale-git-one-practical-move-3h9h",
+    "title": "What Is a Zombie Process in Linux? How Processes Become Stuck in the Process Table",
+    "desc": "<p>Imagine running a program in Linux, watching it finish, and then discovering that it still exists in the process table.</p>\n\n<p>It consum",
+    "link": "https://dev.to/aditya_d_sharma/what-is-a-zombie-process-in-linux-how-processes-become-stuck-in-the-process-table-4ka9",
     "topic": "general"
   },
   {
-    "title": "Seguridad automatizada en la nube: integraci\u00f3n de Semgrep, Gitleaks y Trivy en un pipeline CI/CD",
-    "desc": "<p><strong>Por: Stevie Gerald Marca Aguilar y Usher Damiron Halanocca Rojas</strong></p>\n\n<p>Durante nuestro proyecto, integramos <strong>Se",
-    "link": "https://dev.to/stevie_geraldmarcaaguil/seguridad-automatizada-en-la-nube-integracion-de-semgrep-gitleaks-y-trivy-en-un-pipeline-cicd-1an",
+    "title": "Top Custom Software Development Companies for 2027",
+    "desc": "<p>Choosing the right software partner can make a big difference to a business that wants to grow in 2027. Companies looking for <strong><a ",
+    "link": "https://dev.to/jacobfoster21/top-custom-software-development-companies-for-2027-5e68",
     "topic": "general"
   },
   {
-    "title": "Hardening an AWS EKS cluster: IRSA, NetworkPolicies, restricted Pod Security and Secrets Manager via CSI",
-    "desc": "<p>A freshly created EKS cluster works, but it's permissive. Every pod can reach every other pod, workloads can run as root, and the easy wa",
-    "link": "https://dev.to/someswarduddi/hardening-an-aws-eks-cluster-irsa-networkpolicies-restricted-pod-security-and-secrets-manager-249a",
-    "topic": "aws"
+    "title": "One task file, four owners: a worked handoff for an agent-written ops script",
+    "desc": "<p>Most handoff templates are written by one person and read by everyone else. This one works the other way: the task file has four sections",
+    "link": "https://dev.to/sam_novak_574b07811e18495/one-task-file-four-owners-a-worked-handoff-for-an-agent-written-ops-script-3a50",
+    "topic": "general"
   },
   {
-    "title": "What Happens When a Web Server Runs Out of Memory?",
-    "desc": "<p>Hello, I\u2019m Arthur. When working with websites and applications, we usually focus on features, design, and performance. But there is one p",
-    "link": "https://dev.to/arthur_luca/what-happens-when-a-web-server-runs-out-of-memory-1neb",
+    "title": "Your API Is Failing. The Explanation Is Spread Across Five Tools. Meet Opsphere.",
+    "desc": "<p>Ever received an alert that tells you exactly what is failing, only to discover that figuring out why means opening half your stack?</p>\n",
+    "link": "https://dev.to/opsphereio/your-api-is-failing-the-explanation-is-spread-across-five-tools-meet-opsphere-1p9l",
     "topic": "general"
   }
 ]
