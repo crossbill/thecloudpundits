@@ -1,50 +1,50 @@
 [
   {
-    "title": "Dynamic GitHub Actions Dropdowns \u2014 A Clever Workaround Made Reusable!",
-    "desc": "<p>GitHub Actions doesn't natively support dynamically populated dropdown options for <code>workflow_dispatch</code> inputs. This can become",
-    "link": "https://dev.to/moyarich/dynamic-github-actions-dropdowns-a-clever-workaround-made-reusable-3od0",
+    "title": "I made my 3090 single-lane for agent turns, and the first live duel caught my lock file at the wrong path",
+    "desc": "<p>My agent runs several sessions at once against one local model. A chat turn, a cron job, a subagent mid-scan, they all point at the same ",
+    "link": "https://dev.to/prodbymarcu/i-made-my-3090-single-lane-for-agent-turns-and-the-first-live-duel-caught-my-lock-file-at-the-58om",
     "topic": "general"
   },
   {
-    "title": "Disclosure Doubled and Exploitation Followed: What GTIG's AI-Era Data Actually Shows",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Google Threat Intelligence Group published its first full dataset on how AI is changing the vulnerability",
-    "link": "https://dev.to/neticslabs/disclosure-doubled-and-exploitation-followed-what-gtigs-ai-era-data-actually-shows-1h5a",
+    "title": "502 Bad Gateway in Docker? Bind to 0.0.0.0, not 127.0.0.1 (1-line fix)",
+    "desc": "<p><em>Originally published on the <a href=\"https://blog.hubfly.space/docker-502-bad-gateway-bind-0-0-0-0?utm_source=devto&utm_campaign=dock",
+    "link": "https://dev.to/octave_nkurunziza_afb0512/502-bad-gateway-in-docker-bind-to-0000-not-127001-1-line-fix-2egm",
+    "topic": "docker"
+  },
+  {
+    "title": "Let your coding agent deploy to Hubfly, not delete your data: 1 skill, 3 permission lists",
+    "desc": "<p><em>Originally published on the <a href=\"https://blog.hubfly.space/coding-agent-deploy-safely-hubfly?utm_source=devto&utm_campaign=coding",
+    "link": "https://dev.to/octave_nkurunziza_afb0512/let-your-coding-agent-deploy-to-hubfly-not-delete-your-data-1-skill-3-permission-lists-glh",
     "topic": "general"
   },
   {
-    "title": "Stop running your whole .NET test suite on every pull request",
-    "desc": "<p>Every .NET codebase I have worked on hits the same wall sooner or later. The test suite grows, CI goes from three minutes to twenty, and ",
-    "link": "https://dev.to/selcukgural/stop-running-your-whole-net-test-suite-on-every-pull-request-5606",
+    "title": "Heroku vs Render vs Railway vs Hubfly: 4 prices for one app + Postgres ($7\u2013$20/month)",
+    "desc": "<p><em>Originally published on the <a href=\"https://blog.hubfly.space/heroku-vs-render-vs-railway-vs-hubfly-pricing?utm_source=devto&utm_cam",
+    "link": "https://dev.to/octave_nkurunziza_afb0512/heroku-vs-render-vs-railway-vs-hubfly-4-prices-for-one-app-postgres-7-20month-2hbn",
     "topic": "general"
   },
   {
-    "title": "How to Troubleshoot Blocked Ports on a Dedicated Server",
-    "desc": "<h2>\n  \n  \n  Understanding Port Errors (Diagnostic Table)\n</h2>\n\n<p>Before executing commands, analyze the exact error message from your cli",
-    "link": "https://dev.to/nyra-amsi/how-to-troubleshoot-blocked-ports-on-a-dedicated-server-1gen",
+    "title": "A $16,500 GCP bill nobody could explain. Logging was $3,800",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/a-16500-gcp-bill-nobody-could-explain-logging-was-3800-42p9",
+    "topic": "gcp"
+  },
+  {
+    "title": "https://dev.to/alexiskroberson/as-software-factories-evolve-release-decisions-must-keep-pace-143d",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/al",
+    "link": "https://dev.to/alexiskroberson/httpsdevtoalexiskrobersonas-software-factories-evolve-release-decisions-must-keep-pace-143d-5ejl",
     "topic": "general"
   },
   {
-    "title": "What Is a Zombie Process in Linux? How Processes Become Stuck in the Process Table",
-    "desc": "<p>Imagine running a program in Linux, watching it finish, and then discovering that it still exists in the process table.</p>\n\n<p>It consum",
-    "link": "https://dev.to/aditya_d_sharma/what-is-a-zombie-process-in-linux-how-processes-become-stuck-in-the-process-table-4ka9",
+    "title": "\u4e09\u4e30\u4e91\u514d\u8d39\u670d\u52a1\u5668\u5b9e\u6d4b\uff1a\u535a\u5ba2+\u5907\u4efd\u811a\u672c\u8dd1\u534a\u5e74\uff0c\u8fd9\u4e9b\u5751\u8981\u63d0\u524d\u6392",
+    "desc": "<p>\u4e4b\u524d\u4e00\u76f4\u5199\u201c\u96f6\u4e8b\u6545\u201d\uff0c\u4eca\u5929\u6362\u4e2a\u89d2\u5ea6\u2014\u2014\u628a\u6211\u4f1a\u8e29\u7684\u5751\u5148\u6458\u51fa\u6765\u3002\u6298\u817e\u4e91\u670d\u52a1\u5668\u534a\u5e74\u4ee5\u4e0a\uff0c\u6700\u5927\u7684\u6536\u83b7\u4e0d\u662f\u5b66\u4f1a\u4e86\u591a\u5c11\u547d\u4ee4\uff0c\u800c\u662f\u77e5\u9053\u54ea\u91cc\u4f1a\u75bc\u3002\u4e09\u4e30\u4e91\u8fd9\u4e2a<strong>\u514d\u8d39\u4e91\u670d\u52a1\u5668</strong>\uff0c\u6211\u7528\u5b83\u8dd1 Typecho + Nginx + \u81ea\u52a8\u5907\u4efd\u811a\u672c\uff0c\u8d44\u6e90\u5e38\u5e74\u5f88\u8f7b\u677e\uff0c\u4f46\u6709\u51e0\u4e2a\u8bbe",
+    "link": "https://dev.to/yangshu114514/san-feng-yun-mian-fei-fu-wu-qi-shi-ce-bo-ke-bei-fen-jiao-ben-pao-ban-nian-zhe-xie-keng-yao-ti-qian-pai-1c15",
     "topic": "general"
   },
   {
-    "title": "Top Custom Software Development Companies for 2027",
-    "desc": "<p>Choosing the right software partner can make a big difference to a business that wants to grow in 2027. Companies looking for <strong><a ",
-    "link": "https://dev.to/jacobfoster21/top-custom-software-development-companies-for-2027-5e68",
-    "topic": "general"
-  },
-  {
-    "title": "One task file, four owners: a worked handoff for an agent-written ops script",
-    "desc": "<p>Most handoff templates are written by one person and read by everyone else. This one works the other way: the task file has four sections",
-    "link": "https://dev.to/sam_novak_574b07811e18495/one-task-file-four-owners-a-worked-handoff-for-an-agent-written-ops-script-3a50",
-    "topic": "general"
-  },
-  {
-    "title": "Your API Is Failing. The Explanation Is Spread Across Five Tools. Meet Opsphere.",
-    "desc": "<p>Ever received an alert that tells you exactly what is failing, only to discover that figuring out why means opening half your stack?</p>\n",
-    "link": "https://dev.to/opsphereio/your-api-is-failing-the-explanation-is-spread-across-five-tools-meet-opsphere-1p9l",
+    "title": "5 ways your cloud CLI picks the wrong account without telling you",
+    "desc": "<p>You type <code>vercel deploy</code>, <code>gh pr merge</code> or <code>kubectl apply</code>. Which account does it run on?</p>\n\n<p>Most p",
+    "link": "https://dev.to/paureis/5-ways-your-cloud-cli-picks-the-wrong-account-without-telling-you-19e2",
     "topic": "general"
   }
 ]
