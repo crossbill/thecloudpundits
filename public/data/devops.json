@@ -1,50 +1,50 @@
 [
   {
-    "title": "Top Dev Tools & Tutorials of the Week: Azure AI, GitHub Copilot, and More",
-    "desc": "<h3>\n  \n  \n  1. <strong>Azure AI Foundry's New AI Model Marketplace</strong>\n</h3>\n\n<p><strong>What it is:</strong><br /><br />\nAzure AI Fou",
-    "link": "https://dev.to/karleeov/top-dev-tools-tutorials-of-the-week-azure-ai-github-copilot-and-more-1152",
-    "topic": "azure"
-  },
-  {
-    "title": "My scanner's README is tested in CI: 19 claims, PASS/FAIL, build breaks if one stops being true",
-    "desc": "<p>Every security tool README makes claims. \"Detects SQL injection.\" \"Finds<br />\nhidden parameters.\" Some of those claims were true the day",
-    "link": "https://dev.to/augustkevinsanjaya/my-scanners-readme-is-tested-in-ci-19-claims-passfail-build-breaks-if-one-stops-being-true-769",
-    "topic": "general"
-  },
-  {
-    "title": "Self-Hosted Databricks Alternative: Homelab Data Lakehouse (AI/ML Data Factory)",
-    "desc": "<p><code>Self-Hosted Databricks Alternative: Homelab Data Lakehouse</code></p>\n\n<p><em>Part of the homelab build series. Trino, Apache Icebe",
-    "link": "https://dev.to/ezejioforog/self-hosted-databricks-alternative-homelab-data-lakehouse-aiml-data-factory-226f",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes: contrato de email para cada ejecuci\u00f3n",
-    "desc": "<p>En un pipeline de CI, un email de verificaci\u00f3n parece una dependencia peque\u00f1a. El pod crea un usuario, espera el mensaje y contin\u00faa. Pero",
-    "link": "https://dev.to/alexcarteruk/kubernetes-contrato-de-email-para-cada-ejecucion-17ep",
+    "title": "Introducing AetherKube Beta: A Smarter Approach to Kubernetes Troubleshooting",
+    "desc": "<p>Kubernetes gives teams powerful tools for running distributed applications, but troubleshooting cluster issues can still require time-con",
+    "link": "https://dev.to/harshaljethwaa/introducing-aetherkube-beta-a-smarter-approach-to-kubernetes-troubleshooting-5895",
     "topic": "kubernetes"
   },
   {
-    "title": "How I stopped babysitting late-night releases",
-    "desc": "<p>For a long time my release process looked like this: build a feature, test it well on staging, and then be told it should go live after b",
-    "link": "https://dev.to/piyush_soni_74c459572e149/how-i-stopped-babysitting-late-night-releases-4ko4",
+    "title": "What Is Api Simulation? Tools, Types & Use Cases",
+    "desc": "<p>API simulation is how development teams keep moving when a dependency isn't available, stable, or cheap to call repeatedly. Instead of hi",
+    "link": "https://dev.to/keploy/what-is-api-simulation-tools-types-use-cases-1b8p",
     "topic": "general"
   },
   {
-    "title": "Your Agent's RENAME COLUMN Breaks Every Old Pod. Expand-Contract in 4 Steps",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GYLMVX9S\" rel=\"noopener noreferrer\">Database Playbook</a>\n</li>\n<li>\n<",
-    "link": "https://dev.to/gabrielanhaia/your-agents-rename-column-breaks-every-old-pod-expand-contract-in-4-steps-3h4",
+    "title": "Where container secrets actually leak, and the seven habits that stop it",
+    "desc": "<p><strong>TL;DR:</strong> Environment variables are where most container secrets live, and most leaks are boring: a <code>.env</code> commi",
+    "link": "https://dev.to/snapdeploy/where-container-secrets-actually-leak-and-the-seven-habits-that-stop-it-bjl",
+    "topic": "docker"
+  },
+  {
+    "title": "The Stop List for Free Inference and Free Hosts",
+    "desc": "<p>Most teams can name the day they adopted a free inference endpoint or a free server. Almost none can name the sentence that would make th",
+    "link": "https://dev.to/aiio_6471/the-stop-list-for-free-inference-and-free-hosts-inp",
     "topic": "general"
   },
   {
-    "title": "Myth FAQ: Free Model Access Moves the Bill, It Doesn't Delete It",
-    "desc": "<h2>\n  \n  \n  The swap everyone makes\n</h2>\n\n<p>You have a paid endpoint and a bill you dislike. A free endpoint appears. You change one line",
-    "link": "https://dev.to/gitlab_3188/myth-faq-free-model-access-moves-the-bill-it-doesnt-delete-it-3jih",
+    "title": "Rotate a Shared Free Allowance Without Losing Work",
+    "desc": "<p>A shared free allowance rarely fails from capacity. It fails at handoff. Two people draw from one pool. Neither owns the last hour of it.",
+    "link": "https://dev.to/techlab_7968/rotate-a-shared-free-allowance-without-losing-work-2k1a",
     "topic": "general"
   },
   {
-    "title": "Test Selection Is a Claim: Audit Which Tests an Agent Patch Actually Ran",
-    "desc": "<p>An agent patch that reports <code>42 passed</code> has told you that 42 tests ran and passed. It has not told you that your suite passed.",
-    "link": "https://dev.to/datacpp_8185/test-selection-is-a-claim-audit-which-tests-an-agent-patch-actually-ran-4m0o",
+    "title": "A Green Pipeline That Ran Three of Five Shards Is Not Green",
+    "desc": "<p>Your merge queue trusts a color. It should trust a coverage claim.</p>\n\n<p>A sharded CI run where shard 3 died during setup, shard 5 coll",
+    "link": "https://dev.to/codego_3211/a-green-pipeline-that-ran-three-of-five-shards-is-not-green-3cl2",
+    "topic": "general"
+  },
+  {
+    "title": "Queue Time Is a Line Item",
+    "desc": "<p>You already meter what your jobs cost. Almost nobody meters how long each job sat still before anything happened \u2014 and in most AI pipelin",
+    "link": "https://dev.to/hackrs_3352/queue-time-is-a-line-item-c31",
+    "topic": "general"
+  },
+  {
+    "title": "Draw Your Free Tier as Three Planes",
+    "desc": "<p>Free inference is not a socket you plug in. It is a plane you place in a diagram.</p>\n\n<p>Sketch three planes before you write a client. ",
+    "link": "https://dev.to/codepro_4664/draw-your-free-tier-as-three-planes-1gdk",
     "topic": "general"
   }
 ]
