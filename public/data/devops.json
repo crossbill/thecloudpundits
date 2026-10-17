@@ -1,50 +1,50 @@
 [
   {
-    "title": "Daily Dose of DevOps \u2014 SLI definition: without alert fatigue",
-    "desc": "<h1>\n  \n  \n  SLI definition: without alert fatigue\n</h1>\n\n<p>A platform capability becomes dangerous when ownership is implicit but authorit",
-    "link": "https://dev.to/marco13moo/daily-dose-of-devops-sli-definition-without-alert-fatigue-1eh1",
-    "topic": "general"
-  },
-  {
-    "title": "Fix curl (35) ssl3_get_record:wrong version number on Nginx",
-    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wron",
-    "link": "https://dev.to/faizan050/fix-curl-35-ssl3getrecordwrong-version-number-on-nginx-3hpn",
-    "topic": "general"
-  },
-  {
-    "title": "AWS IAM mistakes teams keep making",
-    "desc": "<p>Most AWS security incidents do not start with an exotic exploit. They start with an over-broad policy, a key that was never rotated or a ",
-    "link": "https://dev.to/cloudlative/aws-iam-mistakes-teams-keep-making-2nap",
+    "title": "Terraform vs CloudFormation: The 2026 AWS IaC Battle-Tested Guide & Migration Runbook",
+    "desc": "<p><em>Originally published on <a href=\"https://blog.naveedkumbhar.com/terraform-vs-cloudformation/\" rel=\"noopener noreferrer\">Naveed Ahmed ",
+    "link": "https://dev.to/naveedkumbhar/terraform-vs-cloudformation-the-2026-aws-iac-battle-tested-guide-migration-runbook-4ei2",
     "topic": "aws"
   },
   {
-    "title": "When a Model-Drafted Doc Section Earns a Human Owner: An Escalation Ladder and a Trailer Gate",
-    "desc": "<p>Most documentation guardrails try to police the draft, but this one decides when a section stops being draftable at all. The mechanism is",
-    "link": "https://dev.to/github_7727/when-a-model-drafted-doc-section-earns-a-human-owner-an-escalation-ladder-and-a-trailer-gate-4i9",
+    "title": "Romance of properties",
+    "desc": "<p>Last few years I'm in awe with properties. For long time it was like 'some special kind of tests', and was in QA domain. It's not.</p>\n\n<",
+    "link": "https://dev.to/amarao/romance-of-properties-2d0n",
     "topic": "general"
   },
   {
-    "title": "Cron jobs fail silently: monitor them with a dead man's switch",
-    "desc": "<p>Cron jobs are the most silently dangerous services in your infrastructure. When a backup job fails, nothing alerts you, until the day you",
-    "link": "https://dev.to/benjy33000/cron-jobs-fail-silently-monitor-them-with-a-dead-mans-switch-4kk3",
+    "title": "DevOps Email Tests Need a Handoff Contract",
+    "desc": "<h1>\n  \n  \n  DevOps Email Tests Need a Handoff Contract\n</h1>\n\n<p>Email tests in CI often fail at the boundary between two jobs: one job cre",
+    "link": "https://dev.to/mrdapperx/devops-email-tests-need-a-handoff-contract-2o6p",
     "topic": "general"
   },
   {
-    "title": "A 33-hour Office.js rollout that changed four bytes",
-    "desc": "<p>If you build Office add-ins, you load Office.js from one fixed URL:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"hig",
-    "link": "https://dev.to/r0men_/a-33-hour-officejs-rollout-that-changed-four-bytes-3001",
+    "title": "My support agent didn\u2019t have a memory problem \u2014 it was mixing up the same customer 3 different ways",
+    "desc": "<p>I found this bug because my support agent sounded way too confident for someone who was completely wrong.</p>\n\n<p>A customer messaged in ",
+    "link": "https://dev.to/lars_winstand/my-support-agent-didnt-have-a-memory-problem-it-was-mixing-up-the-same-customer-3-different-ways-2di",
     "topic": "general"
   },
   {
-    "title": "Retry Storms: Hardening n8n Workflows Against Thundering Herd Failures",
-    "desc": "<p>A 90-second upstream blip doesn't take you down. What your retries do in the ninety seconds <em>after</em> it ends does.</p>\n\n<p>We learn",
-    "link": "https://dev.to/sophia_nord/retry-storms-hardening-n8n-workflows-against-thundering-herd-failures-pjj",
+    "title": "48-Hour Field Notes: My Free Server Kept the Process Alive and Quietly Dropped the State",
+    "desc": "<h2>\n  \n  \n  The plan I wrote on a Tuesday night\n</h2>\n\n<p>I had a webhook receiver that worked on my laptop and no real idea what would hap",
+    "link": "https://dev.to/codepy_1473/48-hour-field-notes-my-free-server-kept-the-process-alive-and-quietly-dropped-the-state-2a96",
     "topic": "general"
   },
   {
-    "title": "Your Kubernetes cluster is paying a cross-AZ tax. ZoneTax shows you exactly which pod.",
-    "desc": "<p>Your Kubernetes cluster is probably paying a tax you cannot see.</p>\n\n<p>On AWS, traffic between availability zones costs about $0.01/GB ",
-    "link": "https://dev.to/gargkrishna730/your-kubernetes-cluster-is-paying-a-cross-az-tax-zonetax-shows-you-exactly-which-pod-35ie",
-    "topic": "kubernetes"
+    "title": "Dialect Fine-Tuning Starts With Data Curation: What NVIDIA's Nemotron Recipe Shows",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>NVIDIA published a complete recipe for adapting its Nemotron 3.5 ASR model to Saudi Arabic dialects, and ",
+    "link": "https://dev.to/neticslabs/dialect-fine-tuning-starts-with-data-curation-what-nvidias-nemotron-recipe-shows-ahj",
+    "topic": "general"
+  },
+  {
+    "title": "AMD Helion Sizes a Rack Around the Work Agents Do Between Model Calls",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>AMD Helion is a rack blueprint, a reference design for a complete server rack, built for agentic AI (soft",
+    "link": "https://dev.to/echakiri/amd-helion-sizes-a-rack-around-the-work-agents-do-between-model-calls-423o",
+    "topic": "general"
+  },
+  {
+    "title": "A Management Interface Vulnerability in PAN-OS Needed Credentials. Attackers Used It Anyway",
+    "desc": "<p>On October 14, 2026, Palo Alto Networks disclosed a management interface vulnerability in PAN-OS, tracked as CVE-2026-0322, that lets an ",
+    "link": "https://dev.to/rbonweb/a-management-interface-vulnerability-in-pan-os-needed-credentials-attackers-used-it-anyway-nb1",
+    "topic": "secops"
   }
 ]
