@@ -1,50 +1,50 @@
 [
   {
-    "title": "One API Call Deleted PocketOS's Database in 9 Seconds. Three Things Had to Fail",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GX2SQ594\" rel=\"noopener noreferrer\">System Design Pocket Guide: Interv",
-    "link": "https://dev.to/gabrielanhaia/one-api-call-deleted-pocketoss-database-in-9-seconds-three-things-had-to-fail-5faa",
+    "title": "Localizing Open-Source ERP: How Odoo 19 is Adapted for Solar Hijri, Complex Tax, and RTL",
+    "desc": "<p>Enterprise Resource Planning (ERP) adoption in non-Western markets frequently faces a severe bottleneck: native ERP engines are deeply ha",
+    "link": "https://dev.to/mohammad_mostafazadeh_f0a/localizing-open-source-erp-how-odoo-19-is-adapted-for-solar-hijri-complex-tax-and-rtl-4m9i",
     "topic": "general"
   },
   {
-    "title": "Albertsons expands OpenAI partnership with Safeway shopping in ChatGPT",
-    "desc": "<h1>\n  \n  \n  You Can Now Plan Your Groceries Inside ChatGPT\n</h1>\n\n<p>Albertsons Companies is expanding its partnership with OpenAI \u2014 and th",
-    "link": "https://dev.to/kami_butt_69b922ade8de012/albertsons-expands-openai-partnership-with-safeway-shopping-in-chatgpt-325e",
-    "topic": "openai"
-  },
-  {
-    "title": "Provisioning k3s clusters over Tailscale",
-    "desc": "<p>It has been a while since I wrote the last article about this deployment platform. The shape of it has changed since then, and I have bee",
-    "link": "https://dev.to/udep/provisioning-k3s-clusters-over-tailscale-3l8m",
+    "title": "A 200 response and a broken page: what screenshot monitoring taught me",
+    "desc": "<p>An uptime check answers one question: did the server respond? Visitors ask a different one: can I use this page? After a few years of loo",
+    "link": "https://dev.to/raiansar/a-200-response-and-a-broken-page-what-screenshot-monitoring-taught-me-1jbi",
     "topic": "general"
   },
   {
-    "title": "A Skipped Test Is a Withdrawal: Make Agent Patches Deposit a Property Before You Freeze a Flake",
-    "desc": "<p>The cheapest way to make an agent patch go green is to skip a test. Most gates allow that skip with no compensating deposit, and then let",
-    "link": "https://dev.to/datacpp_8185/a-skipped-test-is-a-withdrawal-make-agent-patches-deposit-a-property-before-you-freeze-a-flake-236k",
+    "title": "Marker-Delimited Doc Regions: A Hash Gate That Keeps Model Drafts Out of Human-Owned Text",
+    "desc": "<p>The boundary between what a model may draft and what a human must own survives only if it is machine-readable and checked on every commit",
+    "link": "https://dev.to/github_7727/marker-delimited-doc-regions-a-hash-gate-that-keeps-model-drafts-out-of-human-owned-text-39e7",
     "topic": "general"
   },
   {
-    "title": "48-Hour Field Notes: My Race Condition Vanished on a Free Server \u2014 It Was Just Slower",
-    "desc": "<h2>\n  \n  \n  The green run that almost fooled me\n</h2>\n\n<p>On Wednesday I moved a flaky test off my laptop and onto a remote box, and it pas",
-    "link": "https://dev.to/codepy_1473/48-hour-field-notes-my-race-condition-vanished-on-a-free-server-it-was-just-slower-5gle",
+    "title": "ngrok vs Cloudflare Tunnel vs Tailscale Funnel: Which One for Testing Webhooks on Localhost?",
+    "desc": "<p><strong>Short answer:</strong> For a throwaway webhook test, Cloudflare's quick tunnel is the lowest-friction option because it needs no ",
+    "link": "https://dev.to/libme/ngrok-vs-cloudflare-tunnel-vs-tailscale-funnel-which-one-for-testing-webhooks-on-localhost-3l23",
     "topic": "general"
   },
   {
-    "title": "ChokePoint: Why We Replaced 50 Dependabot Alerts With FalkorDB GraphBLAS Min-Cut Remediation",
-    "desc": "<h2>\n  \n  \n  The 3:00 AM Alert Fatigue Nightmare\n</h2>\n\n<p>Every software engineer knows this feeling: you push code on a Friday afternoon, ",
-    "link": "https://dev.to/rajan_mishra_a9f78ad216b4/chokepoint-why-we-replaced-50-dependabot-alerts-with-falkordb-graphblas-min-cut-remediation-29k1",
+    "title": "What Amazon buying DuckDB's makers means for Aurora users",
+    "desc": "<p>Amazon has acquired DuckLabs, the Amsterdam-based company behind the analytical database DuckDB, <a href=\"https://www.infoq.com/news/2026",
+    "link": "https://dev.to/pickuma/what-amazon-buying-duckdbs-makers-means-for-aurora-users-33cm",
     "topic": "general"
   },
   {
-    "title": "Deno Deploy Is Shutting Down: Where to Move Your App, and How Big the Move Is",
-    "desc": "<p>The usual questions about where to run TypeScript functions are latency and cost. Deno Deploy users now have a blunter one: the platform ",
-    "link": "https://dev.to/moksh/deno-deploy-is-shutting-down-where-to-move-your-app-and-how-big-the-move-is-4nli",
+    "title": "I built a self-hosted deploy tool that looks like tmux (and can be driven by an AI agent)",
+    "desc": "<p>I deploy a handful of projects to a handful of my own servers. Not enough to justify Kubernetes, too many to keep doing <code>ssh</code>,",
+    "link": "https://dev.to/kield01/i-built-a-self-hosted-deploy-tool-that-looks-like-tmux-and-can-be-driven-by-an-ai-agent-3ldn",
     "topic": "general"
   },
   {
-    "title": "Brownfield Kubeflow on RKE2: Swapping Dex & SeaweedFS for Keycloak & Ceph RGW",
-    "desc": "<p><em>Upstream Kubeflow assumes a greenfield cluster and ships its own Dex, SeaweedFS and MySQL, with its own oauth2-proxy in front. My hom",
-    "link": "https://dev.to/ezejioforog/brownfield-kubeflow-on-rke2-swapping-dex-seaweedfs-for-keycloak-ceph-rgw-4bdl",
+    "title": "Deletion Deadlines for Signed Document Backups: Private Buckets and Timed Download Links",
+    "desc": "<p>Use a private bucket with presigned, short-lived download links when your app data backups are signed documents that carry a fixed deleti",
+    "link": "https://dev.to/zanesterling7589/deletion-deadlines-for-signed-document-backups-private-buckets-and-timed-download-links-1idj",
+    "topic": "general"
+  },
+  {
+    "title": "Package Drift Weekly \u2014 2026-10-17",
+    "desc": "<p><em>Automated weekly digest from <a href=\"https://rapidapi.com/pkgdrift-pkgdrift-default/api/package-drift-vulnerability-intelligence\" re",
+    "link": "https://dev.to/pkgdrift/package-drift-weekly-2026-10-17-39ga",
     "topic": "general"
   }
 ]
