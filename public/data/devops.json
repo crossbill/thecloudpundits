@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your visual test failed. Is it the page, or the capture?",
-    "desc": "<p>Your visual test failed. Is it the page, or the capture?</p>\n\n<p>A screenshot test fails for two opposite reasons, and the response is op",
-    "link": "https://dev.to/samuelfmedeiros/your-visual-test-failed-is-it-the-page-or-the-capture-3ccn",
+    "title": "One API Call Deleted PocketOS's Database in 9 Seconds. Three Things Had to Fail",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GX2SQ594\" rel=\"noopener noreferrer\">System Design Pocket Guide: Interv",
+    "link": "https://dev.to/gabrielanhaia/one-api-call-deleted-pocketoss-database-in-9-seconds-three-things-had-to-fail-5faa",
     "topic": "general"
   },
   {
-    "title": "Headless Mode in 5 Agents: claude -p, codex exec, gemini -p, copilot -p, opencode run",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GYMFPTWV\" rel=\"noopener noreferrer\">System Design Pocket Guide: Fundam",
-    "link": "https://dev.to/gabrielanhaia/headless-mode-in-5-agents-claude-p-codex-exec-gemini-p-copilot-p-opencode-run-4816",
-    "topic": "anthropic"
+    "title": "Albertsons expands OpenAI partnership with Safeway shopping in ChatGPT",
+    "desc": "<h1>\n  \n  \n  You Can Now Plan Your Groceries Inside ChatGPT\n</h1>\n\n<p>Albertsons Companies is expanding its partnership with OpenAI \u2014 and th",
+    "link": "https://dev.to/kami_butt_69b922ade8de012/albertsons-expands-openai-partnership-with-safeway-shopping-in-chatgpt-325e",
+    "topic": "openai"
   },
   {
-    "title": "Trace the Price Through the Whole AI Workflow",
-    "desc": "<p>A supplier's attachment contains the right price. The extraction returns the right number. The quote still ends up wrong because a later ",
-    "link": "https://dev.to/keith_azodeh/trace-the-price-through-the-whole-ai-workflow-50a3",
+    "title": "Provisioning k3s clusters over Tailscale",
+    "desc": "<p>It has been a while since I wrote the last article about this deployment platform. The shape of it has changed since then, and I have bee",
+    "link": "https://dev.to/udep/provisioning-k3s-clusters-over-tailscale-3l8m",
     "topic": "general"
   },
   {
-    "title": "AWS Transform Now Automates Azure-to-AWS Cloud-Native Code Conversion",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-transform-azure-to-aws-code-conversion-ga/?utm_source=d",
-    "link": "https://dev.to/pklavc/aws-transform-now-automates-azure-to-aws-cloud-native-code-conversion-3ga",
-    "topic": "aws"
-  },
-  {
-    "title": "Time-Boxed Logins on Shared Linux Workstations: PAM, SSSD, and a Session Watchdog",
-    "desc": "<p><em>Bu yaz\u0131n\u0131n T\u00fcrk\u00e7esi: <a href=\"https://onurbaydas.com/posts/reservation-session-control/\" rel=\"noopener noreferrer\">Payla\u015f\u0131ml\u0131 Linux \u0130",
-    "link": "https://dev.to/onurbaydas/time-boxed-logins-on-shared-linux-workstations-pam-sssd-and-a-session-watchdog-3o3p",
+    "title": "A Skipped Test Is a Withdrawal: Make Agent Patches Deposit a Property Before You Freeze a Flake",
+    "desc": "<p>The cheapest way to make an agent patch go green is to skip a test. Most gates allow that skip with no compensating deposit, and then let",
+    "link": "https://dev.to/datacpp_8185/a-skipped-test-is-a-withdrawal-make-agent-patches-deposit-a-property-before-you-freeze-a-flake-236k",
     "topic": "general"
   },
   {
-    "title": "Part 7: \"How to Survive Life Without a Single Email Meeting\" \u2013 The CAB Survivors' Support Group",
-    "desc": "<h1>\n  \n  \n  VITI Magazine \u2013 Special Feature: The Recovery Clinic\n</h1>\n\n<h3>\n  \n  \n  Part 7: \"How to Survive Life Without a Single Email Me",
-    "link": "https://dev.to/bigf_fellow/part-7-how-to-survive-life-without-a-single-email-meeting-the-cab-survivors-support-group-54je",
+    "title": "48-Hour Field Notes: My Race Condition Vanished on a Free Server \u2014 It Was Just Slower",
+    "desc": "<h2>\n  \n  \n  The green run that almost fooled me\n</h2>\n\n<p>On Wednesday I moved a flaky test off my laptop and onto a remote box, and it pas",
+    "link": "https://dev.to/codepy_1473/48-hour-field-notes-my-race-condition-vanished-on-a-free-server-it-was-just-slower-5gle",
     "topic": "general"
   },
   {
-    "title": "Postgres Logical Replication: Slots, DDL, and Failover",
-    "desc": "<p>At 2 a.m. on a Tuesday, a client's reporting replica silently stopped applying changes. The publisher kept accepting writes. The replica ",
-    "link": "https://dev.to/veduis/postgres-logical-replication-slots-ddl-and-failover-5523",
+    "title": "ChokePoint: Why We Replaced 50 Dependabot Alerts With FalkorDB GraphBLAS Min-Cut Remediation",
+    "desc": "<h2>\n  \n  \n  The 3:00 AM Alert Fatigue Nightmare\n</h2>\n\n<p>Every software engineer knows this feeling: you push code on a Friday afternoon, ",
+    "link": "https://dev.to/rajan_mishra_a9f78ad216b4/chokepoint-why-we-replaced-50-dependabot-alerts-with-falkordb-graphblas-min-cut-remediation-29k1",
     "topic": "general"
   },
   {
-    "title": "Vertiv's Mumbai cooling delivery puts contamination control on the commissioning agenda",
-    "desc": "<p>A liquid-cooling installation can be assembled correctly and still need substantial work before it is ready for an IT load. The handover ",
-    "link": "https://dev.to/da-li-at-pl/vertivs-mumbai-cooling-delivery-puts-contamination-control-on-the-commissioning-agenda-3014",
+    "title": "Deno Deploy Is Shutting Down: Where to Move Your App, and How Big the Move Is",
+    "desc": "<p>The usual questions about where to run TypeScript functions are latency and cost. Deno Deploy users now have a blunter one: the platform ",
+    "link": "https://dev.to/moksh/deno-deploy-is-shutting-down-where-to-move-your-app-and-how-big-the-move-is-4nli",
+    "topic": "general"
+  },
+  {
+    "title": "Brownfield Kubeflow on RKE2: Swapping Dex & SeaweedFS for Keycloak & Ceph RGW",
+    "desc": "<p><em>Upstream Kubeflow assumes a greenfield cluster and ships its own Dex, SeaweedFS and MySQL, with its own oauth2-proxy in front. My hom",
+    "link": "https://dev.to/ezejioforog/brownfield-kubeflow-on-rke2-swapping-dex-seaweedfs-for-keycloak-ceph-rgw-4bdl",
     "topic": "general"
   }
 ]
