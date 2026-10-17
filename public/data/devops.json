@@ -1,50 +1,50 @@
 [
   {
-    "title": "Introducing AetherKube Beta: A Smarter Approach to Kubernetes Troubleshooting",
-    "desc": "<p>Kubernetes gives teams powerful tools for running distributed applications, but troubleshooting cluster issues can still require time-con",
-    "link": "https://dev.to/harshaljethwaa/introducing-aetherkube-beta-a-smarter-approach-to-kubernetes-troubleshooting-5895",
+    "title": "Daily Dose of DevOps \u2014 SLI definition: without alert fatigue",
+    "desc": "<h1>\n  \n  \n  SLI definition: without alert fatigue\n</h1>\n\n<p>A platform capability becomes dangerous when ownership is implicit but authorit",
+    "link": "https://dev.to/marco13moo/daily-dose-of-devops-sli-definition-without-alert-fatigue-1eh1",
+    "topic": "general"
+  },
+  {
+    "title": "Fix curl (35) ssl3_get_record:wrong version number on Nginx",
+    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>curl: (35) error:1408F10B:SSL routines:ssl3_get_record:wron",
+    "link": "https://dev.to/faizan050/fix-curl-35-ssl3getrecordwrong-version-number-on-nginx-3hpn",
+    "topic": "general"
+  },
+  {
+    "title": "AWS IAM mistakes teams keep making",
+    "desc": "<p>Most AWS security incidents do not start with an exotic exploit. They start with an over-broad policy, a key that was never rotated or a ",
+    "link": "https://dev.to/cloudlative/aws-iam-mistakes-teams-keep-making-2nap",
+    "topic": "aws"
+  },
+  {
+    "title": "When a Model-Drafted Doc Section Earns a Human Owner: An Escalation Ladder and a Trailer Gate",
+    "desc": "<p>Most documentation guardrails try to police the draft, but this one decides when a section stops being draftable at all. The mechanism is",
+    "link": "https://dev.to/github_7727/when-a-model-drafted-doc-section-earns-a-human-owner-an-escalation-ladder-and-a-trailer-gate-4i9",
+    "topic": "general"
+  },
+  {
+    "title": "Cron jobs fail silently: monitor them with a dead man's switch",
+    "desc": "<p>Cron jobs are the most silently dangerous services in your infrastructure. When a backup job fails, nothing alerts you, until the day you",
+    "link": "https://dev.to/benjy33000/cron-jobs-fail-silently-monitor-them-with-a-dead-mans-switch-4kk3",
+    "topic": "general"
+  },
+  {
+    "title": "A 33-hour Office.js rollout that changed four bytes",
+    "desc": "<p>If you build Office add-ins, you load Office.js from one fixed URL:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"hig",
+    "link": "https://dev.to/r0men_/a-33-hour-officejs-rollout-that-changed-four-bytes-3001",
+    "topic": "general"
+  },
+  {
+    "title": "Retry Storms: Hardening n8n Workflows Against Thundering Herd Failures",
+    "desc": "<p>A 90-second upstream blip doesn't take you down. What your retries do in the ninety seconds <em>after</em> it ends does.</p>\n\n<p>We learn",
+    "link": "https://dev.to/sophia_nord/retry-storms-hardening-n8n-workflows-against-thundering-herd-failures-pjj",
+    "topic": "general"
+  },
+  {
+    "title": "Your Kubernetes cluster is paying a cross-AZ tax. ZoneTax shows you exactly which pod.",
+    "desc": "<p>Your Kubernetes cluster is probably paying a tax you cannot see.</p>\n\n<p>On AWS, traffic between availability zones costs about $0.01/GB ",
+    "link": "https://dev.to/gargkrishna730/your-kubernetes-cluster-is-paying-a-cross-az-tax-zonetax-shows-you-exactly-which-pod-35ie",
     "topic": "kubernetes"
-  },
-  {
-    "title": "What Is Api Simulation? Tools, Types & Use Cases",
-    "desc": "<p>API simulation is how development teams keep moving when a dependency isn't available, stable, or cheap to call repeatedly. Instead of hi",
-    "link": "https://dev.to/keploy/what-is-api-simulation-tools-types-use-cases-1b8p",
-    "topic": "general"
-  },
-  {
-    "title": "Where container secrets actually leak, and the seven habits that stop it",
-    "desc": "<p><strong>TL;DR:</strong> Environment variables are where most container secrets live, and most leaks are boring: a <code>.env</code> commi",
-    "link": "https://dev.to/snapdeploy/where-container-secrets-actually-leak-and-the-seven-habits-that-stop-it-bjl",
-    "topic": "docker"
-  },
-  {
-    "title": "The Stop List for Free Inference and Free Hosts",
-    "desc": "<p>Most teams can name the day they adopted a free inference endpoint or a free server. Almost none can name the sentence that would make th",
-    "link": "https://dev.to/aiio_6471/the-stop-list-for-free-inference-and-free-hosts-inp",
-    "topic": "general"
-  },
-  {
-    "title": "Rotate a Shared Free Allowance Without Losing Work",
-    "desc": "<p>A shared free allowance rarely fails from capacity. It fails at handoff. Two people draw from one pool. Neither owns the last hour of it.",
-    "link": "https://dev.to/techlab_7968/rotate-a-shared-free-allowance-without-losing-work-2k1a",
-    "topic": "general"
-  },
-  {
-    "title": "A Green Pipeline That Ran Three of Five Shards Is Not Green",
-    "desc": "<p>Your merge queue trusts a color. It should trust a coverage claim.</p>\n\n<p>A sharded CI run where shard 3 died during setup, shard 5 coll",
-    "link": "https://dev.to/codego_3211/a-green-pipeline-that-ran-three-of-five-shards-is-not-green-3cl2",
-    "topic": "general"
-  },
-  {
-    "title": "Queue Time Is a Line Item",
-    "desc": "<p>You already meter what your jobs cost. Almost nobody meters how long each job sat still before anything happened \u2014 and in most AI pipelin",
-    "link": "https://dev.to/hackrs_3352/queue-time-is-a-line-item-c31",
-    "topic": "general"
-  },
-  {
-    "title": "Draw Your Free Tier as Three Planes",
-    "desc": "<p>Free inference is not a socket you plug in. It is a plane you place in a diagram.</p>\n\n<p>Sketch three planes before you write a client. ",
-    "link": "https://dev.to/codepro_4664/draw-your-free-tier-as-three-planes-1gdk",
-    "topic": "general"
   }
 ]
