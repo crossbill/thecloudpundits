@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes Graceful Shutdown: Drain Traffic Before Your Process Exits",
-    "desc": "<p>Kubernetes graceful shutdown coordinates SIGTERM handling, traffic draining, rollout capacity, and disruption controls into one productio",
-    "link": "https://dev.to/nooryasserx/kubernetes-graceful-shutdown-drain-traffic-before-your-process-exits-27d5",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "The fallback chain that silently stops working",
-    "desc": "<h1>\n  \n  \n  The fallback chain that silently stops working\n</h1>\n\n<p>I found out my fallback chain was broken because of a bill. Not an ale",
-    "link": "https://dev.to/cleo_cliona/the-fallback-chain-that-silently-stops-working-5c8k",
+    "title": "GitHub Won't Count Your Approval on a PR You Asked Copilot to Write. Your Laptop Will",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GW2NTCR5\" rel=\"noopener noreferrer\">Ship It \u2014 the pragmatic startup te",
+    "link": "https://dev.to/gabrielanhaia/github-wont-count-your-approval-on-a-pr-you-asked-copilot-to-write-your-laptop-will-4cd6",
     "topic": "general"
   },
   {
-    "title": "How a one-time secret link actually works: the design of SecretBolt",
-    "desc": "<p>Every team has done it: pasted a database password or an API key into Slack \"just this once\". That message now lives in search, in backup",
-    "link": "https://dev.to/alxsm/how-a-one-time-secret-link-actually-works-the-design-of-secretbolt-4c5o",
+    "title": "A Technical SEO Checklist for Launching a New Website",
+    "desc": "<p>Launch day is when small configuration mistakes do the most damage. A <code>noindex</code> left over from staging, a <code>robots.txt</co",
+    "link": "https://dev.to/sandeepsingh_uchik/a-technical-seo-checklist-for-launching-a-new-website-235",
     "topic": "general"
   },
   {
-    "title": "One pull request could have frozen my uptime monitor for everyone",
-    "desc": "<p>I run a small service that checks every pull request for environment variables the code reads but nobody declared, and watches the sites ",
-    "link": "https://dev.to/utsavmishra25/one-pull-request-could-have-frozen-my-uptime-monitor-for-everyone-29dl",
+    "title": "I built a free, open-source platform with 180+ developer tools and 18 technical guides (Built with Astro)",
+    "desc": "<p>Hey Dev community!</p>\n\n<p>I want to share a project I've been building: Th-Tech. It's a comprehensive, free, and open-source platform fo",
+    "link": "https://dev.to/th-tech/i-built-a-free-open-source-platform-with-180-developer-tools-and-18-technical-guides-built-with-2eem",
     "topic": "general"
   },
   {
-    "title": "I gave my on-call agents a graph instead of a bigger prompt",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/yashasm18/i-gave-my-on-call-agents-a-graph-instead-of-a-bigger-prompt-14m",
+    "title": "Drift Checks in TDK CLI: Fail Fast, Generator Changes, and Catching Hand Edits Before Commit",
+    "desc": "<p>A drift check answers one question: has someone changed a generated file by hand? TDK runs that check before Tilt starts, so a hand edit ",
+    "link": "https://dev.to/tdk-cli/drift-checks-in-tdk-cli-fail-fast-generator-changes-and-catching-hand-edits-before-commit-4jne",
     "topic": "general"
   },
   {
-    "title": "TDK CLI Core for Teams: Drift Checks, Dry Runs, and Readiness",
-    "desc": "<p>A local stack that works on one laptop is a start. A local stack that works on every laptop on the team is what saves time. The gap betwe",
-    "link": "https://dev.to/tdk-cli/tdk-cli-core-for-teams-drift-checks-dry-runs-and-readiness-3k4i",
+    "title": "The Creator of Jenkins Now Wants You to Run Fewer Tests",
+    "desc": "<p>In 2004, a developer at Sun Microsystems was tired of breaking builds. He wrote a small tool as a side project to catch his own mistakes.",
+    "link": "https://dev.to/jamilxt/the-creator-of-jenkins-now-wants-you-to-run-fewer-tests-5dm3",
     "topic": "general"
   },
   {
-    "title": "TDK CLI Core vs Hand-Written Docker Compose: What Actually Changes",
-    "desc": "<p>Docker Compose describes a set of containers in one file. For many projects that is enough, and it is the right tool to learn first. TDK ",
-    "link": "https://dev.to/tdk-cli/tdk-cli-core-vs-hand-written-docker-compose-what-actually-changes-34c0",
-    "topic": "docker"
+    "title": "1,423 Hack Attempts in Under a Month: The Langflow Lockdown Checklist",
+    "desc": "<p>On September 19, 2026, honeypot sensors run by the security firm Previdian started recording exploitation attempts against Langflow, the ",
+    "link": "https://dev.to/jamilxt/1423-hack-attempts-in-under-a-month-the-langflow-lockdown-checklist-5g64",
+    "topic": "general"
   },
   {
-    "title": "How We Built TRACEFORGE: Graph-Native Autonomous Incident Response on FalkorDB",
-    "desc": "<p>The Blind Spot in Modern AI Security</p>\n\n<p>Every cloud security engineer knows this nightmare scenario: a fires on an internet-facing K",
-    "link": "https://dev.to/prudhvinaik2005/how-we-built-traceforge-graph-native-autonomous-incident-response-on-falkordb-46kj",
-    "topic": "secops"
+    "title": "Unity Large Map Scene Management: Addressables, Async Streaming & Multi-Chapter Architecture",
+    "desc": "<blockquote>\n<p><em>This deep-dive architectural guide was originally published on <a href=\"https://www.gameunity.store/2026/10/unity-large-",
+    "link": "https://dev.to/abdulrahman_maslmany/unity-large-map-scene-management-addressables-async-streaming-multi-chapter-architecture-5b1k",
+    "topic": "general"
+  },
+  {
+    "title": "Business Emails Going to Spam? A Practical SPF, DKIM and DMARC Troubleshooting Guide",
+    "desc": "<p>An invoice reaches a customer's junk folder. A password reset never appears. A contact form reports success, but nobody receives the mess",
+    "link": "https://dev.to/alifhost/business-emails-going-to-spam-a-practical-spf-dkim-and-dmarc-troubleshooting-guide-569p",
+    "topic": "general"
   }
 ]
