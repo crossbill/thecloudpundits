@@ -1,50 +1,50 @@
 [
   {
-    "title": "Case Study: The Cloud Bill Before Series B",
-    "desc": "<blockquote>\n<p><strong>Client Profile:</strong> A venture-backed, early-growth-stage startup preparing for a Series B raise.</p>\n\n<p><em>Su",
-    "link": "https://dev.to/shashwatbishwen/case-study-the-cloud-bill-before-series-b-3i6a",
+    "title": "Kubernetes Graceful Shutdown: Drain Traffic Before Your Process Exits",
+    "desc": "<p>Kubernetes graceful shutdown coordinates SIGTERM handling, traffic draining, rollout capacity, and disruption controls into one productio",
+    "link": "https://dev.to/nooryasserx/kubernetes-graceful-shutdown-drain-traffic-before-your-process-exits-27d5",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "The fallback chain that silently stops working",
+    "desc": "<h1>\n  \n  \n  The fallback chain that silently stops working\n</h1>\n\n<p>I found out my fallback chain was broken because of a bill. Not an ale",
+    "link": "https://dev.to/cleo_cliona/the-fallback-chain-that-silently-stops-working-5c8k",
     "topic": "general"
   },
   {
-    "title": "Case Study: The Hidden Observability Tax",
-    "desc": "<blockquote>\n<p><strong>Client Profile:</strong> A mid-market B2B SaaS platform running a unified commercial observability stack across its ",
-    "link": "https://dev.to/shashwatbishwen/case-study-the-hidden-observability-tax-3fpe",
+    "title": "How a one-time secret link actually works: the design of SecretBolt",
+    "desc": "<p>Every team has done it: pasted a database password or an API key into Slack \"just this once\". That message now lives in search, in backup",
+    "link": "https://dev.to/alxsm/how-a-one-time-secret-link-actually-works-the-design-of-secretbolt-4c5o",
     "topic": "general"
   },
   {
-    "title": "Case Study: Zero-Downtime Database Topology Migration",
-    "desc": "<blockquote>\n<p><strong>Client Profile:</strong> A growth-stage, multi-tenant SaaS platform scaling past its original database design assump",
-    "link": "https://dev.to/shashwatbishwen/case-study-zero-downtime-database-topology-migration-fi7",
+    "title": "One pull request could have frozen my uptime monitor for everyone",
+    "desc": "<p>I run a small service that checks every pull request for environment variables the code reads but nobody declared, and watches the sites ",
+    "link": "https://dev.to/utsavmishra25/one-pull-request-could-have-frozen-my-uptime-monitor-for-everyone-29dl",
     "topic": "general"
   },
   {
-    "title": "The $20M AWS Bill That Would Have Killed a Startup Before Series B",
-    "desc": "<p>Every startup pitch deck hides architectural skeletons. I know, because I have frequently been brought in by lead investors to dissect pl",
-    "link": "https://dev.to/shashwatbishwen/the-20m-aws-bill-that-would-have-killed-a-startup-before-series-b-3boc",
-    "topic": "aws"
-  },
-  {
-    "title": "The Failure Mode No Dashboard Shows",
-    "desc": "<p>Every few months, a hyperscaler experiences a major regional outage: AWS US-East-1 DNS degradation, Azure active directory authentication",
-    "link": "https://dev.to/shashwatbishwen/the-failure-mode-no-dashboard-shows-1l2",
+    "title": "I gave my on-call agents a graph instead of a bigger prompt",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/yashasm18/i-gave-my-on-call-agents-a-graph-instead-of-a-bigger-prompt-14m",
     "topic": "general"
   },
   {
-    "title": "The Silent Drift: How Technical Debt Becomes Invisible Risk",
-    "desc": "<p>Technical debt is rarely paid down in lump sums, nor does it announce its arrival with flashing sirens. It accumulates through a quiet, a",
-    "link": "https://dev.to/shashwatbishwen/the-silent-drift-how-technical-debt-becomes-invisible-risk-54a",
+    "title": "TDK CLI Core for Teams: Drift Checks, Dry Runs, and Readiness",
+    "desc": "<p>A local stack that works on one laptop is a start. A local stack that works on every laptop on the team is what saves time. The gap betwe",
+    "link": "https://dev.to/tdk-cli/tdk-cli-core-for-teams-drift-checks-dry-runs-and-readiness-3k4i",
     "topic": "general"
   },
   {
-    "title": "Systems Don't Fail From Load. They Fail When They Change State",
-    "desc": "<p>When a major production system collapses during a marketing flash sale or high-traffic event, the post-incident summary almost always cit",
-    "link": "https://dev.to/shashwatbishwen/systems-dont-fail-from-load-they-fail-when-they-change-state-1hoa",
-    "topic": "general"
+    "title": "TDK CLI Core vs Hand-Written Docker Compose: What Actually Changes",
+    "desc": "<p>Docker Compose describes a set of containers in one file. For many projects that is enough, and it is the right tool to learn first. TDK ",
+    "link": "https://dev.to/tdk-cli/tdk-cli-core-vs-hand-written-docker-compose-what-actually-changes-34c0",
+    "topic": "docker"
   },
   {
-    "title": "The Observability Tax: A Forensic Audit of How Your Unified Platform Became a Liability",
-    "desc": "<p>Observability was sold to the industry as the panacea for system reliability: instrument every trace, log every request header, emit metr",
-    "link": "https://dev.to/shashwatbishwen/the-observability-tax-a-forensic-audit-of-how-your-unified-platform-became-a-liability-2ei0",
-    "topic": "general"
+    "title": "How We Built TRACEFORGE: Graph-Native Autonomous Incident Response on FalkorDB",
+    "desc": "<p>The Blind Spot in Modern AI Security</p>\n\n<p>Every cloud security engineer knows this nightmare scenario: a fires on an internet-facing K",
+    "link": "https://dev.to/prudhvinaik2005/how-we-built-traceforge-graph-native-autonomous-incident-response-on-falkordb-46kj",
+    "topic": "secops"
   }
 ]
