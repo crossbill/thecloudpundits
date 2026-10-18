@@ -1,50 +1,50 @@
 [
   {
-    "title": "Getting Hands\u2011On with DeepSeek\u2011v4.1\u2011Flash\u20111017: A DevOps\u2011Friendly LLM for Real\u2011World Apps",
-    "desc": "<h2>\n  \n  \n  1. What was released / announced\n</h2>\n\n<p>DeepSeek\u2011v4.1\u2011Flash\u20111017 is the latest open\u2011source large language model (LLM) from D",
-    "link": "https://dev.to/naveenmalothu/getting-hands-on-with-deepseek-v41-flash-1017-a-devops-friendly-llm-for-real-world-apps-3285",
+    "title": "Case Study: The Cloud Bill Before Series B",
+    "desc": "<blockquote>\n<p><strong>Client Profile:</strong> A venture-backed, early-growth-stage startup preparing for a Series B raise.</p>\n\n<p><em>Su",
+    "link": "https://dev.to/shashwatbishwen/case-study-the-cloud-bill-before-series-b-3i6a",
     "topic": "general"
   },
   {
-    "title": "The 5 Queries I Run First When Postgres Is Slow",
-    "desc": "<p>When an API slows down and the database is the suspect, the hardest part isn't the fix. It's knowing where to look while everyone is watc",
-    "link": "https://dev.to/azadhmhd/the-5-queries-i-run-first-when-postgres-is-slow-6a",
+    "title": "Case Study: The Hidden Observability Tax",
+    "desc": "<blockquote>\n<p><strong>Client Profile:</strong> A mid-market B2B SaaS platform running a unified commercial observability stack across its ",
+    "link": "https://dev.to/shashwatbishwen/case-study-the-hidden-observability-tax-3fpe",
     "topic": "general"
   },
   {
-    "title": "TikTok proxies: regional research and brand accounts",
-    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/tiktok-proxies/\" rel=\"noopener noreferrer\">proxymint</a>.</em></p>\n\n<p>TikTok ",
-    "link": "https://dev.to/proxymint/tiktok-proxies-regional-research-and-brand-accounts-4e58",
+    "title": "Case Study: Zero-Downtime Database Topology Migration",
+    "desc": "<blockquote>\n<p><strong>Client Profile:</strong> A growth-stage, multi-tenant SaaS platform scaling past its original database design assump",
+    "link": "https://dev.to/shashwatbishwen/case-study-zero-downtime-database-topology-migration-fi7",
     "topic": "general"
   },
   {
-    "title": "When Does a Website Need VPS Hosting?",
-    "desc": "<p>Many websites start with basic hosting, and that is completely fine. If you are running a small blog or a simple website, you may not nee",
-    "link": "https://dev.to/arthur_luca/when-does-a-website-need-vps-hosting-42pl",
+    "title": "The $20M AWS Bill That Would Have Killed a Startup Before Series B",
+    "desc": "<p>Every startup pitch deck hides architectural skeletons. I know, because I have frequently been brought in by lead investors to dissect pl",
+    "link": "https://dev.to/shashwatbishwen/the-20m-aws-bill-that-would-have-killed-a-startup-before-series-b-3boc",
+    "topic": "aws"
+  },
+  {
+    "title": "The Failure Mode No Dashboard Shows",
+    "desc": "<p>Every few months, a hyperscaler experiences a major regional outage: AWS US-East-1 DNS degradation, Azure active directory authentication",
+    "link": "https://dev.to/shashwatbishwen/the-failure-mode-no-dashboard-shows-1l2",
     "topic": "general"
   },
   {
-    "title": "Five Free-Tier Myths That Break Your First Deploy (and a 60-Line Probe to Test Them)",
-    "desc": "<p>My script worked at 11pm. At 9am it returned 502.</p>\n\n<p>Nothing in my code changed. The host did. That gap is where most \"free tier\" ad",
-    "link": "https://dev.to/gitlab_3188/five-free-tier-myths-that-break-your-first-deploy-and-a-60-line-probe-to-test-them-12pc",
+    "title": "The Silent Drift: How Technical Debt Becomes Invisible Risk",
+    "desc": "<p>Technical debt is rarely paid down in lump sums, nor does it announce its arrival with flashing sirens. It accumulates through a quiet, a",
+    "link": "https://dev.to/shashwatbishwen/the-silent-drift-how-technical-debt-becomes-invisible-risk-54a",
     "topic": "general"
   },
   {
-    "title": "Decide What a Model May Draft Before It Writes: A Section Ownership Gate for Docs",
-    "desc": "<h1>\n  \n  \n  Decide What a Model May Draft Before It Writes: A Section Ownership Gate for Docs\n</h1>\n\n<p>A model-drafted page fails in one o",
-    "link": "https://dev.to/github_7727/decide-what-a-model-may-draft-before-it-writes-a-section-ownership-gate-for-docs-21im",
+    "title": "Systems Don't Fail From Load. They Fail When They Change State",
+    "desc": "<p>When a major production system collapses during a marketing flash sale or high-traffic event, the post-incident summary almost always cit",
+    "link": "https://dev.to/shashwatbishwen/systems-dont-fail-from-load-they-fail-when-they-change-state-1hoa",
     "topic": "general"
   },
   {
-    "title": "Your Agent Patch's Green Didn't Travel: A Portability Ledger for Two-Machine Test Evidence",
-    "desc": "<p>A test result is a claim about a machine, not a claim about a patch.</p>\n\n<p>When an agent hands you a diff plus a green suite, the suite",
-    "link": "https://dev.to/datacpp_8185/your-agent-patchs-green-didnt-travel-a-portability-ledger-for-two-machine-test-evidence-m1l",
-    "topic": "general"
-  },
-  {
-    "title": "SSH keeps dying after 2 minutes? It\u2019s not the firewall, it\u2019s idleness.",
-    "desc": "<p>You spin up a Linux machine, and the next thing you want is SSH access from anywhere.</p>\n\n<p>Then the connection dies after about two mi",
-    "link": "https://dev.to/aditya_an1l/ssh-keeps-dying-after-2-minutes-its-not-the-firewall-its-idleness-14o3",
+    "title": "The Observability Tax: A Forensic Audit of How Your Unified Platform Became a Liability",
+    "desc": "<p>Observability was sold to the industry as the panacea for system reliability: instrument every trace, log every request header, emit metr",
+    "link": "https://dev.to/shashwatbishwen/the-observability-tax-a-forensic-audit-of-how-your-unified-platform-became-a-liability-2ei0",
     "topic": "general"
   }
 ]
