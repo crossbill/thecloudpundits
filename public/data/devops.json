@@ -1,50 +1,50 @@
 [
   {
-    "title": "Docker container keeps restarting? Find out why the loop won't stop",
-    "desc": "<p>You deployed to a VPS and <code>docker ps</code> keeps flipping between <code>Restarting (1)</code> and a few seconds of <code>Up</code>.",
-    "link": "https://dev.to/itops/docker-container-keeps-restarting-find-out-why-the-loop-wont-stop-20ab",
-    "topic": "docker"
-  },
-  {
-    "title": "48-Hour Field Notes: The Batch Worker Vanished and My Re-Run Redid Every Item",
-    "desc": "<p>Two days ago I started a batch of prompt evaluations, closed the laptop lid, and assumed the free server would keep chewing through the q",
-    "link": "https://dev.to/codepy_1473/48-hour-field-notes-the-batch-worker-vanished-and-my-re-run-redid-every-item-505k",
+    "title": "Getting Hands\u2011On with DeepSeek\u2011v4.1\u2011Flash\u20111017: A DevOps\u2011Friendly LLM for Real\u2011World Apps",
+    "desc": "<h2>\n  \n  \n  1. What was released / announced\n</h2>\n\n<p>DeepSeek\u2011v4.1\u2011Flash\u20111017 is the latest open\u2011source large language model (LLM) from D",
+    "link": "https://dev.to/naveenmalothu/getting-hands-on-with-deepseek-v41-flash-1017-a-devops-friendly-llm-for-real-world-apps-3285",
     "topic": "general"
   },
   {
-    "title": "Cold Starts, Lost Files, and Green Dots: Five Myths About Using a Free Server as Staging",
-    "desc": "<p>My demo broke at 9:58 PM. The same URL answered at 9:40. My code did not change in between.</p>\n\n<p>That gap is the whole lesson. A free ",
-    "link": "https://dev.to/gitlab_3188/cold-starts-lost-files-and-green-dots-five-myths-about-using-a-free-server-as-staging-2mjj",
+    "title": "The 5 Queries I Run First When Postgres Is Slow",
+    "desc": "<p>When an API slows down and the database is the suspect, the hardest part isn't the fix. It's knowing where to look while everyone is watc",
+    "link": "https://dev.to/azadhmhd/the-5-queries-i-run-first-when-postgres-is-slow-6a",
     "topic": "general"
   },
   {
-    "title": "Making a Bot Production-Ready: Operation Logs, 2FA and Signed Plugins",
-    "desc": "<h2>\n  \n  \n  Scenario\n</h2>\n\n<p>Before a bot serves real users, an operator faces three questions: who changed the provider key yesterday an",
-    "link": "https://dev.to/rockchinq/making-a-bot-production-ready-operation-logs-2fa-and-signed-plugins-12n",
+    "title": "TikTok proxies: regional research and brand accounts",
+    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/tiktok-proxies/\" rel=\"noopener noreferrer\">proxymint</a>.</em></p>\n\n<p>TikTok ",
+    "link": "https://dev.to/proxymint/tiktok-proxies-regional-research-and-brand-accounts-4e58",
     "topic": "general"
   },
   {
-    "title": "Upgrading from 4.10 to 4.11: Migrating After the Built-in Runners Were Removed",
-    "desc": "<h2>\n  \n  \n  Scenario\n</h2>\n\n<p>A 4.10.11 instance runs one pipeline with the built-in <code>local-agent</code> Runner, reached by a bot thr",
-    "link": "https://dev.to/rockchinq/upgrading-from-410-to-411-migrating-after-the-built-in-runners-were-removed-40jj",
+    "title": "When Does a Website Need VPS Hosting?",
+    "desc": "<p>Many websites start with basic hosting, and that is completely fine. If you are running a small blog or a simple website, you may not nee",
+    "link": "https://dev.to/arthur_luca/when-does-a-website-need-vps-hosting-42pl",
     "topic": "general"
   },
   {
-    "title": "Find a mismatched deployment revision with a local MCP tool",
-    "desc": "<p><em>Written by a Weio AI operator. Weio is operated by AI agents under human ownership; we maintain the open-source tool used below.</em>",
-    "link": "https://dev.to/weio/find-a-mismatched-deployment-revision-with-a-local-mcp-tool-565f",
+    "title": "Five Free-Tier Myths That Break Your First Deploy (and a 60-Line Probe to Test Them)",
+    "desc": "<p>My script worked at 11pm. At 9am it returned 502.</p>\n\n<p>Nothing in my code changed. The host did. That gap is where most \"free tier\" ad",
+    "link": "https://dev.to/gitlab_3188/five-free-tier-myths-that-break-your-first-deploy-and-a-60-line-probe-to-test-them-12pc",
     "topic": "general"
   },
   {
-    "title": "Reliability and Security Engineering for Production LLM Workloads",
-    "desc": "<p>Large language models (LLMs) introduce failure modes into distributed systems that traditional HTTP health checks fail to capture. In a s",
-    "link": "https://dev.to/ranjitkumarkonjeti/reliability-and-pre-commit-security-for-non-deterministic-ai-workloads-2697",
-    "topic": "secops"
+    "title": "Decide What a Model May Draft Before It Writes: A Section Ownership Gate for Docs",
+    "desc": "<h1>\n  \n  \n  Decide What a Model May Draft Before It Writes: A Section Ownership Gate for Docs\n</h1>\n\n<p>A model-drafted page fails in one o",
+    "link": "https://dev.to/github_7727/decide-what-a-model-may-draft-before-it-writes-a-section-ownership-gate-for-docs-21im",
+    "topic": "general"
   },
   {
-    "title": "Why Your Ollama LLMs Are Running Painfully Slow on K3s",
-    "desc": "<div>\n    \n    \n  </div>\n\n\n\n<h1><span>Why Your Ollama LLMs Are Running Painfully Slow on K3s (And How to Fix GPU Pass-Through)</span></h1>\n<",
-    "link": "https://dev.to/zidane1688/why-your-ollama-llms-are-running-painfully-slow-on-k3s-bh",
+    "title": "Your Agent Patch's Green Didn't Travel: A Portability Ledger for Two-Machine Test Evidence",
+    "desc": "<p>A test result is a claim about a machine, not a claim about a patch.</p>\n\n<p>When an agent hands you a diff plus a green suite, the suite",
+    "link": "https://dev.to/datacpp_8185/your-agent-patchs-green-didnt-travel-a-portability-ledger-for-two-machine-test-evidence-m1l",
+    "topic": "general"
+  },
+  {
+    "title": "SSH keeps dying after 2 minutes? It\u2019s not the firewall, it\u2019s idleness.",
+    "desc": "<p>You spin up a Linux machine, and the next thing you want is SSH access from anywhere.</p>\n\n<p>Then the connection dies after about two mi",
+    "link": "https://dev.to/aditya_an1l/ssh-keeps-dying-after-2-minutes-its-not-the-firewall-its-idleness-14o3",
     "topic": "general"
   }
 ]
