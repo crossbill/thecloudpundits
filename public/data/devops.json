@@ -1,50 +1,50 @@
 [
   {
-    "title": "Localizing Open-Source ERP: How Odoo 19 is Adapted for Solar Hijri, Complex Tax, and RTL",
-    "desc": "<p>Enterprise Resource Planning (ERP) adoption in non-Western markets frequently faces a severe bottleneck: native ERP engines are deeply ha",
-    "link": "https://dev.to/mohammad_mostafazadeh_f0a/localizing-open-source-erp-how-odoo-19-is-adapted-for-solar-hijri-complex-tax-and-rtl-4m9i",
+    "title": "Docker container keeps restarting? Find out why the loop won't stop",
+    "desc": "<p>You deployed to a VPS and <code>docker ps</code> keeps flipping between <code>Restarting (1)</code> and a few seconds of <code>Up</code>.",
+    "link": "https://dev.to/itops/docker-container-keeps-restarting-find-out-why-the-loop-wont-stop-20ab",
+    "topic": "docker"
+  },
+  {
+    "title": "48-Hour Field Notes: The Batch Worker Vanished and My Re-Run Redid Every Item",
+    "desc": "<p>Two days ago I started a batch of prompt evaluations, closed the laptop lid, and assumed the free server would keep chewing through the q",
+    "link": "https://dev.to/codepy_1473/48-hour-field-notes-the-batch-worker-vanished-and-my-re-run-redid-every-item-505k",
     "topic": "general"
   },
   {
-    "title": "A 200 response and a broken page: what screenshot monitoring taught me",
-    "desc": "<p>An uptime check answers one question: did the server respond? Visitors ask a different one: can I use this page? After a few years of loo",
-    "link": "https://dev.to/raiansar/a-200-response-and-a-broken-page-what-screenshot-monitoring-taught-me-1jbi",
+    "title": "Cold Starts, Lost Files, and Green Dots: Five Myths About Using a Free Server as Staging",
+    "desc": "<p>My demo broke at 9:58 PM. The same URL answered at 9:40. My code did not change in between.</p>\n\n<p>That gap is the whole lesson. A free ",
+    "link": "https://dev.to/gitlab_3188/cold-starts-lost-files-and-green-dots-five-myths-about-using-a-free-server-as-staging-2mjj",
     "topic": "general"
   },
   {
-    "title": "Marker-Delimited Doc Regions: A Hash Gate That Keeps Model Drafts Out of Human-Owned Text",
-    "desc": "<p>The boundary between what a model may draft and what a human must own survives only if it is machine-readable and checked on every commit",
-    "link": "https://dev.to/github_7727/marker-delimited-doc-regions-a-hash-gate-that-keeps-model-drafts-out-of-human-owned-text-39e7",
+    "title": "Making a Bot Production-Ready: Operation Logs, 2FA and Signed Plugins",
+    "desc": "<h2>\n  \n  \n  Scenario\n</h2>\n\n<p>Before a bot serves real users, an operator faces three questions: who changed the provider key yesterday an",
+    "link": "https://dev.to/rockchinq/making-a-bot-production-ready-operation-logs-2fa-and-signed-plugins-12n",
     "topic": "general"
   },
   {
-    "title": "ngrok vs Cloudflare Tunnel vs Tailscale Funnel: Which One for Testing Webhooks on Localhost?",
-    "desc": "<p><strong>Short answer:</strong> For a throwaway webhook test, Cloudflare's quick tunnel is the lowest-friction option because it needs no ",
-    "link": "https://dev.to/libme/ngrok-vs-cloudflare-tunnel-vs-tailscale-funnel-which-one-for-testing-webhooks-on-localhost-3l23",
+    "title": "Upgrading from 4.10 to 4.11: Migrating After the Built-in Runners Were Removed",
+    "desc": "<h2>\n  \n  \n  Scenario\n</h2>\n\n<p>A 4.10.11 instance runs one pipeline with the built-in <code>local-agent</code> Runner, reached by a bot thr",
+    "link": "https://dev.to/rockchinq/upgrading-from-410-to-411-migrating-after-the-built-in-runners-were-removed-40jj",
     "topic": "general"
   },
   {
-    "title": "What Amazon buying DuckDB's makers means for Aurora users",
-    "desc": "<p>Amazon has acquired DuckLabs, the Amsterdam-based company behind the analytical database DuckDB, <a href=\"https://www.infoq.com/news/2026",
-    "link": "https://dev.to/pickuma/what-amazon-buying-duckdbs-makers-means-for-aurora-users-33cm",
+    "title": "Find a mismatched deployment revision with a local MCP tool",
+    "desc": "<p><em>Written by a Weio AI operator. Weio is operated by AI agents under human ownership; we maintain the open-source tool used below.</em>",
+    "link": "https://dev.to/weio/find-a-mismatched-deployment-revision-with-a-local-mcp-tool-565f",
     "topic": "general"
   },
   {
-    "title": "I built a self-hosted deploy tool that looks like tmux (and can be driven by an AI agent)",
-    "desc": "<p>I deploy a handful of projects to a handful of my own servers. Not enough to justify Kubernetes, too many to keep doing <code>ssh</code>,",
-    "link": "https://dev.to/kield01/i-built-a-self-hosted-deploy-tool-that-looks-like-tmux-and-can-be-driven-by-an-ai-agent-3ldn",
-    "topic": "general"
+    "title": "Reliability and Security Engineering for Production LLM Workloads",
+    "desc": "<p>Large language models (LLMs) introduce failure modes into distributed systems that traditional HTTP health checks fail to capture. In a s",
+    "link": "https://dev.to/ranjitkumarkonjeti/reliability-and-pre-commit-security-for-non-deterministic-ai-workloads-2697",
+    "topic": "secops"
   },
   {
-    "title": "Deletion Deadlines for Signed Document Backups: Private Buckets and Timed Download Links",
-    "desc": "<p>Use a private bucket with presigned, short-lived download links when your app data backups are signed documents that carry a fixed deleti",
-    "link": "https://dev.to/zanesterling7589/deletion-deadlines-for-signed-document-backups-private-buckets-and-timed-download-links-1idj",
-    "topic": "general"
-  },
-  {
-    "title": "Package Drift Weekly \u2014 2026-10-17",
-    "desc": "<p><em>Automated weekly digest from <a href=\"https://rapidapi.com/pkgdrift-pkgdrift-default/api/package-drift-vulnerability-intelligence\" re",
-    "link": "https://dev.to/pkgdrift/package-drift-weekly-2026-10-17-39ga",
+    "title": "Why Your Ollama LLMs Are Running Painfully Slow on K3s",
+    "desc": "<div>\n    \n    \n  </div>\n\n\n\n<h1><span>Why Your Ollama LLMs Are Running Painfully Slow on K3s (And How to Fix GPU Pass-Through)</span></h1>\n<",
+    "link": "https://dev.to/zidane1688/why-your-ollama-llms-are-running-painfully-slow-on-k3s-bh",
     "topic": "general"
   }
 ]
