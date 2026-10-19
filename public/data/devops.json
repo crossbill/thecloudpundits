@@ -1,50 +1,50 @@
 [
   {
-    "title": "Could a New Teammate Follow Your Runbook Page Alone?",
-    "desc": "<p>Your teammate starts their first shadow shift on Monday. On Sunday night you open the runbook page for the disk alert, to check it's read",
-    "link": "https://dev.to/devgridstaffing/could-a-new-teammate-follow-your-runbook-page-alone-14dg",
+    "title": "n8n-sync \u2014 Git-based version control for n8n Community Edition workflows",
+    "desc": "<p>If you are self-hosting n8n Community Edition, you already know the pain: no built-in version control. Enterprise has Source Control at \u20ac",
+    "link": "https://dev.to/badwalx/n8n-sync-git-based-version-control-for-n8n-community-edition-workflows-1c27",
     "topic": "general"
   },
   {
-    "title": "Looking for the Best Cryptocurrency Recovery Company? Contact ZEUS CRYPTO RECOVERY SERVICES",
-    "desc": "<p>Zeus Crypto Recovery Service provides expert, enterprise-grade asset recovery for individuals and institutions that have lost digital ass",
-    "link": "https://dev.to/matthew_kavine_c4083ffb18/looking-for-the-best-cryptocurrency-recovery-company-contact-zeus-crypto-recovery-services-389i",
+    "title": "The Test Wasn't Wrong. It Was Answering an Older Question.",
+    "desc": "<h1>\n  \n  \n  The Test Wasn't Wrong. It Was Answering an Older Question.\n</h1>\n\n<p>I shipped a change I had reviewed, simulated, and deployed",
+    "link": "https://dev.to/samhartley_dev/the-test-wasnt-wrong-it-was-answering-an-older-question-50la",
     "topic": "general"
   },
   {
-    "title": "Cloud & DevOps Series: Week 2 - Writing Better Scripts, Tuning Storage, and Reading Network Traffic",
-    "desc": "<p>Following up on last week\u2019s Linux and Git foundations, Week 2 shifts focus from atomic commands to building resilient systems automation.",
-    "link": "https://dev.to/ojosamuel129/enterprise-cloud-devops-series-week-2-production-scripting-lvm-storage-engineering-network-1ja5",
+    "title": "Architectural Deep-Dive: Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+    "desc": "<h1>\n  \n  \n  Beyond Reactive RAG: Compiling Unstructured Corpora into Agentic Workspaces\n</h1>\n\n<p>Production AI agents face an architectura",
+    "link": "https://dev.to/hordii_bohdan/architectural-deep-dive-librarian-agents-training-llms-to-curate-long-context-workspaces-that-2o5a",
     "topic": "general"
   },
   {
-    "title": "Node.js \"fetch failed\" with ETIMEDOUT or ENETUNREACH While curl Works: The Broken IPv6 Route",
-    "desc": "<p><strong>Short answer:</strong> if a Node.js request dies with <code>TypeError: fetch failed</code>, <code>AggregateError [ETIMEDOUT]</cod",
-    "link": "https://dev.to/libme/nodejs-fetch-failed-with-etimedout-or-enetunreach-while-curl-works-the-broken-ipv6-route-7g7",
+    "title": "Your Nightly Job Ran Once, Right? Five Scheduling Myths and an Idempotency Ledger",
+    "desc": "<p>I woke up to three identical triage comments on one issue.</p>\n\n<p>The model did not hallucinate. My nightly job ran three times.</p>\n\n<p",
+    "link": "https://dev.to/gitlab_3188/your-nightly-job-ran-once-right-five-scheduling-myths-and-an-idempotency-ledger-192c",
     "topic": "general"
   },
   {
-    "title": "A $9,400 GCP bill where $3,000 had no owner",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/a-9400-gcp-bill-where-3000-had-no-owner-1aa7",
-    "topic": "gcp"
-  },
-  {
-    "title": "Enterprise Cloud Engineer & DevOps Series. Building scalable architecture in public - one project, one blueprint, one week at a time.",
-    "desc": "<p>After years of managing enterprise cloud systems behind closed corporate doors, I\u2019m taking everything I know about infrastructure enginee",
-    "link": "https://dev.to/ojosamuel129/enterprise-cloud-engineer-devops-series-building-scalable-architecture-in-public-one-project-1na1",
+    "title": "48-Hour Field Notes: I Made My Batch Job Ask Permission Before Touching a Free Model Endpoint",
+    "desc": "<p>Two days ago I moved a batch job onto a free server and pointed it at a free model endpoint, and for the first eight hours I was sure I h",
+    "link": "https://dev.to/codepy_1473/48-hour-field-notes-i-made-my-batch-job-ask-permission-before-touching-a-free-model-endpoint-l8",
     "topic": "general"
   },
   {
-    "title": "Your AI-generated app works locally but not when deployed: 6 checks before you ship",
-    "desc": "<p>AI tools like Lovable, Bolt, Cursor and Replit can generate a working app in an afternoon. Then you deploy it and it fails in a way that ",
-    "link": "https://dev.to/leshan/your-ai-generated-app-works-locally-but-not-when-deployed-6-checks-before-you-ship-501i",
+    "title": "Your Nightly Job Ran Once, Right? Five Scheduling Myths and an Idempotency Ledger",
+    "desc": "<p>I woke up to three identical triage comments on one issue.</p>\n\n<p>The model did not hallucinate. My nightly job ran three times.</p>\n\n<p",
+    "link": "https://dev.to/gitlab_3188/your-nightly-job-ran-once-right-five-scheduling-myths-and-an-idempotency-ledger-56ll",
     "topic": "general"
   },
   {
-    "title": "How I Built a Strict SOC2 Compliance Gate in Jira using Atlassian Forge & KVS",
-    "desc": "<p>If you've ever gone through a SOC2 audit, you know the drill. Auditors want proof that every piece of code deployed to production went th",
-    "link": "https://dev.to/ace7coder/how-i-built-a-strict-soc2-compliance-gate-in-jira-using-atlassian-forge-kvs-2mbo",
+    "title": "Measure the Rewrite, Not the Prompt: Revoke Doc Drafting Rights from Post-Merge Receipts",
+    "desc": "<p>Most teams argue about whether a model should have been allowed to draft a documentation section at all. The cheaper question arrives a w",
+    "link": "https://dev.to/github_7727/measure-the-rewrite-not-the-prompt-revoke-doc-drafting-rights-from-post-merge-receipts-3no8",
+    "topic": "general"
+  },
+  {
+    "title": "How Cron Expressions Really Work: The 5-Field vs 6-Field Syntax, Day-of-Week Traps (Sunday 0 vs 7), Daylight Saving Time Skips",
+    "desc": "<h1>\n  \n  \n  How Cron Expressions Really Work: The 5-Field vs 6-Field Syntax, Day-of-Week Traps (Sunday 0 vs 7), Daylight Saving Time Skips,",
+    "link": "https://dev.to/tinali7564eng/how-cron-expressions-really-work-the-5-field-vs-6-field-syntax-day-of-week-traps-sunday-0-vs-7-3k6o",
     "topic": "general"
   }
 ]
