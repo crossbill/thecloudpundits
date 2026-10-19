@@ -1,50 +1,50 @@
 [
   {
-    "title": "How Physical AI Is Changing Industrial Decision Making",
-    "desc": "<h1>\n  \n  \n  Beyond Smart Factories: How Physical AI Is Changing Industrial Decision-Making\n</h1>\n\n<p>industries are becoming more connected",
-    "link": "https://dev.to/abhilash_abhi_5a1e33390c3/how-physical-ai-is-changing-industrial-decision-making-l8j",
+    "title": "Node.js Error Alerting with Metrics API Polling and 429 Retry Backoff",
+    "desc": "<p>Poll metrics or error search from a Node.js worker, retry HTTP 429 responses with bounded exponential backoff, and deduplicate notificati",
+    "link": "https://dev.to/mortimernilsson7694/nodejs-error-alerting-with-metrics-api-polling-and-429-retry-backoff-106k",
     "topic": "general"
   },
   {
-    "title": "Multiple Amazon seller accounts: what Amazon allows and how",
-    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/multiple-amazon-seller-accounts/\" rel=\"noopener noreferrer\">proxymint</a>.</em",
-    "link": "https://dev.to/proxymint/multiple-amazon-seller-accounts-what-amazon-allows-and-how-1ehk",
+    "title": "Two .npmrc Lines That Stop npm Supply Chain Worms (Tested on npm 10, 11 and 12)",
+    "desc": "<p>Every <code>npm install</code> trusts hundreds of strangers at once, and the worms going around npm this year exploit two things in parti",
+    "link": "https://dev.to/moksh/two-npmrc-lines-that-stop-npm-supply-chain-worms-tested-on-npm-10-11-and-12-99k",
     "topic": "general"
   },
   {
-    "title": "at 4:20am our AI company deleted its own to-do list",
-    "desc": "<p>if you run agents, you've seen the story. GPT-5.6 Sol wiping a developer's Mac after a shell variable expanded wrong. a child agent left ",
-    "link": "https://dev.to/lodar/at-420am-our-ai-company-deleted-its-own-to-do-list-6p2",
+    "title": "Localhost Lies About Latency: Why Your Tests Pass and Your Multiplayer Game Doesn't",
+    "desc": "<p>Localhost has no latency. A request from one process to another on the same machine arrives in a fraction of a millisecond, every time, w",
+    "link": "https://dev.to/tdk-cli/localhost-lies-about-latency-why-your-tests-pass-and-your-multiplayer-game-doesnt-4dgd",
     "topic": "general"
   },
   {
-    "title": "Is your VPS running out of disk space faster than expected? One quick tip: regularly check log",
-    "desc": "<p>Is your VPS running out of disk space faster than expected? One quick tip: regularly check log files and unused backups, since they often",
-    "link": "https://dev.to/monovm/is-your-vps-running-out-of-disk-space-faster-than-expected-one-quick-tip-regularly-check-log-1fon",
+    "title": "What Happens When Your Website Outgrows Shared Hosting?",
+    "desc": "<p>A website can start small and run perfectly well on shared hosting. But as your project grows, you may need more resources, better contro",
+    "link": "https://dev.to/arthur_luca/what-happens-when-your-website-outgrows-shared-hosting-4f5g",
     "topic": "general"
   },
   {
-    "title": "vLLM vs. Ollama vs. llama.cpp: The Definitive LLM Inference Engine Guide",
-    "desc": "<p><strong>ENTERPRISE AI ARCHITECTURE & INFERENCE SYSTEMS ENGINEERING</strong></p>\n\n<p><em>Technical Audit: PagedAttention KV Cache Physics,",
-    "link": "https://dev.to/abdulrahman_maslmany/vllm-vs-ollama-vs-llamacpp-the-definitive-llm-inference-engine-guide-13ih",
+    "title": "Automating Cloud FinOps Migrations and SOC2 Pentest Scoping: 1-Prompt Topology Diagrams, TCO Calculators, and vCISO Retainer SOWs",
+    "desc": "<p>In technical B2B consulting\u2014specifically Cloud FinOps/DevOps architecture and SOC 2 penetration testing\u2014principals routinely lose six to ",
+    "link": "https://dev.to/brian_a2eebd5059c1c2/automating-cloud-finops-migrations-and-soc2-pentest-scoping-1-prompt-topology-diagrams-tco-3mfc",
+    "topic": "finops"
+  },
+  {
+    "title": "RFC 1918 Gateway Collisions: Why Downstream Routers Auto-Shift Subnets (and How to Diagnose via CLI)",
+    "desc": "<p>When cascading a secondary wireless router or homelab firewall behind an ISP-supplied Optical Network Terminal (ONT) or combo gateway, ne",
+    "link": "https://dev.to/routeripguide/rfc-1918-gateway-collisions-why-downstream-routers-auto-shift-subnets-and-how-to-diagnose-via-cli-570",
     "topic": "general"
   },
   {
-    "title": "IT Risk Management for Engineers: Turning Technical Debt Into Risks the Business Can see",
-    "desc": "<p>Every engineering team knows where the bodies are buried. The service account with admin rights nobody remembers granting. The library tw",
-    "link": "https://dev.to/compliance_desk/it-risk-management-for-engineers-turning-technical-debt-into-risks-the-business-can-kcc",
+    "title": "Choosing Requirements Management Software: A Practitioner\u2019s Decision Guide",
+    "desc": "<p>An approved requirement can still lose its connection to the work that implements and verifies it. When teams use separate records for re",
+    "link": "https://dev.to/ralphaderorho/choosing-requirements-management-software-a-practitioners-decision-guide-5603",
     "topic": "general"
   },
   {
-    "title": "First Drafts All the Way Down",
-    "desc": "<p><em>This post was written with AI assistance (Claude) for structure, formatting, and pulling the numbers out of my logs. The process, the",
-    "link": "https://dev.to/drmikecrowe/first-drafts-all-the-way-down-1ppi",
-    "topic": "general"
-  },
-  {
-    "title": "X-Real-IP header confusion in nginx: fix the wrong IP",
-    "desc": "<p>Every request in your Laravel log comes from <code>172.18.0.1</code>, and <code>request()->ip()</code> returns that same address for ever",
-    "link": "https://dev.to/faizan050/x-real-ip-header-confusion-in-nginx-fix-the-wrong-ip-2ggk",
+    "title": "Roll back an EKS release in 16 seconds without restarting a pod",
+    "desc": "<p>Every team running on Kubernetes knows this moment. A release goes out, something looks off, and the only \"undo\" button is another deploy",
+    "link": "https://dev.to/abhimanyu9988/roll-back-an-eks-release-in-16-seconds-without-restarting-a-pod-2fcl",
     "topic": "general"
   }
 ]
