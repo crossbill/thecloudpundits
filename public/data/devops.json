@@ -1,50 +1,50 @@
 [
   {
-    "title": "Node.js Error Alerting with Metrics API Polling and 429 Retry Backoff",
-    "desc": "<p>Poll metrics or error search from a Node.js worker, retry HTTP 429 responses with bounded exponential backoff, and deduplicate notificati",
-    "link": "https://dev.to/mortimernilsson7694/nodejs-error-alerting-with-metrics-api-polling-and-429-retry-backoff-106k",
+    "title": "Sobrevivendo ao Caos: Injetando Falhas com o ChaosEngineeringMasterDeck",
+    "desc": "<p><em>Como transformar \"e se tudo der errado?\" em um jogo de cartas que deixa o seu sistema mais forte.</em></p>\n\n\n\n\n<p>Toda equipe tem aqu",
+    "link": "https://dev.to/davi_sousaoliveira_a68e9/sobrevivendo-ao-caos-injetando-falhas-com-o-chaosengineeringmasterdeck-42jp",
     "topic": "general"
   },
   {
-    "title": "Two .npmrc Lines That Stop npm Supply Chain Worms (Tested on npm 10, 11 and 12)",
-    "desc": "<p>Every <code>npm install</code> trusts hundreds of strangers at once, and the worms going around npm this year exploit two things in parti",
-    "link": "https://dev.to/moksh/two-npmrc-lines-that-stop-npm-supply-chain-worms-tested-on-npm-10-11-and-12-99k",
+    "title": "\u062f\u0644\u064a\u0644 \u0631\u0648\u0627\u062a\u0628 \u0645\u0647\u0646\u062f\u0633\u064a DevOps: \u0643\u0645 \u064a\u0643\u0633\u0628 \u0645\u062d\u062a\u0631\u0641\u0648 \u0627\u0644\u0633\u062d\u0627\u0628 \u0648\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0628\u0631\u0645\u062c\u064a\u0627\u062a\u061f",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/cashminde/dlyl-rwtb-mhndsy-devops-km-yksb-mhtrfw-lshb-wttwyr-lbrmjyt-30l1",
     "topic": "general"
   },
   {
-    "title": "Localhost Lies About Latency: Why Your Tests Pass and Your Multiplayer Game Doesn't",
-    "desc": "<p>Localhost has no latency. A request from one process to another on the same machine arrives in a fraction of a millisecond, every time, w",
-    "link": "https://dev.to/tdk-cli/localhost-lies-about-latency-why-your-tests-pass-and-your-multiplayer-game-doesnt-4dgd",
+    "title": "We\u2019ve Used TDK CLI (Including Private Source) for 2 Years: Here\u2019s Why You Need to Know",
+    "desc": "<p>Two years ago our team was drowning in local setup. Every new service meant another Dockerfile, another entry in a sprawling Compose file",
+    "link": "https://dev.to/tdk-cli/weve-used-tdk-cli-including-private-source-for-2-years-heres-why-you-need-to-know-79l",
     "topic": "general"
   },
   {
-    "title": "What Happens When Your Website Outgrows Shared Hosting?",
-    "desc": "<p>A website can start small and run perfectly well on shared hosting. But as your project grows, you may need more resources, better contro",
-    "link": "https://dev.to/arthur_luca/what-happens-when-your-website-outgrows-shared-hosting-4f5g",
+    "title": "Bookmark It! TDK CLI: A Critical Developer Review Covering 40 Points",
+    "desc": "<p>TDK CLI (from the tdk-landscape organization) is a relatively new, MIT-licensed command-line tool that converts simple <code>service.json",
+    "link": "https://dev.to/tdk-cli/bookmark-it-tdk-cli-a-critical-developer-review-covering-40-points-52bi",
     "topic": "general"
   },
   {
-    "title": "Automating Cloud FinOps Migrations and SOC2 Pentest Scoping: 1-Prompt Topology Diagrams, TCO Calculators, and vCISO Retainer SOWs",
-    "desc": "<p>In technical B2B consulting\u2014specifically Cloud FinOps/DevOps architecture and SOC 2 penetration testing\u2014principals routinely lose six to ",
-    "link": "https://dev.to/brian_a2eebd5059c1c2/automating-cloud-finops-migrations-and-soc2-pentest-scoping-1-prompt-topology-diagrams-tco-3mfc",
-    "topic": "finops"
+    "title": "Three bugs made Claude worse, and the checks never saw it",
+    "desc": "<p><em>Originally published at <a href=\"https://trustboundarystudio.com/posts/anthropic-three-bugs-2025/\" rel=\"noopener noreferrer\">trustbou",
+    "link": "https://dev.to/trustboundary/three-bugs-made-claude-worse-and-the-checks-never-saw-it-16ja",
+    "topic": "anthropic"
   },
   {
-    "title": "RFC 1918 Gateway Collisions: Why Downstream Routers Auto-Shift Subnets (and How to Diagnose via CLI)",
-    "desc": "<p>When cascading a secondary wireless router or homelab firewall behind an ISP-supplied Optical Network Terminal (ONT) or combo gateway, ne",
-    "link": "https://dev.to/routeripguide/rfc-1918-gateway-collisions-why-downstream-routers-auto-shift-subnets-and-how-to-diagnose-via-cli-570",
+    "title": "What final structured concurrency in JDK 28 means",
+    "desc": "<p>According to InfoQ's report, <a href=\"https://www.infoq.com/news/2026/10/jep-543-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_",
+    "link": "https://dev.to/pickuma/what-final-structured-concurrency-in-jdk-28-means-2e04",
     "topic": "general"
   },
   {
-    "title": "Choosing Requirements Management Software: A Practitioner\u2019s Decision Guide",
-    "desc": "<p>An approved requirement can still lose its connection to the work that implements and verifies it. When teams use separate records for re",
-    "link": "https://dev.to/ralphaderorho/choosing-requirements-management-software-a-practitioners-decision-guide-5603",
+    "title": "How OpenTelemetry observes AI agents without code changes",
+    "desc": "<p>Originally posted to <a href=\"https://www.causely.ai/blog/opentelemetry-ai-agent-observability-obi\" rel=\"noopener noreferrer\">causely.ai<",
+    "link": "https://dev.to/causely/how-opentelemetry-observes-ai-agents-without-code-changes-bm3",
     "topic": "general"
   },
   {
-    "title": "Roll back an EKS release in 16 seconds without restarting a pod",
-    "desc": "<p>Every team running on Kubernetes knows this moment. A release goes out, something looks off, and the only \"undo\" button is another deploy",
-    "link": "https://dev.to/abhimanyu9988/roll-back-an-eks-release-in-16-seconds-without-restarting-a-pod-2fcl",
+    "title": "48-Hour Field Notes: Every Restart Restarted My Batch Job, So I Added Leases",
+    "desc": "<p>Two days into a batch classification run, I opened the log and saw line one again. Not a continuation of line one \u2014 the same line one, wi",
+    "link": "https://dev.to/codepy_1473/48-hour-field-notes-every-restart-restarted-my-batch-job-so-i-added-leases-15do",
     "topic": "general"
   }
 ]
