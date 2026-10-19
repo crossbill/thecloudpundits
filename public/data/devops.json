@@ -1,50 +1,50 @@
 [
   {
-    "title": "n8n-sync \u2014 Git-based version control for n8n Community Edition workflows",
-    "desc": "<p>If you are self-hosting n8n Community Edition, you already know the pain: no built-in version control. Enterprise has Source Control at \u20ac",
-    "link": "https://dev.to/badwalx/n8n-sync-git-based-version-control-for-n8n-community-edition-workflows-1c27",
+    "title": "xtty \u2014 A terminal that makes everyday work easier",
+    "desc": "<p><strong>Spend your time on the work, not the terminal.</strong></p>\n\n<p>I'm the developer of xtty, a native macOS terminal for everyday s",
+    "link": "https://dev.to/jian_xu_607a1d700c0b997a2/xtty-opening-a-second-ssh-shell-without-repeating-the-setup-4c2c",
     "topic": "general"
   },
   {
-    "title": "The Test Wasn't Wrong. It Was Answering an Older Question.",
-    "desc": "<h1>\n  \n  \n  The Test Wasn't Wrong. It Was Answering an Older Question.\n</h1>\n\n<p>I shipped a change I had reviewed, simulated, and deployed",
-    "link": "https://dev.to/samhartley_dev/the-test-wasnt-wrong-it-was-answering-an-older-question-50la",
+    "title": "Share a Kafka Topic Only When Order Matters",
+    "desc": "<p>We merged Kafka topics because the same services consumed the messages together. It felt simpler. Two incidents showed what we had really",
+    "link": "https://dev.to/joungpark/share-a-kafka-topic-only-when-order-matters-4dlp",
     "topic": "general"
   },
   {
-    "title": "Architectural Deep-Dive: Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
-    "desc": "<h1>\n  \n  \n  Beyond Reactive RAG: Compiling Unstructured Corpora into Agentic Workspaces\n</h1>\n\n<p>Production AI agents face an architectura",
-    "link": "https://dev.to/hordii_bohdan/architectural-deep-dive-librarian-agents-training-llms-to-curate-long-context-workspaces-that-2o5a",
+    "title": "Your AI Agent Just Got IP-Banned by Yelp \u2014 A Builder's Survival Guide",
+    "desc": "<h1>\n  \n  \n  Your AI Agent Just Got IP-Banned by Yelp \u2014 A Builder's Survival Guide\n</h1>\n\n<p>The Verge reported this week that <strong>Yelp,",
+    "link": "https://dev.to/shivaysinghrajput/your-ai-agent-just-got-ip-banned-by-yelp-a-builders-survival-guide-2o85",
     "topic": "general"
   },
   {
-    "title": "Your Nightly Job Ran Once, Right? Five Scheduling Myths and an Idempotency Ledger",
-    "desc": "<p>I woke up to three identical triage comments on one issue.</p>\n\n<p>The model did not hallucinate. My nightly job ran three times.</p>\n\n<p",
-    "link": "https://dev.to/gitlab_3188/your-nightly-job-ran-once-right-five-scheduling-myths-and-an-idempotency-ledger-192c",
+    "title": "Before You Wire an LLM Into GPU Fault Triage: AI-Node-Sentinel's Integration Points and Six Measured Failure Modes",
+    "desc": "<p>Author: Guangyi Zhao<br />\nDate: 2026-10-14<br />\nSubject: AI-Node-Sentinel (open-source project by the author, github.com/Ezra-Zhao/AI-N",
+    "link": "https://dev.to/ezrazhao/before-you-wire-an-llm-into-gpu-fault-triage-ai-node-sentinels-integration-points-and-six-4nnk",
     "topic": "general"
   },
   {
-    "title": "48-Hour Field Notes: I Made My Batch Job Ask Permission Before Touching a Free Model Endpoint",
-    "desc": "<p>Two days ago I moved a batch job onto a free server and pointed it at a free model endpoint, and for the first eight hours I was sure I h",
-    "link": "https://dev.to/codepy_1473/48-hour-field-notes-i-made-my-batch-job-ask-permission-before-touching-a-free-model-endpoint-l8",
+    "title": "Building the MyZubster Metaverse: Sessions, Verified Identities, CI Hardening, and the Road Ahead",
+    "desc": "<p>Building the MyZubster Metaverse: Sessions, Verified Identities, CI Hardening, and the Road Ahead<br />\nMyZubster is evolving from a trad",
+    "link": "https://dev.to/danielioni/building-the-myzubster-metaverse-sessions-verified-identities-ci-hardening-and-the-road-ahead-2k4",
     "topic": "general"
   },
   {
-    "title": "Your Nightly Job Ran Once, Right? Five Scheduling Myths and an Idempotency Ledger",
-    "desc": "<p>I woke up to three identical triage comments on one issue.</p>\n\n<p>The model did not hallucinate. My nightly job ran three times.</p>\n\n<p",
-    "link": "https://dev.to/gitlab_3188/your-nightly-job-ran-once-right-five-scheduling-myths-and-an-idempotency-ledger-56ll",
+    "title": "I compared 7 transactional email APIs so you don't have to (2026 pricing)",
+    "desc": "<p><strong>Disclosure:</strong> StackTested is funded by affiliate links. Some links in this post will become tracked affiliate links once o",
+    "link": "https://dev.to/northloopworks/i-compared-7-transactional-email-apis-so-you-dont-have-to-2026-pricing-5912",
     "topic": "general"
   },
   {
-    "title": "Measure the Rewrite, Not the Prompt: Revoke Doc Drafting Rights from Post-Merge Receipts",
-    "desc": "<p>Most teams argue about whether a model should have been allowed to draft a documentation section at all. The cheaper question arrives a w",
-    "link": "https://dev.to/github_7727/measure-the-rewrite-not-the-prompt-revoke-doc-drafting-rights-from-post-merge-receipts-3no8",
+    "title": "I Committed 518,000 Lines in 30 Days. Production Kept 235,000.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https",
+    "link": "https://dev.to/hoelee/i-committed-518000-lines-in-30-days-production-kept-235000-3jm2",
     "topic": "general"
   },
   {
-    "title": "How Cron Expressions Really Work: The 5-Field vs 6-Field Syntax, Day-of-Week Traps (Sunday 0 vs 7), Daylight Saving Time Skips",
-    "desc": "<h1>\n  \n  \n  How Cron Expressions Really Work: The 5-Field vs 6-Field Syntax, Day-of-Week Traps (Sunday 0 vs 7), Daylight Saving Time Skips,",
-    "link": "https://dev.to/tinali7564eng/how-cron-expressions-really-work-the-5-field-vs-6-field-syntax-day-of-week-traps-sunday-0-vs-7-3k6o",
+    "title": "How to Secure MCP Servers & AI Agents in Production: A Zero-Trust Hardening Blueprint",
+    "desc": "<p>An AI agent that works on a laptop changes drastically when given production tokens. Hardening relies on assuming the model is already co",
+    "link": "https://dev.to/anwariqbaldawar/how-to-secure-mcp-servers-ai-agents-in-production-a-zero-trust-hardening-blueprint-11c1",
     "topic": "general"
   }
 ]
