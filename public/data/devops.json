@@ -1,50 +1,50 @@
 [
   {
-    "title": "xtty \u2014 A terminal that makes everyday work easier",
-    "desc": "<p><strong>Spend your time on the work, not the terminal.</strong></p>\n\n<p>I'm the developer of xtty, a native macOS terminal for everyday s",
-    "link": "https://dev.to/jian_xu_607a1d700c0b997a2/xtty-opening-a-second-ssh-shell-without-repeating-the-setup-4c2c",
+    "title": "How Physical AI Is Changing Industrial Decision Making",
+    "desc": "<h1>\n  \n  \n  Beyond Smart Factories: How Physical AI Is Changing Industrial Decision-Making\n</h1>\n\n<p>industries are becoming more connected",
+    "link": "https://dev.to/abhilash_abhi_5a1e33390c3/how-physical-ai-is-changing-industrial-decision-making-l8j",
     "topic": "general"
   },
   {
-    "title": "Share a Kafka Topic Only When Order Matters",
-    "desc": "<p>We merged Kafka topics because the same services consumed the messages together. It felt simpler. Two incidents showed what we had really",
-    "link": "https://dev.to/joungpark/share-a-kafka-topic-only-when-order-matters-4dlp",
+    "title": "Multiple Amazon seller accounts: what Amazon allows and how",
+    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/multiple-amazon-seller-accounts/\" rel=\"noopener noreferrer\">proxymint</a>.</em",
+    "link": "https://dev.to/proxymint/multiple-amazon-seller-accounts-what-amazon-allows-and-how-1ehk",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent Just Got IP-Banned by Yelp \u2014 A Builder's Survival Guide",
-    "desc": "<h1>\n  \n  \n  Your AI Agent Just Got IP-Banned by Yelp \u2014 A Builder's Survival Guide\n</h1>\n\n<p>The Verge reported this week that <strong>Yelp,",
-    "link": "https://dev.to/shivaysinghrajput/your-ai-agent-just-got-ip-banned-by-yelp-a-builders-survival-guide-2o85",
+    "title": "at 4:20am our AI company deleted its own to-do list",
+    "desc": "<p>if you run agents, you've seen the story. GPT-5.6 Sol wiping a developer's Mac after a shell variable expanded wrong. a child agent left ",
+    "link": "https://dev.to/lodar/at-420am-our-ai-company-deleted-its-own-to-do-list-6p2",
     "topic": "general"
   },
   {
-    "title": "Before You Wire an LLM Into GPU Fault Triage: AI-Node-Sentinel's Integration Points and Six Measured Failure Modes",
-    "desc": "<p>Author: Guangyi Zhao<br />\nDate: 2026-10-14<br />\nSubject: AI-Node-Sentinel (open-source project by the author, github.com/Ezra-Zhao/AI-N",
-    "link": "https://dev.to/ezrazhao/before-you-wire-an-llm-into-gpu-fault-triage-ai-node-sentinels-integration-points-and-six-4nnk",
+    "title": "Is your VPS running out of disk space faster than expected? One quick tip: regularly check log",
+    "desc": "<p>Is your VPS running out of disk space faster than expected? One quick tip: regularly check log files and unused backups, since they often",
+    "link": "https://dev.to/monovm/is-your-vps-running-out-of-disk-space-faster-than-expected-one-quick-tip-regularly-check-log-1fon",
     "topic": "general"
   },
   {
-    "title": "Building the MyZubster Metaverse: Sessions, Verified Identities, CI Hardening, and the Road Ahead",
-    "desc": "<p>Building the MyZubster Metaverse: Sessions, Verified Identities, CI Hardening, and the Road Ahead<br />\nMyZubster is evolving from a trad",
-    "link": "https://dev.to/danielioni/building-the-myzubster-metaverse-sessions-verified-identities-ci-hardening-and-the-road-ahead-2k4",
+    "title": "vLLM vs. Ollama vs. llama.cpp: The Definitive LLM Inference Engine Guide",
+    "desc": "<p><strong>ENTERPRISE AI ARCHITECTURE & INFERENCE SYSTEMS ENGINEERING</strong></p>\n\n<p><em>Technical Audit: PagedAttention KV Cache Physics,",
+    "link": "https://dev.to/abdulrahman_maslmany/vllm-vs-ollama-vs-llamacpp-the-definitive-llm-inference-engine-guide-13ih",
     "topic": "general"
   },
   {
-    "title": "I compared 7 transactional email APIs so you don't have to (2026 pricing)",
-    "desc": "<p><strong>Disclosure:</strong> StackTested is funded by affiliate links. Some links in this post will become tracked affiliate links once o",
-    "link": "https://dev.to/northloopworks/i-compared-7-transactional-email-apis-so-you-dont-have-to-2026-pricing-5912",
+    "title": "IT Risk Management for Engineers: Turning Technical Debt Into Risks the Business Can see",
+    "desc": "<p>Every engineering team knows where the bodies are buried. The service account with admin rights nobody remembers granting. The library tw",
+    "link": "https://dev.to/compliance_desk/it-risk-management-for-engineers-turning-technical-debt-into-risks-the-business-can-kcc",
     "topic": "general"
   },
   {
-    "title": "I Committed 518,000 Lines in 30 Days. Production Kept 235,000.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https",
-    "link": "https://dev.to/hoelee/i-committed-518000-lines-in-30-days-production-kept-235000-3jm2",
+    "title": "First Drafts All the Way Down",
+    "desc": "<p><em>This post was written with AI assistance (Claude) for structure, formatting, and pulling the numbers out of my logs. The process, the",
+    "link": "https://dev.to/drmikecrowe/first-drafts-all-the-way-down-1ppi",
     "topic": "general"
   },
   {
-    "title": "How to Secure MCP Servers & AI Agents in Production: A Zero-Trust Hardening Blueprint",
-    "desc": "<p>An AI agent that works on a laptop changes drastically when given production tokens. Hardening relies on assuming the model is already co",
-    "link": "https://dev.to/anwariqbaldawar/how-to-secure-mcp-servers-ai-agents-in-production-a-zero-trust-hardening-blueprint-11c1",
+    "title": "X-Real-IP header confusion in nginx: fix the wrong IP",
+    "desc": "<p>Every request in your Laravel log comes from <code>172.18.0.1</code>, and <code>request()->ip()</code> returns that same address for ever",
+    "link": "https://dev.to/faizan050/x-real-ip-header-confusion-in-nginx-fix-the-wrong-ip-2ggk",
     "topic": "general"
   }
 ]
