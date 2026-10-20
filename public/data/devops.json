@@ -1,50 +1,50 @@
 [
   {
-    "title": "Stop Hand-Rolling VPS Deploys: Why I Built Shipown, an AI-Powered Deployment App",
-    "desc": "<p>If you have ever deployed a Next.js or Node app to your own Linux server, you know the drill. It is not hard, exactly. It is just <em>a l",
-    "link": "https://dev.to/vishvajeetshukla/stop-hand-rolling-vps-deploys-why-i-built-shipown-an-ai-powered-deployment-app-j4o",
+    "title": "Mapping Distributed Webhook Architectures and Event Schemas into Cognee with Svix",
+    "desc": "<p>Modern cloud applications rely on asynchronous events to communicate across services. Payments, user registrations, subscription changes,",
+    "link": "https://dev.to/deshu_exe/mapping-distributed-webhook-architectures-and-event-schemas-into-cognee-with-svix-3b78",
     "topic": "general"
   },
   {
-    "title": "Ahsay Ships a Second Round of Fixes for Two Chained Flaws on Backup Servers",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>AhsayCBS is the web management console for Ahsay's backup software, the server a managed service provider",
-    "link": "https://dev.to/echakiri/ahsay-ships-a-second-round-of-fixes-for-two-chained-flaws-on-backup-servers-2bb2",
+    "title": "Temperature 0 Is Not a Reproducibility Setting: Five Model Myths and a Drift Probe",
+    "desc": "<h1>\n  \n  \n  Temperature 0 Is Not a Reproducibility Setting: Five Model Myths and a Drift Probe\n</h1>\n\n<p>You shipped a prompt. It returned ",
+    "link": "https://dev.to/gitlab_3188/temperature-0-is-not-a-reproducibility-setting-five-model-myths-and-a-drift-probe-3d94",
+    "topic": "general"
+  },
+  {
+    "title": "Third-Party Integrations Are Your Biggest Secret Leakage Blind Spot",
+    "desc": "<h2>\n  \n  \n  The Attack Surface You're Probably Not Auditing\n</h2>\n\n<p>Most engineering teams now have some posture around their own reposit",
+    "link": "https://dev.to/maxxthematepng/third-party-integrations-are-your-biggest-secret-leakage-blind-spot-559a",
+    "topic": "general"
+  },
+  {
+    "title": "Eradicating AWS OOM Kills: 10M LLM Inferences on a $0 Cloud-Cost O(1) Memory Clamped Architecture",
+    "desc": "<p>High cloud API costs and Out-Of-Memory (OOM) failures in large-scale data pipelines are architectural defects, not hardware constraints. ",
+    "link": "https://dev.to/shotamatsubara/eradicating-aws-oom-kills-10m-llm-inferences-on-a-0-cloud-cost-o1-memory-clamped-architecture-1fb6",
     "topic": "aws"
   },
   {
-    "title": "My friend failed his OS exam by 4 marks and passed a cloud cert with 912 the same week",
-    "desc": "<p>My friend failed operating systems by 4 marks. Same week, he passed his first cloud certification with a score of 912.</p>\n\n<p>I keep thi",
-    "link": "https://dev.to/ronaldgosso/my-friend-failed-his-os-exam-by-4-marks-and-passed-a-cloud-cert-with-912-the-same-week-2eo4",
+    "title": "Stop shipping velocity deadlocks with platform guardrails \ud83d\udee1\ufe0f",
+    "desc": "<p>Reconciling engineering speed with compliance usually means manual reviews, change advisory boards, and painful release freezes before au",
+    "link": "https://dev.to/upsun/stop-shipping-velocity-deadlocks-with-platform-guardrails-25go",
+    "topic": "guardrails"
+  },
+  {
+    "title": "Managing SSH Servers Across Android and Windows Is a Pain. Here's an App That Tries to Fix It",
+    "desc": "<h1>\n  \n  \n  Managing SSH Servers Across Android and Windows? ShellSSH Offers a Simpler Way\n</h1>\n\n<p><em>An SSH terminal app worth explorin",
+    "link": "https://dev.to/theappreviewer/managing-ssh-servers-across-android-and-windows-is-a-pain-heres-an-app-that-tries-to-fix-it-3mef",
     "topic": "general"
   },
   {
-    "title": "BeyondTrust's Privileged Access Management Appliance Had a Backdoor That Survived Every Reboot",
-    "desc": "<p>A Chinese state-backed group spent seven weeks inside BeyondTrust's privileged access management appliance before anyone noticed. When IT",
-    "link": "https://dev.to/rbonweb/beyondtrusts-privileged-access-management-appliance-had-a-backdoor-that-survived-every-reboot-1eh8",
+    "title": "Protect Against Virtual Machine Cloning",
+    "desc": "<p>As Virtual Machine (VM) software becomes more commonplace, so do cloning licensing systems. By using VMs to replicate whole operating env",
+    "link": "https://dev.to/reprise_software/protect-against-virtual-machine-cloning-40f1",
     "topic": "general"
   },
   {
-    "title": "Deploy Your Next.js or Node App to Your Own VPS Over SSH \u2014 Without a PaaS",
-    "desc": "<p>I build websites and web apps for clients, and almost every project ends with the same question: <em>where does this actually run?</em></",
-    "link": "https://dev.to/vishvajeetshukla/deploy-your-nextjs-or-node-app-to-your-own-vps-over-ssh-without-a-paas-36nf",
-    "topic": "general"
-  },
-  {
-    "title": "Getting Hands\u2011On with Timestral: Mistral\u2019s Open\u2011Source Time\u2011Series Foundation Models",
-    "desc": "<h1>\n  \n  \n  What was released / announced\n</h1>\n\n<p>Mistral AI just opened the doors to <strong>Timestral</strong>, a suite of open\u2011source ",
-    "link": "https://dev.to/naveenmalothu/getting-hands-on-with-timestral-mistrals-open-source-time-series-foundation-models-3pkl",
-    "topic": "general"
-  },
-  {
-    "title": "Putting an API gateway in front of everything",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/boitumelo_phetla_022b64a2/putting-an-api-gateway-in-front-of-everything-4c17",
-    "topic": "general"
-  },
-  {
-    "title": "Build an Image Compress Budget Gate Before Heavy Assets Reach Production",
-    "desc": "<p>The page looked fine in review. The deployment passed. Then someone opened it on a slower mobile connection and found that the new hero i",
-    "link": "https://dev.to/_cafda18cb1684fc076f294/build-an-image-compress-budget-gate-before-heavy-assets-reach-production-49oc",
-    "topic": "general"
+    "title": "How Anthropic Replaced Git with Scion Using Claude",
+    "desc": "<p>On 13 October 2026, Anthropic published <a href=\"https://www.anthropic.com/engineering/redesigning-source-control\" rel=\"noopener noreferr",
+    "link": "https://dev.to/awiser/how-anthropic-replaced-git-with-scion-using-claude-1k0",
+    "topic": "anthropic"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "desc": "",
+    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "topic": "general"
+  },
+  {
+    "title": "MPS in PyTorch 2.15",
+    "desc": "",
+    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "topic": "general"
+  },
+  {
     "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
     "desc": "",
     "link": "https://huggingface.co/blog/hf-torchneuron",
@@ -33,18 +45,6 @@
     "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
     "desc": "",
     "link": "https://huggingface.co/blog/meta-muse-spark-open",
-    "topic": "general"
-  },
-  {
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "desc": "",
-    "link": "https://huggingface.co/blog/flux-3",
-    "topic": "general"
-  },
-  {
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "desc": "",
-    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
     "topic": "general"
   }
 ]
