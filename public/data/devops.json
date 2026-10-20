@@ -1,50 +1,50 @@
 [
   {
-    "title": "Sobrevivendo ao Caos: Injetando Falhas com o ChaosEngineeringMasterDeck",
-    "desc": "<p><em>Como transformar \"e se tudo der errado?\" em um jogo de cartas que deixa o seu sistema mais forte.</em></p>\n\n\n\n\n<p>Toda equipe tem aqu",
-    "link": "https://dev.to/davi_sousaoliveira_a68e9/sobrevivendo-ao-caos-injetando-falhas-com-o-chaosengineeringmasterdeck-42jp",
-    "topic": "general"
-  },
-  {
-    "title": "\u062f\u0644\u064a\u0644 \u0631\u0648\u0627\u062a\u0628 \u0645\u0647\u0646\u062f\u0633\u064a DevOps: \u0643\u0645 \u064a\u0643\u0633\u0628 \u0645\u062d\u062a\u0631\u0641\u0648 \u0627\u0644\u0633\u062d\u0627\u0628 \u0648\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0628\u0631\u0645\u062c\u064a\u0627\u062a\u061f",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/cashminde/dlyl-rwtb-mhndsy-devops-km-yksb-mhtrfw-lshb-wttwyr-lbrmjyt-30l1",
-    "topic": "general"
-  },
-  {
-    "title": "We\u2019ve Used TDK CLI (Including Private Source) for 2 Years: Here\u2019s Why You Need to Know",
-    "desc": "<p>Two years ago our team was drowning in local setup. Every new service meant another Dockerfile, another entry in a sprawling Compose file",
-    "link": "https://dev.to/tdk-cli/weve-used-tdk-cli-including-private-source-for-2-years-heres-why-you-need-to-know-79l",
-    "topic": "general"
-  },
-  {
-    "title": "Bookmark It! TDK CLI: A Critical Developer Review Covering 40 Points",
-    "desc": "<p>TDK CLI (from the tdk-landscape organization) is a relatively new, MIT-licensed command-line tool that converts simple <code>service.json",
-    "link": "https://dev.to/tdk-cli/bookmark-it-tdk-cli-a-critical-developer-review-covering-40-points-52bi",
-    "topic": "general"
-  },
-  {
-    "title": "Three bugs made Claude worse, and the checks never saw it",
-    "desc": "<p><em>Originally published at <a href=\"https://trustboundarystudio.com/posts/anthropic-three-bugs-2025/\" rel=\"noopener noreferrer\">trustbou",
-    "link": "https://dev.to/trustboundary/three-bugs-made-claude-worse-and-the-checks-never-saw-it-16ja",
+    "title": "Malicious Claude Code Packages Discovered Delivering Hidden Crypto Miners",
+    "desc": "<p>Security researchers have uncovered malicious packages masquerading as official or complementary utilities for Anthropic's Claude Code CL",
+    "link": "https://dev.to/kiran_sonawane/malicious-claude-code-packages-discovered-delivering-hidden-crypto-miners-5cp5",
     "topic": "anthropic"
   },
   {
-    "title": "What final structured concurrency in JDK 28 means",
-    "desc": "<p>According to InfoQ's report, <a href=\"https://www.infoq.com/news/2026/10/jep-543-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_",
-    "link": "https://dev.to/pickuma/what-final-structured-concurrency-in-jdk-28-means-2e04",
+    "title": "17,651 subdomains, one server: what checking \"is this job still open?\" taught us",
+    "desc": "<p>I run Job Opportunities API (JOA), a jobs API that only reads employers' own career sites and applicant-tracking systems. The hard part i",
+    "link": "https://dev.to/lucagiftzek/17651-subdomains-one-server-what-checking-is-this-job-still-open-taught-us-2fp4",
     "topic": "general"
   },
   {
-    "title": "How OpenTelemetry observes AI agents without code changes",
-    "desc": "<p>Originally posted to <a href=\"https://www.causely.ai/blog/opentelemetry-ai-agent-observability-obi\" rel=\"noopener noreferrer\">causely.ai<",
-    "link": "https://dev.to/causely/how-opentelemetry-observes-ai-agents-without-code-changes-bm3",
+    "title": "Query Millions of VoIP CDRs with DuckDB on Budget VPS",
+    "desc": "<h1>\n  \n  \n  Query Millions of VoIP CDRs with DuckDB on Budget VPS\n</h1>\n\n<p><strong>Extract and analyze call records from Asterisk and Vici",
+    "link": "https://dev.to/moisi_trungu_31647b7ac300/query-millions-of-voip-cdrs-with-duckdb-on-budget-vps-422g",
     "topic": "general"
   },
   {
-    "title": "48-Hour Field Notes: Every Restart Restarted My Batch Job, So I Added Leases",
-    "desc": "<p>Two days into a batch classification run, I opened the log and saw line one again. Not a continuation of line one \u2014 the same line one, wi",
-    "link": "https://dev.to/codepy_1473/48-hour-field-notes-every-restart-restarted-my-batch-job-so-i-added-leases-15do",
+    "title": "My site's deploys silently failed for two weeks. I didn't notice",
+    "desc": "<p>This one is embarrassing, which is exactly why it's worth writing.</p>\n\n<p>My portfolio is hosted on Vercel. For roughly <strong>two week",
+    "link": "https://dev.to/suraj_nandan_dcd78e7ec898/my-sites-deploys-silently-failed-for-two-weeks-i-didnt-notice-2o3f",
+    "topic": "general"
+  },
+  {
+    "title": "The Mystery of the Dying 1GB Server",
+    "desc": "<p>How an unsuspected GUI daemon, zero swap, and unrotated Docker logs pushed our cloud node into kernel panics (and how we reclaimed 500MB ",
+    "link": "https://dev.to/asepsayyad007/the-mystery-of-the-dying-1gb-server-59k4",
+    "topic": "general"
+  },
+  {
+    "title": "A Go-Live Checklist You Can Hand Any Agency: Alerts, Fallbacks and a Kill Switch for Small-Business WhatsApp Flows",
+    "desc": "<p>If you are a developer helping a small business (a friend's shop, a family firm, a client) evaluate an agency, this is the checklist I wo",
+    "link": "https://dev.to/ujjwal_dubey_9/a-go-live-checklist-you-can-hand-any-agency-alerts-fallbacks-and-a-kill-switch-for-small-business-2d19",
+    "topic": "general"
+  },
+  {
+    "title": "How to Choose Self-Hosted Portfolio Management Software",
+    "desc": "<p>Self-hosting can keep portfolio data under your organization\u2019s control, but it does not by itself solve portfolio management. The useful ",
+    "link": "https://dev.to/subramanyamc/how-to-choose-self-hosted-portfolio-management-software-1f0j",
+    "topic": "general"
+  },
+  {
+    "title": "GitHub Actions pull_request_target: what to check before November 2, 2026",
+    "desc": "<p><strong>Disclosure:</strong> This is an independently prepared, AI-assisted technical explainer from Workflow Guard. It is based on GitHu",
+    "link": "https://dev.to/livasticvm2primary/github-actions-pullrequesttarget-what-to-check-before-november-2-2026-2le9",
     "topic": "general"
   }
 ]
