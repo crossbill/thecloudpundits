@@ -1,50 +1,50 @@
 [
   {
-    "title": "Free Fire Redeem Codes October: How to Claim Rewards in 2026",
-    "desc": "<p>Yes, if you play Free Fire every day and you're willing to check the official reward page before your first match. The codes are free, th",
-    "link": "https://dev.to/alenaj/free-fire-redeem-codes-15l7",
+    "title": "A canary you keep is a canary you start trusting",
+    "desc": "<p>A reader named Zhang Enquan came back to a thing I wrote about green builds. He had run 10,000 real prompts through a tokenizer, and the ",
+    "link": "https://dev.to/whalejr/a-canary-you-keep-is-a-canary-you-start-trusting-1d81",
     "topic": "general"
   },
   {
-    "title": "Gmail 550 5.7.26 \"unauthenticated sender\": what it means and how to fix it",
-    "desc": "<p>If Gmail bounced your message with <code>550 5.7.26 This message does not have authentication information or fails to pass authentication",
-    "link": "https://dev.to/mogley1011/gmail-550-5726-unauthenticated-sender-what-it-means-and-how-to-fix-it-540h",
+    "title": "Ontology-Driven Observability for Agentic Monitoring",
+    "desc": "<p>Traditional observability tells us what is happening in our systems. Ontology-driven observability helps us understand how system compone",
+    "link": "https://dev.to/hadeelsharaf/ontology-driven-observability-for-agentic-monitoring-2op0",
     "topic": "general"
   },
   {
-    "title": "From Docker to Kubernetes: Pods, Nodes, and your first cluster",
-    "desc": "<p>Docker gives you a container. Kubernetes gives that container somewhere to live, decides where it goes, and keeps track of what should be",
-    "link": "https://dev.to/thebighousenl/from-docker-to-kubernetes-pods-nodes-and-your-first-cluster-b9g",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Introducing OpenWebPBX: An Open-Source, Self-Hosted Business Phone System",
-    "desc": "<p>Business phone systems are essential for many organizations, but finding a solution that offers flexibility, control, and accessible sour",
-    "link": "https://dev.to/asifriaz/introducing-openwebpbx-an-open-source-self-hosted-business-phone-system-18fm",
+    "title": "Data Residency vs Data Sovereignty: Cloud Architecture Guide 2026",
+    "desc": "<p>Data residency is about where data is physically stored and processed. Data sovereignty is about whose laws and whose access apply to it.",
+    "link": "https://dev.to/noahcontrolplane/data-residency-vs-data-sovereignty-cloud-architecture-guide-2026-48d6",
     "topic": "general"
   },
   {
-    "title": "Your Cloudflare Edge Is in the Wrong Country \u2014 colo= vs loc= and a 6-Second Page That Became 1 Second",
-    "desc": "<p><em>A presales war story about a slow site behind Cloudflare \u2014 the edge location almost nobody checks \u2014 and the two-line test I now run b",
-    "link": "https://dev.to/daanial/your-cloudflare-edge-is-in-the-wrong-country-colo-vs-loc-and-a-6-second-page-that-became-1-314j",
+    "title": "Cloud Cost Optimization in 2026: 10 Levers That Cut Your Compute Bill",
+    "desc": "<p>Most cloud compute waste comes from paying for capacity your workloads do not use: over-provisioned requests, idle nodes, standby capacit",
+    "link": "https://dev.to/noahcontrolplane/cloud-cost-optimization-in-2026-10-levers-that-cut-your-compute-bill-55f9",
+    "topic": "finops"
+  },
+  {
+    "title": "Workload Identity Federation: Cloud Access Without Keys (2026)",
+    "desc": "<p>Workload identity replaces stored cloud keys with an identity the platform proves for each workload. The cloud exchanges that proof for s",
+    "link": "https://dev.to/noahcontrolplane/workload-identity-federation-cloud-access-without-keys-2026-4bbe",
     "topic": "general"
   },
   {
-    "title": "Bunker: backing up all my VPS from one place",
-    "desc": "<p>I look after a few client projects spread across several VPS. Each server had its own cron job and its own <code>pg_dump</code> script, a",
-    "link": "https://dev.to/kushal1o1/bunker-backing-up-all-my-vps-from-one-place-2a90",
+    "title": "An /etc/fstab for developers",
+    "desc": "<p>As a developer, I often have to ask myself which files a certain process has accessed. It might be a single program run, or it might be a",
+    "link": "https://dev.to/bhaible/an-etcfstab-for-developers-27dg",
     "topic": "general"
   },
   {
-    "title": "Kubernetes v1.37: Memory QoS Graduates to Beta",
-    "desc": "<h2>\n  \n  \n  The upgrade that changes nothing \u2014 on purpose\n</h2>\n\n<p>The most important thing about Memory QoS graduating to Beta in Kuberne",
-    "link": "https://dev.to/tosin2013/kubernetes-v137-memory-qos-graduates-to-beta-ked",
-    "topic": "kubernetes"
+    "title": "Docker \"toomanyrequests: You have reached your pull rate limit\" in CI: Log In, Mirror, or Run a Pull-Through Cache?",
+    "desc": "<p>If your CI pipeline suddenly fails with <code>toomanyrequests</code> on <code>docker pull</code> or <code>FROM</code>, Docker Hub is thro",
+    "link": "https://dev.to/libme/docker-toomanyrequests-you-have-reached-your-pull-rate-limit-in-ci-log-in-mirror-or-run-a-4h3e",
+    "topic": "docker"
   },
   {
-    "title": "It sent gemini-2.5-pro and reported gemini-2.5-flash",
-    "desc": "<p>A response's <code>model</code> field is not decoration. It is what your logs record, what your cost attribution divides by, what a route",
-    "link": "https://dev.to/pm25coder/it-sent-gemini-25-pro-and-reported-gemini-25-flash-311",
-    "topic": "general"
+    "title": "Hetzner or AWS for a small company",
+    "desc": "<p>In the example below, Hetzner costs 29\u201336% of the AWS on-demand bill for a steady workload. You pay the difference back in work, because ",
+    "link": "https://dev.to/codelevel/hetzner-or-aws-for-a-small-company-jfc",
+    "topic": "aws"
   }
 ]
