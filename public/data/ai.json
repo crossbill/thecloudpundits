@@ -1,5 +1,29 @@
 [
   {
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "desc": "",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "topic": "general"
+  },
+  {
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "topic": "general"
+  },
+  {
+    "title": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a frontier model",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "topic": "general"
+  },
+  {
+    "title": "Hugging Face \u2764\ufe0f TorchTPU: TPUs, Natively",
+    "desc": "",
+    "link": "https://huggingface.co/blog/hf-torchtpu",
+    "topic": "huggingface"
+  },
+  {
     "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
     "desc": "",
     "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
@@ -18,33 +42,9 @@
     "topic": "aws"
   },
   {
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "desc": "",
-    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "topic": "general"
-  },
-  {
     "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
     "desc": "",
     "link": "https://huggingface.co/blog/reflection-beam",
-    "topic": "general"
-  },
-  {
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "topic": "general"
-  },
-  {
-    "title": "Apertus 1.5 Release Notes",
-    "desc": "",
-    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "topic": "general"
-  },
-  {
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "desc": "",
-    "link": "https://huggingface.co/blog/meta-muse-spark-open",
     "topic": "general"
   }
 ]

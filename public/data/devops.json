@@ -1,50 +1,50 @@
 [
   {
-    "title": "Mapping Distributed Webhook Architectures and Event Schemas into Cognee with Svix",
-    "desc": "<p>Modern cloud applications rely on asynchronous events to communicate across services. Payments, user registrations, subscription changes,",
-    "link": "https://dev.to/deshu_exe/mapping-distributed-webhook-architectures-and-event-schemas-into-cognee-with-svix-3b78",
+    "title": "Free Fire Redeem Codes October: How to Claim Rewards in 2026",
+    "desc": "<p>Yes, if you play Free Fire every day and you're willing to check the official reward page before your first match. The codes are free, th",
+    "link": "https://dev.to/alenaj/free-fire-redeem-codes-15l7",
     "topic": "general"
   },
   {
-    "title": "Temperature 0 Is Not a Reproducibility Setting: Five Model Myths and a Drift Probe",
-    "desc": "<h1>\n  \n  \n  Temperature 0 Is Not a Reproducibility Setting: Five Model Myths and a Drift Probe\n</h1>\n\n<p>You shipped a prompt. It returned ",
-    "link": "https://dev.to/gitlab_3188/temperature-0-is-not-a-reproducibility-setting-five-model-myths-and-a-drift-probe-3d94",
+    "title": "Gmail 550 5.7.26 \"unauthenticated sender\": what it means and how to fix it",
+    "desc": "<p>If Gmail bounced your message with <code>550 5.7.26 This message does not have authentication information or fails to pass authentication",
+    "link": "https://dev.to/mogley1011/gmail-550-5726-unauthenticated-sender-what-it-means-and-how-to-fix-it-540h",
     "topic": "general"
   },
   {
-    "title": "Third-Party Integrations Are Your Biggest Secret Leakage Blind Spot",
-    "desc": "<h2>\n  \n  \n  The Attack Surface You're Probably Not Auditing\n</h2>\n\n<p>Most engineering teams now have some posture around their own reposit",
-    "link": "https://dev.to/maxxthematepng/third-party-integrations-are-your-biggest-secret-leakage-blind-spot-559a",
+    "title": "From Docker to Kubernetes: Pods, Nodes, and your first cluster",
+    "desc": "<p>Docker gives you a container. Kubernetes gives that container somewhere to live, decides where it goes, and keeps track of what should be",
+    "link": "https://dev.to/thebighousenl/from-docker-to-kubernetes-pods-nodes-and-your-first-cluster-b9g",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Introducing OpenWebPBX: An Open-Source, Self-Hosted Business Phone System",
+    "desc": "<p>Business phone systems are essential for many organizations, but finding a solution that offers flexibility, control, and accessible sour",
+    "link": "https://dev.to/asifriaz/introducing-openwebpbx-an-open-source-self-hosted-business-phone-system-18fm",
     "topic": "general"
   },
   {
-    "title": "Eradicating AWS OOM Kills: 10M LLM Inferences on a $0 Cloud-Cost O(1) Memory Clamped Architecture",
-    "desc": "<p>High cloud API costs and Out-Of-Memory (OOM) failures in large-scale data pipelines are architectural defects, not hardware constraints. ",
-    "link": "https://dev.to/shotamatsubara/eradicating-aws-oom-kills-10m-llm-inferences-on-a-0-cloud-cost-o1-memory-clamped-architecture-1fb6",
-    "topic": "aws"
-  },
-  {
-    "title": "Stop shipping velocity deadlocks with platform guardrails \ud83d\udee1\ufe0f",
-    "desc": "<p>Reconciling engineering speed with compliance usually means manual reviews, change advisory boards, and painful release freezes before au",
-    "link": "https://dev.to/upsun/stop-shipping-velocity-deadlocks-with-platform-guardrails-25go",
-    "topic": "guardrails"
-  },
-  {
-    "title": "Managing SSH Servers Across Android and Windows Is a Pain. Here's an App That Tries to Fix It",
-    "desc": "<h1>\n  \n  \n  Managing SSH Servers Across Android and Windows? ShellSSH Offers a Simpler Way\n</h1>\n\n<p><em>An SSH terminal app worth explorin",
-    "link": "https://dev.to/theappreviewer/managing-ssh-servers-across-android-and-windows-is-a-pain-heres-an-app-that-tries-to-fix-it-3mef",
+    "title": "Your Cloudflare Edge Is in the Wrong Country \u2014 colo= vs loc= and a 6-Second Page That Became 1 Second",
+    "desc": "<p><em>A presales war story about a slow site behind Cloudflare \u2014 the edge location almost nobody checks \u2014 and the two-line test I now run b",
+    "link": "https://dev.to/daanial/your-cloudflare-edge-is-in-the-wrong-country-colo-vs-loc-and-a-6-second-page-that-became-1-314j",
     "topic": "general"
   },
   {
-    "title": "Protect Against Virtual Machine Cloning",
-    "desc": "<p>As Virtual Machine (VM) software becomes more commonplace, so do cloning licensing systems. By using VMs to replicate whole operating env",
-    "link": "https://dev.to/reprise_software/protect-against-virtual-machine-cloning-40f1",
+    "title": "Bunker: backing up all my VPS from one place",
+    "desc": "<p>I look after a few client projects spread across several VPS. Each server had its own cron job and its own <code>pg_dump</code> script, a",
+    "link": "https://dev.to/kushal1o1/bunker-backing-up-all-my-vps-from-one-place-2a90",
     "topic": "general"
   },
   {
-    "title": "How Anthropic Replaced Git with Scion Using Claude",
-    "desc": "<p>On 13 October 2026, Anthropic published <a href=\"https://www.anthropic.com/engineering/redesigning-source-control\" rel=\"noopener noreferr",
-    "link": "https://dev.to/awiser/how-anthropic-replaced-git-with-scion-using-claude-1k0",
-    "topic": "anthropic"
+    "title": "Kubernetes v1.37: Memory QoS Graduates to Beta",
+    "desc": "<h2>\n  \n  \n  The upgrade that changes nothing \u2014 on purpose\n</h2>\n\n<p>The most important thing about Memory QoS graduating to Beta in Kuberne",
+    "link": "https://dev.to/tosin2013/kubernetes-v137-memory-qos-graduates-to-beta-ked",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "It sent gemini-2.5-pro and reported gemini-2.5-flash",
+    "desc": "<p>A response's <code>model</code> field is not decoration. It is what your logs record, what your cost attribution divides by, what a route",
+    "link": "https://dev.to/pm25coder/it-sent-gemini-25-pro-and-reported-gemini-25-flash-311",
+    "topic": "general"
   }
 ]

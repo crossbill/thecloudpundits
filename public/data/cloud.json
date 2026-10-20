@@ -1,5 +1,11 @@
 [
   {
+    "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
+    "desc": "Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provision",
+    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+    "topic": "general"
+  },
+  {
     "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
     "desc": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code ",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
@@ -40,11 +46,5 @@
     "desc": "Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, ",
     "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
     "topic": "aws"
-  },
-  {
-    "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
-    "desc": "Amazon S3 Tables now support all data types in the Apache Iceberg V3 spec, along with column default values, deletion vectors, and row linea",
-    "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
-    "topic": "general"
   }
 ]
