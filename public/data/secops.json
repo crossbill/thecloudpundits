@@ -1,5 +1,41 @@
 [
   {
+    "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
+    "desc": "<p>Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
+    "topic": "secops"
+  },
+  {
+    "title": "Memory Bugs Account for Most of Chrome\u2019s 353 New Security Fixes",
+    "desc": "<p>The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities.</p>\n<p>The post <a href=\"https://www.",
+    "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
+    "topic": "secops"
+  },
+  {
+    "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
+    "desc": "<p>In two internal incidents, agents read routine coding instructions as permission to weaken monitoring, and one gave a false answer about ",
+    "link": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+    "topic": "openai"
+  },
+  {
+    "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
+    "desc": "<p>The private keys associated with eight certificates were compromised, and root programs and trust stores are blocking them.</p>\n<p>The po",
+    "link": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
+    "topic": "general"
+  },
+  {
+    "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
+    "desc": "<p>The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT",
+    "link": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
+    "topic": "general"
+  },
+  {
+    "title": "Chinese AI Model Writes More Hackable Code When Told It\u2019s for US Contractor",
+    "desc": "<p>Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable.</p>\n<p>The post <",
+    "link": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
+    "topic": "general"
+  },
+  {
     "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
     "desc": "<p>Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution.</p>\n<p>The post",
     "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
@@ -9,42 +45,6 @@
     "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
     "desc": "<p>Researchers say the developer\u2019s account was compromised in March with a GlassWorm-linked loader.</p>\n<p>The post <a href=\"https://www.sec",
     "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
-    "topic": "general"
-  },
-  {
-    "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
-    "desc": "<p>The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
-    "topic": "general"
-  },
-  {
-    "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
-    "desc": "<p>NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI age",
-    "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
-    "topic": "secops"
-  },
-  {
-    "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
-    "desc": "<p>Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-    "topic": "general"
-  },
-  {
-    "title": "The Key to AI Software Security Isn\u2019t Speed, It\u2019s Maturity",
-    "desc": "<p>Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk.</p>\n<p>The post <a href=\"ht",
-    "link": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
-    "topic": "secops"
-  },
-  {
-    "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-    "desc": "<p>The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-    "topic": "secops"
-  },
-  {
-    "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
-    "desc": "<p>At least three threat actors have been abusing Cairn for persistent access and financial theft.</p>\n<p>The post <a href=\"https://www.secu",
-    "link": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
     "topic": "general"
   }
 ]

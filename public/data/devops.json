@@ -1,50 +1,50 @@
 [
   {
-    "title": "After the agent-tool breach, I asked: where do my API keys actually live?",
-    "desc": "<h1>\n  \n  \n  After the agent-tool breach, I asked: where do my API keys actually live?\n</h1>\n\n<p>A few days ago, an agent-tool vendor disclo",
-    "link": "https://dev.to/techdevfun/after-the-agent-tool-breach-i-asked-where-do-my-api-keys-actually-live-4hj3",
-    "topic": "secops"
-  },
-  {
-    "title": "Introduction to the DevOps world: culture, automation, and feedback",
-    "desc": "<p>It's 5:43 PM on a Thursday. Development has just finished a feature. Operations needs to deploy it. The feature works locally, tests are ",
-    "link": "https://dev.to/fj_palacios/introduction-to-the-devops-world-culture-automation-and-feedback-j14",
-    "topic": "general"
-  },
-  {
-    "title": "Introducing LioranDB Cloud Dedicated Instances: 2 vCPU, 4 GiB RAM & 150 GB Storage for Just \u20b98/Hour",
-    "desc": "<p>Today, I am excited to introduce <strong>LioranDB Cloud Dedicated Instances</strong>, a managed database hosting solution built for devel",
-    "link": "https://dev.to/ultrontheai/introducing-liorandb-cloud-dedicated-instances-2-vcpu-4-gib-ram-150-gb-storage-for-just-8hour-4gm4",
-    "topic": "general"
-  },
-  {
-    "title": "How to Choose the Right DigitalOcean Partner in India",
+    "title": "API Management Platforms: How the Options Compare in 2026",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sunaldatanet1998/how-to-choose-the-right-digitalocean-partner-in-india-5ej3",
+    "link": "https://dev.to/kuldeep_paul/api-management-platforms-how-the-options-compare-in-2026-1c38",
     "topic": "general"
   },
   {
-    "title": "LioranDB v2 Alpha Is Here! 15+ Days in Production, 15K Ops/sec, and Our First Cloud Users",
-    "desc": "<p>Today, October 21, 2026, I am really excited to announce that <strong>LioranDB v2 Alpha has officially launched!</strong></p>\n\n<p>We actu",
-    "link": "https://dev.to/ultrontheai/liorandb-v2-alpha-is-here-15-days-in-production-15k-opssec-and-our-first-cloud-users-2h9e",
+    "title": "Rate Limiting: A Practical Guide",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/swapnoneel123/rate-limiting-a-practical-guide-458g",
     "topic": "general"
   },
   {
-    "title": "How to move your app from Railway to Hubfly space, step by step",
-    "desc": "<p><em>Originally published on the <a href=\"https://blog.hubfly.space/migrate-from-railway?utm_source=devto&utm_campaign=migrate-from-railwa",
-    "link": "https://dev.to/octave_nkurunziza_afb0512/how-to-move-your-app-from-railway-to-hubfly-space-step-by-step-3ih4",
+    "title": "Shadow Monitoring: A Practical Guide",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/swapnoneel123/shadow-monitoring-a-practical-guide-5aj3",
     "topic": "general"
   },
   {
-    "title": "Mentary AI: I Treated a 'Cloud Vendor' and a 'Local Model' as the Same RFP \u2014 Here's the 4-Question Version That Actually Holds Up",
-    "desc": "<h2>\n  \n  \n  The short version\n</h2>\n\n<p>Every local-AI pitch eventually gets asked the same four questions by whoever holds the<br />\nbudge",
-    "link": "https://dev.to/reggiebro/mentary-ai-i-treated-a-cloud-vendor-and-a-local-model-as-the-same-rfp-heres-the-4-question-3j37",
+    "title": "Prompt Caching: A Practical Guide",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/prompt-caching-a-practical-guide-3g5j",
     "topic": "general"
   },
   {
-    "title": "After the Launch: 7 Tools to Keep an Eye on Your Website",
-    "desc": "<p>Your website can return a perfectly healthy HTTP response while the signup form is broken. It can load for you while a recent release mak",
-    "link": "https://dev.to/mustafaydemir/after-the-launch-7-tools-to-keep-an-eye-on-your-website-2c0o",
+    "title": "One Ban Is One Building: CGNAT, Shared Egress, and Ban-Scope Decisions",
+    "desc": "<p>Hard-banning a single public IP feels precise. On many networks it is not. Carrier-grade NAT (CGNAT), mobile egress, and enterprise gatew",
+    "link": "https://dev.to/ip99/one-ban-is-one-building-cgnat-shared-egress-and-ban-scope-decisions-2mmf",
+    "topic": "general"
+  },
+  {
+    "title": "Airflow and Dagster Can't Backfill ML Experiments Right",
+    "desc": "<blockquote>\n<p><strong>TL;DR \u2014</strong> Airflow and Dagster both partition work along a single axis: time. ML workflows need backfills alon",
+    "link": "https://dev.to/aiexplore369zoho/airflow-and-dagster-cant-backfill-ml-experiments-right-4foj",
+    "topic": "general"
+  },
+  {
+    "title": "How to Choose an API Management Solution for Modern Workloads",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/swapnoneel123/how-to-choose-an-api-management-solution-for-modern-workloads-ijb",
+    "topic": "general"
+  },
+  {
+    "title": "User-Managed Access and Rate Limiting: A Technical Guide",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kuldeep_paul/user-managed-access-and-rate-limiting-a-technical-guide-1oil",
     "topic": "general"
   }
 ]
