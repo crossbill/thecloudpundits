@@ -1,50 +1,50 @@
 [
   {
-    "title": "API Management Platforms: How the Options Compare in 2026",
+    "title": "Linux Basics for DevOps: Files, Directories and Permissions (Hands-On on Kali WSL)",
+    "desc": "<p>I'm learning DevOps, and my first assignment was all about the Linux command line: moving around the file system, managing files, and und",
+    "link": "https://dev.to/ph0cx_/linux-basics-for-devops-files-directories-and-permissions-hands-on-on-kali-wsl-3mmi",
+    "topic": "general"
+  },
+  {
+    "title": "IBM Bob vs Perforce Agentic Gateway: 2026 Pricing & Features",
+    "desc": "<p><em>Originally published at <a href=\"https://nlocoding.com/en/blog/ibm-bob-vs-perforce-agentic-gateway\" rel=\"noopener noreferrer\">nlocodi",
+    "link": "https://dev.to/nlocoding/ibm-bob-vs-perforce-agentic-gateway-2026-pricing-features-lg5",
+    "topic": "general"
+  },
+  {
+    "title": "What is the best site to buy Google reviews, and are they",
+    "desc": "<p>7 Trusted Sites to Buy Google Reviews (Real, Safe, Legit)<br />\nWhat's the best site to buy Google reviews?<br />\n4 Best Sites to Buy Goo",
+    "link": "https://dev.to/asmaulrahim/what-is-the-best-site-to-buy-google-reviews-and-are-they-n15",
+    "topic": "general"
+  },
+  {
+    "title": "Day 4 of the ubuntu-latest rollout: weekly workflows get their first chance at the new image \u2014 cadence decides when it reaches you",
+    "desc": "<p>The ubuntu-latest migration window opened on October 19, 2026 and runs to November 19. Inside that window, <code>ubuntu-latest</code> mov",
+    "link": "https://dev.to/alapha888/day-4-of-the-ubuntu-latest-rollout-weekly-workflows-get-their-first-chance-at-the-new-image--1gf3",
+    "topic": "general"
+  },
+  {
+    "title": "Graceful Shutdown in Production Web Servers: Draining In-Flight Requests and Closing Connections",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/api-management-platforms-how-the-options-compare-in-2026-1c38",
+    "link": "https://dev.to/devanshu_patil/graceful-shutdown-in-production-web-servers-draining-in-flight-requests-and-closing-connections-21i2",
     "topic": "general"
   },
   {
-    "title": "Rate Limiting: A Practical Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/swapnoneel123/rate-limiting-a-practical-guide-458g",
+    "title": "Infrastructure as Code on AWS: Terraform vs CloudFormation in Practice",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Clicking through a cloud console works for a first experiment. It stops working the moment you need the ",
+    "link": "https://dev.to/said_olano/infrastructure-as-code-on-aws-terraform-vs-cloudformation-in-practice-f7a",
+    "topic": "aws"
+  },
+  {
+    "title": "n8n Workflow Not Running? The 6-Stage Diagnosis Ladder",
+    "desc": "<p>When a self-hosted n8n workflow is not running, the debugging hour splits in two: the part where everyone stares at the canvas, and the p",
+    "link": "https://dev.to/trigger-workflow/n8n-workflow-not-running-the-6-stage-diagnosis-ladder-29a7",
     "topic": "general"
   },
   {
-    "title": "Shadow Monitoring: A Practical Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/swapnoneel123/shadow-monitoring-a-practical-guide-5aj3",
-    "topic": "general"
-  },
-  {
-    "title": "Prompt Caching: A Practical Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/prompt-caching-a-practical-guide-3g5j",
-    "topic": "general"
-  },
-  {
-    "title": "One Ban Is One Building: CGNAT, Shared Egress, and Ban-Scope Decisions",
-    "desc": "<p>Hard-banning a single public IP feels precise. On many networks it is not. Carrier-grade NAT (CGNAT), mobile egress, and enterprise gatew",
-    "link": "https://dev.to/ip99/one-ban-is-one-building-cgnat-shared-egress-and-ban-scope-decisions-2mmf",
-    "topic": "general"
-  },
-  {
-    "title": "Airflow and Dagster Can't Backfill ML Experiments Right",
-    "desc": "<blockquote>\n<p><strong>TL;DR \u2014</strong> Airflow and Dagster both partition work along a single axis: time. ML workflows need backfills alon",
-    "link": "https://dev.to/aiexplore369zoho/airflow-and-dagster-cant-backfill-ml-experiments-right-4foj",
-    "topic": "general"
-  },
-  {
-    "title": "How to Choose an API Management Solution for Modern Workloads",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/swapnoneel123/how-to-choose-an-api-management-solution-for-modern-workloads-ijb",
-    "topic": "general"
-  },
-  {
-    "title": "User-Managed Access and Rate Limiting: A Technical Guide",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kuldeep_paul/user-managed-access-and-rate-limiting-a-technical-guide-1oil",
+    "title": "The Firewall That Was Never On \u2014 CSF Test Mode and 150 Full Apache Workers",
+    "desc": "<p><em>A field story about a cPanel server whose firewall looked configured but had never been running \u2014 the one line almost nobody checks \u2014",
+    "link": "https://dev.to/daanial/the-firewall-that-was-never-on-csf-test-mode-and-150-full-apache-workers-346m",
     "topic": "general"
   }
 ]

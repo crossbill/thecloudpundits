@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+    "desc": "<p>Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis.</p>\n<p>The",
+    "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+    "topic": "secops"
+  },
+  {
+    "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+    "desc": "<p>Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches.</p>\n<p>",
+    "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+    "topic": "general"
+  },
+  {
+    "title": "\u2018Context Bombs\u2019 Cut AI Attack Success by Misleading Agents With Fake Targets",
+    "desc": "<p>Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a succes",
+    "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+    "topic": "secops"
+  },
+  {
+    "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+    "desc": "<p>Rapid7\u2019s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents.",
+    "link": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+    "topic": "aws"
+  },
+  {
     "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
     "desc": "<p>Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform.</p>\n<p>Th",
     "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
@@ -21,30 +45,6 @@
     "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
     "desc": "<p>The private keys associated with eight certificates were compromised, and root programs and trust stores are blocking them.</p>\n<p>The po",
     "link": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
-    "topic": "general"
-  },
-  {
-    "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
-    "desc": "<p>The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT",
-    "link": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
-    "topic": "general"
-  },
-  {
-    "title": "Chinese AI Model Writes More Hackable Code When Told It\u2019s for US Contractor",
-    "desc": "<p>Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable.</p>\n<p>The post <",
-    "link": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
-    "topic": "general"
-  },
-  {
-    "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
-    "desc": "<p>Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
-    "topic": "aws"
-  },
-  {
-    "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
-    "desc": "<p>Researchers say the developer\u2019s account was compromised in March with a GlassWorm-linked loader.</p>\n<p>The post <a href=\"https://www.sec",
-    "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
     "topic": "general"
   }
 ]

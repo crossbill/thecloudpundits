@@ -1,8 +1,26 @@
 [
   {
-    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "title": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
     "desc": "",
-    "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+    "link": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
+    "topic": "general"
+  },
+  {
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "desc": "",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "topic": "general"
+  },
+  {
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "desc": "",
+    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "topic": "aws"
+  },
+  {
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
     "topic": "general"
   },
   {
@@ -27,24 +45,6 @@
     "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
     "desc": "",
     "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "topic": "general"
-  },
-  {
-    "title": "MPS in PyTorch 2.15",
-    "desc": "",
-    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "topic": "general"
-  },
-  {
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "desc": "",
-    "link": "https://huggingface.co/blog/hf-torchneuron",
-    "topic": "aws"
-  },
-  {
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "desc": "",
-    "link": "https://huggingface.co/blog/reflection-beam",
     "topic": "general"
   }
 ]
