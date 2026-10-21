@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Pre-Flight Check That Killed Most of My Failures",
-    "desc": "<p>For a month I tried to fix agent failures by improving instructions. It barely helped. Then I wrote a script that runs before the agent t",
-    "link": "https://dev.to/galagent/the-pre-flight-check-that-killed-most-of-my-failures-415k",
+    "title": "After the agent-tool breach, I asked: where do my API keys actually live?",
+    "desc": "<h1>\n  \n  \n  After the agent-tool breach, I asked: where do my API keys actually live?\n</h1>\n\n<p>A few days ago, an agent-tool vendor disclo",
+    "link": "https://dev.to/techdevfun/after-the-agent-tool-breach-i-asked-where-do-my-api-keys-actually-live-4hj3",
+    "topic": "secops"
+  },
+  {
+    "title": "Introduction to the DevOps world: culture, automation, and feedback",
+    "desc": "<p>It's 5:43 PM on a Thursday. Development has just finished a feature. Operations needs to deploy it. The feature works locally, tests are ",
+    "link": "https://dev.to/fj_palacios/introduction-to-the-devops-world-culture-automation-and-feedback-j14",
     "topic": "general"
   },
   {
-    "title": "Integra\u00e7\u00e3o Cont\u00ednua e Entrega Cont\u00ednua (CI/CD)",
-    "desc": "<h1>\n  \n  \n  O que \u00e9 Integra\u00e7\u00e3o Cont\u00ednua\n</h1>\n\n<p>A defini\u00e7\u00e3o origional (Martin Flower, por volta dos anos 2000) \u00e9: uma pr\u00e1tica de engenhar",
-    "link": "https://dev.to/yuripeixinho/integracao-continua-e-entrega-continua-cicd-cng",
+    "title": "Introducing LioranDB Cloud Dedicated Instances: 2 vCPU, 4 GiB RAM & 150 GB Storage for Just \u20b98/Hour",
+    "desc": "<p>Today, I am excited to introduce <strong>LioranDB Cloud Dedicated Instances</strong>, a managed database hosting solution built for devel",
+    "link": "https://dev.to/ultrontheai/introducing-liorandb-cloud-dedicated-instances-2-vcpu-4-gib-ram-150-gb-storage-for-just-8hour-4gm4",
     "topic": "general"
   },
   {
-    "title": "When a CA Gets Compromised: Monitoring Certificate Transparency Logs and Locking Down Your Domains with CAA",
-    "desc": "<p>Tu\u1ea7n n\u00e0y tr\u00ean Hacker News c\u00f3 m\u1ed9t thread h\u01a1n 600 \u0111i\u1ec3m v\u1ec1 v\u1ee5 m\u1ed9t intermediate CA c\u1ee7a eMudhra b\u1ecb compromise. \u0110\u1ecdc comment th\u00ec th\u1ea5y ph\u1ea7n l\u1edbn d",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/when-a-ca-gets-compromised-monitoring-certificate-transparency-logs-and-locking-down-your-domains-39gf",
+    "title": "How to Choose the Right DigitalOcean Partner in India",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/sunaldatanet1998/how-to-choose-the-right-digitalocean-partner-in-india-5ej3",
     "topic": "general"
   },
   {
-    "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
-    "desc": "<p>I spent three months and roughly $500 on GPU rental bills trying to run my own LLMs. It started with a noble goal: privacy, control, no r",
-    "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-157h",
+    "title": "LioranDB v2 Alpha Is Here! 15+ Days in Production, 15K Ops/sec, and Our First Cloud Users",
+    "desc": "<p>Today, October 21, 2026, I am really excited to announce that <strong>LioranDB v2 Alpha has officially launched!</strong></p>\n\n<p>We actu",
+    "link": "https://dev.to/ultrontheai/liorandb-v2-alpha-is-here-15-days-in-production-15k-opssec-and-our-first-cloud-users-2h9e",
     "topic": "general"
   },
   {
-    "title": "A valid x402 manifest with 492 payment rails hit a D1 SQL limit \u2014 how to catch it before launch",
-    "desc": "<p>A merchant's x402 manifest can be structurally valid and still fail when a registry tries to ingest it. That distinction matters: modifyi",
-    "link": "https://dev.to/livasticvm2primary/a-valid-x402-manifest-with-492-payment-rails-hit-a-d1-sql-limit-how-to-catch-it-before-launch-4715",
+    "title": "How to move your app from Railway to Hubfly space, step by step",
+    "desc": "<p><em>Originally published on the <a href=\"https://blog.hubfly.space/migrate-from-railway?utm_source=devto&utm_campaign=migrate-from-railwa",
+    "link": "https://dev.to/octave_nkurunziza_afb0512/how-to-move-your-app-from-railway-to-hubfly-space-step-by-step-3ih4",
     "topic": "general"
   },
   {
-    "title": "Constru\u00ed una soluci\u00f3n OLAP con DuckDB y la desplegu\u00e9 autom\u00e1ticamente en la nube (sin AWS)",
-    "desc": "<p>Las bases de datos de nuestras aplicaciones son excelentes guardando ventas una por una. Pero cuando alguien pregunta <em>\"\u00bfcu\u00e1nto vendim",
-    "link": "https://dev.to/ikers/construi-una-solucion-olap-con-duckdb-y-la-desplegue-automaticamente-en-la-nube-sin-aws-2511",
-    "topic": "aws"
+    "title": "Mentary AI: I Treated a 'Cloud Vendor' and a 'Local Model' as the Same RFP \u2014 Here's the 4-Question Version That Actually Holds Up",
+    "desc": "<h2>\n  \n  \n  The short version\n</h2>\n\n<p>Every local-AI pitch eventually gets asked the same four questions by whoever holds the<br />\nbudge",
+    "link": "https://dev.to/reggiebro/mentary-ai-i-treated-a-cloud-vendor-and-a-local-model-as-the-same-rfp-heres-the-4-question-3j37",
+    "topic": "general"
   },
   {
-    "title": "Azure Repos merge gating for AI reviewers: the status check policy",
-    "desc": "<p>On Azure Repos, an AI reviewer can only stop a merge if a branch policy requires a status check whose genre and name match a status that ",
-    "link": "https://dev.to/emilreiter/azure-repos-merge-gating-for-ai-reviewers-the-status-check-policy-1adj",
-    "topic": "azure"
-  },
-  {
-    "title": "Your deploy can silently turn off your webhook endpoint",
-    "desc": "<p>We shipped a routine release on a Tuesday. Rolling restart, about 90 seconds where the webhook service returned 502 from the load balance",
-    "link": "https://dev.to/payneteasy/your-deploy-can-silently-turn-off-your-webhook-endpoint-18bc",
+    "title": "After the Launch: 7 Tools to Keep an Eye on Your Website",
+    "desc": "<p>Your website can return a perfectly healthy HTTP response while the signup form is broken. It can load for you while a recent release mak",
+    "link": "https://dev.to/mustafaydemir/after-the-launch-7-tools-to-keep-an-eye-on-your-website-2c0o",
     "topic": "general"
   }
 ]

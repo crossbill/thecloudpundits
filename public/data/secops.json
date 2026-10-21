@@ -1,5 +1,23 @@
 [
   {
+    "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
+    "desc": "<p>Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
+    "topic": "aws"
+  },
+  {
+    "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
+    "desc": "<p>Researchers say the developer\u2019s account was compromised in March with a GlassWorm-linked loader.</p>\n<p>The post <a href=\"https://www.sec",
+    "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
+    "topic": "general"
+  },
+  {
+    "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+    "desc": "<p>The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training.</p>\n<p>The p",
+    "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+    "topic": "general"
+  },
+  {
     "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
     "desc": "<p>NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI age",
     "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
@@ -27,24 +45,6 @@
     "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
     "desc": "<p>At least three threat actors have been abusing Cairn for persistent access and financial theft.</p>\n<p>The post <a href=\"https://www.secu",
     "link": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
-    "topic": "general"
-  },
-  {
-    "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
-    "desc": "<p>Abdulrahman Alfozan\u2019s wife and young son also left the country the day after the 35-year-old Saudi national\u2019s arrest.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
-    "topic": "openai"
-  },
-  {
-    "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
-    "desc": "<p>Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent",
-    "link": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
-    "topic": "azure"
-  },
-  {
-    "title": "Hackers Steal 1.8 Million Records From Nikkei",
-    "desc": "<p>The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
     "topic": "general"
   }
 ]
