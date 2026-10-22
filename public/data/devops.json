@@ -1,50 +1,50 @@
 [
   {
-    "title": "PHP2Shell (CVE-2026-109618 / CVE-2026-109619): A Practical Patch, Mitigation and Incident Checklist",
-    "desc": "<p>On 21 October 2026 at 14:00 UTC the PHP project shipped fixes for two critical bugs in the PHP engine itself, nicknamed <strong>PHP2Shell",
-    "link": "https://dev.to/mahmut_gndzalp_c736ac4b/php2shell-cve-2026-109618-cve-2026-109619-a-practical-patch-mitigation-and-incident-checklist-53ml",
+    "title": "Self-hosted Plausible analytics, in one command",
+    "desc": "<p>For a while, railyard.run ran with zero analytics. Not out of principle \u2014 we just hadn\u2019t gotten to it, which meant every \u201cis anyone actua",
+    "link": "https://dev.to/moktar_cffd734aa15706ed2c/self-hosted-plausible-analytics-in-one-command-12j3",
+    "topic": "general"
+  },
+  {
+    "title": "Your First Vulnerability Scan for a New Client: A Baseline That Sets the Tone",
+    "desc": "<p>The first scan for a new client is different from every scan after it. There's no previous report to compare against, the asset list is p",
+    "link": "https://dev.to/varaxontech/your-first-vulnerability-scan-for-a-new-client-a-baseline-that-sets-the-tone-n7p",
     "topic": "secops"
   },
   {
-    "title": "The cable was fine: overlapping subnets on a two-NIC machine",
-    "desc": "<p>While isolating my AI model cluster on its own network segment, I could not reach a host on another network from my lab machine.</p>\n\n<p>",
-    "link": "https://dev.to/yantrakar/the-cable-was-fine-overlapping-subnets-on-a-two-nic-machine-gmc",
+    "title": "False Positives in Vulnerability Scans: How to Verify Them Without Hiding Real Risk",
+    "desc": "<p>Every scan has a few findings that make you squint. The web server is flagged for an Apache flaw, but the box runs nginx. A Windows patch",
+    "link": "https://dev.to/varaxontech/false-positives-in-vulnerability-scans-how-to-verify-them-without-hiding-real-risk-lbi",
+    "topic": "secops"
+  },
+  {
+    "title": "Why Kerala Startups Are Replacing WordPress Agencies with Custom Next.js & Node.js Architectures in 2026",
+    "desc": "<h3>\n  \n  \n  The Technical Debt of Traditional WordPress in 2026\n</h3>\n\n<p>For over a decade, early-stage founders in Kochi's Infopark and T",
+    "link": "https://dev.to/abinschandran/why-kerala-startups-are-replacing-wordpress-agencies-with-custom-nextjs-nodejs-architectures-in-3efb",
     "topic": "general"
   },
   {
-    "title": "Veloce-Engine: What a One-Time License Actually Owns When the Data Lives on Your Server",
-    "desc": "<p>Most \"complete platform\" pitches for food and beverage businesses are SaaS decks with a<br />\nhosted demo bolted on. Veloce-Engine is sha",
-    "link": "https://dev.to/reggiebro/veloce-engine-what-a-one-time-license-actually-owns-when-the-data-lives-on-your-server-1bi5",
-    "topic": "general"
+    "title": "My AWS Learning Journey: Understanding IAM and Why It Matters",
+    "desc": "<p>After deciding to start learning AWS and cloud computing, I'm taking things one step at a time. Today, I'm exploring the basics of Amazon",
+    "link": "https://dev.to/akeemomosanyaa/my-aws-learning-journey-understanding-iam-and-why-it-matters-4nj9",
+    "topic": "aws"
   },
   {
-    "title": "Cloud Cost Optimization: 7 Practical Checks Every Engineering Team Should Automate",
-    "desc": "<p>Cloud infrastructure makes it easier for engineering teams to build, deploy, and scale applications. However, as systems grow, cloud spen",
-    "link": "https://dev.to/sarah_mitchell_172ed68dc6/cloud-cost-optimization-7-practical-checks-every-engineering-team-should-automate-kjl",
-    "topic": "finops"
-  },
-  {
-    "title": "How an AI agent can get its own hosting with no human in the loop (wallet signup, x402, deploy)",
-    "desc": "<p>Most \"agents that deploy things\" demos have a human doing the parts that aren't code: creating the cloud account, entering a card, pastin",
-    "link": "https://dev.to/storkhost/how-an-ai-agent-can-get-its-own-hosting-with-no-human-in-the-loop-wallet-signup-x402-deploy-4oen",
-    "topic": "general"
-  },
-  {
-    "title": "A Dockerfile that says where it failed: splitting the RUN and retrying pecl install",
-    "desc": "<p><em>A CI build broken by a 504 from pecl.php.net, buried in 40 lines of <code>&&</code></em></p>\n\n<p>On 20 October 2026, <a href=\"https:/",
-    "link": "https://dev.to/shagshag/a-dockerfile-that-says-where-it-failed-splitting-the-run-and-retrying-pecl-install-j9g",
+    "title": "Docker Publishing with GitHub Actions: A Practical End-to-End Setup",
+    "desc": "<h1>\n  \n  \n  Docker Publishing with GitHub Actions: A Practical End-to-End Setup\n</h1>\n\n<p>I wanted a small Docker implementation that cover",
+    "link": "https://dev.to/rakeshranderia/docker-publishing-with-github-actions-a-practical-end-to-end-setup-39g4",
     "topic": "docker"
   },
   {
-    "title": "eMudhra Certificate Distrust: One CA Key Was 4. How to Check If Your Site Breaks",
-    "desc": "<p>The private key of one eMudhra intermediate CA was the number 4. Another was 56. All eight compromised keys were integers below 256, on a",
-    "link": "https://dev.to/alanwest/emudhra-certificate-distrust-one-ca-key-was-4-how-to-check-if-your-site-breaks-31cp",
+    "title": "I built a PHP2Shell checker the morning the patch dropped. Here's what 650 checks showed",
+    "desc": "<p>On 21 October 2026 PHP shipped an emergency fix for two critical flaws, CVE-2026-109618 and CVE-2026-109619, now known as PHP2Shell. They",
+    "link": "https://dev.to/kyleclouthier/i-built-a-php2shell-checker-the-morning-the-patch-dropped-heres-what-650-checks-showed-3e4j",
     "topic": "general"
   },
   {
-    "title": "Reading static verification evidence: three exit codes, three review decisions",
-    "desc": "<p>A passing command is useful evidence only when its meaning is clear. A static checker can complete successfully without running a test, o",
-    "link": "https://dev.to/zof/reading-static-verification-evidence-three-exit-codes-three-review-decisions-5ep1",
+    "title": "# A rapid-response loop needs an audit trail",
+    "desc": "<h1>\n  \n  \n  A rapid-response loop needs an audit trail\n</h1>\n\n<p>A disinformation cluster can change faster than a team can review its last",
+    "link": "https://dev.to/marek_builds/-a-rapid-response-loop-needs-an-audit-trail-1o7d",
     "topic": "general"
   }
 ]
