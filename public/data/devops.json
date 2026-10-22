@@ -1,50 +1,50 @@
 [
   {
-    "title": "Check the PHP runtime serving your website after the October security update",
-    "desc": "<p>PHP released fixes on October 21 for CVE-2026-109618 and CVE-2026-109619, two critical vulnerabilities that can allow unauthenticated rem",
-    "link": "https://dev.to/merradou/check-the-php-runtime-serving-your-website-after-the-october-security-update-5hba",
-    "topic": "secops"
-  },
-  {
-    "title": "Run your LLM evals every night on a GPU that only exists for a minute",
-    "desc": "<p>Most eval suites run when someone remembers to run them. That's usually right before a release, which is the worst time to find out a mod",
-    "link": "https://dev.to/runcrate/run-your-llm-evals-every-night-on-a-gpu-that-only-exists-for-a-minute-1fj9",
+    "title": "Black October 2026: what happened, what AI changed, and what to do now",
+    "desc": "<p>By Harshith Vaddiparthy</p>\n\n<p>Research checked October 23, 2026. Incident reports are still developing; versions and provider status be",
+    "link": "https://dev.to/harshithvaddiparthy/black-october-2026-what-happened-what-ai-changed-and-what-to-do-now-359i",
     "topic": "general"
   },
   {
-    "title": "Your php -v says patched. Your site may still be running the vulnerable build.",
-    "desc": "<p>Yesterday PHP disclosed two critical remote code execution (RCE) vulnerabilities, tracked as <a href=\"https://www.ithome.com/1/015/843.ht",
-    "link": "https://dev.to/servbay/your-php-v-says-patched-your-site-may-still-be-running-the-vulnerable-build-1mdp",
+    "title": "Claude refused to finish patching my servers. My local LLM took over",
+    "desc": "<p>On October 21 and 22, I spent two long days patching our own servers. PHP had announced an emergency release for two critical remote code",
+    "link": "https://dev.to/seppegadeyne/claude-refused-to-finish-patching-my-servers-my-local-llm-took-over-3l8j",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Sentry vs GlitchTip vs Self-Hosted Sentry: Error Tracking for a Small Team When the Event Quota Keeps Running Out",
+    "desc": "<p>For most small teams, hosted Sentry is the right default, and the thing that decides whether it stays affordable is not the vendor but ho",
+    "link": "https://dev.to/libme/sentry-vs-glitchtip-vs-self-hosted-sentry-error-tracking-for-a-small-team-when-the-event-quota-2bnn",
     "topic": "general"
   },
   {
-    "title": "PHP CVSS 9.2 RCE: Patch Isn\u2019t Enough",
-    "desc": "<p>Yesterday PHP disclosed two critical remote code execution (RCE) vulnerabilities, tracked as <a href=\"https://www.ithome.com/1/015/843.ht",
-    "link": "https://dev.to/servbay/php-cvss-92-rce-patch-isnt-enough-1ml3",
+    "title": "Building My Cloud Resume Challenge on AWS (Almost for Free)",
+    "desc": "<p>I recently finished the <a href=\"https://cloudresumechallenge.dev/\" rel=\"noopener noreferrer\">Cloud Resume Challenge</a>: host a resume a",
+    "link": "https://dev.to/cwinslow22/building-my-cloud-resume-challenge-on-aws-almost-for-free-6po",
+    "topic": "aws"
+  },
+  {
+    "title": "Patching PHP 5.6 to 8.1 for PHP2Shell on old Ubuntu servers by rebuilding RunCloud's PHP",
+    "desc": "<p><strong>On October 21, 2026, PHP shipped fixes for PHP2Shell, but only for PHP 8.2 and newer. Our hosting panel, RunCloud, only patches t",
+    "link": "https://dev.to/seppegadeyne/patching-php-56-to-81-for-php2shell-on-old-ubuntu-servers-by-rebuilding-runclouds-php-1bl7",
     "topic": "general"
   },
   {
-    "title": "Putting the key in the URL fragment: an E2E design for SecretBolt (RFC)",
-    "desc": "<h2>\n  \n  \n  Why this post\n</h2>\n\n<p>In <a href=\"https://dev.to/alxsm/how-a-one-time-secret-link-actually-works-the-design-of-secretbolt-4c5",
-    "link": "https://dev.to/alxsm/putting-the-key-in-the-url-fragment-an-e2e-design-for-secretbolt-rfc-1da6",
+    "title": "Eliminating $500+ Bucket-Truck Rolls: Bridging Isolated 60GHz Rooftop Radios Over 5G Tailscale Tunnels",
+    "desc": "<p>When deploying <strong>60GHz V-Band Terragraph millimeter-wave mesh networks</strong> (such as Siklu MultiHaul\u2122 TG MH-N366 distribution n",
+    "link": "https://dev.to/ariawavetech/eliminating-500-bucket-truck-rolls-bridging-isolated-60ghz-rooftop-radios-over-5g-tailscale-28ae",
     "topic": "general"
   },
   {
-    "title": "Railway was breached: a 15-minute key rotation checklist",
-    "desc": "<p>On <strong>October 21, 2026</strong> Railway published a <a href=\"https://blog.railway.com/p/security-disclosure-wednesday-october-21st\" ",
-    "link": "https://dev.to/kobima6813/railway-was-breached-a-15-minute-key-rotation-checklist-3lob",
-    "topic": "secops"
-  },
-  {
-    "title": "The nightly Ralph loop",
-    "desc": "<p><em>A coding agent that works through my backlog while I sleep \u2014 and never merges a thing.</em></p>\n\n<p><a class=\"article-body-image-wrap",
-    "link": "https://dev.to/pvhee/the-nightly-ralph-loop-14f8",
+    "title": "Java no es el riesgo. Tu implementaci\u00f3n y tu parche, s\u00ed.",
+    "desc": "<p>Esta semana circul\u00f3 una imagen que puso a Java en rojo: <strong>\"riesgo ALTO\"</strong>, junto a Node.js, Go y Python. Para quien no est\u00e1 ",
+    "link": "https://dev.to/ebercruz/java-no-es-el-riesgo-tu-implementacion-y-tu-parche-si-59l4",
     "topic": "general"
   },
   {
-    "title": "n8n Webhook Not Firing? 7 Fixes Ranked by Actual Frequency",
-    "desc": "<p>\"Webhook not firing\" is the most-reported complaint in self-hosted n8n \u2014 and it concentrates into seven causes. Fix #1 alone decides most",
-    "link": "https://dev.to/trigger-workflow/n8n-webhook-not-firing-7-fixes-ranked-by-actual-frequency-3nlb",
-    "topic": "general"
+    "title": "Provisioning Resilient Azure Infrastructure with Terraform, DevPod, and mise: A Hands-On Guide",
+    "desc": "<p>When transitioning from the manual, error-prone world of \"ClickOps\" in cloud portals to production-grade engineering, mastering <strong>I",
+    "link": "https://dev.to/alanvarghese-dev/provisioning-resilient-azure-infrastructure-with-terraform-devpod-and-mise-a-hands-on-guide-f8a",
+    "topic": "azure"
   }
 ]
