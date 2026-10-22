@@ -1,50 +1,50 @@
 [
   {
-    "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
-    "desc": "<p>Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis.</p>\n<p>The",
-    "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+    "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
+    "desc": "<p>The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East.",
+    "link": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
     "topic": "secops"
   },
   {
-    "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-    "desc": "<p>Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches.</p>\n<p>",
-    "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+    "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
+    "desc": "<p>Affecting the open source calling library RingRTC, the bug prevented calls from ending properly.</p>\n<p>The post <a href=\"https://www.sec",
+    "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+    "topic": "secops"
+  },
+  {
+    "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
+    "desc": "<p>Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching.",
+    "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
+    "topic": "secops"
+  },
+  {
+    "title": "Splunk, SolarWinds Release Fresh Security Updates",
+    "desc": "<p>Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+    "topic": "secops"
+  },
+  {
+    "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+    "desc": "<p>Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
     "topic": "general"
   },
   {
-    "title": "\u2018Context Bombs\u2019 Cut AI Attack Success by Misleading Agents With Fake Targets",
-    "desc": "<p>Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a succes",
-    "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
-    "topic": "secops"
+    "title": "PHP2Shell Exploitation Started Days Before Patches",
+    "desc": "<p>Initial attempts were observed on October 17, and mass activity began shortly after patches were released.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+    "topic": "general"
   },
   {
-    "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-    "desc": "<p>Rapid7\u2019s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents.",
-    "link": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-    "topic": "aws"
+    "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+    "desc": "<p>Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+    "topic": "general"
   },
   {
-    "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-    "desc": "<p>Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
-    "topic": "secops"
-  },
-  {
-    "title": "Memory Bugs Account for Most of Chrome\u2019s 353 New Security Fixes",
-    "desc": "<p>The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
-    "topic": "secops"
-  },
-  {
-    "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
-    "desc": "<p>In two internal incidents, agents read routine coding instructions as permission to weaken monitoring, and one gave a false answer about ",
-    "link": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
-    "topic": "openai"
-  },
-  {
-    "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
-    "desc": "<p>The private keys associated with eight certificates were compromised, and root programs and trust stores are blocking them.</p>\n<p>The po",
-    "link": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
+    "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+    "desc": "<p>The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
     "topic": "general"
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Railway Env-Var Breach: What Happened and How to Be Ready Next Time",
-    "desc": "<p>On October 21, 2026, Railway told every customer to rotate every environment variable they had stored on the platform. If you deploy anyw",
-    "link": "https://dev.to/ajitkumar/the-railway-env-var-breach-what-happened-and-how-to-be-ready-next-time-2naf",
-    "topic": "secops"
-  },
-  {
-    "title": "Helm Rollback Strategy When Values Promotion Goes Wrong",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/10/22/helm-rollback-strategy-when-values-promotion-goes-wrong\" rel=\"noop",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/helm-rollback-strategy-when-values-promotion-goes-wrong-10f0",
+    "title": "The unsubscribe that never unsubscribed",
+    "desc": "<h1>\n  \n  \n  The unsubscribe that never unsubscribed\n</h1>\n\n<p>A customer filed a spam complaint against one of our emails. The provider dut",
+    "link": "https://dev.to/hermesthevaliant/the-unsubscribe-that-never-unsubscribed-3o27",
     "topic": "general"
   },
   {
-    "title": "Choosing Self-Hosted Project Management: A Practitioner Comparison",
-    "desc": "<p>Choosing project management software for a controlled environment involves more than deciding where it runs. The tool also needs to fit h",
-    "link": "https://dev.to/jakubgalczyk/choosing-self-hosted-project-management-a-practitioner-comparison-2han",
+    "title": "Surviving the Chaos: Injecting Faults with the ChaosEngineeringMasterDeck",
+    "desc": "<p>Abstract: How we turned \"will it hold up?\" into testable hypotheses using a deck of chaos experiments (the ChaosEngineeringMasterDeck), a",
+    "link": "https://dev.to/oriol_moura_802b96c34bd3f/surviving-the-chaos-injecting-faults-with-the-chaosengineeringmasterdeck-103d",
     "topic": "general"
   },
   {
-    "title": "Your AI writes code blind to cloud cost. Here's how to close the loop.",
-    "desc": "<p><em>Originally published on the <a href=\"https://blog.cloudexmachina.io/ai-generated-code-cloud-cost-feedback-loop?utm_source=devto&utm_m",
-    "link": "https://dev.to/cloudexmachina/your-ai-writes-code-blind-to-cloud-cost-heres-how-to-close-the-loop-4di1",
+    "title": "Unleash vs Flagsmith vs OpenFeature: Feature Flags in 2026",
+    "desc": "<p>Best Open-Source Feature Flag and Configuration Tools in 2026: Unleash, Flagsmith, and Beyond</p>\n\n<p>A toggle in your config that contro",
+    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/unleash-vs-flagsmith-vs-openfeature-feature-flags-in-2026-1ae6",
     "topic": "general"
   },
   {
-    "title": "PHP2Shell: How the Vulnerabilities Were Found\u2014and What Developers Should Check",
-    "desc": "<p><em>Research checked: 22 October 2026. This is a source-based explainer, not original vulnerability research or a claim that TechWebster ",
-    "link": "https://dev.to/techwebster/php2shell-how-the-vulnerabilities-were-found-and-what-developers-should-check-458p",
+    "title": "Dial-Up Pools Hide in Residential Space: Detect Them Without Hard-Banning Customers",
+    "desc": "<p>A datacenter blocklist will not catch a dial-up pool. The address is ordinary broadband: <code>usage_type</code> says <code>DYN</code>, t",
+    "link": "https://dev.to/ip99/dial-up-pools-hide-in-residential-space-detect-them-without-hard-banning-customers-51mk",
     "topic": "general"
   },
   {
-    "title": "\u5f9eAI\u4ea4\u6613\u5230RWA\uff1aPAQT Token\u6b63\u5728\u69cb\u5efa\u600e\u6a23\u7684\u4e0b\u4e00\u4ee3\u667a\u80fd\u91d1\u878d\u9ad4\u7cfb\uff1f",
-    "desc": "<p>\u5982\u679c\u672a\u4f86\u7684\u4ea4\u6613\u4e0d\u518d\u5b8c\u5168\u4f9d\u9760\u4eba\u4f86\u5224\u65b7\u5e02\u5834\uff0c\u6703\u767c\u751f\u4ec0\u9ebc\uff1f<br />\n\u904e\u53bb\u5341\u5e74\uff0c\u6f14\u7b97\u6cd5\u4ea4\u6613\u5df2\u7d93\u8b49\u660e\u6a5f\u5668\u80fd\u5920\u6bd4\u4eba\u5de5\u66f4\u5feb\u5730\u8655\u7406\u5e02\u5834\u6578\u64da\u3002<br />\n\u800c\u9032\u5165 AI \u6642\u4ee3\u4e4b\u5f8c\uff0c\u5e02\u5834\u6b63\u5728\u767c\u751f\u66f4\u6df1\u5c64\u6b21\u7684\u8b8a\u5316\u2014\u2014\u6a5f\u5668\u958b\u59cb\u5f9e\u300c\u57f7\u884c\u4ea4\u6613\u300d\u9010\u6f38\u8d70\u5411\u300c\u7406\u89e3\u5e02\u5834\u300d\u3002<br />\n\u9019\u6b63\u662f PAQT T",
-    "link": "https://dev.to/paqtinsights/cong-aijiao-yi-dao-rwapaqt-tokenzheng-zai-gou-jian-zen-yang-de-xia-dai-zhi-neng-jin-rong-ti-xi--58em",
+    "title": "The Inventory That Exists in Your System but Not in Your Warehouse",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/quantazone_team_99da3fc13/the-inventory-that-exists-in-your-system-but-not-in-your-warehouse-3d2g",
     "topic": "general"
   },
   {
-    "title": "The Cloudflare Outage That Never Triggered a Single Uptime Alert",
-    "desc": "<p>A Cloudflare outage on October 20, 2026 broke real traffic through Cloudflare One Gateway for three hours and fourteen minutes, and the u",
-    "link": "https://dev.to/rbonweb/the-cloudflare-outage-that-never-triggered-a-single-uptime-alert-4hl8",
+    "title": "Why LLM Inference Batching Breaks: Prefill vs Decode",
+    "desc": "<blockquote>\n<p><strong>TL;DR \u2014</strong> LLM inference serving treats prefill and decode as one workload, but they have opposite resource pr",
+    "link": "https://dev.to/aiexplore369zoho/why-llm-inference-batching-breaks-prefill-vs-decode-ao9",
     "topic": "general"
   },
   {
-    "title": "Setting up your DevOps work environment: Linux, terminal, and essential tools",
-    "desc": "<p>The first real collision with DevOps usually isn't Kubernetes. Or Terraform. Or that YAML file that looks like it was written by someone ",
-    "link": "https://dev.to/fj_palacios/setting-up-your-devops-work-environment-linux-terminal-and-essential-tools-ap2",
+    "title": "Sandboxing AI coding agents with Docker: a practical setup that limits the blast radius",
+    "desc": "<p>AI coding agents are most useful when you stop approving every command. Let it run the tests, install the package, try the fix, run the t",
+    "link": "https://dev.to/amitshuklabag/sandboxing-ai-coding-agents-with-docker-a-practical-setup-that-limits-the-blast-radius-49a9",
+    "topic": "docker"
+  },
+  {
+    "title": "Dual-pane SFTP with a resumable transfer queue: a practical walkthrough of AI-SSH-Pro",
+    "desc": "<p>Most SSH clients treat file transfer as an afterthought: a separate window, a separate login, and a progress bar that vanishes the moment",
+    "link": "https://dev.to/shuaipeng_guo_79180b50553/dual-pane-sftp-with-a-resumable-transfer-queue-a-practical-walkthrough-of-ai-ssh-pro-11al",
     "topic": "general"
   }
 ]
