@@ -1,5 +1,11 @@
 [
   {
+    "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+    "desc": "<p>Noteworthy stories that might have slipped under the radar: Russia\u2019s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunte",
+    "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+    "topic": "secops"
+  },
+  {
     "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
     "desc": "<p>Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet.</p>\n<p",
     "link": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
@@ -12,7 +18,7 @@
     "topic": "secops"
   },
   {
-    "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+    "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
     "desc": "<p>The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.</p>\n<",
     "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
     "topic": "secops"
@@ -24,7 +30,7 @@
     "topic": "secops"
   },
   {
-    "title": "Quest Diagnostics Reports Cyber Breach Affecting \u2018Certain Patient Records\u2019",
+    "title": "Quest Diagnostics Data Breach Exposed \u2018Certain Patient Records\u2019",
     "desc": "<p>In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clien",
     "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
     "topic": "secops"
@@ -40,11 +46,5 @@
     "desc": "<p>Atlassian\u2019s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components.</p>\n<",
     "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
     "topic": "aws"
-  },
-  {
-    "title": "Iran\u2019s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
-    "desc": "<p>After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
-    "topic": "general"
   }
 ]

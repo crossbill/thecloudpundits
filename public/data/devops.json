@@ -1,50 +1,50 @@
 [
   {
-    "title": "301 redirect change doesn't take effect for some users",
-    "desc": "<p>On the documentation site, <code>/docs</code> redirects to the pages for the latest version. Links on other sites, such as the product si",
-    "link": "https://dev.to/shinagawa-web/301-redirect-change-doesnt-take-effect-for-some-users-3gh4",
+    "title": "A production readiness matrix for n8n and AI workflows: 32 checks",
+    "desc": "<p>A workflow is not production-ready because the happy path ran once. This matrix lists thirty-two checks for n8n workflows and AI agents. ",
+    "link": "https://dev.to/victorlaybats/a-production-readiness-matrix-for-n8n-and-ai-workflows-32-checks-8j8",
     "topic": "general"
   },
   {
-    "title": "What is the OpenClaw (Moltbot/Clawdbot) heartbeat feature?",
-    "desc": "<p>OpenClaw (formerly Moltbot/Clawdbot) became popular fast because it focuses on practical local automation: watch your machine, detect dri",
-    "link": "https://dev.to/preecha/what-is-the-openclaw-moltbotclawdbot-heartbeat-feature-5g5a",
+    "title": "You patched PHP. The old image is still in your cluster's future.",
+    "desc": "<p>On 21 October PHP shipped fixes for two critical bugs in the engine itself, CVE-2026-109618 and CVE-2026-109619, both CVSS 9.2, both reac",
+    "link": "https://dev.to/arifkurnaz/you-patched-php-the-old-image-is-still-in-your-clusters-future-1na2",
     "topic": "general"
   },
   {
-    "title": "On-Prem Manager: one engineer per two on-prem Docker sites didn't scale",
-    "desc": "<p>About five on-premise deployments a year, and one dedicated engineer for every two of them. That was the shape of our setup when we reali",
-    "link": "https://dev.to/panthpatel/on-prem-manager-one-engineer-per-two-on-prem-docker-sites-didnt-scale-4fo6",
-    "topic": "docker"
-  },
-  {
-    "title": "Temporal vs BullMQ vs AWS Step Functions: Durable Workflows in 2026",
-    "desc": "<p>Temporal vs BullMQ vs AWS Step Functions 2026: Choosing the Right Durable Workflow Orchestrator</p>\n\n<p>A payment refund that silently ne",
-    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/temporal-vs-bullmq-vs-aws-step-functions-durable-workflows-in-2026-6f7",
-    "topic": "aws"
-  },
-  {
-    "title": "Optimizing CI/CD: How GitHub Actions' max-parallel Impacts Your Software Project Metrics",
-    "desc": "<p>In the relentless pursuit of efficient <a href=\"https://dev.to/insights\">development activities</a>, optimizing CI/CD workflows isn't jus",
-    "link": "https://dev.to/devactivity/optimizing-cicd-how-github-actions-max-parallel-impacts-your-software-project-metrics-5992",
+    "title": "Hello DEV \ud83d\udc4b I'm building Somnus, a desktop AI agent with 50+ models behind one key",
+    "desc": "<p>Hi DEV! I'm Francisco (Chico), a developer from Lisbon, and this is my first post here.</p>\n\n<p>For the last few months I've been buildin",
+    "link": "https://dev.to/franciscomcac/hello-dev-im-building-somnus-a-desktop-ai-agent-with-50-models-behind-one-key-8n8",
     "topic": "general"
   },
   {
-    "title": "A Client Cost Review With the Credentials You Already Have",
-    "desc": "<p>You already have a profile for the client's account. An SSO role, a read-only role you assume, a <code>ReadOnlyAccess</code> user someone",
-    "link": "https://dev.to/cloudwiseteam/a-client-cost-review-with-the-credentials-you-already-have-ia8",
+    "title": "You Can't Respin a House",
+    "desc": "<p><em>This article was originally published on <a href=\"https://socratesfootfeed.blogspot.com/2026/10/you-cant-respin-house.html\" rel=\"noop",
+    "link": "https://dev.to/socratesfoot/you-cant-respin-a-house-340m",
     "topic": "general"
   },
   {
-    "title": "Build the safety net before your coding agent's first edit",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ajitkumar_singh_7a94b3eaa/build-the-safety-net-before-your-coding-agents-first-edit-2076",
+    "title": "Kubernetes Requests and Limits: Set CPU and Memory Right",
+    "desc": "<p><em>This guide was written by <a href=\"https://meteorops.com/team/arthur-azrieli\" rel=\"noopener noreferrer\">Arthur Azrieli</a>, CTO at Me",
+    "link": "https://dev.to/meteorops/kubernetes-requests-and-limits-set-cpu-and-memory-right-cl8",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Zero-Touch Enterprise Mobility: Automating 500+ Field Tablets with Samsung Knox MSP & Multi-Carrier eSIM Telemetry",
+    "desc": "<p>When field service, construction, or motorsports operations scale past 50 rugged tablets, manual MDM staging and single-carrier SIM dead ",
+    "link": "https://dev.to/ariawavetech/zero-touch-enterprise-mobility-automating-500-field-tablets-with-samsung-knox-msp-multi-carrier-30f3",
     "topic": "general"
   },
   {
-    "title": "SBI Data Leak Incident: Critical Customer Advisory & Security Analysis",
-    "desc": "<p>Reports have emerged detailing a potential customer data exposure incident impacting systems associated with State Bank of India (SBI). T",
-    "link": "https://dev.to/kiran_sonawane/sbi-data-leak-incident-critical-customer-advisory-security-analysis-33mn",
-    "topic": "secops"
+    "title": "Run records and missed-run checks for scheduled scripts",
+    "desc": "<p><em>Tested on Linux with bash, jq and GNU date.</em></p>\n\n<p>A quiet Slack channel can mean two things: nothing went wrong, or the job ne",
+    "link": "https://dev.to/lastmileops/run-records-and-missed-run-checks-for-scheduled-scripts-3cg",
+    "topic": "general"
+  },
+  {
+    "title": "PHP2Shell: How to Patch PHP and Verify Every Running Worker",
+    "desc": "<p>An updated PHP package on disk is only part of a security fix. You also need to know which PHP runtime serves each application\u2014and whethe",
+    "link": "https://dev.to/digitalbergg/php2shell-how-to-patch-php-and-verify-every-running-worker-40en",
+    "topic": "general"
   }
 ]

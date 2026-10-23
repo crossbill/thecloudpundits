@@ -1,14 +1,20 @@
 [
   {
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
     "desc": "",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
     "topic": "general"
   },
   {
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "desc": "",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "topic": "aws"
+  },
+  {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "desc": "",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "topic": "general"
   },
   {
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
     "topic": "general"
-  },
-  {
-    "title": "Hugging Face \u2764\ufe0f TorchTPU: TPUs, Natively",
-    "desc": "",
-    "link": "https://huggingface.co/blog/hf-torchtpu",
-    "topic": "huggingface"
   }
 ]
