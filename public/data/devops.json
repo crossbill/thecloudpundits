@@ -1,50 +1,50 @@
 [
   {
-    "title": "A production readiness matrix for n8n and AI workflows: 32 checks",
-    "desc": "<p>A workflow is not production-ready because the happy path ran once. This matrix lists thirty-two checks for n8n workflows and AI agents. ",
-    "link": "https://dev.to/victorlaybats/a-production-readiness-matrix-for-n8n-and-ai-workflows-32-checks-8j8",
+    "title": "The update button is part of your attack surface",
+    "desc": "<p>For about six months in 2025, the servers that delivered Notepad++ updates weren't entirely in the maintainer's hands. The editor's code ",
+    "link": "https://dev.to/james_abdul_kareem/the-update-button-is-part-of-your-attack-surface-39mf",
+    "topic": "secops"
+  },
+  {
+    "title": "ECMP Hash Polarization: Why Two Identical Links Carry 88% and 12%",
+    "desc": "<p><em>Originally published at <a href=\"https://allaboutitinfrastructure.com/articles/ecmp-explained/\" rel=\"noopener noreferrer\">Packet Path",
+    "link": "https://dev.to/packetpath12/ecmp-hash-polarization-why-two-identical-links-carry-88-and-12-6jp",
     "topic": "general"
   },
   {
-    "title": "You patched PHP. The old image is still in your cluster's future.",
-    "desc": "<p>On 21 October PHP shipped fixes for two critical bugs in the engine itself, CVE-2026-109618 and CVE-2026-109619, both CVSS 9.2, both reac",
-    "link": "https://dev.to/arifkurnaz/you-patched-php-the-old-image-is-still-in-your-clusters-future-1na2",
+    "title": "PHP2Shell: When the Vulnerability Is in the Runtime, Not Just the Application",
+    "desc": "<p><strong>What two critical PHP vulnerabilities teach us about SBOMs, containers, DevSecOps, and automated security patching.</strong></p>\n",
+    "link": "https://dev.to/jacivaldocarvalho/php2shell-when-the-vulnerability-is-in-the-runtime-not-just-the-application-4h7p",
+    "topic": "secops"
+  },
+  {
+    "title": "Planning a VoIP Phone System for a Small Business: An Asterisk and FreePBX Checklist",
+    "desc": "<p>When a small business asks me for a \"phone system,\" the first conversation is rarely about phones. It's about missed calls at lunchtime, ",
+    "link": "https://dev.to/muhammadalimughal/planning-a-voip-phone-system-for-a-small-business-an-asterisk-and-freepbx-checklist-5cn7",
     "topic": "general"
   },
   {
-    "title": "Hello DEV \ud83d\udc4b I'm building Somnus, a desktop AI agent with 50+ models behind one key",
-    "desc": "<p>Hi DEV! I'm Francisco (Chico), a developer from Lisbon, and this is my first post here.</p>\n\n<p>For the last few months I've been buildin",
-    "link": "https://dev.to/franciscomcac/hello-dev-im-building-somnus-a-desktop-ai-agent-with-50-models-behind-one-key-8n8",
+    "title": "How to Check SPF, DKIM and DMARC Records in 10 Minutes (and Fix the Common Mistakes)",
+    "desc": "<p>Here is a deliverability problem I see a lot: a business says its invoices \"just stopped arriving,\" and nothing changed on their side. Wh",
+    "link": "https://dev.to/muhammadalimughal/how-to-check-spf-dkim-and-dmarc-records-in-10-minutes-and-fix-the-common-mistakes-18dc",
     "topic": "general"
   },
   {
-    "title": "You Can't Respin a House",
-    "desc": "<p><em>This article was originally published on <a href=\"https://socratesfootfeed.blogspot.com/2026/10/you-cant-respin-house.html\" rel=\"noop",
-    "link": "https://dev.to/socratesfoot/you-cant-respin-a-house-340m",
+    "title": "A 12 person company, a $19,200 AWS bill, and a CTO who was right",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/a-12-person-company-a-19200-aws-bill-and-a-cto-who-was-right-3d8a",
+    "topic": "aws"
+  },
+  {
+    "title": "Make Email Automation Replayable with Run IDs",
+    "desc": "<p>Email-driven automation often feels random for one simple reason: the job has no durable identity. A CI workflow sends a message, waits f",
+    "link": "https://dev.to/mrdapperx/make-email-automation-replayable-with-run-ids-eh3",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Requests and Limits: Set CPU and Memory Right",
-    "desc": "<p><em>This guide was written by <a href=\"https://meteorops.com/team/arthur-azrieli\" rel=\"noopener noreferrer\">Arthur Azrieli</a>, CTO at Me",
-    "link": "https://dev.to/meteorops/kubernetes-requests-and-limits-set-cpu-and-memory-right-cl8",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Zero-Touch Enterprise Mobility: Automating 500+ Field Tablets with Samsung Knox MSP & Multi-Carrier eSIM Telemetry",
-    "desc": "<p>When field service, construction, or motorsports operations scale past 50 rugged tablets, manual MDM staging and single-carrier SIM dead ",
-    "link": "https://dev.to/ariawavetech/zero-touch-enterprise-mobility-automating-500-field-tablets-with-samsung-knox-msp-multi-carrier-30f3",
-    "topic": "general"
-  },
-  {
-    "title": "Run records and missed-run checks for scheduled scripts",
-    "desc": "<p><em>Tested on Linux with bash, jq and GNU date.</em></p>\n\n<p>A quiet Slack channel can mean two things: nothing went wrong, or the job ne",
-    "link": "https://dev.to/lastmileops/run-records-and-missed-run-checks-for-scheduled-scripts-3cg",
-    "topic": "general"
-  },
-  {
-    "title": "PHP2Shell: How to Patch PHP and Verify Every Running Worker",
-    "desc": "<p>An updated PHP package on disk is only part of a security fix. You also need to know which PHP runtime serves each application\u2014and whethe",
-    "link": "https://dev.to/digitalbergg/php2shell-how-to-patch-php-and-verify-every-running-worker-40en",
-    "topic": "general"
+    "title": "5 Linux Security Checks I Never Skip on Production Servers",
+    "desc": "<p>A Linux server can be fully patched, running normally, and still have security problems that nobody has noticed.</p>\n\n<p>I've spent over ",
+    "link": "https://dev.to/cyberwebpen/5-linux-security-checks-i-never-skip-on-production-servers-1kbo",
+    "topic": "secops"
   }
 ]
