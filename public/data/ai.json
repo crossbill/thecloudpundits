@@ -1,5 +1,11 @@
 [
   {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "desc": "",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "topic": "general"
+  },
+  {
     "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/hf-torchtpu",
     "topic": "huggingface"
-  },
-  {
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "desc": "",
-    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "topic": "general"
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
-    "title": "Black October 2026: what happened, what AI changed, and what to do now",
-    "desc": "<p>By Harshith Vaddiparthy</p>\n\n<p>Research checked October 23, 2026. Incident reports are still developing; versions and provider status be",
-    "link": "https://dev.to/harshithvaddiparthy/black-october-2026-what-happened-what-ai-changed-and-what-to-do-now-359i",
+    "title": "Stop Guessing: A Developer's Guide to Debugging HTTP Headers with cURL",
+    "desc": "<p>I've lost count of how many times I've spent hours debugging an API integration, only to realize the issue wasn't my code, but a silent 5",
+    "link": "https://dev.to/laing_lii_8c1214ffb0b60ec/stop-guessing-a-developers-guide-to-debugging-http-headers-with-curl-4j1n",
     "topic": "general"
   },
   {
-    "title": "Claude refused to finish patching my servers. My local LLM took over",
-    "desc": "<p>On October 21 and 22, I spent two long days patching our own servers. PHP had announced an emergency release for two critical remote code",
-    "link": "https://dev.to/seppegadeyne/claude-refused-to-finish-patching-my-servers-my-local-llm-took-over-3l8j",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Sentry vs GlitchTip vs Self-Hosted Sentry: Error Tracking for a Small Team When the Event Quota Keeps Running Out",
-    "desc": "<p>For most small teams, hosted Sentry is the right default, and the thing that decides whether it stays affordable is not the vendor but ho",
-    "link": "https://dev.to/libme/sentry-vs-glitchtip-vs-self-hosted-sentry-error-tracking-for-a-small-team-when-the-event-quota-2bnn",
+    "title": "A duration is only a duration if it has two ends",
+    "desc": "<p>The previous post on this blog -- <a href=\"https://dev.to/ilya_mozerov_867dbdd91feb/how-long-each-of-these-stayed-broken-before-anyone-no",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-duration-is-only-a-duration-if-it-has-two-ends-364l",
     "topic": "general"
   },
   {
-    "title": "Building My Cloud Resume Challenge on AWS (Almost for Free)",
-    "desc": "<p>I recently finished the <a href=\"https://cloudresumechallenge.dev/\" rel=\"noopener noreferrer\">Cloud Resume Challenge</a>: host a resume a",
-    "link": "https://dev.to/cwinslow22/building-my-cloud-resume-challenge-on-aws-almost-for-free-6po",
-    "topic": "aws"
+    "title": "Kubernetes Has Garbage Collection. Why Did We Build Another One?",
+    "desc": "<blockquote>\n<p>This is article 2 of 10 in <strong>Beyond Kubernetes Defaults</strong>. Read <a href=\"https://dev.to/zenmesh/when-kubernetes",
+    "link": "https://dev.to/zenmesh/kubernetes-has-garbage-collection-why-did-we-build-another-one-2nae",
+    "topic": "kubernetes"
   },
   {
-    "title": "Patching PHP 5.6 to 8.1 for PHP2Shell on old Ubuntu servers by rebuilding RunCloud's PHP",
-    "desc": "<p><strong>On October 21, 2026, PHP shipped fixes for PHP2Shell, but only for PHP 8.2 and newer. Our hosting panel, RunCloud, only patches t",
-    "link": "https://dev.to/seppegadeyne/patching-php-56-to-81-for-php2shell-on-old-ubuntu-servers-by-rebuilding-runclouds-php-1bl7",
+    "title": "Why free model tiers look dead when they aren't",
+    "desc": "<h1>\n  \n  \n  Why free model tiers look dead when they aren't\n</h1>\n\n<p>I keep a small probe script that walks a list of OpenAI-compatible en",
+    "link": "https://dev.to/cleo_cliona/why-free-model-tiers-look-dead-when-they-arent-3mef",
     "topic": "general"
   },
   {
-    "title": "Eliminating $500+ Bucket-Truck Rolls: Bridging Isolated 60GHz Rooftop Radios Over 5G Tailscale Tunnels",
-    "desc": "<p>When deploying <strong>60GHz V-Band Terragraph millimeter-wave mesh networks</strong> (such as Siklu MultiHaul\u2122 TG MH-N366 distribution n",
-    "link": "https://dev.to/ariawavetech/eliminating-500-bucket-truck-rolls-bridging-isolated-60ghz-rooftop-radios-over-5g-tailscale-28ae",
+    "title": "Deploy succeeded but the live site still shows old content",
+    "desc": "<h2>\n  \n  \n  What the data says\n</h2>\n\n<p>We read 6,205 public posts from builders whose apps broke at or after launch and verified 659 rece",
+    "link": "https://dev.to/gemmein/deploy-succeeded-but-the-live-site-still-shows-old-content-28ee",
     "topic": "general"
   },
   {
-    "title": "Java no es el riesgo. Tu implementaci\u00f3n y tu parche, s\u00ed.",
-    "desc": "<p>Esta semana circul\u00f3 una imagen que puso a Java en rojo: <strong>\"riesgo ALTO\"</strong>, junto a Node.js, Go y Python. Para quien no est\u00e1 ",
-    "link": "https://dev.to/ebercruz/java-no-es-el-riesgo-tu-implementacion-y-tu-parche-si-59l4",
+    "title": "The poisoned LiteLLM 1.107.0 problem, and the 30-second check I now run on every repo",
+    "desc": "<p>On Oct 21, LiteLLM disclosed that v1.107.0 shipped compromised \u2014 malicious wheels on PyPI (live 11:39\u201313:23 UTC), poisoned Docker tags (<",
+    "link": "https://dev.to/xm-yang/the-poisoned-litellm-11070-problem-and-the-30-second-check-i-now-run-on-every-repo-570c",
     "topic": "general"
   },
   {
-    "title": "Provisioning Resilient Azure Infrastructure with Terraform, DevPod, and mise: A Hands-On Guide",
-    "desc": "<p>When transitioning from the manual, error-prone world of \"ClickOps\" in cloud portals to production-grade engineering, mastering <strong>I",
-    "link": "https://dev.to/alanvarghese-dev/provisioning-resilient-azure-infrastructure-with-terraform-devpod-and-mise-a-hands-on-guide-f8a",
-    "topic": "azure"
+    "title": "Operational Resilience After Tech Layoffs",
+    "desc": "<h1>\n  \n  \n  Operational Resilience After Tech Layoffs\n</h1>\n\n<p>Operational resilience after tech layoffs is the ability to keep critical c",
+    "link": "https://dev.to/rausal_bahtiarfadhli_d94/operational-resilience-after-tech-layoffs-59ef",
+    "topic": "general"
+  },
+  {
+    "title": "Don't Bet Your Infrastructure on One DNS Resolver: Building a Resilient Encrypted DNS Layer with Unbound",
+    "desc": "<p>Tu\u1ea7n n\u00e0y tr\u00ean Hacker News, tin Quad9 r\u00fat kh\u1ecfi Ph\u00e1p \u0111\u1ea1t g\u1ea7n 1000 \u0111i\u1ec3m. L\u00fd do n\u1eb1m \u1edf chuy\u1ec7n ph\u00e1p l\u00fd, kh\u00f4ng ph\u1ea3i k\u1ef9 thu\u1eadt. Nh\u01b0ng d\u00e2n dev ch\u00fan",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/dont-bet-your-infrastructure-on-one-dns-resolver-building-a-resilient-encrypted-dns-layer-with-1ffl",
+    "topic": "general"
   }
 ]
