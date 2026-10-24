@@ -1,50 +1,50 @@
 [
   {
-    "title": "Emails not reaching Outlook or Hotmail: the complete fix (550 5.7.515 and friends)",
-    "desc": "<p>A customer signed up with an <code>@outlook.com</code> address, your app sent the confirmation email, and it never showed up. Gmail gets ",
-    "link": "https://dev.to/couryo/emails-not-reaching-outlook-or-hotmail-the-complete-fix-550-57515-and-friends-2lm6",
+    "title": "Why Your Cron Job Runs at the Wrong Time (Even When the Expression Is Correct)",
+    "desc": "<p>You write a cron expression, deploy your application, and expect a task to run at 9 AM.</p>\n\n<p>But it runs at 6 PM.</p>\n\n<p>The expressi",
+    "link": "https://dev.to/_4e8d848ae45b3c9c6eef9/why-your-cron-job-runs-at-the-wrong-time-even-when-the-expression-is-correct-51f9",
     "topic": "general"
   },
   {
-    "title": "My site answered 200 on all 163 URLs. Crawlers never saw a single page.",
-    "desc": "<h1>\n  \n  \n  My site answered 200 on all 163 URLs. Crawlers never saw a single page.\n</h1>\n\n<p>For two months I ran a small data site: 163 U",
-    "link": "https://dev.to/sdijjxcfs/my-site-answered-200-on-all-163-urls-crawlers-never-saw-a-single-page-23b0",
+    "title": "Auto\u2011Generate Docker\u2011Compose for Free\u2011Tier ML Experiments",
+    "desc": "<p><strong>Free\u2011tier cloud credits run out faster than expected</strong> \u2013 a single Jupyter notebook on a GPU spot instance can consume a 10",
+    "link": "https://dev.to/nughes/auto-generate-docker-compose-for-free-tier-ml-experiments-27hb",
+    "topic": "docker"
+  },
+  {
+    "title": "Decarbonizing Peru\u2019s Grid: Building an Interactive Wind & Solar Explorer for Paracas with Streamlit, Plotly, and GitHub Actions",
+    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Executive Summary:</strong> Variable renewable energy assets face a fundamental challenge: weather-driven intermit",
+    "link": "https://dev.to/gian_francoarocutipaaro/decarbonizing-perus-grid-building-an-interactive-wind-solar-explorer-for-paracas-with-e81",
     "topic": "general"
   },
   {
-    "title": "Audio Deadlines: Running On-Device TTS Without Audible Glitches",
-    "desc": "<p>Gradium open-sourced Phonon, its on-device TTS engine (<a href=\"https://gradium.ai/phonon\" rel=\"noopener noreferrer\">https://gradium.ai/p",
-    "link": "https://dev.to/dima_kruglov_608741d9a416/audio-deadlines-running-on-device-tts-without-audible-glitches-kdi",
+    "title": "Your AI Agents Are Logging In With Your Password. Banks Have Noticed.",
+    "desc": "<p><em>Stop sharing your credentials with agents \u2014 per-agent identity is here, and here's the order to fix things in.</em></p>\n\n<p>Disclosur",
+    "link": "https://dev.to/paullovelace/your-ai-agents-are-logging-in-with-your-password-banks-have-noticed-23p5",
     "topic": "general"
   },
   {
-    "title": "What Are GitHub Actions Lockfiles, and Do They Replace SHA Pinning?",
-    "desc": "<p>Your SDK release workflow runs when someone pushes a version tag. Its steps read <code>actions/checkout@v4</code>, <code>actions/setup-no",
-    "link": "https://dev.to/alisa_hester_1/what-are-github-actions-lockfiles-and-do-they-replace-sha-pinning-3kg0",
+    "title": "A Passkey Deployment Checklist Beyond the Happy-Path Demo",
+    "desc": "<p>Creating a passkey once on your laptop is not the same as deploying passkeys.</p>\n\n<p>A production release needs evidence at three layers",
+    "link": "https://dev.to/julianhalden/a-passkey-deployment-checklist-beyond-the-happy-path-demo-4dba",
     "topic": "general"
   },
   {
-    "title": "How to preview a site on a new server without editing the hosts file",
-    "desc": "<p>Every migration ends up in the same spot. The files are on the new server, the database is imported, and now you've got to work out wheth",
-    "link": "https://dev.to/romailshah/how-to-preview-a-site-on-a-new-server-without-editing-the-hosts-file-4nlj",
+    "title": "How to Read a Passkey Deployment Checker Report",
+    "desc": "<p>A website can have valid passkey metadata and a broken authentication flow. It can also support passkeys while publishing none of the opt",
+    "link": "https://dev.to/julianhalden/how-to-read-a-passkey-deployment-checker-report-4hb8",
     "topic": "general"
   },
   {
-    "title": "Beyond Code Storage: Transforming GitHub's Free Tier into an In-Process Cognitive OS for Autonomous Agents",
-    "desc": "<p><a href=\"https://drive.google.com/file/d/19NFcWCvCVuVli56dlatIwNws50lR7hIb/view?usp=sharing\" rel=\"noopener noreferrer\">Companion Podcast<",
-    "link": "https://dev.to/jsb-securedme/beyond-code-storage-transforming-githubs-free-tier-into-an-in-process-cognitive-os-for-autonomous-5eb3",
-    "topic": "general"
+    "title": "Docker Reported Exit 0. The Kernel Had Already OOM-Killed It.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https",
+    "link": "https://dev.to/hoelee/docker-reported-exit-0-the-kernel-had-already-oom-killed-it-2ojp",
+    "topic": "docker"
   },
   {
-    "title": "Your Agent Deleted the Wrong Directory at 3 A.M. \u2014 and the Prompt Said 'Be Careful'",
-    "desc": "<h1>\n  \n  \n  Your Agent Deleted the Wrong Directory at 3 A.M. \u2014 and the Prompt Said \"Be Careful\"\n</h1>\n\n<p>Every team running AI agents unat",
-    "link": "https://dev.to/rinworklab/your-agent-deleted-the-wrong-directory-at-3-am-and-the-prompt-said-be-careful-1iof",
-    "topic": "general"
-  },
-  {
-    "title": "Created EBS volume for the first time",
-    "desc": "<p><strong>Created EBS volume for the first time</strong></p>\n\n<p>I\u2019ve been learning AWS, and today I created my first EBS volume. Until now",
-    "link": "https://dev.to/mohammed_mubashir_eb73cab/created-ebs-volume-for-the-first-time-2g8m",
+    "title": "The 3 Ways DevOps Transformations Actually Fail (And the Fourth Team That Avoided All Three)",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> DevOps transformations don't usually fail from lack of budget or lack of tools. They fail from one o",
+    "link": "https://dev.to/sherdilcloud/the-3-ways-devops-transformations-actually-fail-and-the-fourth-team-that-avoided-all-three-4nbh",
     "topic": "general"
   }
 ]
