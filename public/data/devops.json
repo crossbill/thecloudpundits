@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Your Cron Job Runs at the Wrong Time (Even When the Expression Is Correct)",
-    "desc": "<p>You write a cron expression, deploy your application, and expect a task to run at 9 AM.</p>\n\n<p>But it runs at 6 PM.</p>\n\n<p>The expressi",
-    "link": "https://dev.to/_4e8d848ae45b3c9c6eef9/why-your-cron-job-runs-at-the-wrong-time-even-when-the-expression-is-correct-51f9",
+    "title": "Before you start: the whole picture of checking, and how to test without breaking production",
+    "desc": "<p>This is part 3 of the series \"Protect Your Own Service Yourself \u2014 Self-Defense Security in the Age of AI.\" Do the checks you can yourself",
+    "link": "https://dev.to/uehara/before-you-start-the-whole-picture-of-checking-and-how-to-test-without-breaking-production-24if",
     "topic": "general"
   },
   {
-    "title": "Auto\u2011Generate Docker\u2011Compose for Free\u2011Tier ML Experiments",
-    "desc": "<p><strong>Free\u2011tier cloud credits run out faster than expected</strong> \u2013 a single Jupyter notebook on a GPU spot instance can consume a 10",
-    "link": "https://dev.to/nughes/auto-generate-docker-compose-for-free-tier-ml-experiments-27hb",
-    "topic": "docker"
-  },
-  {
-    "title": "Decarbonizing Peru\u2019s Grid: Building an Interactive Wind & Solar Explorer for Paracas with Streamlit, Plotly, and GitHub Actions",
-    "desc": "<blockquote>\n<p>\ud83d\udca1 <strong>Executive Summary:</strong> Variable renewable energy assets face a fundamental challenge: weather-driven intermit",
-    "link": "https://dev.to/gian_francoarocutipaaro/decarbonizing-perus-grid-building-an-interactive-wind-solar-explorer-for-paracas-with-e81",
+    "title": "Plan to Hit GitLab Level 4",
+    "desc": "<h1>\n  \n  \n  Step-by-Step Action Plan to Hit GitLab Level 4 (7,500 Points)\n</h1>\n\n<ul>\n<li>\n<strong>Current Score:</strong> <code>3,868 poin",
+    "link": "https://dev.to/hrlpavan/plan-to-hit-gitlab-level-4-5elk",
     "topic": "general"
   },
   {
-    "title": "Your AI Agents Are Logging In With Your Password. Banks Have Noticed.",
-    "desc": "<p><em>Stop sharing your credentials with agents \u2014 per-agent identity is here, and here's the order to fix things in.</em></p>\n\n<p>Disclosur",
-    "link": "https://dev.to/paullovelace/your-ai-agents-are-logging-in-with-your-password-banks-have-noticed-23p5",
+    "title": "Day two of the audit: CloudWatch went from $2,400 to $380",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/day-two-of-the-audit-cloudwatch-went-from-2400-to-380-3opo",
     "topic": "general"
   },
   {
-    "title": "A Passkey Deployment Checklist Beyond the Happy-Path Demo",
-    "desc": "<p>Creating a passkey once on your laptop is not the same as deploying passkeys.</p>\n\n<p>A production release needs evidence at three layers",
-    "link": "https://dev.to/julianhalden/a-passkey-deployment-checklist-beyond-the-happy-path-demo-4dba",
+    "title": "What Does Crypto Com Customer Support do?",
+    "desc": "<p>Crypto.com customer support \u260e\ufe0f 1-855-761-1278 helps users understand and troubleshoot issues related to their accounts, transactions, ver",
+    "link": "https://dev.to/cryptocomcustome/what-does-crypto-com-customer-support-do-552j",
     "topic": "general"
   },
   {
-    "title": "How to Read a Passkey Deployment Checker Report",
-    "desc": "<p>A website can have valid passkey metadata and a broken authentication flow. It can also support passkeys while publishing none of the opt",
-    "link": "https://dev.to/julianhalden/how-to-read-a-passkey-deployment-checker-report-4hb8",
+    "title": "Oumma from Zero: Installing the Engine, the Web App and Keycloak (A Guide for Absolute Beginners)",
+    "desc": "<h1>\n  \n  \n  Oumma from Zero: Installing the Engine, the Web App and Keycloak\n</h1>\n\n<p><em>This is the \"make it run on my machine\" episode ",
+    "link": "https://dev.to/benchouia_ahmedabdelhaki/oumma-from-zero-installing-the-engine-the-web-app-and-keycloak-a-guide-for-absolute-beginners-14kb",
     "topic": "general"
   },
   {
-    "title": "Docker Reported Exit 0. The Kernel Had Already OOM-Killed It.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https",
-    "link": "https://dev.to/hoelee/docker-reported-exit-0-the-kernel-had-already-oom-killed-it-2ojp",
-    "topic": "docker"
+    "title": "Building a Secrets Detection Pre-Commit Hook in 50 Lines",
+    "desc": "<p>Secrets leaking into git repositories cause a disproportionate share of real-world breaches. AWS keys committed to a public GitHub repo g",
+    "link": "https://dev.to/ayinedjimi-consultants/building-a-secrets-detection-pre-commit-hook-in-50-lines-12d8",
+    "topic": "general"
   },
   {
-    "title": "The 3 Ways DevOps Transformations Actually Fail (And the Fourth Team That Avoided All Three)",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> DevOps transformations don't usually fail from lack of budget or lack of tools. They fail from one o",
-    "link": "https://dev.to/sherdilcloud/the-3-ways-devops-transformations-actually-fail-and-the-fourth-team-that-avoided-all-three-4nbh",
+    "title": "Claude Code docs pages changed on the day we read them",
+    "desc": "<p>Claude Code documentation pages keep changing under a book that cites them. On 2026-10-14 and 2026-10-15 our KDP package rebuild for book",
+    "link": "https://dev.to/robswierk/claude-code-docs-pages-changed-on-the-day-we-read-them-1hfm",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Caddy 2.11.6 turns a silent config failure on /load into an HTTP 400",
+    "desc": "<p>I posted a broken load-balancer config to Caddy's admin API and it told me the reload had worked. The server behind it stopped answering ",
+    "link": "https://dev.to/alexgeorgiev17/caddy-2116-turns-a-silent-config-failure-on-load-into-an-http-400-4656",
     "topic": "general"
   }
 ]
