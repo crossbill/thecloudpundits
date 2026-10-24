@@ -1,50 +1,50 @@
 [
   {
-    "title": "Before you start: the whole picture of checking, and how to test without breaking production",
-    "desc": "<p>This is part 3 of the series \"Protect Your Own Service Yourself \u2014 Self-Defense Security in the Age of AI.\" Do the checks you can yourself",
-    "link": "https://dev.to/uehara/before-you-start-the-whole-picture-of-checking-and-how-to-test-without-breaking-production-24if",
+    "title": "A Security Audit Checklist for a 20-Person Company",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>A security audit is a review that checks whether a company's systems, accounts and backups behave the way",
+    "link": "https://dev.to/echakiri/a-security-audit-checklist-for-a-20-person-company-136g",
+    "topic": "secops"
+  },
+  {
+    "title": "The Day My Domain Name Expired and Took Everything Down With It",
+    "desc": "<p>On August 14th, everything I run stopped working at once. Our family's chore app. The maintenance request system I use at my day job. The",
+    "link": "https://dev.to/scott_steinmetz/the-day-my-domain-name-expired-and-took-everything-down-with-it-55ca",
     "topic": "general"
   },
   {
-    "title": "Plan to Hit GitLab Level 4",
-    "desc": "<h1>\n  \n  \n  Step-by-Step Action Plan to Hit GitLab Level 4 (7,500 Points)\n</h1>\n\n<ul>\n<li>\n<strong>Current Score:</strong> <code>3,868 poin",
-    "link": "https://dev.to/hrlpavan/plan-to-hit-gitlab-level-4-5elk",
-    "topic": "general"
-  },
-  {
-    "title": "Day two of the audit: CloudWatch went from $2,400 to $380",
+    "title": "3 Tahun Belajar Self-Hosting: Apa yang Benar-Benar Aku Pakai (dan Yang Buang Waktu)",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/day-two-of-the-audit-cloudwatch-went-from-2400-to-380-3opo",
+    "link": "https://dev.to/yanstd888/3-tahun-belajar-self-hosting-apa-yang-benar-benar-aku-pakai-dan-yang-buang-waktu-5b0e",
     "topic": "general"
   },
   {
-    "title": "What Does Crypto Com Customer Support do?",
-    "desc": "<p>Crypto.com customer support \u260e\ufe0f 1-855-761-1278 helps users understand and troubleshoot issues related to their accounts, transactions, ver",
-    "link": "https://dev.to/cryptocomcustome/what-does-crypto-com-customer-support-do-552j",
+    "title": "PHP2Shell, Node.js, GitLab & LiteLLM Vulnerabilities: October 2026 Patch Guide",
+    "desc": "<p>Four of the most-used stacks on the internet got hit <strong>in the same week</strong>. PHP, Node.js, GitLab and LiteLLM all shipped crit",
+    "link": "https://dev.to/asyncinnovator/php2shell-nodejs-gitlab-litellm-vulnerabilities-october-2026-patch-guide-25le",
     "topic": "general"
   },
   {
-    "title": "Oumma from Zero: Installing the Engine, the Web App and Keycloak (A Guide for Absolute Beginners)",
-    "desc": "<h1>\n  \n  \n  Oumma from Zero: Installing the Engine, the Web App and Keycloak\n</h1>\n\n<p><em>This is the \"make it run on my machine\" episode ",
-    "link": "https://dev.to/benchouia_ahmedabdelhaki/oumma-from-zero-installing-the-engine-the-web-app-and-keycloak-a-guide-for-absolute-beginners-14kb",
+    "title": "The AI PR that fixed CI by adding || true",
+    "desc": "<p>I keep seeing this in agent-written PRs.</p>\n\n<p>A script step was failing. The agent \u201cfixed\u201d it. The pipeline is green again. Then you o",
+    "link": "https://dev.to/rivendesk/the-ai-pr-that-fixed-ci-by-adding-true-5f1j",
     "topic": "general"
   },
   {
-    "title": "Building a Secrets Detection Pre-Commit Hook in 50 Lines",
-    "desc": "<p>Secrets leaking into git repositories cause a disproportionate share of real-world breaches. AWS keys committed to a public GitHub repo g",
-    "link": "https://dev.to/ayinedjimi-consultants/building-a-secrets-detection-pre-commit-hook-in-50-lines-12d8",
+    "title": "Linux Security Fundamentals Every Developer Should Master",
+    "desc": "<h1>\n  \n  \n  Linux Security Fundamentals Every Developer Should Master\n</h1>\n\n<h2>\n  \n  \n  Why Developers Need Linux Security Knowledge\n</h2",
+    "link": "https://dev.to/harsh_hak/linux-security-fundamentals-every-developer-should-master-4lhp",
+    "topic": "secops"
+  },
+  {
+    "title": "How Does the Causely MCP Server Work? Background Agents, a 72-Experiment Benchmark, and a Production Fix the Gate Auto-Approved",
+    "desc": "<h1>\n  \n  \n  How Does the Causely MCP Server Work? Background Agents, a 72-Experiment Benchmark, and a Production Fix the Gate Auto-Approved",
+    "link": "https://dev.to/scriptmasterlabs01/how-does-the-causely-mcp-server-work-background-agents-a-72-experiment-benchmark-and-a-ikp",
     "topic": "general"
   },
   {
-    "title": "Claude Code docs pages changed on the day we read them",
-    "desc": "<p>Claude Code documentation pages keep changing under a book that cites them. On 2026-10-14 and 2026-10-15 our KDP package rebuild for book",
-    "link": "https://dev.to/robswierk/claude-code-docs-pages-changed-on-the-day-we-read-them-1hfm",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Caddy 2.11.6 turns a silent config failure on /load into an HTTP 400",
-    "desc": "<p>I posted a broken load-balancer config to Caddy's admin API and it told me the reload had worked. The server behind it stopped answering ",
-    "link": "https://dev.to/alexgeorgiev17/caddy-2116-turns-a-silent-config-failure-on-load-into-an-http-400-4656",
+    "title": "How to Choose an AI Coding Agent in 2026",
+    "desc": "<p>How to Choose an AI Coding Agent in 2026: A Practical Decision Framework for Solo Developers</p>\n\n<p>There is no shortage of AI coding ag",
+    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/how-to-choose-an-ai-coding-agent-in-2026-1c7f",
     "topic": "general"
   }
 ]
