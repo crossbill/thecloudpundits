@@ -1,50 +1,50 @@
 [
   {
-    "title": "All Three Servers Blacklisted on the Same Morning \u2014 When the Listing Is Your ASN, Not Your Server",
-    "desc": "<p><em>A presales war story about a blacklist alert that hit every server at once \u2014 the sign that nothing is wrong with the servers \u2014 and th",
-    "link": "https://dev.to/daanial/all-three-servers-blacklisted-on-the-same-morning-when-the-listing-is-your-asn-not-your-server-5gpo",
+    "title": "Helm chart vs operator: PostgreSQL installed both ways on kind",
+    "desc": "<p>A Helm chart writes objects when you run <code>helm install</code> or <code>helm upgrade</code>,<br />\nand then it is done. An operator r",
+    "link": "https://dev.to/kadet-hub/helm-chart-vs-operator-postgresql-installed-both-ways-on-kind-1nke",
     "topic": "general"
   },
   {
-    "title": "Restart=always Is a Recovery Policy, Not a Health Check",
-    "desc": "<p><em>By Bo</em></p>\n\n<p>When an AI gateway stops answering, changing its restart policy is tempting. I have operating notes covering sever",
-    "link": "https://dev.to/lamas51/restartalways-is-a-recovery-policy-not-a-health-check-31dn",
+    "title": "Writing a Helm chart vs Kapitan: three popular charts rebuilt",
+    "desc": "<p>If you install a third-party chart, keep the chart. Its values are the<br />\ninterface its maintainers support, and for what they do not ",
+    "link": "https://dev.to/kadet-hub/writing-a-helm-chart-vs-kapitan-three-popular-charts-rebuilt-2il7",
     "topic": "general"
   },
   {
-    "title": "The Anatomy of CVE-2024-4577: Why You Shouldn\u2019t Abandon PHP Over a CGI Best-Fit Code Page Exploit",
-    "desc": "<p>When a critical Remote Code Execution (RCE) vulnerability hits a language that powers a large share of the web, the headlines predictably",
-    "link": "https://dev.to/usman_khan_io/the-anatomy-of-cve-2024-4577-why-you-shouldnt-abandon-php-over-a-cgi-best-fit-code-page-exploit-58pi",
+    "title": "TIVI MAGAZINE SPECIAL REPORT | ARCHITECTURE & WARFARE",
+    "desc": "<h1>\n  \n  \n  The Miracle at the Raate Endpoint: How One Finnish Architect's Secret Weapon Froze the Great Spreadsheet Invasion\n</h1>\n\n<p><em",
+    "link": "https://dev.to/bigf_fellow/tivi-magazine-special-report-architecture-warfare-11n3",
     "topic": "general"
   },
   {
-    "title": "I built a Minecraft server panel in Python: here's what broke along the way",
-    "desc": "<p>I remember years and years ago when I initially got interested in servers, when I tried to set up a Minecraft server, I had to download t",
-    "link": "https://dev.to/navickas/i-built-a-minecraft-server-panel-in-python-heres-what-broke-along-the-way-588o",
+    "title": "How to Calculate Subnets by Hand: A Step-by-Step Guide",
+    "desc": "<p><em>Originally published on <a href=\"https://arelvox.com/how-to-calculate-subnets/\" rel=\"noopener noreferrer\">Arelvox</a>.</em></p>\n\n<p>K",
+    "link": "https://dev.to/arelvox/how-to-calculate-subnets-by-hand-a-step-by-step-guide-3eh8",
     "topic": "general"
   },
   {
-    "title": "Retryable Email Automation Needs a State Contract",
-    "desc": "<p>Email automation usually looks simple in a happy-path diagram: create an address, trigger a message, read the inbox, and continue the job",
-    "link": "https://dev.to/mrdapperx/retryable-email-automation-needs-a-state-contract-4og8",
+    "title": "The retry storm that ate 40,000 messages",
+    "desc": "<h2>\n  \n  \n  2 a.m.\n</h2>\n\n<p>An API token expired overnight. That was the whole root cause: one credential, for one<br />\nthird-party API, ",
+    "link": "https://dev.to/dhananjay_mundhada_02c326/the-retry-storm-that-ate-40000-messages-70g",
     "topic": "general"
   },
   {
-    "title": "GKE Autopilot vs Cloud Run: The Decision I Keep Coming Back To",
-    "desc": "<p>Every few months, I open the same question again: should this thing be running on Kubernetes?</p>\n\n<p>I build security tooling as a solo ",
-    "link": "https://dev.to/purvanshbhatt/gke-autopilot-vs-cloud-run-the-decision-i-keep-coming-back-to-2m93",
-    "topic": "general"
+    "title": "AWS Won't Patch a CVSS 9.8 Bug in Multi Model Server. Its Management API Has No Login",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GW2NTCR5\" rel=\"noopener noreferrer\">Ship It \u2014 the pragmatic startup te",
+    "link": "https://dev.to/gabrielanhaia/aws-wont-patch-a-cvss-98-bug-in-multi-model-server-its-management-api-has-no-login-2e71",
+    "topic": "aws"
   },
   {
-    "title": "PHP2Shell: Como a IA Revelou Vulnerabilidades Cr\u00edticas no N\u00facleo do PHP e Acelerou a Defesa de Servidores",
-    "desc": "<p>Em outubro de 2026, a comunidade global de infraestrutura e ciberseguran\u00e7a foi confrontada com o <strong>PHP2Shell</strong>: um conjunto ",
-    "link": "https://dev.to/evandro_carvalho_ad7433b6/php2shell-como-a-ia-revelou-vulnerabilidades-criticas-no-nucleo-do-php-e-acelerou-a-defesa-de-38jh",
-    "topic": "general"
+    "title": "cloudg: one CLI to map and audit AWS, Azure and GCP",
+    "desc": "<p>I work in cloud security, and the question I keep coming back to on any account is how things are wired together. Scanners like Prowler a",
+    "link": "https://dev.to/morpheuslord/cloudg-one-cli-to-map-and-audit-aws-azure-and-gcp-3bgh",
+    "topic": "aws"
   },
   {
-    "title": "Day 7 of the ubuntu-latest rollout: Sunday \u2014 turn the weekend log into Monday's checklist",
-    "desc": "<p>The ubuntu-latest migration window opened on October 19, 2026 and runs to November 19. Inside that window, <code>ubuntu-latest</code> mov",
-    "link": "https://dev.to/alapha888/day-7-of-the-ubuntu-latest-rollout-sunday-turn-the-weekend-log-into-mondays-checklist-3017",
+    "title": "DuckDB 2.0.0 LTS Ships Its Biggest Feature Release on a Support Clock",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>DuckDB is an open-source analytical database that runs inside one process, and version 2.0.0 LTS, codenam",
+    "link": "https://dev.to/neticslabs/duckdb-200-lts-ships-its-biggest-feature-release-on-a-support-clock-6e6",
     "topic": "general"
   }
 ]
