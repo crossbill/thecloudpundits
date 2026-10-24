@@ -1,50 +1,50 @@
 [
   {
-    "title": "A Security Audit Checklist for a 20-Person Company",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>A security audit is a review that checks whether a company's systems, accounts and backups behave the way",
-    "link": "https://dev.to/echakiri/a-security-audit-checklist-for-a-20-person-company-136g",
-    "topic": "secops"
-  },
-  {
-    "title": "The Day My Domain Name Expired and Took Everything Down With It",
-    "desc": "<p>On August 14th, everything I run stopped working at once. Our family's chore app. The maintenance request system I use at my day job. The",
-    "link": "https://dev.to/scott_steinmetz/the-day-my-domain-name-expired-and-took-everything-down-with-it-55ca",
+    "title": "All Three Servers Blacklisted on the Same Morning \u2014 When the Listing Is Your ASN, Not Your Server",
+    "desc": "<p><em>A presales war story about a blacklist alert that hit every server at once \u2014 the sign that nothing is wrong with the servers \u2014 and th",
+    "link": "https://dev.to/daanial/all-three-servers-blacklisted-on-the-same-morning-when-the-listing-is-your-asn-not-your-server-5gpo",
     "topic": "general"
   },
   {
-    "title": "3 Tahun Belajar Self-Hosting: Apa yang Benar-Benar Aku Pakai (dan Yang Buang Waktu)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/yanstd888/3-tahun-belajar-self-hosting-apa-yang-benar-benar-aku-pakai-dan-yang-buang-waktu-5b0e",
+    "title": "Restart=always Is a Recovery Policy, Not a Health Check",
+    "desc": "<p><em>By Bo</em></p>\n\n<p>When an AI gateway stops answering, changing its restart policy is tempting. I have operating notes covering sever",
+    "link": "https://dev.to/lamas51/restartalways-is-a-recovery-policy-not-a-health-check-31dn",
     "topic": "general"
   },
   {
-    "title": "PHP2Shell, Node.js, GitLab & LiteLLM Vulnerabilities: October 2026 Patch Guide",
-    "desc": "<p>Four of the most-used stacks on the internet got hit <strong>in the same week</strong>. PHP, Node.js, GitLab and LiteLLM all shipped crit",
-    "link": "https://dev.to/asyncinnovator/php2shell-nodejs-gitlab-litellm-vulnerabilities-october-2026-patch-guide-25le",
+    "title": "The Anatomy of CVE-2024-4577: Why You Shouldn\u2019t Abandon PHP Over a CGI Best-Fit Code Page Exploit",
+    "desc": "<p>When a critical Remote Code Execution (RCE) vulnerability hits a language that powers a large share of the web, the headlines predictably",
+    "link": "https://dev.to/usman_khan_io/the-anatomy-of-cve-2024-4577-why-you-shouldnt-abandon-php-over-a-cgi-best-fit-code-page-exploit-58pi",
     "topic": "general"
   },
   {
-    "title": "The AI PR that fixed CI by adding || true",
-    "desc": "<p>I keep seeing this in agent-written PRs.</p>\n\n<p>A script step was failing. The agent \u201cfixed\u201d it. The pipeline is green again. Then you o",
-    "link": "https://dev.to/rivendesk/the-ai-pr-that-fixed-ci-by-adding-true-5f1j",
+    "title": "I built a Minecraft server panel in Python: here's what broke along the way",
+    "desc": "<p>I remember years and years ago when I initially got interested in servers, when I tried to set up a Minecraft server, I had to download t",
+    "link": "https://dev.to/navickas/i-built-a-minecraft-server-panel-in-python-heres-what-broke-along-the-way-588o",
     "topic": "general"
   },
   {
-    "title": "Linux Security Fundamentals Every Developer Should Master",
-    "desc": "<h1>\n  \n  \n  Linux Security Fundamentals Every Developer Should Master\n</h1>\n\n<h2>\n  \n  \n  Why Developers Need Linux Security Knowledge\n</h2",
-    "link": "https://dev.to/harsh_hak/linux-security-fundamentals-every-developer-should-master-4lhp",
-    "topic": "secops"
-  },
-  {
-    "title": "How Does the Causely MCP Server Work? Background Agents, a 72-Experiment Benchmark, and a Production Fix the Gate Auto-Approved",
-    "desc": "<h1>\n  \n  \n  How Does the Causely MCP Server Work? Background Agents, a 72-Experiment Benchmark, and a Production Fix the Gate Auto-Approved",
-    "link": "https://dev.to/scriptmasterlabs01/how-does-the-causely-mcp-server-work-background-agents-a-72-experiment-benchmark-and-a-ikp",
+    "title": "Retryable Email Automation Needs a State Contract",
+    "desc": "<p>Email automation usually looks simple in a happy-path diagram: create an address, trigger a message, read the inbox, and continue the job",
+    "link": "https://dev.to/mrdapperx/retryable-email-automation-needs-a-state-contract-4og8",
     "topic": "general"
   },
   {
-    "title": "How to Choose an AI Coding Agent in 2026",
-    "desc": "<p>How to Choose an AI Coding Agent in 2026: A Practical Decision Framework for Solo Developers</p>\n\n<p>There is no shortage of AI coding ag",
-    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/how-to-choose-an-ai-coding-agent-in-2026-1c7f",
+    "title": "GKE Autopilot vs Cloud Run: The Decision I Keep Coming Back To",
+    "desc": "<p>Every few months, I open the same question again: should this thing be running on Kubernetes?</p>\n\n<p>I build security tooling as a solo ",
+    "link": "https://dev.to/purvanshbhatt/gke-autopilot-vs-cloud-run-the-decision-i-keep-coming-back-to-2m93",
+    "topic": "general"
+  },
+  {
+    "title": "PHP2Shell: Como a IA Revelou Vulnerabilidades Cr\u00edticas no N\u00facleo do PHP e Acelerou a Defesa de Servidores",
+    "desc": "<p>Em outubro de 2026, a comunidade global de infraestrutura e ciberseguran\u00e7a foi confrontada com o <strong>PHP2Shell</strong>: um conjunto ",
+    "link": "https://dev.to/evandro_carvalho_ad7433b6/php2shell-como-a-ia-revelou-vulnerabilidades-criticas-no-nucleo-do-php-e-acelerou-a-defesa-de-38jh",
+    "topic": "general"
+  },
+  {
+    "title": "Day 7 of the ubuntu-latest rollout: Sunday \u2014 turn the weekend log into Monday's checklist",
+    "desc": "<p>The ubuntu-latest migration window opened on October 19, 2026 and runs to November 19. Inside that window, <code>ubuntu-latest</code> mov",
+    "link": "https://dev.to/alapha888/day-7-of-the-ubuntu-latest-rollout-sunday-turn-the-weekend-log-into-mondays-checklist-3017",
     "topic": "general"
   }
 ]
