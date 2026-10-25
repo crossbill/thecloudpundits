@@ -1,50 +1,50 @@
 [
   {
-    "title": "Lessons from Deploying Mission-Critical Applications on Kubernetes: Reliability, Configuration, and Troubleshooting",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Deploying an application to Kubernetes is relatively straightforward when everything works as expected. ",
-    "link": "https://dev.to/naveedakram/lessons-from-deploying-mission-critical-applications-on-kubernetes-reliability-configuration-and-4doe",
+    "title": "Secrets in CI/CD Pipelines",
+    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Long-lived CI credentials are a top breach vector, so stop storing secrets at all. Swap stored key",
+    "link": "https://dev.to/sri2614/secrets-in-cicd-pipelines-50nd",
+    "topic": "general"
+  },
+  {
+    "title": "PHP2Shell (CVE-2026-109618) 60-Second Runtime Lockdown + Exporting Virtualised Entra ID / Intune Grids to CSV",
+    "desc": "<p>If your team manages <strong>PHP-FPM / Nginx / Apache workloads</strong> alongside <strong>Microsoft 365 / Entra ID</strong>, two operati",
+    "link": "https://dev.to/faultypacket/php2shell-cve-2026-109618-60-second-runtime-lockdown-exporting-virtualised-entra-id-intune-ab3",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent Can Run `rm -rf /`. Put It in a Sandbox.",
+    "desc": "<h1>\n  \n  \n  Your AI Agent Can Run <code>rm -rf /</code>. Put It in a Sandbox.\n</h1>\n\n<p><strong>Docker Sandboxes</strong> is Docker's tool ",
+    "link": "https://dev.to/drdocker/your-ai-agent-can-run-rm-rf-put-it-in-a-sandbox-2hfl",
+    "topic": "general"
+  },
+  {
+    "title": "Vibe Coding Got My AI Product Live. Production Engineering Showed Me the Gaps.",
+    "desc": "<p>Building with AI made Cernalo (<a href=\"https://cernalo.com/\" rel=\"noopener noreferrer\">https://cernalo.com/</a>) move fast: architecture",
+    "link": "https://dev.to/cernalo/vibe-coding-got-my-ai-product-live-production-engineering-showed-me-the-gaps-533j",
+    "topic": "general"
+  },
+  {
+    "title": "knOOgle: A Local-First Search Engine Built for Developers and the Open Web",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/webxos/knoogle-a-just-released-local-first-search-engine-built-for-developers-and-the-open-web-m67",
+    "topic": "general"
+  },
+  {
+    "title": "I Taught My Coding Agent to Run My Server With One Text File. Here's How to Write One for Yours.",
+    "desc": "<p>For a while I had a ritual. Every time I opened a new chat with my coding agent, I pasted in the same paragraph: here's my server's addre",
+    "link": "https://dev.to/dennisonbertram/i-taught-my-coding-agent-to-run-my-server-with-one-text-file-heres-how-to-write-one-for-yours-1p07",
+    "topic": "general"
+  },
+  {
+    "title": "Ephemeral Test Environments with Docker and Kubernetes",
+    "desc": "<ul>\n<li>Why ephemeral test environments stop flaky CI runs</li>\n<li>Docker patterns that make CI tests deterministic</li>\n<li>Kubernetes ta",
+    "link": "https://dev.to/beefedai/ephemeral-test-environments-with-docker-and-kubernetes-1346",
     "topic": "kubernetes"
   },
   {
-    "title": "DKIM \"no key for signature\" after switching to a 2048-bit key: the TXT record is probably cut off",
-    "desc": "<p>You generated a new DKIM key, published the TXT record, and the receiver says one of these:<br />\n</p>\n\n<div class=\"highlight js-code-hig",
-    "link": "https://dev.to/mogley1011/dkim-no-key-for-signature-after-switching-to-a-2048-bit-key-the-txt-record-is-probably-cut-off-5fpn",
-    "topic": "general"
-  },
-  {
-    "title": "Latency is the wrong metric for fallback routes",
-    "desc": "<h1>\n  \n  \n  Latency is the wrong metric for fallback routes\n</h1>\n\n<p>I built a fallback chain for an agent that searches the web, pulls a ",
-    "link": "https://dev.to/cleo_cliona/latency-is-the-wrong-metric-for-fallback-routes-30jj",
-    "topic": "general"
-  },
-  {
-    "title": "UK Cyber Essentials v3.3 (\"Danzell\") & EU NIS2 Article 21: A Practical Technical Checklist for IT Managers & MSPs",
-    "desc": "<p>Whether your organisation is renewing <strong>UK Cyber Essentials / Cyber Essentials Plus v3.3 (the \"Danzell\" specification)</strong> or ",
-    "link": "https://dev.to/faultypacket/uk-cyber-essentials-v33-danzell-eu-nis2-article-21-a-practical-technical-checklist-for-it-f6d",
+    "title": "OpenCode's Breach Shows What a Stored Provider Key Costs",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>OpenCode is an open-source AI coding agent that developers run from a terminal, with a hosted Console tha",
+    "link": "https://dev.to/neticslabs/opencodes-breach-shows-what-a-stored-provider-key-costs-jaf",
     "topic": "secops"
-  },
-  {
-    "title": "Why Your SPF Record Passes Lookups at Setup\u2014and Silently Breaks Months Later (Plus How to Fix MTA-STS & PHP2Shell Exposure)",
-    "desc": "<p>Most engineering and IT teams set up <strong>SPF (<code>v=spf1</code>)</strong> and <strong>DMARC (<code>v=DMARC1</code>)</strong> once d",
-    "link": "https://dev.to/faultypacket/why-your-spf-record-passes-lookups-at-setup-and-silently-breaks-months-later-plus-how-to-fix-269p",
-    "topic": "general"
-  },
-  {
-    "title": "Secure Your Linux VPS in 10 Minutes: 8 First Steps (Ubuntu, Debian, AlmaLinux)",
-    "desc": "<p>A new server with a public IP gets its first login attempts from bots within minutes. The good news: a handful of steps stop almost all o",
-    "link": "https://dev.to/volyte/secure-your-linux-vps-in-10-minutes-8-first-steps-ubuntu-debian-almalinux-38jj",
-    "topic": "general"
-  },
-  {
-    "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
-    "topic": "general"
-  },
-  {
-    "title": "Kustomize patch env variable with valueFrom in a Helm chart",
-    "desc": "<p>Many charts take extra environment variables as a map of names to values<br />\nand render each entry as <code>name</code> and <code>value",
-    "link": "https://dev.to/kadet-hub/kustomize-patch-env-variable-with-valuefrom-in-a-helm-chart-1g9l",
-    "topic": "general"
   }
 ]
