@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Patroni failover takes 26\u201349 seconds with default settings (and how to make it faster)",
-    "desc": "<p>You build a Patroni + etcd + HAProxy cluster, kill the primary in a test, and your write loop stops for half a minute or more. Nothing is",
-    "link": "https://dev.to/siemcompliance/why-patroni-failover-takes-26-49-seconds-with-default-settings-and-how-to-make-it-faster-h7n",
+    "title": "Lessons from Deploying Mission-Critical Applications on Kubernetes: Reliability, Configuration, and Troubleshooting",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Deploying an application to Kubernetes is relatively straightforward when everything works as expected. ",
+    "link": "https://dev.to/naveedakram/lessons-from-deploying-mission-critical-applications-on-kubernetes-reliability-configuration-and-4doe",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "DKIM \"no key for signature\" after switching to a 2048-bit key: the TXT record is probably cut off",
+    "desc": "<p>You generated a new DKIM key, published the TXT record, and the receiver says one of these:<br />\n</p>\n\n<div class=\"highlight js-code-hig",
+    "link": "https://dev.to/mogley1011/dkim-no-key-for-signature-after-switching-to-a-2048-bit-key-the-txt-record-is-probably-cut-off-5fpn",
     "topic": "general"
   },
   {
-    "title": "How to Deploy FastAPI on AWS ECS Fargate with Zero NAT Gateway Bills ($35/mo Savings)",
-    "desc": "<h2>\n  \n  \n  \ud83c\udfdb Architecture Overview\n</h2>\n\n\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>             ",
-    "link": "https://dev.to/usman1217/how-to-deploy-fastapi-on-aws-ecs-fargate-with-zero-nat-gateway-bills-35mo-savings-4330",
-    "topic": "aws"
-  },
-  {
-    "title": "PostgreSQL high availability with only 2 servers: where the third vote comes from",
-    "desc": "<p>Many teams have budget for <strong>two</strong> database servers, not three. Almost every PostgreSQL high-availability guide, on the othe",
-    "link": "https://dev.to/siemcompliance/postgresql-high-availability-with-only-2-servers-where-the-third-vote-comes-from-35oj",
+    "title": "Latency is the wrong metric for fallback routes",
+    "desc": "<h1>\n  \n  \n  Latency is the wrong metric for fallback routes\n</h1>\n\n<p>I built a fallback chain for an agent that searches the web, pulls a ",
+    "link": "https://dev.to/cleo_cliona/latency-is-the-wrong-metric-for-fallback-routes-30jj",
     "topic": "general"
   },
   {
-    "title": "BT ve Yaz\u0131l\u0131m Ekipleri \u0130\u00e7in ISO 27001 Denetiminde Nesnel Kan\u0131t Toplama Rehberi (ISO 19011)",
-    "desc": "<p>Yaz\u0131l\u0131m geli\u015ftiriciler ve sistem m\u00fchendisleri i\u00e7in ISO 27001 denetimleri \u00e7o\u011fu zaman s\u0131k\u0131c\u0131 bir b\u00fcrokrasi veya geli\u015ftirme h\u0131z\u0131n\u0131 kesen bir",
-    "link": "https://dev.to/burak_eki_68434e5478e2d8/bt-ve-yazilim-ekipleri-icin-iso-27001-denetiminde-nesnel-kanit-toplama-rehberi-iso-19011-h3o",
+    "title": "UK Cyber Essentials v3.3 (\"Danzell\") & EU NIS2 Article 21: A Practical Technical Checklist for IT Managers & MSPs",
+    "desc": "<p>Whether your organisation is renewing <strong>UK Cyber Essentials / Cyber Essentials Plus v3.3 (the \"Danzell\" specification)</strong> or ",
+    "link": "https://dev.to/faultypacket/uk-cyber-essentials-v33-danzell-eu-nis2-article-21-a-practical-technical-checklist-for-it-f6d",
+    "topic": "secops"
+  },
+  {
+    "title": "Why Your SPF Record Passes Lookups at Setup\u2014and Silently Breaks Months Later (Plus How to Fix MTA-STS & PHP2Shell Exposure)",
+    "desc": "<p>Most engineering and IT teams set up <strong>SPF (<code>v=spf1</code>)</strong> and <strong>DMARC (<code>v=DMARC1</code>)</strong> once d",
+    "link": "https://dev.to/faultypacket/why-your-spf-record-passes-lookups-at-setup-and-silently-breaks-months-later-plus-how-to-fix-269p",
     "topic": "general"
   },
   {
-    "title": "What Really Happens When You Run curl google.com on Linux?",
-    "desc": "<blockquote>\n<p>A step-by-step breakdown of shell parsing, ELF linking, glibc resolver queries, non-blocking TCP handshakes, socket buffers,",
-    "link": "https://dev.to/asepsayyad007/what-really-happens-when-you-run-curl-googlecom-on-linux-4mac",
+    "title": "Secure Your Linux VPS in 10 Minutes: 8 First Steps (Ubuntu, Debian, AlmaLinux)",
+    "desc": "<p>A new server with a public IP gets its first login attempts from bots within minutes. The good news: a handful of steps stop almost all o",
+    "link": "https://dev.to/volyte/secure-your-linux-vps-in-10-minutes-8-first-steps-ubuntu-debian-almalinux-38jj",
     "topic": "general"
   },
   {
-    "title": "AWS Just Launched ECS Gateway: What Changes for DevOps Engineers?",
-    "desc": "<p>If you've deployed applications on <strong>Amazon ECS</strong>, you've probably dealt with the networking setup needed to make a containe",
-    "link": "https://dev.to/shawmeer22/aws-just-launched-ecs-gateway-what-changes-for-devops-engineers-4nmc",
-    "topic": "aws"
+    "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
+    "topic": "general"
   },
   {
-    "title": "Claude Code Automation: Publish Gates Blocked 23 Bad Posts in 10 Days",
-    "desc": "<p>If Claude Code runs anything that publishes, posts, or deletes for you, don't rely on a prompt that says \"be careful.\" Put a small script",
-    "link": "https://dev.to/sungwoo_lee_e0f26be4a29fd/claude-code-automation-publish-gates-blocked-23-bad-posts-in-10-days-5fh3",
-    "topic": "anthropic"
-  },
-  {
-    "title": "n8n 3.0 Is Docker-Only: What Self-Hosters Need to Change Before Upgrading",
-    "desc": "<p>If you <a href=\"https://theclearstacks.com/n8n-3-breaking-changes/\" rel=\"noopener noreferrer\">self-host n8n, version 3.0</a> is the upgra",
-    "link": "https://dev.to/sania_shahzaib_4831/n8n-30-is-docker-only-what-self-hosters-need-to-change-before-upgrading-3j7k",
-    "topic": "docker"
+    "title": "Kustomize patch env variable with valueFrom in a Helm chart",
+    "desc": "<p>Many charts take extra environment variables as a map of names to values<br />\nand render each entry as <code>name</code> and <code>value",
+    "link": "https://dev.to/kadet-hub/kustomize-patch-env-variable-with-valuefrom-in-a-helm-chart-1g9l",
+    "topic": "general"
   }
 ]
