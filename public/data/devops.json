@@ -1,50 +1,50 @@
 [
   {
-    "title": "Hardening a fresh Ubuntu 24.04 server with Ansible without locking yourself out",
-    "desc": "<p><em>Written with AI assistance; the role itself was built and lint-checked by the author's AI assistant, which works for a DevOps enginee",
-    "link": "https://dev.to/devkit_shop/hardening-a-fresh-ubuntu-2404-server-with-ansible-without-locking-yourself-out-dgf",
+    "title": "The most expensive phrase in cloud: we'll clean it up later",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/the-most-expensive-phrase-in-cloud-well-clean-it-up-later-165b",
     "topic": "general"
   },
   {
-    "title": "Your app was patched. Your PHP was not: PHP2Shell explained",
-    "desc": "<p>On Monday, October 20, 2026, the secret got out early. Details of two critical PHP flaws leaked before the planned disclosure. The PHP te",
-    "link": "https://dev.to/kashif_manzer/your-app-was-patched-your-php-was-not-php2shell-explained-3de7",
+    "title": "Chart Ledger: Helm Upgrade Reviews, with the Migration Guide Attached",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/edwindevops/chart-ledger-helm-upgrade-reviews-with-the-migration-guide-attached-494o",
     "topic": "general"
   },
   {
-    "title": "Checkpoint Not Complete: Every Commit Waits, and the SQL Is Fine",
-    "desc": "<p>The nightly batch used to finish in twenty minutes. Now it takes an hour, and during that hour the application stutters: every few second",
-    "link": "https://dev.to/uptimearchitect/checkpoint-not-complete-every-commit-waits-and-the-sql-is-fine-3g41",
+    "title": "Eight CA Keys Between 1 and 255: What the eMudhra Incident Means for Your Code",
+    "desc": "<p><em>Up to date as of 25 October 2026. The fixes are still changing: on 24 October Oracle shipped a second Java fix (CVE-2026-114820), so ",
+    "link": "https://dev.to/dionisioc/eight-ca-keys-between-1-and-255-what-the-emudhra-incident-means-for-your-code-4k7o",
+    "topic": "secops"
+  },
+  {
+    "title": "Nodus vs RunPod: which is better for GPU training?",
+    "desc": "<p>For training runs that last hours or days, Nodus is usually a better choice than RunPod. Its listed NVIDIA H100 SXM rate is below both Ru",
+    "link": "https://dev.to/viswaretas_kotra/nodus-vs-runpod-which-is-better-for-gpu-training-34ko",
     "topic": "general"
   },
   {
-    "title": "OpenAI-Compatible Image Generation API: Single Endpoint Routing for Marketplace Catalogs",
-    "desc": "<p>A marketplace team should start with one OpenAI-compatible <code>POST /v1/images/generations</code> call, then test whether the generated",
-    "link": "https://dev.to/mordecainilsson7582/openai-compatible-image-generation-api-single-endpoint-routing-for-marketplace-catalogs-3b82",
+    "title": "Sobrevivendo ao Caos: Injetando Falhas Estrat\u00e9gicas com o ChaosEngineeringMasterDeck",
+    "desc": "<p>Se voc\u00ea trabalha com <strong>sistemas distribu\u00eddos</strong> e <strong>arquitetura em nuvem</strong>, j\u00e1 deve ter se deparado com as fal\u00e1c",
+    "link": "https://dev.to/daviggc/sobrevivendo-ao-caos-injetando-falhas-estrategicas-com-o-chaosengineeringmasterdeck-149l",
+    "topic": "general"
+  },
+  {
+    "title": "How to Run a Unified LLM API with One Key: OpenAI Catalog Failures",
+    "desc": "<p>Short answer: use a unified LLM API with one key in front of product-catalog enrichment, discover available model IDs before sending traf",
+    "link": "https://dev.to/ironspiredraven77/how-to-run-a-unified-llm-api-with-one-key-openai-catalog-failures-2j4m",
     "topic": "openai"
   },
   {
-    "title": "Kustomize delete resource: Kyverno PDBs and ESO webhooks",
-    "desc": "<p>Some Helm charts render an object you need to own yourself and offer no<br />\nvalue to leave it out. This post covers two such cases from",
-    "link": "https://dev.to/kadet-hub/kustomize-delete-resource-kyverno-pdbs-and-eso-webhooks-27cl",
-    "topic": "general"
+    "title": "SSH, systemd, kubectl: the one-page cheatsheets I keep open during incidents",
+    "desc": "<p>I work on data center infrastructure. When something breaks at 2 a.m., nobody re-reads a 400-page manual \u2014 you reach for the handful of c",
+    "link": "https://dev.to/ezrazhao/ssh-systemd-kubectl-the-one-page-cheatsheets-i-keep-open-during-incidents-4i56",
+    "topic": "secops"
   },
   {
-    "title": "Kustomize JSON patch add: fields a Helm chart does not template",
-    "desc": "<p>A chart can only set the fields its templates write. When a Kubernetes<br />\nfield you need is missing from them, the value you add to <c",
-    "link": "https://dev.to/kadet-hub/kustomize-json-patch-add-fields-a-helm-chart-does-not-template-534h",
-    "topic": "general"
-  },
-  {
-    "title": "Four rules for letting an AI agent deploy to Salesforce",
-    "desc": "<p>In a Salesforce deploy, the slow part is rarely the deploy command. It's working out what goes in the package, which tests to run and whi",
-    "link": "https://dev.to/madebyasking/four-rules-for-letting-an-ai-agent-deploy-to-salesforce-bh7",
-    "topic": "general"
-  },
-  {
-    "title": "Framer vs. Webflow vs. WordPress: Which is Best for High-Ticket Brands?",
-    "desc": "<p>In the world of Digital Marketing, your website isn't just a URL. It is the virtual headquarters of your <a href=\"https://www.saiiddesign",
-    "link": "https://dev.to/saiiddesigns/framer-vs-webflow-vs-wordpress-which-is-best-for-high-ticket-brands-a11",
-    "topic": "general"
+    "title": "How to check your servers, Docker images and logs for PHP2Shell",
+    "desc": "<p>PHP shipped emergency fixes for PHP2Shell (CVE-2026-109618 and CVE-2026-109619) on October 21. Both are rated CVSS 9.2, both allow remote",
+    "link": "https://dev.to/noanya/how-to-check-your-servers-docker-images-and-logs-for-php2shell-2c5d",
+    "topic": "docker"
   }
 ]
