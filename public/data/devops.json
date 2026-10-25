@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your Agent Is a Guest: Egress Policy for Agent Fleets",
-    "desc": "<p>Most agent code I review is careful about what it does <em>inside</em> the sandbox and careless about what it does on the way out. Then i",
-    "link": "https://dev.to/dima_kruglov_608741d9a416/your-agent-is-a-guest-egress-policy-for-agent-fleets-2baa",
+    "title": "NGINX Log Taming",
+    "desc": "<p>Logs are great!  They provide a lot of information that assists in understanding the current environment and provide insight when trying ",
+    "link": "https://dev.to/netdsg/nginx-log-taming-4l4d",
     "topic": "general"
   },
   {
-    "title": "Was gro\u00dfe Plattformen von kleinen Entwicklern lernen k\u00f6nnten",
-    "desc": "<p>W\u00fcnschte die grossen Plattformen h\u00e4tten sowas wie im Link beschrieben.</p>\n\n<p>I wish the major platforms had something like what's descr",
-    "link": "https://dev.to/reneinhh/was-grosse-plattformen-von-kleinen-entwicklern-lernen-konnten-7an",
+    "title": "Break It on Purpose",
+    "desc": "<p><em>An AI pipeline that catches its own bugs, explains them, and fixes them while a human makes two decisions.</em></p>\n\n<p><em>By Denis ",
+    "link": "https://dev.to/dzontak/break-it-on-purpose-9b0",
     "topic": "general"
   },
   {
-    "title": "\u00bfQu\u00e9 campos tiene un producto? La pregunta que rompe tu esquema",
-    "desc": "<p>Intenta dise\u00f1ar la tabla <code>productos</code> de una tienda.</p>\n\n<p>Una laptop necesita RAM, procesador y pulgadas. Una bicicleta nece",
-    "link": "https://dev.to/fernan101002/que-campos-tiene-un-producto-la-pregunta-que-rompe-tu-esquema-5g5j",
+    "title": "Architectural Deep-Dive: Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+    "desc": "<h1>\n  \n  \n  Cost-Aware Abstention: Why Autonomous Ticket Routing Demands Calibrated Rejection Over Raw LLMs\n</h1>\n\n<p>In enterprise IT serv",
+    "link": "https://dev.to/hordii_bohdan/architectural-deep-dive-cost-aware-abstention-for-llm-based-it-ticket-classification-2dkl",
     "topic": "general"
   },
   {
-    "title": "WireGuard Easy 15.5 released with important security fixes",
-    "desc": "<p>WireGuard Easy version 15.5 brings AmneziaWG 3.1 support, removes private keys from client API responses, and adds trusted proxy configur",
-    "link": "https://dev.to/hacksgr/wireguard-easy-155-released-with-important-security-fixes-p9i",
-    "topic": "secops"
-  },
-  {
-    "title": "From a Local Docker App to AWS EKS: My DevOps Project",
-    "desc": "<p>I recently worked on a DevOps project with a simple starting point: an application that worked perfectly fine on my local machine.</p>\n\n<",
-    "link": "https://dev.to/thesumit/from-a-local-docker-app-to-aws-eks-my-devops-project-5ak7",
-    "topic": "aws"
-  },
-  {
-    "title": "A free runbook for 44 Prometheus alerts (Linux, Docker, Kubernetes, TLS)",
-    "desc": "<p>Most Prometheus setups I see have alerts but no answer to the 3 a.m. question: <em>\"OK, it fired. Now what?\"</em> The fix is boring and e",
-    "link": "https://dev.to/devkit_shop/a-free-runbook-for-44-prometheus-alerts-linux-docker-kubernetes-tls-1d8g",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Architectural Deep-Dive: Qdrant Vector DB: v1.20.0",
-    "desc": "<h1>\n  \n  \n  Eliminating Sparse Embedding Overhead: Qdrant 1.20 Native BM25, Code Tokenization, and TurboQuant\n</h1>\n\n<p>Hybrid search\u2014combi",
-    "link": "https://dev.to/hordii_bohdan/architectural-deep-dive-qdrant-vector-db-v1200-1be1",
+    "title": "Fix AI Agent Failures with Dead Letter Payload Quarantine",
+    "desc": "<p>A widespread failure pattern in autonomous agent architectures is the autonomous guess trap, where self-healing loops force models to byp",
+    "link": "https://dev.to/raylabs/fix-ai-agent-failures-with-dead-letter-payload-quarantine-p5f",
     "topic": "general"
   },
   {
-    "title": "Best Practices for Monitoring Deployed AI Agents",
-    "desc": "<h1>\n  \n  \n  Best Practices for Monitoring Deployed AI Agents\n</h1>\n\n<p>Your agent can be confidently wrong while every health check stays g",
-    "link": "https://dev.to/kami_butt_69b922ade8de012/best-practices-for-monitoring-deployed-ai-agents-25b9",
+    "title": "Fixing a Python fromisoformat Error Unmasked a Stale Alarm That Had to Fire",
+    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/fromisoformat-fix-unmasked-a-rigged-stale-alarm.html\" rel=\"noopene",
+    "link": "https://dev.to/hexisteme/fixing-a-python-fromisoformat-error-unmasked-a-stale-alarm-that-had-to-fire-3l0l",
+    "topic": "general"
+  },
+  {
+    "title": "Deploy FastAPI and a React app on a VPS with nginx, systemd and uv",
+    "desc": "<p>A single small VPS (or a home server) runs a FastAPI + React app comfortably. No containers needed: the frontend is static files, the API",
+    "link": "https://dev.to/aravind-govindhasamy/deploy-fastapi-and-a-react-app-on-a-vps-with-nginx-systemd-and-uv-3ek0",
+    "topic": "general"
+  },
+  {
+    "title": "Staying online as a remote developer across countries: a practical connectivity checklist",
+    "desc": "<p><em>Written by the NXTL team. We make a travel eSIM, which we mention in a few places below as one option among several. The rest of the ",
+    "link": "https://dev.to/nxtlsim/staying-online-as-a-remote-developer-across-countries-a-practical-connectivity-checklist-86g",
+    "topic": "general"
+  },
+  {
+    "title": "Python Network Connectivity Tester: A Simple Tool for sysadmins",
+    "desc": "<h1>\n  \n  \n  Python Network Connectivity Tester\n</h1>\n\n<p>A simple Python script to test network connectivity to multiple endpoints.</p>\n\n<h",
+    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/python-network-connectivity-tester-a-simple-tool-for-sysadmins-2plg",
     "topic": "general"
   }
 ]
