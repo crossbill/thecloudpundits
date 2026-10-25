@@ -1,50 +1,50 @@
 [
   {
-    "title": "NGINX Log Taming",
-    "desc": "<p>Logs are great!  They provide a lot of information that assists in understanding the current environment and provide insight when trying ",
-    "link": "https://dev.to/netdsg/nginx-log-taming-4l4d",
+    "title": "Why Patroni failover takes 26\u201349 seconds with default settings (and how to make it faster)",
+    "desc": "<p>You build a Patroni + etcd + HAProxy cluster, kill the primary in a test, and your write loop stops for half a minute or more. Nothing is",
+    "link": "https://dev.to/siemcompliance/why-patroni-failover-takes-26-49-seconds-with-default-settings-and-how-to-make-it-faster-h7n",
     "topic": "general"
   },
   {
-    "title": "Break It on Purpose",
-    "desc": "<p><em>An AI pipeline that catches its own bugs, explains them, and fixes them while a human makes two decisions.</em></p>\n\n<p><em>By Denis ",
-    "link": "https://dev.to/dzontak/break-it-on-purpose-9b0",
+    "title": "How to Deploy FastAPI on AWS ECS Fargate with Zero NAT Gateway Bills ($35/mo Savings)",
+    "desc": "<h2>\n  \n  \n  \ud83c\udfdb Architecture Overview\n</h2>\n\n\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight plaintext\"><code>             ",
+    "link": "https://dev.to/usman1217/how-to-deploy-fastapi-on-aws-ecs-fargate-with-zero-nat-gateway-bills-35mo-savings-4330",
+    "topic": "aws"
+  },
+  {
+    "title": "PostgreSQL high availability with only 2 servers: where the third vote comes from",
+    "desc": "<p>Many teams have budget for <strong>two</strong> database servers, not three. Almost every PostgreSQL high-availability guide, on the othe",
+    "link": "https://dev.to/siemcompliance/postgresql-high-availability-with-only-2-servers-where-the-third-vote-comes-from-35oj",
     "topic": "general"
   },
   {
-    "title": "Architectural Deep-Dive: Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-    "desc": "<h1>\n  \n  \n  Cost-Aware Abstention: Why Autonomous Ticket Routing Demands Calibrated Rejection Over Raw LLMs\n</h1>\n\n<p>In enterprise IT serv",
-    "link": "https://dev.to/hordii_bohdan/architectural-deep-dive-cost-aware-abstention-for-llm-based-it-ticket-classification-2dkl",
+    "title": "BT ve Yaz\u0131l\u0131m Ekipleri \u0130\u00e7in ISO 27001 Denetiminde Nesnel Kan\u0131t Toplama Rehberi (ISO 19011)",
+    "desc": "<p>Yaz\u0131l\u0131m geli\u015ftiriciler ve sistem m\u00fchendisleri i\u00e7in ISO 27001 denetimleri \u00e7o\u011fu zaman s\u0131k\u0131c\u0131 bir b\u00fcrokrasi veya geli\u015ftirme h\u0131z\u0131n\u0131 kesen bir",
+    "link": "https://dev.to/burak_eki_68434e5478e2d8/bt-ve-yazilim-ekipleri-icin-iso-27001-denetiminde-nesnel-kanit-toplama-rehberi-iso-19011-h3o",
     "topic": "general"
   },
   {
-    "title": "Fix AI Agent Failures with Dead Letter Payload Quarantine",
-    "desc": "<p>A widespread failure pattern in autonomous agent architectures is the autonomous guess trap, where self-healing loops force models to byp",
-    "link": "https://dev.to/raylabs/fix-ai-agent-failures-with-dead-letter-payload-quarantine-p5f",
+    "title": "What Really Happens When You Run curl google.com on Linux?",
+    "desc": "<blockquote>\n<p>A step-by-step breakdown of shell parsing, ELF linking, glibc resolver queries, non-blocking TCP handshakes, socket buffers,",
+    "link": "https://dev.to/asepsayyad007/what-really-happens-when-you-run-curl-googlecom-on-linux-4mac",
     "topic": "general"
   },
   {
-    "title": "Fixing a Python fromisoformat Error Unmasked a Stale Alarm That Had to Fire",
-    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/fromisoformat-fix-unmasked-a-rigged-stale-alarm.html\" rel=\"noopene",
-    "link": "https://dev.to/hexisteme/fixing-a-python-fromisoformat-error-unmasked-a-stale-alarm-that-had-to-fire-3l0l",
-    "topic": "general"
+    "title": "AWS Just Launched ECS Gateway: What Changes for DevOps Engineers?",
+    "desc": "<p>If you've deployed applications on <strong>Amazon ECS</strong>, you've probably dealt with the networking setup needed to make a containe",
+    "link": "https://dev.to/shawmeer22/aws-just-launched-ecs-gateway-what-changes-for-devops-engineers-4nmc",
+    "topic": "aws"
   },
   {
-    "title": "Deploy FastAPI and a React app on a VPS with nginx, systemd and uv",
-    "desc": "<p>A single small VPS (or a home server) runs a FastAPI + React app comfortably. No containers needed: the frontend is static files, the API",
-    "link": "https://dev.to/aravind-govindhasamy/deploy-fastapi-and-a-react-app-on-a-vps-with-nginx-systemd-and-uv-3ek0",
-    "topic": "general"
+    "title": "Claude Code Automation: Publish Gates Blocked 23 Bad Posts in 10 Days",
+    "desc": "<p>If Claude Code runs anything that publishes, posts, or deletes for you, don't rely on a prompt that says \"be careful.\" Put a small script",
+    "link": "https://dev.to/sungwoo_lee_e0f26be4a29fd/claude-code-automation-publish-gates-blocked-23-bad-posts-in-10-days-5fh3",
+    "topic": "anthropic"
   },
   {
-    "title": "Staying online as a remote developer across countries: a practical connectivity checklist",
-    "desc": "<p><em>Written by the NXTL team. We make a travel eSIM, which we mention in a few places below as one option among several. The rest of the ",
-    "link": "https://dev.to/nxtlsim/staying-online-as-a-remote-developer-across-countries-a-practical-connectivity-checklist-86g",
-    "topic": "general"
-  },
-  {
-    "title": "Python Network Connectivity Tester: A Simple Tool for sysadmins",
-    "desc": "<h1>\n  \n  \n  Python Network Connectivity Tester\n</h1>\n\n<p>A simple Python script to test network connectivity to multiple endpoints.</p>\n\n<h",
-    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/python-network-connectivity-tester-a-simple-tool-for-sysadmins-2plg",
-    "topic": "general"
+    "title": "n8n 3.0 Is Docker-Only: What Self-Hosters Need to Change Before Upgrading",
+    "desc": "<p>If you <a href=\"https://theclearstacks.com/n8n-3-breaking-changes/\" rel=\"noopener noreferrer\">self-host n8n, version 3.0</a> is the upgra",
+    "link": "https://dev.to/sania_shahzaib_4831/n8n-30-is-docker-only-what-self-hosters-need-to-change-before-upgrading-3j7k",
+    "topic": "docker"
   }
 ]
