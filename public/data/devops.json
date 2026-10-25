@@ -1,50 +1,50 @@
 [
   {
-    "title": "Secrets in CI/CD Pipelines",
-    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Long-lived CI credentials are a top breach vector, so stop storing secrets at all. Swap stored key",
-    "link": "https://dev.to/sri2614/secrets-in-cicd-pipelines-50nd",
-    "topic": "general"
-  },
-  {
-    "title": "PHP2Shell (CVE-2026-109618) 60-Second Runtime Lockdown + Exporting Virtualised Entra ID / Intune Grids to CSV",
-    "desc": "<p>If your team manages <strong>PHP-FPM / Nginx / Apache workloads</strong> alongside <strong>Microsoft 365 / Entra ID</strong>, two operati",
-    "link": "https://dev.to/faultypacket/php2shell-cve-2026-109618-60-second-runtime-lockdown-exporting-virtualised-entra-id-intune-ab3",
-    "topic": "general"
-  },
-  {
-    "title": "Your AI Agent Can Run `rm -rf /`. Put It in a Sandbox.",
-    "desc": "<h1>\n  \n  \n  Your AI Agent Can Run <code>rm -rf /</code>. Put It in a Sandbox.\n</h1>\n\n<p><strong>Docker Sandboxes</strong> is Docker's tool ",
-    "link": "https://dev.to/drdocker/your-ai-agent-can-run-rm-rf-put-it-in-a-sandbox-2hfl",
-    "topic": "general"
-  },
-  {
-    "title": "Vibe Coding Got My AI Product Live. Production Engineering Showed Me the Gaps.",
-    "desc": "<p>Building with AI made Cernalo (<a href=\"https://cernalo.com/\" rel=\"noopener noreferrer\">https://cernalo.com/</a>) move fast: architecture",
-    "link": "https://dev.to/cernalo/vibe-coding-got-my-ai-product-live-production-engineering-showed-me-the-gaps-533j",
-    "topic": "general"
-  },
-  {
-    "title": "knOOgle: A Local-First Search Engine Built for Developers and the Open Web",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/webxos/knoogle-a-just-released-local-first-search-engine-built-for-developers-and-the-open-web-m67",
-    "topic": "general"
-  },
-  {
-    "title": "I Taught My Coding Agent to Run My Server With One Text File. Here's How to Write One for Yours.",
-    "desc": "<p>For a while I had a ritual. Every time I opened a new chat with my coding agent, I pasted in the same paragraph: here's my server's addre",
-    "link": "https://dev.to/dennisonbertram/i-taught-my-coding-agent-to-run-my-server-with-one-text-file-heres-how-to-write-one-for-yours-1p07",
-    "topic": "general"
-  },
-  {
-    "title": "Ephemeral Test Environments with Docker and Kubernetes",
-    "desc": "<ul>\n<li>Why ephemeral test environments stop flaky CI runs</li>\n<li>Docker patterns that make CI tests deterministic</li>\n<li>Kubernetes ta",
-    "link": "https://dev.to/beefedai/ephemeral-test-environments-with-docker-and-kubernetes-1346",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "OpenCode's Breach Shows What a Stored Provider Key Costs",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>OpenCode is an open-source AI coding agent that developers run from a terminal, with a hosted Console tha",
-    "link": "https://dev.to/neticslabs/opencodes-breach-shows-what-a-stored-provider-key-costs-jaf",
+    "title": "PHP Security Alert: Mitigating the New Unpatched RCE Vulnerability",
+    "desc": "<p>The PHP security team has issued a warning regarding a new remote code execution (RCE) vulnerability that currently lacks an official pat",
+    "link": "https://dev.to/hassanradwany/php-security-alert-mitigating-the-new-unpatched-rce-vulnerability-1lch",
     "topic": "secops"
+  },
+  {
+    "title": "PHP2Shell: Patch the PHP Runtime, Not Just Your App",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://nooryasser.com/articles/php2shell-cve-2026-109618-109619-patch-guide/\" rel=\"noopene",
+    "link": "https://dev.to/nooryasserx/php2shell-patch-the-php-runtime-not-just-your-app-1p01",
+    "topic": "general"
+  },
+  {
+    "title": "Day 8 of the ubuntu-latest rollout: Monday \u2014 run Sunday's checklist against the first weekday runs",
+    "desc": "<h1>\n  \n  \n  Day 8 of the ubuntu-latest rollout: Monday \u2014 run Sunday's checklist against the first weekday runs\n</h1>\n\n<p>The ubuntu-latest ",
+    "link": "https://dev.to/alapha888/day-8-of-the-ubuntu-latest-rollout-monday-run-sundays-checklist-against-the-first-weekday-runs-5fd0",
+    "topic": "general"
+  },
+  {
+    "title": "n8n Workflow Monitoring: The 3 Layers That Actually Alert You",
+    "desc": "<p>Logging preserves what happened \u2014 fascinating in hindsight, useless when the client finds the outage first. Monitoring is the active inve",
+    "link": "https://dev.to/trigger-workflow/n8n-workflow-monitoring-the-3-layers-that-actually-alert-you-45a5",
+    "topic": "general"
+  },
+  {
+    "title": "Roku Just Moved from GitHub to GitLab. How to Migrate Your Repos Too",
+    "desc": "<p>On October 16, 2026, Roku <a href=\"https://forum.developer.roku.com/t/roku-developer-repositories-have-moved-to-gitlab/11655\" rel=\"noopen",
+    "link": "https://dev.to/alanwest/roku-just-moved-from-github-to-gitlab-how-to-migrate-your-repos-too-e6h",
+    "topic": "general"
+  },
+  {
+    "title": "Applying and undoing migrations: migrate, status, rollback",
+    "desc": "<p><code>migrax generate</code> writes migrations, and three commands handle the rest: <code>status</code> shows what the database has, <cod",
+    "link": "https://dev.to/fsmutimeer/applying-and-undoing-migrations-migrate-status-rollback-86p",
+    "topic": "general"
+  },
+  {
+    "title": "OpenAI Built an Offline Internet for Agents, and the Canary String Explains Why",
+    "desc": "<p>OpenAI published details late last week on an offline environment it built for frontier agent reinforcement learning. Instead of giving m",
+    "link": "https://dev.to/reidmarlow/openai-built-an-offline-internet-for-agents-and-the-canary-string-explains-why-18p3",
+    "topic": "openai"
+  },
+  {
+    "title": "Python 3.10 end of life is Oct 31: find every pinned Python and Node version",
+    "desc": "<p>Python 3.10 reaches end of life on <strong>October 31, 2026</strong>. Node 20 already did, on <strong>April 30, 2026</strong>.</p>\n\n<p>En",
+    "link": "https://dev.to/getversyka/python-310-end-of-life-is-oct-31-find-every-pinned-python-and-node-version-20c3",
+    "topic": "general"
   }
 ]
