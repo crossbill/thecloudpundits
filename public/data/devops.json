@@ -1,50 +1,50 @@
 [
   {
-    "title": "PHP Security Alert: Mitigating the New Unpatched RCE Vulnerability",
-    "desc": "<p>The PHP security team has issued a warning regarding a new remote code execution (RCE) vulnerability that currently lacks an official pat",
-    "link": "https://dev.to/hassanradwany/php-security-alert-mitigating-the-new-unpatched-rce-vulnerability-1lch",
-    "topic": "secops"
-  },
-  {
-    "title": "PHP2Shell: Patch the PHP Runtime, Not Just Your App",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://nooryasser.com/articles/php2shell-cve-2026-109618-109619-patch-guide/\" rel=\"noopene",
-    "link": "https://dev.to/nooryasserx/php2shell-patch-the-php-runtime-not-just-your-app-1p01",
+    "title": "Hardening a fresh Ubuntu 24.04 server with Ansible without locking yourself out",
+    "desc": "<p><em>Written with AI assistance; the role itself was built and lint-checked by the author's AI assistant, which works for a DevOps enginee",
+    "link": "https://dev.to/devkit_shop/hardening-a-fresh-ubuntu-2404-server-with-ansible-without-locking-yourself-out-dgf",
     "topic": "general"
   },
   {
-    "title": "Day 8 of the ubuntu-latest rollout: Monday \u2014 run Sunday's checklist against the first weekday runs",
-    "desc": "<h1>\n  \n  \n  Day 8 of the ubuntu-latest rollout: Monday \u2014 run Sunday's checklist against the first weekday runs\n</h1>\n\n<p>The ubuntu-latest ",
-    "link": "https://dev.to/alapha888/day-8-of-the-ubuntu-latest-rollout-monday-run-sundays-checklist-against-the-first-weekday-runs-5fd0",
+    "title": "Your app was patched. Your PHP was not: PHP2Shell explained",
+    "desc": "<p>On Monday, October 20, 2026, the secret got out early. Details of two critical PHP flaws leaked before the planned disclosure. The PHP te",
+    "link": "https://dev.to/kashif_manzer/your-app-was-patched-your-php-was-not-php2shell-explained-3de7",
     "topic": "general"
   },
   {
-    "title": "n8n Workflow Monitoring: The 3 Layers That Actually Alert You",
-    "desc": "<p>Logging preserves what happened \u2014 fascinating in hindsight, useless when the client finds the outage first. Monitoring is the active inve",
-    "link": "https://dev.to/trigger-workflow/n8n-workflow-monitoring-the-3-layers-that-actually-alert-you-45a5",
+    "title": "Checkpoint Not Complete: Every Commit Waits, and the SQL Is Fine",
+    "desc": "<p>The nightly batch used to finish in twenty minutes. Now it takes an hour, and during that hour the application stutters: every few second",
+    "link": "https://dev.to/uptimearchitect/checkpoint-not-complete-every-commit-waits-and-the-sql-is-fine-3g41",
     "topic": "general"
   },
   {
-    "title": "Roku Just Moved from GitHub to GitLab. How to Migrate Your Repos Too",
-    "desc": "<p>On October 16, 2026, Roku <a href=\"https://forum.developer.roku.com/t/roku-developer-repositories-have-moved-to-gitlab/11655\" rel=\"noopen",
-    "link": "https://dev.to/alanwest/roku-just-moved-from-github-to-gitlab-how-to-migrate-your-repos-too-e6h",
-    "topic": "general"
-  },
-  {
-    "title": "Applying and undoing migrations: migrate, status, rollback",
-    "desc": "<p><code>migrax generate</code> writes migrations, and three commands handle the rest: <code>status</code> shows what the database has, <cod",
-    "link": "https://dev.to/fsmutimeer/applying-and-undoing-migrations-migrate-status-rollback-86p",
-    "topic": "general"
-  },
-  {
-    "title": "OpenAI Built an Offline Internet for Agents, and the Canary String Explains Why",
-    "desc": "<p>OpenAI published details late last week on an offline environment it built for frontier agent reinforcement learning. Instead of giving m",
-    "link": "https://dev.to/reidmarlow/openai-built-an-offline-internet-for-agents-and-the-canary-string-explains-why-18p3",
+    "title": "OpenAI-Compatible Image Generation API: Single Endpoint Routing for Marketplace Catalogs",
+    "desc": "<p>A marketplace team should start with one OpenAI-compatible <code>POST /v1/images/generations</code> call, then test whether the generated",
+    "link": "https://dev.to/mordecainilsson7582/openai-compatible-image-generation-api-single-endpoint-routing-for-marketplace-catalogs-3b82",
     "topic": "openai"
   },
   {
-    "title": "Python 3.10 end of life is Oct 31: find every pinned Python and Node version",
-    "desc": "<p>Python 3.10 reaches end of life on <strong>October 31, 2026</strong>. Node 20 already did, on <strong>April 30, 2026</strong>.</p>\n\n<p>En",
-    "link": "https://dev.to/getversyka/python-310-end-of-life-is-oct-31-find-every-pinned-python-and-node-version-20c3",
+    "title": "Kustomize delete resource: Kyverno PDBs and ESO webhooks",
+    "desc": "<p>Some Helm charts render an object you need to own yourself and offer no<br />\nvalue to leave it out. This post covers two such cases from",
+    "link": "https://dev.to/kadet-hub/kustomize-delete-resource-kyverno-pdbs-and-eso-webhooks-27cl",
+    "topic": "general"
+  },
+  {
+    "title": "Kustomize JSON patch add: fields a Helm chart does not template",
+    "desc": "<p>A chart can only set the fields its templates write. When a Kubernetes<br />\nfield you need is missing from them, the value you add to <c",
+    "link": "https://dev.to/kadet-hub/kustomize-json-patch-add-fields-a-helm-chart-does-not-template-534h",
+    "topic": "general"
+  },
+  {
+    "title": "Four rules for letting an AI agent deploy to Salesforce",
+    "desc": "<p>In a Salesforce deploy, the slow part is rarely the deploy command. It's working out what goes in the package, which tests to run and whi",
+    "link": "https://dev.to/madebyasking/four-rules-for-letting-an-ai-agent-deploy-to-salesforce-bh7",
+    "topic": "general"
+  },
+  {
+    "title": "Framer vs. Webflow vs. WordPress: Which is Best for High-Ticket Brands?",
+    "desc": "<p>In the world of Digital Marketing, your website isn't just a URL. It is the virtual headquarters of your <a href=\"https://www.saiiddesign",
+    "link": "https://dev.to/saiiddesigns/framer-vs-webflow-vs-wordpress-which-is-best-for-high-ticket-brands-a11",
     "topic": "general"
   }
 ]
