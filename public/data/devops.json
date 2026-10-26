@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Use ssh-agent on Linux, macOS and Windows (2026)",
-    "desc": "<p>You gave your SSH key a passphrase, which is the right call. Now you type it forty times a day, or you quietly removed it last week becau",
-    "link": "https://dev.to/masitings/how-to-use-ssh-agent-on-linux-macos-and-windows-2026-4pfk",
+    "title": "Build failed? How to read the build log and fix it fast",
+    "desc": "<p><em>Originally published on the <a href=\"https://blog.hubfly.space/fix-failed-build?utm_source=devto&utm_medium=referral&utm_campaign=fix",
+    "link": "https://dev.to/octave_nkurunziza_afb0512/build-failed-how-to-read-the-build-log-and-fix-it-fast-3ij6",
     "topic": "general"
   },
   {
-    "title": "Legacy ERP & Monolith Modernization: How to Execute a Strangler-Fig Migration Without Downtime or Data Loss",
-    "desc": "<p>When an established enterprise outgrows a 10-year-old legacy ERP or tightly coupled PHP/Java/.NET monolith, the default impulse is a <str",
-    "link": "https://dev.to/muhammadalimughal/legacy-erp-monolith-modernization-how-to-execute-a-strangler-fig-migration-without-downtime-or-5cd0",
+    "title": "Human-in-the-Loop Approval Matrix for AI Agent Actions",
+    "desc": "<p>Your AI agent just deleted a production table. The first question in the postmortem won't be about the model. It will be: <strong>who dec",
+    "link": "https://dev.to/samamderson/human-in-the-loop-approval-matrix-for-ai-agent-actions-4cd1",
     "topic": "general"
   },
   {
-    "title": "CORS Misconfigurations in Production APIs: How Access-Control-Allow-Origin & Credentials Leak Sensitive Data (And How to Audit Headers)",
-    "desc": "<p>Every full-stack engineer has experienced a deployment failing in the browser console with: <code>Access to fetch at 'https://api.example",
-    "link": "https://dev.to/muhammadalimughal/cors-misconfigurations-in-production-apis-how-access-control-allow-origin-credentials-leak-1n46",
+    "title": "How a Key Leaked in May Shipped Malware in October",
+    "desc": "<p>On 27 May 2026, someone committed a config file to a public repository by mistake. Inside it was the master key \u2014 the admin password, in ",
+    "link": "https://dev.to/dhruv1206/how-a-key-leaked-in-may-shipped-malware-in-october-1nkl",
     "topic": "general"
   },
   {
-    "title": "After the Meeting Ends: How Audio Becomes Structured Work in Our System",
-    "desc": "<h1>\n  \n  \n  After the Meeting Ends: How Audio Becomes Structured Work in Our System\n</h1>\n\n<p>We spent a year building a pipeline that turn",
-    "link": "https://dev.to/mininglamp/after-the-meeting-ends-how-audio-becomes-structured-work-in-our-system-2ia8",
-    "topic": "general"
-  },
-  {
-    "title": "Nodus vs Nebius: which is better for GPU training?",
-    "desc": "<p>Nodus is the better fit for single-machine training runs of hours or days that you want to submit and stop watching. Its listed NVIDIA H1",
-    "link": "https://dev.to/viswaretas_kotra/nodus-vs-nebius-which-is-better-for-gpu-training-3lmb",
-    "topic": "general"
-  },
-  {
-    "title": "Enterprise Guide to Linux Kernel Network Stack Tuning for 100GbE, BBR, and IRQ Affinity",
-    "desc": "<blockquote>\n<p><em>Originally published on the <a href=\"https://hostingpodium.com/blog/linux-kernel-network-stack-tuning-sysctl-bbr-100gbe/",
-    "link": "https://dev.to/hostingpodium/enterprise-guide-to-linux-kernel-network-stack-tuning-for-100gbe-bbr-and-irq-affinity-gea",
-    "topic": "general"
-  },
-  {
-    "title": "Bulk-check domain expiry, SSL expiry and email security (SPF/DMARC) with Python",
-    "desc": "<p>Two outages everyone has had: a domain that expired because the renewal email went to someone who left, and a TLS certificate that expire",
-    "link": "https://dev.to/hi_hphanthanh_41c4083/bulk-check-domain-expiry-ssl-expiry-and-email-security-spfdmarc-with-python-42e",
+    "title": "How to Build In-Demand IT Skills in Cybersecurity, Linux, Cloud, and DevOps",
+    "desc": "<p>Technology careers are built on continuous learning and practical experience. For beginners entering IT, developing skills in cybersecuri",
+    "link": "https://dev.to/umarajput/how-to-build-in-demand-it-skills-in-cybersecurity-linux-cloud-and-devops-56en",
     "topic": "secops"
   },
   {
-    "title": "Cloud & DevOps Wk 3: Installing Terraform, migrating state to an Azure storage account, and building VNets for my cloud project.",
-    "desc": "<p><strong>Public cloud engineering project:</strong> installing Terraform, creating and destroying Azure resources from code, moving state ",
-    "link": "https://dev.to/ojosamuel129/cloud-devops-wk-3-installing-terraform-migrating-state-to-an-azure-storage-account-and-2nam",
-    "topic": "azure"
+    "title": "Field report: 14898 real pull requests scanned, 6.4% flagged, 46 of our own mistakes fixed in public",
+    "desc": "<p>We run a security check on public pull requests and publish what it finds \u2014 including what it gets wrong. This is the weekly number.</p>\n",
+    "link": "https://dev.to/mag_solutions_ai/field-report-14898-real-pull-requests-scanned-64-flagged-46-of-our-own-mistakes-fixed-in-public-jhf",
+    "topic": "general"
+  },
+  {
+    "title": "Track Amazon Bedrock Costs per Team: 3 Methods Compared",
+    "desc": "<p><strong>Your Bedrock bill shows models, Regions, and tokens, with no team names. Here is how to split it by team with IAM principals, app",
+    "link": "https://dev.to/evgeny_anikiev/track-amazon-bedrock-costs-per-team-3-methods-compared-4937",
+    "topic": "general"
+  },
+  {
+    "title": "AI agent cost control: how to stop agents burning your API credits",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/itaisagi/ai-agent-cost-control-how-to-stop-agents-burning-your-api-credits-e2o",
+    "topic": "general"
+  },
+  {
+    "title": "The 60-Day DevOps Interview Preparation Roadmap (2026 Edition)",
+    "desc": "<p>Sixty days is enough to prepare for DevOps interviews properly, but only if you spend the time on what interviews actually test. Most can",
+    "link": "https://dev.to/devopsinterview_cloud/the-60-day-devops-interview-preparation-roadmap-2026-edition-419f",
+    "topic": "general"
   }
 ]
