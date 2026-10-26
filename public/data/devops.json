@@ -1,50 +1,50 @@
 [
   {
-    "title": "The most expensive phrase in cloud: we'll clean it up later",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/the-most-expensive-phrase-in-cloud-well-clean-it-up-later-165b",
+    "title": "How to Use ssh-agent on Linux, macOS and Windows (2026)",
+    "desc": "<p>You gave your SSH key a passphrase, which is the right call. Now you type it forty times a day, or you quietly removed it last week becau",
+    "link": "https://dev.to/masitings/how-to-use-ssh-agent-on-linux-macos-and-windows-2026-4pfk",
     "topic": "general"
   },
   {
-    "title": "Chart Ledger: Helm Upgrade Reviews, with the Migration Guide Attached",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/edwindevops/chart-ledger-helm-upgrade-reviews-with-the-migration-guide-attached-494o",
+    "title": "Legacy ERP & Monolith Modernization: How to Execute a Strangler-Fig Migration Without Downtime or Data Loss",
+    "desc": "<p>When an established enterprise outgrows a 10-year-old legacy ERP or tightly coupled PHP/Java/.NET monolith, the default impulse is a <str",
+    "link": "https://dev.to/muhammadalimughal/legacy-erp-monolith-modernization-how-to-execute-a-strangler-fig-migration-without-downtime-or-5cd0",
     "topic": "general"
   },
   {
-    "title": "Eight CA Keys Between 1 and 255: What the eMudhra Incident Means for Your Code",
-    "desc": "<p><em>Up to date as of 25 October 2026. The fixes are still changing: on 24 October Oracle shipped a second Java fix (CVE-2026-114820), so ",
-    "link": "https://dev.to/dionisioc/eight-ca-keys-between-1-and-255-what-the-emudhra-incident-means-for-your-code-4k7o",
+    "title": "CORS Misconfigurations in Production APIs: How Access-Control-Allow-Origin & Credentials Leak Sensitive Data (And How to Audit Headers)",
+    "desc": "<p>Every full-stack engineer has experienced a deployment failing in the browser console with: <code>Access to fetch at 'https://api.example",
+    "link": "https://dev.to/muhammadalimughal/cors-misconfigurations-in-production-apis-how-access-control-allow-origin-credentials-leak-1n46",
+    "topic": "general"
+  },
+  {
+    "title": "After the Meeting Ends: How Audio Becomes Structured Work in Our System",
+    "desc": "<h1>\n  \n  \n  After the Meeting Ends: How Audio Becomes Structured Work in Our System\n</h1>\n\n<p>We spent a year building a pipeline that turn",
+    "link": "https://dev.to/mininglamp/after-the-meeting-ends-how-audio-becomes-structured-work-in-our-system-2ia8",
+    "topic": "general"
+  },
+  {
+    "title": "Nodus vs Nebius: which is better for GPU training?",
+    "desc": "<p>Nodus is the better fit for single-machine training runs of hours or days that you want to submit and stop watching. Its listed NVIDIA H1",
+    "link": "https://dev.to/viswaretas_kotra/nodus-vs-nebius-which-is-better-for-gpu-training-3lmb",
+    "topic": "general"
+  },
+  {
+    "title": "Enterprise Guide to Linux Kernel Network Stack Tuning for 100GbE, BBR, and IRQ Affinity",
+    "desc": "<blockquote>\n<p><em>Originally published on the <a href=\"https://hostingpodium.com/blog/linux-kernel-network-stack-tuning-sysctl-bbr-100gbe/",
+    "link": "https://dev.to/hostingpodium/enterprise-guide-to-linux-kernel-network-stack-tuning-for-100gbe-bbr-and-irq-affinity-gea",
+    "topic": "general"
+  },
+  {
+    "title": "Bulk-check domain expiry, SSL expiry and email security (SPF/DMARC) with Python",
+    "desc": "<p>Two outages everyone has had: a domain that expired because the renewal email went to someone who left, and a TLS certificate that expire",
+    "link": "https://dev.to/hi_hphanthanh_41c4083/bulk-check-domain-expiry-ssl-expiry-and-email-security-spfdmarc-with-python-42e",
     "topic": "secops"
   },
   {
-    "title": "Nodus vs RunPod: which is better for GPU training?",
-    "desc": "<p>For training runs that last hours or days, Nodus is usually a better choice than RunPod. Its listed NVIDIA H100 SXM rate is below both Ru",
-    "link": "https://dev.to/viswaretas_kotra/nodus-vs-runpod-which-is-better-for-gpu-training-34ko",
-    "topic": "general"
-  },
-  {
-    "title": "Sobrevivendo ao Caos: Injetando Falhas Estrat\u00e9gicas com o ChaosEngineeringMasterDeck",
-    "desc": "<p>Se voc\u00ea trabalha com <strong>sistemas distribu\u00eddos</strong> e <strong>arquitetura em nuvem</strong>, j\u00e1 deve ter se deparado com as fal\u00e1c",
-    "link": "https://dev.to/daviggc/sobrevivendo-ao-caos-injetando-falhas-estrategicas-com-o-chaosengineeringmasterdeck-149l",
-    "topic": "general"
-  },
-  {
-    "title": "How to Run a Unified LLM API with One Key: OpenAI Catalog Failures",
-    "desc": "<p>Short answer: use a unified LLM API with one key in front of product-catalog enrichment, discover available model IDs before sending traf",
-    "link": "https://dev.to/ironspiredraven77/how-to-run-a-unified-llm-api-with-one-key-openai-catalog-failures-2j4m",
-    "topic": "openai"
-  },
-  {
-    "title": "SSH, systemd, kubectl: the one-page cheatsheets I keep open during incidents",
-    "desc": "<p>I work on data center infrastructure. When something breaks at 2 a.m., nobody re-reads a 400-page manual \u2014 you reach for the handful of c",
-    "link": "https://dev.to/ezrazhao/ssh-systemd-kubectl-the-one-page-cheatsheets-i-keep-open-during-incidents-4i56",
-    "topic": "secops"
-  },
-  {
-    "title": "How to check your servers, Docker images and logs for PHP2Shell",
-    "desc": "<p>PHP shipped emergency fixes for PHP2Shell (CVE-2026-109618 and CVE-2026-109619) on October 21. Both are rated CVSS 9.2, both allow remote",
-    "link": "https://dev.to/noanya/how-to-check-your-servers-docker-images-and-logs-for-php2shell-2c5d",
-    "topic": "docker"
+    "title": "Cloud & DevOps Wk 3: Installing Terraform, migrating state to an Azure storage account, and building VNets for my cloud project.",
+    "desc": "<p><strong>Public cloud engineering project:</strong> installing Terraform, creating and destroying Azure resources from code, moving state ",
+    "link": "https://dev.to/ojosamuel129/cloud-devops-wk-3-installing-terraform-migrating-state-to-an-azure-storage-account-and-2nam",
+    "topic": "azure"
   }
 ]
