@@ -1,5 +1,11 @@
 [
   {
+    "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+    "desc": "<p>A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmfu",
+    "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+    "topic": "anthropic"
+  },
+  {
     "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
     "desc": "<p>Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities.</p>",
     "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
@@ -40,11 +46,5 @@
     "desc": "<p>An out-of-bounds write in Google\u2019s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution.",
     "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
     "topic": "azure"
-  },
-  {
-    "title": "Mythos 5 Ignored Real-World Harm in July Attack",
-    "desc": "<p>The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub.</p>\n<p>The post <",
-    "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
-    "topic": "secops"
   }
 ]

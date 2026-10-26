@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building an AI-Assisted Incident Triage Pipeline With Human Escalation",
-    "desc": "<p>An incident begins with a signal, not an explanation. A latency alert fires. A downstream dependency starts returning errors. A recent de",
-    "link": "https://dev.to/outworktech/building-an-ai-assisted-incident-triage-pipeline-with-human-escalation-9m3",
-    "topic": "secops"
+    "title": "Kubernetes on AKS: From Zero to Production Workloads - Publishing to GitHub and Cleaning Up Azure Resources (Part 9/9)",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Building a cloud-native environment is only part of the engineering process. A complete project also nee",
+    "link": "https://dev.to/rahimah_dev/kubernetes-on-aks-from-zero-to-production-workloads-publishing-to-github-and-cleaning-up-azure-2fh8",
+    "topic": "azure"
   },
   {
-    "title": "Your MCP server changed last week. Did your agent notice?",
-    "desc": "<p>When an MCP server drops a parameter or removes a tool, nothing errors at install time. There's no changelog in the protocol. The agent j",
-    "link": "https://dev.to/toolweather/your-mcp-server-changed-last-week-did-your-agent-notice-37lp",
+    "title": "Why Disk Space Can Stay Full After a Huge Log File Is Deleted",
+    "desc": "<p>A server runs out of disk space. The largest log file is found, deleted, and confirmed absent from its directory. Yet <code>df</code> sti",
+    "link": "https://dev.to/pbxqdown/why-disk-space-can-stay-full-after-a-huge-log-file-is-deleted-305i",
     "topic": "general"
   },
   {
-    "title": "Lalibela's builders carved downward. Some of your deploys are the same",
-    "desc": "<p>High in the Lasta mountains of northern Ethiopia, about 645 kilometres from Addis Ababa, there is a town where the churches are not built",
-    "link": "https://dev.to/yit2022/lalibelas-builders-carved-downward-some-of-your-deploys-are-the-same-4nh5",
+    "title": "AWS Transit Gateway and Cloud WAN Introduce 1:1 NAT for Seamless Network Interconnection",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-transit-gateway-cloud-wan-1-1-nat-overlapping-cidrs/?ut",
+    "link": "https://dev.to/pklavc/aws-transit-gateway-and-cloud-wan-introduce-11-nat-for-seamless-network-interconnection-52m",
+    "topic": "aws"
+  },
+  {
+    "title": "php2shell on a dead distro: rebuilding patched PHP for Debian 9 and 8",
+    "desc": "<p>On 21 October 2026 the PHP project fixed two critical bugs, <a href=\"https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j7",
+    "link": "https://dev.to/sphranko/php2shell-on-a-dead-distro-rebuilding-patched-php-for-debian-9-and-8-ici",
     "topic": "general"
   },
   {
-    "title": "How to check your server has the php2shell patch",
-    "desc": "<p>On 21 October the PHP team <a href=\"https://discourse.thephp.foundation/t/announce-php-8-2-35-released/6282\" rel=\"noopener noreferrer\">re",
-    "link": "https://dev.to/codelevel/how-to-check-your-server-has-the-php2shell-patch-2agh",
+    "title": "Batch Process Multiple Documents with a Summarization API in Node.js \u2014 Quality vs Latency",
+    "desc": "<p><strong>Short answer:</strong> use a batch API to process multiple documents for summarization when a 5\u201330 minute result window is accept",
+    "link": "https://dev.to/nathanielbrooks0360/batch-process-multiple-documents-with-a-summarization-api-in-nodejs-quality-vs-latency-1k71",
     "topic": "general"
   },
   {
-    "title": "Make Launches Predictable: A Practical CI/CD Checklist for Containerized Apps",
-    "desc": "<p>Containerized apps ship fast, and they fail in familiar, predictable ways: an image tagged <code>latest</code>, a dependency with a known",
-    "link": "https://dev.to/member_5fcde260/make-launches-predictable-a-practical-cicd-checklist-for-containerized-apps-240d",
-    "topic": "docker"
-  },
-  {
-    "title": "Why My Spatial Engine Benchmark Didn't Match Its Grafana Dashboard",
-    "desc": "<p>Two of my own numbers almost contradicted each other, and I nearly published both without noticing.</p>\n\n<p>While finishing geo-sentinel,",
-    "link": "https://dev.to/0xkikiola/why-my-spatial-engine-benchmark-didnt-match-its-grafana-dashboard-4kog",
+    "title": "The 76% Problem: Why Your AI Agents Are Dormant with Live Credentials (and How to Fix It)",
+    "desc": "<p>Arrakis Security published research earlier this year that should have reshaped how every security team thinks about AI infrastructure. T",
+    "link": "https://dev.to/aegisgate/the-76-problem-why-your-ai-agents-are-dormant-with-live-credentials-and-how-to-fix-it-1eb7",
     "topic": "general"
   },
   {
-    "title": "\ud83e\uddd9\u200d\u2642\ufe0f 'YOU SHALL NOT PASS!' \u2013 A Lord of the Rings Guide to Deterministic GRC",
-    "desc": "<p>It is the Third Age of Enterprise IT. The dark clouds of Procedural Governance gather in the East. </p>\n\n<p>For centuries, the realms of ",
-    "link": "https://dev.to/bigf_fellow/you-shall-not-pass-a-lord-of-the-rings-guide-to-deterministic-grc-236c",
+    "title": "NetFlow, sFlow, and IPFIX for a Small ISP: Choosing a Flow Export and Reading It",
+    "desc": "<p><em>Disclosure up front: I run IPYE, a company that leases IP space. It gets one short paragraph at the end; the rest is plain networking",
+    "link": "https://dev.to/ipye_com/netflow-sflow-and-ipfix-for-a-small-isp-choosing-a-flow-export-and-reading-it-i2d",
     "topic": "general"
   },
   {
-    "title": "Battle-Testing an IoT Telemetry Pipeline: Load Testing 60x Storm Spikes & Chaos Engineering with Grafana k6, KEDA, and Opossum",
-    "desc": "<p>In our <a href=\"https://dev.to/linhtch90/designing-a-cloud-native-weather-telemetry-system-handling-60x-storm-traffic-spikes-with-nestjs-",
-    "link": "https://dev.to/linhtch90/battle-testing-an-iot-telemetry-pipeline-load-testing-60x-storm-spikes-chaos-engineering-with-39hh",
+    "title": "Airflow vs Dagster vs Prefect: How to Choose",
+    "desc": "<p>Airflow, Dagster and Prefect are all open-source Python orchestrators. All three schedule pipelines, retry failed steps, keep a run histo",
+    "link": "https://dev.to/keshav07/airflow-vs-dagster-vs-prefect-how-to-choose-211o",
     "topic": "general"
   }
 ]
