@@ -1,50 +1,50 @@
 [
   {
-    "title": "Mythos 5 Ignored Real-World Harm in July Attack",
-    "desc": "<p>The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub.</p>\n<p>The post <",
-    "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-    "desc": "<p>Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks.</p>\n<p>The",
-    "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+    "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
+    "desc": "<p>Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities.</p>",
+    "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
     "topic": "general"
   },
   {
-    "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar: Russia\u2019s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunte",
-    "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+    "title": "Genesys Hack Exposes Customer Data From Internal Systems",
+    "desc": "<p>The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected.</p>\n<p>The post <a href=\"https://www.securitywee",
+    "link": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+    "topic": "general"
+  },
+  {
+    "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
+    "desc": "<p>Xint says a flaw in OpenAI\u2019s compaction process let researchers move reasoning traces between models, potentially making it cheaper to di",
+    "link": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+    "topic": "general"
+  },
+  {
+    "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+    "desc": "<p>Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24.</p>\n<p>T",
+    "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+    "topic": "general"
+  },
+  {
+    "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+    "desc": "<p>Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+    "topic": "general"
+  },
+  {
+    "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
+    "desc": "<p>The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts.</p>\n<p>The p",
+    "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
     "topic": "secops"
   },
   {
-    "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
-    "desc": "<p>Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet.</p>\n<p",
-    "link": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
-    "topic": "secops"
+    "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+    "desc": "<p>An out-of-bounds write in Google\u2019s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution.",
+    "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+    "topic": "azure"
   },
   {
-    "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-    "desc": "<p>The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-    "desc": "<p>The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.</p>\n<",
-    "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-    "topic": "secops"
-  },
-  {
-    "title": "11 Million Impacted by Capcom Data Breach",
-    "desc": "<p>The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.</p>\n<p>The post <a href=\"ht",
-    "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-    "topic": "secops"
-  },
-  {
-    "title": "Quest Diagnostics Data Breach Exposed \u2018Certain Patient Records\u2019",
-    "desc": "<p>In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clien",
-    "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+    "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+    "desc": "<p>The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub.</p>\n<p>The post <",
+    "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
     "topic": "secops"
   }
 ]

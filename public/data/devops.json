@@ -1,50 +1,50 @@
 [
   {
-    "title": "Build failed? How to read the build log and fix it fast",
-    "desc": "<p><em>Originally published on the <a href=\"https://blog.hubfly.space/fix-failed-build?utm_source=devto&utm_medium=referral&utm_campaign=fix",
-    "link": "https://dev.to/octave_nkurunziza_afb0512/build-failed-how-to-read-the-build-log-and-fix-it-fast-3ij6",
-    "topic": "general"
-  },
-  {
-    "title": "Human-in-the-Loop Approval Matrix for AI Agent Actions",
-    "desc": "<p>Your AI agent just deleted a production table. The first question in the postmortem won't be about the model. It will be: <strong>who dec",
-    "link": "https://dev.to/samamderson/human-in-the-loop-approval-matrix-for-ai-agent-actions-4cd1",
-    "topic": "general"
-  },
-  {
-    "title": "How a Key Leaked in May Shipped Malware in October",
-    "desc": "<p>On 27 May 2026, someone committed a config file to a public repository by mistake. Inside it was the master key \u2014 the admin password, in ",
-    "link": "https://dev.to/dhruv1206/how-a-key-leaked-in-may-shipped-malware-in-october-1nkl",
-    "topic": "general"
-  },
-  {
-    "title": "How to Build In-Demand IT Skills in Cybersecurity, Linux, Cloud, and DevOps",
-    "desc": "<p>Technology careers are built on continuous learning and practical experience. For beginners entering IT, developing skills in cybersecuri",
-    "link": "https://dev.to/umarajput/how-to-build-in-demand-it-skills-in-cybersecurity-linux-cloud-and-devops-56en",
+    "title": "Building an AI-Assisted Incident Triage Pipeline With Human Escalation",
+    "desc": "<p>An incident begins with a signal, not an explanation. A latency alert fires. A downstream dependency starts returning errors. A recent de",
+    "link": "https://dev.to/outworktech/building-an-ai-assisted-incident-triage-pipeline-with-human-escalation-9m3",
     "topic": "secops"
   },
   {
-    "title": "Field report: 14898 real pull requests scanned, 6.4% flagged, 46 of our own mistakes fixed in public",
-    "desc": "<p>We run a security check on public pull requests and publish what it finds \u2014 including what it gets wrong. This is the weekly number.</p>\n",
-    "link": "https://dev.to/mag_solutions_ai/field-report-14898-real-pull-requests-scanned-64-flagged-46-of-our-own-mistakes-fixed-in-public-jhf",
+    "title": "Your MCP server changed last week. Did your agent notice?",
+    "desc": "<p>When an MCP server drops a parameter or removes a tool, nothing errors at install time. There's no changelog in the protocol. The agent j",
+    "link": "https://dev.to/toolweather/your-mcp-server-changed-last-week-did-your-agent-notice-37lp",
     "topic": "general"
   },
   {
-    "title": "Track Amazon Bedrock Costs per Team: 3 Methods Compared",
-    "desc": "<p><strong>Your Bedrock bill shows models, Regions, and tokens, with no team names. Here is how to split it by team with IAM principals, app",
-    "link": "https://dev.to/evgeny_anikiev/track-amazon-bedrock-costs-per-team-3-methods-compared-4937",
+    "title": "Lalibela's builders carved downward. Some of your deploys are the same",
+    "desc": "<p>High in the Lasta mountains of northern Ethiopia, about 645 kilometres from Addis Ababa, there is a town where the churches are not built",
+    "link": "https://dev.to/yit2022/lalibelas-builders-carved-downward-some-of-your-deploys-are-the-same-4nh5",
     "topic": "general"
   },
   {
-    "title": "AI agent cost control: how to stop agents burning your API credits",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/itaisagi/ai-agent-cost-control-how-to-stop-agents-burning-your-api-credits-e2o",
+    "title": "How to check your server has the php2shell patch",
+    "desc": "<p>On 21 October the PHP team <a href=\"https://discourse.thephp.foundation/t/announce-php-8-2-35-released/6282\" rel=\"noopener noreferrer\">re",
+    "link": "https://dev.to/codelevel/how-to-check-your-server-has-the-php2shell-patch-2agh",
     "topic": "general"
   },
   {
-    "title": "The 60-Day DevOps Interview Preparation Roadmap (2026 Edition)",
-    "desc": "<p>Sixty days is enough to prepare for DevOps interviews properly, but only if you spend the time on what interviews actually test. Most can",
-    "link": "https://dev.to/devopsinterview_cloud/the-60-day-devops-interview-preparation-roadmap-2026-edition-419f",
+    "title": "Make Launches Predictable: A Practical CI/CD Checklist for Containerized Apps",
+    "desc": "<p>Containerized apps ship fast, and they fail in familiar, predictable ways: an image tagged <code>latest</code>, a dependency with a known",
+    "link": "https://dev.to/member_5fcde260/make-launches-predictable-a-practical-cicd-checklist-for-containerized-apps-240d",
+    "topic": "docker"
+  },
+  {
+    "title": "Why My Spatial Engine Benchmark Didn't Match Its Grafana Dashboard",
+    "desc": "<p>Two of my own numbers almost contradicted each other, and I nearly published both without noticing.</p>\n\n<p>While finishing geo-sentinel,",
+    "link": "https://dev.to/0xkikiola/why-my-spatial-engine-benchmark-didnt-match-its-grafana-dashboard-4kog",
+    "topic": "general"
+  },
+  {
+    "title": "\ud83e\uddd9\u200d\u2642\ufe0f 'YOU SHALL NOT PASS!' \u2013 A Lord of the Rings Guide to Deterministic GRC",
+    "desc": "<p>It is the Third Age of Enterprise IT. The dark clouds of Procedural Governance gather in the East. </p>\n\n<p>For centuries, the realms of ",
+    "link": "https://dev.to/bigf_fellow/you-shall-not-pass-a-lord-of-the-rings-guide-to-deterministic-grc-236c",
+    "topic": "general"
+  },
+  {
+    "title": "Battle-Testing an IoT Telemetry Pipeline: Load Testing 60x Storm Spikes & Chaos Engineering with Grafana k6, KEDA, and Opossum",
+    "desc": "<p>In our <a href=\"https://dev.to/linhtch90/designing-a-cloud-native-weather-telemetry-system-handling-60x-storm-traffic-spikes-with-nestjs-",
+    "link": "https://dev.to/linhtch90/battle-testing-an-iot-telemetry-pipeline-load-testing-60x-storm-spikes-chaos-engineering-with-39hh",
     "topic": "general"
   }
 ]
