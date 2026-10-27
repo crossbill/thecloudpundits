@@ -1,50 +1,50 @@
 [
   {
+    "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+    "desc": "<p>A leaked SquareML access key could have been used to access a database containing personal and health information.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+    "topic": "general"
+  },
+  {
+    "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
+    "desc": "<p>Eight max-severity security defects could lead to remote code execution and authentication bypass.</p>\n<p>The post <a href=\"https://www.s",
+    "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
+    "topic": "aws"
+  },
+  {
+    "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
+    "desc": "<p>The company says it reacted to an issue affecting some of its systems, including DreamHost webmail.</p>\n<p>The post <a href=\"https://www.",
+    "link": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
+    "topic": "secops"
+  },
+  {
+    "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
+    "desc": "<p>Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones.</p>\n",
+    "link": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
+    "topic": "general"
+  },
+  {
+    "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
+    "desc": "<p>Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
+    "topic": "anthropic"
+  },
+  {
+    "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
+    "desc": "<p>Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon.</p>\n<p>The post <a href=",
+    "link": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
+    "topic": "general"
+  },
+  {
+    "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
+    "desc": "<p>Running at system boot, it periodically polled the update domain to execute any code served, with full privileges.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
+    "topic": "general"
+  },
+  {
     "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
     "desc": "<p>Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products.</p",
     "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
     "topic": "secops"
-  },
-  {
-    "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
-    "desc": "<p>The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at mo",
-    "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
-    "topic": "secops"
-  },
-  {
-    "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
-    "desc": "<p>A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmfu",
-    "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
-    "desc": "<p>Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities.</p>",
-    "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Genesys Hack Exposes Customer Data From Internal Systems",
-    "desc": "<p>The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected.</p>\n<p>The post <a href=\"https://www.securitywee",
-    "link": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
-    "topic": "general"
-  },
-  {
-    "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
-    "desc": "<p>Xint says a flaw in OpenAI\u2019s compaction process let researchers move reasoning traces between models, potentially making it cheaper to di",
-    "link": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
-    "topic": "general"
-  },
-  {
-    "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
-    "desc": "<p>Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24.</p>\n<p>T",
-    "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
-    "topic": "general"
-  },
-  {
-    "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
-    "desc": "<p>Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
-    "topic": "general"
   }
 ]

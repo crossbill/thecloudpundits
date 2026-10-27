@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why our health check said \"up\" while the model was gone",
-    "desc": "<p>Our status page was green for weeks. Generations were failing the whole time.</p>\n\n<p>That one still bugs me. Not because the check was b",
-    "link": "https://dev.to/moozechen/why-our-health-check-said-up-while-the-model-was-gone-8o3",
+    "title": "Anthropic Turns AI Adoption Into a Training Programme for Customer Engineers",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Claude Frontier Academy is a training and credential programme that Anthropic runs for engineers employed",
+    "link": "https://dev.to/neticslabs/anthropic-turns-ai-adoption-into-a-training-programme-for-customer-engineers-14oo",
+    "topic": "anthropic"
+  },
+  {
+    "title": "One Power Event in a London Zone Took Down 41 Google Cloud Products",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Google Cloud europe-west2 is the company's London region, and a region is a group of separate data centre",
+    "link": "https://dev.to/neticslabs/one-power-event-in-a-london-zone-took-down-41-google-cloud-products-11eg",
+    "topic": "gcp"
+  },
+  {
+    "title": "Service-to-Service Auth From Scratch, and the Five Things That Bite You",
+    "desc": "<p>When a user logs in, auth is a solved-feeling problem: they type a password, you check it, you hand them a session. But inside a system o",
+    "link": "https://dev.to/v4nd1t/service-to-service-auth-from-scratch-and-the-five-things-that-bite-you-2ndm",
     "topic": "general"
   },
   {
-    "title": "How DNS Works: From yahoo.com to an IP Address",
-    "desc": "<p>Every time we open a website, we usually type a domain name into our browser rather than an IP address. For example, we type <code>yahoo.",
-    "link": "https://dev.to/nebulascout/how-dns-works-from-yahoocom-to-an-ip-address-5cp6",
+    "title": "The 12 Websites Every DevOps Engineer Should Bookmark in 2026",
+    "desc": "<p>A surprising amount of DevOps work starts with a small question. Is this database version still supported? Does this cron expression run ",
+    "link": "https://dev.to/boiliev/the-12-websites-every-devops-engineer-should-bookmark-in-2026-1k0n",
     "topic": "general"
   },
   {
-    "title": "Nothing is stale, and the agent touched the wrong environment",
-    "desc": "<p>A stop condition that asks \"is this approval stale?\" catches nothing in the case that matters most. I have been arguing this in a thread ",
-    "link": "https://dev.to/favourscout/nothing-is-stale-and-the-agent-touched-the-wrong-environment-53bd",
+    "title": "Your Free Server Forgot Your Files: Four Restart Myths and a Survival Check",
+    "desc": "<p>Your job wrote the file. You redeployed. The file was gone.</p>\n\n<p>So which part failed: the write, or your assumption about the disk?</",
+    "link": "https://dev.to/gitlab_3188/your-free-server-forgot-your-files-four-restart-myths-and-a-survival-check-3koo",
     "topic": "general"
   },
   {
-    "title": "A stolen token turns your own CI into a secret dump. I built a local detector that watches for the act",
-    "desc": "<p>Your private repository's CI can betray you without a single strange domain ever appearing. That is the shape of Gheist, a campaign Wiz R",
-    "link": "https://dev.to/techdevfun/a-stolen-token-turns-your-own-ci-into-a-secret-dump-i-built-a-local-detector-that-watches-for-the-13o1",
-    "topic": "general"
+    "title": "Your MCP config is now an attack surface: a 20-minute inventory, and the four October incidents behind it",
+    "desc": "<p>For most of this year, \"MCP security\" meant a hypothetical: what if a tool description tricks the model? October made it concrete. Four i",
+    "link": "https://dev.to/neuralalpha/your-mcp-config-is-now-an-attack-surface-a-20-minute-inventory-and-the-four-october-incidents-4dco",
+    "topic": "secops"
   },
   {
-    "title": "How to Set Up a WireGuard VPN Server on Linux",
-    "desc": "<p>A hands-on WireGuard setup guide from a DevOps freelancer who's rolled it out on 30+ client VPS boxes, with real configs and honest trade",
-    "link": "https://dev.to/selfhostpilot/how-to-set-up-a-wireguard-vpn-server-on-linux-4k23",
-    "topic": "general"
+    "title": "the PocketOS incident: 4 guards between a coding agent and your prod database",
+    "desc": "<p>in late april 2026, PocketOS founder Jeremy Crane posted that a Cursor agent running Claude Opus 4.6 deleted their production database on",
+    "link": "https://dev.to/labyrinthlab/the-pocketos-incident-4-guards-between-a-coding-agent-and-your-prod-database-3ih8",
+    "topic": "secops"
   },
   {
-    "title": "GitHub Actions runners ranked by speed and cost per job (October 2026)",
-    "desc": "<p>I maintain <a href=\"https://cibench.com\" rel=\"noopener noreferrer\">CI Bench</a>, an open benchmark of GitHub Actions runners. </p>\n\n<p>Di",
-    "link": "https://dev.to/josephvitko/github-actions-runners-ranked-by-speed-and-cost-per-job-october-2026-294g",
-    "topic": "general"
-  },
-  {
-    "title": "Architectural Deep-Dive: Retriever-Free Retrieval: Navigating Documents with Decision Models",
-    "desc": "<h1>\n  \n  \n  Replacing Vector Databases with Decision-Based Tree Navigation in Production RAG\n</h1>\n\n<p>For the past three years, the indust",
-    "link": "https://dev.to/hordii_bohdan/architectural-deep-dive-retriever-free-retrieval-navigating-documents-with-decision-models-a6e",
-    "topic": "general"
-  },
-  {
-    "title": "Your Health Check Was Green. The Server Was Asleep.",
-    "desc": "<h2>\n  \n  \n  You pinged <code>/health</code>. It said 200. Then the page took four seconds.\n</h2>\n\n<p>You check a health endpoint before a d",
-    "link": "https://dev.to/gitlab_3188/your-health-check-was-green-the-server-was-asleep-311e",
+    "title": "46 of the top 925 GitHub repos pass Actions inputs that do nothing",
+    "desc": "<p>GitHub Actions has a quiet failure mode. If a workflow passes an input the action doesn't declare, the run doesn't fail. The log gets an ",
+    "link": "https://dev.to/ishan_gautam/46-of-the-top-925-github-repos-pass-actions-inputs-that-do-nothing-3e88",
     "topic": "general"
   }
 ]
