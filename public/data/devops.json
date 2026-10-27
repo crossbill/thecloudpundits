@@ -1,50 +1,50 @@
 [
   {
-    "title": "When AI code generation outruns human review",
-    "desc": "<p>A coding agent finishes a feature, opens a merge request and starts the next task. The engineers who need to understand the first change ",
-    "link": "https://dev.to/kstoyanovai/when-ai-code-generation-outruns-human-review-25pj",
+    "title": "How We Run Lullwood With Eleven Claude Agents and One Release Train",
+    "desc": "<p>Lullwood is a free browser horror game built in three.js and Next.js, and eleven Claude Code agents build it against one shared git repo.",
+    "link": "https://dev.to/lullwoodgamer/how-we-run-lullwood-with-eleven-claude-agents-and-one-release-train-756",
+    "topic": "anthropic"
+  },
+  {
+    "title": "How to Connect to Remote Servers Without Typing a Password",
+    "desc": "<h1>\n  \n  \n  How to Connect to Remote Servers Without Typing a Password\n</h1>\n\n<p>As an operations engineer, I've spent years SSHing into re",
+    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/how-to-connect-to-remote-servers-without-typing-a-password-51nb",
     "topic": "general"
   },
   {
-    "title": "The cheapest GitHub Actions runners in 2026: what 100,000 minutes cost",
-    "desc": "<p>I build open source developer tools, mostly <a href=\"https://github.com/supercorp-ai/supergateway\" rel=\"noopener noreferrer\">supergateway",
-    "link": "https://dev.to/nedomas/the-cheapest-github-actions-runners-in-2026-what-100000-minutes-cost-2mlc",
+    "title": "Where Did My VPS RAM Go? A Practical Memory Audit for Small Linux Servers with PSS, cgroups v2 and systemd",
+    "desc": "<p>Tu\u1ea7n n\u00e0y c\u00f3 m\u1ed9t b\u00e0i tr\u00ean Dev.to \u0111\u01b0\u1ee3c ch\u00fa \u00fd: t\u00e1c gi\u1ea3 x\u00f3a mail server kh\u1ecfi VPS v\u00e0 l\u1ea5y l\u1ea1i \u0111\u01b0\u1ee3c 1.2 GB RAM. \u0110\u1ecdc xong m\u00ecnh nh\u1edb l\u1ea1i con VPS 2 ",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/where-did-my-vps-ram-go-a-practical-memory-audit-for-small-linux-servers-with-pss-cgroups-v2-and-2e9f",
     "topic": "general"
   },
   {
-    "title": "Simplifying Authentication with Google, Keycloak, and Okta",
-    "desc": "<p>Modern organizations rely on centralized identity providers to manage authentication securely. Instead of creating and maintaining separa",
-    "link": "https://dev.to/kanishga_subramani_49ad73/simplifying-authentication-with-google-keycloak-and-okta-2e2n",
+    "title": "Blue/Green Deployment no MariaDB: atualizando o banco com (quase) zero downtime",
+    "desc": "<p>Atualizar o banco de dados costuma ser a parte mais tensa de qualquer manuten\u00e7\u00e3o. Trocar a vers\u00e3o do MariaDB \"a quente\" significa parar o",
+    "link": "https://dev.to/reinaldocoelho/bluegreen-deployment-no-mariadb-atualizando-o-banco-com-quase-zero-downtime-33dm",
     "topic": "general"
   },
   {
-    "title": "Route Every Model-Drafted Sentence to a Named Human: A Provenance Ownership Gate for Docs",
-    "desc": "<p>A documentation draft is only reviewable when each factual sentence has a named owner who can be wrong about it. Most generated-docs pipe",
-    "link": "https://dev.to/github_7727/route-every-model-drafted-sentence-to-a-named-human-a-provenance-ownership-gate-for-docs-1fhn",
+    "title": "How to Check Website Security: The 6 Checks Every Attacker Runs First",
+    "desc": "<p><em>Originally published in German on <a href=\"https://next-levels.de/blog/website-sicherheit-pruefen-6-checks\" rel=\"noopener noreferrer\"",
+    "link": "https://dev.to/slawanextlevels/how-to-check-website-security-the-6-checks-every-attacker-runs-first-1jpp",
+    "topic": "secops"
+  },
+  {
+    "title": "Your App Is Up, Your Model Call Is Down: Five Coupling Myths and a Two-Probe Check",
+    "desc": "<h1>\n  \n  \n  Your App Is Up, Your Model Call Is Down: Five Coupling Myths and a Two-Probe Check\n</h1>\n\n<p>A 200 from your own health endpoin",
+    "link": "https://dev.to/gitlab_3188/your-app-is-up-your-model-call-is-down-five-coupling-myths-and-a-two-probe-check-4fpb",
     "topic": "general"
   },
   {
-    "title": "Node.js Bundled a Decoder That Wrote Past Its Eight-Byte Buffer",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Brotli is Google's compression format, and a decoder is the code that turns a compressed br stream back i",
-    "link": "https://dev.to/neticslabs/nodejs-bundled-a-decoder-that-wrote-past-its-eight-byte-buffer-457d",
+    "title": "Did the Patch Cause the Flake, or Find It? A Base/Head Attribution Gate for Agent Patches",
+    "desc": "<p><strong>Short version:</strong> when an agent patch surfaces a flaky test, run that test on the base tree and the patch tree with matched",
+    "link": "https://dev.to/datacpp_8185/did-the-patch-cause-the-flake-or-find-it-a-basehead-attribution-gate-for-agent-patches-3j8i",
     "topic": "general"
   },
   {
-    "title": "Self-Hosted LLM vs API Cost: Below $10.5K a Month, an H200 Node Can't Beat the API",
-    "desc": "<p>IBM's CEO told investors last week that open-weight models now run at \"anywhere from 25 percent to 10 percent of the token cost of the fr",
-    "link": "https://dev.to/alanwest/self-hosted-llm-vs-api-cost-below-105k-a-month-an-h200-node-cant-beat-the-api-20",
-    "topic": "general"
-  },
-  {
-    "title": "Node.js Game Telemetry: Health Monitoring API Polling, Rate Limits, and Backoff",
-    "desc": "<p>A nightly game-data pipeline needs a small, recoverable health monitoring API poller before it needs a grand observability stack. <strong",
-    "link": "https://dev.to/malachinilsson7591/nodejs-game-telemetry-health-monitoring-api-polling-rate-limits-and-backoff-1251",
-    "topic": "general"
-  },
-  {
-    "title": "Lint in Testing: The Steps to Add Static Checks to Your Java Test Pipeline",
-    "desc": "<h2>\n  \n  \n  Why Linting Belongs in Your Testing Strategy\n</h2>\n\n<p>Most teams think of linting and testing as two separate activities. Lint",
-    "link": "https://dev.to/said_olano/lint-in-testing-the-steps-to-add-static-checks-to-your-java-test-pipeline-1gj5",
-    "topic": "general"
+    "title": "Warp Data Breach: Why AI Agent Logs Are the New Security Frontier",
+    "desc": "<h3>\n  \n  \n  The News: Warp Discloses Infrastructure Breach\n</h3>\n\n<p>Warp, the modern terminal that includes AI\u2011assisted features, has disc",
+    "link": "https://dev.to/hassanradwany/warp-data-breach-why-ai-agent-logs-are-the-new-security-frontier-gij",
+    "topic": "secops"
   }
 ]
