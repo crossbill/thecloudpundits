@@ -1,5 +1,17 @@
 [
   {
+    "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
+    "desc": "<p>Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products.</p",
+    "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
+    "topic": "secops"
+  },
+  {
+    "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+    "desc": "<p>The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at mo",
+    "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+    "topic": "secops"
+  },
+  {
     "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
     "desc": "<p>A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmfu",
     "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
@@ -34,17 +46,5 @@
     "desc": "<p>Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection.</p>\n<p>The post <a href=\"https",
     "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
     "topic": "general"
-  },
-  {
-    "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
-    "desc": "<p>The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
-    "topic": "secops"
-  },
-  {
-    "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
-    "desc": "<p>An out-of-bounds write in Google\u2019s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution.",
-    "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
-    "topic": "azure"
   }
 ]
