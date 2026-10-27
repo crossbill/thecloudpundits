@@ -1,50 +1,50 @@
 [
   {
-    "title": "Anthropic Turns AI Adoption Into a Training Programme for Customer Engineers",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Claude Frontier Academy is a training and credential programme that Anthropic runs for engineers employed",
-    "link": "https://dev.to/neticslabs/anthropic-turns-ai-adoption-into-a-training-programme-for-customer-engineers-14oo",
-    "topic": "anthropic"
-  },
-  {
-    "title": "One Power Event in a London Zone Took Down 41 Google Cloud Products",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Google Cloud europe-west2 is the company's London region, and a region is a group of separate data centre",
-    "link": "https://dev.to/neticslabs/one-power-event-in-a-london-zone-took-down-41-google-cloud-products-11eg",
-    "topic": "gcp"
-  },
-  {
-    "title": "Service-to-Service Auth From Scratch, and the Five Things That Bite You",
-    "desc": "<p>When a user logs in, auth is a solved-feeling problem: they type a password, you check it, you hand them a session. But inside a system o",
-    "link": "https://dev.to/v4nd1t/service-to-service-auth-from-scratch-and-the-five-things-that-bite-you-2ndm",
+    "title": "When AI code generation outruns human review",
+    "desc": "<p>A coding agent finishes a feature, opens a merge request and starts the next task. The engineers who need to understand the first change ",
+    "link": "https://dev.to/kstoyanovai/when-ai-code-generation-outruns-human-review-25pj",
     "topic": "general"
   },
   {
-    "title": "The 12 Websites Every DevOps Engineer Should Bookmark in 2026",
-    "desc": "<p>A surprising amount of DevOps work starts with a small question. Is this database version still supported? Does this cron expression run ",
-    "link": "https://dev.to/boiliev/the-12-websites-every-devops-engineer-should-bookmark-in-2026-1k0n",
+    "title": "The cheapest GitHub Actions runners in 2026: what 100,000 minutes cost",
+    "desc": "<p>I build open source developer tools, mostly <a href=\"https://github.com/supercorp-ai/supergateway\" rel=\"noopener noreferrer\">supergateway",
+    "link": "https://dev.to/nedomas/the-cheapest-github-actions-runners-in-2026-what-100000-minutes-cost-2mlc",
     "topic": "general"
   },
   {
-    "title": "Your Free Server Forgot Your Files: Four Restart Myths and a Survival Check",
-    "desc": "<p>Your job wrote the file. You redeployed. The file was gone.</p>\n\n<p>So which part failed: the write, or your assumption about the disk?</",
-    "link": "https://dev.to/gitlab_3188/your-free-server-forgot-your-files-four-restart-myths-and-a-survival-check-3koo",
+    "title": "Simplifying Authentication with Google, Keycloak, and Okta",
+    "desc": "<p>Modern organizations rely on centralized identity providers to manage authentication securely. Instead of creating and maintaining separa",
+    "link": "https://dev.to/kanishga_subramani_49ad73/simplifying-authentication-with-google-keycloak-and-okta-2e2n",
     "topic": "general"
   },
   {
-    "title": "Your MCP config is now an attack surface: a 20-minute inventory, and the four October incidents behind it",
-    "desc": "<p>For most of this year, \"MCP security\" meant a hypothetical: what if a tool description tricks the model? October made it concrete. Four i",
-    "link": "https://dev.to/neuralalpha/your-mcp-config-is-now-an-attack-surface-a-20-minute-inventory-and-the-four-october-incidents-4dco",
-    "topic": "secops"
+    "title": "Route Every Model-Drafted Sentence to a Named Human: A Provenance Ownership Gate for Docs",
+    "desc": "<p>A documentation draft is only reviewable when each factual sentence has a named owner who can be wrong about it. Most generated-docs pipe",
+    "link": "https://dev.to/github_7727/route-every-model-drafted-sentence-to-a-named-human-a-provenance-ownership-gate-for-docs-1fhn",
+    "topic": "general"
   },
   {
-    "title": "the PocketOS incident: 4 guards between a coding agent and your prod database",
-    "desc": "<p>in late april 2026, PocketOS founder Jeremy Crane posted that a Cursor agent running Claude Opus 4.6 deleted their production database on",
-    "link": "https://dev.to/labyrinthlab/the-pocketos-incident-4-guards-between-a-coding-agent-and-your-prod-database-3ih8",
-    "topic": "secops"
+    "title": "Node.js Bundled a Decoder That Wrote Past Its Eight-Byte Buffer",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Brotli is Google's compression format, and a decoder is the code that turns a compressed br stream back i",
+    "link": "https://dev.to/neticslabs/nodejs-bundled-a-decoder-that-wrote-past-its-eight-byte-buffer-457d",
+    "topic": "general"
   },
   {
-    "title": "46 of the top 925 GitHub repos pass Actions inputs that do nothing",
-    "desc": "<p>GitHub Actions has a quiet failure mode. If a workflow passes an input the action doesn't declare, the run doesn't fail. The log gets an ",
-    "link": "https://dev.to/ishan_gautam/46-of-the-top-925-github-repos-pass-actions-inputs-that-do-nothing-3e88",
+    "title": "Self-Hosted LLM vs API Cost: Below $10.5K a Month, an H200 Node Can't Beat the API",
+    "desc": "<p>IBM's CEO told investors last week that open-weight models now run at \"anywhere from 25 percent to 10 percent of the token cost of the fr",
+    "link": "https://dev.to/alanwest/self-hosted-llm-vs-api-cost-below-105k-a-month-an-h200-node-cant-beat-the-api-20",
+    "topic": "general"
+  },
+  {
+    "title": "Node.js Game Telemetry: Health Monitoring API Polling, Rate Limits, and Backoff",
+    "desc": "<p>A nightly game-data pipeline needs a small, recoverable health monitoring API poller before it needs a grand observability stack. <strong",
+    "link": "https://dev.to/malachinilsson7591/nodejs-game-telemetry-health-monitoring-api-polling-rate-limits-and-backoff-1251",
+    "topic": "general"
+  },
+  {
+    "title": "Lint in Testing: The Steps to Add Static Checks to Your Java Test Pipeline",
+    "desc": "<h2>\n  \n  \n  Why Linting Belongs in Your Testing Strategy\n</h2>\n\n<p>Most teams think of linting and testing as two separate activities. Lint",
+    "link": "https://dev.to/said_olano/lint-in-testing-the-steps-to-add-static-checks-to-your-java-test-pipeline-1gj5",
     "topic": "general"
   }
 ]

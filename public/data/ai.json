@@ -1,8 +1,14 @@
 [
   {
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "title": "Build specialized multimodal models with LFM3",
     "desc": "",
-    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "topic": "general"
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
     "topic": "general"
   },
   {
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "topic": "aws"
-  },
-  {
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "topic": "general"
   }
 ]

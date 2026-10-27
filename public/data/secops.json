@@ -1,5 +1,11 @@
 [
   {
+    "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of \u2018Tailworm\u2019 Flaws",
+    "desc": "<p>Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released.</p",
+    "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+    "topic": "aws"
+  },
+  {
     "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
     "desc": "<p>A leaked SquareML access key could have been used to access a database containing personal and health information.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
@@ -40,11 +46,5 @@
     "desc": "<p>Running at system boot, it periodically polled the update domain to execute any code served, with full privileges.</p>\n<p>The post <a hre",
     "link": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
     "topic": "general"
-  },
-  {
-    "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
-    "desc": "<p>Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products.</p",
-    "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
-    "topic": "secops"
   }
 ]
