@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes on AKS: From Zero to Production Workloads - Publishing to GitHub and Cleaning Up Azure Resources (Part 9/9)",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Building a cloud-native environment is only part of the engineering process. A complete project also nee",
-    "link": "https://dev.to/rahimah_dev/kubernetes-on-aks-from-zero-to-production-workloads-publishing-to-github-and-cleaning-up-azure-2fh8",
-    "topic": "azure"
-  },
-  {
-    "title": "Why Disk Space Can Stay Full After a Huge Log File Is Deleted",
-    "desc": "<p>A server runs out of disk space. The largest log file is found, deleted, and confirmed absent from its directory. Yet <code>df</code> sti",
-    "link": "https://dev.to/pbxqdown/why-disk-space-can-stay-full-after-a-huge-log-file-is-deleted-305i",
+    "title": "Best AI Code Review Tools That Discover Coding Rules From Pull Request History (2026)",
+    "desc": "<p>I write about how engineering teams build and keep review standards, most recently on <a href=\"https://dev.to/dav_9d08ede16c60950b/claude",
+    "link": "https://dev.to/dav_9d08ede16c60950b/best-ai-code-review-tools-that-discover-coding-rules-from-pull-request-history-2026-3bo7",
     "topic": "general"
   },
   {
-    "title": "AWS Transit Gateway and Cloud WAN Introduce 1:1 NAT for Seamless Network Interconnection",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-transit-gateway-cloud-wan-1-1-nat-overlapping-cidrs/?ut",
-    "link": "https://dev.to/pklavc/aws-transit-gateway-and-cloud-wan-introduce-11-nat-for-seamless-network-interconnection-52m",
+    "title": "Best AI Code Review Tools for Multi-Repo Engineering Organizations: Cross-Repo Dependencies and Blast Radius (2026)",
+    "desc": "<p>I write about system-level code review for senior and staff engineers, and the hardest breakage to catch is the one that lands in a repos",
+    "link": "https://dev.to/dav_9d08ede16c60950b/best-ai-code-review-tools-for-multi-repo-engineering-organizations-cross-repo-dependencies-and-5e0p",
+    "topic": "general"
+  },
+  {
+    "title": "Saya Memindai 30 Image Docker Populer. 10 Masih Percaya Root CA yang Sudah Dicabut Chrome",
+    "desc": "<p><em>Versi bahasa Inggris dengan metodologi lengkap: <a href=\"https://www.kielltampubolon.id/writing/the-emudhra-fallout-part-2-i-scanned-",
+    "link": "https://dev.to/kielltampubolon/saya-memindai-30-image-docker-populer-10-masih-percaya-root-ca-yang-sudah-dicabut-chrome-49j5",
+    "topic": "docker"
+  },
+  {
+    "title": "10 Best Tools to Catch Bugs in AI-Generated Code Before Merge (2026)",
+    "desc": "<p>AI-written pull requests pass lint, types, scans and their own tests, so the bugs that reach main are logic flaws, missing edge cases and",
+    "link": "https://dev.to/uss/10-best-tools-to-catch-bugs-in-ai-generated-code-before-merge-2026-2948",
+    "topic": "general"
+  },
+  {
+    "title": "Never Put a Pet on an AWS Spot Instance",
+    "desc": "<p>I got a task at my internship that sounded simple. Move one of our servers to a new AWS region, keep it the same as before, and spend as ",
+    "link": "https://dev.to/maame-codes/never-put-a-pet-on-an-aws-spot-instance-em3",
     "topic": "aws"
   },
   {
-    "title": "php2shell on a dead distro: rebuilding patched PHP for Debian 9 and 8",
-    "desc": "<p>On 21 October 2026 the PHP project fixed two critical bugs, <a href=\"https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j7",
-    "link": "https://dev.to/sphranko/php2shell-on-a-dead-distro-rebuilding-patched-php-for-debian-9-and-8-ici",
+    "title": "I priced 33 VPS plans the way finance would: the same 2 vCPU / 4 GB server costs $4.54 or $29 a month",
+    "desc": "<p><strong>The short version:</strong> I pulled 33 plans from 15 providers, and 26 of them have prices I verified on the provider's own page",
+    "link": "https://dev.to/o11ywatch/i-priced-33-vps-plans-the-way-finance-would-the-same-2-vcpu-4-gb-server-costs-454-or-29-a-4h0h",
     "topic": "general"
   },
   {
-    "title": "Batch Process Multiple Documents with a Summarization API in Node.js \u2014 Quality vs Latency",
-    "desc": "<p><strong>Short answer:</strong> use a batch API to process multiple documents for summarization when a 5\u201330 minute result window is accept",
-    "link": "https://dev.to/nathanielbrooks0360/batch-process-multiple-documents-with-a-summarization-api-in-nodejs-quality-vs-latency-1k71",
+    "title": "Which Gate Should Run First? Ordering Agent-Patch Checks by Yield per Second",
+    "desc": "<p>Gate order is a cost decision, not a taste decision. If your most expensive check runs first, you pay full-suite prices for diffs that a ",
+    "link": "https://dev.to/datacpp_8185/which-gate-should-run-first-ordering-agent-patch-checks-by-yield-per-second-40l6",
     "topic": "general"
   },
   {
-    "title": "The 76% Problem: Why Your AI Agents Are Dormant with Live Credentials (and How to Fix It)",
-    "desc": "<p>Arrakis Security published research earlier this year that should have reshaped how every security team thinks about AI infrastructure. T",
-    "link": "https://dev.to/aegisgate/the-76-problem-why-your-ai-agents-are-dormant-with-live-credentials-and-how-to-fix-it-1eb7",
-    "topic": "general"
-  },
-  {
-    "title": "NetFlow, sFlow, and IPFIX for a Small ISP: Choosing a Flow Export and Reading It",
-    "desc": "<p><em>Disclosure up front: I run IPYE, a company that leases IP space. It gets one short paragraph at the end; the rest is plain networking",
-    "link": "https://dev.to/ipye_com/netflow-sflow-and-ipfix-for-a-small-isp-choosing-a-flow-export-and-reading-it-i2d",
-    "topic": "general"
-  },
-  {
-    "title": "Airflow vs Dagster vs Prefect: How to Choose",
-    "desc": "<p>Airflow, Dagster and Prefect are all open-source Python orchestrators. All three schedule pipelines, retry failed steps, keep a run histo",
-    "link": "https://dev.to/keshav07/airflow-vs-dagster-vs-prefect-how-to-choose-211o",
+    "title": "Day 1 Back: Someone Already Built the Thing I Was Stuck On, So I'm Pivoting",
+    "desc": "<p>I came back today from two months of paternity leave.</p>\n\n<p>My team switched to an AI-agent workflow about nine months ago. Agents plan",
+    "link": "https://dev.to/inversed/day-1-back-someone-already-built-the-thing-i-was-stuck-on-so-im-pivoting-8hh",
     "topic": "general"
   }
 ]
