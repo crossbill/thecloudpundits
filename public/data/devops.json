@@ -1,50 +1,50 @@
 [
   {
-    "title": "Before you switch PHP versions on a WordPress site: checks, a staging clone, and a rollback that survives a failed upgrade",
-    "desc": "<p>The host panel gives you a dropdown of PHP versions. Changing it takes one click. Finding out whether the site still works takes a mornin",
-    "link": "https://dev.to/aumcreate/before-you-switch-php-versions-on-a-wordpress-site-checks-a-staging-clone-and-a-rollback-that-2na8",
+    "title": "Budget your retries per turn",
+    "desc": "<h1>\n  \n  \n  Budget your retries per turn\n</h1>\n\n<p>The turn died about forty minutes in, right after I typed a correction into the running ",
+    "link": "https://dev.to/cleo_cliona/budget-your-retries-per-turn-2d10",
     "topic": "general"
   },
   {
-    "title": "Bring your own proxies: why ProxyLister doesn't sell you any",
-    "desc": "<p>If you work with proxies, you probably have them from more than one provider, in more than one format, tracked in a spreadsheet that's be",
-    "link": "https://dev.to/spicanet/bring-your-own-proxies-why-proxylister-doesnt-sell-you-any-4a9e",
+    "title": "Moving Storage from GCP to AWS: Cloud Storage, Disks and File Shares",
+    "desc": "<p><em>A plain-English guide to moving storage from Google Cloud to AWS: Cloud Storage, Persistent Disk, Filestore, backups and transfer too",
+    "link": "https://dev.to/cobuildx-ai/moving-storage-from-gcp-to-aws-cloud-storage-disks-and-file-shares-17ko",
+    "topic": "aws"
+  },
+  {
+    "title": "Why idle servers cost more than you think \u2014 and how pay-as-you-go credits change the math",
+    "desc": "<p>An idle server rarely looks like a problem. It is online, it answers health checks, and it is ready if traffic returns. That readiness is",
+    "link": "https://dev.to/codexfuse_solution/why-idle-servers-cost-more-than-you-think-and-how-pay-as-you-go-credits-change-the-math-4bh2",
     "topic": "general"
   },
   {
-    "title": "6 checks before you push a Docker image to ghcr.io from GitHub Actions",
-    "desc": "<p>Pushing an image to ghcr.io can be a ten-line workflow. The trouble is that a few settings are outside the workflow file, and the error m",
-    "link": "https://dev.to/gmcjr/6-checks-before-you-push-a-docker-image-to-ghcrio-from-github-actions-1i73",
-    "topic": "docker"
-  },
-  {
-    "title": "FastAPI Automated CI/CD Security Pipeline: Enterprise Architecture & CLI Toolkit for Solo Founders",
-    "desc": "<h3>\n  \n  \n  \ud83d\ude80 FastAPI Automated CI/CD Security Pipeline: Enterprise Architecture & CLI Toolkit for Solo Founders\n</h3>\n\n<p><strong>Stop was",
-    "link": "https://dev.to/stigall195png/fastapi-automated-cicd-security-pipeline-enterprise-architecture-cli-toolkit-for-solo-founders-2li9",
-    "topic": "secops"
-  },
-  {
-    "title": "Ci/Cd Pipeline Design: Metrics Worth Tracking",
-    "desc": "<p>A CI/CD pipeline is only as effective as the outcomes it helps a team achieve. Fast builds are useful, but they do not automatically mean",
-    "link": "https://dev.to/prerna_sharma_2354d311ff5/cicd-pipeline-design-metrics-worth-tracking-2e",
+    "title": "GitHub Actions Node 20 Deprecation: What Broke on 23 September (and Why node20 Isn't the Problem)",
+    "desc": "<p><strong>GitHub removed Node 20 from the Actions runners on 23 September 2026, and an action that declares <code>using: node20</code> stil",
+    "link": "https://dev.to/marco_odev/github-actions-node-20-deprecation-what-broke-on-23-september-and-why-node20-isnt-the-problem-4lcc",
     "topic": "general"
   },
   {
-    "title": "Why Backup Is Not the Same as Disaster Recovery: RPO, RTO & Resilience Strategy",
-    "desc": "<blockquote>\n<p><em>Originally published on the <a href=\"https://hostingpodium.com/blog/backup-vs-disaster-recovery-guide/\" rel=\"noopener no",
-    "link": "https://dev.to/hostingpodium/why-backup-is-not-the-same-as-disaster-recovery-rpo-rto-resilience-strategy-4clc",
+    "title": "CVE-2026-97631: A 16-Year-Old Buffer Overflow That Runs Before Your Defenses Do",
+    "desc": "<p>Your server's security model has a load-bearing assumption buried in it: the code that runs first is trustworthy. Secure Boot, the TPM, d",
+    "link": "https://dev.to/damiano_builds/cve-2026-97631-a-16-year-old-buffer-overflow-that-runs-before-your-defenses-do-5gmd",
     "topic": "general"
   },
   {
-    "title": "Adrianzhi Kuan Ong\uff08\u738b\u5fd7\u5bec\uff09\ufe31\u5f9e\u77fd\u8c37\u9280\u884c\u5230\u745e\u58eb\u4fe1\u8cb8\uff1a\u9ad8\u5229\u7387\u7684\u4ee3\u50f9\u958b\u59cb\u51fa\u73fe",
-    "desc": "<p>\u904e\u53bb\u5341\u5929\uff0c\u5168\u7403\u9280\u884c\u9ad4\u7cfb\u518d\u6b21\u6210\u70ba\u5e02\u5834\u7126\u9ede\u3002</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=sc",
-    "link": "https://dev.to/adrianzhikuanongviews/adrianzhi-kuan-ongwang-zhi-kuan-cong-xi-gu-yin-xing-dao-rui-shi-xin-dai-gao-li-lu-de-dai-jia-kai-shi-chu-xian-2co0",
+    "title": "Building Reliable AI Agents: How I Fixed JSON Hallucinations in Tool Calling",
+    "desc": "<p>If you've built an AI Agent that uses external tools, you know the pain. You define a strict JSON schema for your tool, send the prompt, ",
+    "link": "https://dev.to/4sapi/building-reliable-ai-agents-how-i-fixed-json-hallucinations-in-tool-calling-1g7c",
     "topic": "general"
   },
   {
-    "title": "The Configure Flag That Breaks Python 3.14 Builds",
-    "desc": "<p>Python 3.13 shipped an experimental just-in-time compiler behind the <code>--enable-experimental-jit</code> configure flag. The CPython s",
-    "link": "https://dev.to/robust_true_try/the-configure-flag-that-breaks-python-314-builds-1g3n",
+    "title": "I locked the door my deploy knocked on",
+    "desc": "<p><strong>What this is about.</strong> I asked my AI for a full maintenance audit of my CMS, and we spent an afternoon closing what it foun",
+    "link": "https://dev.to/tdude/i-locked-the-door-my-deploy-knocked-on-1jm3",
     "topic": "general"
+  },
+  {
+    "title": "Kubernetes - Automated Dependency Updates with Renovate",
+    "desc": "<p>This post is part of our ongoing series of posts for Kubernetes. In this post, we will automate dependency updates for our GitOps reposit",
+    "link": "https://dev.to/kiriapurv/kubernetes-automated-dependency-updates-with-renovate-183d",
+    "topic": "kubernetes"
   }
 ]

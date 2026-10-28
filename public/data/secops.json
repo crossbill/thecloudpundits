@@ -1,5 +1,35 @@
 [
   {
+    "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
+    "desc": "<p>Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs.</p>\n<p>",
+    "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+    "topic": "aws"
+  },
+  {
+    "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
+    "desc": "<p>The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a bette",
+    "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
+    "topic": "secops"
+  },
+  {
+    "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
+    "desc": "<p>The company will use the Series B funds to expand its platform for securing AI agents\u2019 access to sensitive systems.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+    "topic": "general"
+  },
+  {
+    "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+    "desc": "<p>CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www",
+    "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
+    "topic": "secops"
+  },
+  {
+    "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
+    "desc": "<p>CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit.</p>\n",
+    "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+    "topic": "secops"
+  },
+  {
     "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of \u2018Tailworm\u2019 Flaws",
     "desc": "<p>Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released.</p",
     "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
@@ -16,35 +46,5 @@
     "desc": "<p>Eight max-severity security defects could lead to remote code execution and authentication bypass.</p>\n<p>The post <a href=\"https://www.s",
     "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
     "topic": "aws"
-  },
-  {
-    "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
-    "desc": "<p>The company says it reacted to an issue affecting some of its systems, including DreamHost webmail.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
-    "topic": "secops"
-  },
-  {
-    "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
-    "desc": "<p>Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones.</p>\n",
-    "link": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
-    "topic": "general"
-  },
-  {
-    "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
-    "desc": "<p>Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses.</p>\n<p>The post <a href=\"h",
-    "link": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
-    "desc": "<p>Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
-    "topic": "general"
-  },
-  {
-    "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
-    "desc": "<p>Running at system boot, it periodically polled the update domain to execute any code served, with full privileges.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
-    "topic": "general"
   }
 ]
