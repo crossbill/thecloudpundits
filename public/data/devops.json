@@ -1,50 +1,50 @@
 [
   {
-    "title": "How We Run Lullwood With Eleven Claude Agents and One Release Train",
-    "desc": "<p>Lullwood is a free browser horror game built in three.js and Next.js, and eleven Claude Code agents build it against one shared git repo.",
-    "link": "https://dev.to/lullwoodgamer/how-we-run-lullwood-with-eleven-claude-agents-and-one-release-train-756",
-    "topic": "anthropic"
-  },
-  {
-    "title": "How to Connect to Remote Servers Without Typing a Password",
-    "desc": "<h1>\n  \n  \n  How to Connect to Remote Servers Without Typing a Password\n</h1>\n\n<p>As an operations engineer, I've spent years SSHing into re",
-    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/how-to-connect-to-remote-servers-without-typing-a-password-51nb",
+    "title": "Before you switch PHP versions on a WordPress site: checks, a staging clone, and a rollback that survives a failed upgrade",
+    "desc": "<p>The host panel gives you a dropdown of PHP versions. Changing it takes one click. Finding out whether the site still works takes a mornin",
+    "link": "https://dev.to/aumcreate/before-you-switch-php-versions-on-a-wordpress-site-checks-a-staging-clone-and-a-rollback-that-2na8",
     "topic": "general"
   },
   {
-    "title": "Where Did My VPS RAM Go? A Practical Memory Audit for Small Linux Servers with PSS, cgroups v2 and systemd",
-    "desc": "<p>Tu\u1ea7n n\u00e0y c\u00f3 m\u1ed9t b\u00e0i tr\u00ean Dev.to \u0111\u01b0\u1ee3c ch\u00fa \u00fd: t\u00e1c gi\u1ea3 x\u00f3a mail server kh\u1ecfi VPS v\u00e0 l\u1ea5y l\u1ea1i \u0111\u01b0\u1ee3c 1.2 GB RAM. \u0110\u1ecdc xong m\u00ecnh nh\u1edb l\u1ea1i con VPS 2 ",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/where-did-my-vps-ram-go-a-practical-memory-audit-for-small-linux-servers-with-pss-cgroups-v2-and-2e9f",
+    "title": "Bring your own proxies: why ProxyLister doesn't sell you any",
+    "desc": "<p>If you work with proxies, you probably have them from more than one provider, in more than one format, tracked in a spreadsheet that's be",
+    "link": "https://dev.to/spicanet/bring-your-own-proxies-why-proxylister-doesnt-sell-you-any-4a9e",
     "topic": "general"
   },
   {
-    "title": "Blue/Green Deployment no MariaDB: atualizando o banco com (quase) zero downtime",
-    "desc": "<p>Atualizar o banco de dados costuma ser a parte mais tensa de qualquer manuten\u00e7\u00e3o. Trocar a vers\u00e3o do MariaDB \"a quente\" significa parar o",
-    "link": "https://dev.to/reinaldocoelho/bluegreen-deployment-no-mariadb-atualizando-o-banco-com-quase-zero-downtime-33dm",
-    "topic": "general"
+    "title": "6 checks before you push a Docker image to ghcr.io from GitHub Actions",
+    "desc": "<p>Pushing an image to ghcr.io can be a ten-line workflow. The trouble is that a few settings are outside the workflow file, and the error m",
+    "link": "https://dev.to/gmcjr/6-checks-before-you-push-a-docker-image-to-ghcrio-from-github-actions-1i73",
+    "topic": "docker"
   },
   {
-    "title": "How to Check Website Security: The 6 Checks Every Attacker Runs First",
-    "desc": "<p><em>Originally published in German on <a href=\"https://next-levels.de/blog/website-sicherheit-pruefen-6-checks\" rel=\"noopener noreferrer\"",
-    "link": "https://dev.to/slawanextlevels/how-to-check-website-security-the-6-checks-every-attacker-runs-first-1jpp",
+    "title": "FastAPI Automated CI/CD Security Pipeline: Enterprise Architecture & CLI Toolkit for Solo Founders",
+    "desc": "<h3>\n  \n  \n  \ud83d\ude80 FastAPI Automated CI/CD Security Pipeline: Enterprise Architecture & CLI Toolkit for Solo Founders\n</h3>\n\n<p><strong>Stop was",
+    "link": "https://dev.to/stigall195png/fastapi-automated-cicd-security-pipeline-enterprise-architecture-cli-toolkit-for-solo-founders-2li9",
     "topic": "secops"
   },
   {
-    "title": "Your App Is Up, Your Model Call Is Down: Five Coupling Myths and a Two-Probe Check",
-    "desc": "<h1>\n  \n  \n  Your App Is Up, Your Model Call Is Down: Five Coupling Myths and a Two-Probe Check\n</h1>\n\n<p>A 200 from your own health endpoin",
-    "link": "https://dev.to/gitlab_3188/your-app-is-up-your-model-call-is-down-five-coupling-myths-and-a-two-probe-check-4fpb",
+    "title": "Ci/Cd Pipeline Design: Metrics Worth Tracking",
+    "desc": "<p>A CI/CD pipeline is only as effective as the outcomes it helps a team achieve. Fast builds are useful, but they do not automatically mean",
+    "link": "https://dev.to/prerna_sharma_2354d311ff5/cicd-pipeline-design-metrics-worth-tracking-2e",
     "topic": "general"
   },
   {
-    "title": "Did the Patch Cause the Flake, or Find It? A Base/Head Attribution Gate for Agent Patches",
-    "desc": "<p><strong>Short version:</strong> when an agent patch surfaces a flaky test, run that test on the base tree and the patch tree with matched",
-    "link": "https://dev.to/datacpp_8185/did-the-patch-cause-the-flake-or-find-it-a-basehead-attribution-gate-for-agent-patches-3j8i",
+    "title": "Why Backup Is Not the Same as Disaster Recovery: RPO, RTO & Resilience Strategy",
+    "desc": "<blockquote>\n<p><em>Originally published on the <a href=\"https://hostingpodium.com/blog/backup-vs-disaster-recovery-guide/\" rel=\"noopener no",
+    "link": "https://dev.to/hostingpodium/why-backup-is-not-the-same-as-disaster-recovery-rpo-rto-resilience-strategy-4clc",
     "topic": "general"
   },
   {
-    "title": "Warp Data Breach: Why AI Agent Logs Are the New Security Frontier",
-    "desc": "<h3>\n  \n  \n  The News: Warp Discloses Infrastructure Breach\n</h3>\n\n<p>Warp, the modern terminal that includes AI\u2011assisted features, has disc",
-    "link": "https://dev.to/hassanradwany/warp-data-breach-why-ai-agent-logs-are-the-new-security-frontier-gij",
-    "topic": "secops"
+    "title": "Adrianzhi Kuan Ong\uff08\u738b\u5fd7\u5bec\uff09\ufe31\u5f9e\u77fd\u8c37\u9280\u884c\u5230\u745e\u58eb\u4fe1\u8cb8\uff1a\u9ad8\u5229\u7387\u7684\u4ee3\u50f9\u958b\u59cb\u51fa\u73fe",
+    "desc": "<p>\u904e\u53bb\u5341\u5929\uff0c\u5168\u7403\u9280\u884c\u9ad4\u7cfb\u518d\u6b21\u6210\u70ba\u5e02\u5834\u7126\u9ede\u3002</p>\n\n<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=sc",
+    "link": "https://dev.to/adrianzhikuanongviews/adrianzhi-kuan-ongwang-zhi-kuan-cong-xi-gu-yin-xing-dao-rui-shi-xin-dai-gao-li-lu-de-dai-jia-kai-shi-chu-xian-2co0",
+    "topic": "general"
+  },
+  {
+    "title": "The Configure Flag That Breaks Python 3.14 Builds",
+    "desc": "<p>Python 3.13 shipped an experimental just-in-time compiler behind the <code>--enable-experimental-jit</code> configure flag. The CPython s",
+    "link": "https://dev.to/robust_true_try/the-configure-flag-that-breaks-python-314-builds-1g3n",
+    "topic": "general"
   }
 ]
