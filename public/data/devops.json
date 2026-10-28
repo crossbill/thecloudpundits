@@ -1,50 +1,50 @@
 [
   {
-    "title": "Budget your retries per turn",
-    "desc": "<h1>\n  \n  \n  Budget your retries per turn\n</h1>\n\n<p>The turn died about forty minutes in, right after I typed a correction into the running ",
-    "link": "https://dev.to/cleo_cliona/budget-your-retries-per-turn-2d10",
+    "title": "Tailscale SSH Tailworm Flaw Could Reach Docker's Socket. How to Check and Patch",
+    "desc": "<p>If you turned on <code>tailscale set --ssh</code> so you'd never have to copy another public key around your homelab, you have an update ",
+    "link": "https://dev.to/alanwest/tailscale-ssh-tailworm-flaw-could-reach-dockers-socket-how-to-check-and-patch-3amd",
+    "topic": "docker"
+  },
+  {
+    "title": "Building a Zero-Retention Online PDF Toolkit: Architecture, Privacy & Edge Hardware Optimization",
+    "desc": "<p>Most web users don't think twice before uploading confidential tax records, bank statements, medical scans, or contract agreements to pop",
+    "link": "https://dev.to/suleyman0/building-a-zero-retention-online-pdf-toolkit-architecture-privacy-edge-hardware-optimization-4ma7",
     "topic": "general"
   },
   {
-    "title": "Moving Storage from GCP to AWS: Cloud Storage, Disks and File Shares",
-    "desc": "<p><em>A plain-English guide to moving storage from Google Cloud to AWS: Cloud Storage, Persistent Disk, Filestore, backups and transfer too",
-    "link": "https://dev.to/cobuildx-ai/moving-storage-from-gcp-to-aws-cloud-storage-disks-and-file-shares-17ko",
+    "title": "Self-hosting a support desk: what actually changes when customer data cannot leave the building",
+    "desc": "<p>\"Can we self-host it?\" is usually asked late, after a team has already started using a cloud tool. The answer changes more than the deplo",
+    "link": "https://dev.to/imonitorsoft/self-hosting-a-support-desk-what-actually-changes-when-customer-data-cannot-leave-the-building-5730",
+    "topic": "general"
+  },
+  {
+    "title": "AWS VPC: Public & Private Subnets with EC2 & Docker",
+    "desc": "<h3>\n  \n  \n  Why do we need a custom VPC & Subnets?\n</h3>\n\n<p>Without network isolation, every server you launch sits on a shared network ac",
+    "link": "https://dev.to/rajdevx/aws-vpc-public-private-subnets-with-ec2-docker-30ml",
     "topic": "aws"
   },
   {
-    "title": "Why idle servers cost more than you think \u2014 and how pay-as-you-go credits change the math",
-    "desc": "<p>An idle server rarely looks like a problem. It is online, it answers health checks, and it is ready if traffic returns. That readiness is",
-    "link": "https://dev.to/codexfuse_solution/why-idle-servers-cost-more-than-you-think-and-how-pay-as-you-go-credits-change-the-math-4bh2",
+    "title": "My Backstage platform portal: new repos in seconds, guardrails from commit one",
+    "desc": "<p>Backstage is the developer portal Spotify built and open-sourced: one place for every service, who owns it, its documentation and its pip",
+    "link": "https://dev.to/jesskearney/my-backstage-platform-portal-new-repos-in-seconds-guardrails-from-commit-one-1o23",
+    "topic": "guardrails"
+  },
+  {
+    "title": "The Reality of Cold Aisles: Why Architectures Designed at Desks Fail on the Data Center Floor",
+    "desc": "<p>In today\u2019s tech landscape, everyone discusses the sheer scale of artificial intelligence, infinite cloud elasticity, and petabytes proces",
+    "link": "https://dev.to/huseyinustundag/the-reality-of-cold-aisles-why-architectures-designed-at-desks-fail-on-the-data-center-floor-lhm",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions Node 20 Deprecation: What Broke on 23 September (and Why node20 Isn't the Problem)",
-    "desc": "<p><strong>GitHub removed Node 20 from the Actions runners on 23 September 2026, and an action that declares <code>using: node20</code> stil",
-    "link": "https://dev.to/marco_odev/github-actions-node-20-deprecation-what-broke-on-23-september-and-why-node20-isnt-the-problem-4lcc",
+    "title": "\"We've Been Hacked\" \u2014 No, That Is Cloudflare: Reading Edge Traffic Before You Blame the VM",
+    "desc": "<p><em>A presales war story about a firewall full of \"abnormal sessions\", a team ready to block their own origin IP, and the three questions",
+    "link": "https://dev.to/daanial/weve-been-hacked-no-that-is-cloudflare-reading-edge-traffic-before-you-blame-the-vm-1kff",
     "topic": "general"
   },
   {
-    "title": "CVE-2026-97631: A 16-Year-Old Buffer Overflow That Runs Before Your Defenses Do",
-    "desc": "<p>Your server's security model has a load-bearing assumption buried in it: the code that runs first is trustworthy. Secure Boot, the TPM, d",
-    "link": "https://dev.to/damiano_builds/cve-2026-97631-a-16-year-old-buffer-overflow-that-runs-before-your-defenses-do-5gmd",
+    "title": "Automating Infrastructure Drift Remediation in 2026: AI-Driven OpenTofu Pipelines",
+    "desc": "<p>In modern high-scale multi-cloud deployments across US, UK, and EU enterprise ecosystems, <strong>Infrastructure as Code (IaC) drift</str",
+    "link": "https://dev.to/aidevtoolkit/automating-infrastructure-drift-remediation-in-2026-ai-driven-opentofu-pipelines-4ofp",
     "topic": "general"
-  },
-  {
-    "title": "Building Reliable AI Agents: How I Fixed JSON Hallucinations in Tool Calling",
-    "desc": "<p>If you've built an AI Agent that uses external tools, you know the pain. You define a strict JSON schema for your tool, send the prompt, ",
-    "link": "https://dev.to/4sapi/building-reliable-ai-agents-how-i-fixed-json-hallucinations-in-tool-calling-1g7c",
-    "topic": "general"
-  },
-  {
-    "title": "I locked the door my deploy knocked on",
-    "desc": "<p><strong>What this is about.</strong> I asked my AI for a full maintenance audit of my CMS, and we spent an afternoon closing what it foun",
-    "link": "https://dev.to/tdude/i-locked-the-door-my-deploy-knocked-on-1jm3",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes - Automated Dependency Updates with Renovate",
-    "desc": "<p>This post is part of our ongoing series of posts for Kubernetes. In this post, we will automate dependency updates for our GitOps reposit",
-    "link": "https://dev.to/kiriapurv/kubernetes-automated-dependency-updates-with-renovate-183d",
-    "topic": "kubernetes"
   }
 ]

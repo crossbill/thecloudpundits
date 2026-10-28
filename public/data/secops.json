@@ -1,5 +1,35 @@
 [
   {
+    "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+    "desc": "<p>Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+    "topic": "secops"
+  },
+  {
+    "title": "Upwind\u00a0Security Raises\u00a0$400 Million at\u00a0$3.8 Billion Valuation",
+    "desc": "<p>The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, in",
+    "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+    "topic": "secops"
+  },
+  {
+    "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
+    "desc": "<p>The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches.</p>\n<p>The post <a href=\"https://www.sec",
+    "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
+    "desc": "<p>FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers.</p>\n",
+    "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+    "topic": "aws"
+  },
+  {
+    "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
+    "desc": "<p>The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+    "topic": "general"
+  },
+  {
     "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
     "desc": "<p>Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs.</p>\n<p>",
     "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
@@ -16,35 +46,5 @@
     "desc": "<p>The company will use the Series B funds to expand its platform for securing AI agents\u2019 access to sensitive systems.</p>\n<p>The post <a hr",
     "link": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
     "topic": "general"
-  },
-  {
-    "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
-    "desc": "<p>CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www",
-    "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
-    "topic": "secops"
-  },
-  {
-    "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
-    "desc": "<p>CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit.</p>\n",
-    "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
-    "topic": "secops"
-  },
-  {
-    "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of \u2018Tailworm\u2019 Flaws",
-    "desc": "<p>Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released.</p",
-    "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
-    "topic": "aws"
-  },
-  {
-    "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
-    "desc": "<p>A leaked SquareML access key could have been used to access a database containing personal and health information.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
-    "topic": "general"
-  },
-  {
-    "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
-    "desc": "<p>Eight max-severity security defects could lead to remote code execution and authentication bypass.</p>\n<p>The post <a href=\"https://www.s",
-    "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
-    "topic": "aws"
   }
 ]
