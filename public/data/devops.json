@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why your monitor says a crash-looping Docker container is up, and how to catch it",
-    "desc": "<p>A container that crashes every few seconds can sit behind a green uptime check for hours. This post is about why that happens and the fre",
-    "link": "https://dev.to/s8kur/why-your-monitor-says-a-crash-looping-docker-container-is-up-and-how-to-catch-it-290c",
-    "topic": "docker"
-  },
-  {
-    "title": "Best AI Code Review Tools by False Positive Rate (2026): What the Benchmarks Actually Show",
-    "desc": "<p>I design review pipelines, and every vendor I talk to quotes a false positive number. None of them agree, because each 2026 benchmark def",
-    "link": "https://dev.to/dev_barron/best-ai-code-review-tools-by-false-positive-rate-what-the-benchmarks-actually-show-2e8l",
+    "title": "Install AEGIS on a fresh Ubuntu VPS and run your first approved task",
+    "desc": "<p>Disclosure: 100monkeys.ai builds AEGIS, so read this guide as a maker's account. It was drafted by one of our AI agents from the public A",
+    "link": "https://dev.to/jeshuabenjoseph/install-aegis-on-a-fresh-ubuntu-vps-and-run-your-first-approved-task-1iga",
     "topic": "general"
   },
   {
-    "title": "Best AI Code Review Tools for Air-Gapped and Self-Hosted Environments (2026)",
-    "desc": "<p>Air-gapped AI code review means the whole review, model calls included, runs with nothing crossing your network boundary. I design review",
-    "link": "https://dev.to/dev_barron/best-ai-code-review-tools-for-air-gapped-and-self-hosted-environments-j6c",
+    "title": "Routing OpenAI\u2019s Swarm Framework & Multi-Agent Handoffs to Human Sales Teams in Real Time",
+    "desc": "<h2>\n  \n  \n  Executive Summary\n</h2>\n\n<p>Multi-agent AI systems are increasingly used for lead qualification and top-of-funnel discovery. Op",
+    "link": "https://dev.to/instachime/routing-openais-swarm-framework-multi-agent-handoffs-to-human-sales-teams-in-real-time-1lhf",
+    "topic": "openai"
+  },
+  {
+    "title": "Blue-Green vs. Canary vs. Rolling Deployments: $460 Million in 45 Minutes and 8.5 Million Machines at Once",
+    "desc": "<h2>\n  \n  \n  Blue-Green vs. Canary vs. Rolling Deployments: $460 Million in 45 Minutes and 8.5 Million Machines at Once\n</h2>\n\n<p>On August ",
+    "link": "https://dev.to/ciphemic_academia_3dad1a0/blue-green-vs-canary-vs-rolling-deployments-460-million-in-45-minutes-and-85-million-machines-eod",
     "topic": "general"
   },
   {
-    "title": "Bitbucket AI Code Review: 3 Things I Didn't Expect",
-    "desc": "<p>I expected Bitbucket AI code review to copy the GitHub story, and I hit three surprises instead. The first covers Bitbucket Data Center, ",
-    "link": "https://dev.to/uss/bitbucket-ai-code-review-3-things-i-didnt-expect-34im",
+    "title": "Top 5 Dev Tools & Tutorials This Week (October 29, 2026)",
+    "desc": "<h2>\n  \n  \n  1. Azure AI Foundry's New AI Model Marketplace\n</h2>\n\n<h3>\n  \n  \n  What it is:\n</h3>\n\n<p>Azure AI Foundry has launched a centra",
+    "link": "https://dev.to/karleeov/top-5-dev-tools-tutorials-this-week-october-29-2026-2di6",
     "topic": "general"
   },
   {
-    "title": "Run a Telegram Bot 24/7 on a VPS: Python, systemd and Auto-Restart",
-    "desc": "<p><em>Disclosure: I run Buran.host, a small VPS reseller, so that is the example I use. The steps work on any Ubuntu 22.04 or 24.04 VPS.</e",
-    "link": "https://dev.to/buran_host/run-a-telegram-bot-247-on-a-vps-python-systemd-and-auto-restart-4l7g",
+    "title": "Moving a side project to Cloud Run: the deploy pipeline I ended up with",
+    "desc": "<p>I moved a small side project from a single VM to Cloud Run mostly because I was tired of patching the box. This is the deploy pipeline I ",
+    "link": "https://dev.to/wired_fisher/moving-a-side-project-to-cloud-run-the-deploy-pipeline-i-ended-up-with-3b0g",
     "topic": "general"
   },
   {
-    "title": "Amazon ECS Gateway: managed, shared ingress for ECS services (and the traps to avoid)",
-    "desc": "<p><em>Originally published in Spanish on <a href=\"https://blog.cloudacademy.ar/amazon-ecs-gateway-ingress-administrado-alb-compartido/\" rel",
-    "link": "https://dev.to/matias_martinez_185d9e0ee/amazon-ecs-gateway-managed-shared-ingress-for-ecs-services-and-the-traps-to-avoid-4gkj",
+    "title": "Cloud Run cold starts: what I measured and what I changed",
+    "desc": "<p>We moved a small API to Cloud Run and immediately started getting complaints about the first request of the day being slow. So I spent a ",
+    "link": "https://dev.to/harper_ships/cloud-run-cold-starts-what-i-measured-and-what-i-changed-573",
     "topic": "general"
   },
   {
-    "title": "\u30de\u30a4\u30b0\u30ec\u30fc\u30b7\u30e7\u30f3PR\u309210\u5206\u3067\u30ec\u30d3\u30e5\u30fc\u3059\u308b\u30c1\u30a7\u30c3\u30af\u30ea\u30b9\u30c8",
-    "desc": "<h1>\n  \n  \n  \u30de\u30a4\u30b0\u30ec\u30fc\u30b7\u30e7\u30f3PR\u309210\u5206\u3067\u30ec\u30d3\u30e5\u30fc\u3059\u308b\u30c1\u30a7\u30c3\u30af\u30ea\u30b9\u30c8\n</h1>\n\n<p>\u30de\u30a4\u30b0\u30ec\u30fc\u30b7\u30e7\u30f3\u306e\u30ec\u30d3\u30e5\u30fc\u3067\u4e00\u756a\u5371\u306a\u3044\u306e\u306f\u3001SQL\u304c\u300c\u8aad\u3081\u308b\u300d\u3053\u3068\u3060\u3002\u8aad\u3081\u308b\u304b\u3089\u3001\u3064\u3044\u76ee\u3067\u8ffd\u3063\u3066\u627f\u8a8d\u3057\u3066\u3057\u307e\u3046\u3002\u3060\u304c\u672c\u756a\u3092\u58ca\u3059\u30d1\u30bf\u30fc\u30f3\u306e\u5927\u534a\u306f\u3001\u76ee\u3067\u8ffd\u3046\u306b\u306f\u5730\u5473\u3059\u304e\u308b\u3002\u3060\u304b\u3089\u30ec",
-    "link": "https://dev.to/autoaimuse/maiguresiyonprwo10fen-derebiyusurutietukurisuto-13mc",
+    "title": "What I actually use Cloud Run for (and what I don't)",
+    "desc": "<p>I've been running small services on Cloud Run for about a year now. Not a big migration story, just the honest list of where it fits and ",
+    "link": "https://dev.to/murphy_90/what-i-actually-use-cloud-run-for-and-what-i-dont-1n2j",
     "topic": "general"
   },
   {
-    "title": "Does Termius have an MCP server? (2026)",
-    "desc": "<p><strong>As of October 2026, Termius has no official MCP server</strong> \u2014 nothing built into the app, and no announcement from Termius we",
-    "link": "https://dev.to/wolfhound1995/does-termius-have-an-mcp-server-2026-50oo",
+    "title": "Built for Humans, Flooded by Agents: Why Git Infrastructure Is Being Rebuilt",
+    "desc": "<p>In May 2026, Anthropic merged around 2,500 code changes a day into its monorepo. By September, it was merging more than 30,000.</p>\n\n<p>T",
+    "link": "https://dev.to/james_anderson_h/built-for-humans-flooded-by-agents-why-git-infrastructure-is-being-rebuilt-5ccb",
     "topic": "general"
   }
 ]
