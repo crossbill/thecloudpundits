@@ -1,5 +1,29 @@
 [
   {
+    "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "topic": "general"
+  },
+  {
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "desc": "",
+    "link": "https://huggingface.co/blog/announcing-project-protostar",
+    "topic": "general"
+  },
+  {
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "desc": "",
+    "link": "https://huggingface.co/blog/mistral-large4",
+    "topic": "huggingface"
+  },
+  {
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "desc": "",
+    "link": "https://huggingface.co/blog/anydecisionmodel",
+    "topic": "general"
+  },
+  {
     "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
     "desc": "",
     "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
@@ -21,30 +45,6 @@
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "desc": "",
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "topic": "aws"
-  },
-  {
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "desc": "",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "topic": "general"
-  },
-  {
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "topic": "general"
-  },
-  {
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "desc": "",
-    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "topic": "general"
-  },
-  {
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "desc": "",
-    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "topic": "aws"
   }
 ]

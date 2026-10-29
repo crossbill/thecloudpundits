@@ -1,50 +1,50 @@
 [
   {
-    "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
-    "desc": "<p>Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+    "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
+    "desc": "<p>Google\u2019s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program.</p",
+    "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
     "topic": "secops"
   },
   {
-    "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
-    "desc": "<p>CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged.</p>\n<p>The post <a href=\"https",
-    "link": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+    "title": "How Secure Are US Elections? Voting Machine Risks and\u00a0the Growing Threat of AI",
+    "desc": "<p>Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
     "topic": "general"
   },
   {
-    "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
-    "desc": "<p>Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+    "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
+    "desc": "<p>Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions.</p",
+    "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
     "topic": "secops"
   },
   {
-    "title": "Upwind\u00a0Security Raises\u00a0$400 Million at\u00a0$3.8 Billion Valuation",
-    "desc": "<p>The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, in",
-    "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+    "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+    "desc": "<p>The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation.</p>\n<p>The post <a href=\"https://www.",
+    "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+    "desc": "<p>BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks.</p>\n",
+    "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
     "topic": "secops"
   },
   {
-    "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
-    "desc": "<p>The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches.</p>\n<p>The post <a href=\"https://www.sec",
-    "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+    "title": "Over 41,000 DHS Employee Records Leaked Online",
+    "desc": "<p>The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
     "topic": "general"
   },
   {
-    "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
-    "desc": "<p>FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers.</p>\n",
-    "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
-    "topic": "aws"
-  },
-  {
-    "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
-    "desc": "<p>The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+    "title": "Hackers Steal 2.6 Million Records From Sony\u2019s Japanese ISP So-net",
+    "desc": "<p>The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records.</p>\n<",
+    "link": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
     "topic": "general"
   },
   {
-    "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
-    "desc": "<p>Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs.</p>\n<p>",
-    "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
-    "topic": "aws"
+    "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon\u2019s \u2018Silent Train\u2019 Network",
+    "desc": "<p>Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon\u2019s Silent Train network, which Lumen detailed.</",
+    "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+    "topic": "general"
   }
 ]

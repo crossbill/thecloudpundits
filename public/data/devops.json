@@ -1,50 +1,50 @@
 [
   {
-    "title": "Ping and \"BGP up\" passed. The route leak was still there.",
-    "desc": "<p><em>2026-10-28 \u00b7 Netdryrun 0.3.1, containerlab 0.81.1, FRR 10.4.1</em></p>\n\n<p>A one-line change makes a router send its neighbor a defau",
-    "link": "https://dev.to/victorkhen/ping-and-bgp-up-passed-the-route-leak-was-still-there-5ehl",
+    "title": "Why Grace Blackwell Strands 27% of GPUs Without New Schedulers",
+    "desc": "<p>Standard Kubernetes schedulers fail catastrophically on NVIDIA Grace Blackwell GB200 NVL72 racks. Treating rack-scale unified NVLink fabr",
+    "link": "https://dev.to/hordii_bohdan/why-grace-blackwell-strands-27-of-gpus-without-new-schedulers-398p",
     "topic": "general"
   },
   {
-    "title": "Docker Is Not a Filesystem Policy: Evaluating sandbox-runtime for Local Isolation",
-    "desc": "<h1>\n  \n  \n  Docker Is Not a Filesystem Policy: Evaluating sandbox-runtime for Local Isolation\n</h1>\n\n<p>At 3:00 AM, your incident channel l",
-    "link": "https://dev.to/hannah_schmidt/docker-is-not-a-filesystem-policy-evaluating-sandbox-runtime-for-local-isolation-4nel",
-    "topic": "docker"
+    "title": "Machine-Speed Attacks Break Human-Speed Defenses: Why Zero Trust Must Be Architectural",
+    "desc": "<p>In August 2020, I sat down with Dr. Chase Cunningham\u2014widely known as \"Dr. Zero Trust,\" former NSA cryptologist and principal analyst at F",
+    "link": "https://dev.to/harpreetsahota/machine-speed-attacks-break-human-speed-defenses-why-zero-trust-must-be-architectural-5g0e",
+    "topic": "secops"
   },
   {
-    "title": "How Many Pull Requests a Merge Queue Can Land in an Hour",
-    "desc": "<blockquote>\n<p><strong>Engineer's view.</strong> This is optimistic locking under contention. Each transaction validates against everything",
-    "link": "https://dev.to/theaicommit/how-many-pull-requests-a-merge-queue-can-land-in-an-hour-4ae2",
+    "title": "Your Logs Are Prompts Now: Defending AI Agents Against Indirect Prompt Injection from Log Files",
+    "desc": "<p>Tu\u1ea7n n\u00e0y tr\u00ean Dev.to c\u00f3 b\u00e0i \"Ghost in the Shell: Can a Log File Hijack an AI?\", v\u00e0 tr\u00ean HN th\u00ec c\u00f3 v\u1ee5 chain exploit PHP2Shell chi\u1ebfm quy\u1ec1n ",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/your-logs-are-prompts-now-defending-ai-agents-against-indirect-prompt-injection-from-log-files-53oi",
+    "topic": "guardrails"
+  },
+  {
+    "title": "How to Pass a Data Center Operations Technician Interview at AWS/Google (Physical Triage Cheatsheet)",
+    "desc": "<p>When software engineers prep for interviews, they grind LeetCode. But when hardware engineers and technicians prepare for <strong>Data Ce",
+    "link": "https://dev.to/exodus611/how-to-pass-a-data-center-operations-technician-interview-at-awsgoogle-physical-triage-cheatsheet-4f8c",
+    "topic": "aws"
+  },
+  {
+    "title": "Faster Frontend Rollbacks with Versioned Builds",
+    "desc": "<p><em>How we went from \"rebuild and restart every pod\" to \"pick a build and click deploy.\"</em></p>\n\n<p>Every team ships a bad build at som",
+    "link": "https://dev.to/shashank_koppunoori/faster-frontend-rollbacks-with-versioned-builds-5bdd",
     "topic": "general"
   },
   {
-    "title": "Seven things I check before running Postgres on a server I own",
-    "desc": "<p>Self-hosting Postgres is not hard. Skipping one of these seven is.</p>\n\n<p>I build CrescoDB, a backend you deploy to a server you already",
-    "link": "https://dev.to/the_saint_dac63e343ee8704/seven-things-i-check-before-running-postgres-on-a-server-i-own-1obo",
+    "title": "Shipped: A Second Brain That Makes the First One Cheaper",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://ecupse.com/articles/secondary-agentic-ide-shipped/\" rel=\"noopener noreferrer\">ecups",
+    "link": "https://dev.to/frederick_wong_76/shipped-a-second-brain-that-makes-the-first-one-cheaper-40eo",
     "topic": "general"
   },
   {
-    "title": "The handover checklist: what you should own when a project ends",
-    "desc": "<p>The most expensive moment in a software project is often not the build. It's the day, months later, when you want to change something and",
-    "link": "https://dev.to/ahmedvaseer/the-handover-checklist-what-you-should-own-when-a-project-ends-2m6e",
-    "topic": "general"
+    "title": "We Upgraded GitLab and Were Still Vulnerable: 7 Lessons From Alpine's CVE-2026-97229 Incident",
+    "desc": "<p>Alpine Linux published a short, unusually honest incident report this week. Someone tried to exploit a critical GitLab vulnerability on t",
+    "link": "https://dev.to/lycore/we-upgraded-gitlab-and-were-still-vulnerable-7-lessons-from-alpines-cve-2026-97229-incident-4k63",
+    "topic": "secops"
   },
   {
-    "title": "How to Shrink a 2GB Docker Image with Multi-Stage Builds",
-    "desc": "<p>\"Your image is 2GB. Production pulls are timing out, registry costs are climbing, and security keeps flagging the attack surface. Fix it.",
-    "link": "https://dev.to/devopsinterview_cloud/how-to-shrink-a-2gb-docker-image-with-multi-stage-builds-4ac9",
-    "topic": "docker"
-  },
-  {
-    "title": "apt full-upgrade removes old kernels. apt-get doesn't.",
-    "desc": "<p><em>Knowing one difference between <code>apt</code> and <code>apt-get</code> stops two upgrade-day surprises: a pre-upgrade check that ra",
-    "link": "https://dev.to/vainamoinen/apt-full-upgrade-removes-old-kernels-apt-get-doesnt-mia",
-    "topic": "general"
-  },
-  {
-    "title": "How a Website Becomes Citable by Search Engines and AI Assistants",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>A citable website is a site whose pages a crawler can fetch without a login, read as text in the HTML it ",
-    "link": "https://dev.to/neticslabs/how-a-website-becomes-citable-by-search-engines-and-ai-assistants-3401",
+    "title": "Versyka is now a member of NVIDIA Inception",
+    "desc": "<p>Versyka is now a member of NVIDIA Inception.<br />\nMinor news by most standards. For a small team building this, it's a real one.</p>\n\n<h",
+    "link": "https://dev.to/getversyka/versyka-is-now-a-member-of-nvidia-inception-34lf",
     "topic": "general"
   }
 ]
