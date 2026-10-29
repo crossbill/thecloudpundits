@@ -1,50 +1,50 @@
 [
   {
-    "title": "Install AEGIS on a fresh Ubuntu VPS and run your first approved task",
-    "desc": "<p>Disclosure: 100monkeys.ai builds AEGIS, so read this guide as a maker's account. It was drafted by one of our AI agents from the public A",
-    "link": "https://dev.to/jeshuabenjoseph/install-aegis-on-a-fresh-ubuntu-vps-and-run-your-first-approved-task-1iga",
+    "title": "Ping and \"BGP up\" passed. The route leak was still there.",
+    "desc": "<p><em>2026-10-28 \u00b7 Netdryrun 0.3.1, containerlab 0.81.1, FRR 10.4.1</em></p>\n\n<p>A one-line change makes a router send its neighbor a defau",
+    "link": "https://dev.to/victorkhen/ping-and-bgp-up-passed-the-route-leak-was-still-there-5ehl",
     "topic": "general"
   },
   {
-    "title": "Routing OpenAI\u2019s Swarm Framework & Multi-Agent Handoffs to Human Sales Teams in Real Time",
-    "desc": "<h2>\n  \n  \n  Executive Summary\n</h2>\n\n<p>Multi-agent AI systems are increasingly used for lead qualification and top-of-funnel discovery. Op",
-    "link": "https://dev.to/instachime/routing-openais-swarm-framework-multi-agent-handoffs-to-human-sales-teams-in-real-time-1lhf",
-    "topic": "openai"
+    "title": "Docker Is Not a Filesystem Policy: Evaluating sandbox-runtime for Local Isolation",
+    "desc": "<h1>\n  \n  \n  Docker Is Not a Filesystem Policy: Evaluating sandbox-runtime for Local Isolation\n</h1>\n\n<p>At 3:00 AM, your incident channel l",
+    "link": "https://dev.to/hannah_schmidt/docker-is-not-a-filesystem-policy-evaluating-sandbox-runtime-for-local-isolation-4nel",
+    "topic": "docker"
   },
   {
-    "title": "Blue-Green vs. Canary vs. Rolling Deployments: $460 Million in 45 Minutes and 8.5 Million Machines at Once",
-    "desc": "<h2>\n  \n  \n  Blue-Green vs. Canary vs. Rolling Deployments: $460 Million in 45 Minutes and 8.5 Million Machines at Once\n</h2>\n\n<p>On August ",
-    "link": "https://dev.to/ciphemic_academia_3dad1a0/blue-green-vs-canary-vs-rolling-deployments-460-million-in-45-minutes-and-85-million-machines-eod",
+    "title": "How Many Pull Requests a Merge Queue Can Land in an Hour",
+    "desc": "<blockquote>\n<p><strong>Engineer's view.</strong> This is optimistic locking under contention. Each transaction validates against everything",
+    "link": "https://dev.to/theaicommit/how-many-pull-requests-a-merge-queue-can-land-in-an-hour-4ae2",
     "topic": "general"
   },
   {
-    "title": "Top 5 Dev Tools & Tutorials This Week (October 29, 2026)",
-    "desc": "<h2>\n  \n  \n  1. Azure AI Foundry's New AI Model Marketplace\n</h2>\n\n<h3>\n  \n  \n  What it is:\n</h3>\n\n<p>Azure AI Foundry has launched a centra",
-    "link": "https://dev.to/karleeov/top-5-dev-tools-tutorials-this-week-october-29-2026-2di6",
+    "title": "Seven things I check before running Postgres on a server I own",
+    "desc": "<p>Self-hosting Postgres is not hard. Skipping one of these seven is.</p>\n\n<p>I build CrescoDB, a backend you deploy to a server you already",
+    "link": "https://dev.to/the_saint_dac63e343ee8704/seven-things-i-check-before-running-postgres-on-a-server-i-own-1obo",
     "topic": "general"
   },
   {
-    "title": "Moving a side project to Cloud Run: the deploy pipeline I ended up with",
-    "desc": "<p>I moved a small side project from a single VM to Cloud Run mostly because I was tired of patching the box. This is the deploy pipeline I ",
-    "link": "https://dev.to/wired_fisher/moving-a-side-project-to-cloud-run-the-deploy-pipeline-i-ended-up-with-3b0g",
+    "title": "The handover checklist: what you should own when a project ends",
+    "desc": "<p>The most expensive moment in a software project is often not the build. It's the day, months later, when you want to change something and",
+    "link": "https://dev.to/ahmedvaseer/the-handover-checklist-what-you-should-own-when-a-project-ends-2m6e",
     "topic": "general"
   },
   {
-    "title": "Cloud Run cold starts: what I measured and what I changed",
-    "desc": "<p>We moved a small API to Cloud Run and immediately started getting complaints about the first request of the day being slow. So I spent a ",
-    "link": "https://dev.to/harper_ships/cloud-run-cold-starts-what-i-measured-and-what-i-changed-573",
+    "title": "How to Shrink a 2GB Docker Image with Multi-Stage Builds",
+    "desc": "<p>\"Your image is 2GB. Production pulls are timing out, registry costs are climbing, and security keeps flagging the attack surface. Fix it.",
+    "link": "https://dev.to/devopsinterview_cloud/how-to-shrink-a-2gb-docker-image-with-multi-stage-builds-4ac9",
+    "topic": "docker"
+  },
+  {
+    "title": "apt full-upgrade removes old kernels. apt-get doesn't.",
+    "desc": "<p><em>Knowing one difference between <code>apt</code> and <code>apt-get</code> stops two upgrade-day surprises: a pre-upgrade check that ra",
+    "link": "https://dev.to/vainamoinen/apt-full-upgrade-removes-old-kernels-apt-get-doesnt-mia",
     "topic": "general"
   },
   {
-    "title": "What I actually use Cloud Run for (and what I don't)",
-    "desc": "<p>I've been running small services on Cloud Run for about a year now. Not a big migration story, just the honest list of where it fits and ",
-    "link": "https://dev.to/murphy_90/what-i-actually-use-cloud-run-for-and-what-i-dont-1n2j",
-    "topic": "general"
-  },
-  {
-    "title": "Built for Humans, Flooded by Agents: Why Git Infrastructure Is Being Rebuilt",
-    "desc": "<p>In May 2026, Anthropic merged around 2,500 code changes a day into its monorepo. By September, it was merging more than 30,000.</p>\n\n<p>T",
-    "link": "https://dev.to/james_anderson_h/built-for-humans-flooded-by-agents-why-git-infrastructure-is-being-rebuilt-5ccb",
+    "title": "How a Website Becomes Citable by Search Engines and AI Assistants",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>A citable website is a site whose pages a crawler can fetch without a login, read as text in the HTML it ",
+    "link": "https://dev.to/neticslabs/how-a-website-becomes-citable-by-search-engines-and-ai-assistants-3401",
     "topic": "general"
   }
 ]
