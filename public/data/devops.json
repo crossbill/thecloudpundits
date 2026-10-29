@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Grace Blackwell Strands 27% of GPUs Without New Schedulers",
-    "desc": "<p>Standard Kubernetes schedulers fail catastrophically on NVIDIA Grace Blackwell GB200 NVL72 racks. Treating rack-scale unified NVLink fabr",
-    "link": "https://dev.to/hordii_bohdan/why-grace-blackwell-strands-27-of-gpus-without-new-schedulers-398p",
+    "title": "From a phone app to a cluster",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/eyosias_negash_8cbc103bb4/from-a-phone-app-to-a-cluster-4j8i",
     "topic": "general"
   },
   {
-    "title": "Machine-Speed Attacks Break Human-Speed Defenses: Why Zero Trust Must Be Architectural",
-    "desc": "<p>In August 2020, I sat down with Dr. Chase Cunningham\u2014widely known as \"Dr. Zero Trust,\" former NSA cryptologist and principal analyst at F",
-    "link": "https://dev.to/harpreetsahota/machine-speed-attacks-break-human-speed-defenses-why-zero-trust-must-be-architectural-5g0e",
+    "title": "Building a Declarative Homelab: Deploying Linkding & Mealie to Kubernetes with Flux CD GitOps",
+    "desc": "<blockquote>\n<p>A practical walkthrough of deploying self-hosted Linkding and Mealie on local Kubernetes using Flux CD v2, Kustomize overlay",
+    "link": "https://dev.to/alanvarghese-dev/building-a-declarative-homelab-deploying-linkding-mealie-to-kubernetes-with-flux-cd-gitops-4g63",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Logging AI Assistant Referrals in Nginx With a Few Lines of Config",
+    "desc": "<p>Marketing teams increasingly want to know how many visits come from ChatGPT, Perplexity, Gemini and Copilot. Analytics tools can show thi",
+    "link": "https://dev.to/pandawm/logging-ai-assistant-referrals-in-nginx-with-a-few-lines-of-config-57b",
+    "topic": "general"
+  },
+  {
+    "title": "cat > f && nohup sh f & starts an empty script",
+    "desc": "<p><em>One <code>&</code> at the end of an <code>&&</code> chain decides whether your remote script runs or silently does nothing. Below: a ",
+    "link": "https://dev.to/vainamoinen/cat-f-nohup-sh-f-starts-an-empty-script-j60",
+    "topic": "general"
+  },
+  {
+    "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google\u00a0Cloud",
+    "desc": "<p>Using static Service Account (SA) keys in CI/CD pipelines has long been a common method for authenticating to Google Cloud Platform (GCP)",
+    "link": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1",
     "topic": "secops"
   },
   {
-    "title": "Your Logs Are Prompts Now: Defending AI Agents Against Indirect Prompt Injection from Log Files",
-    "desc": "<p>Tu\u1ea7n n\u00e0y tr\u00ean Dev.to c\u00f3 b\u00e0i \"Ghost in the Shell: Can a Log File Hijack an AI?\", v\u00e0 tr\u00ean HN th\u00ec c\u00f3 v\u1ee5 chain exploit PHP2Shell chi\u1ebfm quy\u1ec1n ",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/your-logs-are-prompts-now-defending-ai-agents-against-indirect-prompt-injection-from-log-files-53oi",
-    "topic": "guardrails"
-  },
-  {
-    "title": "How to Pass a Data Center Operations Technician Interview at AWS/Google (Physical Triage Cheatsheet)",
-    "desc": "<p>When software engineers prep for interviews, they grind LeetCode. But when hardware engineers and technicians prepare for <strong>Data Ce",
-    "link": "https://dev.to/exodus611/how-to-pass-a-data-center-operations-technician-interview-at-awsgoogle-physical-triage-cheatsheet-4f8c",
-    "topic": "aws"
-  },
-  {
-    "title": "Faster Frontend Rollbacks with Versioned Builds",
-    "desc": "<p><em>How we went from \"rebuild and restart every pod\" to \"pick a build and click deploy.\"</em></p>\n\n<p>Every team ships a bad build at som",
-    "link": "https://dev.to/shashank_koppunoori/faster-frontend-rollbacks-with-versioned-builds-5bdd",
+    "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-ecs-gpu-sharing-nvidia-mps/?utm_source=devto&utm_medium",
+    "link": "https://dev.to/pklavc/amazon-ecs-now-supports-gpu-sharing-with-nvidia-multi-process-service-mps-3g9m",
     "topic": "general"
   },
   {
-    "title": "Shipped: A Second Brain That Makes the First One Cheaper",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://ecupse.com/articles/secondary-agentic-ide-shipped/\" rel=\"noopener noreferrer\">ecups",
-    "link": "https://dev.to/frederick_wong_76/shipped-a-second-brain-that-makes-the-first-one-cheaper-40eo",
-    "topic": "general"
+    "title": "Control Cloud in 60 seconds: one live map of your clouds, checked before terraform plan",
+    "desc": "<p>How many consoles do you open to know what is actually running right now? Three clouds, an on-prem rack, and the Terraform state that was",
+    "link": "https://dev.to/gonzalogjuka/control-cloud-in-60-seconds-one-live-map-of-your-clouds-checked-before-terraform-plan-37hm",
+    "topic": "terraform"
   },
   {
-    "title": "We Upgraded GitLab and Were Still Vulnerable: 7 Lessons From Alpine's CVE-2026-97229 Incident",
-    "desc": "<p>Alpine Linux published a short, unusually honest incident report this week. Someone tried to exploit a critical GitLab vulnerability on t",
-    "link": "https://dev.to/lycore/we-upgraded-gitlab-and-were-still-vulnerable-7-lessons-from-alpines-cve-2026-97229-incident-4k63",
-    "topic": "secops"
-  },
-  {
-    "title": "Versyka is now a member of NVIDIA Inception",
-    "desc": "<p>Versyka is now a member of NVIDIA Inception.<br />\nMinor news by most standards. For a small team building this, it's a real one.</p>\n\n<h",
-    "link": "https://dev.to/getversyka/versyka-is-now-a-member-of-nvidia-inception-34lf",
+    "title": "What Happens When Prometheus Goes Down? Monitoring the Monitoring System",
+    "desc": "<p>Prometheus is one of the most widely used tools for monitoring Kubernetes environments. It collects metrics, evaluates alerting rules, an",
+    "link": "https://dev.to/amira_abidi/what-happens-when-prometheus-goes-down-monitoring-the-monitoring-system-5dkf",
     "topic": "general"
   }
 ]
