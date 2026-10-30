@@ -1,50 +1,50 @@
 [
   {
-    "title": "WireGuard Key Rotation Checklist for Multi-Peer Setups",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/10/30/wireguard-key-rotation-checklist-for-multi-peer-setups\" rel=\"noope",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/wireguard-key-rotation-checklist-for-multi-peer-setups-4535",
+    "title": "How to Choose a Staff Augmentation Company: A CTO's Guide",
+    "desc": "<p><em>This guide was written by <a href=\"https://meteorops.com/team/michael-zion\" rel=\"noopener noreferrer\">Michael Zion</a>, CEO at Meteor",
+    "link": "https://dev.to/meteorops/how-to-choose-a-staff-augmentation-company-a-ctos-guide-1825",
     "topic": "general"
   },
   {
-    "title": "Choosing a Requirements Management Tool for Change Control",
-    "desc": "<p>A requirement changes after design and test work has started. If reviewers cannot see what changed, who approved it, or which verificatio",
-    "link": "https://dev.to/jakubgalczyk/choosing-a-requirements-management-tool-for-change-control-33ma",
+    "title": "GitOps vs Traditional CI/CD in 2026: Differences, Examples, and Which One to Choose",
+    "desc": "<p><em>By DevOps Enginer \u2013 Cloud-Native Series \u00b7 Updated for 2026</em></p>\n\n<p><strong>Quick answer:</strong> Traditional CI/CD <em>pushes</",
+    "link": "https://dev.to/softverseadmin/gitops-vs-traditional-cicd-in-2026-differences-examples-and-which-one-to-choose-i9e",
     "topic": "general"
   },
   {
-    "title": "Using strace to Debug Linux System Call Errors: Permission Denied and EADDRINUSE",
-    "desc": "<p><em>Originally published on <a href=\"https://codebeneath.com/recommendedTools/linux-strace-debug-system-call-errors.html\" rel=\"noopener n",
-    "link": "https://dev.to/bar_dror_a3d32cb94b1/using-strace-to-debug-linux-system-call-errors-permission-denied-and-eaddrinuse-3ckj",
+    "title": "How to Become a DevOps Engineer in Japan in 2026: Routes, Japanese, Skills & Hiring",
+    "desc": "<p><em>By DevOps Enginer \u00b7 Updated for 2026</em></p>\n\n<p>If you search for \u201cDevOps jobs in Japan,\u201d you will quickly find four separate conve",
+    "link": "https://dev.to/softverseadmin/how-to-become-a-devops-engineer-in-japan-in-2026-routes-japanese-skills-hiring-32ba",
     "topic": "general"
   },
   {
-    "title": "Moving a production API to Hetzner, part 3: migrating data and cutting over",
-    "desc": "<p>The new server is hardened and running Docker (<a href=\"https://dev.to/ajitkumar/moving-a-production-api-to-hetzner-part-2-hardening-and-",
-    "link": "https://dev.to/ajitkumar/moving-a-production-api-to-hetzner-part-3-migrating-data-and-cutting-over-33fd",
+    "title": "The Platform Island: Why Nobody Deploys on Our Internal Developer Platform",
+    "desc": "<p>Every second company has one. Most have invested six figures. And in almost every case, the most used feature is the password reset link.",
+    "link": "https://dev.to/saaro_net/the-platform-island-why-nobody-deploys-on-our-internal-developer-platform-437f",
     "topic": "general"
   },
   {
-    "title": "AI Ready Infrastructure: What Enterprises Actually Need Before Buying GPUs",
-    "desc": "<p>Many organisations begin an AI project by pricing accelerators and only later discover that the rest of the building cannot support them.",
-    "link": "https://dev.to/andruezaco_970050efb19f6a/ai-ready-infrastructure-what-enterprises-actually-need-before-buying-gpus-1j1d",
+    "title": "Top 10 DevOps Tools in 2026: The Stack I Actually Use, and What to Skip",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>This list is deliberately narrow: every tool on it is one I have used in real work or i",
+    "link": "https://dev.to/softverseadmin/top-10-devops-tools-in-2026-the-stack-i-actually-use-and-what-to-skip-5eej",
     "topic": "general"
   },
   {
-    "title": "Claude Code in GitHub Actions: a team setup that stays under control",
-    "desc": "<p>Claude Code on a laptop helps one developer. Claude Code in GitHub Actions helps the whole team at once: anyone with write access can men",
-    "link": "https://dev.to/aiworkspacebuilder/claude-code-in-github-actions-a-team-setup-that-stays-under-control-2mon",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Mirror Failover: When Your \"Redundant\" Setup Isn't Actually Redundant",
-    "desc": "<h1>\n  \n  \n  Mirror Failover: When Your \"Redundant\" Setup Isn't Actually Redundant\n</h1>\n\n<p>I've spent the last decade running storage syst",
-    "link": "https://dev.to/street_foodchinese_57726/mirror-failover-when-your-redundant-setup-isnt-actually-redundant-4n59",
+    "title": "AI for DevOps in 2026: Practical Use Cases, Tools & a Hands-On Example",
+    "desc": "<blockquote>\n<p><strong>TL;DR / Quick answer</strong><br />\nAI is genuinely useful in DevOps today for <em>reading and writing work</em>: su",
+    "link": "https://dev.to/softverseadmin/ai-for-devops-in-2026-practical-use-cases-tools-a-hands-on-example-10i7",
     "topic": "general"
   },
   {
-    "title": "Lumen and Emerald AI explore routing inference around power constraints",
-    "desc": "<p>Lumen and Emerald AI are exploring a pilot that would make electricity availability part of the decision about where AI inference runs. T",
-    "link": "https://dev.to/da-li-at-pl/lumen-and-emerald-ai-explore-routing-inference-around-power-constraints-2g7h",
+    "title": "OpenShift Pipelines (Tekton): From a Monolithic Jenkinsfile to Reusable Tasks",
+    "desc": "<p>Most teams that adopt OpenShift arrive with luggage: a <code>Jenkinsfile</code> that started at 60 lines and now weighs 800, with nested ",
+    "link": "https://dev.to/florient_4262fab5463a691/openshift-pipelines-tekton-from-a-monolithic-jenkinsfile-to-reusable-tasks-1j7c",
+    "topic": "general"
+  },
+  {
+    "title": "Your Laravel queue workers keep 8 copies of your app in memory",
+    "desc": "<p>I kept adding Horizon workers to a 2 GB Laravel Cloud box until memory was at about 90%. I got to 27.</p>\n\n<p>Then I made the workers sha",
+    "link": "https://dev.to/tevkert/your-laravel-queue-workers-keep-8-copies-of-your-app-in-memory-g4d",
     "topic": "general"
   }
 ]
