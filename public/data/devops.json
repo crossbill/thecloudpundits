@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Choose a Staff Augmentation Company: A CTO's Guide",
-    "desc": "<p><em>This guide was written by <a href=\"https://meteorops.com/team/michael-zion\" rel=\"noopener noreferrer\">Michael Zion</a>, CEO at Meteor",
-    "link": "https://dev.to/meteorops/how-to-choose-a-staff-augmentation-company-a-ctos-guide-1825",
+    "title": "youtube_transcript_api works on my laptop but fails on AWS: a checklist",
+    "desc": "<p>If <code>youtube_transcript_api</code> runs fine locally and starts failing the moment you deploy, it is tempting to blame IP blocking st",
+    "link": "https://dev.to/transcriptfetch/youtubetranscriptapi-works-on-my-laptop-but-fails-on-aws-a-checklist-k6l",
+    "topic": "aws"
+  },
+  {
+    "title": "A pruning rule put my renamed page in noindex: it measured the new URL, the history was on the old one",
+    "desc": "<p>Two weeks ago I renamed 42 article URLs on a small VPN review site. An affiliate network's brand rules forbid using the partner's tradema",
+    "link": "https://dev.to/ricco020/a-pruning-rule-put-my-renamed-page-in-noindex-it-measured-the-new-url-the-history-was-on-the-old-371h",
     "topic": "general"
   },
   {
-    "title": "GitOps vs Traditional CI/CD in 2026: Differences, Examples, and Which One to Choose",
-    "desc": "<p><em>By DevOps Enginer \u2013 Cloud-Native Series \u00b7 Updated for 2026</em></p>\n\n<p><strong>Quick answer:</strong> Traditional CI/CD <em>pushes</",
-    "link": "https://dev.to/softverseadmin/gitops-vs-traditional-cicd-in-2026-differences-examples-and-which-one-to-choose-i9e",
+    "title": "Deploying Terraform to AWS with GitHub Actions and OIDC",
+    "desc": "<p>Automating infrastructure changes saves repetitive work, but you still need control over what gets deployed and who can deploy it.</p>\n\n<",
+    "link": "https://dev.to/turingts/deploying-terraform-to-aws-with-github-actions-and-oidc-2gnc",
+    "topic": "aws"
+  },
+  {
+    "title": "Building a DevOps Support-Ticket Platform, Part 1: Ubuntu on AWS EC2",
+    "desc": "<p>I'm starting a hands-on DevOps project around a support-ticket application. The application will grow through Linux hosting, containers, ",
+    "link": "https://dev.to/robinsishodia/building-a-devops-support-ticket-platform-part-1-ubuntu-on-aws-ec2-36f5",
+    "topic": "aws"
+  },
+  {
+    "title": "Business Central Without the Grind: When You Can Tell Claude What You Want",
+    "desc": "<blockquote>\n<p><em>Nexus Claude: I can write code. What you want, I don't know until you explain it to me.</em></p>\n</blockquote>\n\n<h2>\n  \n",
+    "link": "https://dev.to/stackcollider/business-central-without-the-grind-when-you-can-tell-claude-what-you-want-1o2c",
+    "topic": "anthropic"
+  },
+  {
+    "title": "S3 Glacier Restore Is Not a Storage-Class Migration",
+    "desc": "<p>Amazon S3 offers different storage classes to help reduce storage costs. One of them is S3 Glacier, designed for storing data that you ra",
+    "link": "https://dev.to/nishikantaray/s3-glacier-restore-is-not-a-storage-class-migration-3ffo",
     "topic": "general"
   },
   {
-    "title": "How to Become a DevOps Engineer in Japan in 2026: Routes, Japanese, Skills & Hiring",
-    "desc": "<p><em>By DevOps Enginer \u00b7 Updated for 2026</em></p>\n\n<p>If you search for \u201cDevOps jobs in Japan,\u201d you will quickly find four separate conve",
-    "link": "https://dev.to/softverseadmin/how-to-become-a-devops-engineer-in-japan-in-2026-routes-japanese-skills-hiring-32ba",
-    "topic": "general"
+    "title": "Binance's $6.3B breach started on one DevOps laptop: what developers should take from it",
+    "desc": "<p>On the evening of 29 October (UTC), about $6.3 billion in cryptocurrency left Binance's hot wallets in minutes. By the next day the excha",
+    "link": "https://dev.to/suraj_nandan/binances-63b-breach-started-on-one-devops-laptop-what-developers-should-take-from-it-4073",
+    "topic": "secops"
   },
   {
-    "title": "The Platform Island: Why Nobody Deploys on Our Internal Developer Platform",
-    "desc": "<p>Every second company has one. Most have invested six figures. And in almost every case, the most used feature is the password reset link.",
-    "link": "https://dev.to/saaro_net/the-platform-island-why-nobody-deploys-on-our-internal-developer-platform-437f",
-    "topic": "general"
-  },
-  {
-    "title": "Top 10 DevOps Tools in 2026: The Stack I Actually Use, and What to Skip",
-    "desc": "<blockquote>\n<p><strong>TL;DR</strong></p>\n\n<ul>\n<li>This list is deliberately narrow: every tool on it is one I have used in real work or i",
-    "link": "https://dev.to/softverseadmin/top-10-devops-tools-in-2026-the-stack-i-actually-use-and-what-to-skip-5eej",
-    "topic": "general"
-  },
-  {
-    "title": "AI for DevOps in 2026: Practical Use Cases, Tools & a Hands-On Example",
-    "desc": "<blockquote>\n<p><strong>TL;DR / Quick answer</strong><br />\nAI is genuinely useful in DevOps today for <em>reading and writing work</em>: su",
-    "link": "https://dev.to/softverseadmin/ai-for-devops-in-2026-practical-use-cases-tools-a-hands-on-example-10i7",
-    "topic": "general"
-  },
-  {
-    "title": "OpenShift Pipelines (Tekton): From a Monolithic Jenkinsfile to Reusable Tasks",
-    "desc": "<p>Most teams that adopt OpenShift arrive with luggage: a <code>Jenkinsfile</code> that started at 60 lines and now weighs 800, with nested ",
-    "link": "https://dev.to/florient_4262fab5463a691/openshift-pipelines-tekton-from-a-monolithic-jenkinsfile-to-reusable-tasks-1j7c",
-    "topic": "general"
-  },
-  {
-    "title": "Your Laravel queue workers keep 8 copies of your app in memory",
-    "desc": "<p>I kept adding Horizon workers to a 2 GB Laravel Cloud box until memory was at about 90%. I got to 27.</p>\n\n<p>Then I made the workers sha",
-    "link": "https://dev.to/tevkert/your-laravel-queue-workers-keep-8-copies-of-your-app-in-memory-g4d",
-    "topic": "general"
+    "title": "How to Learn Kubernetes (Without Drowning in YAML)",
+    "desc": "<p>The first Kubernetes tutorial I tried handed me a 140-line YAML file and told me to <code>kubectl apply</code> it. Something called a Dep",
+    "link": "https://dev.to/spartanrich430/how-to-learn-kubernetes-without-drowning-in-yaml-245c",
+    "topic": "kubernetes"
   }
 ]
