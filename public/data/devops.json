@@ -1,50 +1,50 @@
 [
   {
-    "title": "From a phone app to a cluster",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/eyosias_negash_8cbc103bb4/from-a-phone-app-to-a-cluster-4j8i",
-    "topic": "general"
+    "title": "Split a long CLAUDE.md into small files with @ imports",
+    "desc": "<p>A <code>CLAUDE.md</code> tends to grow. Build commands, code style, testing rules, release steps, and soon it's 200 lines that Claude Cod",
+    "link": "https://dev.to/vildandenai/split-a-long-claudemd-into-small-files-with-imports-419o",
+    "topic": "anthropic"
   },
   {
-    "title": "Building a Declarative Homelab: Deploying Linkding & Mealie to Kubernetes with Flux CD GitOps",
-    "desc": "<blockquote>\n<p>A practical walkthrough of deploying self-hosted Linkding and Mealie on local Kubernetes using Flux CD v2, Kustomize overlay",
-    "link": "https://dev.to/alanvarghese-dev/building-a-declarative-homelab-deploying-linkding-mealie-to-kubernetes-with-flux-cd-gitops-4g63",
+    "title": "Nobody knew which server the app was on. Kubernetes, explained with an apartment building",
+    "desc": "<blockquote>\n<p>Sources: CD's devops wiki <code>03-kubernetes/01-ecosystem-simple-explanation.md</code>, <code>02-full-overview.md</code> an",
+    "link": "https://dev.to/cdsecuritylab/nobody-knew-which-server-the-app-was-on-kubernetes-explained-with-an-apartment-building-204e",
     "topic": "kubernetes"
   },
   {
-    "title": "Logging AI Assistant Referrals in Nginx With a Few Lines of Config",
-    "desc": "<p>Marketing teams increasingly want to know how many visits come from ChatGPT, Perplexity, Gemini and Copilot. Analytics tools can show thi",
-    "link": "https://dev.to/pandawm/logging-ai-assistant-referrals-in-nginx-with-a-few-lines-of-config-57b",
-    "topic": "general"
-  },
-  {
-    "title": "cat > f && nohup sh f & starts an empty script",
-    "desc": "<p><em>One <code>&</code> at the end of an <code>&&</code> chain decides whether your remote script runs or silently does nothing. Below: a ",
-    "link": "https://dev.to/vainamoinen/cat-f-nohup-sh-f-starts-an-empty-script-j60",
-    "topic": "general"
-  },
-  {
-    "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google\u00a0Cloud",
-    "desc": "<p>Using static Service Account (SA) keys in CI/CD pipelines has long been a common method for authenticating to Google Cloud Platform (GCP)",
-    "link": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1",
+    "title": "JumpToTech DevOps Production Incident Lab #2 The Midnight Payment Processing Incident",
+    "desc": "<p>Student training handbook | 3 classes \u00d7 3 hours | AWS EKS \u00b7 Terraform \u00b7 GitHub Actions \u00b7 PostgreSQL RDS \u00b7 Prometheus \u00b7 Grafana \u00b7 PagerDut",
+    "link": "https://dev.to/jumptotech/jumptotech-devops-production-incident-lab-2-the-midnight-payment-processing-incident-575m",
     "topic": "secops"
   },
   {
-    "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-ecs-gpu-sharing-nvidia-mps/?utm_source=devto&utm_medium",
-    "link": "https://dev.to/pklavc/amazon-ecs-now-supports-gpu-sharing-with-nvidia-multi-process-service-mps-3g9m",
+    "title": "Let's Encrypt Pindah ke 64 Hari. Saya Cek 520 Situs .id: 3 dari 4 Situs go.id Masih Pakai Sertifikat Berumur Panjang",
+    "desc": "<p><em>Versi bahasa Inggris dengan metodologi lengkap: <a href=\"https://www.kielltampubolon.id/writing/lets-encrypt-is-going-to-64-days-i-ch",
+    "link": "https://dev.to/kielltampubolon/lets-encrypt-pindah-ke-64-hari-saya-cek-520-situs-id-3-dari-4-situs-goid-masih-pakai-e3g",
     "topic": "general"
   },
   {
-    "title": "Control Cloud in 60 seconds: one live map of your clouds, checked before terraform plan",
-    "desc": "<p>How many consoles do you open to know what is actually running right now? Three clouds, an on-prem rack, and the Terraform state that was",
-    "link": "https://dev.to/gonzalogjuka/control-cloud-in-60-seconds-one-live-map-of-your-clouds-checked-before-terraform-plan-37hm",
-    "topic": "terraform"
+    "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
+    "desc": "<p>I spent three months and roughly $500 on GPU hardware trying to host my own LLM. I was convinced that running an open-source model on my ",
+    "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-4l2j",
+    "topic": "general"
   },
   {
-    "title": "What Happens When Prometheus Goes Down? Monitoring the Monitoring System",
-    "desc": "<p>Prometheus is one of the most widely used tools for monitoring Kubernetes environments. It collects metrics, evaluates alerting rules, an",
-    "link": "https://dev.to/amira_abidi/what-happens-when-prometheus-goes-down-monitoring-the-monitoring-system-5dkf",
+    "title": "Building SellDaily AI: From Full-Stack Development to Docker Deployment",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Building a software application involves more than writing code. It requires identifying a problem, desi",
+    "link": "https://dev.to/azuretrailblazer/building-selldaily-ai-from-full-stack-development-to-docker-deployment-27og",
+    "topic": "docker"
+  },
+  {
+    "title": "2026 Simplest API to Integrate App Event Logging Without Advanced Setup \u2014 Media Imports",
+    "desc": "<p>The simplest event-logging API is a single structured event endpoint with a stable event name, correlation ID, timestamp, and outcome. Fo",
+    "link": "https://dev.to/hieronymusfox1257/2026-simplest-api-to-integrate-app-event-logging-without-advanced-setup-media-imports-45a7",
     "topic": "general"
+  },
+  {
+    "title": "How I Fixed NGINX 502 Bad Gateway and Tested Automatic Node.js Recovery on AWS EC2 ---",
+    "desc": "<p>One thing I am learning as I continue my DevOps journey is that deploying an application successfully is only part of the job. Understand",
+    "link": "https://dev.to/sirvickcloud9/how-i-fixed-nginx-502-bad-gateway-and-tested-automatic-nodejs-recovery-on-aws-ec2--1i69",
+    "topic": "aws"
   }
 ]
