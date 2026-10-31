@@ -1,50 +1,50 @@
 [
   {
-    "title": "youtube_transcript_api works on my laptop but fails on AWS: a checklist",
-    "desc": "<p>If <code>youtube_transcript_api</code> runs fine locally and starts failing the moment you deploy, it is tempting to blame IP blocking st",
-    "link": "https://dev.to/transcriptfetch/youtubetranscriptapi-works-on-my-laptop-but-fails-on-aws-a-checklist-k6l",
-    "topic": "aws"
-  },
-  {
-    "title": "A pruning rule put my renamed page in noindex: it measured the new URL, the history was on the old one",
-    "desc": "<p>Two weeks ago I renamed 42 article URLs on a small VPN review site. An affiliate network's brand rules forbid using the partner's tradema",
-    "link": "https://dev.to/ricco020/a-pruning-rule-put-my-renamed-page-in-noindex-it-measured-the-new-url-the-history-was-on-the-old-371h",
+    "title": "Addendum: Correg\u00ed mi propio instrumento y el n\u00famero baj\u00f3 de 807 a 612",
+    "desc": "<p>Sobre: El hackeo de $6.3B no fue un bug de c\u00f3digo (Dev.to, id 4949662, publicado 30-Oct-2026 21:58:55Z).<br />\nHuella: HUELLA-ADDENDUM-CO",
+    "link": "https://dev.to/alexisromtz7/addendum-corregi-mi-propio-instrumento-y-el-numero-bajo-de-807-a-612-5172",
     "topic": "general"
   },
   {
-    "title": "Deploying Terraform to AWS with GitHub Actions and OIDC",
-    "desc": "<p>Automating infrastructure changes saves repetitive work, but you still need control over what gets deployed and who can deploy it.</p>\n\n<",
-    "link": "https://dev.to/turingts/deploying-terraform-to-aws-with-github-actions-and-oidc-2gnc",
+    "title": "AWS ALB Idle Timeout Killed 14% of My Voice WebSockets at 60s",
+    "desc": "<p>A user emailed me a screen recording. The AI voice agent asks a hard question. The user goes quiet for about a minute to think. Then they",
+    "link": "https://dev.to/ji_ai/aws-alb-idle-timeout-killed-14-of-my-voice-websockets-at-60s-27ec",
     "topic": "aws"
   },
   {
-    "title": "Building a DevOps Support-Ticket Platform, Part 1: Ubuntu on AWS EC2",
-    "desc": "<p>I'm starting a hands-on DevOps project around a support-ticket application. The application will grow through Linux hosting, containers, ",
-    "link": "https://dev.to/robinsishodia/building-a-devops-support-ticket-platform-part-1-ubuntu-on-aws-ec2-36f5",
-    "topic": "aws"
-  },
-  {
-    "title": "Business Central Without the Grind: When You Can Tell Claude What You Want",
-    "desc": "<blockquote>\n<p><em>Nexus Claude: I can write code. What you want, I don't know until you explain it to me.</em></p>\n</blockquote>\n\n<h2>\n  \n",
-    "link": "https://dev.to/stackcollider/business-central-without-the-grind-when-you-can-tell-claude-what-you-want-1o2c",
-    "topic": "anthropic"
-  },
-  {
-    "title": "S3 Glacier Restore Is Not a Storage-Class Migration",
-    "desc": "<p>Amazon S3 offers different storage classes to help reduce storage costs. One of them is S3 Glacier, designed for storing data that you ra",
-    "link": "https://dev.to/nishikantaray/s3-glacier-restore-is-not-a-storage-class-migration-3ffo",
+    "title": "The Agent Loop Is a Runtime: Budgets, Cancellation, and Idempotency",
+    "desc": "<p>You have tool calling working. The demo terminates, the JSON parses, the model picks <code>search_flights</code> instead of <code>book_fl",
+    "link": "https://dev.to/dima_kruglov_608741d9a416/the-agent-loop-is-a-runtime-budgets-cancellation-and-idempotency-3heo",
     "topic": "general"
   },
   {
-    "title": "Binance's $6.3B breach started on one DevOps laptop: what developers should take from it",
-    "desc": "<p>On the evening of 29 October (UTC), about $6.3 billion in cryptocurrency left Binance's hot wallets in minutes. By the next day the excha",
-    "link": "https://dev.to/suraj_nandan/binances-63b-breach-started-on-one-devops-laptop-what-developers-should-take-from-it-4073",
-    "topic": "secops"
+    "title": "\"Show HN: Graphiti \u2013 LLM-Powered Temporal Knowledge Graphs\"",
+    "desc": "<p>Show HN: Graphiti \u2013 LLM-Powered Temporal Knowledge Graphs</p>\n\n<h2>\n  \n  \n  Context\n</h2>\n\n<p>Local stub generated from P2P board Approve",
+    "link": "https://dev.to/journal_ai/show-hn-graphiti-llm-powered-temporal-knowledge-graphs-22bh",
+    "topic": "general"
   },
   {
-    "title": "How to Learn Kubernetes (Without Drowning in YAML)",
-    "desc": "<p>The first Kubernetes tutorial I tried handed me a 140-line YAML file and told me to <code>kubectl apply</code> it. Something called a Dep",
-    "link": "https://dev.to/spartanrich430/how-to-learn-kubernetes-without-drowning-in-yaml-245c",
+    "title": "DevOps Lab, Part 2: Building a Linux Server Health Report with Bash and Git",
+    "desc": "<p>In <a href=\"https://dev.to/robinsishodia/building-a-devops-support-ticket-platform-part-1-ubuntu-on-aws-ec2-36f5\">Part 1</a>, I launched ",
+    "link": "https://dev.to/robinsishodia/devops-lab-part-2-building-a-linux-server-health-report-with-bash-and-git-1p3j",
+    "topic": "general"
+  },
+  {
+    "title": "Kubernetes: un presupuesto de fallos para email en CI",
+    "desc": "<p>Un pipeline de CI puede estar verde y aun as\u00ed esconder un problema serio: los emails de prueba no llegan, el worker reintenta sin l\u00edmite ",
+    "link": "https://dev.to/alexcarteruk/kubernetes-un-presupuesto-de-fallos-para-email-en-ci-3op3",
     "topic": "kubernetes"
+  },
+  {
+    "title": "Argo CD Tutorial 2026: GitOps Deployment Step by Step \u2014 Install, Sync, Rollback, and the Mistakes to Avoid",
+    "desc": "<blockquote>\n<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>\n<strong>GitOps with Argo CD means one thing:</strong> the desired state of your cluster liv",
+    "link": "https://dev.to/softverseadmin/argo-cd-tutorial-2026-gitops-deployment-step-by-step-install-sync-rollback-and-the-mistakes-2kkc",
+    "topic": "general"
+  },
+  {
+    "title": "Enterprise Architecture Modernization: Cloud DevOps, Scalable SaaS Engineering, and AI Adoption",
+    "desc": "<h1>\n  \n  \n  Enterprise Architecture Modernization: Cloud DevOps, Scalable SaaS Engineering, and AI Adoption\n</h1>\n\n<p>In an era defined by ",
+    "link": "https://dev.to/yehor_momot_6fbb7a7bf2adb/enterprise-architecture-modernization-cloud-devops-scalable-saas-engineering-and-ai-adoption-bem",
+    "topic": "general"
   }
 ]
