@@ -1,50 +1,50 @@
 [
   {
-    "title": "Building a Kubernetes GitOps Lab with Argo CD: Installation, DNS Troubleshooting and Nginx Deployment",
-    "desc": "<h1>\n  \n  \n  Installing and Configuring Argo CD on Kubernetes | GitOps Lab\n</h1>\n\n<h2>\n  \n  \n  1. Overview\n</h2>\n\n<p>In this lab, I installe",
-    "link": "https://dev.to/mhasif0786/building-a-kubernetes-gitops-lab-with-argo-cd-installation-dns-troubleshooting-and-nginx-2b51",
+    "title": "Reserved GPU Capacity Is a Hedge, Not a Discount",
+    "desc": "<blockquote>\n<p><strong>TL;DR \u2014</strong> Cloud teams treat multi-year GPU capacity commitments as a straightforward discount on compute, the",
+    "link": "https://dev.to/aiexplore369zoho/reserved-gpu-capacity-is-a-hedge-not-a-discount-4jcl",
+    "topic": "general"
+  },
+  {
+    "title": "Daily Dose of DevOps \u2014 Kubernetes networking: for resilient workloads",
+    "desc": "<h1>\n  \n  \n  Kubernetes networking: for resilient workloads\n</h1>\n\n<p>A platform capability becomes dangerous when ownership is implicit but",
+    "link": "https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-networking-for-resilient-workloads-5cd6",
     "topic": "kubernetes"
   },
   {
-    "title": "Addendum R2: La tasa que faltaba, medida sobre las dos clases que faltaban",
-    "desc": "<h1>\n  \n  \n  Addendum R2 \u2014 la tasa que faltaba, medida sobre las dos clases que faltaban\n</h1>\n\n<blockquote>\n<p><strong>Este art\u00edculo sustit",
-    "link": "https://dev.to/alexisromtz7/addendum-r2-la-tasa-que-faltaba-medida-sobre-las-dos-clases-que-faltaban-5f6h",
+    "title": "Docker Multi-Stage Builds: Small Images Without the Pain",
+    "desc": "<p>Every team has shipped a Docker image that was three times bigger than it needed to be, usually because the build tools traveled with the",
+    "link": "https://dev.to/mubashirtaj/docker-multi-stage-builds-small-images-without-the-pain-4l7d",
+    "topic": "docker"
+  },
+  {
+    "title": "Surviving Zone Capacity Is the Failover Test Most Teams Never Run",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ntctech/surviving-zone-capacity-is-the-failover-test-most-teams-never-run-gfc",
     "topic": "general"
   },
   {
-    "title": "CH-Ops Pro Scheduled Archival: Move ClickHouse\u00ae Data to S3",
-    "desc": "<h2>\n  \n  \n  Table of Contents\n</h2>\n\n<ol>\n<li>What is CH-Ops?</li>\n<li>Introducing the CH-Ops Scheduled Archival</li>\n<li>Creation of an Ar",
-    "link": "https://dev.to/kanishga_subramani_49ad73/ch-ops-pro-scheduled-archival-move-clickhouser-data-to-s3-3aco",
+    "title": "How I stopped copying EC2 instance IDs (and why my CLI refuses to guess)",
+    "desc": "<p>I work across a lot of AWS accounts. Reaching one machine used to take several steps: remember which account it lives in, find the matchi",
+    "link": "https://dev.to/morganseznec/how-i-stopped-copying-ec2-instance-ids-and-why-my-cli-refuses-to-guess-2of3",
     "topic": "general"
   },
   {
-    "title": "It's Halloween, So Here's My Field Guide to the Monsters Already Living in Your Stack",
-    "desc": "<p>Seven creatures, one per audit: the Zombie process, the Ghost cron, the Trojan paste, the Spider at the door, the Gremlin in CI, the Krak",
-    "link": "https://dev.to/dhruonweb/its-halloween-so-heres-my-field-guide-to-the-monsters-already-living-in-your-stack-5o6",
+    "title": "Agentic Workflows in Production: Routing, Memory, Human-in-the-Loop",
+    "desc": "<p>Agentic Workflows in Production in 2026: Model Routing, Memory, and the Human Loop</p>\n\n<p>An agentic workflow is a system where an LLM d",
+    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/agentic-workflows-in-production-routing-memory-human-in-the-loop-3cia",
     "topic": "general"
   },
   {
-    "title": "SaaS Backup & Disaster Recovery: RPO, RTO and PITR",
-    "desc": "<p>A nightly <code>pg_dump</code> to the same VPS is not a backup strategy. It is a file that disappears with the disk, the compromised root",
-    "link": "https://dev.to/muhammadalimughal/saas-backup-disaster-recovery-rpo-rto-and-pitr-md5",
-    "topic": "general"
+    "title": "Linux Networking Commands Cheat Sheet for Security and DevOps (2026)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/xpert4cyber-news/linux-networking-commands-cheat-sheet-for-security-and-devops-2026-1mpm",
+    "topic": "secops"
   },
   {
-    "title": "Your agent's log has 1,509 rows and zero denials. That is the problem.",
-    "desc": "<p>An agent that never refuses anything is not a working agent. It is a script with a credit card.</p>\n\n<p>I keep seeing the same artefact o",
-    "link": "https://dev.to/mrpkk/your-agents-log-has-1509-rows-and-zero-denials-that-is-the-problem-3kk4",
-    "topic": "general"
-  },
-  {
-    "title": "Run your own model endpoint on a rented GPU with vLLM: your own API key, an SSH tunnel, and an optional LoRA adapter",
-    "desc": "<p><strong>Short answer:</strong> rent a GPU with SSH access, install vLLM in a fresh Python environment, start it so it listens only on the",
-    "link": "https://dev.to/cloudgpu_app/run-your-own-model-endpoint-on-a-rented-gpu-with-vllm-your-own-api-key-an-ssh-tunnel-and-an-3h9p",
-    "topic": "general"
-  },
-  {
-    "title": "What cron expression runs every 5 minutes?",
-    "desc": "<p>A cleanup job was supposed to run every five minutes. The crontab was saved at 10:03. The log showed 10:05, then 10:10. That is not a lat",
-    "link": "https://dev.to/ameenusman/what-cron-expression-runs-every-5-minutes-1aa",
+    "title": "OpenRouter vs LiteLLM vs Portkey vs Kong: LLM Gateways in 2026",
+    "desc": "<p>LLM Gateways in 2026: OpenRouter vs LiteLLM vs Portkey vs Kong for Production Traffic</p>\n\n<p>Most AI teams hit the same wall a few month",
+    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/openrouter-vs-litellm-vs-portkey-vs-kong-llm-gateways-in-2026-24dn",
     "topic": "general"
   }
 ]
