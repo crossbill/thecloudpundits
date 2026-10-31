@@ -1,50 +1,50 @@
 [
   {
-    "title": "Addendum: Correg\u00ed mi propio instrumento y el n\u00famero baj\u00f3 de 807 a 612",
-    "desc": "<p>Sobre: El hackeo de $6.3B no fue un bug de c\u00f3digo (Dev.to, id 4949662, publicado 30-Oct-2026 21:58:55Z).<br />\nHuella: HUELLA-ADDENDUM-CO",
-    "link": "https://dev.to/alexisromtz7/addendum-corregi-mi-propio-instrumento-y-el-numero-bajo-de-807-a-612-5172",
-    "topic": "general"
-  },
-  {
-    "title": "AWS ALB Idle Timeout Killed 14% of My Voice WebSockets at 60s",
-    "desc": "<p>A user emailed me a screen recording. The AI voice agent asks a hard question. The user goes quiet for about a minute to think. Then they",
-    "link": "https://dev.to/ji_ai/aws-alb-idle-timeout-killed-14-of-my-voice-websockets-at-60s-27ec",
-    "topic": "aws"
-  },
-  {
-    "title": "The Agent Loop Is a Runtime: Budgets, Cancellation, and Idempotency",
-    "desc": "<p>You have tool calling working. The demo terminates, the JSON parses, the model picks <code>search_flights</code> instead of <code>book_fl",
-    "link": "https://dev.to/dima_kruglov_608741d9a416/the-agent-loop-is-a-runtime-budgets-cancellation-and-idempotency-3heo",
-    "topic": "general"
-  },
-  {
-    "title": "\"Show HN: Graphiti \u2013 LLM-Powered Temporal Knowledge Graphs\"",
-    "desc": "<p>Show HN: Graphiti \u2013 LLM-Powered Temporal Knowledge Graphs</p>\n\n<h2>\n  \n  \n  Context\n</h2>\n\n<p>Local stub generated from P2P board Approve",
-    "link": "https://dev.to/journal_ai/show-hn-graphiti-llm-powered-temporal-knowledge-graphs-22bh",
-    "topic": "general"
-  },
-  {
-    "title": "DevOps Lab, Part 2: Building a Linux Server Health Report with Bash and Git",
-    "desc": "<p>In <a href=\"https://dev.to/robinsishodia/building-a-devops-support-ticket-platform-part-1-ubuntu-on-aws-ec2-36f5\">Part 1</a>, I launched ",
-    "link": "https://dev.to/robinsishodia/devops-lab-part-2-building-a-linux-server-health-report-with-bash-and-git-1p3j",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes: un presupuesto de fallos para email en CI",
-    "desc": "<p>Un pipeline de CI puede estar verde y aun as\u00ed esconder un problema serio: los emails de prueba no llegan, el worker reintenta sin l\u00edmite ",
-    "link": "https://dev.to/alexcarteruk/kubernetes-un-presupuesto-de-fallos-para-email-en-ci-3op3",
+    "title": "Building a Kubernetes GitOps Lab with Argo CD: Installation, DNS Troubleshooting and Nginx Deployment",
+    "desc": "<h1>\n  \n  \n  Installing and Configuring Argo CD on Kubernetes | GitOps Lab\n</h1>\n\n<h2>\n  \n  \n  1. Overview\n</h2>\n\n<p>In this lab, I installe",
+    "link": "https://dev.to/mhasif0786/building-a-kubernetes-gitops-lab-with-argo-cd-installation-dns-troubleshooting-and-nginx-2b51",
     "topic": "kubernetes"
   },
   {
-    "title": "Argo CD Tutorial 2026: GitOps Deployment Step by Step \u2014 Install, Sync, Rollback, and the Mistakes to Avoid",
-    "desc": "<blockquote>\n<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>\n<strong>GitOps with Argo CD means one thing:</strong> the desired state of your cluster liv",
-    "link": "https://dev.to/softverseadmin/argo-cd-tutorial-2026-gitops-deployment-step-by-step-install-sync-rollback-and-the-mistakes-2kkc",
+    "title": "Addendum R2: La tasa que faltaba, medida sobre las dos clases que faltaban",
+    "desc": "<h1>\n  \n  \n  Addendum R2 \u2014 la tasa que faltaba, medida sobre las dos clases que faltaban\n</h1>\n\n<blockquote>\n<p><strong>Este art\u00edculo sustit",
+    "link": "https://dev.to/alexisromtz7/addendum-r2-la-tasa-que-faltaba-medida-sobre-las-dos-clases-que-faltaban-5f6h",
     "topic": "general"
   },
   {
-    "title": "Enterprise Architecture Modernization: Cloud DevOps, Scalable SaaS Engineering, and AI Adoption",
-    "desc": "<h1>\n  \n  \n  Enterprise Architecture Modernization: Cloud DevOps, Scalable SaaS Engineering, and AI Adoption\n</h1>\n\n<p>In an era defined by ",
-    "link": "https://dev.to/yehor_momot_6fbb7a7bf2adb/enterprise-architecture-modernization-cloud-devops-scalable-saas-engineering-and-ai-adoption-bem",
+    "title": "CH-Ops Pro Scheduled Archival: Move ClickHouse\u00ae Data to S3",
+    "desc": "<h2>\n  \n  \n  Table of Contents\n</h2>\n\n<ol>\n<li>What is CH-Ops?</li>\n<li>Introducing the CH-Ops Scheduled Archival</li>\n<li>Creation of an Ar",
+    "link": "https://dev.to/kanishga_subramani_49ad73/ch-ops-pro-scheduled-archival-move-clickhouser-data-to-s3-3aco",
+    "topic": "general"
+  },
+  {
+    "title": "It's Halloween, So Here's My Field Guide to the Monsters Already Living in Your Stack",
+    "desc": "<p>Seven creatures, one per audit: the Zombie process, the Ghost cron, the Trojan paste, the Spider at the door, the Gremlin in CI, the Krak",
+    "link": "https://dev.to/dhruonweb/its-halloween-so-heres-my-field-guide-to-the-monsters-already-living-in-your-stack-5o6",
+    "topic": "general"
+  },
+  {
+    "title": "SaaS Backup & Disaster Recovery: RPO, RTO and PITR",
+    "desc": "<p>A nightly <code>pg_dump</code> to the same VPS is not a backup strategy. It is a file that disappears with the disk, the compromised root",
+    "link": "https://dev.to/muhammadalimughal/saas-backup-disaster-recovery-rpo-rto-and-pitr-md5",
+    "topic": "general"
+  },
+  {
+    "title": "Your agent's log has 1,509 rows and zero denials. That is the problem.",
+    "desc": "<p>An agent that never refuses anything is not a working agent. It is a script with a credit card.</p>\n\n<p>I keep seeing the same artefact o",
+    "link": "https://dev.to/mrpkk/your-agents-log-has-1509-rows-and-zero-denials-that-is-the-problem-3kk4",
+    "topic": "general"
+  },
+  {
+    "title": "Run your own model endpoint on a rented GPU with vLLM: your own API key, an SSH tunnel, and an optional LoRA adapter",
+    "desc": "<p><strong>Short answer:</strong> rent a GPU with SSH access, install vLLM in a fresh Python environment, start it so it listens only on the",
+    "link": "https://dev.to/cloudgpu_app/run-your-own-model-endpoint-on-a-rented-gpu-with-vllm-your-own-api-key-an-ssh-tunnel-and-an-3h9p",
+    "topic": "general"
+  },
+  {
+    "title": "What cron expression runs every 5 minutes?",
+    "desc": "<p>A cleanup job was supposed to run every five minutes. The crontab was saved at 10:03. The log showed 10:05, then 10:10. That is not a lat",
+    "link": "https://dev.to/ameenusman/what-cron-expression-runs-every-5-minutes-1aa",
     "topic": "general"
   }
 ]
