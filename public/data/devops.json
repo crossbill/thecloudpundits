@@ -1,50 +1,50 @@
 [
   {
-    "title": "Top 5 Workflow Automations Every Developer Needs in 2026",
-    "desc": "<h1>\n  \n  \n  Top 5 Workflow Automations Every Developer Needs in 2026\n</h1>\n\n<p>Automation gives developers unfair leverage. Here are the to",
-    "link": "https://dev.to/namanjain077/top-5-workflow-automations-every-developer-needs-in-2026-kki",
+    "title": "The new update 3.20.1 for the Woodpecker CI platform has been released",
+    "desc": "<p>Woodpecker CI version 3.20 introduces pipeline management updates, security improvements, and faster scheduling.</p>\n\n<p>The release remo",
+    "link": "https://dev.to/hacksgr/the-new-update-3201-for-the-woodpecker-ci-platform-has-been-released-5eed",
     "topic": "general"
   },
   {
-    "title": "Software Supply Chain Memory: Connecting JFrog Artifactory to Cognee GraphRAG",
-    "desc": "<p>In modern enterprise DevOps and platform engineering, the software supply chain is vast and complex. Binary artifact repositories like <s",
-    "link": "https://dev.to/pranjul_chaurasiya/software-supply-chain-memory-connecting-jfrog-artifactory-to-cognee-graphrag-6g0",
-    "topic": "general"
-  },
-  {
-    "title": "Your VMs work 60 hours a week. You pay for 168.",
-    "desc": "<p>A dev VM is used from 8 to 8, five days a week. That is 60 hours. The cloud bills 168. Multiply by every VM in dev and QA and the night s",
-    "link": "https://dev.to/gonzalogjuka/your-vms-work-60-hours-a-week-you-pay-for-168-4c7l",
-    "topic": "general"
-  },
-  {
-    "title": "Upgrading tracehub-mcp 0.13 and cost-guard-mcp 0.6: the defaults I changed and what to set",
-    "desc": "<p>Start tracehub-mcp 0.13.0 or later with <code>--transport http --host 0.0.0.0</code> and no token, and it exits with status 2. Call cost-",
-    "link": "https://dev.to/sai_ram_0000/upgrading-tracehub-mcp-013-and-cost-guard-mcp-06-the-defaults-i-changed-and-what-to-set-39bb",
-    "topic": "general"
-  },
-  {
-    "title": "GPU Memory Explained: VRAM, System RAM and GPU Utilisation",
-    "desc": "<p>GPUs have become an important part of modern computing. They are used in Artificial Intelligence, Machine Learning, scientific simulation",
-    "link": "https://dev.to/zubairakbar/gpu-memory-explained-vram-system-ram-and-gpu-utilisation-2gki",
-    "topic": "general"
-  },
-  {
-    "title": "High CPU gets throttled. High Memory gets killed.",
-    "desc": "<p>If you've worked on anything at scale, you've seen this in an incident channel: a pod is unhappy, dashboards are red, and someone says \"i",
-    "link": "https://dev.to/huzaifa_saifuddin_370679c/high-cpu-gets-throttled-high-memory-gets-killed-5g37",
-    "topic": "general"
-  },
-  {
-    "title": "Building & Deploying Next-Gen Analytical Dashboards: Streamlit vs Dash vs Seaborn in the Cloud \ud83d\ude80",
-    "desc": "<h1>\n  \n  \n  Building & Deploying Next-Gen Analytical Dashboards: Streamlit vs Dash vs Seaborn in the Cloud \ud83d\ude80\n</h1>\n\n<p><em>Author:</em> <st",
-    "link": "https://dev.to/mauricio_arianchoqueac/building-deploying-next-gen-analytical-dashboards-streamlit-vs-dash-vs-seaborn-in-the-cloud-4l1a",
-    "topic": "general"
-  },
-  {
-    "title": "Automating Post-Mortems: Ingesting PagerDuty Incidents & Service Topologies into Cognee GraphRAG",
-    "desc": "<p>Writing incident retrospectives (post-mortems) and debugging recurring production outages are two of the most time-consuming responsibili",
-    "link": "https://dev.to/pranjul_chaurasiya/automating-post-mortems-ingesting-pagerduty-incidents-service-topologies-into-cognee-graphrag-443a",
+    "title": "AI Infrastructure Under Fire: Northflank and Chainalysis Report Major Breaches",
+    "desc": "<h3>\n  \n  \n  The Security Landscape Shifts Toward AI Infrastructure\n</h3>\n\n<p>On <strong>October 31, 2026</strong>, two high\u2011profile breache",
+    "link": "https://dev.to/hassanradwany/ai-infrastructure-under-fire-northflank-and-chainalysis-report-major-breaches-4kj6",
     "topic": "secops"
+  },
+  {
+    "title": "Is this CVE actually being exploited? Check KEV, EPSS and CVSS in under a minute",
+    "desc": "<p>A new CVE lands in your feed, or a scan report comes back with 400 \"Critical\" findings. The question that actually decides what you do ne",
+    "link": "https://dev.to/varaxontech/is-this-cve-actually-being-exploited-check-kev-epss-and-cvss-in-under-a-minute-1oan",
+    "topic": "general"
+  },
+  {
+    "title": "Binance 6.3 Billion Heist Lesson: The Developer Workstation Is the New Production Perimeter",
+    "desc": "<h2>\n  \n  \n  What the Binance Heist and a Trojanized Claude Code Extension Reveal About Modern Enterprise Security\n</h2>\n\n<p><strong>A compr",
+    "link": "https://dev.to/aiza-hextyx/binance-63-billion-heist-lesson-the-developer-workstation-is-the-new-production-perimeter-3l3j",
+    "topic": "general"
+  },
+  {
+    "title": "Bringing Tuist to Elixir",
+    "desc": "<p>We are very fond of <a href=\"https://elixir-lang.org/\" rel=\"noopener noreferrer\">Elixir</a>. An idea in <a href=\"https://erlang.org/downl",
+    "link": "https://dev.to/tuist/bringing-tuist-to-elixir-1oe7",
+    "topic": "general"
+  },
+  {
+    "title": "\"Show HN: R2R V2 \u2013 A open source RAG engine with prod features\"",
+    "desc": "<p>Show HN: R2R V2 \u2013 A open source RAG engine with prod features</p>\n\n<h2>\n  \n  \n  Context\n</h2>\n\n<p>Local stub generated from P2P board App",
+    "link": "https://dev.to/journal_ai/show-hn-r2r-v2-a-open-source-rag-engine-with-prod-features-4a0k",
+    "topic": "general"
+  },
+  {
+    "title": "Why a local SMTP catcher is not an email integration test",
+    "desc": "<p>Your Playwright test fills the signup form. The app sends the confirmation email. Mailpit shows the message with the right subject and li",
+    "link": "https://dev.to/yoni_ryabinski_da05ba8c9c/why-a-local-smtp-catcher-is-not-an-email-integration-test-3cn1",
+    "topic": "general"
+  },
+  {
+    "title": "Latencia de memoria: qu\u00e9 es y por qu\u00e9 tu CPU no rinde al 100%",
+    "desc": "<p>Un monitor que marca el CPU al 100% casi nunca dice la verdad completa: ese n\u00famero mide tiempo ocupado, no trabajo \u00fatil. La causa m\u00e1s com",
+    "link": "https://dev.to/lu1tr0n/latencia-de-memoria-que-es-y-por-que-tu-cpu-no-rinde-al-100-4ml2",
+    "topic": "general"
   }
 ]
