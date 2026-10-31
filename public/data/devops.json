@@ -1,50 +1,50 @@
 [
   {
-    "title": "Reserved GPU Capacity Is a Hedge, Not a Discount",
-    "desc": "<blockquote>\n<p><strong>TL;DR \u2014</strong> Cloud teams treat multi-year GPU capacity commitments as a straightforward discount on compute, the",
-    "link": "https://dev.to/aiexplore369zoho/reserved-gpu-capacity-is-a-hedge-not-a-discount-4jcl",
+    "title": "Top 5 Workflow Automations Every Developer Needs in 2026",
+    "desc": "<h1>\n  \n  \n  Top 5 Workflow Automations Every Developer Needs in 2026\n</h1>\n\n<p>Automation gives developers unfair leverage. Here are the to",
+    "link": "https://dev.to/namanjain077/top-5-workflow-automations-every-developer-needs-in-2026-kki",
     "topic": "general"
   },
   {
-    "title": "Daily Dose of DevOps \u2014 Kubernetes networking: for resilient workloads",
-    "desc": "<h1>\n  \n  \n  Kubernetes networking: for resilient workloads\n</h1>\n\n<p>A platform capability becomes dangerous when ownership is implicit but",
-    "link": "https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-networking-for-resilient-workloads-5cd6",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Docker Multi-Stage Builds: Small Images Without the Pain",
-    "desc": "<p>Every team has shipped a Docker image that was three times bigger than it needed to be, usually because the build tools traveled with the",
-    "link": "https://dev.to/mubashirtaj/docker-multi-stage-builds-small-images-without-the-pain-4l7d",
-    "topic": "docker"
-  },
-  {
-    "title": "Surviving Zone Capacity Is the Failover Test Most Teams Never Run",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/ntctech/surviving-zone-capacity-is-the-failover-test-most-teams-never-run-gfc",
+    "title": "Software Supply Chain Memory: Connecting JFrog Artifactory to Cognee GraphRAG",
+    "desc": "<p>In modern enterprise DevOps and platform engineering, the software supply chain is vast and complex. Binary artifact repositories like <s",
+    "link": "https://dev.to/pranjul_chaurasiya/software-supply-chain-memory-connecting-jfrog-artifactory-to-cognee-graphrag-6g0",
     "topic": "general"
   },
   {
-    "title": "How I stopped copying EC2 instance IDs (and why my CLI refuses to guess)",
-    "desc": "<p>I work across a lot of AWS accounts. Reaching one machine used to take several steps: remember which account it lives in, find the matchi",
-    "link": "https://dev.to/morganseznec/how-i-stopped-copying-ec2-instance-ids-and-why-my-cli-refuses-to-guess-2of3",
+    "title": "Your VMs work 60 hours a week. You pay for 168.",
+    "desc": "<p>A dev VM is used from 8 to 8, five days a week. That is 60 hours. The cloud bills 168. Multiply by every VM in dev and QA and the night s",
+    "link": "https://dev.to/gonzalogjuka/your-vms-work-60-hours-a-week-you-pay-for-168-4c7l",
     "topic": "general"
   },
   {
-    "title": "Agentic Workflows in Production: Routing, Memory, Human-in-the-Loop",
-    "desc": "<p>Agentic Workflows in Production in 2026: Model Routing, Memory, and the Human Loop</p>\n\n<p>An agentic workflow is a system where an LLM d",
-    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/agentic-workflows-in-production-routing-memory-human-in-the-loop-3cia",
+    "title": "Upgrading tracehub-mcp 0.13 and cost-guard-mcp 0.6: the defaults I changed and what to set",
+    "desc": "<p>Start tracehub-mcp 0.13.0 or later with <code>--transport http --host 0.0.0.0</code> and no token, and it exits with status 2. Call cost-",
+    "link": "https://dev.to/sai_ram_0000/upgrading-tracehub-mcp-013-and-cost-guard-mcp-06-the-defaults-i-changed-and-what-to-set-39bb",
     "topic": "general"
   },
   {
-    "title": "Linux Networking Commands Cheat Sheet for Security and DevOps (2026)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/xpert4cyber-news/linux-networking-commands-cheat-sheet-for-security-and-devops-2026-1mpm",
+    "title": "GPU Memory Explained: VRAM, System RAM and GPU Utilisation",
+    "desc": "<p>GPUs have become an important part of modern computing. They are used in Artificial Intelligence, Machine Learning, scientific simulation",
+    "link": "https://dev.to/zubairakbar/gpu-memory-explained-vram-system-ram-and-gpu-utilisation-2gki",
+    "topic": "general"
+  },
+  {
+    "title": "High CPU gets throttled. High Memory gets killed.",
+    "desc": "<p>If you've worked on anything at scale, you've seen this in an incident channel: a pod is unhappy, dashboards are red, and someone says \"i",
+    "link": "https://dev.to/huzaifa_saifuddin_370679c/high-cpu-gets-throttled-high-memory-gets-killed-5g37",
+    "topic": "general"
+  },
+  {
+    "title": "Building & Deploying Next-Gen Analytical Dashboards: Streamlit vs Dash vs Seaborn in the Cloud \ud83d\ude80",
+    "desc": "<h1>\n  \n  \n  Building & Deploying Next-Gen Analytical Dashboards: Streamlit vs Dash vs Seaborn in the Cloud \ud83d\ude80\n</h1>\n\n<p><em>Author:</em> <st",
+    "link": "https://dev.to/mauricio_arianchoqueac/building-deploying-next-gen-analytical-dashboards-streamlit-vs-dash-vs-seaborn-in-the-cloud-4l1a",
+    "topic": "general"
+  },
+  {
+    "title": "Automating Post-Mortems: Ingesting PagerDuty Incidents & Service Topologies into Cognee GraphRAG",
+    "desc": "<p>Writing incident retrospectives (post-mortems) and debugging recurring production outages are two of the most time-consuming responsibili",
+    "link": "https://dev.to/pranjul_chaurasiya/automating-post-mortems-ingesting-pagerduty-incidents-service-topologies-into-cognee-graphrag-443a",
     "topic": "secops"
-  },
-  {
-    "title": "OpenRouter vs LiteLLM vs Portkey vs Kong: LLM Gateways in 2026",
-    "desc": "<p>LLM Gateways in 2026: OpenRouter vs LiteLLM vs Portkey vs Kong for Production Traffic</p>\n\n<p>Most AI teams hit the same wall a few month",
-    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/openrouter-vs-litellm-vs-portkey-vs-kong-llm-gateways-in-2026-24dn",
-    "topic": "general"
   }
 ]
