@@ -1,50 +1,50 @@
 [
   {
-    "title": "Which sandbox is best for running AI agent code?",
-    "desc": "<p>For AI agents that run code for hours at a time, Nodus Sandboxes are the best fit. Network access is off by default, every sandbox can ca",
-    "link": "https://dev.to/viswaretas_kotra/which-sandbox-is-best-for-running-ai-agent-code-1c7b",
+    "title": "How to monitor Docker memory usage",
+    "desc": "<p>A container that eats memory silently can OOM-kill your app at 3 am, restart your database mid-transaction, or starve every other service",
+    "link": "https://dev.to/opservo/how-to-monitor-docker-memory-usage-21b0",
+    "topic": "docker"
+  },
+  {
+    "title": "Postgres Restore Drill: What a Green pg_dump Exit Code Proves",
+    "desc": "<p>Short version for the impatient: a <code>pg_dump</code> that exits with code 0 tells you the dump finished. It doesn't tell you the dump ",
+    "link": "https://dev.to/abyzgenic/postgres-restore-drill-what-a-green-pgdump-exit-code-proves-80m",
     "topic": "general"
   },
   {
-    "title": "A concept is fabricated, not found \u2014 Deleuze and Guattari on philosophy, and the word \"wake\" in a plant",
-    "desc": "<blockquote>\n<p><strong>Attribution, plainly:</strong> the earlier posts on this blog are work from the retired Mesh fleet. This post is Mis",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-concept-is-fabricated-not-found-deleuze-and-guattari-on-philosophy-and-the-word-wake-in-a-gfm",
+    "title": "A few things I check before choosing hosting for a client",
+    "desc": "<p>A few things I check before choosing hosting for a client<br />\nI\u2019ve managed InterServer VPS and DirectAdmin hosting for clients. When co",
+    "link": "https://dev.to/neophyte_work_b048e19f518/a-few-things-i-check-before-choosing-hosting-for-a-client-4dmf",
     "topic": "general"
   },
   {
-    "title": "Oke Simak baik baik - Beginilah tips & Solusi terbaik cara efektif atasi salah transfer BNl via hp",
-    "desc": "<p>Jika salah-Transfer/ Qris \ud835\uddd5Nl gagal (Transaksi Gagal) sald\ud835\uddfc berkurang, menghubungi CS \ud835\uddd5N\ud835\udddc melalui Whats\ud835\udc00\ud835\udc29\ud835\udc29 (+6285169992078) atau I5\u0298\u0298046.",
-    "link": "https://dev.to/tr_ree_648b6f4abf39b9a601/oke-simak-baik-baik-beginilah-tips-solusi-terbaik-cara-efektif-atasi-salah-transfer-bnl-via-hp-5eee",
+    "title": "Five bugs in twenty-four hours, and not one of them failed",
+    "desc": "<p>Yesterday I went looking for why the video queue had run dry, and found five<br />\nseparate bugs in about twenty-four hours. That is not ",
+    "link": "https://dev.to/bananafestdestiny/five-bugs-in-twenty-four-hours-and-not-one-of-them-failed-ap",
     "topic": "general"
   },
   {
-    "title": "CV0-004 Exam Guide: Cost, Format and Study Plan",
-    "desc": "<p>The <strong>CV0-004</strong> exam is the test for <strong>CompTIA Cloud+</strong>. It proves you can deploy, secure, run and troubleshoot",
-    "link": "https://dev.to/buyexamvouchers/cv0-004-exam-guide-cost-format-and-study-plan-4m8k",
+    "title": "Backconnect proxy: one gateway, many exit IPs, how to test",
+    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/backconnect-proxy/\" rel=\"noopener noreferrer\">proxymint</a>.</em></p>\n\n<p>A ba",
+    "link": "https://dev.to/proxymint/backconnect-proxy-one-gateway-many-exit-ips-how-to-test-12ek",
     "topic": "general"
   },
   {
-    "title": "git push --force-with-lease Is Unsafe If Your Editor Auto-Fetches",
-    "desc": "<p>I have typed <code>git push --force-with-lease</code> for years with the smug calm of someone wearing a seatbelt. Then one afternoon it o",
-    "link": "https://dev.to/ji_ai/git-push-force-with-lease-is-unsafe-if-your-editor-auto-fetches-37ja",
+    "title": "Contact & Visit My Website",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/oliviaaelara/contact-visit-my-website-54cf",
     "topic": "general"
   },
   {
-    "title": "The Degradation Ladder: LLMOps for When the Model Is Slow, Wrong, or Down",
-    "desc": "<p>Most LLM features ship with one path: prompt in, frontier model out. That path is the most expensive, slowest and least available of ever",
-    "link": "https://dev.to/dima_kruglov_608741d9a416/the-degradation-ladder-llmops-for-when-the-model-is-slow-wrong-or-down-3fm3",
-    "topic": "general"
+    "title": "Kubernetes NetworkPolicy Baseline: 3 Mistakes That Break Isolation",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/11/01/kubernetes-networkpolicy-baseline-3-mistakes-that-break-isolation\"",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/kubernetes-networkpolicy-baseline-3-mistakes-that-break-isolation-1dkp",
+    "topic": "kubernetes"
   },
   {
-    "title": "\u6570\u5b57\u5458\u5de5\u4e0a\u5c97\u7b2c\u4e00\u5929\uff1a\u521b\u4e16\u661f\u7403\u7ec4\u7ec7 OS \u7684\u786e\u5b9a\u6027\u6d3e\u5355",
-    "desc": "<p>\u521b\u4e16\u661f\u7403\u6570\u5b57\u5458\u5de5\u7ec4\u7ec7 OS \u4e8e 2026-10-31 \u6b63\u5f0f\u4e0a\u5c97\u3002\u603b\u7ecf\u7406\u662f\u4e00\u53f0\u786e\u5b9a\u6027\u72b6\u6001\u673a\uff1a\u5de5\u5355\u767d\u540d\u5355\u6d3e\u5355\u3001\u8bc1\u636e\u95f8\u9632\u5634\u70ae\uff08\u5b8c\u6210\u58f0\u660e\u5fc5\u987b\u5e26 trace\uff0c\u5426\u5219\u81ea\u52a8\u64a4\u56de\uff09\u30015 \u7b56\u7565\u6545\u969c\u6062\u590d\uff08RETRY\u2192REASSIGN\u2192DECOMPOSE\u2192REPLAN\u2192\u5347\u7ea7\uff09\u3002</p>\n\n<p>\u6bcf",
-    "link": "https://dev.to/aigbteam/shu-zi-yuan-gong-shang-gang-di-tian-chuang-shi-xing-qiu-zu-zhi-os-de-que-ding-xing-pai-dan-5b9h",
+    "title": "The Config File Was a Program",
+    "desc": "<p>I run a travel directory: about 800 prerendered pages, 190 redirect rules built up over a year of renames, and a small database behind it",
+    "link": "https://dev.to/tedagentic/the-config-file-was-a-program-2kmb",
     "topic": "general"
-  },
-  {
-    "title": "Terraform: un plan de cambio que se pueda explicar",
-    "desc": "<p>Cuando un cambio de infraestructura falla, el problema no siempre es que Terraform haya calculado mal. Muchas veces el plan era correcto,",
-    "link": "https://dev.to/alexcarteruk/terraform-un-plan-de-cambio-que-se-pueda-explicar-18ki",
-    "topic": "terraform"
   }
 ]
