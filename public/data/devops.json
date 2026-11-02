@@ -1,50 +1,50 @@
 [
   {
-    "title": "Redis Stopped Writing at 3 AM: maxmemory + the Eviction Policy Nobody Set",
-    "desc": "<h1>\n  \n  \n  Redis Stopped Writing at 3 AM: maxmemory + the Eviction Policy Nobody Set\n</h1>\n\n<p>Our cache stopped accepting writes overnigh",
-    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/redis-stopped-writing-at-3-am-maxmemory-the-eviction-policy-nobody-set-2bcf",
+    "title": "The eMudhra fix lives in your Go binary, not in your Docker image",
+    "desc": "<p>On October 19, Go shipped two security releases: 1.27.3 and 1.26.10. The fix touches a single package, <code>crypto/x509</code>. I rebuil",
+    "link": "https://dev.to/julesrobineau/the-emudhra-fix-lives-in-your-go-binary-not-in-your-docker-image-3i9g",
+    "topic": "docker"
+  },
+  {
+    "title": "Choosing a Self-Hosted Service Desk: A Practitioner\u2019s Decision Guide",
+    "desc": "<p>A self-hosted service desk is more than a ticketing application installed on your own infrastructure. Requests still need to move from in",
+    "link": "https://dev.to/jessieburnside/choosing-a-self-hosted-service-desk-a-practitioners-decision-guide-1ie4",
     "topic": "general"
   },
   {
-    "title": "Three checks that look like they passed, but validated nothing",
-    "desc": "<p>A backup job that dies halfway through a pipe can leave behind a file that reports success, passes its integrity check, and lists its con",
-    "link": "https://dev.to/dafili/three-checks-that-look-like-they-passed-but-validated-nothing-ejd",
-    "topic": "general"
+    "title": "Kubernetes Cookbook Part 8: Persistent Storage That Survives Restarts",
+    "desc": "<p>Everything you have run so far in this series shares a dirty secret: when a container dies, its files die with it. A container's filesyst",
+    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-8-persistent-storage-that-survives-restarts-4aoj",
+    "topic": "kubernetes"
   },
   {
-    "title": "Canada Stopped Falling Back. Your Scheduler Is Now in the On-Call Rotation.",
-    "desc": "<p>Canada has not abolished Daylight Saving Time. It has made the time-zone support matrix more interesting, which is exactly the sort of di",
-    "link": "https://dev.to/_firelinks/canada-stopped-falling-back-your-scheduler-is-now-in-the-on-call-rotation-29g8",
-    "topic": "general"
+    "title": "Kubernetes Cookbook Part 9: StatefulSets for Apps That Remember",
+    "desc": "<p>So far in this series, every Pod you have run has been interchangeable. A Deployment does not care if it replaces Pod A with Pod B, becau",
+    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-9-statefulsets-for-apps-that-remember-19i",
+    "topic": "kubernetes"
   },
   {
-    "title": "Transform Logs with Vector By DataDog",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/kobbyprincee/transform-logs-with-vector-by-datadog-26m3",
-    "topic": "general"
+    "title": "Kubernetes Cookbook Part 5: Services and Built-In Service Discovery",
+    "desc": "<p>In <a href=\"https://clinerds.com/article/kubernetes-cookbook-deployments\" rel=\"noopener noreferrer\">Part 4</a> you got a Deployment runni",
+    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-5-services-and-built-in-service-discovery-lm9",
+    "topic": "kubernetes"
   },
   {
-    "title": "\ud83d\udd27 You Build It, You Fix It",
-    "desc": "<ul>\n<li>Initial thoughts</li>\n<li>1. Nobody wants a bugs-only job</li>\n<li>2. A fix team does not know the recent code</li>\n<li>3. A fix te",
-    "link": "https://dev.to/zenika/you-build-it-you-fix-it-3046",
-    "topic": "general"
+    "title": "Kubernetes Cookbook Part 10: Lock Down the API with RBAC",
+    "desc": "<p>You can run pods, expose services, and store config now \u2014 but who is allowed to touch your cluster, and what are your pods allowed to do ",
+    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-10-lock-down-the-api-with-rbac-4a54",
+    "topic": "kubernetes"
   },
   {
-    "title": "Getting Started with MOCO Part 4: Troubleshooting Failed MySQL Replicas",
-    "desc": "<p>A MySQL pod can be <code>Running</code> even when replication is broken. I encountered this while investigating an incident in which both",
-    "link": "https://dev.to/mucheru/getting-started-with-moco-part-4-troubleshooting-failed-mysql-replicas-5bf2",
-    "topic": "general"
+    "title": "Kubernetes Cookbook Part 2: Pods, Labels, and Health Checks",
+    "desc": "<p>In Part 1 you got a local cluster running with kind. Now it is time to actually run something on it. This part cooks with Pods: the small",
+    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-2-pods-labels-and-health-checks-b59",
+    "topic": "kubernetes"
   },
   {
-    "title": "GitLab's Critical CVSS 10.0 Wake-Up Call: Is Your CI/CD Pipeline Secure?",
-    "desc": "<h2>\n  \n  \n  The Alpine Linux incident reveals why patching GitLab is not enough\u2014and what every business should do to protect its software s",
-    "link": "https://dev.to/aiza-hextyx/gitlabs-critical-cvss-100-wake-up-call-is-your-cicd-pipeline-secure-5h3a",
-    "topic": "general"
-  },
-  {
-    "title": "What makes up your AWS NAT gateway cost",
-    "desc": "<p>Your AWS NAT gateway cost is the price of the service that lets servers without a public IP address reach the internet. According to <a h",
-    "link": "https://dev.to/codelevel/what-makes-up-your-aws-nat-gateway-cost-21k5",
-    "topic": "aws"
+    "title": "Kubernetes Cookbook Part 3: Organize Clusters with Namespaces",
+    "desc": "<p>So far in this series you have a local cluster and you know how to run Pods on it. Everything you created landed in the same big shared r",
+    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-3-organize-clusters-with-namespaces-9",
+    "topic": "kubernetes"
   }
 ]
