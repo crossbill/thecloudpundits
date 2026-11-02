@@ -1,50 +1,50 @@
 [
   {
-    "title": "The eMudhra fix lives in your Go binary, not in your Docker image",
-    "desc": "<p>On October 19, Go shipped two security releases: 1.27.3 and 1.26.10. The fix touches a single package, <code>crypto/x509</code>. I rebuil",
-    "link": "https://dev.to/julesrobineau/the-emudhra-fix-lives-in-your-go-binary-not-in-your-docker-image-3i9g",
-    "topic": "docker"
-  },
-  {
-    "title": "Choosing a Self-Hosted Service Desk: A Practitioner\u2019s Decision Guide",
-    "desc": "<p>A self-hosted service desk is more than a ticketing application installed on your own infrastructure. Requests still need to move from in",
-    "link": "https://dev.to/jessieburnside/choosing-a-self-hosted-service-desk-a-practitioners-decision-guide-1ie4",
+    "title": "Postgres Major Upgrades Without Fear: A Practical Shadow-Testing Pipeline with pg_upgrade --check, pg_stat_statements and Query Diffing",
+    "desc": "<p>Tu\u1ea7n n\u00e0y tr\u00ean Hacker News c\u00f3 m\u1ed9t thread h\u01a1n 700 \u0111i\u1ec3m: Postgres 19 b\u1ecb tr\u1ec5 v\u00ec ng\u01b0\u1eddi ta t\u00ecm ra nhi\u1ec1u bug h\u01a1n h\u1eb3n tr\u01b0\u1edbc \u0111\u00e2y, m\u1ed9t ph\u1ea7n nh\u1edd c\u00e1c",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/postgres-major-upgrades-without-fear-a-practical-shadow-testing-pipeline-with-pgupgrade-check-27eb",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Cookbook Part 8: Persistent Storage That Survives Restarts",
-    "desc": "<p>Everything you have run so far in this series shares a dirty secret: when a container dies, its files die with it. A container's filesyst",
-    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-8-persistent-storage-that-survives-restarts-4aoj",
-    "topic": "kubernetes"
+    "title": "Defending AI Agents Against Indirect Prompt Injection & Tool Output Poisoning (OWASP LLM01 Guide)",
+    "desc": "<p>Autonomous AI agents and Model Context Protocol (MCP) servers have fundamentally changed software engineering: rather than merely reading",
+    "link": "https://dev.to/abhinavm945/defending-ai-agents-against-indirect-prompt-injection-tool-output-poisoning-owasp-llm01-guide-150m",
+    "topic": "guardrails"
   },
   {
-    "title": "Kubernetes Cookbook Part 9: StatefulSets for Apps That Remember",
-    "desc": "<p>So far in this series, every Pod you have run has been interchangeable. A Deployment does not care if it replaces Pod A with Pod B, becau",
-    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-9-statefulsets-for-apps-that-remember-19i",
-    "topic": "kubernetes"
+    "title": "Track CISA KEV additions and EPSS scores with curl and jq",
+    "desc": "<p><em>Drafted with AI assistance. Every command below was run against the live CISA KEV feed and FIRST's EPSS API on 2 November 2026 (jq 1.",
+    "link": "https://dev.to/varaxontech/track-cisa-kev-additions-and-epss-scores-with-curl-and-jq-3152",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes Cookbook Part 5: Services and Built-In Service Discovery",
-    "desc": "<p>In <a href=\"https://clinerds.com/article/kubernetes-cookbook-deployments\" rel=\"noopener noreferrer\">Part 4</a> you got a Deployment runni",
-    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-5-services-and-built-in-service-discovery-lm9",
-    "topic": "kubernetes"
+    "title": "[Boost]",
+    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/at",
+    "link": "https://dev.to/arpo/-1b55",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes Cookbook Part 10: Lock Down the API with RBAC",
-    "desc": "<p>You can run pods, expose services, and store config now \u2014 but who is allowed to touch your cluster, and what are your pods allowed to do ",
-    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-10-lock-down-the-api-with-rbac-4a54",
-    "topic": "kubernetes"
+    "title": "SMTP Codes: What the Mail Server Is Telling You",
+    "desc": "<p>Every SMTP command gets a reply with 3 digits. Your MTA (Mail Transfer Agent) reads that code to decide what to do next. The first digit ",
+    "link": "https://dev.to/devmaycry/smtp-codes-what-the-mail-server-is-telling-you-353g",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes Cookbook Part 2: Pods, Labels, and Health Checks",
-    "desc": "<p>In Part 1 you got a local cluster running with kind. Now it is time to actually run something on it. This part cooks with Pods: the small",
-    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-2-pods-labels-and-health-checks-b59",
-    "topic": "kubernetes"
+    "title": "Zero-Code Context Propagation: Replacing Heavy APM Sidecars with eBPF in 2026",
+    "desc": "<p>If you are running polyglot microservices (Go, Rust, Java, Python) across production Kubernetes clusters, injecting APM SDKs into every r",
+    "link": "https://dev.to/aidevtoolkit/zero-code-context-propagation-replacing-heavy-apm-sidecars-with-ebpf-in-2026-1d9i",
+    "topic": "general"
   },
   {
-    "title": "Kubernetes Cookbook Part 3: Organize Clusters with Namespaces",
-    "desc": "<p>So far in this series you have a local cluster and you know how to run Pods on it. Everything you created landed in the same big shared r",
-    "link": "https://dev.to/clinerds/kubernetes-cookbook-part-3-organize-clusters-with-namespaces-9",
-    "topic": "kubernetes"
+    "title": "AI coding and open-source CRM: the Salesforce replacement test",
+    "desc": "<p>AI coding is making it easier to attempt a familiar developer ambition: replace a subscription service with software you can operate your",
+    "link": "https://dev.to/axrisi/ai-coding-and-open-source-crm-the-salesforce-replacement-test-4on2",
+    "topic": "general"
+  },
+  {
+    "title": "Which Are the Top 10 DevOps Solutions and Services Companies in the USA?",
+    "desc": "<p>Choosing the right technology partner is an important decision for any business planning to improve its software delivery process. The ri",
+    "link": "https://dev.to/jacobfoster21/which-are-the-top-10-devops-solutions-and-services-companies-in-the-usa-1i64",
+    "topic": "general"
   }
 ]
