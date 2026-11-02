@@ -1,50 +1,50 @@
 [
   {
-    "title": "When Pay-Per-GB Proxy Pricing Stops Making Sense",
-    "desc": "<p>High-volume data collection creates a simple but expensive pricing problem: when a crawler transfers more data, a pay-per-GB bill rises a",
-    "link": "https://dev.to/michaelguy/when-pay-per-gb-proxy-pricing-stops-making-sense-3p2e",
+    "title": "Redis Stopped Writing at 3 AM: maxmemory + the Eviction Policy Nobody Set",
+    "desc": "<h1>\n  \n  \n  Redis Stopped Writing at 3 AM: maxmemory + the Eviction Policy Nobody Set\n</h1>\n\n<p>Our cache stopped accepting writes overnigh",
+    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/redis-stopped-writing-at-3-am-maxmemory-the-eviction-policy-nobody-set-2bcf",
     "topic": "general"
   },
   {
-    "title": "Votre cron est mort depuis trois semaines et personne ne vous a rien dit",
-    "desc": "<p>Un job planifi\u00e9 ne tombe pas en panne comme un site web. Un site web qui tombe, on le voit :<br />\nles visiteurs \u00e9crivent, les statistiqu",
-    "link": "https://dev.to/devdusud/votre-cron-est-mort-depuis-trois-semaines-et-personne-ne-vous-a-rien-dit-1fpc",
+    "title": "Three checks that look like they passed, but validated nothing",
+    "desc": "<p>A backup job that dies halfway through a pipe can leave behind a file that reports success, passes its integrity check, and lists its con",
+    "link": "https://dev.to/dafili/three-checks-that-look-like-they-passed-but-validated-nothing-ejd",
     "topic": "general"
   },
   {
-    "title": "CVE-2026-98432 on CentOS 7: the stock kernel is fine, ELRepo kernels are not",
-    "desc": "<p>CVE-2026-98432 is a remote use-after-free in Linux IPv4 TCP connection setup, rated CVSS 9.8. Anthropic showed an exploit, written by Cla",
-    "link": "https://dev.to/dvershinin/cve-2026-98432-on-centos-7-the-stock-kernel-is-fine-elrepo-kernels-are-not-1615",
+    "title": "Canada Stopped Falling Back. Your Scheduler Is Now in the On-Call Rotation.",
+    "desc": "<p>Canada has not abolished Daylight Saving Time. It has made the time-zone support matrix more interesting, which is exactly the sort of di",
+    "link": "https://dev.to/_firelinks/canada-stopped-falling-back-your-scheduler-is-now-in-the-on-call-rotation-29g8",
     "topic": "general"
   },
   {
-    "title": "Data Archive for Dummies",
-    "desc": "<h1>\n  \n  \n  HuskHoard Active Archive for Dummies: Building an \"Infinite\" File Server\n</h1>\n\n<p>Have you ever wished your computer had a har",
-    "link": "https://dev.to/coldstorage/data-archive-for-dummies-3jlp",
+    "title": "Transform Logs with Vector By DataDog",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/kobbyprincee/transform-logs-with-vector-by-datadog-26m3",
     "topic": "general"
   },
   {
-    "title": "How do you run training jobs across multiple GPU clouds?",
-    "desc": "<p>You run training across several GPU clouds by putting one scheduler in front of all of them: a job names the hardware it needs, and the s",
-    "link": "https://dev.to/viswaretas_kotra/how-do-you-run-training-jobs-across-multiple-gpu-clouds-3jkl",
+    "title": "\ud83d\udd27 You Build It, You Fix It",
+    "desc": "<ul>\n<li>Initial thoughts</li>\n<li>1. Nobody wants a bugs-only job</li>\n<li>2. A fix team does not know the recent code</li>\n<li>3. A fix te",
+    "link": "https://dev.to/zenika/you-build-it-you-fix-it-3046",
     "topic": "general"
   },
   {
-    "title": "GitHub\u2019s New Lockfiles Don\u2019t Lock Every Workflow Reference",
-    "desc": "<p><a href=\"https://github.blog/changelog/2026-10-28-github-actions-workflow-lockfiles-are-generally-available/\" rel=\"noopener noreferrer\">G",
-    "link": "https://dev.to/keith_azodeh/githubs-new-lockfiles-dont-lock-every-workflow-reference-31mi",
+    "title": "Getting Started with MOCO Part 4: Troubleshooting Failed MySQL Replicas",
+    "desc": "<p>A MySQL pod can be <code>Running</code> even when replication is broken. I encountered this while investigating an incident in which both",
+    "link": "https://dev.to/mucheru/getting-started-with-moco-part-4-troubleshooting-failed-mysql-replicas-5bf2",
     "topic": "general"
   },
   {
-    "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
-    "desc": "<h2>\n  \n  \n  The incident that never shows up in your deploy log\n</h2>\n\n<p>Here is a scenario that's easy to create on Gemini Enterprise Age",
-    "link": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
-    "topic": "gcp"
+    "title": "GitLab's Critical CVSS 10.0 Wake-Up Call: Is Your CI/CD Pipeline Secure?",
+    "desc": "<h2>\n  \n  \n  The Alpine Linux incident reveals why patching GitLab is not enough\u2014and what every business should do to protect its software s",
+    "link": "https://dev.to/aiza-hextyx/gitlabs-critical-cvss-100-wake-up-call-is-your-cicd-pipeline-secure-5h3a",
+    "topic": "general"
   },
   {
-    "title": "Qdrant 1.20 Ranks Keyword Matches Inside the Full-Text Index",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Qdrant is an open-source vector database that stores embeddings beside payload fields and answers similar",
-    "link": "https://dev.to/echakiri/qdrant-120-ranks-keyword-matches-inside-the-full-text-index-2i99",
-    "topic": "general"
+    "title": "What makes up your AWS NAT gateway cost",
+    "desc": "<p>Your AWS NAT gateway cost is the price of the service that lets servers without a public IP address reach the internet. According to <a h",
+    "link": "https://dev.to/codelevel/what-makes-up-your-aws-nat-gateway-cost-21k5",
+    "topic": "aws"
   }
 ]
