@@ -1,50 +1,50 @@
 [
   {
-    "title": "On-Call Rotation: How to Design a Schedule for Small Teams",
-    "desc": "<p><em>This guide was written by <a href=\"https://meteorops.com/team/arthur-azrieli\" rel=\"noopener noreferrer\">Arthur Azrieli</a>, CTO at Me",
-    "link": "https://dev.to/meteorops/on-call-rotation-how-to-design-a-schedule-for-small-teams-1hoh",
+    "title": "Rat Things: a self-hosted control plane for AI agents on your own AWS",
+    "desc": "<p>Rat Things is a self-hosted control plane for AI agents. It runs per-session EC2 or Lambda MicroVM workers in your own AWS account, plus ",
+    "link": "https://dev.to/gregpazo/rat-things-a-self-hosted-control-plane-for-ai-agents-on-your-own-aws-162m",
+    "topic": "aws"
+  },
+  {
+    "title": "PagerDuty's Paige Wants to Join Your On-Call Team \u2014 Explained Honestly",
+    "desc": "<p>Nothing here is sponsored \u2014 no affiliate links on this page. This breaking article is not the daily buyer-intent post. Facts below come f",
+    "link": "https://dev.to/paullovelace/pagerdutys-paige-wants-to-join-your-on-call-team-explained-honestly-3ndj",
     "topic": "general"
   },
   {
-    "title": "Your Build Scripts Still Run VBScript and Windows Is Switching It Off",
-    "desc": "<p>Somewhere in your company<br />\nthere is a file<br />\nending in dot vbs.</p>\n\n<p>Probably more than one.</p>\n\n<p>A logon script<br />\ntha",
-    "link": "https://dev.to/sergueyasaelshinder/your-build-scripts-still-run-vbscript-and-windows-is-switching-it-off-18b9",
+    "title": "Crontab Syntax Explained: How 5-Part Cron Expressions Actually Work",
+    "desc": "<p>Almost every backend engineer, systems administrator, and DevOps practitioner has stared at a crontab schedule and paused for ten seconds",
+    "link": "https://dev.to/rashid_salimov_ad8baac497/crontab-syntax-explained-how-5-part-cron-expressions-actually-work-5cho",
     "topic": "general"
   },
   {
-    "title": "How to use your root domain (example.com) as a custom domain",
-    "desc": "<p><em>By Octave \u00b7 drafted with AI, tested on Hubfly space. Originally published on the <a href=\"https://blog.hubfly.space/root-domain-custo",
-    "link": "https://dev.to/octave_nkurunziza_afb0512/how-to-use-your-root-domain-examplecom-as-a-custom-domain-15pb",
+    "title": "LILY Margin Notes, part 1: The technologies that disappear",
+    "desc": "<p><strong>A technology has reached maturity when people stop noticing it. Writing passed that test shortly after Gutenberg's reimagining of",
+    "link": "https://dev.to/eliasfromlily/lily-margin-notes-part-1-the-technologies-that-disappear-4mhi",
     "topic": "general"
   },
   {
-    "title": "Four Failure Domains",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/anton_brilliantov/four-failure-domains-ia7",
+    "title": "max_wal_size, explained",
+    "desc": "<p><em>max_wal_size gives PostgreSQL's transaction log a size budget. Some write-heavy servers outgrow the 1 GB default - and when that happ",
+    "link": "https://dev.to/guardioz/maxwalsize-explained-484h",
     "topic": "general"
   },
   {
-    "title": "Find broken links on your website for free (and fail CI when new ones appear)",
-    "desc": "<p>Broken links pile up quietly. A partner renames a page, a docs section moves, or a typo slips into a Markdown file. Visitors hit 404s and",
-    "link": "https://dev.to/paperandlinenstudio/find-broken-links-on-your-website-for-free-and-fail-ci-when-new-ones-appear-48be",
+    "title": "How Data Engineering Services Help Enterprises Build AI-Ready Data Platforms",
+    "desc": "<p>\ud83d\ude80 <strong>Building AI-Ready Data Platforms Starts with Strong Data Engineering!</strong></p>\n\n<p>AI is transforming businesses through in",
+    "link": "https://dev.to/awsquality/how-data-engineering-services-help-enterprises-build-ai-ready-data-platforms-1554",
     "topic": "general"
   },
   {
-    "title": "NDIS Funding Changes 2026: What Participants Need to Know",
-    "desc": "<p>The National Disability Insurance Scheme (NDIS) is undergoing significant changes in 2026. These reforms are intended to improve the long",
-    "link": "https://dev.to/sahimacare/ndis-funding-changes-2026-what-participants-need-to-know-lco",
+    "title": "Why your reproduction time is the real bottleneck in debugging \ud83d\udc1b",
+    "desc": "<p>It is 3pm on a Tuesday. A bug only happens on one customer's account, and three engineers spend the rest of the afternoon staring at logs",
+    "link": "https://dev.to/upsun/why-your-reproduction-time-is-the-real-bottleneck-in-debugging-4bj2",
     "topic": "general"
   },
   {
-    "title": "Fleet Maintenance Alerts Fire Twice: Deduplicating OBD-II Fault Codes in a Telematics Backend",
-    "desc": "<p>A fleet maintenance alert should help a technician decide what needs attention. It should not force the maintenance team to investigate t",
-    "link": "https://dev.to/williamsj04/fleet-maintenance-alerts-fire-twice-deduplicating-obd-ii-fault-codes-in-a-telematics-backend-1aac",
-    "topic": "general"
-  },
-  {
-    "title": "SCP Commands That Still Matter, and When rsync Beats Them",
-    "desc": "<p><code>scp</code> is the command everyone learns first and then quietly stops using, usually after the first time a transfer dies at 90% a",
-    "link": "https://dev.to/o_oliver_3b38e6829628a1e9/scp-commands-that-still-matter-and-when-rsync-beats-them-22cf",
+    "title": "Build your own caching rules with pre-cache execution and Cache API in Bunny Edge Scripting",
+    "desc": "<p><em>Originally published at bunny.net on July 28, 2026.</em></p>\n\n<p>Until now, <a href=\"https://docs.bunny.net/scripting\" rel=\"noopener ",
+    "link": "https://dev.to/bunnydotnet/build-your-own-caching-rules-with-pre-cache-execution-and-cache-api-in-bunny-edge-scripting-3k5d",
     "topic": "general"
   }
 ]
