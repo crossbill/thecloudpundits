@@ -1,50 +1,50 @@
 [
   {
-    "title": "Is your reviewer agent ever actually called? Counting it from session logs",
-    "desc": "<p><em>Originally published at <a href=\"https://morgan-vale.blogspot.com/2026/11/is-your-reviewer-agent-ever-actually.html\" rel=\"noopener no",
-    "link": "https://dev.to/morganvale/is-your-reviewer-agent-ever-actually-called-counting-it-from-session-logs-1c5d",
+    "title": "On-Call Rotation: How to Design a Schedule for Small Teams",
+    "desc": "<p><em>This guide was written by <a href=\"https://meteorops.com/team/arthur-azrieli\" rel=\"noopener noreferrer\">Arthur Azrieli</a>, CTO at Me",
+    "link": "https://dev.to/meteorops/on-call-rotation-how-to-design-a-schedule-for-small-teams-1hoh",
     "topic": "general"
   },
   {
-    "title": "Decoding IAM: The Invisible Shield Every Engineer Needs to Understand",
-    "desc": "<p>It's 2 AM on a quiet Tuesday. You just closed VS Code after a long day of wrestling with container deployment scripts. Suddenly, a PagerD",
-    "link": "https://dev.to/karthikkorrayi/decoding-iam-the-invisible-shield-every-engineer-needs-to-understand-6oi",
-    "topic": "secops"
-  },
-  {
-    "title": "asyncpg + PgBouncer Transaction Mode: 61 Prepared Statement Errors",
-    "desc": "<p>On a weeknight around 9:40, fourteen people finished a session in my app inside the same three minutes. Three of them never got their rep",
-    "link": "https://dev.to/ji_ai/asyncpg-pgbouncer-transaction-mode-61-prepared-statement-errors-2pin",
+    "title": "Your Build Scripts Still Run VBScript and Windows Is Switching It Off",
+    "desc": "<p>Somewhere in your company<br />\nthere is a file<br />\nending in dot vbs.</p>\n\n<p>Probably more than one.</p>\n\n<p>A logon script<br />\ntha",
+    "link": "https://dev.to/sergueyasaelshinder/your-build-scripts-still-run-vbscript-and-windows-is-switching-it-off-18b9",
     "topic": "general"
   },
   {
-    "title": "Object Storage Services for Secure AI-Generated Image Hosting with Reproducible Retention",
-    "desc": "<p>The decision rule is straightforward: use private object storage for original training artifacts, put retention policy outside the upload",
-    "link": "https://dev.to/liamfoster1844/object-storage-services-for-secure-ai-generated-image-hosting-with-reproducible-retention-14g6",
+    "title": "How to use your root domain (example.com) as a custom domain",
+    "desc": "<p><em>By Octave \u00b7 drafted with AI, tested on Hubfly space. Originally published on the <a href=\"https://blog.hubfly.space/root-domain-custo",
+    "link": "https://dev.to/octave_nkurunziza_afb0512/how-to-use-your-root-domain-examplecom-as-a-custom-domain-15pb",
     "topic": "general"
   },
   {
-    "title": "SaaS Uptime SLAs: What to Offer Enterprise Customers and How to Engineer 99.99% or Better",
-    "desc": "<p>Offer an SLA one step below what your architecture has proven it can deliver, commonly 99.9% for standard plans and 99.95% or 99.99% for ",
-    "link": "https://dev.to/noahcontrolplane/saas-uptime-slas-what-to-offer-enterprise-customers-and-how-to-engineer-9999-or-better-5947",
+    "title": "Four Failure Domains",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/anton_brilliantov/four-failure-domains-ia7",
     "topic": "general"
   },
   {
-    "title": "SIP: Security Immediate Plan for Java",
-    "desc": "<p>Building a secure software supply chain is often depicted as a monumental transformation of the existing practices. You need to redesign ",
-    "link": "https://dev.to/aerabi/sip-security-immediate-plan-for-java-2aek",
-    "topic": "secops"
-  },
-  {
-    "title": "Day 2 Operations for AI Infrastructure: How to Keep Model Serving Running 24/7",
-    "desc": "<p>Keeping AI infrastructure running 24/7 takes automated patching and upgrades, autoscaling, three layers of observability (infrastructure,",
-    "link": "https://dev.to/noahcontrolplane/day-2-operations-for-ai-infrastructure-how-to-keep-model-serving-running-247-16ko",
+    "title": "Find broken links on your website for free (and fail CI when new ones appear)",
+    "desc": "<p>Broken links pile up quietly. A partner renames a page, a docs section moves, or a typo slips into a Markdown file. Visitors hit 404s and",
+    "link": "https://dev.to/paperandlinenstudio/find-broken-links-on-your-website-for-free-and-fail-ci-when-new-ones-appear-48be",
     "topic": "general"
   },
   {
-    "title": "How to Run Regulated Apps in the Cloud: SOC 2, HIPAA, and PCI DSS Platforms, Data Residency With Failover, and a Compliance Checklist",
-    "desc": "<p>A compliant application platform gives you audited infrastructure controls, but compliance is shared: you still need your own controls fo",
-    "link": "https://dev.to/noahcontrolplane/how-to-run-regulated-apps-in-the-cloud-soc-2-hipaa-and-pci-dss-platforms-data-residency-with-664",
+    "title": "NDIS Funding Changes 2026: What Participants Need to Know",
+    "desc": "<p>The National Disability Insurance Scheme (NDIS) is undergoing significant changes in 2026. These reforms are intended to improve the long",
+    "link": "https://dev.to/sahimacare/ndis-funding-changes-2026-what-participants-need-to-know-lco",
+    "topic": "general"
+  },
+  {
+    "title": "Fleet Maintenance Alerts Fire Twice: Deduplicating OBD-II Fault Codes in a Telematics Backend",
+    "desc": "<p>A fleet maintenance alert should help a technician decide what needs attention. It should not force the maintenance team to investigate t",
+    "link": "https://dev.to/williamsj04/fleet-maintenance-alerts-fire-twice-deduplicating-obd-ii-fault-codes-in-a-telematics-backend-1aac",
+    "topic": "general"
+  },
+  {
+    "title": "SCP Commands That Still Matter, and When rsync Beats Them",
+    "desc": "<p><code>scp</code> is the command everyone learns first and then quietly stops using, usually after the first time a transfer dies at 90% a",
+    "link": "https://dev.to/o_oliver_3b38e6829628a1e9/scp-commands-that-still-matter-and-when-rsync-beats-them-22cf",
     "topic": "general"
   }
 ]

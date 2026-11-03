@@ -1,5 +1,11 @@
 [
   {
+    "title": "Transformers Model Integration Contracts",
+    "desc": "",
+    "link": "https://huggingface.co/blog/transformers-mic",
+    "topic": "general"
+  },
+  {
     "title": "nemotron-halloween",
     "desc": "",
     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/novelty-bench",
     "topic": "general"
-  },
-  {
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "desc": "",
-    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "topic": "aws"
   }
 ]
