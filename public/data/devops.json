@@ -1,50 +1,50 @@
 [
   {
-    "title": "Postgres Major Upgrades Without Fear: A Practical Shadow-Testing Pipeline with pg_upgrade --check, pg_stat_statements and Query Diffing",
-    "desc": "<p>Tu\u1ea7n n\u00e0y tr\u00ean Hacker News c\u00f3 m\u1ed9t thread h\u01a1n 700 \u0111i\u1ec3m: Postgres 19 b\u1ecb tr\u1ec5 v\u00ec ng\u01b0\u1eddi ta t\u00ecm ra nhi\u1ec1u bug h\u01a1n h\u1eb3n tr\u01b0\u1edbc \u0111\u00e2y, m\u1ed9t ph\u1ea7n nh\u1edd c\u00e1c",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/postgres-major-upgrades-without-fear-a-practical-shadow-testing-pipeline-with-pgupgrade-check-27eb",
+    "title": "Is your reviewer agent ever actually called? Counting it from session logs",
+    "desc": "<p><em>Originally published at <a href=\"https://morgan-vale.blogspot.com/2026/11/is-your-reviewer-agent-ever-actually.html\" rel=\"noopener no",
+    "link": "https://dev.to/morganvale/is-your-reviewer-agent-ever-actually-called-counting-it-from-session-logs-1c5d",
     "topic": "general"
   },
   {
-    "title": "Defending AI Agents Against Indirect Prompt Injection & Tool Output Poisoning (OWASP LLM01 Guide)",
-    "desc": "<p>Autonomous AI agents and Model Context Protocol (MCP) servers have fundamentally changed software engineering: rather than merely reading",
-    "link": "https://dev.to/abhinavm945/defending-ai-agents-against-indirect-prompt-injection-tool-output-poisoning-owasp-llm01-guide-150m",
-    "topic": "guardrails"
+    "title": "Decoding IAM: The Invisible Shield Every Engineer Needs to Understand",
+    "desc": "<p>It's 2 AM on a quiet Tuesday. You just closed VS Code after a long day of wrestling with container deployment scripts. Suddenly, a PagerD",
+    "link": "https://dev.to/karthikkorrayi/decoding-iam-the-invisible-shield-every-engineer-needs-to-understand-6oi",
+    "topic": "secops"
   },
   {
-    "title": "Track CISA KEV additions and EPSS scores with curl and jq",
-    "desc": "<p><em>Drafted with AI assistance. Every command below was run against the live CISA KEV feed and FIRST's EPSS API on 2 November 2026 (jq 1.",
-    "link": "https://dev.to/varaxontech/track-cisa-kev-additions-and-epss-scores-with-curl-and-jq-3152",
+    "title": "asyncpg + PgBouncer Transaction Mode: 61 Prepared Statement Errors",
+    "desc": "<p>On a weeknight around 9:40, fourteen people finished a session in my app inside the same three minutes. Three of them never got their rep",
+    "link": "https://dev.to/ji_ai/asyncpg-pgbouncer-transaction-mode-61-prepared-statement-errors-2pin",
     "topic": "general"
   },
   {
-    "title": "[Boost]",
-    "desc": "<div class=\"ltag__link--embedded\">\n  <div class=\"crayons-story \">\n  <a class=\"crayons-story__hidden-navigation-link\" href=\"https://dev.to/at",
-    "link": "https://dev.to/arpo/-1b55",
+    "title": "Object Storage Services for Secure AI-Generated Image Hosting with Reproducible Retention",
+    "desc": "<p>The decision rule is straightforward: use private object storage for original training artifacts, put retention policy outside the upload",
+    "link": "https://dev.to/liamfoster1844/object-storage-services-for-secure-ai-generated-image-hosting-with-reproducible-retention-14g6",
     "topic": "general"
   },
   {
-    "title": "SMTP Codes: What the Mail Server Is Telling You",
-    "desc": "<p>Every SMTP command gets a reply with 3 digits. Your MTA (Mail Transfer Agent) reads that code to decide what to do next. The first digit ",
-    "link": "https://dev.to/devmaycry/smtp-codes-what-the-mail-server-is-telling-you-353g",
+    "title": "SaaS Uptime SLAs: What to Offer Enterprise Customers and How to Engineer 99.99% or Better",
+    "desc": "<p>Offer an SLA one step below what your architecture has proven it can deliver, commonly 99.9% for standard plans and 99.95% or 99.99% for ",
+    "link": "https://dev.to/noahcontrolplane/saas-uptime-slas-what-to-offer-enterprise-customers-and-how-to-engineer-9999-or-better-5947",
     "topic": "general"
   },
   {
-    "title": "Zero-Code Context Propagation: Replacing Heavy APM Sidecars with eBPF in 2026",
-    "desc": "<p>If you are running polyglot microservices (Go, Rust, Java, Python) across production Kubernetes clusters, injecting APM SDKs into every r",
-    "link": "https://dev.to/aidevtoolkit/zero-code-context-propagation-replacing-heavy-apm-sidecars-with-ebpf-in-2026-1d9i",
+    "title": "SIP: Security Immediate Plan for Java",
+    "desc": "<p>Building a secure software supply chain is often depicted as a monumental transformation of the existing practices. You need to redesign ",
+    "link": "https://dev.to/aerabi/sip-security-immediate-plan-for-java-2aek",
+    "topic": "secops"
+  },
+  {
+    "title": "Day 2 Operations for AI Infrastructure: How to Keep Model Serving Running 24/7",
+    "desc": "<p>Keeping AI infrastructure running 24/7 takes automated patching and upgrades, autoscaling, three layers of observability (infrastructure,",
+    "link": "https://dev.to/noahcontrolplane/day-2-operations-for-ai-infrastructure-how-to-keep-model-serving-running-247-16ko",
     "topic": "general"
   },
   {
-    "title": "AI coding and open-source CRM: the Salesforce replacement test",
-    "desc": "<p>AI coding is making it easier to attempt a familiar developer ambition: replace a subscription service with software you can operate your",
-    "link": "https://dev.to/axrisi/ai-coding-and-open-source-crm-the-salesforce-replacement-test-4on2",
-    "topic": "general"
-  },
-  {
-    "title": "Which Are the Top 10 DevOps Solutions and Services Companies in the USA?",
-    "desc": "<p>Choosing the right technology partner is an important decision for any business planning to improve its software delivery process. The ri",
-    "link": "https://dev.to/jacobfoster21/which-are-the-top-10-devops-solutions-and-services-companies-in-the-usa-1i64",
+    "title": "How to Run Regulated Apps in the Cloud: SOC 2, HIPAA, and PCI DSS Platforms, Data Residency With Failover, and a Compliance Checklist",
+    "desc": "<p>A compliant application platform gives you audited infrastructure controls, but compliance is shared: you still need your own controls fo",
+    "link": "https://dev.to/noahcontrolplane/how-to-run-regulated-apps-in-the-cloud-soc-2-hipaa-and-pci-dss-platforms-data-residency-with-664",
     "topic": "general"
   }
 ]
