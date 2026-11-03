@@ -1,50 +1,50 @@
 [
   {
-    "title": "Rat Things: a self-hosted control plane for AI agents on your own AWS",
-    "desc": "<p>Rat Things is a self-hosted control plane for AI agents. It runs per-session EC2 or Lambda MicroVM workers in your own AWS account, plus ",
-    "link": "https://dev.to/gregpazo/rat-things-a-self-hosted-control-plane-for-ai-agents-on-your-own-aws-162m",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/agentic-cheminformatics-google-antigravity/?utm_source=devt",
+    "link": "https://dev.to/pklavc/agentic-cheminformatics-with-google-antigravity-5e18",
+    "topic": "general"
+  },
+  {
+    "title": "How to Cut WhatsApp Service Message Costs After Oct 2026",
+    "desc": "<p><strong>Important:</strong> Every Omdaa product and feature \u2014 sessions, messages, Webhooks, Omdaa AI, MCP, mail, analytics \u2014 is <strong>1",
+    "link": "https://dev.to/omdaa/how-to-cut-whatsapp-service-message-costs-after-oct-2026-302g",
+    "topic": "general"
+  },
+  {
+    "title": "WhatsApp Marketing Messages API \u2014 Prepare Before Oct 2027",
+    "desc": "<p><strong>Important:</strong> Every Omdaa product and feature \u2014 sessions, messages, Webhooks, Omdaa AI, MCP, mail, analytics \u2014 is <strong>1",
+    "link": "https://dev.to/omdaa/whatsapp-marketing-messages-api-prepare-before-oct-2027-2bhj",
+    "topic": "general"
+  },
+  {
+    "title": "BSI TR-03185 & CRA: How to Ship Security Patches Without Triggering Software Re-Certification",
+    "desc": "<p>Shipping rapid security updates, CVE hotfixes, and cryptographic library upgrades (such as OpenSSL 3.5 or wolfSSL PQC patches) in regulat",
+    "link": "https://dev.to/kenanerorr404/bsi-tr-03185-cra-how-to-ship-security-patches-without-triggering-software-re-certification-5bll",
+    "topic": "secops"
+  },
+  {
+    "title": "Auditing OpenSSH, OpenSSL & X.509 for the 2031 Post-Quantum (BSI TR-02102-1 & NIS-2) Deadline with a Zero-Dependency Python CLI",
+    "desc": "<p>With the updated <strong>BSI Technical Guideline TR-02102-1</strong> (<em>Cryptographic Mechanisms: Recommendations and Key Lengths</em>)",
+    "link": "https://dev.to/kenanerorr404/auditing-openssh-openssl-x509-for-the-2031-post-quantum-bsi-tr-02102-1-nis-2-deadline-with-5ad1",
+    "topic": "general"
+  },
+  {
+    "title": "Docker said healthy. Our Laravel deployment still failed readiness.",
+    "desc": "<p>The candidate containers started. Nginx accepted its configuration. Docker marked the application healthy. Our blue-green deployment stil",
+    "link": "https://dev.to/podimov/docker-said-healthy-our-laravel-deployment-still-failed-readiness-2mpi",
+    "topic": "docker"
+  },
+  {
+    "title": "Policy as Code for Multi-Cloud Infrastructure: How to Structure IaC Governance, Pick the Tools, and Automate Enforcement and Patching",
+    "desc": "<p>Structure multi-cloud governance as layered policy as code, with the same written rules enforced at four points: in the editor and pull r",
+    "link": "https://dev.to/noahcontrolplane/policy-as-code-for-multi-cloud-infrastructure-how-to-structure-iac-governance-pick-the-tools-and-oae",
+    "topic": "general"
+  },
+  {
+    "title": "Which PaaS Lets You Run Apps in Your Own AWS or GCP Account? A Guide to Bring-Your-Own-Cloud (BYOC) Platforms",
+    "desc": "<p>A bring-your-own-cloud (BYOC) PaaS deploys apps into your own AWS or GCP account, so compute, data, and cloud spend stay in your account ",
+    "link": "https://dev.to/noahcontrolplane/which-paas-lets-you-run-apps-in-your-own-aws-or-gcp-account-a-guide-to-bring-your-own-cloud-byoc-bpd",
     "topic": "aws"
-  },
-  {
-    "title": "PagerDuty's Paige Wants to Join Your On-Call Team \u2014 Explained Honestly",
-    "desc": "<p>Nothing here is sponsored \u2014 no affiliate links on this page. This breaking article is not the daily buyer-intent post. Facts below come f",
-    "link": "https://dev.to/paullovelace/pagerdutys-paige-wants-to-join-your-on-call-team-explained-honestly-3ndj",
-    "topic": "general"
-  },
-  {
-    "title": "Crontab Syntax Explained: How 5-Part Cron Expressions Actually Work",
-    "desc": "<p>Almost every backend engineer, systems administrator, and DevOps practitioner has stared at a crontab schedule and paused for ten seconds",
-    "link": "https://dev.to/rashid_salimov_ad8baac497/crontab-syntax-explained-how-5-part-cron-expressions-actually-work-5cho",
-    "topic": "general"
-  },
-  {
-    "title": "LILY Margin Notes, part 1: The technologies that disappear",
-    "desc": "<p><strong>A technology has reached maturity when people stop noticing it. Writing passed that test shortly after Gutenberg's reimagining of",
-    "link": "https://dev.to/eliasfromlily/lily-margin-notes-part-1-the-technologies-that-disappear-4mhi",
-    "topic": "general"
-  },
-  {
-    "title": "max_wal_size, explained",
-    "desc": "<p><em>max_wal_size gives PostgreSQL's transaction log a size budget. Some write-heavy servers outgrow the 1 GB default - and when that happ",
-    "link": "https://dev.to/guardioz/maxwalsize-explained-484h",
-    "topic": "general"
-  },
-  {
-    "title": "How Data Engineering Services Help Enterprises Build AI-Ready Data Platforms",
-    "desc": "<p>\ud83d\ude80 <strong>Building AI-Ready Data Platforms Starts with Strong Data Engineering!</strong></p>\n\n<p>AI is transforming businesses through in",
-    "link": "https://dev.to/awsquality/how-data-engineering-services-help-enterprises-build-ai-ready-data-platforms-1554",
-    "topic": "general"
-  },
-  {
-    "title": "Why your reproduction time is the real bottleneck in debugging \ud83d\udc1b",
-    "desc": "<p>It is 3pm on a Tuesday. A bug only happens on one customer's account, and three engineers spend the rest of the afternoon staring at logs",
-    "link": "https://dev.to/upsun/why-your-reproduction-time-is-the-real-bottleneck-in-debugging-4bj2",
-    "topic": "general"
-  },
-  {
-    "title": "Build your own caching rules with pre-cache execution and Cache API in Bunny Edge Scripting",
-    "desc": "<p><em>Originally published at bunny.net on July 28, 2026.</em></p>\n\n<p>Until now, <a href=\"https://docs.bunny.net/scripting\" rel=\"noopener ",
-    "link": "https://dev.to/bunnydotnet/build-your-own-caching-rules-with-pre-cache-execution-and-cache-api-in-bunny-edge-scripting-3k5d",
-    "topic": "general"
   }
 ]

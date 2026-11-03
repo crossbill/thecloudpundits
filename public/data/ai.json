@@ -1,5 +1,23 @@
 [
   {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "topic": "general"
+  },
+  {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "topic": "general"
+  },
+  {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "desc": "",
+    "link": "https://huggingface.co/blog/cwe-bench",
+    "topic": "general"
+  },
+  {
     "title": "Transformers Model Integration Contracts",
     "desc": "",
     "link": "https://huggingface.co/blog/transformers-mic",
@@ -28,23 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/mistral-large4",
     "topic": "huggingface"
-  },
-  {
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "desc": "",
-    "link": "https://huggingface.co/blog/anydecisionmodel",
-    "topic": "general"
-  },
-  {
-    "title": "Build specialized multimodal models with LFM3",
-    "desc": "",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "topic": "general"
-  },
-  {
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "desc": "",
-    "link": "https://huggingface.co/blog/allenai/novelty-bench",
-    "topic": "general"
   }
 ]
