@@ -1,50 +1,50 @@
 [
   {
-    "title": "Agentic cheminformatics with Google Antigravity",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/agentic-cheminformatics-google-antigravity/?utm_source=devt",
-    "link": "https://dev.to/pklavc/agentic-cheminformatics-with-google-antigravity-5e18",
+    "title": "Git push to your own VPS: what Rubuz does, according to its docs (and what I'd check first)",
+    "desc": "<blockquote>\n<p><strong>Disclosure:</strong> Links to rubuz.com in this post are affiliate links. If you sign up through them I may earn a c",
+    "link": "https://dev.to/_579356bdff348c05e9ae17/git-push-to-your-own-vps-what-rubuz-does-according-to-its-docs-and-what-id-check-first-3pg1",
     "topic": "general"
   },
   {
-    "title": "How to Cut WhatsApp Service Message Costs After Oct 2026",
-    "desc": "<p><strong>Important:</strong> Every Omdaa product and feature \u2014 sessions, messages, Webhooks, Omdaa AI, MCP, mail, analytics \u2014 is <strong>1",
-    "link": "https://dev.to/omdaa/how-to-cut-whatsapp-service-message-costs-after-oct-2026-302g",
+    "title": "Stop Using Passwords for SSH: The Key-Based Auth Setup Guide",
+    "desc": "<p>Every sysadmin knows the drill. You log into a dozen servers a day, each with a password you half-remember. Some are memorable; some you'",
+    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/stop-using-passwords-for-ssh-the-key-based-auth-setup-guide-bcb",
     "topic": "general"
   },
   {
-    "title": "WhatsApp Marketing Messages API \u2014 Prepare Before Oct 2027",
-    "desc": "<p><strong>Important:</strong> Every Omdaa product and feature \u2014 sessions, messages, Webhooks, Omdaa AI, MCP, mail, analytics \u2014 is <strong>1",
-    "link": "https://dev.to/omdaa/whatsapp-marketing-messages-api-prepare-before-oct-2027-2bhj",
+    "title": "Choosing AI Knowledge Management for Air-Gapped Teams",
+    "desc": "<p>In an air-gapped network, an outdated procedure can keep circulating while the current answer stays buried in pages or files. A useful kn",
+    "link": "https://dev.to/tomaszkrystman/choosing-ai-knowledge-management-for-air-gapped-teams-5be7",
     "topic": "general"
   },
   {
-    "title": "BSI TR-03185 & CRA: How to Ship Security Patches Without Triggering Software Re-Certification",
-    "desc": "<p>Shipping rapid security updates, CVE hotfixes, and cryptographic library upgrades (such as OpenSSL 3.5 or wolfSSL PQC patches) in regulat",
-    "link": "https://dev.to/kenanerorr404/bsi-tr-03185-cra-how-to-ship-security-patches-without-triggering-software-re-certification-5bll",
-    "topic": "secops"
-  },
-  {
-    "title": "Auditing OpenSSH, OpenSSL & X.509 for the 2031 Post-Quantum (BSI TR-02102-1 & NIS-2) Deadline with a Zero-Dependency Python CLI",
-    "desc": "<p>With the updated <strong>BSI Technical Guideline TR-02102-1</strong> (<em>Cryptographic Mechanisms: Recommendations and Key Lengths</em>)",
-    "link": "https://dev.to/kenanerorr404/auditing-openssh-openssl-x509-for-the-2031-post-quantum-bsi-tr-02102-1-nis-2-deadline-with-5ad1",
+    "title": "Stop paying for GitHub Actions runs nobody reads (and the cancel-in-progress mistake in most snippets)",
+    "desc": "<p>Push three commits to a pull request in five minutes and GitHub Actions runs your CI three times, in full. Only the last result matters. ",
+    "link": "https://dev.to/robsonheals/stop-paying-for-github-actions-runs-nobody-reads-and-the-cancel-in-progress-mistake-in-most-60i",
     "topic": "general"
   },
   {
-    "title": "Docker said healthy. Our Laravel deployment still failed readiness.",
-    "desc": "<p>The candidate containers started. Nginx accepted its configuration. Docker marked the application healthy. Our blue-green deployment stil",
-    "link": "https://dev.to/podimov/docker-said-healthy-our-laravel-deployment-still-failed-readiness-2mpi",
-    "topic": "docker"
-  },
-  {
-    "title": "Policy as Code for Multi-Cloud Infrastructure: How to Structure IaC Governance, Pick the Tools, and Automate Enforcement and Patching",
-    "desc": "<p>Structure multi-cloud governance as layered policy as code, with the same written rules enforced at four points: in the editor and pull r",
-    "link": "https://dev.to/noahcontrolplane/policy-as-code-for-multi-cloud-infrastructure-how-to-structure-iac-governance-pick-the-tools-and-oae",
+    "title": "How to triage \u201cmodel down\u201d vs \u201cworkspace down\u201d before you rewrite scripts",
+    "desc": "<p>Builders often collapse three different failures into one Slack message: <em>AI is broken</em>. Sometimes the model endpoint is degraded.",
+    "link": "https://dev.to/neural_ethos/how-to-triage-model-down-vs-workspace-down-before-you-rewrite-scripts-43d7",
     "topic": "general"
   },
   {
-    "title": "Which PaaS Lets You Run Apps in Your Own AWS or GCP Account? A Guide to Bring-Your-Own-Cloud (BYOC) Platforms",
-    "desc": "<p>A bring-your-own-cloud (BYOC) PaaS deploys apps into your own AWS or GCP account, so compute, data, and cloud spend stay in your account ",
-    "link": "https://dev.to/noahcontrolplane/which-paas-lets-you-run-apps-in-your-own-aws-or-gcp-account-a-guide-to-bring-your-own-cloud-byoc-bpd",
-    "topic": "aws"
+    "title": "Observability isn't a dashboard: it's decision support",
+    "desc": "<h2>\n  \n  \n  Thesis\n</h2>\n\n<p>A dashboard can be green, and a change can still not be safe.</p>\n\n<p>Monitoring answers whether a threshold w",
+    "link": "https://dev.to/rogeroliveira86/observability-isnt-a-dashboard-its-decision-support-3a0k",
+    "topic": "general"
+  },
+  {
+    "title": "Six Ways an Alert Dies Silently (I Found All Six in 24 Hours)",
+    "desc": "<p>A quiet night and a broken pager look the same from the outside.</p>\n\n<p>That sentence is the whole problem. Every observability stack I ",
+    "link": "https://dev.to/dafili/six-ways-an-alert-dies-silently-i-found-all-six-in-24-hours-2f8k",
+    "topic": "general"
+  },
+  {
+    "title": "Eliminating the 38-Minute Morning Cold-Start Penalty: Context Bookmarking and Async SLAs",
+    "desc": "<p>Every software engineer knows the pain of morning context rehydration.</p>\n\n<p>You sit down at your terminal at 9:00 AM. Your IDE has twe",
+    "link": "https://dev.to/portalkinetic/eliminating-the-38-minute-morning-cold-start-penalty-context-bookmarking-and-async-slas-11h",
+    "topic": "general"
   }
 ]
