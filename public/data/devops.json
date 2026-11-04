@@ -1,50 +1,50 @@
 [
   {
-    "title": "Git push to your own VPS: what Rubuz does, according to its docs (and what I'd check first)",
-    "desc": "<blockquote>\n<p><strong>Disclosure:</strong> Links to rubuz.com in this post are affiliate links. If you sign up through them I may earn a c",
-    "link": "https://dev.to/_579356bdff348c05e9ae17/git-push-to-your-own-vps-what-rubuz-does-according-to-its-docs-and-what-id-check-first-3pg1",
+    "title": "Where to Get Ready-Made Taxi Booking Software with Passenger, Driver, and Admin Panels",
+    "desc": "<p>Starting a taxi booking business requires more than connecting passengers with drivers. Businesses need a reliable digital system to mana",
+    "link": "https://dev.to/nativeclusters_b695bf2918/where-to-get-ready-made-taxi-booking-software-with-passenger-driver-and-admin-panels-ogi",
     "topic": "general"
   },
   {
-    "title": "Stop Using Passwords for SSH: The Key-Based Auth Setup Guide",
-    "desc": "<p>Every sysadmin knows the drill. You log into a dozen servers a day, each with a password you half-remember. Some are memorable; some you'",
-    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/stop-using-passwords-for-ssh-the-key-based-auth-setup-guide-bcb",
+    "title": "Why static architecture diagrams fail in production (and how I built a 60 FPS queuing simulator in React)",
+    "desc": "<p>Every architecture review I've ever sat in goes roughly the same way. Someone opens Excalidraw or draw.io, draws a rectangle labeled <cod",
+    "link": "https://dev.to/hanubaki/why-static-architecture-diagrams-fail-in-production-and-how-i-built-a-60-fps-queuing-simulator-in-32ne",
     "topic": "general"
   },
   {
-    "title": "Choosing AI Knowledge Management for Air-Gapped Teams",
-    "desc": "<p>In an air-gapped network, an outdated procedure can keep circulating while the current answer stays buried in pages or files. A useful kn",
-    "link": "https://dev.to/tomaszkrystman/choosing-ai-knowledge-management-for-air-gapped-teams-5be7",
+    "title": "The logging setting that slows down new connections",
+    "desc": "<p><em>The name log_hostname suggests that this setting puts the client address into PostgreSQL's server log. It does not: the address comes",
+    "link": "https://dev.to/guardioz/the-logging-setting-that-slows-down-new-connections-261f",
     "topic": "general"
   },
   {
-    "title": "Stop paying for GitHub Actions runs nobody reads (and the cancel-in-progress mistake in most snippets)",
-    "desc": "<p>Push three commits to a pull request in five minutes and GitHub Actions runs your CI three times, in full. Only the last result matters. ",
-    "link": "https://dev.to/robsonheals/stop-paying-for-github-actions-runs-nobody-reads-and-the-cancel-in-progress-mistake-in-most-60i",
+    "title": "What AngusKit is: an AI-native software engineering platform, six products, one spine",
+    "desc": "<p>AngusKit is an AI-native software engineering platform: six products, one spine. Work runs from agents to code, artifacts, testing, secur",
+    "link": "https://dev.to/wenping/what-anguskit-is-an-ai-native-software-engineering-platform-six-products-one-spine-1ck7",
     "topic": "general"
   },
   {
-    "title": "How to triage \u201cmodel down\u201d vs \u201cworkspace down\u201d before you rewrite scripts",
-    "desc": "<p>Builders often collapse three different failures into one Slack message: <em>AI is broken</em>. Sometimes the model endpoint is degraded.",
-    "link": "https://dev.to/neural_ethos/how-to-triage-model-down-vs-workspace-down-before-you-rewrite-scripts-43d7",
+    "title": "Proxy rotation strategy: sessions, pace and retries",
+    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/proxy-rotation-strategy/\" rel=\"noopener noreferrer\">proxymint</a>.</em></p>\n\n<",
+    "link": "https://dev.to/proxymint/proxy-rotation-strategy-sessions-pace-and-retries-4h8m",
     "topic": "general"
   },
   {
-    "title": "Observability isn't a dashboard: it's decision support",
-    "desc": "<h2>\n  \n  \n  Thesis\n</h2>\n\n<p>A dashboard can be green, and a change can still not be safe.</p>\n\n<p>Monitoring answers whether a threshold w",
-    "link": "https://dev.to/rogeroliveira86/observability-isnt-a-dashboard-its-decision-support-3a0k",
+    "title": "Your Linux Dev Laptop Can Now Report to Defender: What the Preview Actually Needs",
+    "desc": "<p>If your company protects Windows PCs with Microsoft Defender for Endpoint, your Ubuntu or Fedora laptop may soon get the same agent. Micr",
+    "link": "https://dev.to/windowsmode/your-linux-dev-laptop-can-now-report-to-defender-what-the-preview-actually-needs-57k6",
     "topic": "general"
   },
   {
-    "title": "Six Ways an Alert Dies Silently (I Found All Six in 24 Hours)",
-    "desc": "<p>A quiet night and a broken pager look the same from the outside.</p>\n\n<p>That sentence is the whole problem. Every observability stack I ",
-    "link": "https://dev.to/dafili/six-ways-an-alert-dies-silently-i-found-all-six-in-24-hours-2f8k",
+    "title": "What changed in Argo CD 3.5 for ops teams upgrading from 3.x",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/11/04/what-changed-in-argo-cd-3-5-for-ops-teams-upgrading-from-3-x\" rel=",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/what-changed-in-argo-cd-35-for-ops-teams-upgrading-from-3x-2nmb",
     "topic": "general"
   },
   {
-    "title": "Eliminating the 38-Minute Morning Cold-Start Penalty: Context Bookmarking and Async SLAs",
-    "desc": "<p>Every software engineer knows the pain of morning context rehydration.</p>\n\n<p>You sit down at your terminal at 9:00 AM. Your IDE has twe",
-    "link": "https://dev.to/portalkinetic/eliminating-the-38-minute-morning-cold-start-penalty-context-bookmarking-and-async-slas-11h",
+    "title": "Choosing AI Project Planning Tools for Air-Gapped Teams: 7 Options Compared",
+    "desc": "<p>Air-gapped teams still need to plan milestones, dependencies, and delivery work together. Choosing a tool takes more than confirming that",
+    "link": "https://dev.to/saraebden/choosing-ai-project-planning-tools-for-air-gapped-teams-7-options-compared-g8p",
     "topic": "general"
   }
 ]
