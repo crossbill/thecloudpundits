@@ -1,50 +1,50 @@
 [
   {
-    "title": "termique v0.9.0 - Agents that work on your servers",
-    "desc": "<p>This is a feature release. The AI assistant in the terminal is gone, and Agents take its place: they work on your hosts over SSH, look in",
-    "link": "https://dev.to/masitings/termique-v090-agents-that-work-on-your-servers-2dib",
+    "title": "EMFILE on Production: A Field Engineer's Guide to File Descriptor Limits",
+    "desc": "<h1>\n  \n  \n  EMFILE on Production: A Field Engineer's Guide to File Descriptor Limits\n</h1>\n\n<p>It hit at 2 AM. Not with a dramatic stack tr",
+    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/emfile-on-production-a-field-engineers-guide-to-file-descriptor-limits-611",
     "topic": "general"
   },
   {
-    "title": "Part 13: Set Up Once, Release Everywhere: Our GitHub CI",
-    "desc": "<p>A release of MindMapVault used to be an afternoon. Build the Windows installer on a Windows machine, pack the Store package by hand, sign",
-    "link": "https://dev.to/kornel_maraz_5e66a3e4e27d/part-13-set-up-once-release-everywhere-our-github-ci-2ion",
+    "title": "Security Alert: DreamHost Confirms Two-Month Breach of File Manager Platform",
+    "desc": "<h3>\n  \n  \n  The News\n</h3>\n\n<p>DreamHost, a major web hosting provider, has confirmed a data breach that allowed attackers to access its Fi",
+    "link": "https://dev.to/hassanradwany/security-alert-dreamhost-confirms-two-month-breach-of-file-manager-platform-8o9",
+    "topic": "secops"
+  },
+  {
+    "title": "AWS Interconnect - Last Mile Preview with Equinix: Simplifying and Securing Hybrid Cloud Connectivity",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-interconnect-last-mile-preview-equinix/?utm_source=devt",
+    "link": "https://dev.to/pklavc/aws-interconnect-last-mile-preview-with-equinix-simplifying-and-securing-hybrid-cloud-5bbj",
+    "topic": "aws"
+  },
+  {
+    "title": "Deploy Odoo 17 like it's production: Nginx, WebSocket, SSL, systemd and backups that actually work",
+    "desc": "<p>Most \"Odoo on VPS\" tutorials get you to a login page. This one gets you to a server that still works after a reboot, a traffic spike, and",
+    "link": "https://dev.to/f1orgvmadridshipit/deploy-odoo-17-like-its-production-nginx-websocket-ssl-systemd-and-backups-that-actually-work-3hg7",
     "topic": "general"
   },
   {
-    "title": "OpenAI's Pando Is Not Open Source. Almost Nobody Noticed",
-    "desc": "<p>The post announcing Pando never says the word open-source. Within a day, four aggregator stories and a handful of Reddit threads were cal",
-    "link": "https://dev.to/dishant0406/openais-pando-is-not-open-source-almost-nobody-noticed-31on",
-    "topic": "openai"
-  },
-  {
-    "title": "Why Predicting Winner Models Breaks AI Routers",
-    "desc": "<p>If you run an agent workflow in production, you have almost certainly thought about building a model router.</p>\n\n<p>Frontier models cost",
-    "link": "https://dev.to/reidmarlow/why-predicting-winner-models-breaks-ai-routers-23pg",
+    "title": "Codex exec: execute Codex non-interactively in scripts and CI",
+    "desc": "<p>Originally published on <a href=\"https://vibeide.dev/blog/codex-exec/?utm_source=dev.to&utm_medium=referral&utm_campaign=outreach\">vibeid",
+    "link": "https://dev.to/vibeidedev/codex-exec-execute-codex-non-interactively-in-scripts-and-ci-4g50",
     "topic": "general"
   },
   {
-    "title": "Conflicting Canonicals in HTTP Headers and HTML: Trace Both Outputs",
-    "desc": "<p>When an HTTP canonical header and an HTML canonical element point to different URLs, inspect both outputs from the same page request befo",
-    "link": "https://dev.to/urielbitton/conflicting-canonicals-in-http-headers-and-html-trace-both-outputs-2pfi",
+    "title": "Moving an abandoned WordPress site without losing rankings: a checklist",
+    "desc": "<p>A common request in our studio: a small business has a WordPress site that nobody has updated in years. The developer is gone, the theme ",
+    "link": "https://dev.to/mmixstudio/moving-an-abandoned-wordpress-site-without-losing-rankings-a-checklist-48f2",
     "topic": "general"
   },
   {
-    "title": "ORA-01017 After a Password Change: Rotate It With Zero Downtime",
-    "desc": "<p>The security team wants the application account's password rotated. It's a one-line change:<br />\n</p>\n\n<div class=\"highlight js-code-hig",
-    "link": "https://dev.to/uptimearchitect/ora-01017-after-a-password-change-rotate-it-with-zero-downtime-3j3l",
+    "title": "I already had a VPS, so why was I paying a platform to deploy my apps?",
+    "desc": "<p>I already had my own VPS. It sat there with plenty of RAM, mostly idle. And I was <em>still</em> paying a platform to deploy my apps onto",
+    "link": "https://dev.to/foisal_islam_43df80b6d4e2/i-already-had-a-vps-so-why-was-i-paying-a-platform-to-deploy-my-apps-5blj",
     "topic": "general"
   },
   {
-    "title": "Quick tip: your cron script 'succeeded' because bash ignored the error. Start every job with set -euo pipefail",
-    "desc": "<p>Here's a nightly backup script that looks perfectly reasonable:<br />\n</p>\n\n<div class=\"highlight js-code-highlight\">\n<pre class=\"highlig",
-    "link": "https://dev.to/delayrun/quick-tip-your-cron-script-succeeded-because-bash-ignored-the-error-start-every-job-with-set-1f2f",
-    "topic": "general"
-  },
-  {
-    "title": "How to Learn GitHub Actions (Without Copy-Pasting YAML You Don't Understand)",
-    "desc": "<p>The first GitHub Actions workflow I shipped was a paste from a README. Thirty lines of YAML. Green check on the pull request. I felt brie",
-    "link": "https://dev.to/spartanrich430/how-to-learn-github-actions-without-copy-pasting-yaml-you-dont-understand-11pc",
+    "title": "Your # comment is part of the systemd EnvironmentFile value",
+    "desc": "<p><em>Ten minutes with two commands will tell you whether any service on your Linux box will refuse to start at its next restart because of",
+    "link": "https://dev.to/vainamoinen/your-comment-is-part-of-the-systemd-environmentfile-value-57a6",
     "topic": "general"
   }
 ]

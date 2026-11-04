@@ -1,5 +1,11 @@
 [
   {
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "desc": "",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "topic": "general"
+  },
+  {
     "title": "StateBench: Testing how language models track state changes over long documents",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/statebench",
@@ -40,11 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/announcing-project-protostar",
     "topic": "general"
-  },
-  {
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "desc": "",
-    "link": "https://huggingface.co/blog/mistral-large4",
-    "topic": "huggingface"
   }
 ]
