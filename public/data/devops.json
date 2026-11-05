@@ -1,50 +1,50 @@
 [
   {
-    "title": "Stop Letting AI Agents Run Commands Blindly: Meet Zero-Trust Sandbox Auditor",
-    "desc": "<h1>\n  \n  \n  Stop Letting AI Agents Run Commands Blindly: Meet Zero-Trust Sandbox Auditor\n</h1>\n\n<p>Every developer I know is experimenting ",
-    "link": "https://dev.to/6t9/stop-letting-ai-agents-run-commands-blindly-meet-zero-trust-sandbox-auditor-poc",
+    "title": "OpenTelemetry with Next.js, Node.js and Kubernetes: A Practical Production Setup",
+    "desc": "<p>When a production issue occurs, finding the actual cause can be harder than fixing it.</p>\n\n<p>A request might start in a Next.js fronten",
+    "link": "https://dev.to/modulis/opentelemetry-with-nextjs-nodejs-and-kubernetes-a-practical-production-setup-cl7",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "What happens when you give an LLM an MCP tool: 4 security patterns from auditing tool servers",
+    "desc": "<p>The Model Context Protocol (MCP) allows LLMs in Claude Desktop, Cursor, and agent frameworks to run tools, query databases, and read loca",
+    "link": "https://dev.to/mogley1011/what-happens-when-you-give-an-llm-an-mcp-tool-4-security-patterns-from-auditing-tool-servers-22g7",
+    "topic": "secops"
+  },
+  {
+    "title": "Architecting Enterprise AI Infrastructure: From Bare-Metal to K8s",
+    "desc": "<p>Scaling an artificial intelligence workload from a research sandbox into a production environment breaks traditional IT infrastructure. <",
+    "link": "https://dev.to/gpuyard/architecting-enterprise-ai-infrastructure-from-bare-metal-to-k8s-m4b",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "AWS FinOps Field Notes (2026-11-05): Eliminating Idle NAT Gateways & Unattached EIPs with Python",
+    "desc": "<p>While auditing cloud infrastructure costs this week, recurring configuration gaps continue to quietly inflate monthly cloud bills.</p>\n\n<",
+    "link": "https://dev.to/ace7coder/aws-finops-field-notes-2026-11-05-eliminating-idle-nat-gateways-unattached-eips-with-python-3kcp",
+    "topic": "aws"
+  },
+  {
+    "title": "Infrastructure as Code: Why Manual Cloud Setup Is Dead",
+    "desc": "<h3>\n  \n  \n  What is Infrastructure as Code?\n</h3>\n\n<p>Infrastructure as Code (IaC) is the practice of managing and provisioning cloud compu",
+    "link": "https://dev.to/saurav_tb_pandey/infrastructure-as-code-why-manual-cloud-setup-is-dead-alc",
     "topic": "general"
   },
   {
-    "title": "SLO Burn-Rate Alerting in Prometheus Alertmanager: Eliminating Pager Fatigue",
-    "desc": "<blockquote>\n<p><em>Originally published on the <a href=\"https://hostingpodium.com/blog/slo-burn-rate-alerting-prometheus-alertmanager-sre/\"",
-    "link": "https://dev.to/hostingpodium/slo-burn-rate-alerting-in-prometheus-alertmanager-eliminating-pager-fatigue-34f9",
+    "title": "Troubleshoot MongoDB Replica Sets Easily with Ivory",
+    "desc": "<h2>\n  \n  \n  Primary, secondaries, heartbeats and lag of the whole replica set in one screen \u2014 plus a step-down and a config editor when you",
+    "link": "https://dev.to/anselvo/troubleshoot-mongodb-replica-sets-easily-with-ivory-2464",
     "topic": "general"
   },
   {
-    "title": "The $6.34B Binance Hack Started With a Job Interview: The Full Chain and 4 Microsoft Locks",
-    "desc": "<p>On 29 October 2026, about <strong>$6.34 billion</strong> in assets was hit at Binance. On 3 November, Binance published its initial findi",
-    "link": "https://dev.to/cdsecuritylab/the-634b-binance-hack-started-with-a-job-interview-the-full-chain-and-4-microsoft-locks-4kg5",
-    "topic": "azure"
-  },
-  {
-    "title": "Tu herramienta de auditor\u00eda dice que es de solo lectura. \u00bfQui\u00e9n lo comprueba?",
-    "desc": "<p>Casi todas las herramientas de auditor\u00eda de Microsoft 365 dicen lo mismo en su README: <em>read-only, no modifica tu tenant</em>. Y casi ",
-    "link": "https://dev.to/earbona23/tu-herramienta-de-auditoria-dice-que-es-de-solo-lectura-quien-lo-comprueba-5bpi",
+    "title": "Don't Write Markdown Files for Your Coding Agent. Write Scripts.",
+    "desc": "<p>If you want agents to do what you want, you need to learn how to box them into deterministic actions. Unfortunately, this is not what cur",
+    "link": "https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00",
     "topic": "general"
   },
   {
-    "title": "Layer3: 236 salidas de proxies residenciales en la Casa Blanca",
-    "desc": "<p>Durante casi un mes, alguien conectado a la red de la Casa Blanca empuj\u00f3 tr\u00e1fico de internet a trav\u00e9s de proxies residenciales 236 veces,",
-    "link": "https://dev.to/lu1tr0n/layer3-236-salidas-de-proxies-residenciales-en-la-casa-blanca-2bfb",
-    "topic": "general"
-  },
-  {
-    "title": "supabase-js try/catch Doesn't Catch Errors: Check { error }",
-    "desc": "<h2>\n  \n  \n  Conclusion\n</h2>\n\n<p><strong>supabase-js query methods never throw on network or PostgREST failure.</strong> The contract templ",
-    "link": "https://dev.to/cometakaito/supabase-js-trycatch-doesnt-catch-errors-check-error--3f98",
-    "topic": "general"
-  },
-  {
-    "title": "GPT-5 Resmi Dirilis: Ancaman atau Peluang Baru bagi Data Scientist?",
-    "desc": "<p>Pada 1 Agustus 2025, OpenAI merilis model bahasa besar terbarunya, GPT-5. Peluncuran ini memicu perdebatan intensif di komunitas analitik",
-    "link": "https://dev.to/ibramedia/gpt-5-resmi-dirilis-ancaman-atau-peluang-baru-bagi-data-scientist-47i1",
-    "topic": "general"
-  },
-  {
-    "title": "Architecting a Bring-Your-Own (BYO) Database Schema for Webhook Ingress: Balancing Customer Data Control and Metadata",
-    "desc": "<p>Webhooks connect payment gateways, identity providers and SaaS platforms to the systems that act on their events. As enterprise adoption ",
-    "link": "https://dev.to/instawebhook/architecting-a-bring-your-own-byo-database-schema-for-webhook-ingress-balancing-customer-data-4dd8",
+    "title": "The Backup Verification Kit Is Live: Three Posts, a Public Argument and 21 Tests Later",
+    "desc": "<p>This site's backup series did not start as a product. It started with somebody else's bad month. On dev.to, Renhua Wei \u2014 who writes as da",
+    "link": "https://dev.to/softverseadmin/the-backup-verification-kit-is-live-three-posts-a-public-argument-and-21-tests-later-3g6p",
     "topic": "general"
   }
 ]
