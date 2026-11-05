@@ -1,50 +1,50 @@
 [
   {
-    "title": "OpenTelemetry with Next.js, Node.js and Kubernetes: A Practical Production Setup",
-    "desc": "<p>When a production issue occurs, finding the actual cause can be harder than fixing it.</p>\n\n<p>A request might start in a Next.js fronten",
-    "link": "https://dev.to/modulis/opentelemetry-with-nextjs-nodejs-and-kubernetes-a-practical-production-setup-cl7",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "What happens when you give an LLM an MCP tool: 4 security patterns from auditing tool servers",
-    "desc": "<p>The Model Context Protocol (MCP) allows LLMs in Claude Desktop, Cursor, and agent frameworks to run tools, query databases, and read loca",
-    "link": "https://dev.to/mogley1011/what-happens-when-you-give-an-llm-an-mcp-tool-4-security-patterns-from-auditing-tool-servers-22g7",
-    "topic": "secops"
-  },
-  {
-    "title": "Architecting Enterprise AI Infrastructure: From Bare-Metal to K8s",
-    "desc": "<p>Scaling an artificial intelligence workload from a research sandbox into a production environment breaks traditional IT infrastructure. <",
-    "link": "https://dev.to/gpuyard/architecting-enterprise-ai-infrastructure-from-bare-metal-to-k8s-m4b",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "AWS FinOps Field Notes (2026-11-05): Eliminating Idle NAT Gateways & Unattached EIPs with Python",
-    "desc": "<p>While auditing cloud infrastructure costs this week, recurring configuration gaps continue to quietly inflate monthly cloud bills.</p>\n\n<",
-    "link": "https://dev.to/ace7coder/aws-finops-field-notes-2026-11-05-eliminating-idle-nat-gateways-unattached-eips-with-python-3kcp",
-    "topic": "aws"
-  },
-  {
-    "title": "Infrastructure as Code: Why Manual Cloud Setup Is Dead",
-    "desc": "<h3>\n  \n  \n  What is Infrastructure as Code?\n</h3>\n\n<p>Infrastructure as Code (IaC) is the practice of managing and provisioning cloud compu",
-    "link": "https://dev.to/saurav_tb_pandey/infrastructure-as-code-why-manual-cloud-setup-is-dead-alc",
+    "title": "Your Agents Share a Brain Now. What Can the Next Agent Actually Check?",
+    "desc": "<p>Everyone shipped the same feature this month: one shared brain for all your agents. What one agent learns, every agent can read. It is a ",
+    "link": "https://dev.to/rambozambo/your-agents-share-a-brain-now-what-can-the-next-agent-actually-check-1kpe",
     "topic": "general"
   },
   {
-    "title": "Troubleshoot MongoDB Replica Sets Easily with Ivory",
-    "desc": "<h2>\n  \n  \n  Primary, secondaries, heartbeats and lag of the whole replica set in one screen \u2014 plus a step-down and a config editor when you",
-    "link": "https://dev.to/anselvo/troubleshoot-mongodb-replica-sets-easily-with-ivory-2464",
+    "title": "interview real time questions and answers",
+    "desc": "<ol>\n<li><p>Tell me about yourself.<br />\nI am DevOps Engineer with more than 5 years experience. I started at Southwest Airlines as Cloud E",
+    "link": "https://dev.to/jumptotech/interview-real-time-questions-and-answers-g0k",
     "topic": "general"
   },
   {
-    "title": "Don't Write Markdown Files for Your Coding Agent. Write Scripts.",
-    "desc": "<p>If you want agents to do what you want, you need to learn how to box them into deterministic actions. Unfortunately, this is not what cur",
-    "link": "https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00",
+    "title": "Grafana Puts a Sampling Budget Behind Every Trace It Keeps",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Adaptive Telemetry is a set of Grafana Cloud controls that decide which metrics, logs and traces a team k",
+    "link": "https://dev.to/neticslabs/grafana-puts-a-sampling-budget-behind-every-trace-it-keeps-23mf",
     "topic": "general"
   },
   {
-    "title": "The Backup Verification Kit Is Live: Three Posts, a Public Argument and 21 Tests Later",
-    "desc": "<p>This site's backup series did not start as a product. It started with somebody else's bad month. On dev.to, Renhua Wei \u2014 who writes as da",
-    "link": "https://dev.to/softverseadmin/the-backup-verification-kit-is-live-three-posts-a-public-argument-and-21-tests-later-3g6p",
+    "title": "I Finally Started Learning SQL. Here's What Clicked for Me.",
+    "desc": "<p>SQL was one of those things I kept pushing down my learning list.</p>\n\n<p>I knew databases were important, but whenever I thought about S",
+    "link": "https://dev.to/oreofe_towobola_fd2677ddc/i-finally-started-learning-sql-heres-what-clicked-for-me-21b9",
+    "topic": "general"
+  },
+  {
+    "title": "How to Modernize Legacy Applications Without a Full Rewrite",
+    "desc": "<p>An enterprise rarely becomes AI-ready by buying GPUs or moving virtual machines to a cloud provider. The difficult work is connecting fiv",
+    "link": "https://dev.to/kbv_research/how-to-modernize-legacy-applications-without-a-full-rewrite-5944",
+    "topic": "general"
+  },
+  {
+    "title": "Docker Build Secrets: Why ARG and COPY Leak Tokens Into Image History, and the BuildKit Fix",
+    "desc": "<p>If you pass an npm token, pip index password, or SSH key into <code>docker build</code> with <code>ARG</code>, <code>ENV</code>, or <code",
+    "link": "https://dev.to/libme/docker-build-secrets-why-arg-and-copy-leak-tokens-into-image-history-and-the-buildkit-fix-obg",
+    "topic": "docker"
+  },
+  {
+    "title": "GitLab's regex problem: one max-severity bug is exploited and another is waiting",
+    "desc": "<p>If you run self-managed GitLab, October gave you two emergency upgrades in nine days. If you only did the first one, you're still exposed",
+    "link": "https://dev.to/suraj_nandan/gitlabs-regex-problem-one-max-severity-bug-is-exploited-and-another-is-waiting-36e4",
+    "topic": "general"
+  },
+  {
+    "title": "Harden a fresh Ubuntu 24.04 server with one command (open source)",
+    "desc": "<p>Every new VPS gets the same first hour: create a user, lock down SSH, set up a firewall, install fail2ban, turn on automatic updates\u2026 and",
+    "link": "https://dev.to/veloxadev/harden-a-fresh-ubuntu-2404-server-with-one-command-open-source-2nge",
     "topic": "general"
   }
 ]

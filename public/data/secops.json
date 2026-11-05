@@ -1,5 +1,35 @@
 [
   {
+    "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+    "desc": "<p>An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million.</p>\n<p>T",
+    "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+    "topic": "aws"
+  },
+  {
+    "title": "Bank Phishing Sites Show Fake \u2018Suspended\u2019 Pages to Evade Takedowns",
+    "desc": "<p>More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit.</p>\n<p>The post <a href=\"http",
+    "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+    "topic": "general"
+  },
+  {
+    "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+    "desc": "<p>The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up afte",
+    "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+    "topic": "secops"
+  },
+  {
+    "title": "Cisco, WatchGuard Release Patches; SonicWall Won\u2019t Fix GMS Flaws",
+    "desc": "<p>Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws.</p>\n<p>The post <a href=\"https://www.securi",
+    "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+    "topic": "aws"
+  },
+  {
+    "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+    "desc": "<p>Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+    "topic": "general"
+  },
+  {
     "title": "CISO Conversations: Ryan Davis \u2013 The Unknown Is Where Security Meets Reality",
     "desc": "<p>Ryan Davis went from hacking his school\u2019s network to running security at New Charter Technologies. What worries him now is shadow AI.</p>",
     "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
@@ -16,35 +46,5 @@
     "desc": "<p>The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine.</p>\n<p>The post <a href=\"http",
     "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
     "topic": "general"
-  },
-  {
-    "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-    "desc": "<p>OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently.</p>\n<p",
-    "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
-    "topic": "openai"
-  },
-  {
-    "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-    "desc": "<p>Sysdig\u2019s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems.</p>\n<p",
-    "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-    "topic": "secops"
-  },
-  {
-    "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
-    "desc": "<p>An authentication bypass and a command injection flaw can be chained for root access on Barracuda\u2019s Email Security Gateway appliances.</p",
-    "link": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-    "topic": "general"
-  },
-  {
-    "title": "Agentic Data Security Firm Sentra Raises $150 Million",
-    "desc": "<p>The company will invest in agentic data security capabilities and expand its go-to-market organization.</p>\n<p>The post <a href=\"https://",
-    "link": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
-    "topic": "secops"
-  },
-  {
-    "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-    "desc": "<p>Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-    "topic": "secops"
   }
 ]
