@@ -1,50 +1,50 @@
 [
   {
-    "title": "EMFILE on Production: A Field Engineer's Guide to File Descriptor Limits",
-    "desc": "<h1>\n  \n  \n  EMFILE on Production: A Field Engineer's Guide to File Descriptor Limits\n</h1>\n\n<p>It hit at 2 AM. Not with a dramatic stack tr",
-    "link": "https://dev.to/jun_liu_ca219b73a8f1489b5/emfile-on-production-a-field-engineers-guide-to-file-descriptor-limits-611",
+    "title": "Stop Letting AI Agents Run Commands Blindly: Meet Zero-Trust Sandbox Auditor",
+    "desc": "<h1>\n  \n  \n  Stop Letting AI Agents Run Commands Blindly: Meet Zero-Trust Sandbox Auditor\n</h1>\n\n<p>Every developer I know is experimenting ",
+    "link": "https://dev.to/6t9/stop-letting-ai-agents-run-commands-blindly-meet-zero-trust-sandbox-auditor-poc",
     "topic": "general"
   },
   {
-    "title": "Security Alert: DreamHost Confirms Two-Month Breach of File Manager Platform",
-    "desc": "<h3>\n  \n  \n  The News\n</h3>\n\n<p>DreamHost, a major web hosting provider, has confirmed a data breach that allowed attackers to access its Fi",
-    "link": "https://dev.to/hassanradwany/security-alert-dreamhost-confirms-two-month-breach-of-file-manager-platform-8o9",
-    "topic": "secops"
-  },
-  {
-    "title": "AWS Interconnect - Last Mile Preview with Equinix: Simplifying and Securing Hybrid Cloud Connectivity",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-interconnect-last-mile-preview-equinix/?utm_source=devt",
-    "link": "https://dev.to/pklavc/aws-interconnect-last-mile-preview-with-equinix-simplifying-and-securing-hybrid-cloud-5bbj",
-    "topic": "aws"
-  },
-  {
-    "title": "Deploy Odoo 17 like it's production: Nginx, WebSocket, SSL, systemd and backups that actually work",
-    "desc": "<p>Most \"Odoo on VPS\" tutorials get you to a login page. This one gets you to a server that still works after a reboot, a traffic spike, and",
-    "link": "https://dev.to/f1orgvmadridshipit/deploy-odoo-17-like-its-production-nginx-websocket-ssl-systemd-and-backups-that-actually-work-3hg7",
+    "title": "SLO Burn-Rate Alerting in Prometheus Alertmanager: Eliminating Pager Fatigue",
+    "desc": "<blockquote>\n<p><em>Originally published on the <a href=\"https://hostingpodium.com/blog/slo-burn-rate-alerting-prometheus-alertmanager-sre/\"",
+    "link": "https://dev.to/hostingpodium/slo-burn-rate-alerting-in-prometheus-alertmanager-eliminating-pager-fatigue-34f9",
     "topic": "general"
   },
   {
-    "title": "Codex exec: execute Codex non-interactively in scripts and CI",
-    "desc": "<p>Originally published on <a href=\"https://vibeide.dev/blog/codex-exec/?utm_source=dev.to&utm_medium=referral&utm_campaign=outreach\">vibeid",
-    "link": "https://dev.to/vibeidedev/codex-exec-execute-codex-non-interactively-in-scripts-and-ci-4g50",
+    "title": "The $6.34B Binance Hack Started With a Job Interview: The Full Chain and 4 Microsoft Locks",
+    "desc": "<p>On 29 October 2026, about <strong>$6.34 billion</strong> in assets was hit at Binance. On 3 November, Binance published its initial findi",
+    "link": "https://dev.to/cdsecuritylab/the-634b-binance-hack-started-with-a-job-interview-the-full-chain-and-4-microsoft-locks-4kg5",
+    "topic": "azure"
+  },
+  {
+    "title": "Tu herramienta de auditor\u00eda dice que es de solo lectura. \u00bfQui\u00e9n lo comprueba?",
+    "desc": "<p>Casi todas las herramientas de auditor\u00eda de Microsoft 365 dicen lo mismo en su README: <em>read-only, no modifica tu tenant</em>. Y casi ",
+    "link": "https://dev.to/earbona23/tu-herramienta-de-auditoria-dice-que-es-de-solo-lectura-quien-lo-comprueba-5bpi",
     "topic": "general"
   },
   {
-    "title": "Moving an abandoned WordPress site without losing rankings: a checklist",
-    "desc": "<p>A common request in our studio: a small business has a WordPress site that nobody has updated in years. The developer is gone, the theme ",
-    "link": "https://dev.to/mmixstudio/moving-an-abandoned-wordpress-site-without-losing-rankings-a-checklist-48f2",
+    "title": "Layer3: 236 salidas de proxies residenciales en la Casa Blanca",
+    "desc": "<p>Durante casi un mes, alguien conectado a la red de la Casa Blanca empuj\u00f3 tr\u00e1fico de internet a trav\u00e9s de proxies residenciales 236 veces,",
+    "link": "https://dev.to/lu1tr0n/layer3-236-salidas-de-proxies-residenciales-en-la-casa-blanca-2bfb",
     "topic": "general"
   },
   {
-    "title": "I already had a VPS, so why was I paying a platform to deploy my apps?",
-    "desc": "<p>I already had my own VPS. It sat there with plenty of RAM, mostly idle. And I was <em>still</em> paying a platform to deploy my apps onto",
-    "link": "https://dev.to/foisal_islam_43df80b6d4e2/i-already-had-a-vps-so-why-was-i-paying-a-platform-to-deploy-my-apps-5blj",
+    "title": "supabase-js try/catch Doesn't Catch Errors: Check { error }",
+    "desc": "<h2>\n  \n  \n  Conclusion\n</h2>\n\n<p><strong>supabase-js query methods never throw on network or PostgREST failure.</strong> The contract templ",
+    "link": "https://dev.to/cometakaito/supabase-js-trycatch-doesnt-catch-errors-check-error--3f98",
     "topic": "general"
   },
   {
-    "title": "Your # comment is part of the systemd EnvironmentFile value",
-    "desc": "<p><em>Ten minutes with two commands will tell you whether any service on your Linux box will refuse to start at its next restart because of",
-    "link": "https://dev.to/vainamoinen/your-comment-is-part-of-the-systemd-environmentfile-value-57a6",
+    "title": "GPT-5 Resmi Dirilis: Ancaman atau Peluang Baru bagi Data Scientist?",
+    "desc": "<p>Pada 1 Agustus 2025, OpenAI merilis model bahasa besar terbarunya, GPT-5. Peluncuran ini memicu perdebatan intensif di komunitas analitik",
+    "link": "https://dev.to/ibramedia/gpt-5-resmi-dirilis-ancaman-atau-peluang-baru-bagi-data-scientist-47i1",
+    "topic": "general"
+  },
+  {
+    "title": "Architecting a Bring-Your-Own (BYO) Database Schema for Webhook Ingress: Balancing Customer Data Control and Metadata",
+    "desc": "<p>Webhooks connect payment gateways, identity providers and SaaS platforms to the systems that act on their events. As enterprise adoption ",
+    "link": "https://dev.to/instawebhook/architecting-a-bring-your-own-byo-database-schema-for-webhook-ingress-balancing-customer-data-4dd8",
     "topic": "general"
   }
 ]
