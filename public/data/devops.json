@@ -1,50 +1,50 @@
 [
   {
-    "title": "11 things quietly inflating your AWS bill (and how to find them in an afternoon)",
-    "desc": "<p>Most AWS bills don't explode. They creep. A test server nobody turned off, a disk left behind after an instance was deleted, logs that ar",
-    "link": "https://dev.to/pizzettiandre/11-things-quietly-inflating-your-aws-bill-and-how-to-find-them-in-an-afternoon-2fii",
-    "topic": "aws"
-  },
-  {
-    "title": "Isometric architecture diagrams as code: cloud diagrams in SVG from YAML",
-    "desc": "<p><em>Originally published on <a href=\"https://learn.homingo.co.in/guides/isometric-architecture-diagram-as-code\" rel=\"noopener noreferrer\"",
-    "link": "https://dev.to/mohd_yusufkhan_6c2088c04/isometric-architecture-diagrams-as-code-cloud-diagrams-in-svg-from-yaml-3d",
+    "title": "How we monitor websites and servers before problems reach customers",
+    "desc": "<h2>\n  \n  \n  Short answer\n</h2>\n\n<p>We monitor websites and servers on several levels: whether the site responds from the outside, how loade",
+    "link": "https://dev.to/webcoma/how-we-monitor-websites-and-servers-before-problems-reach-customers-c4e",
     "topic": "general"
   },
   {
-    "title": "When a Self-Hosted Model Gateway Tripped Trust & Safety",
-    "desc": "<p><em>Originally published on my blog \u2014 <a href=\"https://blog.hoelee.com/posts/when-a-self-hosted-model-router-tripped-trust-and-safety/\" r",
-    "link": "https://dev.to/hoelee/when-a-self-hosted-model-gateway-tripped-trust-safety-2odf",
+    "title": "GitHub Was Down for 8 Hours. Retries Made It Worse.",
+    "desc": "<div>\n    \n    \n  </div>\n\n\n<p>In August, GitHub went down for almost eight hours.</p>\n\n<p>It started when one part of its system got overloa",
+    "link": "https://dev.to/unmeshed/github-was-down-for-8-hours-retries-made-it-worse-4ipi",
     "topic": "general"
   },
   {
-    "title": "Three times our own metrics lied to us (and how we caught it)",
-    "desc": "<p>Our dashboard said our first outreach campaign hit a <strong>43% open rate</strong> with clicks within minutes. Our product showed <stron",
-    "link": "https://dev.to/lazynext/three-times-our-own-metrics-lied-to-us-and-how-we-caught-it-p2h",
+    "title": "How far you can get free before a cloud computing course in Nepal",
+    "desc": "<p>You can learn the first month of cloud computing for free, on the laptop you already have. Start with the Linux terminal, not with AWS, b",
+    "link": "https://dev.to/saarathi_academy/how-far-you-can-get-free-before-a-cloud-computing-course-in-nepal-5e9b",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Monitoring Tools for Small Teams (2026)",
-    "desc": "<p>Kubernetes makes monitoring harder in a specific way: the things you care about \u2014 a Deployment, a service \u2014 are made of pods that come an",
-    "link": "https://dev.to/august_occh_dev/kubernetes-monitoring-tools-for-small-teams-2026-57gc",
-    "topic": "kubernetes"
+    "title": "What to Do Before OpenAI GPT-5 and o3 Shut Down on December 11, 2026",
+    "desc": "<p>OpenAI removes <code>gpt-5</code>, <code>gpt-5-mini</code>, <code>gpt-5-nano</code>, <code>gpt-5-pro</code>, <code>o3</code>, <code>o3-pr",
+    "link": "https://dev.to/aideprecations/what-to-do-before-openai-gpt-5-and-o3-shut-down-on-december-11-2026-fap",
+    "topic": "openai"
   },
   {
-    "title": "Sovereign Multi-Agent Brokerage: Zero-Trust Security, Dynamic Leases, and Rate-Limiting for 97+ Enterprise Connectors",
-    "desc": "<h1>\n  \n  \n  Sovereign Multi-Agent Brokerage: Zero-Trust Security, Dynamic Leases, and Rate-Limiting for 97+ Enterprise Connectors\n</h1>\n\n<p",
-    "link": "https://dev.to/bennialencar/sovereign-multi-agent-brokerage-zero-trust-security-dynamic-leases-and-rate-limiting-for-97-46if",
-    "topic": "secops"
+    "title": "What to Do Before Claude Sonnet 4.5 Shuts Down on November 30, 2026",
+    "desc": "<p>Anthropic retires <code>claude-sonnet-4-5-20250929</code> on the Claude API on <strong>Nov 30, 2026</strong>. After that date, requests t",
+    "link": "https://dev.to/aideprecations/what-to-do-before-claude-sonnet-45-shuts-down-on-november-30-2026-55g4",
+    "topic": "anthropic"
   },
   {
-    "title": "3 cron mistakes that make your job run at the wrong time",
-    "desc": "<p>A cron expression can be perfectly valid and still run at the wrong time. No error, no warning. The job just fires on a day you didn't ex",
-    "link": "https://dev.to/avinashkori/3-cron-mistakes-that-make-your-job-run-at-the-wrong-time-5h30",
+    "title": "How to Actually Measure Cloud Carbon (Not Just Estimate It From the Bill)",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Cost and carbon track each other closely in the cloud, right-sizing and autoscaling cut both at once",
+    "link": "https://dev.to/sherdilcloud/how-to-actually-measure-cloud-carbon-not-just-estimate-it-from-the-bill-39dj",
     "topic": "general"
   },
   {
-    "title": "My Worker Exited 0 With Jobs Still Marked \"Running\", and Nothing Retried Them",
-    "desc": "<p>A deploy finished at 02:10, the supervisor logged a clean stop, and the worker exited with code 0. By 02:12 the queue depth graph was fla",
-    "link": "https://dev.to/codepy_1473/my-worker-exited-0-with-jobs-still-marked-running-and-nothing-retried-them-57a2",
+    "title": "Which MCP servers can actually deploy infrastructure, not just read it? Five compared",
+    "desc": "<p>If you want an AI agent to deploy and run infrastructure through MCP, five hosted MCP servers can do real write work today: Vercel, Rende",
+    "link": "https://dev.to/oscdev/which-mcp-servers-can-actually-deploy-infrastructure-not-just-read-it-five-compared-494b",
+    "topic": "general"
+  },
+  {
+    "title": "Same version number, different library inside",
+    "desc": "<p>The PHP Windows download page has been serving <code>php-8.5.12</code> since 20 October. There are two different zips behind that string.",
+    "link": "https://dev.to/hauscall/same-version-number-different-library-inside-2ecb",
     "topic": "general"
   }
 ]
