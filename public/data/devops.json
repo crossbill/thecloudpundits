@@ -1,50 +1,50 @@
 [
   {
-    "title": "Your Agents Share a Brain Now. What Can the Next Agent Actually Check?",
-    "desc": "<p>Everyone shipped the same feature this month: one shared brain for all your agents. What one agent learns, every agent can read. It is a ",
-    "link": "https://dev.to/rambozambo/your-agents-share-a-brain-now-what-can-the-next-agent-actually-check-1kpe",
+    "title": "11 things quietly inflating your AWS bill (and how to find them in an afternoon)",
+    "desc": "<p>Most AWS bills don't explode. They creep. A test server nobody turned off, a disk left behind after an instance was deleted, logs that ar",
+    "link": "https://dev.to/pizzettiandre/11-things-quietly-inflating-your-aws-bill-and-how-to-find-them-in-an-afternoon-2fii",
+    "topic": "aws"
+  },
+  {
+    "title": "Isometric architecture diagrams as code: cloud diagrams in SVG from YAML",
+    "desc": "<p><em>Originally published on <a href=\"https://learn.homingo.co.in/guides/isometric-architecture-diagram-as-code\" rel=\"noopener noreferrer\"",
+    "link": "https://dev.to/mohd_yusufkhan_6c2088c04/isometric-architecture-diagrams-as-code-cloud-diagrams-in-svg-from-yaml-3d",
     "topic": "general"
   },
   {
-    "title": "interview real time questions and answers",
-    "desc": "<ol>\n<li><p>Tell me about yourself.<br />\nI am DevOps Engineer with more than 5 years experience. I started at Southwest Airlines as Cloud E",
-    "link": "https://dev.to/jumptotech/interview-real-time-questions-and-answers-g0k",
+    "title": "When a Self-Hosted Model Gateway Tripped Trust & Safety",
+    "desc": "<p><em>Originally published on my blog \u2014 <a href=\"https://blog.hoelee.com/posts/when-a-self-hosted-model-router-tripped-trust-and-safety/\" r",
+    "link": "https://dev.to/hoelee/when-a-self-hosted-model-gateway-tripped-trust-safety-2odf",
     "topic": "general"
   },
   {
-    "title": "Grafana Puts a Sampling Budget Behind Every Trace It Keeps",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Adaptive Telemetry is a set of Grafana Cloud controls that decide which metrics, logs and traces a team k",
-    "link": "https://dev.to/neticslabs/grafana-puts-a-sampling-budget-behind-every-trace-it-keeps-23mf",
+    "title": "Three times our own metrics lied to us (and how we caught it)",
+    "desc": "<p>Our dashboard said our first outreach campaign hit a <strong>43% open rate</strong> with clicks within minutes. Our product showed <stron",
+    "link": "https://dev.to/lazynext/three-times-our-own-metrics-lied-to-us-and-how-we-caught-it-p2h",
     "topic": "general"
   },
   {
-    "title": "I Finally Started Learning SQL. Here's What Clicked for Me.",
-    "desc": "<p>SQL was one of those things I kept pushing down my learning list.</p>\n\n<p>I knew databases were important, but whenever I thought about S",
-    "link": "https://dev.to/oreofe_towobola_fd2677ddc/i-finally-started-learning-sql-heres-what-clicked-for-me-21b9",
+    "title": "Kubernetes Monitoring Tools for Small Teams (2026)",
+    "desc": "<p>Kubernetes makes monitoring harder in a specific way: the things you care about \u2014 a Deployment, a service \u2014 are made of pods that come an",
+    "link": "https://dev.to/august_occh_dev/kubernetes-monitoring-tools-for-small-teams-2026-57gc",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Sovereign Multi-Agent Brokerage: Zero-Trust Security, Dynamic Leases, and Rate-Limiting for 97+ Enterprise Connectors",
+    "desc": "<h1>\n  \n  \n  Sovereign Multi-Agent Brokerage: Zero-Trust Security, Dynamic Leases, and Rate-Limiting for 97+ Enterprise Connectors\n</h1>\n\n<p",
+    "link": "https://dev.to/bennialencar/sovereign-multi-agent-brokerage-zero-trust-security-dynamic-leases-and-rate-limiting-for-97-46if",
+    "topic": "secops"
+  },
+  {
+    "title": "3 cron mistakes that make your job run at the wrong time",
+    "desc": "<p>A cron expression can be perfectly valid and still run at the wrong time. No error, no warning. The job just fires on a day you didn't ex",
+    "link": "https://dev.to/avinashkori/3-cron-mistakes-that-make-your-job-run-at-the-wrong-time-5h30",
     "topic": "general"
   },
   {
-    "title": "How to Modernize Legacy Applications Without a Full Rewrite",
-    "desc": "<p>An enterprise rarely becomes AI-ready by buying GPUs or moving virtual machines to a cloud provider. The difficult work is connecting fiv",
-    "link": "https://dev.to/kbv_research/how-to-modernize-legacy-applications-without-a-full-rewrite-5944",
-    "topic": "general"
-  },
-  {
-    "title": "Docker Build Secrets: Why ARG and COPY Leak Tokens Into Image History, and the BuildKit Fix",
-    "desc": "<p>If you pass an npm token, pip index password, or SSH key into <code>docker build</code> with <code>ARG</code>, <code>ENV</code>, or <code",
-    "link": "https://dev.to/libme/docker-build-secrets-why-arg-and-copy-leak-tokens-into-image-history-and-the-buildkit-fix-obg",
-    "topic": "docker"
-  },
-  {
-    "title": "GitLab's regex problem: one max-severity bug is exploited and another is waiting",
-    "desc": "<p>If you run self-managed GitLab, October gave you two emergency upgrades in nine days. If you only did the first one, you're still exposed",
-    "link": "https://dev.to/suraj_nandan/gitlabs-regex-problem-one-max-severity-bug-is-exploited-and-another-is-waiting-36e4",
-    "topic": "general"
-  },
-  {
-    "title": "Harden a fresh Ubuntu 24.04 server with one command (open source)",
-    "desc": "<p>Every new VPS gets the same first hour: create a user, lock down SSH, set up a firewall, install fail2ban, turn on automatic updates\u2026 and",
-    "link": "https://dev.to/veloxadev/harden-a-fresh-ubuntu-2404-server-with-one-command-open-source-2nge",
+    "title": "My Worker Exited 0 With Jobs Still Marked \"Running\", and Nothing Retried Them",
+    "desc": "<p>A deploy finished at 02:10, the supervisor logged a clean stop, and the worker exited with code 0. By 02:12 the queue depth graph was fla",
+    "link": "https://dev.to/codepy_1473/my-worker-exited-0-with-jobs-still-marked-running-and-nothing-retried-them-57a2",
     "topic": "general"
   }
 ]
