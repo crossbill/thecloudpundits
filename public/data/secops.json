@@ -1,5 +1,11 @@
 [
   {
+    "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+    "desc": "<p>The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks ",
+    "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+    "topic": "secops"
+  },
+  {
     "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
     "desc": "<p>Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise \u2018hello\u2019 attacks, Chainal",
     "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
@@ -40,11 +46,5 @@
     "desc": "<p>On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters.</p>\n<p>The post <a",
     "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
     "topic": "general"
-  },
-  {
-    "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-    "desc": "<p>After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet.</p>\n<p",
-    "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-    "topic": "openai"
   }
 ]

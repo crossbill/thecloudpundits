@@ -1,50 +1,50 @@
 [
   {
-    "title": "Hindsight remembers which incident fixes only bought three days",
-    "desc": "<p>At 2 AM, someone on our payments team restarted <code>payment-gateway</code>. The connection timeouts stopped, everyone went back to slee",
-    "link": "https://dev.to/divya_s_71bf64b77a34715c8/hindsight-remembers-which-incident-fixes-only-bought-three-days-2d0c",
+    "title": "A Cloud Agent's 'All Tests Pass' Only Covers the Services It Could Reach",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GW2NTCR5\" rel=\"noopener noreferrer\">Ship It \u2014 the pragmatic startup te",
+    "link": "https://dev.to/gabrielanhaia/a-cloud-agents-all-tests-pass-only-covers-the-services-it-could-reach-1bn6",
+    "topic": "general"
+  },
+  {
+    "title": "Your Offboarding Script Is a National Security Control",
+    "desc": "<p>Most security conversations about geopolitics focus on nation-state hackers breaking in from the outside. But some of the most consequent",
+    "link": "https://dev.to/patjo/your-offboarding-script-is-a-national-security-control-2a5j",
     "topic": "secops"
   },
   {
-    "title": "Building Idempotent Single-Host AI Workflow Operators with SQLite WAL Outboxes & Approval Gates",
-    "desc": "<p>Most B2B operations teams do not need a multi-node Kubernetes cluster to run reliable workflow automation. A single hardened Linux host r",
-    "link": "https://dev.to/dimadevnyc/building-idempotent-single-host-ai-workflow-operators-with-sqlite-wal-outboxes-approval-gates-1nl5",
+    "title": "Claude Code email-sharing reports: 6 checks for what your coding agent sends out in 2026",
+    "desc": "<p>A coding agent can leave a clean diff and an uncomfortable privacy question behind it. Getting agent-generated code merged sooner with fe",
+    "link": "https://dev.to/uss/claude-code-email-sharing-reports-6-checks-for-what-your-coding-agent-sends-out-6n0",
+    "topic": "anthropic"
+  },
+  {
+    "title": "6 review rules for auth and base-image config after the Alpine OpenSSH password bypass in 2026",
+    "desc": "<p>A one-line authentication change can cross several repository boundaries before it reaches a running server. I want agent-generated code ",
+    "link": "https://dev.to/dev_barron/6-review-rules-for-auth-and-base-image-config-after-the-alpine-openssh-password-bypass-36ja",
     "topic": "general"
   },
   {
-    "title": "Engineering RSA-Signed OTA Firmware Updates & Local MQTT Telemetry for 3D Printer Controllers",
-    "desc": "<p>When designing the <strong>PrintDeck</strong> 4.3-inch touchscreen controller for Bambu Lab 3D printers (<a href=\"https://printdeck.net/f",
-    "link": "https://dev.to/dimadevnyc/engineering-rsa-signed-ota-firmware-updates-local-mqtt-telemetry-for-3d-printer-controllers-17gi",
+    "title": "Windows Server hardening checklist (practical, network side)",
+    "desc": "<p><em>Originally published at <a href=\"https://coinetic.io/windows-server-hardening-checklist\" rel=\"noopener noreferrer\">coinetic.io</a>.</",
+    "link": "https://dev.to/coinetic_ai_security/windows-server-hardening-checklist-practical-network-side-gom",
     "topic": "general"
   },
   {
-    "title": "Kubernetes Service Not Working? Debug It in 7 Steps",
-    "desc": "<p>Your Kubernetes pods are running. Your Service exists. The application works when tested directly inside a container, yet requests throug",
-    "link": "https://dev.to/seeoluyemi/kubernetes-service-not-working-debug-it-in-7-steps-1bpp",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "AI platform leaks cost $1,700: Why hard $0 caps matter",
-    "desc": "<p><strong>TL;DR:</strong></p>\n\n<ul>\n<li>On October 31, 2026, security firm Wiz disclosed that nine AI developer platforms leaked environmen",
-    "link": "https://dev.to/yorchperaza/ai-platform-leaks-cost-1700-why-hard-0-caps-matter-4go9",
+    "title": "Private Backup Bucket Policy: Retain App Archives for 30 Days",
+    "desc": "<p>For ordinary app data backups, keep archives in a private object-storage bucket under dated keys and set lifecycle expiration to the agre",
+    "link": "https://dev.to/merrickvance8452/private-backup-bucket-policy-retain-app-archives-for-30-days-2c8o",
     "topic": "general"
   },
   {
-    "title": "Why We Put a Physical Geofence on Our AI SRE Agent Before Giving It Production Access",
-    "desc": "<p>**</p>\n\n<blockquote>\n<h2>\n  \n  \n  <strong>By Jayamala</strong> \u2022 <em>Lead Platform & Security Engineer, NexusMemory Project</em>\n</h2>\n<h",
-    "link": "https://dev.to/jayamala_gouda_740fab8bdf/why-we-put-a-physical-geofence-on-our-ai-sre-agent-before-giving-it-production-access-2m75",
+    "title": "Tell me about yourself.",
+    "desc": "<p>Tell me about yourself.<br />\nI am DevOps Engineer with more than 5 years experience. I started at Southwest Airlines as Cloud Engineer, ",
+    "link": "https://dev.to/jumptotech/tell-me-about-yourself-1j4",
     "topic": "general"
   },
   {
-    "title": "Top 5 SonarQube Cloud (SonarCloud) Alternatives in 2026",
-    "desc": "<p>SonarQube Cloud (formerly SonarCloud) is excellent if you want software quality assurance as a service while avoiding maintenance technic",
-    "link": "https://dev.to/codacy/top-5-sonarqube-cloud-sonarcloud-alternatives-in-2026-2lgh",
+    "title": "Cursor's Agent Now Deploys Apps With Postgres and SSO. Its Docs List No Hosting Price",
+    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GX3B8371\" rel=\"noopener noreferrer\">Event-Driven Architecture Pocket G",
+    "link": "https://dev.to/gabrielanhaia/cursors-agent-now-deploys-apps-with-postgres-and-sso-its-docs-list-no-hosting-price-517o",
     "topic": "general"
-  },
-  {
-    "title": "How to connect to a private GCP database from your terminal, a coding agent or GitHub Actions",
-    "desc": "<h2>\n  \n  \n  How do you connect to your private databases on GCP?\n</h2>\n\n<p>When your databases on Google Cloud have only a private IP, you ",
-    "link": "https://dev.to/pabloplf/connect-to-a-private-gcp-service-from-your-cli-coding-agent-or-github-actions-2gh5",
-    "topic": "gcp"
   }
 ]
