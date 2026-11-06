@@ -1,50 +1,50 @@
 [
   {
-    "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
-    "desc": "<p>The trio, who have nicknames that include \u201cRocky Balboa,\u201d \u201cSuperman Cash\u201d and \u201cFat Boy,\u201d often targeted the companies\u2019 accounting departm",
-    "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-    "topic": "general"
-  },
-  {
-    "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
-    "desc": "<p>An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million.</p>\n<p>T",
-    "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+    "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+    "desc": "<p>Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise \u2018hello\u2019 attacks, Chainal",
+    "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
     "topic": "aws"
   },
   {
-    "title": "Bank Phishing Sites Show Fake \u2018Suspended\u2019 Pages to Evade Takedowns",
-    "desc": "<p>More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit.</p>\n<p>The post <a href=\"http",
-    "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
-    "topic": "general"
-  },
-  {
-    "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
-    "desc": "<p>The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up afte",
-    "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+    "title": "DigiCert Data Breach Impacts Business Customer Information",
+    "desc": "<p>Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses.</p>\n<p>The p",
+    "link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
     "topic": "secops"
   },
   {
-    "title": "Cisco, WatchGuard Release Patches; SonicWall Won\u2019t Fix GMS Flaws",
-    "desc": "<p>Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws.</p>\n<p>The post <a href=\"https://www.securi",
-    "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+    "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+    "desc": "<p>Rated Critical for cybersecurity, OpenAI\u2019s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably.</p>\n<p>The",
+    "link": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
     "topic": "aws"
   },
   {
-    "title": "The Agent Smith Dilemma: Governing Agentic Identities",
-    "desc": "<p>Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+    "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+    "desc": "<p>The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe.</p>\n<p>The post <a href=\"",
+    "link": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
     "topic": "general"
   },
   {
-    "title": "CISO Conversations: Ryan Davis \u2013 The Unknown Is Where Security Meets Reality",
-    "desc": "<p>Ryan Davis went from hacking his school\u2019s network to running security at New Charter Technologies. What worries him now is shadow AI.</p>",
-    "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
+    "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+    "desc": "<p>The October incident will cut fourth-quarter sales by up to \u20ac250 million and has led Ahold Delhaize to lower its 2026 outlook.</p>\n<p>The",
+    "link": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
     "topic": "secops"
   },
   {
-    "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
-    "desc": "<p>Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests.</p>\n<p>T",
-    "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+    "title": "Researchers Find Residential Proxies on White House Network",
+    "desc": "<p>In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
     "topic": "general"
+  },
+  {
+    "title": "OpenSSH Rushes Patches for \u2018SSHole\u2019 Authentication Bypass",
+    "desc": "<p>On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
+    "topic": "general"
+  },
+  {
+    "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
+    "desc": "<p>After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet.</p>\n<p",
+    "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+    "topic": "openai"
   }
 ]

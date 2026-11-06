@@ -1,50 +1,50 @@
 [
   {
-    "title": "How we monitor websites and servers before problems reach customers",
-    "desc": "<h2>\n  \n  \n  Short answer\n</h2>\n\n<p>We monitor websites and servers on several levels: whether the site responds from the outside, how loade",
-    "link": "https://dev.to/webcoma/how-we-monitor-websites-and-servers-before-problems-reach-customers-c4e",
+    "title": "Hindsight remembers which incident fixes only bought three days",
+    "desc": "<p>At 2 AM, someone on our payments team restarted <code>payment-gateway</code>. The connection timeouts stopped, everyone went back to slee",
+    "link": "https://dev.to/divya_s_71bf64b77a34715c8/hindsight-remembers-which-incident-fixes-only-bought-three-days-2d0c",
+    "topic": "secops"
+  },
+  {
+    "title": "Building Idempotent Single-Host AI Workflow Operators with SQLite WAL Outboxes & Approval Gates",
+    "desc": "<p>Most B2B operations teams do not need a multi-node Kubernetes cluster to run reliable workflow automation. A single hardened Linux host r",
+    "link": "https://dev.to/dimadevnyc/building-idempotent-single-host-ai-workflow-operators-with-sqlite-wal-outboxes-approval-gates-1nl5",
     "topic": "general"
   },
   {
-    "title": "GitHub Was Down for 8 Hours. Retries Made It Worse.",
-    "desc": "<div>\n    \n    \n  </div>\n\n\n<p>In August, GitHub went down for almost eight hours.</p>\n\n<p>It started when one part of its system got overloa",
-    "link": "https://dev.to/unmeshed/github-was-down-for-8-hours-retries-made-it-worse-4ipi",
+    "title": "Engineering RSA-Signed OTA Firmware Updates & Local MQTT Telemetry for 3D Printer Controllers",
+    "desc": "<p>When designing the <strong>PrintDeck</strong> 4.3-inch touchscreen controller for Bambu Lab 3D printers (<a href=\"https://printdeck.net/f",
+    "link": "https://dev.to/dimadevnyc/engineering-rsa-signed-ota-firmware-updates-local-mqtt-telemetry-for-3d-printer-controllers-17gi",
     "topic": "general"
   },
   {
-    "title": "How far you can get free before a cloud computing course in Nepal",
-    "desc": "<p>You can learn the first month of cloud computing for free, on the laptop you already have. Start with the Linux terminal, not with AWS, b",
-    "link": "https://dev.to/saarathi_academy/how-far-you-can-get-free-before-a-cloud-computing-course-in-nepal-5e9b",
+    "title": "Kubernetes Service Not Working? Debug It in 7 Steps",
+    "desc": "<p>Your Kubernetes pods are running. Your Service exists. The application works when tested directly inside a container, yet requests throug",
+    "link": "https://dev.to/seeoluyemi/kubernetes-service-not-working-debug-it-in-7-steps-1bpp",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "AI platform leaks cost $1,700: Why hard $0 caps matter",
+    "desc": "<p><strong>TL;DR:</strong></p>\n\n<ul>\n<li>On October 31, 2026, security firm Wiz disclosed that nine AI developer platforms leaked environmen",
+    "link": "https://dev.to/yorchperaza/ai-platform-leaks-cost-1700-why-hard-0-caps-matter-4go9",
     "topic": "general"
   },
   {
-    "title": "What to Do Before OpenAI GPT-5 and o3 Shut Down on December 11, 2026",
-    "desc": "<p>OpenAI removes <code>gpt-5</code>, <code>gpt-5-mini</code>, <code>gpt-5-nano</code>, <code>gpt-5-pro</code>, <code>o3</code>, <code>o3-pr",
-    "link": "https://dev.to/aideprecations/what-to-do-before-openai-gpt-5-and-o3-shut-down-on-december-11-2026-fap",
-    "topic": "openai"
-  },
-  {
-    "title": "What to Do Before Claude Sonnet 4.5 Shuts Down on November 30, 2026",
-    "desc": "<p>Anthropic retires <code>claude-sonnet-4-5-20250929</code> on the Claude API on <strong>Nov 30, 2026</strong>. After that date, requests t",
-    "link": "https://dev.to/aideprecations/what-to-do-before-claude-sonnet-45-shuts-down-on-november-30-2026-55g4",
-    "topic": "anthropic"
-  },
-  {
-    "title": "How to Actually Measure Cloud Carbon (Not Just Estimate It From the Bill)",
-    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Cost and carbon track each other closely in the cloud, right-sizing and autoscaling cut both at once",
-    "link": "https://dev.to/sherdilcloud/how-to-actually-measure-cloud-carbon-not-just-estimate-it-from-the-bill-39dj",
+    "title": "Why We Put a Physical Geofence on Our AI SRE Agent Before Giving It Production Access",
+    "desc": "<p>**</p>\n\n<blockquote>\n<h2>\n  \n  \n  <strong>By Jayamala</strong> \u2022 <em>Lead Platform & Security Engineer, NexusMemory Project</em>\n</h2>\n<h",
+    "link": "https://dev.to/jayamala_gouda_740fab8bdf/why-we-put-a-physical-geofence-on-our-ai-sre-agent-before-giving-it-production-access-2m75",
     "topic": "general"
   },
   {
-    "title": "Which MCP servers can actually deploy infrastructure, not just read it? Five compared",
-    "desc": "<p>If you want an AI agent to deploy and run infrastructure through MCP, five hosted MCP servers can do real write work today: Vercel, Rende",
-    "link": "https://dev.to/oscdev/which-mcp-servers-can-actually-deploy-infrastructure-not-just-read-it-five-compared-494b",
+    "title": "Top 5 SonarQube Cloud (SonarCloud) Alternatives in 2026",
+    "desc": "<p>SonarQube Cloud (formerly SonarCloud) is excellent if you want software quality assurance as a service while avoiding maintenance technic",
+    "link": "https://dev.to/codacy/top-5-sonarqube-cloud-sonarcloud-alternatives-in-2026-2lgh",
     "topic": "general"
   },
   {
-    "title": "Same version number, different library inside",
-    "desc": "<p>The PHP Windows download page has been serving <code>php-8.5.12</code> since 20 October. There are two different zips behind that string.",
-    "link": "https://dev.to/hauscall/same-version-number-different-library-inside-2ecb",
-    "topic": "general"
+    "title": "How to connect to a private GCP database from your terminal, a coding agent or GitHub Actions",
+    "desc": "<h2>\n  \n  \n  How do you connect to your private databases on GCP?\n</h2>\n\n<p>When your databases on Google Cloud have only a private IP, you ",
+    "link": "https://dev.to/pabloplf/connect-to-a-private-gcp-service-from-your-cli-coding-agent-or-github-actions-2gh5",
+    "topic": "gcp"
   }
 ]
