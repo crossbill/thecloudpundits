@@ -1,50 +1,50 @@
 [
   {
-    "title": "[VITI Science Exclusive] Make ADP Great Again: Confessions of a Basement Data Guerrilla \ud83d\udcbe\u270a",
-    "desc": "<p>Deep under a Nordic corporate headquarters, amidst the humming of server cooling fans and tangled CAT6 cables, VITI Science met with a 30",
-    "link": "https://dev.to/bigf_fellow/viti-science-exclusive-make-adp-great-again-confessions-of-a-basement-data-guerrilla-2ofp",
+    "title": "rk-deploy v0.2: a real board caught the bug my test suite couldn't",
+    "desc": "<h1>\n  \n  \n  rk-deploy v0.2: a real board caught the bug my test suite couldn't\n</h1>\n\n<p>Two weeks ago I shipped <a href=\"https://github.co",
+    "link": "https://dev.to/anguoyang/rk-deploy-v02-a-real-board-caught-the-bug-my-test-suite-couldnt-4f76",
     "topic": "general"
   },
   {
-    "title": "The cheapest GitHub Actions runners in 2026: what 100,000 minutes actually cost",
-    "desc": "<p>We run hosted GitHub Actions runners, so \"what does a CI minute really cost?\" is a question we answer for customers every week. Most team",
-    "link": "https://dev.to/sengi_runners/github-actions-runner-prices-in-2026-what-2-4-and-8-vcpu-cost-on-every-provider-2l42",
+    "title": "Your Free Server Forgets Everything: Five Ephemeral-Deployment Myths and a State Probe",
+    "desc": "<p>I keep reading the same three lines in deploy channels. \"It worked yesterday.\" \"The file was there.\" \"The model knew my name.\" None of th",
+    "link": "https://dev.to/gitlab_3188/your-free-server-forgets-everything-five-ephemeral-deployment-myths-and-a-state-probe-3hdn",
     "topic": "general"
   },
   {
-    "title": "Cheap runners for most CI jobs, fast runners for the few that matter",
-    "desc": "<p>We build Sengi, a hosted runner service for GitHub Actions. Today we launched Sengi Basic, at $1 per 1,000 runner minutes. This post is a",
-    "link": "https://dev.to/sengi_runners/cheap-runners-for-most-ci-jobs-fast-runners-for-the-few-that-matter-1c8g",
+    "title": "When Three Gates Disagree: A Precedence Router for Agent-Patch Evidence",
+    "desc": "<p>Most agent-patch pipelines already have more than one gate: a property check, a fixture suite, and some handling for tests that are curre",
+    "link": "https://dev.to/datacpp_8185/when-three-gates-disagree-a-precedence-router-for-agent-patch-evidence-2k4j",
     "topic": "general"
   },
   {
-    "title": "Sprint Capacity Planning in Azure DevOps: Handling Public Holidays, PTO, and Story-Level Rollups",
-    "desc": "<p>A recurring question on Stack Overflow and<br />\n/azuredevops is how to get accurate sprint capacity planning when engineers work across ",
-    "link": "https://dev.to/jemyto/sprint-capacity-planning-in-azure-devops-handling-public-holidays-pto-and-story-level-rollups-k9n",
-    "topic": "azure"
-  },
-  {
-    "title": "\"Bug genealogy: why a returning bug looks new in code review\"",
-    "desc": "<p><em>Full disclosure up front: I work on Bugweg, a GitHub app that reviews pull requests, and I mention it later in this post.</em></p>\n\n<",
-    "link": "https://dev.to/bugweg/bug-genealogy-why-a-returning-bug-looks-new-in-code-review-5haa",
+    "title": "We sized a backend for 1M+ visitors it hadn't seen yet. Premature optimization?",
+    "desc": "<p>\"You aren't gonna need it.\"</p>\n\n<p>It's one of the best rules in software, and we broke it on purpose.</p>\n\n<p><a href=\"https://kryeo.co",
+    "link": "https://dev.to/kryeo/we-sized-a-backend-for-1m-visitors-it-hadnt-seen-yet-premature-optimization-3c9c",
     "topic": "general"
   },
   {
-    "title": "Dependabot Now Updates Your AI Agent's Skills Too \u2014 Here's How GitHub's APM Support Works (and Why You Still Have to Read the Diff)",
-    "desc": "<p><em>This post was originally published on <a href=\"https://convertelementor.com/blog/dependabot-now-updates-your-ai-agent-s-skills-too-he",
-    "link": "https://dev.to/ahtisham_lala_a1af953f29b/dependabot-now-updates-your-ai-agents-skills-too-heres-how-githubs-apm-support-works-and-why-1jd0",
+    "title": "AWS S3 Pricing and Billing: Storage, Request Fees and Egress Costs Explained",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/buildopsy/aws-s3-pricing-and-billing-storage-request-fees-and-egress-costs-explained-39d1",
+    "topic": "aws"
+  },
+  {
+    "title": "Salesforce CI without scratch orgs: tests and gated deploys",
+    "desc": "<p><em>renmy runtime was called Nimbus until October 2026. Same tool, same binary; the record of the rename is at <a href=\"https://renmy.net",
+    "link": "https://dev.to/oblitus/salesforce-ci-without-scratch-orgs-tests-and-gated-deploys-4pl4",
     "topic": "general"
   },
   {
-    "title": "What actually leaves your server when you connect an analytics tool to Jira",
-    "desc": "<p>A few years ago a client's data protection officer asked me one question before she'd sign off on an engineering-analytics tool: \"If we c",
-    "link": "https://dev.to/yaniv_zalevas_a91253c56bb/what-actually-leaves-your-server-when-you-connect-an-analytics-tool-to-jira-4ip8",
+    "title": "Install OneAgent Linux: deploying on Linux hosts in a Managed environment",
+    "desc": "<p>Deploying OneAgent on a handful of Linux servers is trivial. Deploying it cleanly on several hundred hosts spread across data centres, se",
+    "link": "https://dev.to/spanobserver/install-oneagent-linux-deploying-on-linux-hosts-in-a-managed-environment-50m2",
     "topic": "general"
   },
   {
-    "title": "Microsoft Accelerates Chip Design with Azure Cobalt 200 for EDA Workloads",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/azure-silicon-eda-cobalt200-chip-design/?utm_source=devto&u",
-    "link": "https://dev.to/pklavc/microsoft-accelerates-chip-design-with-azure-cobalt-200-for-eda-workloads-59bp",
-    "topic": "azure"
+    "title": "Why Business Emails Land in Gmail Spam in 2026: Missing _dmarc, SPF & How to Fix It in 2 Minutes",
+    "desc": "<p>Since Google, Yahoo, and Microsoft enforced strict sender authentication requirements, thousands of companies, clinics, law firms, and Sa",
+    "link": "https://dev.to/claudiu_florinoneata_22f/why-business-emails-land-in-gmail-spam-in-2026-missing-dmarc-spf-how-to-fix-it-in-2-minutes-2ac1",
+    "topic": "general"
   }
 ]
