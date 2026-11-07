@@ -1,50 +1,50 @@
 [
   {
-    "title": "Self-hosting SuperPlane: Pin the Release, Then Prove HTTPS Works",
-    "desc": "<p>Getting containers to start is only half of a self-hosted deployment. The other half is making sure the hostname works from the public in",
-    "link": "https://dev.to/9904099/self-hosting-superplane-pin-the-release-then-prove-https-works-3fb4",
+    "title": "Every Release Leaves a Trace: Teaching a Deployment Pipeline to Remember",
+    "desc": "<blockquote>\n<p><strong>Hindsight memory informs. Current evidence verifies. The engineer decides.</strong></p>\n</blockquote>\n\n<p>Picture th",
+    "link": "https://dev.to/amritesh_mishra_f93bc6ac3/every-release-leaves-a-trace-teaching-a-deployment-pipeline-to-remember-59jl",
     "topic": "general"
   },
   {
-    "title": "Making Monitoring Alerts Useful: Fleetd Triggers, Recovery and Delivery",
-    "desc": "<p>Putting servers and routers in one dashboard makes life easier, but monitoring is only half finished if you still have to open the page e",
-    "link": "https://dev.to/weiyi/making-monitoring-alerts-useful-fleetd-triggers-recovery-and-delivery-353e",
+    "title": "GoLogin vs AdsPower vs MoreLogin (2026): The Real 100-Profile Anti-Detect + IPRoyal & Vultr BOM",
+    "desc": "<p>This 2026 total cost of ownership benchmark evaluates GoLogin, AdsPower, and MoreLogin across a 50 to 100 browser profile fleet, alongsid",
+    "link": "https://dev.to/600me/gologin-vs-adspower-vs-morelogin-2026-the-real-100-profile-anti-detect-iproyal-vultr-bom-472h",
     "topic": "general"
   },
   {
-    "title": "One Go Agent on Linux and OpenWrt: Fleetd Deployment Choices",
-    "desc": "<p>Installing an agent on a cloud server and on a home router initially looks like the same job: copy an executable, write a configuration f",
-    "link": "https://dev.to/weiyi/one-go-agent-on-linux-and-openwrt-fleetd-deployment-choices-1l8o",
+    "title": "Crawlbase vs ScraperAPI vs CapSolver + IPRoyal (2026): Real 100k-Request TCO for Cloudflare Turnstile Scraping",
+    "desc": "<p>This 2026 benchmark prices 100,000 monthly requests across Crawlbase, ScraperAPI and a CapSolver + IPRoyal pipeline, including how concur",
+    "link": "https://dev.to/600me/crawlbase-vs-scraperapi-vs-capsolver-iproyal-2026-real-100k-request-tco-for-cloudflare-4l7",
     "topic": "general"
   },
   {
-    "title": "Why Sign Remote Commands in the Browser? Fleetd Authorization and Trust Boundaries",
-    "desc": "<p>Once a machine is connected to a dashboard, running commands from the browser is an obvious next step. Checking a disk, restarting a serv",
-    "link": "https://dev.to/weiyi/why-sign-remote-commands-in-the-browser-fleetd-authorization-and-trust-boundaries-38lc",
+    "title": "Why We're Building an AI Software Engineering Environment That Shows Its Work",
+    "desc": "<p>AI coding tools are good at producing code. They're much worse at showing you why you should trust it.</p>\n\n<p>You ask for a change, you ",
+    "link": "https://dev.to/zylvex_tech/why-were-building-an-ai-software-engineering-environment-that-shows-its-work-5h40",
     "topic": "general"
   },
   {
-    "title": "Connecting Routers Behind NAT: Fleetd Agent Enrollment, Approval and Reconnection",
-    "desc": "<p>Connecting a cloud server to a management dashboard is usually straightforward: install the program on a reachable machine, configure an ",
-    "link": "https://dev.to/weiyi/connecting-routers-behind-nat-fleetd-agent-enrollment-approval-and-reconnection-2607",
+    "title": "ISP proxy pricing: the per-IP unit and how to size it",
+    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/isp-proxy-pricing/\" rel=\"noopener noreferrer\">proxymint</a>.</em></p>\n\n<p>ISP ",
+    "link": "https://dev.to/proxymint/isp-proxy-pricing-the-per-ip-unit-and-how-to-size-it-4d89",
     "topic": "general"
   },
   {
-    "title": "Introducing Fleetd: Open-Source Management for Linux Servers and Routers",
-    "desc": "<p>Managing a few servers and routers seems straightforward. Connect over SSH to check their state, read logs when a service fails, and run ",
-    "link": "https://dev.to/weiyi/introducing-fleetd-open-source-management-for-linux-servers-and-routers-115",
+    "title": "Kubernetes DRA Extended Resources: GPUs Without Device Plugins",
+    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/11/07/kubernetes-dra-extended-resources-gpus-without-device-plugins\" rel",
+    "link": "https://dev.to/oleksandr_kuryzhev_42873f/kubernetes-dra-extended-resources-gpus-without-device-plugins-b2d",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Database Schema Planning: Operational Best Practices",
+    "desc": "<p>Designing a database schema on paper is one thing, but running it under heavy production traffic is another challenge entirely.<br />\nBad",
+    "link": "https://dev.to/leena_deore_400371c043837/database-schema-planning-operational-best-practices-5hlo",
     "topic": "general"
   },
   {
-    "title": "Your AI Agent's Patch Is Fine. The Repo Won't Let You File It.",
-    "desc": "<p>The first hard failure in an agent-written contribution is not a failing test. It's a closed door, and it is documented before you write ",
-    "link": "https://dev.to/dafili/your-ai-agents-patch-is-fine-the-repo-wont-let-you-file-it-191g",
-    "topic": "general"
-  },
-  {
-    "title": "A Green Run Is a Claim, Not Evidence: Re-deriving Agent Patch Test Runs",
-    "desc": "<p>A green test run is a claim about one environment at one moment. An evidence packet is the derivation that lets someone else reach the sa",
-    "link": "https://dev.to/datacpp_8185/a-green-run-is-a-claim-not-evidence-re-deriving-agent-patch-test-runs-5h3a",
+    "title": "Our Email Gate Printed Every Verdict and Saved None of Them",
+    "desc": "<p><em>Originally published at <a href=\"https://thicket.sh/blog/a-gate-that-prints-the-answer-and-acts-on-nothing\" rel=\"noopener noreferrer\"",
+    "link": "https://dev.to/yonatan_naor_5642e43447ea/our-email-gate-printed-every-verdict-and-saved-none-of-them-3ja5",
     "topic": "general"
   }
 ]
