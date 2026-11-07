@@ -1,50 +1,50 @@
 [
   {
-    "title": "A Cloud Agent's 'All Tests Pass' Only Covers the Services It Could Reach",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GW2NTCR5\" rel=\"noopener noreferrer\">Ship It \u2014 the pragmatic startup te",
-    "link": "https://dev.to/gabrielanhaia/a-cloud-agents-all-tests-pass-only-covers-the-services-it-could-reach-1bn6",
+    "title": "Self-hosting SuperPlane: Pin the Release, Then Prove HTTPS Works",
+    "desc": "<p>Getting containers to start is only half of a self-hosted deployment. The other half is making sure the hostname works from the public in",
+    "link": "https://dev.to/9904099/self-hosting-superplane-pin-the-release-then-prove-https-works-3fb4",
     "topic": "general"
   },
   {
-    "title": "Your Offboarding Script Is a National Security Control",
-    "desc": "<p>Most security conversations about geopolitics focus on nation-state hackers breaking in from the outside. But some of the most consequent",
-    "link": "https://dev.to/patjo/your-offboarding-script-is-a-national-security-control-2a5j",
-    "topic": "secops"
-  },
-  {
-    "title": "Claude Code email-sharing reports: 6 checks for what your coding agent sends out in 2026",
-    "desc": "<p>A coding agent can leave a clean diff and an uncomfortable privacy question behind it. Getting agent-generated code merged sooner with fe",
-    "link": "https://dev.to/uss/claude-code-email-sharing-reports-6-checks-for-what-your-coding-agent-sends-out-6n0",
-    "topic": "anthropic"
-  },
-  {
-    "title": "6 review rules for auth and base-image config after the Alpine OpenSSH password bypass in 2026",
-    "desc": "<p>A one-line authentication change can cross several repository boundaries before it reaches a running server. I want agent-generated code ",
-    "link": "https://dev.to/dev_barron/6-review-rules-for-auth-and-base-image-config-after-the-alpine-openssh-password-bypass-36ja",
+    "title": "Making Monitoring Alerts Useful: Fleetd Triggers, Recovery and Delivery",
+    "desc": "<p>Putting servers and routers in one dashboard makes life easier, but monitoring is only half finished if you still have to open the page e",
+    "link": "https://dev.to/weiyi/making-monitoring-alerts-useful-fleetd-triggers-recovery-and-delivery-353e",
     "topic": "general"
   },
   {
-    "title": "Windows Server hardening checklist (practical, network side)",
-    "desc": "<p><em>Originally published at <a href=\"https://coinetic.io/windows-server-hardening-checklist\" rel=\"noopener noreferrer\">coinetic.io</a>.</",
-    "link": "https://dev.to/coinetic_ai_security/windows-server-hardening-checklist-practical-network-side-gom",
+    "title": "One Go Agent on Linux and OpenWrt: Fleetd Deployment Choices",
+    "desc": "<p>Installing an agent on a cloud server and on a home router initially looks like the same job: copy an executable, write a configuration f",
+    "link": "https://dev.to/weiyi/one-go-agent-on-linux-and-openwrt-fleetd-deployment-choices-1l8o",
     "topic": "general"
   },
   {
-    "title": "Private Backup Bucket Policy: Retain App Archives for 30 Days",
-    "desc": "<p>For ordinary app data backups, keep archives in a private object-storage bucket under dated keys and set lifecycle expiration to the agre",
-    "link": "https://dev.to/merrickvance8452/private-backup-bucket-policy-retain-app-archives-for-30-days-2c8o",
+    "title": "Why Sign Remote Commands in the Browser? Fleetd Authorization and Trust Boundaries",
+    "desc": "<p>Once a machine is connected to a dashboard, running commands from the browser is an obvious next step. Checking a disk, restarting a serv",
+    "link": "https://dev.to/weiyi/why-sign-remote-commands-in-the-browser-fleetd-authorization-and-trust-boundaries-38lc",
     "topic": "general"
   },
   {
-    "title": "Tell me about yourself.",
-    "desc": "<p>Tell me about yourself.<br />\nI am DevOps Engineer with more than 5 years experience. I started at Southwest Airlines as Cloud Engineer, ",
-    "link": "https://dev.to/jumptotech/tell-me-about-yourself-1j4",
+    "title": "Connecting Routers Behind NAT: Fleetd Agent Enrollment, Approval and Reconnection",
+    "desc": "<p>Connecting a cloud server to a management dashboard is usually straightforward: install the program on a reachable machine, configure an ",
+    "link": "https://dev.to/weiyi/connecting-routers-behind-nat-fleetd-agent-enrollment-approval-and-reconnection-2607",
     "topic": "general"
   },
   {
-    "title": "Cursor's Agent Now Deploys Apps With Postgres and SSO. Its Docs List No Hosting Price",
-    "desc": "<ul>\n<li>\n<strong>Book:</strong> <a href=\"https://www.amazon.com/dp/B0GX3B8371\" rel=\"noopener noreferrer\">Event-Driven Architecture Pocket G",
-    "link": "https://dev.to/gabrielanhaia/cursors-agent-now-deploys-apps-with-postgres-and-sso-its-docs-list-no-hosting-price-517o",
+    "title": "Introducing Fleetd: Open-Source Management for Linux Servers and Routers",
+    "desc": "<p>Managing a few servers and routers seems straightforward. Connect over SSH to check their state, read logs when a service fails, and run ",
+    "link": "https://dev.to/weiyi/introducing-fleetd-open-source-management-for-linux-servers-and-routers-115",
+    "topic": "general"
+  },
+  {
+    "title": "Your AI Agent's Patch Is Fine. The Repo Won't Let You File It.",
+    "desc": "<p>The first hard failure in an agent-written contribution is not a failing test. It's a closed door, and it is documented before you write ",
+    "link": "https://dev.to/dafili/your-ai-agents-patch-is-fine-the-repo-wont-let-you-file-it-191g",
+    "topic": "general"
+  },
+  {
+    "title": "A Green Run Is a Claim, Not Evidence: Re-deriving Agent Patch Test Runs",
+    "desc": "<p>A green test run is a claim about one environment at one moment. An evidence packet is the derivation that lets someone else reach the sa",
+    "link": "https://dev.to/datacpp_8185/a-green-run-is-a-claim-not-evidence-re-deriving-agent-patch-test-runs-5h3a",
     "topic": "general"
   }
 ]
