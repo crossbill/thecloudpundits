@@ -1,5 +1,11 @@
 [
   {
+    "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+    "desc": "<p>CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA.</p>\n",
+    "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+    "topic": "secops"
+  },
+  {
     "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
     "desc": "<p>The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks ",
     "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
@@ -39,12 +45,6 @@
     "title": "Researchers Find Residential Proxies on White House Network",
     "desc": "<p>In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
-    "topic": "general"
-  },
-  {
-    "title": "OpenSSH Rushes Patches for \u2018SSHole\u2019 Authentication Bypass",
-    "desc": "<p>On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters.</p>\n<p>The post <a",
-    "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
     "topic": "general"
   }
 ]

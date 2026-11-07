@@ -1,50 +1,50 @@
 [
   {
-    "title": "Every Release Leaves a Trace: Teaching a Deployment Pipeline to Remember",
-    "desc": "<blockquote>\n<p><strong>Hindsight memory informs. Current evidence verifies. The engineer decides.</strong></p>\n</blockquote>\n\n<p>Picture th",
-    "link": "https://dev.to/amritesh_mishra_f93bc6ac3/every-release-leaves-a-trace-teaching-a-deployment-pipeline-to-remember-59jl",
+    "title": "Ansible From a Blank Workstation to a Deployment I Reviewed Before It Ran.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/horlartundhey/ansible-from-a-blank-workstation-to-a-deployment-i-reviewed-before-it-ran-emb",
     "topic": "general"
   },
   {
-    "title": "GoLogin vs AdsPower vs MoreLogin (2026): The Real 100-Profile Anti-Detect + IPRoyal & Vultr BOM",
-    "desc": "<p>This 2026 total cost of ownership benchmark evaluates GoLogin, AdsPower, and MoreLogin across a 50 to 100 browser profile fleet, alongsid",
-    "link": "https://dev.to/600me/gologin-vs-adspower-vs-morelogin-2026-the-real-100-profile-anti-detect-iproyal-vultr-bom-472h",
-    "topic": "general"
-  },
-  {
-    "title": "Crawlbase vs ScraperAPI vs CapSolver + IPRoyal (2026): Real 100k-Request TCO for Cloudflare Turnstile Scraping",
-    "desc": "<p>This 2026 benchmark prices 100,000 monthly requests across Crawlbase, ScraperAPI and a CapSolver + IPRoyal pipeline, including how concur",
-    "link": "https://dev.to/600me/crawlbase-vs-scraperapi-vs-capsolver-iproyal-2026-real-100k-request-tco-for-cloudflare-4l7",
-    "topic": "general"
-  },
-  {
-    "title": "Why We're Building an AI Software Engineering Environment That Shows Its Work",
-    "desc": "<p>AI coding tools are good at producing code. They're much worse at showing you why you should trust it.</p>\n\n<p>You ask for a change, you ",
-    "link": "https://dev.to/zylvex_tech/why-were-building-an-ai-software-engineering-environment-that-shows-its-work-5h40",
-    "topic": "general"
-  },
-  {
-    "title": "ISP proxy pricing: the per-IP unit and how to size it",
-    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/isp-proxy-pricing/\" rel=\"noopener noreferrer\">proxymint</a>.</em></p>\n\n<p>ISP ",
-    "link": "https://dev.to/proxymint/isp-proxy-pricing-the-per-ip-unit-and-how-to-size-it-4d89",
-    "topic": "general"
-  },
-  {
-    "title": "Kubernetes DRA Extended Resources: GPUs Without Device Plugins",
-    "desc": "<p><em>Originally published on <a href=\"https://kuryzhev.cloud/2026/11/07/kubernetes-dra-extended-resources-gpus-without-device-plugins\" rel",
-    "link": "https://dev.to/oleksandr_kuryzhev_42873f/kubernetes-dra-extended-resources-gpus-without-device-plugins-b2d",
+    "title": "Docker vs Kubernetes: What\u2019s the Difference? Simple Guide",
+    "desc": "<p>People ask this as if they were rivals, and they are not. Docker packages your application so it runs the same everywhere. Kubernetes run",
+    "link": "https://dev.to/devtalk94/docker-vs-kubernetes-whats-the-difference-simple-guide-3jhp",
     "topic": "kubernetes"
   },
   {
-    "title": "Database Schema Planning: Operational Best Practices",
-    "desc": "<p>Designing a database schema on paper is one thing, but running it under heavy production traffic is another challenge entirely.<br />\nBad",
-    "link": "https://dev.to/leena_deore_400371c043837/database-schema-planning-operational-best-practices-5hlo",
+    "title": "I Let Three AI Agents Run an Incident. The Most Useful Thing They Did Was Refuse Me.",
+    "desc": "<p>Building a human-gated incident team on Switch, with Claude Code agents working in Mattermost and Telegram.</p>\n\n<h1>\n  \n  \n  I Let Three",
+    "link": "https://dev.to/adish_100/i-let-three-ai-agents-run-an-incident-the-most-useful-thing-they-did-was-refuse-me-3fhm",
+    "topic": "secops"
+  },
+  {
+    "title": "Docker ports bypass UFW: why it happens and 3 ways to fix it",
+    "desc": "<p>You set up UFW, allowed only SSH, 80 and 443, and ran <code>ufw status</code> to check. Then you started a container with <code>-p 8080:8",
+    "link": "https://dev.to/veloxadev/docker-ports-bypass-ufw-why-it-happens-and-3-ways-to-fix-it-5emd",
+    "topic": "docker"
+  },
+  {
+    "title": "An agent told me it deployed. I asked the server, and the containers were a day old",
+    "desc": "<p>The message said: deployed, edge clean, no 5xx.</p>\n\n<p>Both of those things were true. The commit was on the server, the CDN was healthy",
+    "link": "https://dev.to/chet103cc/an-agent-told-me-it-deployed-i-asked-the-server-and-the-containers-were-a-day-old-2b6i",
+    "topic": "docker"
+  },
+  {
+    "title": "Data Pipelines Optimize for Throughput. AI Training Needs Determinism",
+    "desc": "<blockquote>\n<p><strong>TL;DR \u2014</strong> Data pipelines built for analytics are fault-tolerant by reordering records on retry, parallel read",
+    "link": "https://dev.to/aiexplore369zoho/data-pipelines-optimize-for-throughput-ai-training-needs-determinism-h6g",
     "topic": "general"
   },
   {
-    "title": "Our Email Gate Printed Every Verdict and Saved None of Them",
-    "desc": "<p><em>Originally published at <a href=\"https://thicket.sh/blog/a-gate-that-prints-the-answer-and-acts-on-nothing\" rel=\"noopener noreferrer\"",
-    "link": "https://dev.to/yonatan_naor_5642e43447ea/our-email-gate-printed-every-verdict-and-saved-none-of-them-3ja5",
+    "title": "Teaching an Incident Agent to Remember with Hindsight",
+    "desc": "<ol>\n<li>Introduction</li>\n</ol>\n\n<p>Imagine an IT team facing the same server problem again and again. Engineers investigate the issue, try",
+    "link": "https://dev.to/bhavyal_e60300debd17cb58/teaching-an-incident-agent-to-remember-with-hindsight-2j56",
+    "topic": "secops"
+  },
+  {
+    "title": "Your Coding Agent Is a Single Point of Failure",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/honeykiran/your-coding-agent-is-a-single-point-of-failure-1jca",
     "topic": "general"
   }
 ]
