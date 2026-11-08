@@ -1,50 +1,50 @@
 [
   {
-    "title": "rk-deploy v0.2: a real board caught the bug my test suite couldn't",
-    "desc": "<h1>\n  \n  \n  rk-deploy v0.2: a real board caught the bug my test suite couldn't\n</h1>\n\n<p>Two weeks ago I shipped <a href=\"https://github.co",
-    "link": "https://dev.to/anguoyang/rk-deploy-v02-a-real-board-caught-the-bug-my-test-suite-couldnt-4f76",
+    "title": "Game Credential Blast Radius: Reviewing Separate API Keys and Account Boundaries",
+    "desc": "<p>A sandbox credential that can reach production makes an access review difficult to sign, even when the usage dashboard draws two reassuri",
+    "link": "https://dev.to/yorkholloway3257/game-credential-blast-radius-reviewing-separate-api-keys-and-account-boundaries-400k",
     "topic": "general"
   },
   {
-    "title": "Your Free Server Forgets Everything: Five Ephemeral-Deployment Myths and a State Probe",
-    "desc": "<p>I keep reading the same three lines in deploy channels. \"It worked yesterday.\" \"The file was there.\" \"The model knew my name.\" None of th",
-    "link": "https://dev.to/gitlab_3188/your-free-server-forgets-everything-five-ephemeral-deployment-myths-and-a-state-probe-3hdn",
+    "title": "The Genesis Manifesto: Why We Don't Sell Model Routing, and How We Engineered the Sovereign Autonomous Substrate",
+    "desc": "<h1>\n  \n  \n  The Genesis Manifesto: Why We Don't Sell Model Routing, and How We Engineered the Sovereign Autonomous Substrate\n</h1>\n\n<p>The ",
+    "link": "https://dev.to/bennialencar/the-genesis-manifesto-why-we-dont-sell-model-routing-and-how-we-engineered-the-sovereign-2i8",
     "topic": "general"
   },
   {
-    "title": "When Three Gates Disagree: A Precedence Router for Agent-Patch Evidence",
-    "desc": "<p>Most agent-patch pipelines already have more than one gate: a property check, a fixture suite, and some handling for tests that are curre",
-    "link": "https://dev.to/datacpp_8185/when-three-gates-disagree-a-precedence-router-for-agent-patch-evidence-2k4j",
+    "title": "Desarrollo y despliegue de una aplicaci\u00f3n NoSQL con Azure Cosmos DB, Terraform y GitHub Actions",
+    "desc": "<p><strong>Autor:</strong> Yerry Maycol Tarqui Collatupa<br /><br />\n<strong>Trabajo:</strong> NoSQL App Development</p>\n\n<blockquote>\n<p>En",
+    "link": "https://dev.to/yerrytc/desarrollo-y-despliegue-de-una-aplicacion-nosql-con-azure-cosmos-db-terraform-y-github-actions-4f6m",
+    "topic": "azure"
+  },
+  {
+    "title": "Routing Autonomous Revenue Copilots (ChatGPT Agent, Devin, and Manus) to Human Enterprise Sales War Rooms",
+    "desc": "<h2>\n  \n  \n  Executive Summary\n</h2>\n\n<p>Chat assistants that only draft text are giving way to agents that act: they browse sites, fill in ",
+    "link": "https://dev.to/instachime/routing-autonomous-revenue-copilots-chatgpt-agent-devin-and-manus-to-human-enterprise-sales-war-1de7",
+    "topic": "openai"
+  },
+  {
+    "title": "Upgrading n8n v1 to v2: Seven Deprecations in One Log File",
+    "desc": "<p><em>Originally published on my blog \u2014 <a href=\"https://blog.hoelee.com/posts/n8n-v1-to-v2-upgrade-gotchas/\" rel=\"noopener noreferrer\">rea",
+    "link": "https://dev.to/hoelee/upgrading-n8n-v1-to-v2-seven-deprecations-in-one-log-file-4920",
     "topic": "general"
   },
   {
-    "title": "We sized a backend for 1M+ visitors it hadn't seen yet. Premature optimization?",
-    "desc": "<p>\"You aren't gonna need it.\"</p>\n\n<p>It's one of the best rules in software, and we broke it on purpose.</p>\n\n<p><a href=\"https://kryeo.co",
-    "link": "https://dev.to/kryeo/we-sized-a-backend-for-1m-visitors-it-hadnt-seen-yet-premature-optimization-3c9c",
+    "title": "AI Agents Are Changing Software Engineering: 4 Major IT Developments This Week",
+    "desc": "<p><em>November 8, 2026 | AI, Software Engineering, DevOps, Cybersecurity</em></p>\n\n<p>For years, developers have been told that artificial ",
+    "link": "https://dev.to/jose_bernard/ai-agents-are-changing-software-engineering-4-major-it-developments-this-week-15oi",
     "topic": "general"
   },
   {
-    "title": "AWS S3 Pricing and Billing: Storage, Request Fees and Egress Costs Explained",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/buildopsy/aws-s3-pricing-and-billing-storage-request-fees-and-egress-costs-explained-39d1",
-    "topic": "aws"
-  },
-  {
-    "title": "Salesforce CI without scratch orgs: tests and gated deploys",
-    "desc": "<p><em>renmy runtime was called Nimbus until October 2026. Same tool, same binary; the record of the rename is at <a href=\"https://renmy.net",
-    "link": "https://dev.to/oblitus/salesforce-ci-without-scratch-orgs-tests-and-gated-deploys-4pl4",
+    "title": "How to Run and Monitor Minecraft Servers on Your Own Hardware",
+    "desc": "<p>The short answer: put MineOps on the Linux or macOS machine you already own, and it creates and monitors your Minecraft servers from one ",
+    "link": "https://dev.to/mineops/how-to-run-and-monitor-minecraft-servers-on-your-own-hardware-h7a",
     "topic": "general"
   },
   {
-    "title": "Install OneAgent Linux: deploying on Linux hosts in a Managed environment",
-    "desc": "<p>Deploying OneAgent on a handful of Linux servers is trivial. Deploying it cleanly on several hundred hosts spread across data centres, se",
-    "link": "https://dev.to/spanobserver/install-oneagent-linux-deploying-on-linux-hosts-in-a-managed-environment-50m2",
-    "topic": "general"
-  },
-  {
-    "title": "Why Business Emails Land in Gmail Spam in 2026: Missing _dmarc, SPF & How to Fix It in 2 Minutes",
-    "desc": "<p>Since Google, Yahoo, and Microsoft enforced strict sender authentication requirements, thousands of companies, clinics, law firms, and Sa",
-    "link": "https://dev.to/claudiu_florinoneata_22f/why-business-emails-land-in-gmail-spam-in-2026-missing-dmarc-spf-how-to-fix-it-in-2-minutes-2ac1",
+    "title": "Stop Pasting Secrets into Random Web Tools: 3 In-Browser DevOps Generators (100% Client-Side)",
+    "desc": "<h2>\n  \n  \n  The Hidden Risk in Everyday DevOps Tasks\n</h2>\n\n<p>We\u2019ve all done it:</p>\n\n<ul>\n<li>You need to turn a messy 5-line <code>docke",
+    "link": "https://dev.to/minitooldesk/stop-pasting-secrets-into-random-web-tools-3-in-browser-devops-generators-100-client-side-21lg",
     "topic": "general"
   }
 ]
