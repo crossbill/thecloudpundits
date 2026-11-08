@@ -1,50 +1,50 @@
 [
   {
-    "title": "Game Credential Blast Radius: Reviewing Separate API Keys and Account Boundaries",
-    "desc": "<p>A sandbox credential that can reach production makes an access review difficult to sign, even when the usage dashboard draws two reassuri",
-    "link": "https://dev.to/yorkholloway3257/game-credential-blast-radius-reviewing-separate-api-keys-and-account-boundaries-400k",
+    "title": "Mozilla Observatory Alternative: HTTP Header Checks vs Broader Website Scanning",
+    "desc": "<p>An A+ from Mozilla\u2019s HTTP Observatory is a useful grade for HTTP security headers. It is not a verdict that the website is secure. Mozill",
+    "link": "https://dev.to/hackerme/mozilla-observatory-alternative-http-header-checks-vs-broader-website-scanning-50ah",
     "topic": "general"
   },
   {
-    "title": "The Genesis Manifesto: Why We Don't Sell Model Routing, and How We Engineered the Sovereign Autonomous Substrate",
-    "desc": "<h1>\n  \n  \n  The Genesis Manifesto: Why We Don't Sell Model Routing, and How We Engineered the Sovereign Autonomous Substrate\n</h1>\n\n<p>The ",
-    "link": "https://dev.to/bennialencar/the-genesis-manifesto-why-we-dont-sell-model-routing-and-how-we-engineered-the-sovereign-2i8",
+    "title": "Every Verdict Carries A Trace",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/anton_brilliantov/every-verdict-carries-a-trace-3oi1",
     "topic": "general"
   },
   {
-    "title": "Desarrollo y despliegue de una aplicaci\u00f3n NoSQL con Azure Cosmos DB, Terraform y GitHub Actions",
-    "desc": "<p><strong>Autor:</strong> Yerry Maycol Tarqui Collatupa<br /><br />\n<strong>Trabajo:</strong> NoSQL App Development</p>\n\n<blockquote>\n<p>En",
-    "link": "https://dev.to/yerrytc/desarrollo-y-despliegue-de-una-aplicacion-nosql-con-azure-cosmos-db-terraform-y-github-actions-4f6m",
-    "topic": "azure"
+    "title": "The Incident Room: A Timeline Written While It Happens, Not Reconstructed After",
+    "desc": "<h2>\n  \n  \n  The postmortem is where incident truth goes to be negotiated\n</h2>\n\n<p>Two days after an outage, smart people sit in a room and",
+    "link": "https://dev.to/rambozambo/the-incident-room-a-timeline-written-while-it-happens-not-reconstructed-after-3ep",
+    "topic": "secops"
   },
   {
-    "title": "Routing Autonomous Revenue Copilots (ChatGPT Agent, Devin, and Manus) to Human Enterprise Sales War Rooms",
-    "desc": "<h2>\n  \n  \n  Executive Summary\n</h2>\n\n<p>Chat assistants that only draft text are giving way to agents that act: they browse sites, fill in ",
-    "link": "https://dev.to/instachime/routing-autonomous-revenue-copilots-chatgpt-agent-devin-and-manus-to-human-enterprise-sales-war-1de7",
-    "topic": "openai"
-  },
-  {
-    "title": "Upgrading n8n v1 to v2: Seven Deprecations in One Log File",
-    "desc": "<p><em>Originally published on my blog \u2014 <a href=\"https://blog.hoelee.com/posts/n8n-v1-to-v2-upgrade-gotchas/\" rel=\"noopener noreferrer\">rea",
-    "link": "https://dev.to/hoelee/upgrading-n8n-v1-to-v2-seven-deprecations-in-one-log-file-4920",
+    "title": "Your Agent Ran All Night and Did Nothing: Build the Swarm That Cannot Stall Silently",
+    "desc": "<h2>\n  \n  \n  The morning everyone in this field has had\n</h2>\n\n<p>You set a team of agents a real job at night: 40 steps across 8 stages, re",
+    "link": "https://dev.to/rambozambo/your-agent-ran-all-night-and-did-nothing-build-the-swarm-that-cannot-stall-silently-1cak",
     "topic": "general"
   },
   {
-    "title": "AI Agents Are Changing Software Engineering: 4 Major IT Developments This Week",
-    "desc": "<p><em>November 8, 2026 | AI, Software Engineering, DevOps, Cybersecurity</em></p>\n\n<p>For years, developers have been told that artificial ",
-    "link": "https://dev.to/jose_bernard/ai-agents-are-changing-software-engineering-4-major-it-developments-this-week-15oi",
+    "title": "Kubernetes CI Needs a Resource Ownership Ledger",
+    "desc": "<p>CI failures are expensive even when the application code is fine. A cancelled deployment can leave a namespace running, a load balancer b",
+    "link": "https://dev.to/jasonmills94/kubernetes-ci-needs-a-resource-ownership-ledger-eli",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Pin the Evidence, Then Let the Model Draft: A Resolvable-Reference Gate for Generated Docs",
+    "desc": "<p>Documentation drafted by a model fails in a predictable pattern: each sentence was accurate when generated, and nothing rechecks it later",
+    "link": "https://dev.to/github_7727/pin-the-evidence-then-let-the-model-draft-a-resolvable-reference-gate-for-generated-docs-2lj4",
     "topic": "general"
   },
   {
-    "title": "How to Run and Monitor Minecraft Servers on Your Own Hardware",
-    "desc": "<p>The short answer: put MineOps on the Linux or macOS machine you already own, and it creates and monitors your Minecraft servers from one ",
-    "link": "https://dev.to/mineops/how-to-run-and-monitor-minecraft-servers-on-your-own-hardware-h7a",
+    "title": "No Deploy Ships Without the Receipts: The Release Gate",
+    "desc": "<h2>\n  \n  \n  The changelog is a claim list, and nobody checks it\n</h2>\n\n<p>Every release ships with a document that makes factual claims: su",
+    "link": "https://dev.to/rambozambo/no-deploy-ships-without-the-receipts-the-release-gate-p98",
     "topic": "general"
   },
   {
-    "title": "Stop Pasting Secrets into Random Web Tools: 3 In-Browser DevOps Generators (100% Client-Side)",
-    "desc": "<h2>\n  \n  \n  The Hidden Risk in Everyday DevOps Tasks\n</h2>\n\n<p>We\u2019ve all done it:</p>\n\n<ul>\n<li>You need to turn a messy 5-line <code>docke",
-    "link": "https://dev.to/minitooldesk/stop-pasting-secrets-into-random-web-tools-3-in-browser-devops-generators-100-client-side-21lg",
+    "title": "Your Docs Are Lying About Your Own Product: The Repo-Wide Truth Pass",
+    "desc": "<blockquote>\n<p><strong>Watch it run.</strong> This pass was run live on 2026-11-08 against zambo.dev's own pages, as a 3-claim slice of the",
+    "link": "https://dev.to/rambozambo/your-docs-are-lying-about-your-own-product-the-repo-wide-truth-pass-551d",
     "topic": "general"
   }
 ]
