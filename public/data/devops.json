@@ -1,50 +1,50 @@
 [
   {
-    "title": "Retry Is Not Resilience: Five Free-Tier Model Myths and a Retry Ledger You Can Run",
-    "desc": "<h2>\n  \n  \n  The green build that teaches you nothing\n</h2>\n\n<p>Your job log says <code>attempt 1 failed, attempt 2 ok</code>. The pipeline ",
-    "link": "https://dev.to/gitlab_3188/retry-is-not-resilience-five-free-tier-model-myths-and-a-retry-ledger-you-can-run-1bo7",
+    "title": "Open WebUI with SearXNG web search and local Ollama models",
+    "desc": "<p>A chat assistant that runs in your own cluster and can look things up on<br />\nthe web takes three services. Open WebUI is the chat inter",
+    "link": "https://dev.to/kadet-hub/open-webui-with-searxng-web-search-and-local-ollama-models-e7e",
     "topic": "general"
   },
   {
-    "title": "Three Runs, One Verdict: Use Regeneration Drift to Decide Which Doc Sections a Model May Own",
-    "desc": "<p>Delegating documentation to a model is usually argued as a policy question. It is easier to settle as a measurement question. Run the sam",
-    "link": "https://dev.to/github_7727/three-runs-one-verdict-use-regeneration-drift-to-decide-which-doc-sections-a-model-may-own-2om5",
+    "title": "Nextcloud Helm chart: Bitnami subcharts and Kapitan",
+    "desc": "<p>The Nextcloud Helm chart 9.4.1 packages Bitnami's PostgreSQL, MariaDB and<br />\nRedis charts as optional subcharts, all switched off by d",
+    "link": "https://dev.to/kadet-hub/nextcloud-helm-chart-bitnami-subcharts-and-kapitan-4g69",
     "topic": "general"
   },
   {
-    "title": "Selecting Tests for Agent Patch Queues: A Precision Budget With a Hard Floor",
-    "desc": "<h1>\n  \n  \n  Selecting Tests for Agent Patch Queues: A Precision Budget With a Hard Floor\n</h1>\n\n<p><strong>Conclusion first:</strong> when ",
-    "link": "https://dev.to/datacpp_8185/selecting-tests-for-agent-patch-queues-a-precision-budget-with-a-hard-floor-4m46",
+    "title": "Regenerate Only What Moved: An Anchor Manifest for Model-Drafted Docs",
+    "desc": "<p>Most documentation pipelines that use a model regenerate the whole page, and that is where both the risk and the cost live. A page is a b",
+    "link": "https://dev.to/github_7727/regenerate-only-what-moved-an-anchor-manifest-for-model-drafted-docs-5h2p",
     "topic": "general"
   },
   {
-    "title": "How to Manage Headless Linux Servers & Raspberry Pi Over SSH Without VNC or Heavy Desktops",
-    "desc": "<p>Managing a headless Linux server or Raspberry Pi (Ubuntu Server, Debian, Raspberry Pi OS Lite) usually forces you to choose between two a",
-    "link": "https://dev.to/sharuk_fk_7883e6ff2447418/how-to-manage-headless-linux-servers-raspberry-pi-over-ssh-without-vnc-or-heavy-desktops-4o87",
+    "title": "I Deleted My Own Fake Data: What Building an Honest Readiness Score Taught Me",
+    "desc": "<p>Last week I deleted data from my own product. Not a test fixture, not a staging artifact \u2014 live data in the readiness platform I am build",
+    "link": "https://dev.to/purvanshbhatt/i-deleted-my-own-fake-data-what-building-an-honest-readiness-score-taught-me-51kd",
     "topic": "general"
   },
   {
-    "title": "Helm & Kustomize: Packaging Kubernetes Manifests",
-    "desc": "<blockquote>\n<p>\u26a1 <strong>TL;DR:</strong> Choose between Helm's templated charts and Kustomize's overlays to tame Kubernetes YAML across env",
-    "link": "https://dev.to/sri2614/helm-kustomize-packaging-kubernetes-manifests-1d75",
-    "topic": "kubernetes"
+    "title": "Multi-Region Cloud Run Without a Platform Team: Active-Passive Failover for a Security Service",
+    "desc": "<p>The first time a Cloud Run region had a bad afternoon, my service was not down for long. It was down long enough. A readiness check that ",
+    "link": "https://dev.to/purvanshbhatt/multi-region-cloud-run-without-a-platform-team-active-passive-failover-for-a-security-service-3hl3",
+    "topic": "secops"
   },
   {
-    "title": "From a Git Repository to an HTTPS URL on Your VPS",
-    "desc": "<p>When an application works on my local machine, I often feel that the hardest part is over.</p>\n\n<p>But getting it onto a VPS and sending ",
-    "link": "https://dev.to/hoagminh/from-a-git-repository-to-an-https-url-on-your-vps-27p1",
+    "title": "I Wrote Up 938 Incidents. Then I Made Them Searchable \u2014 and Monitored the Search.",
+    "desc": "<h1>\n  \n  \n  I Wrote Up 938 Incidents. Then I Made Them Searchable \u2014 and Monitored the Search.\n</h1>\n\n<p>Every bug in my Kubernetes platform",
+    "link": "https://dev.to/wilddog64/i-wrote-up-938-incidents-then-i-made-them-searchable-and-monitored-the-search-3637",
+    "topic": "secops"
+  },
+  {
+    "title": "My Incident Bot Offered to Break Production. One Click Away.",
+    "desc": "<h1>\n  \n  \n  My Incident Bot Offered to Break Production. One Click Away.\n</h1>\n\n<p>On Sunday morning my incident bot posted to Slack: 20 ap",
+    "link": "https://dev.to/wilddog64/my-incident-bot-offered-to-break-production-one-click-away-4jdd",
+    "topic": "secops"
+  },
+  {
+    "title": "Cron Job Monitoring: Catch Silent Failures",
+    "desc": "<p>A cron job doesn't usually announce its own death. It doesn't throw an exception into your error tracker, it doesn't page anyone, it does",
+    "link": "https://dev.to/andrewmolyuk/cron-job-monitoring-catch-silent-failures-5122",
     "topic": "general"
-  },
-  {
-    "title": "Cron Jobs That Never Ran: Heartbeats & Dead-Man Switches for SaaS",
-    "desc": "<p>The nightly invoice job has a try/catch, an error alert, and a Slack webhook for failures. It has been silent for eleven days. Nobody not",
-    "link": "https://dev.to/muhammadalimughal/cron-jobs-that-never-ran-heartbeats-dead-man-switches-for-saas-1gk6",
-    "topic": "general"
-  },
-  {
-    "title": "Lesson 1: Deploying Laravel with Docker",
-    "desc": "<p><strong>Laravel Docker Lessons \u00b7 Lesson 1</strong></p>\n\n<p>This lesson documents the Docker setup I created for the <code>docker-laravel<",
-    "link": "https://dev.to/muhammadyasiramin/lesson-1-deploying-laravel-with-docker-47d9",
-    "topic": "docker"
   }
 ]
