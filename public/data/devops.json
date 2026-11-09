@@ -1,50 +1,50 @@
 [
   {
-    "title": "Open WebUI with SearXNG web search and local Ollama models",
-    "desc": "<p>A chat assistant that runs in your own cluster and can look things up on<br />\nthe web takes three services. Open WebUI is the chat inter",
-    "link": "https://dev.to/kadet-hub/open-webui-with-searxng-web-search-and-local-ollama-models-e7e",
+    "title": "Start Claude Code on Any Machine From Your Phone",
+    "desc": "<p>I often leave my desk with a long Claude Code task half done. Claude has a feature called remote control, which lets you drive a session ",
+    "link": "https://dev.to/kbirgerdev/start-claude-code-on-any-machine-from-your-phone-5aam",
+    "topic": "anthropic"
+  },
+  {
+    "title": "We let an AI agent run a hosting product. Then we paused selling its paid plans.",
+    "desc": "<h1>\n  \n  \n  ABotWroteThis\n</h1>\n\n<blockquote>\n<p><strong>Disclosure, up front:</strong> This post was written and published autonomously by",
+    "link": "https://dev.to/nativefoundation-lab/we-let-an-ai-agent-run-a-hosting-product-then-we-paused-selling-its-paid-plans-3igi",
     "topic": "general"
   },
   {
-    "title": "Nextcloud Helm chart: Bitnami subcharts and Kapitan",
-    "desc": "<p>The Nextcloud Helm chart 9.4.1 packages Bitnami's PostgreSQL, MariaDB and<br />\nRedis charts as optional subcharts, all switched off by d",
-    "link": "https://dev.to/kadet-hub/nextcloud-helm-chart-bitnami-subcharts-and-kapitan-4g69",
+    "title": "Docs Rot When Facts Change, Not When Drafts Are Wrong: A Fact-Fingerprint Drift Gate",
+    "desc": "<p>The most expensive documentation bug is not a badly written paragraph. It is a correct paragraph whose facts quietly changed three releas",
+    "link": "https://dev.to/github_7727/docs-rot-when-facts-change-not-when-drafts-are-wrong-a-fact-fingerprint-drift-gate-5en",
     "topic": "general"
   },
   {
-    "title": "Regenerate Only What Moved: An Anchor Manifest for Model-Drafted Docs",
-    "desc": "<p>Most documentation pipelines that use a model regenerate the whole page, and that is where both the risk and the cost live. A page is a b",
-    "link": "https://dev.to/github_7727/regenerate-only-what-moved-an-anchor-manifest-for-model-drafted-docs-5h2p",
+    "title": "Your Prometheus Is Hoarding. Time for a Funeral Policy.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/honeykiran/your-prometheus-is-hoarding-time-for-a-funeral-policy-16b6",
     "topic": "general"
   },
   {
-    "title": "I Deleted My Own Fake Data: What Building an Honest Readiness Score Taught Me",
-    "desc": "<p>Last week I deleted data from my own product. Not a test fixture, not a staging artifact \u2014 live data in the readiness platform I am build",
-    "link": "https://dev.to/purvanshbhatt/i-deleted-my-own-fake-data-what-building-an-honest-readiness-score-taught-me-51kd",
+    "title": "Moving an Application to Another VPS Without Losing the Way Back",
+    "desc": "<p>A VPS is rarely the permanent home of an application.</p>\n\n<p>Eventually, I may need a more powerful machine, a region closer to my users",
+    "link": "https://dev.to/hoagminh/moving-an-application-to-another-vps-without-losing-the-way-back-38en",
     "topic": "general"
   },
   {
-    "title": "Multi-Region Cloud Run Without a Platform Team: Active-Passive Failover for a Security Service",
-    "desc": "<p>The first time a Cloud Run region had a bad afternoon, my service was not down for long. It was down long enough. A readiness check that ",
-    "link": "https://dev.to/purvanshbhatt/multi-region-cloud-run-without-a-platform-team-active-passive-failover-for-a-security-service-3hl3",
-    "topic": "secops"
+    "title": "Docs Rot When Facts Change, Not When Drafts Are Wrong: A Fact-Fingerprint Drift Gate",
+    "desc": "<p>The most expensive documentation bug is not a badly written paragraph. It is a correct paragraph whose facts quietly changed three releas",
+    "link": "https://dev.to/github_7727/docs-rot-when-facts-change-not-when-drafts-are-wrong-a-fact-fingerprint-drift-gate-3n7k",
+    "topic": "general"
   },
   {
-    "title": "I Wrote Up 938 Incidents. Then I Made Them Searchable \u2014 and Monitored the Search.",
-    "desc": "<h1>\n  \n  \n  I Wrote Up 938 Incidents. Then I Made Them Searchable \u2014 and Monitored the Search.\n</h1>\n\n<p>Every bug in my Kubernetes platform",
-    "link": "https://dev.to/wilddog64/i-wrote-up-938-incidents-then-i-made-them-searchable-and-monitored-the-search-3637",
-    "topic": "secops"
+    "title": "29% of Your Cloud Bill Is Waste. Start With the Graveyard.",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/honeykiran/29-of-your-cloud-bill-is-waste-start-with-the-graveyard-24o5",
+    "topic": "general"
   },
   {
-    "title": "My Incident Bot Offered to Break Production. One Click Away.",
-    "desc": "<h1>\n  \n  \n  My Incident Bot Offered to Break Production. One Click Away.\n</h1>\n\n<p>On Sunday morning my incident bot posted to Slack: 20 ap",
-    "link": "https://dev.to/wilddog64/my-incident-bot-offered-to-break-production-one-click-away-4jdd",
-    "topic": "secops"
-  },
-  {
-    "title": "Cron Job Monitoring: Catch Silent Failures",
-    "desc": "<p>A cron job doesn't usually announce its own death. It doesn't throw an exception into your error tracker, it doesn't page anyone, it does",
-    "link": "https://dev.to/andrewmolyuk/cron-job-monitoring-catch-silent-failures-5122",
+    "title": "Why Your Airflow Tasks Fail at 3 AM (And Why Re-Running Them Is a Trap)",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/honeykiran/why-your-airflow-tasks-fail-at-3-am-and-why-re-running-them-is-a-trap-2hle",
     "topic": "general"
   }
 ]
