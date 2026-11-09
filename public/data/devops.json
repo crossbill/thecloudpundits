@@ -1,50 +1,50 @@
 [
   {
-    "title": "Start Claude Code on Any Machine From Your Phone",
-    "desc": "<p>I often leave my desk with a long Claude Code task half done. Claude has a feature called remote control, which lets you drive a session ",
-    "link": "https://dev.to/kbirgerdev/start-claude-code-on-any-machine-from-your-phone-5aam",
+    "title": "Check Your SPF, DKIM, and DMARC Records From the Command",
+    "desc": "<p>``If your emails land in spam or get rejected, the cause is often a missing or broken DNS record. SPF, DKIM, and DMARC are three TXT reco",
+    "link": "https://dev.to/degen_storrer/check-your-spf-dkim-and-dmarc-records-from-the-command-3bel",
+    "topic": "general"
+  },
+  {
+    "title": "NVIDIA Answers HBM Pressure With Tiering: 3% More Memory, 30x More Throughput per Dollar",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Full-stack memory codesign is a design practice at NVIDIA that treats GPU, CPU, networking, storage and s",
+    "link": "https://dev.to/echakiri/nvidia-answers-hbm-pressure-with-tiering-3-more-memory-30x-more-throughput-per-dollar-gcd",
+    "topic": "general"
+  },
+  {
+    "title": "Make your coding agent verify every deploy: a CLAUDE.md block, a CI step and a definition of done",
+    "desc": "<p><em>Originally published on the <a href=\"https://webskan.com/en/blog/make-your-agent-verify-every-deploy/\" rel=\"noopener noreferrer\">Webs",
+    "link": "https://dev.to/webskan/make-your-coding-agent-verify-every-deploy-a-claudemd-block-a-ci-step-and-a-definition-of-done-1epk",
     "topic": "anthropic"
   },
   {
-    "title": "We let an AI agent run a hosting product. Then we paused selling its paid plans.",
-    "desc": "<h1>\n  \n  \n  ABotWroteThis\n</h1>\n\n<blockquote>\n<p><strong>Disclosure, up front:</strong> This post was written and published autonomously by",
-    "link": "https://dev.to/nativefoundation-lab/we-let-an-ai-agent-run-a-hosting-product-then-we-paused-selling-its-paid-plans-3igi",
+    "title": "Opsville: A Free Pixel-Art DevOps Town in Your Browser",
+    "desc": "<p>Opsville is a small pixel-art town where every district is broken, and you are the one on call. It is free, it runs in your browser, and ",
+    "link": "https://dev.to/devopsdaily/opsville-a-free-pixel-art-devops-town-in-your-browser-3pne",
     "topic": "general"
   },
   {
-    "title": "Docs Rot When Facts Change, Not When Drafts Are Wrong: A Fact-Fingerprint Drift Gate",
-    "desc": "<p>The most expensive documentation bug is not a badly written paragraph. It is a correct paragraph whose facts quietly changed three releas",
-    "link": "https://dev.to/github_7727/docs-rot-when-facts-change-not-when-drafts-are-wrong-a-fact-fingerprint-drift-gate-5en",
+    "title": "7 Top Software Factory Platforms for Engineering Teams for 2027",
+    "desc": "<p>AI is becoming part of more engineering activities than code completion. Teams can assign agents to investigate issues, implement changes",
+    "link": "https://dev.to/orhillel/7-top-software-factory-platforms-for-engineering-teams-for-2027-5840",
     "topic": "general"
   },
   {
-    "title": "Your Prometheus Is Hoarding. Time for a Funeral Policy.",
+    "title": "Best Digital Marketing Course in Kerala \u2013 Build Your Career in Digital Marketing",
+    "desc": "",
+    "link": "https://dev.to/maleeha_malee_b66e1f9ca43/best-digital-marketing-course-in-kerala-build-your-career-in-digital-marketing-1dlj",
+    "topic": "general"
+  },
+  {
+    "title": "I checked my nginx log for AI crawlers. A third of the \u201cGooglebots\u201d were fake",
+    "desc": "<p>I went through two weeks of my site's nginx access log and counted every bot that said it was an AI crawler or a search engine. I only ke",
+    "link": "https://dev.to/markosavran/i-checked-my-nginx-log-for-ai-crawlers-a-third-of-the-googlebots-were-fake-5b6b",
+    "topic": "general"
+  },
+  {
+    "title": "Dense Sand Dispatches Day-2 Operations Demand Deterministic Architecture",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/honeykiran/your-prometheus-is-hoarding-time-for-a-funeral-policy-16b6",
-    "topic": "general"
-  },
-  {
-    "title": "Moving an Application to Another VPS Without Losing the Way Back",
-    "desc": "<p>A VPS is rarely the permanent home of an application.</p>\n\n<p>Eventually, I may need a more powerful machine, a region closer to my users",
-    "link": "https://dev.to/hoagminh/moving-an-application-to-another-vps-without-losing-the-way-back-38en",
-    "topic": "general"
-  },
-  {
-    "title": "Docs Rot When Facts Change, Not When Drafts Are Wrong: A Fact-Fingerprint Drift Gate",
-    "desc": "<p>The most expensive documentation bug is not a badly written paragraph. It is a correct paragraph whose facts quietly changed three releas",
-    "link": "https://dev.to/github_7727/docs-rot-when-facts-change-not-when-drafts-are-wrong-a-fact-fingerprint-drift-gate-3n7k",
-    "topic": "general"
-  },
-  {
-    "title": "29% of Your Cloud Bill Is Waste. Start With the Graveyard.",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/honeykiran/29-of-your-cloud-bill-is-waste-start-with-the-graveyard-24o5",
-    "topic": "general"
-  },
-  {
-    "title": "Why Your Airflow Tasks Fail at 3 AM (And Why Re-Running Them Is a Trap)",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/honeykiran/why-your-airflow-tasks-fail-at-3-am-and-why-re-running-them-is-a-trap-2hle",
+    "link": "https://dev.to/wycliff/dense-sand-dispatchesday-2-operations-demand-deterministic-architecture-j7i",
     "topic": "general"
   }
 ]
