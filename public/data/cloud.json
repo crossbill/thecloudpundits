@@ -1,5 +1,11 @@
 [
   {
+    "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+    "desc": "Most of the cost of adopting something new isn\u2019t the new thing, it\u2019s the move. Moving a Hive table to Apache Iceberg has typically meant wee",
+    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
+    "topic": "aws"
+  },
+  {
     "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
     "desc": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines",
     "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
@@ -40,11 +46,5 @@
     "desc": "Amazon Simple Storage Service (Amazon S3), including Amazon S3 Tables and Amazon S3 Vectors, is natively available on the Vercel Marketplace",
     "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
     "topic": "general"
-  },
-  {
-    "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
-    "desc": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that s",
-    "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
-    "topic": "aws"
   }
 ]

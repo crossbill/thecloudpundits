@@ -1,50 +1,50 @@
 [
   {
-    "title": "Check Your SPF, DKIM, and DMARC Records From the Command",
-    "desc": "<p>``If your emails land in spam or get rejected, the cause is often a missing or broken DNS record. SPF, DKIM, and DMARC are three TXT reco",
-    "link": "https://dev.to/degen_storrer/check-your-spf-dkim-and-dmarc-records-from-the-command-3bel",
+    "title": "Reject Job 1 Before It Eats Job 2,000's Token Budget",
+    "desc": "<p><strong>Illustrative scenario, not a measurement.</strong> You queue 2,000 batch jobs against one free pool. The pool holds 10M tokens by",
+    "link": "https://dev.to/odd_background_328/reject-job-1-before-it-eats-job-2000s-token-budget-8on",
     "topic": "general"
   },
   {
-    "title": "NVIDIA Answers HBM Pressure With Tiering: 3% More Memory, 30x More Throughput per Dollar",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Full-stack memory codesign is a design practice at NVIDIA that treats GPU, CPU, networking, storage and s",
-    "link": "https://dev.to/echakiri/nvidia-answers-hbm-pressure-with-tiering-3-more-memory-30x-more-throughput-per-dollar-gcd",
+    "title": "One JSON File That Says No: A Readiness Record for Free-Model Features",
+    "desc": "<p>Agentic coding tools keep getting faster. Teams merge generated code faster than they can verify it. That gap is where small features qui",
+    "link": "https://dev.to/rivera123/one-json-file-that-says-no-a-readiness-record-for-free-model-features-9lb",
     "topic": "general"
   },
   {
-    "title": "Make your coding agent verify every deploy: a CLAUDE.md block, a CI step and a definition of done",
-    "desc": "<p><em>Originally published on the <a href=\"https://webskan.com/en/blog/make-your-agent-verify-every-deploy/\" rel=\"noopener noreferrer\">Webs",
-    "link": "https://dev.to/webskan/make-your-coding-agent-verify-every-deploy-a-claudemd-block-a-ci-step-and-a-definition-of-done-1epk",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Opsville: A Free Pixel-Art DevOps Town in Your Browser",
-    "desc": "<p>Opsville is a small pixel-art town where every district is broken, and you are the one on call. It is free, it runs in your browser, and ",
-    "link": "https://dev.to/devopsdaily/opsville-a-free-pixel-art-devops-town-in-your-browser-3pne",
+    "title": "Who Gets the Free AI Lane First? Use This Four-Gate Assignment Sheet",
+    "desc": "<p>A team has one free AI lane and fourteen candidate workloads. The intuitive allocation is by seniority or by who asked loudest. That rule",
+    "link": "https://dev.to/bestbee/who-gets-the-free-ai-lane-first-use-this-four-gate-assignment-sheet-2mof",
     "topic": "general"
   },
   {
-    "title": "7 Top Software Factory Platforms for Engineering Teams for 2027",
-    "desc": "<p>AI is becoming part of more engineering activities than code completion. Teams can assign agents to investigate issues, implement changes",
-    "link": "https://dev.to/orhillel/7-top-software-factory-platforms-for-engineering-teams-for-2027-5840",
+    "title": "Mastering Fastlane: Automating App Deployment for iOS & Android CI/CD",
+    "desc": "<h2>\n  \n  \n  The Era of Automated Mobile Development\n</h2>\n\n<p>In the fast-paced world of mobile app development, efficiency is paramount. M",
+    "link": "https://dev.to/mtahir27/mastering-fastlane-automating-app-deployment-for-ios-android-cicd-1fdk",
     "topic": "general"
   },
   {
-    "title": "Best Digital Marketing Course in Kerala \u2013 Build Your Career in Digital Marketing",
-    "desc": "",
-    "link": "https://dev.to/maleeha_malee_b66e1f9ca43/best-digital-marketing-course-in-kerala-build-your-career-in-digital-marketing-1dlj",
+    "title": "Stop Collecting AI Agent Seats \u2014 Pick a Lane and a Kill Switch",
+    "desc": "<p>Stop collecting AI agent seats. Start with a lane, a kill switch, and a 20-example eval set.</p>\n\n<p>We're the ToolPotion Media Team. We ",
+    "link": "https://dev.to/toolpotion/stop-collecting-ai-agent-seats-pick-a-lane-and-a-kill-switch-3op",
     "topic": "general"
   },
   {
-    "title": "I checked my nginx log for AI crawlers. A third of the \u201cGooglebots\u201d were fake",
-    "desc": "<p>I went through two weeks of my site's nginx access log and counted every bot that said it was an AI crawler or a search engine. I only ke",
-    "link": "https://dev.to/markosavran/i-checked-my-nginx-log-for-ai-crawlers-a-third-of-the-googlebots-were-fake-5b6b",
+    "title": "Week one inside an inherited engineering department: what I actually look at",
+    "desc": "<p>The situation repeats itself: I walk into a company as its fractional CTO, the engineering org is a few dozen developers, and nobody \u2014 no",
+    "link": "https://dev.to/yaniv_zalevas_a91253c56bb/week-one-inside-an-inherited-engineering-department-what-i-actually-look-at-1och",
     "topic": "general"
   },
   {
-    "title": "Dense Sand Dispatches Day-2 Operations Demand Deterministic Architecture",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/wycliff/dense-sand-dispatchesday-2-operations-demand-deterministic-architecture-j7i",
+    "title": "5 numbers worth pulling from your own coding-agent sessions in 2026",
+    "desc": "<p>Picture a team with a plausible PR, passing checks and no clear record of the commands behind it. A fast approval would be convenient. An",
+    "link": "https://dev.to/uss/5-numbers-worth-pulling-from-your-own-coding-agent-sessions-43gg",
     "topic": "general"
+  },
+  {
+    "title": "Why did my AWS bill go up? How to find the cause in 10 minutes",
+    "desc": "<p>Your bill is higher than last month and nothing obvious changed. Traffic is flat, nobody launched anything big, and the invoice is one lo",
+    "link": "https://dev.to/hamzafounder/why-did-my-aws-bill-go-up-how-to-find-the-cause-in-10-minutes-648",
+    "topic": "aws"
   }
 ]
