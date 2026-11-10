@@ -1,5 +1,29 @@
 [
   {
+    "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+    "desc": "<p>Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation.</p>\n<p>The post <a hre",
+    "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+    "topic": "general"
+  },
+  {
+    "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+    "desc": "<p>CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+    "desc": "<p>France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack</p>\n<p>The post",
+    "link": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
+    "topic": "secops"
+  },
+  {
+    "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+    "desc": "<p>The high-severity use-after-free in Chrome\u2019s XML component was reported anonymously on November 6 and is already exploited in attacks.</p",
+    "link": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+    "topic": "general"
+  },
+  {
     "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
     "desc": "<p>Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals.</p>\n<p>The",
     "link": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
@@ -22,29 +46,5 @@
     "desc": "<p>Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web.</p>\n<p>The post <a hr",
     "link": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
     "topic": "general"
-  },
-  {
-    "title": "Hackers Exploiting \u2018SSHole\u2019 Authentication Bypass in OpenSSH",
-    "desc": "<p>The initial exploitation attempts are attributed to botnets and crypto miners, but other threat actors are expected to follow suit.</p>\n<",
-    "link": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/",
-    "topic": "general"
-  },
-  {
-    "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
-    "desc": "<p>Hackers stole personal, health, and insurance information, including Social Security numbers, from the company\u2019s internal systems.</p>\n<p",
-    "link": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
-    "topic": "secops"
-  },
-  {
-    "title": "Over 3 Million People Hit by Frontline Education Data Breach",
-    "desc": "<p>Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students.</p>\n<",
-    "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
-    "topic": "secops"
-  },
-  {
-    "title": "Google DeepMind\u2019s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
-    "desc": "<p>Working with cryptographers, DeepMind\u2019s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys.</p>",
-    "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
-    "topic": "secops"
   }
 ]

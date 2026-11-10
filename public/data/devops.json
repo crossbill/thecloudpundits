@@ -1,50 +1,50 @@
 [
   {
-    "title": "KerjaLab: Simulasi Kerja Multi-Tier dengan Docker Compose di Localhost",
-    "desc": "<h2>\n  \n  \n  Masalah yang Ingin Diselesaikan\n</h2>\n\n<p>Banyak mahasiswa dan fresh graduate bingung membayangkan seperti apa pekerjaan nyata ",
-    "link": "https://dev.to/valent_steveasman_0111b6/kerjalab-simulasi-kerja-multi-tier-dengan-docker-compose-di-localhost-1k2a",
-    "topic": "docker"
-  },
-  {
-    "title": "Choosing an On-Premises Jira Replacement: Five Options and Migration Checks",
-    "desc": "<p>Replacing Jira in a controlled environment is more than moving tickets. Requirements, issue relationships, workflows, permissions, and in",
-    "link": "https://dev.to/baileyrobinson/choosing-an-on-premises-jira-replacement-five-options-and-migration-checks-4h62",
+    "title": "Anubis proof of work: how the AI scraper challenge works",
+    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/proof-of-work-bot-challenges/\" rel=\"noopener noreferrer\">proxymint</a>.</em></",
+    "link": "https://dev.to/proxymint/anubis-proof-of-work-how-the-ai-scraper-challenge-works-2jj1",
     "topic": "general"
   },
   {
-    "title": "What are the best Jarvis Labs alternatives for training in 2026?",
-    "desc": "<p>The best Jarvis Labs alternative depends on what drives your bill: the hourly rate, or the hours a GPU sits running while nobody uses it.",
-    "link": "https://dev.to/viswaretas_kotra/what-are-the-best-jarvis-labs-alternatives-for-training-in-2026-17bh",
+    "title": "EU AI Act 2026: What Now Applies to Developer Teams and DevOps",
+    "desc": "<p>Since August 2, 2026, the EU AI Act has been fully enforceable in its core transparency obligations. While headlines focused on the postp",
+    "link": "https://dev.to/saaro_net/eu-ai-act-2026-what-now-applies-to-developer-teams-and-devops-350n",
     "topic": "general"
   },
   {
-    "title": "How Hindsight helps AI Learn From Engineering Incidents",
-    "desc": "<p><strong>Introduction</strong></p>\n\n<p>Software incidents are an unavoidable part of building and maintaining applications. A service may ",
-    "link": "https://dev.to/prajwal_r24aiml_7ad84339/how-hindsight-helps-ai-learn-from-engineering-incidents-34ge",
-    "topic": "secops"
+    "title": "Building a Lightweight Kubernetes Environment on K3s and the kubectl command on WSL2 Windows 11",
+    "desc": "<h2>\n  \n  \n  Table of Contents\n</h2>\n\n<ol>\n<li>Introduction</li>\n<li>Step 1: Installation of K3s on Google Cloud</li>\n<li>Step 2: Installati",
+    "link": "https://dev.to/tak0122/building-a-lightweight-kubernetes-environment-on-k3s-and-the-kubectl-command-on-wsl2-windows-11-9pc",
+    "topic": "kubernetes"
   },
   {
-    "title": "Blacksmith alternatives for GitHub Actions in 2026",
-    "desc": "<p>Blacksmith runs GitHub Actions jobs on Linux, arm64, Windows and macOS from one account. Its Linux x64 runners cost $0.004, $0.008 and $0",
-    "link": "https://dev.to/sengi_runners/blacksmith-alternatives-for-github-actions-in-2026-50hi",
+    "title": "Cloud Cost Management Tools: A Comprehensive Buyer's Guide",
+    "desc": "<h1>\n  \n  \n  Cloud Cost Management Tools: A Comprehensive Buyer's Guide\n</h1>\n\n<p>In today's rapidly evolving tech landscape, managing cloud",
+    "link": "https://dev.to/julien_gergisarkis_fa229/cloud-cost-management-tools-a-comprehensive-buyers-guide-4o40",
     "topic": "general"
   },
   {
-    "title": "How a 0-Day HTTP Request Smuggling Chain Almost Wrecked My Infrastructure (And How the Vendor Saved It)",
-    "desc": "<p>So, a couple of weeks ago, I got hit by every DevOps engineer's worst nightmare. Long story short: we were caught in the middle of a mass",
-    "link": "https://dev.to/mateor404/how-a-0-day-http-request-smuggling-chain-almost-wrecked-my-infrastructure-and-how-the-vendor-saved-4bfd",
+    "title": "Stop Praying to ITIL: How to Turn Business Impact into a Deterministic State Machine",
+    "desc": "<p><strong>Category:</strong> Architecture & Compliance / Governance Physics<br /><br />\n<strong>Author:</strong> Erkki Laine, VITI Labs  </",
+    "link": "https://dev.to/bigf_fellow/stop-praying-to-itil-how-to-turn-business-impact-into-a-deterministic-state-machine-5g2h",
     "topic": "general"
   },
   {
-    "title": "Terraform: caducidad segura para datos de CI",
-    "desc": "<p>En un pipeline de CI, los datos de correo suelen crearse como si fueran basura temporal: una direcci\u00f3n, un mensaje de verificaci\u00f3n y desp",
-    "link": "https://dev.to/alexcarteruk/terraform-caducidad-segura-para-datos-de-ci-1ml0",
-    "topic": "terraform"
+    "title": "20 Linux Commands Every DevOps Engineer Needs to Know",
+    "desc": "<p>Straight to the point: </p>\n\n<h2>\n  \n  \n  <strong>1. man \u2013 Understanding Linux Commands</strong>\n</h2>\n\n<p>One thing you will quickly dis",
+    "link": "https://dev.to/ezeanamichael/20-linux-commands-every-devops-engineer-needs-to-know-4efg",
+    "topic": "general"
   },
   {
-    "title": "0 9 1 * 5 is Friday or the 1st, not Friday the 1st",
-    "desc": "<p>I meant \u201c09:00 only when the 1st is a Friday.\u201d The line I wrote was <code>0 9 1 * 5</code>. On Vixie cron and cronie that is 09:00 on the",
-    "link": "https://dev.to/ameenusman/0-9-1-5-is-friday-or-the-1st-not-friday-the-1st-i61",
+    "title": "A Smaller Instance in the Wrong Family Is Still Waste",
+    "desc": "<blockquote>\n<p><strong>TL;DR:</strong> Right-sizing conversations default to \"bigger or smaller,\" because that's what usage-history tools m",
+    "link": "https://dev.to/sherdilcloud/a-smaller-instance-in-the-wrong-family-is-still-waste-7jo",
     "topic": "general"
+  },
+  {
+    "title": "Running Doesn't Mean Ready: A Kubernetes Troubleshooting Lab",
+    "desc": "<p>A Kubernetes Pod can be running without being ready to serve traffic.</p>\n\n<p>This distinction matters when troubleshooting applications.",
+    "link": "https://dev.to/rogeroliveira86/running-doesnt-mean-ready-a-kubernetes-troubleshooting-lab-2dg0",
+    "topic": "kubernetes"
   }
 ]
