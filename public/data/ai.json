@@ -1,5 +1,17 @@
 [
   {
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "desc": "",
+    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "topic": "gcp"
+  },
+  {
+    "title": "Decision Models in Hugging Face",
+    "desc": "",
+    "link": "https://huggingface.co/blog/decision",
+    "topic": "huggingface"
+  },
+  {
     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
     "desc": "",
     "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -33,18 +45,6 @@
     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
     "desc": "",
     "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "topic": "general"
-  },
-  {
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "topic": "general"
-  },
-  {
-    "title": "CWE-bench v2: More coverage, quality, and transparency",
-    "desc": "",
-    "link": "https://huggingface.co/blog/cwe-bench",
     "topic": "general"
   }
 ]

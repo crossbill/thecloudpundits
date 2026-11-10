@@ -1,50 +1,50 @@
 [
   {
-    "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
-    "desc": "<p>Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+    "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+    "desc": "<p>CVE-2026-124194 is the Outlook zero-day for which Microsoft says it\u2019s aware of active exploitation.\u00a0</p>\n<p>The post <a href=\"https://www",
+    "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+    "topic": "aws"
+  },
+  {
+    "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
+    "desc": "<p>Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Me",
+    "link": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
     "topic": "general"
   },
   {
-    "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
-    "desc": "<p>CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
-    "desc": "<p>France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack</p>\n<p>The post",
-    "link": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
-    "topic": "secops"
-  },
-  {
-    "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
-    "desc": "<p>The high-severity use-after-free in Chrome\u2019s XML component was reported anonymously on November 6 and is already exploited in attacks.</p",
-    "link": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+    "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
+    "desc": "<p>SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI ",
+    "link": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
     "topic": "general"
   },
   {
-    "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
-    "desc": "<p>Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals.</p>\n<p>The",
-    "link": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
-    "topic": "secops"
-  },
-  {
-    "title": "Plex2Shell Exploited Against QNAP NAS Users",
-    "desc": "<p>Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices.</p>\n<p>The post <a href=\"",
-    "link": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
+    "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
+    "desc": "<p>Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees.</p>\n",
+    "link": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
     "topic": "general"
   },
   {
-    "title": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
-    "desc": "<p>Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it.</p>\n<p>The ",
-    "link": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
+    "title": "Today: CISO Forum Virtual Summit 2026 \u2013 Join Global Cybersecurity Leaders",
+    "desc": "<p>Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovat",
+    "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
     "topic": "secops"
   },
   {
-    "title": "Italy\u2019s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister\u2019s Data on the Dark Web",
-    "desc": "<p>Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
+    "title": "WhiteMatter Raises $20 Million in Series A Funding",
+    "desc": "<p>The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization\u2019s environment.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
     "topic": "general"
+  },
+  {
+    "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
+    "desc": "<p>SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
+    "desc": "<p>Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
+    "topic": "secops"
   }
 ]
