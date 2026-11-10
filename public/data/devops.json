@@ -1,50 +1,50 @@
 [
   {
-    "title": "Reject Job 1 Before It Eats Job 2,000's Token Budget",
-    "desc": "<p><strong>Illustrative scenario, not a measurement.</strong> You queue 2,000 batch jobs against one free pool. The pool holds 10M tokens by",
-    "link": "https://dev.to/odd_background_328/reject-job-1-before-it-eats-job-2000s-token-budget-8on",
+    "title": "KerjaLab: Simulasi Kerja Multi-Tier dengan Docker Compose di Localhost",
+    "desc": "<h2>\n  \n  \n  Masalah yang Ingin Diselesaikan\n</h2>\n\n<p>Banyak mahasiswa dan fresh graduate bingung membayangkan seperti apa pekerjaan nyata ",
+    "link": "https://dev.to/valent_steveasman_0111b6/kerjalab-simulasi-kerja-multi-tier-dengan-docker-compose-di-localhost-1k2a",
+    "topic": "docker"
+  },
+  {
+    "title": "Choosing an On-Premises Jira Replacement: Five Options and Migration Checks",
+    "desc": "<p>Replacing Jira in a controlled environment is more than moving tickets. Requirements, issue relationships, workflows, permissions, and in",
+    "link": "https://dev.to/baileyrobinson/choosing-an-on-premises-jira-replacement-five-options-and-migration-checks-4h62",
     "topic": "general"
   },
   {
-    "title": "One JSON File That Says No: A Readiness Record for Free-Model Features",
-    "desc": "<p>Agentic coding tools keep getting faster. Teams merge generated code faster than they can verify it. That gap is where small features qui",
-    "link": "https://dev.to/rivera123/one-json-file-that-says-no-a-readiness-record-for-free-model-features-9lb",
+    "title": "What are the best Jarvis Labs alternatives for training in 2026?",
+    "desc": "<p>The best Jarvis Labs alternative depends on what drives your bill: the hourly rate, or the hours a GPU sits running while nobody uses it.",
+    "link": "https://dev.to/viswaretas_kotra/what-are-the-best-jarvis-labs-alternatives-for-training-in-2026-17bh",
     "topic": "general"
   },
   {
-    "title": "Who Gets the Free AI Lane First? Use This Four-Gate Assignment Sheet",
-    "desc": "<p>A team has one free AI lane and fourteen candidate workloads. The intuitive allocation is by seniority or by who asked loudest. That rule",
-    "link": "https://dev.to/bestbee/who-gets-the-free-ai-lane-first-use-this-four-gate-assignment-sheet-2mof",
+    "title": "How Hindsight helps AI Learn From Engineering Incidents",
+    "desc": "<p><strong>Introduction</strong></p>\n\n<p>Software incidents are an unavoidable part of building and maintaining applications. A service may ",
+    "link": "https://dev.to/prajwal_r24aiml_7ad84339/how-hindsight-helps-ai-learn-from-engineering-incidents-34ge",
+    "topic": "secops"
+  },
+  {
+    "title": "Blacksmith alternatives for GitHub Actions in 2026",
+    "desc": "<p>Blacksmith runs GitHub Actions jobs on Linux, arm64, Windows and macOS from one account. Its Linux x64 runners cost $0.004, $0.008 and $0",
+    "link": "https://dev.to/sengi_runners/blacksmith-alternatives-for-github-actions-in-2026-50hi",
     "topic": "general"
   },
   {
-    "title": "Mastering Fastlane: Automating App Deployment for iOS & Android CI/CD",
-    "desc": "<h2>\n  \n  \n  The Era of Automated Mobile Development\n</h2>\n\n<p>In the fast-paced world of mobile app development, efficiency is paramount. M",
-    "link": "https://dev.to/mtahir27/mastering-fastlane-automating-app-deployment-for-ios-android-cicd-1fdk",
+    "title": "How a 0-Day HTTP Request Smuggling Chain Almost Wrecked My Infrastructure (And How the Vendor Saved It)",
+    "desc": "<p>So, a couple of weeks ago, I got hit by every DevOps engineer's worst nightmare. Long story short: we were caught in the middle of a mass",
+    "link": "https://dev.to/mateor404/how-a-0-day-http-request-smuggling-chain-almost-wrecked-my-infrastructure-and-how-the-vendor-saved-4bfd",
     "topic": "general"
   },
   {
-    "title": "Stop Collecting AI Agent Seats \u2014 Pick a Lane and a Kill Switch",
-    "desc": "<p>Stop collecting AI agent seats. Start with a lane, a kill switch, and a 20-example eval set.</p>\n\n<p>We're the ToolPotion Media Team. We ",
-    "link": "https://dev.to/toolpotion/stop-collecting-ai-agent-seats-pick-a-lane-and-a-kill-switch-3op",
-    "topic": "general"
+    "title": "Terraform: caducidad segura para datos de CI",
+    "desc": "<p>En un pipeline de CI, los datos de correo suelen crearse como si fueran basura temporal: una direcci\u00f3n, un mensaje de verificaci\u00f3n y desp",
+    "link": "https://dev.to/alexcarteruk/terraform-caducidad-segura-para-datos-de-ci-1ml0",
+    "topic": "terraform"
   },
   {
-    "title": "Week one inside an inherited engineering department: what I actually look at",
-    "desc": "<p>The situation repeats itself: I walk into a company as its fractional CTO, the engineering org is a few dozen developers, and nobody \u2014 no",
-    "link": "https://dev.to/yaniv_zalevas_a91253c56bb/week-one-inside-an-inherited-engineering-department-what-i-actually-look-at-1och",
+    "title": "0 9 1 * 5 is Friday or the 1st, not Friday the 1st",
+    "desc": "<p>I meant \u201c09:00 only when the 1st is a Friday.\u201d The line I wrote was <code>0 9 1 * 5</code>. On Vixie cron and cronie that is 09:00 on the",
+    "link": "https://dev.to/ameenusman/0-9-1-5-is-friday-or-the-1st-not-friday-the-1st-i61",
     "topic": "general"
-  },
-  {
-    "title": "5 numbers worth pulling from your own coding-agent sessions in 2026",
-    "desc": "<p>Picture a team with a plausible PR, passing checks and no clear record of the commands behind it. A fast approval would be convenient. An",
-    "link": "https://dev.to/uss/5-numbers-worth-pulling-from-your-own-coding-agent-sessions-43gg",
-    "topic": "general"
-  },
-  {
-    "title": "Why did my AWS bill go up? How to find the cause in 10 minutes",
-    "desc": "<p>Your bill is higher than last month and nothing obvious changed. Traffic is flat, nobody launched anything big, and the invoice is one lo",
-    "link": "https://dev.to/hamzafounder/why-did-my-aws-bill-go-up-how-to-find-the-cause-in-10-minutes-648",
-    "topic": "aws"
   }
 ]
