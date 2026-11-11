@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Write an Incident Update in English: Templates and Examples for IT Teams",
-    "desc": "<p>When something breaks, people stop reading code and start reading your messages. Managers, support colleagues and customers want to know ",
-    "link": "https://dev.to/kognixr_1ee735861d090d1ac/how-to-write-an-incident-update-in-english-templates-and-examples-for-it-teams-jhn",
-    "topic": "secops"
-  },
-  {
-    "title": "Personal Linux System and Dotfiles Automation with Ansible Collection",
-    "desc": "<p>In this article, we'll try to learn how we can manage both our applications and our dotfiles with Ansible for multiple different Linux di",
-    "link": "https://dev.to/muratcabuk/personal-linux-system-and-dotfiles-automation-with-ansible-collection-3719",
+    "title": "Serve a Custom HTTP 404 from Static nginx Documentation",
+    "desc": "<p><strong>AI disclosure.</strong> This draft was generated primarily with AI. The examples use synthetic files, and the lab was run against",
+    "link": "https://dev.to/rcsarv/serve-a-custom-http-404-from-static-nginx-documentation-5hn0",
     "topic": "general"
   },
   {
-    "title": "Xen Orchestra VSA-2026-062: An Empty Cookie That Hands Attackers Admin on Your Virtualization Plane",
-    "desc": "<p>On November 10, 2026, Vates published VSA-2026-062, a Critical authentication bypass in Xen Orchestra (XO) and the Xen Orchestra Applianc",
-    "link": "https://dev.to/sharz_ninesec/xen-orchestra-vsa-2026-062-an-empty-cookie-that-hands-attackers-admin-on-your-virtualization-plane-50fm",
-    "topic": "secops"
-  },
-  {
-    "title": "Finding Silent Failures in n8n: A Step-by-Step Triage Checklist",
-    "desc": "<h1>\n  \n  \n  Finding Silent Failures in n8n: A Step-by-Step Triage Checklist\n</h1>\n\n<p>An n8n workflow that looks healthy in the editor but ",
-    "link": "https://dev.to/mr_thankyou_58b14997d0c77/finding-silent-failures-in-n8n-a-step-by-step-triage-checklist-4k9b",
+    "title": "What Is the Most Resilient Cloud Architecture? Seven Models Compared Against 62 Real Cloud Outages",
+    "desc": "<p>Active-active deployment across multiple regions delivers the highest availability you can achieve on a single cloud provider. Active-act",
+    "link": "https://dev.to/noahcontrolplane/what-is-the-most-resilient-cloud-architecture-seven-models-compared-against-62-real-cloud-outages-2inj",
     "topic": "general"
   },
   {
-    "title": "Use Docker Sandboxes as Your Development Environment",
-    "desc": "<p>In early November 2026, I started writing a book on Docker Sandboxes. Using my existing setup, I wrote in Markdown and built a PDF with P",
-    "link": "https://dev.to/aerabi/use-docker-sandboxes-as-your-development-environment-5ed6",
-    "topic": "docker"
-  },
-  {
-    "title": "Commvault Wants to Undo Agent Mistakes. Which Edits Should Survive?",
-    "desc": "<p>At 9:10, an automated website editor changes a registration link to the wrong destination. At 9:20, someone fixes the event time on the s",
-    "link": "https://dev.to/keith_azodeh/commvault-wants-to-undo-agent-mistakes-which-edits-should-survive-4pc4",
+    "title": "Same Policy, Different Enforcement: Translating Firewall Rules Across Clouds Without Opening Holes",
+    "desc": "<p>Every multi-cloud estate eventually copies a firewall rule from one provider to another and assumes the copy means the same thing. It rar",
+    "link": "https://dev.to/onelifevibe/same-policy-different-enforcement-translating-firewall-rules-across-clouds-without-opening-holes-2gm9",
     "topic": "general"
   },
   {
-    "title": "My Weekly AI Audit Filed 25 Reports. No Automation Acted on a Grade.",
-    "desc": "<p><em>Originally published on <a href=\"https://hexisteme.github.io/notes/weekly-ai-audit-25-reports-no-consumer.html\" rel=\"noopener norefer",
-    "link": "https://dev.to/hexisteme/my-weekly-ai-audit-filed-25-reports-no-automation-acted-on-a-grade-2hg5",
+    "title": "AI Agent Definition of Done: Make Coding Agents Prove the Task Is Complete",
+    "desc": "<p>An AI coding agent can change the right-looking files, write a cheerful summary, and still leave the task unfinished. A test may never ha",
+    "link": "https://dev.to/jackm-singularity/ai-agent-definition-of-done-make-coding-agents-prove-the-task-is-complete-2ejm",
     "topic": "general"
   },
   {
-    "title": "The Art of Using Branches in Source Control Management",
-    "desc": "<p>Hello Friends,</p>\n\n<p>In this article, we'll try to understand the concept of branches used in Git and similar Source Control Management",
-    "link": "https://dev.to/muratcabuk/the-art-of-using-branches-in-source-control-management-47m8",
+    "title": "You Skimmed the Runbook at Speed and Your Eyes Jumped Over the Word Not",
+    "desc": "<p>Step nine of the failover runbook<br />\nsaid this.</p>\n\n<p>Do not restart the replica<br />\nuntil replication lag reads zero.</p>\n\n<p>You",
+    "link": "https://dev.to/sergueyasaelshinder/you-skimmed-the-runbook-at-speed-and-your-eyes-jumped-over-the-word-not-30m1",
+    "topic": "general"
+  },
+  {
+    "title": "What Is a Staging Environment? A Plain Guide for Founders",
+    "desc": "<p><strong>The short version</strong></p>\n\n<ul>\n<li>A staging environment is a nearly exact copy of your live product where a change is trie",
+    "link": "https://dev.to/nixonperinchery/what-is-a-staging-environment-a-plain-guide-for-founders-4lnn",
+    "topic": "general"
+  },
+  {
+    "title": "Troubleshoot Redis Replication Easily with Ivory",
+    "desc": "<h2>\n  \n  \n  Masters, replicas, broken links and failed saves \u2014 see every Redis node in one screen and promote a replica with one click\n</h2",
+    "link": "https://dev.to/anselvo/troubleshoot-redis-replication-easily-with-ivory-5c3j",
+    "topic": "general"
+  },
+  {
+    "title": "What happens to your code when an AI reviews your pull request?",
+    "desc": "<p>Every AI code reviewer has to send your diff to a model somewhere. We build one, <a href=\"https://github.com/openwt-vn/owlet-lens\" rel=\"n",
+    "link": "https://dev.to/voquanghoa/what-happens-to-your-code-when-an-ai-reviews-your-pull-request-13e2",
     "topic": "general"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+    "desc": "<p>Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs.</p>\n",
+    "link": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+    "topic": "general"
+  },
+  {
+    "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+    "desc": "<p>The security defects could allow attackers to bypass authorization and gain root access to devices.</p>\n<p>The post <a href=\"https://www.",
+    "link": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+    "desc": "<p>Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms.</p>\n<p",
+    "link": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+    "topic": "general"
+  },
+  {
     "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
     "desc": "<p>CVE-2026-124194 is the Outlook zero-day for which Microsoft says it\u2019s aware of active exploitation.\u00a0</p>\n<p>The post <a href=\"https://www",
     "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
@@ -27,24 +45,6 @@
     "title": "Today: CISO Forum Virtual Summit 2026 \u2013 Join Global Cybersecurity Leaders",
     "desc": "<p>Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovat",
     "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-    "topic": "secops"
-  },
-  {
-    "title": "WhiteMatter Raises $20 Million in Series A Funding",
-    "desc": "<p>The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization\u2019s environment.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
-    "topic": "general"
-  },
-  {
-    "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
-    "desc": "<p>SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
-    "desc": "<p>Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
     "topic": "secops"
   }
 ]
