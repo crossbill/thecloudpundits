@@ -1,50 +1,50 @@
 [
   {
-    "title": "Serve a Custom HTTP 404 from Static nginx Documentation",
-    "desc": "<p><strong>AI disclosure.</strong> This draft was generated primarily with AI. The examples use synthetic files, and the lab was run against",
-    "link": "https://dev.to/rcsarv/serve-a-custom-http-404-from-static-nginx-documentation-5hn0",
+    "title": "An SSH honeypot on my own server: 24,000 sessions in five days and one very stubborn bot",
+    "desc": "<p>I set up an SSH honeypot on my server: it pretends to be a defenceless Linux box, accepts almost any password and records everything done",
+    "link": "https://dev.to/ogurexxx/an-ssh-honeypot-on-my-own-server-24000-sessions-in-five-days-and-one-very-stubborn-bot-174n",
     "topic": "general"
   },
   {
-    "title": "What Is the Most Resilient Cloud Architecture? Seven Models Compared Against 62 Real Cloud Outages",
-    "desc": "<p>Active-active deployment across multiple regions delivers the highest availability you can achieve on a single cloud provider. Active-act",
-    "link": "https://dev.to/noahcontrolplane/what-is-the-most-resilient-cloud-architecture-seven-models-compared-against-62-real-cloud-outages-2inj",
+    "title": "Your AI Platform's 'Delete Secret' Button Is Lying to You: Inside the Fireworks AI Double Breach",
+    "desc": "<p>Picture this. It's a Tuesday, you're deep in a sprint, and you need to get an evaluation job running against your fine-tuned model. The g",
+    "link": "https://dev.to/vendortrustindex/your-ai-platforms-delete-secret-button-is-lying-to-you-inside-the-fireworks-ai-double-breach-ea5",
+    "topic": "secops"
+  },
+  {
+    "title": "Bifrost by Maxim AI Alternatives: 7 Options for 2026",
+    "desc": "<p><em>Originally published on the <a href=\"https://leanroute.dev/blog/bifrost-alternative-when-managed-beats-go\" rel=\"noopener noreferrer\">",
+    "link": "https://dev.to/leanroute/bifrost-by-maxim-ai-alternatives-7-options-for-2026-1doe",
     "topic": "general"
   },
   {
-    "title": "Same Policy, Different Enforcement: Translating Firewall Rules Across Clouds Without Opening Holes",
-    "desc": "<p>Every multi-cloud estate eventually copies a firewall rule from one provider to another and assumes the copy means the same thing. It rar",
-    "link": "https://dev.to/onelifevibe/same-policy-different-enforcement-translating-firewall-rules-across-clouds-without-opening-holes-2gm9",
+    "title": "Implementing an SLO and an Error Budget You Can Actually Gate On, for $0",
+    "desc": "<p>Originally published on the AWS Builder Center: <a href=\"https://builder.aws.com/content/3Ly81UTUan33wAxL0t5mZCVgCTl/implementing-an-slo-",
+    "link": "https://dev.to/pradeep_kandepaneni/implementing-an-slo-and-an-error-budget-you-can-actually-gate-on-for-0-2jg5",
     "topic": "general"
   },
   {
-    "title": "AI Agent Definition of Done: Make Coding Agents Prove the Task Is Complete",
-    "desc": "<p>An AI coding agent can change the right-looking files, write a cheerful summary, and still leave the task unfinished. A test may never ha",
-    "link": "https://dev.to/jackm-singularity/ai-agent-definition-of-done-make-coding-agents-prove-the-task-is-complete-2ejm",
+    "title": "Building a Localization Pipeline for EU Digital Product Passport Data",
+    "desc": "<p>The EU's Digital Product Passport (DPP) is one of those regulations that looks like a legal problem until you actually start implementing",
+    "link": "https://dev.to/diogoheleno/building-a-localization-pipeline-for-eu-digital-product-passport-data-45an",
     "topic": "general"
   },
   {
-    "title": "You Skimmed the Runbook at Speed and Your Eyes Jumped Over the Word Not",
-    "desc": "<p>Step nine of the failover runbook<br />\nsaid this.</p>\n\n<p>Do not restart the replica<br />\nuntil replication lag reads zero.</p>\n\n<p>You",
-    "link": "https://dev.to/sergueyasaelshinder/you-skimmed-the-runbook-at-speed-and-your-eyes-jumped-over-the-word-not-30m1",
+    "title": "Postmortem (hypothetical): our robots.txt returned 503 for nine days, and crawling nearly stopped",
+    "desc": "<p>This is a hypothetical postmortem. The site, timeline and details are invented, but the failure mode is real and well documented by searc",
+    "link": "https://dev.to/seotto/postmortem-hypothetical-our-robotstxt-returned-503-for-nine-days-and-crawling-nearly-stopped-15ef",
     "topic": "general"
   },
   {
-    "title": "What Is a Staging Environment? A Plain Guide for Founders",
-    "desc": "<p><strong>The short version</strong></p>\n\n<ul>\n<li>A staging environment is a nearly exact copy of your live product where a change is trie",
-    "link": "https://dev.to/nixonperinchery/what-is-a-staging-environment-a-plain-guide-for-founders-4lnn",
+    "title": "Mishe delivered its own code for a day: the gate, the pin, and a green check that was wrong",
+    "desc": "<p>Mishe is a set of AI agents that run on one host and maintain the system they run on. They are allowed to deliver their own code. A commi",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/mishe-delivered-its-own-code-for-a-day-the-gate-the-pin-and-a-green-check-that-was-wrong-pn0",
     "topic": "general"
   },
   {
-    "title": "Troubleshoot Redis Replication Easily with Ivory",
-    "desc": "<h2>\n  \n  \n  Masters, replicas, broken links and failed saves \u2014 see every Redis node in one screen and promote a replica with one click\n</h2",
-    "link": "https://dev.to/anselvo/troubleshoot-redis-replication-easily-with-ivory-5c3j",
-    "topic": "general"
-  },
-  {
-    "title": "What happens to your code when an AI reviews your pull request?",
-    "desc": "<p>Every AI code reviewer has to send your diff to a model somewhere. We build one, <a href=\"https://github.com/openwt-vn/owlet-lens\" rel=\"n",
-    "link": "https://dev.to/voquanghoa/what-happens-to-your-code-when-an-ai-reviews-your-pull-request-13e2",
+    "title": "Unlocking Zero-Trust eBPF Observability: Why US & EU Cloud Teams Are Ditching Traditional Sidecars in 2026",
+    "desc": "<p>As enterprise cloud architectures scale across multi-region clusters, US and European DevOps teams are facing an invisible performance ta",
+    "link": "https://dev.to/aidevtoolkit/unlocking-zero-trust-ebpf-observability-why-us-eu-cloud-teams-are-ditching-traditional-sidecars-444k",
     "topic": "general"
   }
 ]
