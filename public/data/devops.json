@@ -1,50 +1,50 @@
 [
   {
-    "title": "An SSH honeypot on my own server: 24,000 sessions in five days and one very stubborn bot",
-    "desc": "<p>I set up an SSH honeypot on my server: it pretends to be a defenceless Linux box, accepts almost any password and records everything done",
-    "link": "https://dev.to/ogurexxx/an-ssh-honeypot-on-my-own-server-24000-sessions-in-five-days-and-one-very-stubborn-bot-174n",
+    "title": "\ud83d\udd10 EstadoSeguro: an\u00e1lisis automatizado de vulnerabilidades web con Nuclei, GitHub Actions y Render",
+    "desc": "<blockquote>\n<p>\ud83d\udee1\ufe0f <strong>\u00bfC\u00f3mo integrar el an\u00e1lisis de vulnerabilidades, las pruebas automatizadas y el despliegue continuo en una aplicac",
+    "link": "https://dev.to/ana_ceciliaestebanramos/estadoseguro-analisis-automatizado-de-vulnerabilidades-web-con-nuclei-github-actions-y-render-o0k",
     "topic": "general"
   },
   {
-    "title": "Your AI Platform's 'Delete Secret' Button Is Lying to You: Inside the Fireworks AI Double Breach",
-    "desc": "<p>Picture this. It's a Tuesday, you're deep in a sprint, and you need to get an evaluation job running against your fine-tuned model. The g",
-    "link": "https://dev.to/vendortrustindex/your-ai-platforms-delete-secret-button-is-lying-to-you-inside-the-fireworks-ai-double-breach-ea5",
-    "topic": "secops"
-  },
-  {
-    "title": "Bifrost by Maxim AI Alternatives: 7 Options for 2026",
-    "desc": "<p><em>Originally published on the <a href=\"https://leanroute.dev/blog/bifrost-alternative-when-managed-beats-go\" rel=\"noopener noreferrer\">",
-    "link": "https://dev.to/leanroute/bifrost-by-maxim-ai-alternatives-7-options-for-2026-1doe",
+    "title": "Your LLM Costs Are Growing. Here's What to Fix First.",
+    "desc": "<p>LLM costs can look manageable during development. Then the application goes into production, more users arrive, and one request starts tr",
+    "link": "https://dev.to/openobserve/your-llm-costs-are-growing-heres-what-to-fix-first-3ae3",
     "topic": "general"
   },
   {
-    "title": "Implementing an SLO and an Error Budget You Can Actually Gate On, for $0",
-    "desc": "<p>Originally published on the AWS Builder Center: <a href=\"https://builder.aws.com/content/3Ly81UTUan33wAxL0t5mZCVgCTl/implementing-an-slo-",
-    "link": "https://dev.to/pradeep_kandepaneni/implementing-an-slo-and-an-error-budget-you-can-actually-gate-on-for-0-2jg5",
+    "title": "Stop Manually Deleting EBS Volumes: Building a Zero-Agent AWS FinOps Auditor in Python",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/ace_rodriguez_83ab38e92b4/stop-manually-deleting-ebs-volumes-building-a-zero-agent-aws-finops-auditor-in-python-k7k",
+    "topic": "aws"
+  },
+  {
+    "title": "Checklist de d\u00e9livrabilit\u00e9 e-mail pour SaaS en 2026 : SPF, DKIM et DMARC, plus les r\u00e8gles de Gmail, Yahoo et Outlook",
+    "desc": "<p>La plupart des \u00e9quipes SaaS d\u00e9couvrent la d\u00e9livrabilit\u00e9 de la m\u00eame fa\u00e7on : un client \u00e9crit \u00ab je n'ai jamais re\u00e7u l'e-mail de r\u00e9initialisa",
+    "link": "https://dev.to/nikpolale/checklist-de-delivrabilite-e-mail-pour-saas-en-2026-spf-dkim-et-dmarc-plus-les-regles-de-gmail-3b11",
     "topic": "general"
   },
   {
-    "title": "Building a Localization Pipeline for EU Digital Product Passport Data",
-    "desc": "<p>The EU's Digital Product Passport (DPP) is one of those regulations that looks like a legal problem until you actually start implementing",
-    "link": "https://dev.to/diogoheleno/building-a-localization-pipeline-for-eu-digital-product-passport-data-45an",
+    "title": "Email deliverability checklist for SaaS developers (2026): SPF, DKIM, DMARC and the Gmail, Yahoo and Outlook rules",
+    "desc": "<p>Most SaaS teams discover email deliverability the same way: a customer says \"I never got the password reset\", someone checks, and the wel",
+    "link": "https://dev.to/nikpolale/email-deliverability-checklist-for-saas-developers-2026-spf-dkim-dmarc-and-the-gmail-yahoo-3if2",
     "topic": "general"
   },
   {
-    "title": "Postmortem (hypothetical): our robots.txt returned 503 for nine days, and crawling nearly stopped",
-    "desc": "<p>This is a hypothetical postmortem. The site, timeline and details are invented, but the failure mode is real and well documented by searc",
-    "link": "https://dev.to/seotto/postmortem-hypothetical-our-robotstxt-returned-503-for-nine-days-and-crawling-nearly-stopped-15ef",
+    "title": "When Did You Last Actually Test Your Failover?",
+    "desc": "<p>In October 2026, one of Google Cloud's London zones went down for about six hours. One utility feed was already down for maintenance when",
+    "link": "https://dev.to/noahcontrolplane/when-did-you-last-actually-test-your-failover-11cl",
     "topic": "general"
   },
   {
-    "title": "Mishe delivered its own code for a day: the gate, the pin, and a green check that was wrong",
-    "desc": "<p>Mishe is a set of AI agents that run on one host and maintain the system they run on. They are allowed to deliver their own code. A commi",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/mishe-delivered-its-own-code-for-a-day-the-gate-the-pin-and-a-green-check-that-was-wrong-pn0",
+    "title": "An AI Agent Fact-Checked My Cost Model. It Was Right. Twice.",
+    "desc": "<p>Earlier this week I published a <a href=\"https://dev.to/noahcontrolplane/what-it-costs-to-run-ai-agents-in-production-a-worked-cost-model",
+    "link": "https://dev.to/noahcontrolplane/an-ai-agent-fact-checked-my-cost-model-it-was-right-twice-553b",
     "topic": "general"
   },
   {
-    "title": "Unlocking Zero-Trust eBPF Observability: Why US & EU Cloud Teams Are Ditching Traditional Sidecars in 2026",
-    "desc": "<p>As enterprise cloud architectures scale across multi-region clusters, US and European DevOps teams are facing an invisible performance ta",
-    "link": "https://dev.to/aidevtoolkit/unlocking-zero-trust-ebpf-observability-why-us-eu-cloud-teams-are-ditching-traditional-sidecars-444k",
+    "title": "Apache Kafka for Beginners: Move Data Between Services in Real Time",
+    "desc": "<p>Apache Kafka is the platform that moves data between services in real time. When one part of a system produces an event \u2014 a user signed u",
+    "link": "https://dev.to/arhan_khan/apache-kafka-for-beginners-move-data-between-services-in-real-time-39fn",
     "topic": "general"
   }
 ]
