@@ -1,5 +1,17 @@
 [
   {
+    "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
+    "desc": "<p>Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cau",
+    "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+    "topic": "azure"
+  },
+  {
+    "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
+    "desc": "<p>The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
+    "topic": "anthropic"
+  },
+  {
     "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
     "desc": "<p>Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160.</p>\n<p>The post <a href=\"https://www.s",
     "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
@@ -33,18 +45,6 @@
     "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
     "desc": "<p>The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones.</p>\n<p>The ",
     "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
-    "topic": "general"
-  },
-  {
-    "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
-    "desc": "<p>Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent ac",
-    "link": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
-    "topic": "docker"
-  },
-  {
-    "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-    "desc": "<p>The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant\u2019s systems.</p>\n<p>The post <a href=\"https://www.sec",
-    "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
     "topic": "general"
   }
 ]
