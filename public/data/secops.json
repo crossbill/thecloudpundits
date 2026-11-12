@@ -1,50 +1,50 @@
 [
   {
-    "title": "Today: CISO Forum Virtual Summit 2026 Day 2 \u2013 Join Cybersecurity Leaders Online",
-    "desc": "<p>Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovat",
-    "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+    "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+    "desc": "<p>Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160.</p>\n<p>The post <a href=\"https://www.s",
+    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+    "desc": "<p>Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories.</p>\n<",
+    "link": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
     "topic": "secops"
   },
   {
-    "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
-    "desc": "<p>A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes.</p>\n<p>The post <a href=",
-    "link": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
-    "topic": "aws"
-  },
-  {
-    "title": "Asus, Zoom Release Security Patches",
-    "desc": "<p>Attackers could exploit them for command execution, memory overwrites, and privilege escalation.</p>\n<p>The post <a href=\"https://www.sec",
-    "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+    "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
+    "desc": "<p>The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
     "topic": "secops"
   },
   {
-    "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
-    "desc": "<p>Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts.</p>\n<p>The post",
-    "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+    "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+    "desc": "<p>The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
     "topic": "general"
   },
   {
-    "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
-    "desc": "<p>The Series C round will fund international expansion and more autonomous features for the firm\u2019s device security platform.\u00a0</p>\n<p>The po",
-    "link": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
+    "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+    "desc": "<p>The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
     "topic": "general"
   },
   {
-    "title": "Fortinet Patches Nearly 100 Vulnerabilities",
-    "desc": "<p>The massive drop comes after the company integrated frontier AI models into its product security testing.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
+    "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+    "desc": "<p>The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones.</p>\n<p>The ",
+    "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
     "topic": "general"
   },
   {
-    "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
-    "desc": "<p>Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents.</p>\n<p>The post <a hre",
-    "link": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
-    "topic": "general"
+    "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+    "desc": "<p>Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent ac",
+    "link": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+    "topic": "docker"
   },
   {
-    "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
-    "desc": "<p>Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications.\u00a0</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
-    "topic": "secops"
+    "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+    "desc": "<p>The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant\u2019s systems.</p>\n<p>The post <a href=\"https://www.sec",
+    "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+    "topic": "general"
   }
 ]
