@@ -1,50 +1,50 @@
 [
   {
-    "title": "The Hidden Complexity Behind GitOps\u2019 \u201cPush to Deploy\u201d",
-    "desc": "<p>A GitOps platform that provisioned isolated customer environments straight from Git, and the four problems that surfaced once it was runn",
-    "link": "https://dev.to/geekyants-inc/the-hidden-complexity-behind-gitops-push-to-deploy-19l1",
+    "title": "Docker Explained for Backend Developers",
+    "desc": "<p>As a backend developer(like me), you probably spend most of your time writing application logic, building APIs, connecting databases, han",
+    "link": "https://dev.to/ezeanamichael/docker-explained-for-backend-developers-333j",
+    "topic": "docker"
+  },
+  {
+    "title": "Microsoft Built a Delete Lock Even Admins Can't Remove. I Think It's Right (Mostly)",
+    "desc": "<p>Most software settings follow one quiet rule: whoever turns something on can turn it off again. Microsoft just broke that rule on purpose",
+    "link": "https://dev.to/sergheipogor/microsoft-built-a-delete-lock-even-admins-cant-remove-i-think-its-right-mostly-2a89",
+    "topic": "azure"
+  },
+  {
+    "title": "N-able Took Hosted N-central Offline After a 33-Issue Disclosure",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>N-central is a remote monitoring and management platform that service providers and internal IT teams use",
+    "link": "https://dev.to/neticslabs/n-able-took-hosted-n-central-offline-after-a-33-issue-disclosure-2ki9",
     "topic": "general"
   },
   {
-    "title": "Zero-Trust Pod Networking on GKE: Parameterizing Kubernetes NetworkPolicies with Helm",
-    "desc": "<p>{{ if .Values.defaultDeny.enabled }}<br />\napiVersion: networking.k8s.io/v1<br />\nkind: NetworkPolicy<br />\nmetadata:<br />\n  name: {{ .R",
-    "link": "https://dev.to/punith887/zero-trust-pod-networking-on-gke-parameterizing-kubernetes-networkpolicies-with-helm-1ijg",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Hardening Payment APIs After CERT-In's Crafty Falcon Advisory: A Checklist for Dev and Ops Teams",
-    "desc": "<p>CERT-In advisory CIAD-2026-0058 (4 November 2026) describes a threat actor called Crafty Falcon that uses AI-assisted tooling against NBF",
-    "link": "https://dev.to/affix_centersoftechserv/hardening-payment-apis-after-cert-ins-crafty-falcon-advisory-a-checklist-for-dev-and-ops-teams-4kon",
+    "title": "Why standard linters miss AI code bugs (and how to deflect them before git push)",
+    "desc": "<p>Standard linters (<code>eslint</code>, <code>flake8</code>, <code>cargo check</code>) were built to catch human syntax and style conventi",
+    "link": "https://dev.to/ai-ops1/why-standard-linters-miss-ai-code-bugs-and-how-to-deflect-them-before-git-push-me4",
     "topic": "general"
   },
   {
-    "title": "Flutter Is Leaving CocoaPods. Our CI Isn\u2019t Ready",
-    "desc": "<p>Our iOS pipeline was green.</p>\n\n<p>That was the problem.</p>\n\n<p>After upgrading to Flutter 3.50, every local build printed a warning ab",
-    "link": "https://dev.to/paul-s/flutter-is-leaving-cocoapods-our-ci-isnt-ready-ebp",
+    "title": "Why AI coding agents cheat your tests (and how to stop them)",
+    "desc": "<p>Prompting an AI to check code written by an AI is like asking the chef if the soup is poisoned.</p>\n\n<p>It sounds nice in theory. But in ",
+    "link": "https://dev.to/ai-ops1/why-ai-coding-agents-cheat-your-tests-and-how-to-stop-them-1kon",
     "topic": "general"
   },
   {
-    "title": "What Can You Learn in an AWS Course? A Beginner's Guide",
-    "desc": "<p>Cloud computing has changed how businesses build, deploy, and manage applications. Instead of purchasing and maintaining physical servers",
-    "link": "https://dev.to/ummadisetty/what-can-you-learn-in-an-aws-course-a-beginners-guide-46hd",
-    "topic": "aws"
-  },
-  {
-    "title": "Jenkins Fundamentals - Part 2: Installing Jenkins Controller on AWS EC2",
-    "desc": "<p>In Part 1 \u2014 Jenkins Fundamentals: What Are We Actually Operating?, we built the mental model for Jenkins: the Controller receives a build",
-    "link": "https://dev.to/posibble/jenkins-fundamentals-part-2-installing-jenkins-controller-on-aws-ec2-1cg9",
-    "topic": "aws"
-  },
-  {
-    "title": "Malicious package detection Dynatrace: find and triage CWE-506",
-    "desc": "<p>Picture the 3 a.m. page: a library nobody picked on purpose, pulled in three levels down the dependency tree, has just been declared boob",
-    "link": "https://dev.to/spanobserver/malicious-package-detection-dynatrace-find-and-triage-cwe-506-460g",
+    "title": "Testing Cloud Backup and SHA-256 Restore on Ubuntu 24.04 & Windows Without Upfront Billing",
+    "desc": "<p>Most teams treat backup setup as a checkbox and never run a restore test until something breaks. When testing a new cloud backup tool req",
+    "link": "https://dev.to/tornova_marketing_714417c/testing-cloud-backup-and-sha-256-restore-on-ubuntu-2404-windows-without-upfront-billing-16d9",
     "topic": "general"
   },
   {
-    "title": "AWS FinOps Field Notes: Automating Orphaned EBS & Infrastructure Cleanup",
-    "desc": "<p>While auditing cloud infrastructure costs this week, recurring configuration gaps continue to quietly inflate monthly bills.</p>\n\n<h3>\n  ",
-    "link": "https://dev.to/ace7coder/aws-finops-field-notes-automating-orphaned-ebs-infrastructure-cleanup-5ho0",
-    "topic": "aws"
+    "title": "When stdout is nil: stopping a WinRM panic in GitLab Fleeting",
+    "desc": "<p>A nil writer is one of those values that looks like \"I don't care about this output\" and behaves like \"please crash.\" In GitLab Fleeting'",
+    "link": "https://dev.to/priyanshu_jha_eee132b17e5/when-stdout-is-nil-stopping-a-winrm-panic-in-gitlab-fleeting-3o5l",
+    "topic": "general"
+  },
+  {
+    "title": "Enhanced integrations and local data management in Relay",
+    "desc": "<blockquote>\n<p>Generated by AI for testing my app <a href=\"https://relay.shadowcrawler.dev\" rel=\"noopener noreferrer\">Relay</a></p>\n</block",
+    "link": "https://dev.to/shad0wcrawl3r/enhanced-integrations-and-local-data-management-in-relay-23ne",
+    "topic": "general"
   }
 ]

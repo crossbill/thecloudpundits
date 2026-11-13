@@ -1,5 +1,23 @@
 [
   {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "desc": "",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "topic": "general"
+  },
+  {
+    "title": "XYBench: Helping with the problem behind the question",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "topic": "general"
+  },
+  {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "topic": "general"
+  },
+  {
     "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -28,23 +46,5 @@
     "desc": "",
     "link": "https://huggingface.co/blog/hub-gcp-marketplace",
     "topic": "gcp"
-  },
-  {
-    "title": "Decision Models in Hugging Face",
-    "desc": "",
-    "link": "https://huggingface.co/blog/decision",
-    "topic": "huggingface"
-  },
-  {
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "desc": "",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "topic": "general"
-  },
-  {
-    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-    "desc": "",
-    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "topic": "general"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+    "desc": "<p>Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microso",
+    "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+    "desc": "<p>Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using \u201ca measured approach to id",
+    "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+    "topic": "azure"
+  },
+  {
+    "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+    "desc": "<p>The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data.</p>\n<p>The post <a",
+    "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+    "topic": "secops"
+  },
+  {
+    "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+    "desc": "<p>Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets.</p>\n<p",
+    "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
+    "topic": "general"
+  },
+  {
     "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
     "desc": "<p>Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame.</p>\n<p>The post",
     "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
@@ -22,29 +46,5 @@
     "desc": "<p>It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process.</p>\n<p>The post <a href",
     "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
     "topic": "general"
-  },
-  {
-    "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-    "desc": "<p>PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
-    "desc": "<p>Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
-    "topic": "general"
-  },
-  {
-    "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
-    "desc": "<p>Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 milli",
-    "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
-    "topic": "general"
-  },
-  {
-    "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-    "desc": "<p>Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cau",
-    "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-    "topic": "azure"
   }
 ]
