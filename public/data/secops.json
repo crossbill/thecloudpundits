@@ -1,5 +1,41 @@
 [
   {
+    "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
+    "desc": "<p>Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
+    "topic": "general"
+  },
+  {
+    "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+    "desc": "<p>Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions.</p>\n<p>The post <a href=\"https://www.sec",
+    "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+    "topic": "general"
+  },
+  {
+    "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+    "desc": "<p>Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches.</p",
+    "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+    "topic": "openai"
+  },
+  {
+    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit \u2018SignDrop\u2019",
+    "desc": "<p>It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+    "topic": "general"
+  },
+  {
+    "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+    "desc": "<p>PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+    "desc": "<p>Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+    "topic": "general"
+  },
+  {
     "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
     "desc": "<p>Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 milli",
     "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
@@ -10,41 +46,5 @@
     "desc": "<p>Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cau",
     "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
     "topic": "azure"
-  },
-  {
-    "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
-    "desc": "<p>The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled.</p>\n<p>Th",
-    "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
-    "desc": "<p>Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160.</p>\n<p>The post <a href=\"https://www.s",
-    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
-    "desc": "<p>Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories.</p>\n<",
-    "link": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
-    "topic": "secops"
-  },
-  {
-    "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
-    "desc": "<p>The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
-    "topic": "secops"
-  },
-  {
-    "title": "Notion Customer Data Compromised in Fireworks AI Hack",
-    "desc": "<p>The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
-    "topic": "general"
-  },
-  {
-    "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
-    "desc": "<p>The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
-    "topic": "general"
   }
 ]

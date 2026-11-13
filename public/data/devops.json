@@ -1,50 +1,50 @@
 [
   {
-    "title": "Inside an AI Gateway: How the Control Plane and Data Plane Work Together",
-    "desc": "<p>Most explanations of AI gateways stop at the surface: one endpoint, many models, some governance sprinkled on top. That framing is useful",
-    "link": "https://dev.to/shekhar_verma/inside-an-ai-gateway-how-the-control-plane-and-data-plane-work-together-479j",
+    "title": "The Hidden Complexity Behind GitOps\u2019 \u201cPush to Deploy\u201d",
+    "desc": "<p>A GitOps platform that provisioned isolated customer environments straight from Git, and the four problems that surfaced once it was runn",
+    "link": "https://dev.to/geekyants-inc/the-hidden-complexity-behind-gitops-push-to-deploy-19l1",
     "topic": "general"
   },
   {
-    "title": "What Does It Take to Build a Kill Switch for an AI Agent?",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/sam_yang/what-does-it-take-to-build-a-kill-switch-for-an-ai-agent-3364",
+    "title": "Zero-Trust Pod Networking on GKE: Parameterizing Kubernetes NetworkPolicies with Helm",
+    "desc": "<p>{{ if .Values.defaultDeny.enabled }}<br />\napiVersion: networking.k8s.io/v1<br />\nkind: NetworkPolicy<br />\nmetadata:<br />\n  name: {{ .R",
+    "link": "https://dev.to/punith887/zero-trust-pod-networking-on-gke-parameterizing-kubernetes-networkpolicies-with-helm-1ijg",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Hardening Payment APIs After CERT-In's Crafty Falcon Advisory: A Checklist for Dev and Ops Teams",
+    "desc": "<p>CERT-In advisory CIAD-2026-0058 (4 November 2026) describes a threat actor called Crafty Falcon that uses AI-assisted tooling against NBF",
+    "link": "https://dev.to/affix_centersoftechserv/hardening-payment-apis-after-cert-ins-crafty-falcon-advisory-a-checklist-for-dev-and-ops-teams-4kon",
     "topic": "general"
   },
   {
-    "title": "Fix RC2-40-CBC Errors When Opening a PFX in OpenSSL 3",
-    "desc": "<p>If <code>openssl pkcs12</code> fails with an error containing <code>unsupported</code> and <code>Algorithm (RC2-40-CBC : 0)</code>, check",
-    "link": "https://dev.to/pkiscope/fix-rc2-40-cbc-errors-when-opening-a-pfx-in-openssl-3-29eg",
+    "title": "Flutter Is Leaving CocoaPods. Our CI Isn\u2019t Ready",
+    "desc": "<p>Our iOS pipeline was green.</p>\n\n<p>That was the problem.</p>\n\n<p>After upgrading to Flutter 3.50, every local build printed a warning ab",
+    "link": "https://dev.to/paul-s/flutter-is-leaving-cocoapods-our-ci-isnt-ready-ebp",
     "topic": "general"
   },
   {
-    "title": "Barr\u00ed 50 repositorios: dos defectos reales y una tasa del 2 %",
-    "desc": "<h2>\n  \n  \n  0 \u00b7 Veredicto en una l\u00ednea\n</h2>\n\n<p>De <strong>50</strong> repositorios de empresa con CI (\u2265 5 000 \u2605, IA/DevTools/Fintech), <s",
-    "link": "https://dev.to/alexisromtz7/barri-50-repositorios-dos-defectos-reales-y-una-tasa-del-2--30fk",
+    "title": "What Can You Learn in an AWS Course? A Beginner's Guide",
+    "desc": "<p>Cloud computing has changed how businesses build, deploy, and manage applications. Instead of purchasing and maintaining physical servers",
+    "link": "https://dev.to/ummadisetty/what-can-you-learn-in-an-aws-course-a-beginners-guide-46hd",
+    "topic": "aws"
+  },
+  {
+    "title": "Jenkins Fundamentals - Part 2: Installing Jenkins Controller on AWS EC2",
+    "desc": "<p>In Part 1 \u2014 Jenkins Fundamentals: What Are We Actually Operating?, we built the mental model for Jenkins: the Controller receives a build",
+    "link": "https://dev.to/posibble/jenkins-fundamentals-part-2-installing-jenkins-controller-on-aws-ec2-1cg9",
+    "topic": "aws"
+  },
+  {
+    "title": "Malicious package detection Dynatrace: find and triage CWE-506",
+    "desc": "<p>Picture the 3 a.m. page: a library nobody picked on purpose, pulled in three levels down the dependency tree, has just been declared boob",
+    "link": "https://dev.to/spanobserver/malicious-package-detection-dynatrace-find-and-triage-cwe-506-460g",
     "topic": "general"
   },
   {
-    "title": "Enterprise AI Observability: Choosing an AI Observability Platform That AI, SRE and Security Teams Can All Use",
-    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight yaml\"><code><span class=\"nn\">---\n</span><span class=\"na\">title</span><span c",
-    "link": "https://dev.to/bonree-js/tracing-ai-agents-with-opentelemetry-a-design-for-llm-and-agentic-ai-observability-4hn6",
-    "topic": "secops"
-  },
-  {
-    "title": "Microsoft 365 Went Down Overnight. 17.6% of Indonesian co.id Domains Get Their Mail Through It",
-    "desc": "<p><em>Last updated 13 Nov 2026, 09:30 WIB. The incident is still open. I will update this post when Microsoft closes it and publishes a pos",
-    "link": "https://dev.to/kielltampubolon/microsoft-365-went-down-overnight-176-of-indonesian-coid-domains-get-their-mail-through-it-a59",
-    "topic": "azure"
-  },
-  {
-    "title": "I built an open-source tool that shows your servers and databases as a living 3D city",
-    "desc": "<p>Most infrastructure tools show you lists: servers, databases, alerts, all in rows. The problem with a list is that it re-sorts itself. Wh",
-    "link": "https://dev.to/rajneesh_tiwari_e0556afa6/i-built-an-open-source-tool-that-shows-your-servers-and-databases-as-a-living-3d-city-4p6d",
-    "topic": "general"
-  },
-  {
-    "title": "MaxRAMPercentage vs Xmx: Sizing Java Heap in Containers",
-    "desc": "<p>Your Java service runs in a Kubernetes pod with a memory limit, and you have to decide how big the heap may grow. There are two ways to s",
-    "link": "https://dev.to/kkkevins/maxrampercentage-vs-xmx-sizing-java-heap-in-containers-1ook",
-    "topic": "docker"
+    "title": "AWS FinOps Field Notes: Automating Orphaned EBS & Infrastructure Cleanup",
+    "desc": "<p>While auditing cloud infrastructure costs this week, recurring configuration gaps continue to quietly inflate monthly bills.</p>\n\n<h3>\n  ",
+    "link": "https://dev.to/ace7coder/aws-finops-field-notes-automating-orphaned-ebs-infrastructure-cleanup-5ho0",
+    "topic": "aws"
   }
 ]
