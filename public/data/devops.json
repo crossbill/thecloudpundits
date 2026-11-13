@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why LinkedIn Outgrew Argo CD and What It Means for Your GitOps",
-    "desc": "<p>LinkedIn recently replaced Argo CD with a custom GitOps engine that deploys across more than 250 Kubernetes clusters and handles over 100",
-    "link": "https://dev.to/robust_true_try/why-linkedin-outgrew-argo-cd-and-what-it-means-for-your-gitops-1nj1",
+    "title": "Inside an AI Gateway: How the Control Plane and Data Plane Work Together",
+    "desc": "<p>Most explanations of AI gateways stop at the surface: one endpoint, many models, some governance sprinkled on top. That framing is useful",
+    "link": "https://dev.to/shekhar_verma/inside-an-ai-gateway-how-the-control-plane-and-data-plane-work-together-479j",
     "topic": "general"
   },
   {
-    "title": "Deploy Anxiety Part 2: 3 More Cognitive Distortions That Sabotage Your Release Day",
-    "desc": "<h1>\n  \n  \n  Deploy Anxiety Part 2: 3 More Cognitive Distortions That Sabotage Your Release Day\n</h1>\n\n<p>*This is Part 2 of our series on d",
-    "link": "https://dev.to/473185670/deploy-anxiety-part-2-3-more-cognitive-distortions-that-sabotage-your-release-day-25bg",
+    "title": "What Does It Take to Build a Kill Switch for an AI Agent?",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/sam_yang/what-does-it-take-to-build-a-kill-switch-for-an-ai-agent-3364",
     "topic": "general"
   },
   {
-    "title": "Bentaus's GPU power test makes the site meter part of inference benchmarking",
-    "desc": "<p>DriveNets and Bentaus announced a deployment on November 12 that combines AMD Instinct MI325X GPUs, DriveNets Ethernet fabric and Bentaus",
-    "link": "https://dev.to/da-li-at-pl/bentauss-gpu-power-test-makes-the-site-meter-part-of-inference-benchmarking-4jd6",
+    "title": "Fix RC2-40-CBC Errors When Opening a PFX in OpenSSL 3",
+    "desc": "<p>If <code>openssl pkcs12</code> fails with an error containing <code>unsupported</code> and <code>Algorithm (RC2-40-CBC : 0)</code>, check",
+    "link": "https://dev.to/pkiscope/fix-rc2-40-cbc-errors-when-opening-a-pfx-in-openssl-3-29eg",
     "topic": "general"
   },
   {
-    "title": "AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October",
-    "desc": "<h2>\n  \n  \n  1. What has been happening?\n</h2>\n\n<p>October's wave of AI-enabled cybersecurity incidents have been termed by some \"Black Octo",
-    "link": "https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c",
+    "title": "Barr\u00ed 50 repositorios: dos defectos reales y una tasa del 2 %",
+    "desc": "<h2>\n  \n  \n  0 \u00b7 Veredicto en una l\u00ednea\n</h2>\n\n<p>De <strong>50</strong> repositorios de empresa con CI (\u2265 5 000 \u2605, IA/DevTools/Fintech), <s",
+    "link": "https://dev.to/alexisromtz7/barri-50-repositorios-dos-defectos-reales-y-una-tasa-del-2--30fk",
     "topic": "general"
   },
   {
-    "title": "Stop Reviewing Code You Can't Run: Ephemeral Preview Environments for Every Pull Request",
-    "desc": "<p>Description</p>\n\n<p>Give every pull request its own short-lived environment with GitHub Actions, Helm and Kubernetes, and delete it autom",
-    "link": "https://dev.to/saffeena_anwar_daeddc560d/stop-reviewing-code-you-cant-run-ephemeral-preview-environments-for-every-pull-request-1fni",
-    "topic": "general"
+    "title": "Enterprise AI Observability: Choosing an AI Observability Platform That AI, SRE and Security Teams Can All Use",
+    "desc": "<div class=\"highlight js-code-highlight\">\n<pre class=\"highlight yaml\"><code><span class=\"nn\">---\n</span><span class=\"na\">title</span><span c",
+    "link": "https://dev.to/bonree-js/tracing-ai-agents-with-opentelemetry-a-design-for-llm-and-agentic-ai-observability-4hn6",
+    "topic": "secops"
   },
   {
-    "title": "When the Cloud Goes Dark: What Microsoft's Outage Reveals About Our Fragile Digital Infrastructure",
-    "desc": "<h2>\n  \n  \n  <strong>A real-world outage is a reminder that distributed systems, cloud dependencies, and resilience matter more than ever.</",
-    "link": "https://dev.to/marieeee/when-the-cloud-goes-dark-what-microsofts-outage-reveals-about-our-fragile-digital-infrastructure-p3m",
+    "title": "Microsoft 365 Went Down Overnight. 17.6% of Indonesian co.id Domains Get Their Mail Through It",
+    "desc": "<p><em>Last updated 13 Nov 2026, 09:30 WIB. The incident is still open. I will update this post when Microsoft closes it and publishes a pos",
+    "link": "https://dev.to/kielltampubolon/microsoft-365-went-down-overnight-176-of-indonesian-coid-domains-get-their-mail-through-it-a59",
     "topic": "azure"
   },
   {
-    "title": "Wayback CDX API: find the old URLs your redesign broke",
-    "desc": "<p><em>One query to the Internet Archive and a short shell loop give you every page the archive has seen on your domain, the date each was l",
-    "link": "https://dev.to/vainamoinen/wayback-cdx-api-find-the-old-urls-your-redesign-broke-2gpm",
+    "title": "I built an open-source tool that shows your servers and databases as a living 3D city",
+    "desc": "<p>Most infrastructure tools show you lists: servers, databases, alerts, all in rows. The problem with a list is that it re-sorts itself. Wh",
+    "link": "https://dev.to/rajneesh_tiwari_e0556afa6/i-built-an-open-source-tool-that-shows-your-servers-and-databases-as-a-living-3d-city-4p6d",
     "topic": "general"
   },
   {
-    "title": "Safe temp files, install modes, checksums, and a quiet curl",
-    "desc": "<blockquote>\n<p>Disclosure: this article was written by Sir Grokkius, an AI agent, for Matthew Richard Kowalski (Luminosity), a friend to th",
-    "link": "https://dev.to/grokkius/safe-temp-files-install-modes-checksums-and-a-quiet-curl-27lf",
-    "topic": "general"
+    "title": "MaxRAMPercentage vs Xmx: Sizing Java Heap in Containers",
+    "desc": "<p>Your Java service runs in a Kubernetes pod with a memory limit, and you have to decide how big the heap may grow. There are two ways to s",
+    "link": "https://dev.to/kkkevins/maxrampercentage-vs-xmx-sizing-java-heap-in-containers-1ook",
+    "topic": "docker"
   }
 ]
