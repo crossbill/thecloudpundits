@@ -1,50 +1,50 @@
 [
   {
-    "title": "Detecting Missing HTCondor Nodes and Stale GPU Metrics with Prometheus and Slack",
-    "desc": "<p><em>Part 6 of 6 in Building and Operating an HTCondor Pool for Research Computing.</em></p>\n\n<p>An HTCondor worker can disappear from the",
-    "link": "https://dev.to/nha6ki/detecting-missing-htcondor-nodes-and-stale-gpu-metrics-with-prometheus-and-slack-402m",
+    "title": "Mastering CI/CD with GitHub Actions: A Developer's Guide",
+    "desc": "<h2>\n  \n  \n  Introduction: The CI/CD Imperative\n</h2>\n\n<p>In today's fast-paced software development landscape, Continuous Integration (CI) ",
+    "link": "https://dev.to/realestate26/mastering-cicd-with-github-actions-a-developers-guide-idc",
     "topic": "general"
   },
   {
-    "title": "Monitoring HTCondor Jobs and GPU Memory with Prometheus and Grafana",
-    "desc": "<p><em>Part 5 of 6 in Building and Operating an HTCondor Pool for Research Computing.</em></p>\n\n<p>One RTX 3060 on our lab dashboard showed ",
-    "link": "https://dev.to/nha6ki/monitoring-htcondor-jobs-and-gpu-memory-with-prometheus-and-grafana-2c5f",
-    "topic": "general"
-  },
-  {
-    "title": "Which Enterprise Platforms Unify Identity, Billing, and Deployment Across Multiple Clouds? A Three-Layer Coverage Matrix (2026)",
-    "desc": "<p>Few platforms unify identity, billing, and deployment natively across multiple clouds. Most enterprises combine an identity provider, a F",
-    "link": "https://dev.to/noahcontrolplane/which-enterprise-platforms-unify-identity-billing-and-deployment-across-multiple-clouds-a-1b21",
-    "topic": "general"
-  },
-  {
-    "title": "How to Run Kubernetes Across On-Premises and Public Cloud: Four Hybrid Architecture Models and the Seven Layers to Standardize",
-    "desc": "<p>You run Kubernetes across on-premises and public cloud by choosing one of four architecture models and then standardizing seven layers ac",
-    "link": "https://dev.to/noahcontrolplane/how-to-run-kubernetes-across-on-premises-and-public-cloud-four-hybrid-architecture-models-and-the-2jf5",
+    "title": "Unlocking Cloud Native: A Deep Dive into Kubernetes & Microservices",
+    "desc": "<h2>\n  \n  \n  Introduction: The Microservices Revolution\n</h2>\n\n<p>The software development landscape has undergone a seismic shift. Gone are",
+    "link": "https://dev.to/realestate26/unlocking-cloud-native-a-deep-dive-into-kubernetes-microservices-28p4",
     "topic": "kubernetes"
   },
   {
-    "title": "How to Modernize a VM-Based App to Kubernetes on Multi-Cloud: Five Paths, a VM-to-Kubernetes Map, and a Readiness Scorecard",
-    "desc": "<p>Modernize a VM-based application to Kubernetes on multi-cloud infrastructure by choosing a path per application (keep it as a VM inside K",
-    "link": "https://dev.to/noahcontrolplane/how-to-modernize-a-vm-based-app-to-kubernetes-on-multi-cloud-five-paths-a-vm-to-kubernetes-map-35b9",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "How to Choose the Best Multi-Cloud Solution for Your Business: Start From the Driver, Then Score the Shortlist",
-    "desc": "<p>Choose a multi-cloud solution by starting from the one business driver that justifies the complexity, because each driver leads to a diff",
-    "link": "https://dev.to/noahcontrolplane/how-to-choose-the-best-multi-cloud-solution-for-your-business-start-from-the-driver-then-score-5fja",
+    "title": "Snapshotting a DigitalOcean Droplet while it's running",
+    "desc": "<p>DigitalOcean lets you snapshot a Droplet while it's running, and its docs are careful about it. They say a live snapshot \"may result in p",
+    "link": "https://dev.to/remdore/snapshotting-a-digitalocean-droplet-while-its-running-4m3c",
     "topic": "general"
   },
   {
-    "title": "Active-Active Multi-Region, Multi-Cloud Reference Architecture: Six Layers, Five Failure Scopes, and the Capacity Math",
-    "desc": "<p>An active-active multi-region, multi-cloud reference architecture has six layers: global routing, ingress, stateless compute, data, cross",
-    "link": "https://dev.to/noahcontrolplane/active-active-multi-region-multi-cloud-reference-architecture-six-layers-five-failure-scopes-21jd",
+    "title": "Trivy Setup Guide: Installing the Ultimate Open-Source Security Scanner",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/vmohost_blogs/trivy-setup-guide-installing-the-ultimate-open-source-security-scanner-5d8h",
+    "topic": "secops"
+  },
+  {
+    "title": "TermSSH: SSH, Files, Monitoring, and Databases in One Browser Workspace",
+    "desc": "<h1>\n  \n  \n  TermSSH: SSH, Files, Monitoring, and Databases in One Browser Workspace\n</h1>\n\n<p><a class=\"article-body-image-wrapper\" href=\"h",
+    "link": "https://dev.to/foysal365/termssh-ssh-files-monitoring-and-databases-in-one-browser-workspace-1mm6",
     "topic": "general"
   },
   {
-    "title": "Free beta: the guard rails we built after our AI agent's mistakes (Claude Code hooks)",
-    "desc": "<p>I run a small business in Sydney with an AI agent doing a lot of the day-to-day work: emails, posting, scheduled jobs, the lot.</p>\n\n<p>I",
-    "link": "https://dev.to/tom_hitchcock_992cde3cb0e/free-beta-the-guard-rails-we-built-after-our-ai-agents-mistakes-claude-code-hooks-5f8f",
-    "topic": "anthropic"
+    "title": "Fix OOM Kills and MEMORY_LIMIT_EXCEEDED on ClickHouse\u00ae Servers",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>ClickHouse\u00ae servers can experience two types of memory-related failures.</p>\n\n<p>In the first, the Linux",
+    "link": "https://dev.to/kanishga_subramani_49ad73/fix-oom-kills-and-memorylimitexceeded-on-clickhouser-servers-5i4",
+    "topic": "general"
+  },
+  {
+    "title": "GitHub Actions Self-Hosted Runners Documentation (2026): Requirements, macOS, Online Status and Warm Pools",
+    "desc": "<p>The official GitHub Actions self-hosted runners documentation is split across two GitHub Docs pages: \"Self-hosted runners\" (concepts) and",
+    "link": "https://dev.to/sengi_runners/github-actions-self-hosted-runners-documentation-2026-requirements-macos-online-status-and-nlf",
+    "topic": "general"
+  },
+  {
+    "title": "Blacksmith GitHub Actions Runners Docs: Tags, Setup and Pricing (November 2026)",
+    "desc": "<p>Blacksmith is a hosted CI service that runs GitHub Actions jobs on its own runners. You install the blacksmith.sh GitHub App and change o",
+    "link": "https://dev.to/sengi_runners/blacksmith-github-actions-runners-docs-tags-setup-and-pricing-november-2026-254k",
+    "topic": "general"
   }
 ]
