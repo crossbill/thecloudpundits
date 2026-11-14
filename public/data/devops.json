@@ -1,50 +1,50 @@
 [
   {
-    "title": "Mastering CI/CD with GitHub Actions: A Developer's Guide",
-    "desc": "<h2>\n  \n  \n  Introduction: The CI/CD Imperative\n</h2>\n\n<p>In today's fast-paced software development landscape, Continuous Integration (CI) ",
-    "link": "https://dev.to/realestate26/mastering-cicd-with-github-actions-a-developers-guide-idc",
+    "title": "Introducing the PocketBase Cloud CLI: run PocketBase locally, deploy, and manage production",
+    "desc": "<p>PocketBase is one binary, and that's a big part of why people like it. The<br />\nworkflow around it usually isn't: you build locally in t",
+    "link": "https://dev.to/phattran20/introducing-the-pocketbase-cloud-cli-run-pocketbase-locally-deploy-and-manage-production-3f1f",
     "topic": "general"
   },
   {
-    "title": "Unlocking Cloud Native: A Deep Dive into Kubernetes & Microservices",
-    "desc": "<h2>\n  \n  \n  Introduction: The Microservices Revolution\n</h2>\n\n<p>The software development landscape has undergone a seismic shift. Gone are",
-    "link": "https://dev.to/realestate26/unlocking-cloud-native-a-deep-dive-into-kubernetes-microservices-28p4",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Snapshotting a DigitalOcean Droplet while it's running",
-    "desc": "<p>DigitalOcean lets you snapshot a Droplet while it's running, and its docs are careful about it. They say a live snapshot \"may result in p",
-    "link": "https://dev.to/remdore/snapshotting-a-digitalocean-droplet-while-its-running-4m3c",
+    "title": "Understanding Git Branching and Merging: How Multiple Developers Collaborate on One Project",
+    "desc": "<p>As part of my journey into DevOps engineering, I've been working on understanding how developers collaborate using Git and GitHub.</p>\n\n<",
+    "link": "https://dev.to/tobyjonesdaily/understanding-git-branching-and-merging-how-multiple-developers-collaborate-on-one-project-2i51",
     "topic": "general"
   },
   {
-    "title": "Trivy Setup Guide: Installing the Ultimate Open-Source Security Scanner",
+    "title": "Why Single-Region Uptime Checks Fail Modern Teams \u2014 And How We Built a 2-of-3 EU Quorum Engine",
+    "desc": "<p>False-positive downtime alerts cost engineering teams more than just sleep\u2014they erode trust in monitoring altogether. When a transient BG",
+    "link": "https://dev.to/alessandro_cecconi_49abf1/why-single-region-uptime-checks-fail-modern-teams-and-how-we-built-a-2-of-3-eu-quorum-engine-3cl2",
+    "topic": "general"
+  },
+  {
+    "title": "Self-hosted Sentry: where the 16 GB actually goes (measured)",
+    "desc": "<h1>\n  \n  \n  Self-hosted Sentry: where the 16 GB actually goes\n</h1>\n\n<p>The official install guide says 4 CPU, 16 GB RAM, 20 GB disk. What ",
+    "link": "https://dev.to/weifeng_liu_57eea5c2123f9/self-hosted-sentry-where-the-16-gb-actually-goes-measured-2o1c",
+    "topic": "general"
+  },
+  {
+    "title": "Engineering and finance read the same bill and see different things",
     "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vmohost_blogs/trivy-setup-guide-installing-the-ultimate-open-source-security-scanner-5d8h",
-    "topic": "secops"
-  },
-  {
-    "title": "TermSSH: SSH, Files, Monitoring, and Databases in One Browser Workspace",
-    "desc": "<h1>\n  \n  \n  TermSSH: SSH, Files, Monitoring, and Databases in One Browser Workspace\n</h1>\n\n<p><a class=\"article-body-image-wrapper\" href=\"h",
-    "link": "https://dev.to/foysal365/termssh-ssh-files-monitoring-and-databases-in-one-browser-workspace-1mm6",
+    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/engineering-and-finance-read-the-same-bill-and-see-different-things-nj2",
     "topic": "general"
   },
   {
-    "title": "Fix OOM Kills and MEMORY_LIMIT_EXCEEDED on ClickHouse\u00ae Servers",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>ClickHouse\u00ae servers can experience two types of memory-related failures.</p>\n\n<p>In the first, the Linux",
-    "link": "https://dev.to/kanishga_subramani_49ad73/fix-oom-kills-and-memorylimitexceeded-on-clickhouser-servers-5i4",
+    "title": "Split Terraform state by blast radius, not by team",
+    "desc": "<p>Most teams split Terraform state the way they split org charts: one state per team, or one state per repo. It feels tidy. Then someone ru",
+    "link": "https://dev.to/hritik_chaudhary_5db0056f/split-terraform-state-by-blast-radius-not-by-team-5ei1",
+    "topic": "terraform"
+  },
+  {
+    "title": "My Dashboard Said Four Plans Were Ready to Dispatch. One Was.",
+    "desc": "<h1>\n  \n  \n  My Dashboard Said Four Plans Were Ready to Dispatch. One Was.\n</h1>\n\n<p>My Grafana dashboard listed five plans for the next rel",
+    "link": "https://dev.to/wilddog64/my-dashboard-said-four-plans-were-ready-to-dispatch-one-was-3mbe",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions Self-Hosted Runners Documentation (2026): Requirements, macOS, Online Status and Warm Pools",
-    "desc": "<p>The official GitHub Actions self-hosted runners documentation is split across two GitHub Docs pages: \"Self-hosted runners\" (concepts) and",
-    "link": "https://dev.to/sengi_runners/github-actions-self-hosted-runners-documentation-2026-requirements-macos-online-status-and-nlf",
-    "topic": "general"
-  },
-  {
-    "title": "Blacksmith GitHub Actions Runners Docs: Tags, Setup and Pricing (November 2026)",
-    "desc": "<p>Blacksmith is a hosted CI service that runs GitHub Actions jobs on its own runners. You install the blacksmith.sh GitHub App and change o",
-    "link": "https://dev.to/sengi_runners/blacksmith-github-actions-runners-docs-tags-setup-and-pricing-november-2026-254k",
+    "title": "The server had files git never met: fixing config drift with a pinned manifest",
+    "desc": "<p><em>By Eric Gitangu. Originally published at <a href=\"https://developer.ericgitangu.com/blog/server-config-drift-git-manifest\" rel=\"noope",
+    "link": "https://dev.to/ericgitangu/the-server-had-files-git-never-met-fixing-config-drift-with-a-pinned-manifest-io9",
     "topic": "general"
   }
 ]
