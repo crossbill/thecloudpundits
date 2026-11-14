@@ -1,5 +1,11 @@
 [
   {
+    "title": "FAA Ground Stop Issued Due to \u2018Extraordinary Circumstances\u2019",
+    "desc": "<p>Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack.</p>",
+    "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+    "topic": "general"
+  },
+  {
     "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
     "desc": "<p>Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microso",
     "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
@@ -40,11 +46,5 @@
     "desc": "<p>Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches.</p",
     "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
     "topic": "openai"
-  },
-  {
-    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit \u2018SignDrop\u2019",
-    "desc": "<p>It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-    "topic": "general"
   }
 ]

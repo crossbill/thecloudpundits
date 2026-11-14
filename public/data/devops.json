@@ -1,50 +1,50 @@
 [
   {
-    "title": "Docker Explained for Backend Developers",
-    "desc": "<p>As a backend developer(like me), you probably spend most of your time writing application logic, building APIs, connecting databases, han",
-    "link": "https://dev.to/ezeanamichael/docker-explained-for-backend-developers-333j",
-    "topic": "docker"
-  },
-  {
-    "title": "Microsoft Built a Delete Lock Even Admins Can't Remove. I Think It's Right (Mostly)",
-    "desc": "<p>Most software settings follow one quiet rule: whoever turns something on can turn it off again. Microsoft just broke that rule on purpose",
-    "link": "https://dev.to/sergheipogor/microsoft-built-a-delete-lock-even-admins-cant-remove-i-think-its-right-mostly-2a89",
-    "topic": "azure"
-  },
-  {
-    "title": "N-able Took Hosted N-central Offline After a 33-Issue Disclosure",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>N-central is a remote monitoring and management platform that service providers and internal IT teams use",
-    "link": "https://dev.to/neticslabs/n-able-took-hosted-n-central-offline-after-a-33-issue-disclosure-2ki9",
+    "title": "Detecting Missing HTCondor Nodes and Stale GPU Metrics with Prometheus and Slack",
+    "desc": "<p><em>Part 6 of 6 in Building and Operating an HTCondor Pool for Research Computing.</em></p>\n\n<p>An HTCondor worker can disappear from the",
+    "link": "https://dev.to/nha6ki/detecting-missing-htcondor-nodes-and-stale-gpu-metrics-with-prometheus-and-slack-402m",
     "topic": "general"
   },
   {
-    "title": "Why standard linters miss AI code bugs (and how to deflect them before git push)",
-    "desc": "<p>Standard linters (<code>eslint</code>, <code>flake8</code>, <code>cargo check</code>) were built to catch human syntax and style conventi",
-    "link": "https://dev.to/ai-ops1/why-standard-linters-miss-ai-code-bugs-and-how-to-deflect-them-before-git-push-me4",
+    "title": "Monitoring HTCondor Jobs and GPU Memory with Prometheus and Grafana",
+    "desc": "<p><em>Part 5 of 6 in Building and Operating an HTCondor Pool for Research Computing.</em></p>\n\n<p>One RTX 3060 on our lab dashboard showed ",
+    "link": "https://dev.to/nha6ki/monitoring-htcondor-jobs-and-gpu-memory-with-prometheus-and-grafana-2c5f",
     "topic": "general"
   },
   {
-    "title": "Why AI coding agents cheat your tests (and how to stop them)",
-    "desc": "<p>Prompting an AI to check code written by an AI is like asking the chef if the soup is poisoned.</p>\n\n<p>It sounds nice in theory. But in ",
-    "link": "https://dev.to/ai-ops1/why-ai-coding-agents-cheat-your-tests-and-how-to-stop-them-1kon",
+    "title": "Which Enterprise Platforms Unify Identity, Billing, and Deployment Across Multiple Clouds? A Three-Layer Coverage Matrix (2026)",
+    "desc": "<p>Few platforms unify identity, billing, and deployment natively across multiple clouds. Most enterprises combine an identity provider, a F",
+    "link": "https://dev.to/noahcontrolplane/which-enterprise-platforms-unify-identity-billing-and-deployment-across-multiple-clouds-a-1b21",
     "topic": "general"
   },
   {
-    "title": "Testing Cloud Backup and SHA-256 Restore on Ubuntu 24.04 & Windows Without Upfront Billing",
-    "desc": "<p>Most teams treat backup setup as a checkbox and never run a restore test until something breaks. When testing a new cloud backup tool req",
-    "link": "https://dev.to/tornova_marketing_714417c/testing-cloud-backup-and-sha-256-restore-on-ubuntu-2404-windows-without-upfront-billing-16d9",
+    "title": "How to Run Kubernetes Across On-Premises and Public Cloud: Four Hybrid Architecture Models and the Seven Layers to Standardize",
+    "desc": "<p>You run Kubernetes across on-premises and public cloud by choosing one of four architecture models and then standardizing seven layers ac",
+    "link": "https://dev.to/noahcontrolplane/how-to-run-kubernetes-across-on-premises-and-public-cloud-four-hybrid-architecture-models-and-the-2jf5",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "How to Modernize a VM-Based App to Kubernetes on Multi-Cloud: Five Paths, a VM-to-Kubernetes Map, and a Readiness Scorecard",
+    "desc": "<p>Modernize a VM-based application to Kubernetes on multi-cloud infrastructure by choosing a path per application (keep it as a VM inside K",
+    "link": "https://dev.to/noahcontrolplane/how-to-modernize-a-vm-based-app-to-kubernetes-on-multi-cloud-five-paths-a-vm-to-kubernetes-map-35b9",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "How to Choose the Best Multi-Cloud Solution for Your Business: Start From the Driver, Then Score the Shortlist",
+    "desc": "<p>Choose a multi-cloud solution by starting from the one business driver that justifies the complexity, because each driver leads to a diff",
+    "link": "https://dev.to/noahcontrolplane/how-to-choose-the-best-multi-cloud-solution-for-your-business-start-from-the-driver-then-score-5fja",
     "topic": "general"
   },
   {
-    "title": "When stdout is nil: stopping a WinRM panic in GitLab Fleeting",
-    "desc": "<p>A nil writer is one of those values that looks like \"I don't care about this output\" and behaves like \"please crash.\" In GitLab Fleeting'",
-    "link": "https://dev.to/priyanshu_jha_eee132b17e5/when-stdout-is-nil-stopping-a-winrm-panic-in-gitlab-fleeting-3o5l",
+    "title": "Active-Active Multi-Region, Multi-Cloud Reference Architecture: Six Layers, Five Failure Scopes, and the Capacity Math",
+    "desc": "<p>An active-active multi-region, multi-cloud reference architecture has six layers: global routing, ingress, stateless compute, data, cross",
+    "link": "https://dev.to/noahcontrolplane/active-active-multi-region-multi-cloud-reference-architecture-six-layers-five-failure-scopes-21jd",
     "topic": "general"
   },
   {
-    "title": "Enhanced integrations and local data management in Relay",
-    "desc": "<blockquote>\n<p>Generated by AI for testing my app <a href=\"https://relay.shadowcrawler.dev\" rel=\"noopener noreferrer\">Relay</a></p>\n</block",
-    "link": "https://dev.to/shad0wcrawl3r/enhanced-integrations-and-local-data-management-in-relay-23ne",
-    "topic": "general"
+    "title": "Free beta: the guard rails we built after our AI agent's mistakes (Claude Code hooks)",
+    "desc": "<p>I run a small business in Sydney with an AI agent doing a lot of the day-to-day work: emails, posting, scheduled jobs, the lot.</p>\n\n<p>I",
+    "link": "https://dev.to/tom_hitchcock_992cde3cb0e/free-beta-the-guard-rails-we-built-after-our-ai-agents-mistakes-claude-code-hooks-5f8f",
+    "topic": "anthropic"
   }
 ]
