@@ -1,50 +1,50 @@
 [
   {
-    "title": "Introducing the PocketBase Cloud CLI: run PocketBase locally, deploy, and manage production",
-    "desc": "<p>PocketBase is one binary, and that's a big part of why people like it. The<br />\nworkflow around it usually isn't: you build locally in t",
-    "link": "https://dev.to/phattran20/introducing-the-pocketbase-cloud-cli-run-pocketbase-locally-deploy-and-manage-production-3f1f",
+    "title": "Copying a Model's Shutdown Date Into Your Calendar Is a Bug",
+    "desc": "<p><strong>Between Friday morning and Saturday morning, seven model shutdown dates I had written down moved. I had published one of them.</s",
+    "link": "https://dev.to/nabil_since_dev/copying-a-models-shutdown-date-into-your-calendar-is-a-bug-25hm",
     "topic": "general"
   },
   {
-    "title": "Understanding Git Branching and Merging: How Multiple Developers Collaborate on One Project",
-    "desc": "<p>As part of my journey into DevOps engineering, I've been working on understanding how developers collaborate using Git and GitHub.</p>\n\n<",
-    "link": "https://dev.to/tobyjonesdaily/understanding-git-branching-and-merging-how-multiple-developers-collaborate-on-one-project-2i51",
+    "title": "Logging pipeline runs without noise #st5rg",
+    "desc": "<p>Store one structured record per run with durations and statuses, then aggregate p50/p95 instead of scanning raw logs.</p>\n\n\n\n\n<h3>\n  \n  \n",
+    "link": "https://dev.to/devnote2319/logging-pipeline-runs-without-noise-st5rg-2n9a",
     "topic": "general"
   },
   {
-    "title": "Why Single-Region Uptime Checks Fail Modern Teams \u2014 And How We Built a 2-of-3 EU Quorum Engine",
-    "desc": "<p>False-positive downtime alerts cost engineering teams more than just sleep\u2014they erode trust in monitoring altogether. When a transient BG",
-    "link": "https://dev.to/alessandro_cecconi_49abf1/why-single-region-uptime-checks-fail-modern-teams-and-how-we-built-a-2-of-3-eu-quorum-engine-3cl2",
+    "title": "Beyond Header Grabbing: Detecting Apache mod_http2 (CVE-2026-119618) with Custom Nmap NSE",
+    "desc": "<p>When the critical Apache mod_http2 vulnerability (CVE-2026-119618) surfaced \u2014 a memory corruption in <code>assign_headers()</code> leadin",
+    "link": "https://dev.to/matarturo/beyond-header-grabbing-detecting-apache-modhttp2-cve-2026-119618-with-custom-nmap-nse-5606",
     "topic": "general"
   },
   {
-    "title": "Self-hosted Sentry: where the 16 GB actually goes (measured)",
-    "desc": "<h1>\n  \n  \n  Self-hosted Sentry: where the 16 GB actually goes\n</h1>\n\n<p>The official install guide says 4 CPU, 16 GB RAM, 20 GB disk. What ",
-    "link": "https://dev.to/weifeng_liu_57eea5c2123f9/self-hosted-sentry-where-the-16-gb-actually-goes-measured-2o1c",
+    "title": "AWS S3 vs Wasabi vs Backblaze B2 for User Document Storage (2026 Trade-offs)",
+    "desc": "<h2>\n  \n  \n  Short answer: start with the boundary, then choose the bucket\n</h2>\n\n<p>For a fintech product storing user documents, tenant is",
+    "link": "https://dev.to/nicodemuschristensen2675/aws-s3-vs-wasabi-vs-backblaze-b2-for-user-document-storage-2026-trade-offs-1gkg",
+    "topic": "aws"
+  },
+  {
+    "title": "AI Code Review and Pull Request Automation for Dev Teams",
+    "desc": "<p>AI code review in pull requests works when it is treated as a diff-scoped filter with a hard noise budget, not as a reviewer with opinion",
+    "link": "https://dev.to/veduis/ai-code-review-and-pull-request-automation-for-dev-teams-3ma3",
     "topic": "general"
   },
   {
-    "title": "Engineering and finance read the same bill and see different things",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/engineering-and-finance-read-the-same-bill-and-see-different-things-nj2",
+    "title": "QuePaxa Lets a Global Control Plane Keep Deciding While Links Stall",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>QuePaxa is a consensus algorithm published in 2023 by Tennage, B\u0103sescu and co-authors that lets a group o",
+    "link": "https://dev.to/echakiri/quepaxa-lets-a-global-control-plane-keep-deciding-while-links-stall-3k82",
     "topic": "general"
   },
   {
-    "title": "Split Terraform state by blast radius, not by team",
-    "desc": "<p>Most teams split Terraform state the way they split org charts: one state per team, or one state per repo. It feels tidy. Then someone ru",
-    "link": "https://dev.to/hritik_chaudhary_5db0056f/split-terraform-state-by-blast-radius-not-by-team-5ei1",
-    "topic": "terraform"
+    "title": "My Docker Image Went From 1.79 GB to 246 MB (4 Steps, Measured)",
+    "desc": "<p>A tiny Express + TypeScript API had a <strong>1.79 GB</strong> Docker image. After four changes it's <strong>246 MB</strong>, rebuilds ab",
+    "link": "https://dev.to/refactorly/my-docker-image-went-from-179-gb-to-246-mb-4-steps-measured-49g0",
+    "topic": "docker"
   },
   {
-    "title": "My Dashboard Said Four Plans Were Ready to Dispatch. One Was.",
-    "desc": "<h1>\n  \n  \n  My Dashboard Said Four Plans Were Ready to Dispatch. One Was.\n</h1>\n\n<p>My Grafana dashboard listed five plans for the next rel",
-    "link": "https://dev.to/wilddog64/my-dashboard-said-four-plans-were-ready-to-dispatch-one-was-3mbe",
-    "topic": "general"
-  },
-  {
-    "title": "The server had files git never met: fixing config drift with a pinned manifest",
-    "desc": "<p><em>By Eric Gitangu. Originally published at <a href=\"https://developer.ericgitangu.com/blog/server-config-drift-git-manifest\" rel=\"noope",
-    "link": "https://dev.to/ericgitangu/the-server-had-files-git-never-met-fixing-config-drift-with-a-pinned-manifest-io9",
+    "title": "Git 3.0 Is Coming: master main, SHA-256, reftable and What Breaks",
+    "desc": "<p>Git 3.0 will be the first major Git version since Git 2.0 in 2014. It changes the default branch name and the hash behind every commit, a",
+    "link": "https://dev.to/refactorly/git-30-is-coming-master-main-sha-256-reftable-and-what-breaks-3hc9",
     "topic": "general"
   }
 ]
