@@ -1,50 +1,50 @@
 [
   {
-    "title": "Copying a Model's Shutdown Date Into Your Calendar Is a Bug",
-    "desc": "<p><strong>Between Friday morning and Saturday morning, seven model shutdown dates I had written down moved. I had published one of them.</s",
-    "link": "https://dev.to/nabil_since_dev/copying-a-models-shutdown-date-into-your-calendar-is-a-bug-25hm",
-    "topic": "general"
-  },
-  {
-    "title": "Logging pipeline runs without noise #st5rg",
+    "title": "Logging pipeline runs without noise #1ha27",
     "desc": "<p>Store one structured record per run with durations and statuses, then aggregate p50/p95 instead of scanning raw logs.</p>\n\n\n\n\n<h3>\n  \n  \n",
-    "link": "https://dev.to/devnote2319/logging-pipeline-runs-without-noise-st5rg-2n9a",
+    "link": "https://dev.to/devnote2319/logging-pipeline-runs-without-noise-1ha27-458o",
     "topic": "general"
   },
   {
-    "title": "Beyond Header Grabbing: Detecting Apache mod_http2 (CVE-2026-119618) with Custom Nmap NSE",
-    "desc": "<p>When the critical Apache mod_http2 vulnerability (CVE-2026-119618) surfaced \u2014 a memory corruption in <code>assign_headers()</code> leadin",
-    "link": "https://dev.to/matarturo/beyond-header-grabbing-detecting-apache-modhttp2-cve-2026-119618-with-custom-nmap-nse-5606",
+    "title": "A 24-Line Script That Tells You When a Model Shutdown Date Moves",
+    "desc": "<p><strong>Between Friday and Saturday morning, Microsoft moved <code>claude-haiku-4-5</code> on Foundry from November 15, 2026 to February ",
+    "link": "https://dev.to/nabil_since_dev/a-24-line-script-that-tells-you-when-a-model-shutdown-date-moves-5f46",
     "topic": "general"
   },
   {
-    "title": "AWS S3 vs Wasabi vs Backblaze B2 for User Document Storage (2026 Trade-offs)",
-    "desc": "<h2>\n  \n  \n  Short answer: start with the boundary, then choose the bucket\n</h2>\n\n<p>For a fintech product storing user documents, tenant is",
-    "link": "https://dev.to/nicodemuschristensen2675/aws-s3-vs-wasabi-vs-backblaze-b2-for-user-document-storage-2026-trade-offs-1gkg",
+    "title": "\"Never expire\" log groups: what survives when you delete a Lambda, and the account-level retention AWS added this week",
+    "desc": "<p>The <a href=\"https://controlcloud.dev/en/blog/que-sobrevive-cuando-borras-una-vm-discos-ips-snapshots?utm_source=devto&utm_medium=referra",
+    "link": "https://dev.to/gonzalogjuka/never-expire-log-groups-what-survives-when-you-delete-a-lambda-and-the-account-level-retention-5flk",
     "topic": "aws"
   },
   {
-    "title": "AI Code Review and Pull Request Automation for Dev Teams",
-    "desc": "<p>AI code review in pull requests works when it is treated as a diff-scoped filter with a hard noise budget, not as a reviewer with opinion",
-    "link": "https://dev.to/veduis/ai-code-review-and-pull-request-automation-for-dev-teams-3ma3",
+    "title": "Log groups \"Never expire\": o que sobrevive quando voc\u00ea apaga uma Lambda e a reten\u00e7\u00e3o por conta que a AWS lan\u00e7ou esta semana",
+    "desc": "<p>A <a href=\"https://controlcloud.dev/pt/blog/que-sobrevive-cuando-borras-una-vm-discos-ips-snapshots?utm_source=devto&utm_medium=referral&",
+    "link": "https://dev.to/gonzalogjuka/log-groups-never-expire-o-que-sobrevive-quando-voce-apaga-uma-lambda-e-a-retencao-por-conta-que-450p",
+    "topic": "aws"
+  },
+  {
+    "title": "Log groups \"Never expire\": lo que sobrevive cuando borr\u00e1s una Lambda y la retenci\u00f3n por cuenta que AWS sum\u00f3 esta semana",
+    "desc": "<p>La <a href=\"https://controlcloud.dev/blog/que-sobrevive-cuando-borras-una-vm-discos-ips-snapshots?utm_source=devto&utm_medium=referral&ut",
+    "link": "https://dev.to/gonzalogjuka/log-groups-never-expire-lo-que-sobrevive-cuando-borras-una-lambda-y-la-retencion-por-cuenta-que-46gb",
+    "topic": "aws"
+  },
+  {
+    "title": "Next.js Server Actions bodySizeLimit: Raising Isn't Enough",
+    "desc": "<h2>\n  \n  \n  Conclusion\n</h2>\n\n<p><strong>When a Next.js Server Action's request body exceeds <code>serverActions.bodySizeLimit</code> (1MB ",
+    "link": "https://dev.to/cometakaito/nextjs-server-actions-bodysizelimit-raising-isnt-enough-2a3k",
     "topic": "general"
   },
   {
-    "title": "QuePaxa Lets a Global Control Plane Keep Deciding While Links Stall",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>QuePaxa is a consensus algorithm published in 2023 by Tennage, B\u0103sescu and co-authors that lets a group o",
-    "link": "https://dev.to/echakiri/quepaxa-lets-a-global-control-plane-keep-deciding-while-links-stall-3k82",
+    "title": "A Routine Friday Upgrade Grounded Every Flight in the US. Here's What Every Team Should Take From It",
+    "desc": "<p>On Friday, November 13, every departing flight in the United States was held on the ground for about four hours. More than 8,000 flights ",
+    "link": "https://dev.to/sergheipogor/a-routine-friday-upgrade-grounded-every-flight-in-the-us-heres-what-every-team-should-take-from-it-o9b",
     "topic": "general"
   },
   {
-    "title": "My Docker Image Went From 1.79 GB to 246 MB (4 Steps, Measured)",
-    "desc": "<p>A tiny Express + TypeScript API had a <strong>1.79 GB</strong> Docker image. After four changes it's <strong>246 MB</strong>, rebuilds ab",
-    "link": "https://dev.to/refactorly/my-docker-image-went-from-179-gb-to-246-mb-4-steps-measured-49g0",
-    "topic": "docker"
-  },
-  {
-    "title": "Git 3.0 Is Coming: master main, SHA-256, reftable and What Breaks",
-    "desc": "<p>Git 3.0 will be the first major Git version since Git 2.0 in 2014. It changes the default branch name and the hash behind every commit, a",
-    "link": "https://dev.to/refactorly/git-30-is-coming-master-main-sha-256-reftable-and-what-breaks-3hc9",
+    "title": "From 2\u20133 days to 30 minutes: an internal IaC platform with Terragrunt stacks",
+    "desc": "<h2>\n  \n  \n  From 2\u20133 days to 30 minutes: an internal IaC platform with Terragrunt stacks\n</h2>\n\n<p>A new team needed an AWS environment: an",
+    "link": "https://dev.to/mher_poghosyan/from-2-3-days-to-30-minutes-an-internal-iac-platform-with-terragrunt-stacks-4ibi",
     "topic": "general"
   }
 ]
