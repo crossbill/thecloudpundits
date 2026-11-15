@@ -1,50 +1,50 @@
 [
   {
-    "title": "GitHub Actions test sharding: how many shards actually pay",
-    "desc": "<p>GitHub Actions test sharding trades money for wall clock, and it stops paying at a point you can calculate from two numbers you already h",
-    "link": "https://dev.to/kalemi/github-actions-test-sharding-how-many-shards-actually-pay-4e0c",
+    "title": "actions/setup-node node version file does not exist, and where it looked",
+    "desc": "<p>When setup-node node version file does not exist, the action is telling you the absolute path it looked at, and that path was built by jo",
+    "link": "https://dev.to/kalemi/actionssetup-node-node-version-file-does-not-exist-and-where-it-looked-489d",
     "topic": "general"
   },
   {
-    "title": "Docker OCI runtime exec failed",
-    "desc": "<p>Docker OCI runtime exec failed comes from <code>docker exec</code>, not from starting a container, so to fix docker exec failures you loo",
-    "link": "https://dev.to/kalemi/docker-oci-runtime-exec-failed-32c1",
+    "title": "grok-bot might be staying online for good now.",
+    "desc": "<p>grok-bot might be staying online for good now.</p>\n\n<p>People on the Cursor forum have been complaining that the grok-bot machine auto-sl",
+    "link": "https://dev.to/haoyi/grok-bot-might-be-staying-online-for-good-now-4g9a",
+    "topic": "general"
+  },
+  {
+    "title": "git-auto-commit nothing to commit is two different sentences",
+    "desc": "<p>git-auto-commit nothing to commit is a line the action prints itself, and it is not the line git prints. The action writes <code>Working ",
+    "link": "https://dev.to/kalemi/git-auto-commit-nothing-to-commit-is-two-different-sentences-539a",
+    "topic": "general"
+  },
+  {
+    "title": "docker/build-push-action failed to solve, and what a missing buildx really prints",
+    "desc": "<p>docker/build-push-action failed to solve is BuildKit reporting that a build it was asked to run did not complete, wrapped once on its way",
+    "link": "https://dev.to/kalemi/dockerbuild-push-action-failed-to-solve-and-what-a-missing-buildx-really-prints-1c9n",
     "topic": "docker"
   },
   {
-    "title": "ERR_PNPM_OUTDATED_LOCKFILE in GitHub Actions",
-    "desc": "<p>ERR_PNPM_OUTDATED_LOCKFILE in GitHub Actions means pnpm ran a frozen install, compared pnpm-lock.yaml against every package.json it can s",
-    "link": "https://dev.to/kalemi/errpnpmoutdatedlockfile-in-github-actions-dmi",
+    "title": "Claude Code vs Cursor vs Windsurf: The Best AI Coding Agent in 2026",
+    "desc": "<p>The AI coding agent space has exploded in 2026, and three tools dominate the conversation: Claude Code (Anthropic's terminal-based agent)",
+    "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/claude-code-vs-cursor-vs-windsurf-the-best-ai-coding-agent-in-2026-k05",
+    "topic": "anthropic"
+  },
+  {
+    "title": "GitHub Actions workflow not triggering: three different states",
+    "desc": "<p>A GitHub Actions workflow not triggering is three different situations wearing one description, and the first thing to establish is wheth",
+    "link": "https://dev.to/kalemi/github-actions-workflow-not-triggering-three-different-states-4b98",
     "topic": "general"
   },
   {
-    "title": "Depot vs Blacksmith Docker cache for GitHub Actions builds",
-    "desc": "<p>The depot vs blacksmith docker cache question is really one about geography: Depot keeps your layers on a remote BuildKit builder with it",
-    "link": "https://dev.to/kalemi/depot-vs-blacksmith-docker-cache-for-github-actions-builds-ibe",
-    "topic": "docker"
-  },
-  {
-    "title": "GitHub Actions on section missing from a workflow file",
-    "desc": "<p>A GitHub Actions on section missing from a workflow file fails with \"No event triggers defined in <code>on</code>\", a message with no lin",
-    "link": "https://dev.to/kalemi/github-actions-on-section-missing-from-a-workflow-file-3619",
+    "title": "GitHub Actions composite action inputs not passed to run steps",
+    "desc": "<p>GitHub Actions composite action inputs not passed is almost always the same mistake, and it is a mistake about the runner rather than abo",
+    "link": "https://dev.to/kalemi/github-actions-composite-action-inputs-not-passed-to-run-steps-24d",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions Importer: what it converts and what it leaves for you",
-    "desc": "<p>GitHub Actions Importer is a GitHub CLI extension, <code>gh actions-importer</code>, that runs in Docker and converts pipelines from Azur",
-    "link": "https://dev.to/kalemi/github-actions-importer-what-it-converts-and-what-it-leaves-for-you-54i5",
-    "topic": "general"
-  },
-  {
-    "title": "Your 1M-Context Model Is Wasted on Sloppy Instruc",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/honeykiran/your-1m-context-model-is-wasted-on-sloppy-instruc-m4n",
-    "topic": "general"
-  },
-  {
-    "title": "Ephemeral runners explained: one job per machine, and what changes",
-    "desc": "<p>Ephemeral runners execute exactly one GitHub Actions job and are then destroyed, so nothing a job does can be observed by the job after i",
-    "link": "https://dev.to/kalemi/ephemeral-runners-explained-one-job-per-machine-and-what-changes-2hm7",
+    "title": "GitHub Actions Dependencies lock file is not found in setup-node",
+    "desc": "<p>A GitHub Actions Dependencies lock file is not found error is <code>actions/setup-node</code> refusing to guess: with <code>cache</code> ",
+    "link": "https://dev.to/kalemi/github-actions-dependencies-lock-file-is-not-found-in-setup-node-4keo",
     "topic": "general"
   }
 ]
