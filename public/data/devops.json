@@ -1,50 +1,50 @@
 [
   {
-    "title": "Logging pipeline runs without noise #1ha27",
-    "desc": "<p>Store one structured record per run with durations and statuses, then aggregate p50/p95 instead of scanning raw logs.</p>\n\n\n\n\n<h3>\n  \n  \n",
-    "link": "https://dev.to/devnote2319/logging-pipeline-runs-without-noise-1ha27-458o",
+    "title": "GitHub Actions test sharding: how many shards actually pay",
+    "desc": "<p>GitHub Actions test sharding trades money for wall clock, and it stops paying at a point you can calculate from two numbers you already h",
+    "link": "https://dev.to/kalemi/github-actions-test-sharding-how-many-shards-actually-pay-4e0c",
     "topic": "general"
   },
   {
-    "title": "A 24-Line Script That Tells You When a Model Shutdown Date Moves",
-    "desc": "<p><strong>Between Friday and Saturday morning, Microsoft moved <code>claude-haiku-4-5</code> on Foundry from November 15, 2026 to February ",
-    "link": "https://dev.to/nabil_since_dev/a-24-line-script-that-tells-you-when-a-model-shutdown-date-moves-5f46",
+    "title": "Docker OCI runtime exec failed",
+    "desc": "<p>Docker OCI runtime exec failed comes from <code>docker exec</code>, not from starting a container, so to fix docker exec failures you loo",
+    "link": "https://dev.to/kalemi/docker-oci-runtime-exec-failed-32c1",
+    "topic": "docker"
+  },
+  {
+    "title": "ERR_PNPM_OUTDATED_LOCKFILE in GitHub Actions",
+    "desc": "<p>ERR_PNPM_OUTDATED_LOCKFILE in GitHub Actions means pnpm ran a frozen install, compared pnpm-lock.yaml against every package.json it can s",
+    "link": "https://dev.to/kalemi/errpnpmoutdatedlockfile-in-github-actions-dmi",
     "topic": "general"
   },
   {
-    "title": "\"Never expire\" log groups: what survives when you delete a Lambda, and the account-level retention AWS added this week",
-    "desc": "<p>The <a href=\"https://controlcloud.dev/en/blog/que-sobrevive-cuando-borras-una-vm-discos-ips-snapshots?utm_source=devto&utm_medium=referra",
-    "link": "https://dev.to/gonzalogjuka/never-expire-log-groups-what-survives-when-you-delete-a-lambda-and-the-account-level-retention-5flk",
-    "topic": "aws"
+    "title": "Depot vs Blacksmith Docker cache for GitHub Actions builds",
+    "desc": "<p>The depot vs blacksmith docker cache question is really one about geography: Depot keeps your layers on a remote BuildKit builder with it",
+    "link": "https://dev.to/kalemi/depot-vs-blacksmith-docker-cache-for-github-actions-builds-ibe",
+    "topic": "docker"
   },
   {
-    "title": "Log groups \"Never expire\": o que sobrevive quando voc\u00ea apaga uma Lambda e a reten\u00e7\u00e3o por conta que a AWS lan\u00e7ou esta semana",
-    "desc": "<p>A <a href=\"https://controlcloud.dev/pt/blog/que-sobrevive-cuando-borras-una-vm-discos-ips-snapshots?utm_source=devto&utm_medium=referral&",
-    "link": "https://dev.to/gonzalogjuka/log-groups-never-expire-o-que-sobrevive-quando-voce-apaga-uma-lambda-e-a-retencao-por-conta-que-450p",
-    "topic": "aws"
-  },
-  {
-    "title": "Log groups \"Never expire\": lo que sobrevive cuando borr\u00e1s una Lambda y la retenci\u00f3n por cuenta que AWS sum\u00f3 esta semana",
-    "desc": "<p>La <a href=\"https://controlcloud.dev/blog/que-sobrevive-cuando-borras-una-vm-discos-ips-snapshots?utm_source=devto&utm_medium=referral&ut",
-    "link": "https://dev.to/gonzalogjuka/log-groups-never-expire-lo-que-sobrevive-cuando-borras-una-lambda-y-la-retencion-por-cuenta-que-46gb",
-    "topic": "aws"
-  },
-  {
-    "title": "Next.js Server Actions bodySizeLimit: Raising Isn't Enough",
-    "desc": "<h2>\n  \n  \n  Conclusion\n</h2>\n\n<p><strong>When a Next.js Server Action's request body exceeds <code>serverActions.bodySizeLimit</code> (1MB ",
-    "link": "https://dev.to/cometakaito/nextjs-server-actions-bodysizelimit-raising-isnt-enough-2a3k",
+    "title": "GitHub Actions on section missing from a workflow file",
+    "desc": "<p>A GitHub Actions on section missing from a workflow file fails with \"No event triggers defined in <code>on</code>\", a message with no lin",
+    "link": "https://dev.to/kalemi/github-actions-on-section-missing-from-a-workflow-file-3619",
     "topic": "general"
   },
   {
-    "title": "A Routine Friday Upgrade Grounded Every Flight in the US. Here's What Every Team Should Take From It",
-    "desc": "<p>On Friday, November 13, every departing flight in the United States was held on the ground for about four hours. More than 8,000 flights ",
-    "link": "https://dev.to/sergheipogor/a-routine-friday-upgrade-grounded-every-flight-in-the-us-heres-what-every-team-should-take-from-it-o9b",
+    "title": "GitHub Actions Importer: what it converts and what it leaves for you",
+    "desc": "<p>GitHub Actions Importer is a GitHub CLI extension, <code>gh actions-importer</code>, that runs in Docker and converts pipelines from Azur",
+    "link": "https://dev.to/kalemi/github-actions-importer-what-it-converts-and-what-it-leaves-for-you-54i5",
     "topic": "general"
   },
   {
-    "title": "From 2\u20133 days to 30 minutes: an internal IaC platform with Terragrunt stacks",
-    "desc": "<h2>\n  \n  \n  From 2\u20133 days to 30 minutes: an internal IaC platform with Terragrunt stacks\n</h2>\n\n<p>A new team needed an AWS environment: an",
-    "link": "https://dev.to/mher_poghosyan/from-2-3-days-to-30-minutes-an-internal-iac-platform-with-terragrunt-stacks-4ibi",
+    "title": "Your 1M-Context Model Is Wasted on Sloppy Instruc",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/honeykiran/your-1m-context-model-is-wasted-on-sloppy-instruc-m4n",
+    "topic": "general"
+  },
+  {
+    "title": "Ephemeral runners explained: one job per machine, and what changes",
+    "desc": "<p>Ephemeral runners execute exactly one GitHub Actions job and are then destroyed, so nothing a job does can be observed by the job after i",
+    "link": "https://dev.to/kalemi/ephemeral-runners-explained-one-job-per-machine-and-what-changes-2hm7",
     "topic": "general"
   }
 ]
