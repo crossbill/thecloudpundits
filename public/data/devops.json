@@ -1,50 +1,50 @@
 [
   {
-    "title": "AI accelerates software development while challenging system stability",
-    "desc": "<p>Artificial intelligence tools now allow software developers to create features and generate code in mere minutes, but keeping that softwa",
-    "link": "https://dev.to/vpodk/ai-accelerates-software-development-while-challenging-system-stability-2o27",
+    "title": "BotGauge is live, go break your AI agent before your users do",
+    "desc": "<p>Here's the uncomfortable truth about AI agents:</p>\n\n<p>They pass every test you write.<br />\nThen a real user rephrases one question\u2026 an",
+    "link": "https://dev.to/vivek_1122/botgauge-is-live-go-break-your-ai-agent-before-your-users-do-2jn",
     "topic": "general"
   },
   {
-    "title": "Cloudflare Measures the Markdown It Serves to AI Agents",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Markdown for Agents is a Cloudflare network feature that converts an HTML page into Markdown when a clien",
-    "link": "https://dev.to/neticslabs/cloudflare-measures-the-markdown-it-serves-to-ai-agents-3e4i",
+    "title": "MCP Servers Explained With a Valet Key: What an AI Agent Can Actually Do to Your Cloud",
+    "desc": "<p>You pull up to a hotel and hand your car to the valet. You don't hand over your house keys, your garage remote, and the code to your safe",
+    "link": "https://dev.to/noahcontrolplane/mcp-servers-explained-with-a-valet-key-what-an-ai-agent-can-actually-do-to-your-cloud-o3o",
     "topic": "general"
   },
   {
-    "title": "GitHub Actions Workflow Lockfile: Pin Transitive Deps",
-    "desc": "<p>GitHub just made workflow lockfiles generally available, and the <code>gh actions-lock</code> command finally answers a question that SHA",
-    "link": "https://dev.to/mudassirworks/github-actions-workflow-lockfile-pin-transitive-deps-b13",
+    "title": "Depot vs Celesto CI: what are you paying for?",
+    "desc": "<p>I build <a href=\"https://celesto.ai/ci\" rel=\"noopener noreferrer\">Celesto CI</a>. Depot and Celesto both let you keep GitHub Actions whil",
+    "link": "https://dev.to/aniketmaurya/depot-vs-celesto-ci-what-are-you-paying-for-4mnb",
     "topic": "general"
   },
   {
-    "title": "De 360 formas de escribir un archivo, s\u00f3lo una escribe",
-    "desc": "<p><strong>Origen de las cifras:</strong> la tabla viaja dentro de la p\u00e1gina publicada; cualquiera puede abrirla y contar.</p>\n\n\n\n\n<h2>\n  \n ",
-    "link": "https://dev.to/alexisromtz7/de-360-formas-de-escribir-un-archivo-solo-una-escribe-mif",
+    "title": "drizzle-kit generate Duplicate ADD COLUMN: Stale Snapshot",
+    "desc": "<p>If a column addition isn't reflected in the drizzle snapshot, the next <code>drizzle-kit generate</code> re-emits an <code>ADD COLUMN</co",
+    "link": "https://dev.to/cometakaito/drizzle-kit-generate-duplicate-add-column-stale-snapshot-9k2",
     "topic": "general"
   },
   {
-    "title": "Cursor Confirms a Stolen Fireworks Key Let Attackers Ship a Backdoored Claude Code Extension to 5,000 Developers",
-    "desc": "<h1>\n  \n  \n  Cursor Confirms a Stolen Fireworks Key Let Attackers Ship a Backdoored Claude Code Extension to 5,000 Developers\n</h1>\n\n<p><em>",
-    "link": "https://dev.to/paullovelace/cursor-confirms-a-stolen-fireworks-key-let-attackers-ship-a-backdoored-claude-code-extension-to-gaa",
-    "topic": "anthropic"
+    "title": "Cassandra como c\u00f3digo: Astra DB + Render con Terraform y un pipeline de GitHub Actions que prueba contra Cassandra real",
+    "desc": "<blockquote>\n<p><strong>TL;DR</strong> \u2014 Una base de datos en la nube no deber\u00eda crearse a mano. En este art\u00edculo describo c\u00f3mo <strong>Terr",
+    "link": "https://dev.to/adriansalasepis/cassandra-como-codigo-astra-db-render-con-terraform-y-un-pipeline-de-github-actions-que-prueba-7jg",
+    "topic": "terraform"
   },
   {
-    "title": "Windows GUI check \u2014 published sentinel-ir-mcp 0.5.9. The No-Login Paradox 2",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/jackymencz/windows-gui-check-published-sentinel-ir-mcp-059-4d15",
-    "topic": "general"
+    "title": "Deploying a Flask API to Kubernetes with KIND and Argo CD",
+    "desc": "<p>After containerizing the Task Management API and working on its CI/CD pipeline, the next stage of my DevOps capstone was learning how to ",
+    "link": "https://dev.to/edith_ogechiodo_48a0e8ed/deploying-a-flask-api-to-kubernetes-with-kind-and-argo-cd-52fi",
+    "topic": "kubernetes"
   },
   {
-    "title": "Human-in-the-loop at 3 a.m. is a rubber stamp",
-    "desc": "<p>03:12. A message in the incident channel: \"Agent wants to roll back payments-api to v2.13. Approve?\"</p>\n\n<p>A thumbs up emoji. Two secon",
-    "link": "https://dev.to/sauravniraula/human-in-the-loop-at-3-am-is-a-rubber-stamp-gaa",
-    "topic": "general"
+    "title": "Building a CI/CD Pipeline with GitHub Actions and Trivy for a Dockerized Flask API",
+    "desc": "<p>After containerizing the Task Management API, the next stage of my DevOps capstone was automating the application build and delivery proc",
+    "link": "https://dev.to/edith_ogechiodo_48a0e8ed/building-a-cicd-pipeline-with-github-actions-and-trivy-for-a-dockerized-flask-api-cg9",
+    "topic": "docker"
   },
   {
-    "title": "Your on-call agent doesn't need memory. It needs receipts.",
-    "desc": "<p>At 02:47 my agent said: \"We already tried increasing the pool size. It didn't help.\"</p>\n\n<p>I believed it for about ninety seconds. Then",
-    "link": "https://dev.to/sauravniraula/your-on-call-agent-doesnt-need-memory-it-needs-receipts-1pd3",
+    "title": "My QA Bot Left a $1.99 Unpaid Checkout Every 30 Minutes",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://meridianbuild.dev/blog/qa-bot-unpaid-checkout-every-30-minutes/\" rel=\"noopener nore",
+    "link": "https://dev.to/marcoblch/my-qa-bot-left-a-199-unpaid-checkout-every-30-minutes-5cn1",
     "topic": "general"
   }
 ]
