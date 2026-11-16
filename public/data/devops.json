@@ -1,50 +1,50 @@
 [
   {
-    "title": "Automated SSH Configuration Drift Remediation on AWS Using Ansible, SSM, and Terraform",
-    "desc": "<h2>\n  \n  \n  Introduction:\n</h2>\n\n<p><strong>Why SSH Configuration Drift Is a Real Security Risk</strong></p>\n\n<p>Security in cloud environm",
-    "link": "https://dev.to/aws-builders/automated-ssh-configuration-drift-remediation-on-aws-using-ansible-ssm-and-terraform-2aa2",
+    "title": "Still chasing timesheets every Friday?",
+    "desc": "<p>Still chasing timesheets every Friday? <br />\nA little Monday tip before your next Friday rush: There's still time to try something bette",
+    "link": "https://dev.to/orbiscend/still-chasing-timesheets-every-friday-4hcl",
+    "topic": "general"
+  },
+  {
+    "title": "Humanize Kimi Output with Deno: A Prometheus Alert Annotation Linter + 5 Free Tools (2026)",
+    "desc": "<p><em>Tested 2026-11-16. Disclosure: I work on UnAIMyText, and the #3 spot in the tool list is my own ranking. Copy and modify the linter h",
+    "link": "https://dev.to/unaimytext_app/humanize-kimi-output-with-deno-a-prometheus-alert-annotation-linter-5-free-tools-2026-3hom",
+    "topic": "general"
+  },
+  {
+    "title": "Behind the allowlist, except the migration, the scheduler and the image",
+    "desc": "<p>On October 18, I typed this into my Claude Code session: \"Normally, everything is behind the allowlist.\" Nothing had been deployed since ",
+    "link": "https://dev.to/pierrelaurentmedori/behind-the-allowlist-except-the-migration-the-scheduler-and-the-image-2pbn",
+    "topic": "general"
+  },
+  {
+    "title": "WordPress Redis Object Cache Kurulumu ile Veritaban\u0131 H\u0131zland\u0131rma",
+    "desc": "<p><strong>WordPress Redis Object Cache Kurulumu ile Veritaban\u0131 H\u0131zland\u0131rma</strong> konusunda kurumsal bir WordPress web sitesine sahipseni",
+    "link": "https://dev.to/wordpressuzmani/wordpress-redis-object-cache-kurulumu-ile-veritabani-hizlandirma-1g5g",
+    "topic": "general"
+  },
+  {
+    "title": "AWS CloudTrail: See Who Did What in Your AWS Account",
+    "desc": "<p>Last time I set up an alarm to be told when something goes wrong. The next question is different: <strong>who did what in my account?</st",
+    "link": "https://dev.to/robinsishodia/aws-cloudtrail-see-who-did-what-in-your-aws-account-59ai",
     "topic": "aws"
   },
   {
-    "title": "Choosing a Self-Hosted Project Planning Tool: A Practitioner\u2019s Guide",
-    "desc": "<p>Choosing a self-hosted project planning tool means evaluating more than where it runs. You also need to decide who will operate it, which",
-    "link": "https://dev.to/benjamingrimes/choosing-a-self-hosted-project-planning-tool-a-practitioners-guide-5hih",
+    "title": "Stop letting audits freeze your release cycle \ud83d\uded1",
+    "desc": "<p>Every audit cycle, senior engineers stop building product features to manually export logs, pull PR histories, and take configuration scr",
+    "link": "https://dev.to/upsun/stop-letting-audits-freeze-your-release-cycle-5d8n",
     "topic": "general"
   },
   {
-    "title": "Clean Codebase Handover: Runbooks, Secrets, Zero Lock-In",
-    "desc": "<p>Most vendor lock-in is not in the contract. It is in the things nobody wrote down: the DNS account only the agency can log into, the cron",
-    "link": "https://dev.to/muhammadalimughal/clean-codebase-handover-runbooks-secrets-zero-lock-in-o82",
+    "title": "qwen3.5-4b on a 16 GB RTX 5060 Ti: 823 tokens per second for 16 users",
+    "desc": "<p>qwen3.5-4b is a 4-billion-parameter language model in the small (<8B) class. On the test machine it generates text <strong>21 times faste",
+    "link": "https://dev.to/elcances/qwen35-4b-on-a-16-gb-rtx-5060-ti-823-tokens-per-second-for-16-users-6i",
     "topic": "general"
   },
   {
-    "title": "Why Autonomous AI Coding Agents Need a Zero-Retention PR Review Engine & Cryptographic Flight Ledger",
-    "desc": "<p>Autonomous AI coding agents edit files, run shell commands, and push pull requests in seconds. But when an autonomous agent is given term",
-    "link": "https://dev.to/gumgoom/why-autonomous-ai-coding-agents-need-a-zero-retention-pr-review-engine-cryptographic-flight-ledger-1bdm",
-    "topic": "general"
-  },
-  {
-    "title": "Why GitHub Actions warns about Node 20 when your project uses Node 24",
-    "desc": "<p><em>AI disclosure: An AI agent researched and wrote this article, created the test workflow, and operated GitHub to run it under a human-",
-    "link": "https://dev.to/adrna/why-github-actions-warns-about-node-20-when-your-project-uses-node-24-7d1",
-    "topic": "general"
-  },
-  {
-    "title": "I built a GitOps pipeline with Jenkins, ArgoCD and Terraform on EKS: how it works and what broke",
-    "desc": "<p>I wanted one project where a <code>git push</code> ends up as a running pod with no manual steps, then the same thing on real AWS. I buil",
-    "link": "https://dev.to/robinsishodia/i-built-a-gitops-pipeline-with-jenkins-argocd-and-terraform-on-eks-how-it-works-and-what-broke-5gof",
-    "topic": "terraform"
-  },
-  {
-    "title": "AWS Savings Plans vs. Reserved Instances in 2026: The Engineering Decision Matrix",
-    "desc": "<p>As cloud compute workloads scale across AWS EC2, EKS, and serverless environments, reducing unit compute rates becomes a top priority for",
-    "link": "https://dev.to/finopsblueprint/aws-savings-plans-vs-reserved-instances-in-2026-the-engineering-decision-matrix-4j93",
-    "topic": "aws"
-  },
-  {
-    "title": "du -sh | sort -rn Picked an 884K Camera Folder Over a 12M One: sort -n Reads the Digits, Not the Unit",
-    "desc": "<p>A cleanup job for a phone camera needs to know which folder of clips is using the most space, so it can prune that one first. The usual o",
-    "link": "https://dev.to/superfunicular/du-sh-sort-rn-picked-an-884k-camera-folder-over-a-12m-one-sort-n-reads-the-digits-not-the-3ihd",
+    "title": "Deploying new Temporal workflow code while workflows are running",
+    "desc": "<p>A Temporal workflow can run for minutes, days or months, and the code behind it will change while it runs. Temporal's answer is that work",
+    "link": "https://dev.to/remdore/deploying-new-temporal-workflow-code-while-workflows-are-running-4150",
     "topic": "general"
   }
 ]

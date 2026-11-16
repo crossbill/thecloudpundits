@@ -1,5 +1,41 @@
 [
   {
+    "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
+    "desc": "<p>Kaspersky suspects exploitation of Telegram\u2019s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims.",
+    "link": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+    "topic": "general"
+  },
+  {
+    "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+    "desc": "<p>Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges.</p>\n<p>The post <a ",
+    "link": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
+    "desc": "<p>Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted.</p>\n<p",
+    "link": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
+    "topic": "aws"
+  },
+  {
+    "title": "Uber Data Breach Impacts 150,000 People",
+    "desc": "<p>Hackers compromised a third-party services provider and stole names, addresses, and driver\u2019s license numbers.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
+    "topic": "secops"
+  },
+  {
+    "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+    "desc": "<p>Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6.</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
+    "topic": "secops"
+  },
+  {
+    "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+    "desc": "<p>Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages.</p>\n<",
+    "link": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
+    "topic": "azure"
+  },
+  {
     "title": "Pentagon Renames CDAO \u2018Super Intelligence Office\u2019",
     "desc": "<p>The move follows President Trump\u2019s order to replace \u201cartificial intelligence\u201d with \u201csuper intelligence\u201d in executive branch communication",
     "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
@@ -10,41 +46,5 @@
     "desc": "<p>The directive protects smartphones as part of a person\u2019s private sphere and requires \u201cfree and informed consent\u201d for such access, the aut",
     "link": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
     "topic": "general"
-  },
-  {
-    "title": "Is AI Making Us Worse at Cybersecurity?",
-    "desc": "<p>Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there\u2019s no playbook.</",
-    "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
-    "topic": "secops"
-  },
-  {
-    "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
-    "desc": "<p>The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones.</p>\n<p",
-    "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
-    "topic": "general"
-  },
-  {
-    "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
-    "desc": "<p>Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.</p",
-    "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
-    "topic": "general"
-  },
-  {
-    "title": "FAA Ground Stop Issued Due to \u2018Extraordinary Circumstances\u2019",
-    "desc": "<p>Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack.</p>",
-    "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-    "topic": "general"
-  },
-  {
-    "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microso",
-    "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
-    "topic": "secops"
-  },
-  {
-    "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
-    "desc": "<p>Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using \u201ca measured approach to id",
-    "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
-    "topic": "azure"
   }
 ]
