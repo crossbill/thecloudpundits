@@ -1,50 +1,50 @@
 [
   {
-    "title": "Still chasing timesheets every Friday?",
-    "desc": "<p>Still chasing timesheets every Friday? <br />\nA little Monday tip before your next Friday rush: There's still time to try something bette",
-    "link": "https://dev.to/orbiscend/still-chasing-timesheets-every-friday-4hcl",
+    "title": "A download archive needs a restart policy",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/prodbymarcu/a-download-archive-needs-a-restart-policy-4e5g",
     "topic": "general"
   },
   {
-    "title": "Humanize Kimi Output with Deno: A Prometheus Alert Annotation Linter + 5 Free Tools (2026)",
-    "desc": "<p><em>Tested 2026-11-16. Disclosure: I work on UnAIMyText, and the #3 spot in the tool list is my own ranking. Copy and modify the linter h",
-    "link": "https://dev.to/unaimytext_app/humanize-kimi-output-with-deno-a-prometheus-alert-annotation-linter-5-free-tools-2026-3hom",
+    "title": "Cloud Deployment Guide",
+    "desc": "<p>Deploying Dockerized applications to cloud platforms involves containerization, image creation, and service deployment, ensuring scalabil",
+    "link": "https://dev.to/muhammad_zeeshan_c5b0bf5b/cloud-deployment-guide-4ggg",
     "topic": "general"
   },
   {
-    "title": "Behind the allowlist, except the migration, the scheduler and the image",
-    "desc": "<p>On October 18, I typed this into my Claude Code session: \"Normally, everything is behind the allowlist.\" Nothing had been deployed since ",
-    "link": "https://dev.to/pierrelaurentmedori/behind-the-allowlist-except-the-migration-the-scheduler-and-the-image-2pbn",
+    "title": "Long-Lived Infrastructure, GitOps, and Rolling Updates (2026): How Each Layer Rolls and Which Stack to Use",
+    "desc": "<p>No single tool manages long-lived infrastructure, GitOps workflows, and rolling updates equally well, so most teams combine an infrastruc",
+    "link": "https://dev.to/noahcontrolplane/long-lived-infrastructure-gitops-and-rolling-updates-2026-how-each-layer-rolls-and-which-stack-41k0",
     "topic": "general"
   },
   {
-    "title": "WordPress Redis Object Cache Kurulumu ile Veritaban\u0131 H\u0131zland\u0131rma",
-    "desc": "<p><strong>WordPress Redis Object Cache Kurulumu ile Veritaban\u0131 H\u0131zland\u0131rma</strong> konusunda kurumsal bir WordPress web sitesine sahipseni",
-    "link": "https://dev.to/wordpressuzmani/wordpress-redis-object-cache-kurulumu-ile-veritabani-hizlandirma-1g5g",
+    "title": "SPF ~all vs -all: which one to publish, and what DMARC does with each",
+    "desc": "<p>The last mechanism in an SPF record decides what a receiver is told to do with mail from a sender you did not list:<br />\n</p>\n\n<div clas",
+    "link": "https://dev.to/mogley1011/spf-all-vs-all-which-one-to-publish-and-what-dmarc-does-with-each-11fg",
     "topic": "general"
   },
   {
-    "title": "AWS CloudTrail: See Who Did What in Your AWS Account",
-    "desc": "<p>Last time I set up an alarm to be told when something goes wrong. The next question is different: <strong>who did what in my account?</st",
-    "link": "https://dev.to/robinsishodia/aws-cloudtrail-see-who-did-what-in-your-aws-account-59ai",
-    "topic": "aws"
-  },
-  {
-    "title": "Stop letting audits freeze your release cycle \ud83d\uded1",
-    "desc": "<p>Every audit cycle, senior engineers stop building product features to manually export logs, pull PR histories, and take configuration scr",
-    "link": "https://dev.to/upsun/stop-letting-audits-freeze-your-release-cycle-5d8n",
+    "title": "How to Run Your App Across Multiple Regions (2026): A Step-by-Step Plan, Building Blocks on Every Cloud, and Where State Lives",
+    "desc": "<p>To run an app across multiple regions, deploy the same stateless build to each region, put a global load balancer or DNS routing with hea",
+    "link": "https://dev.to/noahcontrolplane/how-to-run-your-app-across-multiple-regions-2026-a-step-by-step-plan-building-blocks-on-every-3djb",
     "topic": "general"
   },
   {
-    "title": "qwen3.5-4b on a 16 GB RTX 5060 Ti: 823 tokens per second for 16 users",
-    "desc": "<p>qwen3.5-4b is a 4-billion-parameter language model in the small (<8B) class. On the test machine it generates text <strong>21 times faste",
-    "link": "https://dev.to/elcances/qwen35-4b-on-a-16-gb-rtx-5060-ti-823-tokens-per-second-for-16-users-6i",
+    "title": "How to Standardize Deployment and Governance Across Dozens of Cloud Accounts: A Control-by-Cloud Matrix and What to Do First",
+    "desc": "<p>Standardize dozens of cloud accounts by putting every account under one organization hierarchy with automated account vending, preventive",
+    "link": "https://dev.to/noahcontrolplane/how-to-standardize-deployment-and-governance-across-dozens-of-cloud-accounts-a-control-by-cloud-1fkg",
     "topic": "general"
   },
   {
-    "title": "Deploying new Temporal workflow code while workflows are running",
-    "desc": "<p>A Temporal workflow can run for minutes, days or months, and the code behind it will change while it runs. Temporal's answer is that work",
-    "link": "https://dev.to/remdore/deploying-new-temporal-workflow-code-while-workflows-are-running-4150",
+    "title": "How to Take a Replit App to Production: Stay on Replit or Move Off, and What Has to Change Either Way",
+    "desc": "<p>You can take a Replit app to production by publishing it on Replit, which is the fastest path, or by exporting it to GitHub, containerizi",
+    "link": "https://dev.to/noahcontrolplane/how-to-take-a-replit-app-to-production-stay-on-replit-or-move-off-and-what-has-to-change-either-kbm",
+    "topic": "general"
+  },
+  {
+    "title": "How to Rotate Secrets in an App You Built With an AI Coding Tool: A Playbook by Secret Type",
+    "desc": "<p>Rotate a secret in an AI-built app by creating the new value at the provider, updating it everywhere the app reads it, redeploying, confi",
+    "link": "https://dev.to/noahcontrolplane/how-to-rotate-secrets-in-an-app-you-built-with-an-ai-coding-tool-a-playbook-by-secret-type-1040",
     "topic": "general"
   }
 ]

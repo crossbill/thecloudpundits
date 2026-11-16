@@ -1,5 +1,29 @@
 [
   {
+    "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
+    "desc": "<p>Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identi",
+    "link": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+    "topic": "general"
+  },
+  {
+    "title": "Cursor Supply Chain Attack Started at Fireworks AI",
+    "desc": "<p>The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code ext",
+    "link": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
+    "desc": "<p>It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
+    "topic": "general"
+  },
+  {
+    "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
+    "desc": "<p>Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks.</p>\n<p>The post <a h",
+    "link": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
+    "topic": "secops"
+  },
+  {
     "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
     "desc": "<p>Kaspersky suspects exploitation of Telegram\u2019s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims.",
     "link": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
@@ -22,29 +46,5 @@
     "desc": "<p>Hackers compromised a third-party services provider and stole names, addresses, and driver\u2019s license numbers.</p>\n<p>The post <a href=\"ht",
     "link": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
     "topic": "secops"
-  },
-  {
-    "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
-    "desc": "<p>Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
-    "topic": "secops"
-  },
-  {
-    "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
-    "desc": "<p>Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages.</p>\n<",
-    "link": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
-    "topic": "azure"
-  },
-  {
-    "title": "Pentagon Renames CDAO \u2018Super Intelligence Office\u2019",
-    "desc": "<p>The move follows President Trump\u2019s order to replace \u201cartificial intelligence\u201d with \u201csuper intelligence\u201d in executive branch communication",
-    "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-    "topic": "general"
-  },
-  {
-    "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
-    "desc": "<p>The directive protects smartphones as part of a person\u2019s private sphere and requires \u201cfree and informed consent\u201d for such access, the aut",
-    "link": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
-    "topic": "general"
   }
 ]
