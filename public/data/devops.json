@@ -1,50 +1,50 @@
 [
   {
-    "title": "BotGauge is live, go break your AI agent before your users do",
-    "desc": "<p>Here's the uncomfortable truth about AI agents:</p>\n\n<p>They pass every test you write.<br />\nThen a real user rephrases one question\u2026 an",
-    "link": "https://dev.to/vivek_1122/botgauge-is-live-go-break-your-ai-agent-before-your-users-do-2jn",
+    "title": "Automated SSH Configuration Drift Remediation on AWS Using Ansible, SSM, and Terraform",
+    "desc": "<h2>\n  \n  \n  Introduction:\n</h2>\n\n<p><strong>Why SSH Configuration Drift Is a Real Security Risk</strong></p>\n\n<p>Security in cloud environm",
+    "link": "https://dev.to/aws-builders/automated-ssh-configuration-drift-remediation-on-aws-using-ansible-ssm-and-terraform-2aa2",
+    "topic": "aws"
+  },
+  {
+    "title": "Choosing a Self-Hosted Project Planning Tool: A Practitioner\u2019s Guide",
+    "desc": "<p>Choosing a self-hosted project planning tool means evaluating more than where it runs. You also need to decide who will operate it, which",
+    "link": "https://dev.to/benjamingrimes/choosing-a-self-hosted-project-planning-tool-a-practitioners-guide-5hih",
     "topic": "general"
   },
   {
-    "title": "MCP Servers Explained With a Valet Key: What an AI Agent Can Actually Do to Your Cloud",
-    "desc": "<p>You pull up to a hotel and hand your car to the valet. You don't hand over your house keys, your garage remote, and the code to your safe",
-    "link": "https://dev.to/noahcontrolplane/mcp-servers-explained-with-a-valet-key-what-an-ai-agent-can-actually-do-to-your-cloud-o3o",
+    "title": "Clean Codebase Handover: Runbooks, Secrets, Zero Lock-In",
+    "desc": "<p>Most vendor lock-in is not in the contract. It is in the things nobody wrote down: the DNS account only the agency can log into, the cron",
+    "link": "https://dev.to/muhammadalimughal/clean-codebase-handover-runbooks-secrets-zero-lock-in-o82",
     "topic": "general"
   },
   {
-    "title": "Depot vs Celesto CI: what are you paying for?",
-    "desc": "<p>I build <a href=\"https://celesto.ai/ci\" rel=\"noopener noreferrer\">Celesto CI</a>. Depot and Celesto both let you keep GitHub Actions whil",
-    "link": "https://dev.to/aniketmaurya/depot-vs-celesto-ci-what-are-you-paying-for-4mnb",
+    "title": "Why Autonomous AI Coding Agents Need a Zero-Retention PR Review Engine & Cryptographic Flight Ledger",
+    "desc": "<p>Autonomous AI coding agents edit files, run shell commands, and push pull requests in seconds. But when an autonomous agent is given term",
+    "link": "https://dev.to/gumgoom/why-autonomous-ai-coding-agents-need-a-zero-retention-pr-review-engine-cryptographic-flight-ledger-1bdm",
     "topic": "general"
   },
   {
-    "title": "drizzle-kit generate Duplicate ADD COLUMN: Stale Snapshot",
-    "desc": "<p>If a column addition isn't reflected in the drizzle snapshot, the next <code>drizzle-kit generate</code> re-emits an <code>ADD COLUMN</co",
-    "link": "https://dev.to/cometakaito/drizzle-kit-generate-duplicate-add-column-stale-snapshot-9k2",
+    "title": "Why GitHub Actions warns about Node 20 when your project uses Node 24",
+    "desc": "<p><em>AI disclosure: An AI agent researched and wrote this article, created the test workflow, and operated GitHub to run it under a human-",
+    "link": "https://dev.to/adrna/why-github-actions-warns-about-node-20-when-your-project-uses-node-24-7d1",
     "topic": "general"
   },
   {
-    "title": "Cassandra como c\u00f3digo: Astra DB + Render con Terraform y un pipeline de GitHub Actions que prueba contra Cassandra real",
-    "desc": "<blockquote>\n<p><strong>TL;DR</strong> \u2014 Una base de datos en la nube no deber\u00eda crearse a mano. En este art\u00edculo describo c\u00f3mo <strong>Terr",
-    "link": "https://dev.to/adriansalasepis/cassandra-como-codigo-astra-db-render-con-terraform-y-un-pipeline-de-github-actions-que-prueba-7jg",
+    "title": "I built a GitOps pipeline with Jenkins, ArgoCD and Terraform on EKS: how it works and what broke",
+    "desc": "<p>I wanted one project where a <code>git push</code> ends up as a running pod with no manual steps, then the same thing on real AWS. I buil",
+    "link": "https://dev.to/robinsishodia/i-built-a-gitops-pipeline-with-jenkins-argocd-and-terraform-on-eks-how-it-works-and-what-broke-5gof",
     "topic": "terraform"
   },
   {
-    "title": "Deploying a Flask API to Kubernetes with KIND and Argo CD",
-    "desc": "<p>After containerizing the Task Management API and working on its CI/CD pipeline, the next stage of my DevOps capstone was learning how to ",
-    "link": "https://dev.to/edith_ogechiodo_48a0e8ed/deploying-a-flask-api-to-kubernetes-with-kind-and-argo-cd-52fi",
-    "topic": "kubernetes"
+    "title": "AWS Savings Plans vs. Reserved Instances in 2026: The Engineering Decision Matrix",
+    "desc": "<p>As cloud compute workloads scale across AWS EC2, EKS, and serverless environments, reducing unit compute rates becomes a top priority for",
+    "link": "https://dev.to/finopsblueprint/aws-savings-plans-vs-reserved-instances-in-2026-the-engineering-decision-matrix-4j93",
+    "topic": "aws"
   },
   {
-    "title": "Building a CI/CD Pipeline with GitHub Actions and Trivy for a Dockerized Flask API",
-    "desc": "<p>After containerizing the Task Management API, the next stage of my DevOps capstone was automating the application build and delivery proc",
-    "link": "https://dev.to/edith_ogechiodo_48a0e8ed/building-a-cicd-pipeline-with-github-actions-and-trivy-for-a-dockerized-flask-api-cg9",
-    "topic": "docker"
-  },
-  {
-    "title": "My QA Bot Left a $1.99 Unpaid Checkout Every 30 Minutes",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://meridianbuild.dev/blog/qa-bot-unpaid-checkout-every-30-minutes/\" rel=\"noopener nore",
-    "link": "https://dev.to/marcoblch/my-qa-bot-left-a-199-unpaid-checkout-every-30-minutes-5cn1",
+    "title": "du -sh | sort -rn Picked an 884K Camera Folder Over a 12M One: sort -n Reads the Digits, Not the Unit",
+    "desc": "<p>A cleanup job for a phone camera needs to know which folder of clips is using the most space, so it can prune that one first. The usual o",
+    "link": "https://dev.to/superfunicular/du-sh-sort-rn-picked-an-884k-camera-folder-over-a-12m-one-sort-n-reads-the-digits-not-the-3ihd",
     "topic": "general"
   }
 ]
