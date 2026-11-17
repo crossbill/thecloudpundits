@@ -1,50 +1,50 @@
 [
   {
-    "title": "Setting up bulk app install and launch across a group of cloud phones before a release check",
-    "desc": "<p>I work with DuoPlus, and the thing I get asked about most by small QA teams isn't some fancy feature. It's this: \"How do I get the same b",
-    "link": "https://dev.to/growthmktg/setting-up-bulk-app-install-and-launch-across-a-group-of-cloud-phones-before-a-release-check-542i",
+    "title": "Daily Dose of DevOps \u2014 Supply chain security: for distributed engineering organizations",
+    "desc": "<h1>\n  \n  \n  Supply chain security: for distributed engineering organizations\n</h1>\n\n<p>Scale converts an informal convention into an outage",
+    "link": "https://dev.to/marco13moo/daily-dose-of-devops-supply-chain-security-for-distributed-engineering-organizations-50ik",
+    "topic": "secops"
+  },
+  {
+    "title": "Why your agent's taps miss accessibility tree vs vision vs coordinates",
+    "desc": "<p>Sometimes your agent is confident that it has tapped a certain button at (1054, 2051) but the message is still sitting in the text box, a",
+    "link": "https://dev.to/priya_negi_9ffd29931ea408/why-your-agents-taps-missaccessibility-tree-vs-vision-vs-coordinates-52ii",
     "topic": "general"
   },
   {
-    "title": "SaaS Application Development: Features, Architecture and Development Process",
-    "desc": "<h1>\n  \n  \n  <a href=\"https://mamotechnolabs.com/website-development\" rel=\"noopener noreferrer\">Designing a SaaS Application:</a> Core Featu",
-    "link": "https://dev.to/mamo_technolabs/saas-application-development-features-architecture-and-development-process-9gn",
+    "title": "Stop rebuilding the same pipelines: 14 CI/CD templates and the conventions behind them",
+    "desc": "<p>Every new repository starts the same way: someone copies the pipeline from the<br />\nprevious repo, edits a couple of lines, and moves on",
+    "link": "https://dev.to/ti_gg_043b3e06a4b7d5d0888/stop-rebuilding-the-same-pipelines-14-cicd-templates-and-the-conventions-behind-them-4p3j",
     "topic": "general"
   },
   {
-    "title": "What a Hermes Agent VPS actually costs per month (measured footprint, priced)",
-    "desc": "<p><em>Disclosure: written by an AI agent (yukichi / emotisa) that works alongside the Hermes Agent described here. AI-assisted; the measure",
-    "link": "https://dev.to/yukichi-emotisa/what-a-hermes-agent-vps-actually-costs-per-month-measured-footprint-priced-dk3",
+    "title": "Mbuild is finally released",
+    "desc": "<h2>\n  \n  \n  Mbuild is finally released 1.0.0\n</h2>\n\n<p>mbuild is a build tool that helps to manage large or small code bases, it is like ma",
+    "link": "https://dev.to/message-beast/mbuild-is-finally-released-knh",
     "topic": "general"
   },
   {
-    "title": "The Trust Store, Not the Server, Picks the Last Link",
-    "desc": "<p>When you ask \"is this certificate valid?\", you tend to look for the answer inside the<br />\ncertificate. The padlock in the browser reinf",
-    "link": "https://dev.to/merbayerp/the-trust-store-not-the-server-picks-the-last-link-136d",
-    "topic": "general"
-  },
-  {
-    "title": "Beyond \u201cPush to Deploy\u201d: Five Companies and the Engineering Behind Reliable GitOps",
-    "desc": "<p>A Git push can trigger a deployment. It cannot, by itself, prove that a customer can log in, complete a transaction, or connect an extern",
-    "link": "https://dev.to/mitch_07/beyond-push-to-deploy-five-companies-and-the-engineering-behind-reliable-gitops-18go",
-    "topic": "general"
-  },
-  {
-    "title": "Total Governance: When Your Approval Process Takes 3 Weeks, and the Outage Takes 3 Milliseconds",
-    "desc": "<p>Every enterprise eventually discovers the ultimate dream of middle management: <strong>Total Governance</strong>.</p>\n\n<p>Total Governanc",
-    "link": "https://dev.to/bigf_fellow/total-governance-when-your-approval-process-takes-3-weeks-and-the-outage-takes-3-milliseconds-1omi",
-    "topic": "general"
-  },
-  {
-    "title": "Why Do AI Agent Retries Still Break Idempotency in Production?",
-    "desc": "<p>Reading through today's engineering post-mortems on agent tool calls, two failure modes keep coming up in production systems:</p>\n\n<ol>\n<",
-    "link": "https://dev.to/kling4ai-production/why-do-ai-agent-retries-still-break-idempotency-in-production-4pmm",
-    "topic": "general"
-  },
-  {
-    "title": "Designing Safe Kubernetes Rollbacks When Stateful Changes Make Rollback Dangerous",
-    "desc": "<p>Originally Published in <a href=\"https://builder.aws.com/content/3MDnGtpMukH2JgVoEYV8dpiaBkv/designing-safe-kubernetes-rollbacks-when-sta",
-    "link": "https://dev.to/pradeep_kandepaneni/designing-safe-kubernetes-rollbacks-when-stateful-changes-make-rollback-dangerous-3a03",
+    "title": "Kubernetes DiskPressure: How to Find Which Pod Is Eating Your Node's Disk (Bottlerocket Included)",
+    "desc": "<p>Your pager goes off. A pod got evicted. You run <code>kubectl describe node</code> and there it is: <code>DiskPressure=True</code>.</p>\n\n",
+    "link": "https://dev.to/the-persistent-engineer/kubernetes-diskpressure-how-to-find-which-pod-is-eating-your-nodes-disk-bottlerocket-included-19db",
     "topic": "kubernetes"
+  },
+  {
+    "title": "Estrategia de Backup para Bases de Datos NoSQL con MongoDB Atlas, GitHub Actions y Render",
+    "desc": "<ul>\n<li>\n<strong>Repositorio:</strong> <a href=\"https://github.com/saulalvarado1/NoSQL-Backup-Strategy\" rel=\"noopener noreferrer\">https://g",
+    "link": "https://dev.to/saul_josealvaradourbano/estrategia-de-backup-para-bases-de-datos-nosql-con-mongodb-atlas-github-actions-y-render-1ne6",
+    "topic": "general"
+  },
+  {
+    "title": "AWS Config: Track Resource Changes and Check Compliance",
+    "desc": "<p>CloudTrail tells me who made a change. The next question is different: <strong>what did the resource look like before, and does it follow",
+    "link": "https://dev.to/robinsishodia/aws-config-track-resource-changes-and-check-compliance-1h46",
+    "topic": "aws"
+  },
+  {
+    "title": "DMARC p=none in 10 minutes, and what the Outlook fault taught us",
+    "desc": "<p>In early November 2026, a lot of perfectly ordinary email to <code>@outlook.com</code>, <code>@hotmail.com</code> and <code>@live.com</co",
+    "link": "https://dev.to/sendaro/dmarc-pnone-in-10-minutes-and-what-the-outlook-fault-taught-us-3nof",
+    "topic": "general"
   }
 ]

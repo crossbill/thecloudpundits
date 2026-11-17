@@ -1,50 +1,50 @@
 [
   {
-    "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
-    "desc": "<p>Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identi",
-    "link": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+    "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+    "desc": "<p>The company made the incident public on Monday, November 16, five days after filing a complaint with authorities.</p>\n<p>The post <a href",
+    "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+    "topic": "secops"
+  },
+  {
+    "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+    "desc": "<p>Card numbers, CVVs, expiration dates, and email addresses used at Fandango\u2019s ticketing checkout over four days in October may have been e",
+    "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
     "topic": "general"
   },
   {
-    "title": "Cursor Supply Chain Attack Started at Fireworks AI",
-    "desc": "<p>The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code ext",
-    "link": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
-    "topic": "secops"
-  },
-  {
-    "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
-    "desc": "<p>It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028.</p>\n<p>The post <a href",
-    "link": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
+    "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+    "desc": "<p>Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm.</p>\n<p>The post <a href=\"https://w",
+    "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
     "topic": "general"
   },
   {
-    "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
-    "desc": "<p>Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
-    "desc": "<p>Kaspersky suspects exploitation of Telegram\u2019s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims.",
-    "link": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+    "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+    "desc": "<p>More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
     "topic": "general"
   },
   {
-    "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
-    "desc": "<p>Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges.</p>\n<p>The post <a ",
-    "link": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+    "title": "Access Dental Management Data Breach Impacts Over 340,000",
+    "desc": "<p>Hackers breached Access Dental\u2019s network and stole personal, health, and insurance information.</p>\n<p>The post <a href=\"https://www.secu",
+    "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
     "topic": "secops"
   },
   {
-    "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
-    "desc": "<p>Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted.</p>\n<p",
-    "link": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
-    "topic": "aws"
+    "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
+    "desc": "<p>Led by NEA and supported by existing investors, the funding brings the company\u2019s valuation to $1 billion.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
+    "topic": "secops"
   },
   {
-    "title": "Uber Data Breach Impacts 150,000 People",
-    "desc": "<p>Hackers compromised a third-party services provider and stole names, addresses, and driver\u2019s license numbers.</p>\n<p>The post <a href=\"ht",
-    "link": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
-    "topic": "secops"
+    "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+    "desc": "<p>The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild.</p>\n<p>The post <a href=\"https",
+    "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
+    "topic": "general"
+  },
+  {
+    "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+    "desc": "<p>The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary s",
+    "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+    "topic": "openai"
   }
 ]
