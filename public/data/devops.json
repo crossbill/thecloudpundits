@@ -1,50 +1,50 @@
 [
   {
-    "title": "Daily Dose of DevOps \u2014 Supply chain security: for distributed engineering organizations",
-    "desc": "<h1>\n  \n  \n  Supply chain security: for distributed engineering organizations\n</h1>\n\n<p>Scale converts an informal convention into an outage",
-    "link": "https://dev.to/marco13moo/daily-dose-of-devops-supply-chain-security-for-distributed-engineering-organizations-50ik",
-    "topic": "secops"
+    "title": "What my clinical-trials site really costs on Azure: the bill, the 3.5 GB search VM, and the AI spend I forgot to measure",
+    "desc": "<p>I build <a href=\"https://hipa.ai\" rel=\"noopener noreferrer\">hipa.ai</a> alone. It's a clinical-trials search site: 608,221 trial records ",
+    "link": "https://dev.to/ogamaniuk/what-my-clinical-trials-site-really-costs-on-azure-the-bill-the-35-gb-search-vm-and-the-ai-3amg",
+    "topic": "azure"
   },
   {
-    "title": "Why your agent's taps miss accessibility tree vs vision vs coordinates",
-    "desc": "<p>Sometimes your agent is confident that it has tapped a certain button at (1054, 2051) but the message is still sitting in the text box, a",
-    "link": "https://dev.to/priya_negi_9ffd29931ea408/why-your-agents-taps-missaccessibility-tree-vs-vision-vs-coordinates-52ii",
+    "title": "How I secure a server, from first SSH access to the NSA guide",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>A new server exposed to the internet gets scanned within minutes by bots hunting for a weak password on port 22",
+    "link": "https://dev.to/dimsbuild/how-i-secure-a-server-from-first-ssh-access-to-the-nsa-guide-4dmn",
     "topic": "general"
   },
   {
-    "title": "Stop rebuilding the same pipelines: 14 CI/CD templates and the conventions behind them",
-    "desc": "<p>Every new repository starts the same way: someone copies the pipeline from the<br />\nprevious repo, edits a couple of lines, and moves on",
-    "link": "https://dev.to/ti_gg_043b3e06a4b7d5d0888/stop-rebuilding-the-same-pipelines-14-cicd-templates-and-the-conventions-behind-them-4p3j",
+    "title": "What your logs could not rule out: notes on Barracuda's 44-hour intrusion and GTIG's exploit_agent",
+    "desc": "<p>Two incident reports from mid-November are worth reading closely if you run cloud infrastructure, CI, or AI agents. We checked both again",
+    "link": "https://dev.to/veritaschain/what-your-logs-could-not-rule-out-notes-on-barracudas-44-hour-intrusion-and-gtigs-exploitagent-n5h",
     "topic": "general"
   },
   {
-    "title": "Mbuild is finally released",
-    "desc": "<h2>\n  \n  \n  Mbuild is finally released 1.0.0\n</h2>\n\n<p>mbuild is a build tool that helps to manage large or small code bases, it is like ma",
-    "link": "https://dev.to/message-beast/mbuild-is-finally-released-knh",
-    "topic": "general"
+    "title": "Pol\u00edtica de uso seguro de IA em engenharia: guardrails que impedem o agente de passar do ponto",
+    "desc": "<p>Nomes de empresa, contas e reposit\u00f3rios s\u00e3o placeholders. Use como base e adapte.</p>\n\n<h2>\n  \n  \n  O problema\n</h2>\n\n<p>As ferramentas d",
+    "link": "https://dev.to/aldeiacloud/politica-de-uso-seguro-de-ia-em-engenharia-guardrails-que-impedem-o-agente-de-passar-do-ponto-1fa6",
+    "topic": "guardrails"
   },
   {
-    "title": "Kubernetes DiskPressure: How to Find Which Pod Is Eating Your Node's Disk (Bottlerocket Included)",
-    "desc": "<p>Your pager goes off. A pod got evicted. You run <code>kubectl describe node</code> and there it is: <code>DiskPressure=True</code>.</p>\n\n",
-    "link": "https://dev.to/the-persistent-engineer/kubernetes-diskpressure-how-to-find-which-pod-is-eating-your-nodes-disk-bottlerocket-included-19db",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Estrategia de Backup para Bases de Datos NoSQL con MongoDB Atlas, GitHub Actions y Render",
-    "desc": "<ul>\n<li>\n<strong>Repositorio:</strong> <a href=\"https://github.com/saulalvarado1/NoSQL-Backup-Strategy\" rel=\"noopener noreferrer\">https://g",
-    "link": "https://dev.to/saul_josealvaradourbano/estrategia-de-backup-para-bases-de-datos-nosql-con-mongodb-atlas-github-actions-y-render-1ne6",
-    "topic": "general"
-  },
-  {
-    "title": "AWS Config: Track Resource Changes and Check Compliance",
-    "desc": "<p>CloudTrail tells me who made a change. The next question is different: <strong>what did the resource look like before, and does it follow",
-    "link": "https://dev.to/robinsishodia/aws-config-track-resource-changes-and-check-compliance-1h46",
+    "title": "AWS WorkSpaces Enhances Governance and Deployment for Enterprise AI Agents",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-workspaces-ai-agent-governance-deployment/?utm_source=d",
+    "link": "https://dev.to/pklavc/aws-workspaces-enhances-governance-and-deployment-for-enterprise-ai-agents-3452",
     "topic": "aws"
   },
   {
-    "title": "DMARC p=none in 10 minutes, and what the Outlook fault taught us",
-    "desc": "<p>In early November 2026, a lot of perfectly ordinary email to <code>@outlook.com</code>, <code>@hotmail.com</code> and <code>@live.com</co",
-    "link": "https://dev.to/sendaro/dmarc-pnone-in-10-minutes-and-what-the-outlook-fault-taught-us-3nof",
+    "title": "How to Connect On-Premises Systems to the Cloud (2026): VPN vs Direct Connect vs ExpressRoute vs Interconnect",
+    "desc": "<p>Connecting on-premises systems to a cloud platform takes two decisions, one about the network link and one about how you operate both sid",
+    "link": "https://dev.to/noahcontrolplane/how-to-connect-on-premises-systems-to-the-cloud-2026-vpn-vs-direct-connect-vs-expressroute-vs-d5a",
+    "topic": "general"
+  },
+  {
+    "title": "The Best Container Management and Networking Tools (2026): Where to Find Them, Tools by Layer, and How to Pick by Scale",
+    "desc": "<p>The best container management and networking tools are cataloged in the <a href=\"https://landscape.cncf.io/\" rel=\"noopener noreferrer\">CN",
+    "link": "https://dev.to/noahcontrolplane/the-best-container-management-and-networking-tools-2026-where-to-find-them-tools-by-layer-and-439c",
+    "topic": "docker"
+  },
+  {
+    "title": "Preview Environments for AI Coding Agents (2026): Which Platforms Support Them and How to Build One per PR",
+    "desc": "<p>Ephemeral preview environments for AI-assisted coding come from four kinds of platforms. Kubernetes with GitOps tooling such as Argo CD A",
+    "link": "https://dev.to/noahcontrolplane/preview-environments-for-ai-coding-agents-2026-which-platforms-support-them-and-how-to-build-one-29hg",
     "topic": "general"
   }
 ]
