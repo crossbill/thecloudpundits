@@ -1,50 +1,50 @@
 [
   {
-    "title": "A download archive needs a restart policy",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/prodbymarcu/a-download-archive-needs-a-restart-policy-4e5g",
+    "title": "Setting up bulk app install and launch across a group of cloud phones before a release check",
+    "desc": "<p>I work with DuoPlus, and the thing I get asked about most by small QA teams isn't some fancy feature. It's this: \"How do I get the same b",
+    "link": "https://dev.to/growthmktg/setting-up-bulk-app-install-and-launch-across-a-group-of-cloud-phones-before-a-release-check-542i",
     "topic": "general"
   },
   {
-    "title": "Cloud Deployment Guide",
-    "desc": "<p>Deploying Dockerized applications to cloud platforms involves containerization, image creation, and service deployment, ensuring scalabil",
-    "link": "https://dev.to/muhammad_zeeshan_c5b0bf5b/cloud-deployment-guide-4ggg",
+    "title": "SaaS Application Development: Features, Architecture and Development Process",
+    "desc": "<h1>\n  \n  \n  <a href=\"https://mamotechnolabs.com/website-development\" rel=\"noopener noreferrer\">Designing a SaaS Application:</a> Core Featu",
+    "link": "https://dev.to/mamo_technolabs/saas-application-development-features-architecture-and-development-process-9gn",
     "topic": "general"
   },
   {
-    "title": "Long-Lived Infrastructure, GitOps, and Rolling Updates (2026): How Each Layer Rolls and Which Stack to Use",
-    "desc": "<p>No single tool manages long-lived infrastructure, GitOps workflows, and rolling updates equally well, so most teams combine an infrastruc",
-    "link": "https://dev.to/noahcontrolplane/long-lived-infrastructure-gitops-and-rolling-updates-2026-how-each-layer-rolls-and-which-stack-41k0",
+    "title": "What a Hermes Agent VPS actually costs per month (measured footprint, priced)",
+    "desc": "<p><em>Disclosure: written by an AI agent (yukichi / emotisa) that works alongside the Hermes Agent described here. AI-assisted; the measure",
+    "link": "https://dev.to/yukichi-emotisa/what-a-hermes-agent-vps-actually-costs-per-month-measured-footprint-priced-dk3",
     "topic": "general"
   },
   {
-    "title": "SPF ~all vs -all: which one to publish, and what DMARC does with each",
-    "desc": "<p>The last mechanism in an SPF record decides what a receiver is told to do with mail from a sender you did not list:<br />\n</p>\n\n<div clas",
-    "link": "https://dev.to/mogley1011/spf-all-vs-all-which-one-to-publish-and-what-dmarc-does-with-each-11fg",
+    "title": "The Trust Store, Not the Server, Picks the Last Link",
+    "desc": "<p>When you ask \"is this certificate valid?\", you tend to look for the answer inside the<br />\ncertificate. The padlock in the browser reinf",
+    "link": "https://dev.to/merbayerp/the-trust-store-not-the-server-picks-the-last-link-136d",
     "topic": "general"
   },
   {
-    "title": "How to Run Your App Across Multiple Regions (2026): A Step-by-Step Plan, Building Blocks on Every Cloud, and Where State Lives",
-    "desc": "<p>To run an app across multiple regions, deploy the same stateless build to each region, put a global load balancer or DNS routing with hea",
-    "link": "https://dev.to/noahcontrolplane/how-to-run-your-app-across-multiple-regions-2026-a-step-by-step-plan-building-blocks-on-every-3djb",
+    "title": "Beyond \u201cPush to Deploy\u201d: Five Companies and the Engineering Behind Reliable GitOps",
+    "desc": "<p>A Git push can trigger a deployment. It cannot, by itself, prove that a customer can log in, complete a transaction, or connect an extern",
+    "link": "https://dev.to/mitch_07/beyond-push-to-deploy-five-companies-and-the-engineering-behind-reliable-gitops-18go",
     "topic": "general"
   },
   {
-    "title": "How to Standardize Deployment and Governance Across Dozens of Cloud Accounts: A Control-by-Cloud Matrix and What to Do First",
-    "desc": "<p>Standardize dozens of cloud accounts by putting every account under one organization hierarchy with automated account vending, preventive",
-    "link": "https://dev.to/noahcontrolplane/how-to-standardize-deployment-and-governance-across-dozens-of-cloud-accounts-a-control-by-cloud-1fkg",
+    "title": "Total Governance: When Your Approval Process Takes 3 Weeks, and the Outage Takes 3 Milliseconds",
+    "desc": "<p>Every enterprise eventually discovers the ultimate dream of middle management: <strong>Total Governance</strong>.</p>\n\n<p>Total Governanc",
+    "link": "https://dev.to/bigf_fellow/total-governance-when-your-approval-process-takes-3-weeks-and-the-outage-takes-3-milliseconds-1omi",
     "topic": "general"
   },
   {
-    "title": "How to Take a Replit App to Production: Stay on Replit or Move Off, and What Has to Change Either Way",
-    "desc": "<p>You can take a Replit app to production by publishing it on Replit, which is the fastest path, or by exporting it to GitHub, containerizi",
-    "link": "https://dev.to/noahcontrolplane/how-to-take-a-replit-app-to-production-stay-on-replit-or-move-off-and-what-has-to-change-either-kbm",
+    "title": "Why Do AI Agent Retries Still Break Idempotency in Production?",
+    "desc": "<p>Reading through today's engineering post-mortems on agent tool calls, two failure modes keep coming up in production systems:</p>\n\n<ol>\n<",
+    "link": "https://dev.to/kling4ai-production/why-do-ai-agent-retries-still-break-idempotency-in-production-4pmm",
     "topic": "general"
   },
   {
-    "title": "How to Rotate Secrets in an App You Built With an AI Coding Tool: A Playbook by Secret Type",
-    "desc": "<p>Rotate a secret in an AI-built app by creating the new value at the provider, updating it everywhere the app reads it, redeploying, confi",
-    "link": "https://dev.to/noahcontrolplane/how-to-rotate-secrets-in-an-app-you-built-with-an-ai-coding-tool-a-playbook-by-secret-type-1040",
-    "topic": "general"
+    "title": "Designing Safe Kubernetes Rollbacks When Stateful Changes Make Rollback Dangerous",
+    "desc": "<p>Originally Published in <a href=\"https://builder.aws.com/content/3MDnGtpMukH2JgVoEYV8dpiaBkv/designing-safe-kubernetes-rollbacks-when-sta",
+    "link": "https://dev.to/pradeep_kandepaneni/designing-safe-kubernetes-rollbacks-when-stateful-changes-make-rollback-dangerous-3a03",
+    "topic": "kubernetes"
   }
 ]
