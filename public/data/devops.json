@@ -1,50 +1,50 @@
 [
   {
-    "title": "Five of Five: Run It Again Before You Trust an Agent",
-    "desc": "<blockquote>\n<p>Cross-post of Insights #18. Canonical: <a href=\"https://sheikhwasim.com/insights/five-of-five-run-it-again-before-you-trust-",
-    "link": "https://dev.to/anciwasim/five-of-five-run-it-again-before-you-trust-an-agent-1kil",
+    "title": "supabase-js .range() Without .order() Drops Rows",
+    "desc": "<h2>\n  \n  \n  The short version\n</h2>\n\n<p><strong>Page with OFFSET/LIMIT using <code>.range()</code> alone, without <code>.order()</code> pin",
+    "link": "https://dev.to/cometakaito/supabase-js-range-without-order-drops-rows-5a6m",
     "topic": "general"
   },
   {
-    "title": "Daily Dose of DevOps \u2014 Log pipeline: across multiple cloud platforms",
-    "desc": "<h1>\n  \n  \n  Log pipeline: across multiple cloud platforms\n</h1>\n\n<p>A platform capability becomes dangerous when ownership is implicit but ",
-    "link": "https://dev.to/marco13moo/daily-dose-of-devops-log-pipeline-across-multiple-cloud-platforms-34f0",
+    "title": "20 ESP32s Burn ThingsBoard's Free Tier in 28 Hours. Here's What Hosting Actually Costs",
+    "desc": "<p><em>Disclosure: This post contains affiliate links (<a href=\"https://thingsboard.io/?fpr=r5cma7\" rel=\"noopener noreferrer\">ThingsBoard</a",
+    "link": "https://dev.to/supermnr/20-esp32s-burn-thingsboards-free-tier-in-28-hours-heres-what-hosting-actually-costs-3i7l",
     "topic": "general"
   },
   {
-    "title": "Java4Shell (CVE-2026-114938) \u2014 Pre-Auth RCE in Java's Base64 Decoder",
-    "desc": "<p>One CVE, four products: Jira, Confluence, Jenkins, and Keycloak all decode Base64 before authentication.</p>\n\n<p><strong>CVE-2026-114938<",
-    "link": "https://dev.to/threataft_dev/java4shell-cve-2026-114938-pre-auth-rce-in-javas-base64-decoder-4o9m",
+    "title": "Google Introduces Gemini 4 Hydrogen: A Specialized AI Model and Workbench for Robotics Development",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/google-gemini-4-hydrogen-robotics-ai-model-workbench/?utm_s",
+    "link": "https://dev.to/pklavc/google-introduces-gemini-4-hydrogen-a-specialized-ai-model-and-workbench-for-robotics-development-gk",
     "topic": "general"
   },
   {
-    "title": "48 teams publicly replaced MinIO. They didn\u2019t announce it on forums. They filed issues.",
-    "desc": "<p>When MinIO's community repo was archived, I wanted to know how teams actually react. Not on Reddit or in \"best alternatives\" blog posts, ",
-    "link": "https://dev.to/gligorcogligorov/48-teams-publicly-replaced-minio-they-didnt-announce-it-on-forums-they-filed-issues-4ajg",
+    "title": "What does my CI pipeline see?",
+    "desc": "<p>Seven of the 14 verdicts exit 0: SECURE, AUTO_RECOVER, FLAKY, CHAOS_RESILIENT, PERFORMANCE_DEGRADED, A11Y_VIOLATION and SECURITY_VIOLATIO",
+    "link": "https://dev.to/nexus_studioqa/what-does-my-ci-pipeline-see-m2o",
     "topic": "general"
   },
   {
-    "title": "How to Build a MOP and Change Management Application Without Stitching Together a Stack",
-    "desc": "<p><em>Originally published on <a href=\"https://www.harper.fast/resources/mop-change-management-application\" rel=\"noopener noreferrer\">Harpe",
-    "link": "https://dev.to/harperfast/how-to-build-a-mop-and-change-management-application-without-stitching-together-a-stack-4ij1",
+    "title": "Building a Production\u2011Ready FastAPI Ticket Classification Service with Sentry, Env\u2011Guard, and Render Deployment",
+    "desc": "<h1>\n  \n  \n  Building a Production\u2011Ready FastAPI Ticket Classification Service with Sentry, Env\u2011Guard, and Render Deployment\n</h1>\n\n<p><stro",
+    "link": "https://dev.to/zaerohell/building-a-production-ready-fastapi-ticket-classification-service-with-sentry-env-guard-and-3bcc",
     "topic": "general"
   },
   {
-    "title": "A Hidden Line in AGENTS.md Hijacked My AI Coding Agent",
-    "desc": "<p>DevPilot is a coding agent working in a repo you just cloned. You ask it to fix one failing test. Like real coding agents, it reads the r",
-    "link": "https://dev.to/bugbountybeyond/a-hidden-line-in-agentsmd-hijacked-my-ai-coding-agent-4p7",
+    "title": "Python 3.15 : nouveaut\u00e9s, calendrier et migration",
+    "desc": "<h2>\n  \n  \n  L'essentiel en une minute\n</h2>\n\n<p>Python 3.15 est sorti le 9 octobre 2026, et la version \u00e0 installer aujourd'hui est la 3.15.",
+    "link": "https://dev.to/neurau_tech/python-315-nouveautes-calendrier-et-migration-3imb",
     "topic": "general"
   },
   {
-    "title": "AWS DevOps Agent: dejar que una IA investigue el incidente por ti",
-    "desc": "<h1>\n  \n  \n  AWS DevOps Agent: dejar que una IA investigue el incidente por ti\n</h1>\n\n<p>Si alguna vez estuviste de guardia, conoces el ritu",
-    "link": "https://dev.to/aws-builders/aws-devops-agent-dejar-que-una-ia-investigue-el-incidente-por-ti-46ep",
-    "topic": "aws"
+    "title": "When the Incident Spans Two Clouds, the Timeline Is the Hard Part: Incident Response for Multi-Cloud Networks",
+    "desc": "<p>The hardest part of a multi-cloud incident is rarely fixing the fault. It is working out, while the fault is still happening, what actual",
+    "link": "https://dev.to/onelifevibe/when-the-incident-spans-two-clouds-the-timeline-is-the-hard-part-incident-response-for-2cah",
+    "topic": "secops"
   },
   {
-    "title": "LinkedIn reduz falhas di\u00e1rias de shuffle de cerca de 750 para 20 com Apache Celeborn",
-    "desc": "<h2>\n  \n  \n  Plataforma compartilhada para Spark e Flink\n</h2>\n\n<p>O LinkedIn implantou o Apache Celeborn como plataforma compartilhada de s",
-    "link": "https://dev.to/guiadeti/linkedin-reduz-falhas-diarias-de-shuffle-de-cerca-de-750-para-20-com-apache-celeborn-1a70",
+    "title": "NVIDIA Dynamo on Amazon SageMaker HyperPod: Distributed Inference and Its Trade-offs",
+    "desc": "<h1>\n  \n  \n  NVIDIA Dynamo on Amazon SageMaker HyperPod: Distributed Inference and Its Trade-offs\n</h1>\n\n<p>AWS's headline number is a 2.05\u00d7",
+    "link": "https://dev.to/kami_butt_69b922ade8de012/nvidia-dynamo-on-amazon-sagemaker-hyperpod-distributed-inference-and-its-trade-offs-3p74",
     "topic": "general"
   }
 ]

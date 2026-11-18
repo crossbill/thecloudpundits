@@ -1,8 +1,26 @@
 [
   {
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "desc": "",
+    "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "topic": "general"
+  },
+  {
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "desc": "",
+    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "topic": "general"
+  },
+  {
     "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "topic": "general"
+  },
+  {
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "desc": "",
+    "link": "https://huggingface.co/blog/moe-expert-streaming",
     "topic": "general"
   },
   {
@@ -27,24 +45,6 @@
     "title": "XYBench: Helping with the problem behind the question",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/xybench",
-    "topic": "general"
-  },
-  {
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "topic": "general"
-  },
-  {
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "desc": "",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "topic": "general"
-  },
-  {
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "desc": "",
-    "link": "https://huggingface.co/blog/3d-lora-finetuning",
     "topic": "general"
   }
 ]

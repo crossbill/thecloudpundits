@@ -1,5 +1,11 @@
 [
   {
+    "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
+    "desc": "AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads ",
+    "link": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
+    "topic": "aws"
+  },
+  {
     "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
     "desc": "As AWS re:Invent is around the corner, we\u2019re proud to recognize a new group of AWS Heroes. Every Hero finds their own way to give back, whet",
     "link": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
@@ -39,12 +45,6 @@
     "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
     "desc": "A few weeks ago I presented to a small group of commercial and technology leaders from Brazilian agribusiness at the AWS office in S\u00e3o Paulo",
     "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
-    "topic": "aws"
-  },
-  {
-    "title": "AWS Continuum for code vulnerabilities is now generally available",
-    "desc": "AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabi",
-    "link": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
     "topic": "aws"
   }
 ]
