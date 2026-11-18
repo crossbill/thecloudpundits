@@ -1,50 +1,50 @@
 [
   {
-    "title": "Renting GPUs by the hour in the EU: how to size a card and read the bill",
-    "desc": "<p>Teams that run or fine-tune language models now have a familiar choice: call a hosted model and pay per token, or rent a graphics card an",
-    "link": "https://dev.to/entronyx/renting-gpus-by-the-hour-in-the-eu-how-to-size-a-card-and-read-the-bill-3aah",
+    "title": "Five of Five: Run It Again Before You Trust an Agent",
+    "desc": "<blockquote>\n<p>Cross-post of Insights #18. Canonical: <a href=\"https://sheikhwasim.com/insights/five-of-five-run-it-again-before-you-trust-",
+    "link": "https://dev.to/anciwasim/five-of-five-run-it-again-before-you-trust-an-agent-1kil",
     "topic": "general"
   },
   {
-    "title": "Fixing Silent Misconfigurations in GitLab Runner: Adding Concurrency Alias Support",
-    "desc": "<p>When managing self-hosted or cloud infrastructure for CI/CD pipelines, even a small configuration mistake can lead to unexpected resource",
-    "link": "https://dev.to/manishpatel00/fixing-silent-misconfigurations-in-gitlab-runner-adding-concurrency-alias-support-3lc4",
+    "title": "Daily Dose of DevOps \u2014 Log pipeline: across multiple cloud platforms",
+    "desc": "<h1>\n  \n  \n  Log pipeline: across multiple cloud platforms\n</h1>\n\n<p>A platform capability becomes dangerous when ownership is implicit but ",
+    "link": "https://dev.to/marco13moo/daily-dose-of-devops-log-pipeline-across-multiple-cloud-platforms-34f0",
     "topic": "general"
   },
   {
-    "title": "Choosing Self-Hosted AI Task Management for Software Teams",
-    "desc": "<p>When task boards run on infrastructure your organization controls, an AI assistant still needs to respect the same data boundaries. Other",
-    "link": "https://dev.to/aurejaalkan/choosing-self-hosted-ai-task-management-for-software-teams-1kgp",
+    "title": "Java4Shell (CVE-2026-114938) \u2014 Pre-Auth RCE in Java's Base64 Decoder",
+    "desc": "<p>One CVE, four products: Jira, Confluence, Jenkins, and Keycloak all decode Base64 before authentication.</p>\n\n<p><strong>CVE-2026-114938<",
+    "link": "https://dev.to/threataft_dev/java4shell-cve-2026-114938-pre-auth-rce-in-javas-base64-decoder-4o9m",
     "topic": "general"
   },
   {
-    "title": "A Go web service on a free container tier: a 15 MB image and tens of megabytes of RAM",
-    "desc": "<p><strong>TL;DR:</strong> A net/http service with a health endpoint, graceful shutdown and the port read from the environment, built by a t",
-    "link": "https://dev.to/snapdeploy/a-go-web-service-on-a-free-container-tier-a-15-mb-image-and-tens-of-megabytes-of-ram-5aon",
-    "topic": "docker"
-  },
-  {
-    "title": "How I Self-Hosted Worklenz (And Why It Was Easier Than I Expected)",
-    "desc": "<p>I've been looking for a project management tool that I could run on my own server. Something where my data stays with me, and I don't hav",
-    "link": "https://dev.to/cdsthakshila/how-i-self-hosted-worklenz-and-why-it-was-easier-than-i-expected-4876",
+    "title": "48 teams publicly replaced MinIO. They didn\u2019t announce it on forums. They filed issues.",
+    "desc": "<p>When MinIO's community repo was archived, I wanted to know how teams actually react. Not on Reddit or in \"best alternatives\" blog posts, ",
+    "link": "https://dev.to/gligorcogligorov/48-teams-publicly-replaced-minio-they-didnt-announce-it-on-forums-they-filed-issues-4ajg",
     "topic": "general"
   },
   {
-    "title": "Self-hosted PaaS compared: six tools, one fair table (2026)",
-    "desc": "<p>Coolify, Dokploy, CapRover, Dokku and Kamal all put your apps on a server you own, and they do it in different ways. Some are dashboards,",
-    "link": "https://dev.to/thegdsks/self-hosted-paas-compared-six-tools-one-fair-table-2026-2b6h",
+    "title": "How to Build a MOP and Change Management Application Without Stitching Together a Stack",
+    "desc": "<p><em>Originally published on <a href=\"https://www.harper.fast/resources/mop-change-management-application\" rel=\"noopener noreferrer\">Harpe",
+    "link": "https://dev.to/harperfast/how-to-build-a-mop-and-change-management-application-without-stitching-together-a-stack-4ij1",
     "topic": "general"
   },
   {
-    "title": "A Small State Machine for Burner Email Automation",
-    "desc": "<h1>\n  \n  \n  A Small State Machine for Burner Email Automation\n</h1>\n\n<p>Email verification is often the least deterministic part of an othe",
-    "link": "https://dev.to/mrdapperx/a-small-state-machine-for-burner-email-automation-492d",
+    "title": "A Hidden Line in AGENTS.md Hijacked My AI Coding Agent",
+    "desc": "<p>DevPilot is a coding agent working in a repo you just cloned. You ask it to fix one failing test. Like real coding agents, it reads the r",
+    "link": "https://dev.to/bugbountybeyond/a-hidden-line-in-agentsmd-hijacked-my-ai-coding-agent-4p7",
     "topic": "general"
   },
   {
-    "title": "Cheapest Cloud Hosting Platforms in 2026: Compare the Full Cost",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>There's no universal cheapest cloud hosting platform in 2026. Start with a managed platform like Render o",
-    "link": "https://dev.to/engineersguide/cheapest-cloud-hosting-platforms-2026-16l5",
+    "title": "AWS DevOps Agent: dejar que una IA investigue el incidente por ti",
+    "desc": "<h1>\n  \n  \n  AWS DevOps Agent: dejar que una IA investigue el incidente por ti\n</h1>\n\n<p>Si alguna vez estuviste de guardia, conoces el ritu",
+    "link": "https://dev.to/aws-builders/aws-devops-agent-dejar-que-una-ia-investigue-el-incidente-por-ti-46ep",
+    "topic": "aws"
+  },
+  {
+    "title": "LinkedIn reduz falhas di\u00e1rias de shuffle de cerca de 750 para 20 com Apache Celeborn",
+    "desc": "<h2>\n  \n  \n  Plataforma compartilhada para Spark e Flink\n</h2>\n\n<p>O LinkedIn implantou o Apache Celeborn como plataforma compartilhada de s",
+    "link": "https://dev.to/guiadeti/linkedin-reduz-falhas-diarias-de-shuffle-de-cerca-de-750-para-20-com-apache-celeborn-1a70",
     "topic": "general"
   }
 ]

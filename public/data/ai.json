@@ -1,5 +1,17 @@
 [
   {
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "topic": "general"
+  },
+  {
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "desc": "",
+    "link": "https://huggingface.co/blog/rumble-2-flash",
+    "topic": "general"
+  },
+  {
     "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
     "desc": "",
     "link": "https://huggingface.co/blog/openrouter",
@@ -33,18 +45,6 @@
     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
     "desc": "",
     "link": "https://huggingface.co/blog/3d-lora-finetuning",
-    "topic": "general"
-  },
-  {
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "desc": "",
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "topic": "general"
-  },
-  {
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "desc": "",
-    "link": "https://huggingface.co/blog/token-pooling",
     "topic": "general"
   }
 ]
