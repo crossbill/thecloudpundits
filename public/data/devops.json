@@ -1,50 +1,50 @@
 [
   {
-    "title": "What my clinical-trials site really costs on Azure: the bill, the 3.5 GB search VM, and the AI spend I forgot to measure",
-    "desc": "<p>I build <a href=\"https://hipa.ai\" rel=\"noopener noreferrer\">hipa.ai</a> alone. It's a clinical-trials search site: 608,221 trial records ",
-    "link": "https://dev.to/ogamaniuk/what-my-clinical-trials-site-really-costs-on-azure-the-bill-the-35-gb-search-vm-and-the-ai-3amg",
-    "topic": "azure"
-  },
-  {
-    "title": "How I secure a server, from first SSH access to the NSA guide",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>A new server exposed to the internet gets scanned within minutes by bots hunting for a weak password on port 22",
-    "link": "https://dev.to/dimsbuild/how-i-secure-a-server-from-first-ssh-access-to-the-nsa-guide-4dmn",
+    "title": "Renting GPUs by the hour in the EU: how to size a card and read the bill",
+    "desc": "<p>Teams that run or fine-tune language models now have a familiar choice: call a hosted model and pay per token, or rent a graphics card an",
+    "link": "https://dev.to/entronyx/renting-gpus-by-the-hour-in-the-eu-how-to-size-a-card-and-read-the-bill-3aah",
     "topic": "general"
   },
   {
-    "title": "What your logs could not rule out: notes on Barracuda's 44-hour intrusion and GTIG's exploit_agent",
-    "desc": "<p>Two incident reports from mid-November are worth reading closely if you run cloud infrastructure, CI, or AI agents. We checked both again",
-    "link": "https://dev.to/veritaschain/what-your-logs-could-not-rule-out-notes-on-barracudas-44-hour-intrusion-and-gtigs-exploitagent-n5h",
+    "title": "Fixing Silent Misconfigurations in GitLab Runner: Adding Concurrency Alias Support",
+    "desc": "<p>When managing self-hosted or cloud infrastructure for CI/CD pipelines, even a small configuration mistake can lead to unexpected resource",
+    "link": "https://dev.to/manishpatel00/fixing-silent-misconfigurations-in-gitlab-runner-adding-concurrency-alias-support-3lc4",
     "topic": "general"
   },
   {
-    "title": "Pol\u00edtica de uso seguro de IA em engenharia: guardrails que impedem o agente de passar do ponto",
-    "desc": "<p>Nomes de empresa, contas e reposit\u00f3rios s\u00e3o placeholders. Use como base e adapte.</p>\n\n<h2>\n  \n  \n  O problema\n</h2>\n\n<p>As ferramentas d",
-    "link": "https://dev.to/aldeiacloud/politica-de-uso-seguro-de-ia-em-engenharia-guardrails-que-impedem-o-agente-de-passar-do-ponto-1fa6",
-    "topic": "guardrails"
-  },
-  {
-    "title": "AWS WorkSpaces Enhances Governance and Deployment for Enterprise AI Agents",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-workspaces-ai-agent-governance-deployment/?utm_source=d",
-    "link": "https://dev.to/pklavc/aws-workspaces-enhances-governance-and-deployment-for-enterprise-ai-agents-3452",
-    "topic": "aws"
-  },
-  {
-    "title": "How to Connect On-Premises Systems to the Cloud (2026): VPN vs Direct Connect vs ExpressRoute vs Interconnect",
-    "desc": "<p>Connecting on-premises systems to a cloud platform takes two decisions, one about the network link and one about how you operate both sid",
-    "link": "https://dev.to/noahcontrolplane/how-to-connect-on-premises-systems-to-the-cloud-2026-vpn-vs-direct-connect-vs-expressroute-vs-d5a",
+    "title": "Choosing Self-Hosted AI Task Management for Software Teams",
+    "desc": "<p>When task boards run on infrastructure your organization controls, an AI assistant still needs to respect the same data boundaries. Other",
+    "link": "https://dev.to/aurejaalkan/choosing-self-hosted-ai-task-management-for-software-teams-1kgp",
     "topic": "general"
   },
   {
-    "title": "The Best Container Management and Networking Tools (2026): Where to Find Them, Tools by Layer, and How to Pick by Scale",
-    "desc": "<p>The best container management and networking tools are cataloged in the <a href=\"https://landscape.cncf.io/\" rel=\"noopener noreferrer\">CN",
-    "link": "https://dev.to/noahcontrolplane/the-best-container-management-and-networking-tools-2026-where-to-find-them-tools-by-layer-and-439c",
+    "title": "A Go web service on a free container tier: a 15 MB image and tens of megabytes of RAM",
+    "desc": "<p><strong>TL;DR:</strong> A net/http service with a health endpoint, graceful shutdown and the port read from the environment, built by a t",
+    "link": "https://dev.to/snapdeploy/a-go-web-service-on-a-free-container-tier-a-15-mb-image-and-tens-of-megabytes-of-ram-5aon",
     "topic": "docker"
   },
   {
-    "title": "Preview Environments for AI Coding Agents (2026): Which Platforms Support Them and How to Build One per PR",
-    "desc": "<p>Ephemeral preview environments for AI-assisted coding come from four kinds of platforms. Kubernetes with GitOps tooling such as Argo CD A",
-    "link": "https://dev.to/noahcontrolplane/preview-environments-for-ai-coding-agents-2026-which-platforms-support-them-and-how-to-build-one-29hg",
+    "title": "How I Self-Hosted Worklenz (And Why It Was Easier Than I Expected)",
+    "desc": "<p>I've been looking for a project management tool that I could run on my own server. Something where my data stays with me, and I don't hav",
+    "link": "https://dev.to/cdsthakshila/how-i-self-hosted-worklenz-and-why-it-was-easier-than-i-expected-4876",
+    "topic": "general"
+  },
+  {
+    "title": "Self-hosted PaaS compared: six tools, one fair table (2026)",
+    "desc": "<p>Coolify, Dokploy, CapRover, Dokku and Kamal all put your apps on a server you own, and they do it in different ways. Some are dashboards,",
+    "link": "https://dev.to/thegdsks/self-hosted-paas-compared-six-tools-one-fair-table-2026-2b6h",
+    "topic": "general"
+  },
+  {
+    "title": "A Small State Machine for Burner Email Automation",
+    "desc": "<h1>\n  \n  \n  A Small State Machine for Burner Email Automation\n</h1>\n\n<p>Email verification is often the least deterministic part of an othe",
+    "link": "https://dev.to/mrdapperx/a-small-state-machine-for-burner-email-automation-492d",
+    "topic": "general"
+  },
+  {
+    "title": "Cheapest Cloud Hosting Platforms in 2026: Compare the Full Cost",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>There's no universal cheapest cloud hosting platform in 2026. Start with a managed platform like Render o",
+    "link": "https://dev.to/engineersguide/cheapest-cloud-hosting-platforms-2026-16l5",
     "topic": "general"
   }
 ]
