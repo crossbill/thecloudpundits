@@ -1,50 +1,50 @@
 [
   {
-    "title": "supabase-js .range() Without .order() Drops Rows",
-    "desc": "<h2>\n  \n  \n  The short version\n</h2>\n\n<p><strong>Page with OFFSET/LIMIT using <code>.range()</code> alone, without <code>.order()</code> pin",
-    "link": "https://dev.to/cometakaito/supabase-js-range-without-order-drops-rows-5a6m",
+    "title": "How to Choose a Bug-Tracking Tool: Six Options Compared",
+    "desc": "<p>A customer reports a bug, but it sits in a queue with no clear owner or next step. Developers still need to connect the report to the cod",
+    "link": "https://dev.to/annatadrzak/how-to-choose-a-bug-tracking-tool-six-options-compared-aoj",
     "topic": "general"
   },
   {
-    "title": "20 ESP32s Burn ThingsBoard's Free Tier in 28 Hours. Here's What Hosting Actually Costs",
-    "desc": "<p><em>Disclosure: This post contains affiliate links (<a href=\"https://thingsboard.io/?fpr=r5cma7\" rel=\"noopener noreferrer\">ThingsBoard</a",
-    "link": "https://dev.to/supermnr/20-esp32s-burn-thingsboards-free-tier-in-28-hours-heres-what-hosting-actually-costs-3i7l",
+    "title": "PXE provisioning in real datacenters: three failure modes worth designing around",
+    "desc": "<p>Most PXE tutorials assume a flat lab network: one DHCP server, one TFTP root, MAC addresses you already know, and an image that installs ",
+    "link": "https://dev.to/pxecommercialio/pxe-provisioning-in-real-datacenters-three-failure-modes-worth-designing-around-4em5",
     "topic": "general"
   },
   {
-    "title": "Google Introduces Gemini 4 Hydrogen: A Specialized AI Model and Workbench for Robotics Development",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/google-gemini-4-hydrogen-robotics-ai-model-workbench/?utm_s",
-    "link": "https://dev.to/pklavc/google-introduces-gemini-4-hydrogen-a-specialized-ai-model-and-workbench-for-robotics-development-gk",
+    "title": "Hand an issue to an AI agent with your own model key: a checklist that keeps it safe",
+    "desc": "<p><em>Disclosure: I work on Git A. The checklist in the first part works with any setup. The last part shows how Git A does it.</em></p>\n\n<",
+    "link": "https://dev.to/git_a/hand-an-issue-to-an-ai-agent-with-your-own-model-key-a-checklist-that-keeps-it-safe-1mo0",
     "topic": "general"
   },
   {
-    "title": "What does my CI pipeline see?",
-    "desc": "<p>Seven of the 14 verdicts exit 0: SECURE, AUTO_RECOVER, FLAKY, CHAOS_RESILIENT, PERFORMANCE_DEGRADED, A11Y_VIOLATION and SECURITY_VIOLATIO",
-    "link": "https://dev.to/nexus_studioqa/what-does-my-ci-pipeline-see-m2o",
+    "title": "I checked 10 SEO agency websites for AI-search readiness. The real bugs were the boring ones.",
+    "desc": "<p>I tested 10 websites of SEO and web-design agencies, the people other companies pay to make their sites findable, to see how ready they a",
+    "link": "https://dev.to/alicexixi85/i-checked-10-seo-agency-websites-for-ai-search-readiness-the-real-bugs-were-the-boring-ones-mco",
     "topic": "general"
   },
   {
-    "title": "Building a Production\u2011Ready FastAPI Ticket Classification Service with Sentry, Env\u2011Guard, and Render Deployment",
-    "desc": "<h1>\n  \n  \n  Building a Production\u2011Ready FastAPI Ticket Classification Service with Sentry, Env\u2011Guard, and Render Deployment\n</h1>\n\n<p><stro",
-    "link": "https://dev.to/zaerohell/building-a-production-ready-fastapi-ticket-classification-service-with-sentry-env-guard-and-3bcc",
+    "title": "Dynamics 365 Year-End Change Freeze: What to Lock Before December",
+    "desc": "<p>A year-end freeze that only blocks your own team's changes misses two risks: Microsoft updates that keep landing in December, and credent",
+    "link": "https://dev.to/dynnamicsmonk/dynamics-365-year-end-change-freeze-what-to-lock-before-december-b1e",
     "topic": "general"
   },
   {
-    "title": "Python 3.15 : nouveaut\u00e9s, calendrier et migration",
-    "desc": "<h2>\n  \n  \n  L'essentiel en une minute\n</h2>\n\n<p>Python 3.15 est sorti le 9 octobre 2026, et la version \u00e0 installer aujourd'hui est la 3.15.",
-    "link": "https://dev.to/neurau_tech/python-315-nouveautes-calendrier-et-migration-3imb",
-    "topic": "general"
-  },
-  {
-    "title": "When the Incident Spans Two Clouds, the Timeline Is the Hard Part: Incident Response for Multi-Cloud Networks",
-    "desc": "<p>The hardest part of a multi-cloud incident is rarely fixing the fault. It is working out, while the fault is still happening, what actual",
-    "link": "https://dev.to/onelifevibe/when-the-incident-spans-two-clouds-the-timeline-is-the-hard-part-incident-response-for-2cah",
+    "title": "16 Free Security, Password and Network Tools for Small IT Teams in Africa",
+    "desc": "<p><em>By Muhammad Wasim, developer of <a href=\"https://toolsphare.com/\" rel=\"noopener noreferrer\">ToolSphare</a></em></p>\n\n<p>A small IT te",
+    "link": "https://dev.to/toolsphare/16-free-security-password-and-network-tools-for-small-it-teams-in-africa-3nlg",
     "topic": "secops"
   },
   {
-    "title": "NVIDIA Dynamo on Amazon SageMaker HyperPod: Distributed Inference and Its Trade-offs",
-    "desc": "<h1>\n  \n  \n  NVIDIA Dynamo on Amazon SageMaker HyperPod: Distributed Inference and Its Trade-offs\n</h1>\n\n<p>AWS's headline number is a 2.05\u00d7",
-    "link": "https://dev.to/kami_butt_69b922ade8de012/nvidia-dynamo-on-amazon-sagemaker-hyperpod-distributed-inference-and-its-trade-offs-3p74",
+    "title": "\"wrangler pages deploy replaces your deployment, not your site\"",
+    "desc": "<p>Every \"my deploy succeeded but the site didn't change\" thread has the same root: people expect <code>wrangler pages deploy</code> to upda",
+    "link": "https://dev.to/sitepostmortem/wrangler-pages-deploy-replaces-your-deployment-not-your-site-1o3d",
+    "topic": "general"
+  },
+  {
+    "title": "\"A deleted page kept answering 200 on Cloudflare Pages for 39 minutes\"",
+    "desc": "<p>We deleted six design drafts from a static site, deployed, and one of them kept answering on the custom domain. The build was clean. The ",
+    "link": "https://dev.to/sitepostmortem/a-deleted-page-kept-answering-200-on-cloudflare-pages-for-39-minutes-c5j",
     "topic": "general"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+    "desc": "<p>The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and soverei",
+    "link": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+    "topic": "general"
+  },
+  {
     "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
     "desc": "<p>AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity.</p>\n<p>The post <a href=",
     "link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
@@ -40,11 +46,5 @@
     "desc": "<p>Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts.</p>\n<",
     "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
     "topic": "azure"
-  },
-  {
-    "title": "Critical Perforce Puppet RCE Exploited in Attacks",
-    "desc": "<p>Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
-    "topic": "secops"
   }
 ]
