@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to Choose a Bug-Tracking Tool: Six Options Compared",
-    "desc": "<p>A customer reports a bug, but it sits in a queue with no clear owner or next step. Developers still need to connect the report to the cod",
-    "link": "https://dev.to/annatadrzak/how-to-choose-a-bug-tracking-tool-six-options-compared-aoj",
+    "title": "Daily Dose of DevOps \u2014 Developer experience: without slowing developer throughput",
+    "desc": "<h1>\n  \n  \n  Developer experience: without slowing developer throughput\n</h1>\n\n<p>Scale converts an informal convention into an outage mecha",
+    "link": "https://dev.to/marco13moo/daily-dose-of-devops-developer-experience-without-slowing-developer-throughput-6oa",
     "topic": "general"
   },
   {
-    "title": "PXE provisioning in real datacenters: three failure modes worth designing around",
-    "desc": "<p>Most PXE tutorials assume a flat lab network: one DHCP server, one TFTP root, MAC addresses you already know, and an image that installs ",
-    "link": "https://dev.to/pxecommercialio/pxe-provisioning-in-real-datacenters-three-failure-modes-worth-designing-around-4em5",
+    "title": "I built Alembic-style migrations for LLM prompts, and I'm looking for contributors",
+    "desc": "<p>Every team shipping LLM features eventually hits the same question:<br />\n<strong>which prompt was running in staging last Tuesday, and h",
+    "link": "https://dev.to/himanshu231204/i-built-alembic-style-migrations-for-llm-prompts-and-im-looking-for-contributors-3fe6",
     "topic": "general"
   },
   {
-    "title": "Hand an issue to an AI agent with your own model key: a checklist that keeps it safe",
-    "desc": "<p><em>Disclosure: I work on Git A. The checklist in the first part works with any setup. The last part shows how Git A does it.</em></p>\n\n<",
-    "link": "https://dev.to/git_a/hand-an-issue-to-an-ai-agent-with-your-own-model-key-a-checklist-that-keeps-it-safe-1mo0",
+    "title": "LiteLLM CVE-2026-40217 Is Exploited From Virtual Keys. How to Check Your Proxy",
+    "desc": "<p>If you run a LiteLLM proxy, the box sitting in front of your OpenAI, Anthropic and Gemini accounts has a code execution bug that attacker",
+    "link": "https://dev.to/alanwest/litellm-cve-2026-40217-is-exploited-from-virtual-keys-how-to-check-your-proxy-2n9k",
     "topic": "general"
   },
   {
-    "title": "I checked 10 SEO agency websites for AI-search readiness. The real bugs were the boring ones.",
-    "desc": "<p>I tested 10 websites of SEO and web-design agencies, the people other companies pay to make their sites findable, to see how ready they a",
-    "link": "https://dev.to/alicexixi85/i-checked-10-seo-agency-websites-for-ai-search-readiness-the-real-bugs-were-the-boring-ones-mco",
-    "topic": "general"
-  },
-  {
-    "title": "Dynamics 365 Year-End Change Freeze: What to Lock Before December",
-    "desc": "<p>A year-end freeze that only blocks your own team's changes misses two risks: Microsoft updates that keep landing in December, and credent",
-    "link": "https://dev.to/dynnamicsmonk/dynamics-365-year-end-change-freeze-what-to-lock-before-december-b1e",
-    "topic": "general"
-  },
-  {
-    "title": "16 Free Security, Password and Network Tools for Small IT Teams in Africa",
-    "desc": "<p><em>By Muhammad Wasim, developer of <a href=\"https://toolsphare.com/\" rel=\"noopener noreferrer\">ToolSphare</a></em></p>\n\n<p>A small IT te",
-    "link": "https://dev.to/toolsphare/16-free-security-password-and-network-tools-for-small-it-teams-in-africa-3nlg",
+    "title": "nginx HTTP/2 vulnerability: check your server for 1.31.9",
+    "desc": "<p><em>Originally published on <a href=\"https://proxymint.com/nginx-http2-rce/\" rel=\"noopener noreferrer\">proxymint</a>.</em></p>\n\n<p>nginx ",
+    "link": "https://dev.to/proxymint/nginx-http2-vulnerability-check-your-server-for-1319-5197",
     "topic": "secops"
   },
   {
-    "title": "\"wrangler pages deploy replaces your deployment, not your site\"",
-    "desc": "<p>Every \"my deploy succeeded but the site didn't change\" thread has the same root: people expect <code>wrangler pages deploy</code> to upda",
-    "link": "https://dev.to/sitepostmortem/wrangler-pages-deploy-replaces-your-deployment-not-your-site-1o3d",
+    "title": "NGINX2Root (Nov 2026): five critical NGINX bugs, unauthenticated RCE. Are you affected? Copy-paste checks",
+    "desc": "<p>If NGINX sits in front of anything you run (a web server, a reverse proxy, Nginx Proxy Manager, or a Docker image that quietly ships it),",
+    "link": "https://dev.to/aikahub/nginx2root-nov-2026-five-critical-nginx-bugs-unauthenticated-rce-are-you-affected-copy-paste-41db",
     "topic": "general"
   },
   {
-    "title": "\"A deleted page kept answering 200 on Cloudflare Pages for 39 minutes\"",
-    "desc": "<p>We deleted six design drafts from a static site, deployed, and one of them kept answering on the custom domain. The build was clean. The ",
-    "link": "https://dev.to/sitepostmortem/a-deleted-page-kept-answering-200-on-cloudflare-pages-for-39-minutes-c5j",
+    "title": "The Flag That Fixed My Latency Was Quietly Ignored for Three Weeks",
+    "desc": "<p><em>A follow-up to <a href=\"https://dev.to/nova-agent/my-home-ais-first-reply-took-four-minutes-now-it-takes-eleven-seconds-490c\">Part 3<",
+    "link": "https://dev.to/nova-agent/the-flag-that-fixed-my-latency-was-quietly-ignored-for-three-weeks-4l60",
+    "topic": "general"
+  },
+  {
+    "title": "Three questions before accepting a server migration",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/rinad_ageev/three-questions-before-accepting-a-server-migration-498g",
+    "topic": "general"
+  },
+  {
+    "title": "I bundled 5 AI tools into one collection: gateway, governance, token tracking, study & content",
+    "desc": "<p>Hey devs \ud83d\udc4b</p>\n\n<p>After building and shipping several AI tools, I've bundled five of them into a single<br />\ncollection \u2014 the CapLine A",
+    "link": "https://dev.to/capcryo/i-bundled-5-ai-tools-into-one-collection-gateway-governance-token-tracking-study-content-1i0a",
     "topic": "general"
   }
 ]
