@@ -1,50 +1,50 @@
 [
   {
-    "title": "What is the difference between let, var and const in JavaScript?",
-    "desc": "<p>Introduction of HTML</p>\n\n<p>What is HTML?</p>\n\n<p>Features of HTML</p>\n\n<p>HTML example</p>\n\n<p>Conclusion</p>",
-    "link": "https://dev.to/samiullah_asif_e67797a827/what-is-the-difference-between-let-var-and-const-in-javascript-18i2",
+    "title": "AWS Launches EC2 T9g Instances with Graviton5 Processors, Offering 45% Better Price Performance",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-ec2-t9g-graviton5-launch/?utm_source=devto&utm_medium=o",
+    "link": "https://dev.to/pklavc/aws-launches-ec2-t9g-instances-with-graviton5-processors-offering-45-better-price-performance-81j",
+    "topic": "aws"
+  },
+  {
+    "title": "Scaling Down by Scaling Up: How Moving GKE from E2 to C4D Cut One Cluster's Bill by 40%",
+    "desc": "<p>When you're trying to cut Kubernetes spend, the obvious move is to look at a cloud pricing sheet and pick a cheaper general purpose machi",
+    "link": "https://dev.to/dnysus/scaling-down-by-scaling-up-how-moving-gke-from-e2-to-c4d-cut-one-clusters-bill-by-40-2934",
     "topic": "general"
   },
   {
-    "title": "Stop losing hours to time-to-reproduce \ud83d\udea8",
-    "desc": "<p>When a 2 AM pager alert hits, downtime is only part of the bill. The real time sink is getting a production bug to happen again in your e",
-    "link": "https://dev.to/florabrandao/stop-losing-hours-to-time-to-reproduce-41ah",
+    "title": "Le di ojos dentro de Kubernetes a AWS DevOps Agent, y encontr\u00f3 lo que mis alarmas no ve\u00edan",
+    "desc": "<p>En mi cluster EKS, los pods de una API se reiniciaban solos. Algunos clientes esperaban hasta 69 segundos por una respuesta. Y en CloudWa",
+    "link": "https://dev.to/aws-builders/le-di-ojos-dentro-de-kubernetes-a-aws-devops-agent-y-encontro-lo-que-mis-alarmas-no-veian-44oa",
+    "topic": "aws"
+  },
+  {
+    "title": "Flaky tests: a triage rule that actually gets them fixed",
+    "desc": "<p>A flaky test passes and fails without any code change. One flaky test is an annoyance. A handful of them teaches the whole team to hit \"r",
+    "link": "https://dev.to/lean-team-products/flaky-tests-a-triage-rule-that-actually-gets-them-fixed-26cm",
     "topic": "general"
   },
   {
-    "title": "CI/CD Is a Production Dependency: Break-Glass Deploy Paths for the Next CI/CD Outage",
-    "desc": "<p>On November 11, 2026, at 20:48 UTC, GitHub opened an incident titled <a href=\"https://www.githubstatus.com/incidents/dvy0t3mvh1lg\" rel=\"n",
-    "link": "https://dev.to/nrejve/cicd-is-a-production-dependency-break-glass-deploy-paths-for-the-next-cicd-outage-49a8",
+    "title": "Three supply chain breaks in one week, zero code written",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/analista_83/three-supply-chain-breaks-in-one-week-zero-code-written-2lp2",
     "topic": "general"
   },
   {
-    "title": "7 AI services stop on November 30. A checklist for each one.",
-    "desc": "<p><strong>7 AI services stop November 30. Your code still calls one?</strong> Ten days out, here's everything ending that day, from each pr",
-    "link": "https://dev.to/getversyka/7-ai-services-stop-on-november-30-a-checklist-for-each-one-3pkh",
+    "title": "Logging pipeline runs without noise #i7bt4",
+    "desc": "<p>Store one structured record per run with durations and statuses, then aggregate p50/p95 instead of scanning raw logs.</p>\n\n\n\n\n<h3>\n  \n  \n",
+    "link": "https://dev.to/devnote2319/logging-pipeline-runs-without-noise-i7bt4-12he",
     "topic": "general"
   },
   {
-    "title": "Remove secrets from git history before a code buyer looks",
-    "desc": "<p>To remove secrets from git history before licensing or selling a codebase, scan every commit on every branch with gitleaks or TruffleHog,",
-    "link": "https://dev.to/origindatapartners/remove-secrets-from-git-history-before-a-code-buyer-looks-3j98",
+    "title": "Send your OpenTelemetry Collector data to LogBrew and let your AI agent read it",
+    "desc": "<p>If you already run the OpenTelemetry Collector, you don't need another SDK to try a new backend. You add one exporter. This post shows th",
+    "link": "https://dev.to/logbrew/send-your-opentelemetry-collector-data-to-logbrew-and-let-your-ai-agent-read-it-n09",
     "topic": "general"
   },
   {
-    "title": "Redis SCAN Returned 1,973 Empty Pages and Found All 20 Keys",
-    "desc": "<p>I build <a href=\"https://cachedeck.com/\" rel=\"noopener noreferrer\">CacheDeck</a>, an iPhone app for checking production Redis during an i",
-    "link": "https://dev.to/chamav/redis-scan-returned-1973-empty-pages-and-found-all-20-keys-2cm9",
-    "topic": "general"
-  },
-  {
-    "title": "What our CI fixes measured: shorter queues, one claim of ours that was wrong, and a 16-hour block",
-    "desc": "<p>A reader on dev.to answered our CI cost post with one comment: runner comparisons are most useful when they include queue time, cache hit",
-    "link": "https://dev.to/mouve/what-our-ci-fixes-measured-shorter-queues-one-claim-of-ours-that-was-wrong-and-a-16-hour-block-3nei",
-    "topic": "general"
-  },
-  {
-    "title": "Airflow vs Prefect vs Dagster: Modern Data Orchestration for High-Throughput Engineering",
-    "desc": "<p><em>Originally published at <a href=\"https://www.lumeir.online/2026/11/airflow-vs-prefect-vs-dagster-modern.html\" rel=\"noopener noreferre",
-    "link": "https://dev.to/chahmed312/airflow-vs-prefect-vs-dagster-modern-data-orchestration-for-high-throughput-engineering-1pfk",
+    "title": "Master Self-Hosting with Coolify",
+    "desc": "<p>Self-hosting with Coolify enables easy deployment of apps, databases, and automatic SSL on your own VPS, giving you full control over you",
+    "link": "https://dev.to/muhammad_zeeshan_c5b0bf5b/master-self-hosting-with-coolify-d15",
     "topic": "general"
   }
 ]
