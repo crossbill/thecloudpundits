@@ -1,50 +1,50 @@
 [
   {
+    "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+    "desc": "<p>Noteworthy stories that might have slipped under the radar:\u00a0 EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in ",
+    "link": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+    "topic": "secops"
+  },
+  {
+    "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
+    "desc": "<p>Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnect",
+    "link": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+    "topic": "general"
+  },
+  {
+    "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+    "desc": "<p>Threat actors accessed databases containing customer information associated with clinics in Japan.</p>\n<p>The post <a href=\"https://www.s",
+    "link": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+    "topic": "secops"
+  },
+  {
+    "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+    "desc": "<p>The Commission took certain services offline to contain the incident, but it has no evidence of a data breach.</p>\n<p>The post <a href=\"h",
+    "link": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+    "topic": "secops"
+  },
+  {
+    "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+    "desc": "<p>Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE).</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+    "topic": "secops"
+  },
+  {
+    "title": "N-able Blames Service Disruption on Cyberattack",
+    "desc": "<p>The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft.</p>\n<p>The post <a href=\"https://w",
+    "link": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+    "topic": "secops"
+  },
+  {
+    "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+    "desc": "<p>The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers.</p>\n<p>The post",
+    "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+    "topic": "secops"
+  },
+  {
     "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
     "desc": "<p>Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch.</p",
     "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
     "topic": "general"
-  },
-  {
-    "title": "PHP Patches Seven Critical RCE Vulnerabilities",
-    "desc": "<p>Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker\u2019s privileges.</p>\n<p>The p",
-    "link": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "Nvidia Responds to Gentlemen Ransomware Claim",
-    "desc": "<p>Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a vic",
-    "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-    "topic": "secops"
-  },
-  {
-    "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
-    "desc": "<p>Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement.</p>\n<p>The post ",
-    "link": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-    "topic": "secops"
-  },
-  {
-    "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
-    "desc": "<p>The company will use the funds to accelerate the development and distribution of its security platform.</p>\n<p>The post <a href=\"https://",
-    "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
-    "topic": "secops"
-  },
-  {
-    "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-    "desc": "<p>Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-    "topic": "secops"
-  },
-  {
-    "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-    "desc": "<p>Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks t",
-    "link": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-    "topic": "general"
-  },
-  {
-    "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-    "desc": "<p>The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege esc",
-    "link": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-    "topic": "aws"
   }
 ]

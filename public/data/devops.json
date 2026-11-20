@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Hiring Dedicated Microsoft Developers Is Cost Effective for Growing Businesses",
-    "desc": "<p>Growth creates a particular kind of technology problem. The business needs more software, more automation, and better data, and it needs ",
-    "link": "https://dev.to/techguru01/why-hiring-dedicated-microsoft-developers-is-cost-effective-for-growing-businesses-8l0",
-    "topic": "azure"
-  },
-  {
-    "title": "When someone leaves, their API keys stay: how to offboard the access people create",
-    "desc": "<p>Most offboarding checklists stop at the same point: disable the login, collect the laptop, remove the person from the group chat. That ha",
-    "link": "https://dev.to/nuran_khan_80733dc4e19f6b/when-someone-leaves-their-api-keys-stay-how-to-offboard-the-access-people-create-i9j",
+    "title": "What is the difference between let, var and const in JavaScript?",
+    "desc": "<p>Introduction of HTML</p>\n\n<p>What is HTML?</p>\n\n<p>Features of HTML</p>\n\n<p>HTML example</p>\n\n<p>Conclusion</p>",
+    "link": "https://dev.to/samiullah_asif_e67797a827/what-is-the-difference-between-let-var-and-const-in-javascript-18i2",
     "topic": "general"
   },
   {
-    "title": "Kernel changelogs don't name the CVE. Check the patch tree",
-    "desc": "<p><em>Three lookups replace \"the changelog doesn't mention the CVE\" with evidence you can check: the CVE record, the vendor's patch tree, a",
-    "link": "https://dev.to/vainamoinen/kernel-changelogs-dont-name-the-cve-check-the-patch-tree-4c85",
+    "title": "Stop losing hours to time-to-reproduce \ud83d\udea8",
+    "desc": "<p>When a 2 AM pager alert hits, downtime is only part of the bill. The real time sink is getting a production bug to happen again in your e",
+    "link": "https://dev.to/florabrandao/stop-losing-hours-to-time-to-reproduce-41ah",
     "topic": "general"
   },
   {
-    "title": "Terraform vs OpenTofu in 2026: A Safe Migration Walkthrough",
-    "desc": "<p>Your Terraform repo has worked fine for years. Then someone on the team asks, \"Should we be on OpenTofu?\" and nobody has a good answer.</",
-    "link": "https://dev.to/bhavya_arora/terraform-vs-opentofu-in-2026-a-safe-migration-walkthrough-3b5n",
-    "topic": "terraform"
-  },
-  {
-    "title": "Git Push Rejected: Fix 'Failed to Push Some Refs' (Every Cause)",
-    "desc": "<p>\"error: failed to push some refs to\" is Git's catch-all line for \"the server didn't accept your push\". It tells you nothing on its own. T",
-    "link": "https://dev.to/kausarraza/git-push-rejected-fix-failed-to-push-some-refs-every-cause-36f",
+    "title": "CI/CD Is a Production Dependency: Break-Glass Deploy Paths for the Next CI/CD Outage",
+    "desc": "<p>On November 11, 2026, at 20:48 UTC, GitHub opened an incident titled <a href=\"https://www.githubstatus.com/incidents/dvy0t3mvh1lg\" rel=\"n",
+    "link": "https://dev.to/nrejve/cicd-is-a-production-dependency-break-glass-deploy-paths-for-the-next-cicd-outage-49a8",
     "topic": "general"
   },
   {
-    "title": "One Capital Letter Broke PHP HTTPS: CVE-2026-128064",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/shuvo_h/one-capital-letter-broke-php-https-cve-2026-128064-2dck",
+    "title": "7 AI services stop on November 30. A checklist for each one.",
+    "desc": "<p><strong>7 AI services stop November 30. Your code still calls one?</strong> Ten days out, here's everything ending that day, from each pr",
+    "link": "https://dev.to/getversyka/7-ai-services-stop-on-november-30-a-checklist-for-each-one-3pkh",
     "topic": "general"
   },
   {
-    "title": "Terraform: un contrato de email para CI",
-    "desc": "<p>CI puede terminar en verde y aun dejar una duda: \u00bflleg\u00f3 el correo al buz\u00f3n correcto y hay evidencia para investigar?</p>\n\n<p>En equipos d",
-    "link": "https://dev.to/alexcarteruk/terraform-un-contrato-de-email-para-ci-1mhd",
-    "topic": "terraform"
+    "title": "Remove secrets from git history before a code buyer looks",
+    "desc": "<p>To remove secrets from git history before licensing or selling a codebase, scan every commit on every branch with gitleaks or TruffleHog,",
+    "link": "https://dev.to/origindatapartners/remove-secrets-from-git-history-before-a-code-buyer-looks-3j98",
+    "topic": "general"
   },
   {
-    "title": "Understanding GitHub Fork, Clone, and Commit: A Hands-on DevOps Guide",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Today, as part of my hands-on DevOps learning journey, <br />\nI practiced Git and GitHub to understand v",
-    "link": "https://dev.to/mustafa_rid_0b98a568be9b8/understanding-github-fork-clone-and-commit-a-hands-on-devops-guide-1ide",
+    "title": "Redis SCAN Returned 1,973 Empty Pages and Found All 20 Keys",
+    "desc": "<p>I build <a href=\"https://cachedeck.com/\" rel=\"noopener noreferrer\">CacheDeck</a>, an iPhone app for checking production Redis during an i",
+    "link": "https://dev.to/chamav/redis-scan-returned-1973-empty-pages-and-found-all-20-keys-2cm9",
+    "topic": "general"
+  },
+  {
+    "title": "What our CI fixes measured: shorter queues, one claim of ours that was wrong, and a 16-hour block",
+    "desc": "<p>A reader on dev.to answered our CI cost post with one comment: runner comparisons are most useful when they include queue time, cache hit",
+    "link": "https://dev.to/mouve/what-our-ci-fixes-measured-shorter-queues-one-claim-of-ours-that-was-wrong-and-a-16-hour-block-3nei",
+    "topic": "general"
+  },
+  {
+    "title": "Airflow vs Prefect vs Dagster: Modern Data Orchestration for High-Throughput Engineering",
+    "desc": "<p><em>Originally published at <a href=\"https://www.lumeir.online/2026/11/airflow-vs-prefect-vs-dagster-modern.html\" rel=\"noopener noreferre",
+    "link": "https://dev.to/chahmed312/airflow-vs-prefect-vs-dagster-modern-data-orchestration-for-high-throughput-engineering-1pfk",
     "topic": "general"
   }
 ]
