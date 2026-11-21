@@ -1,50 +1,50 @@
 [
   {
-    "title": "Kubernetes Multi-Tenancy 2026: Comparing Namespaces, Capsule, and vCluster",
-    "desc": "<p>The more teams work on a Kubernetes cluster, the louder the question about proper isolation becomes. Platform teams in 2026 face a fundam",
-    "link": "https://dev.to/saaro_net/kubernetes-multi-tenancy-2026-comparing-namespaces-capsule-and-vcluster-2fhb",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "A Month Later, Memories Merge: The One Line Every Incident Record Needs \u2014 'Temporary or Permanent?'",
-    "desc": "<h2>\n  \n  \n  The question that arrived a month later\n</h2>\n\n<p>One day in November, a non-engineer colleague came to me holding a link to a ",
-    "link": "https://dev.to/pythona/a-month-later-memories-merge-the-one-line-every-incident-record-needs-temporary-or-permanent-216a",
-    "topic": "secops"
-  },
-  {
-    "title": "The incident-response playbook structure I use: verify, contain, eradicate \u2014 in that order",
-    "desc": "<p>Most incident-response advice says \"contain the threat.\" That's wrong as a first step \u2014 or at least, it's incomplete. Here's the playbook",
-    "link": "https://dev.to/nexusfoundry/the-incident-response-playbook-structure-i-use-verify-contain-eradicate-in-that-order-45nm",
-    "topic": "secops"
-  },
-  {
-    "title": "Monitoring Vanta, Drata & SafeBase Trust Centers for SOC 2 and AI Subprocessors Without a Headless Browser (Solving Cloudflare 403)",
-    "desc": "<p>Third-Party Risk Management (TPRM) teams spend hours manually checking vendor Trust Centers across <strong>Vanta, Drata, SafeBase, Convey",
-    "link": "https://dev.to/wonderpick/monitoring-vanta-drata-safebase-trust-centers-for-soc-2-and-ai-subprocessors-without-a-headless-3nm1",
+    "title": "Desafios da \u00c1rea de DevOps/SRE/Eng. De Plataformas para 2027",
+    "desc": "<p>O ano de 2026 est\u00e1 se encerrando e agora come\u00e7amos a pensar sobre o que esperar do pr\u00f3ximo ano, 2027 em rela\u00e7\u00e3o a DevOps/SRE/Engenharia d",
+    "link": "https://dev.to/rafaelbonilha/desafios-da-area-de-devopssreeng-de-plataformas-para-2027-2854",
     "topic": "general"
   },
   {
-    "title": "Why your cold emails land in spam: the deliverability checklist I actually use",
-    "desc": "<p>Cold email isn't dead \u2014 emails sent from unauthenticated domains are. If you're doing outreach and getting ghosted, the problem is usuall",
-    "link": "https://dev.to/nexusfoundry/why-your-cold-emails-land-in-spam-the-deliverability-checklist-i-actually-use-1mkc",
+    "title": "Feature Flags & Graceful Exit Strategies: How I Turned Off IPv4 Without Breaking Everything",
+    "desc": "<p>Yesterday I wrote about enabling IPv6 in my side project. Today I didn't just talk about it \u2014 I built it. And the smartest call I made wa",
+    "link": "https://dev.to/appexuk/feature-flags-graceful-exit-strategies-how-i-turned-off-ipv4-without-breaking-everything-4646",
     "topic": "general"
   },
   {
-    "title": "I built a CVE triage CLI that queries live CISA KEV + FIRST EPSS \u2014 here's the honest version",
-    "desc": "<p>Every \"vulnerability management\" product boils down to the same question: of the 200 CVEs published this week, which 3 actually matter <e",
-    "link": "https://dev.to/nexusfoundry/i-built-a-cve-triage-cli-that-queries-live-cisa-kev-first-epss-heres-the-honest-version-5941",
+    "title": "A startup warning in your PHP error log can become RCE (CVE-2026-129496)",
+    "desc": "<p><em>AI disclosure: this post was drafted with AI assistance and reviewed and edited by the Rokkhe team. Every claim was checked against t",
+    "link": "https://dev.to/rokkhe/a-startup-warning-in-your-php-error-log-can-become-rce-cve-2026-129496-1db2",
     "topic": "general"
   },
   {
-    "title": "Claude Cracks Black\u2011Hole Physics: What It Means for AI Engineers",
-    "desc": "<h2>\n  \n  \n  1. What was released / announced\n</h2>\n\n<p>Anthropic just published a research blog post titled <strong>\"Claude solves two open",
-    "link": "https://dev.to/naveenmalothu/claude-cracks-black-hole-physics-what-it-means-for-ai-engineers-pne",
-    "topic": "anthropic"
+    "title": "The SageMaker AI Inference Router Moves Requests Across Regions After Errors or Timeouts",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>The SageMaker AI inference router is a regional Amazon Web Services resource that receives an application",
+    "link": "https://dev.to/echakiri/the-sagemaker-ai-inference-router-moves-requests-across-regions-after-errors-or-timeouts-33kf",
+    "topic": "general"
   },
   {
-    "title": "YAML vs JSON vs CSV: Conversion Traps and How to Avoid Them",
-    "desc": "<p>Data wrangling is mostly converting between YAML, JSON and CSV. Here's when each format wins and the traps when converting.</p>\n\n<h2>\n  \n",
-    "link": "https://dev.to/sanjucse/yaml-vs-json-vs-csv-conversion-traps-and-how-to-avoid-them-4pj",
+    "title": "How to protect WordPress xmlrpc.php and wp-login at the edge",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/octave_nkurunziza_afb0512/how-to-protect-wordpress-xmlrpcphp-and-wp-login-at-the-edge-178m",
+    "topic": "general"
+  },
+  {
+    "title": "Docker container keeps restarting: how to find and fix it",
+    "desc": "<p><em>Docker Engine 29.10, Docker Compose v5.7</em></p>\n\n<p>Your <strong>Docker container keeps restarting</strong>, <code>docker ps</code>",
+    "link": "https://dev.to/octave_nkurunziza_afb0512/docker-container-keeps-restarting-how-to-find-and-fix-it-2mo0",
+    "topic": "docker"
+  },
+  {
+    "title": "Exec format error in Docker: why it happens and how to fix it",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/octave_nkurunziza_afb0512/exec-format-error-in-docker-why-it-happens-and-how-to-fix-it-4j83",
+    "topic": "docker"
+  },
+  {
+    "title": "AutoSSL Quietly Dropped the Mail Name \u2014 a Cloudflare-Only Origin and the Move to DNS-01",
+    "desc": "<p><em>A field story about a cPanel certificate that renewed on time and still broke every Outlook client \u2014 the port 80 rule almost nobody c",
+    "link": "https://dev.to/daanial/autossl-quietly-dropped-the-mail-name-a-cloudflare-only-origin-and-the-move-to-dns-01-n4o",
     "topic": "general"
   }
 ]
