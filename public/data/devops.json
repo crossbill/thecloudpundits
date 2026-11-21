@@ -1,50 +1,50 @@
 [
   {
-    "title": "Inference Engineering in Production: LLM Serving, Optimization, and Scale",
-    "desc": "<p>Welcome to the production frontier of Generative AI. As open-weights models become increasingly powerful and competitive, engineering tea",
-    "link": "https://dev.to/sumit0rn/mastering-the-three-layers-of-model-serving-an-architectural-breakdown-of-philip-kielys-21nf",
-    "topic": "general"
-  },
-  {
-    "title": "I read more code than I write now, and you probably do too",
-    "desc": "<p>Most days, \"writing code\" goes like this:</p>\n\n<ol>\n<li>I describe what I want</li>\n<li>an agent writes it</li>\n<li>then I verify it</li>",
-    "link": "https://dev.to/sonar/i-read-more-code-than-i-write-now-and-you-probably-do-too-3a8",
-    "topic": "general"
-  },
-  {
-    "title": "Your Kubernetes Ingress Is One Crafted Packet Away from a Blackout: Hardening HAProxy Against HTTP/2 & HTTP/3 DoS",
-    "desc": "<p>If you run HAProxy as your Kubernetes Ingress Controller or edge load balancer, the <strong>November 2026 HAProxy CVE security bulletin</",
-    "link": "https://dev.to/riyankhamdani/your-kubernetes-ingress-is-one-crafted-packet-away-from-a-blackout-hardening-haproxy-against-509l",
+    "title": "Kubernetes Multi-Tenancy 2026: Comparing Namespaces, Capsule, and vCluster",
+    "desc": "<p>The more teams work on a Kubernetes cluster, the louder the question about proper isolation becomes. Platform teams in 2026 face a fundam",
+    "link": "https://dev.to/saaro_net/kubernetes-multi-tenancy-2026-comparing-namespaces-capsule-and-vcluster-2fhb",
     "topic": "kubernetes"
   },
   {
-    "title": "Version your MeowShield settings with each release so a protected build can be reproduced",
-    "desc": "<p>Most teams can tell you exactly which commit produced a release. Far fewer can tell you which obfuscation settings produced the protected",
-    "link": "https://dev.to/veilvm/version-your-meowshield-settings-with-each-release-so-a-protected-build-can-be-reproduced-22hl",
+    "title": "A Month Later, Memories Merge: The One Line Every Incident Record Needs \u2014 'Temporary or Permanent?'",
+    "desc": "<h2>\n  \n  \n  The question that arrived a month later\n</h2>\n\n<p>One day in November, a non-engineer colleague came to me holding a link to a ",
+    "link": "https://dev.to/pythona/a-month-later-memories-merge-the-one-line-every-incident-record-needs-temporary-or-permanent-216a",
+    "topic": "secops"
+  },
+  {
+    "title": "The incident-response playbook structure I use: verify, contain, eradicate \u2014 in that order",
+    "desc": "<p>Most incident-response advice says \"contain the threat.\" That's wrong as a first step \u2014 or at least, it's incomplete. Here's the playbook",
+    "link": "https://dev.to/nexusfoundry/the-incident-response-playbook-structure-i-use-verify-contain-eradicate-in-that-order-45nm",
+    "topic": "secops"
+  },
+  {
+    "title": "Monitoring Vanta, Drata & SafeBase Trust Centers for SOC 2 and AI Subprocessors Without a Headless Browser (Solving Cloudflare 403)",
+    "desc": "<p>Third-Party Risk Management (TPRM) teams spend hours manually checking vendor Trust Centers across <strong>Vanta, Drata, SafeBase, Convey",
+    "link": "https://dev.to/wonderpick/monitoring-vanta-drata-safebase-trust-centers-for-soc-2-and-ai-subprocessors-without-a-headless-3nm1",
     "topic": "general"
   },
   {
-    "title": "Mellanox ConnectX-4/5/6/7 NIC Migration: Compatibility, Drivers and Fabric Impact",
-    "desc": "<p>Migrating a fleet from ConnectX-4 to ConnectX-5, 6 or 7 is a slot-budget and driver-stack exercise before it is a bandwidth decision. Eac",
-    "link": "https://dev.to/shayne914816/mellanox-connectx-4567-nic-migration-compatibility-drivers-and-fabric-impact-hpn",
+    "title": "Why your cold emails land in spam: the deliverability checklist I actually use",
+    "desc": "<p>Cold email isn't dead \u2014 emails sent from unauthenticated domains are. If you're doing outreach and getting ghosted, the problem is usuall",
+    "link": "https://dev.to/nexusfoundry/why-your-cold-emails-land-in-spam-the-deliverability-checklist-i-actually-use-1mkc",
     "topic": "general"
   },
   {
-    "title": "A nightly-build handoff checklist for Unreal teams split between India and Europe or the US",
-    "desc": "<p>When part of an Unreal Engine team sits in India and the rest sits in London, Austin or Toronto, the nightly build stops being a convenie",
-    "link": "https://dev.to/juegostudiosofficial/a-nightly-build-handoff-checklist-for-unreal-teams-split-between-india-and-europe-or-the-us-56h7",
+    "title": "I built a CVE triage CLI that queries live CISA KEV + FIRST EPSS \u2014 here's the honest version",
+    "desc": "<p>Every \"vulnerability management\" product boils down to the same question: of the 200 CVEs published this week, which 3 actually matter <e",
+    "link": "https://dev.to/nexusfoundry/i-built-a-cve-triage-cli-that-queries-live-cisa-kev-first-epss-heres-the-honest-version-5941",
     "topic": "general"
   },
   {
-    "title": "Webhook Delivery, Retries & Queue Mechanics: Tenant-Aware Scheduling, Poison-Pill DLQs, and Safe Replay at Scale",
-    "desc": "<p>Reliable webhook delivery at scale is an exercise in <strong>bounded failure and controlled recovery</strong>. Dispatching an HTTP POST t",
-    "link": "https://dev.to/instawebhook/webhook-delivery-retries-queue-mechanics-tenant-aware-scheduling-poison-pill-dlqs-and-safe-1ca3",
-    "topic": "general"
+    "title": "Claude Cracks Black\u2011Hole Physics: What It Means for AI Engineers",
+    "desc": "<h2>\n  \n  \n  1. What was released / announced\n</h2>\n\n<p>Anthropic just published a research blog post titled <strong>\"Claude solves two open",
+    "link": "https://dev.to/naveenmalothu/claude-cracks-black-hole-physics-what-it-means-for-ai-engineers-pne",
+    "topic": "anthropic"
   },
   {
-    "title": "Governance by Design: Preserving Human Accountability in Agentic Pipelines",
-    "desc": "<p>As engineers shift from writing every line of code to specifying intent, constraining agents, and validating outputs, arXiv:2604.10599v1 ",
-    "link": "https://dev.to/shawdaimarie/governance-by-design-preserving-human-accountability-in-agentic-pipelines-3nhh",
+    "title": "YAML vs JSON vs CSV: Conversion Traps and How to Avoid Them",
+    "desc": "<p>Data wrangling is mostly converting between YAML, JSON and CSV. Here's when each format wins and the traps when converting.</p>\n\n<h2>\n  \n",
+    "link": "https://dev.to/sanjucse/yaml-vs-json-vs-csv-conversion-traps-and-how-to-avoid-them-4pj",
     "topic": "general"
   }
 ]
