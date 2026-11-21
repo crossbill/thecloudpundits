@@ -1,50 +1,50 @@
 [
   {
-    "title": "AWS Launches EC2 T9g Instances with Graviton5 Processors, Offering 45% Better Price Performance",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-ec2-t9g-graviton5-launch/?utm_source=devto&utm_medium=o",
-    "link": "https://dev.to/pklavc/aws-launches-ec2-t9g-instances-with-graviton5-processors-offering-45-better-price-performance-81j",
-    "topic": "aws"
-  },
-  {
-    "title": "Scaling Down by Scaling Up: How Moving GKE from E2 to C4D Cut One Cluster's Bill by 40%",
-    "desc": "<p>When you're trying to cut Kubernetes spend, the obvious move is to look at a cloud pricing sheet and pick a cheaper general purpose machi",
-    "link": "https://dev.to/dnysus/scaling-down-by-scaling-up-how-moving-gke-from-e2-to-c4d-cut-one-clusters-bill-by-40-2934",
+    "title": "Inference Engineering in Production: LLM Serving, Optimization, and Scale",
+    "desc": "<p>Welcome to the production frontier of Generative AI. As open-weights models become increasingly powerful and competitive, engineering tea",
+    "link": "https://dev.to/sumit0rn/mastering-the-three-layers-of-model-serving-an-architectural-breakdown-of-philip-kielys-21nf",
     "topic": "general"
   },
   {
-    "title": "Le di ojos dentro de Kubernetes a AWS DevOps Agent, y encontr\u00f3 lo que mis alarmas no ve\u00edan",
-    "desc": "<p>En mi cluster EKS, los pods de una API se reiniciaban solos. Algunos clientes esperaban hasta 69 segundos por una respuesta. Y en CloudWa",
-    "link": "https://dev.to/aws-builders/le-di-ojos-dentro-de-kubernetes-a-aws-devops-agent-y-encontro-lo-que-mis-alarmas-no-veian-44oa",
-    "topic": "aws"
-  },
-  {
-    "title": "Flaky tests: a triage rule that actually gets them fixed",
-    "desc": "<p>A flaky test passes and fails without any code change. One flaky test is an annoyance. A handful of them teaches the whole team to hit \"r",
-    "link": "https://dev.to/lean-team-products/flaky-tests-a-triage-rule-that-actually-gets-them-fixed-26cm",
+    "title": "I read more code than I write now, and you probably do too",
+    "desc": "<p>Most days, \"writing code\" goes like this:</p>\n\n<ol>\n<li>I describe what I want</li>\n<li>an agent writes it</li>\n<li>then I verify it</li>",
+    "link": "https://dev.to/sonar/i-read-more-code-than-i-write-now-and-you-probably-do-too-3a8",
     "topic": "general"
   },
   {
-    "title": "Three supply chain breaks in one week, zero code written",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/analista_83/three-supply-chain-breaks-in-one-week-zero-code-written-2lp2",
+    "title": "Your Kubernetes Ingress Is One Crafted Packet Away from a Blackout: Hardening HAProxy Against HTTP/2 & HTTP/3 DoS",
+    "desc": "<p>If you run HAProxy as your Kubernetes Ingress Controller or edge load balancer, the <strong>November 2026 HAProxy CVE security bulletin</",
+    "link": "https://dev.to/riyankhamdani/your-kubernetes-ingress-is-one-crafted-packet-away-from-a-blackout-hardening-haproxy-against-509l",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "Version your MeowShield settings with each release so a protected build can be reproduced",
+    "desc": "<p>Most teams can tell you exactly which commit produced a release. Far fewer can tell you which obfuscation settings produced the protected",
+    "link": "https://dev.to/veilvm/version-your-meowshield-settings-with-each-release-so-a-protected-build-can-be-reproduced-22hl",
     "topic": "general"
   },
   {
-    "title": "Logging pipeline runs without noise #i7bt4",
-    "desc": "<p>Store one structured record per run with durations and statuses, then aggregate p50/p95 instead of scanning raw logs.</p>\n\n\n\n\n<h3>\n  \n  \n",
-    "link": "https://dev.to/devnote2319/logging-pipeline-runs-without-noise-i7bt4-12he",
+    "title": "Mellanox ConnectX-4/5/6/7 NIC Migration: Compatibility, Drivers and Fabric Impact",
+    "desc": "<p>Migrating a fleet from ConnectX-4 to ConnectX-5, 6 or 7 is a slot-budget and driver-stack exercise before it is a bandwidth decision. Eac",
+    "link": "https://dev.to/shayne914816/mellanox-connectx-4567-nic-migration-compatibility-drivers-and-fabric-impact-hpn",
     "topic": "general"
   },
   {
-    "title": "Send your OpenTelemetry Collector data to LogBrew and let your AI agent read it",
-    "desc": "<p>If you already run the OpenTelemetry Collector, you don't need another SDK to try a new backend. You add one exporter. This post shows th",
-    "link": "https://dev.to/logbrew/send-your-opentelemetry-collector-data-to-logbrew-and-let-your-ai-agent-read-it-n09",
+    "title": "A nightly-build handoff checklist for Unreal teams split between India and Europe or the US",
+    "desc": "<p>When part of an Unreal Engine team sits in India and the rest sits in London, Austin or Toronto, the nightly build stops being a convenie",
+    "link": "https://dev.to/juegostudiosofficial/a-nightly-build-handoff-checklist-for-unreal-teams-split-between-india-and-europe-or-the-us-56h7",
     "topic": "general"
   },
   {
-    "title": "Master Self-Hosting with Coolify",
-    "desc": "<p>Self-hosting with Coolify enables easy deployment of apps, databases, and automatic SSL on your own VPS, giving you full control over you",
-    "link": "https://dev.to/muhammad_zeeshan_c5b0bf5b/master-self-hosting-with-coolify-d15",
+    "title": "Webhook Delivery, Retries & Queue Mechanics: Tenant-Aware Scheduling, Poison-Pill DLQs, and Safe Replay at Scale",
+    "desc": "<p>Reliable webhook delivery at scale is an exercise in <strong>bounded failure and controlled recovery</strong>. Dispatching an HTTP POST t",
+    "link": "https://dev.to/instawebhook/webhook-delivery-retries-queue-mechanics-tenant-aware-scheduling-poison-pill-dlqs-and-safe-1ca3",
+    "topic": "general"
+  },
+  {
+    "title": "Governance by Design: Preserving Human Accountability in Agentic Pipelines",
+    "desc": "<p>As engineers shift from writing every line of code to specifying intent, constraining agents, and validating outputs, arXiv:2604.10599v1 ",
+    "link": "https://dev.to/shawdaimarie/governance-by-design-preserving-human-accountability-in-agentic-pipelines-3nhh",
     "topic": "general"
   }
 ]
