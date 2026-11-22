@@ -1,50 +1,50 @@
 [
   {
-    "title": "auditd on Linux servers: rules that matter and how to check them",
-    "desc": "<p>auditd is the user-space half of the Linux audit system. The kernel checks every system call against the rules you load and hands matchin",
-    "link": "https://dev.to/als-ops/auditd-on-linux-servers-rules-that-matter-and-how-to-check-them-5gl7",
+    "title": "What Is Docker and Why Developers Love It",
+    "desc": "<h1>\n  \n  \n  What Is Docker and Why Developers Love It\n</h1>\n\n<p>Docker is an open-source platform that packages applications and their depe",
+    "link": "https://dev.to/lfazioli/what-is-docker-and-why-developers-love-it-538n",
+    "topic": "docker"
+  },
+  {
+    "title": "\"Why not just use a merge queue?\" We timed 10 AI agents through GitHub's merge queue and Git A",
+    "desc": "<p><em>Disclosure: I work on Git A, a home for code where many AI agents work on one main branch. All numbers below were measured on 22\u201323 N",
+    "link": "https://dev.to/git_a/why-not-just-use-a-merge-queue-we-timed-10-ai-agents-through-githubs-merge-queue-and-git-a-50f3",
     "topic": "general"
   },
   {
-    "title": "Google Cloud for Beginners: Start Building on GCP",
-    "desc": "<p>Google Cloud Platform, or GCP, is Google's cloud \u2014 the same infrastructure that runs Search, YouTube, and Gmail, rented out to you. You c",
-    "link": "https://dev.to/arhan_khan/google-cloud-for-beginners-start-building-on-gcp-5636",
-    "topic": "gcp"
-  },
-  {
-    "title": "Unkernel: Linux real en WebAssembly, afirma arrancar en 1s",
-    "desc": "<p>Unkernel es un kernel Linux real que arranca dentro del navegador en menos de un segundo, compilado entero a WebAssembly junto con sus sy",
-    "link": "https://dev.to/lu1tr0n/unkernel-linux-real-en-webassembly-afirma-arrancar-en-1s-2562",
+    "title": "Wireshark for Defensive Network Analysis: Read the Traffic Without Guessing",
+    "desc": "<h1>\n  \n  \n  Wireshark for Defensive Network Analysis\n</h1>\n\n<p>Wireshark turns network traffic into observable data. It is useful for diagn",
+    "link": "https://dev.to/lfazioli/wireshark-per-lanalisi-difensiva-leggere-il-traffico-senza-indovinare-had",
     "topic": "general"
   },
   {
-    "title": "Azure for Beginners: Cloud Computing Without the Jargon",
-    "desc": "<p>Microsoft Azure is a cloud platform \u2014 a place to run your apps, store your data, and use services like databases and AI without buying yo",
-    "link": "https://dev.to/arhan_khan/azure-for-beginners-cloud-computing-without-the-jargon-33m7",
-    "topic": "azure"
+    "title": "Google Introduces Semantic Governance Policies for AI Agents to Enhance Security and Control",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/google-ai-agent-semantic-governance-policies/?utm_source=de",
+    "link": "https://dev.to/pklavc/google-introduces-semantic-governance-policies-for-ai-agents-to-enhance-security-and-control-dff",
+    "topic": "secops"
   },
   {
-    "title": "Why Autonomous AI Coding Agents Must Be Governed by the Exit Code 0 Mandate",
-    "desc": "<p>If you have ever asked a generative AI model to fix a compilation bug, refactor a library, or deploy a service, you have likely encounter",
-    "link": "https://dev.to/mr_flow/why-autonomous-ai-coding-agents-must-be-governed-by-the-exit-code-0-mandate-52l1",
+    "title": "4 GitHub Actions Workflows That Eliminate Repetitive Engineering Tasks",
+    "desc": "<p>Software engineering teams rarely lose hours solely on writing business logic. Instead, productivity bleeds out through small, recurring ",
+    "link": "https://dev.to/tanmay2627/4-github-actions-workflows-that-eliminate-repetitive-engineering-tasks-3856",
     "topic": "general"
   },
   {
-    "title": "A Type Name in a Report Body: Puppet Enterprise's CVE-2026-115731 Deserialization RCE",
-    "desc": "<p><em>This is the English edition of a Korean report published on 18 November 2026. The original is at <a href=\"https://dohyeontech.github.",
-    "link": "https://dev.to/dohyeontech/a-type-name-in-a-report-body-puppet-enterprises-cve-2026-115731-deserialization-rce-265p",
+    "title": "I Deleted kubectl apply From My Workflow. Here's What Replaced It.",
+    "desc": "<p>Before this migration, here was the state of my Kubernetes platform:</p>\n\n<ul>\n<li>7 Helm releases running on AWS EKS \u2014 kube-prometheus-s",
+    "link": "https://dev.to/ramesh-yara/i-deleted-kubectl-apply-from-my-workflow-heres-what-replaced-it-4m7d",
     "topic": "general"
   },
   {
-    "title": "AI SRE: what changes for reliability day to day, from model monitoring to staged autonomy",
-    "desc": "<p>SRE reliability is changing shape with artificial intelligence, and not only because there are new services to monitor. AI arrives from b",
-    "link": "https://dev.to/spanobserver/ai-sre-what-changes-for-reliability-day-to-day-from-model-monitoring-to-staged-autonomy-536i",
-    "topic": "general"
-  },
-  {
-    "title": "AWS Security and Operations Recap: How IAM, CloudTrail, Config, KMS and Backup Fit Together",
-    "desc": "<p>Over the last few posts I covered the services that keep an AWS account safe and tidy. Today is a recap: what each one does, and how they",
-    "link": "https://dev.to/robinsishodia/aws-security-and-operations-recap-how-iam-cloudtrail-config-kms-and-backup-fit-together-2h27",
+    "title": "Automating Container Delivery on AWS: Building a CI/CD Pipeline for a Dockerized Web App on ECS Fargate",
+    "desc": "<p><strong>Author:</strong> Muhammad Bilal Sharif Bukhari<br /><br />\n<strong>LinkedIn:</strong> <a href=\"https://www.linkedin.com/in/bilalb",
+    "link": "https://dev.to/bilal_bukhari_75aeb34a969/automating-container-delivery-on-aws-building-a-cicd-pipeline-for-a-dockerized-web-app-on-ecs-2em4",
     "topic": "aws"
+  },
+  {
+    "title": "Dry-run your ECR lifecycle policy before it deletes a multi-arch image you still run",
+    "desc": "<p><em>Why an \"untagged\" lifecycle rule can remove parts of a tagged image built for several platforms in Amazon ECR and how to check your p",
+    "link": "https://dev.to/ritompuzari/dry-run-your-ecr-lifecycle-policy-before-it-deletes-a-multi-arch-image-you-still-run-1d5p",
+    "topic": "general"
   }
 ]
