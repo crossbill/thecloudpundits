@@ -1,50 +1,50 @@
 [
   {
-    "title": "Desafios da \u00c1rea de DevOps/SRE/Eng. De Plataformas para 2027",
-    "desc": "<p>O ano de 2026 est\u00e1 se encerrando e agora come\u00e7amos a pensar sobre o que esperar do pr\u00f3ximo ano, 2027 em rela\u00e7\u00e3o a DevOps/SRE/Engenharia d",
-    "link": "https://dev.to/rafaelbonilha/desafios-da-area-de-devopssreeng-de-plataformas-para-2027-2854",
-    "topic": "general"
+    "title": "The most complete log was the attacker's: notes on the Cairn / MONAI Label zero-day",
+    "desc": "<p>On 20 November 2026 Amazon Threat Intelligence reported that a threat actor's Cairn AI agents found and exploited a zero-day in MONAI Lab",
+    "link": "https://dev.to/veritaschain/the-most-complete-log-was-the-attackers-notes-on-the-cairn-monai-label-zero-day-52bp",
+    "topic": "secops"
   },
   {
-    "title": "Feature Flags & Graceful Exit Strategies: How I Turned Off IPv4 Without Breaking Everything",
-    "desc": "<p>Yesterday I wrote about enabling IPv6 in my side project. Today I didn't just talk about it \u2014 I built it. And the smartest call I made wa",
-    "link": "https://dev.to/appexuk/feature-flags-graceful-exit-strategies-how-i-turned-off-ipv4-without-breaking-everything-4646",
-    "topic": "general"
-  },
-  {
-    "title": "A startup warning in your PHP error log can become RCE (CVE-2026-129496)",
-    "desc": "<p><em>AI disclosure: this post was drafted with AI assistance and reviewed and edited by the Rokkhe team. Every claim was checked against t",
-    "link": "https://dev.to/rokkhe/a-startup-warning-in-your-php-error-log-can-become-rce-cve-2026-129496-1db2",
-    "topic": "general"
-  },
-  {
-    "title": "The SageMaker AI Inference Router Moves Requests Across Regions After Errors or Timeouts",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>The SageMaker AI inference router is a regional Amazon Web Services resource that receives an application",
-    "link": "https://dev.to/echakiri/the-sagemaker-ai-inference-router-moves-requests-across-regions-after-errors-or-timeouts-33kf",
-    "topic": "general"
-  },
-  {
-    "title": "How to protect WordPress xmlrpc.php and wp-login at the edge",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/octave_nkurunziza_afb0512/how-to-protect-wordpress-xmlrpcphp-and-wp-login-at-the-edge-178m",
-    "topic": "general"
-  },
-  {
-    "title": "Docker container keeps restarting: how to find and fix it",
-    "desc": "<p><em>Docker Engine 29.10, Docker Compose v5.7</em></p>\n\n<p>Your <strong>Docker container keeps restarting</strong>, <code>docker ps</code>",
-    "link": "https://dev.to/octave_nkurunziza_afb0512/docker-container-keeps-restarting-how-to-find-and-fix-it-2mo0",
+    "title": "Docker CI: Isolate Email Fixtures by Build",
+    "desc": "<p>Email verification tests become unreliable when every CI build shares the same inbox. A pull request starts a few jobs, a retry starts a ",
+    "link": "https://dev.to/jasonmills94/docker-ci-isolate-email-fixtures-by-build-5eeg",
     "topic": "docker"
   },
   {
-    "title": "Exec format error in Docker: why it happens and how to fix it",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/octave_nkurunziza_afb0512/exec-format-error-in-docker-why-it-happens-and-how-to-fix-it-4j83",
-    "topic": "docker"
+    "title": "Roller 6.1.4 looked safe for two months. Then it was being exploited.",
+    "desc": "<p><em>One real bug, a week of security news, and how I try to hear about the vulnerability that is mine.</em></p>\n\n<p>Say you run a small e",
+    "link": "https://dev.to/vasylduda/roller-614-looked-safe-for-two-months-then-it-was-being-exploited-3h7p",
+    "topic": "general"
   },
   {
-    "title": "AutoSSL Quietly Dropped the Mail Name \u2014 a Cloudflare-Only Origin and the Move to DNS-01",
-    "desc": "<p><em>A field story about a cPanel certificate that renewed on time and still broke every Outlook client \u2014 the port 80 rule almost nobody c",
-    "link": "https://dev.to/daanial/autossl-quietly-dropped-the-mail-name-a-cloudflare-only-origin-and-the-move-to-dns-01-n4o",
+    "title": "Private Browser File Uploads: Object Storage Service and 3-Stage Throughput",
+    "desc": "<p>Short answer: for a marketplace accepting private browser uploads, the least complex design is a direct-to-object-storage upload followed",
+    "link": "https://dev.to/riftg84/private-browser-file-uploads-object-storage-service-and-3-stage-throughput-1c79",
     "topic": "general"
+  },
+  {
+    "title": "Next.js Hosting for Headless CMS",
+    "desc": "<p>If you want to use Next.js as the frontend for a headless CMS, this covers where to host it and what each option costs you in money and D",
+    "link": "https://dev.to/kevinlearynet/nextjs-hosting-for-headless-cms-3487",
+    "topic": "general"
+  },
+  {
+    "title": "Your Download Is Slow and It's Not Your ISP: A Layer-by-Layer Guide to Debugging Network Throughput",
+    "desc": "<p>Tu\u1ea7n n\u00e0y tr\u00ean Hacker News c\u00f3 m\u1ed9t b\u00e0i kh\u00e1 hot: m\u1ed9t anh dev ph\u00e1t hi\u1ec7n c\u00e1i m\u00e0n h\u00ecnh c\u1ee7a m\u00ecnh l\u00e0m t\u1ed1c \u0111\u1ed9 download gi\u1ea3m t\u1edbi 75%. Nghe th\u00ec bu\u1ed3n",
+    "link": "https://dev.to/eme_gug_0821b41b948be6516/your-download-is-slow-and-its-not-your-isp-a-layer-by-layer-guide-to-debugging-network-throughput-3dd9",
+    "topic": "general"
+  },
+  {
+    "title": "What 1 GB and 16 GB of managed Postgres really cost: notes from 11 providers",
+    "desc": "<p>I wanted a plain answer to a plain question: what does it cost to keep one Postgres database running all month on a managed service? Not ",
+    "link": "https://dev.to/alanslui/what-1-gb-and-16-gb-of-managed-postgres-really-cost-notes-from-11-providers-5a12",
+    "topic": "general"
+  },
+  {
+    "title": "Designing and Automating a Zero-Downtime Container CI/CD Pipeline on AWS",
+    "desc": "<p>The goal of this project is to build a fully automated, serverless CI/CD (Continuous Integration and Continuous Deployment) pipeline on A",
+    "link": "https://dev.to/haroonkhancyber/designing-and-automating-a-zero-downtime-container-cicd-pipeline-on-aws-4de4",
+    "topic": "aws"
   }
 ]
