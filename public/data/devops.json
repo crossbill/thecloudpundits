@@ -1,50 +1,50 @@
 [
   {
-    "title": "I run every AI agent run in its own Firecracker microVM. Here's what I learned.",
-    "desc": "<p>Coding agents kept running commands I hadn't read, on machines I cared about. So each run in Sandscale now gets its own Firecracker micro",
-    "link": "https://dev.to/sandscale/i-run-every-ai-agent-run-in-its-own-firecracker-microvm-heres-what-i-learned-35ce",
+    "title": "auditd on Linux servers: rules that matter and how to check them",
+    "desc": "<p>auditd is the user-space half of the Linux audit system. The kernel checks every system call against the rules you load and hands matchin",
+    "link": "https://dev.to/als-ops/auditd-on-linux-servers-rules-that-matter-and-how-to-check-them-5gl7",
     "topic": "general"
   },
   {
-    "title": "I kept hand-writing the same Laravel VPS configs, so I built a generator",
-    "desc": "<p>Every Laravel deploy on a cheap VPS is the same five files. nginx server block. PHP-FPM pool. A Supervisor program for the queue workers.",
-    "link": "https://dev.to/mahmudhasan/i-kept-hand-writing-the-same-laravel-vps-configs-so-i-built-a-generator-3dkf",
+    "title": "Google Cloud for Beginners: Start Building on GCP",
+    "desc": "<p>Google Cloud Platform, or GCP, is Google's cloud \u2014 the same infrastructure that runs Search, YouTube, and Gmail, rented out to you. You c",
+    "link": "https://dev.to/arhan_khan/google-cloud-for-beginners-start-building-on-gcp-5636",
+    "topic": "gcp"
+  },
+  {
+    "title": "Unkernel: Linux real en WebAssembly, afirma arrancar en 1s",
+    "desc": "<p>Unkernel es un kernel Linux real que arranca dentro del navegador en menos de un segundo, compilado entero a WebAssembly junto con sus sy",
+    "link": "https://dev.to/lu1tr0n/unkernel-linux-real-en-webassembly-afirma-arrancar-en-1s-2562",
     "topic": "general"
   },
   {
-    "title": "Build a 3-Tier WordPress Website on AWS (VPC, ALB, EC2, RDS, EFS)",
-    "desc": "<p>Running WordPress on one server is easy. Running it in a way that is secure, redundant and ready to scale is where the learning happens. ",
-    "link": "https://dev.to/zahid_rasool_1792a8e2628b/build-a-3-tier-wordpress-website-on-aws-vpc-alb-ec2-rds-efs-3n91",
+    "title": "Azure for Beginners: Cloud Computing Without the Jargon",
+    "desc": "<p>Microsoft Azure is a cloud platform \u2014 a place to run your apps, store your data, and use services like databases and AI without buying yo",
+    "link": "https://dev.to/arhan_khan/azure-for-beginners-cloud-computing-without-the-jargon-33m7",
+    "topic": "azure"
+  },
+  {
+    "title": "Why Autonomous AI Coding Agents Must Be Governed by the Exit Code 0 Mandate",
+    "desc": "<p>If you have ever asked a generative AI model to fix a compilation bug, refactor a library, or deploy a service, you have likely encounter",
+    "link": "https://dev.to/mr_flow/why-autonomous-ai-coding-agents-must-be-governed-by-the-exit-code-0-mandate-52l1",
+    "topic": "general"
+  },
+  {
+    "title": "A Type Name in a Report Body: Puppet Enterprise's CVE-2026-115731 Deserialization RCE",
+    "desc": "<p><em>This is the English edition of a Korean report published on 18 November 2026. The original is at <a href=\"https://dohyeontech.github.",
+    "link": "https://dev.to/dohyeontech/a-type-name-in-a-report-body-puppet-enterprises-cve-2026-115731-deserialization-rce-265p",
+    "topic": "general"
+  },
+  {
+    "title": "AI SRE: what changes for reliability day to day, from model monitoring to staged autonomy",
+    "desc": "<p>SRE reliability is changing shape with artificial intelligence, and not only because there are new services to monitor. AI arrives from b",
+    "link": "https://dev.to/spanobserver/ai-sre-what-changes-for-reliability-day-to-day-from-model-monitoring-to-staged-autonomy-536i",
+    "topic": "general"
+  },
+  {
+    "title": "AWS Security and Operations Recap: How IAM, CloudTrail, Config, KMS and Backup Fit Together",
+    "desc": "<p>Over the last few posts I covered the services that keep an AWS account safe and tidy. Today is a recap: what each one does, and how they",
+    "link": "https://dev.to/robinsishodia/aws-security-and-operations-recap-how-iam-cloudtrail-config-kms-and-backup-fit-together-2h27",
     "topic": "aws"
-  },
-  {
-    "title": "GitLab: which versions still get updates",
-    "desc": "<p>Which versions still get updates, which only security fixes \u2014 and which none. Updated daily.</p>\n\n<p>Recommended: GitLab 19.6 (latest 19.",
-    "link": "https://dev.to/mikweb2025design/gitlab-which-versions-still-get-updates-55eg",
-    "topic": "general"
-  },
-  {
-    "title": "Black Friday 2026: how to spot a fake online shop in 60 seconds, before you pay",
-    "desc": "<p><strong>The dates:</strong> Black Friday is on <strong>Friday, 27 November 2026</strong>, Cyber Monday on <strong>30 November</strong>. M",
-    "link": "https://dev.to/mikweb2025design/black-friday-2026-how-to-spot-a-fake-online-shop-in-60-seconds-before-you-pay-2902",
-    "topic": "general"
-  },
-  {
-    "title": "GitHub Actions \"Canceling since a higher priority waiting request exists\": Concurrency Settings for CI vs Deploys",
-    "desc": "<p><strong>Short answer:</strong> that message means a <code>concurrency</code> group is working as designed. GitHub allows one running and ",
-    "link": "https://dev.to/libme/github-actions-canceling-since-a-higher-priority-waiting-request-exists-concurrency-settings-for-5hjf",
-    "topic": "general"
-  },
-  {
-    "title": "3-Tire WordPress website Deployment on AWS",
-    "desc": "<p>Deploying WordPress on AWS with a 3-Tier Architecture</p>\n\n<p>Hosting WordPress on one server works until that server crashes, traffic sp",
-    "link": "https://dev.to/ayesha_ramey_1e7edef600fd/3-tire-wordpress-website-deployment-on-aws-31m8",
-    "topic": "aws"
-  },
-  {
-    "title": "Building a Kubernetes CI/CD Pipeline Without Giving GitHub Actions a Kubeconfig",
-    "desc": "<p>Hi guys! In the previous part of this Kubernetes series, I discussed how I used MetalLB, Envoy Gateway, and Gateway API to give multiple ",
-    "link": "https://dev.to/abrahamnaiborhu/building-a-kubernetes-cicd-pipeline-without-giving-github-actions-a-kubeconfig-55n2",
-    "topic": "kubernetes"
   }
 ]
