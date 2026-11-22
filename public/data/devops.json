@@ -1,50 +1,50 @@
 [
   {
-    "title": "The most complete log was the attacker's: notes on the Cairn / MONAI Label zero-day",
-    "desc": "<p>On 20 November 2026 Amazon Threat Intelligence reported that a threat actor's Cairn AI agents found and exploited a zero-day in MONAI Lab",
-    "link": "https://dev.to/veritaschain/the-most-complete-log-was-the-attackers-notes-on-the-cairn-monai-label-zero-day-52bp",
-    "topic": "secops"
-  },
-  {
-    "title": "Docker CI: Isolate Email Fixtures by Build",
-    "desc": "<p>Email verification tests become unreliable when every CI build shares the same inbox. A pull request starts a few jobs, a retry starts a ",
-    "link": "https://dev.to/jasonmills94/docker-ci-isolate-email-fixtures-by-build-5eeg",
-    "topic": "docker"
-  },
-  {
-    "title": "Roller 6.1.4 looked safe for two months. Then it was being exploited.",
-    "desc": "<p><em>One real bug, a week of security news, and how I try to hear about the vulnerability that is mine.</em></p>\n\n<p>Say you run a small e",
-    "link": "https://dev.to/vasylduda/roller-614-looked-safe-for-two-months-then-it-was-being-exploited-3h7p",
+    "title": "I run every AI agent run in its own Firecracker microVM. Here's what I learned.",
+    "desc": "<p>Coding agents kept running commands I hadn't read, on machines I cared about. So each run in Sandscale now gets its own Firecracker micro",
+    "link": "https://dev.to/sandscale/i-run-every-ai-agent-run-in-its-own-firecracker-microvm-heres-what-i-learned-35ce",
     "topic": "general"
   },
   {
-    "title": "Private Browser File Uploads: Object Storage Service and 3-Stage Throughput",
-    "desc": "<p>Short answer: for a marketplace accepting private browser uploads, the least complex design is a direct-to-object-storage upload followed",
-    "link": "https://dev.to/riftg84/private-browser-file-uploads-object-storage-service-and-3-stage-throughput-1c79",
+    "title": "I kept hand-writing the same Laravel VPS configs, so I built a generator",
+    "desc": "<p>Every Laravel deploy on a cheap VPS is the same five files. nginx server block. PHP-FPM pool. A Supervisor program for the queue workers.",
+    "link": "https://dev.to/mahmudhasan/i-kept-hand-writing-the-same-laravel-vps-configs-so-i-built-a-generator-3dkf",
     "topic": "general"
   },
   {
-    "title": "Next.js Hosting for Headless CMS",
-    "desc": "<p>If you want to use Next.js as the frontend for a headless CMS, this covers where to host it and what each option costs you in money and D",
-    "link": "https://dev.to/kevinlearynet/nextjs-hosting-for-headless-cms-3487",
-    "topic": "general"
-  },
-  {
-    "title": "Your Download Is Slow and It's Not Your ISP: A Layer-by-Layer Guide to Debugging Network Throughput",
-    "desc": "<p>Tu\u1ea7n n\u00e0y tr\u00ean Hacker News c\u00f3 m\u1ed9t b\u00e0i kh\u00e1 hot: m\u1ed9t anh dev ph\u00e1t hi\u1ec7n c\u00e1i m\u00e0n h\u00ecnh c\u1ee7a m\u00ecnh l\u00e0m t\u1ed1c \u0111\u1ed9 download gi\u1ea3m t\u1edbi 75%. Nghe th\u00ec bu\u1ed3n",
-    "link": "https://dev.to/eme_gug_0821b41b948be6516/your-download-is-slow-and-its-not-your-isp-a-layer-by-layer-guide-to-debugging-network-throughput-3dd9",
-    "topic": "general"
-  },
-  {
-    "title": "What 1 GB and 16 GB of managed Postgres really cost: notes from 11 providers",
-    "desc": "<p>I wanted a plain answer to a plain question: what does it cost to keep one Postgres database running all month on a managed service? Not ",
-    "link": "https://dev.to/alanslui/what-1-gb-and-16-gb-of-managed-postgres-really-cost-notes-from-11-providers-5a12",
-    "topic": "general"
-  },
-  {
-    "title": "Designing and Automating a Zero-Downtime Container CI/CD Pipeline on AWS",
-    "desc": "<p>The goal of this project is to build a fully automated, serverless CI/CD (Continuous Integration and Continuous Deployment) pipeline on A",
-    "link": "https://dev.to/haroonkhancyber/designing-and-automating-a-zero-downtime-container-cicd-pipeline-on-aws-4de4",
+    "title": "Build a 3-Tier WordPress Website on AWS (VPC, ALB, EC2, RDS, EFS)",
+    "desc": "<p>Running WordPress on one server is easy. Running it in a way that is secure, redundant and ready to scale is where the learning happens. ",
+    "link": "https://dev.to/zahid_rasool_1792a8e2628b/build-a-3-tier-wordpress-website-on-aws-vpc-alb-ec2-rds-efs-3n91",
     "topic": "aws"
+  },
+  {
+    "title": "GitLab: which versions still get updates",
+    "desc": "<p>Which versions still get updates, which only security fixes \u2014 and which none. Updated daily.</p>\n\n<p>Recommended: GitLab 19.6 (latest 19.",
+    "link": "https://dev.to/mikweb2025design/gitlab-which-versions-still-get-updates-55eg",
+    "topic": "general"
+  },
+  {
+    "title": "Black Friday 2026: how to spot a fake online shop in 60 seconds, before you pay",
+    "desc": "<p><strong>The dates:</strong> Black Friday is on <strong>Friday, 27 November 2026</strong>, Cyber Monday on <strong>30 November</strong>. M",
+    "link": "https://dev.to/mikweb2025design/black-friday-2026-how-to-spot-a-fake-online-shop-in-60-seconds-before-you-pay-2902",
+    "topic": "general"
+  },
+  {
+    "title": "GitHub Actions \"Canceling since a higher priority waiting request exists\": Concurrency Settings for CI vs Deploys",
+    "desc": "<p><strong>Short answer:</strong> that message means a <code>concurrency</code> group is working as designed. GitHub allows one running and ",
+    "link": "https://dev.to/libme/github-actions-canceling-since-a-higher-priority-waiting-request-exists-concurrency-settings-for-5hjf",
+    "topic": "general"
+  },
+  {
+    "title": "3-Tire WordPress website Deployment on AWS",
+    "desc": "<p>Deploying WordPress on AWS with a 3-Tier Architecture</p>\n\n<p>Hosting WordPress on one server works until that server crashes, traffic sp",
+    "link": "https://dev.to/ayesha_ramey_1e7edef600fd/3-tire-wordpress-website-deployment-on-aws-31m8",
+    "topic": "aws"
+  },
+  {
+    "title": "Building a Kubernetes CI/CD Pipeline Without Giving GitHub Actions a Kubeconfig",
+    "desc": "<p>Hi guys! In the previous part of this Kubernetes series, I discussed how I used MetalLB, Envoy Gateway, and Gateway API to give multiple ",
+    "link": "https://dev.to/abrahamnaiborhu/building-a-kubernetes-cicd-pipeline-without-giving-github-actions-a-kubeconfig-55n2",
+    "topic": "kubernetes"
   }
 ]
