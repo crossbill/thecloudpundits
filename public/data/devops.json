@@ -1,50 +1,50 @@
 [
   {
-    "title": "How to manage Docker over SSH: contexts, logs, Compose and cleanup",
-    "desc": "<h2>\n  \n  \n  Three ways to manage Docker over SSH\n</h2>\n\n<p>You do not need to expose the Docker API to work with containers on a server. SS",
-    "link": "https://dev.to/wardterm/how-to-manage-docker-over-ssh-contexts-logs-compose-and-cleanup-2ale",
-    "topic": "docker"
-  },
-  {
-    "title": "How to Draw a Kubernetes Architecture Diagram (with Free Template)",
-    "desc": "<p>Most Kubernetes diagrams fail in one of two ways: they are a wall of Pod icons nobody can read, or a three-box sketch that says \"cluster\"",
-    "link": "https://dev.to/haliloncen/how-to-draw-a-kubernetes-architecture-diagram-with-free-template-455j",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "AWS Emulator: Test Against AWS on Your Laptop With No Account (What to Check First)",
-    "desc": "<p>AWS just shipped its own local emulator. Yes, really. It's called <strong>AWS Emulator</strong>, it's open source, it's written in Rust, ",
-    "link": "https://dev.to/damogallagher/aws-emulator-test-against-aws-on-your-laptop-with-no-account-what-to-check-first-5ddd",
-    "topic": "aws"
-  },
-  {
-    "title": "Data Hub in AWS Billing and Cost Management: Can It Replace Your CUR Pipeline?",
-    "desc": "<p>Do you still need your Cost and Usage Report pipeline?</p>\n\n<p>AWS has put <strong>Data Hub</strong> into Billing and Cost Management as ",
-    "link": "https://dev.to/damogallagher/data-hub-in-aws-billing-and-cost-management-can-it-replace-your-cur-pipeline-g8m",
-    "topic": "aws"
-  },
-  {
-    "title": "vCenter CVE-2026-123890: an emergency update runbook for VMware admins",
-    "desc": "<p>Broadcom fixed CVE-2026-123890 on 19 November 2026 (advisory VMSA-2026-0009). It is an authentication bypass in the VMware Directory Serv",
-    "link": "https://dev.to/affix_centersoftechserv/vcenter-cve-2026-123890-an-emergency-update-runbook-for-vmware-admins-231i",
+    "title": "What Backup and Disaster Recovery Tools Don't Recover (2026): Configuration, Identity, DNS, and Secrets Gaps",
+    "desc": "<p>Backup and disaster recovery tools recover data and servers, but a business also needs its cloud configuration, identity, DNS, certificat",
+    "link": "https://dev.to/noahcontrolplane/what-backup-and-disaster-recovery-tools-dont-recover-2026-configuration-identity-dns-and-ehp",
     "topic": "general"
   },
   {
-    "title": "How to Detect an AI Agent Attack That Survives the Chat",
-    "desc": "<p><em>A practical guide to finding poisoned memory, forged approvals, unauthorized settings and malicious code that remains after a task.</",
-    "link": "https://dev.to/diggingbeagle/how-to-detect-an-ai-agent-attack-that-survives-the-chat-m6n",
-    "topic": "secops"
+    "title": "Alternatives to EKS, GKE, and AKS in 2026: What Staying Costs and What Changes When You Move",
+    "desc": "<p>The best alternative to EKS, GKE, or AKS depends on why you are leaving: cost, the operations work a cluster still needs, lock-in to one ",
+    "link": "https://dev.to/noahcontrolplane/alternatives-to-eks-gke-and-aks-in-2026-what-staying-costs-and-what-changes-when-you-move-2312",
+    "topic": "general"
   },
   {
-    "title": "4 AWS Cost Optimization Fixes for Early-Stage Startups",
-    "desc": "<p>Most startups do not have an AWS architecture problem. They have an attention problem. </p>\n\n<p>Cloud bills rarely explode because of one",
-    "link": "https://dev.to/tanmay2627/4-aws-cost-optimization-fixes-for-early-stage-startups-1j7o",
+    "title": "new row violates check constraint on documents.source",
+    "desc": "<h2>\n  \n  \n  The short version\n</h2>\n\n<p>The <code>documents</code> table's <code>source</code> column had a CHECK constraint, <code>documen",
+    "link": "https://dev.to/cometakaito/new-row-violates-check-constraint-on-documentssource-3ia0",
+    "topic": "general"
+  },
+  {
+    "title": "[GUIA AWS CLOUD PRACTITIONER] #04 - ALCANCE GLOBAL",
+    "desc": "<p>A infraestrutura global da Amazon Web Services (AWS) permite que aplica\u00e7\u00f5es e servi\u00e7os sejam implantados em diferentes partes do mundo, o",
+    "link": "https://dev.to/lima1301lucas/guia-aws-cloud-practitioner-04-alcance-global-2e7o",
     "topic": "aws"
   },
   {
-    "title": "AWS FinOps Field Notes: Auditing Orphaned EBS Snapshots After EC2 Termination",
-    "desc": "<p>Terminating an EC2 instance deletes its root volume by default, but snapshots stay behind. Manual snapshots, AMI-backed snapshots, and sn",
-    "link": "https://dev.to/ace7coder/aws-finops-field-notes-auditing-orphaned-ebs-snapshots-after-ec2-termination-6p9",
-    "topic": "aws"
+    "title": "OpenSRE: A New Solution for CI/CD Reliability Challenges",
+    "desc": "<h2>\n  \n  \n  The Specific Problem It Solves\n</h2>\n\n<p>OpenSRE tackles the challenge of understanding CI failures, which often leave teams un",
+    "link": "https://dev.to/gittrending/opensre-a-new-solution-for-cicd-reliability-challenges-2m4h",
+    "topic": "general"
+  },
+  {
+    "title": "Clean Architecture for Backend Services: When to Use It and How",
+    "desc": "<p>Many engineering teams fall into one of two architectural traps: they prematurely over-engineer simple microservices with complex abstrac",
+    "link": "https://dev.to/tanmay2627/clean-architecture-for-backend-services-when-to-use-it-and-how-1ba9",
+    "topic": "general"
+  },
+  {
+    "title": "Cloud Hygiene Without Production Changes: A Safer First Assessment",
+    "desc": "<p>Teams often ask an assessor for administrator access just to find out what is already in the cloud account. That request creates risk of ",
+    "link": "https://dev.to/accumentum/cloud-hygiene-without-production-changes-a-safer-first-assessment-3c1i",
+    "topic": "general"
+  },
+  {
+    "title": "How to Estimate Kubernetes CPU and Memory Requirements with a Free Online Calculator",
+    "desc": "<p>One thing I've noticed when working with Kubernetes is that deploying an application is only part of the job.</p>\n\n<p>You also need to th",
+    "link": "https://dev.to/krypt_a46eccca1b8488/how-to-estimate-kubernetes-cpu-and-memory-requirements-with-a-free-online-calculator-328h",
+    "topic": "kubernetes"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
+    "desc": "<p>Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected",
+    "link": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+    "topic": "azure"
+  },
+  {
+    "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+    "desc": "<p>The company has restored access to the affected services and continues to monitor the affected environments.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+    "topic": "secops"
+  },
+  {
+    "title": "phpAfterShell Vulnerability Revives PHP2Shell\u2019s Attack Path",
+    "desc": "<p>If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE.</p>\n",
+    "link": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+    "topic": "secops"
+  },
+  {
+    "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
+    "desc": "<p>Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware.</",
+    "link": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+    "topic": "general"
+  },
+  {
+    "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
+    "desc": "<p>Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services.</p>\n<p>The p",
+    "link": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
+    "topic": "general"
+  },
+  {
     "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
     "desc": "<p>Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies.\u00a0</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
@@ -16,35 +46,5 @@
     "desc": "<p>CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue.</p>\n<p>The post <a href=\"https://www.",
     "link": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
     "topic": "general"
-  },
-  {
-    "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
-    "desc": "<p>The FBI is investigating an apparent hack of a national law enforcement database that it maintains.</p>\n<p>The post <a href=\"https://www.",
-    "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
-    "topic": "general"
-  },
-  {
-    "title": "President Trump Taps Kirsten Davies as National Cyber Director",
-    "desc": "<p>White House says the battle-tested cyber leader will drive an America First cyber strategy.</p>\n<p>The post <a href=\"https://www.security",
-    "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
-    "topic": "secops"
-  },
-  {
-    "title": "Amazon: China-Linked Hackers\u2019 AI Agents Exploited Medical Software Zero-Day",
-    "desc": "<p>A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
-    "topic": "general"
-  },
-  {
-    "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
-    "desc": "<p>Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp\u2019s security team, and it may have been used to make scam messages more ",
-    "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
-    "topic": "general"
-  },
-  {
-    "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
-    "desc": "<p>Noteworthy stories that might have slipped under the radar:\u00a0 EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in ",
-    "link": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
-    "topic": "secops"
   }
 ]
