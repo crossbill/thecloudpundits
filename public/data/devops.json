@@ -1,50 +1,50 @@
 [
   {
-    "title": "What Is Docker and Why Developers Love It",
-    "desc": "<h1>\n  \n  \n  What Is Docker and Why Developers Love It\n</h1>\n\n<p>Docker is an open-source platform that packages applications and their depe",
-    "link": "https://dev.to/lfazioli/what-is-docker-and-why-developers-love-it-538n",
+    "title": "Does */5 in crontab include minute 0?",
+    "desc": "<p><code>*/5</code> in a crontab is cron every 5 minutes \u2014 and yes, that includes minute 0. The line is <code>*/5 * * * *</code>. In the min",
+    "link": "https://dev.to/ameenusman/does-5-in-crontab-include-minute-0-44lf",
+    "topic": "general"
+  },
+  {
+    "title": "Deploy Laravel to your own VPS with zero downtime, for free (with Cipi)",
+    "desc": "<p>Deploying Laravel usually goes one of two ways. You pay every month for a hosted panel that manages your servers, or you spend a weekend ",
+    "link": "https://dev.to/andreapollastri/deploy-laravel-to-your-own-vps-with-zero-downtime-for-free-with-cipi-5blj",
+    "topic": "general"
+  },
+  {
+    "title": "A Proxy Cannot Read Your HTTPS Body. It Still Sees More Than You Think.",
+    "desc": "<p>Two engineers run the same traffic through the same proxy. One says the provider cannot see anything because the site is HTTPS. The other",
+    "link": "https://dev.to/socks5ip/a-proxy-cannot-read-your-https-body-it-still-sees-more-than-you-think-482f",
+    "topic": "general"
+  },
+  {
+    "title": "CVE-2026-134804 (8.8): Portainer Lets Standard Users Reach Other Teams' Containers",
+    "desc": "<p>Portainer is the Docker and Kubernetes management UI most container estates run. It holds credentials to every environment it manages. CV",
+    "link": "https://dev.to/threataft_dev/cve-2026-134804-88-portainer-lets-standard-users-reach-other-teams-containers-4487",
     "topic": "docker"
   },
   {
-    "title": "\"Why not just use a merge queue?\" We timed 10 AI agents through GitHub's merge queue and Git A",
-    "desc": "<p><em>Disclosure: I work on Git A, a home for code where many AI agents work on one main branch. All numbers below were measured on 22\u201323 N",
-    "link": "https://dev.to/git_a/why-not-just-use-a-merge-queue-we-timed-10-ai-agents-through-githubs-merge-queue-and-git-a-50f3",
+    "title": "My Bash network tool was lying to me, so I rewrote it in Rust",
+    "desc": "<p>For years I had a Bash script called netRo.sh. It was a 733-line interactive dashboard I used to check servers: CPU, memory, network, a f",
+    "link": "https://dev.to/alsrkal/my-bash-network-tool-was-lying-to-me-so-i-rewrote-it-in-rust-27ij",
     "topic": "general"
   },
   {
-    "title": "Wireshark for Defensive Network Analysis: Read the Traffic Without Guessing",
-    "desc": "<h1>\n  \n  \n  Wireshark for Defensive Network Analysis\n</h1>\n\n<p>Wireshark turns network traffic into observable data. It is useful for diagn",
-    "link": "https://dev.to/lfazioli/wireshark-per-lanalisi-difensiva-leggere-il-traffico-senza-indovinare-had",
+    "title": "Silent Failure #15: The Draft That Existed and Was Never Shown",
+    "desc": "<p>I wrote a reply to a reader at 01:00, saved it, ran the sync job, and went to make tea.</p>\n\n<p>The job said this:<br />\n</p>\n\n<div class",
+    "link": "https://dev.to/dafili/silent-failure-15-the-draft-that-existed-and-was-never-shown-22ga",
     "topic": "general"
   },
   {
-    "title": "Google Introduces Semantic Governance Policies for AI Agents to Enhance Security and Control",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/google-ai-agent-semantic-governance-policies/?utm_source=de",
-    "link": "https://dev.to/pklavc/google-introduces-semantic-governance-policies-for-ai-agents-to-enhance-security-and-control-dff",
-    "topic": "secops"
-  },
-  {
-    "title": "4 GitHub Actions Workflows That Eliminate Repetitive Engineering Tasks",
-    "desc": "<p>Software engineering teams rarely lose hours solely on writing business logic. Instead, productivity bleeds out through small, recurring ",
-    "link": "https://dev.to/tanmay2627/4-github-actions-workflows-that-eliminate-repetitive-engineering-tasks-3856",
+    "title": "exec format error on macOS: ELF never runs here",
+    "desc": "<h1>\n  \n  \n  exec format error on macOS \u2014 ELF never runs here, and Rosetta will not help\n</h1>\n\n<p>macOS is not a Linux with a different ski",
+    "link": "https://dev.to/weifeng_liu_57eea5c2123f9/exec-format-error-on-macos-elf-never-runs-here-3652",
     "topic": "general"
   },
   {
-    "title": "I Deleted kubectl apply From My Workflow. Here's What Replaced It.",
-    "desc": "<p>Before this migration, here was the state of my Kubernetes platform:</p>\n\n<ul>\n<li>7 Helm releases running on AWS EKS \u2014 kube-prometheus-s",
-    "link": "https://dev.to/ramesh-yara/i-deleted-kubectl-apply-from-my-workflow-heres-what-replaced-it-4m7d",
-    "topic": "general"
-  },
-  {
-    "title": "Automating Container Delivery on AWS: Building a CI/CD Pipeline for a Dockerized Web App on ECS Fargate",
-    "desc": "<p><strong>Author:</strong> Muhammad Bilal Sharif Bukhari<br /><br />\n<strong>LinkedIn:</strong> <a href=\"https://www.linkedin.com/in/bilalb",
-    "link": "https://dev.to/bilal_bukhari_75aeb34a969/automating-container-delivery-on-aws-building-a-cicd-pipeline-for-a-dockerized-web-app-on-ecs-2em4",
-    "topic": "aws"
-  },
-  {
-    "title": "Dry-run your ECR lifecycle policy before it deletes a multi-arch image you still run",
-    "desc": "<p><em>Why an \"untagged\" lifecycle rule can remove parts of a tagged image built for several platforms in Amazon ECR and how to check your p",
-    "link": "https://dev.to/ritompuzari/dry-run-your-ecr-lifecycle-policy-before-it-deletes-a-multi-arch-image-you-still-run-1d5p",
+    "title": "Text Diff Checker: How I Found the One Env Variable That Broke Production",
+    "desc": "<p>Last week one endpoint in production started returning 500s. The same code on my laptop worked fine. Same database, same queue, same depl",
+    "link": "https://dev.to/meng_meng_56f17e28e55f140/text-diff-checker-how-i-found-the-one-env-variable-that-broke-production-fbk",
     "topic": "general"
   }
 ]
