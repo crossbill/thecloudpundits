@@ -1,50 +1,50 @@
 [
   {
-    "title": "Does */5 in crontab include minute 0?",
-    "desc": "<p><code>*/5</code> in a crontab is cron every 5 minutes \u2014 and yes, that includes minute 0. The line is <code>*/5 * * * *</code>. In the min",
-    "link": "https://dev.to/ameenusman/does-5-in-crontab-include-minute-0-44lf",
-    "topic": "general"
-  },
-  {
-    "title": "Deploy Laravel to your own VPS with zero downtime, for free (with Cipi)",
-    "desc": "<p>Deploying Laravel usually goes one of two ways. You pay every month for a hosted panel that manages your servers, or you spend a weekend ",
-    "link": "https://dev.to/andreapollastri/deploy-laravel-to-your-own-vps-with-zero-downtime-for-free-with-cipi-5blj",
-    "topic": "general"
-  },
-  {
-    "title": "A Proxy Cannot Read Your HTTPS Body. It Still Sees More Than You Think.",
-    "desc": "<p>Two engineers run the same traffic through the same proxy. One says the provider cannot see anything because the site is HTTPS. The other",
-    "link": "https://dev.to/socks5ip/a-proxy-cannot-read-your-https-body-it-still-sees-more-than-you-think-482f",
-    "topic": "general"
-  },
-  {
-    "title": "CVE-2026-134804 (8.8): Portainer Lets Standard Users Reach Other Teams' Containers",
-    "desc": "<p>Portainer is the Docker and Kubernetes management UI most container estates run. It holds credentials to every environment it manages. CV",
-    "link": "https://dev.to/threataft_dev/cve-2026-134804-88-portainer-lets-standard-users-reach-other-teams-containers-4487",
+    "title": "How to manage Docker over SSH: contexts, logs, Compose and cleanup",
+    "desc": "<h2>\n  \n  \n  Three ways to manage Docker over SSH\n</h2>\n\n<p>You do not need to expose the Docker API to work with containers on a server. SS",
+    "link": "https://dev.to/wardterm/how-to-manage-docker-over-ssh-contexts-logs-compose-and-cleanup-2ale",
     "topic": "docker"
   },
   {
-    "title": "My Bash network tool was lying to me, so I rewrote it in Rust",
-    "desc": "<p>For years I had a Bash script called netRo.sh. It was a 733-line interactive dashboard I used to check servers: CPU, memory, network, a f",
-    "link": "https://dev.to/alsrkal/my-bash-network-tool-was-lying-to-me-so-i-rewrote-it-in-rust-27ij",
+    "title": "How to Draw a Kubernetes Architecture Diagram (with Free Template)",
+    "desc": "<p>Most Kubernetes diagrams fail in one of two ways: they are a wall of Pod icons nobody can read, or a three-box sketch that says \"cluster\"",
+    "link": "https://dev.to/haliloncen/how-to-draw-a-kubernetes-architecture-diagram-with-free-template-455j",
+    "topic": "kubernetes"
+  },
+  {
+    "title": "AWS Emulator: Test Against AWS on Your Laptop With No Account (What to Check First)",
+    "desc": "<p>AWS just shipped its own local emulator. Yes, really. It's called <strong>AWS Emulator</strong>, it's open source, it's written in Rust, ",
+    "link": "https://dev.to/damogallagher/aws-emulator-test-against-aws-on-your-laptop-with-no-account-what-to-check-first-5ddd",
+    "topic": "aws"
+  },
+  {
+    "title": "Data Hub in AWS Billing and Cost Management: Can It Replace Your CUR Pipeline?",
+    "desc": "<p>Do you still need your Cost and Usage Report pipeline?</p>\n\n<p>AWS has put <strong>Data Hub</strong> into Billing and Cost Management as ",
+    "link": "https://dev.to/damogallagher/data-hub-in-aws-billing-and-cost-management-can-it-replace-your-cur-pipeline-g8m",
+    "topic": "aws"
+  },
+  {
+    "title": "vCenter CVE-2026-123890: an emergency update runbook for VMware admins",
+    "desc": "<p>Broadcom fixed CVE-2026-123890 on 19 November 2026 (advisory VMSA-2026-0009). It is an authentication bypass in the VMware Directory Serv",
+    "link": "https://dev.to/affix_centersoftechserv/vcenter-cve-2026-123890-an-emergency-update-runbook-for-vmware-admins-231i",
     "topic": "general"
   },
   {
-    "title": "Silent Failure #15: The Draft That Existed and Was Never Shown",
-    "desc": "<p>I wrote a reply to a reader at 01:00, saved it, ran the sync job, and went to make tea.</p>\n\n<p>The job said this:<br />\n</p>\n\n<div class",
-    "link": "https://dev.to/dafili/silent-failure-15-the-draft-that-existed-and-was-never-shown-22ga",
-    "topic": "general"
+    "title": "How to Detect an AI Agent Attack That Survives the Chat",
+    "desc": "<p><em>A practical guide to finding poisoned memory, forged approvals, unauthorized settings and malicious code that remains after a task.</",
+    "link": "https://dev.to/diggingbeagle/how-to-detect-an-ai-agent-attack-that-survives-the-chat-m6n",
+    "topic": "secops"
   },
   {
-    "title": "exec format error on macOS: ELF never runs here",
-    "desc": "<h1>\n  \n  \n  exec format error on macOS \u2014 ELF never runs here, and Rosetta will not help\n</h1>\n\n<p>macOS is not a Linux with a different ski",
-    "link": "https://dev.to/weifeng_liu_57eea5c2123f9/exec-format-error-on-macos-elf-never-runs-here-3652",
-    "topic": "general"
+    "title": "4 AWS Cost Optimization Fixes for Early-Stage Startups",
+    "desc": "<p>Most startups do not have an AWS architecture problem. They have an attention problem. </p>\n\n<p>Cloud bills rarely explode because of one",
+    "link": "https://dev.to/tanmay2627/4-aws-cost-optimization-fixes-for-early-stage-startups-1j7o",
+    "topic": "aws"
   },
   {
-    "title": "Text Diff Checker: How I Found the One Env Variable That Broke Production",
-    "desc": "<p>Last week one endpoint in production started returning 500s. The same code on my laptop worked fine. Same database, same queue, same depl",
-    "link": "https://dev.to/meng_meng_56f17e28e55f140/text-diff-checker-how-i-found-the-one-env-variable-that-broke-production-fbk",
-    "topic": "general"
+    "title": "AWS FinOps Field Notes: Auditing Orphaned EBS Snapshots After EC2 Termination",
+    "desc": "<p>Terminating an EC2 instance deletes its root volume by default, but snapshots stay behind. Manual snapshots, AMI-backed snapshots, and sn",
+    "link": "https://dev.to/ace7coder/aws-finops-field-notes-auditing-orphaned-ebs-snapshots-after-ec2-termination-6p9",
+    "topic": "aws"
   }
 ]
