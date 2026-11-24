@@ -1,5 +1,11 @@
 [
   {
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "desc": "",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "topic": "general"
+  },
+  {
     "title": "RoboTrack: Point tracking for real-world robotic manipulation",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/robotrack",
@@ -39,12 +45,6 @@
     "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-    "topic": "general"
-  },
-  {
-    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-    "desc": "",
-    "link": "https://huggingface.co/blog/moe-expert-streaming",
     "topic": "general"
   }
 ]

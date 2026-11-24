@@ -1,50 +1,50 @@
 [
   {
-    "title": "Tutoriel n8n : sauvegarder et versionner vos workflows (export JSON, CLI, Git et restauration)",
-    "desc": "<p>Un workflow n8n qui tourne en production, c'est souvent des heures de r\u00e9glages : les bons filtres, les prompts de l'agent IA ajust\u00e9s au f",
-    "link": "https://dev.to/fluxintelligent/tutoriel-n8n-sauvegarder-et-versionner-vos-workflows-export-json-cli-git-et-restauration-1jp2",
+    "title": "Keeping track of 100+ Android test devices: 8 practices for naming, tagging and access",
+    "desc": "<p>To manage 100+ Android test devices, give each one a role-based name and key its record by the one identifier that doesn't drift. Tag it ",
+    "link": "https://dev.to/aleena_khan_b2f4d6c5df6c4/keeping-track-of-100-android-test-devices-8-practices-for-naming-tagging-and-access-584p",
     "topic": "general"
   },
   {
-    "title": "Importing an Existing GBase 8a Cluster into GDOM",
-    "desc": "<p>GDOM (GBase Database Operation Manager) is the operations and management platform GBASE ships for its GBase 8a MPP analytical database. A",
-    "link": "https://dev.to/michaelfv/importing-an-existing-gbase-8a-cluster-into-gdom-2il3",
+    "title": "Boost Product Search with Granular.Build: A Hands\u2011On Guide",
+    "desc": "<h1>\n  \n  \n  Granular.Build Powers Up Product Search Workflows \u2013 A Hands\u2011On Guide\n</h1>\n\n\n\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Within weeks",
+    "link": "https://dev.to/leojulieta/boost-product-search-with-granularbuild-a-hands-on-guide-11bl",
     "topic": "general"
   },
   {
-    "title": "Self-Hosting Unlimited n8n + Coolify in 2026: $4.99 NVMe KVM vs $89/mo SaaS (Docker Queue Mode Guide)",
-    "desc": "<blockquote>\n<p><strong>\u26a1 2026 Executive Cost & Sizing Summary</strong></p>\n\n<ul>\n<li>\n<strong>SaaS Per-Task Bottleneck:</strong> Zapier / H",
-    "link": "https://dev.to/chi_hoang_a16d99d5b4c2097/self-hosting-unlimited-n8n-coolify-in-2026-499-nvme-kvm-vs-89mo-saas-docker-queue-mode-20i7",
-    "topic": "docker"
-  },
-  {
-    "title": "How to fix a bug in a live Flutter app without waiting for store review",
-    "desc": "<p>You shipped a release on Friday. On Saturday morning a user writes in: the<br />\ncheckout button does nothing on small screens. The fix i",
-    "link": "https://dev.to/overpush_dev/how-to-fix-a-bug-in-a-live-flutter-app-without-waiting-for-store-review-1nog",
+    "title": "Bee Releases Data Keys Only to Attested Instances and Publishes the Measurements",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Zero Operator Access is a design in which no operator, inside the company or inside the cloud provider, h",
+    "link": "https://dev.to/neticslabs/bee-releases-data-keys-only-to-attested-instances-and-publishes-the-measurements-2o6o",
     "topic": "general"
   },
   {
-    "title": "We just launched our official npm package & SDK: authly-otp \ud83d\ude80",
-    "desc": "<p>Integrating global 2FA shouldn't mean pulling heavy dependencies or fighting slow legacy SMS carriers. With authly-otp (6.4 kB gzipped, z",
-    "link": "https://dev.to/authly/we-just-launched-our-official-npm-package-sdk-authly-otp-2l8k",
+    "title": "GitHub pull_request_target Blocked by Default: Audit Your CI",
+    "desc": "<p>GitHub's latest Actions changelog says public repositories will block <code>pull_request_target</code> by default, with explicitly config",
+    "link": "https://dev.to/mudassirworks/github-pullrequesttarget-blocked-by-default-audit-your-ci-3808",
     "topic": "general"
   },
   {
-    "title": "How will a beginner learn to code with AI in 2027?",
-    "desc": "",
-    "link": "https://dev.to/elkatebdev/how-will-a-beginner-learn-to-code-with-ai-in-2027-4o03",
+    "title": "Claude Code Sandbox: Give It a Remote Linux Pod Through MCP",
+    "desc": "<p><strong>TL;DR:</strong> if you want Claude Code to run commands somewhere that is not your laptop, <a href=\"https://fleet.flisk.si\" rel=\"",
+    "link": "https://dev.to/flisk/claude-code-sandbox-give-it-a-remote-linux-pod-through-mcp-1336",
+    "topic": "anthropic"
+  },
+  {
+    "title": "Claude Code MCP: Let It Start and Debug Your Whole Local Stack",
+    "desc": "<p><strong>TL;DR:</strong> by default, Claude Code writes Dockerfiles and Compose files by hand and guesses when something fails. With the <",
+    "link": "https://dev.to/flisk/claude-code-mcp-let-it-start-and-debug-your-whole-local-stack-2ca4",
+    "topic": "anthropic"
+  },
+  {
+    "title": "GitHub Actions runner options 2026: GitHub-hosted, larger, self-hosted and third-party runners compared",
+    "desc": "<p>A GitHub Actions job can run on four kinds of runner in 2026: GitHub's standard hosted runners, GitHub's larger runners, self-hosted runn",
+    "link": "https://dev.to/sengi_runners/github-actions-runner-options-2026-github-hosted-larger-self-hosted-and-third-party-runners-5acc",
     "topic": "general"
   },
   {
-    "title": "Apache Roller CVE-2026-129448: How to Check, Patch or Block the XML-RPC RCE",
-    "desc": "<p>On November 17, 2026, Apache warned about <strong>CVE-2026-129448</strong>, a critical flaw in Apache Roller, its Java blog server. It's ",
-    "link": "https://dev.to/geekspark/apache-roller-cve-2026-129448-how-to-check-patch-or-block-the-xml-rpc-rce-jbg",
-    "topic": "general"
-  },
-  {
-    "title": "What is Context Engineering in AI? Techniques and Examples",
-    "desc": "<p>Whilst a good prompt can produce a good response, as AI becomes more sophisticated, additional information, tools, and memory must also b",
-    "link": "https://dev.to/durgesh_b23088faeb67bc625/what-is-context-engineering-in-ai-techniques-and-examples-40m9",
+    "title": "Building a Business Continuity Plan for the CVE-2026-123911 Patch Window",
+    "desc": "<h1>\n  \n  \n  Building a Business Continuity Plan for the CVE-2026-123911 Patch Window\n</h1>\n\n<p>A security patch that requires a host restar",
+    "link": "https://dev.to/facilishz/building-a-business-continuity-plan-for-the-cve-2026-123911-patch-window-4b7d",
     "topic": "general"
   }
 ]
