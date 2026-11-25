@@ -1,20 +1,26 @@
 [
   {
+    "title": "Where scientists draw the line on AI agents",
+    "desc": "",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "topic": "general"
+  },
+  {
     "title": "An Indic Voice Agent with CUGA",
     "desc": "",
     "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
     "topic": "general"
   },
   {
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
     "desc": "",
-    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
     "topic": "general"
   },
   {
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
     "desc": "",
-    "link": "https://huggingface.co/blog/allenai/robotrack",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
     "topic": "general"
   },
   {
@@ -39,12 +45,6 @@
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "desc": "",
     "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-    "topic": "general"
-  },
-  {
-    "title": "Why your fine-tuning job takes longer than the FLOPs say",
-    "desc": "",
-    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
     "topic": "general"
   }
 ]

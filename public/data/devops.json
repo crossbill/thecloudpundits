@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why 15 FAR 52.204-21 Paragraphs Become 17 CMMC Level 1 Practices",
-    "desc": "<p>Small defense contractors hit the same surprise the first time they read a federal solicitation: the contract cites <strong>FAR 52.204-21",
-    "link": "https://dev.to/succday/why-15-far-52204-21-paragraphs-become-17-cmmc-level-1-practices-495d",
+    "title": "Why Engineers Hate Inspect Mode (And Love Code-Native Exports)",
+    "desc": "<p>Nobody wants to copy-paste 40 lines of hex codes and border radii from a browser sidebar.</p>\n\n<p>For years, product teams accepted a str",
+    "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/why-engineers-hate-inspect-mode-and-love-code-native-exports-6dp",
     "topic": "general"
   },
   {
-    "title": "The Four-Tool Tax: What Your Monitoring Stack Really Costs",
-    "desc": "<p>Most SaaS engineering teams don't use just one tool to understand what's happening in production.</p>\n\n<p>They have one platform for logs",
-    "link": "https://dev.to/modulis/the-four-tool-tax-what-your-monitoring-stack-really-costs-4h5e",
+    "title": "Cloudflare Pages Workers Tunnels",
+    "desc": "<p>Cloudflare pages workers tunnels enables secure app deployment without opening server ports, using Cloudflare's edge network for enhanced",
+    "link": "https://dev.to/muhammad_zeeshan_c5b0bf5b/cloudflare-pages-workers-tunnels-54gf",
     "topic": "general"
   },
   {
-    "title": "Claude Ultra: the 5-hour limit is gone, the weekly cap stays",
-    "desc": "<p>Anthropic has renamed its top Claude plan from Max 20x to Ultra and removed the 5-hour usage limit for verified Ultra accounts. Read side",
-    "link": "https://dev.to/systemdesignsimple/claude-ultra-the-5-hour-limit-is-gone-the-weekly-cap-stays-h92",
-    "topic": "anthropic"
-  },
-  {
-    "title": "VMware vCenter auth bypass CVE-2026-123903: patch now, there is no workaround",
-    "desc": "<p>Broadcom patched a second critical VMware vCenter login bypass in five days, and this one has no workaround. CVE-2026-123903 scores 9.8 o",
-    "link": "https://dev.to/systemdesignsimple/vmware-vcenter-auth-bypass-cve-2026-123903-patch-now-there-is-no-workaround-2ajm",
+    "title": "Zero-Handoff UI: What Happens When Design Exports Directly to Pull Requests",
+    "desc": "<p>Treat UI components like source code\u2014versioned, diffable, and reviewable in Git.</p>\n\n<p>For years, product teams accepted a strange ritu",
+    "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/zero-handoff-ui-what-happens-when-design-exports-directly-to-pull-requests-10ie",
     "topic": "general"
   },
   {
-    "title": "Monitor Servers with Prometheus and Grafana: Metrics, Alerts, and Dashboards That Actually Wake You Up",
-    "desc": "<p>Every team I have worked with has had the same two monitoring problems: either nobody knows the server is dying until a user complains, o",
-    "link": "https://dev.to/shuvo_h/monitor-servers-with-prometheus-and-grafana-metrics-alerts-and-dashboards-that-actually-wake-you-2pj8",
+    "title": "Our n8n workflow said \"Active\" for a day while doing nothing",
+    "desc": "<p>One of our client workflows said \"Active\" for most of a day while it did nothing at all.</p>\n\n<p>The workflow is a 37-step n8n pipeline w",
+    "link": "https://dev.to/amplence/our-n8n-workflow-said-active-for-a-day-while-doing-nothing-6f5",
     "topic": "general"
   },
   {
-    "title": "Git Bisect Run: Find the Bad Commit Automatically",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/git-bisect-find-bad-commit/\" rel=\"noopener noreferrer\">DevToolHub</a",
-    "link": "https://dev.to/amareswer/git-bisect-run-find-the-bad-commit-automatically-3alm",
+    "title": "What a Failed AI Experiment Leaves Running in AWS, and How to Find It",
+    "desc": "<p>A failed AI experiment in AWS can leave four kinds of things behind: machines (SageMaker notebooks, GPU instances, provisioned capacity),",
+    "link": "https://dev.to/cloudwiseteam/what-a-failed-ai-experiment-leaves-running-in-aws-and-how-to-find-it-3l3c",
+    "topic": "aws"
+  },
+  {
+    "title": "Why Handoff Meetings Are a Symptom of Broken Tooling",
+    "desc": "<p>If your team needs a 60-minute walkthrough to explain a modal, your design tool is hiding too much.</p>\n\n<p>For years, product teams acce",
+    "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/why-handoff-meetings-are-a-symptom-of-broken-tooling-1n21",
     "topic": "general"
   },
   {
-    "title": "Running production apps on two free-tier ARM servers",
-    "desc": "<blockquote>\n<p><strong>Update, November 2026:</strong> this setup has since grown up. Coolify, Traefik and Pangolin are gone; everything no",
-    "link": "https://dev.to/partharsid/running-production-apps-on-two-free-tier-arm-servers-3ll",
+    "title": "How to Make My Job Obsolete, Part 1: The Plan and the Foundation",
+    "desc": "<p>I'm starting a new four-part series on building an AI infrastructure agent on Azure, one that looks after a workload the way I do. Part 1",
+    "link": "https://dev.to/gisli78/how-to-make-my-job-obsolete-part-1-the-plan-and-the-foundation-449c",
     "topic": "general"
   },
   {
-    "title": "Keeping a UK giffgaff SIM / eSIM Active Long-Term While Living Overseas (2026 Guide)",
-    "desc": "<p>For indie hackers and global developers who need a reliable <strong>+44 UK mobile number</strong> for banking, 2FA, and international ser",
-    "link": "https://dev.to/payforgpt_guides/keeping-a-uk-giffgaff-sim-esim-active-long-term-while-living-overseas-2026-guide-1lka",
+    "title": "The 'Figma Tax': Measuring How Much Engineering Time Goes to Mockup Translation",
+    "desc": "<p>Across a 10-person product team, rebuilding static designs burns weeks every quarter.</p>\n\n<p>For years, product teams accepted a strange",
+    "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/the-figma-tax-measuring-how-much-engineering-time-goes-to-mockup-translation-575c",
     "topic": "general"
   }
 ]
