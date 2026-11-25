@@ -1,50 +1,50 @@
 [
   {
-    "title": "Load key invalid format: SSH Private Key Fix (2026)",
-    "desc": "<p>You point <code>ssh</code>, <code>git</code> or <code>ssh-add</code> at a private key and get this:<br />\n</p>\n\n<div class=\"highlight js-",
-    "link": "https://dev.to/masitings/load-key-invalid-format-ssh-private-key-fix-2026-2ad5",
+    "title": "Why 15 FAR 52.204-21 Paragraphs Become 17 CMMC Level 1 Practices",
+    "desc": "<p>Small defense contractors hit the same surprise the first time they read a federal solicitation: the contract cites <strong>FAR 52.204-21",
+    "link": "https://dev.to/succday/why-15-far-52204-21-paragraphs-become-17-cmmc-level-1-practices-495d",
     "topic": "general"
   },
   {
-    "title": "C\u00f3mo disparar ejecuciones de agente con un webhook de Sharkly",
-    "desc": "<p><a class=\"crayons-btn crayons-btn--primary\" href=\"https://sharkly.ai/features/automations?utm_source=dev.to&utm_medium=wanda&utm_content=",
-    "link": "https://dev.to/roobia/como-disparar-ejecuciones-de-agente-con-un-webhook-de-sharkly-2ep7",
+    "title": "The Four-Tool Tax: What Your Monitoring Stack Really Costs",
+    "desc": "<p>Most SaaS engineering teams don't use just one tool to understand what's happening in production.</p>\n\n<p>They have one platform for logs",
+    "link": "https://dev.to/modulis/the-four-tool-tax-what-your-monitoring-stack-really-costs-4h5e",
     "topic": "general"
   },
   {
-    "title": "\u4e09\u4e30\u4e91\u514d\u8d39\u4e91\u670d\u52a1\u5668\u5b9e\u6d4b\uff1a\u4e00\u6b21\u8bef\u5220\u540e\u7684\u73af\u5883\u91cd\u88c5\uff0c\u987a\u624b\u628a\u5907\u4efd\u811a\u672c\u8865\u5bf9\u4e86\uff08\u534a\u5e74\u8fd0\u7ef4\u8bb0\u5f55\uff09",
-    "desc": "<p>\u5148\u7ea0\u6b63\u4e00\u5904\u8bf4\u6cd5\uff1a\u4e0a\u4e00\u7248\u6211\u8bf4\u201c\u81ea\u52a8\u5907\u4efd\u8dd1\u5f97\u5f88\u7a33\u201d\uff0c\u5176\u5b9e\u662f\u9519\u89c9\u2014\u2014\u811a\u672c\u786e\u5b9e\u5728\u8dd1\uff0c\u4f46\u5907\u4efd\u6587\u4ef6\u4ece\u6ca1\u9a8c\u8bc1\u8fc7\u80fd\u4e0d\u80fd\u8fd8\u539f\uff0c\u76f4\u5230\u4e0a\u4e2a\u6708\u4e00\u6b21\u8bef\u64cd\u4f5c\u624d\u8865\u4e0a\u4e86\u8fd9\u4e00\u8bfe\u3002</p>\n\n<h2>\n  \n  \n  \u4e8b\u6545\u90a3\u5929\uff1a\u4e00\u6761 rm \u548c\u4e24\u5c0f\u65f6\u7684\u8865\u6551\n</h2>\n\n<p>\u4e8b\u60c5\u5f88\u5e73\u5e38\u3002\u6211\u5728\u6574\u7406\u7ad9\u70b9\u76ee\u5f55\uff0c\u60f3\u6e05",
-    "link": "https://dev.to/lilika/san-feng-yun-mian-fei-yun-fu-wu-qi-shi-ce-ci-wu-shan-hou-de-huan-jing-zhong-zhuang-shun-shou-ba-bei-fen-jiao-ben-bu-dui-liao-ban-nian-yun-wei-ji-lu--5gkn",
-    "topic": "general"
-  },
-  {
-    "title": "How to Deploy Claude Code on a VPS: 4 Remote Workflows, Sizing & Ubuntu Guide",
-    "desc": "<p>Running <strong>Claude Code</strong> (Anthropic's terminal-based agent) locally is transformative\u2014until you close your laptop lid, put yo",
-    "link": "https://dev.to/cash602cmd/how-to-deploy-claude-code-on-a-vps-4-remote-workflows-sizing-ubuntu-guide-2f24",
+    "title": "Claude Ultra: the 5-hour limit is gone, the weekly cap stays",
+    "desc": "<p>Anthropic has renamed its top Claude plan from Max 20x to Ultra and removed the 5-hour usage limit for verified Ultra accounts. Read side",
+    "link": "https://dev.to/systemdesignsimple/claude-ultra-the-5-hour-limit-is-gone-the-weekly-cap-stays-h92",
     "topic": "anthropic"
   },
   {
-    "title": "Zero-Trust Pod Micro-Segmentation at Scale in Kubernetes & OpenShift",
-    "desc": "<blockquote>\n<p><em>Originally published on the <a href=\"https://hostingpodium.com/blog/openshift-kubernetes-networkpolicies-zero-trust-micr",
-    "link": "https://dev.to/hostingpodium/zero-trust-pod-micro-segmentation-at-scale-in-kubernetes-openshift-1139",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Why Traditional Subnet Calculators Break on AWS VPCs (and How to Visualize 32-Bit CIDR Math)",
-    "desc": "<p>If you have ever provisioned an AWS VPC <code>/28</code> subnet expecting 14 usable IPs for a small microservice tier or NAT gateway\u2014and ",
-    "link": "https://dev.to/_a19f513dbff3445581b0/why-traditional-subnet-calculators-break-on-aws-vpcs-and-how-to-visualize-32-bit-cidr-math-29nd",
-    "topic": "aws"
-  },
-  {
-    "title": "We Audited 1,200 Active YC Startups via Passive RFC 8484 DNS: 39.3% Leave DMARC Unenforced & Vanta Leads SafeBase 3.7x",
-    "desc": "<p>How seriously do venture-backed startups take basic email anti-spoofing (DMARC) and public SOC 2 Trust Centers in late 2026?</p>\n\n<p>Inst",
-    "link": "https://dev.to/riskopslab/we-audited-1200-active-yc-startups-via-passive-rfc-8484-dns-393-leave-dmarc-unenforced-vanta-2af3",
+    "title": "VMware vCenter auth bypass CVE-2026-123903: patch now, there is no workaround",
+    "desc": "<p>Broadcom patched a second critical VMware vCenter login bypass in five days, and this one has no workaround. CVE-2026-123903 scores 9.8 o",
+    "link": "https://dev.to/systemdesignsimple/vmware-vcenter-auth-bypass-cve-2026-123903-patch-now-there-is-no-workaround-2ajm",
     "topic": "general"
   },
   {
-    "title": "Why Are Your DDR5 RDIMMs Running Slower Than Rated?",
-    "desc": "<p>If the label says 5600 and the BIOS shows 4400, the memory is not faulty. A server trains DDR5 RDIMMs to the speed its memory controller ",
-    "link": "https://dev.to/shayne914816/why-are-your-ddr5-rdimms-running-slower-than-rated-57j4",
+    "title": "Monitor Servers with Prometheus and Grafana: Metrics, Alerts, and Dashboards That Actually Wake You Up",
+    "desc": "<p>Every team I have worked with has had the same two monitoring problems: either nobody knows the server is dying until a user complains, o",
+    "link": "https://dev.to/shuvo_h/monitor-servers-with-prometheus-and-grafana-metrics-alerts-and-dashboards-that-actually-wake-you-2pj8",
+    "topic": "general"
+  },
+  {
+    "title": "Git Bisect Run: Find the Bad Commit Automatically",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://devtoolhub.com/git-bisect-find-bad-commit/\" rel=\"noopener noreferrer\">DevToolHub</a",
+    "link": "https://dev.to/amareswer/git-bisect-run-find-the-bad-commit-automatically-3alm",
+    "topic": "general"
+  },
+  {
+    "title": "Running production apps on two free-tier ARM servers",
+    "desc": "<blockquote>\n<p><strong>Update, November 2026:</strong> this setup has since grown up. Coolify, Traefik and Pangolin are gone; everything no",
+    "link": "https://dev.to/partharsid/running-production-apps-on-two-free-tier-arm-servers-3ll",
+    "topic": "general"
+  },
+  {
+    "title": "Keeping a UK giffgaff SIM / eSIM Active Long-Term While Living Overseas (2026 Guide)",
+    "desc": "<p>For indie hackers and global developers who need a reliable <strong>+44 UK mobile number</strong> for banking, 2FA, and international ser",
+    "link": "https://dev.to/payforgpt_guides/keeping-a-uk-giffgaff-sim-esim-active-long-term-while-living-overseas-2026-guide-1lka",
     "topic": "general"
   }
 ]

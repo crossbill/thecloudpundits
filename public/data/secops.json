@@ -1,5 +1,41 @@
 [
   {
+    "title": "US Treasury\u2019s FinCEN Disconnects Systems Following Cyber Incident",
+    "desc": "<p>FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+    "topic": "secops"
+  },
+  {
+    "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+    "desc": "<p>Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University.</p>\n<p>The post <a href=\"https://www.sec",
+    "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+    "topic": "secops"
+  },
+  {
+    "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
+    "desc": "<p>The edtech company says the systems are fully operational and safe to use while it investigates the incident.</p>\n<p>The post <a href=\"ht",
+    "link": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
+    "topic": "secops"
+  },
+  {
+    "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+    "desc": "<p>Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data.</p>\n<p",
+    "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
+    "topic": "general"
+  },
+  {
+    "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+    "desc": "<p>A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers.</p>\n<p>The post <a href=\"https:",
+    "link": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
+    "topic": "general"
+  },
+  {
+    "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
+    "desc": "<p>CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days.\u00a0</p>\n<p>The post <a hr",
+    "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
+    "topic": "anthropic"
+  },
+  {
     "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
     "desc": "<p>It was not clear what specific information was compromised or who was responsible.</p>\n<p>The post <a href=\"https://www.securityweek.com/",
     "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
@@ -9,42 +45,6 @@
     "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
     "desc": "<p>The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts.</p>\n<p>The post <a ",
     "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
-    "topic": "general"
-  },
-  {
-    "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
-    "desc": "<p>Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October.</p",
-    "link": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
-    "topic": "secops"
-  },
-  {
-    "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
-    "desc": "<p>The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries.</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
-    "topic": "secops"
-  },
-  {
-    "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
-    "desc": "<p>EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud.</p>",
-    "link": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
-    "topic": "anthropic"
-  },
-  {
-    "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
-    "desc": "<p>OpenAI and Cisco\u2019s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it\u2019s not yet production-read",
-    "link": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
-    "topic": "openai"
-  },
-  {
-    "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
-    "desc": "<p>Hackers stole personal information from the company\u2019s customer portal and supplier relationship management platform.</p>\n<p>The post <a h",
-    "link": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
-    "topic": "secops"
-  },
-  {
-    "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
-    "desc": "<p>Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents.</p>\n<",
-    "link": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
     "topic": "general"
   }
 ]
