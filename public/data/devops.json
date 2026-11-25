@@ -1,50 +1,50 @@
 [
   {
-    "title": "Keeping track of 100+ Android test devices: 8 practices for naming, tagging and access",
-    "desc": "<p>To manage 100+ Android test devices, give each one a role-based name and key its record by the one identifier that doesn't drift. Tag it ",
-    "link": "https://dev.to/aleena_khan_b2f4d6c5df6c4/keeping-track-of-100-android-test-devices-8-practices-for-naming-tagging-and-access-584p",
+    "title": "Load key invalid format: SSH Private Key Fix (2026)",
+    "desc": "<p>You point <code>ssh</code>, <code>git</code> or <code>ssh-add</code> at a private key and get this:<br />\n</p>\n\n<div class=\"highlight js-",
+    "link": "https://dev.to/masitings/load-key-invalid-format-ssh-private-key-fix-2026-2ad5",
     "topic": "general"
   },
   {
-    "title": "Boost Product Search with Granular.Build: A Hands\u2011On Guide",
-    "desc": "<h1>\n  \n  \n  Granular.Build Powers Up Product Search Workflows \u2013 A Hands\u2011On Guide\n</h1>\n\n\n\n\n<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Within weeks",
-    "link": "https://dev.to/leojulieta/boost-product-search-with-granularbuild-a-hands-on-guide-11bl",
+    "title": "C\u00f3mo disparar ejecuciones de agente con un webhook de Sharkly",
+    "desc": "<p><a class=\"crayons-btn crayons-btn--primary\" href=\"https://sharkly.ai/features/automations?utm_source=dev.to&utm_medium=wanda&utm_content=",
+    "link": "https://dev.to/roobia/como-disparar-ejecuciones-de-agente-con-un-webhook-de-sharkly-2ep7",
     "topic": "general"
   },
   {
-    "title": "Bee Releases Data Keys Only to Attested Instances and Publishes the Measurements",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>Zero Operator Access is a design in which no operator, inside the company or inside the cloud provider, h",
-    "link": "https://dev.to/neticslabs/bee-releases-data-keys-only-to-attested-instances-and-publishes-the-measurements-2o6o",
+    "title": "\u4e09\u4e30\u4e91\u514d\u8d39\u4e91\u670d\u52a1\u5668\u5b9e\u6d4b\uff1a\u4e00\u6b21\u8bef\u5220\u540e\u7684\u73af\u5883\u91cd\u88c5\uff0c\u987a\u624b\u628a\u5907\u4efd\u811a\u672c\u8865\u5bf9\u4e86\uff08\u534a\u5e74\u8fd0\u7ef4\u8bb0\u5f55\uff09",
+    "desc": "<p>\u5148\u7ea0\u6b63\u4e00\u5904\u8bf4\u6cd5\uff1a\u4e0a\u4e00\u7248\u6211\u8bf4\u201c\u81ea\u52a8\u5907\u4efd\u8dd1\u5f97\u5f88\u7a33\u201d\uff0c\u5176\u5b9e\u662f\u9519\u89c9\u2014\u2014\u811a\u672c\u786e\u5b9e\u5728\u8dd1\uff0c\u4f46\u5907\u4efd\u6587\u4ef6\u4ece\u6ca1\u9a8c\u8bc1\u8fc7\u80fd\u4e0d\u80fd\u8fd8\u539f\uff0c\u76f4\u5230\u4e0a\u4e2a\u6708\u4e00\u6b21\u8bef\u64cd\u4f5c\u624d\u8865\u4e0a\u4e86\u8fd9\u4e00\u8bfe\u3002</p>\n\n<h2>\n  \n  \n  \u4e8b\u6545\u90a3\u5929\uff1a\u4e00\u6761 rm \u548c\u4e24\u5c0f\u65f6\u7684\u8865\u6551\n</h2>\n\n<p>\u4e8b\u60c5\u5f88\u5e73\u5e38\u3002\u6211\u5728\u6574\u7406\u7ad9\u70b9\u76ee\u5f55\uff0c\u60f3\u6e05",
+    "link": "https://dev.to/lilika/san-feng-yun-mian-fei-yun-fu-wu-qi-shi-ce-ci-wu-shan-hou-de-huan-jing-zhong-zhuang-shun-shou-ba-bei-fen-jiao-ben-bu-dui-liao-ban-nian-yun-wei-ji-lu--5gkn",
     "topic": "general"
   },
   {
-    "title": "GitHub pull_request_target Blocked by Default: Audit Your CI",
-    "desc": "<p>GitHub's latest Actions changelog says public repositories will block <code>pull_request_target</code> by default, with explicitly config",
-    "link": "https://dev.to/mudassirworks/github-pullrequesttarget-blocked-by-default-audit-your-ci-3808",
-    "topic": "general"
-  },
-  {
-    "title": "Claude Code Sandbox: Give It a Remote Linux Pod Through MCP",
-    "desc": "<p><strong>TL;DR:</strong> if you want Claude Code to run commands somewhere that is not your laptop, <a href=\"https://fleet.flisk.si\" rel=\"",
-    "link": "https://dev.to/flisk/claude-code-sandbox-give-it-a-remote-linux-pod-through-mcp-1336",
+    "title": "How to Deploy Claude Code on a VPS: 4 Remote Workflows, Sizing & Ubuntu Guide",
+    "desc": "<p>Running <strong>Claude Code</strong> (Anthropic's terminal-based agent) locally is transformative\u2014until you close your laptop lid, put yo",
+    "link": "https://dev.to/cash602cmd/how-to-deploy-claude-code-on-a-vps-4-remote-workflows-sizing-ubuntu-guide-2f24",
     "topic": "anthropic"
   },
   {
-    "title": "Claude Code MCP: Let It Start and Debug Your Whole Local Stack",
-    "desc": "<p><strong>TL;DR:</strong> by default, Claude Code writes Dockerfiles and Compose files by hand and guesses when something fails. With the <",
-    "link": "https://dev.to/flisk/claude-code-mcp-let-it-start-and-debug-your-whole-local-stack-2ca4",
-    "topic": "anthropic"
+    "title": "Zero-Trust Pod Micro-Segmentation at Scale in Kubernetes & OpenShift",
+    "desc": "<blockquote>\n<p><em>Originally published on the <a href=\"https://hostingpodium.com/blog/openshift-kubernetes-networkpolicies-zero-trust-micr",
+    "link": "https://dev.to/hostingpodium/zero-trust-pod-micro-segmentation-at-scale-in-kubernetes-openshift-1139",
+    "topic": "kubernetes"
   },
   {
-    "title": "GitHub Actions runner options 2026: GitHub-hosted, larger, self-hosted and third-party runners compared",
-    "desc": "<p>A GitHub Actions job can run on four kinds of runner in 2026: GitHub's standard hosted runners, GitHub's larger runners, self-hosted runn",
-    "link": "https://dev.to/sengi_runners/github-actions-runner-options-2026-github-hosted-larger-self-hosted-and-third-party-runners-5acc",
+    "title": "Why Traditional Subnet Calculators Break on AWS VPCs (and How to Visualize 32-Bit CIDR Math)",
+    "desc": "<p>If you have ever provisioned an AWS VPC <code>/28</code> subnet expecting 14 usable IPs for a small microservice tier or NAT gateway\u2014and ",
+    "link": "https://dev.to/_a19f513dbff3445581b0/why-traditional-subnet-calculators-break-on-aws-vpcs-and-how-to-visualize-32-bit-cidr-math-29nd",
+    "topic": "aws"
+  },
+  {
+    "title": "We Audited 1,200 Active YC Startups via Passive RFC 8484 DNS: 39.3% Leave DMARC Unenforced & Vanta Leads SafeBase 3.7x",
+    "desc": "<p>How seriously do venture-backed startups take basic email anti-spoofing (DMARC) and public SOC 2 Trust Centers in late 2026?</p>\n\n<p>Inst",
+    "link": "https://dev.to/riskopslab/we-audited-1200-active-yc-startups-via-passive-rfc-8484-dns-393-leave-dmarc-unenforced-vanta-2af3",
     "topic": "general"
   },
   {
-    "title": "Building a Business Continuity Plan for the CVE-2026-123911 Patch Window",
-    "desc": "<h1>\n  \n  \n  Building a Business Continuity Plan for the CVE-2026-123911 Patch Window\n</h1>\n\n<p>A security patch that requires a host restar",
-    "link": "https://dev.to/facilishz/building-a-business-continuity-plan-for-the-cve-2026-123911-patch-window-4b7d",
+    "title": "Why Are Your DDR5 RDIMMs Running Slower Than Rated?",
+    "desc": "<p>If the label says 5600 and the BIOS shows 4400, the memory is not faulty. A server trains DDR5 RDIMMs to the speed its memory controller ",
+    "link": "https://dev.to/shayne914816/why-are-your-ddr5-rdimms-running-slower-than-rated-57j4",
     "topic": "general"
   }
 ]
