@@ -1,50 +1,50 @@
 [
   {
-    "title": "Scaling C/C++ Builds Over WireGuard: Real-World distcc Benchmarks on LibreOffice & SeaMonkey",
-    "desc": "<p>Compiling large C and C++ codebases remains one of the biggest bottlenecks in software engineering and CI/CD pipelines. Between heavy tem",
-    "link": "https://dev.to/damian_krasowski/scaling-cc-builds-over-wireguard-real-world-distcc-benchmarks-on-libreoffice-seamonkey-dd3",
+    "title": "8 Mistakes That Cost People the CKA Exam (and How to Avoid Them)",
+    "desc": "<p>The CKA isn't a multiple-choice test. You get two hours, a remote desktop, a terminal, and a list of hands-on tasks on real clusters. Mos",
+    "link": "https://dev.to/waziops/8-mistakes-that-cost-people-the-cka-exam-and-how-to-avoid-them-51jl",
     "topic": "general"
   },
   {
-    "title": "The File on My Server Was Not the File in My Repo",
-    "desc": "<p>My repo lied to me for weeks. Two deploy guards caught it. This is the story of why I now dump server bytes before I trust a source file.",
-    "link": "https://dev.to/bryanhamiltondev/the-file-on-my-server-was-not-the-file-in-my-repo-n8e",
+    "title": "ELB for Envoy Is GA: What It Costs and What to Check Before Moving",
+    "desc": "<p>If you run Envoy yourself, you know the bill that never shows up on the invoice: patching, CVE watching, capacity across AZs, and the odd",
+    "link": "https://dev.to/damogallagher/elb-for-envoy-is-ga-what-it-costs-and-what-to-check-before-moving-5fjg",
     "topic": "general"
   },
   {
-    "title": "7 gotchas I hit building a 3-node Kubernetes cluster on Ubuntu 26.04",
-    "desc": "<p>I recently built a three-node Kubernetes cluster with kubeadm on fresh Ubuntu Server 26.04 LTS virtual machines: one control plane node a",
-    "link": "https://dev.to/henry_hans_author/7-gotchas-i-hit-building-a-3-node-kubernetes-cluster-on-ubuntu-2604-250d",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Why Google Workspace + Microsoft 365 + SendGrid Triggers RFC 7208 SPF PermError (10-Lookup Limit) \u2014 Deterministic GitOps Flattening & SARIF CI Gate",
-    "desc": "<p>If your company sends corporate mail through <strong>Google Workspace</strong> or <strong>Microsoft 365</strong>, transactional mail thro",
-    "link": "https://dev.to/profalexandrezamboniui/why-google-workspace-microsoft-365-sendgrid-triggers-rfc-7208-spf-permerror-10-lookup-limit--5846",
-    "topic": "azure"
-  },
-  {
-    "title": "[Kalamos Development] Auto-Update Lessons: Private Key Isolation, Build-Signing Separation, Key Rotation, and CI Queuing",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
-    "link": "https://dev.to/evanlin/kalamos-development-auto-update-lessons-private-key-isolation-build-signing-separation-key-4g",
+    "title": "Global Accelerator Now Keeps Client IPs for NLBs With TLS Listeners",
+    "desc": "<p>For years the rule has been simple: if you want the real client IP behind Global Accelerator, you don't terminate TLS on the NLB. On 23 N",
+    "link": "https://dev.to/damogallagher/global-accelerator-now-keeps-client-ips-for-nlbs-with-tls-listeners-33j6",
     "topic": "general"
   },
   {
-    "title": "How to Port Your Business Phone Numbers (Without Losing a Single Call)",
-    "desc": "<p>Your business phone numbers are brand assets. They're on your business cards, your website, your Google Business profile, your signage, a",
-    "link": "https://dev.to/sipstack/how-to-port-your-business-phone-numbers-without-losing-a-single-call-1022",
+    "title": "The Day I Moved a Cluster to Another Continent",
+    "desc": "<p><em>Originally published at <a href=\"https://www.aharshit123456.space/blog/shoppin-infra-terraform\" rel=\"noopener noreferrer\">aharshit123",
+    "link": "https://dev.to/aharshit123456/the-day-i-moved-a-cluster-to-another-continent-pcl",
     "topic": "general"
   },
   {
-    "title": "CloudFormation Adds 206 Resource Types: How to Check Which Gaps You Can Close",
-    "desc": "<p>On 24 November, AWS said CloudFormation now supports 206 additional resource types across 88 services. If you've ever fallen back to a cu",
-    "link": "https://dev.to/damogallagher/cloudformation-adds-206-resource-types-how-to-check-which-gaps-you-can-close-j0c",
+    "title": "Launch Is Day One: What It Really Takes to Run an AI Product for Years",
+    "desc": "<p>Most AI plans I review have a detailed path to launch and almost nothing after it. There is a discovery phase, a build phase, a pilot, a ",
+    "link": "https://dev.to/fabiancooper/launch-is-day-one-what-it-really-takes-to-run-an-ai-product-for-years-k84",
     "topic": "general"
   },
   {
-    "title": "6 things to check before you trust a free tier",
-    "desc": "<p>Free tiers are real, and plenty of side projects run on them for years. But \"free\" is a contract with terms, and the terms differ enough ",
-    "link": "https://dev.to/spran1/6-things-to-check-before-you-trust-a-free-tier-2fl3",
+    "title": "Avoiding Cloud Vendor Lock-In",
+    "desc": "<p>Avoiding cloud vendor lock-in is crucial for flexibility and cost savings, achieved through portable Docker containers and Terraform infr",
+    "link": "https://dev.to/muhammad_zeeshan_c5b0bf5b/avoiding-cloud-vendor-lock-in-hha",
+    "topic": "general"
+  },
+  {
+    "title": "Adding the Sandscale MCP server to Codex: config.toml, OAuth login and approval modes",
+    "desc": "<p>Codex runs commands in your working copy. Pointing it at the Sandscale MCP server gives it a separate place to run the commands you would",
+    "link": "https://dev.to/sandscale/adding-the-sandscale-mcp-server-to-codex-configtoml-oauth-login-and-approval-modes-36b",
+    "topic": "general"
+  },
+  {
+    "title": "Your Karpenter Spot NodePool Probably Has a Hidden Mass-Extinction Risk \u2014 Here Is How I Tested It",
+    "desc": "<p>Running Kubernetes workloads on Amazon EC2 Spot instances behind <strong>Karpenter (<code>karpenter.sh/v1</code>)</strong> is one of the ",
+    "link": "https://dev.to/ahafarag/your-karpenter-spot-nodepool-probably-has-a-hidden-mass-extinction-risk-here-is-how-i-tested-it-2pen",
     "topic": "general"
   }
 ]
