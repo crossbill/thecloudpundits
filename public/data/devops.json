@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Engineers Hate Inspect Mode (And Love Code-Native Exports)",
-    "desc": "<p>Nobody wants to copy-paste 40 lines of hex codes and border radii from a browser sidebar.</p>\n\n<p>For years, product teams accepted a str",
-    "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/why-engineers-hate-inspect-mode-and-love-code-native-exports-6dp",
+    "title": "Spend caps for AI agents: designing budgets that stop a runaway loop before the invoice does",
+    "desc": "<p>A person who writes a bad loop notices when the laptop fan spins up. An agent does not notice anything. It will retry a failing test fort",
+    "link": "https://dev.to/sandscale/spend-caps-for-ai-agents-designing-budgets-that-stop-a-runaway-loop-before-the-invoice-does-3dma",
     "topic": "general"
   },
   {
-    "title": "Cloudflare Pages Workers Tunnels",
-    "desc": "<p>Cloudflare pages workers tunnels enables secure app deployment without opening server ports, using Cloudflare's edge network for enhanced",
-    "link": "https://dev.to/muhammad_zeeshan_c5b0bf5b/cloudflare-pages-workers-tunnels-54gf",
+    "title": "Sizing an agent sandbox: vCPUs, memory and disk without guessing",
+    "desc": "<p>Most agent sandboxes are oversized. Teams pick a big box once, because a build failed on a small one, and every run after that pays for i",
+    "link": "https://dev.to/sandscale/sizing-an-agent-sandbox-vcpus-memory-and-disk-without-guessing-2n96",
     "topic": "general"
   },
   {
-    "title": "Zero-Handoff UI: What Happens When Design Exports Directly to Pull Requests",
-    "desc": "<p>Treat UI components like source code\u2014versioned, diffable, and reviewable in Git.</p>\n\n<p>For years, product teams accepted a strange ritu",
-    "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/zero-handoff-ui-what-happens-when-design-exports-directly-to-pull-requests-10ie",
+    "title": "Hardening a Tor Onion Service: What Actually Matters",
+    "desc": "<p><em>Originally published on my blog \u2014 <a href=\"https://blog.hoelee.com/posts/hardening-a-tor-onion-service/\" rel=\"noopener noreferrer\">re",
+    "link": "https://dev.to/hoelee/hardening-a-tor-onion-service-what-actually-matters-58lo",
     "topic": "general"
   },
   {
-    "title": "Our n8n workflow said \"Active\" for a day while doing nothing",
-    "desc": "<p>One of our client workflows said \"Active\" for most of a day while it did nothing at all.</p>\n\n<p>The workflow is a 37-step n8n pipeline w",
-    "link": "https://dev.to/amplence/our-n8n-workflow-said-active-for-a-day-while-doing-nothing-6f5",
+    "title": "Helm Interview Questions: 7 Production Scenarios Explained",
+    "desc": "<p><em>Originally published on <a href=\"https://blog.naveedkumbhar.com/helm-interview-questions-and-answers/\" rel=\"noopener noreferrer\">Nave",
+    "link": "https://dev.to/naveedkumbhar/helm-interview-questions-7-production-scenarios-explained-1d4f",
     "topic": "general"
   },
   {
-    "title": "What a Failed AI Experiment Leaves Running in AWS, and How to Find It",
-    "desc": "<p>A failed AI experiment in AWS can leave four kinds of things behind: machines (SageMaker notebooks, GPU instances, provisioned capacity),",
-    "link": "https://dev.to/cloudwiseteam/what-a-failed-ai-experiment-leaves-running-in-aws-and-how-to-find-it-3l3c",
-    "topic": "aws"
+    "title": "Microsoft 365 outage of November 12, 2026: how to hear first next time",
+    "desc": "<p>On Thursday, November 12, 2026, Microsoft 365 had a major outage that lasted almost 24 hours. Outlook, Exchange Online, Teams and Copilot",
+    "link": "https://dev.to/attackscout/microsoft-365-outage-of-november-12-2026-how-to-hear-first-next-time-2fmm",
+    "topic": "azure"
   },
   {
-    "title": "Why Handoff Meetings Are a Symptom of Broken Tooling",
-    "desc": "<p>If your team needs a 60-minute walkthrough to explain a modal, your design tool is hiding too much.</p>\n\n<p>For years, product teams acce",
-    "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/why-handoff-meetings-are-a-symptom-of-broken-tooling-1n21",
-    "topic": "general"
+    "title": "nginx security releases of November 2026: am I affected and what to do",
+    "desc": "<p>nginx published security releases on November 18, 2026 (stable 1.30.7, mainline 1.31.9), followed by a smaller one on November 23 (1.30.8",
+    "link": "https://dev.to/attackscout/nginx-security-releases-of-november-2026-am-i-affected-and-what-to-do-4ahm",
+    "topic": "secops"
   },
   {
-    "title": "How to Make My Job Obsolete, Part 1: The Plan and the Foundation",
-    "desc": "<p>I'm starting a new four-part series on building an AI infrastructure agent on Azure, one that looks after a workload the way I do. Part 1",
-    "link": "https://dev.to/gisli78/how-to-make-my-job-obsolete-part-1-the-plan-and-the-foundation-449c",
-    "topic": "general"
+    "title": "PHP security release of November 19, 2026: am I affected and what to do",
+    "desc": "<p>PHP published security releases on November 19, 2026: 8.6.0, 8.5.13, 8.4.28, 8.3.37 and 8.2.36. If your site runs PHP (WordPress, Drupal,",
+    "link": "https://dev.to/attackscout/php-security-release-of-november-19-2026-am-i-affected-and-what-to-do-37m4",
+    "topic": "secops"
   },
   {
-    "title": "The 'Figma Tax': Measuring How Much Engineering Time Goes to Mockup Translation",
-    "desc": "<p>Across a 10-person product team, rebuilding static designs burns weeks every quarter.</p>\n\n<p>For years, product teams accepted a strange",
-    "link": "https://dev.to/shinoj_cm_6b559b3ab51bf47/the-figma-tax-measuring-how-much-engineering-time-goes-to-mockup-translation-575c",
+    "title": "How to check when your domain name expires (and not get surprised)",
+    "desc": "<p>When a domain expires, the website and the email stop working at once, and the registrar's grace period is not something to rely on. The ",
+    "link": "https://dev.to/attackscout/how-to-check-when-your-domain-name-expires-and-not-get-surprised-nc2",
     "topic": "general"
   }
 ]
