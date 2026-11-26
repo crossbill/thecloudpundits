@@ -1,5 +1,23 @@
 [
   {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "desc": "",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "topic": "general"
+  },
+  {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "desc": "",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "topic": "general"
+  },
+  {
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "desc": "",
+    "link": "https://huggingface.co/blog/training-swarms",
+    "topic": "general"
+  },
+  {
     "title": "Where scientists draw the line on AI agents",
     "desc": "",
     "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
@@ -18,12 +36,6 @@
     "topic": "general"
   },
   {
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "desc": "",
-    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-    "topic": "general"
-  },
-  {
     "title": "How to build and maintain an agentic evaluation",
     "desc": "",
     "link": "https://huggingface.co/blog/agentic-evals",
@@ -33,18 +45,6 @@
     "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
     "desc": "",
     "link": "https://huggingface.co/blog/inkling2mini",
-    "topic": "general"
-  },
-  {
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "desc": "",
-    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "topic": "general"
-  },
-  {
-    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-    "desc": "",
-    "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
     "topic": "general"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+    "desc": "<p>Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root.</p>\n<p>The post <a href=\"htt",
+    "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+    "desc": "<p>Accenture says hackers exploited MiCollab flaws before Mitel\u2019s advisory, likely aided by AI, in a suspected extortion campaign.</p>\n<p>Th",
+    "link": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+    "topic": "secops"
+  },
+  {
+    "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+    "desc": "<p>Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap.</p>\n",
+    "link": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+    "topic": "secops"
+  },
+  {
+    "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+    "desc": "<p>A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed.</p>\n",
+    "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+    "topic": "secops"
+  },
+  {
     "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
     "desc": "<p>Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE.</p>\n<p",
     "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
@@ -22,29 +46,5 @@
     "desc": "<p>Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University.</p>\n<p>The post <a href=\"https://www.sec",
     "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
     "topic": "secops"
-  },
-  {
-    "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
-    "desc": "<p>The edtech company says the systems are fully operational and safe to use while it investigates the incident.</p>\n<p>The post <a href=\"ht",
-    "link": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
-    "topic": "secops"
-  },
-  {
-    "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-    "desc": "<p>Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data.</p>\n<p",
-    "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
-    "topic": "general"
-  },
-  {
-    "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
-    "desc": "<p>A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers.</p>\n<p>The post <a href=\"https:",
-    "link": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
-    "topic": "general"
-  },
-  {
-    "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-    "desc": "<p>CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days.\u00a0</p>\n<p>The post <a hr",
-    "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
-    "topic": "anthropic"
   }
 ]

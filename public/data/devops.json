@@ -1,50 +1,50 @@
 [
   {
-    "title": "Spend caps for AI agents: designing budgets that stop a runaway loop before the invoice does",
-    "desc": "<p>A person who writes a bad loop notices when the laptop fan spins up. An agent does not notice anything. It will retry a failing test fort",
-    "link": "https://dev.to/sandscale/spend-caps-for-ai-agents-designing-budgets-that-stop-a-runaway-loop-before-the-invoice-does-3dma",
+    "title": "Scaling C/C++ Builds Over WireGuard: Real-World distcc Benchmarks on LibreOffice & SeaMonkey",
+    "desc": "<p>Compiling large C and C++ codebases remains one of the biggest bottlenecks in software engineering and CI/CD pipelines. Between heavy tem",
+    "link": "https://dev.to/damian_krasowski/scaling-cc-builds-over-wireguard-real-world-distcc-benchmarks-on-libreoffice-seamonkey-dd3",
     "topic": "general"
   },
   {
-    "title": "Sizing an agent sandbox: vCPUs, memory and disk without guessing",
-    "desc": "<p>Most agent sandboxes are oversized. Teams pick a big box once, because a build failed on a small one, and every run after that pays for i",
-    "link": "https://dev.to/sandscale/sizing-an-agent-sandbox-vcpus-memory-and-disk-without-guessing-2n96",
+    "title": "The File on My Server Was Not the File in My Repo",
+    "desc": "<p>My repo lied to me for weeks. Two deploy guards caught it. This is the story of why I now dump server bytes before I trust a source file.",
+    "link": "https://dev.to/bryanhamiltondev/the-file-on-my-server-was-not-the-file-in-my-repo-n8e",
     "topic": "general"
   },
   {
-    "title": "Hardening a Tor Onion Service: What Actually Matters",
-    "desc": "<p><em>Originally published on my blog \u2014 <a href=\"https://blog.hoelee.com/posts/hardening-a-tor-onion-service/\" rel=\"noopener noreferrer\">re",
-    "link": "https://dev.to/hoelee/hardening-a-tor-onion-service-what-actually-matters-58lo",
-    "topic": "general"
+    "title": "7 gotchas I hit building a 3-node Kubernetes cluster on Ubuntu 26.04",
+    "desc": "<p>I recently built a three-node Kubernetes cluster with kubeadm on fresh Ubuntu Server 26.04 LTS virtual machines: one control plane node a",
+    "link": "https://dev.to/henry_hans_author/7-gotchas-i-hit-building-a-3-node-kubernetes-cluster-on-ubuntu-2604-250d",
+    "topic": "kubernetes"
   },
   {
-    "title": "Helm Interview Questions: 7 Production Scenarios Explained",
-    "desc": "<p><em>Originally published on <a href=\"https://blog.naveedkumbhar.com/helm-interview-questions-and-answers/\" rel=\"noopener noreferrer\">Nave",
-    "link": "https://dev.to/naveedkumbhar/helm-interview-questions-7-production-scenarios-explained-1d4f",
-    "topic": "general"
-  },
-  {
-    "title": "Microsoft 365 outage of November 12, 2026: how to hear first next time",
-    "desc": "<p>On Thursday, November 12, 2026, Microsoft 365 had a major outage that lasted almost 24 hours. Outlook, Exchange Online, Teams and Copilot",
-    "link": "https://dev.to/attackscout/microsoft-365-outage-of-november-12-2026-how-to-hear-first-next-time-2fmm",
+    "title": "Why Google Workspace + Microsoft 365 + SendGrid Triggers RFC 7208 SPF PermError (10-Lookup Limit) \u2014 Deterministic GitOps Flattening & SARIF CI Gate",
+    "desc": "<p>If your company sends corporate mail through <strong>Google Workspace</strong> or <strong>Microsoft 365</strong>, transactional mail thro",
+    "link": "https://dev.to/profalexandrezamboniui/why-google-workspace-microsoft-365-sendgrid-triggers-rfc-7208-spf-permerror-10-lookup-limit--5846",
     "topic": "azure"
   },
   {
-    "title": "nginx security releases of November 2026: am I affected and what to do",
-    "desc": "<p>nginx published security releases on November 18, 2026 (stable 1.30.7, mainline 1.31.9), followed by a smaller one on November 23 (1.30.8",
-    "link": "https://dev.to/attackscout/nginx-security-releases-of-november-2026-am-i-affected-and-what-to-do-4ahm",
-    "topic": "secops"
+    "title": "[Kalamos Development] Auto-Update Lessons: Private Key Isolation, Build-Signing Separation, Key Rotation, and CI Queuing",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cfor",
+    "link": "https://dev.to/evanlin/kalamos-development-auto-update-lessons-private-key-isolation-build-signing-separation-key-4g",
+    "topic": "general"
   },
   {
-    "title": "PHP security release of November 19, 2026: am I affected and what to do",
-    "desc": "<p>PHP published security releases on November 19, 2026: 8.6.0, 8.5.13, 8.4.28, 8.3.37 and 8.2.36. If your site runs PHP (WordPress, Drupal,",
-    "link": "https://dev.to/attackscout/php-security-release-of-november-19-2026-am-i-affected-and-what-to-do-37m4",
-    "topic": "secops"
+    "title": "How to Port Your Business Phone Numbers (Without Losing a Single Call)",
+    "desc": "<p>Your business phone numbers are brand assets. They're on your business cards, your website, your Google Business profile, your signage, a",
+    "link": "https://dev.to/sipstack/how-to-port-your-business-phone-numbers-without-losing-a-single-call-1022",
+    "topic": "general"
   },
   {
-    "title": "How to check when your domain name expires (and not get surprised)",
-    "desc": "<p>When a domain expires, the website and the email stop working at once, and the registrar's grace period is not something to rely on. The ",
-    "link": "https://dev.to/attackscout/how-to-check-when-your-domain-name-expires-and-not-get-surprised-nc2",
+    "title": "CloudFormation Adds 206 Resource Types: How to Check Which Gaps You Can Close",
+    "desc": "<p>On 24 November, AWS said CloudFormation now supports 206 additional resource types across 88 services. If you've ever fallen back to a cu",
+    "link": "https://dev.to/damogallagher/cloudformation-adds-206-resource-types-how-to-check-which-gaps-you-can-close-j0c",
+    "topic": "general"
+  },
+  {
+    "title": "6 things to check before you trust a free tier",
+    "desc": "<p>Free tiers are real, and plenty of side projects run on them for years. But \"free\" is a contract with terms, and the terms differ enough ",
+    "link": "https://dev.to/spran1/6-things-to-check-before-you-trust-a-free-tier-2fl3",
     "topic": "general"
   }
 ]
