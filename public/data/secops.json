@@ -1,5 +1,29 @@
 [
   {
+    "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+    "desc": "<p>Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment system",
+    "link": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+    "topic": "secops"
+  },
+  {
+    "title": "100,000 Potentially Impacted by Colorado Data Breach",
+    "desc": "<p>Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data.</p>\n<p>The post ",
+    "link": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "Hex Package Manager Warns of Potential Data Breach",
+    "desc": "<p>A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads ",
+    "link": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+    "topic": "secops"
+  },
+  {
+    "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+    "desc": "<p>SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code.</p>\n<",
+    "link": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+    "topic": "secops"
+  },
+  {
     "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing \u2018Personal and Business Information\u2019",
     "desc": "<p>FIFA didn\u2019t say when the cyberattack took place, or the precise nature of the hacked information.</p>\n<p>The post <a href=\"https://www.se",
     "link": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
@@ -21,30 +45,6 @@
     "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
     "desc": "<p>Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap.</p>\n",
     "link": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
-    "topic": "secops"
-  },
-  {
-    "title": "1Password Breach Exposes Customer Data, Internal Source Code",
-    "desc": "<p>A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed.</p>\n",
-    "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
-    "topic": "secops"
-  },
-  {
-    "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
-    "desc": "<p>Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE.</p>\n<p",
-    "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
-    "topic": "secops"
-  },
-  {
-    "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
-    "desc": "<p>An account tied to ShinyHunters announced the group\u2019s return, as Okta spots possible links between Inception and ShinyHunters hackers.</p",
-    "link": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
-    "topic": "general"
-  },
-  {
-    "title": "US Treasury\u2019s FinCEN Disconnects Systems Following Cyber Incident",
-    "desc": "<p>FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident.</p>\n<p>The post <a href=\"htt",
-    "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
     "topic": "secops"
   }
 ]

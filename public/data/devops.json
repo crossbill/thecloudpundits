@@ -1,50 +1,50 @@
 [
   {
-    "title": "Jenkins Explained: CI CD Pipeline and Automation for Beginners",
-    "desc": "<p>Imagine you are working on a Spring Boot project with a team of five developers.</p>\n\n<p>Every developer writes code, pushes changes to G",
-    "link": "https://dev.to/mayur_bodhare/jenkins-explained-ci-cd-pipeline-and-automation-for-beginners-2n41",
+    "title": "A sandbox for Codex: running codex exec in a cloud workspace",
+    "desc": "<p><strong>Short answer:</strong> Codex has its own sandbox modes, but they still run on the machine Codex runs on. To keep the whole run of",
+    "link": "https://dev.to/sandscale/a-sandbox-for-codex-running-codex-exec-in-a-cloud-workspace-dd0",
     "topic": "general"
   },
   {
-    "title": "\u0110\u1eb7t t\u00e1c gi\u1ea3 commit Git ri\u00eang cho t\u1eebng AI agent trong Sharkly",
-    "desc": "<p><a class=\"crayons-btn crayons-btn--primary\" href=\"https://sharkly.ai/features/agents?utm_source=dev.to&utm_medium=wanda&utm_content=shark",
-    "link": "https://dev.to/sebbasstian/dat-tac-gia-commit-git-rieng-cho-tung-ai-agent-trong-sharkly-j9k",
+    "title": "Why AI Coding Agents Ignore Long READMEs\u2014And How an Executable SKILL.md Gatekeeper Stops Production Disasters",
+    "desc": "<p>Why long system prompts fail under context drift, and how engineering and product teams enforce deterministic DB, spend, and accountabili",
+    "link": "https://dev.to/tarikmostafa/why-ai-coding-agents-ignore-long-readmes-and-how-an-executable-skillmd-gatekeeper-stops-production-gb7",
     "topic": "general"
   },
   {
-    "title": "Building a Production-Ready Databricks Lakehouse: From Medallion Architecture to Deployment",
-    "desc": "<p>Building a data pipeline in Databricks is relatively straightforward. Building one that processes millions of records reliably, handles u",
-    "link": "https://dev.to/kaviwrites/building-a-production-ready-databricks-lakehouse-from-medallion-architecture-to-deployment-2n2j",
+    "title": "A sandbox for Claude Code: running it headless in a cloud workspace",
+    "desc": "<p><strong>Short answer:</strong> if you want Claude Code's commands off your machine, run Claude Code itself on a cloud computer and drive ",
+    "link": "https://dev.to/sandscale/a-sandbox-for-claude-code-running-it-headless-in-a-cloud-workspace-fm8",
+    "topic": "anthropic"
+  },
+  {
+    "title": "We Ran Our Own Live SPF/DMARC/CSP Grader on Our Prod Domain and Got 37/100 (Grade F) - Fixing It to 100/100 A+ in 15 Mins",
+    "desc": "<p>Tonight we shipped a passive public domain spoofing & HTTP attack-surface grader (<strong>ExposeShield</strong>) and did the one thing ev",
+    "link": "https://dev.to/edward_kyoon_5eeeda14bba/we-ran-our-own-live-spfdmarccsp-grader-on-our-prod-domain-and-got-37100-grade-f-fixing-it-to-21m2",
     "topic": "general"
   },
   {
-    "title": "vLLM in production on Kubernetes: the startup probe, the /dev/shm trap, and autoscaling on queue depth",
-    "desc": "<p>Getting an LLM running on a GPU is easy. <code>vllm serve</code> and you have an OpenAI-compatible endpoint in five minutes. Running it i",
-    "link": "https://dev.to/altostratus_amihai_71d88f/vllm-in-production-on-kubernetes-the-startup-probe-the-devshm-trap-and-autoscaling-on-queue-3877",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Your GPUs are idle 70% of the time: building a safe idle-GPU reaper from DCGM metrics",
-    "desc": "<p>A single H100 is $25-40k to buy, or $2-4/hr to rent. Across the clusters I have instrumented, 60-70% of allocated GPU-hours are idle: job",
-    "link": "https://dev.to/altostratus_amihai_71d88f/your-gpus-are-idle-70-of-the-time-building-a-safe-idle-gpu-reaper-from-dcgm-metrics-1c4o",
+    "title": "Run n8n in queue mode with a private editor",
+    "desc": "<p>n8n is a popular workflow automation tool. With Blossom, you can run the editor and workers as separate services. That\u2019s the part I like.",
+    "link": "https://dev.to/tongueroo/run-n8n-in-queue-mode-with-a-private-editor-4hen",
     "topic": "general"
   },
   {
-    "title": "Cutting GPU costs on Kubernetes: time-slicing vs MIG vs spot nodes, and when each one is the right answer",
-    "desc": "<p>Seeing wasted GPUs is not the same as cutting them. Every cluster I look at wastes 60-70% of its GPU budget on idle or over-allocated res",
-    "link": "https://dev.to/altostratus_amihai_71d88f/cutting-gpu-costs-on-kubernetes-time-slicing-vs-mig-vs-spot-nodes-and-when-each-one-is-the-right-517o",
-    "topic": "kubernetes"
+    "title": "Hosting platforms with an MCP server that deploys, reads logs and rolls back",
+    "desc": "<p><em>Originally published on <a href=\"https://gregale.dev/articles/hosting-mcp-server-deploy-logs-rollback\" rel=\"noopener noreferrer\">greg",
+    "link": "https://dev.to/hpoyrazk/hosting-platforms-with-an-mcp-server-that-deploys-reads-logs-and-rolls-back-1a3m",
+    "topic": "general"
   },
   {
-    "title": "GPU monitoring on Kubernetes with dcgm-exporter: the DaemonSet, the 8 alerts that matter, and one dashboard",
-    "desc": "<p>Most teams running GPUs on Kubernetes have the same blind spot: they can see CPU and memory, but the GPU is a black box. A training run d",
-    "link": "https://dev.to/altostratus_amihai_71d88f/gpu-monitoring-on-kubernetes-with-dcgm-exporter-the-daemonset-the-8-alerts-that-matter-and-one-mn8",
-    "topic": "kubernetes"
+    "title": "Northflank alternatives for AI agent sandboxes: focused sandbox APIs vs full platforms",
+    "desc": "<p>Northflank is a general cloud platform: services, jobs, databases, builds and GPUs, on Northflank's cloud or in your own cloud account. S",
+    "link": "https://dev.to/sandscale/northflank-alternatives-for-ai-agent-sandboxes-focused-sandbox-apis-vs-full-platforms-3kfa",
+    "topic": "general"
   },
   {
-    "title": "Nginx 504 Gateway Time-out, Kubernetes CrashLoopBackOff, and MySQL InnoDB Deadlocks: A Triage Cheatsheet",
-    "desc": "<p>When on-call alerts fire at 2 AM, three infrastructure incidents account for a disproportionate share of wasted debugging time because th",
-    "link": "https://dev.to/dev_in_the_fog/nginx-504-gateway-time-out-kubernetes-crashloopbackoff-and-mysql-innodb-deadlocks-a-triage-32an",
+    "title": "Kubernetes Gateway API + Traefik + cert-manager",
+    "desc": "<p>A complete example using Gateway API, Traefik as the gateway controller, NGINX as the backend application, and Let's Encrypt for HTTPS.</",
+    "link": "https://dev.to/omar_ahmed/kubernetes-gateway-api-traefik-cert-manager-118n",
     "topic": "kubernetes"
   }
 ]
