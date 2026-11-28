@@ -1,50 +1,50 @@
 [
   {
-    "title": "A sandbox for Codex: running codex exec in a cloud workspace",
-    "desc": "<p><strong>Short answer:</strong> Codex has its own sandbox modes, but they still run on the machine Codex runs on. To keep the whole run of",
-    "link": "https://dev.to/sandscale/a-sandbox-for-codex-running-codex-exec-in-a-cloud-workspace-dd0",
-    "topic": "general"
+    "title": "Five Tools for Safer Azure Pipelines and GitHub Copilot Workflows",
+    "desc": "<p>AI-assisted delivery does not fail only because a model writes incorrect code. Secrets leak into repositories, agents cannot inspect inte",
+    "link": "https://dev.to/karleeov/five-tools-for-safer-azure-pipelines-and-github-copilot-workflows-35c5",
+    "topic": "azure"
   },
   {
-    "title": "Why AI Coding Agents Ignore Long READMEs\u2014And How an Executable SKILL.md Gatekeeper Stops Production Disasters",
-    "desc": "<p>Why long system prompts fail under context drift, and how engineering and product teams enforce deterministic DB, spend, and accountabili",
-    "link": "https://dev.to/tarikmostafa/why-ai-coding-agents-ignore-long-readmes-and-how-an-executable-skillmd-gatekeeper-stops-production-gb7",
-    "topic": "general"
+    "title": "RAG on Kubernetes: Open WebUI answers from documents in Qdrant",
+    "desc": "<p>A language model answers from what it learned in training. Your own<br />\ndocuments are not part of that. Retrieval-augmented generation ",
+    "link": "https://dev.to/kadet-hub/rag-on-kubernetes-open-webui-answers-from-documents-in-qdrant-488g",
+    "topic": "kubernetes"
   },
   {
-    "title": "A sandbox for Claude Code: running it headless in a cloud workspace",
-    "desc": "<p><strong>Short answer:</strong> if you want Claude Code's commands off your machine, run Claude Code itself on a cloud computer and drive ",
-    "link": "https://dev.to/sandscale/a-sandbox-for-claude-code-running-it-headless-in-a-cloud-workspace-fm8",
+    "title": "Running a dozen Claude sessions as a tiny company: what broke and how we fixed it",
+    "desc": "<p>I run several small projects with Claude Code sessions instead of employees. One session plays \"COO\", others own a project each, one writ",
+    "link": "https://dev.to/neuralalpha/running-a-dozen-claude-sessions-as-a-tiny-company-what-broke-and-how-we-fixed-it-4b4d",
     "topic": "anthropic"
   },
   {
-    "title": "We Ran Our Own Live SPF/DMARC/CSP Grader on Our Prod Domain and Got 37/100 (Grade F) - Fixing It to 100/100 A+ in 15 Mins",
-    "desc": "<p>Tonight we shipped a passive public domain spoofing & HTTP attack-surface grader (<strong>ExposeShield</strong>) and did the one thing ev",
-    "link": "https://dev.to/edward_kyoon_5eeeda14bba/we-ran-our-own-live-spfdmarccsp-grader-on-our-prod-domain-and-got-37100-grade-f-fixing-it-to-21m2",
+    "title": "Thirteen Minutes With No Log: Reconstructing the Hex.pm Compromise From 69 Requests",
+    "desc": "<p><em>This is the English adaptation of the original Korean analysis at <a href=\"https://dohyeontech.github.io/posts/hexpm-incident-69-requ",
+    "link": "https://dev.to/dohyeontech/thirteen-minutes-with-no-log-reconstructing-the-hexpm-compromise-from-69-requests-2a9l",
     "topic": "general"
   },
   {
-    "title": "Run n8n in queue mode with a private editor",
-    "desc": "<p>n8n is a popular workflow automation tool. With Blossom, you can run the editor and workers as separate services. That\u2019s the part I like.",
-    "link": "https://dev.to/tongueroo/run-n8n-in-queue-mode-with-a-private-editor-4hen",
+    "title": "How to Automate Let's Encrypt Certificate Renewal and Deployment",
+    "desc": "<h2>\n  \n  \n  Let's Encrypt Certificates Should Not Depend on Memory\n</h2>\n\n<p>A 90-day Let's Encrypt SSL/TLS certificate already needs disci",
+    "link": "https://dev.to/fizee/how-to-automate-lets-encrypt-certificate-renewal-and-deployment-1n5l",
     "topic": "general"
   },
   {
-    "title": "Hosting platforms with an MCP server that deploys, reads logs and rolls back",
-    "desc": "<p><em>Originally published on <a href=\"https://gregale.dev/articles/hosting-mcp-server-deploy-logs-rollback\" rel=\"noopener noreferrer\">greg",
-    "link": "https://dev.to/hpoyrazk/hosting-platforms-with-an-mcp-server-that-deploys-reads-logs-and-rolls-back-1a3m",
+    "title": "Streamlining Remote Developer Onboarding: A Practical Framework",
+    "desc": "<p>Remote engineering teams often face a specific challenge: the gap between a new hire accepting an offer and them actually contributing co",
+    "link": "https://dev.to/mr_thankyou_58b14997d0c77/streamlining-remote-developer-onboarding-a-practical-framework-1l84",
     "topic": "general"
   },
   {
-    "title": "Northflank alternatives for AI agent sandboxes: focused sandbox APIs vs full platforms",
-    "desc": "<p>Northflank is a general cloud platform: services, jobs, databases, builds and GPUs, on Northflank's cloud or in your own cloud account. S",
-    "link": "https://dev.to/sandscale/northflank-alternatives-for-ai-agent-sandboxes-focused-sandbox-apis-vs-full-platforms-3kfa",
-    "topic": "general"
+    "title": "Windows 10 ESU in 2026\u20132027: enrolment routes by region, as Microsoft documents them",
+    "desc": "<p>Windows 10 support ended on 14 October 2025. Since then, \"Windows 10 ESU\" has meant three different programmes with three different ruleb",
+    "link": "https://dev.to/dijitallisans/windows-10-esu-in-2026-2027-enrolment-routes-by-region-as-microsoft-documents-them-42h2",
+    "topic": "azure"
   },
   {
-    "title": "Kubernetes Gateway API + Traefik + cert-manager",
-    "desc": "<p>A complete example using Gateway API, Traefik as the gateway controller, NGINX as the backend application, and Let's Encrypt for HTTPS.</",
-    "link": "https://dev.to/omar_ahmed/kubernetes-gateway-api-traefik-cert-manager-118n",
-    "topic": "kubernetes"
+    "title": "Amazon Transcribe Turbo Enhances Voice Agents with Semantic Turn-Taking and Runtime ASR Hints",
+    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-transcribe-turbo-voice-agents/?utm_source=devto&utm_med",
+    "link": "https://dev.to/pklavc/amazon-transcribe-turbo-enhances-voice-agents-with-semantic-turn-taking-and-runtime-asr-hints-4chg",
+    "topic": "general"
   }
 ]
