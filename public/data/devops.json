@@ -1,50 +1,50 @@
 [
   {
-    "title": "Why Fedora VPS Hosting Is a Smart Choice for Modern Businesses",
-    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https",
-    "link": "https://dev.to/davidjonson/why-fedora-vps-hosting-is-a-smart-choice-for-modern-businesses-3bb0",
+    "title": "Render alternatives in 2026: Railway, Fly.io, Cloud Run, Northflank and more",
+    "desc": "<p><em>Originally published on <a href=\"https://gregale.dev/articles/render-alternatives\" rel=\"noopener noreferrer\">gregale.dev</a>. I build",
+    "link": "https://dev.to/hpoyrazk/render-alternatives-in-2026-railway-flyio-cloud-run-northflank-and-more-21of",
     "topic": "general"
   },
   {
-    "title": "We Checked 769 VPS Plans Every Night Since October: 72 Got Cheaper, Most Before Black Friday",
-    "desc": "<p>HostingSift reads the price of every VPS plan it tracks once a night. The reading taken on Black Friday night, 28 November 2026, found no",
-    "link": "https://dev.to/hostingsift/we-checked-769-vps-plans-every-night-since-october-72-got-cheaper-most-before-black-friday-1m27",
+    "title": "Three pushes in a row: what should your Salesforce CI do with the stale ones?",
+    "desc": "<p>Salesforce runs one deployment per org at a time, and a deployment with tests can take a long time. So what should your CI do when new co",
+    "link": "https://dev.to/diffbridge/three-pushes-in-a-row-what-should-your-salesforce-ci-do-with-the-stale-ones-37ig",
     "topic": "general"
   },
   {
-    "title": "Cold email deliverability checklist before you send 250 emails: DNS, warm-up, limits",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>\n<strong>Do three things before the first send:</strong> publish SPF, DKIM and DMARC for the domain you s",
-    "link": "https://dev.to/kienpt91/cold-email-deliverability-checklist-before-you-send-250-emails-dns-warm-up-limits-3ipp",
+    "title": "nginx TLS Backend Connections Burning CPU? Check Your Version",
+    "desc": "<p>Saw something odd on a canary last week. One nginx worker chewing 40% CPU while the upstream latency stayed flat. The backend wasn't slow",
+    "link": "https://dev.to/schiff_heimlich/nginx-tls-backend-connections-burning-cpu-check-your-version-2dfg",
     "topic": "general"
   },
   {
-    "title": "Saying Hello to My First Container",
-    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Today I set up Docker from scratch on my Linux machine, ran my first containers, explored how Docker tra",
-    "link": "https://dev.to/meshackmulei/saying-hello-to-my-first-container-2gp",
-    "topic": "docker"
-  },
-  {
-    "title": "Delete merged Git branches automatically - without risking the ones you need",
-    "desc": "<p>Branches pile up. Ours went from a handful to 72 in a few weeks, most of them already merged.</p>\n\n<p>GitHub has a built-in fix: \"Automat",
-    "link": "https://dev.to/mr-aman-anuragi/delete-merged-git-branches-automatically-without-risking-the-ones-you-need-2ggj",
+    "title": "Automating Ephemeral Hourly Cloud VPS Runners for CI/CD Pipelines",
+    "desc": "<p>Static build servers often sit 80% idle while accumulating stale Docker layers, leaked environment variables, and full monthly invoices. ",
+    "link": "https://dev.to/atieh_commercial_58e3f3d6/automating-ephemeral-hourly-cloud-vps-runners-for-cicd-pipelines-mdi",
     "topic": "general"
   },
   {
-    "title": "Imaginary Engineering: When Vibe Coding and Whiteboard Architecture Collide with Reality",
-    "desc": "<h1>\n  \n  \n  Imaginary Engineering: When Vibe Coding and Whiteboard Architecture Collide with Reality\n</h1>\n\n<p>Spinning up 400 lines of Pyt",
-    "link": "https://dev.to/bard/imaginary-engineering-when-vibe-coding-and-whiteboard-architecture-collide-with-reality-2a8i",
+    "title": "Building a Python Watchdog & Latency Monitor for MetaTrader 5 on Windows VPS",
+    "desc": "<p>Automated Expert Advisors depend on two invariants: the MetaTrader 5 client process (<code>terminal64.exe</code>) must remain resident in",
+    "link": "https://dev.to/atieh_commercial_58e3f3d6/building-a-python-watchdog-latency-monitor-for-metatrader-5-on-windows-vps-5bca",
     "topic": "general"
   },
   {
-    "title": "Open-source lifecycle management for certificates, keys and secrets: Introducing RollingZero",
-    "desc": "<p>Managing certificates, cryptographic keys, secrets and signing operations across multiple environments and providers can be complex.</p>\n",
-    "link": "https://dev.to/carolineilm/open-source-lifecycle-management-for-certificates-keys-and-secrets-introducing-rollingzero-30c5",
+    "title": "We Checked 95 WordPress Agencies for xmlrpc.php, REST Users & debug.log \u2014 57.9% Had Live Exposures",
+    "desc": "<p>We recently ran a passive, read-only check across <strong>95 live WordPress and WooCommerce agency websites</strong> (standard HTTP probe",
+    "link": "https://dev.to/rares_corches_0967e149126/we-checked-95-wordpress-agencies-for-xmlrpcphp-rest-users-debuglog-579-had-live-exposures-j9n",
     "topic": "general"
   },
   {
-    "title": "NVIDIA\u2019s IBC 2026 Media Stack Puts Real-Time AI on Trial",
-    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>NVIDIA\u2019s IBC 2026 announcement is less a single broadcast product than a connected operating model: GPU-acceler",
-    "link": "https://dev.to/echakiri/nvidias-ibc-2026-media-stack-puts-real-time-ai-on-trial-20dg",
+    "title": "Tuning JVM G1GC Flags & DE-CIX Network Transit for High-Tickrate Game Servers",
+    "desc": "<p>Real-time sandbox game servers operate under a strict 50ms tick budget to maintain 20.0 ticks per second (TPS). Because core world tickin",
+    "link": "https://dev.to/atieh_commercial_58e3f3d6/tuning-jvm-g1gc-flags-de-cix-network-transit-for-high-tickrate-game-servers-5did",
+    "topic": "general"
+  },
+  {
+    "title": "Your cron job stopped running 3 weeks ago. Here's how to find out in 5 minutes instead.",
+    "desc": "<p>Cron has one failure mode that hurts more than any crash: <strong>it fails silently</strong>. The backup script exits 1, the server is re",
+    "link": "https://dev.to/q8mrelm/your-cron-job-stopped-running-3-weeks-ago-heres-how-to-find-out-in-5-minutes-instead-2bah",
     "topic": "general"
   }
 ]
