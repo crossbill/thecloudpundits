@@ -1,50 +1,50 @@
 [
   {
-    "title": "Five Tools for Safer Azure Pipelines and GitHub Copilot Workflows",
-    "desc": "<p>AI-assisted delivery does not fail only because a model writes incorrect code. Secrets leak into repositories, agents cannot inspect inte",
-    "link": "https://dev.to/karleeov/five-tools-for-safer-azure-pipelines-and-github-copilot-workflows-35c5",
-    "topic": "azure"
-  },
-  {
-    "title": "RAG on Kubernetes: Open WebUI answers from documents in Qdrant",
-    "desc": "<p>A language model answers from what it learned in training. Your own<br />\ndocuments are not part of that. Retrieval-augmented generation ",
-    "link": "https://dev.to/kadet-hub/rag-on-kubernetes-open-webui-answers-from-documents-in-qdrant-488g",
-    "topic": "kubernetes"
-  },
-  {
-    "title": "Running a dozen Claude sessions as a tiny company: what broke and how we fixed it",
-    "desc": "<p>I run several small projects with Claude Code sessions instead of employees. One session plays \"COO\", others own a project each, one writ",
-    "link": "https://dev.to/neuralalpha/running-a-dozen-claude-sessions-as-a-tiny-company-what-broke-and-how-we-fixed-it-4b4d",
-    "topic": "anthropic"
-  },
-  {
-    "title": "Thirteen Minutes With No Log: Reconstructing the Hex.pm Compromise From 69 Requests",
-    "desc": "<p><em>This is the English adaptation of the original Korean analysis at <a href=\"https://dohyeontech.github.io/posts/hexpm-incident-69-requ",
-    "link": "https://dev.to/dohyeontech/thirteen-minutes-with-no-log-reconstructing-the-hexpm-compromise-from-69-requests-2a9l",
+    "title": "Why Fedora VPS Hosting Is a Smart Choice for Modern Businesses",
+    "desc": "<p><a class=\"article-body-image-wrapper\" href=\"https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https",
+    "link": "https://dev.to/davidjonson/why-fedora-vps-hosting-is-a-smart-choice-for-modern-businesses-3bb0",
     "topic": "general"
   },
   {
-    "title": "How to Automate Let's Encrypt Certificate Renewal and Deployment",
-    "desc": "<h2>\n  \n  \n  Let's Encrypt Certificates Should Not Depend on Memory\n</h2>\n\n<p>A 90-day Let's Encrypt SSL/TLS certificate already needs disci",
-    "link": "https://dev.to/fizee/how-to-automate-lets-encrypt-certificate-renewal-and-deployment-1n5l",
+    "title": "We Checked 769 VPS Plans Every Night Since October: 72 Got Cheaper, Most Before Black Friday",
+    "desc": "<p>HostingSift reads the price of every VPS plan it tracks once a night. The reading taken on Black Friday night, 28 November 2026, found no",
+    "link": "https://dev.to/hostingsift/we-checked-769-vps-plans-every-night-since-october-72-got-cheaper-most-before-black-friday-1m27",
     "topic": "general"
   },
   {
-    "title": "Streamlining Remote Developer Onboarding: A Practical Framework",
-    "desc": "<p>Remote engineering teams often face a specific challenge: the gap between a new hire accepting an offer and them actually contributing co",
-    "link": "https://dev.to/mr_thankyou_58b14997d0c77/streamlining-remote-developer-onboarding-a-practical-framework-1l84",
+    "title": "Cold email deliverability checklist before you send 250 emails: DNS, warm-up, limits",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<ul>\n<li>\n<strong>Do three things before the first send:</strong> publish SPF, DKIM and DMARC for the domain you s",
+    "link": "https://dev.to/kienpt91/cold-email-deliverability-checklist-before-you-send-250-emails-dns-warm-up-limits-3ipp",
     "topic": "general"
   },
   {
-    "title": "Windows 10 ESU in 2026\u20132027: enrolment routes by region, as Microsoft documents them",
-    "desc": "<p>Windows 10 support ended on 14 October 2025. Since then, \"Windows 10 ESU\" has meant three different programmes with three different ruleb",
-    "link": "https://dev.to/dijitallisans/windows-10-esu-in-2026-2027-enrolment-routes-by-region-as-microsoft-documents-them-42h2",
-    "topic": "azure"
+    "title": "Saying Hello to My First Container",
+    "desc": "<h2>\n  \n  \n  Introduction\n</h2>\n\n<p>Today I set up Docker from scratch on my Linux machine, ran my first containers, explored how Docker tra",
+    "link": "https://dev.to/meshackmulei/saying-hello-to-my-first-container-2gp",
+    "topic": "docker"
   },
   {
-    "title": "Amazon Transcribe Turbo Enhances Voice Agents with Semantic Turn-Taking and Runtime ASR Hints",
-    "desc": "<blockquote>\n<p>Originally published on <a href=\"https://pklavc.com/blog/en/tech/aws-transcribe-turbo-voice-agents/?utm_source=devto&utm_med",
-    "link": "https://dev.to/pklavc/amazon-transcribe-turbo-enhances-voice-agents-with-semantic-turn-taking-and-runtime-asr-hints-4chg",
+    "title": "Delete merged Git branches automatically - without risking the ones you need",
+    "desc": "<p>Branches pile up. Ours went from a handful to 72 in a few weeks, most of them already merged.</p>\n\n<p>GitHub has a built-in fix: \"Automat",
+    "link": "https://dev.to/mr-aman-anuragi/delete-merged-git-branches-automatically-without-risking-the-ones-you-need-2ggj",
+    "topic": "general"
+  },
+  {
+    "title": "Imaginary Engineering: When Vibe Coding and Whiteboard Architecture Collide with Reality",
+    "desc": "<h1>\n  \n  \n  Imaginary Engineering: When Vibe Coding and Whiteboard Architecture Collide with Reality\n</h1>\n\n<p>Spinning up 400 lines of Pyt",
+    "link": "https://dev.to/bard/imaginary-engineering-when-vibe-coding-and-whiteboard-architecture-collide-with-reality-2a8i",
+    "topic": "general"
+  },
+  {
+    "title": "Open-source lifecycle management for certificates, keys and secrets: Introducing RollingZero",
+    "desc": "<p>Managing certificates, cryptographic keys, secrets and signing operations across multiple environments and providers can be complex.</p>\n",
+    "link": "https://dev.to/carolineilm/open-source-lifecycle-management-for-certificates-keys-and-secrets-introducing-rollingzero-30c5",
+    "topic": "general"
+  },
+  {
+    "title": "NVIDIA\u2019s IBC 2026 Media Stack Puts Real-Time AI on Trial",
+    "desc": "<h2>\n  \n  \n  TL;DR\n</h2>\n\n<p>NVIDIA\u2019s IBC 2026 announcement is less a single broadcast product than a connected operating model: GPU-acceler",
+    "link": "https://dev.to/echakiri/nvidias-ibc-2026-media-stack-puts-real-time-ai-on-trial-20dg",
     "topic": "general"
   }
 ]
